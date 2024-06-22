@@ -1,0 +1,1244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-22 12:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "saka_error0000"
+msgstr ""
+
+msgid "saka_error0001"
+msgstr ""
+
+msgid "saka_error0002"
+msgstr ""
+
+msgid "saka_error0003"
+msgstr ""
+
+msgid "saka_error0004"
+msgstr ""
+
+msgid "saka_error0005"
+msgstr ""
+
+msgid "saka_error0006"
+msgstr ""
+
+msgid "saka_error0007"
+msgstr ""
+
+msgid "saka_error0008"
+msgstr ""
+
+msgid "saka_error0009"
+msgstr ""
+
+msgid "saka_error0010"
+msgstr ""
+
+msgid "saka_error0011"
+msgstr ""
+
+msgid "saka_error0012"
+msgstr ""
+
+msgid "saka_error0013"
+msgstr ""
+
+msgid "saka_error0014"
+msgstr ""
+
+msgid "saka_error0015"
+msgstr ""
+
+msgid "saka_error0016"
+msgstr ""
+
+msgid "saka_error0017"
+msgstr ""
+
+msgid "saka_error0018"
+msgstr ""
+
+msgid "saka_error0019"
+msgstr ""
+
+msgid "saka_error0020"
+msgstr ""
+
+msgid "saka_error0021"
+msgstr ""
+
+msgid "saka_error0022"
+msgstr ""
+
+msgid "saka_error0023"
+msgstr ""
+
+msgid "saka_error0024"
+msgstr ""
+
+msgid "saka_error0025"
+msgstr ""
+
+msgid "saka_error0026"
+msgstr ""
+
+msgid "saka_error0027"
+msgstr ""
+
+msgid "saka_error0028"
+msgstr ""
+
+msgid "saka_error0029"
+msgstr ""
+
+msgid "saka_error0030"
+msgstr ""
+
+msgid "saka_error0031"
+msgstr ""
+
+msgid "saka_error0032"
+msgstr ""
+
+msgid "saka_error0033"
+msgstr ""
+
+msgid "saka_error0034"
+msgstr ""
+
+msgid "saka_error0035"
+msgstr ""
+
+msgid "saka_error0036"
+msgstr ""
+
+msgid "saka_error0037"
+msgstr ""
+
+msgid "saka_error0038"
+msgstr ""
+
+msgid "saka_error0039"
+msgstr ""
+
+msgid "saka_error0040"
+msgstr ""
+
+msgid "saka_error0041"
+msgstr ""
+
+msgid "saka_error0042"
+msgstr ""
+
+msgid "saka_error0043"
+msgstr ""
+
+msgid "saka_error0044"
+msgstr ""
+
+msgid "saka_error0045"
+msgstr ""
+
+msgid "saka_error0046"
+msgstr ""
+
+msgid "saka_error0047"
+msgstr ""
+
+msgid "saka_error0048"
+msgstr ""
+
+msgid "saka_error0049"
+msgstr ""
+
+msgid "saka_error0050"
+msgstr ""
+
+msgid "saka_error0051"
+msgstr ""
+
+msgid "saka_error0052"
+msgstr ""
+
+msgid "saka_error0053"
+msgstr ""
+
+msgid "saka_error0054"
+msgstr ""
+
+msgid "saka_error0055"
+msgstr ""
+
+msgid "saka_error0056"
+msgstr ""
+
+msgid "saka_error0057"
+msgstr ""
+
+msgid "saka_error0058"
+msgstr ""
+
+msgid "saka_error0059"
+msgstr ""
+
+msgid "saka_error0060"
+msgstr ""
+
+msgid "saka_error0061"
+msgstr ""
+
+msgid "saka_error0062"
+msgstr ""
+
+msgid "saka_error0063"
+msgstr ""
+
+msgid "saka_error0064"
+msgstr ""
+
+msgid "saka_error0065"
+msgstr ""
+
+msgid "saka_error0066"
+msgstr ""
+
+msgid "saka_error0067"
+msgstr ""
+
+msgid "saka_error0068"
+msgstr ""
+
+msgid "saka_error0069"
+msgstr ""
+
+msgid "saka_error0070"
+msgstr ""
+
+msgid "saka_error0071"
+msgstr ""
+
+msgid "saka_error0072"
+msgstr ""
+
+msgid "saka_error0073"
+msgstr ""
+
+msgid "saka_error0074"
+msgstr ""
+
+msgid "saka_error0075"
+msgstr ""
+
+msgid "saka_error0076"
+msgstr ""
+
+msgid "saka_error0077"
+msgstr ""
+
+msgid "saka_error0078"
+msgstr ""
+
+msgid "saka_error0079"
+msgstr ""
+
+msgid "saka_error0080"
+msgstr ""
+
+msgid "saka_error0081"
+msgstr ""
+
+msgid "saka_error0082"
+msgstr ""
+
+msgid "saka_error0083"
+msgstr ""
+
+msgid "saka_error0084"
+msgstr ""
+
+msgid "saka_error0085"
+msgstr ""
+
+msgid "saka_error0086"
+msgstr ""
+
+msgid "saka_error0087"
+msgstr ""
+
+msgid "saka_error0088"
+msgstr ""
+
+msgid "saka_error0089"
+msgstr ""
+
+msgid "saka_error0090"
+msgstr ""
+
+msgid "saka_error0091"
+msgstr ""
+
+msgid "saka_error0092"
+msgstr ""
+
+msgid "saka_error0093"
+msgstr ""
+
+msgid "saka_error0094"
+msgstr ""
+
+msgid "saka_error0095"
+msgstr ""
+
+msgid "saka_error0096"
+msgstr ""
+
+msgid "saka_error0097"
+msgstr ""
+
+msgid "saka_error0098"
+msgstr ""
+
+msgid "saka_error0099"
+msgstr ""
+
+msgid "saka_error0100"
+msgstr ""
+
+msgid "saka_error0101"
+msgstr ""
+
+msgid "saka_error0102"
+msgstr ""
+
+msgid "saka_error0103"
+msgstr ""
+
+msgid "saka_error0104"
+msgstr ""
+
+msgid "saka_error0105"
+msgstr ""
+
+msgid "saka_error0106"
+msgstr ""
+
+msgid "saka_error0107"
+msgstr ""
+
+msgid "saka_error0108"
+msgstr ""
+
+msgid "saka_error0109"
+msgstr ""
+
+msgid "saka_error0110"
+msgstr ""
+
+msgid "saka_error0111"
+msgstr ""
+
+msgid "saka_error0112"
+msgstr ""
+
+msgid "saka_error0113"
+msgstr ""
+
+msgid "saka_error0114"
+msgstr ""
+
+msgid "saka_error0115"
+msgstr ""
+
+msgid "saka_error0116"
+msgstr ""
+
+msgid "saka_error0117"
+msgstr ""
+
+msgid "saka_error0118"
+msgstr ""
+
+msgid "saka_error0119"
+msgstr ""
+
+msgid "saka_error0120"
+msgstr ""
+
+msgid "saka_error0121"
+msgstr ""
+
+msgid "saka_error0122"
+msgstr ""
+
+msgid "saka_error0123"
+msgstr ""
+
+msgid "saka_error0124"
+msgstr ""
+
+msgid "saka_error0125"
+msgstr ""
+
+msgid "saka_error0126"
+msgstr ""
+
+msgid "saka_error0127"
+msgstr ""
+
+msgid "saka_error0128"
+msgstr ""
+
+msgid "update_error0000"
+msgstr ""
+
+msgid "update_error0001"
+msgstr ""
+
+msgid "update_error0002"
+msgstr ""
+
+msgid "game_popup_pause_title"
+msgstr ""
+
+msgid "game_popup_pause_text"
+msgstr ""
+
+msgid "game_popup_continue_title"
+msgstr ""
+
+msgid "game_popup_continue_text"
+msgstr ""
+
+msgid "game_popup_continue_text_01"
+msgstr ""
+
+msgid "game_popup_continue_shotage_text"
+msgstr ""
+
+msgid "game_popup_continue_story_text"
+msgstr ""
+
+msgid "game_popup_retire_title"
+msgstr ""
+
+msgid "game_popup_retire_text"
+msgstr ""
+
+msgid "game_popup_retire_text_battle"
+msgstr ""
+
+msgid "game_popup_retire_text_godiva"
+msgstr ""
+
+msgid "game_popup_retire_story_text"
+msgstr ""
+
+msgid "game_popup_skip_title"
+msgstr ""
+
+msgid "game_popup_skip_story_text"
+msgstr ""
+
+msgid "game_tutorial_skip_title"
+msgstr ""
+
+msgid "game_tutorial_skip_text"
+msgstr ""
+
+msgid "mlv_unlock_00"
+msgstr ""
+
+msgid "mlv_unlock_01"
+msgstr ""
+
+msgid "popup_inh_title_000"
+msgstr ""
+
+msgid "popup_inh_sns_000"
+msgstr ""
+
+msgid "popup_inh_sns_001"
+msgstr ""
+
+msgid "popup_inh_sns_002"
+msgstr ""
+
+msgid "popup_inh_sns_003"
+msgstr ""
+
+msgid "popup_inh_title_001"
+msgstr ""
+
+msgid "popup_inh_pass_000"
+msgstr ""
+
+msgid "popup_inh_pass_001"
+msgstr ""
+
+msgid "popup_inh_title_002"
+msgstr ""
+
+msgid "popup_inh_title_003"
+msgstr ""
+
+msgid "popup_inh_pass_002"
+msgstr ""
+
+msgid "popup_inh_pass_003"
+msgstr ""
+
+msgid "popup_inh_pass_004"
+msgstr ""
+
+msgid "popup_inh_title_004"
+msgstr ""
+
+msgid "popup_inh_pass_success"
+msgstr ""
+
+msgid "popup_inh_title_005"
+msgstr ""
+
+msgid "popup_inh_pass_success_no"
+msgstr ""
+
+msgid "popup_inh_pass_timeover"
+msgstr ""
+
+msgid "popup_inh_pass_countover"
+msgstr ""
+
+msgid "popup_inh_title_006"
+msgstr ""
+
+msgid "popup_inh_nodata"
+msgstr ""
+
+msgid "popup_inh_procedure"
+msgstr ""
+
+msgid "popup_inh_desc001"
+msgstr ""
+
+msgid "popup_inh_desc002"
+msgstr ""
+
+msgid "popup_twitter_title"
+msgstr ""
+
+msgid "popup_facebook_title"
+msgstr ""
+
+msgid "popup_line_title"
+msgstr ""
+
+msgid "popup_apple_title"
+msgstr ""
+
+msgid "popup_twitter_success"
+msgstr ""
+
+msgid "popup_facebook_success"
+msgstr ""
+
+msgid "popup_line_success"
+msgstr ""
+
+msgid "popup_apple_success"
+msgstr ""
+
+msgid "popup_twitter_success_no"
+msgstr ""
+
+msgid "popup_facebook_success_no"
+msgstr ""
+
+msgid "popup_line_success_no"
+msgstr ""
+
+msgid "popup_apple_success_no"
+msgstr ""
+
+msgid "popup_apple_cancel"
+msgstr ""
+
+msgid "popup_window_inh_title"
+msgstr ""
+
+msgid "unlock_episode_reward"
+msgstr ""
+
+msgid "popup_support_title"
+msgstr ""
+
+msgid "popup_maintenance_title"
+msgstr ""
+
+msgid "popup_ban_title"
+msgstr ""
+
+msgid "popup_app_update_title"
+msgstr ""
+
+msgid "popup_app_update_an"
+msgstr ""
+
+msgid "popup_app_update_ios"
+msgstr ""
+
+msgid "cache_clear_00"
+msgstr ""
+
+msgid "cache_clear_01"
+msgstr ""
+
+msgid "cache_clear_02"
+msgstr ""
+
+msgid "cache_clear_03"
+msgstr ""
+
+msgid "cache_clear_04"
+msgstr ""
+
+msgid "cache_clear_05"
+msgstr ""
+
+msgid "popup_purchase_recover_title"
+msgstr ""
+
+msgid "popup_purchase_recover"
+msgstr ""
+
+msgid "popup_purchase_recover_done_title"
+msgstr ""
+
+msgid "popup_purchase_recover_done"
+msgstr ""
+
+msgid "popup_purchase_recover_none"
+msgstr ""
+
+msgid "popup_purchase_recover_fail_title"
+msgstr ""
+
+msgid "popup_purchase_recover_fail"
+msgstr ""
+
+msgid "popup_purchase_recover_manual"
+msgstr ""
+
+msgid "popup_purchase_recover_store_server_error_an"
+msgstr ""
+
+msgid "pp_mail_subject"
+msgstr ""
+
+msgid "pp_mail_body"
+msgstr ""
+
+msgid "popup_inh_migration_desc"
+msgstr ""
+
+msgid "popup_inh_migration_title"
+msgstr ""
+
+msgid "popup_title_amount_over"
+msgstr ""
+
+msgid "popup_text_amount_over_15"
+msgstr ""
+
+msgid "popup_text_amount_over_1617"
+msgstr ""
+
+msgid "profile_diva001_age"
+msgstr ""
+
+msgid "profile_diva001_birthday"
+msgstr ""
+
+msgid "profile_diva001_birthplace"
+msgstr ""
+
+msgid "profile_diva001_favorite"
+msgstr ""
+
+msgid "profile_diva001_description"
+msgstr ""
+
+msgid "profile_diva002_age"
+msgstr ""
+
+msgid "profile_diva002_birthday"
+msgstr ""
+
+msgid "profile_diva002_birthplace"
+msgstr ""
+
+msgid "profile_diva002_favorite"
+msgstr ""
+
+msgid "profile_diva002_description"
+msgstr ""
+
+msgid "profile_diva003_age"
+msgstr ""
+
+msgid "profile_diva003_birthday"
+msgstr ""
+
+msgid "profile_diva003_birthplace"
+msgstr ""
+
+msgid "profile_diva003_favorite"
+msgstr ""
+
+msgid "profile_diva003_description"
+msgstr ""
+
+msgid "profile_diva004_age"
+msgstr ""
+
+msgid "profile_diva004_birthday"
+msgstr ""
+
+msgid "profile_diva004_birthplace"
+msgstr ""
+
+msgid "profile_diva004_favorite"
+msgstr ""
+
+msgid "profile_diva004_description"
+msgstr ""
+
+msgid "profile_diva005_age"
+msgstr ""
+
+msgid "profile_diva005_birthday"
+msgstr ""
+
+msgid "profile_diva005_birthplace"
+msgstr ""
+
+msgid "profile_diva005_favorite"
+msgstr ""
+
+msgid "profile_diva005_description"
+msgstr ""
+
+msgid "profile_diva006_age"
+msgstr ""
+
+msgid "profile_diva006_birthday"
+msgstr ""
+
+msgid "profile_diva006_birthplace"
+msgstr ""
+
+msgid "profile_diva006_favorite"
+msgstr ""
+
+msgid "profile_diva006_description"
+msgstr ""
+
+msgid "profile_diva007_age"
+msgstr ""
+
+msgid "profile_diva007_birthday"
+msgstr ""
+
+msgid "profile_diva007_birthplace"
+msgstr ""
+
+msgid "profile_diva007_favorite"
+msgstr ""
+
+msgid "profile_diva007_description"
+msgstr ""
+
+msgid "profile_diva008_age"
+msgstr ""
+
+msgid "profile_diva008_birthday"
+msgstr ""
+
+msgid "profile_diva008_birthplace"
+msgstr ""
+
+msgid "profile_diva008_favorite"
+msgstr ""
+
+msgid "profile_diva008_description"
+msgstr ""
+
+msgid "profile_diva009_age"
+msgstr ""
+
+msgid "profile_diva009_birthday"
+msgstr ""
+
+msgid "profile_diva009_birthplace"
+msgstr ""
+
+msgid "profile_diva009_favorite"
+msgstr ""
+
+msgid "profile_diva009_description"
+msgstr ""
+
+msgid "profile_diva010_age"
+msgstr ""
+
+msgid "profile_diva010_birthday"
+msgstr ""
+
+msgid "profile_diva010_birthplace"
+msgstr ""
+
+msgid "profile_diva010_favorite"
+msgstr ""
+
+msgid "profile_diva010_description"
+msgstr ""
+
+msgid "popup_title_neterror"
+msgstr ""
+
+msgid "popup_title_dateline"
+msgstr ""
+
+msgid "popup_datetile"
+msgstr ""
+
+msgid "popup_title_data"
+msgstr ""
+
+msgid "popup_title_data_error"
+msgstr ""
+
+msgid "popup_data_error"
+msgstr ""
+
+msgid "popup_title_app_error"
+msgstr ""
+
+msgid "popup_app_error"
+msgstr ""
+
+msgid "popup_app_error_stop"
+msgstr ""
+
+msgid "notify_comback_title"
+msgstr ""
+
+msgid "notify_comback_01"
+msgstr ""
+
+msgid "notify_comback_02"
+msgstr ""
+
+msgid "notify_comback_03"
+msgstr ""
+
+msgid "notify_comback_04"
+msgstr ""
+
+msgid "notify_comback_05"
+msgstr ""
+
+msgid "notify_comback_06"
+msgstr ""
+
+msgid "notify_comback_07"
+msgstr ""
+
+msgid "notify_comback_08"
+msgstr ""
+
+msgid "notify_comback_09"
+msgstr ""
+
+msgid "notify_comback_10"
+msgstr ""
+
+msgid "popup_ngword_error_title"
+msgstr ""
+
+msgid "popup_ngword_error_message"
+msgstr ""
+
+msgid "popup_kiyaku_title"
+msgstr ""
+
+msgid "popup_kiyaku_001"
+msgstr ""
+
+msgid "popup_kiyaku_002"
+msgstr ""
+
+msgid "popup_not_play_title"
+msgstr ""
+
+msgid "popup_not_play_001"
+msgstr ""
+
+msgid "attention"
+msgstr ""
+
+msgid "popup_friend_limit_title"
+msgstr ""
+
+msgid "popup_friend_limit_01"
+msgstr ""
+
+msgid "popup_friend_limit_02"
+msgstr ""
+
+msgid "popup_already_send_title"
+msgstr ""
+
+msgid "popup_already_send_01"
+msgstr ""
+
+msgid "popup_accept_fail_title"
+msgstr ""
+
+msgid "popup_accept_fail_01"
+msgstr ""
+
+msgid "popup_already_friend_title"
+msgstr ""
+
+msgid "popup_already_friend_01"
+msgstr ""
+
+msgid "popup_delete_request_fail_tilte"
+msgstr ""
+
+msgid "popup_delete_request_fail_01"
+msgstr ""
+
+msgid "popup_present_expire_title"
+msgstr ""
+
+msgid "popup_present_expire_01"
+msgstr ""
+
+msgid "popup_present_expire_02"
+msgstr ""
+
+msgid "popup_purchase_limit_title"
+msgstr ""
+
+msgid "popup_purchase_limit_01"
+msgstr ""
+
+msgid "popup_purchase_expire_title"
+msgstr ""
+
+msgid "popup_purchase_expire_01"
+msgstr ""
+
+msgid "popup_gacha_expire_01"
+msgstr ""
+
+msgid "popup_internal_client_error_title"
+msgstr ""
+
+msgid "popup_internal_client_error_01"
+msgstr ""
+
+msgid "popup_inh_player_not_found"
+msgstr ""
+
+msgid "popup_purchase_cancel_title"
+msgstr ""
+
+msgid "popup_purchase_cancel_01"
+msgstr ""
+
+msgid "popup_purchase_error_title"
+msgstr ""
+
+msgid "popup_purchase_092_01"
+msgstr ""
+
+msgid "popup_purchase_error_not_product"
+msgstr ""
+
+msgid "popup_inf_already_exists_01"
+msgstr ""
+
+msgid "popup_inh_select"
+msgstr ""
+
+msgid "popup_inh_pre_title"
+msgstr ""
+
+msgid "popup_inh_pre_sns_select"
+msgstr ""
+
+msgid "popup_inh_sns_select"
+msgstr ""
+
+msgid "popup_inh_sns_caution"
+msgstr ""
+
+msgid "popup_inh_confirm_title"
+msgstr ""
+
+msgid "popup_inh_confirm_content_01"
+msgstr ""
+
+msgid "popup_inh_confirm_content_02"
+msgstr ""
+
+msgid "popup_inh_caution_title"
+msgstr ""
+
+msgid "popup_inh_caution_content"
+msgstr ""
+
+msgid "popup_lb_already_received"
+msgstr ""
+
+msgid "popup_ranking_ban_01"
+msgstr ""
+
+msgid "popup_ranking_ban_tilte"
+msgstr ""
+
+msgid "popup_inf_line_api_update_title"
+msgstr ""
+
+msgid "popup_inf_line_api_update_content"
+msgstr ""
+
+msgid "popup_twitter_release_check_title"
+msgstr ""
+
+msgid "popup_facebook_release_check_title"
+msgstr ""
+
+msgid "popup_line_release_check_title"
+msgstr ""
+
+msgid "popup_apple_release_check_title"
+msgstr ""
+
+msgid "popup_twitter_release_check"
+msgstr ""
+
+msgid "popup_facebook_release_check"
+msgstr ""
+
+msgid "popup_line_release_check"
+msgstr ""
+
+msgid "popup_apple_release_ckeck"
+msgstr ""
+
+msgid "popup_twitter_release_success_title"
+msgstr ""
+
+msgid "popup_facebook_release_success_title"
+msgstr ""
+
+msgid "popup_line_release_success_title"
+msgstr ""
+
+msgid "popup_apple_release_success_title"
+msgstr ""
+
+msgid "popup_twitter_release_success"
+msgstr ""
+
+msgid "popup_facebook_release_success"
+msgstr ""
+
+msgid "popup_line_release_success"
+msgstr ""
+
+msgid "popup_apple_release_success"
+msgstr ""
+
+msgid "popup_error_storage_size"
+msgstr ""
+
+msgid "first_present_item_name"
+msgstr ""
+
+msgid "notify_comback_title_2"
+msgstr ""
+
+msgid "notify_comback_text_2"
+msgstr ""
+
+msgid "pop_subscription_confirmation_text"
+msgstr ""
+
+msgid "pop_subscription_data_confirmation_ios_text"
+msgstr ""
+
+msgid "pop_subscription_data_confirmation_android_text"
+msgstr ""
+
+msgid "popup_s_mas_title"
+msgstr ""
+
+msgid "popup_s_mas_text"
+msgstr ""
+
+msgid "popup_internal_server_error_retry_text"
+msgstr ""
+
+msgid "popup_costumeselect_home"
+msgstr ""
+
+msgid "profile_diva001_description_gakuya"
+msgstr ""
+
+msgid "profile_diva002_description_gakuya"
+msgstr ""
+
+msgid "profile_diva003_description_gakuya"
+msgstr ""
+
+msgid "profile_diva004_description_gakuya"
+msgstr ""
+
+msgid "profile_diva005_description_gakuya"
+msgstr ""
+
+msgid "profile_diva006_description_gakuya"
+msgstr ""
+
+msgid "profile_diva007_description_gakuya"
+msgstr ""
+
+msgid "profile_diva008_description_gakuya"
+msgstr ""
+
+msgid "profile_diva009_description_gakuya"
+msgstr ""
+
+msgid "profile_diva010_description_gakuya"
+msgstr ""
+
+msgid "popup_purchase_351_01"
+msgstr ""
+
+msgid "popup_purchase_352_01"
+msgstr ""
+
+msgid "popup_playerdata_error"
+msgstr ""
+
+msgid "popup_account_management_text001"
+msgstr ""
+
+msgid "popup_account_management_text002"
+msgstr ""
+
+msgid "popup_account_management_text003"
+msgstr ""
+
+msgid "popup_account_management_text004"
+msgstr ""
+
+msgid "popup_account_management_text005"
+msgstr ""
+
+msgid "popup_account_management_text006"
+msgstr ""
+
+msgid "popup_account_management_text007"
+msgstr ""
+
+msgid "popup_account_management_text008"
+msgstr ""
+
+msgid "popup_account_management_text009"
+msgstr ""
+
+msgid "popup_account_management_text010"
+msgstr ""
+
+msgid "popup_account_management_text011"
+msgstr ""
+
+msgid "popup_account_management_text012"
+msgstr ""
+
+msgid "popup_account_management_text013"
+msgstr ""
+
+msgid "popup_account_management_text014"
+msgstr ""
+
+msgid "popup_account_management_text015"
+msgstr ""
+
+msgid "popup_account_management_text016"
+msgstr ""
+
+msgid "popup_account_management_text017"
+msgstr ""
+
+msgid "popup_account_management_text018"
+msgstr ""
+
+msgid "popup_account_management_text019"
+msgstr ""
+
+msgid "popup_account_linkaging_text_none"
+msgstr ""
+
+msgid "popup_account_linkaging_text_facebook"
+msgstr ""
+
+msgid "popup_account_linkaging_text_twitter"
+msgstr ""
+
+msgid "popup_account_linkaging_text_line"
+msgstr ""
+
+msgid "popup_account_linkaging_text_apple"
+msgstr ""
+
+msgid "popup_account_linkaging_text_separator"
+msgstr ""
+
+msgid "popup_account_remove_title"
+msgstr ""
+
+msgid "popup_account_remove_text001"
+msgstr ""
+
+msgid "popup_account_remove_text002"
+msgstr ""
+
+msgid "popup_account_remove_consent_button"
+msgstr ""
+
+msgid "popup_account_remove_pass_001"
+msgstr ""
+
+msgid "popup_account_remove_pass_002"
+msgstr ""
+
+msgid "popup_account_remove_pass_003"
+msgstr ""
