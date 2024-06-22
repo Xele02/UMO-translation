@@ -1,0 +1,962 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-22 12:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "tips_0000_title"
+msgstr ""
+
+msgid "tips_0000_msg"
+msgstr ""
+
+msgid "tips_0001_title"
+msgstr ""
+
+msgid "tips_0001_msg"
+msgstr ""
+
+msgid "tips_0002_title"
+msgstr ""
+
+msgid "tips_0002_msg"
+msgstr ""
+
+msgid "tips_0003_title"
+msgstr ""
+
+msgid "tips_0003_msg"
+msgstr ""
+
+msgid "tips_0004_title"
+msgstr ""
+
+msgid "tips_0004_msg"
+msgstr ""
+
+msgid "tips_0005_title"
+msgstr ""
+
+msgid "tips_0005_msg"
+msgstr ""
+
+msgid "tips_0006_title"
+msgstr ""
+
+msgid "tips_0006_msg"
+msgstr ""
+
+msgid "tips_0007_title"
+msgstr ""
+
+msgid "tips_0007_msg"
+msgstr ""
+
+msgid "tips_0008_title"
+msgstr ""
+
+msgid "tips_0008_msg"
+msgstr ""
+
+msgid "tips_0009_title"
+msgstr ""
+
+msgid "tips_0009_msg"
+msgstr ""
+
+msgid "tips_0010_title"
+msgstr ""
+
+msgid "tips_0010_msg"
+msgstr ""
+
+msgid "tips_0011_title"
+msgstr ""
+
+msgid "tips_0011_msg"
+msgstr ""
+
+msgid "tips_0012_title"
+msgstr ""
+
+msgid "tips_0012_msg"
+msgstr ""
+
+msgid "tips_0013_title"
+msgstr ""
+
+msgid "tips_0013_msg"
+msgstr ""
+
+msgid "tips_0014_title"
+msgstr ""
+
+msgid "tips_0014_msg"
+msgstr ""
+
+msgid "tips_0015_title"
+msgstr ""
+
+msgid "tips_0015_msg"
+msgstr ""
+
+msgid "tips_0016_title"
+msgstr ""
+
+msgid "tips_0016_msg"
+msgstr ""
+
+msgid "tips_0017_title"
+msgstr ""
+
+msgid "tips_0017_msg"
+msgstr ""
+
+msgid "tips_0018_title"
+msgstr ""
+
+msgid "tips_0018_msg"
+msgstr ""
+
+msgid "tips_0019_title"
+msgstr ""
+
+msgid "tips_0019_msg"
+msgstr ""
+
+msgid "tips_0020_title"
+msgstr ""
+
+msgid "tips_0020_msg"
+msgstr ""
+
+msgid "tips_0021_title"
+msgstr ""
+
+msgid "tips_0021_msg"
+msgstr ""
+
+msgid "tips_0022_title"
+msgstr ""
+
+msgid "tips_0022_msg"
+msgstr ""
+
+msgid "tips_0023_title"
+msgstr ""
+
+msgid "tips_0023_msg"
+msgstr ""
+
+msgid "tips_0024_title"
+msgstr ""
+
+msgid "tips_0024_msg"
+msgstr ""
+
+msgid "tips_0025_title"
+msgstr ""
+
+msgid "tips_0025_msg"
+msgstr ""
+
+msgid "tips_0026_title"
+msgstr ""
+
+msgid "tips_0026_msg"
+msgstr ""
+
+msgid "tips_0027_title"
+msgstr ""
+
+msgid "tips_0027_msg"
+msgstr ""
+
+msgid "tips_0028_title"
+msgstr ""
+
+msgid "tips_0028_msg"
+msgstr ""
+
+msgid "tips_0029_title"
+msgstr ""
+
+msgid "tips_0029_msg"
+msgstr ""
+
+msgid "tips_0030_title"
+msgstr ""
+
+msgid "tips_0030_msg"
+msgstr ""
+
+msgid "tips_0031_title"
+msgstr ""
+
+msgid "tips_0031_msg"
+msgstr ""
+
+msgid "tips_0032_title"
+msgstr ""
+
+msgid "tips_0032_msg"
+msgstr ""
+
+msgid "tips_0033_title"
+msgstr ""
+
+msgid "tips_0033_msg"
+msgstr ""
+
+msgid "tips_0034_title"
+msgstr ""
+
+msgid "tips_0034_msg"
+msgstr ""
+
+msgid "tips_0035_title"
+msgstr ""
+
+msgid "tips_0035_msg"
+msgstr ""
+
+msgid "tips_0036_title"
+msgstr ""
+
+msgid "tips_0036_msg"
+msgstr ""
+
+msgid "tips_0037_title"
+msgstr ""
+
+msgid "tips_0037_msg"
+msgstr ""
+
+msgid "tips_0038_title"
+msgstr ""
+
+msgid "tips_0038_msg"
+msgstr ""
+
+msgid "tips_0039_title"
+msgstr ""
+
+msgid "tips_0039_msg"
+msgstr ""
+
+msgid "tips_0040_title"
+msgstr ""
+
+msgid "tips_0040_msg"
+msgstr ""
+
+msgid "tips_0041_title"
+msgstr ""
+
+msgid "tips_0041_msg"
+msgstr ""
+
+msgid "tips_0042_title"
+msgstr ""
+
+msgid "tips_0042_msg"
+msgstr ""
+
+msgid "tips_0043_title"
+msgstr ""
+
+msgid "tips_0043_msg"
+msgstr ""
+
+msgid "tips_0044_title"
+msgstr ""
+
+msgid "tips_0044_msg"
+msgstr ""
+
+msgid "tips_0045_title"
+msgstr ""
+
+msgid "tips_0045_msg"
+msgstr ""
+
+msgid "tips_0046_title"
+msgstr ""
+
+msgid "tips_0046_msg"
+msgstr ""
+
+msgid "tips_0047_title"
+msgstr ""
+
+msgid "tips_0047_msg"
+msgstr ""
+
+msgid "tips_0048_title"
+msgstr ""
+
+msgid "tips_0048_msg"
+msgstr ""
+
+msgid "tips_0049_title"
+msgstr ""
+
+msgid "tips_0049_msg"
+msgstr ""
+
+msgid "tips_0050_title"
+msgstr ""
+
+msgid "tips_0050_msg"
+msgstr ""
+
+msgid "tips_0051_title"
+msgstr ""
+
+msgid "tips_0051_msg"
+msgstr ""
+
+msgid "tips_0052_title"
+msgstr ""
+
+msgid "tips_0052_msg"
+msgstr ""
+
+msgid "tips_0053_title"
+msgstr ""
+
+msgid "tips_0053_msg"
+msgstr ""
+
+msgid "tips_0054_title"
+msgstr ""
+
+msgid "tips_0054_msg"
+msgstr ""
+
+msgid "tips_0055_title"
+msgstr ""
+
+msgid "tips_0055_msg"
+msgstr ""
+
+msgid "tips_0056_title"
+msgstr ""
+
+msgid "tips_0056_msg"
+msgstr ""
+
+msgid "tips_0057_title"
+msgstr ""
+
+msgid "tips_0057_msg"
+msgstr ""
+
+msgid "tips_0058_title"
+msgstr ""
+
+msgid "tips_0058_msg"
+msgstr ""
+
+msgid "tips_0059_title"
+msgstr ""
+
+msgid "tips_0059_msg"
+msgstr ""
+
+msgid "tips_0060_title"
+msgstr ""
+
+msgid "tips_0060_msg"
+msgstr ""
+
+msgid "tips_0061_title"
+msgstr ""
+
+msgid "tips_0061_msg"
+msgstr ""
+
+msgid "tips_0062_title"
+msgstr ""
+
+msgid "tips_0062_msg"
+msgstr ""
+
+msgid "tips_0063_title"
+msgstr ""
+
+msgid "tips_0063_msg"
+msgstr ""
+
+msgid "tips_0064_title"
+msgstr ""
+
+msgid "tips_0064_msg"
+msgstr ""
+
+msgid "tips_0065_title"
+msgstr ""
+
+msgid "tips_0065_msg"
+msgstr ""
+
+msgid "tips_0066_title"
+msgstr ""
+
+msgid "tips_0066_msg"
+msgstr ""
+
+msgid "tips_0067_title"
+msgstr ""
+
+msgid "tips_0067_msg"
+msgstr ""
+
+msgid "tips_0068_title"
+msgstr ""
+
+msgid "tips_0068_msg"
+msgstr ""
+
+msgid "tips_0069_title"
+msgstr ""
+
+msgid "tips_0069_msg"
+msgstr ""
+
+msgid "tips_0070_title"
+msgstr ""
+
+msgid "tips_0070_msg"
+msgstr ""
+
+msgid "tips_0071_title"
+msgstr ""
+
+msgid "tips_0071_msg"
+msgstr ""
+
+msgid "tips_0072_title"
+msgstr ""
+
+msgid "tips_0072_msg"
+msgstr ""
+
+msgid "tips_0073_title"
+msgstr ""
+
+msgid "tips_0073_msg"
+msgstr ""
+
+msgid "tips_0074_title"
+msgstr ""
+
+msgid "tips_0074_msg"
+msgstr ""
+
+msgid "tips_0075_title"
+msgstr ""
+
+msgid "tips_0075_msg"
+msgstr ""
+
+msgid "tips_0076_title"
+msgstr ""
+
+msgid "tips_0076_msg"
+msgstr ""
+
+msgid "tips_0077_title"
+msgstr ""
+
+msgid "tips_0077_msg"
+msgstr ""
+
+msgid "tips_0078_title"
+msgstr ""
+
+msgid "tips_0078_msg"
+msgstr ""
+
+msgid "tips_0079_title"
+msgstr ""
+
+msgid "tips_0079_msg"
+msgstr ""
+
+msgid "tips_0080_title"
+msgstr ""
+
+msgid "tips_0080_msg"
+msgstr ""
+
+msgid "tips_0081_title"
+msgstr ""
+
+msgid "tips_0081_msg"
+msgstr ""
+
+msgid "tips_0082_title"
+msgstr ""
+
+msgid "tips_0082_msg"
+msgstr ""
+
+msgid "tips_0083_title"
+msgstr ""
+
+msgid "tips_0083_msg"
+msgstr ""
+
+msgid "tips_0084_title"
+msgstr ""
+
+msgid "tips_0084_msg"
+msgstr ""
+
+msgid "tips_0085_title"
+msgstr ""
+
+msgid "tips_0085_msg"
+msgstr ""
+
+msgid "tips_0086_title"
+msgstr ""
+
+msgid "tips_0086_msg"
+msgstr ""
+
+msgid "tips_0087_title"
+msgstr ""
+
+msgid "tips_0087_msg"
+msgstr ""
+
+msgid "tips_0088_title"
+msgstr ""
+
+msgid "tips_0088_msg"
+msgstr ""
+
+msgid "tips_0089_title"
+msgstr ""
+
+msgid "tips_0089_msg"
+msgstr ""
+
+msgid "tips_0090_title"
+msgstr ""
+
+msgid "tips_0090_msg"
+msgstr ""
+
+msgid "tips_0091_title"
+msgstr ""
+
+msgid "tips_0091_msg"
+msgstr ""
+
+msgid "tips_0092_title"
+msgstr ""
+
+msgid "tips_0092_msg"
+msgstr ""
+
+msgid "tips_0093_title"
+msgstr ""
+
+msgid "tips_0093_msg"
+msgstr ""
+
+msgid "tips_0094_title"
+msgstr ""
+
+msgid "tips_0094_msg"
+msgstr ""
+
+msgid "tips_0095_title"
+msgstr ""
+
+msgid "tips_0095_msg"
+msgstr ""
+
+msgid "tips_0096_title"
+msgstr ""
+
+msgid "tips_0096_msg"
+msgstr ""
+
+msgid "tips_0097_title"
+msgstr ""
+
+msgid "tips_0097_msg"
+msgstr ""
+
+msgid "tips_0098_title"
+msgstr ""
+
+msgid "tips_0098_msg"
+msgstr ""
+
+msgid "tips_0099_title"
+msgstr ""
+
+msgid "tips_0099_msg"
+msgstr ""
+
+msgid "tips_0100_title"
+msgstr ""
+
+msgid "tips_0100_msg"
+msgstr ""
+
+msgid "tips_0101_title"
+msgstr ""
+
+msgid "tips_0101_msg"
+msgstr ""
+
+msgid "tips_0102_title"
+msgstr ""
+
+msgid "tips_0102_msg"
+msgstr ""
+
+msgid "tips_0103_title"
+msgstr ""
+
+msgid "tips_0103_msg"
+msgstr ""
+
+msgid "tips_0104_title"
+msgstr ""
+
+msgid "tips_0104_msg"
+msgstr ""
+
+msgid "tips_0105_title"
+msgstr ""
+
+msgid "tips_0105_msg"
+msgstr ""
+
+msgid "tips_0106_title"
+msgstr ""
+
+msgid "tips_0106_msg"
+msgstr ""
+
+msgid "tips_0107_title"
+msgstr ""
+
+msgid "tips_0107_msg"
+msgstr ""
+
+msgid "tips_0108_title"
+msgstr ""
+
+msgid "tips_0108_msg"
+msgstr ""
+
+msgid "tips_0109_title"
+msgstr ""
+
+msgid "tips_0109_msg"
+msgstr ""
+
+msgid "tips_0110_title"
+msgstr ""
+
+msgid "tips_0110_msg"
+msgstr ""
+
+msgid "tips_0111_title"
+msgstr ""
+
+msgid "tips_0111_msg"
+msgstr ""
+
+msgid "tips_0112_title"
+msgstr ""
+
+msgid "tips_0112_msg"
+msgstr ""
+
+msgid "tips_0113_title"
+msgstr ""
+
+msgid "tips_0113_msg"
+msgstr ""
+
+msgid "tips_0114_title"
+msgstr ""
+
+msgid "tips_0114_msg"
+msgstr ""
+
+msgid "tips_0115_title"
+msgstr ""
+
+msgid "tips_0115_msg"
+msgstr ""
+
+msgid "tips_0116_title"
+msgstr ""
+
+msgid "tips_0116_msg"
+msgstr ""
+
+msgid "tips_0117_title"
+msgstr ""
+
+msgid "tips_0117_msg"
+msgstr ""
+
+msgid "tips_0118_title"
+msgstr ""
+
+msgid "tips_0118_msg"
+msgstr ""
+
+msgid "tips_0119_title"
+msgstr ""
+
+msgid "tips_0119_msg"
+msgstr ""
+
+msgid "tips_0120_title"
+msgstr ""
+
+msgid "tips_0120_msg"
+msgstr ""
+
+msgid "tips_0121_title"
+msgstr ""
+
+msgid "tips_0121_msg"
+msgstr ""
+
+msgid "tips_0122_title"
+msgstr ""
+
+msgid "tips_0122_msg"
+msgstr ""
+
+msgid "tips_0123_title"
+msgstr ""
+
+msgid "tips_0123_msg"
+msgstr ""
+
+msgid "tips_0124_title"
+msgstr ""
+
+msgid "tips_0124_msg"
+msgstr ""
+
+msgid "tips_0125_title"
+msgstr ""
+
+msgid "tips_0125_msg"
+msgstr ""
+
+msgid "tips_0126_title"
+msgstr ""
+
+msgid "tips_0126_msg"
+msgstr ""
+
+msgid "tips_0127_title"
+msgstr ""
+
+msgid "tips_0127_msg"
+msgstr ""
+
+msgid "tips_0128_title"
+msgstr ""
+
+msgid "tips_0128_msg"
+msgstr ""
+
+msgid "tips_0129_title"
+msgstr ""
+
+msgid "tips_0129_msg"
+msgstr ""
+
+msgid "tips_0130_title"
+msgstr ""
+
+msgid "tips_0130_msg"
+msgstr ""
+
+msgid "tips_0131_title"
+msgstr ""
+
+msgid "tips_0131_msg"
+msgstr ""
+
+msgid "tips_0132_title"
+msgstr ""
+
+msgid "tips_0132_msg"
+msgstr ""
+
+msgid "tips_0133_title"
+msgstr ""
+
+msgid "tips_0133_msg"
+msgstr ""
+
+msgid "tips_0134_title"
+msgstr ""
+
+msgid "tips_0134_msg"
+msgstr ""
+
+msgid "tips_0135_title"
+msgstr ""
+
+msgid "tips_0135_msg"
+msgstr ""
+
+msgid "tips_0136_title"
+msgstr ""
+
+msgid "tips_0136_msg"
+msgstr ""
+
+msgid "tips_0137_title"
+msgstr ""
+
+msgid "tips_0137_msg"
+msgstr ""
+
+msgid "tips_0138_title"
+msgstr ""
+
+msgid "tips_0138_msg"
+msgstr ""
+
+msgid "tips_0139_title"
+msgstr ""
+
+msgid "tips_0139_msg"
+msgstr ""
+
+msgid "tips_0140_title"
+msgstr ""
+
+msgid "tips_0140_msg"
+msgstr ""
+
+msgid "tips_0141_title"
+msgstr ""
+
+msgid "tips_0141_msg"
+msgstr ""
+
+msgid "tips_0142_title"
+msgstr ""
+
+msgid "tips_0142_msg"
+msgstr ""
+
+msgid "tips_0143_title"
+msgstr ""
+
+msgid "tips_0143_msg"
+msgstr ""
+
+msgid "tips_0144_title"
+msgstr ""
+
+msgid "tips_0144_msg"
+msgstr ""
+
+msgid "tips_0145_title"
+msgstr ""
+
+msgid "tips_0145_msg"
+msgstr ""
+
+msgid "tips_0146_title"
+msgstr ""
+
+msgid "tips_0146_msg"
+msgstr ""
+
+msgid "tips_0147_title"
+msgstr ""
+
+msgid "tips_0147_msg"
+msgstr ""
+
+msgid "tips_0148_title"
+msgstr ""
+
+msgid "tips_0148_msg"
+msgstr ""
+
+msgid "tips_0149_title"
+msgstr ""
+
+msgid "tips_0149_msg"
+msgstr ""
+
+msgid "tips_0150_title"
+msgstr ""
+
+msgid "tips_0150_msg"
+msgstr ""
+
+msgid "tips_0151_title"
+msgstr ""
+
+msgid "tips_0151_msg"
+msgstr ""
+
+msgid "tips_0152_title"
+msgstr ""
+
+msgid "tips_0152_msg"
+msgstr ""
+
+msgid "tips_0153_title"
+msgstr ""
+
+msgid "tips_0153_msg"
+msgstr ""
+
+msgid "tips_0154_title"
+msgstr ""
+
+msgid "tips_0154_msg"
+msgstr ""
+
+msgid "tips_0155_title"
+msgstr ""
+
+msgid "tips_0155_msg"
+msgstr ""
+
+msgid "tips_0156_title"
+msgstr ""
+
+msgid "tips_0156_msg"
+msgstr ""
+
+msgid "tips_0157_title"
+msgstr ""
+
+msgid "tips_0157_msg"
+msgstr ""
