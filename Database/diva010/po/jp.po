@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "たまにはお休みも大事よ。\n一緒にお茶しない？"
+
+msgid "talk_time_02"
+msgstr "今日もライブにレッスン、\n頑張っちゃうわ！"
+
+msgid "talk_time_03"
+msgstr "いつも応援ありがとう！\nわたしもみんなを応援してるわ！"
+
+msgid "talk_time_04"
+msgstr "なんだか、久しぶりに\n娘々のごはんが食べたいなぁ"
+
+msgid "talk_time_05"
+msgstr "わたしの歌で、たくさんの人が\n笑顔になってくれたらうれしいな"
+
+msgid "talk_time_06"
+msgstr "あら？誰もいないわね…\nどこに行ったのかしら？"
+
+msgid "talk_time_07"
+msgstr "♪～"
+
+msgid "talk_time_08"
+msgstr "お仕事に戻る前に、\n少しだけ休憩して行こうかしら"
+
+msgid "talk_login_01"
+msgstr "おはよう！\n今日も一緒に頑張りましょう！"
+
+msgid "talk_login_02"
+msgstr "おなかすいた～。そうだ、\nランチに連れて行ってくれない？"
+
+msgid "talk_login_03"
+msgstr "キレイな夕日…\nみんな元気にしてるかな…"
+
+msgid "talk_login_04"
+msgstr "夜の街ってワクワクするわね。\nねぇ、外に出てみない？"
+
+msgid "talk_login_05"
+msgstr "まだ起きてるの？\nふわぁ～…ねむ～い"
+
+msgid "talk_comeback_01"
+msgstr "やっぱり、\n帰ってきてくれると思ってたの"
+
+msgid "talk_comeback_02"
+msgstr "今日も一緒に頑張りましょうね"
+
+msgid "talk_birthday_01"
+msgstr "ねぇ、プレゼント期待してもいい？\n…なーんてね！"
+
+msgid "talk_event_01"
+msgstr "お正月ね…\nあとで超時空ネットワークのみんなに\r\n新年の挨拶をしないと！"
+
+msgid "talk_event_02"
+msgstr "バレンタインって素敵な日ね！\r\nだってみんな幸せそうだもの！"
+
+msgid "talk_event_03"
+msgstr "今日は節分ね！\n今年は豆まき、どうしようかしら…？"
+
+msgid "talk_event_04"
+msgstr "ひな人形を飾ろうと思うんだけど…\nどこに飾ろうかしら？"
+
+msgid "talk_event_05"
+msgstr "わぁ、バレンタインの\nお返しくれるの？ありがとう！"
+
+msgid "talk_event_06"
+msgstr "今日はエイプリルフール！\n早速レイナちゃんに騙され\nちゃったわ"
+
+msgid "talk_event_07"
+msgstr "スタジオからこっそり\n抜け出しちゃおうかしら？\n遊びに行きたいわ"
+
+msgid "talk_event_08"
+msgstr "かわいいウェディングドレス…\r\nいつかわたしも着る日が\n来るのかしら？"
+
+msgid "talk_event_09"
+msgstr "七夕かぁ…\n好きな人に会えないのは、\nとてもつらいことよね…"
+
+msgid "talk_event_10"
+msgstr "暑い夏は、ぜひ娘々に！\nおいしい中華で夏バテ防止！"
+
+msgid "talk_event_11"
+msgstr "大きな花火が見えたわ！\nどこかで\rお祭りでもやってるの\nかしら…？"
+
+msgid "talk_event_12"
+msgstr "月見団子、里芋に枝豆…\nお月様って食いしん坊なのね"
+
+msgid "talk_event_13"
+msgstr "今日はハロウィン！\r\nどんな悪戯をしちゃおうかな？"
+
+msgid "talk_event_14"
+msgstr "わたし、お祭りって大好き！\nねぇ、一緒に見て回りましょうよ！"
+
+msgid "talk_event_15"
+msgstr "クリスマスかぁ…\nロマンティックな\nライブがしたいわ！"
+
+msgid "talk_event_16"
+msgstr "もう大晦日かぁ…来年も\r\nとても素敵な一年になりますように"
+
+msgid "talk_event_17"
+msgstr "嬉しい！\nこんなにたくさんの人に\nわたしの歌を聴いてもらえるなんて！"
+
+msgid "talk_event_18"
+msgstr "100万人だなんてすごい！\nわたし、感謝の気持ちを\nこめて歌うわ！"
+
+msgid "talk_event_19"
+msgstr "200万ダウンロード達成！\nありがとうございます！"
+
+msgid "talk_event_20"
+msgstr "1周年ね！\nこれからも一緒に歌ってくれますか？"
+
+msgid "touch_reaction_01"
+msgstr "なぁに、わたしに何かご用？"
+
+msgid "touch_reaction_02"
+msgstr "やだァ、あんまりつつかないで！"
+
+msgid "touch_reaction_03"
+msgstr "もう、そんなに触ったら\n髪がみだれちゃうじゃない"
+
+msgid "touch_reaction_04"
+msgstr "たまにはお休みも大事よ。\n一緒にお茶しない？"
+
+msgid "touch_reaction_05"
+msgstr "今日もライブにレッスン、\n頑張っちゃうわ！"
+
+msgid "touch_reaction_06"
+msgstr "いつも応援ありがとう！\nわたしもみんなを応援してるわ！"
+
+msgid "touch_reaction_07"
+msgstr "ふふっ！くすぐったいわ！"
+
+msgid "touch_reaction_08"
+msgstr "…あら、撫でてくれるの？\nふふっ、ありがとう"
+
+msgid "login_reaction_01"
+msgstr "これをあなたに渡したかったの"
+
+msgid "login_reaction_02"
+msgstr "ちゃんと渡せてよかったわ"
+
+msgid "simulation_result_01"
+msgstr "シミュレーションってすごいのね。\n普段のライブに負けないぐらい、\n気持ちを込めて歌えたわ"
+
+msgid "go_diva_result_01"
+msgstr "わたし、もっともっと\n頑張って歌うわ！"
+
+msgid "go_diva_result_02"
+msgstr "どう？成長したと思わない？"
+
+msgid "go_diva_result_03"
+msgstr "次のライブで会えるのを\n楽しみにしてるわね"
+
+msgid "intimacy_pointup_01"
+msgstr "わぁい！"
+
+msgid "intimacy_pointup_02"
+msgstr "嬉しい！"
+
+msgid "intimacy_pointup_03"
+msgstr "やったぁ！"
+
+msgid "present_01"
+msgstr "ありがと"
+
+msgid "present_02"
+msgstr "そろそろ休憩にしない？\n一緒に娘々に行きましょう！"
+
+msgid "present_03"
+msgstr "おいしいものを食べるなら\n娘々で決まりね！"
+
+msgid "present_04"
+msgstr "なんだかいい香りがしてきたわ…\nもうそんな時間なのね！"
+
+msgid "present_05"
+msgstr "どうしましょう…\nなんだか調子が出ないわね…"
+
+msgid "present_06"
+msgstr "どきどきするような\n楽しいことがしたいわ！"
+
+msgid "present_07"
+msgstr "気分転換になるような\n楽しいことってないかしら？"
+
+msgid "present_08"
+msgstr "身だしなみは大切よ！\nわたしも気をつけているの"
+
+msgid "present_09"
+msgstr "お部屋の飾り付けとか、\n結構気を使ったりするのよ？"
+
+msgid "present_10"
+msgstr "おしゃれなものって素敵よね！\n幸せな気分になれるもの！"
+
+msgid "present_11"
+msgstr "やったぁ！"
+
+msgid "cs_touch_reaction_01"
+msgstr "ふふっ、どうかしたの？"
+
+msgid "cs_touch_reaction_02"
+msgstr "今日のわたしのライブ、\nどうだった？"
+
+msgid "cs_touch_reaction_03"
+msgstr "なぁに？わたしでよければ\nお話聞くわ！"
+
+msgid "cs_touch_reaction_04"
+msgstr "ねぇ、あなた、\n輝を見かけなかった？"
+
+msgid "cs_touch_reaction_05"
+msgstr "ようこそ、娘々へ！\nふふっ、なんてね？"
+
+msgid "cs_touch_reaction_06"
+msgstr "今日の衣装、あなたはどう思う？"
+
+msgid "cs_touch_reaction_07"
+msgstr "今日の髪型、\nとっても素敵でしょう？"
+
+msgid "cs_touch_reaction_08"
+msgstr "ねぇ、これからちょっと\n抜け出さない？"
+
+msgid "cs_touch_reaction_09"
+msgstr "ふふっ、\n話しかけてくれて嬉しいわ。\nホントよ？"
+
+msgid "cs_touch_reaction_10"
+msgstr "あなたとお話できて嬉しいわ！"
+
+msgid "talk_event_21"
+msgstr "今日はフレイアちゃんのお誕生日！\nどんなお祝いをしようかしら！"
+
+msgid "talk_event_22"
+msgstr "今日は美雲さんのお誕生日だって\r\n聞いたんだけど…後でお祝いに\n行かないと！"
+
+msgid "talk_event_23"
+msgstr "カナメさん、\nお誕生日おめでとうございます！\n今日は一日楽しんでください！"
+
+msgid "talk_event_24"
+msgstr "マキナちゃん、お誕生日\nおめでとう！プレゼント、\n受け取ってくれる？"
+
+msgid "talk_event_25"
+msgstr "今日はレイナちゃんのお誕生日！\r\nワルキューレのみんなで\nお祝いなんですって！"
+
+msgid "talk_event_26"
+msgstr "ランカちゃん、お誕生日おめでとう！\nプレゼント、喜んでくれるかしら"
+
+msgid "talk_event_27"
+msgstr "シェリルさん、\n今日はランカちゃんと一緒に\nお誕生日パーティーなんですって！"
+
+msgid "talk_event_28"
+msgstr "今日はミレーヌちゃんのお誕生日！\r\nどんなふうに過ごすのかしら…？"
+
+msgid "talk_event_29"
+msgstr "今日はバサラさんのお誕生日…\r\nどんな贈り物にしようか悩んでるの…"
+
+msgid "talk_event_30"
+msgstr "ミンメイ"
+
+msgid "talk_event_31"
+msgstr "ハヤテ"
+
+msgid "talk_event_32"
+msgstr "ミラージュ"
+
+msgid "talk_event_33"
+msgstr "メッサー"
+
+msgid "talk_event_34"
+msgstr "アラド"
+
+msgid "talk_event_35"
+msgstr "チャック"
+
+msgid "talk_event_36"
+msgstr "アルト"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "レイ"
+
+msgid "talk_event_39"
+msgstr "輝！お誕生日おめでとう！　\nプレゼント、楽しみにしていてね！"
+
+msgid "talk_event_40"
+msgstr "ガムリン"
+
+msgid "talk_event_41"
+msgstr "今日は未沙さんのお誕生日！　\nプレゼント、喜んでくれると\nいいけど…"
+
+msgid "talk_event_42"
+msgstr "わたしたちの映画が\n公開されるみたい…"
+
+msgid "talk_event_43"
+msgstr "みんなとたくさん歌えて、とっても\n楽しかったわ！あなたも一緒に歌って\nくれてありがとう、素敵だったわ！"
+
+msgid "talk_event_44"
+msgstr "お別れはやっぱりさみしいけれど、\n最後は笑顔でお別れしたいわね。\nもちろん、平和になった時空で！"
+
+msgid "talk_event_45"
+msgstr "みんなのライブ、また見たいなぁ。\nわたし、またいつか見られる日を\n楽しみに待ってるわ！"
+
+msgid "talk_event_46"
+msgstr "シェリルさんとランカちゃん、すごく\n素敵な関係だったわ。わたしも\nそういう人と出会えるかしら？"
+
+msgid "talk_event_47"
+msgstr "遠くない未来、わたしの時空でも\nバサラさんやミレーヌちゃんに会える\nのかしら？そうだったら嬉しいわ！"
+

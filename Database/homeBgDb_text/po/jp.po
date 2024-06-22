@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+
+msgid "homebg_0000_name"
+msgstr "年末年始特別イベント(年末)"
+
+msgid "homebg_0001_name"
+msgstr "年末年始特別イベント(年始)"
+
+msgid "homebg_0002_name"
+msgstr "東京スカイツリーコラボ"
+
+msgid "homebg_0003_name"
+msgstr "年始BGM変更"
+
+msgid "homebg_0004_name"
+msgstr "娘々祭～水着ガチャ終了"
+
+msgid "homebg_0005_name"
+msgstr "2018-2019 年末年始娘々祭"
+
+msgid "homebg_0006_name"
+msgstr "娘々祭"
+
+msgid "homebg_0007_name"
+msgstr "2019-2020 年末年始娘々祭"
+
+msgid "homebg_0008_name"
+msgstr "3周年娘々祭"
+
+msgid "homebg_0009_name"
+msgstr "2021-2022 年末年始娘々祭"
+
+msgid "homebg_0010_name"
+msgstr "ブリーフィングルーム"
+
+msgid "homebg_0011_name"
+msgstr "グリフィスパーク"
+
+msgid "homebg_0012_name"
+msgstr "アクショのアパート"
+
+msgid "homebg_0013_name"
+msgstr "中華料理店 娘々"
+
+msgid "homebg_0014_name"
+msgstr "4周年娘々祭"
+
+msgid "homebg_0015_name"
+msgstr "ワルキューレライブ"
+
+msgid "homebg_0016_name"
+msgstr "深・秋葉原"
+
+msgid "homebg_0017_name"
+msgstr "バジュラ本星"
+
+msgid "homebg_0018_name"
+msgstr "マジカルボンバーランド"
+

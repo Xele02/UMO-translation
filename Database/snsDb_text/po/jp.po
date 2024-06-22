@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+
+msgid "room_name_0001_txt"
+msgstr "SNS連絡部屋"
+
+msgid "room_name_0002_txt"
+msgstr "みんなで雑談部屋"
+
+msgid "room_name_0003_txt"
+msgstr "祝☆記念日部屋"
+
+msgid "room_name_0004_txt"
+msgstr "フレイアの部屋"
+
+msgid "room_name_0005_txt"
+msgstr "美雲の部屋"
+
+msgid "room_name_0006_txt"
+msgstr "カナメの部屋"
+
+msgid "room_name_0007_txt"
+msgstr "マキナの部屋"
+
+msgid "room_name_0008_txt"
+msgstr "レイナの部屋"
+
+msgid "room_name_0009_txt"
+msgstr "ランカの部屋"
+
+msgid "room_name_0010_txt"
+msgstr "シェリルの部屋"
+
+msgid "room_name_0011_txt"
+msgstr "ミレーヌの部屋"
+
+msgid "room_name_0012_txt"
+msgstr "バサラの部屋"
+
+msgid "room_name_0013_txt"
+msgstr "ミンメイの部屋"
+
+msgid "room_name_0014_txt"
+msgstr "超時空ヴィーナス ワルキューレ"
+
+msgid "room_name_0015_txt"
+msgstr "閃光のAXIA"
+
+msgid "room_name_0016_txt"
+msgstr "夏だ！海だ！水着De Show！"
+
+msgid "room_name_0017_txt"
+msgstr "パステル♡SUMMER"
+
+msgid "room_name_0018_txt"
+msgstr "待たせたな！Fire Bomber登場！"
+
+msgid "room_name_0019_txt"
+msgstr "銀河の妖精"
+
+msgid "room_name_0020_txt"
+msgstr "ミンメイ・バースデー"
+
+msgid "room_name_0021_txt"
+msgstr "Happy Hacking Halloween"
+
+msgid "room_name_0022_txt"
+msgstr "衝撃 デビューステージ"
+
+msgid "room_name_0023_txt"
+msgstr "ダイナマイト7"
+
+msgid "room_name_0024_txt"
+msgstr "決断 オーバーロード"
+
+msgid "room_name_0025_txt"
+msgstr "サヨナラノツバサ"
+
+msgid "room_name_0026_txt"
+msgstr "クロスオーバーLIVE（FB編）"
+
+msgid "room_name_0027_txt"
+msgstr "ためらいクリスマス"
+
+msgid "room_name_0028_txt"
+msgstr "Happy Merry Xmas ～2017～"
+
+msgid "room_name_0029_txt"
+msgstr "超時空カウントダウンライブ'17"
+
+msgid "room_name_0030_txt"
+msgstr "<size=20>【賀正】Happy New Yearライブ'18</size>"
+
+msgid "room_name_0031_txt"
+msgstr "<size=20>目指せ！ミス・マクロス～潜入大作戦～</size>"
+
+msgid "room_name_0032_txt"
+msgstr "みんなで東京スカイツリー"
+
+msgid "room_name_0033_txt"
+msgstr "sexy monsoon"
+
+msgid "room_name_0034_txt"
+msgstr "<size=18>メモリアル・バースデー ～Dear ミレーヌ～</size>"
+
+msgid "room_name_0035_txt"
+msgstr "おにゃの子☆Valentine"
+
+msgid "room_name_0036_txt"
+msgstr "映画館に行こう！"
+
+msgid "room_name_0037_txt"
+msgstr "とまらない！ワルキューレLIVE"
+
+msgid "room_name_0038_txt"
+msgstr "ライブへようこそ！"
+
+msgid "room_name_0039_txt"
+msgstr "虹いろ・クマクマ"
+
+msgid "room_name_0040_txt"
+msgstr "0-G Love"
+
+msgid "room_name_0041_txt"
+msgstr "dシュディスタb"
+
+msgid "room_name_0042_txt"
+msgstr "宿命θノヴァティック"
+
+msgid "room_name_0043_txt"
+msgstr "波乱のエイプリルフール"
+
+msgid "room_name_0044_txt"
+msgstr "やさしさSAYONARA"
+
+msgid "room_name_0045_txt"
+msgstr "イツワリノセカイの君へ"
+
+msgid "room_name_0046_txt"
+msgstr "fight on stage ～2人の歌姫～"
+
+msgid "room_name_0047_txt"
+msgstr "SUBMARINE MEMORY"
+
+msgid "room_name_0048_txt"
+msgstr "光速クライmax☆stage"
+
+msgid "room_name_0049_txt"
+msgstr "涙目ウェディング"
+
+msgid "room_name_0050_txt"
+msgstr "誘惑のエリクシア"
+
+msgid "room_name_0051_txt"
+msgstr "命がけの恋なら"
+
+msgid "room_name_0052_txt"
+msgstr "SEVENTH MOON NIGHT"
+
+msgid "room_name_0053_txt"
+msgstr "飛べ！超時空要塞マクロス"
+
+msgid "room_name_0054_txt"
+msgstr "<size=20>銀河に歌え！ ～時を超えるライオン～</size>"
+
+msgid "room_name_0055_txt"
+msgstr "夏だ！水着だ！ワル裏フェス！"
+
+msgid "room_name_0056_txt"
+msgstr "SUNSET RESORT"
+
+msgid "room_name_0057_txt"
+msgstr "ミッドサマー・ラブハート！"
+
+msgid "room_name_0058_txt"
+msgstr "バルキリーオペレーション"
+
+msgid "room_name_0059_txt"
+msgstr "歌姫オペレーション"
+
+msgid "room_name_0060_txt"
+msgstr "New song Live ～第1弾～"
+
+msgid "room_name_0061_txt"
+msgstr "New song Live ～第2弾～"
+
+msgid "room_name_0062_txt"
+msgstr "New song Live ～第3弾～"
+
+msgid "room_name_0063_txt"
+msgstr "絶命ジャッジメント"
+
+msgid "room_name_0064_txt"
+msgstr "メモリアル・ランナー"
+
+msgid "room_name_0065_txt"
+msgstr "ジリティック♡Halloween"
+
+msgid "room_name_0066_txt"
+msgstr "夕焼けオーバーフロウ"
+
+msgid "room_name_0067_txt"
+msgstr "追憶ジェリーフィッシュ"
+
+msgid "room_name_0068_txt"
+msgstr "Queen's Birthday"
+
+msgid "room_name_0069_txt"
+msgstr "Walküre！ THUNDER GLOW"
+
+msgid "room_name_0070_txt"
+msgstr "MAGICAL☆MY FRIENDS"
+
+msgid "room_name_0071_txt"
+msgstr "<size=20>サンタクロースでなんかいられない！</size>"
+
+msgid "room_name_0072_txt"
+msgstr "超時空カウントダウンライブ'18"
+
+msgid "room_name_0073_txt"
+msgstr "<size=20>【賀正】Happy New Yearライブ'19</size>"
+
+msgid "room_name_0074_txt"
+msgstr "<size=23>あゝ、デカルチャー ～宇宙兄弟船～</size>"
+
+msgid "room_name_0075_txt"
+msgstr "<size=20>リン・ミンメイ物語 ～Fire Bomber編～</size>"
+
+msgid "room_name_0076_txt"
+msgstr "<size=20>暴走する歌声 ～シャロン・アップル～</size>"
+
+msgid "room_name_0077_txt"
+msgstr "不確定性♡フォーメーションダンス"
+
+msgid "room_name_0078_txt"
+msgstr "<size=20>little queen ～愛・おぼえていますか～</size>"
+
+msgid "room_name_0079_txt"
+msgstr "<size=19>熱唱☆学園ライブ！ ～卒業式編～</size>"
+
+msgid "room_name_0080_txt"
+msgstr "旅立つ君へ ～愛は流れる～"
+
+msgid "room_name_0081_txt"
+msgstr "流星の奏でる旋律"
+
+msgid "room_name_0082_txt"
+msgstr "ようこそ！ワルキューレ★Partyへ"
+
+msgid "room_name_0083_txt"
+msgstr "願いがキラリ ～また会おうね～"
+
+msgid "room_name_0084_txt"
+msgstr "私たちのビューティフル・プレイス"
+
+msgid "room_name_0085_txt"
+msgstr "Dancing in the Planet"
+
+msgid "room_name_0086_txt"
+msgstr "HOLY LONELY LIVE"
+
+msgid "room_name_0087_txt"
+msgstr "エンジェル・ブライド"
+
+msgid "room_name_0088_txt"
+msgstr "恋! ハレイション THE DANCE"
+
+msgid "room_name_0089_txt"
+msgstr "<size=20>彼方へ届ける歌 ～インフィニティ＃7～</size>"
+
+msgid "room_name_0090_txt"
+msgstr "大空を舞う小白竜"
+
+msgid "room_name_0091_txt"
+msgstr "純情サマーバケーション"
+
+msgid "room_name_0092_txt"
+msgstr "<size=20>夏のなないろ☆ビタミンチャージ！</size>"
+
+msgid "room_name_0093_txt"
+msgstr "星間ランデブー★彡"
+
+msgid "room_name_0094_txt"
+msgstr "REMEMBER SUMMER"
+
+msgid "room_name_0095_txt"
+msgstr "Trick or Nyan? DIARY"
+
+msgid "room_name_0096_txt"
+msgstr "Trick or trap ？"
+
+msgid "room_name_0097_txt"
+msgstr "<size=20>ワルキューレのバースデイ♡パーティー</size>"
+
+msgid "room_name_0098_txt"
+msgstr "<size=20>Rock 'n' Roll！…だけど Baby！！</size>"
+
+msgid "room_name_0099_txt"
+msgstr "聖なる夜の涙目SONG"
+
+msgid "room_name_0100_txt"
+msgstr "<size=20>SNOW FRONTIER ～鐘を打ち鳴らせ！～</size>"
+
+msgid "room_name_0101_txt"
+msgstr "<size=20>夜明けを灯す新たな光 ～オベリスク～</size>"
+
+msgid "room_name_0102_txt"
+msgstr "時を超える愛の歌"
+
+msgid "room_name_0103_txt"
+msgstr "Chocoっとルンピカッ♡Valentine"
+
+msgid "room_name_0104_txt"
+msgstr "LOVEなクロスファイト！"
+
+msgid "room_name_0105_txt"
+msgstr "WhiteDay Attack!"
+
+msgid "room_name_0106_txt"
+msgstr "天使のウェディング"
+
+msgid "room_name_0107_txt"
+msgstr "スクールフェスで光速クライmax☆"
+
+msgid "room_name_0108_txt"
+msgstr "未来はオンナのためにある"
+
+msgid "room_name_0109_txt"
+msgstr "おにゃの子☆Pinch Hitter"
+
+msgid "room_name_0110_txt"
+msgstr "<size=20>銀河クジラを求めて ～ANGEL VOICE～</size>"
+
+msgid "room_name_0111_txt"
+msgstr "Memories of VOICES"
+
+msgid "room_name_0112_txt"
+msgstr "無重力ドッグ・ファイター"
+
+msgid "room_name_0113_txt"
+msgstr "ルンに花咲く恋もある"
+
+msgid "room_name_0114_txt"
+msgstr "LIGHT THE SUMMER"
+
+msgid "room_name_0115_txt"
+msgstr "絶対零度θFantastic！"
+
+msgid "room_name_0116_txt"
+msgstr "<size=18>アンコールライブ！～Hear The Universe～</size>"
+
+msgid "room_name_0117_txt"
+msgstr "BEAT ＆ SOUL"
+
+msgid "room_name_0118_txt"
+msgstr "永遠と歌う声"
+
+msgid "room_name_0119_txt"
+msgstr "純白のエーテル"
+
+msgid "room_name_0120_txt"
+msgstr "ハロウィン・シンデレラ"
+
+msgid "room_name_0121_txt"
+msgstr "<size=18>未開の世界 ～いけないボーダーライン～</size>"
+
+msgid "room_name_0122_txt"
+msgstr "ワルキューレカフェへようこそ！"
+
+msgid "room_name_0123_txt"
+msgstr "Christmas of Fairy"
+
+msgid "room_name_0124_txt"
+msgstr "<size=18>Merry Christmas with Cinderella</size>"
+
+msgid "room_name_0125_txt"
+msgstr "Dancing in the New Year"
+
+msgid "room_name_0126_txt"
+msgstr "ロマンシング・イゾラド"
+
+msgid "room_name_0127_txt"
+msgstr "JOURNEY PARADE"
+
+msgid "room_name_0128_txt"
+msgstr "<size=20>NEO STREAM ～Another Live～</size>"
+
+msgid "room_name_0129_txt"
+msgstr "星を廻せ！学園祭LIVE"
+
+msgid "room_name_0130_txt"
+msgstr "<size=18>Memorial Days ～私の彼はパイロット～</size>"
+
+msgid "room_name_0131_txt"
+msgstr "<size=18>夜にかける虹 ～SWEET FANTASY～</size>"
+
+msgid "room_name_0132_txt"
+msgstr "<size=20>超時空音楽祭 ～Songbird～</size>"
+
+msgid "room_name_0133_txt"
+msgstr "リバーシブル・バニー"
+
+msgid "room_name_0134_txt"
+msgstr "FLASH IN THE SOUL"
+
+msgid "room_name_0135_txt"
+msgstr "<size=18>見えない風 ～GIRAFFE BLUES～</size>"
+
+msgid "room_name_0136_txt"
+msgstr "SUNSET WEDDING"
+
+msgid "room_name_0137_txt"
+msgstr "デュエット・ランナー"
+
+msgid "room_name_0138_txt"
+msgstr "<size=18>命がけの出会い ～ノーザンクロス～</size>"
+
+msgid "room_name_0139_txt"
+msgstr "<size=20>立ち上がれ5人の女神たち</size>"
+
+msgid "room_name_0140_txt"
+msgstr "ROCK'N'ROLL FIRE！"
+
+msgid "room_name_0141_txt"
+msgstr "ダイナム・ダイナミック"
+
+msgid "room_name_0142_txt"
+msgstr "ロマンティック☆デート @Formo"
+
+msgid "room_name_0143_txt"
+msgstr "<size=18>ワルキューレはあきらめない!!!!!</size>"
+
+msgid "room_name_0144_txt"
+msgstr "<size=18>君に届け→ ～Halloween live～</size>"
+
+msgid "room_name_0145_txt"
+msgstr "HELLO！MY FRIENDS！"
+
+msgid "room_name_0146_txt"
+msgstr "<size=18>楽園 ～WANNA BE AN ANGEL～</size>"
+
+msgid "room_name_0147_txt"
+msgstr "<size=18>幻惑レスキュー!!!!! ～チェンジ!!!!!～</size>"
+
+msgid "room_name_0148_txt"
+msgstr "<size=18>シルバームーン・ホーリームーン</size>"
+
+msgid "room_name_0149_txt"
+msgstr "Glow in the dark"
+
+msgid "room_name_0150_txt"
+msgstr "燃える瞳の小白竜"
+
+msgid "room_name_0151_txt"
+msgstr "不思議な時の迷宮"
+
+msgid "room_name_0152_txt"
+msgstr "<size=20>会えないときのValentine</size>"
+
+msgid "room_name_0153_txt"
+msgstr "<size=20>かじかむ声 ～唇の凍傷～</size>"
+
+msgid "room_name_0154_txt"
+msgstr "<size=18>無垢になれ！ ～つらみ現在進行形～</size>"
+
+msgid "room_name_0155_txt"
+msgstr "ふたりの恋のマホウ"
+
+msgid "room_name_0156_txt"
+msgstr "<size=18>吹き抜ける風 ～NEVER SAY DIE～</size>"
+
+msgid "room_name_0157_txt"
+msgstr "<size=18>超時空ファイナルLive ～Act.1～</size>"
+
+msgid "room_name_0158_txt"
+msgstr "<size=18>超時空ファイナルLive ～Act.2～</size>"
+
+msgid "room_name_0159_txt"
+msgstr "<size=18>超時空ファイナルLive ～Act.3～</size>"
+
+msgid "chara_name_0000_txt"
+msgstr "フレイア"
+
+msgid "chara_name_0001_txt"
+msgstr "美雲"
+
+msgid "chara_name_0002_txt"
+msgstr "カナメ"
+
+msgid "chara_name_0003_txt"
+msgstr "マキナ"
+
+msgid "chara_name_0004_txt"
+msgstr "レイナ"
+
+msgid "chara_name_0005_txt"
+msgstr "ランカ"
+
+msgid "chara_name_0006_txt"
+msgstr "シェリル"
+
+msgid "chara_name_0007_txt"
+msgstr "ミレーヌ"
+
+msgid "chara_name_0008_txt"
+msgstr "バサラ"
+
+msgid "chara_name_0009_txt"
+msgstr "ミンメイ"
+
+msgid "chara_name_0010_txt"
+msgstr "ハヤテ"
+
+msgid "chara_name_0011_txt"
+msgstr "ミラージュ"
+
+msgid "chara_name_0012_txt"
+msgstr "メッサー"
+
+msgid "chara_name_0013_txt"
+msgstr "アラド"
+
+msgid "chara_name_0014_txt"
+msgstr "チャック"
+
+msgid "chara_name_0015_txt"
+msgstr "アルト"
+
+msgid "chara_name_0016_txt"
+msgstr "ミシェル"
+
+msgid "chara_name_0017_txt"
+msgstr "オズマ"
+
+msgid "chara_name_0018_txt"
+msgstr "ルカ"
+
+msgid "chara_name_0019_txt"
+msgstr "ブレラ"
+
+msgid "chara_name_0020_txt"
+msgstr "レイ"
+
+msgid "chara_name_0021_txt"
+msgstr "ビヒーダ"
+
+msgid "chara_name_0022_txt"
+msgstr "輝"
+
+msgid "chara_name_0023_txt"
+msgstr "フォッカー"
+
+msgid "chara_name_0024_txt"
+msgstr "マックス"
+
+msgid "chara_name_0025_txt"
+msgstr "ミリア"
+
+msgid "chara_name_0026_txt"
+msgstr "キース"
+
+msgid "chara_name_0027_txt"
+msgstr "ロイド"
+
+msgid "chara_name_0028_txt"
+msgstr "ボーグ"
+
+msgid "chara_name_0029_txt"
+msgstr "クラン"
+
+msgid "chara_name_0030_txt"
+msgstr "ナナセ"
+
+msgid "chara_name_0031_txt"
+msgstr "ガムリン"
+
+msgid "chara_name_0032_txt"
+msgstr "アキコ"
+
+msgid "chara_name_0033_txt"
+msgstr "未沙"
+
+msgid "chara_name_0034_txt"
+msgstr "クローディア"
+
+msgid "chara_name_0035_txt"
+msgstr "イサム"
+
+msgid "chara_name_0036_txt"
+msgstr "ガルド"
+
+msgid "chara_name_0037_txt"
+msgstr "全員"
+

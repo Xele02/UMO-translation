@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+
+msgid "anketo_0000_question"
+msgstr ""
+
+msgid "anketo_0000_0000_choice"
+msgstr ""
+
+msgid "anketo_0000_0001_choice"
+msgstr ""
+
+msgid "anketo_0000_0002_choice"
+msgstr ""
+
+msgid "anketo_0000_0003_choice"
+msgstr ""
+
+msgid "anketo_0001_question"
+msgstr ""
+
+msgid "anketo_0001_0000_choice"
+msgstr ""
+
+msgid "anketo_0001_0001_choice"
+msgstr ""
+
+msgid "anketo_0001_0002_choice"
+msgstr ""
+
+msgid "anketo_0001_0003_choice"
+msgstr ""
+
+msgid "anketo_0002_question"
+msgstr ""
+
+msgid "anketo_0002_0000_choice"
+msgstr ""
+
+msgid "anketo_0002_0001_choice"
+msgstr ""
+
+msgid "anketo_0002_0002_choice"
+msgstr ""
+
+msgid "anketo_0002_0003_choice"
+msgstr ""
+
+msgid "anketo_0002_0004_choice"
+msgstr ""
+
+msgid "anketo_0002_0005_choice"
+msgstr ""
+

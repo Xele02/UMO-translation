@@ -1,0 +1,1647 @@
+msgid ""
+msgstr ""
+
+msgid "vcitem_0000_title"
+msgstr ""
+
+msgid "vcitem_0000_desc"
+msgstr ""
+
+msgid "vcitem_0001_title"
+msgstr ""
+
+msgid "vcitem_0001_desc"
+msgstr ""
+
+msgid "vcitem_0002_title"
+msgstr ""
+
+msgid "vcitem_0002_desc"
+msgstr ""
+
+msgid "vcitem_0003_title"
+msgstr ""
+
+msgid "vcitem_0003_desc"
+msgstr ""
+
+msgid "vcitem_0004_title"
+msgstr ""
+
+msgid "vcitem_0004_desc"
+msgstr ""
+
+msgid "vcitem_0005_title"
+msgstr ""
+
+msgid "vcitem_0005_desc"
+msgstr ""
+
+msgid "vcitem_0006_title"
+msgstr ""
+
+msgid "vcitem_0006_desc"
+msgstr ""
+
+msgid "vcitem_0007_title"
+msgstr ""
+
+msgid "vcitem_0007_desc"
+msgstr ""
+
+msgid "vcitem_0008_title"
+msgstr ""
+
+msgid "vcitem_0008_desc"
+msgstr ""
+
+msgid "vcitem_0009_title"
+msgstr ""
+
+msgid "vcitem_0009_desc"
+msgstr ""
+
+msgid "vcitem_0010_title"
+msgstr ""
+
+msgid "vcitem_0010_desc"
+msgstr ""
+
+msgid "vcitem_0011_title"
+msgstr ""
+
+msgid "vcitem_0011_desc"
+msgstr ""
+
+msgid "vcitem_0012_title"
+msgstr ""
+
+msgid "vcitem_0012_desc"
+msgstr ""
+
+msgid "vcitem_0013_title"
+msgstr ""
+
+msgid "vcitem_0013_desc"
+msgstr ""
+
+msgid "vcitem_0014_title"
+msgstr ""
+
+msgid "vcitem_0014_desc"
+msgstr ""
+
+msgid "vcitem_0015_title"
+msgstr ""
+
+msgid "vcitem_0015_desc"
+msgstr ""
+
+msgid "vcitem_0016_title"
+msgstr ""
+
+msgid "vcitem_0016_desc"
+msgstr ""
+
+msgid "vcitem_0017_title"
+msgstr ""
+
+msgid "vcitem_0017_desc"
+msgstr ""
+
+msgid "vcitem_0018_title"
+msgstr ""
+
+msgid "vcitem_0018_desc"
+msgstr ""
+
+msgid "vcitem_0019_title"
+msgstr ""
+
+msgid "vcitem_0019_desc"
+msgstr ""
+
+msgid "vcitem_0020_title"
+msgstr ""
+
+msgid "vcitem_0020_desc"
+msgstr ""
+
+msgid "vcitem_0021_title"
+msgstr ""
+
+msgid "vcitem_0021_desc"
+msgstr ""
+
+msgid "vcitem_0022_title"
+msgstr ""
+
+msgid "vcitem_0022_desc"
+msgstr ""
+
+msgid "vcitem_0023_title"
+msgstr ""
+
+msgid "vcitem_0023_desc"
+msgstr ""
+
+msgid "vcitem_0024_title"
+msgstr ""
+
+msgid "vcitem_0024_desc"
+msgstr ""
+
+msgid "vcitem_0025_title"
+msgstr ""
+
+msgid "vcitem_0025_desc"
+msgstr ""
+
+msgid "vcitem_0026_title"
+msgstr ""
+
+msgid "vcitem_0026_desc"
+msgstr ""
+
+msgid "vcitem_0027_title"
+msgstr ""
+
+msgid "vcitem_0027_desc"
+msgstr ""
+
+msgid "vcitem_0028_title"
+msgstr ""
+
+msgid "vcitem_0028_desc"
+msgstr ""
+
+msgid "vcitem_0029_title"
+msgstr ""
+
+msgid "vcitem_0029_desc"
+msgstr ""
+
+msgid "vcitem_0030_title"
+msgstr ""
+
+msgid "vcitem_0030_desc"
+msgstr ""
+
+msgid "vcitem_0031_title"
+msgstr ""
+
+msgid "vcitem_0031_desc"
+msgstr ""
+
+msgid "vcitem_0032_title"
+msgstr ""
+
+msgid "vcitem_0032_desc"
+msgstr ""
+
+msgid "vcitem_0033_title"
+msgstr ""
+
+msgid "vcitem_0033_desc"
+msgstr ""
+
+msgid "vcitem_0034_title"
+msgstr ""
+
+msgid "vcitem_0034_desc"
+msgstr ""
+
+msgid "vcitem_0035_title"
+msgstr ""
+
+msgid "vcitem_0035_desc"
+msgstr ""
+
+msgid "vcitem_0036_title"
+msgstr ""
+
+msgid "vcitem_0036_desc"
+msgstr ""
+
+msgid "vcitem_0037_title"
+msgstr ""
+
+msgid "vcitem_0037_desc"
+msgstr ""
+
+msgid "vcitem_0038_title"
+msgstr ""
+
+msgid "vcitem_0038_desc"
+msgstr ""
+
+msgid "vcitem_0039_title"
+msgstr ""
+
+msgid "vcitem_0039_desc"
+msgstr ""
+
+msgid "vcitem_0040_title"
+msgstr ""
+
+msgid "vcitem_0040_desc"
+msgstr ""
+
+msgid "vcitem_0041_title"
+msgstr ""
+
+msgid "vcitem_0041_desc"
+msgstr ""
+
+msgid "vcitem_0042_title"
+msgstr ""
+
+msgid "vcitem_0042_desc"
+msgstr ""
+
+msgid "vcitem_0043_title"
+msgstr ""
+
+msgid "vcitem_0043_desc"
+msgstr ""
+
+msgid "vcitem_0044_title"
+msgstr ""
+
+msgid "vcitem_0044_desc"
+msgstr ""
+
+msgid "vcitem_0045_title"
+msgstr ""
+
+msgid "vcitem_0045_desc"
+msgstr ""
+
+msgid "vcitem_0046_title"
+msgstr ""
+
+msgid "vcitem_0046_desc"
+msgstr ""
+
+msgid "vcitem_0047_title"
+msgstr ""
+
+msgid "vcitem_0047_desc"
+msgstr ""
+
+msgid "vcitem_0048_title"
+msgstr ""
+
+msgid "vcitem_0048_desc"
+msgstr ""
+
+msgid "vcitem_0049_title"
+msgstr ""
+
+msgid "vcitem_0049_desc"
+msgstr ""
+
+msgid "vcitem_0050_title"
+msgstr ""
+
+msgid "vcitem_0050_desc"
+msgstr ""
+
+msgid "vcitem_0051_title"
+msgstr ""
+
+msgid "vcitem_0051_desc"
+msgstr ""
+
+msgid "vcitem_0052_title"
+msgstr ""
+
+msgid "vcitem_0052_desc"
+msgstr ""
+
+msgid "vcitem_0053_title"
+msgstr ""
+
+msgid "vcitem_0053_desc"
+msgstr ""
+
+msgid "vcitem_0054_title"
+msgstr ""
+
+msgid "vcitem_0054_desc"
+msgstr ""
+
+msgid "vcitem_0055_title"
+msgstr ""
+
+msgid "vcitem_0055_desc"
+msgstr ""
+
+msgid "vcitem_0056_title"
+msgstr ""
+
+msgid "vcitem_0056_desc"
+msgstr ""
+
+msgid "vcitem_0057_title"
+msgstr ""
+
+msgid "vcitem_0057_desc"
+msgstr ""
+
+msgid "vcitem_0058_title"
+msgstr ""
+
+msgid "vcitem_0058_desc"
+msgstr ""
+
+msgid "vcitem_0059_title"
+msgstr ""
+
+msgid "vcitem_0059_desc"
+msgstr ""
+
+msgid "vcitem_0060_title"
+msgstr ""
+
+msgid "vcitem_0060_desc"
+msgstr ""
+
+msgid "vcitem_0061_title"
+msgstr ""
+
+msgid "vcitem_0061_desc"
+msgstr ""
+
+msgid "vcitem_0062_title"
+msgstr ""
+
+msgid "vcitem_0062_desc"
+msgstr ""
+
+msgid "vcitem_0063_title"
+msgstr ""
+
+msgid "vcitem_0063_desc"
+msgstr ""
+
+msgid "vcitem_0064_title"
+msgstr ""
+
+msgid "vcitem_0064_desc"
+msgstr ""
+
+msgid "vcitem_0065_title"
+msgstr ""
+
+msgid "vcitem_0065_desc"
+msgstr ""
+
+msgid "vcitem_0066_title"
+msgstr ""
+
+msgid "vcitem_0066_desc"
+msgstr ""
+
+msgid "vcitem_0067_title"
+msgstr ""
+
+msgid "vcitem_0067_desc"
+msgstr ""
+
+msgid "vcitem_0068_title"
+msgstr ""
+
+msgid "vcitem_0068_desc"
+msgstr ""
+
+msgid "vcitem_0069_title"
+msgstr ""
+
+msgid "vcitem_0069_desc"
+msgstr ""
+
+msgid "vcitem_0070_title"
+msgstr ""
+
+msgid "vcitem_0070_desc"
+msgstr ""
+
+msgid "vcitem_0071_title"
+msgstr ""
+
+msgid "vcitem_0071_desc"
+msgstr ""
+
+msgid "vcitem_0072_title"
+msgstr ""
+
+msgid "vcitem_0072_desc"
+msgstr ""
+
+msgid "vcitem_0073_title"
+msgstr ""
+
+msgid "vcitem_0073_desc"
+msgstr ""
+
+msgid "vcitem_0074_title"
+msgstr ""
+
+msgid "vcitem_0074_desc"
+msgstr ""
+
+msgid "vcitem_0075_title"
+msgstr ""
+
+msgid "vcitem_0075_desc"
+msgstr ""
+
+msgid "vcitem_0076_title"
+msgstr ""
+
+msgid "vcitem_0076_desc"
+msgstr ""
+
+msgid "vcitem_0077_title"
+msgstr ""
+
+msgid "vcitem_0077_desc"
+msgstr ""
+
+msgid "vcitem_0078_title"
+msgstr ""
+
+msgid "vcitem_0078_desc"
+msgstr ""
+
+msgid "vcitem_0079_title"
+msgstr ""
+
+msgid "vcitem_0079_desc"
+msgstr ""
+
+msgid "vcitem_0080_title"
+msgstr ""
+
+msgid "vcitem_0080_desc"
+msgstr ""
+
+msgid "vcitem_0081_title"
+msgstr ""
+
+msgid "vcitem_0081_desc"
+msgstr ""
+
+msgid "vcitem_0082_title"
+msgstr ""
+
+msgid "vcitem_0082_desc"
+msgstr ""
+
+msgid "vcitem_0083_title"
+msgstr ""
+
+msgid "vcitem_0083_desc"
+msgstr ""
+
+msgid "vcitem_0084_title"
+msgstr ""
+
+msgid "vcitem_0084_desc"
+msgstr ""
+
+msgid "vcitem_0085_title"
+msgstr ""
+
+msgid "vcitem_0085_desc"
+msgstr ""
+
+msgid "vcitem_0086_title"
+msgstr ""
+
+msgid "vcitem_0086_desc"
+msgstr ""
+
+msgid "vcitem_0087_title"
+msgstr ""
+
+msgid "vcitem_0087_desc"
+msgstr ""
+
+msgid "vcitem_0088_title"
+msgstr ""
+
+msgid "vcitem_0088_desc"
+msgstr ""
+
+msgid "vcitem_0089_title"
+msgstr ""
+
+msgid "vcitem_0089_desc"
+msgstr ""
+
+msgid "vcitem_0090_title"
+msgstr ""
+
+msgid "vcitem_0090_desc"
+msgstr ""
+
+msgid "vcitem_0091_title"
+msgstr ""
+
+msgid "vcitem_0091_desc"
+msgstr ""
+
+msgid "vcitem_0092_title"
+msgstr ""
+
+msgid "vcitem_0092_desc"
+msgstr ""
+
+msgid "vcitem_0093_title"
+msgstr ""
+
+msgid "vcitem_0093_desc"
+msgstr ""
+
+msgid "vcitem_0094_title"
+msgstr ""
+
+msgid "vcitem_0094_desc"
+msgstr ""
+
+msgid "vcitem_0095_title"
+msgstr ""
+
+msgid "vcitem_0095_desc"
+msgstr ""
+
+msgid "vcitem_0096_title"
+msgstr ""
+
+msgid "vcitem_0096_desc"
+msgstr ""
+
+msgid "vcitem_0097_title"
+msgstr ""
+
+msgid "vcitem_0097_desc"
+msgstr ""
+
+msgid "vcitem_0098_title"
+msgstr ""
+
+msgid "vcitem_0098_desc"
+msgstr ""
+
+msgid "vcitem_0099_title"
+msgstr ""
+
+msgid "vcitem_0099_desc"
+msgstr ""
+
+msgid "vcitem_0100_title"
+msgstr ""
+
+msgid "vcitem_0100_desc"
+msgstr ""
+
+msgid "vcitem_0101_title"
+msgstr ""
+
+msgid "vcitem_0101_desc"
+msgstr ""
+
+msgid "vcitem_0102_title"
+msgstr ""
+
+msgid "vcitem_0102_desc"
+msgstr ""
+
+msgid "vcitem_0103_title"
+msgstr ""
+
+msgid "vcitem_0103_desc"
+msgstr ""
+
+msgid "vcitem_0104_title"
+msgstr ""
+
+msgid "vcitem_0104_desc"
+msgstr ""
+
+msgid "vcitem_0105_title"
+msgstr ""
+
+msgid "vcitem_0105_desc"
+msgstr ""
+
+msgid "vcitem_0106_title"
+msgstr ""
+
+msgid "vcitem_0106_desc"
+msgstr ""
+
+msgid "vcitem_0107_title"
+msgstr ""
+
+msgid "vcitem_0107_desc"
+msgstr ""
+
+msgid "vcitem_0108_title"
+msgstr ""
+
+msgid "vcitem_0108_desc"
+msgstr ""
+
+msgid "vcitem_0109_title"
+msgstr ""
+
+msgid "vcitem_0109_desc"
+msgstr ""
+
+msgid "vcitem_0110_title"
+msgstr ""
+
+msgid "vcitem_0110_desc"
+msgstr ""
+
+msgid "vcitem_0111_title"
+msgstr ""
+
+msgid "vcitem_0111_desc"
+msgstr ""
+
+msgid "vcitem_0112_title"
+msgstr ""
+
+msgid "vcitem_0112_desc"
+msgstr ""
+
+msgid "vcitem_0113_title"
+msgstr ""
+
+msgid "vcitem_0113_desc"
+msgstr ""
+
+msgid "vcitem_0114_title"
+msgstr ""
+
+msgid "vcitem_0114_desc"
+msgstr ""
+
+msgid "vcitem_0115_title"
+msgstr ""
+
+msgid "vcitem_0115_desc"
+msgstr ""
+
+msgid "vcitem_0116_title"
+msgstr ""
+
+msgid "vcitem_0116_desc"
+msgstr ""
+
+msgid "vcitem_0117_title"
+msgstr ""
+
+msgid "vcitem_0117_desc"
+msgstr ""
+
+msgid "vcitem_0118_title"
+msgstr ""
+
+msgid "vcitem_0118_desc"
+msgstr ""
+
+msgid "vcitem_0119_title"
+msgstr ""
+
+msgid "vcitem_0119_desc"
+msgstr ""
+
+msgid "vcitem_0120_title"
+msgstr ""
+
+msgid "vcitem_0120_desc"
+msgstr ""
+
+msgid "vcitem_0121_title"
+msgstr ""
+
+msgid "vcitem_0121_desc"
+msgstr ""
+
+msgid "vcitem_0122_title"
+msgstr ""
+
+msgid "vcitem_0122_desc"
+msgstr ""
+
+msgid "vcitem_0123_title"
+msgstr ""
+
+msgid "vcitem_0123_desc"
+msgstr ""
+
+msgid "vcitem_0124_title"
+msgstr ""
+
+msgid "vcitem_0124_desc"
+msgstr ""
+
+msgid "vcitem_0125_title"
+msgstr ""
+
+msgid "vcitem_0125_desc"
+msgstr ""
+
+msgid "vcitem_0126_title"
+msgstr ""
+
+msgid "vcitem_0126_desc"
+msgstr ""
+
+msgid "vcitem_0127_title"
+msgstr ""
+
+msgid "vcitem_0127_desc"
+msgstr ""
+
+msgid "vcitem_0128_title"
+msgstr ""
+
+msgid "vcitem_0128_desc"
+msgstr ""
+
+msgid "vcitem_0129_title"
+msgstr ""
+
+msgid "vcitem_0129_desc"
+msgstr ""
+
+msgid "vcitem_0130_title"
+msgstr ""
+
+msgid "vcitem_0130_desc"
+msgstr ""
+
+msgid "vcitem_0131_title"
+msgstr ""
+
+msgid "vcitem_0131_desc"
+msgstr ""
+
+msgid "vcitem_0132_title"
+msgstr ""
+
+msgid "vcitem_0132_desc"
+msgstr ""
+
+msgid "vcitem_0133_title"
+msgstr ""
+
+msgid "vcitem_0133_desc"
+msgstr ""
+
+msgid "vcitem_0134_title"
+msgstr ""
+
+msgid "vcitem_0134_desc"
+msgstr ""
+
+msgid "vcitem_0135_title"
+msgstr ""
+
+msgid "vcitem_0135_desc"
+msgstr ""
+
+msgid "vcitem_0136_title"
+msgstr ""
+
+msgid "vcitem_0136_desc"
+msgstr ""
+
+msgid "vcitem_0137_title"
+msgstr ""
+
+msgid "vcitem_0137_desc"
+msgstr ""
+
+msgid "vcitem_0138_title"
+msgstr ""
+
+msgid "vcitem_0138_desc"
+msgstr ""
+
+msgid "vcitem_0139_title"
+msgstr ""
+
+msgid "vcitem_0139_desc"
+msgstr ""
+
+msgid "vcitem_0140_title"
+msgstr ""
+
+msgid "vcitem_0140_desc"
+msgstr ""
+
+msgid "vcitem_0141_title"
+msgstr ""
+
+msgid "vcitem_0141_desc"
+msgstr ""
+
+msgid "vcitem_0142_title"
+msgstr ""
+
+msgid "vcitem_0142_desc"
+msgstr ""
+
+msgid "vcitem_0143_title"
+msgstr ""
+
+msgid "vcitem_0143_desc"
+msgstr ""
+
+msgid "vcitem_0144_title"
+msgstr ""
+
+msgid "vcitem_0144_desc"
+msgstr ""
+
+msgid "vcitem_0145_title"
+msgstr ""
+
+msgid "vcitem_0145_desc"
+msgstr ""
+
+msgid "vcitem_0146_title"
+msgstr ""
+
+msgid "vcitem_0146_desc"
+msgstr ""
+
+msgid "vcitem_0147_title"
+msgstr ""
+
+msgid "vcitem_0147_desc"
+msgstr ""
+
+msgid "vcitem_0148_title"
+msgstr ""
+
+msgid "vcitem_0148_desc"
+msgstr ""
+
+msgid "vcitem_0149_title"
+msgstr ""
+
+msgid "vcitem_0149_desc"
+msgstr ""
+
+msgid "vcitem_0150_title"
+msgstr ""
+
+msgid "vcitem_0150_desc"
+msgstr ""
+
+msgid "vcitem_0151_title"
+msgstr ""
+
+msgid "vcitem_0151_desc"
+msgstr ""
+
+msgid "vcitem_0152_title"
+msgstr ""
+
+msgid "vcitem_0152_desc"
+msgstr ""
+
+msgid "vcitem_0153_title"
+msgstr ""
+
+msgid "vcitem_0153_desc"
+msgstr ""
+
+msgid "vcitem_0154_title"
+msgstr ""
+
+msgid "vcitem_0154_desc"
+msgstr ""
+
+msgid "vcitem_0155_title"
+msgstr ""
+
+msgid "vcitem_0155_desc"
+msgstr ""
+
+msgid "vcitem_0156_title"
+msgstr ""
+
+msgid "vcitem_0156_desc"
+msgstr ""
+
+msgid "vcitem_0157_title"
+msgstr ""
+
+msgid "vcitem_0157_desc"
+msgstr ""
+
+msgid "vcitem_0158_title"
+msgstr ""
+
+msgid "vcitem_0158_desc"
+msgstr ""
+
+msgid "vcitem_0159_title"
+msgstr ""
+
+msgid "vcitem_0159_desc"
+msgstr ""
+
+msgid "vcitem_0160_title"
+msgstr ""
+
+msgid "vcitem_0160_desc"
+msgstr ""
+
+msgid "vcitem_0161_title"
+msgstr ""
+
+msgid "vcitem_0161_desc"
+msgstr ""
+
+msgid "vcitem_0162_title"
+msgstr ""
+
+msgid "vcitem_0162_desc"
+msgstr ""
+
+msgid "vcitem_0163_title"
+msgstr ""
+
+msgid "vcitem_0163_desc"
+msgstr ""
+
+msgid "vcitem_0164_title"
+msgstr ""
+
+msgid "vcitem_0164_desc"
+msgstr ""
+
+msgid "vcitem_0165_title"
+msgstr ""
+
+msgid "vcitem_0165_desc"
+msgstr ""
+
+msgid "vcitem_0166_title"
+msgstr ""
+
+msgid "vcitem_0166_desc"
+msgstr ""
+
+msgid "vcitem_0167_title"
+msgstr ""
+
+msgid "vcitem_0167_desc"
+msgstr ""
+
+msgid "vcitem_0168_title"
+msgstr ""
+
+msgid "vcitem_0168_desc"
+msgstr ""
+
+msgid "vcitem_0169_title"
+msgstr ""
+
+msgid "vcitem_0169_desc"
+msgstr ""
+
+msgid "vcitem_0170_title"
+msgstr ""
+
+msgid "vcitem_0170_desc"
+msgstr ""
+
+msgid "vcitem_0171_title"
+msgstr ""
+
+msgid "vcitem_0171_desc"
+msgstr ""
+
+msgid "vcitem_0172_title"
+msgstr ""
+
+msgid "vcitem_0172_desc"
+msgstr ""
+
+msgid "vcitem_0173_title"
+msgstr ""
+
+msgid "vcitem_0173_desc"
+msgstr ""
+
+msgid "vcitem_0174_title"
+msgstr ""
+
+msgid "vcitem_0174_desc"
+msgstr ""
+
+msgid "vcitem_0175_title"
+msgstr ""
+
+msgid "vcitem_0175_desc"
+msgstr ""
+
+msgid "vcitem_0176_title"
+msgstr ""
+
+msgid "vcitem_0176_desc"
+msgstr ""
+
+msgid "vcitem_0177_title"
+msgstr ""
+
+msgid "vcitem_0177_desc"
+msgstr ""
+
+msgid "vcitem_0178_title"
+msgstr ""
+
+msgid "vcitem_0178_desc"
+msgstr ""
+
+msgid "vcitem_0179_title"
+msgstr ""
+
+msgid "vcitem_0179_desc"
+msgstr ""
+
+msgid "vcitem_0180_title"
+msgstr ""
+
+msgid "vcitem_0180_desc"
+msgstr ""
+
+msgid "vcitem_0181_title"
+msgstr ""
+
+msgid "vcitem_0181_desc"
+msgstr ""
+
+msgid "vcitem_0182_title"
+msgstr ""
+
+msgid "vcitem_0182_desc"
+msgstr ""
+
+msgid "vcitem_0183_title"
+msgstr ""
+
+msgid "vcitem_0183_desc"
+msgstr ""
+
+msgid "vcitem_0184_title"
+msgstr ""
+
+msgid "vcitem_0184_desc"
+msgstr ""
+
+msgid "vcitem_0185_title"
+msgstr ""
+
+msgid "vcitem_0185_desc"
+msgstr ""
+
+msgid "vcitem_0186_title"
+msgstr ""
+
+msgid "vcitem_0186_desc"
+msgstr ""
+
+msgid "vcitem_0187_title"
+msgstr ""
+
+msgid "vcitem_0187_desc"
+msgstr ""
+
+msgid "vcitem_0188_title"
+msgstr ""
+
+msgid "vcitem_0188_desc"
+msgstr ""
+
+msgid "vcitem_0189_title"
+msgstr ""
+
+msgid "vcitem_0189_desc"
+msgstr ""
+
+msgid "vcitem_0190_title"
+msgstr ""
+
+msgid "vcitem_0190_desc"
+msgstr ""
+
+msgid "vcitem_0191_title"
+msgstr ""
+
+msgid "vcitem_0191_desc"
+msgstr ""
+
+msgid "vcitem_0192_title"
+msgstr ""
+
+msgid "vcitem_0192_desc"
+msgstr ""
+
+msgid "vcitem_0193_title"
+msgstr ""
+
+msgid "vcitem_0193_desc"
+msgstr ""
+
+msgid "vcitem_0194_title"
+msgstr ""
+
+msgid "vcitem_0194_desc"
+msgstr ""
+
+msgid "vcitem_0195_title"
+msgstr ""
+
+msgid "vcitem_0195_desc"
+msgstr ""
+
+msgid "vcitem_0196_title"
+msgstr ""
+
+msgid "vcitem_0196_desc"
+msgstr ""
+
+msgid "vcitem_0197_title"
+msgstr ""
+
+msgid "vcitem_0197_desc"
+msgstr ""
+
+msgid "vcitem_0198_title"
+msgstr ""
+
+msgid "vcitem_0198_desc"
+msgstr ""
+
+msgid "vcitem_0199_title"
+msgstr ""
+
+msgid "vcitem_0199_desc"
+msgstr ""
+
+msgid "vcitem_0200_title"
+msgstr ""
+
+msgid "vcitem_0200_desc"
+msgstr ""
+
+msgid "vcitem_0201_title"
+msgstr ""
+
+msgid "vcitem_0201_desc"
+msgstr ""
+
+msgid "vcitem_0202_title"
+msgstr ""
+
+msgid "vcitem_0202_desc"
+msgstr ""
+
+msgid "vcitem_0203_title"
+msgstr ""
+
+msgid "vcitem_0203_desc"
+msgstr ""
+
+msgid "vcitem_0204_title"
+msgstr ""
+
+msgid "vcitem_0204_desc"
+msgstr ""
+
+msgid "vcitem_0205_title"
+msgstr ""
+
+msgid "vcitem_0205_desc"
+msgstr ""
+
+msgid "vcitem_0206_title"
+msgstr ""
+
+msgid "vcitem_0206_desc"
+msgstr ""
+
+msgid "vcitem_0207_title"
+msgstr ""
+
+msgid "vcitem_0207_desc"
+msgstr ""
+
+msgid "vcitem_0208_title"
+msgstr ""
+
+msgid "vcitem_0208_desc"
+msgstr ""
+
+msgid "vcitem_0209_title"
+msgstr ""
+
+msgid "vcitem_0209_desc"
+msgstr ""
+
+msgid "vcitem_0210_title"
+msgstr ""
+
+msgid "vcitem_0210_desc"
+msgstr ""
+
+msgid "vcitem_0211_title"
+msgstr ""
+
+msgid "vcitem_0211_desc"
+msgstr ""
+
+msgid "vcitem_0212_title"
+msgstr ""
+
+msgid "vcitem_0212_desc"
+msgstr ""
+
+msgid "vcitem_0213_title"
+msgstr ""
+
+msgid "vcitem_0213_desc"
+msgstr ""
+
+msgid "vcitem_0214_title"
+msgstr ""
+
+msgid "vcitem_0214_desc"
+msgstr ""
+
+msgid "vcitem_0215_title"
+msgstr ""
+
+msgid "vcitem_0215_desc"
+msgstr ""
+
+msgid "vcitem_0216_title"
+msgstr ""
+
+msgid "vcitem_0216_desc"
+msgstr ""
+
+msgid "vcitem_0217_title"
+msgstr ""
+
+msgid "vcitem_0217_desc"
+msgstr ""
+
+msgid "vcitem_0218_title"
+msgstr ""
+
+msgid "vcitem_0218_desc"
+msgstr ""
+
+msgid "vcitem_0219_title"
+msgstr ""
+
+msgid "vcitem_0219_desc"
+msgstr ""
+
+msgid "vcitem_0220_title"
+msgstr ""
+
+msgid "vcitem_0220_desc"
+msgstr ""
+
+msgid "vcitem_0221_title"
+msgstr ""
+
+msgid "vcitem_0221_desc"
+msgstr ""
+
+msgid "vcitem_0222_title"
+msgstr ""
+
+msgid "vcitem_0222_desc"
+msgstr ""
+
+msgid "vcitem_0223_title"
+msgstr ""
+
+msgid "vcitem_0223_desc"
+msgstr ""
+
+msgid "vcitem_0224_title"
+msgstr ""
+
+msgid "vcitem_0224_desc"
+msgstr ""
+
+msgid "vcitem_0225_title"
+msgstr ""
+
+msgid "vcitem_0225_desc"
+msgstr ""
+
+msgid "vcitem_0226_title"
+msgstr ""
+
+msgid "vcitem_0226_desc"
+msgstr ""
+
+msgid "vcitem_0227_title"
+msgstr ""
+
+msgid "vcitem_0227_desc"
+msgstr ""
+
+msgid "vcitem_0228_title"
+msgstr ""
+
+msgid "vcitem_0228_desc"
+msgstr ""
+
+msgid "vcitem_0229_title"
+msgstr ""
+
+msgid "vcitem_0229_desc"
+msgstr ""
+
+msgid "vcitem_0230_title"
+msgstr ""
+
+msgid "vcitem_0230_desc"
+msgstr ""
+
+msgid "vcitem_0231_title"
+msgstr ""
+
+msgid "vcitem_0231_desc"
+msgstr ""
+
+msgid "vcitem_0232_title"
+msgstr ""
+
+msgid "vcitem_0232_desc"
+msgstr ""
+
+msgid "vcitem_0233_title"
+msgstr ""
+
+msgid "vcitem_0233_desc"
+msgstr ""
+
+msgid "vcitem_0234_title"
+msgstr ""
+
+msgid "vcitem_0234_desc"
+msgstr ""
+
+msgid "vcitem_0235_title"
+msgstr ""
+
+msgid "vcitem_0235_desc"
+msgstr ""
+
+msgid "vcitem_0236_title"
+msgstr ""
+
+msgid "vcitem_0236_desc"
+msgstr ""
+
+msgid "vcitem_0237_title"
+msgstr ""
+
+msgid "vcitem_0237_desc"
+msgstr ""
+
+msgid "vcitem_0238_title"
+msgstr ""
+
+msgid "vcitem_0238_desc"
+msgstr ""
+
+msgid "vcitem_0239_title"
+msgstr ""
+
+msgid "vcitem_0239_desc"
+msgstr ""
+
+msgid "vcitem_0240_title"
+msgstr ""
+
+msgid "vcitem_0240_desc"
+msgstr ""
+
+msgid "vcitem_0241_title"
+msgstr ""
+
+msgid "vcitem_0241_desc"
+msgstr ""
+
+msgid "vcitem_0242_title"
+msgstr ""
+
+msgid "vcitem_0242_desc"
+msgstr ""
+
+msgid "vcitem_0243_title"
+msgstr ""
+
+msgid "vcitem_0243_desc"
+msgstr ""
+
+msgid "vcitem_0244_title"
+msgstr ""
+
+msgid "vcitem_0244_desc"
+msgstr ""
+
+msgid "vcitem_0245_title"
+msgstr ""
+
+msgid "vcitem_0245_desc"
+msgstr ""
+
+msgid "vcitem_0246_title"
+msgstr ""
+
+msgid "vcitem_0246_desc"
+msgstr ""
+
+msgid "vcitem_0247_title"
+msgstr ""
+
+msgid "vcitem_0247_desc"
+msgstr ""
+
+msgid "vcitem_0248_title"
+msgstr ""
+
+msgid "vcitem_0248_desc"
+msgstr ""
+
+msgid "vcitem_0249_title"
+msgstr ""
+
+msgid "vcitem_0249_desc"
+msgstr ""
+
+msgid "vcitem_0250_title"
+msgstr ""
+
+msgid "vcitem_0250_desc"
+msgstr ""
+
+msgid "vcitem_0251_title"
+msgstr ""
+
+msgid "vcitem_0251_desc"
+msgstr ""
+
+msgid "vcitem_0252_title"
+msgstr ""
+
+msgid "vcitem_0252_desc"
+msgstr ""
+
+msgid "vcitem_0253_title"
+msgstr ""
+
+msgid "vcitem_0253_desc"
+msgstr ""
+
+msgid "vcitem_0254_title"
+msgstr ""
+
+msgid "vcitem_0254_desc"
+msgstr ""
+
+msgid "vcitem_0255_title"
+msgstr ""
+
+msgid "vcitem_0255_desc"
+msgstr ""
+
+msgid "vcitem_0256_title"
+msgstr ""
+
+msgid "vcitem_0256_desc"
+msgstr ""
+
+msgid "vcitem_0257_title"
+msgstr ""
+
+msgid "vcitem_0257_desc"
+msgstr ""
+
+msgid "vcitem_0258_title"
+msgstr ""
+
+msgid "vcitem_0258_desc"
+msgstr ""
+
+msgid "vcitem_0259_title"
+msgstr ""
+
+msgid "vcitem_0259_desc"
+msgstr ""
+
+msgid "vcitem_0260_title"
+msgstr ""
+
+msgid "vcitem_0260_desc"
+msgstr ""
+
+msgid "vcitem_0261_title"
+msgstr ""
+
+msgid "vcitem_0261_desc"
+msgstr ""
+
+msgid "vcitem_0262_title"
+msgstr ""
+
+msgid "vcitem_0262_desc"
+msgstr ""
+
+msgid "vcitem_0263_title"
+msgstr ""
+
+msgid "vcitem_0263_desc"
+msgstr ""
+
+msgid "vcitem_0264_title"
+msgstr ""
+
+msgid "vcitem_0264_desc"
+msgstr ""
+
+msgid "vcitem_0265_title"
+msgstr ""
+
+msgid "vcitem_0265_desc"
+msgstr ""
+
+msgid "vcitem_0266_title"
+msgstr ""
+
+msgid "vcitem_0266_desc"
+msgstr ""
+
+msgid "vcitem_0267_title"
+msgstr ""
+
+msgid "vcitem_0267_desc"
+msgstr ""
+
+msgid "vcitem_0268_title"
+msgstr ""
+
+msgid "vcitem_0268_desc"
+msgstr ""
+
+msgid "vcitem_0269_title"
+msgstr ""
+
+msgid "vcitem_0269_desc"
+msgstr ""
+
+msgid "vcitem_0270_title"
+msgstr ""
+
+msgid "vcitem_0270_desc"
+msgstr ""
+
+msgid "vcitem_0271_title"
+msgstr ""
+
+msgid "vcitem_0271_desc"
+msgstr ""
+
+msgid "vcitem_0272_title"
+msgstr ""
+
+msgid "vcitem_0272_desc"
+msgstr ""
+
+msgid "vcitem_0273_title"
+msgstr ""
+
+msgid "vcitem_0273_desc"
+msgstr ""
+

@@ -1,0 +1,1647 @@
+msgid ""
+msgstr ""
+
+msgid "vcitem_0000_title"
+msgstr "歌晶石　デビューAセット"
+
+msgid "vcitem_0000_desc"
+msgstr "歌晶石300個のお得パックです。"
+
+msgid "vcitem_0001_title"
+msgstr "歌晶石　デビューBセット"
+
+msgid "vcitem_0001_desc"
+msgstr "歌晶石1000個のお得パックです。"
+
+msgid "vcitem_0002_title"
+msgstr "歌晶石　お買い得Aセット"
+
+msgid "vcitem_0002_desc"
+msgstr "歌晶石500個のお得パックです。"
+
+msgid "vcitem_0003_title"
+msgstr "歌晶石　お買い得Bセット"
+
+msgid "vcitem_0003_desc"
+msgstr "歌晶石1000個のお得パックです。"
+
+msgid "vcitem_0004_title"
+msgstr "歌晶石　お買い得酉セットA"
+
+msgid "vcitem_0004_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ ウィンタースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0005_title"
+msgstr "歌晶石　お買い得酉セットB"
+
+msgid "vcitem_0005_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ ウィンタースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0006_title"
+msgstr "歌晶石　お買い得酉セットC"
+
+msgid "vcitem_0006_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ ウィンタースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0007_title"
+msgstr "歌晶石　お買い得戌セットA"
+
+msgid "vcitem_0007_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ ウィンタースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0008_title"
+msgstr "歌晶石　お買い得戌セットB"
+
+msgid "vcitem_0008_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ ウィンタースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0009_title"
+msgstr "歌晶石　お買い得戌セットC"
+
+msgid "vcitem_0009_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ ウィンタースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0010_title"
+msgstr "歌晶石　お買い得Aセット①"
+
+msgid "vcitem_0010_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ ウィンタースフィア 500個)"
+
+msgid "vcitem_0011_title"
+msgstr "歌晶石　お買い得Bセット①"
+
+msgid "vcitem_0011_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ ウィンタースフィア 1000個)"
+
+msgid "vcitem_0012_title"
+msgstr "歌晶石　お買い得Aセット"
+
+msgid "vcitem_0012_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ スプリングスフィア 500個)"
+
+msgid "vcitem_0013_title"
+msgstr "歌晶石　お買い得Bセット"
+
+msgid "vcitem_0013_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ スプリングスフィア 1000個)"
+
+msgid "vcitem_0014_title"
+msgstr "歌晶石　お買い得Aセット"
+
+msgid "vcitem_0014_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ サマースフィア 500個)"
+
+msgid "vcitem_0015_title"
+msgstr "歌晶石　お買い得Bセット"
+
+msgid "vcitem_0015_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ サマースフィア 1000個)"
+
+msgid "vcitem_0016_title"
+msgstr "歌晶石　イチネンメお買い得セットA"
+
+msgid "vcitem_0016_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0017_title"
+msgstr "歌晶石　イチネンメお買い得セットB"
+
+msgid "vcitem_0017_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0018_title"
+msgstr "歌晶石　イチネンメお買い得セットC"
+
+msgid "vcitem_0018_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0019_title"
+msgstr "歌晶石　ニネンメお買い得セットA"
+
+msgid "vcitem_0019_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0020_title"
+msgstr "歌晶石　ニネンメお買い得セットB"
+
+msgid "vcitem_0020_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0021_title"
+msgstr "歌晶石　ニネンメお買い得セットC"
+
+msgid "vcitem_0021_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0022_title"
+msgstr "歌晶石　スペシャルセット"
+
+msgid "vcitem_0022_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ サマースフィア 250個+★5確定ガチャチケット1枚)"
+
+msgid "vcitem_0023_title"
+msgstr "歌晶石　お買い得Aセット"
+
+msgid "vcitem_0023_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ オータムスフィア 500個)"
+
+msgid "vcitem_0024_title"
+msgstr "歌晶石　お買い得Bセット"
+
+msgid "vcitem_0024_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ オータムスフィア 1000個)"
+
+msgid "vcitem_0025_title"
+msgstr "歌晶石　スペシャルセット（冬）"
+
+msgid "vcitem_0025_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ ウィンタースフィア 250個+★5確定ガチャチケット1枚)"
+
+msgid "vcitem_0026_title"
+msgstr "第一回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0026_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ ウィンタースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0027_title"
+msgstr "第一回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0027_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ ウィンタースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0028_title"
+msgstr "第一回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0028_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ ウィンタースフィア 2400個+娘くじ☆抽選券170枚)"
+
+msgid "vcitem_0029_title"
+msgstr "第二回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0029_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ ウィンタースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0030_title"
+msgstr "第二回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0030_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ ウィンタースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0031_title"
+msgstr "第二回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0031_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ ウィンタースフィア 2400個+娘くじ☆抽選券170枚)"
+
+msgid "vcitem_0032_title"
+msgstr "歌晶石　スペシャルセット（冬）"
+
+msgid "vcitem_0032_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ ウィンタースフィア 250個+★5確定ガチャチケット1枚)"
+
+msgid "vcitem_0033_title"
+msgstr "歌晶石　ニネンメお買い得セットA"
+
+msgid "vcitem_0033_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0034_title"
+msgstr "歌晶石　ニネンメお買い得セットB"
+
+msgid "vcitem_0034_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0035_title"
+msgstr "歌晶石　ニネンメお買い得セットC"
+
+msgid "vcitem_0035_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0036_title"
+msgstr "歌晶石　サンネンメお買い得セットA"
+
+msgid "vcitem_0036_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0037_title"
+msgstr "歌晶石　サンネンメお買い得セットB"
+
+msgid "vcitem_0037_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0038_title"
+msgstr "歌晶石　サンネンメお買い得セットC"
+
+msgid "vcitem_0038_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0039_title"
+msgstr "歌晶石　スペシャルセット"
+
+msgid "vcitem_0039_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ オータムスフィア 250個+★5確定ガチャチケット1枚)"
+
+msgid "vcitem_0040_title"
+msgstr "歌晶石　スペシャルセット（冬）"
+
+msgid "vcitem_0040_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ ウィンタースフィア 250個+★5確定ガチャチケット1枚)"
+
+msgid "vcitem_0041_title"
+msgstr "歌晶石　娘くじ付きお買い得セットA"
+
+msgid "vcitem_0041_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ オータムスフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0042_title"
+msgstr "歌晶石　娘くじ付きお買い得セットB"
+
+msgid "vcitem_0042_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ オータムスフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0043_title"
+msgstr "歌晶石　娘くじ付きお買い得セットC"
+
+msgid "vcitem_0043_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ オータムスフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0044_title"
+msgstr "歌晶石　スペシャルセット（年始）"
+
+msgid "vcitem_0044_desc"
+msgstr "歌晶石2300個のお得パックです。（おまけ ウィンタースフィア 1150個+★5確定ガチャチケット6枚)"
+
+msgid "vcitem_0045_title"
+msgstr "歌晶石　お年玉セットA"
+
+msgid "vcitem_0045_desc"
+msgstr "歌晶石300個のお得パックです。（おまけ ウィンタースフィア 300個+お年玉15枚)"
+
+msgid "vcitem_0046_title"
+msgstr "歌晶石　お年玉セットB"
+
+msgid "vcitem_0046_desc"
+msgstr "歌晶石1000個のお得パックです。（おまけ ウィンタースフィア 1000個+お年玉45枚)"
+
+msgid "vcitem_0047_title"
+msgstr "歌晶石　お年玉セットC"
+
+msgid "vcitem_0047_desc"
+msgstr "歌晶石2200個のお得パックです。（おまけ ウィンタースフィア 2200個+お年玉100枚)"
+
+msgid "vcitem_0048_title"
+msgstr "歌晶石　お買い得Cセット①"
+
+msgid "vcitem_0048_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ ウィンタースフィア 2900個)"
+
+msgid "vcitem_0049_title"
+msgstr "歌晶石　お買い得Cセット"
+
+msgid "vcitem_0049_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ スプリングスフィア 2900個)"
+
+msgid "vcitem_0050_title"
+msgstr "歌晶石　娘くじ付きお買い得セットA"
+
+msgid "vcitem_0050_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0051_title"
+msgstr "歌晶石　娘くじ付きお買い得セットB"
+
+msgid "vcitem_0051_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0052_title"
+msgstr "歌晶石　娘くじ付きお買い得セットC"
+
+msgid "vcitem_0052_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0053_title"
+msgstr "歌晶石　四周年記念セット"
+
+msgid "vcitem_0053_desc"
+msgstr "歌晶石3300個のお得パックです。（おまけ サマースフィア 3300個+4周年娘くじ☆抽選券250枚)"
+
+msgid "vcitem_0054_title"
+msgstr "歌晶石　お買い得Cセット"
+
+msgid "vcitem_0054_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ サマースフィア 2900個)"
+
+msgid "vcitem_0055_title"
+msgstr "第一回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0055_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+前夜祭娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0056_title"
+msgstr "第一回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0056_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+前夜祭娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0057_title"
+msgstr "第一回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0057_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+前夜祭娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0058_title"
+msgstr "第二回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0058_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+前夜祭娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0059_title"
+msgstr "第二回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0059_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+前夜祭娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0060_title"
+msgstr "第二回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0060_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+前夜祭娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0061_title"
+msgstr "第三回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0061_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ ウィンタースフィア 390個+娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0062_title"
+msgstr "第三回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0062_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ ウィンタースフィア 1100個+娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0063_title"
+msgstr "第三回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0063_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ ウィンタースフィア 2400個+娘くじ☆抽選券170枚)"
+
+msgid "vcitem_0064_title"
+msgstr "歌晶石　マクロスFライブ記念セットA"
+
+msgid "vcitem_0064_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ オータムスフィア 390個+マクロスFライブ記念チケット20枚)"
+
+msgid "vcitem_0065_title"
+msgstr "歌晶石　マクロスFライブ記念セットB"
+
+msgid "vcitem_0065_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ オータムスフィア 1100個+マクロスFライブ記念チケット60枚)"
+
+msgid "vcitem_0066_title"
+msgstr "歌晶石　マクロスFライブ記念セットC"
+
+msgid "vcitem_0066_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ オータムスフィア 2400個+マクロスFライブ記念チケット150枚)"
+
+msgid "vcitem_0067_title"
+msgstr "第四回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0067_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+4周年娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0068_title"
+msgstr "第四回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0068_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+4周年娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0069_title"
+msgstr "第四回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0069_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+4周年娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0070_title"
+msgstr "第五回　歌晶石　娘くじ付きセットA"
+
+msgid "vcitem_0070_desc"
+msgstr "歌晶石390個のお得パックです。（おまけ サマースフィア 390個+4周年娘くじ☆抽選券25枚)"
+
+msgid "vcitem_0071_title"
+msgstr "第五回　歌晶石　娘くじ付きセットB"
+
+msgid "vcitem_0071_desc"
+msgstr "歌晶石1100個のお得パックです。（おまけ サマースフィア 1100個+4周年娘くじ☆抽選券75枚)"
+
+msgid "vcitem_0072_title"
+msgstr "第五回　歌晶石　娘くじ付きセットC"
+
+msgid "vcitem_0072_desc"
+msgstr "歌晶石2400個のお得パックです。（おまけ サマースフィア 2400個+4周年娘くじ☆抽選券160枚)"
+
+msgid "vcitem_0073_title"
+msgstr "歌晶石　お買い得Cセット"
+
+msgid "vcitem_0073_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ オータムスフィア 2900個)"
+
+msgid "vcitem_0074_title"
+msgstr "歌晶石　お正月SPセット"
+
+msgid "vcitem_0074_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ ウィンタースフィア 500個+お正月SPガチャチケット1枚)"
+
+msgid "vcitem_0075_title"
+msgstr "歌晶石　新春限定セット"
+
+msgid "vcitem_0075_desc"
+msgstr "歌晶石3300個のお得パックです。（おまけ ウィンタースフィア 3300個+娘くじ☆抽選券250枚)"
+
+msgid "vcitem_0076_title"
+msgstr "歌晶石　お買い得Aセット②"
+
+msgid "vcitem_0076_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ ウィンタースフィア 500個)"
+
+msgid "vcitem_0077_title"
+msgstr "歌晶石　お買い得Bセット②"
+
+msgid "vcitem_0077_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ ウィンタースフィア 1000個)"
+
+msgid "vcitem_0078_title"
+msgstr "歌晶石　お買い得Cセット②"
+
+msgid "vcitem_0078_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ ウィンタースフィア 2900個)"
+
+msgid "vcitem_0079_title"
+msgstr "歌晶石　お買い得Aセット"
+
+msgid "vcitem_0079_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ ウィンタースフィア 500個)"
+
+msgid "vcitem_0080_title"
+msgstr "歌晶石　お買い得Bセット"
+
+msgid "vcitem_0080_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ ウィンタースフィア 1000個)"
+
+msgid "vcitem_0081_title"
+msgstr "歌晶石　お買い得Cセット"
+
+msgid "vcitem_0081_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ ウィンタースフィア 2900個)"
+
+msgid "vcitem_0082_title"
+msgstr "歌晶石　お買い得Aセット①"
+
+msgid "vcitem_0082_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ スプリングスフィア 500個)"
+
+msgid "vcitem_0083_title"
+msgstr "歌晶石　お買い得Bセット①"
+
+msgid "vcitem_0083_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ スプリングスフィア 1000個)"
+
+msgid "vcitem_0084_title"
+msgstr "歌晶石　お買い得Cセット①"
+
+msgid "vcitem_0084_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ スプリングスフィア 2900個)"
+
+msgid "vcitem_0085_title"
+msgstr "歌晶石　お買い得Aセット②"
+
+msgid "vcitem_0085_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ スプリングスフィア 500個)"
+
+msgid "vcitem_0086_title"
+msgstr "歌晶石　お買い得Bセット②"
+
+msgid "vcitem_0086_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ スプリングスフィア 1000個)"
+
+msgid "vcitem_0087_title"
+msgstr "歌晶石　お買い得Cセット②"
+
+msgid "vcitem_0087_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ スプリングスフィア 2900個)"
+
+msgid "vcitem_0088_title"
+msgstr "歌晶石　衣装解放プレート交換券付きセット"
+
+msgid "vcitem_0088_desc"
+msgstr "歌晶石500個のお得パックです。（おまけ スプリングスフィア 500個+衣装解放プレート交換券1枚)"
+
+msgid "vcitem_0089_title"
+msgstr "歌晶石　お買い得Aセット①"
+
+msgid "vcitem_0089_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ サマースフィア 500個)"
+
+msgid "vcitem_0090_title"
+msgstr "歌晶石　お買い得Bセット①"
+
+msgid "vcitem_0090_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ サマースフィア 1000個)"
+
+msgid "vcitem_0091_title"
+msgstr "歌晶石　お買い得Cセット①"
+
+msgid "vcitem_0091_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ サマースフィア 2900個)"
+
+msgid "vcitem_0092_title"
+msgstr "歌晶石　お買い得Aセット②"
+
+msgid "vcitem_0092_desc"
+msgstr "歌晶石500個のお得パックです。\n（おまけ サマースフィア 500個)"
+
+msgid "vcitem_0093_title"
+msgstr "歌晶石　お買い得Bセット②"
+
+msgid "vcitem_0093_desc"
+msgstr "歌晶石1000個のお得パックです。\n（おまけ サマースフィア 1000個)"
+
+msgid "vcitem_0094_title"
+msgstr "歌晶石　お買い得Cセット②"
+
+msgid "vcitem_0094_desc"
+msgstr "歌晶石2900個のお得パックです。\n（おまけ サマースフィア 2900個)"
+
+msgid "vcitem_0095_title"
+msgstr "歌晶石　ケイオス特別支援パス付セット"
+
+msgid "vcitem_0095_desc"
+msgstr "歌晶石150個のパックです。(おまけケイオス特別支援パス)"
+
+msgid "vcitem_0096_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0096_desc"
+msgstr "歌晶石10個のパックです。"
+
+msgid "vcitem_0097_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0097_desc"
+msgstr "歌晶石50個のパックです。"
+
+msgid "vcitem_0098_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0098_desc"
+msgstr "歌晶石100個のパックです。"
+
+msgid "vcitem_0099_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0099_desc"
+msgstr "歌晶石300個のパックです。"
+
+msgid "vcitem_0100_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0100_desc"
+msgstr "歌晶石500個のパックです。"
+
+msgid "vcitem_0101_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0101_desc"
+msgstr "歌晶石1000個のパックです。"
+
+msgid "vcitem_0102_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0102_desc"
+msgstr "歌晶石1700個のパックです。"
+
+msgid "vcitem_0103_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0103_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ サマースフィア 10個)"
+
+msgid "vcitem_0104_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0104_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ サマースフィア 50個)"
+
+msgid "vcitem_0105_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0105_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ サマースフィア 100個)"
+
+msgid "vcitem_0106_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0106_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ サマースフィア 300個)"
+
+msgid "vcitem_0107_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0107_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ サマースフィア 500個)"
+
+msgid "vcitem_0108_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0108_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ サマースフィア 1000個)"
+
+msgid "vcitem_0109_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0109_desc"
+msgstr "歌晶石1700個のパックです。\n（おまけ サマースフィア 1700個)"
+
+msgid "vcitem_0110_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0110_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ オータムスフィア 10個)"
+
+msgid "vcitem_0111_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0111_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ オータムスフィア 50個)"
+
+msgid "vcitem_0112_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0112_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ オータムスフィア 100個)"
+
+msgid "vcitem_0113_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0113_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ オータムスフィア 300個)"
+
+msgid "vcitem_0114_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0114_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ オータムスフィア 500個)"
+
+msgid "vcitem_0115_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0115_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ オータムスフィア 1000個)"
+
+msgid "vcitem_0116_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0116_desc"
+msgstr "歌晶石1700個のパックです。\n（おまけ オータムスフィア 1700個)"
+
+msgid "vcitem_0117_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0117_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ ウィンタースフィア 10個)"
+
+msgid "vcitem_0118_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0118_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ ウィンタースフィア 50個)"
+
+msgid "vcitem_0119_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0119_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ ウィンタースフィア 100個)"
+
+msgid "vcitem_0120_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0120_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ ウィンタースフィア 300個)"
+
+msgid "vcitem_0121_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0121_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ ウィンタースフィア 500個)"
+
+msgid "vcitem_0122_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0122_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ ウィンタースフィア 1000個)"
+
+msgid "vcitem_0123_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0123_desc"
+msgstr "歌晶石1700個のパックです。\n（おまけ ウィンタースフィア 1700個)"
+
+msgid "vcitem_0124_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0124_desc"
+msgstr "歌晶石10個のパックです。（おまけ ウィンタースフィア 10個+娘くじ☆抽選券1枚)"
+
+msgid "vcitem_0125_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0125_desc"
+msgstr "歌晶石50個のパックです。（おまけ ウィンタースフィア 50個+娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0126_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0126_desc"
+msgstr "歌晶石100個のパックです。（おまけ ウィンタースフィア 100個+娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0127_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0127_desc"
+msgstr "歌晶石300個のパックです。（おまけ ウィンタースフィア 300個+娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0128_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0128_desc"
+msgstr "歌晶石500個のパックです。（おまけ ウィンタースフィア 500個+娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0129_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0129_desc"
+msgstr "歌晶石1000個のパックです。（おまけ ウィンタースフィア 1000個+娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0130_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0130_desc"
+msgstr "歌晶石1700個のパックです。（おまけ ウィンタースフィア 1700個+娘くじ☆抽選券98枚)"
+
+msgid "vcitem_0131_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0131_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ スプリングスフィア 10個)"
+
+msgid "vcitem_0132_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0132_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ スプリングスフィア 50個)"
+
+msgid "vcitem_0133_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0133_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ スプリングスフィア 100個)"
+
+msgid "vcitem_0134_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0134_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ スプリングスフィア 300個)"
+
+msgid "vcitem_0135_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0135_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ スプリングスフィア 500個)"
+
+msgid "vcitem_0136_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0136_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ スプリングスフィア 1000個)"
+
+msgid "vcitem_0137_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0137_desc"
+msgstr "歌晶石1700個のパックです。\n（おまけ スプリングスフィア 1700個)"
+
+msgid "vcitem_0138_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0138_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ スプリングスフィア 10+5個)"
+
+msgid "vcitem_0139_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0139_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ スプリングスフィア 50+25個)"
+
+msgid "vcitem_0140_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0140_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ スプリングスフィア 100+50個)"
+
+msgid "vcitem_0141_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0141_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ スプリングスフィア 300+150個)"
+
+msgid "vcitem_0142_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0142_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ スプリングスフィア 500+250個)"
+
+msgid "vcitem_0143_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0143_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ スプリングスフィア 1000+500個)"
+
+msgid "vcitem_0144_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0144_desc"
+msgstr "歌晶石1700個のパックです。\n（おまけ スプリングスフィア 1700+850個)"
+
+msgid "vcitem_0145_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0145_desc"
+msgstr "歌晶石10個のパックです。（おまけ サマースフィア 10個+娘くじ☆抽選券1枚)"
+
+msgid "vcitem_0146_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0146_desc"
+msgstr "歌晶石50個のパックです。（おまけ サマースフィア 50個+娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0147_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0147_desc"
+msgstr "歌晶石100個のパックです。（おまけ サマースフィア 100個+娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0148_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0148_desc"
+msgstr "歌晶石300個のパックです。（おまけ サマースフィア 300個+娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0149_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0149_desc"
+msgstr "歌晶石500個のパックです。（おまけ サマースフィア 500個+娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0150_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0150_desc"
+msgstr "歌晶石1000個のパックです。（おまけ サマースフィア 1000個+娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0151_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0151_desc"
+msgstr "歌晶石1700個のパックです。（おまけ サマースフィア 1700個+娘くじ☆抽選券98枚)"
+
+msgid "vcitem_0152_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0152_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ オータムスフィア 10+5個)"
+
+msgid "vcitem_0153_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0153_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ オータムスフィア 50+25個)"
+
+msgid "vcitem_0154_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0154_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ オータムスフィア 100+50個)"
+
+msgid "vcitem_0155_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0155_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ オータムスフィア 300+150個)"
+
+msgid "vcitem_0156_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0156_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ オータムスフィア 500+250個)"
+
+msgid "vcitem_0157_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0157_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ オータムスフィア 1000+500個)"
+
+msgid "vcitem_0158_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0158_desc"
+msgstr "歌晶石1700個のパックです。\n（おまけ オータムスフィア 1700+850個)"
+
+msgid "vcitem_0159_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0159_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ オータムスフィア 10個)"
+
+msgid "vcitem_0160_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0160_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ オータムスフィア 50個)"
+
+msgid "vcitem_0161_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0161_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ オータムスフィア 100個)"
+
+msgid "vcitem_0162_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0162_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ オータムスフィア 300個)"
+
+msgid "vcitem_0163_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0163_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ オータムスフィア 500個)"
+
+msgid "vcitem_0164_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0164_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ オータムスフィア 1000個)"
+
+msgid "vcitem_0165_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0165_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ オータムスフィア 1750個)"
+
+msgid "vcitem_0166_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0166_desc"
+msgstr "歌晶石2300個のパックです。\n（おまけ オータムスフィア 2300個)"
+
+msgid "vcitem_0167_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0167_desc"
+msgstr "歌晶石10個のパックです。（おまけ オータムスフィア 10個+娘くじ☆抽選券1枚)"
+
+msgid "vcitem_0168_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0168_desc"
+msgstr "歌晶石50個のパックです。（おまけ オータムスフィア 50個+娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0169_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0169_desc"
+msgstr "歌晶石100個のパックです。（おまけ オータムスフィア 100個+娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0170_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0170_desc"
+msgstr "歌晶石300個のパックです。（おまけ オータムスフィア 300個+娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0171_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0171_desc"
+msgstr "歌晶石500個のパックです。（おまけ オータムスフィア 500個+娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0172_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0172_desc"
+msgstr "歌晶石1000個のパックです。（おまけ オータムスフィア 1000個+娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0173_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0173_desc"
+msgstr "歌晶石1750個のパックです。（おまけ オータムスフィア 1750個+娘くじ☆抽選券100枚)"
+
+msgid "vcitem_0174_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0174_desc"
+msgstr "歌晶石2300個のパックです。（おまけ オータムスフィア 2300個+娘くじ☆抽選券130枚)"
+
+msgid "vcitem_0175_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0175_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ ウィンタースフィア 10個)"
+
+msgid "vcitem_0176_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0176_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ ウィンタースフィア 50個)"
+
+msgid "vcitem_0177_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0177_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ ウィンタースフィア 100個)"
+
+msgid "vcitem_0178_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0178_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ ウィンタースフィア 300個)"
+
+msgid "vcitem_0179_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0179_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ ウィンタースフィア 500個)"
+
+msgid "vcitem_0180_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0180_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ ウィンタースフィア 1000個)"
+
+msgid "vcitem_0181_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0181_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ ウィンタースフィア 1750個)"
+
+msgid "vcitem_0182_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0182_desc"
+msgstr "歌晶石2300個のパックです。\n（おまけ ウィンタースフィア 2300個)"
+
+msgid "vcitem_0183_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0183_desc"
+msgstr "歌晶石10個のパックです。（おまけ ウィンタースフィア 10個+娘くじ☆抽選券１枚)"
+
+msgid "vcitem_0184_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0184_desc"
+msgstr "歌晶石50個のパックです。（おまけ ウィンタースフィア 50個+娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0185_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0185_desc"
+msgstr "歌晶石100個のパックです。（おまけ ウィンタースフィア 100個+娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0186_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0186_desc"
+msgstr "歌晶石300個のパックです。（おまけ ウィンタースフィア 300個+娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0187_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0187_desc"
+msgstr "歌晶石500個のパックです。（おまけ ウィンタースフィア 500個+娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0188_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0188_desc"
+msgstr "歌晶石1000個のパックです。（おまけ ウィンタースフィア 1000個+娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0189_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0189_desc"
+msgstr "歌晶石1750個のパックです。（おまけ ウィンタースフィア 1750個+娘くじ☆抽選券100枚)"
+
+msgid "vcitem_0190_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0190_desc"
+msgstr "歌晶石2200個のパックです。（おまけ ウィンタースフィア 2200個+娘くじ☆抽選券120枚)"
+
+msgid "vcitem_0191_title"
+msgstr "歌晶石　スフィア増量セットA"
+
+msgid "vcitem_0191_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ ウィンタースフィア 500個+1000個)"
+
+msgid "vcitem_0192_title"
+msgstr "歌晶石　スフィア増量セットB"
+
+msgid "vcitem_0192_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ ウィンタースフィア 1000個+2000個)"
+
+msgid "vcitem_0193_title"
+msgstr "歌晶石　スフィア増量セットC"
+
+msgid "vcitem_0193_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ ウィンタースフィア 1750個+3500個)"
+
+msgid "vcitem_0194_title"
+msgstr "歌晶石　スフィア増量セットD"
+
+msgid "vcitem_0194_desc"
+msgstr "歌晶石2300個のパックです。\n（おまけ ウィンタースフィア 2300個+4600個)"
+
+msgid "vcitem_0195_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0195_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ スプリングスフィア 10個)"
+
+msgid "vcitem_0196_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0196_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ スプリングスフィア 50個)"
+
+msgid "vcitem_0197_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0197_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ スプリングスフィア 100個)"
+
+msgid "vcitem_0198_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0198_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ スプリングスフィア 300個)"
+
+msgid "vcitem_0199_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0199_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ スプリングスフィア 500個)"
+
+msgid "vcitem_0200_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0200_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ スプリングスフィア 1000個)"
+
+msgid "vcitem_0201_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0201_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ スプリングスフィア 1750個)"
+
+msgid "vcitem_0202_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0202_desc"
+msgstr "歌晶石2200個のパックです。\n（おまけ スプリングスフィア 2200個)"
+
+msgid "vcitem_0203_title"
+msgstr "歌晶石　スフィア増量セットA"
+
+msgid "vcitem_0203_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ スプリングスフィア 500個+1000個)"
+
+msgid "vcitem_0204_title"
+msgstr "歌晶石　スフィア増量セットB"
+
+msgid "vcitem_0204_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ スプリングスフィア 1000個+2000個)"
+
+msgid "vcitem_0205_title"
+msgstr "歌晶石　スフィア増量セットC"
+
+msgid "vcitem_0205_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ スプリングスフィア 1750個+3500個)"
+
+msgid "vcitem_0206_title"
+msgstr "歌晶石　スフィア増量セットD"
+
+msgid "vcitem_0206_desc"
+msgstr "歌晶石2300個のパックです。\n（おまけ スプリングスフィア 2300個+4600個)"
+
+msgid "vcitem_0207_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0207_desc"
+msgstr "歌晶石10個のパックです。（おまけ スプリングスフィア 10個+娘くじ☆抽選券１枚)"
+
+msgid "vcitem_0208_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0208_desc"
+msgstr "歌晶石50個のパックです。（おまけ スプリングスフィア 50個+娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0209_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0209_desc"
+msgstr "歌晶石100個のパックです。（おまけ スプリングスフィア 100個+娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0210_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0210_desc"
+msgstr "歌晶石300個のパックです。（おまけ スプリングスフィア 300個+娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0211_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0211_desc"
+msgstr "歌晶石500個のパックです。（おまけ スプリングスフィア 500個+娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0212_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0212_desc"
+msgstr "歌晶石1000個のパックです。（おまけ スプリングスフィア 1000個+娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0213_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0213_desc"
+msgstr "歌晶石1750個のパックです。（おまけ スプリングスフィア 1750個+娘くじ☆抽選券100枚)"
+
+msgid "vcitem_0214_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0214_desc"
+msgstr "歌晶石2200個のパックです。（おまけ スプリングスフィア 2200個+娘くじ☆抽選券120枚)"
+
+msgid "vcitem_0215_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0215_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ サマースフィア 10個)"
+
+msgid "vcitem_0216_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0216_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ サマースフィア 50個)"
+
+msgid "vcitem_0217_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0217_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ サマースフィア 100個)"
+
+msgid "vcitem_0218_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0218_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ サマースフィア 300個)"
+
+msgid "vcitem_0219_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0219_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ サマースフィア 500個)"
+
+msgid "vcitem_0220_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0220_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ サマースフィア 1000個)"
+
+msgid "vcitem_0221_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0221_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ サマースフィア 1750個)"
+
+msgid "vcitem_0222_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0222_desc"
+msgstr "歌晶石2200個のパックです。\n（おまけ サマースフィア 2200個)"
+
+msgid "vcitem_0223_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0223_desc"
+msgstr "歌晶石10個のパックです。（おまけ オータムスフィア 10個+娘くじ☆抽選券１枚)"
+
+msgid "vcitem_0224_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0224_desc"
+msgstr "歌晶石50個のパックです。（おまけ オータムスフィア 50個+娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0225_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0225_desc"
+msgstr "歌晶石100個のパックです。（おまけ オータムスフィア 100個+娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0226_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0226_desc"
+msgstr "歌晶石300個のパックです。（おまけ オータムスフィア 300個+娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0227_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0227_desc"
+msgstr "歌晶石500個のパックです。（おまけ オータムスフィア 500個+娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0228_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0228_desc"
+msgstr "歌晶石1000個のパックです。（おまけ オータムスフィア 1000個+娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0229_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0229_desc"
+msgstr "歌晶石1750個のパックです。（おまけ オータムスフィア 1750個+娘くじ☆抽選券100枚)"
+
+msgid "vcitem_0230_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0230_desc"
+msgstr "歌晶石2200個のパックです。（おまけ オータムスフィア 2200個+娘くじ☆抽選券120枚)"
+
+msgid "vcitem_0231_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0231_desc"
+msgstr "歌晶石10個のパックです。（おまけ サマースフィア 10個+前夜祭娘くじ☆抽選券１枚)"
+
+msgid "vcitem_0232_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0232_desc"
+msgstr "歌晶石50個のパックです。（おまけ サマースフィア 50個+前夜祭娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0233_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0233_desc"
+msgstr "歌晶石100個のパックです。（おまけ サマースフィア 100個+前夜祭娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0234_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0234_desc"
+msgstr "歌晶石300個のパックです。（おまけ サマースフィア 300個+前夜祭娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0235_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0235_desc"
+msgstr "歌晶石500個のパックです。（おまけ サマースフィア 500個+前夜祭娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0236_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0236_desc"
+msgstr "歌晶石1000個のパックです。（おまけ サマースフィア 1000個+前夜祭娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0237_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0237_desc"
+msgstr "歌晶石1750個のパックです。（おまけ サマースフィア 1750個+前夜祭娘くじ☆抽選券100枚)"
+
+msgid "vcitem_0238_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0238_desc"
+msgstr "歌晶石2200個のパックです。（おまけ サマースフィア 2200個+前夜祭娘くじ☆抽選券120枚)"
+
+msgid "vcitem_0239_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0239_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ オータムスフィア 10個)"
+
+msgid "vcitem_0240_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0240_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ オータムスフィア 50個)"
+
+msgid "vcitem_0241_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0241_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ オータムスフィア 100個)"
+
+msgid "vcitem_0242_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0242_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ オータムスフィア 300個)"
+
+msgid "vcitem_0243_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0243_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ オータムスフィア 500個)"
+
+msgid "vcitem_0244_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0244_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ オータムスフィア 1000個)"
+
+msgid "vcitem_0245_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0245_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ オータムスフィア 1750個)"
+
+msgid "vcitem_0246_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0246_desc"
+msgstr "歌晶石2200個のパックです。\n（おまけ オータムスフィア 2200個)"
+
+msgid "vcitem_0247_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0247_desc"
+msgstr "歌晶石10個のパックです。（おまけ サマースフィア 10個+4周年娘くじ☆抽選券１枚)"
+
+msgid "vcitem_0248_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0248_desc"
+msgstr "歌晶石50個のパックです。（おまけ サマースフィア 50個+4周年娘くじ☆抽選券4枚)"
+
+msgid "vcitem_0249_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0249_desc"
+msgstr "歌晶石100個のパックです。（おまけ サマースフィア 100個+4周年娘くじ☆抽選券7枚)"
+
+msgid "vcitem_0250_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0250_desc"
+msgstr "歌晶石300個のパックです。（おまけ サマースフィア 300個+4周年娘くじ☆抽選券19枚)"
+
+msgid "vcitem_0251_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0251_desc"
+msgstr "歌晶石500個のパックです。（おまけ サマースフィア 500個+4周年娘くじ☆抽選券30枚)"
+
+msgid "vcitem_0252_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0252_desc"
+msgstr "歌晶石1000個のパックです。（おまけ サマースフィア 1000個+4周年娘くじ☆抽選券58枚)"
+
+msgid "vcitem_0253_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0253_desc"
+msgstr "歌晶石1750個のパックです。（おまけ サマースフィア 1750個+4周年娘くじ☆抽選券100枚)"
+
+msgid "vcitem_0254_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0254_desc"
+msgstr "歌晶石2200個のパックです。（おまけ サマースフィア 2200個+4周年娘くじ☆抽選券120枚)"
+
+msgid "vcitem_0255_title"
+msgstr "歌晶石　Aセット"
+
+msgid "vcitem_0255_desc"
+msgstr "歌晶石10個のパックです。\n（おまけ ウインタースフィア 10個)"
+
+msgid "vcitem_0256_title"
+msgstr "歌晶石　Bセット"
+
+msgid "vcitem_0256_desc"
+msgstr "歌晶石50個のパックです。\n（おまけ ウインタースフィア 50個)"
+
+msgid "vcitem_0257_title"
+msgstr "歌晶石　Cセット"
+
+msgid "vcitem_0257_desc"
+msgstr "歌晶石100個のパックです。\n（おまけ ウインタースフィア 100個)"
+
+msgid "vcitem_0258_title"
+msgstr "歌晶石　Dセット"
+
+msgid "vcitem_0258_desc"
+msgstr "歌晶石300個のパックです。\n（おまけ ウインタースフィア 300個)"
+
+msgid "vcitem_0259_title"
+msgstr "歌晶石　Eセット"
+
+msgid "vcitem_0259_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ ウインタースフィア 500個)"
+
+msgid "vcitem_0260_title"
+msgstr "歌晶石　Fセット"
+
+msgid "vcitem_0260_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ ウインタースフィア 1000個)"
+
+msgid "vcitem_0261_title"
+msgstr "歌晶石　Gセット"
+
+msgid "vcitem_0261_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ ウインタースフィア 1750個)"
+
+msgid "vcitem_0262_title"
+msgstr "歌晶石　Hセット"
+
+msgid "vcitem_0262_desc"
+msgstr "歌晶石2200個のパックです。\n（おまけ ウインタースフィア 2200個)"
+
+msgid "vcitem_0263_title"
+msgstr "歌晶石　スフィア増量セットA"
+
+msgid "vcitem_0263_desc"
+msgstr "歌晶石500個のパックです。\n（おまけ ウインタースフィア 500個+1000個)"
+
+msgid "vcitem_0264_title"
+msgstr "歌晶石　スフィア増量セットB"
+
+msgid "vcitem_0264_desc"
+msgstr "歌晶石1000個のパックです。\n（おまけ ウインタースフィア 1000個+2000個)"
+
+msgid "vcitem_0265_title"
+msgstr "歌晶石　スフィア増量セットC"
+
+msgid "vcitem_0265_desc"
+msgstr "歌晶石1750個のパックです。\n（おまけ ウインタースフィア 1750個+3500個)"
+
+msgid "vcitem_0266_title"
+msgstr "ガチャチケット"
+
+msgid "vcitem_0266_desc"
+msgstr "ガチャチケット"
+
+msgid "vcitem_0267_title"
+msgstr "ガチャチケット"
+
+msgid "vcitem_0267_desc"
+msgstr "ガチャチケット"
+
+msgid "vcitem_0268_title"
+msgstr "ガチャチケット"
+
+msgid "vcitem_0268_desc"
+msgstr "ガチャチケット"
+
+msgid "vcitem_0269_title"
+msgstr "スプリングスフィア"
+
+msgid "vcitem_0269_desc"
+msgstr "スプリングスフィア"
+
+msgid "vcitem_0270_title"
+msgstr "サマースフィア"
+
+msgid "vcitem_0270_desc"
+msgstr "サマースフィア"
+
+msgid "vcitem_0271_title"
+msgstr "オータムスフィア"
+
+msgid "vcitem_0271_desc"
+msgstr "オータムスフィア"
+
+msgid "vcitem_0272_title"
+msgstr "ウィンタースフィア"
+
+msgid "vcitem_0272_desc"
+msgstr "ウィンタースフィア"
+
+msgid "vcitem_0273_title"
+msgstr "娘クジ☆抽選券"
+
+msgid "vcitem_0273_desc"
+msgstr "娘くじ☆抽選券"
+

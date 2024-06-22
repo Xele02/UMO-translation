@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "わたしのライブが\n生で見られるのよ、感謝なさい"
+
+msgid "talk_time_02"
+msgstr "体調管理も仕事の一環。\n怠っちゃダメよ"
+
+msgid "talk_time_03"
+msgstr "はっ！\n今いいフレーズが浮かんできたわ！"
+
+msgid "talk_time_04"
+msgstr "銀河の妖精って、\nなかなかいい呼び名だと思わない？"
+
+msgid "talk_time_05"
+msgstr "なぁに、じろじろ見て…\nあら、わたしに見惚れてるの？"
+
+msgid "talk_time_06"
+msgstr "ちょっと…\nわたしを置いてどこに行ったのよ？"
+
+msgid "talk_time_07"
+msgstr "♪～\n…このリズムじゃないわ、\nもっとこう…"
+
+msgid "talk_time_08"
+msgstr "ランカちゃんに\n連絡してみようかしら。\n…迷惑じゃないわよね？"
+
+msgid "talk_login_01"
+msgstr "おはよう。\n昨日はよく眠れた？"
+
+msgid "talk_login_02"
+msgstr "はぁい、がんばってる？"
+
+msgid "talk_login_03"
+msgstr "甘いものが食べたいわ…\nたい焼きなんてないかしら？"
+
+msgid "talk_login_04"
+msgstr "まだまだ今日はこれからよ！\nいけるわよね？"
+
+msgid "talk_login_05"
+msgstr "あら、眠れないの？\n…しょうがないわね、\n一緒に起きててあ・げ・る"
+
+msgid "talk_comeback_01"
+msgstr "べ、別に、\n待ってなんかいなかったわよ！"
+
+msgid "talk_comeback_02"
+msgstr "貰ったからには大切にしなさいよ？"
+
+msgid "talk_birthday_01"
+msgstr "誕生日を祝ってくれるのね…\nありがとう。嬉しいわ、とっても"
+
+msgid "talk_event_01"
+msgstr "お正月を言い訳に怠けるのは\n勿体ないわ。ふふっ、\nわたしにしっかりついてきなさい！"
+
+msgid "talk_event_02"
+msgstr "バレンタイン限定チョコたいやき\nですって。あとでアルトと一緒に\n食べに行こうかしら？"
+
+msgid "talk_event_03"
+msgstr "節分って楽しいわね！\nまた来年も豆まきに\nチャレンジしたいわ！"
+
+msgid "talk_event_04"
+msgstr "アルトが作るちらし寿司、\n絶品だったわ！\nまた作ってもらわなきゃね"
+
+msgid "talk_event_05"
+msgstr "あら、バレンタインのお返し？\nありがとう。\nランカちゃんにもあげた？"
+
+msgid "talk_event_06"
+msgstr "今日はエイプリルフール！\nみんながあっと驚くような嘘を\n考えないと！"
+
+msgid "talk_event_07"
+msgstr "ゴールデン…\nその名前に負けないよう、\nわたしも輝いてみせるわ！"
+
+msgid "talk_event_08"
+msgstr "結婚式は、女にとって一生に\n一度の大舞台…わたしにも、\nいつかその時が来るのかしら？"
+
+msgid "talk_event_09"
+msgstr "織姫と彦星、ね…\n星を見ているとインスピレーションが\n降ってきそうね！"
+
+msgid "talk_event_10"
+msgstr "ギラギラな夏ってのも\n面白そうでいいじゃない？"
+
+msgid "talk_event_11"
+msgstr "花火を見ていたら無性に\n歌いたくなってきたわ！\nライブはまだなの？"
+
+msgid "talk_event_12"
+msgstr "綺麗な月ね。ギャラクシーなら、\nきっとビルに隠れちゃうわ"
+
+msgid "talk_event_13"
+msgstr "仮装って、今までに会ったことの\nない自分に会えて楽しいわね！\nうふふっ！"
+
+msgid "talk_event_14"
+msgstr "ねぇ、一緒に文化しに行かない？"
+
+msgid "talk_event_15"
+msgstr "クリスマスプレゼントの用意は\nできてる？\nふふっ、楽しみにしてるわよ？"
+
+msgid "talk_event_16"
+msgstr "来年も、最高の歌を聴かせて\nあげるわ。だから、しっかり\nついてきなさい！"
+
+msgid "talk_event_17"
+msgstr "まだまだ行くわよ！\nついてらっしゃい！"
+
+msgid "talk_event_18"
+msgstr "みんな、最高だわ！\nこのままマクロスピードで\n突っ走るわよ！"
+
+msgid "talk_event_19"
+msgstr "おかげ様で\n200万ダウンロード達成よ！"
+
+msgid "talk_event_20"
+msgstr "1周年ね。あなたと過ごす時間は\nあっという間だわ"
+
+msgid "touch_reaction_01"
+msgstr "ちょっと、なにしてるのよ"
+
+msgid "touch_reaction_02"
+msgstr "どう？\nわたしの生まれたままのカ・ラ・ダ♡"
+
+msgid "touch_reaction_03"
+msgstr "そ、そんなところ触るなんて、\n生意気よ！"
+
+msgid "touch_reaction_04"
+msgstr "わたしのライブが\n生で見られるのよ、感謝なさい"
+
+msgid "touch_reaction_05"
+msgstr "体調管理も仕事の一環。\n怠っちゃダメよ"
+
+msgid "touch_reaction_06"
+msgstr "はっ！\n今いいフレーズが浮かんできたわ！"
+
+msgid "touch_reaction_07"
+msgstr "こんなに魅力的なんだもの、\n触りたくなる気持ちもわかるわ"
+
+msgid "touch_reaction_08"
+msgstr "…べ、別に撫でてくれなんて\n頼んでないわ！"
+
+msgid "login_reaction_01"
+msgstr "わたしからのプレゼントよ。\n受け取りなさい"
+
+msgid "login_reaction_02"
+msgstr "ありがたく思いなさいよね"
+
+msgid "simulation_result_01"
+msgstr "わたしはシェリルよ。\nたとえシミュレーションでも、\n絶対に手を抜いたりはしないわ"
+
+msgid "go_diva_result_01"
+msgstr "もっと努力する必要がありそうね"
+
+msgid "go_diva_result_02"
+msgstr "どう？少しは上達したかしら？"
+
+msgid "go_diva_result_03"
+msgstr "ふふっ。次のライブ、\n楽しみにしてなさい！"
+
+msgid "intimacy_pointup_01"
+msgstr "いいわね"
+
+msgid "intimacy_pointup_02"
+msgstr "上出来よ！"
+
+msgid "intimacy_pointup_03"
+msgstr "うふふっ"
+
+msgid "present_01"
+msgstr "ありがとう"
+
+msgid "present_02"
+msgstr "お腹がすいたわね…\nアルトでも誘って\n何か食べに行こうかしら？"
+
+msgid "present_03"
+msgstr "食事の時間もしっかり管理しないと、\n美しさは維持できないわ"
+
+msgid "present_04"
+msgstr "そろそろ食事の時間ね。\n今日は何を食べようかしら？"
+
+msgid "present_05"
+msgstr "調子が出ないときは\n思いっきり楽しんで\nすっきりするべきよね！"
+
+msgid "present_06"
+msgstr "退屈ね…\n何か楽しいことはないかしら？"
+
+msgid "present_07"
+msgstr "思いっきり気分転換がしたいの！\nねぇ、何かいい案はある？"
+
+msgid "present_08"
+msgstr "流行とかおしゃれは大事よ。\n常にアンテナを張っておきなさい"
+
+msgid "present_09"
+msgstr "自分に磨きをかけるのは、\nプロとして当然の事ね"
+
+msgid "present_10"
+msgstr "たまには、おしゃれをして\n気分を変えるのも大切よね"
+
+msgid "present_11"
+msgstr "上出来よ！"
+
+msgid "cs_touch_reaction_01"
+msgstr "なに？\nどうかしたの？"
+
+msgid "cs_touch_reaction_02"
+msgstr "ふふっ、呼んだかしら？"
+
+msgid "cs_touch_reaction_03"
+msgstr "ちょっと！\nもう、驚くじゃない…"
+
+msgid "cs_touch_reaction_04"
+msgstr "ねぇ、何か書くもの持ってない？\nいいインスピレーションが\n降りてきたの…！"
+
+msgid "cs_touch_reaction_05"
+msgstr "ランカちゃんと一緒に歌いたいわ…\nどこにいるのかしら？"
+
+msgid "cs_touch_reaction_06"
+msgstr "そんなに私と話したいの？\nふふっ、いいわよ？\n付き合ってあげる"
+
+msgid "cs_touch_reaction_07"
+msgstr "この衣装、どうかしら？\n…当然、答えは決まってるけどね"
+
+msgid "cs_touch_reaction_08"
+msgstr "どんな衣装も似合うわよ。\nだって、わたしは\nシェリル・ノームだもの！"
+
+msgid "cs_touch_reaction_09"
+msgstr "さてと、今日は何をして\n過ごしたいの？\n教えなさい！"
+
+msgid "cs_touch_reaction_10"
+msgstr "調子はどう？\n文化してる？"
+
+msgid "talk_event_21"
+msgstr "ハヤテがフレイアちゃんに送った\n誕生日プレゼント、\nなかなかロマンチックじゃない！"
+
+msgid "talk_event_22"
+msgstr "美雲の誕生日プレゼント、\n悩むわね…やっぱり一緒に\n歌うのが１番かしら？"
+
+msgid "talk_event_23"
+msgstr "カナメ、誕生日おめでとう！\nあなた、もっと自分を大事に\nしなさいね？"
+
+msgid "talk_event_24"
+msgstr "マキナ、誕生日おめでとう！\n今日の衣装もきゃわわ、だわ！"
+
+msgid "talk_event_25"
+msgstr "今日のマキナは、レイナに\nくっつきっぱなしみたい。\n年に一度のお祝いだものね。"
+
+msgid "talk_event_26"
+msgstr "ランカちゃん、誕生日おめでとう！\nランカちゃんに出会えて本当に\n良かったわ！"
+
+msgid "talk_event_27"
+msgstr "シェリル"
+
+msgid "talk_event_28"
+msgstr "バサラとガムリンに\nお祝いしてもらえて、\nミレーヌちゃん喜んでたわ！"
+
+msgid "talk_event_29"
+msgstr "バサラへのバースデープレゼントは\nもう決まってるわ。当然よ！"
+
+msgid "talk_event_30"
+msgstr "輝ったら、ミンメイへの\n誕生日プレゼントを何にするか\nまだ決まらないみたい"
+
+msgid "talk_event_31"
+msgstr "ハッピーバースデー、ハヤテ！\nフレイアちゃんとミラージュからは、\nもうお祝いしてもらえた？"
+
+msgid "talk_event_32"
+msgstr "ミラージュ"
+
+msgid "talk_event_33"
+msgstr "メッサー"
+
+msgid "talk_event_34"
+msgstr "アラド"
+
+msgid "talk_event_35"
+msgstr "チャック"
+
+msgid "talk_event_36"
+msgstr "ハッピーバースデー、アルト！\nプレゼントの中身は…\n開けるまでのお楽しみ！"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "レイ"
+
+msgid "talk_event_39"
+msgstr "輝"
+
+msgid "talk_event_40"
+msgstr "ガムリン"
+
+msgid "talk_event_41"
+msgstr "未沙"
+
+msgid "talk_event_42"
+msgstr "わたしたちの映画がやるわよ。\nしっかりチェックしてね"
+
+msgid "talk_event_43"
+msgstr "あなたのおかげで最高のステージに\nなったわ。このわたしが言うのよ、\n間違いないわ。本当にありがとう！"
+
+msgid "talk_event_44"
+msgstr "この先、自由に会えなくなるっていう\nのは残念だけど…立ち止まっては\nいられないわ。頑張らないと！"
+
+msgid "talk_event_45"
+msgstr "記憶は薄れても、歌は生き続ける。\nこれからも銀河中のみんなに、\nたくさん歌を残してあげないとね！"
+
+msgid "talk_event_46"
+msgstr "元々、Fire Bomberはリスペクト\nしてたのよ。こうして時空を超えて、\nそれが一層はっきりした気がするわ！"
+
+msgid "talk_event_47"
+msgstr "ミンメイが伝説の歌姫と呼ばれている\nのも納得ね。銀河を守るために、今も\nわたしたちと歌ってくれるんですもの"
+

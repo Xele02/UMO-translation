@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "そろそろライブの時間かな～？\nワクワク♪"
+
+msgid "talk_time_02"
+msgstr "ジークフリードちゃん達の\nメンテしてあげないとね～"
+
+msgid "talk_time_03"
+msgstr "きゃわわ！なお店発見！\n今度レイレイと行こ～♪"
+
+msgid "talk_time_04"
+msgstr "身体を休めるのも\nお仕事のひとつだよ？すやすや～"
+
+msgid "talk_time_05"
+msgstr "歌もメンテも、マキマキの\n大事なお仕事なのです！"
+
+msgid "talk_time_06"
+msgstr "あれ～？\n誰もいないの～？"
+
+msgid "talk_time_07"
+msgstr "♪～"
+
+msgid "talk_time_08"
+msgstr "レイレイ、ちゃんとご飯食べたかなぁ？"
+
+msgid "talk_login_01"
+msgstr "おはよ～。\nお肌の調子も良い感じ！"
+
+msgid "talk_login_02"
+msgstr "元気いっぱい、\n頑張っていこー！"
+
+msgid "talk_login_03"
+msgstr "お腹減っちゃった、\n休憩しよー？"
+
+msgid "talk_login_04"
+msgstr "今日も頑張ったー。\n満足満足"
+
+msgid "talk_login_05"
+msgstr "徹夜はお肌の大敵だよ？"
+
+msgid "talk_comeback_01"
+msgstr "もー、\nあんまり来ないと忘れちゃうぞ～？"
+
+msgid "talk_comeback_02"
+msgstr "今日もマキマキと\n一緒に頑張ろうねー！"
+
+msgid "talk_birthday_01"
+msgstr "私の誕生日知ってたんだね。\nえへへ、お祝いしてくれて\nありがと～！"
+
+msgid "talk_event_01"
+msgstr "新年初お着替えに、新年初メイク。\r\nそれと…新年初レイレイ！\r\nえへへ、なんてね？"
+
+msgid "talk_event_02"
+msgstr "バレンタインは毎年、\nみんなと一緒にチョコレートを\n作って、一緒に食べるんだよね"
+
+msgid "talk_event_03"
+msgstr "節分だよ！\n今日はみんなで豆まきをするんだ！\n鬼は～外、ってね！"
+
+msgid "talk_event_04"
+msgstr "バルキリー型のひな人形って\nないのかな～？あったら絶対\nきゃわわ～なのに"
+
+msgid "talk_event_05"
+msgstr "ホワイトデーだね。\nふっふっふ、レイレイと色々\n調査しなくっちゃ！"
+
+msgid "talk_event_06"
+msgstr "レイレイに嘘をつこうとしたん\nだけど、すぐにばれちゃった、\n全然ダメダメ…"
+
+msgid "talk_event_07"
+msgstr "連休だし、ジークフリードちゃん達も\n休ませてあげないとね～"
+
+msgid "talk_event_08"
+msgstr "レイレイの花嫁衣装なんて\n見た日には…\rうう、ダメダメの\nボロボロに泣いちゃうかも…"
+
+msgid "talk_event_09"
+msgstr "星空を見てたら、隣に座ってた\nレイレイが私の肩に寄りかかって\n寝ちゃったの。幸せな時間だったなぁ"
+
+msgid "talk_event_10"
+msgstr "暑くて気だるげなレイレイ\nきゃわわ～！！夏最高！"
+
+msgid "talk_event_11"
+msgstr "見て見て！\r\n今、うさちゃんの形の花火が\n上がったよ！\rきゃわわ～！"
+
+msgid "talk_event_12"
+msgstr "お月見ってさ、風流でいいよね～"
+
+msgid "talk_event_13"
+msgstr "さっきクモクモの悲鳴が\n聞こたんだけど…\r\nレイレイ、何かしちゃったのかな？"
+
+msgid "talk_event_14"
+msgstr "ラグナの学校じゃ、\n文化祭はクラゲの屋台でいっぱいだよ"
+
+msgid "talk_event_15"
+msgstr "クリスマスの夜は、ふわふわな魔法に\nかかったような気持ちになるの。\n不思議だよね…"
+
+msgid "talk_event_16"
+msgstr "来年も、ワルキューレのみんなと\r\n楽しく過ごせますように…"
+
+msgid "talk_event_17"
+msgstr "わ～い、ありがと～！\nこれからもよろしくね～！"
+
+msgid "talk_event_18"
+msgstr "すごいすごい！\nお祝いしなきゃ～！"
+
+msgid "talk_event_19"
+msgstr "200万ダウンロードだって、\nすごーい！"
+
+msgid "talk_event_20"
+msgstr "1周年ありがとう！\nこれからもよろしくね！"
+
+msgid "touch_reaction_01"
+msgstr "うん、どうしたのかな～？"
+
+msgid "touch_reaction_02"
+msgstr "こら、さわりすぎはダメ！"
+
+msgid "touch_reaction_03"
+msgstr "そんなところさわって…\nいけないんだからね？"
+
+msgid "touch_reaction_04"
+msgstr "そろそろライブの時間かな～？\nワクワク♪"
+
+msgid "touch_reaction_05"
+msgstr "ジークフリードちゃん達の\nメンテしてあげないとね～"
+
+msgid "touch_reaction_06"
+msgstr "きゃわわ！なお店発見！\n今度レイレイと行こ～♪"
+
+msgid "touch_reaction_07"
+msgstr "こらこら！マキマキだって\n怒るときはあるんだからね？"
+
+msgid "touch_reaction_08"
+msgstr "ふふふっ！あんまり触ると\nくすぐったいよ～！"
+
+msgid "login_reaction_01"
+msgstr "はいこれ、プレゼントだよ♪"
+
+msgid "login_reaction_02"
+msgstr "もっと喜んでもいいんだよ～？"
+
+msgid "simulation_result_01"
+msgstr "お疲れ様でした～！…なんて、\nシミュレーションだって忘れて\n思いっきり楽しんじゃった♪"
+
+msgid "go_diva_result_01"
+msgstr "まだまだ～！一緒に頑張ろうね！"
+
+msgid "go_diva_result_02"
+msgstr "いつもの私とは\nちょーっと違うでしょ？"
+
+msgid "go_diva_result_03"
+msgstr "スペシャルなお知らせが来てるよ！\nドキドキしちゃうね～"
+
+msgid "intimacy_pointup_01"
+msgstr "きゃわわ～！"
+
+msgid "intimacy_pointup_02"
+msgstr "いぇーい！"
+
+msgid "intimacy_pointup_03"
+msgstr "ばっちり～！"
+
+msgid "present_01"
+msgstr "ありがと～！"
+
+msgid "present_02"
+msgstr "お腹すいたな～、\n何かおいしいもの食べたーい！"
+
+msgid "present_03"
+msgstr "レイレイと一緒に、\nおいしいもの探しに行こっかな？"
+
+msgid "present_04"
+msgstr "間食はよくないんだけど…\nこの時間ならセーフだよね！"
+
+msgid "present_05"
+msgstr "う～ん…\n調子上がんないなぁ…"
+
+msgid "present_06"
+msgstr "暇だよ～…\n何か楽しいことはないかなー？"
+
+msgid "present_07"
+msgstr "うーん…なんか気分を\nぱーっと変えたいよね！"
+
+msgid "present_08"
+msgstr "お部屋の模様替えとか\n考えるのって楽しいよね！"
+
+msgid "present_09"
+msgstr "きゃわわ～な置き物とか、\nお店でついつい買っちゃうんだ～"
+
+msgid "present_10"
+msgstr "身の回りのものを\nぜーんぶきゃわわ～な\nアイテムにしたいなぁ"
+
+msgid "present_11"
+msgstr "ばっちり～！"
+
+msgid "cs_touch_reaction_01"
+msgstr "うふふ、くすぐった～い"
+
+msgid "cs_touch_reaction_02"
+msgstr "ねぇねぇ、何してるの？"
+
+msgid "cs_touch_reaction_03"
+msgstr "ぷにぷにしちゃだ～め！"
+
+msgid "cs_touch_reaction_04"
+msgstr "レイレイも、そうやって\nツンツンってしてくるんだよね"
+
+msgid "cs_touch_reaction_05"
+msgstr "はいはーい！マキマキだよ？"
+
+msgid "cs_touch_reaction_06"
+msgstr "今日のみんなのきゃわわ度は、\n何パーセントくらいかな～？"
+
+msgid "cs_touch_reaction_07"
+msgstr "この髪型も好きだけど、\nあっちの髪型も好きだし…\nうーん、悩む…"
+
+msgid "cs_touch_reaction_08"
+msgstr "あれ～？\nレイレイはどこだろ～？"
+
+msgid "cs_touch_reaction_09"
+msgstr "ねぇねぇ、私とお話する？"
+
+msgid "cs_touch_reaction_10"
+msgstr "見て見て！このメカメカ、\nきゃわわ～でしょ？"
+
+msgid "talk_event_21"
+msgstr "今日はフレフレのお誕生日。\nハヤハヤはどんなお祝いを\nするのかな～？"
+
+msgid "talk_event_22"
+msgstr "バースデーケーキのロウソクを\n吹き消すクモクモ…\rきゃわわ～！"
+
+msgid "talk_event_23"
+msgstr "カナカナ、お誕生日おめでとう！\nいつも支えてくれて\n本当にありがとう！"
+
+msgid "talk_event_24"
+msgstr "マキナ"
+
+msgid "talk_event_25"
+msgstr "レイレイのためにクラゲの\nぬいぐるみを\r作ったの！\nえへへ、喜んでくれるといいなぁ…"
+
+msgid "talk_event_26"
+msgstr "ランラン、お誕生日おめでとう！\nきゃわわ～なプレゼント用意したよ！"
+
+msgid "talk_event_27"
+msgstr "シェリシェリに渡すプレゼント、\nどんなものに\rしようかな～？\nランランに相談してみよっと！"
+
+msgid "talk_event_28"
+msgstr "もうすぐ叔母様の誕生日だからって、\r\nミラミラ張り切ってたんだよ！\nきゃわわ～！"
+
+msgid "talk_event_29"
+msgstr "バサラさんへのお誕生日\nプレゼントは…\rやっぱり、\n歌で決定だね！"
+
+msgid "talk_event_30"
+msgstr "ミンミンは今、誕生日パーティーの\n最中かな？\n\rあとで連絡してみよっと！"
+
+msgid "talk_event_31"
+msgstr "ハヤテ"
+
+msgid "talk_event_32"
+msgstr "ハッピーバースデー、ミラミラ！\n今日くらいは肩の力を抜いて、\nきゃわわ～なミラミラを見せてね♪"
+
+msgid "talk_event_33"
+msgstr "メッサー"
+
+msgid "talk_event_34"
+msgstr "アラド"
+
+msgid "talk_event_35"
+msgstr "チャック"
+
+msgid "talk_event_36"
+msgstr "アルト"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "レイ"
+
+msgid "talk_event_39"
+msgstr "輝"
+
+msgid "talk_event_40"
+msgstr "ハッピーバースデー、ガムリンさん！\nガムリンさんのナイトメアちゃんも\nお祝いしてるよ！"
+
+msgid "talk_event_41"
+msgstr "未沙"
+
+msgid "talk_event_42"
+msgstr "私たちが映画になったんだって！\nわぁ～楽しみ！"
+
+msgid "talk_event_43"
+msgstr "いっぱい歌って、きゃわわな衣装も\nたくさん見られて幸せだったよ～！\n全部あなたのおかげだね、ありがとう"
+
+msgid "talk_event_44"
+msgstr "今までの思い出を、全部記録に残して\nおかないと。ほら、これとかすっごく\nきゃわわ～！…ハッ、全然進まない！"
+
+msgid "talk_event_45"
+msgstr "ランランの髪の毛、ピコピコ触って\nみたかったのに…超時空ネットワーク\nの改修、結局間に合わなかったよ～！"
+
+msgid "talk_event_46"
+msgstr "ミレミレはさみしいって言ってくれた\nけど、バサラさんはいつも通り！\nでも、その方がバサラさんらしいよね"
+
+msgid "talk_event_47"
+msgstr "ミンミンにはお別れよりも、一緒に\n歌ってくれてありがとう、って伝え\nたいなぁ。それぐらい嬉しかったよ！"
+

@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "女神の歌で、\nあなたに力をあげるわ"
+
+msgid "talk_time_02"
+msgstr "ほら、\n早く私を楽しませてごらんなさい"
+
+msgid "talk_time_03"
+msgstr "身体のケアは大事よ。\n特に喉は、しっかりしないとね"
+
+msgid "talk_time_04"
+msgstr "人はなぜ、歌を歌うのかしら？\nそして、私も…"
+
+msgid "talk_time_05"
+msgstr "私のことを知りたいの？\nなら、私の歌を聴きなさい"
+
+msgid "talk_time_06"
+msgstr "…どこに行ったのかしらね"
+
+msgid "talk_time_07"
+msgstr "あら…\nあんなところにウミネコ"
+
+msgid "talk_time_08"
+msgstr "女神もたまには暇を感じたくなるのよ"
+
+msgid "talk_login_01"
+msgstr "おはよう。\nお目覚めはいかが？"
+
+msgid "talk_login_02"
+msgstr "輝く太陽のように、\n力強く歌いましょうか"
+
+msgid "talk_login_03"
+msgstr "一緒に休憩する？\nフフフ"
+
+msgid "talk_login_04"
+msgstr "きれいな夜ね。\nまだまだ歌えるわよ？"
+
+msgid "talk_login_05"
+msgstr "もう眠るわ。\n体調管理が大事なの"
+
+msgid "talk_comeback_01"
+msgstr "一度女神に魅せられたら、\n逃れられないものよ"
+
+msgid "talk_comeback_02"
+msgstr "今日も頑張りなさい"
+
+msgid "talk_birthday_01"
+msgstr "私、誕生日なんて\n祝ってもらったことがないの"
+
+msgid "talk_event_01"
+msgstr "不思議ね、年が明ける瞬間って。\n何もかも、新しくなったような\n気分になるわ"
+
+msgid "talk_event_02"
+msgstr "今日はバレンタイン。\n甘いチョコレートとともに、\n愛を伝えあう日…なんですって"
+
+msgid "talk_event_03"
+msgstr "節分ね。\n豆まきをするといっていたけど、\n楽しいのかしら？"
+
+msgid "talk_event_04"
+msgstr "ひな祭り、ね…\nどんな祭りになるのか楽しみだわ"
+
+msgid "talk_event_05"
+msgstr "お返し？せっかくだから\nもらってあげるわ"
+
+msgid "talk_event_06"
+msgstr "実は、私、カナメの妹なの。\nなんて嘘よ、\n今日はエイプリルフールだもの"
+
+msgid "talk_event_07"
+msgstr "休みというのは、\n気の向くままに過ごすものよ"
+
+msgid "talk_event_08"
+msgstr "ウェディングドレスを着たら、\nみんな寂しそうな顔をしていたの。\n何故かしら"
+
+msgid "talk_event_09"
+msgstr "星は歌う。離れ離れになった\n恋人たちの悲しき歌を…"
+
+msgid "talk_event_10"
+msgstr "スイカ割り、ビーチフラッグ…\n面白いわね"
+
+msgid "talk_event_11"
+msgstr "ミラージュがそわそわしながら\nお祭りに行ったわ。\nふふっ、楽しみにしてたのね"
+
+msgid "talk_event_12"
+msgstr "月見団子？…ひとつだけいただくわ"
+
+msgid "talk_event_13"
+msgstr "マキナが仮装用の衣装を用意して\nくれるそうよ。どんなハロウィンに\nなるのかしら"
+
+msgid "talk_event_14"
+msgstr "戦場でも文化祭でも、\nライブなら全力で歌うだけよ"
+
+msgid "talk_event_15"
+msgstr "メリークリスマス。\n空に雪降る神秘の夜…\n素敵な聖夜が訪れるといいわね"
+
+msgid "talk_event_16"
+msgstr "来年はどんな出会いがあって、\nどんな思い出が紡がれるのかしら"
+
+msgid "talk_event_17"
+msgstr "すごい数の観客…\nでも、まだ終わりじゃないわよ？"
+
+msgid "talk_event_18"
+msgstr "100万人の期待、\n私が応えてみせるわ！"
+
+msgid "talk_event_19"
+msgstr "200万ダウンロード…\n面白くなってきたじゃない"
+
+msgid "talk_event_20"
+msgstr "一周年を迎えられたのも、\nあなたのおかげね"
+
+msgid "touch_reaction_01"
+msgstr "あら、どうしたの？"
+
+msgid "touch_reaction_02"
+msgstr "まあ、なかなかいい度胸じゃない"
+
+msgid "touch_reaction_03"
+msgstr "ふふっ、おいたがすぎるわよ"
+
+msgid "touch_reaction_04"
+msgstr "女神の歌で、\nあなたに力をあげるわ"
+
+msgid "touch_reaction_05"
+msgstr "ほら、\n早く私を楽しませてごらんなさい"
+
+msgid "touch_reaction_06"
+msgstr "身体のケアは大事よ。\n特に喉は、しっかりしないとね"
+
+msgid "touch_reaction_07"
+msgstr "何か用？\n話くらいなら聞いてあげるわ"
+
+msgid "touch_reaction_08"
+msgstr "…撫でられるって\n不思議な気持ちね"
+
+msgid "login_reaction_01"
+msgstr "女神からのおくりものよ、\n受け取って"
+
+msgid "login_reaction_02"
+msgstr "きっとあなたの力になってくれるわ"
+
+msgid "simulation_result_01"
+msgstr "なかなかいいライブだったわ。\nシミュレーションというのも、\nたまには悪くないものね"
+
+msgid "go_diva_result_01"
+msgstr "努力は報われる。\nそう言うでしょう？"
+
+msgid "go_diva_result_02"
+msgstr "自分の世界が少しずつ広がるのは\n不思議な気分ね"
+
+msgid "go_diva_result_03"
+msgstr "『特別』って響き…\n惹かれるものがあるわよね？"
+
+msgid "intimacy_pointup_01"
+msgstr "ふふっ"
+
+msgid "intimacy_pointup_02"
+msgstr "いいわね"
+
+msgid "intimacy_pointup_03"
+msgstr "上出来だわ"
+
+msgid "present_01"
+msgstr "ありがとう"
+
+msgid "present_02"
+msgstr "ここにはまだ食べたことないものが\nたくさんあるわね"
+
+msgid "present_03"
+msgstr "たまには、いつもと違うものを\n食べてみようかしら"
+
+msgid "present_04"
+msgstr "食事の時間ね。\n少しだけ休憩しようかしら"
+
+msgid "present_05"
+msgstr "元気がない…？\n自分じゃよくわからないわ"
+
+msgid "present_06"
+msgstr "ふふっ、いつもと違う\n楽しいことをしてみたいわね"
+
+msgid "present_07"
+msgstr "気分転換…っていうものをするには\nどうすればいいのかしら"
+
+msgid "present_08"
+msgstr "こう見えて、香りや肌触りには\n気を使っているの"
+
+msgid "present_09"
+msgstr "おしゃれなものを持つと\n気分が変わると聞いたわ…\nそういうもの？"
+
+msgid "present_10"
+msgstr "あまり買い物はしないけれど、\nたまには悪くないわね"
+
+msgid "present_11"
+msgstr "いいわね"
+
+msgid "cs_touch_reaction_01"
+msgstr "私を呼んだ？"
+
+msgid "cs_touch_reaction_02"
+msgstr "女神の歌声を聞きたいの？"
+
+msgid "cs_touch_reaction_03"
+msgstr "少し話相手になってくれる？"
+
+msgid "cs_touch_reaction_04"
+msgstr "…クラゲチップスって\n美味しいのかしら"
+
+msgid "cs_touch_reaction_05"
+msgstr "水は冷たい。風は涼しい。\n人の手は…あたたかい"
+
+msgid "cs_touch_reaction_06"
+msgstr "今日も女神の歌を、\n銀河に響かせるわ"
+
+msgid "cs_touch_reaction_07"
+msgstr "魅力的な衣装は、\n歌を魅せるためにある\n…そうでしょう？"
+
+msgid "cs_touch_reaction_08"
+msgstr "暇なら、一緒に海に行く？"
+
+msgid "cs_touch_reaction_09"
+msgstr "まだまだ、\n私について来られるでしょう？"
+
+msgid "cs_touch_reaction_10"
+msgstr "ふふ。もっと話しましょう？"
+
+msgid "talk_event_21"
+msgstr "フレイアのバースデーパーティーの\n準備…今年は、私も参加してみよう\nかしら"
+
+msgid "talk_event_22"
+msgstr "美雲"
+
+msgid "talk_event_23"
+msgstr "カナメ、誕生日おめでとう。\nみんな色々準備をしているようね"
+
+msgid "talk_event_24"
+msgstr "マキナ、誕生日おめでとう。\n今日はあなたの選んだ服を着てあげる"
+
+msgid "talk_event_25"
+msgstr "レイナの誕生日パーティー、\n今年もマキナがすごく\n張り切っていたわ"
+
+msgid "talk_event_26"
+msgstr "ランカ、誕生日おめでとう。\nにぎやかな一日になりそうね。"
+
+msgid "talk_event_27"
+msgstr "シェリル…ランカとアルトに\n祝われて、とても幸せそうね"
+
+msgid "talk_event_28"
+msgstr "ねぇ、ガムリン。ミレーヌの誕生日を\n祝い損ねないように気をつけなさい"
+
+msgid "talk_event_29"
+msgstr "ガムリン、バサラへの誕生日\nプレゼントを考えているみたいね。\n何を贈るつもりなのかしら"
+
+msgid "talk_event_30"
+msgstr "今日のミンメイの歌声、\nとても綺麗な色をしているわ。\n愛に満ちた星雲の色…"
+
+msgid "talk_event_31"
+msgstr "ハヤテ"
+
+msgid "talk_event_32"
+msgstr "ミラージュ。誕生日おめでとう\nあなたにはいつも感謝しているわ\n…本当よ？"
+
+msgid "talk_event_33"
+msgstr "誕生日おめでとう、メッサー。\n…祝われるのは苦手、\nって顔してるわね"
+
+msgid "talk_event_34"
+msgstr "アラド"
+
+msgid "talk_event_35"
+msgstr "チャック"
+
+msgid "talk_event_36"
+msgstr "アルト"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "レイ"
+
+msgid "talk_event_39"
+msgstr "輝"
+
+msgid "talk_event_40"
+msgstr "ガムリン"
+
+msgid "talk_event_41"
+msgstr "未沙"
+
+msgid "talk_event_42"
+msgstr "私たちが映画になるらしいわ。\nなかなか興味深いわね"
+
+msgid "talk_event_43"
+msgstr "私たちがここまでやってこれたのも、\nすべてあなたのおかげよ。…ふふっ\n嘘なんかじゃないわ、本当のことよ"
+
+msgid "talk_event_44"
+msgstr "私、あなたのこと尊敬してるのよ。\nこれだけの歌姫たちを支えたなんて、\n並大抵のことじゃない…そうでしょ？"
+
+msgid "talk_event_45"
+msgstr "別れることになったとしても、\n私たちの繋がりは決して消えない。\nそう、歌は死なない…いい言葉ね。"
+
+msgid "talk_event_46"
+msgstr "ミラージュはミレーヌとずいぶん\n話し込んでいたみたいね。\nやっぱり寂しいんじゃないかしら。"
+
+msgid "talk_event_47"
+msgstr "時空を超えて再び銀河のために歌った\nミンメイ。彼女は納得しないでしょう\nけど、紛れもなく伝説の歌姫だったわ"
+

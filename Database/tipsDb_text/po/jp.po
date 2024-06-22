@@ -1,0 +1,951 @@
+msgid ""
+msgstr ""
+
+msgid "tips_0000_title"
+msgstr "【スキル】スコアアップってなに？"
+
+msgid "tips_0000_msg"
+msgstr "発動すると獲得スコアがアップするわ\n集中してノーツをタップしてね"
+
+msgid "tips_0001_title"
+msgstr "【スキル】ライフ回復ってなに？"
+
+msgid "tips_0001_msg"
+msgstr "発動するとライフが回復するわ\nまさに窮地を救ってくれるスキルね"
+
+msgid "tips_0002_title"
+msgstr "【スキル】ダメージ軽減ってなに？"
+
+msgid "tips_0002_msg"
+msgstr "発動するとダメージが軽減されるわ\n歌い続けるために重要なスキルね"
+
+msgid "tips_0003_title"
+msgstr "【スキル】判定緩和ってなに？"
+
+msgid "tips_0003_msg"
+msgstr "発動するとタップ判定が緩和されるわ\nうまくタップできないときはこれね！"
+
+msgid "tips_0004_title"
+msgstr "【スキル】コンボ継続ってなに？"
+
+msgid "tips_0004_msg"
+msgstr "発動するとコンボが途切れなくなるわ\nスコアアップに役立つスキルよ"
+
+msgid "tips_0005_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0005_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nランランきゃわわ過ぎ～！"
+
+msgid "tips_0006_title"
+msgstr "超歌姫モードってなに？"
+
+msgid "tips_0006_msg"
+msgstr "バルキリーで戦闘中、追撃モードで\n敵を撃退すれば発生する特別なライブよ！"
+
+msgid "tips_0007_title"
+msgstr "ユニットセットってなに？"
+
+msgid "tips_0007_msg"
+msgstr "編成したお気に入りのユニットを\n保存しておけるの"
+
+msgid "tips_0008_title"
+msgstr "鳥の人ってなに？"
+
+msgid "tips_0008_msg"
+msgstr "プロトカルチャーが残した巨大兵器よ\n記憶を壊してしまう恐ろしい存在ね"
+
+msgid "tips_0009_title"
+msgstr "フルコンボのコツ"
+
+msgid "tips_0009_msg"
+msgstr "判定緩和のスキルを使えば\n難しい楽曲でもフルコンボできるかもね"
+
+msgid "tips_0010_title"
+msgstr "超時空SNSってなに？"
+
+msgid "tips_0010_msg"
+msgstr "時空を超えた通信ができる\nとてもすごいSNSアプリ"
+
+msgid "tips_0011_title"
+msgstr "タイミング調整ってなに？"
+
+msgid "tips_0011_msg"
+msgstr "ノーツと楽曲のタイミングがズレる…\nそんなときはタイミング調整を試してね"
+
+msgid "tips_0012_title"
+msgstr "能力解放ってなに？"
+
+msgid "tips_0012_msg"
+msgstr "能力解放でエピソードプレートを\n強化しましょう！"
+
+msgid "tips_0013_title"
+msgstr "エピソードプレートってなに？"
+
+msgid "tips_0013_msg"
+msgstr "この世界の記憶の断片みたいなものかしら\nだからいろんなイメージが存在しているの"
+
+msgid "tips_0014_title"
+msgstr "自動編成ってなに？"
+
+msgid "tips_0014_msg"
+msgstr "ユニット編成が難しいときは、これ！\n適したユニットを自動で編成してくれるわ"
+
+msgid "tips_0015_title"
+msgstr "エピソードってなに？"
+
+msgid "tips_0015_msg"
+msgstr "エピソードを解放していくことで、\n衣装やバルキリーが手に入るわ"
+
+msgid "tips_0016_title"
+msgstr "衣装ってなに？"
+
+msgid "tips_0016_msg"
+msgstr "衣装によってステータスが変化するの\nいろんな衣装でライブを楽しみましょう！"
+
+msgid "tips_0017_title"
+msgstr "フレイアのひみつ"
+
+msgid "tips_0017_msg"
+msgstr "頭のこれは「ルン」っていうんよ！\nピカピカ光ってすごいやろ？"
+
+msgid "tips_0018_title"
+msgstr "美雲のひみつ"
+
+msgid "tips_0018_msg"
+msgstr "残念だけど、私のひみつは\nそう簡単には教えてあげられないわ"
+
+msgid "tips_0019_title"
+msgstr "カナメのひみつ"
+
+msgid "tips_0019_msg"
+msgstr "ソロ活動をしていたときがあったの\n今はワルキューレ以外考えられないけどね"
+
+msgid "tips_0020_title"
+msgstr "マキナのひみつ"
+
+msgid "tips_0020_msg"
+msgstr "私のおじいちゃんは整備士だったの\n私もメカメカ大好きだよ～♪"
+
+msgid "tips_0021_title"
+msgstr "レイナのひみつ"
+
+msgid "tips_0021_msg"
+msgstr "クラゲは生で丸呑み"
+
+msgid "tips_0022_title"
+msgstr "ランカのひみつ"
+
+msgid "tips_0022_msg"
+msgstr "実はね、ミス・マクロス・フロンティアは\nお兄ちゃんに内緒で応募しちゃったんだ！"
+
+msgid "tips_0023_title"
+msgstr "シェリルのひみつ"
+
+msgid "tips_0023_msg"
+msgstr "ギャラクシーにはいろんな思い出があるの\nそれはもう話しきれないくらいね"
+
+msgid "tips_0024_title"
+msgstr "ミレーヌのひみつ"
+
+msgid "tips_0024_msg"
+msgstr "ウチにはお姉ちゃんが6人もいるの\n末娘だからって子供扱いしないでね！"
+
+msgid "tips_0025_title"
+msgstr "バサラのひみつ"
+
+msgid "tips_0025_msg"
+msgstr "ひみつにしてることなんてないぜ？\n俺はいつでも俺の歌を歌うだけだ！"
+
+msgid "tips_0026_title"
+msgstr "ミンメイのひみつ"
+
+msgid "tips_0026_msg"
+msgstr "実はレッスンの合間に、ちょっとだけ\n抜け出して街に行くことがあるのよ！"
+
+msgid "tips_0027_title"
+msgstr "バルキリーってなに？"
+
+msgid "tips_0027_msg"
+msgstr "三段変形が可能な戦闘機よ\n機体ごとに性能や特性が違っているの"
+
+msgid "tips_0028_title"
+msgstr "記憶の時空ってなに？"
+
+msgid "tips_0028_msg"
+msgstr "世界中の人の記憶が存在している場所よ\n私たちの歌で、その記憶は修復されるわ"
+
+msgid "tips_0029_title"
+msgstr "ライブのひみつ"
+
+msgid "tips_0029_msg"
+msgstr "特定のユニット編成でライブをすると\n演出が変化することがあるみたい"
+
+msgid "tips_0030_title"
+msgstr "サービスガチャってなに？"
+
+msgid "tips_0030_msg"
+msgstr "1日3回まで引くことができるガチャよ\n朝・昼・夜の1回ずつ、忘れないでね"
+
+msgid "tips_0031_title"
+msgstr "ミッションってなに？"
+
+msgid "tips_0031_msg"
+msgstr "クリアすれば報酬をもらうことができるわ\n頑張って挑戦してみましょう！"
+
+msgid "tips_0032_title"
+msgstr "称号ってなに？"
+
+msgid "tips_0032_msg"
+msgstr "イベントで頑張るともらえるわ\n他にもいろんな入手方法があるの"
+
+msgid "tips_0033_title"
+msgstr "データ引き継ぎってなに？"
+
+msgid "tips_0033_msg"
+msgstr "機種変更を行うときは、\nデータ引き継ぎを忘れないようにね！"
+
+msgid "tips_0034_title"
+msgstr "楽曲レベルってなに？"
+
+msgid "tips_0034_msg"
+msgstr "同じ難易度でも楽曲ごとにレベルがあるの\n楽曲レベルが高い方が難しいのよ"
+
+msgid "tips_0035_title"
+msgstr "アクティブスキルってなに？"
+
+msgid "tips_0035_msg"
+msgstr "任意のタイミングで発動できるスキルよ\nここぞというときに使ってね"
+
+msgid "tips_0036_title"
+msgstr "生体フォールド波ってなに？"
+
+msgid "tips_0036_msg"
+msgstr "私たちの歌の力、そのものよ\n鳥の人に対抗する唯一の手段なの"
+
+msgid "tips_0037_title"
+msgstr "レアリティってなに？"
+
+msgid "tips_0037_msg"
+msgstr "レアリティの高いエピソードプレートほど\n強力なスキルが発動するわ"
+
+msgid "tips_0038_title"
+msgstr "コンティニューってなに？"
+
+msgid "tips_0038_msg"
+msgstr "ライブに失敗したとき、歌晶石を使って\n再挑戦することができるわ"
+
+msgid "tips_0039_title"
+msgstr "EXTREMEってなに？"
+
+msgid "tips_0039_msg"
+msgstr "とっても難しい楽曲難易度のことよ\n腕に自信がある人は挑戦してみてね"
+
+msgid "tips_0040_title"
+msgstr "バルキリーモードってなに？"
+
+msgid "tips_0040_msg"
+msgstr "生体フォールド波を高めれば発動するわ\n歌の力でパイロットを応援してね"
+
+msgid "tips_0041_title"
+msgstr "アイテムノーツってなに？"
+
+msgid "tips_0041_msg"
+msgstr "タップすればアイテムを獲得できるわ\n何が手に入るか楽しみね！"
+
+msgid "tips_0042_title"
+msgstr "レアアイテムノーツってなに？"
+
+msgid "tips_0042_msg"
+msgstr "より豪華なアイテムを獲得できるわ\n逃さずタップしていきましょう！"
+
+msgid "tips_0043_title"
+msgstr "LUCKってなに？"
+
+msgid "tips_0043_msg"
+msgstr "LUCKが高いほどレアアイテムノーツが\nたくさん出現するの"
+
+msgid "tips_0044_title"
+msgstr "レアリティアップってなに？"
+
+msgid "tips_0044_msg"
+msgstr "同じエピソードプレート2枚で\nレアリティがひとつアップするの"
+
+msgid "tips_0045_title"
+msgstr "シークレットボードってなに？"
+
+msgid "tips_0045_msg"
+msgstr "同じエピソードプレートが3枚あると\nさらに能力を解放することができるわ"
+
+msgid "tips_0046_title"
+msgstr "View(歌姫)ってなに？"
+
+msgid "tips_0046_msg"
+msgstr "私たちの姿をじっくり見ることができるわ\n恥ずかしいから、見過ぎはダメよ"
+
+msgid "tips_0047_title"
+msgstr "View(バルキリー)ってなに？"
+
+msgid "tips_0047_msg"
+msgstr "きゃわわ～なバルキリーちゃんを\nじっくり隅々まで観察できるよ♪"
+
+msgid "tips_0048_title"
+msgstr "楽屋ってなに？"
+
+msgid "tips_0048_msg"
+msgstr "歌姫や衣装の変更を行うことができるわ\nあなたのお気に入りは誰かしら？"
+
+msgid "tips_0049_title"
+msgstr "フリックノーツってなに？"
+
+msgid "tips_0049_msg"
+msgstr "ライブ中に現れたら、\nノーツがとがっている方向にフリックしてね"
+
+msgid "tips_0050_title"
+msgstr "デカルガチャってなに？"
+
+msgid "tips_0050_msg"
+msgstr "歌晶石で引くことができるガチャよ\nどんなものが当たるか楽しみね"
+
+msgid "tips_0051_title"
+msgstr "ライブクリアのコツ"
+
+msgid "tips_0051_msg"
+msgstr "ライブが難しくてクリアできないときは、\nライフを強化してみるのがオススメよ"
+
+msgid "tips_0052_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0052_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nキリっとしたランランもきゃわわ～かっこいい♪"
+
+msgid "tips_0053_title"
+msgstr "ノーツスピード設定ってなに？"
+
+msgid "tips_0053_msg"
+msgstr "ノーツのスピードは、ライブ開始前に\n「ゲーム設定」の画面から設定できるわよ"
+
+msgid "tips_0054_title"
+msgstr "もっとTOTALを上げよう！"
+
+msgid "tips_0054_msg"
+msgstr "TOTALが低くて悩んでいるのかしら？\nそれなら、プレートを強化しなさい"
+
+msgid "tips_0055_title"
+msgstr "もっとコンボをつないでみよう！"
+
+msgid "tips_0055_msg"
+msgstr "タップの失敗が多いときは、コンボ継続か、\n判定緩和のスキルを使うといいらしいぜ"
+
+msgid "tips_0056_title"
+msgstr "高難度なレベルに挑戦してみよう！"
+
+msgid "tips_0056_msg"
+msgstr "今よりも高難易度に挑戦してみない？\nうまくいけばもっとスコアを伸ばせるわよ"
+
+msgid "tips_0057_title"
+msgstr "スコアアップのスキルを使ってみよう！"
+
+msgid "tips_0057_msg"
+msgstr "戦力に差がないのに何故か勝てないときは\nスコアアップのスキルが効果的です"
+
+msgid "tips_0058_title"
+msgstr "ラッキーリーフってなに？"
+
+msgid "tips_0058_msg"
+msgstr "ラッキーリーフを解放すれば\nライブ中に何かいいことが起きるかもな"
+
+msgid "tips_0059_title"
+msgstr "ノーツデザイン設定ってなに？"
+
+msgid "tips_0059_msg"
+msgstr "ノーツの見た目を変えたいんだったら\n「ゲーム設定」の画面から変更できるぞ"
+
+msgid "tips_0060_title"
+msgstr "ケイオス交換所ってなに？"
+
+msgid "tips_0060_msg"
+msgstr "いろいろなアイテムが交換できるのよ\n期間限定アイテムのチェックは忘れずにね"
+
+msgid "tips_0061_title"
+msgstr "超時空プリズムってなに？"
+
+msgid "tips_0061_msg"
+msgstr "歌姫や衣装の見た目を変更できる\nとてもすごい機能"
+
+msgid "tips_0062_title"
+msgstr "シミュレーションライブってなに？"
+
+msgid "tips_0062_msg"
+msgstr "S-LIVEトークンを使えば\n私たちのライブをじっくり鑑賞できるわ"
+
+msgid "tips_0063_title"
+msgstr "イベントストーリーってなに？"
+
+msgid "tips_0063_msg"
+msgstr "見逃したイベントの超時空SNSは\nSNSアンロックキーで見返すことができる"
+
+msgid "tips_0064_title"
+msgstr "「デカルチャー」ってなに？"
+
+msgid "tips_0064_msg"
+msgstr "ゼントラーディ語のひとつね\n驚きや感動を表現するときに使うのよ"
+
+msgid "tips_0065_title"
+msgstr "キュルルってなに？"
+
+msgid "tips_0065_msg"
+msgstr "私たちが飼っているウミネコよ\n実は、あのしましま模様は洋服の柄なの"
+
+msgid "tips_0066_title"
+msgstr "オオサンショウウオさんってなに？"
+
+msgid "tips_0066_msg"
+msgstr "私の持ってる携帯端末の名前だよ！\n生き物みたいでかわいいでしょ？"
+
+msgid "tips_0067_title"
+msgstr "空中騎士団ってなに？"
+
+msgid "tips_0067_msg"
+msgstr "ウィンダミア王国の可変戦闘機部隊だ\n聖騎士団長はロイドが務めている"
+
+msgid "tips_0068_title"
+msgstr "デルタ小隊ってなに？"
+
+msgid "tips_0068_msg"
+msgstr "ワルキューレを護衛するバルキリー部隊だ\nライブのパフォーマーも兼ねている"
+
+msgid "tips_0069_title"
+msgstr "S.M.Sってなに？"
+
+msgid "tips_0069_msg"
+msgstr "S.M.Sは民間軍事プロバイダーなんだ\n新型機の評価試験なんかもやってるらしい"
+
+msgid "tips_0070_title"
+msgstr "娘々ってなに？"
+
+msgid "tips_0070_msg"
+msgstr "おじさんが経営してる中華料理店なの\nどのお料理もとってもおいしいのよ！"
+
+msgid "tips_0071_title"
+msgstr "ゼントラーディってなに？"
+
+msgid "tips_0071_msg"
+msgstr "巨大で強靭な肉体を持つ巨人族で、\n今では地球人類と共存しているんだ"
+
+msgid "tips_0072_title"
+msgstr "バジュラってなに？"
+
+msgid "tips_0072_msg"
+msgstr "虫のような見た目の宇宙生物で、\n集団で襲いかかってくることもあるんだ"
+
+msgid "tips_0073_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0073_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nキラキラしてて素敵だよね～！"
+
+msgid "tips_0074_title"
+msgstr "衣装強化ってなに？"
+
+msgid "tips_0074_msg"
+msgstr "持ってる衣装を強化することができるの\nきゃわわ～な色の衣装が解放されるかも？"
+
+msgid "tips_0075_title"
+msgstr "オペレーションってなに？"
+
+msgid "tips_0075_msg"
+msgstr "バルキリー小隊にオペレーションを依頼\nあとは待つだけ"
+
+msgid "tips_0076_title"
+msgstr "歌姫オペレーションってなに？"
+
+msgid "tips_0076_msg"
+msgstr "私たち歌姫からの個人的なお願い"
+
+msgid "tips_0077_title"
+msgstr "スライドノーツってなに？"
+
+msgid "tips_0077_msg"
+msgstr "レーンをまたいだロングノーツよ\n指を離さずずらせばいいのよ"
+
+msgid "tips_0078_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0078_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nランランきゃわわ過ぎ～！"
+
+msgid "tips_0079_title"
+msgstr "スコアアップのこつ －1－"
+
+msgid "tips_0079_msg"
+msgstr "このライブスキルは楽曲の長さが重要なの\n長い楽曲と短い楽曲で使いわけてね！"
+
+msgid "tips_0080_title"
+msgstr "デコルームってなに？"
+
+msgid "tips_0080_msg"
+msgstr "デコアイテムを配置\nアイデア次第でどんな部屋も作れる"
+
+msgid "tips_0081_title"
+msgstr "バルキリー強化ってなに？"
+
+msgid "tips_0081_msg"
+msgstr "バルキリーを強化\n新しい能力を解放できる"
+
+msgid "tips_0082_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0082_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nキリっとしたランランもきゃわわ～かっこいい♪"
+
+msgid "tips_0083_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0083_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nランランきゃわわ過ぎ～！"
+
+msgid "tips_0084_title"
+msgstr "歌姫イベント ～スペシャルライブ～"
+
+msgid "tips_0084_msg"
+msgstr "獲得エールが増えるスペシャルなライブよ！\n「獲得エール〇倍」のラベルが目印ね"
+
+msgid "tips_0085_title"
+msgstr "歌姫イベント ～エール～"
+
+msgid "tips_0085_msg"
+msgstr "ライブでもらえる声援を数値化したものよ\n楽曲属性ごとに異なるエールがもらえるわ"
+
+msgid "tips_0086_title"
+msgstr "歌姫イベント ～アピール～"
+
+msgid "tips_0086_msg"
+msgstr "エールを集めると歌姫の能力が覚醒するの\nお気に入りの歌姫をもっと強くしちゃいましょう！"
+
+msgid "tips_0087_title"
+msgstr "歌姫イベント ～ボルテージ～"
+
+msgid "tips_0087_msg"
+msgstr "ライブの盛り上がり度合いがわかるわ\n高い程スペシャルライブが開催されやすいのよ"
+
+msgid "tips_0088_title"
+msgstr "【スキル】モードスコアアップってなに?"
+
+msgid "tips_0088_msg"
+msgstr "超歌姫モードの時間が長い楽曲で\n利用するのが効果的なスキルよ"
+
+msgid "tips_0089_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0089_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nキリっとしたランランもきゃわわ～かっこいい♪"
+
+msgid "tips_0090_title"
+msgstr "【スキル】スコリピ＆ダメージってなに?"
+
+msgid "tips_0090_msg"
+msgstr "「スコア・リピート」より効果が強力だけど\nダメージを受けちゃうから注意が必要ね"
+
+msgid "tips_0091_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0091_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nキラキラしてて素敵だよね～！"
+
+msgid "tips_0092_title"
+msgstr "アニメーションプレートのひみつ -1-"
+
+msgid "tips_0092_msg"
+msgstr "センタースキルは★6でレベルMAXにできる\nだから1枚でもスコアアップ効果抜群"
+
+msgid "tips_0093_title"
+msgstr "歌姫ランキングってなに？"
+
+msgid "tips_0093_msg"
+msgstr "歌姫ごとのトータル値ランキングよ\nお気に入りの歌姫を育てて上位を目指しましょう"
+
+msgid "tips_0094_title"
+msgstr "【衣装効果】歌姫ステータスアップってなに？"
+
+msgid "tips_0094_msg"
+msgstr "歌姫のステータスのみに左右されるスキルよ\n歌姫を育てるほどに効果が高まるわ"
+
+msgid "tips_0095_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0095_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nランランきゃわわ過ぎ～！"
+
+msgid "tips_0096_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0096_msg"
+msgstr "フレフレのウィンクとってもきゃわわ～！\n後ろのクモクモもきゃわわな1枚でしょ♪"
+
+msgid "tips_0097_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0097_msg"
+msgstr "私とマキナの2人でユニットライブ\nマキナの水着…最高…！"
+
+msgid "tips_0098_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0098_msg"
+msgstr "海辺で決めポーズのクモクモだよ！\n水着のクモクモってすっごくセクシーだよね！"
+
+msgid "tips_0099_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0099_msg"
+msgstr "光クラゲの中にいるカナカナ…\nとっても幻想的だよね"
+
+msgid "tips_0100_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0100_msg"
+msgstr "ナース衣装のマキナさんやね！\nセクシーなマキナさん…ドキドキしちゃうんよ…"
+
+msgid "tips_0101_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0101_msg"
+msgstr "レイレイのソロライブだよ！\n歌ってる時のレイレイ、とっても素敵だよね！"
+
+msgid "tips_0102_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0102_msg"
+msgstr "パジャマ姿のランランだね～\nふわふわの笑顔もとーってもきゃわわ！"
+
+msgid "tips_0103_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0103_msg"
+msgstr "シェリシェリのライブ写真だよ！\nかっこよくてドキドキしちゃう！"
+
+msgid "tips_0104_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0104_msg"
+msgstr "シェリシェリの衣装って色っぽいよね～\n後ろのマクロス・クォーターもきゃわわ～！"
+
+msgid "tips_0105_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0105_msg"
+msgstr "クロスオーバーライブの衣装のミレミレだね\n大人っぽいミレミレもすっごくきゃわわ♪"
+
+msgid "tips_0106_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0106_msg"
+msgstr "夏っぽいタンクトップのミレミレだよ！\nベースを弾く姿もきゃわわ～♪"
+
+msgid "tips_0107_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0107_msg"
+msgstr "決めポーズのバサラさん素敵ー！\nファイヤーバルキリーちゃん…きゃわわ～！"
+
+msgid "tips_0108_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0108_msg"
+msgstr "バサラさんがジャンプする瞬間の写真だよ！\nバサラさん運動神経も良さそうだよね～"
+
+msgid "tips_0109_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0109_msg"
+msgstr "青い空に広～い草原！\nきゃわわ～なミンミンにぴったりだよね♪"
+
+msgid "tips_0110_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0110_msg"
+msgstr "ランカさんとあの「星間飛行」を歌ったんよ！\n憧れのランカさんと一緒に歌えてほんに幸せやねぇ"
+
+msgid "tips_0111_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0111_msg"
+msgstr "フレイアとカナメと3人で踊った時の写真よ\n私たちの想い、感じるかしら？"
+
+msgid "tips_0112_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0112_msg"
+msgstr "3人で制服を着て踊った時の写真だよ！\n一緒の学校に通ってたらこんな感じなのかな？"
+
+msgid "tips_0113_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0113_msg"
+msgstr "バサラの衣装をリスペクト\nこんな刺激的なライブ、滅多にないわよ？"
+
+msgid "tips_0114_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0114_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nミンミンとってもきゃわわ♪"
+
+msgid "tips_0115_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0115_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nしっとりしたミンミンも素敵～"
+
+msgid "tips_0116_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0116_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nかっこいいミンミン、とっても素敵！"
+
+msgid "tips_0117_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0117_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nとっても輝いていて素敵だよね～！"
+
+msgid "tips_0118_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0118_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nかっこいいミンミン、とっても素敵！"
+
+msgid "tips_0119_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0119_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nミンミンとってもきゃわわ♪"
+
+msgid "tips_0120_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0120_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nしっとりしたミンミンも素敵～"
+
+msgid "tips_0121_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0121_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nかっこいいミンミン、とっても素敵！"
+
+msgid "tips_0122_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0122_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nとっても輝いていて素敵だよね～！"
+
+msgid "tips_0123_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0123_msg"
+msgstr "ミンミン誕生日ベストショットの写真だよ！\nかっこいいミンミン、とっても素敵！"
+
+msgid "tips_0124_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0124_msg"
+msgstr "ランラン誕生日ベストショットの写真だよ！\nキリっとしたランランもきゃわわ～かっこいい♪"
+
+msgid "tips_0125_title"
+msgstr "背景変更ってなに？"
+
+msgid "tips_0125_msg"
+msgstr "背景の模様替えができるわ\n自分好みにカスタマイズしてみましょう！"
+
+msgid "tips_0126_title"
+msgstr "イベントガチャチケットってなに？"
+
+msgid "tips_0126_msg"
+msgstr "歌晶石の代わりにガチャを引くことができるわ\nイベントの報酬で手に入るみたい"
+
+msgid "tips_0127_title"
+msgstr "【スキル】Fld波スコアアップってなに？"
+
+msgid "tips_0127_msg"
+msgstr "フォールド波の大きさによって\n発動時の効果値が変化するスキルよ"
+
+msgid "tips_0128_title"
+msgstr "【スキル】Fld波スコアアップってなに？"
+
+msgid "tips_0128_msg"
+msgstr "フォールド波の大きさによって\n発動時の効果値が変化するスキルよ"
+
+msgid "tips_0129_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0129_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nかっこいいシェリシェリも素敵ー！"
+
+msgid "tips_0130_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0130_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nこのシェリシェリ、すっごくきゃわわ～♪"
+
+msgid "tips_0131_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0131_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\n妖精みたいで素敵ー！"
+
+msgid "tips_0132_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0132_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nかっこいいシェリシェリも素敵ー！"
+
+msgid "tips_0133_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0133_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nシェリシェリすっごくセクシー！"
+
+msgid "tips_0134_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0134_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nかっこいいシェリシェリも素敵ー！"
+
+msgid "tips_0135_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0135_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nこのシェリシェリ、すっごくきゃわわ～♪"
+
+msgid "tips_0136_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0136_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\n妖精みたいで素敵ー！"
+
+msgid "tips_0137_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0137_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nかっこいいシェリシェリも素敵ー！"
+
+msgid "tips_0138_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0138_msg"
+msgstr "シェリシェリ誕生日ベストショットの写真だよ！\nシェリシェリすっごくセクシー！"
+
+msgid "tips_0139_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0139_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nかっこいいフレフレも素敵だね～"
+
+msgid "tips_0140_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0140_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nフレフレとってもきゃわわ～♪"
+
+msgid "tips_0141_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0141_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nしっとりしたフレフレも素敵だよね～"
+
+msgid "tips_0142_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0142_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\n元気いっぱいでキュンキュンしちゃう♪"
+
+msgid "tips_0143_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0143_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nフレフレとってもきゃわわ～♪"
+
+msgid "tips_0144_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0144_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nかっこいいフレフレも素敵だね～"
+
+msgid "tips_0145_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0145_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nフレフレとってもきゃわわ～♪"
+
+msgid "tips_0146_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0146_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nしっとりしたフレフレも素敵だよね～"
+
+msgid "tips_0147_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0147_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\n元気いっぱいでキュンキュンしちゃう♪"
+
+msgid "tips_0148_title"
+msgstr "きゃわわギャラリー"
+
+msgid "tips_0148_msg"
+msgstr "フレフレ誕生日ベストショットの写真だよ！\nフレフレとってもきゃわわ～♪"
+
+msgid "tips_0149_title"
+msgstr "【スキル】親密度スコアアップってなに？"
+
+msgid "tips_0149_msg"
+msgstr "プレートをセットした歌姫との親密度が高い\nほどスキルの効果値が高くなるわよ"
+
+msgid "tips_0150_title"
+msgstr "【スキル】親密度スコアアップってなに？"
+
+msgid "tips_0150_msg"
+msgstr "プレートをセットした歌姫との親密度が高い\nほどスキルの効果値が高くなるわよ"
+
+msgid "tips_0151_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0151_msg"
+msgstr "「納豆」と「もやし」と「枝豆」って\n全部同じ大豆なんだよ！"
+
+msgid "tips_0152_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0152_msg"
+msgstr "「納豆」には５大栄養素が\nすべて含まれているんだって！"
+
+msgid "tips_0153_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0153_msg"
+msgstr "ネバネバはグルタミン酸と糖の一種である\nフラクタンという物質からできてるんだよ"
+
+msgid "tips_0154_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0154_msg"
+msgstr "納豆の酵素であるナットウキナーゼは\n熱に弱いんだって"
+
+msgid "tips_0155_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0155_msg"
+msgstr "納豆のネバネバには旨味成分があるから\nたくさんかき混ぜようね！"
+
+msgid "tips_0156_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0156_msg"
+msgstr "発酵と腐敗の違いは\n人間にとって有益かどうかだよ"
+
+msgid "tips_0157_title"
+msgstr "納豆のひみつ"
+
+msgid "tips_0157_msg"
+msgstr "「納豆」と「甘納豆」は名前は似てるけど\nまったく別の食品だよ"
+

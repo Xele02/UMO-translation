@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "休む時は思いっきり休む…\nだら～ん…"
+
+msgid "talk_time_02"
+msgstr "猫カフェがあるなら、\nウミネコカフェもあるはず"
+
+msgid "talk_time_03"
+msgstr "クラゲは生がいい。\n調理不要"
+
+msgid "talk_time_04"
+msgstr "ゲームは1日1時間…\n守れる？"
+
+msgid "talk_time_05"
+msgstr "私にハッキング\nできないものなんて、ない"
+
+msgid "talk_time_06"
+msgstr "私から逃げようなんて、甘い。\n居場所の特定は得意"
+
+msgid "talk_time_07"
+msgstr "♪～"
+
+msgid "talk_time_08"
+msgstr "…！マキナのピンチ？\n行かなくちゃ"
+
+msgid "talk_login_01"
+msgstr "朝。今日もがんばる。\nいっしょに"
+
+msgid "talk_login_02"
+msgstr "裸喰娘娘、行こう。\nお昼ご飯たべよう"
+
+msgid "talk_login_03"
+msgstr "夕日、まっかっか"
+
+msgid "talk_login_04"
+msgstr "晩ごはん…\nクラゲの丸焼きがいい"
+
+msgid "talk_login_05"
+msgstr "まだ、起きてるの。\n寝なきゃ、明日にひびく"
+
+msgid "talk_comeback_01"
+msgstr "久しぶり…待ってた"
+
+msgid "talk_comeback_02"
+msgstr "今日もよろしく"
+
+msgid "talk_birthday_01"
+msgstr "誕生日、祝ってくれるの？\n…なら、クラゲのケーキ、\n食べてみたい"
+
+msgid "talk_event_01"
+msgstr "おせち料理、食べた。\r\nおもちはもちもち…クセになりそう"
+
+msgid "talk_event_02"
+msgstr "マキナと一緒にチョコ作って、\n食べさせあいっこ。\r\nふふ…完璧なバレンタイン！"
+
+msgid "talk_event_03"
+msgstr "今日はみんなで豆まき。\nカナメが一番はしゃいでた"
+
+msgid "talk_event_04"
+msgstr "今日はひな祭り。\n人形には興味ないけどマキナの\nひな祭り特別衣装は気になる"
+
+msgid "talk_event_05"
+msgstr "ホワイトチョコレートクラゲ、\nおいしそう"
+
+msgid "talk_event_06"
+msgstr "もう不要なハッキングはしない。\n…もちろん、嘘"
+
+msgid "talk_event_07"
+msgstr "クラゲいっぱい買った。\n連休のために買いだめした"
+
+msgid "talk_event_08"
+msgstr "…マキナの花嫁姿、\n想像して泣いた"
+
+msgid "talk_event_09"
+msgstr "フレイアが書いた短冊、発見…！　\nほうほう、なるほどなるほど…！"
+
+msgid "talk_event_10"
+msgstr "夏は、涼しい部屋で\nマキナとゆったり…推奨"
+
+msgid "talk_event_11"
+msgstr "お祭りに行きたい。\n屋台料理、食べ尽くすべし…！"
+
+msgid "talk_event_12"
+msgstr "望遠鏡持ってきた。\nこれでウサギを探そう"
+
+msgid "talk_event_13"
+msgstr "美雲に悪戯、大成功。\n美雲の悲鳴、モアラブリー！"
+
+msgid "talk_event_14"
+msgstr "お祭りなら、どこかに\nクラゲのお店があるはず。\n探してくる"
+
+msgid "talk_event_15"
+msgstr "マキナサンタのプレゼント、\n今年も期待大…！"
+
+msgid "talk_event_16"
+msgstr "きっと来年も、いい年になる。\r\n…しよう。一緒に"
+
+msgid "talk_event_17"
+msgstr "ハーフミリオン突破…\n上出来"
+
+msgid "talk_event_18"
+msgstr "なんと、ミリオン突破…\nみんな、ありがとう"
+
+msgid "talk_event_19"
+msgstr "200万ダウンロード…\nまだまだこれから"
+
+msgid "talk_event_20"
+msgstr "1周年…胸がチクチク"
+
+msgid "touch_reaction_01"
+msgstr "…どうか、した？"
+
+msgid "touch_reaction_02"
+msgstr "そんなにツンツンして、\n楽しい？"
+
+msgid "touch_reaction_03"
+msgstr "さわりすぎ…\nちょっとしつこい"
+
+msgid "touch_reaction_04"
+msgstr "休む時は思いっきり休む…\nだら～ん…"
+
+msgid "touch_reaction_05"
+msgstr "猫カフェがあるなら、\nウミネコカフェもあるはず"
+
+msgid "touch_reaction_06"
+msgstr "クラゲは生がいい。\n調理不要"
+
+msgid "touch_reaction_07"
+msgstr "からかうのは\nやめた方がいい"
+
+msgid "touch_reaction_08"
+msgstr "…撫でられるのは\n不思議な気分"
+
+msgid "login_reaction_01"
+msgstr "あげる…もちろんタダで"
+
+msgid "login_reaction_02"
+msgstr "存分に役立ててほしい"
+
+msgid "simulation_result_01"
+msgstr "シミュレーションの結果、\n予想以上に良好だった。\nデータもたくさん集まった"
+
+msgid "go_diva_result_01"
+msgstr "…いい感じ"
+
+msgid "go_diva_result_02"
+msgstr "まだまだ成長期"
+
+msgid "go_diva_result_03"
+msgstr "プレミアムなお知らせ…！　\nドキドキ！"
+
+msgid "intimacy_pointup_01"
+msgstr "グッド"
+
+msgid "intimacy_pointup_02"
+msgstr "エクセレント"
+
+msgid "intimacy_pointup_03"
+msgstr "バッチグー"
+
+msgid "present_01"
+msgstr "感謝"
+
+msgid "present_02"
+msgstr "空腹…"
+
+msgid "present_03"
+msgstr "クラゲは生で丸のみ。\n今はクラゲの事しか考えられない…"
+
+msgid "present_04"
+msgstr "今日も1日がんばった。\nそろそろ食事の時間"
+
+msgid "present_05"
+msgstr "胸がちくって\nするようなこと…したい"
+
+msgid "present_06"
+msgstr "退屈。刺激を要求する"
+
+msgid "present_07"
+msgstr "気分を変えるには…\nやっぱりハッキング？"
+
+msgid "present_08"
+msgstr "きゃわわなものがほしい。\nマキナに渡す"
+
+msgid "present_09"
+msgstr "おしゃれ…は興味なし。\nでも、勧められたら考える"
+
+msgid "present_10"
+msgstr "日常に変化を求めたくなる。\nそんなときもある"
+
+msgid "present_11"
+msgstr "エクセレント"
+
+msgid "cs_touch_reaction_01"
+msgstr "…？何？"
+
+msgid "cs_touch_reaction_02"
+msgstr "別にびっくりしてない"
+
+msgid "cs_touch_reaction_03"
+msgstr "私は甘くない女。\nツンツンするなら、ツンツンし返す"
+
+msgid "cs_touch_reaction_04"
+msgstr "もしかして…構ってほしい？"
+
+msgid "cs_touch_reaction_05"
+msgstr "はっ！マキナが私を探してる！"
+
+msgid "cs_touch_reaction_06"
+msgstr "今日の衣装も、なかなかラブリー"
+
+msgid "cs_touch_reaction_07"
+msgstr "たまには髪型を変えるのもアリ…"
+
+msgid "cs_touch_reaction_08"
+msgstr "みんなの歌声、\nチクチクして気持ちいい。\n私ももっと、歌いたい！"
+
+msgid "cs_touch_reaction_09"
+msgstr "ヒマヒマなら、\n私の悪戯に付き合うべし"
+
+msgid "cs_touch_reaction_10"
+msgstr "人生、楽しんだ者勝ち。\nあなたも楽しむべし"
+
+msgid "talk_event_21"
+msgstr "これよりハヤテの尾行を開始する。\nフレイアの誕生日プレゼント、\nいったい何を選ぶのやら…！"
+
+msgid "talk_event_22"
+msgstr "美雲への誕生日プレゼントは、\r\n開けてびっくり、玉手箱…！"
+
+msgid "talk_event_23"
+msgstr "カナメ、誕生日おめでとう。\n…いつも、ありがと"
+
+msgid "talk_event_24"
+msgstr "マキナ、誕生日おめでとう。\nマキナは本当に大事な存在。\n大好き"
+
+msgid "talk_event_25"
+msgstr "レイナ"
+
+msgid "talk_event_26"
+msgstr "ランカ、誕生日おめでとう。\nキモカワなプレゼント、用意した"
+
+msgid "talk_event_27"
+msgstr "今日のシェリルはとっても無邪気。\r\n新たな魅力、発見！"
+
+msgid "talk_event_28"
+msgstr "情報によると、今日はグババが\nいつにも増してミレーヌに\nべったりらしい。きゃわわ"
+
+msgid "talk_event_29"
+msgstr "バサラは誕生日なのに、\n今日も部屋にこもって\r\n歌を歌っているらしい…"
+
+msgid "talk_event_30"
+msgstr "ミンメイのバースデーパーティーは、\r\n元祖娘々が会場らしい。潜入希望…"
+
+msgid "talk_event_31"
+msgstr "ハヤテ"
+
+msgid "talk_event_32"
+msgstr "ミラージュ"
+
+msgid "talk_event_33"
+msgstr "メッサー"
+
+msgid "talk_event_34"
+msgstr "アラド"
+
+msgid "talk_event_35"
+msgstr "マリアンヌたちと、チャックの\r\nサプライズバースデーパーティーを\n計画中…\r極秘ミッション…！"
+
+msgid "talk_event_36"
+msgstr "アルト"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "今日はレイの誕生日らしい。\n名前が似てるから、\nなんだか不思議な親近感…"
+
+msgid "talk_event_39"
+msgstr "輝"
+
+msgid "talk_event_40"
+msgstr "ガムリン"
+
+msgid "talk_event_41"
+msgstr "未沙"
+
+msgid "talk_event_42"
+msgstr "私たちの映画が始まるらしい。\nドキドキ、ワクワク…"
+
+msgid "talk_event_43"
+msgstr "本当に、刺激的な毎日だった。\n忘れられない、忘れたくない…\nこの思い出は、永久保存版"
+
+msgid "talk_event_44"
+msgstr "ふっふっふ…歌にクラゲ、まだ語り\nつくせてないことがいっぱいある。\nあなたにもたっぷり付き合ってもらう"
+
+msgid "talk_event_45"
+msgstr "ランカとのキモカワ談義に、\nシェリルとの、恋バナ…\nいつかまた、一緒に話したい。"
+
+msgid "talk_event_46"
+msgstr "本物のバサラに出会えたし、\nミレーヌともマブダチになれた…\n時空を超えた出会いに感謝…！"
+
+msgid "talk_event_47"
+msgstr "私だけのリン・ミンメイ物語。\nドラマじゃない、本物のミンメイとの\n思い出の記録…激エモ…！"
+

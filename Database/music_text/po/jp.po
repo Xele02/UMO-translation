@@ -1,0 +1,2784 @@
+msgid ""
+msgstr ""
+
+msgid "musicName_0000_musicname"
+msgstr "なし"
+
+msgid "musicName_0000_officialName"
+msgstr "なし"
+
+msgid "musicName_0000_description"
+msgstr "楽曲詳細 000"
+
+msgid "musicName_0001_musicname"
+msgstr "天使の絵の具"
+
+msgid "musicName_0001_officialName"
+msgstr "天使の絵の具"
+
+msgid "musicName_0001_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0001_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0001_description"
+msgstr "作品：超時空要塞マクロス 愛・おぼえていますか\n\n歌手：飯島真理\n\n作詞：飯島真理\n作曲：飯島真理"
+
+msgid "musicName_0001_storyDesc"
+msgstr "激しい戦争と恋に思い悩みながらも、その歌声で無事に\n戦いを終結へと導いたミンメイ。\n\nすべてが終わったあと、溢れんばかりの歓声の中にいる\n彼女は歌手としての誇りに満ちた表情でステージに\n立っていた。そして、ゆっくりと歌を口ずさむ…"
+
+msgid "musicName_0001_storyTitle"
+msgstr "「ワン、トゥー、スリー、フォー…」"
+
+msgid "musicName_0002_musicname"
+msgstr "PLANET DANCE"
+
+msgid "musicName_0002_officialName"
+msgstr "PLANET DANCE"
+
+msgid "musicName_0002_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0002_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0002_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：須藤英樹"
+
+msgid "musicName_0002_storyDesc"
+msgstr "マクロス7船団の片隅で人気を博し始めているバンド、\nFire Bomber。メンバー全員が高い技術を持っている。\n\nしかし、メインボーカルの熱気バサラという男が曲者\nだった。この日もバサラはライブに遅刻したばかりか、\nなんとはるか上空からステージ上に降り立ってみせた。"
+
+msgid "musicName_0002_storyTitle"
+msgstr "「待たせたな！」"
+
+msgid "musicName_0003_musicname"
+msgstr "MY SOUL FOR YOU"
+
+msgid "musicName_0003_officialName"
+msgstr "MY SOUL FOR YOU"
+
+msgid "musicName_0003_vocalName"
+msgstr "Fire Bomber featuring BASARA NEKKI"
+
+msgid "musicName_0003_vocalNameLF"
+msgstr "Fire Bomber featuring BASARA NEKKI"
+
+msgid "musicName_0003_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber featuring BASARA NEKKI\n\n作詞：K.INOJO\n作曲：福山芳樹"
+
+msgid "musicName_0003_storyDesc"
+msgstr "一度は戦場で歌ってみせ、敵に歌を聞かせようとした\nバサラであったが、その試みはうまくいかなかった。\n\nだが、たとえ周囲の人間になんと言われようとも、\n熱気バサラという男は簡単に諦めたりはしない。\n今日もまた、新しい楽曲の制作に打ち込んでいた。"
+
+msgid "musicName_0003_storyTitle"
+msgstr "「この次はやってみせるぜ」"
+
+msgid "musicName_0004_musicname"
+msgstr "星間飛行"
+
+msgid "musicName_0004_officialName"
+msgstr "星間飛行"
+
+msgid "musicName_0004_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0004_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0004_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：松本隆\n作曲：菅野よう子"
+
+msgid "musicName_0004_storyDesc"
+msgstr "デビューライブ前日、戦火に包まれる惑星ガリア4。\nアルトのため、そしてシェリルのために\nバルキリーに乗って空の彼方から舞い降りるランカ。\n\n決意のこもった「超時空シンデレラ」の歌声は、\n戦いに飢えた兵士たちの心に届くのか…？"
+
+msgid "musicName_0004_storyTitle"
+msgstr "「みんな抱きしめて、銀河の果てまで！」"
+
+msgid "musicName_0005_musicname"
+msgstr "私の彼はパイロット"
+
+msgid "musicName_0005_officialName"
+msgstr "私の彼はパイロット"
+
+msgid "musicName_0005_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0005_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0005_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0005_storyDesc"
+msgstr "ミス・マクロス・フロンティアの舞台上で、\n自分の出番を待ちながら緊張を隠せずにいるランカ。\n\nしかし自分の夢のため、歌が好きだという想いをこめ、\nかのリン・ミンメイの名曲を歌い始めた。\nここから彼女のシンデレラストーリーが始まる！"
+
+msgid "musicName_0005_storyTitle"
+msgstr "「ランカ・リーです、よろしくお願いします！」"
+
+msgid "musicName_0006_musicname"
+msgstr "ニンジーン Loves you yeah!"
+
+msgid "musicName_0006_officialName"
+msgstr "ニンジーン Loves you yeah!"
+
+msgid "musicName_0006_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0006_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0006_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0006_storyDesc"
+msgstr "大好きな歌を歌うため、憧れのシェリルに近づくために\nデビューしたてのランカはさまざまな仕事をこなす。しかし\nその仕事は夢に見たものとは程遠いものばかりだった。\n\nとあるショッピングモールの片隅でニンジンの被り物を\n被ったランカは、一生懸命、CMソングを歌う。"
+
+msgid "musicName_0006_storyTitle"
+msgstr "「7種のビタミン大集合！」"
+
+msgid "musicName_0007_musicname"
+msgstr "射手座☆午後九時Don't be late"
+
+msgid "musicName_0007_officialName"
+msgstr "射手座☆午後九時Don't be late"
+
+msgid "musicName_0007_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0007_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0007_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：佐藤大、hal、Gabriela Robin、マイクスギヤマ\n作曲：菅野よう子"
+
+msgid "musicName_0007_storyDesc"
+msgstr "フロンティア船団での最後のライブに励むシェリルは\n心配してくれたファンへの想いを静かに語り始めた。\n\nそしていつもの決め台詞とともに、この曲を\n歌い出す。ファンの気持ちを裏切らないシェリルの\n歌に、会場のボルテージは最高潮に達する。"
+
+msgid "musicName_0007_storyTitle"
+msgstr "「わたしの歌を聴けぇ！」"
+
+msgid "musicName_0008_musicname"
+msgstr "ダイアモンド クレバス"
+
+msgid "musicName_0008_officialName"
+msgstr "ダイアモンド クレバス"
+
+msgid "musicName_0008_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0008_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0008_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：hal\n作曲：菅野よう子"
+
+msgid "musicName_0009_musicname"
+msgstr "What 'bout my star?"
+
+msgid "musicName_0009_officialName"
+msgstr "What 'bout my star?"
+
+msgid "musicName_0009_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0009_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0009_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：hal\n作曲：菅野よう子"
+
+msgid "musicName_0009_storyDesc"
+msgstr "ライブのためにマクロス・フロンティア船団を訪れた\n「銀河の妖精」シェリル・ノーム。\n\nイヤリングの行方を追って、アルトと再会した彼女は、\nライブでは見られない無邪気な表情でアルトの手を引き\nフロンティアの街を満喫する。\n"
+
+msgid "musicName_0009_storyTitle"
+msgstr "「結構いいところね、フロンティアって」"
+
+msgid "musicName_0010_musicname"
+msgstr "インフィニティ"
+
+msgid "musicName_0010_officialName"
+msgstr "インフィニティ"
+
+msgid "musicName_0010_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0010_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0010_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：岩里祐穂\n作曲：菅野よう子"
+
+msgid "musicName_0010_storyDesc"
+msgstr "シェリルのフロンティア船団ラストライブの最中、\n船外ではバジュラとの壮絶な戦闘が勃発していた。\n\nライブの最後を飾る楽曲を前に、シェリルは\n特別な想いをこめて歌うことを宣言する。\n彼女の祈りは、宇宙で戦う彼らに届くのか…？"
+
+msgid "musicName_0010_storyTitle"
+msgstr "「ちょっとわがまま言わせてもらってもいいかな？」"
+
+msgid "musicName_0011_musicname"
+msgstr "愛・おぼえていますか"
+
+msgid "musicName_0011_officialName"
+msgstr "愛・おぼえていますか"
+
+msgid "musicName_0011_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0011_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0011_description"
+msgstr "作品：超時空要塞マクロス 愛・おぼえていますか\n\n歌手：飯島真理\n\n作詞：安井かずみ\n作曲：加藤和彦"
+
+msgid "musicName_0011_storyDesc"
+msgstr "最終決戦の最中、輝からミンメイへ託されたのは、\n古い記録に残されていた楽曲だった。\n\n輝の言葉によって迷いを振り切ったミンメイは、\n戦場にその身をさらして静かに歌い始める。\n遥か昔、誰かが歌った色あせることのないラブソングを。"
+
+msgid "musicName_0011_storyTitle"
+msgstr "「わたし、歌うわ。思いっきり！」"
+
+msgid "musicName_0012_musicname"
+msgstr "小白竜"
+
+msgid "musicName_0012_officialName"
+msgstr "小白竜"
+
+msgid "musicName_0012_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0012_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0012_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0012_storyDesc"
+msgstr "異星人による宇宙戦争の戦禍に巻き込まれ、\n地球への長い旅路を進む宇宙戦艦マクロス。\n\nそんな中、リン・ミンメイの初コンサートが開催された。\nファンの歓声と眩しいスポットライトの中でミンメイが\n歌い始めると、突然、艦内に警報が鳴り響いた。"
+
+msgid "musicName_0012_storyTitle"
+msgstr "「みなさんこんばんは、リン・ミンメイです」"
+
+msgid "musicName_0013_musicname"
+msgstr "Welcome To My FanClub's Night!"
+
+msgid "musicName_0013_officialName"
+msgstr "Welcome To My FanClub's Night!"
+
+msgid "musicName_0013_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0013_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0013_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：hal\n作曲：菅野よう子"
+
+msgid "musicName_0013_storyDesc"
+msgstr "歓声で湧き立つライブの最中、シェリルは突如として\nステージの上から飛び降りてしまう。\n\n落下していくシェリルを慌てて救助したアルトは、\n彼女の大胆な行動と発想に目を見開く。\n混乱の中、ライブは無事に成功するのだろうか…？"
+
+msgid "musicName_0013_storyTitle"
+msgstr "「いいから、このまま飛んで！」"
+
+msgid "musicName_0014_musicname"
+msgstr "TRY AGAIN"
+
+msgid "musicName_0014_officialName"
+msgstr "TRY AGAIN"
+
+msgid "musicName_0014_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0014_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0014_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO、福山恭子\n作曲：福山芳樹"
+
+msgid "musicName_0014_storyDesc"
+msgstr "Fire Bomberのボーカル、熱気バサラの歌声には、\nサウンドエナジーと呼ばれる力が特に強く宿っていた。\n\nファイヤーバルキリーを駆り、戦場で歌い続けるバサラ。\n戦いを嫌い、異星人とさえ歌によって通じ合えると信じる\n男の歌声は、熾烈な争いを終わらせる鍵となるか…？"
+
+msgid "musicName_0014_storyTitle"
+msgstr "「山よ！銀河よ！俺の歌を聞けぇっ！！」"
+
+msgid "musicName_0015_musicname"
+msgstr "ユニバーサル・バニー"
+
+msgid "musicName_0015_officialName"
+msgstr "ユニバーサル・バニー"
+
+msgid "musicName_0015_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0015_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0015_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：しほり、PA-NON、Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0015_storyDesc"
+msgstr "マクロス・フロンティア船団を訪れたシェリル・ノーム。\n\n絢爛豪華なライブステージに立つ彼女にフロンティア\n船団のファンは歓喜に包まれる。その会場には、偶然にも\nこれから関わることとなるランカとアルトの姿もあった。\nシェリルの魅力たっぷりのステージが今、始まる！"
+
+msgid "musicName_0015_storyTitle"
+msgstr "「グレイス、わたしはシェリルよ」"
+
+msgid "musicName_0016_musicname"
+msgstr "トライアングラー（fight on stage）"
+
+msgid "musicName_0016_officialName"
+msgstr "トライアングラー（fight on stage）"
+
+msgid "musicName_0016_vocalName"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0016_vocalNameLF"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0016_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛、\n　　　シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0016_storyDesc"
+msgstr "大小数千隻の宇宙船で構成されているフロンティア船団。\nそこで偶然にも出会ってしまった早乙女アルト、\nシェリル・ノーム、ランカ・リー。\n\n超時空生命体バジュラとの戦闘、そして恋に翻弄され\nながらも、3人の出会いが船団の運命を大きく変える。"
+
+msgid "musicName_0016_storyTitle"
+msgstr "「俺を、バルキリーに乗せろ！」"
+
+msgid "musicName_0017_musicname"
+msgstr "突撃ラブハート [Duet Version]"
+
+msgid "musicName_0017_officialName"
+msgstr "突撃ラブハート [Duet Version]"
+
+msgid "musicName_0017_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0017_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0017_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：河内淳貴"
+
+msgid "musicName_0017_storyDesc"
+msgstr "移民先を求めて銀河を航行していたマクロス7船団だが、\n突如として凶悪な兵器を使用する敵の襲撃をうける。\n\n戦火が拡大していく最中、1人の男が戦場に飛び出した。\nその男は無謀にも、敵を目の前にして歌を歌い出す。\n赤いバルキリーを駆るこの男、その名は熱気バサラ。"
+
+msgid "musicName_0017_storyTitle"
+msgstr "「ついにこのときが来たぜ！」"
+
+msgid "musicName_0018_musicname"
+msgstr "ノーザンクロス"
+
+msgid "musicName_0018_officialName"
+msgstr "ノーザンクロス"
+
+msgid "musicName_0018_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0018_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0018_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：岩里祐穂、Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0018_storyDesc"
+msgstr "バジュラの襲撃にさらされるフロンティア船団。\n終わりの見えない恐怖に人々の心は弱まる一方だった。\n\n絶望に暮れる人々。希望の象徴として扱われるランカ。\nそんな中、シェリルは、自分の歌で絶望を照らしてみせると\n決意する。彼女の歌声は、戦場に何をもたらすのか…？"
+
+msgid "musicName_0018_storyTitle"
+msgstr "「今あるのは音楽と、そしてわたし」"
+
+msgid "musicName_0019_musicname"
+msgstr "私の彼はパイロット（PartⅠ）"
+
+msgid "musicName_0019_officialName"
+msgstr "私の彼はパイロット（PartⅠ）"
+
+msgid "musicName_0019_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0019_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0019_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0019_storyDesc"
+msgstr "ゼントラーディとの戦争で傷ついた故郷。\nそのあまりの惨状に涙を流すミンメイ。\n\nそんなミンメイに対して、考えがあると告げる輝。\nその考えというのが、後に「ミンメイ・アタック」の\n名で語られることとなる伝説的な作戦だった。"
+
+msgid "musicName_0019_storyTitle"
+msgstr "「歌ってくれないか？みんなのために」"
+
+msgid "musicName_0020_musicname"
+msgstr "いけないボーダーライン"
+
+msgid "musicName_0020_officialName"
+msgstr "いけないボーダーライン"
+
+msgid "musicName_0020_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0020_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0020_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0020_storyDesc"
+msgstr "惑星アル・シャハルでのヴァール鎮圧ライブの最中、\n正体不明の戦闘機部隊がワルキューレを襲う。\n\n敵の猛攻に対しても毅然と歌い続けるワルキューレ。\nそれに触発されたかのように、辺境の惑星から\n飛び出してきた少女は戦場へと駆け出していく。"
+
+msgid "musicName_0020_storyTitle"
+msgstr "「ルンルン、ルンルン、ルンピカー！」"
+
+msgid "musicName_0021_musicname"
+msgstr "ライオン"
+
+msgid "musicName_0021_officialName"
+msgstr "ライオン"
+
+msgid "musicName_0021_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0021_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0021_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0022_musicname"
+msgstr "一度だけの恋なら"
+
+msgid "musicName_0022_officialName"
+msgstr "一度だけの恋なら"
+
+msgid "musicName_0022_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0022_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0022_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：唐沢美帆、加藤裕介\n作曲：加藤裕介"
+
+msgid "musicName_0022_storyDesc"
+msgstr "ワルキューレに憧れて、故郷を飛び出したフレイア。\n\n見事に夢を叶え、ワルキューレのメンバーとして\nヴァール症候群から多くの人を救う立場となった少女は、\nただ歌うことが好きだからという気持ちだけではなく、\nいつしか歌うことの意味を考え始める。"
+
+msgid "musicName_0022_storyTitle"
+msgstr "「私は、好きな歌を歌いたい！」"
+
+msgid "musicName_0023_musicname"
+msgstr "ルンがピカッと光ったら"
+
+msgid "musicName_0023_officialName"
+msgstr "ルンがピカッと光ったら"
+
+msgid "musicName_0023_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0023_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0023_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0024_musicname"
+msgstr "不確定性☆COSMIC MOVEMENT"
+
+msgid "musicName_0024_officialName"
+msgstr "不確定性☆COSMIC MOVEMENT"
+
+msgid "musicName_0024_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0024_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0024_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：深川琴美、六ツ見純代、渡邊亜希子、姉田ウ夢ヤ\n作曲：姉田ウ夢ヤ"
+
+msgid "musicName_0024_storyDesc"
+msgstr "惑星ランドールでのワクチンライブ。\n\nフレイアは、憧れだったワルキューレのメンバーとして\n迎える初めてのライブに緊張を隠すことができない。\n一方のハヤテも、これが入隊してから初めてのライブ。\n2人の衝撃デビューステージは一体どうなるのか…？"
+
+msgid "musicName_0024_storyTitle"
+msgstr "「リンゴ大好き、フレイア・ヴィオン14歳！」"
+
+msgid "musicName_0025_musicname"
+msgstr "恋! ハレイション THE WAR"
+
+msgid "musicName_0025_officialName"
+msgstr "恋! ハレイション THE WAR"
+
+msgid "musicName_0025_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0025_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0025_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：深川琴美、姉田ウ夢ヤ\n作曲：姉田ウ夢ヤ"
+
+msgid "musicName_0025_storyDesc"
+msgstr "ヴァール症候群の脅威に毅然と立ち向かう\n戦術音楽ユニット、ワルキューレ。\n\n惑星アル・シャハルでフレイアとハヤテが目撃したのは\n戦場で歌う彼女たちとデルタ小隊の姿だった。彼女たちの\n歌はヴァール症候群を鎮めることができるのだろうか…？"
+
+msgid "musicName_0025_storyTitle"
+msgstr "「聴かせてあげる、女神の歌を！」"
+
+msgid "musicName_0026_musicname"
+msgstr "アナタノオト"
+
+msgid "musicName_0026_officialName"
+msgstr "アナタノオト"
+
+msgid "musicName_0026_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0026_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0026_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：真名杏樹\n作曲：菅野よう子"
+
+msgid "musicName_0027_musicname"
+msgstr "アイモ"
+
+msgid "musicName_0027_officialName"
+msgstr "アイモ"
+
+msgid "musicName_0027_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0027_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0027_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0027_storyDesc"
+msgstr "みんなに自分の歌を届けたいと語ったランカは、\n遠まわしながらも励ましてくれたアルトに、\n自分の歌を聴いてほしいと告げる。\n\n不安の解けたランカの歌声は、穏やかな風と共に\nアルトの心を包み込む。"
+
+msgid "musicName_0027_storyTitle"
+msgstr "「私、みんなに伝えたいの！」"
+
+msgid "musicName_0028_musicname"
+msgstr "ねこ日記"
+
+msgid "musicName_0028_officialName"
+msgstr "ねこ日記"
+
+msgid "musicName_0028_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0028_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0028_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0028_storyDesc"
+msgstr "惑星ガリア4でのサプライズライブを終え、\n夕焼けの空を静かに飛ぶアルトとランカ。\n\nランカが命の危険も顧みずアルトに伝えたかったこと、\nそれは誕生日を祝う言葉だった。恥ずかしそうに\n笑いあったあと、ランカは想いをこめて歌いだす…"
+
+msgid "musicName_0028_storyTitle"
+msgstr "「このまま、どこまでも飛んでいきたい気分」"
+
+msgid "musicName_0029_musicname"
+msgstr "ジリティック♡BEGINNER"
+
+msgid "musicName_0029_officialName"
+msgstr "ジリティック♡BEGINNER"
+
+msgid "musicName_0029_vocalName"
+msgstr "ワルキューレ　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0029_vocalNameLF"
+msgstr "ワルキューレ　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0029_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　レイナΔ東山奈央　マキナΔ西田望見\n\n作詞：深川琴美\n作曲：姉田ウ夢ヤ"
+
+msgid "musicName_0029_storyDesc"
+msgstr "ワルキューレ加入当初は、あまりの仲の悪さに\n「水と油」に例えられていたマキナとレイナ。\n\nそれが今では自他ともに認める仲良しコンビになり、\n抜群のコミュニケーションで披露されるデュエット曲は、\nワルキューレのライブを語る上で外せないものとなった。"
+
+msgid "musicName_0029_storyTitle"
+msgstr "「水と油、混ぜるな危険」"
+
+msgid "musicName_0030_musicname"
+msgstr "放課後オーバーフロウ"
+
+msgid "musicName_0030_officialName"
+msgstr "放課後オーバーフロウ"
+
+msgid "musicName_0030_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0030_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0030_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0030_storyDesc"
+msgstr "バジュラ本星を独占しようとするフロンティア軍に対し、\n単独で決戦を挑むマクロス・クォーターとS.M.S。\n\nランカはバジュラと対話するため戦場に歌を響かせる。\n歌う新曲は彼女が初めて作詞をさせてもらった曲で、\n大切な人への想いが込められた曲だった。"
+
+msgid "musicName_0030_storyTitle"
+msgstr "「私…アルト君が好きです！」"
+
+msgid "musicName_0031_musicname"
+msgstr "AXIA～ダイスキでダイキライ～"
+
+msgid "musicName_0031_officialName"
+msgstr "AXIA～ダイスキでダイキライ～"
+
+msgid "musicName_0031_vocalName"
+msgstr "ワルキューレ　カナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0031_vocalNameLF"
+msgstr "ワルキューレ　カナメΔ安野希世乃\nレイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0031_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：六ツ見純代\n作曲：松本良喜"
+
+msgid "musicName_0031_storyDesc"
+msgstr "フレイアと美雲が倒れてしまい、さらに空中騎士団の\n襲撃を受けて絶体絶命の状況に陥るワルキューレ。\n\nそのとき、部隊を離れたはずのメッサーが救援に現れる。\nヴァール化に抗いながら戦うメッサーを支えるため、\n他の誰でもないカナメ自身が歌うことを決意するのだった。"
+
+msgid "musicName_0031_storyTitle"
+msgstr "「わかったわ、メッサー君！」"
+
+msgid "musicName_0032_musicname"
+msgstr "POWER TO THE DREAM"
+
+msgid "musicName_0032_officialName"
+msgstr "POWER TO THE DREAM"
+
+msgid "musicName_0032_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0032_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0032_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：福山芳樹"
+
+msgid "musicName_0032_storyDesc"
+msgstr "バサラの歌に宿るサウンドエナジー。\nその力は、敵味方問わず多くの者の心を変えていった。\n\n大勢の敵に襲われて窮地に陥るバサラたち。そのとき、\n敵であったはずのギギルがバサラの歌を歌い始めた。\nその歌声は、拙くも熱い心を感じさせるものだった。"
+
+msgid "musicName_0032_storyTitle"
+msgstr "「俺の歌を、俺より先に歌い出すとは…」"
+
+msgid "musicName_0033_musicname"
+msgstr "サヨナラノツバサ 〜 the end of triangle"
+
+msgid "musicName_0033_officialName"
+msgstr "サヨナラノツバサ 〜 the end of triangle"
+
+msgid "musicName_0033_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0033_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0033_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：Gabriela Robin、河森正治\n作曲：菅野よう子"
+
+msgid "musicName_0033_storyDesc"
+msgstr "ランカとシェリル。2人の歌姫は、それぞれの運命に\n立ち向かい、最後まで歌い続けることを決意した。\n\nバジュラに心を伝えるため。歌で銀河を震わせるため。\nそして何より、誰よりも大切な人のため。\n彼女たちの歌声は、この空をはばたくツバサとなった。"
+
+msgid "musicName_0033_storyTitle"
+msgstr "「翼に風を！」「銀河に歌を！」"
+
+msgid "musicName_0034_musicname"
+msgstr "僕らの戦場"
+
+msgid "musicName_0034_officialName"
+msgstr "僕らの戦場"
+
+msgid "musicName_0034_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0034_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0034_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：唐沢美帆、加藤裕介\n作曲：加藤裕介"
+
+msgid "musicName_0034_storyDesc"
+msgstr "デルタ小隊への正式入隊がかかった最終試験の日。\nハヤテはミラージュとの模擬戦に苦しんでいた。\n\nその時、窮地に陥っていたハヤテに向かって歌い出す\nフレイア。すると、まるでその力に後押しされるように\nハヤテの機体は力強く空へと舞い上がった。"
+
+msgid "musicName_0034_storyTitle"
+msgstr "「まだ試験は終わってないぜ、教官殿！」"
+
+msgid "musicName_0035_musicname"
+msgstr "DYNAMITE EXPLOSION"
+
+msgid "musicName_0035_officialName"
+msgstr "DYNAMITE EXPLOSION"
+
+msgid "musicName_0035_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0035_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0035_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：古屋敏之\n作曲：福山芳樹"
+
+msgid "musicName_0035_storyDesc"
+msgstr "メンバーに黙ってマクロス7船団を去り、\nあてもない銀河放浪の旅に出ていたバサラ。\n\n惑星ゾラの地で出会った「銀河クジラ」と、それを\n取り巻くゾラ人たち。銀河の辺境で様々なアクシデントに\n見舞われながらも、バサラはいつもどおり歌い始める。"
+
+msgid "musicName_0035_storyTitle"
+msgstr "「クジラか…いい音させやがるぜ！」"
+
+msgid "musicName_0036_musicname"
+msgstr "シルバームーン・レッドムーン"
+
+msgid "musicName_0036_officialName"
+msgstr "シルバームーン・レッドムーン"
+
+msgid "musicName_0036_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0036_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0036_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0036_storyDesc"
+msgstr "度重なる戦闘と、長く苦しい旅路の果てに、\n遂にマクロスは地球への帰還を果たす。\n\n失ったものの多さに悲しむ乗員たち。それに寄り添う\nように流れるのは、ミンメイの歌だった。\n姿は見えずとも、彼女の歌声は常に傍にある。"
+
+msgid "musicName_0036_storyTitle"
+msgstr "「まるで、生きてるみたいね」"
+
+msgid "musicName_0037_musicname"
+msgstr "ギラギラサマー (^ω^)ノ"
+
+msgid "musicName_0037_officialName"
+msgstr "ギラギラサマー (^ω^)ノ"
+
+msgid "musicName_0037_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0037_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0037_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin、富永恵介\n作曲：菅野よう子"
+
+msgid "musicName_0037_storyDesc"
+msgstr "慰安旅行のためマヤン島を訪れたS.M.Sのメンバー。\nみな水着に着替え、戦いを忘れてリゾートを満喫していた。\n\n空も海も風も、気候はまさに夏真っ盛り。\n街頭ではシェリルのCMが大々的に放映されていて、\n照りつける太陽に負けない存在感を放っていた。"
+
+msgid "musicName_0037_storyTitle"
+msgstr "「わたしの肌を守りなさい！」"
+
+msgid "musicName_0038_musicname"
+msgstr "ファミリーマート・コスモス"
+
+msgid "musicName_0038_officialName"
+msgstr "ファミリーマート・コスモス"
+
+msgid "musicName_0038_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0038_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0038_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0039_musicname"
+msgstr "Walküre Attack!"
+
+msgid "musicName_0039_officialName"
+msgstr "Walküre Attack!"
+
+msgid "musicName_0039_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0039_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0039_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：UiNA\n作曲：小高光太郎、UiNA"
+
+msgid "musicName_0039_storyDesc"
+msgstr "新統合政府に対して宣戦布告したウィンダミア。\n戦いの炎とヴァールの脅威は瞬く間に広がっていく。\n\nそれに最前線で立ち向かうのがワルキューレ、\nそして彼女たちを守るデルタ小隊のメンバーたちだ。\n行方の見えない戦争の末に待つものは、果たして…"
+
+msgid "musicName_0039_storyTitle"
+msgstr "「超時空ヴィーナス、ワルキューレ！」"
+
+msgid "musicName_0040_musicname"
+msgstr "0-G Love"
+
+msgid "musicName_0040_officialName"
+msgstr "0-G Love"
+
+msgid "musicName_0040_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0040_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0040_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0040_storyDesc"
+msgstr "ゼントラーディ軍との戦闘が始まり、その混乱の中で\n輝とミンメイの2人は閉鎖区画に閉じ込められてしまう。\n\n救助を待ちながらしばし生活を共にする2人。\n初めはただのファンと歌手であった2人だが、お互いの\nことを知ってその仲は少しずつ縮まっていくのだった。"
+
+msgid "musicName_0040_storyTitle"
+msgstr "「嬉しい。わたしの歌、聴いてくれてるの？」"
+
+msgid "musicName_0041_musicname"
+msgstr "Silent Hacker"
+
+msgid "musicName_0041_officialName"
+msgstr "Silent Hacker"
+
+msgid "musicName_0041_vocalName"
+msgstr "ワルキューレ　レイナΔ東山奈央 美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 マキナΔ西田望見"
+
+msgid "musicName_0041_vocalNameLF"
+msgstr "ワルキューレ　レイナΔ東山奈央　美雲ΔJUNNA\nフレイアΔ鈴木みのり　カナメΔ安野希世乃\nマキナΔ西田望見"
+
+msgid "musicName_0041_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　レイナΔ東山奈央　美雲ΔJUNNA\n　　　フレイアΔ鈴木みのり　カナメΔ安野希世乃\n　　　マキナΔ西田望見\n\n作詞：鈴木さえ子、TOMISIRO\n作曲：鈴木さえ子、TOMISIRO"
+
+msgid "musicName_0041_storyDesc"
+msgstr "ウィンダミア軍に占領された惑星ヴォルドールで、\nワルキューレの潜入ミッションが開始される。\n\n多数の艦船による防衛網に対して、レイナによる\nハッキングが開始された。高度な軍事システムが\n相手でも、レイナは余裕の笑みを浮かべて見せた。"
+
+msgid "musicName_0041_storyTitle"
+msgstr "「相手にとって不足なし」"
+
+msgid "musicName_0042_musicname"
+msgstr "God Bless You"
+
+msgid "musicName_0042_officialName"
+msgstr "God Bless You"
+
+msgid "musicName_0042_vocalName"
+msgstr "ワルキューレ　フレイアΔ鈴木みのり 美雲ΔJUNNA カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0042_vocalNameLF"
+msgstr "ワルキューレ　フレイアΔ鈴木みのり　美雲ΔJUNNA\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0042_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　フレイアΔ鈴木みのり　美雲ΔJUNNA\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：北川勝利\n作曲：北川勝利"
+
+msgid "musicName_0042_storyDesc"
+msgstr "ウィンダミアとの戦争は拡大の一途を辿り、\nフレイアの心境にも少なからず影響を及ぼしていた。\n\nそんなフレイアを励ますべく、誕生日のサプライズを\n企画する一同。それぞれが思い思いのプレゼントを準備\nするなか、ハヤテは何やら特別な装置を用意して…？"
+
+msgid "musicName_0042_storyTitle"
+msgstr "「もしかしてこの雪、ハヤテが降らせて…」"
+
+msgid "musicName_0043_musicname"
+msgstr "HOLY LONELY LIGHT [Duet Version]"
+
+msgid "musicName_0043_officialName"
+msgstr "HOLY LONELY LIGHT [Duet Version]"
+
+msgid "musicName_0043_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0043_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0043_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：須藤英樹"
+
+msgid "musicName_0043_storyDesc"
+msgstr "戦闘の影響か、突然声が出なくなってしまい、\n一切歌うことができなくなってしまったバサラ。\n\nそんな状況で強大なプロトデビルンの襲撃が発生し、\n船団は窮地に陥ってしまう。そんななか、必死に\n歌おうとするバサラのためにミレーヌは奮闘する。"
+
+msgid "musicName_0043_storyTitle"
+msgstr "「あたしの歌をどうしてもバサラに届けたいの！」"
+
+msgid "musicName_0044_musicname"
+msgstr "pink monsoon"
+
+msgid "musicName_0044_officialName"
+msgstr "pink monsoon"
+
+msgid "musicName_0044_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0044_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0044_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0044_storyDesc"
+msgstr "フロンティア船団でつかの間の休息を満喫する\nシェリル…と、それに付き合わされるアルト。\n\n「銀河の妖精」としては見せることのない、\nシェリルの自然な魅力にあてられる。だが\nそれすらも、彼女が持つ多くの武器の1つに過ぎない。"
+
+msgid "musicName_0044_storyTitle"
+msgstr "「わたしは違うわ。ぜーんぶ生まれたままよ」"
+
+msgid "musicName_0045_musicname"
+msgstr "虹いろ・クマクマ"
+
+msgid "musicName_0045_officialName"
+msgstr "虹いろ・クマクマ"
+
+msgid "musicName_0045_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0045_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0045_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0045_storyDesc"
+msgstr "ずっと夢見ていた歌手としてデビューしたランカ。\nついに、ファーストライブの開催が決定した。\n\n憧れのシェリルに招待状を手渡し、ライブの当日を\n迎える。まるで魔法のように派手な演出がステージを\n彩ると、歌と観客が一体となって会場を揺らした。"
+
+msgid "musicName_0045_storyTitle"
+msgstr "「来週末、私のファーストライブの招待状です！」"
+
+msgid "musicName_0046_musicname"
+msgstr "SEVENTH MOON"
+
+msgid "musicName_0046_officialName"
+msgstr "SEVENTH MOON"
+
+msgid "musicName_0046_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0046_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0046_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：河内淳貴"
+
+msgid "musicName_0047_musicname"
+msgstr "Hear The Universe"
+
+msgid "musicName_0047_officialName"
+msgstr "Hear The Universe"
+
+msgid "musicName_0047_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0047_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0047_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：岩里祐穂\n作曲：Rasmus Faber"
+
+msgid "musicName_0047_storyDesc"
+msgstr "星団全体にウィンダミアの支配が広がり、\nワクチンライブを行えなくなってしまったワルキューレ。\n\nそこでワルキューレがとった作戦は、ライブの映像を\n配信することだった。特殊なコンピュータウィルスが\n含まれた映像データは瞬く間に銀河中へと広がっていく。"
+
+msgid "musicName_0047_storyTitle"
+msgstr "「クラゲを隠すならクラゲの群れってやつだ」"
+
+msgid "musicName_0048_musicname"
+msgstr "星間イヴ（星間飛行 christmas ver.）"
+
+msgid "musicName_0048_officialName"
+msgstr "星間イヴ（星間飛行 christmas ver.）"
+
+msgid "musicName_0048_vocalName"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0048_vocalNameLF"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0048_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛、\n　　　シェリル・ノーム starring May'n\n\n作詞：松本隆\n作曲：菅野よう子"
+
+msgid "musicName_0049_musicname"
+msgstr "dシュディスタb"
+
+msgid "musicName_0049_officialName"
+msgstr "dシュディスタb"
+
+msgid "musicName_0049_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0049_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0049_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：hal\n作曲：菅野よう子"
+
+msgid "musicName_0049_storyDesc"
+msgstr "才能を秘めながら歌手に憧れる少女ランカと、\nトップシンガーとして常に輝き続けてきたシェリル。\n\n数奇な運命から出会いを果たした2人は、それぞれの\n想いを胸に歌い、踊り、観客を魅了してきた。そして\n今、2人の歌声は1つのステージ上で交わり始める。"
+
+msgid "musicName_0049_storyTitle"
+msgstr "「いくわよ、ランカちゃん！」「はい！」"
+
+msgid "musicName_0050_musicname"
+msgstr "絶対零度θノヴァティック"
+
+msgid "musicName_0050_officialName"
+msgstr "絶対零度θノヴァティック"
+
+msgid "musicName_0050_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0050_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0050_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：図司純子<Eidy>、河嶋晃一<Eidy>\n作曲：図司純子<Eidy>、河嶋晃一<Eidy>、\n　　　Mitsunori Ikeda"
+
+msgid "musicName_0050_storyDesc"
+msgstr "星の歌い手として覚醒した美雲は、\nロイドに操られるがままに仲間たちへと牙をむく。\n\n残されたワルキューレの面々は、美雲の心を呼び覚ます\nために全力で歌い続けた。戦火が更に激しさを\n増しても、ワルキューレの絆が途切れることはない。"
+
+msgid "musicName_0050_storyTitle"
+msgstr "「美雲さんは何故、どんな想いで歌うんですか？」"
+
+msgid "musicName_0051_musicname"
+msgstr "やさしさSAYONARA"
+
+msgid "musicName_0051_officialName"
+msgstr "やさしさSAYONARA"
+
+msgid "musicName_0051_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0051_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0051_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0051_storyDesc"
+msgstr "戦争は終結したものの、異星人や外宇宙の存在を知った\n人類は、遥かな宇宙移民の旅へ出発しようとしていた。\n\n過去への執着をやめ、もう一度自分の歌と一緒に\n生きていくことを決めたミンメイ。輝、そして未沙へ\n別れを告げて、彼女はまだ見ぬどこかへと歩き始めた。"
+
+msgid "musicName_0051_storyTitle"
+msgstr "「もう、歌をやめるなんて言わない」"
+
+msgid "musicName_0052_musicname"
+msgstr "そうだよ。"
+
+msgid "musicName_0052_officialName"
+msgstr "そうだよ。"
+
+msgid "musicName_0052_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0052_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0052_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：坂本真綾、Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0052_storyDesc"
+msgstr "S.M.Sの奮闘によって、フロンティア船団は\n襲来したバジュラを撃退することに成功した。\n\n激しい戦闘のあとに訪れる、つかの間の平穏。\n船内では、戦いに疲れた人々の心と犠牲になった者たちの\n魂を癒やすように、偽りの雪が優しく降り注いでいた。"
+
+msgid "musicName_0052_storyTitle"
+msgstr "「うわぁ、雪だ！」"
+
+msgid "musicName_0053_musicname"
+msgstr "おにゃの子☆girl"
+
+msgid "musicName_0053_officialName"
+msgstr "おにゃの子☆girl"
+
+msgid "musicName_0053_vocalName"
+msgstr "ワルキューレ　マキナΔ西田望見　フレイアΔ鈴木みのり　カナメΔ安野希世乃　レイナΔ東山奈央"
+
+msgid "musicName_0053_vocalNameLF"
+msgstr "ワルキューレ　マキナΔ西田望見　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央"
+
+msgid "musicName_0053_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　マキナΔ西田望見　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n\n作詞：かせきさいだぁ\n作曲：TeddyLoid"
+
+msgid "musicName_0053_storyDesc"
+msgstr "銀河ネットワークに配信されたワルキューレのライブ\n映像…と、販売目的の映像コンテンツ（有料）。\n\n商売上手なアラドの策略はさておき、その魅力で\nファンを魅了するマキナ。乙女チックな演出に彩られた\nソロライブは、男女問わず人気を博している。"
+
+msgid "musicName_0053_storyTitle"
+msgstr "「これはマキマキからのプレゼント！」"
+
+msgid "musicName_0054_musicname"
+msgstr "GIRAFFE BLUES"
+
+msgid "musicName_0054_officialName"
+msgstr "GIRAFFE BLUES"
+
+msgid "musicName_0054_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0054_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0054_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：菜穂\n作曲：h-wonder"
+
+msgid "musicName_0055_musicname"
+msgstr "Get it on ～光速クライmax"
+
+msgid "musicName_0055_officialName"
+msgstr "Get it on ～光速クライmax"
+
+msgid "musicName_0055_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0055_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0055_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：Gabriela Robin、Tim Jensen\n作曲：菅野よう子"
+
+msgid "musicName_0055_storyDesc"
+msgstr "スパイ容疑で監獄に囚われてしまったシェリル。\nS.M.Sは極秘の救出作戦を決行する。\n\nそしてついに、ステージへの帰還を果たした。\nランカと対面すると少しだけ迷った素振りを見せたが、\nマイクを受け取れば、そこにはいつもの彼女がいた。"
+
+msgid "musicName_0055_storyTitle"
+msgstr "「みんな、脱出するわよ！」"
+
+msgid "musicName_0056_musicname"
+msgstr "シンデレラ"
+
+msgid "musicName_0056_officialName"
+msgstr "シンデレラ"
+
+msgid "musicName_0056_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0056_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0056_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：飯島真理\n作曲：飯島真理"
+
+msgid "musicName_0057_musicname"
+msgstr "NEO STREAM"
+
+msgid "musicName_0057_officialName"
+msgstr "NEO STREAM"
+
+msgid "musicName_0057_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0057_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0057_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西田恵美\n作曲：渡辺未来"
+
+msgid "musicName_0057_storyDesc"
+msgstr "避難民を乗せたアイランド船の動力にトラブルが発生。\n不安に怯える人々のため、ワルキューレが立ち上がる。\n\n外壁を損傷し船内の空気が減少する中、アーネストは\nやむ負えずマクロス・エリシオンの緊急ドッキングを\n敢行、果たしてアイランド船の修復は間に合うのか？"
+
+msgid "musicName_0057_storyTitle"
+msgstr "「マクロス・エリシオン、緊急ドッキング！」"
+
+msgid "musicName_0058_musicname"
+msgstr "オベリスク"
+
+msgid "musicName_0058_officialName"
+msgstr "オベリスク"
+
+msgid "musicName_0058_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0058_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0058_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0059_musicname"
+msgstr "ヴァージンストーリー"
+
+msgid "musicName_0059_officialName"
+msgstr "ヴァージンストーリー"
+
+msgid "musicName_0059_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0059_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0059_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：COZZI"
+
+msgid "musicName_0059_storyDesc"
+msgstr "かつてプロトデビルンを撃退し、マクロス7船団を\n救った伝説のロックバンド、Fire Bomber。その後の\n活動は不明な点が多く、幻の存在とさえ噂されていた。\n\nそんな中、Fire Bomberの新曲がリリースされたという\n衝撃のニュースが銀河ネットワークを駆け巡ったのだ。"
+
+msgid "musicName_0059_storyTitle"
+msgstr "「Fire Bomberはちゃんとここにいる！」"
+
+msgid "musicName_0060_musicname"
+msgstr "LOVE! THUNDER GLOW"
+
+msgid "musicName_0060_officialName"
+msgstr "LOVE! THUNDER GLOW"
+
+msgid "musicName_0060_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり"
+
+msgid "musicName_0060_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり"
+
+msgid "musicName_0060_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n\n作詞：サエキけんぞう\n作曲：SiZK、Stephen McNair"
+
+msgid "musicName_0060_storyDesc"
+msgstr "遺跡のシステムを破壊し人々を救出するため、再び\nヴォルドールへ潜入したデルタ小隊とワルキューレ。\n\n異常な波形で歌うフレイアと共鳴し暴走するハヤテ。\n遺跡のシステムが起動し、周囲が混乱に包まれる中、\n美雲の脳裏には恐怖の記憶と遥か昔の光景が甦り…"
+
+msgid "musicName_0060_storyTitle"
+msgstr "「怖れている？この私が……？」"
+
+msgid "musicName_0061_musicname"
+msgstr "マクロス"
+
+msgid "musicName_0061_officialName"
+msgstr "マクロス"
+
+msgid "musicName_0061_vocalName"
+msgstr "藤原誠"
+
+msgid "musicName_0061_vocalNameLF"
+msgstr "藤原誠"
+
+msgid "musicName_0061_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：藤原誠\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0061_storyDesc"
+msgstr "ゼントラーディ軍との星間戦争に巻き込まれた\nマクロス。約5万人の民間人を乗せた艦は広い宇宙の\n彼方に投げ出されてしまう。\n\n民間人だった一条輝は軍隊に抵抗を感じながらも、\nミンメイを守るために軍への入隊を決意したのだった。"
+
+msgid "musicName_0061_storyTitle"
+msgstr "「バルキリー・スカル大隊発進！」"
+
+msgid "musicName_0062_musicname"
+msgstr "禁断のエリクシア"
+
+msgid "musicName_0062_officialName"
+msgstr "禁断のエリクシア"
+
+msgid "musicName_0062_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0062_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0062_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0062_storyDesc"
+msgstr "バジュラの襲撃から3か月の時が経ったフロンティア\nでは、シェリルのライブが開催されようとしていた。\n\n無残に破壊されていた街並みも復興し、その一角に\n設けられた特別ステージに人々が集まっていた。\nまるでこのひと時は、戦いの傷跡を忘れるかのように。"
+
+msgid "musicName_0062_storyTitle"
+msgstr "「歌は命だと思ってた」"
+
+msgid "musicName_0063_musicname"
+msgstr "風は予告なく吹く"
+
+msgid "musicName_0063_officialName"
+msgstr "風は予告なく吹く"
+
+msgid "musicName_0063_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0063_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0063_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：坂本真綾\n作曲：北川勝利"
+
+msgid "musicName_0063_storyDesc"
+msgstr "ハヤテの病室の前で佇むフレイアとミラージュ。\nお互い言葉は交わさずとも胸に抱く想いは同じだった。\n\nそこにベルガーが現れ、あの暴走したヴォルドールを\n見ていたと語る。そして自身の仮説を確信したとして、\n歌こそ究極の兵器ではないのかと説き始めたのだった。"
+
+msgid "musicName_0063_storyTitle"
+msgstr "「歌は兵器なんかじゃない！」"
+
+msgid "musicName_0064_musicname"
+msgstr "恋はドッグファイト （FIRST LIVE in アトランティスドーム）"
+
+msgid "musicName_0064_officialName"
+msgstr "恋はドッグファイト （FIRST LIVE in アトランティスドーム）"
+
+msgid "musicName_0064_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0064_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0064_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：黒河影次\n作曲：菅野よう子"
+
+msgid "musicName_0065_musicname"
+msgstr "REMEMBER 16"
+
+msgid "musicName_0065_officialName"
+msgstr "REMEMBER 16"
+
+msgid "musicName_0065_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0065_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0065_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：河内淳貴"
+
+msgid "musicName_0065_storyDesc"
+msgstr "作り掛けの曲を完成させる切っ掛けを閃いたバサラ。\n救援部隊をシビルが襲撃したため一旦は中断するも、\nシティ7の夕陽を前に再び曲作りを開始するのだった。\n\n一方、夕陽の公園でフィジカの妻と子供の姿を見つけた\nガムリンは、愕然とする光景を目の当たりにしていた。"
+
+msgid "musicName_0065_storyTitle"
+msgstr "「このまま、二度と子供や妻に会えなかったら…」"
+
+msgid "musicName_0066_musicname"
+msgstr "SUBMARINE STREET"
+
+msgid "musicName_0066_officialName"
+msgstr "SUBMARINE STREET"
+
+msgid "musicName_0066_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0066_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0066_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：福田俊哉"
+
+msgid "musicName_0066_storyDesc"
+msgstr "バサラとの接触により、プロトデビルンのシビルは\nエネルギーを失い、植物プラントの中で眠りについた。\n\n彼女を目覚めさせるために、バサラは歌い続けた。\n何度も何度も、夜な夜な植物プラントへと足を運び、\n周りの者に不審がられようとも、歌い続けたのだった。"
+
+msgid "musicName_0066_storyTitle"
+msgstr "「今日こそ絶対目覚めさせてやるぜ！」"
+
+msgid "musicName_0067_musicname"
+msgstr "蒼のエーテル"
+
+msgid "musicName_0067_officialName"
+msgstr "蒼のエーテル"
+
+msgid "musicName_0067_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0067_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0067_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：坂本真綾\n作曲：菅野よう子"
+
+msgid "musicName_0068_musicname"
+msgstr "ワルキューレがとまらない"
+
+msgid "musicName_0068_officialName"
+msgstr "ワルキューレがとまらない"
+
+msgid "musicName_0068_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0068_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0068_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：唐沢美帆、加藤裕介\n作曲：加藤裕介"
+
+msgid "musicName_0068_storyDesc"
+msgstr "戦術音楽ユニットとして結成されて以来、多くの試練を\n乗り越えて活動を続けてきたワルキューレ。\n\nたくさんの人の想いを背負って歌っている彼女たち。\n日々成長を続け、とどまることを知らないその歌声は、\n今日も銀河中の人々の心に響き続けている。"
+
+msgid "musicName_0068_storyTitle"
+msgstr "「ワルキューレを最高にいいグループにしてやろうって」"
+
+msgid "musicName_0069_musicname"
+msgstr "涙目爆発音"
+
+msgid "musicName_0069_officialName"
+msgstr "涙目爆発音"
+
+msgid "musicName_0069_vocalName"
+msgstr "ワルキューレ　カナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0069_vocalNameLF"
+msgstr "ワルキューレ　カナメΔ安野希世乃\nレイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0069_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：堂島孝平\n作曲：堂島孝平"
+
+msgid "musicName_0069_storyDesc"
+msgstr "カナメとレイナの2人に第1回オーディションを通った\nマキナを含む3人が加わり始動したワルキューレ。\n\n彼女たちは何度も戦場に出向いたが、初めは\n力を発揮できず失敗続きだった。それでも彼女たち\nは歌い続け、やがて唯一無二の存在に成長していく。"
+
+msgid "musicName_0069_storyTitle"
+msgstr "「私たちの歌は、届かなかった」"
+
+msgid "musicName_0070_musicname"
+msgstr "愛・おぼえていますか〜bless the little queen"
+
+msgid "musicName_0070_officialName"
+msgstr "愛・おぼえていますか〜bless the little queen"
+
+msgid "musicName_0070_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0070_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0070_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：安井かずみ\n作曲：加藤和彦"
+
+msgid "musicName_0070_storyDesc"
+msgstr "バジュラ本星への降下を開始したフロンティア船団。\n全てが上手くいくと思われたその時、宙域にランカの\n歌声が響き渡り、バジュラは連携を取り戻していく。\n\nバジュラの猛攻によって劣勢を強いられる新統合軍\nと移民船団。ランカは本当に人類の敵となったのか…？"
+
+msgid "musicName_0070_storyTitle"
+msgstr "「惑星の守り手に、これ以上相応しい歌は無いわね」"
+
+msgid "musicName_0071_musicname"
+msgstr "What 'bout my star?@Formo"
+
+msgid "musicName_0071_officialName"
+msgstr "What 'bout my star?@Formo"
+
+msgid "musicName_0071_description"
+msgstr "楽曲詳細 071"
+
+msgid "musicName_0072_musicname"
+msgstr "妖精"
+
+msgid "musicName_0072_officialName"
+msgstr "妖精"
+
+msgid "musicName_0072_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0072_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0072_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：真名杏樹\n作曲：菅野よう子"
+
+msgid "musicName_0073_musicname"
+msgstr "破滅の純情"
+
+msgid "musicName_0073_officialName"
+msgstr "破滅の純情"
+
+msgid "musicName_0073_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0073_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0073_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0073_storyDesc"
+msgstr "惑星ヴォルドールにて古代システム破壊のため行った\n戦術ライブだが、システムの暴走と異常な共鳴反応を\n起こすフレイアとハヤテのため、強制的に中断された。\n\nしかし、遺跡との共鳴で覚醒した美雲は再び歌い始め、\nより共鳴を強めていく。そして、限界を超えた遺跡は…"
+
+msgid "musicName_0073_storyTitle"
+msgstr "「システムが…暴走してる！」"
+
+msgid "musicName_0074_musicname"
+msgstr "永遠"
+
+msgid "musicName_0074_officialName"
+msgstr "永遠"
+
+msgid "musicName_0074_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0074_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0074_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0075_musicname"
+msgstr "ホシキラ"
+
+msgid "musicName_0075_officialName"
+msgstr "ホシキラ"
+
+msgid "musicName_0075_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0075_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0075_description"
+msgstr "作品：劇場版マクロスF〜サヨナラノツバサ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0075_storyDesc"
+msgstr "バジュラが星を後にしてからひと月、人々は残された\n大地を踏みしめ、新しい生活を始めようとしていた。\n\nランカはアルトが無事に帰ってくること、そして命を\n燃やして歌い、長い眠りについたシェリルが再び目を\n覚ますことを信じ、残されたこの星と共に歌い続ける。"
+
+msgid "musicName_0075_storyTitle"
+msgstr "「──だけど、私は信じている」"
+
+msgid "musicName_0076_musicname"
+msgstr "Absolute 5"
+
+msgid "musicName_0076_officialName"
+msgstr "Absolute 5"
+
+msgid "musicName_0076_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0076_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0076_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：喜介\n作曲：渡辺拓也"
+
+msgid "musicName_0076_storyDesc"
+msgstr "美雲を囚われ、メンバーを欠いたワルキューレ。\nそれでもプロトカルチャーのシステムを破壊するため、\n4人での戦術ライブを強行する。\n\n敵の激しい抵抗の中、ワルキューレは歌声を響かせる。\n気配を隠し、静かに狙いを定める存在にも気付かずに…"
+
+msgid "musicName_0076_storyTitle"
+msgstr "「大丈夫、私たちならできる！」"
+
+msgid "musicName_0077_musicname"
+msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
+
+msgid "musicName_0077_officialName"
+msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
+
+msgid "musicName_0077_vocalName"
+msgstr "ワルキューレ　カナメΔ安野希世乃　美雲ΔJUNNA　フレイアΔ鈴木みのり"
+
+msgid "musicName_0077_vocalNameLF"
+msgstr "ワルキューレ　カナメΔ安野希世乃\n美雲ΔJUNNA　フレイアΔ鈴木みのり"
+
+msgid "musicName_0077_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　カナメΔ安野希世乃　美雲ΔJUNNA\n　　　フレイアΔ鈴木みのり\n\n作詞：菜穂\n作曲：h-wonder"
+
+msgid "musicName_0077_storyDesc"
+msgstr "メッサーの魂が海に還り、光クラゲになれるよう\nクラゲ送りを行うケイオスのメンバーとワルキューレ。\n\nメッサーの機体から見つかったという端末には、\nデルタ小隊のフライトログが残されていたという。\nそこには最後まで仲間を想い続ける彼の姿があった。"
+
+msgid "musicName_0077_storyTitle"
+msgstr "「私の歌を、大切に思ってくれる人がいる」"
+
+msgid "musicName_0078_musicname"
+msgstr "宇宙兄弟船"
+
+msgid "musicName_0078_officialName"
+msgstr "宇宙兄弟船"
+
+msgid "musicName_0078_description"
+msgstr "楽曲詳細 078"
+
+msgid "musicName_0079_musicname"
+msgstr "イゾラド"
+
+msgid "musicName_0079_officialName"
+msgstr "イゾラド"
+
+msgid "musicName_0079_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0079_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0079_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：山田稔明\n作曲：菅野よう子"
+
+msgid "musicName_0080_musicname"
+msgstr "ルンがピカッと光ったら"
+
+msgid "musicName_0080_officialName"
+msgstr "ルンがピカッと光ったら"
+
+msgid "musicName_0080_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0080_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0080_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0081_musicname"
+msgstr "ランナー -リンミンメイ･バージョン-"
+
+msgid "musicName_0081_officialName"
+msgstr "ランナー -リンミンメイ･バージョン-"
+
+msgid "musicName_0081_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0081_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0081_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0081_storyDesc"
+msgstr "最初は偶然の出会いだった輝とミンメイ。ともに\n窮地を乗り越えた2人は徐々に交友を深めていく。\n\nそして、軍へ入隊した輝と、芸能界に入ったミンメイ。\nいつしか疎遠となっていく2人の関係だが、かつての\n青春と思い出は、時を経た今でも色褪せることはない。"
+
+msgid "musicName_0081_storyTitle"
+msgstr "「ありがとう、ミンメイ」"
+
+msgid "musicName_0082_musicname"
+msgstr "愛は流れる"
+
+msgid "musicName_0082_officialName"
+msgstr "愛は流れる"
+
+msgid "musicName_0082_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0082_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0082_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0082_storyDesc"
+msgstr "戦闘中被弾した輝は地球に降下、そのまま取り残され\nていた未沙の救出へと向かった。戦場ではミンメイの\n歌と共に、マクロスが敵旗艦への最後の突撃に挑む。\n\n生き残った輝と未沙は地上でミンメイの歌を耳にし、\n無事地球へ帰還するマクロスの姿を目にしたのだった。"
+
+msgid "musicName_0082_storyTitle"
+msgstr "「1人ぼっちじゃないんだから」"
+
+msgid "musicName_0083_musicname"
+msgstr "SUNSET BEACH"
+
+msgid "musicName_0083_officialName"
+msgstr "SUNSET BEACH"
+
+msgid "musicName_0083_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0083_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0083_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0083_storyDesc"
+msgstr "プロの歌手であるミンメイも、プライベートでは\n年頃の女の子。スキャンダルに落ち込みもするし、\n無邪気に遊びまわりたい気持ちもある。\n\nそんなミンメイを想う輝は、彼女の願いを叶えるために\nバルキリーで宇宙へと連れ出したのであった。"
+
+msgid "musicName_0083_storyTitle"
+msgstr "「いいものを見せてあげようか」"
+
+msgid "musicName_0084_musicname"
+msgstr "ワルキューレは裏切らない"
+
+msgid "musicName_0084_officialName"
+msgstr "ワルキューレは裏切らない"
+
+msgid "musicName_0084_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0084_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0084_description"
+msgstr "作品：劇場版マクロスΔ激情のワルキューレ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：喜介\n作曲：渡辺拓也"
+
+msgid "musicName_0084_storyDesc"
+msgstr "ウィンダミアとの最終決戦。ロイド達の攻撃により\n意識を失うハヤテ達に歌を届けに空へ飛びこんでいく。\n\nたとえ、どんなに絶望的な状況でも、決して希望を\n諦めずに歌い続ける。それが彼女達の強さであり、\n力なのだろう。"
+
+msgid "musicName_0084_storyTitle"
+msgstr "「届けなきゃ…私の歌……届けなきゃ！」"
+
+msgid "musicName_0085_musicname"
+msgstr "シェリルの宇宙兄弟船"
+
+msgid "musicName_0085_officialName"
+msgstr "シェリルの宇宙兄弟船"
+
+msgid "musicName_0085_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0085_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0085_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0085_storyDesc"
+msgstr "早乙女矢三郎。アルトにとって兄弟子にあたる人物で、\n彼が「兄さん」と呼ぶ早乙女一門の歌舞伎役者である。\n\n矢三郎はアルトに役者として戻ってくることを望んだ。\nそれは精進をしても得られない役者としての血筋と、\n自身を超えるアルトの才能を惜しんでのことであった。"
+
+msgid "musicName_0085_storyTitle"
+msgstr "「あなたは演じることをやめられない」"
+
+msgid "musicName_0086_musicname"
+msgstr "ゴ～～ジャス"
+
+msgid "musicName_0086_officialName"
+msgstr "ゴ～～ジャス"
+
+msgid "musicName_0086_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0086_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0086_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：ROBIN ROBINSON\n作曲：菅野よう子"
+
+msgid "musicName_0086_storyDesc"
+msgstr "異国の地でエキゾチックな衣装に身を包んだシェリル。\n美しく妖艶なその姿は、見る者すべてを誘惑していく。\n\n舞台という魔物にとらわれ、虜となった彼女の情熱と\n欲求はとどまることを知らない。いつかその身が果てる\nその瞬間まで、彼女は輝き続けるのだろう。"
+
+msgid "musicName_0086_storyTitle"
+msgstr "「私はステージ…舞台っていう魔物にとらわれた虜…」"
+
+msgid "musicName_0087_musicname"
+msgstr "ランカと Brand New Peach"
+
+msgid "musicName_0087_officialName"
+msgstr "ランカと Brand New Peach"
+
+msgid "musicName_0087_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0087_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0087_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：ROBIN ROBINSON\n作曲：菅野よう子"
+
+msgid "musicName_0087_storyDesc"
+msgstr "今や売れっ子として忙しい日々を過ごすランカ。\nこうして憧れのステージに立てたのも、アルトが\n背中を押してくれたおかげだとランカは感じていた。\n\nそして、ランカの心の中で芽生える甘く切ない感情。\nランカがそれを理解するのは、もう少しだけ後の話…"
+
+msgid "musicName_0087_storyTitle"
+msgstr "「アルト君がいてくれたから…」"
+
+msgid "musicName_0088_musicname"
+msgstr "Good job！"
+
+msgid "musicName_0088_officialName"
+msgstr "Good job！"
+
+msgid "musicName_0088_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0088_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0088_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：ROBIN ROBINSON\n作曲：菅野よう子"
+
+msgid "musicName_0088_storyDesc"
+msgstr "シェリル・ノームとランカ・リー。\n今を時めく歌姫である彼女たちは\n今宵もスペシャルなライブを用意してくれた。\n\n日々進化を続ける彼女たちの挑戦は、\n終わることなく次のステージへと羽ばたいていく。"
+
+msgid "musicName_0088_storyTitle"
+msgstr "「私たちの歌を聴けー！！」"
+
+msgid "musicName_0089_musicname"
+msgstr "チェンジ!!!!!"
+
+msgid "musicName_0089_officialName"
+msgstr "チェンジ!!!!!"
+
+msgid "musicName_0089_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0089_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0089_description"
+msgstr "作品：劇場版マクロスΔ激情のワルキューレ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：岩里祐穂\n作曲：Rasmus Faber"
+
+msgid "musicName_0089_storyDesc"
+msgstr "初ライブの直前、美雲の厳しい言葉に真剣な顔を見せる\nフレイア。未だ成果を出せていないフレイアだったが…\n\nハヤテたちデルタ小隊が見守る中、眩惑的なステージが\n始まる。レッスンの時とはうって変わり、ステージ上で\n輝きを放つフレイアの姿にハヤテは目を離せずにいた。"
+
+msgid "musicName_0089_storyTitle"
+msgstr "「駄目ならクビよ？」"
+
+msgid "musicName_0090_musicname"
+msgstr "MY FRIENDS"
+
+msgid "musicName_0090_officialName"
+msgstr "MY FRIENDS"
+
+msgid "musicName_0090_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0090_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0090_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：M.MEG\n作曲：川野美紀"
+
+msgid "musicName_0090_storyDesc"
+msgstr "女性ボーカルとしてFire Bomberに参加したミレーヌ。\n最初はバサラの態度に納得できず、度々衝突していた。\n\n後に理解を深め、お互いを認め合うバサラとミレーヌ。\n更にガムリンとの出会いを経たことで、彼女の心は\n2人の異性の間で大きく揺れ動くことになる。"
+
+msgid "musicName_0090_storyTitle"
+msgstr "「歌いたいときに歌うんじゃないの？」"
+
+msgid "musicName_0091_musicname"
+msgstr "サイレントでなんかいられない"
+
+msgid "musicName_0091_officialName"
+msgstr "サイレントでなんかいられない"
+
+msgid "musicName_0091_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0091_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0091_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0091_storyDesc"
+msgstr "銀色に空が輝き、陽気なキャロルが街に流れ始めれば\nクリスマスを待ちわびる人々の声が聞こえてくる。\n\n特製の衣装を身に纏い着々とパーティーの準備を進める\nシェリル・ノームとランカ・リーの2人。彼女たちなら\n厳かなクリスマスも、最高に賑やかな物にするはずだ。"
+
+msgid "musicName_0091_storyTitle"
+msgstr "「わぁ…」「綺麗…」"
+
+msgid "musicName_0092_musicname"
+msgstr "INFORMATION HIGH"
+
+msgid "musicName_0092_officialName"
+msgstr "INFORMATION HIGH"
+
+msgid "musicName_0092_vocalName"
+msgstr "SHARON APPLE"
+
+msgid "musicName_0092_vocalNameLF"
+msgstr "SHARON APPLE"
+
+msgid "musicName_0092_description"
+msgstr "作品：マクロスプラス\n\n歌手：SHARON APPLE\n\n作詞：DAI＆KEN=GO→\n作曲：CMJK"
+
+msgid "musicName_0092_storyDesc"
+msgstr "（仮）"
+
+msgid "musicName_0092_storyTitle"
+msgstr "（仮）"
+
+msgid "musicName_0093_musicname"
+msgstr "ようこそ! ワルキューレ・ワールドへ"
+
+msgid "musicName_0093_officialName"
+msgstr "ようこそ! ワルキューレ・ワールドへ"
+
+msgid "musicName_0093_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0093_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0093_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：根元歳三\n作曲：西脇辰弥、Wilhelm Richard Wagner"
+
+msgid "musicName_0093_storyDesc"
+msgstr "半ばドッキリのような抜き打ちの試験にて見事合格を\n掴み取り、女神の世界へと足を踏み入れたフレイア。\n\nそして、フレイアを加え5人となったワルキューレは、\n今日もステージで女神の歌声を響かせながら、観客を\nめくるめくワルキューレ・ワールドへと誘っていく。"
+
+msgid "musicName_0093_storyTitle"
+msgstr "「Welcome to Waltüre World！」"
+
+msgid "musicName_0094_musicname"
+msgstr "マイ・ビューティフル・プレイス"
+
+msgid "musicName_0094_officialName"
+msgstr "マイ・ビューティフル・プレイス"
+
+msgid "musicName_0094_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0094_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0094_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0094_storyDesc"
+msgstr "統合政府の出した決定は、24時間以内の地球圏外への\n出撃だった。そしてそれは5万6千人のマクロス市民を\n巻き添えにしなければならないことを意味していた…\n\n離れていく地球を背にし、想いを込めて歌うミンメイ。\nいつか再び故郷が迎え入れてくれることを願いながら…"
+
+msgid "musicName_0094_storyTitle"
+msgstr "「いつか、きっと戻れると思うんです」"
+
+msgid "musicName_0095_musicname"
+msgstr "Dancing in the Moonlight"
+
+msgid "musicName_0095_officialName"
+msgstr "Dancing in the Moonlight"
+
+msgid "musicName_0095_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0095_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0095_description"
+msgstr "作品：劇場版マクロスΔ激情のワルキューレ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：北川勝利、acane_madder\n作曲：北川勝利"
+
+msgid "musicName_0095_storyDesc"
+msgstr "戦闘中ワルキューレ以外のフォールドレセプターの\n反応を確認したデルタ小隊のハヤテは、貨物船の中で\n密航中であったフレイアと運命的な出会いを果たした。\n\nその後、ハヤテの手助けもありワルキューレとなった\nフレイアは、激動する世界を相手に歌を響かせていく。"
+
+msgid "musicName_0095_storyTitle"
+msgstr "「私は好きな歌を歌いたい、1分でも1秒でも長く！」"
+
+msgid "musicName_0096_musicname"
+msgstr "天使になっちゃった"
+
+msgid "musicName_0096_officialName"
+msgstr "天使になっちゃった"
+
+msgid "musicName_0096_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0096_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0096_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0096_storyDesc"
+msgstr "ホテルで撮影した写真を眺めていたシェリルは、1枚の\n写真を前に手を止めてしまう。映されたアルトの姿に\nシェリルは胸を甘く締め付けられるのを感じていた。\n\n美形だけど生意気で、危険を顧みず何度も助けてくれた\n優しい青年にシェリルの心は大きく揺さぶられていく。"
+
+msgid "musicName_0096_storyTitle"
+msgstr "「不思議の国…かぁ」"
+
+msgid "musicName_0097_musicname"
+msgstr "インフィニティ #7"
+
+msgid "musicName_0097_officialName"
+msgstr "インフィニティ #7"
+
+msgid "musicName_0097_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0097_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0097_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：岩里祐穂\n作曲：菅野よう子"
+
+msgid "musicName_0097_storyDesc"
+msgstr "最後の曲だけはある人たちのために歌いたいという\nシェリルの言葉に、アルトが戦場にいるのを知りながら\nそれでも気丈に歌い続けていたことに気付いたランカ。\n\nランカは一緒に歌ってほしいというシェリルの願いに\n応え、共に戦っているアルトのために歌声を響かせた。"
+
+msgid "musicName_0097_storyTitle"
+msgstr "「あなたにも一緒に歌ってほしいの」"
+
+msgid "musicName_0098_musicname"
+msgstr "小白竜【MIRROR ver.】"
+
+msgid "musicName_0098_officialName"
+msgstr "小白竜"
+
+msgid "musicName_0098_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0098_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0098_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0098_storyDesc"
+msgstr "地球を追放されたも同然となったマクロスであったが、\nマクロスで生活する民間人のバイタリティは、ついに\nカンフー映画「小白竜」を艦内で完成させたのだった。\n\nそして公開初日、盗み見ていたゼントラーディたちは、\n超能力を思わせる描写に大きな誤解を抱くことになる。"
+
+msgid "musicName_0098_storyTitle"
+msgstr "「…そういや明日、小白竜の初日か」"
+
+msgid "musicName_0099_musicname"
+msgstr "星間飛行～Freyja Ver.～"
+
+msgid "musicName_0099_officialName"
+msgstr "星間飛行～Freyja Ver.～"
+
+msgid "musicName_0099_vocalName"
+msgstr "ワルキューレ　フレイアΔ鈴木みのり"
+
+msgid "musicName_0099_vocalNameLF"
+msgstr "ワルキューレ　フレイアΔ鈴木みのり"
+
+msgid "musicName_0099_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　フレイアΔ鈴木みのり\n\n作詞：松本隆\n作曲：菅野よう子"
+
+msgid "musicName_0099_storyDesc"
+msgstr "フレイアが幼少の頃、よく行く遊び場所の近くに地球\nから来た軍人がいっぱい居たという。フレイアはそこで\n音楽プレーヤーを貰い、地球の歌を知ることができた。\n\nその後に起こる独立戦争を歌に支えられて乗り越えた\nフレイアは、歌が持つ力を心で感じ取っていったのだ。"
+
+msgid "musicName_0099_storyTitle"
+msgstr "「なんかようわからんけど、歌ってすごいって思った」"
+
+msgid "musicName_0100_musicname"
+msgstr "ねこ日記【MIRROR ver.】"
+
+msgid "musicName_0100_officialName"
+msgstr "ねこ日記"
+
+msgid "musicName_0100_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0100_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0100_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0100_storyDesc"
+msgstr "下積みを重ねながら、ついに歌手としてデビューする\nことができたランカ。1人でも多くの人に知ってもらう\nため、街頭で精力的にプロモーションを行うのだった。\n\nその後、映画への出演が決まり一躍人気のアイドルと\nなったランカ。地道な活動こそが夢を繋いだのである。"
+
+msgid "musicName_0100_storyTitle"
+msgstr "「この度、私デビューします」"
+
+msgid "musicName_0101_musicname"
+msgstr "…だけどベイビー！！"
+
+msgid "musicName_0101_officialName"
+msgstr "…だけどベイビー！！"
+
+msgid "musicName_0101_vocalName"
+msgstr "チエ・カジウラ"
+
+msgid "musicName_0101_vocalNameLF"
+msgstr "チエ・カジウラ"
+
+msgid "musicName_0101_description"
+msgstr "作品：マクロス7\n\n歌手：チエ・カジウラ\n\n作詞：chie\n作曲：KANAME"
+
+msgid "musicName_0101_storyDesc"
+msgstr "自由奔放な性格で、子供扱いされることを嫌っている\nミレーヌ。それは両親に対しても同じで、子供扱いに\n対する反発心から、1人暮らしを始めてしまうほどだ。\n\nそんな性格を表しているかのように、歌の内容も恋愛に\n直情的だったりするのだが、本人の自覚はというと…？"
+
+msgid "musicName_0101_storyTitle"
+msgstr "「ガキって言葉大嫌いなの！」"
+
+msgid "musicName_0102_musicname"
+msgstr "NEW FRONTIER"
+
+msgid "musicName_0102_officialName"
+msgstr "NEW FRONTIER"
+
+msgid "musicName_0102_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0102_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0102_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：石川雅敏\n作曲：河内淳貴"
+
+msgid "musicName_0102_storyDesc"
+msgstr "巨大な白い銀河クジラとの決闘に挑み続けるグラハムと\n銀河クジラに歌を聞かせたいバサラ。全く違う目的の\n2人だが、その間には奇妙な友情が芽生え始めていた。\n\nなぜこの星に来たというグラハムの問いに、バサラは\n風だと答えた。気持ちのいい風が流れていたのだと。"
+
+msgid "musicName_0102_storyTitle"
+msgstr "「お前はなぜこの星に来た」"
+
+msgid "musicName_0103_musicname"
+msgstr "愛・おぼえていますか【MIRROR ver.】"
+
+msgid "musicName_0103_officialName"
+msgstr "愛・おぼえていますか"
+
+msgid "musicName_0103_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0103_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0103_description"
+msgstr "作品：超時空要塞マクロス 愛・おぼえていますか\n\n歌手：飯島真理\n\n作詞：安井かずみ\n作曲：加藤和彦"
+
+msgid "musicName_0104_musicname"
+msgstr "天使の絵の具【MIRROR ver.】"
+
+msgid "musicName_0104_officialName"
+msgstr "天使の絵の具"
+
+msgid "musicName_0104_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0104_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0104_description"
+msgstr "作品：超時空要塞マクロス 愛・おぼえていますか\n\n歌手：飯島真理\n\n作詞：飯島真理\n作曲：飯島真理"
+
+msgid "musicName_0105_musicname"
+msgstr "検証用譜面"
+
+msgid "musicName_0105_officialName"
+msgstr "比較用譜面"
+
+msgid "musicName_0105_description"
+msgstr "作品：\n\n歌手：\n\n作詞：\n作曲："
+
+msgid "musicName_0106_musicname"
+msgstr "ワルキューレのバースデイソング"
+
+msgid "musicName_0106_officialName"
+msgstr "ワルキューレのバースデイソング"
+
+msgid "musicName_0106_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0106_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　カナメΔ安野希世乃\nレイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0106_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　カナメΔ安野希世乃\n　　　レイナΔ東山奈央　マキナΔ西田望見\n\n作詞：Happy Field\n作曲：Happy Field"
+
+msgid "musicName_0106_storyDesc"
+msgstr "フレイアのサプライズパーティーの準備が進む中、\n美雲にも声を掛けていたカナメ。普段の美雲とは違う\n含みのある返事に、カナメは美雲の変化を感じていた。\n\nそしてサプライズ当日、パーティーに現れた美雲は\n仲間たちとともにフレイアへ歌を贈ったのであった。"
+
+msgid "musicName_0106_storyTitle"
+msgstr "「どんなものか知りたかったから」"
+
+msgid "musicName_0107_musicname"
+msgstr "比較用譜面"
+
+msgid "musicName_0107_officialName"
+msgstr "比較用譜面"
+
+msgid "musicName_0107_description"
+msgstr "作品：\n\n歌手：\n\n作詞：\n作曲："
+
+msgid "musicName_0108_musicname"
+msgstr "ANGEL VOICE"
+
+msgid "musicName_0108_officialName"
+msgstr "ANGEL VOICE"
+
+msgid "musicName_0108_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0108_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0108_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：菅野よう子"
+
+msgid "musicName_0108_storyDesc"
+msgstr "密漁団母艦が発射した反応弾を飲み込み、その爆発にも\n悠然と耐えた白い銀河クジラの生命力。その姿に改めて\n感動したバサラは、再び銀河クジラの前で歌い始める。\n\nそして、バサラの歌に呼応するかのように銀河クジラは\n鳴き声を上げた。そう、まるで歌っているかのように…"
+
+msgid "musicName_0108_storyTitle"
+msgstr "「歌った…！クジラが！」"
+
+msgid "musicName_0109_musicname"
+msgstr "ドッグ・ファイター"
+
+msgid "musicName_0109_officialName"
+msgstr "ドッグ・ファイター"
+
+msgid "musicName_0109_vocalName"
+msgstr "--------------------"
+
+msgid "musicName_0109_vocalNameLF"
+msgstr "--------------------"
+
+msgid "musicName_0109_description"
+msgstr "作品：超時空要塞マクロス\n\n作曲：羽田健太郎"
+
+msgid "musicName_0109_storyDesc"
+msgstr "異星人からの襲撃に対し、可変戦闘機「バルキリー」を\n駆って迎撃へと向かう統合軍の若きパイロットたち。\n一条輝もスカル小隊の隊員として敵の襲撃を迎え撃つ。\n\nバルキリー隊が一斉発射したミサイルが戦端を開くと、\n宇宙空間を舞台にしたドッグファイトの幕が上がった。"
+
+msgid "musicName_0109_storyTitle"
+msgstr "「全機散開して、逆加速に移れいっ！」"
+
+msgid "musicName_0110_musicname"
+msgstr "VOICES"
+
+msgid "musicName_0110_officialName"
+msgstr "VOICES"
+
+msgid "musicName_0110_vocalName"
+msgstr "新居昭乃"
+
+msgid "musicName_0110_vocalNameLF"
+msgstr "新居昭乃"
+
+msgid "musicName_0110_description"
+msgstr "作品：マクロスプラス\n\n歌手：新居昭乃\n\n作詞：覚和歌子\n作曲：菅野よう子"
+
+msgid "musicName_0110_storyDesc"
+msgstr "眩しいほどの青い空の下、歌声は天まで届くと信じて\nいたあの頃。歌手を目指しながら自分でも曲を作って\nいたミュン。「VOICES」もその内のひとつだった。\n\n歌手の夢を諦めたと語るミュンだが、その歌は今でも\nハイスクール時代の仲間たちの心に流れ続けていた。"
+
+msgid "musicName_0110_storyTitle"
+msgstr "「私だって、自分の歌でみんなに感動して欲しかった」"
+
+msgid "musicName_0111_musicname"
+msgstr "LIGHT THE LIGHT"
+
+msgid "musicName_0111_officialName"
+msgstr "LIGHT THE LIGHT"
+
+msgid "musicName_0111_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0111_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0111_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：TSUKASA"
+
+msgid "musicName_0111_storyDesc"
+msgstr "力の暴走によって、際限なくスピリチアを奪い尽くす\n化物となったゲペルニッチを前に、人々は最後の力を\n振り絞りながら歌い続けることで必死の抵抗を試みる。\n\nいつしか歌声も途絶え、銀河が闇へと閉ざされかけた\nその時、穢れなき歌とともにスピリチアが光を放った。"
+
+msgid "musicName_0111_storyTitle"
+msgstr "「みんな歌うのよ、心を込めて！」"
+
+msgid "musicName_0112_musicname"
+msgstr "PARADE"
+
+msgid "musicName_0112_officialName"
+msgstr "PARADE"
+
+msgid "musicName_0112_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0112_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0112_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：川野美紀"
+
+msgid "musicName_0113_musicname"
+msgstr "未来はオンナのためにある"
+
+msgid "musicName_0113_officialName"
+msgstr "未来はオンナのためにある"
+
+msgid "musicName_0113_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0113_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0113_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：岩里祐穂\n作曲：齋藤大"
+
+msgid "musicName_0114_musicname"
+msgstr "絶対零度θノヴァティック Another ver."
+
+msgid "musicName_0114_officialName"
+msgstr "絶対零度θノヴァティック"
+
+msgid "musicName_0114_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0114_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0114_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：図司純子<Eidy>、河嶋晃一<Eidy>\n作曲：図司純子<Eidy>、河嶋晃一<Eidy>、\n　　　Mitsunori Ikeda"
+
+msgid "musicName_0115_musicname"
+msgstr "Merry Christmas without You"
+
+msgid "musicName_0115_officialName"
+msgstr "Merry Christmas without You"
+
+msgid "musicName_0115_vocalName"
+msgstr "frontier stars"
+
+msgid "musicName_0115_vocalNameLF"
+msgstr "frontier stars"
+
+msgid "musicName_0115_description"
+msgstr "作品：マクロスF\n\n歌手：frontier stars\n\n作詞：山田稔明\n作曲：菅野よう子"
+
+msgid "musicName_0116_musicname"
+msgstr "ルンに花咲く恋もある"
+
+msgid "musicName_0116_officialName"
+msgstr "ルンに花咲く恋もある"
+
+msgid "musicName_0116_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0116_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0116_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0116_storyDesc"
+msgstr "歌に恋に自らの人生をかけて突き進んでいくフレイア。\n花のように短い人生であろうとも、幸せを掴むと\n覚悟を決めたならば、考えているような暇はないのだ。\n\nピカピカ光るルンとともに咲き誇る恋の花は、今日も、\nそしてこれからも大好きな人の隣で幸せを歌い続ける。"
+
+msgid "musicName_0116_storyTitle"
+msgstr "「考えとる暇があったら飛び続けんきゃね！」"
+
+msgid "musicName_0117_musicname"
+msgstr "HEART & SOUL"
+
+msgid "musicName_0117_officialName"
+msgstr "HEART & SOUL"
+
+msgid "musicName_0117_vocalName"
+msgstr "EMILIA with BASARA NEKKI"
+
+msgid "musicName_0117_vocalNameLF"
+msgstr "EMILIA with BASARA NEKKI"
+
+msgid "musicName_0117_description"
+msgstr "作品：マクロス7\n\n歌手：EMILIA with BASARA NEKKI\n\n作詞：K.INOJO\n作曲：川野美紀"
+
+msgid "musicName_0118_musicname"
+msgstr "いけないボーダーライン Another ver."
+
+msgid "musicName_0118_officialName"
+msgstr "いけないボーダーライン"
+
+msgid "musicName_0118_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0118_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0118_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0119_musicname"
+msgstr "僕らの戦場【MIRROR ver.】"
+
+msgid "musicName_0119_officialName"
+msgstr "僕らの戦場"
+
+msgid "musicName_0119_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0119_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0119_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：唐沢美帆、加藤裕介\n作曲：加藤裕介"
+
+msgid "musicName_0120_musicname"
+msgstr "私の彼はパイロット（PartⅡ）"
+
+msgid "musicName_0120_officialName"
+msgstr "私の彼はパイロット（PartⅡ）"
+
+msgid "musicName_0120_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0120_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0120_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0121_musicname"
+msgstr "NEO STREAM Another ver."
+
+msgid "musicName_0121_officialName"
+msgstr "NEO STREAM"
+
+msgid "musicName_0121_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0121_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0121_description"
+msgstr "作品：マクロスΔ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：西田恵美\n作曲：渡辺未来"
+
+msgid "musicName_0122_musicname"
+msgstr "FLASH IN THE DARK"
+
+msgid "musicName_0122_officialName"
+msgstr "FLASH IN THE DARK"
+
+msgid "musicName_0122_vocalName"
+msgstr "EMILIA"
+
+msgid "musicName_0122_vocalNameLF"
+msgstr "EMILIA"
+
+msgid "musicName_0122_description"
+msgstr "作品：劇場版マクロス7 銀河がオレを呼んでいる!\n\n歌手：EMILIA\n\n作詞：K.INOJO\n作曲：茂村泰彦"
+
+msgid "musicName_0123_musicname"
+msgstr "Songbird"
+
+msgid "musicName_0123_officialName"
+msgstr "Songbird"
+
+msgid "musicName_0123_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0123_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0123_description"
+msgstr "作品：マクロスF\n\n歌手：ランカ・リー＝中島愛\n\n作詞：銀色夏生\n作曲：菅野よう子"
+
+msgid "musicName_0124_musicname"
+msgstr "Dancing in the Moonlight Another ver."
+
+msgid "musicName_0124_officialName"
+msgstr "Dancing in the Moonlight"
+
+msgid "musicName_0124_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0124_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0124_description"
+msgstr "作品：劇場版マクロスΔ激情のワルキューレ\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：北川勝利、acane_madder\n作曲：北川勝利"
+
+msgid "musicName_0125_musicname"
+msgstr "SWEET FANTASY"
+
+msgid "musicName_0125_officialName"
+msgstr "SWEET FANTASY"
+
+msgid "musicName_0125_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0125_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0125_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：M.MEG\n作曲：大槻啓之"
+
+msgid "musicName_0126_musicname"
+msgstr "君に届け→"
+
+msgid "musicName_0126_officialName"
+msgstr "君に届け→"
+
+msgid "musicName_0126_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0126_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0126_description"
+msgstr "作品：マクロス7\n\n歌手：Fire Bomber\n\n作詞：M.MEG\n作曲：M.PROJECT"
+
+msgid "musicName_0127_musicname"
+msgstr "ライオン【MIRROR ver.】"
+
+msgid "musicName_0127_officialName"
+msgstr "ライオン"
+
+msgid "musicName_0127_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0127_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0127_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0128_musicname"
+msgstr "ユニバーサル・バニー【MIRROR ver.】"
+
+msgid "musicName_0128_officialName"
+msgstr "ユニバーサル・バニー"
+
+msgid "musicName_0128_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0128_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0128_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：しほり、PA-NON、Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0129_musicname"
+msgstr "SUNSET BEACH【MIRROR ver.】"
+
+msgid "musicName_0129_officialName"
+msgstr "SUNSET BEACH"
+
+msgid "musicName_0129_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0129_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0129_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0130_musicname"
+msgstr "ノーザンクロス【MIRROR ver.】"
+
+msgid "musicName_0130_officialName"
+msgstr "ノーザンクロス"
+
+msgid "musicName_0130_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0130_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0130_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：岩里祐穂、Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0131_musicname"
+msgstr "ワルキューレはあきらめない"
+
+msgid "musicName_0131_officialName"
+msgstr "ワルキューレはあきらめない"
+
+msgid "musicName_0131_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0131_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0131_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：唐沢美帆\n作曲：加藤裕介"
+
+msgid "musicName_0132_musicname"
+msgstr "唇の凍傷"
+
+msgid "musicName_0132_officialName"
+msgstr "唇の凍傷"
+
+msgid "musicName_0132_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0132_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0132_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：椿山日南子\n作曲：椿山日南子"
+
+msgid "musicName_0133_musicname"
+msgstr "Glow in the dark"
+
+msgid "musicName_0133_officialName"
+msgstr "Glow in the dark"
+
+msgid "musicName_0133_vocalName"
+msgstr "Yami_Q_ray"
+
+msgid "musicName_0133_vocalNameLF"
+msgstr "Yami_Q_ray"
+
+msgid "musicName_0133_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：Yami_Q_ray\n\n作詞：太渡辺未来・西田恵美\n作曲：渡辺未来"
+
+msgid "musicName_0134_musicname"
+msgstr "時の迷宮"
+
+msgid "musicName_0134_officialName"
+msgstr "時の迷宮"
+
+msgid "musicName_0134_vocalName"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0134_vocalNameLF"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0134_description"
+msgstr "作品：劇場短編マクロスF ～時の迷宮～\n\n歌手：ランカ・リー＝中島愛、\n　　　シェリル・ノーム starring May'n\n\n作詞：菅野よう子・児玉雨子\n作曲：菅野よう子"
+
+msgid "musicName_0135_musicname"
+msgstr "ランナー -デュエット・バージョン-"
+
+msgid "musicName_0135_officialName"
+msgstr "ランナー -デュエット・バージョン-"
+
+msgid "musicName_0135_vocalName"
+msgstr "藤原 誠 ／ 飯島 真理"
+
+msgid "musicName_0135_vocalNameLF"
+msgstr "藤原 誠 ／ 飯島 真理"
+
+msgid "musicName_0135_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：藤原 誠 ／ 飯島 真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0136_musicname"
+msgstr "ROCK'N'ROLL FIRE"
+
+msgid "musicName_0136_officialName"
+msgstr "ROCK'N'ROLL FIRE"
+
+msgid "musicName_0136_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0136_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0136_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：須藤英樹"
+
+msgid "musicName_0137_musicname"
+msgstr "ダイナム超合金"
+
+msgid "musicName_0137_officialName"
+msgstr "ダイナム超合金"
+
+msgid "musicName_0137_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0137_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0137_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：黒河影次\n作曲：菅野よう子"
+
+msgid "musicName_0138_musicname"
+msgstr "HELLO"
+
+msgid "musicName_0138_officialName"
+msgstr "HELLO"
+
+msgid "musicName_0138_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0138_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0138_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：K.INOJO\n作曲：須藤英樹"
+
+msgid "musicName_0139_musicname"
+msgstr "What 'bout my star? @Formo"
+
+msgid "musicName_0139_officialName"
+msgstr "What 'bout my star? @Formo"
+
+msgid "musicName_0139_vocalName"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0139_vocalNameLF"
+msgstr "ランカ・リー＝中島愛、シェリル・ノーム starring May'n"
+
+msgid "musicName_0139_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：hal\n作曲：菅野よう子"
+
+msgid "musicName_0140_musicname"
+msgstr "WANNA BE AN ANGEL"
+
+msgid "musicName_0140_officialName"
+msgstr "WANNA BE AN ANGEL"
+
+msgid "musicName_0140_vocalName"
+msgstr "新居昭乃"
+
+msgid "musicName_0140_vocalNameLF"
+msgstr "新居昭乃"
+
+msgid "musicName_0140_description"
+msgstr "作品：マクロスプラス\n\n歌手：新居昭乃\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0141_musicname"
+msgstr "恋のマホウ"
+
+msgid "musicName_0141_officialName"
+msgstr "恋のマホウ"
+
+msgid "musicName_0141_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0141_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0141_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：M.MEG\n作曲：湯川とうべん"
+
+msgid "musicName_0142_musicname"
+msgstr "会えないとき"
+
+msgid "musicName_0142_officialName"
+msgstr "会えないとき"
+
+msgid "musicName_0142_vocalName"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0142_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n"
+
+msgid "musicName_0142_description"
+msgstr "作品：マクロスF\n\n歌手：シェリル・ノーム starring May'n\n\n作詞：Gabriela Robin\n作曲：菅野よう子"
+
+msgid "musicName_0143_musicname"
+msgstr "NEVER SAY DIE"
+
+msgid "musicName_0143_officialName"
+msgstr "NEVER SAY DIE"
+
+msgid "musicName_0143_vocalName"
+msgstr "Fire Bomber"
+
+msgid "musicName_0143_vocalNameLF"
+msgstr "Fire Bomber"
+
+msgid "musicName_0143_description"
+msgstr "作品：マクロス ダイナマイト7\n\n歌手：Fire Bomber\n\n作詞：石川雅敏\n作曲：南部昌江"
+
+msgid "musicName_0144_musicname"
+msgstr "PILLOW DREAM"
+
+msgid "musicName_0144_officialName"
+msgstr "PILLOW DREAM"
+
+msgid "musicName_0145_musicname"
+msgstr "スターライト納豆"
+
+msgid "musicName_0145_officialName"
+msgstr "スターライト納豆"
+
+msgid "musicName_0145_vocalName"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0145_vocalNameLF"
+msgstr "ランカ・リー＝中島愛"
+
+msgid "musicName_0145_description"
+msgstr "作品：劇場版マクロスF〜イツワリノウタヒメ〜\n\n歌手：ランカ・リー＝中島愛\n\n作詞：一倉宏\n作曲：菅野よう子"
+
+msgid "musicName_0146_musicname"
+msgstr "つらみ現在進行形"
+
+msgid "musicName_0146_officialName"
+msgstr "つらみ現在進行形"
+
+msgid "musicName_0146_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0146_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0146_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：堂島孝平\n作曲：櫻澤ヒカル"
+
+msgid "musicName_0147_musicname"
+msgstr "1・2・3・4・5・6・7 NIGHTS"
+
+msgid "musicName_0147_officialName"
+msgstr "1・2・3・4・5・6・7 NIGHTS"
+
+msgid "musicName_0148_musicname"
+msgstr "0-G Love【MIRROR ver.】"
+
+msgid "musicName_0148_officialName"
+msgstr "0-G Love（ミラー）"
+
+msgid "musicName_0149_musicname"
+msgstr "シルバームーン・レッドムーン【MIRROR ver.】"
+
+msgid "musicName_0149_officialName"
+msgstr "シルバームーン・レッドムーン"
+
+msgid "musicName_0149_vocalName"
+msgstr "飯島真理"
+
+msgid "musicName_0149_vocalNameLF"
+msgstr "飯島真理"
+
+msgid "musicName_0149_description"
+msgstr "作品：超時空要塞マクロス\n\n歌手：飯島真理\n\n作詞：阿佐茜\n作曲：羽田健太郎"
+
+msgid "musicName_0150_musicname"
+msgstr "Glow in the dark（高難度ver.）"
+
+msgid "musicName_0150_officialName"
+msgstr "Glow in the dark"
+
+msgid "musicName_0150_vocalName"
+msgstr "Yami_Q_ray"
+
+msgid "musicName_0150_vocalNameLF"
+msgstr "Yami_Q_ray"
+
+msgid "musicName_0150_description"
+msgstr "作品：劇場版マクロスΔ 絶対LIVE!!!!!!\n\n歌手：Yami_Q_ray\n\n作詞：太渡辺未来・西田恵美\n作曲：渡辺未来"
+
+msgid "musicName_0151_musicname"
+msgstr "サヨナラノツバサ 〜 the end of triangle"
+
+msgid "musicName_0151_officialName"
+msgstr "サヨナラノツバサ 〜 the end of triangle"
+
+msgid "musicName_0151_vocalName"
+msgstr "ワルキューレ　美雲ΔJUNNA フレイアΔ鈴木みのり カナメΔ安野希世乃 レイナΔ東山奈央 マキナΔ西田望見"
+
+msgid "musicName_0151_vocalNameLF"
+msgstr "ワルキューレ　美雲ΔJUNNA　フレイアΔ鈴木みのり\nカナメΔ安野希世乃　レイナΔ東山奈央　マキナΔ西田望見"
+
+msgid "musicName_0151_description"
+msgstr "作品：コラボアルバム「デカルチャー!!ミクスチャー!!!!!」\n\n歌手：ワルキューレ\n　　　美雲ΔJUNNA　フレイアΔ鈴木みのり\n　　　カナメΔ安野希世乃　レイナΔ東山奈央\n　　　マキナΔ西田望見\n\n作詞：Gabriela Robin、河森正治\n作曲：菅野よう子"
+
+msgid "musicName_0152_musicname"
+msgstr "いけないボーダーライン"
+
+msgid "musicName_0152_officialName"
+msgstr "いけないボーダーライン"
+
+msgid "musicName_0152_vocalName"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0152_vocalNameLF"
+msgstr "シェリル・ノーム starring May'n、ランカ・リー＝中島愛"
+
+msgid "musicName_0152_description"
+msgstr "作品：コラボアルバム「デカルチャー!!ミクスチャー!!!!!」\n\n歌手：シェリル・ノーム starring May'n、\n　　　ランカ・リー＝中島愛\n\n作詞：西直紀\n作曲：コモリタミノル"
+
+msgid "musicName_0156_officialName"
+msgstr "終端"
+

@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "お疲れ様！\n今日も頑張ってるわね！"
+
+msgid "talk_time_02"
+msgstr "よいしょ！\n…ちょっと働きすぎたかしら"
+
+msgid "talk_time_03"
+msgstr "体調管理は万全にしなきゃね。\n何事も体が資本よ"
+
+msgid "talk_time_04"
+msgstr "次のステージは…\nスケジュール管理も私の仕事なの"
+
+msgid "talk_time_05"
+msgstr "ワルキューレのリーダーとして、\n皆を引っ張っていかなきゃ"
+
+msgid "talk_time_06"
+msgstr "あら？\nどこに行ったのかしら…"
+
+msgid "talk_time_07"
+msgstr "♪～"
+
+msgid "talk_time_08"
+msgstr "ええと、次のライブまでに\n改善しなくちゃいけないところは…"
+
+msgid "talk_login_01"
+msgstr "おはよう。\nまずはストレッチからね"
+
+msgid "talk_login_02"
+msgstr "お昼ね…何か食べる？"
+
+msgid "talk_login_03"
+msgstr "暗くなってきたわね。\nもうひと頑張りしましょう"
+
+msgid "talk_login_04"
+msgstr "お疲れ様。\nゆっくり休んで、明日に備えましょう"
+
+msgid "talk_login_05"
+msgstr "あんまり夜更かしすると、\n明日にひびくわよ？"
+
+msgid "talk_comeback_01"
+msgstr "久しぶりね。私に会いに来たの？\n…なんて、ね"
+
+msgid "talk_comeback_02"
+msgstr "今日も頑張っていきましょうね！"
+
+msgid "talk_birthday_01"
+msgstr "あら？私の誕生日を祝ってくれるの？\nふふ、嬉しいわ。ありがとう！"
+
+msgid "talk_event_01"
+msgstr "今年の抱負？そうね…\nワルキューレを、銀河最高の\nユニットにすることかしら！"
+
+msgid "talk_event_02"
+msgstr "うーん。\n隊長とメッサー君に渡すチョコ、\nどんなものにしようかな…"
+
+msgid "talk_event_03"
+msgstr "豆まき、みんな楽しんでるみたい！\nアラド隊長に提案してみて良かったわ"
+
+msgid "talk_event_04"
+msgstr "豪華なひな人形もいいけど、\n小さなものもかわいいわよね。\n見てて飽きないわ！"
+
+msgid "talk_event_05"
+msgstr "お返しだなんて、気が利くのね。\nありがと"
+
+msgid "talk_event_06"
+msgstr "今年こそ、びっくりするような\n嘘をつきたいんだけど…\nなかなか浮かばないわね"
+
+msgid "talk_event_07"
+msgstr "せっかくのお休みだし、\nショッピングに行こうかしら"
+
+msgid "talk_event_08"
+msgstr "結婚かぁ…まだあまりピンとこない\nけど、いつかはウェディングドレス\nを着てみたいわ…"
+
+msgid "talk_event_09"
+msgstr "星が綺麗ね…\nあなたは何か願い事をした？"
+
+msgid "talk_event_10"
+msgstr "ちゃんと日焼け止めを塗ってから\n遊びなさいね"
+
+msgid "talk_event_11"
+msgstr "お祭りといえば、\nやっぱりクラゲまつりよね！\n今年も楽しみだわ"
+
+msgid "talk_event_12"
+msgstr "地球では、地域によって\nお月見の楽しみ方が違うそうよ"
+
+msgid "talk_event_13"
+msgstr "お菓子を持ってなかったから、\nレイナに悪戯されちゃったわ。\nハロウィンって怖いわね…"
+
+msgid "talk_event_14"
+msgstr "文化祭かぁ…\nちょっとだけ懐かしい気分ね"
+
+msgid "talk_event_15"
+msgstr "ケイオスのクリスマス\nパーティーは、毎年賑やかよ。\nあなたも来る？"
+
+msgid "talk_event_16"
+msgstr "みんな、年越しの準備はいい？\n来年もいい一年にしましょうね！"
+
+msgid "talk_event_17"
+msgstr "いつもありがとう！\nこれからもたくさんの人に\n歌が届けられるよう、頑張るわ！"
+
+msgid "talk_event_18"
+msgstr "すごいわ！\nこんなにたくさんの人が私たちの\n歌を聴いてくれてるなんて！"
+
+msgid "talk_event_19"
+msgstr "200万ダウンロード、\nありがとう！"
+
+msgid "talk_event_20"
+msgstr "一周年ね！いつも応援ありがとう！"
+
+msgid "touch_reaction_01"
+msgstr "何か気になることでもあるの？"
+
+msgid "touch_reaction_02"
+msgstr "こーら、\nあんまりいたずらすると怒るわよ？"
+
+msgid "touch_reaction_03"
+msgstr "もう！ベタベタさわりすぎよ！\n…ほどほどに、ね？"
+
+msgid "touch_reaction_04"
+msgstr "お疲れ様！\n今日も頑張ってるわね！"
+
+msgid "touch_reaction_05"
+msgstr "よいしょ！\n…ちょっと働きすぎたかしら"
+
+msgid "touch_reaction_06"
+msgstr "体調管理は万全にしなきゃね。\n何事も体が資本よ"
+
+msgid "touch_reaction_07"
+msgstr "きゃっ！もう、驚かさないで！"
+
+msgid "touch_reaction_08"
+msgstr "大人になっても、\n撫でられるのは嬉しいのね…"
+
+msgid "login_reaction_01"
+msgstr "はい、どうぞ。\n今日も一緒にがんばりましょう"
+
+msgid "login_reaction_02"
+msgstr "継続は力なりってね"
+
+msgid "simulation_result_01"
+msgstr "聴いてくれてありがとう。\nシミュレーションだけじゃなくて、\nワクチンライブも見に来てね！"
+
+msgid "go_diva_result_01"
+msgstr "嬉しい気持ちは\n一緒に分かち合いましょう！"
+
+msgid "go_diva_result_02"
+msgstr "成長した私の歌、\nもっと聴いてくれるかしら？"
+
+msgid "go_diva_result_03"
+msgstr "次のライブは特別なものになりそう。\nあなたも楽しみにしててね"
+
+msgid "intimacy_pointup_01"
+msgstr "素敵ね"
+
+msgid "intimacy_pointup_02"
+msgstr "バッチリだわ"
+
+msgid "intimacy_pointup_03"
+msgstr "ふふふっ"
+
+msgid "present_01"
+msgstr "ありがとう！"
+
+msgid "present_02"
+msgstr "ふぅ…\nなんだかお腹がすいちゃったわね"
+
+msgid "present_03"
+msgstr "ラグナには\nいろんな食べ物があるの。\n特に魚介類が豊富よ"
+
+msgid "present_04"
+msgstr "もうこんな時間か…\nみんなで裸喰娘娘に行こうかな"
+
+msgid "present_05"
+msgstr "はぁ…\n行き詰っちゃったわ…"
+
+msgid "present_06"
+msgstr "ちょっと時間ができたわね…\n何か楽しいことはないかしら？"
+
+msgid "present_07"
+msgstr "気分を変えて\nもっと楽しい気分で歌いたいわね…"
+
+msgid "present_08"
+msgstr "おしゃれなものは好きよ。\nやっぱり気分が上がるもの！"
+
+msgid "present_09"
+msgstr "レッスンも終わったし、\nちょっと買い物に行くのもいいわね"
+
+msgid "present_10"
+msgstr "置き物とか雑貨って、\nつい買っちゃったりしない？"
+
+msgid "present_11"
+msgstr "バッチリだわ"
+
+msgid "cs_touch_reaction_01"
+msgstr "はい、何か用かしら？"
+
+msgid "cs_touch_reaction_02"
+msgstr "ふふっ、どうかしたの？"
+
+msgid "cs_touch_reaction_03"
+msgstr "握手？\nええ、勿論いいわよ！"
+
+msgid "cs_touch_reaction_04"
+msgstr "歌は生命！\n今日も気合い入れていくわ！"
+
+msgid "cs_touch_reaction_05"
+msgstr "何か困ったことがあったら\nいつでも頼ってね"
+
+msgid "cs_touch_reaction_06"
+msgstr "戦術音楽ユニット、ワルキューレ！"
+
+msgid "cs_touch_reaction_07"
+msgstr "やっぱり、5人で歌っているときが\n一番楽しいわね"
+
+msgid "cs_touch_reaction_08"
+msgstr "あなたは、ワルキューレの\nどの曲が好き？\n参考にさせてもらうわ"
+
+msgid "cs_touch_reaction_09"
+msgstr "この衣装、どうかしら？\n気に入った？"
+
+msgid "cs_touch_reaction_10"
+msgstr "最近調子はどう？\n無理はしないようにね"
+
+msgid "talk_event_21"
+msgstr "フレイアのバースデーパーティーに\n美雲も来てくれるみたい。\n変わったわね、あの子も…"
+
+msgid "talk_event_22"
+msgstr "美雲のバースデーパーティーを\n開こうと思うの。驚く顔が\n見たいから…あの子にはまだ内緒ね？"
+
+msgid "talk_event_23"
+msgstr "カナメ"
+
+msgid "talk_event_24"
+msgstr "マキナ、お誕生日おめでとう！\nいつもすごく助かってるわ、\nありがとう"
+
+msgid "talk_event_25"
+msgstr "レイナったら、プレゼントのクラゲを\nあっという間に食べちゃったの。\n本当にクラゲが好きなのね！"
+
+msgid "talk_event_26"
+msgstr "ランカさん、\nお誕生日おめでとうございます！\n今日はゆっくり過ごしてくださいね。"
+
+msgid "talk_event_27"
+msgstr "お誕生日祝いに、シェリルさんの\n歌を歌わせてもらうことになったの。\n緊張するわ…！"
+
+msgid "talk_event_28"
+msgstr "レイナがミレーヌさんへの\nプレゼントを考えてたわ。あの２人、\nいつの間に仲良くなったのかしら？"
+
+msgid "talk_event_29"
+msgstr "歌に対して真っ直ぐな\n生き方をするバサラさん…\n本当に見習いたくなるわ"
+
+msgid "talk_event_30"
+msgstr "伝説の歌姫に直接\n『お誕生日おめでとう』を言える\nなんて…ふふっ、なんだか不思議ね！"
+
+msgid "talk_event_31"
+msgstr "ハヤテ"
+
+msgid "talk_event_32"
+msgstr "ミラージュ"
+
+msgid "talk_event_33"
+msgstr "メッサー君に、誕生日プレゼントは\n何がいい？って聞いたら…\nいらないって言われちゃったの"
+
+msgid "talk_event_34"
+msgstr "ふふっ。\nアラド隊長への誕生日プレゼントに、\n秘蔵の珍味を用意して正解だったわ"
+
+msgid "talk_event_35"
+msgstr "チャック"
+
+msgid "talk_event_36"
+msgstr "アルト"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "レイ"
+
+msgid "talk_event_39"
+msgstr "輝"
+
+msgid "talk_event_40"
+msgstr "ガムリン"
+
+msgid "talk_event_41"
+msgstr "未沙"
+
+msgid "talk_event_42"
+msgstr "私たちの映画がやるんですって！\nすごく楽しみね！"
+
+msgid "talk_event_43"
+msgstr "伝わってたわよ、私たちの歌を\n大切に想ってくれるあなたの気持ち。\n本当にありがとう、忘れないわ…！"
+
+msgid "talk_event_44"
+msgstr "またいつか会えるといいわね。\nあなただったら、ケイオスや\n裸喰娘娘のみんなも大歓迎よ！"
+
+msgid "talk_event_45"
+msgstr "私、本当にランカさんと一緒に\n歌ったりお話したりしたのよね…\n今でも夢みたいに感じるわ！"
+
+msgid "talk_event_46"
+msgstr "バサラさんにミレーヌさん、本当に\nカッコいい人たちだったわ。私たち\nの時空でも会ってみたくなっちゃった"
+
+msgid "talk_event_47"
+msgstr "ミンメイさんと時空を超えて一緒に\n歌ったこと…記録には残らなく\nても、私たちの心の中に…ずっと！"
+

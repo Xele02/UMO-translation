@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+
+msgid "tuto_miniadv_0000_0000_msg"
+msgstr "出撃前にノーツのタイミングに\nズレがないか確認するわね。"
+
+msgid "tuto_miniadv_0000_0001_msg"
+msgstr "聴こえてくる高音に合わせて\nリズムボタンをタップしてみて。"
+
+msgid "tuto_miniadv_0001_0000_msg"
+msgstr "これで準備OKよ。\n出撃するわ！"
+
+msgid "tuto_miniadv_0002_0000_msg"
+msgstr "今回のためにマニュアルを作成したわ。\n一緒に見ていきましょう。"
+
+msgid "tuto_miniadv_0002_0001_msg"
+msgstr "さすがカナメさん！\nこのマニュアルを見ればバッチリってことやね！"
+
+msgid "tuto_miniadv_0003_0000_msg"
+msgstr "…私たちの歌が効いてない？\nフレイア、これ以上は危険だわ。\n一旦、戻って！"
+
+msgid "tuto_miniadv_0004_0000_msg"
+msgstr "【エピソードプレート】は私たちの歌で修復された\n記憶を概念化して、電子情報として記録したものよ。"
+
+msgid "tuto_miniadv_0005_0000_msg"
+msgstr "【エピソードプレート】はさまざまな方法で\n入手することができるわ。"
+
+msgid "tuto_miniadv_0005_0001_msg"
+msgstr "今回は、【ガチャ】を引いて手に入れてみましょう！"
+
+msgid "tuto_miniadv_0005_0002_msg"
+msgstr "ガチャに必要な【歌晶石】も準備できているわ。\nどんなプレートが出るか楽しみね。"
+
+msgid "tuto_miniadv_0006_0000_msg"
+msgstr "これって…\n私がオーディションに合格した日の？"
+
+msgid "tuto_miniadv_0006_0001_msg"
+msgstr "【エピソードプレート】に浮かび上がるものは\n私たちと関連のある記憶のイメージになるらしいわ。"
+
+msgid "tuto_miniadv_0007_0000_msg"
+msgstr "【エピソードプレート】の力は私たち歌姫が\n身につけることで初めて引き出せるの。\nやり方を説明するわね。"
+
+msgid "tuto_miniadv_0008_0000_msg"
+msgstr "まずは【ユニット編成】を選択してね。"
+
+msgid "tuto_miniadv_0009_0000_msg"
+msgstr "【ユニット】は歌姫とエピソードプレートの\n組み合わせによって成り立っているの。"
+
+msgid "tuto_miniadv_0009_0001_msg"
+msgstr "さぁ、早速手に入れたエピソードプレートで\n強化してみましょう。"
+
+msgid "tuto_miniadv_0010_0000_msg"
+msgstr "エピソードプレートで歌の力が強くなったわ！\n今なら、より強力な生体フォールド波を\n発生させることができそうね。"
+
+msgid "tuto_miniadv_0011_0000_msg"
+msgstr "ここでは私たちワルキューレを含む全銀河の人々と\n時空を超えた通信ができるの。"
+
+msgid "tuto_miniadv_0011_0001_msg"
+msgstr "時空を超える？"
+
+msgid "tuto_miniadv_0011_0002_msg"
+msgstr "それは、自分の目で確かめた方が早いわね。"
+
+msgid "tuto_miniadv_0011_0003_msg"
+msgstr "さあ、まずはルームの選択よ。\n今回は【SNS連絡部屋】を選択してみて。"
+
+msgid "tuto_miniadv_0012_0000_msg"
+msgstr "これでいいんかね？"
+
+msgid "tuto_miniadv_0012_0001_msg"
+msgstr "ええ、バッチリよ。"
+
+msgid "tuto_miniadv_0013_0000_msg"
+msgstr "おお、美雲さんにマキナさんにレイナさん！\nワルキューレのメンバーが勢ぞろい！"
+
+msgid "tuto_miniadv_0013_0001_msg"
+msgstr "他のメンバーには先に登録を済ませてもらっていたの。\nさあ、早速会話してみましょう！"
+
+msgid "tuto_miniadv_0014_0000_msg"
+msgstr "こちらのデータベースには現在鳥の人の脅威に\n立ち向かっている歌姫たちが登録されています。"
+
+msgid "tuto_miniadv_0014_0001_msg"
+msgstr "鳥の人の脅威に対抗するためには、\n歌姫のみなさんが持つ歌の力とあなたの協力が\n必要不可欠です。"
+
+msgid "tuto_miniadv_0014_0002_msg"
+msgstr "まずは共に戦う歌姫を選んでいただけますか？"
+
+msgid "tuto_miniadv_0014_0003_msg"
+msgstr "ただしミレーヌさんとバサラさんは時空が\n安定していないため\nまだ、一緒に戦うことができません。"
+
+msgid "tuto_miniadv_0014_0004_msg"
+msgstr "ですが、いずれ共に戦えるようになると思います。"
+
+msgid "tuto_miniadv_0015_0000_msg"
+msgstr "はじめまして。\n私はカナメ・バッカニアよ。"
+
+msgid "tuto_miniadv_0015_0001_msg"
+msgstr "これからしばらくあなたをサポートすることになるわ。\nよろしくね。"
+
+msgid "tuto_miniadv_0015_0002_msg"
+msgstr "あなたの入隊祝いがプレゼントBOXに届いてるみたい！\nエピソードプレートは私が預かってるから\n今から渡すわね。"
+
+msgid "tuto_miniadv_0016_0000_msg"
+msgstr "はじめまして。\n私はカナメ・バッカニアよ。"
+
+msgid "tuto_miniadv_0016_0001_msg"
+msgstr "これからしばらくあなたをサポートすることになるわ。\nよろしくね。"
+
+msgid "tuto_miniadv_0016_0002_msg"
+msgstr "あなたの入隊祝いがプレゼントBOXに届いてるみたい！\nエピソードプレートは私が預かってるから\n今から渡すわね。"
+
+msgid "tuto_miniadv_0017_0000_msg"
+msgstr "フレイアのステージ衣装も手に入るのよ。\n【挑戦する】を選んで早速チャレンジしてみましょう！"
+
+msgid "tuto_miniadv_0018_0000_msg"
+msgstr "ミッションをすべてクリアしたのね。\nすごいじゃない！"
+
+msgid "tuto_miniadv_0018_0001_msg"
+msgstr "他にも達成することで報酬がもらえる\nミッションがたくさんあるからチェックしてみてね。"
+
+msgid "tuto_miniadv_0019_0000_msg"
+msgstr "とりあえずいつもどおりに歌えばいいんやね。\nごりごりに頑張るかんね！"
+
+msgid "tuto_miniadv_0020_0000_msg"
+msgstr "どう？ボタンをタップしたタイミングと\nノーツがボタンに重なるタイミングは\nズレていないかしら？"
+
+msgid "tuto_miniadv_0021_0000_msg"
+msgstr "<SelDiva>を選ぶのですね？"
+
+msgid "tuto_miniadv_0022_0000_msg"
+msgstr "ここは入手したエピソードが表示されているわ。"
+
+msgid "tuto_miniadv_0022_0001_msg"
+msgstr "今回は【覚悟のオーディション】のエピソードを\n解放してみましょう。"
+
+msgid "tuto_miniadv_0023_0000_msg"
+msgstr "これは【覚悟のオーディション】のエピソードを\n構成するエピソードプレートよ。"
+
+msgid "tuto_miniadv_0023_0001_msg"
+msgstr "この中からひとつエピソードプレートを選んでね。"
+
+msgid "tuto_miniadv_0024_0000_msg"
+msgstr "エピソードマスを解放することで\nエピソードポイントが入手できるわ。"
+
+msgid "tuto_miniadv_0024_0001_msg"
+msgstr "エピソードを完全解放すると入手できる報酬が\n描かれているのがエピソードマスなの。"
+
+msgid "tuto_miniadv_0024_0002_msg"
+msgstr "今回はフレイアの衣装が表示されているマスを\n解放してみてね。"
+
+msgid "tuto_miniadv_0025_0000_msg"
+msgstr "今日から、私たちの仲間なんよね！\n戦う前に、あなたのことを教えてくれんかね？"
+
+msgid "tuto_miniadv_0025_0001_msg"
+msgstr "あなたは、どのくらい好きなんやろ？\nどれかひとつ選んでくれんかね？"
+
+msgid "tuto_miniadv_0026_0000_msg"
+msgstr "どれくらいの腕前なんかね？\n 私！？…わ、私は、これからうまくなるかんね！"
+
+msgid "tuto_miniadv_0027_0000_msg"
+msgstr "どんなことが待ってるんか楽しみやねぇ！\nあなたが期待していることは何やろ？"
+
+msgid "tuto_miniadv_0028_0000_msg"
+msgstr "いろいろ教えてくれてあんがとう！\nこれから、私も一緒に頑張るかんね！"
+
+msgid "tuto_miniadv_0029_0000_msg"
+msgstr "お疲れ様。\nライブ、大成功ね！\nそれじゃ、早速ライブの流れをおさらいしましょう！"
+
+msgid "tuto_miniadv_0030_0000_msg"
+msgstr "それじゃあ、まずはデビューミッションに\nチャレンジしてみましょう。"
+
+msgid "tuto_miniadv_0030_0001_msg"
+msgstr "デビューミッションは【ミッション】から\n挑戦することができるわ。"
+
+msgid "tuto_miniadv_0031_0000_msg"
+msgstr "ライブを成功させるために\nより強いプレートを身につけましょう！\n今回は便利な自動編成を使ってみましょうか。"
+
+msgid "tuto_miniadv_0032_0000_msg"
+msgstr "これでライブの準備はバッチリよ。\nいつでも出撃できるわね！"
+
+msgid "tuto_miniadv_0033_0000_msg"
+msgstr "ひとつ目のデビューミッションをクリアしたわ！\nミッションボタンから達成報酬を受け取りましょう。"
+
+msgid "tuto_miniadv_0034_0000_msg"
+msgstr "受け取るボタンをタップして報酬を手に入れましょう！\nミッション達成のバッジが表示されていたら要チェックよ！"
+
+msgid "tuto_miniadv_0035_0000_msg"
+msgstr "ふたつ目のデビューミッションをクリアね！\nさぁ、達成報酬を受け取りにいきましょう！"
+
+msgid "tuto_miniadv_0036_0000_msg"
+msgstr "次はプレートの能力を解放して強くしてみましょう！"
+
+msgid "tuto_miniadv_0037_0000_msg"
+msgstr "新しい歌姫をユニットに編成してみましょう！"
+
+msgid "tuto_miniadv_0038_0000_msg"
+msgstr "歌姫を編成したことでユニットが強くなったわ！\n新しい歌姫は忘れずに編成してね。"
+
+msgid "tuto_miniadv_0039_0000_msg"
+msgstr "ライブを始める前にまずはアシストをしてくれる\nプレイヤーを選んでね。\n今回は1番上のプレイヤーを選んでみましょう。"
+
+msgid "tuto_miniadv_0040_0000_msg"
+msgstr "アラド隊長が呼んでいたわよ。\n一緒に行きましょう！"
+
+msgid "tuto_miniadv_0041_0000_msg"
+msgstr "早速依頼が届いているわね。\nオペレーションを受注してみましょう！"
+
+msgid "tuto_miniadv_0042_0000_msg"
+msgstr "出撃する小隊を選べるわ。\n最大3機で小隊が組めるようね。\n今回はハヤテ君にお願いしましょう。"
+
+msgid "tuto_miniadv_0043_0000_msg"
+msgstr "まずは、バルキリーを変形させてみましょう！\n作戦や推奨値を見てオペレーションに合った形態を\n選ぶと、出撃時間を短縮できるのよ。"
+
+msgid "tuto_miniadv_0044_0000_msg"
+msgstr "新しい機能が解放されたわ。\n歌姫画面へ移動してみましょう。"
+
+msgid "tuto_miniadv_0045_0000_msg"
+msgstr "手に入れた衣装をマキナが強化してくれることになったの。\n早速試してみましょう！"
+
+msgid "tuto_miniadv_0046_0000_msg"
+msgstr "好きな衣装を選んでお願いしてみてね。"
+
+msgid "tuto_miniadv_0047_0000_msg"
+msgstr "特別なエピソードプレートがもらえる\nビンゴミッションが登場したわ！\nぜひ挑戦してみてね。"
+
+msgid "tuto_miniadv_0048_0000_msg"
+msgstr "新しい機能が解放されたわ。\n歌姫画面へ移動してみましょう。"
+
+msgid "tuto_miniadv_0049_0000_msg"
+msgstr "バルキリーの強化が可能になったわ。"
+
+msgid "tuto_miniadv_0050_0000_msg"
+msgstr "新しい機能が解放されたわ。\nマクロスロビーへ移動してみましょう。"
+
+msgid "tuto_miniadv_0051_0000_msg"
+msgstr "新しい機能が解放されたわ。\nデコルームへ移動してみましょう。"
+
+msgid "tuto_miniadv_0052_0000_msg"
+msgstr "総力LIVEが開始したわ！\nマクロスロビーからも総力LIVEに移動できるの。"
+
+msgid "tuto_miniadv_0053_0000_msg"
+msgstr "総力LIVEでは暴走エネミーを索敵することから始まるの。\nフォールドレーダーを使って索敵してみましょう。"
+
+msgid "tuto_miniadv_0053_0001_msg"
+msgstr "今回はこっちでフォールドレーダーを用意したから、\nまずはやってみましょう！"
+
+msgid "tuto_miniadv_0054_0000_msg"
+msgstr "うまく見つけられたようね。\n参戦して無力化させましょう！"
+
+msgid "tuto_miniadv_0055_0000_msg"
+msgstr "さぁ、いよいよ5人ユニットライブが始まるわね！\nまずは、ライブに登場する歌姫を確認してみましょう。"
+
+msgid "tuto_miniadv_0055_0001_msg"
+msgstr "右下の矢印ボタンをタップしてみてくれるかしら。"
+
+msgid "tuto_miniadv_0056_0000_msg"
+msgstr "これでライブに登場する歌姫を選べそうね。"
+
+msgid "tuto_miniadv_0056_0001_msg"
+msgstr "両サイドに編成した歌姫は\nユニットのステータスに反映されないから注意してね。\n歌姫が5人揃ったらライブを始めましょう！"
+

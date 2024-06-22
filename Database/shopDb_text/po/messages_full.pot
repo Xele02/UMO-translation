@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+
+msgid "shop_0000_name"
+msgstr ""
+
+msgid "shop_0001_name"
+msgstr ""
+
+msgid "shop_0002_name"
+msgstr ""
+
+msgid "shop_0003_name"
+msgstr ""
+
+msgid "shop_0004_name"
+msgstr ""
+
+msgid "shop_0005_name"
+msgstr ""
+
+msgid "shop_0006_name"
+msgstr ""
+
+msgid "shop_0007_name"
+msgstr ""
+
+msgid "shop_0008_name"
+msgstr ""
+
+msgid "shop_0009_name"
+msgstr ""
+
+msgid "shop_0010_name"
+msgstr ""
+
+msgid "shop_0011_name"
+msgstr ""
+
+msgid "shop_0012_name"
+msgstr ""
+
+msgid "shop_0013_name"
+msgstr ""
+
+msgid "shop_0014_name"
+msgstr ""
+
+msgid "shop_0015_name"
+msgstr ""
+
+msgid "shop_0016_name"
+msgstr ""
+
+msgid "shop_0017_name"
+msgstr ""
+
+msgid "shop_0018_name"
+msgstr ""
+
+msgid "shop_0019_name"
+msgstr ""
+
+msgid "shop_0020_name"
+msgstr ""
+
+msgid "shop_0021_name"
+msgstr ""
+
+msgid "shop_0022_name"
+msgstr ""
+
+msgid "shop_0023_name"
+msgstr ""
+
+msgid "shop_0024_name"
+msgstr ""
+
+msgid "shop_0025_name"
+msgstr ""
+
+msgid "shop_0026_name"
+msgstr ""
+

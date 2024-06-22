@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+
+msgid "anketo_0000_question"
+msgstr "マクロスシリーズはどのくらい好きですか？"
+
+msgid "anketo_0000_0000_choice"
+msgstr "すごく好き"
+
+msgid "anketo_0000_0001_choice"
+msgstr "まあまあ好き"
+
+msgid "anketo_0000_0002_choice"
+msgstr "あまり好きじゃない"
+
+msgid "anketo_0000_0003_choice"
+msgstr "よく知らない"
+
+msgid "anketo_0001_question"
+msgstr "いままで他のリズムゲームを遊んだことはありますか？"
+
+msgid "anketo_0001_0000_choice"
+msgstr "かなり遊んでいる"
+
+msgid "anketo_0001_0001_choice"
+msgstr "まあまあ遊んでいる"
+
+msgid "anketo_0001_0002_choice"
+msgstr "あまり遊んでいない"
+
+msgid "anketo_0001_0003_choice"
+msgstr "歌マクロスが初めて"
+
+msgid "anketo_0002_question"
+msgstr "歌マクロスに期待したい要素はどれですか？"
+
+msgid "anketo_0002_0000_choice"
+msgstr "キャラクター"
+
+msgid "anketo_0002_0001_choice"
+msgstr "ストーリー"
+
+msgid "anketo_0002_0002_choice"
+msgstr "楽曲"
+
+msgid "anketo_0002_0003_choice"
+msgstr "ダンス"
+
+msgid "anketo_0002_0004_choice"
+msgstr "バルキリー"
+
+msgid "anketo_0002_0005_choice"
+msgstr "リズムゲーム"
+

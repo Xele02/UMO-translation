@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+
+msgid "shop_0000_name"
+msgstr "山羊座メダル交換所"
+
+msgid "shop_0001_name"
+msgstr "水瓶座メダル交換所"
+
+msgid "shop_0002_name"
+msgstr "魚座メダル交換所"
+
+msgid "shop_0003_name"
+msgstr "牡羊座メダル交換所"
+
+msgid "shop_0004_name"
+msgstr "牡牛座メダル交換所"
+
+msgid "shop_0005_name"
+msgstr "双子座メダル交換所"
+
+msgid "shop_0006_name"
+msgstr "蟹座メダル交換所"
+
+msgid "shop_0007_name"
+msgstr "獅子座メダル交換所"
+
+msgid "shop_0008_name"
+msgstr "乙女座メダル交換所"
+
+msgid "shop_0009_name"
+msgstr "天秤座メダル交換所"
+
+msgid "shop_0010_name"
+msgstr "蠍座メダル交換所"
+
+msgid "shop_0011_name"
+msgstr "射手座メダル交換所"
+
+msgid "shop_0012_name"
+msgstr "スプリングスフィア交換所"
+
+msgid "shop_0013_name"
+msgstr "サマースフィア交換所"
+
+msgid "shop_0014_name"
+msgstr "オータムスフィア交換所"
+
+msgid "shop_0015_name"
+msgstr "ウィンタースフィア交換所"
+
+msgid "shop_0016_name"
+msgstr "アイテム交換所"
+
+msgid "shop_0017_name"
+msgstr "UC交換所"
+
+msgid "shop_0018_name"
+msgstr "超時空お年玉交換所"
+
+msgid "shop_0019_name"
+msgstr "デコポイント交換所"
+
+msgid "shop_0020_name"
+msgstr "超銀河メダル交換所"
+
+msgid "shop_0021_name"
+msgstr "Fライブ記念交換所"
+
+msgid "shop_0022_name"
+msgstr "メモリアルチケット交換所"
+
+msgid "shop_0023_name"
+msgstr "衣装解放プレート交換所"
+
+msgid "shop_0024_name"
+msgstr "★1～4エピソードプレート交換所"
+
+msgid "shop_0025_name"
+msgstr "★5～6エピソードプレート交換所"
+
+msgid "shop_0026_name"
+msgstr "衣装解放プレート交換所"
+

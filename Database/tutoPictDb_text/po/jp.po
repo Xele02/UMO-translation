@@ -1,0 +1,2430 @@
+msgid ""
+msgstr ""
+
+msgid "tutopict_0000_0000_title"
+msgstr "記憶の時空と歌の記憶について"
+
+msgid "tutopict_0000_0000_msg"
+msgstr "【歌の記憶】や【歌姫の記憶】を\n新たに解放するためには楽曲や歌姫ごとに\n設定された条件をクリアする必要があるわ。"
+
+msgid "tutopict_0000_0001_msg"
+msgstr "解放された楽曲をプレイすると\nその曲が【ライブ】に追加されるわ。"
+
+msgid "tutopict_0001_0000_title"
+msgstr "歌姫の記憶について"
+
+msgid "tutopict_0001_0000_msg"
+msgstr "【歌姫の記憶】を発見したら\n【歌の記憶】と同様に、\nまずは解放条件をチェックしましょう。"
+
+msgid "tutopict_0002_0000_title"
+msgstr "歌マクロスの楽曲たちについて"
+
+msgid "tutopict_0002_0000_msg"
+msgstr "シリーズの名曲を【ライブ】で遊んでみてね。\n選べる楽曲は、これからどんどん増えていくわよ。"
+
+msgid "tutopict_0002_0001_msg"
+msgstr "ライブは2Dモードでもプレイできるの。\n変更するには【メニュー】の【ゲーム設定】から\n【動作設定】を選んでね。"
+
+msgid "tutopict_0003_0000_title"
+msgstr "アシストプレートについて"
+
+msgid "tutopict_0003_0000_msg"
+msgstr "アシストプレートはステータスとセンタースキルで\nユニットを強くしてくれるわ。"
+
+msgid "tutopict_0004_0000_title"
+msgstr "ユニットセットについて"
+
+msgid "tutopict_0004_0000_msg"
+msgstr "目的に合わせていろんなユニットを\n組んでみましょう！"
+
+msgid "tutopict_0004_0001_msg"
+msgstr "【ユニットセット】は属性別、スコア重視、\nライフ重視など、目的別に保存しておくと便利よ。"
+
+msgid "tutopict_0005_0000_title"
+msgstr "プレイログについて"
+
+msgid "tutopict_0005_0000_msg"
+msgstr "楽曲の中で、自分がミスをした箇所や、\nスキルが発動したタイミングなどの情報を\n知ることができるわ。"
+
+msgid "tutopict_0006_0000_title"
+msgstr "プレイヤーランクについて"
+
+msgid "tutopict_0006_0000_msg"
+msgstr "プレイヤーランクを上げるためには、\nたくさんライブをして経験値を獲得してね。"
+
+msgid "tutopict_0007_0000_title"
+msgstr "フレンド申請について"
+
+msgid "tutopict_0007_0000_msg"
+msgstr "フレンド申請をしてみてね。\n頼りになる仲間をどんどん増やしていきましょう。"
+
+msgid "tutopict_0008_0000_title"
+msgstr "スキルについて"
+
+msgid "tutopict_0008_0000_msg"
+msgstr "センタースキル、アクティブスキル、ライブスキル\nそれぞれに特徴があるの。"
+
+msgid "tutopict_0008_0001_msg"
+msgstr "メインプレートはアクティブスキルとセンタースキル、\nサブプレートはライブスキルを発動できるわ。\n3つのスキルを組み合わせてライブを有利にしましょう！"
+
+msgid "tutopict_0008_0002_msg"
+msgstr "ライブスキルはエピソードプレートと\n歌姫の相性によって発動するかどうかが決まるわ。\n青いマイクアイコンが目印よ。"
+
+msgid "tutopict_0009_0000_title"
+msgstr "能力解放について"
+
+msgid "tutopict_0009_0000_msg"
+msgstr "エピソードプレートは【能力解放】で強化すると、\n本来の能力を発揮できるようになっていくわ。"
+
+msgid "tutopict_0009_0001_msg"
+msgstr "能力解放に必要なアイテムとユニオンクレジット(UC)は\nライブやミッションで手に入れてね。"
+
+msgid "tutopict_0010_0000_title"
+msgstr "プレゼントBOXについて"
+
+msgid "tutopict_0010_0000_msg"
+msgstr "プレゼントBOXは、もう確認したかしら？\n入手したアイテムはプレゼントBOXで受け取れるわ。"
+
+msgid "tutopict_0011_0000_title"
+msgstr "衣装について"
+
+msgid "tutopict_0011_0000_msg"
+msgstr "衣装を手に入れたら、着替えてみましょう！\n【衣装選択】で選ぶことができるわ。\n衣装にはちょっとした効果もあるのよ。"
+
+msgid "tutopict_0012_0000_title"
+msgstr "歌姫の編成について"
+
+msgid "tutopict_0012_0000_msg"
+msgstr "新たな歌姫が【ユニット】に参加できるようになったわ。\nユニット編成で参加させてみましょう！"
+
+msgid "tutopict_0013_0000_title"
+msgstr "熟練度について"
+
+msgid "tutopict_0013_0000_msg"
+msgstr "熟練度が上がると歌姫の経験値を獲得できるわ。\n楽曲ごとに熟練度があるから、いろんな楽曲に\n挑戦してみてね。"
+
+msgid "tutopict_0013_0001_msg"
+msgstr "歌姫の経験値を獲得して歌姫のレベルを上げてね。\n私たちもここからまだまだ成長するわよ。"
+
+msgid "tutopict_0014_0000_title"
+msgstr "プロフィールについて"
+
+msgid "tutopict_0014_0000_msg"
+msgstr "プロフィールではあなたの情報が確認できるの。\nプレイヤー名、紹介文、称号はここから変更できるわ。\nあなたがメインに設定しているプレートも確認できるわよ。"
+
+msgid "tutopict_0014_0001_msg"
+msgstr "【マクロスレポート】はあなたの活動記録なの。\n頑張って記録を更新していきましょうね！"
+
+msgid "tutopict_0015_0000_title"
+msgstr "承認待ちリストについて"
+
+msgid "tutopict_0015_0000_msg"
+msgstr "他のプレイヤーからフレンド申請がきていたら\nフレンドメニューの【承認待ちリスト】から\n承認してあげてね。"
+
+msgid "tutopict_0016_0000_title"
+msgstr "エピソードの解放について"
+
+msgid "tutopict_0016_0000_msg"
+msgstr "エピソードプレートを入手すると\nそのプレートに関連したエピソードが追加されるの。"
+
+msgid "tutopict_0016_0001_msg"
+msgstr "エピソードはポイントをためて完全解放することで\n衣装やバルキリーが入手できるの。\n完全解放する途中にも報酬は用意されているわよ。"
+
+msgid "tutopict_0016_0002_msg"
+msgstr "エピソードプレートのレアリティが高いほど、\n入手できるエピソードポイントも高くなるわ。"
+
+msgid "tutopict_0017_0000_title"
+msgstr "ドロップアイテムについて"
+
+msgid "tutopict_0017_0000_msg"
+msgstr "ライブ中にタップしたアイテムは、ライブが成功したら\n手に入るから、最後まで気を抜かないでね。"
+
+msgid "tutopict_0018_0000_title"
+msgstr "レアリティアップについて"
+
+msgid "tutopict_0018_0000_msg"
+msgstr "ガチャなどで同じエピソードプレートを獲得すると\nレアリティがアップして、プレートをさらに\n成長させることができるわ。"
+
+msgid "tutopict_0019_0000_title"
+msgstr "バルキリー編成について"
+
+msgid "tutopict_0019_0000_msg"
+msgstr "バルキリーボタンは押してみたかしら？\n出撃できるバルキリーをじっくり見られるわよ。"
+
+msgid "tutopict_0020_0000_title"
+msgstr "バルキリー編成について"
+
+msgid "tutopict_0020_0000_msg"
+msgstr "バルキリー編成画面では\n出撃するバルキリーを選んだり、\nバルキリーの情報を見ることができるわ。"
+
+msgid "tutopict_0021_0000_title"
+msgstr "シークレットボードについて"
+
+msgid "tutopict_0021_0000_msg"
+msgstr "シークレットボードはプレートを3枚以上集めるか\nシークレットストーンを使うことで解放することができるわ。"
+
+msgid "tutopict_0021_0001_msg"
+msgstr "【LUCK】が高くなると\nレアアイテムノーツが出やすくなるわ。"
+
+msgid "tutopict_0021_0002_msg"
+msgstr "★5～★7プレートではシークレットボードに\n能力マスが追加されるわ。\nプレートを成長させて、ハイスコアを目指しましょう。"
+
+msgid "tutopict_0022_0000_title"
+msgstr "楽曲の属性について"
+
+msgid "tutopict_0022_0000_msg"
+msgstr "エピソードプレートと楽曲の属性が同じときは\n属性ボーナスが発生するわよ。"
+
+msgid "tutopict_0022_0001_msg"
+msgstr "狙いたい結晶があるときは楽曲属性を意識してみてね。\n例えば愛属性の楽曲なら愛の結晶が手に入れやすいわ。"
+
+msgid "tutopict_0023_0000_title"
+msgstr "サービスガチャについて"
+
+msgid "tutopict_0023_0000_msg"
+msgstr "【サービスガチャ】は、朝、昼、夜の1日3回\n歌晶石なしで引けるから忘れないでね。\nこんなサービス滅多に受けられないわよ！"
+
+msgid "tutopict_0024_0000_title"
+msgstr "エピソードについて"
+
+msgid "tutopict_0024_0000_msg"
+msgstr "エピソードプレートを入手すると\nそのプレートに関連したエピソードが追加されるの。"
+
+msgid "tutopict_0024_0001_msg"
+msgstr "追加されたエピソードは\nエピソード一覧から確認できるわよ。"
+
+msgid "tutopict_0025_0000_title"
+msgstr "曜日限定イベントについて"
+
+msgid "tutopict_0025_0000_msg"
+msgstr "曜日ごとに異なる楽曲が選曲されるわ。\n目当てのアイテムがある場合は要チェックね！"
+
+msgid "tutopict_0026_0000_title"
+msgstr "超歌姫モードについて"
+
+msgid "tutopict_0026_0001_title"
+msgstr "ユニット編成について"
+
+msgid "tutopict_0026_0000_msg"
+msgstr "敵のライフをゼロにすると追撃モードに移行するわ。\n追撃モード中にダメージを多く与えることができれば\n【超歌姫モード】に突入よ！"
+
+msgid "tutopict_0026_0001_msg"
+msgstr "超歌姫モードではアイテムノーツがたくさん！\nアイテムが欲しいときは頑張って目指しましょう。"
+
+msgid "tutopict_0027_0000_title"
+msgstr "ハイスコアを取るには"
+
+msgid "tutopict_0027_0000_msg"
+msgstr "最大3人の歌姫がユニットに参加できるわ！\nライブに登場させたい歌姫をセンターにしてね。"
+
+msgid "tutopict_0028_0000_title"
+msgstr "ハイスコアを取るには"
+
+msgid "tutopict_0028_0000_msg"
+msgstr "【TOTAL】は【ソウル】【ボイス】【チャーム】の\n合計値なの。ハイスコアでライブを成功させたいときは、\n【TOTAL】を意識してみてね。"
+
+msgid "tutopict_0029_0000_title"
+msgstr "生体フォールド波をためるには"
+
+msgid "tutopict_0029_0000_msg"
+msgstr "【生体フォールド波】はユニットの【フォールド波】の\n値が高いほどたまりやすくなるわ。"
+
+msgid "tutopict_0030_0000_title"
+msgstr "バルキリーモードで敵を倒すには"
+
+msgid "tutopict_0030_0000_msg"
+msgstr "【サポート】の値を上げてパイロットの能力を\n引き出すことで、敵を倒しやすくなるわ。\n歌姫とパイロットは持ちつ持たれつの関係ね。"
+
+msgid "tutopict_0031_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0031_0000_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0032_0000_title"
+msgstr "ラッキーリーフについて"
+
+msgid "tutopict_0032_0000_msg"
+msgstr "プレートのLUCKを高くすると、ラッキーリーフが\n出現するわ。これを解放したプレートを編成すると、\nライブ中にさまざまな特殊効果が得られるの。"
+
+msgid "tutopict_0032_0001_msg"
+msgstr "ラッキーリーフが解放できるのは、レアリティアップ後の\n★5、★6、★7プレートだけなの。対象プレートのLUCKに\n応じて解放できるラッキーリーフの枚数が増えるわ。"
+
+msgid "tutopict_0032_0002_msg"
+msgstr "ラッキーリーフを解放するには【幸運の輝石】や\n【幸運の煌石】が必要よ！これは、イベント報酬や\nミッションなどで獲得することができるわ。"
+
+msgid "tutopict_0032_0003_msg"
+msgstr "解放したリーフの数に応じて、\nラッキーリーフの効果は強くなるの。\nこれを利用してハイスコアを目指しましょう！"
+
+msgid "tutopict_0032_0004_msg"
+msgstr "プレミア化するとプレートが虹色に輝くの。\nデコルチャーのルームにポスターとして貼って\nみんなに自慢しましょう！"
+
+msgid "tutopict_0033_0000_title"
+msgstr "シミュレーションライブについて"
+
+msgid "tutopict_0033_0000_msg"
+msgstr "【シミュレーションライブ】が解放されたわ！\nオートプレイでライブが鑑賞できるから\nダンスやバトルをじっくり眺めたい場合におすすめよ。"
+
+msgid "tutopict_0033_0001_msg"
+msgstr "画面右下のS-LIVEボタンをタップすると\nシミュレーションライブがプレイできるわ。"
+
+msgid "tutopict_0034_0000_title"
+msgstr "シミュレーションライブの遊び方"
+
+msgid "tutopict_0034_0000_msg"
+msgstr "シミュレーションライブ中に登場する\n歌姫、衣装、バルキリーを楽曲ごとに設定できるわ。"
+
+msgid "tutopict_0034_0001_msg"
+msgstr "難易度に合わせたノーツタップ音が鳴るから\nPERFECTなタップタイミングが確認できるの。"
+
+msgid "tutopict_0035_0000_title"
+msgstr "超時空プリズムについて"
+
+msgid "tutopict_0035_0000_msg"
+msgstr "【超時空プリズム】が解放されたわ！\n楽曲ごとにライブ中の見た目だけを変更できるの。"
+
+msgid "tutopict_0036_0000_title"
+msgstr "十二星座メダルについて"
+
+msgid "tutopict_0036_0000_msg"
+msgstr "【十二星座メダル】はケイオス交換所で\nアイテムと交換できるわ。\nメダルごとに交換期限があるから気を付けてね！"
+
+msgid "tutopict_0037_0000_title"
+msgstr "歌レートについて"
+
+msgid "tutopict_0037_0000_msg"
+msgstr "歌グレードは実力の目安になるの。\n頑張ってグレードアップを目指しましょう！"
+
+msgid "tutopict_0037_0001_msg"
+msgstr "歌レートをあげていけば歌グレードが上昇するの。\n次に歌グレードが上がった時にもらえる報酬を\n確認することができるわ。"
+
+msgid "tutopict_0037_0002_msg"
+msgstr "歌グレードを上げるとノーマルミッション報酬としても\nプレートなどのアイテムがもらえることがあるの。"
+
+msgid "tutopict_0038_0000_title"
+msgstr "ケイオス交換所について"
+
+msgid "tutopict_0038_0000_msg"
+msgstr "【ケイオス交換所】では\nUC、メダル、スフィアなどとアイテムの交換ができるわ。\n足りないアイテムの入手に活用してね！"
+
+msgid "tutopict_0039_0000_title"
+msgstr "シーズンスフィアについて"
+
+msgid "tutopict_0039_0000_msg"
+msgstr "歌晶石を購入すると、\nおまけで【シーズンスフィア】がついてくるの。\nスフィアはケイオス交換所でアイテムと交換できるわよ。"
+
+msgid "tutopict_0040_0000_title"
+msgstr "歌マクロス 1st Anniversary 娘々祭について"
+
+msgid "tutopict_0040_0000_msg"
+msgstr "歌マクロス1周年を記念して、\n期間限定で【娘々祭】が開催されるわ。\n【娘々祭】の目玉は【娘くじ☆】よ。"
+
+msgid "tutopict_0040_0001_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は娘々サービスミッションやイベントの報酬から\nもらえるの。"
+
+msgid "tutopict_0040_0002_msg"
+msgstr "娘くじ☆抽選券1枚で1回引くことができるわ。\n【娘くじ☆】を引くことで報酬を入手できるの。\n超豪華なものもあるからどんどん引いてみましょう！"
+
+msgid "tutopict_0041_0000_title"
+msgstr "アーネスト艦長からの報酬について"
+
+msgid "tutopict_0041_0000_msg"
+msgstr "【勲章】を集めるとアーネスト艦長から\n報酬を受け取ることができるわ。\n勲章はイベント楽曲をプレイすると入手できるわよ！"
+
+msgid "tutopict_0042_0000_title"
+msgstr "親密度について"
+
+msgid "tutopict_0042_0000_msg"
+msgstr "歌姫を長押しタッチすると【親密度】が上げられるの。\n親密度は【ふれあいカウンター】の回数だけ上げられるわ。\nふれあいカウンターは時間が経つと回復するわよ。"
+
+msgid "tutopict_0042_0001_msg"
+msgstr "【親密度レベル】が上がると称号がもらえたり\n歌姫の新たな一面が見れるようになったり\nいいことがたくさんあるわよ。"
+
+msgid "tutopict_0042_0002_msg"
+msgstr "歌姫に【ギフト】を贈ってみましょう！\n【ギフト】を贈ると親密度がたくさん上がるの。\n【ギフト】は楽屋から贈ることができるわ。"
+
+msgid "tutopict_0043_0000_title"
+msgstr "ギフトについて"
+
+msgid "tutopict_0043_0000_msg"
+msgstr "ギフトは1日1回、贈ることができるわよ。\n歌姫に贈る【ギフト】を選んでタップしてみましょう！\n欲しがっているものを贈るとさらに喜んでもらえるわ！"
+
+msgid "tutopict_0043_0001_msg"
+msgstr "ギフトはケイオス交換所で入手可能よ。\n他にも入手できる機会があるかもね。"
+
+msgid "tutopict_0044_0000_title"
+msgstr "ライブを成功させるには"
+
+msgid "tutopict_0044_0000_msg"
+msgstr "【ライフ】の値が高いとライブが失敗しにくくなるわ。\n【ライフ回復】のアクティブスキルを\n使うのも効果的ね！"
+
+msgid "tutopict_0045_0000_title"
+msgstr "ユニットライブについて"
+
+msgid "tutopict_0045_0000_msg"
+msgstr "【ユニットライブ】は2人以上でのライブのことよ。\nユニットライブを選んでいる場合、\nユニット編成にアイコンが表示されるわ。"
+
+msgid "tutopict_0046_0000_title"
+msgstr "達成報酬について"
+
+msgid "tutopict_0046_0000_msg"
+msgstr "ライブでもらえる報酬は楽曲、難易度ごとに\n用意されているからすべてGETするのを\n目標にしてみてね！"
+
+msgid "tutopict_0047_0000_title"
+msgstr "衣装強化について"
+
+msgid "tutopict_0047_0000_msg"
+msgstr "特定の衣装を手に入れた後、\nその衣装をさらに強化することができるようになったわ！"
+
+msgid "tutopict_0047_0001_msg"
+msgstr "オペレーションで手に入る【クロースストーン】を使って\n【解放値】を上げると衣装の【きゃわわランク】がアップ！\nランクをどんどん上げて報酬を手に入れましょう！"
+
+msgid "tutopict_0047_0002_msg"
+msgstr "報酬には【支援プレート枠】や歌姫のステータスアップが\nあるの。ユニットに追加でプレートをセットできる\n【支援プレート枠】は、さらなるユニット強化に繋がるわ！"
+
+msgid "tutopict_0048_0000_title"
+msgstr "パレットチェンジについて"
+
+msgid "tutopict_0048_0000_msg"
+msgstr "【パレットチェンジ衣装】を手に入れると、\n衣装の色を変えられるようになるわ！\nステージに合わせて、好きな色でライブをしましょう！"
+
+msgid "tutopict_0049_0000_title"
+msgstr "支援プレートについて"
+
+msgid "tutopict_0049_0000_msg"
+msgstr "【支援プレート】には、編成していないプレートの\n中から一番効果のあるものが自動でセットされるわ。\nいろんなプレートを育てていきましょう！"
+
+msgid "tutopict_0049_0001_msg"
+msgstr "【支援プレート】 にセットされているプレートの\n能力の一部がユニットに上乗せされて\nハイスコアが狙いやすくなるのよ！"
+
+msgid "tutopict_0050_0000_title"
+msgstr "バルキリーオペレーションについて"
+
+msgid "tutopict_0050_0000_msg"
+msgstr "報酬には、確定報酬とランダムで入手できる報酬が\nあるわ。自分に必要な報酬がどれか、しっかり選んで\nオペレーションを受注しましょうね！"
+
+msgid "tutopict_0050_0001_msg"
+msgstr "小隊は、3機のバルキリーで編成されているの。\nバルキリーを選ぶときは、推奨値をチェックしてね！\n攻撃力と命中値が推奨値より高いと時間を短縮できるわ。"
+
+msgid "tutopict_0050_0002_msg"
+msgstr "小隊を編成したら次はバルキリーの形態を選択してね。\n形態によって得意な作戦が変わってくるから、\n作戦に合わせて有利な形態を選びましょう！"
+
+msgid "tutopict_0050_0003_msg"
+msgstr "バルキリーの形態を選んだら、出撃準備は完了！\n後は、パイロットたちからの\nオペレーション完了報告を待ちましょう！"
+
+msgid "tutopict_0051_0000_title"
+msgstr "バルキリーオペレーションの解放について"
+
+msgid "tutopict_0051_0000_msg"
+msgstr "バルキリーオペレーションには\n【デイリーオペレーション】と\n【ウィークリーオペレーション】があるの。"
+
+msgid "tutopict_0051_0001_msg"
+msgstr "バルキリーを入手すると、オペレーションに\n参加できる小隊数が増えるわ。一度に受注できる\nオペレーション数を増やして、効率よく挑みましょう！"
+
+msgid "tutopict_0052_0000_title"
+msgstr "歌姫オペレーションについて"
+
+msgid "tutopict_0052_0000_msg"
+msgstr "楽曲をクリアすると、【歌姫オペレーション】が\n届くことがあるわ。歌姫オペレーションで入手できる\n【きゃわわドール】は衣装強化で使えるのよ。"
+
+msgid "tutopict_0052_0001_msg"
+msgstr "歌姫オペレーション出現時に楽曲をクリアすると\nオペレーションがパワーアップすることがあるの。\n報酬もどんどん豪華になるわ！"
+
+msgid "tutopict_0052_0002_msg"
+msgstr "歌姫との親密度が上がると、より難しい\n歌姫オペレーションに挑戦できるようになるわ。\nさらに、歌姫オペレーションの出現率も上がるのよ。"
+
+msgid "tutopict_0052_0003_msg"
+msgstr "難易度の高いデイリーオペレーションは、強化した\n衣装の数が増えていくと解放されるわ。\n衣装を強化して、新しいオペレーションに挑みましょう！"
+
+msgid "tutopict_0053_0000_title"
+msgstr "6レーンゲームについて"
+
+msgid "tutopict_0053_0000_msg"
+msgstr "4レーンゲームよりも難易度の高い【6レーンゲーム】に\n切り替えて、遊んでみましょう！\nEXTREME+は最高難易度らしいから挑戦してみてね！"
+
+msgid "tutopict_0053_0001_msg"
+msgstr "6レーンゲームも、難易度ごとに達成報酬があるの。\nいろんな難易度にチャレンジして\n報酬をゲットしましょう！"
+
+msgid "tutopict_0054_0000_title"
+msgstr "6レーンゲームの操作について"
+
+msgid "tutopict_0054_0000_msg"
+msgstr "6レーンゲームは、文字通り6本のレーンに\nノーツが流れてくるわ。\n気を抜かず集中してプレイしましょう！"
+
+msgid "tutopict_0054_0001_msg"
+msgstr "スライドノーツが流れてきたら、タップしたまま離さずに\n終点のレーンまで指をずらしてね。最後のノーツが\n流れてきたら、タイミングよく指を離しましょう！"
+
+msgid "tutopict_0055_0000_title"
+msgstr "レアアップスターについて"
+
+msgid "tutopict_0055_0000_msg"
+msgstr "レアリティアップ前のプレートにアイテムを使って\nレアリティアップさせることができるわ！\nアイテムには利用期限があるから注意してね。"
+
+msgid "tutopict_0056_0000_title"
+msgstr "ラッキーリーフ効果のボーナスについて"
+
+msgid "tutopict_0056_0000_msg"
+msgstr "ラッキーリーフ効果のボーナスを活用しましょう。\nEXCELLENTやセンターライブスキルノーツが\n発生しやすくなって、スコアアップにつながるわ！"
+
+msgid "tutopict_0057_0000_title"
+msgstr "スコア予測ゲージについて"
+
+msgid "tutopict_0057_0000_msg"
+msgstr "現在の設定でプレイしたときのスコア予測ゲージが\n表示されるわ。\n参考にしながらユニットを編成してみてね。"
+
+msgid "tutopict_0058_0000_title"
+msgstr "総力LIVEの準備について"
+
+msgid "tutopict_0058_0000_msg"
+msgstr "総力LIVEでは様々なアイテムが必要になってくるの。\n事前に集めて準備をしておきましょう。"
+
+msgid "tutopict_0058_0001_msg"
+msgstr "マクロスロビーが開催されると、\n超銀河総力LIVEに使う重要なアイテムが入手可能になるの。\n協力ミッションや楽曲プレイで事前に集めておいてね。"
+
+msgid "tutopict_0058_0002_msg"
+msgstr "部隊の仲間とはマクロスロビーで交流できるの。\nチャットを使って仲良く雑談したり、\n総力LIVEに向けて攻略情報を共有したりできるわ。"
+
+msgid "tutopict_0058_0003_msg"
+msgstr "総力LIVEでは、★6プレートと交換できる超銀河メダルや\nバルキリー強化アイテム、デコポイントがGETできるわ。\nランキング報酬ではトロフィーもGETできるわよ。"
+
+msgid "tutopict_0059_0000_title"
+msgstr "マクロスロビーについて"
+
+msgid "tutopict_0059_0000_msg"
+msgstr "部隊一覧ではその部隊に所属している人が見れるの。\n気になった人をファン登録しておけば、\nマクロスロビー開催時に同じ部隊に入れるかもしれないわよ。"
+
+msgid "tutopict_0059_0001_msg"
+msgstr "部隊の誰かが活躍すると、バトルログに流れてくるの。\nサムネイルをタップすると動画が始まるわ。\nしかも、マクロスキャノン実況にはスタンプを送れるのよ！"
+
+msgid "tutopict_0059_0002_msg"
+msgstr "バトルログに流れてきた情報はチャット投稿で\nチャットに共有できるの。\n自慢したいものや凄いと思ったものは共有してみてね。"
+
+msgid "tutopict_0059_0003_msg"
+msgstr "マクロスキャノンのログの中でも特に活躍したものは\n自動的にチャットに投稿されてNEWS速報が出るわ。"
+
+msgid "tutopict_0059_0004_msg"
+msgstr "プッシュ通知が届く時間を調整できるわ。\nONの項目でも時間外には届かないようにできるの。\n自分のプレイスタイルに合わせて調整してね。"
+
+msgid "tutopict_0060_0000_title"
+msgstr "行動選択について"
+
+msgid "tutopict_0060_0000_msg"
+msgstr "支援要請にすぐに応えてあげたいときは支援を、MVP狙いで\n一気にインパクトを与えるなら全力熱唱を選ぶといいわよ。"
+
+msgid "tutopict_0060_0001_msg"
+msgstr "自分で参戦したり、救援してもらうことで\nマクロスキャノンゲージが溜まっていくわ。"
+
+msgid "tutopict_0061_0000_title"
+msgstr "マクロスキャノンについて"
+
+msgid "tutopict_0061_0000_msg"
+msgstr "マクロスキャノンゲージが溜まると、\nマクロスキャノンで強いインパクトが与えられるわ。\nかなり強力だから、使う時はタイミングを見極めてね。"
+
+msgid "tutopict_0061_0001_msg"
+msgstr "マクロスキャノンの威力には\n持っているプレートから最大100枚が反映されるの。\n事前準備が重要になってくるわ。"
+
+msgid "tutopict_0062_0000_title"
+msgstr "救援要請について"
+
+msgid "tutopict_0062_0000_msg"
+msgstr "暴走エネミーは無理に1人で無力化しなくていいの。\n仲間と協力して対応していけば問題ないわ。\nそのかわり、救援要請を受けたら助けてあげてね。"
+
+msgid "tutopict_0063_0000_title"
+msgstr "エクストラアイテムについて"
+
+msgid "tutopict_0063_0000_msg"
+msgstr "エクストラアイテムを配置することで、デコポイントや\n十二星座メダルをもらうことができるわ！\nとってもお得だから活用してね！"
+
+msgid "tutopict_0064_0000_title"
+msgstr "エクストラアイテムについて"
+
+msgid "tutopict_0064_0000_msg"
+msgstr "エクストラアイテムを配置することで、デコポイントや\n十二星座メダルがもらえたり、マクロスキャノンの\nチャージができるわ！"
+
+msgid "tutopict_0065_0000_title"
+msgstr "チャットについて"
+
+msgid "tutopict_0065_0000_msg"
+msgstr "チャットではコメントやスタンプで\n他の人とやり取りをすることができるの。\n気になる人がいたらプロフィールから訪問してみましょう。"
+
+msgid "tutopict_0066_0000_title"
+msgstr "スタンプについて"
+
+msgid "tutopict_0066_0000_msg"
+msgstr "スタンプはスタンプ編集から作れるわ。\nキャラクターとセリフを組み合わせて\n最大30個まで保存できるの。"
+
+msgid "tutopict_0066_0001_msg"
+msgstr "スタンプはタップするとそのまま投稿できるの。\nたくさん押してみんなで盛り上げましょうね。"
+
+msgid "tutopict_0067_0000_title"
+msgstr "超銀河総力LIVE開始！"
+
+msgid "tutopict_0067_0000_msg"
+msgstr "超銀河総力LIVEが開催されたわ！\nマクロスロビーへ移動して総力LIVE会場へ行きましょう！"
+
+msgid "tutopict_0068_0000_title"
+msgstr "かけらについて"
+
+msgid "tutopict_0068_0000_msg"
+msgstr "かけらは一定数集めると\nケイオス交換所で特定のアイテムと交換できるようになるわ。"
+
+msgid "tutopict_0068_0001_msg"
+msgstr "かけらはイベントなどで獲得できるわ。\nかけらの必要個数はケイオス交換所で確認できるわ。"
+
+msgid "tutopict_0068_0002_msg"
+msgstr "レアアップスターとシークレットストーンは\nメインボードで使用することができるわ。"
+
+msgid "tutopict_0069_0000_title"
+msgstr "ライブスキップについて"
+
+msgid "tutopict_0069_0000_msg"
+msgstr "リズムゲームをスキップすることでドロップアイテムや\nイベント報酬が集めやすくなるわよ。"
+
+msgid "tutopict_0069_0001_msg"
+msgstr "スコアランクSSを取得した楽曲であれば\n各イベントでもスキップすることができるわよ。\nこれでよりイベントポイントを入手しやすくなるわね。"
+
+msgid "tutopict_0070_0000_title"
+msgstr "新機能について"
+
+msgid "tutopict_0070_0000_msg"
+msgstr "★5～★7プレートではシークレットボードに\n能力マスが追加されるわ。\nプレートを成長させて、ハイスコアを目指しましょう。"
+
+msgid "tutopict_0070_0001_msg"
+msgstr "シークレットボードはプレートを3枚以上集めるか\nシークレットストーンを使うことで解放することができるわ。"
+
+msgid "tutopict_0070_0002_msg"
+msgstr "プレミア化するとプレートが虹色に輝くの。\nデコルチャーのルームにポスターとして貼って\nみんなに自慢しましょう！"
+
+msgid "tutopict_0071_0000_title"
+msgstr "歌グレードについて"
+
+msgid "tutopict_0071_0000_msg"
+msgstr "歌グレードを上げていけば、\nここでしかもらえない描き下ろしプレートをはじめ、\nお得なアイテムがもらえるわ。"
+
+msgid "tutopict_0071_0001_msg"
+msgstr "歌レートを上げていけば歌グレードが上昇するの。\n次に歌グレードが上がったときにもらえる報酬を\n確認することができるわ。"
+
+msgid "tutopict_0071_0002_msg"
+msgstr "歌レートによるランキングが追加されたわ。\n歌レートを上げていけば、順位を上げていくことが\nできるわよ。"
+
+msgid "tutopict_0072_0000_title"
+msgstr "ラッキーリーフについて"
+
+msgid "tutopict_0072_0000_msg"
+msgstr "ラッキーリーフ 一覧ボタンを押せば、ラッキーリーフが\n解放できるプレートを確認できるわ。\n解放できるプレートがあれば、どんどん解放しましょう。"
+
+msgid "tutopict_0073_0000_title"
+msgstr "行動選択について"
+
+msgid "tutopict_0073_0000_msg"
+msgstr "支援要請にすぐに応えてあげたいときは支援を、MVP狙いで\n一気にインパクトを与えるなら全力熱唱を選ぶといいわよ。"
+
+msgid "tutopict_0073_0001_msg"
+msgstr "自分で参戦したり、救援してもらうことで\nマクロスキャノンゲージが溜まっていくわ。"
+
+msgid "tutopict_0074_0000_title"
+msgstr "救援要請について"
+
+msgid "tutopict_0074_0000_msg"
+msgstr "暴走エネミーは無理に1人で無力化しなくていいの。\n仲間と協力して対応していけば問題ないわ。\nそのかわり、救援要請を受けたら助けてあげてね。"
+
+msgid "tutopict_0075_0000_title"
+msgstr "新規レアリティプレートについて"
+
+msgid "tutopict_0075_0000_msg"
+msgstr "新しいレアリティのプレートが登場したわよ！\nGETすれば豪華特典をもらうことができるわ。"
+
+msgid "tutopict_0075_0001_msg"
+msgstr "新プレート獲得で、さらなる歌グレードアップを\n狙いましょう！"
+
+msgid "tutopict_0075_0002_msg"
+msgstr "新プレートを獲得したら、必ずユニット編成でセットして、\nイベントをプレイしましょうね。"
+
+msgid "tutopict_0075_0003_msg"
+msgstr "新規レアリティのプレートでしか聞けない\nボイスが盛りだくさんよ。\n歌姫たちのメッセージを是非聞いてみてね"
+
+msgid "tutopict_0076_0000_title"
+msgstr "アシスト設定について"
+
+msgid "tutopict_0076_0000_msg"
+msgstr "自分がアシスト設定したプレートが\n他のプレイヤーのアシスト選択時に\n表示されるようになったわ。"
+
+msgid "tutopict_0077_0000_title"
+msgstr "ホーム背景変更について"
+
+msgid "tutopict_0077_0000_msg"
+msgstr "ホーム背景は★4以上のプレートと\n背景イラストから好きなものを選んでね。\nホーム背景を豪華に飾っちゃいましょう！"
+
+msgid "tutopict_0078_0000_title"
+msgstr "ホーム画面歌姫衣装の選択について"
+
+msgid "tutopict_0078_0000_msg"
+msgstr "ホーム画面の歌姫衣装のみ変更できるわ。\nユニット衣装は歌姫ステータスから選択してね！"
+
+msgid "tutopict_0079_0000_title"
+msgstr "能力マス一括解放について"
+
+msgid "tutopict_0079_0000_msg"
+msgstr "能力マスは一度に解放することができるわ。\nこれでプレートを効率よく成長させることができるわね。"
+
+msgid "tutopict_0080_0000_title"
+msgstr "歌姫ランキングについて"
+
+msgid "tutopict_0080_0001_title"
+msgstr "歌姫ランキングについて"
+
+msgid "tutopict_0080_0000_msg"
+msgstr "トータルランキングは歌姫ごとに存在しているわ。\nあなたのお気に入りの歌姫はどれくらい\n成長しているかしら？"
+
+msgid "tutopict_0080_0001_msg"
+msgstr "歌姫のトータルを上げられる要素は3つあるわ。\n頑張って成長させていきましょうね。"
+
+msgid "tutopict_0081_0000_title"
+msgstr "獲得エールについて"
+
+msgid "tutopict_0081_0001_title"
+msgstr "獲得エールについて"
+
+msgid "tutopict_0081_0000_msg"
+msgstr "アピールが上昇するとエールの種類に応じて\nステータスが上昇するわ。\nより多くのエールの獲得を目指しましょう！"
+
+msgid "tutopict_0081_0001_msg"
+msgstr "1日3回まで通常より多くのエールを獲得できるわ。\nスペシャルライブが発生した属性のエールを\nたくさん獲得することができるの。"
+
+msgid "tutopict_0082_0000_title"
+msgstr "ペンライトについて"
+
+msgid "tutopict_0082_0000_msg"
+msgstr "ペンライトを使うとフィーバータイムになるわ\nフィーバータイム中はスペシャルライブの\n出現確率が上昇するわよ。"
+
+msgid "tutopict_0083_0000_title"
+msgstr "ライブボルテージの上げ方について"
+
+msgid "tutopict_0083_0000_msg"
+msgstr "楽曲を繰り返しプレイすることでボルテージが上昇するわ。\nたくさんライブを成功させて\nスペシャルライブ開催を目指しましょう!"
+
+msgid "tutopict_0084_0000_title"
+msgstr "スタンダード編成について"
+
+msgid "tutopict_0084_0000_msg"
+msgstr "スタンダード編成ボタンは楽曲にぴったりな歌姫を\n自動で選んでくれる機能よ。\nライブ演出をもっと楽しんじゃいましょう！"
+
+msgid "tutopict_0085_0000_title"
+msgstr "ライブの遊び方について"
+
+msgid "tutopict_0085_0000_msg"
+msgstr "ライブ中は画面の上から【ノーツ】が流れてくるわ。\n【リズムボタン】に重なるタイミングでタップしてね。"
+
+msgid "tutopict_0085_0001_msg"
+msgstr "流れてくる【ノーツ】にはいくつかの種類があるの。\n簡単にタップできるのは【ノーマルノーツ】ね。"
+
+msgid "tutopict_0085_0002_msg"
+msgstr "ラインで繋がれている【ダブルノーツ】は\n同じタイミングでタップしてね。"
+
+msgid "tutopict_0085_0003_msg"
+msgstr "同じ繋がったノーツでも【ロングノーツ】は\n長押しなの。最後に離すのを忘れないでね。"
+
+msgid "tutopict_0085_0004_msg"
+msgstr "【フリックノーツ】の矢印の向きは\n左、右、上の3パターンがあるから注意してね。"
+
+msgid "tutopict_0085_0005_msg"
+msgstr "ノーツがリズムボタンに重なったときに\nタップするとPERFECTになるわ。"
+
+msgid "tutopict_0086_0000_title"
+msgstr "ユニット編成について"
+
+msgid "tutopict_0086_0000_msg"
+msgstr "最大3人の歌姫がユニットに参加できるわ！\nライブに登場させたい歌姫をセンターにしてね。"
+
+msgid "tutopict_0087_0000_title"
+msgstr "生体フォールド波とアクティブスキルについて"
+
+msgid "tutopict_0087_0000_msg"
+msgstr "さぁ、いよいよライブが始まるわ！\n【生体フォールド波】が100%になると何かが起こるの。\n何が起こるかは自分の目で確かめてみてね！"
+
+msgid "tutopict_0087_0001_msg"
+msgstr "【アクティブスキル】を使うことも忘れないでね。\nそれじゃ、行くわよ！"
+
+msgid "tutopict_0088_0000_title"
+msgstr "ライブの流れについて"
+
+msgid "tutopict_0088_0000_msg"
+msgstr "【生体フォールド波】を100%以上にして\n【バルキリーモード】【歌姫モード】に\n突入する流れを意識してみてね。"
+
+msgid "tutopict_0088_0001_msg"
+msgstr "【バルキリーモード】中、バルキリーは\n4コンボ以上繋ぐと敵に攻撃を与えることができるの。"
+
+msgid "tutopict_0088_0002_msg"
+msgstr "【歌姫モード】でスコアアップノーツを\nタップして、ハイスコアを狙いましょう。\n慣れてきたらフルコンボも目指してみてね！"
+
+msgid "tutopict_0089_0000_title"
+msgstr "超時空SNSについて"
+
+msgid "tutopict_0089_0000_msg"
+msgstr "時空を超えた会話ができるなんて夢みたいね。\nこの超時空SNSを使ってたくさん会話を楽しみましょう。"
+
+msgid "tutopict_0090_0000_title"
+msgstr "超時空SNSについて"
+
+msgid "tutopict_0090_0000_msg"
+msgstr "超時空SNSを見たいときはSNSアイコンをタップよ。\nトークは条件を満たすことで追加されていくわ。"
+
+msgid "tutopict_0090_0001_msg"
+msgstr "時空を超えた会話ができるなんて夢みたいね。\nこの超時空SNSを使ってたくさん会話を楽しみましょう。"
+
+msgid "tutopict_0091_0000_title"
+msgstr "デカルガチャについて"
+
+msgid "tutopict_0091_0000_msg"
+msgstr "【デカルガチャ】は歌晶石を消費することで\nエピソードプレートを入手できるわ。"
+
+msgid "tutopict_0092_0000_title"
+msgstr "サービスガチャについて"
+
+msgid "tutopict_0092_0000_msg"
+msgstr "【サービスガチャ】は、朝、昼、夜の1日3回\n歌晶石なしで引けるから忘れないでね。\nこんなサービス滅多に受けられないわよ！"
+
+msgid "tutopict_0093_0000_title"
+msgstr "歌マクロスの楽曲たちについて"
+
+msgid "tutopict_0093_0000_msg"
+msgstr "シリーズの名曲を【ライブ】で遊んでみてね。\n選べる楽曲は、これからどんどん増えていくわよ。"
+
+msgid "tutopict_0093_0001_msg"
+msgstr "ライブは2Dモードでもプレイできるの。\n変更するには【メニュー】の【ゲーム設定】から\n【動作設定】を選んでね。"
+
+msgid "tutopict_0094_0000_title"
+msgstr "ライブの流れ"
+
+msgid "tutopict_0094_0000_msg"
+msgstr "一定時間内に【生体フォールド波】を100%以上に\nすると【バルキリーモード】に突入するわ。"
+
+msgid "tutopict_0094_0001_msg"
+msgstr "【バルキリーモード】中、バルキリーは\n4コンボ以上繋ぐと敵に攻撃を与えることができるの。"
+
+msgid "tutopict_0094_0002_msg"
+msgstr "【バルキリーモード】で制限時間内に、\n敵を倒すと【歌姫モード】に突入よ！"
+
+msgid "tutopict_0095_0000_title"
+msgstr "ライブの遊び方について"
+
+msgid "tutopict_0095_0000_msg"
+msgstr "ライブ中は画面の上から【ノーツ】が流れてくるわ。\n【リズムボタン】に重なるタイミングでタップしてね。"
+
+msgid "tutopict_0095_0001_msg"
+msgstr "流れてくる【ノーツ】にはいくつかの種類があるの。\n簡単にタップできるのは【ノーマルノーツ】ね。"
+
+msgid "tutopict_0095_0002_msg"
+msgstr "ラインで繋がれている【ダブルノーツ】は\n同じタイミングでタップしてね。"
+
+msgid "tutopict_0095_0003_msg"
+msgstr "同じ繋がったノーツでも【ロングノーツ】は\n長押しなの。最後に離すのを忘れないでね。"
+
+msgid "tutopict_0095_0004_msg"
+msgstr "【フリックノーツ】の矢印の向きは\n左、右、上の３パターンがあるから注意してね。"
+
+msgid "tutopict_0096_0000_title"
+msgstr "ライブを成功させるには"
+
+msgid "tutopict_0096_0000_msg"
+msgstr "【ライフ】の値が高いとライブが失敗しにくくなるわ。\n【ライフ回復】のアクティブスキルを\n使うのも効果的ね！"
+
+msgid "tutopict_0097_0000_title"
+msgstr "バルキリーモードについて"
+
+msgid "tutopict_0097_0000_msg"
+msgstr "タイミングよくノーツをタップすると\n【生体フォールド波】がたまっていくわ。"
+
+msgid "tutopict_0097_0001_msg"
+msgstr "【バルキリーモード】中、バルキリーは\n4コンボ以上繋ぐと敵に攻撃を与えることができるの。"
+
+msgid "tutopict_0098_0000_title"
+msgstr "歌姫モードについて"
+
+msgid "tutopict_0098_0000_msg"
+msgstr "【歌姫モード】でスコアアップノーツを\nタップして、ハイスコアを狙いましょう。\n慣れてきたらフルコンボも目指してみてね！"
+
+msgid "tutopict_0098_0001_msg"
+msgstr "敵のライフをゼロにすると追撃モードに移行するわ。\n追撃モード中にダメージを多く与えることができれば\n【超歌姫モード】に突入よ！"
+
+msgid "tutopict_0098_0002_msg"
+msgstr "超歌姫モードではアイテムノーツがたくさん！\nアイテムが欲しいときは頑張って目指しましょう。"
+
+msgid "tutopict_0099_0000_title"
+msgstr "ドロップアイテムについて"
+
+msgid "tutopict_0099_0000_msg"
+msgstr "ライブ中にタップしたアイテムは、ライブが成功したら\n手に入るから、最後まで気を抜かないでね。"
+
+msgid "tutopict_0100_0000_title"
+msgstr "アシストプレートについて"
+
+msgid "tutopict_0100_0000_msg"
+msgstr "アシストプレートはステータスとセンタースキルで\nユニットを強くしてくれるわ。"
+
+msgid "tutopict_0101_0000_title"
+msgstr "プレイログについて"
+
+msgid "tutopict_0101_0000_msg"
+msgstr "楽曲の中で、自分がミスをした箇所や、\nスキルが発動したタイミングなどの情報を\n知ることができるわ。"
+
+msgid "tutopict_0102_0000_title"
+msgstr "ユニット編成について"
+
+msgid "tutopict_0102_0000_msg"
+msgstr "最大3人の歌姫がユニットに参加できるわ！\nライブに登場させたい歌姫をセンターにしてね。"
+
+msgid "tutopict_0103_0000_title"
+msgstr "ステータスについて"
+
+msgid "tutopict_0103_0000_msg"
+msgstr "【TOTAL】は【ソウル】【ボイス】【チャーム】の\n合計値なの。ハイスコアでライブを成功させたいときは、\n【TOTAL】を意識してみてね。"
+
+msgid "tutopict_0103_0001_msg"
+msgstr "【生体フォールド波】はユニットの【フォールド波】の\n値が高いほどたまりやすくなるわ。"
+
+msgid "tutopict_0103_0002_msg"
+msgstr "【サポート】の値を上げてパイロットの能力を\n引き出すことで、敵を倒しやすくなるわ。"
+
+msgid "tutopict_0103_0003_msg"
+msgstr "【LUCK】が高くなるほど\nレアアイテムが入手しやすくなるわ。"
+
+msgid "tutopict_0104_0000_title"
+msgstr "スキルについて"
+
+msgid "tutopict_0104_0000_msg"
+msgstr "センタースキル、アクティブスキル、ライブスキル\nそれぞれに特徴があるの。"
+
+msgid "tutopict_0104_0001_msg"
+msgstr "メインプレートはアクティブスキルとセンタースキル、\nサブプレートはライブスキルを発動できるわ。\n3つのスキルを組み合わせてライブを有利にしましょう！"
+
+msgid "tutopict_0104_0002_msg"
+msgstr "ライブスキルはエピソードプレートと\n歌姫の相性によって発動するかどうかが決まるわ。\n青いマイクアイコンが目印よ。"
+
+msgid "tutopict_0105_0000_title"
+msgstr "楽曲の属性について"
+
+msgid "tutopict_0105_0000_msg"
+msgstr "エピソードプレートと楽曲の属性が同じときは\n属性ボーナスが発生するわよ。"
+
+msgid "tutopict_0105_0001_msg"
+msgstr "狙いたい結晶があるときは楽曲属性を意識してみてね。\n例えば愛属性の楽曲なら愛の結晶が手に入れやすいわ。"
+
+msgid "tutopict_0106_0000_title"
+msgstr "バルキリー編成について"
+
+msgid "tutopict_0106_0000_msg"
+msgstr "バルキリー編成画面では\n出撃するバルキリーを選んだり、\nバルキリーの情報を見ることができるわ。"
+
+msgid "tutopict_0107_0000_title"
+msgstr "ユニットセットについて"
+
+msgid "tutopict_0107_0000_msg"
+msgstr "目的に合わせていろんなユニットを\n組んでみましょう！"
+
+msgid "tutopict_0107_0001_msg"
+msgstr "【ユニットセット】は属性別、スコア重視、\nライフ重視など、目的別に保存しておくと便利よ。"
+
+msgid "tutopict_0108_0000_title"
+msgstr "記憶の時空と歌の記憶について"
+
+msgid "tutopict_0108_0000_msg"
+msgstr "【歌の記憶】や【歌姫の記憶】を\n新たに解放するためには楽曲や歌姫ごとに\n設定された条件をクリアする必要があるわ。"
+
+msgid "tutopict_0108_0001_msg"
+msgstr "解放された楽曲をプレイすると\nその曲が【ライブ】に追加されるわ。"
+
+msgid "tutopict_0109_0000_title"
+msgstr "歌姫の記憶について"
+
+msgid "tutopict_0109_0000_msg"
+msgstr "【歌姫の記憶】を発見したら\n【歌の記憶】と同様に、\nまずは解放条件をチェックしましょう。"
+
+msgid "tutopict_0110_0000_title"
+msgstr "エピソードについて"
+
+msgid "tutopict_0110_0000_msg"
+msgstr "エピソードプレートを入手すると\nそのプレートに関連したエピソードが追加されるの。"
+
+msgid "tutopict_0110_0001_msg"
+msgstr "追加されたエピソードは\nエピソード一覧から確認できるわよ。"
+
+msgid "tutopict_0111_0000_title"
+msgstr "能力解放について"
+
+msgid "tutopict_0111_0000_msg"
+msgstr "エピソードプレートは【能力解放】で強化すると、\n本来の能力を発揮できるようになっていくわ。"
+
+msgid "tutopict_0111_0001_msg"
+msgstr "能力解放に必要なアイテムとユニオンクレジット(UC)は\nライブやミッションで手に入れてね。"
+
+msgid "tutopict_0112_0000_title"
+msgstr "シークレットボードについて"
+
+msgid "tutopict_0112_0000_msg"
+msgstr "シークレットボードはプレートを3枚以上集めるか\nシークレットストーンを使うことで解放することができるわ。"
+
+msgid "tutopict_0112_0001_msg"
+msgstr "【LUCK】が高くなると\nレアアイテムノーツが出やすくなるわ。"
+
+msgid "tutopict_0112_0002_msg"
+msgstr "★5～★7プレートではシークレットボードに\n能力マスが追加されるわ。\nプレートを成長させて、ハイスコアを目指しましょう。"
+
+msgid "tutopict_0113_0000_title"
+msgstr "レアリティアップについて"
+
+msgid "tutopict_0113_0000_msg"
+msgstr "ガチャなどで同じエピソードプレートを獲得すると\nレアリティがアップして、いろんなボーナスが\n得られるわ。"
+
+msgid "tutopict_0114_0000_title"
+msgstr "熟練度について"
+
+msgid "tutopict_0114_0000_msg"
+msgstr "熟練度が上がると歌姫の経験値を獲得できるわ。\n楽曲ごとに熟練度があるから、挑戦してみてね。"
+
+msgid "tutopict_0114_0001_msg"
+msgstr "歌姫の経験値を獲得して歌姫のレベルを上げてね。\n私たちもここからまだまだ成長するわよ。"
+
+msgid "tutopict_0115_0000_title"
+msgstr "衣装について"
+
+msgid "tutopict_0115_0000_msg"
+msgstr "衣装を手に入れたら、着替えてみましょう！\n【衣装選択】で選ぶことができるわ。\n衣装にはちょっとした効果もあるのよ。"
+
+msgid "tutopict_0116_0000_title"
+msgstr "プレゼントBOXについて"
+
+msgid "tutopict_0116_0000_msg"
+msgstr "入手したアイテムはプレゼントBOXで受け取れるわ。\n期限があるから、こまめに見て受け取ってね。"
+
+msgid "tutopict_0117_0000_title"
+msgstr "プレイヤーランクについて"
+
+msgid "tutopict_0117_0000_msg"
+msgstr "プレイヤーランクを上げるためには、\nたくさんライブをして経験値を獲得してね。"
+
+msgid "tutopict_0118_0000_title"
+msgstr "フレンドについて"
+
+msgid "tutopict_0118_0000_msg"
+msgstr "他のプレイヤーからフレンド申請がきていたら\nフレンドメニューの【承認待ちリスト】から\n承認してあげてね。"
+
+msgid "tutopict_0118_0001_msg"
+msgstr "フレンドになるとライブ前のアシスト選択画面で\n表示されやすくなるわ。\n頼りになる仲間をどんどん増やしていきましょう。"
+
+msgid "tutopict_0119_0000_title"
+msgstr "プロフィールについて"
+
+msgid "tutopict_0119_0000_msg"
+msgstr "プロフィールではあなたの情報が確認できるの。\nプレイヤー名、紹介文、称号はここから変更できるわ。\nあなたがメインに設定しているプレートも確認できるわよ。"
+
+msgid "tutopict_0119_0001_msg"
+msgstr "【マクロスレポート】はあなたの活動記録なの。\n頑張って記録を更新していきましょうね！"
+
+msgid "tutopict_0120_0000_title"
+msgstr "サービスガチャについて"
+
+msgid "tutopict_0120_0000_msg"
+msgstr "【サービスガチャ】は、朝、昼、夜の1日3回\n歌晶石なしで引けるから忘れないでね。\nこんなサービス滅多に受けられないわよ！"
+
+msgid "tutopict_0121_0000_title"
+msgstr "曜日イベントについて"
+
+msgid "tutopict_0121_0000_msg"
+msgstr "曜日ごとに異なる楽曲が選曲されるわ。\n目当てのアイテムがある場合は要チェックね！"
+
+msgid "tutopict_0122_0000_title"
+msgstr "エピソードの解放について"
+
+msgid "tutopict_0122_0000_msg"
+msgstr "エピソードはポイントをためて完全解放することで\n衣装やバルキリーが入手できるの。\n完全解放する途中にも報酬は用意されているわよ。"
+
+msgid "tutopict_0122_0001_msg"
+msgstr "エピソードプレートのレアリティが高いほど、\n入手できるエピソードポイントも高くなるわ。"
+
+msgid "tutopict_0123_0000_title"
+msgstr "デビューミッションについて"
+
+msgid "tutopict_0123_0000_msg"
+msgstr "デビューミッションを進めてGETした歌晶石で\nデビューガチャを引きましょう！\n他にもさまざまな報酬がもらえるわよ。"
+
+msgid "tutopict_0124_0000_title"
+msgstr "デカルガチャについて"
+
+msgid "tutopict_0124_0000_msg"
+msgstr "【デカルガチャ】は歌晶石を消費することで\nエピソードプレートを入手できるわ。"
+
+msgid "tutopict_0125_0000_title"
+msgstr "達成報酬について"
+
+msgid "tutopict_0125_0000_msg"
+msgstr "ライブでもらえる報酬は楽曲、難易度ごとに\n用意されているからすべてGETするのを\n目標にしてみてね！"
+
+msgid "tutopict_0126_0000_title"
+msgstr "歌マクロス 1st Anniversary 娘々祭について"
+
+msgid "tutopict_0126_0000_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は娘々サービスミッションやイベントの報酬から\nもらえるの。"
+
+msgid "tutopict_0126_0001_msg"
+msgstr "娘くじ☆抽選券1枚で1回引くことができるわ。\n【娘くじ☆】を引くことで報酬を入手できるの。\n超豪華なものもあるからどんどん引いてみましょう！"
+
+msgid "tutopict_0127_0000_title"
+msgstr "シミュレーションライブについて"
+
+msgid "tutopict_0127_0000_msg"
+msgstr "【シミュレーションライブ】では\nオートプレイでライブが楽しめるわ。\nライブをじっくり鑑賞したい場合におすすめよ。"
+
+msgid "tutopict_0127_0001_msg"
+msgstr "画面右下のS-LIVEボタンをタップすると\nシミュレーションライブがプレイできるわ。"
+
+msgid "tutopict_0128_0000_title"
+msgstr "超時空プリズムについて"
+
+msgid "tutopict_0128_0000_msg"
+msgstr "【超時空プリズム】を有効にすると\n楽曲ごとにライブ中の見た目だけを変更できるの。"
+
+msgid "tutopict_0129_0000_title"
+msgstr "ビンゴミッションについて"
+
+msgid "tutopict_0129_0000_msg"
+msgstr "特別なエピソードプレートがもらえる\nビンゴミッションが登場したわ！\nホームのアイコンやミッションから挑戦してみてね。"
+
+msgid "tutopict_0130_0000_title"
+msgstr "ビンゴミッションの報酬について"
+
+msgid "tutopict_0130_0000_msg"
+msgstr "ビンゴミッションではあなたが選んだ衣装を\n解放しやすくなる【衣装解放プレート】が\n報酬としてもらえるわ。"
+
+msgid "tutopict_0130_0001_msg"
+msgstr "ビンゴミッションの報酬としてもらった\n衣装解放プレートのすべてのエピソードマスを\n解放することで、衣装が獲得できるの！"
+
+msgid "tutopict_0131_0000_title"
+msgstr "ビンゴミッションの遊び方について"
+
+msgid "tutopict_0131_0000_msg"
+msgstr "パネルに書かれたミッション内容を達成して\nビンゴを目指しましょう！\nビンゴ報酬の内容はビンゴ報酬ボタンから確認できるわ。"
+
+msgid "tutopict_0132_0000_title"
+msgstr "バルキリー強化について"
+
+msgid "tutopict_0132_0000_msg"
+msgstr "バルキリーを強化すると新しい能力を解放できるの。\n強化には専用の強化アイテムが必要になるわ。\n強化アイテムはイベントやVOPで入手できるわよ。"
+
+msgid "tutopict_0132_0001_msg"
+msgstr "バルキリーを解放すると、\n手に入れたバルキリーを強化して、\n拡張機能を解放できるようになったわ！"
+
+msgid "tutopict_0132_0002_msg"
+msgstr "強化アイテムはイベントやVOPで入手できるの。\nアイテムを集めて強化すると、\nレベルに応じて能力が上がっていくわ。"
+
+msgid "tutopict_0132_0003_msg"
+msgstr "拡張性能には、ライブ中に効果があるものと、\nVOPで効果があるものがあるの。\n使い分ける為にもいろいろ強化してみてね！"
+
+msgid "tutopict_0133_0000_title"
+msgstr "部隊選択について"
+
+msgid "tutopict_0133_0000_msg"
+msgstr "緊急事態発生よ！\n鳥の人の影響で暴走した敵が多数確認されたわ。\n全員で協力して準備を進めましょう！"
+
+msgid "tutopict_0133_0001_msg"
+msgstr "超銀河総力LIVEに備えて\n仲間となる部隊に所属しましょう！\n部隊に所属したらイベント終了まで変更はできないわ。"
+
+msgid "tutopict_0134_0000_title"
+msgstr "デコルチャーモードについて"
+
+msgid "tutopict_0134_0000_msg"
+msgstr "デコルチャーモードでは、自由にアイテムを配置して\n自分だけの部屋【デコルーム】が作れるの。\n素敵なルームを作って、他のプレイヤーに自慢しましょう！"
+
+msgid "tutopict_0134_0001_msg"
+msgstr "編集メニューからキャラやインテリアなどの\n【デコアイテム】が配置できるの。\nアイデア次第でいろんなことができるわよ。"
+
+msgid "tutopict_0134_0002_msg"
+msgstr "デコアイテムは、置く場所に合わせて左右を反転することが\nできるわ。壁に配置するアイテム、ポスターや敷物は表示の\n優先順位を変更することもできるわよ。"
+
+msgid "tutopict_0134_0003_msg"
+msgstr "デコポイントはミッションの報酬や\n他のプレイヤーに贈り物をすることで入手可能よ。\n入手できる機会は他にもあるかもね。"
+
+msgid "tutopict_0134_0004_msg"
+msgstr "気になるプレイヤーを見つけたらデコルームを訪問よ！\nファン登録すれば、いつでも訪問できるようになるわ。\n贈り物をするのもいいわね、きっと喜ばれるはずよ。"
+
+msgid "tutopict_0135_0000_title"
+msgstr "部隊選択について"
+
+msgid "tutopict_0135_0000_msg"
+msgstr "超銀河総力LIVEに備えて、部隊に所属しましょう！\n部隊に所属したらイベント終了まで変更はできないわ。"
+
+msgid "tutopict_0136_0000_title"
+msgstr "総力LIVEの準備について"
+
+msgid "tutopict_0136_0000_msg"
+msgstr "総力LIVEでは様々なアイテムが必要になってくるの。\n事前に集めて準備をしておきましょう。"
+
+msgid "tutopict_0136_0001_msg"
+msgstr "マクロスロビーが開催されると、\n超銀河総力LIVEに使う重要なアイテムが入手可能になるの。\n協力ミッションや楽曲プレイで事前に集めておいてね。"
+
+msgid "tutopict_0136_0002_msg"
+msgstr "部隊の仲間とはマクロスロビーで交流できるの。\nチャットを使って仲良く雑談したり、\n総力LIVEに向けて攻略情報を共有したりできるわ。"
+
+msgid "tutopict_0136_0003_msg"
+msgstr "総力LIVEでは、★6プレートと交換できる超銀河メダルや\nバルキリー強化アイテム、デコポイントがGETできるわ。\nランキング報酬ではトロフィーもGETできるわよ。"
+
+msgid "tutopict_0136_0004_msg"
+msgstr "マクロスロビーが開催されると、\nフォールドレーダーが楽曲クリア後に見つかることがあるの。\n協力ミッションは毎日追加され、報酬は全員が受け取れるわ。"
+
+msgid "tutopict_0136_0005_msg"
+msgstr "デコルチャーモードにはマクロスキャノンゲージを\nチャージできるアイテムがあるの。\nマクロスキャノンは総力LIVEで強力な効果があるわ！"
+
+msgid "tutopict_0137_0000_title"
+msgstr "マクロスロビーについて"
+
+msgid "tutopict_0137_0000_msg"
+msgstr "部隊一覧ではその部隊に所属している人が見れるの。\n気になった人をファン登録しておけば、\nマクロスロビー開催時に同じ部隊に入れるかもしれないわよ。"
+
+msgid "tutopict_0137_0001_msg"
+msgstr "部隊の誰かが活躍すると、バトルログに流れてくるの。\nサムネイルをタップすると動画が始まるわ。\nしかも、マクロスキャノン実況にはスタンプを送れるのよ！"
+
+msgid "tutopict_0137_0002_msg"
+msgstr "バトルログに流れてきた情報はチャット投稿で\nチャットに共有できるの。\n自慢したいものや凄いと思ったものは共有してみてね。"
+
+msgid "tutopict_0137_0003_msg"
+msgstr "マクロスキャノンのログの中でも特に活躍したものは\n自動的にチャットに投稿されてNEWS速報が出るわ。"
+
+msgid "tutopict_0137_0004_msg"
+msgstr "プッシュ通知が届く時間を調整できるわ。\nONの項目でも時間外には届かないようにできるの。\n自分のプレイスタイルに合わせて調整してね。"
+
+msgid "tutopict_0137_0005_msg"
+msgstr "マクロスキャノン実況に送れるスタンプは\nスタンプ編集で作ったものを使えるわ。\nみんなでスタンプを押して盛り上がっちゃいましょう！"
+
+msgid "tutopict_0138_0000_title"
+msgstr "スタンプについて"
+
+msgid "tutopict_0138_0000_msg"
+msgstr "スタンプはスタンプ編集から作れるわ。\nキャラクターとセリフを組み合わせて\n最大30個まで保存できるの。"
+
+msgid "tutopict_0138_0001_msg"
+msgstr "スタンプはタップするとそのまま投稿できるの。\nスタンプはデコルチャーモードと共通で使えるのよ。"
+
+msgid "tutopict_0139_0000_title"
+msgstr "バトルログについて"
+
+msgid "tutopict_0139_0000_msg"
+msgstr "部隊の誰かが活躍すると、バトルログに流れてくるの。\n特にマクロスキャノン実況はスタンプを送れるのよ。\nみんなでスタンプを押して盛り上がっちゃいましょう！"
+
+msgid "tutopict_0139_0001_msg"
+msgstr "バトルログに流れてきた情報はチャット投稿で\nチャットに共有できるの。\n自慢したいものや凄いと思ったものは共有してみてね。"
+
+msgid "tutopict_0140_0000_title"
+msgstr "ニュース速報について"
+
+msgid "tutopict_0140_0000_msg"
+msgstr "マクロスキャノンのログの中でも特に活躍したものは\n自動的にチャットに投稿されてNEWS速報が出るわ。"
+
+msgid "tutopict_0141_0000_title"
+msgstr "ノート機能について"
+
+msgid "tutopict_0141_0000_msg"
+msgstr "ノート機能はユーザー投稿専用のチャットなの。\n重要な情報を共有したり、アドバイスを書き残したり、\n部隊の仲間とうまく活用してね。"
+
+msgid "tutopict_0142_0000_title"
+msgstr "アイコン切り替えについて"
+
+msgid "tutopict_0142_0000_msg"
+msgstr "チャットでは、見た目を歌姫と称号で切り替えられるの。\n切り替えは自分にしか適用されないから注意してね。"
+
+msgid "tutopict_0143_0000_title"
+msgstr "プッシュ通知設定について"
+
+msgid "tutopict_0143_0000_msg"
+msgstr "プッシュ通知が届く時間を調整できるわ。\nONの項目でも時間外には届かないようにできるの。\n自分のプレイスタイルに合わせて調整してね。"
+
+msgid "tutopict_0144_0000_title"
+msgstr "キャラについて"
+
+msgid "tutopict_0144_0000_msg"
+msgstr "デコルームに配置したキャラは、フレーズを選択することで\nその言葉を話すようになるわ。"
+
+msgid "tutopict_0144_0001_msg"
+msgstr "選択できるフレーズとフキダシの種類も豊富よ。\n好みのフレーズを好きなキャラに喋らせちゃいましょう！"
+
+msgid "tutopict_0144_0002_msg"
+msgstr "ルーム内のキャラをタッチすると、タッチした回数に応じて\nリアクションを返してくれるわよ。\nでも、触りすぎると怒られちゃうかも……!?"
+
+msgid "tutopict_0144_0003_msg"
+msgstr "ルーム内のキャラを長押しすると親密度がアップするわ。\n親密度は画面左下の『ふれあいカウンター』に\n表示されている回数だけ上げることができるわよ。"
+
+msgid "tutopict_0145_0000_title"
+msgstr "プレイヤーのブロックについて"
+
+msgid "tutopict_0145_0000_msg"
+msgstr "ブロック機能について説明するわね。"
+
+msgid "tutopict_0145_0001_msg"
+msgstr "ブロック機能について説明するわね。"
+
+msgid "tutopict_0145_0002_msg"
+msgstr "ブロック機能について説明するわね。"
+
+msgid "tutopict_0146_0000_title"
+msgstr "バルキリー強化について"
+
+msgid "tutopict_0146_0000_msg"
+msgstr "バルキリーを強化すると新しい能力を解放できるの。\n強化には専用の強化アイテムが必要になるわ。\n強化アイテムはVOPで入手できるわよ。"
+
+msgid "tutopict_0146_0001_msg"
+msgstr "バルキリーを解放すると、\n手に入れたバルキリーを強化して、\n拡張機能を解放できるようになったわ！"
+
+msgid "tutopict_0146_0002_msg"
+msgstr "VOPでアイテムを集めて、\nバルキリーの拡張性能を強化しましょう！"
+
+msgid "tutopict_0146_0003_msg"
+msgstr "拡張性能には、ライブ中に効果があるものと、\nVOPで効果があるものがあるの。\n使い分ける為にもいろいろ強化してみてね！"
+
+msgid "tutopict_0147_0000_title"
+msgstr "スタンプって何？"
+
+msgid "tutopict_0147_0002_title"
+msgstr "エクストラアイテムについて"
+
+msgid "tutopict_0147_0000_msg"
+msgstr "NG:ID=132\nスタンプはタップするとそのまま投稿できるの。\nスタンプはデコルチャーモードと共通で使えるのよ。"
+
+msgid "tutopict_0147_0001_msg"
+msgstr "スタンプはスタンプ編集から作れるわ。\nキャラクターとセリフを組み合わせて\n最大30個まで保存できるの。"
+
+msgid "tutopict_0147_0002_msg"
+msgstr "エクストラアイテムを配置することで、デコポイントや\n十二星座メダルをもらうことができるわ！\nとってもお得だから活用してね！"
+
+msgid "tutopict_0148_0000_title"
+msgstr "エクストラアイテムについて"
+
+msgid "tutopict_0148_0000_msg"
+msgstr "エクストラアイテムを配置することで、デコポイントや\n十二星座メダルがもらえたり、マクロスキャノンの\nチャージができるわ！"
+
+msgid "tutopict_0149_0000_title"
+msgstr "ライブスキップについて"
+
+msgid "tutopict_0149_0000_msg"
+msgstr "リズムゲームをスキップすることでドロップアイテムや\nイベント報酬が集めやすくなるわよ。"
+
+msgid "tutopict_0149_0001_msg"
+msgstr "スコアランクSSを取得した楽曲であれば\n各イベントでもスキップすることができるわよ。\nこれでよりイベントポイントを入手しやすくなるわね。"
+
+msgid "tutopict_0150_0000_title"
+msgstr "かけらについて"
+
+msgid "tutopict_0150_0000_msg"
+msgstr "かけらは一定数集めると\nケイオス交換所で特定のアイテムと交換できるようになるわ。"
+
+msgid "tutopict_0150_0001_msg"
+msgstr "かけらはイベントなどで獲得できるわ。\nかけらの必要個数はケイオス交換所で確認できるわ。"
+
+msgid "tutopict_0150_0002_msg"
+msgstr "レアアップスターとシークレットストーンは\nメインボードで使用することができるわ。"
+
+msgid "tutopict_0151_0000_title"
+msgstr "歌グレードについて"
+
+msgid "tutopict_0151_0000_msg"
+msgstr "歌グレードを上げていけば、\nここでしかもらえない描き下ろしプレートをはじめ、\nお得なアイテムがもらえるわ。"
+
+msgid "tutopict_0151_0001_msg"
+msgstr "歌レートを上げていけば歌グレードが上昇するの。\n次に歌グレードが上がったときにもらえる報酬を\n確認することができるわ。"
+
+msgid "tutopict_0151_0002_msg"
+msgstr "歌レートによるランキングが追加されたわ。\n歌レートを上げていけば、順位を上げていくことが\nできるわよ。"
+
+msgid "tutopict_0152_0000_title"
+msgstr "ラッキーリーフについて"
+
+msgid "tutopict_0152_0000_msg"
+msgstr "プレートのLUCKを高くすると、ラッキーリーフが\n出現するわ。これを解放したプレートを編成すると、\nライブ中にさまざまな特殊効果が得られるの。"
+
+msgid "tutopict_0152_0001_msg"
+msgstr "ラッキーリーフが解放できるのは、レアリティアップ後の\n★5、★6、★7プレートだけなの。対象プレートのLUCKに\n応じて解放できるラッキーリーフの枚数が増えるわ。"
+
+msgid "tutopict_0152_0002_msg"
+msgstr "ラッキーリーフを解放するには【幸運の輝石】や\n【幸運の煌石】が必要よ！これは、イベント報酬や\nミッションなどで獲得することができるわ。"
+
+msgid "tutopict_0152_0003_msg"
+msgstr "解放したリーフの数に応じて、\nラッキーリーフの効果は強くなるの。\nこれを利用してハイスコアを目指しましょう！"
+
+msgid "tutopict_0152_0004_msg"
+msgstr "プレミア化するとプレートが虹色に輝くの。\nデコルチャーのルームにポスターとして貼って\nみんなに自慢しましょう！"
+
+msgid "tutopict_0152_0005_msg"
+msgstr "ラッキーリーフ 一覧ボタンを押せば、ラッキーリーフが\n解放できるプレートを確認できるわ。\n解放できるプレートがあれば、どんどん解放しましょう。"
+
+msgid "tutopict_0153_0000_title"
+msgstr "アシスト設定について"
+
+msgid "tutopict_0153_0000_msg"
+msgstr "自分がアシスト設定したプレートが\n他のプレイヤーのアシスト選択時に\n表示されるようになったわ。"
+
+msgid "tutopict_0154_0000_title"
+msgstr "ホーム背景変更について"
+
+msgid "tutopict_0154_0000_msg"
+msgstr "ホーム背景は★4以上のプレートと\n背景イラストから好きなものを選んでね。\nホーム背景を豪華に飾っちゃいましょう！"
+
+msgid "tutopict_0155_0000_title"
+msgstr "ホーム画面歌姫衣装の選択について"
+
+msgid "tutopict_0155_0000_msg"
+msgstr "ホーム画面の歌姫衣装のみ変更できるわ。\nユニット衣装は歌姫ステータスから選択してね！"
+
+msgid "tutopict_0156_0000_title"
+msgstr "能力マス一括解放について"
+
+msgid "tutopict_0156_0000_msg"
+msgstr "能力マスは一度に解放することができるわ。\nこれでプレートを効率よく成長させることができるわね。"
+
+msgid "tutopict_0157_0000_title"
+msgstr "シューティングゲームについて"
+
+msgid "tutopict_0157_0000_msg"
+msgstr "歌エネルギーをぶつけて\n迫りくる敵を無効化していきましょう！\nたくさん無効化することで多くのスコアを獲得できるわ。"
+
+msgid "tutopict_0157_0001_msg"
+msgstr "どうやらほかにも隠された機能があるようね。\n発見され次第情報を発信するから\nこまめに歌マクロスの情報をチェックしてみてね。"
+
+msgid "tutopict_0158_0000_title"
+msgstr "お気に入りについて"
+
+msgid "tutopict_0158_0000_msg"
+msgstr "よくプレイする楽曲は\nお気に入りに登録しておくと便利よ。\n目的に合せて使い分けてみてね。"
+
+msgid "tutopict_0158_0001_msg"
+msgstr "お気に入りに登録した楽曲は並び替えから\nいつでも呼び出せるわ。"
+
+msgid "tutopict_0159_0000_title"
+msgstr "超時空ファイナルLive ～Act.1～について"
+
+msgid "tutopict_0159_0001_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0159_0002_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0159_0003_title"
+msgstr "収集イベントの遊び方について"
+
+msgid "tutopict_0159_0000_msg"
+msgstr "鳥の人の影響が強くなってきているわ…\n作戦を成功させるためには、あなたの力が必要なの。\nまずは記憶のかけらを集めましょう！"
+
+msgid "tutopict_0159_0001_msg"
+msgstr "イベントの報酬でエピソードプレート交換券を\n大量にGETすることができるわ！\nたくさん集めて好きなプレートと交換してね。"
+
+msgid "tutopict_0159_0002_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0159_0003_msg"
+msgstr "収集イベントは、\nチケットを使って楽曲を遊ぶイベントよ。\nチケットはイベントホームでも1日1回受け取れるわ！"
+
+msgid "tutopict_0159_0004_msg"
+msgstr "イベントアイテムは、\n種類に応じてポイントに変換されるわ。\nたくさん集めて、ポイントをためていきましょう。"
+
+msgid "tutopict_0159_0005_msg"
+msgstr "ポイントを多く集めることでより良い報酬がもらえるわ。\nイベントを遊んで、すべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0159_0006_msg"
+msgstr "まずは、チケットの消費枚数を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0159_0007_msg"
+msgstr "イベント楽曲ランキングではイベントスコアの\nランキングに応じて対象楽曲の称号がもらえるの。\n楽曲称号については達成報酬ボタンから確認できるわ。"
+
+msgid "tutopict_0159_0008_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0160_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0160_0001_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0160_0002_title"
+msgstr "収集イベントの遊び方について"
+
+msgid "tutopict_0160_0000_msg"
+msgstr "イベントに参加すると、ここでしか手に入らない\nエピソードプレートをGETすることができるわ。\n頑張ってチャレンジしてみましょうね！"
+
+msgid "tutopict_0160_0001_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0160_0002_msg"
+msgstr "収集イベントは、\nチケットを使って楽曲を遊ぶイベントよ。\nチケットはイベントホームでも1日1回受け取れるわ！"
+
+msgid "tutopict_0160_0003_msg"
+msgstr "イベントアイテムは、\n種類に応じてポイントに変換されるわ。\nたくさん集めて、ポイントをためていきましょう。"
+
+msgid "tutopict_0160_0004_msg"
+msgstr "ポイントを多く集めることでより良い報酬がもらえるわ。\nイベントを遊んで、すべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0160_0005_msg"
+msgstr "まずは、チケットの消費枚数を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0160_0006_msg"
+msgstr "イベント楽曲ランキングではイベントスコアの\nランキングに応じて対象楽曲の称号がもらえるの。\n楽曲称号については達成報酬ボタンから確認できるわ。"
+
+msgid "tutopict_0160_0007_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0161_0000_title"
+msgstr "超時空ファイナルLive ～Act.1～について"
+
+msgid "tutopict_0161_0001_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0161_0002_title"
+msgstr "収集イベントの遊び方について"
+
+msgid "tutopict_0161_0000_msg"
+msgstr "鳥の人の影響が強くなってきているわ…\n作戦を成功させるためには、あなたの力が必要なの。\nまずは記憶のかけらを集めましょう！"
+
+msgid "tutopict_0161_0001_msg"
+msgstr "イベントの報酬でエピソードプレート交換券を\n大量にGETすることができるわ！\nたくさん集めて好きなプレートと交換してね。"
+
+msgid "tutopict_0161_0002_msg"
+msgstr "収集イベントは、\nチケットを使って楽曲を遊ぶイベントよ。\nチケットはイベントホームでも1日1回受け取れるわ！"
+
+msgid "tutopict_0161_0003_msg"
+msgstr "イベントアイテムは、\n種類に応じてポイントに変換されるわ。\nたくさん集めて、ポイントをためていきましょう。"
+
+msgid "tutopict_0161_0004_msg"
+msgstr "ポイントを多く集めることでより良い報酬がもらえるわ。\nイベントを遊んで、すべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0161_0005_msg"
+msgstr "イベント楽曲ランキングではイベントスコアの\nランキングに応じて対象楽曲の称号がもらえるの。\n楽曲称号については達成報酬ボタンから確認できるわ。"
+
+msgid "tutopict_0161_0006_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0162_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0162_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0162_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0163_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0163_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0163_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0164_0000_title"
+msgstr "対象エピソードの追加について"
+
+msgid "tutopict_0164_0000_msg"
+msgstr "対象のエピソードが追加されたわ。\n今まで以上にイベントポイントを増やすチャンスよ。"
+
+msgid "tutopict_0165_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0165_0001_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0165_0002_title"
+msgstr "ミッションイベントの遊び方について"
+
+msgid "tutopict_0165_0000_msg"
+msgstr "エピソードプレート交換券を大量にGETするチャンスよ！\nミッションイベントでは、十二星座メダルも\n他のイベントより多くGETできるから頑張りましょうね。"
+
+msgid "tutopict_0165_0001_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0165_0002_msg"
+msgstr "ミッションイベントは、指令書のミッションを達成して\nポイントを集めていくイベントよ。\n選んだミッションを達成することでボーナスが発生するわ。"
+
+msgid "tutopict_0165_0003_msg"
+msgstr "難しいミッションほどミッションボーナスが高くなるわ。\n高難易度の楽曲でレベルの高いミッションに\n挑戦することで効率よくポイントを集められるわよ。"
+
+msgid "tutopict_0165_0004_msg"
+msgstr "滅びの歌の影響を受けるミッションは達成が難しい分\nミッションボーナスも高いわ。\nきちんとユニット編成を考えてから挑みましょう！"
+
+msgid "tutopict_0165_0005_msg"
+msgstr "ボーナス楽曲は一定期間ごとに変化するわ！\nEVENTボーナス楽曲アイコンで、\nボーナス楽曲を確認して、積極的に挑戦していきましょう。"
+
+msgid "tutopict_0165_0006_msg"
+msgstr "ポイントを多く集めることでより良い報酬がもらえるわ。\nイベントを遊んで、すべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0165_0007_msg"
+msgstr "まずは、エナジーの消費量を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0165_0008_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0166_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0166_0001_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0166_0002_title"
+msgstr "ミッションイベントの遊び方について"
+
+msgid "tutopict_0166_0000_msg"
+msgstr "エピソードプレート交換券を大量にGETするチャンスよ！\nミッションイベントでは、十二星座メダルも\n他のイベントより多くGETできるから頑張りましょうね。"
+
+msgid "tutopict_0166_0001_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0166_0002_msg"
+msgstr "ミッションイベントは、指令書のミッションを達成して\nポイントを集めていくイベントよ。\n選んだミッションを達成することでボーナスが発生するわ。"
+
+msgid "tutopict_0166_0003_msg"
+msgstr "難しいミッションほどミッションボーナスが高くなるわ。\n高難易度の楽曲でレベルの高いミッションに\n挑戦することで効率よくポイントを集められるわよ。"
+
+msgid "tutopict_0166_0004_msg"
+msgstr "滅びの歌の影響を受けるミッションは達成が難しい分\nミッションボーナスも高いわ。\nきちんとユニット編成を考えてから挑みましょう！"
+
+msgid "tutopict_0166_0005_msg"
+msgstr "ボーナス楽曲は一定期間ごとに変化するわ！\nEVENTボーナス楽曲アイコンで、\nボーナス楽曲を確認して、積極的に挑戦していきましょう。"
+
+msgid "tutopict_0166_0006_msg"
+msgstr "ポイントを多く集めることでより良い報酬がもらえるわ。\nイベントを遊んで、すべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0166_0007_msg"
+msgstr "まずは、エナジーの消費量を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0166_0008_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0167_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0167_0001_title"
+msgstr "ミッションイベントの遊び方について"
+
+msgid "tutopict_0167_0000_msg"
+msgstr "エピソードプレート交換券を大量にGETするチャンスよ！\nミッションイベントでは、十二星座メダルも\n他のイベントより多くGETできるから頑張りましょうね。"
+
+msgid "tutopict_0167_0001_msg"
+msgstr "ミッションイベントは、指令書のミッションを達成して\nポイントを集めていくイベントよ。\n選んだミッションを達成することでボーナスが発生するわ。"
+
+msgid "tutopict_0167_0002_msg"
+msgstr "難しいミッションほどミッションボーナスが高くなるわ。\n高難易度の楽曲でレベルの高いミッションに\n挑戦することで効率よくポイントを集められるわよ。"
+
+msgid "tutopict_0167_0003_msg"
+msgstr "滅びの歌の影響を受けるミッションは達成が難しい分\nミッションボーナスも高いわ。\nきちんとユニット編成を考えてから挑みましょう！"
+
+msgid "tutopict_0167_0004_msg"
+msgstr "ボーナス楽曲は一定期間ごとに変化するわ！\nEVENTボーナス楽曲アイコンで、\nボーナス楽曲を確認して、積極的に挑戦していきましょう。"
+
+msgid "tutopict_0167_0005_msg"
+msgstr "ポイントを多く集めることでより良い報酬がもらえるわ。\nイベントを遊んで、すべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0167_0006_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0168_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0168_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0168_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0169_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0169_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0169_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0170_0000_title"
+msgstr "対象エピソードの追加について"
+
+msgid "tutopict_0170_0000_msg"
+msgstr "対象のエピソードが追加されたわ。\n今まで以上にイベントポイントを増やすチャンスよ。"
+
+msgid "tutopict_0171_0000_title"
+msgstr "イベント期間中のボーナス楽曲について"
+
+msgid "tutopict_0171_0000_msg"
+msgstr "ボーナス楽曲は一定期間ごとに変化するわ！\n常に最新の情報に注意してね。"
+
+msgid "tutopict_0172_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0172_0001_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0172_0002_title"
+msgstr "バトルイベントの遊び方について"
+
+msgid "tutopict_0172_0000_msg"
+msgstr "イベントの報酬でエピソードプレート交換券を\n大量にGETすることができるわ！\nたくさん集めて好きなプレートと交換してね。"
+
+msgid "tutopict_0172_0001_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0172_0002_msg"
+msgstr "バトルイベントでは、対戦相手とスコアで勝負よ。\n自分の得意な楽曲で対戦相手を選ぶのもコツね！"
+
+msgid "tutopict_0172_0003_msg"
+msgstr "よりランクの高い相手に挑戦してみましょう！\n勝利するともらえるポイントが増加するわよ！"
+
+msgid "tutopict_0172_0004_msg"
+msgstr "EXバトル楽曲のスコア合計でランキングが決定するの。\n強敵に勝利してハイスコアを目指しましょう！\nまた、滅びの歌の影響も受けるから注意が必要よ。"
+
+msgid "tutopict_0172_0005_msg"
+msgstr "高クラスほどより多くのポイントが獲得できるわ。\nクラス解放状況は次のバトルイベントに引き継がれるから、\nどんどん上のクラスを目指しましょうね！"
+
+msgid "tutopict_0172_0006_msg"
+msgstr "EXバトルハイスコアを更新したり、ポイントを\n多く集めることで、より良い報酬がもらえるわ。\nすべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0172_0007_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0173_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0173_0001_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0173_0002_title"
+msgstr "バトルイベントの遊び方について"
+
+msgid "tutopict_0173_0000_msg"
+msgstr "イベントの報酬でエピソードプレート交換券を\n大量にGETすることができるわ！\nたくさん集めて好きなプレートと交換してね。"
+
+msgid "tutopict_0173_0001_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0173_0002_msg"
+msgstr "バトルイベントでは、対戦相手とスコアで勝負よ。\n自分の得意な楽曲で対戦相手を選ぶのもコツね！"
+
+msgid "tutopict_0173_0003_msg"
+msgstr "よりランクの高い相手に挑戦してみましょう！\n勝利するともらえるポイントが増加するわよ！"
+
+msgid "tutopict_0173_0004_msg"
+msgstr "EXバトル楽曲のスコア合計でランキングが決定するの。\n強敵に勝利してハイスコアを目指しましょう！\nまた、滅びの歌の影響も受けるから注意が必要よ。"
+
+msgid "tutopict_0173_0005_msg"
+msgstr "高クラスほどより多くのポイントが獲得できるわ。\nクラス解放状況は次のバトルイベントに引き継がれるから、\nどんどん上のクラスを目指しましょうね！"
+
+msgid "tutopict_0173_0006_msg"
+msgstr "EXバトルハイスコアを更新したり、ポイントを\n多く集めることで、より良い報酬がもらえるわ。\nすべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0173_0007_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0174_0000_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0174_0001_title"
+msgstr "バトルイベントの遊び方について"
+
+msgid "tutopict_0174_0000_msg"
+msgstr "イベントの報酬でエピソードプレート交換券を\n大量にGETすることができるわ！\nたくさん集めて好きなプレートと交換してね。"
+
+msgid "tutopict_0174_0001_msg"
+msgstr "バトルイベントでは、対戦相手とスコアで勝負よ。\n自分の得意な楽曲で対戦相手を選ぶのもコツね！"
+
+msgid "tutopict_0174_0002_msg"
+msgstr "よりランクの高い相手に挑戦してみましょう！\n勝利するともらえるポイントが増加するわよ！"
+
+msgid "tutopict_0174_0003_msg"
+msgstr "EXバトル楽曲のスコア合計でランキングが決定するの。\n強敵に勝利してハイスコアを目指しましょう！\nまた、滅びの歌の影響も受けるから注意が必要よ。"
+
+msgid "tutopict_0174_0004_msg"
+msgstr "高クラスほどより多くのポイントが獲得できるわ。\nクラス解放状況は次のバトルイベントに引き継がれるから、\nどんどん上のクラスを目指しましょうね！"
+
+msgid "tutopict_0174_0005_msg"
+msgstr "EXバトルハイスコアを更新したり、ポイントを\n多く集めることで、より良い報酬がもらえるわ。\nすべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0174_0006_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0175_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0175_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0175_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0176_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0176_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0176_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0177_0000_title"
+msgstr "対象エピソードの追加について"
+
+msgid "tutopict_0177_0000_msg"
+msgstr "対象のエピソードが追加されたわ。\n今まで以上にイベントポイントを増やすチャンスよ。"
+
+msgid "tutopict_0178_0000_title"
+msgstr "ランキング入賞のコツについて"
+
+msgid "tutopict_0178_0000_msg"
+msgstr "EXバトルハイスコアはEXバトル楽曲の\nハイスコアを更新することで上がるわ。\nすべてのEXバトル楽曲をプレイするのがオススメよ。"
+
+msgid "tutopict_0179_0000_title"
+msgstr "イベントの遊び方について"
+
+msgid "tutopict_0179_0001_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0179_0002_title"
+msgstr "滅びの歌の影響について"
+
+msgid "tutopict_0179_0003_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0179_0004_title"
+msgstr "歌姫イベントの遊び方について"
+
+msgid "tutopict_0179_0000_msg"
+msgstr "スペシャルライブでライブボーナス15倍が\n抽選される確率がアップしているわよ！\nアピールを上げるチャンスね！"
+
+msgid "tutopict_0179_0001_msg"
+msgstr "イベントに参加すると、ここでしか手に入らない\nエピソードプレートをGETすることができるわ。\nあなたもチャレンジしてみてね！"
+
+msgid "tutopict_0179_0002_msg"
+msgstr "対象楽曲では、滅びの歌の影響を受けてしまうわ。\n滅びの歌は毎回違う影響をもたらすから\n必ずチェックしてね！"
+
+msgid "tutopict_0179_0003_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0179_0004_msg"
+msgstr "アピールが上がると歌姫のステータスも上昇するわ。\nイベント終了後も成長した能力は残り続けるわよ。"
+
+msgid "tutopict_0179_0005_msg"
+msgstr "スペシャルライブのスコアでランキングが決定するの。\nよりハイスコアを目指しましょう！"
+
+msgid "tutopict_0179_0006_msg"
+msgstr "スペシャルライブでランキング上位に入賞したり\nポイントを多く集めることでより良い報酬がもらえるわ。\nすべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0179_0007_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0180_0000_title"
+msgstr "イベントの遊び方について"
+
+msgid "tutopict_0180_0001_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0180_0002_title"
+msgstr "滅びの歌の影響について"
+
+msgid "tutopict_0180_0003_title"
+msgstr "ボーナス対象について"
+
+msgid "tutopict_0180_0004_title"
+msgstr "歌姫イベントの遊び方について"
+
+msgid "tutopict_0180_0000_msg"
+msgstr "スペシャルライブでライブボーナス15倍が\n抽選される確率がアップしているわよ！\nアピールを上げるチャンスね！"
+
+msgid "tutopict_0180_0001_msg"
+msgstr "イベントに参加すると、ここでしか手に入らない\nエピソードプレートをGETすることができるわ。\nあなたもチャレンジしてみてね！"
+
+msgid "tutopict_0180_0002_msg"
+msgstr "対象楽曲では、滅びの歌の影響を受けてしまうわ。\n滅びの歌は毎回違う影響をもたらすから\n必ずチェックしてね！"
+
+msgid "tutopict_0180_0003_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0180_0004_msg"
+msgstr "アピールが上がると歌姫のステータスも上昇するわ。\nイベント終了後も成長した能力は残り続けるわよ。"
+
+msgid "tutopict_0180_0005_msg"
+msgstr "スペシャルライブのスコアでランキングが決定するの。\nよりハイスコアを目指しましょう！"
+
+msgid "tutopict_0180_0006_msg"
+msgstr "スペシャルライブでランキング上位に入賞したり\nポイントを多く集めることでより良い報酬がもらえるわ。\nすべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0180_0007_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0181_0000_title"
+msgstr "イベントの遊び方について"
+
+msgid "tutopict_0181_0001_title"
+msgstr "イベント報酬について"
+
+msgid "tutopict_0181_0002_title"
+msgstr "滅びの歌の影響について"
+
+msgid "tutopict_0181_0003_title"
+msgstr "歌姫イベントの遊び方について"
+
+msgid "tutopict_0181_0000_msg"
+msgstr "スペシャルライブでライブボーナス15倍が\n抽選される確率がアップしているわよ！\nアピールを上げるチャンスね！"
+
+msgid "tutopict_0181_0001_msg"
+msgstr "イベントに参加すると、ここでしか手に入らない\nエピソードプレートをGETすることができるわ。\nあなたもチャレンジしてみてね！"
+
+msgid "tutopict_0181_0002_msg"
+msgstr "対象楽曲では、滅びの歌の影響を受けてしまうわ。\n滅びの歌は毎回違う影響をもたらすから\n必ずチェックしてね！"
+
+msgid "tutopict_0181_0003_msg"
+msgstr "アピールが上がると歌姫のステータスも上昇するわ。\nイベント終了後も成長した能力は残り続けるわよ。"
+
+msgid "tutopict_0181_0004_msg"
+msgstr "スペシャルライブのスコアでランキングが決定するの。\nよりハイスコアを目指しましょう！"
+
+msgid "tutopict_0181_0005_msg"
+msgstr "スペシャルライブでランキング上位に入賞したり\nポイントを多く集めることでより良い報酬がもらえるわ。\nすべての報酬GETを目指しましょう！"
+
+msgid "tutopict_0181_0006_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0182_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0182_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0182_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0183_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0183_0000_msg"
+msgstr "複数のエピソードを編成して、より快適に報酬をGETよ！\nエピソードによってレアリティアップ後のボーナスが\nより高いものもあるから注意が必要ね。"
+
+msgid "tutopict_0183_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0184_0000_title"
+msgstr "対象エピソードの追加について"
+
+msgid "tutopict_0184_0000_msg"
+msgstr "対象のエピソードが追加されたわ。\n今まで以上にイベントポイントを増やすチャンスよ。"
+
+msgid "tutopict_0185_0000_title"
+msgstr "超銀河総力LIVEについて"
+
+msgid "tutopict_0185_0000_msg"
+msgstr "鳥の人が戦闘エリアに出現したわ！\nこれが最後の戦いになるわね。\n鳥の人の暴走を止めるために…全力でいくわよ！"
+
+msgid "tutopict_0185_0001_msg"
+msgstr "イベントの報酬でエピソードプレート交換券を\n大量にGETすることができるわ！\nたくさん集めて好きなプレートと交換してね。"
+
+msgid "tutopict_0185_0002_msg"
+msgstr "エピソードは各エピソードのプレートを1枚編成で、\nバルキリーと衣装は対象のものから1つ編成すると\nボーナスが発生するわ。"
+
+msgid "tutopict_0185_0003_msg"
+msgstr "フォールドレーダーで、乱れたフォールド波を感知して、\n暴走したエネミーを探すことができるの。\nたまに強力なエネミーが出ることもあるわ。"
+
+msgid "tutopict_0185_0004_msg"
+msgstr "歌レートを上げると\nより高いランクの暴走エネミーを索敵できるようになるわ。\n高ランクになると強くなるけど報酬が多くもらえるの。"
+
+msgid "tutopict_0185_0005_msg"
+msgstr "報酬は貢献の仕方によってもらえるものが増えるの。\nそれぞれ手に入るアイテムも違うから\n積極的に参加していろんな報酬を手に入れてね！"
+
+msgid "tutopict_0185_0006_msg"
+msgstr "索敵すると、低確率でEX暴走エネミーが見つかるわ。\nEX暴走エネミーは強敵だけど、無力化させると\nその分報酬もたくさんもらえるのよ！"
+
+msgid "tutopict_0185_0007_msg"
+msgstr "暴走エネミーにはそれぞれライブアピール達成で\nインパクト数に歌唱ボーナスが追加されるの。\n達成できそうな条件を選ぶのも一つの手ね。"
+
+msgid "tutopict_0186_0000_title"
+msgstr "行動選択について"
+
+msgid "tutopict_0186_0000_msg"
+msgstr "支援要請にすぐに応えてあげたいときは支援を、MVP狙いで\n一気にインパクトを与えるなら全力熱唱を選ぶといいわよ。"
+
+msgid "tutopict_0186_0001_msg"
+msgstr "自分で参戦したり、救援してもらうことで\nマクロスキャノンゲージが溜まっていくわ。"
+
+msgid "tutopict_0187_0000_title"
+msgstr "ボーナスについて"
+
+msgid "tutopict_0187_0000_msg"
+msgstr "暴走エネミーにはそれぞれライブアピール達成で\nインパクト数に歌唱ボーナスが追加されるの。\n達成できそうな条件で選ぶのも一つの手ね。"
+
+msgid "tutopict_0187_0001_msg"
+msgstr "全力で相手に伝えるなら全力熱唱、\nみんなのサポートをするなら支援を選ぶといいわよ。\n楽曲は切り替えて好きな楽曲で遊んでね。"
+
+msgid "tutopict_0187_0002_msg"
+msgstr "エピソードは各エピソードのプレートを1枚編成で、\nバルキリーと衣装は対象のものから1つ編成すると\nボーナスが発生するわ。"
+
+msgid "tutopict_0188_0000_title"
+msgstr "救援要請について"
+
+msgid "tutopict_0188_0000_msg"
+msgstr "暴走エネミーは無理に1人で無力化しなくていいの。\n仲間と協力して対応していけば問題ないわ。\nそのかわり、救援要請を受けたら助けてあげてね。"
+
+msgid "tutopict_0189_0000_title"
+msgstr "マクロスキャノンについて"
+
+msgid "tutopict_0189_0000_msg"
+msgstr "マクロスキャノンゲージが溜まると、\nマクロスキャノンで強いインパクトが与えられるわ。\nかなり強力だから、使う時はタイミングを見極めてね。"
+
+msgid "tutopict_0189_0001_msg"
+msgstr "マクロスキャノンの威力には\n持っているプレートから最大100枚が反映されるの。\n事前準備が重要になってくるわ。"
+
+msgid "tutopict_0190_0000_title"
+msgstr "報酬について"
+
+msgid "tutopict_0190_0000_msg"
+msgstr "イベントに参加すると、\n超銀河メダルやバルキリー強化アイテムが手に入るの。\n超銀河メダルは特別なプレートと交換できるわ！"
+
+msgid "tutopict_0190_0001_msg"
+msgstr "報酬は貢献の仕方によってもらえるものが増えるの。\nそれぞれ手に入るアイテムも違うから\n積極的に参加していろんな報酬を手に入れてね！"
+
+msgid "tutopict_0191_0000_title"
+msgstr "ブースト機能について"
+
+msgid "tutopict_0191_0000_msg"
+msgstr "まずは、チケットの消費枚数を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0192_0000_title"
+msgstr "ブースト機能について"
+
+msgid "tutopict_0192_0000_msg"
+msgstr "まずは、エナジーの消費量を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0193_0000_title"
+msgstr "ブースト機能について"
+
+msgid "tutopict_0193_0000_msg"
+msgstr "まずは、エナジーの消費量を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0194_0000_title"
+msgstr "歌マクロス　銀河新年☆娘々祭について"
+
+msgid "tutopict_0194_0000_msg"
+msgstr "今年の年末年始も期間限定の【娘々祭】が開催されるわ。\n【娘々祭】の目玉は【娘くじ☆】よ。"
+
+msgid "tutopict_0194_0001_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は歌晶石セットのおまけや\n娘々サービスミッションなどからもらえるの。"
+
+msgid "tutopict_0194_0002_msg"
+msgstr "1月1日から娘くじ☆を引くことができるわ。\n今のうちに娘くじ☆抽選券を集めちゃいましょう！"
+
+msgid "tutopict_0194_0003_msg"
+msgstr "超銀河メダル交換所、十二星座メダル交換所で登場した\n★6、★5プレートと交換できるチケットよ。\nレアリティによって必要な枚数が異なるから注意してね。"
+
+msgid "tutopict_0195_0000_title"
+msgstr "歌マクロス　銀河新年☆娘々祭について"
+
+msgid "tutopict_0195_0000_msg"
+msgstr "今年の年末年始も期間限定の【娘々祭】が開催されるわ。\n【娘々祭】の目玉は【娘くじ☆】よ。"
+
+msgid "tutopict_0195_0001_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は歌晶石セットのおまけや\n娘々サービスミッションなどからもらえるの。"
+
+msgid "tutopict_0195_0002_msg"
+msgstr "娘くじ☆抽選券1枚で1回引くことができるわ。\n2つめ以降のBOXにも★5プレートが入っているから\nプレミア化させることもできるわよ！"
+
+msgid "tutopict_0195_0003_msg"
+msgstr "超銀河メダル交換所、十二星座メダル交換所で登場した\n★6、★5プレートと交換できるチケットよ。\nレアリティによって必要な枚数が異なるから注意してね。"
+
+msgid "tutopict_0196_0000_title"
+msgstr "娘々サービスミッションの報酬について"
+
+msgid "tutopict_0196_0000_msg"
+msgstr "シェリルさんのパープルギャラクシーを\nすでに獲得している場合、衣装がもらえるミッションの\n報酬が娘くじ☆抽選券に変化しているわ。"
+
+msgid "tutopict_0197_0000_title"
+msgstr "歌マクロス　銀河新年☆娘々祭について"
+
+msgid "tutopict_0197_0000_msg"
+msgstr "今年の年末年始も期間限定の【娘々祭】が開催されるわ。\n【娘々祭】の目玉は【娘くじ☆】よ。"
+
+msgid "tutopict_0197_0001_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は歌晶石セットのおまけや\n娘々サービスミッションなどからもらえるの。"
+
+msgid "tutopict_0197_0002_msg"
+msgstr "超銀河メダル交換所、十二星座メダル交換所で登場した\n★6、★5プレートと交換できるチケットよ。\nレアリティによって必要な枚数が異なるから注意してね。"
+
+msgid "tutopict_0198_0000_title"
+msgstr "歌マクロス　銀河新年☆娘々祭について"
+
+msgid "tutopict_0198_0000_msg"
+msgstr "1月1日から娘くじ☆を引くことができるわ。\n今のうちに娘くじ☆抽選券を集めちゃいましょう！"
+
+msgid "tutopict_0199_0000_title"
+msgstr "歌マクロス　銀河新年☆娘々祭について"
+
+msgid "tutopict_0199_0000_msg"
+msgstr "娘くじ☆抽選券1枚で1回引くことができるわ。\n2つめ以降のBOXにも★5プレートが入っているから\nプレミア化させることもできるわよ！"
+
+msgid "tutopict_0200_0000_title"
+msgstr "娘くじ☆について"
+
+msgid "tutopict_0200_0000_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は歌晶石セットのおまけや\n娘々サービスミッションなどからもらえるの。"
+
+msgid "tutopict_0200_0001_msg"
+msgstr "1月1日から娘くじ☆を引くことができるわ。\n今のうちに娘くじ☆抽選券を集めちゃいましょう！"
+
+msgid "tutopict_0200_0002_msg"
+msgstr "超銀河メダル交換所、十二星座メダル交換所で登場した\n★6、★5プレートと交換できるチケットよ。\nレアリティによって必要な枚数が異なるから注意してね。"
+
+msgid "tutopict_0201_0000_title"
+msgstr "娘々サービスミッションⅡの報酬について"
+
+msgid "tutopict_0201_0000_msg"
+msgstr "シェリルさんのシュガーベリーベイビーを\nすでに獲得している場合、衣装がもらえるミッションの\n報酬が娘くじ☆抽選券に変化しているわ。"
+
+msgid "tutopict_0202_0000_title"
+msgstr "娘くじ☆について"
+
+msgid "tutopict_0202_0000_msg"
+msgstr "【娘くじ☆抽選券】で【娘くじ☆】を引くことができるわ。\n抽選券は歌晶石セットのおまけや\n娘々サービスミッションなどからもらえるの。"
+
+msgid "tutopict_0202_0001_msg"
+msgstr "娘くじ☆抽選券1枚で1回引くことができるわ。\n2つめ以降のBOXにも★5プレートが入っているから\nプレミア化させることもできるわよ！"
+
+msgid "tutopict_0202_0002_msg"
+msgstr "超銀河メダル交換所、十二星座メダル交換所で登場した\n★6、★5プレートと交換できるチケットよ。\nレアリティによって必要な枚数が異なるから注意してね。"
+
+msgid "tutopict_0203_0000_title"
+msgstr "歌マクロス 4th Anniversary 前夜祭について"
+
+msgid "tutopict_0203_0000_msg"
+msgstr "もうすぐ歌マクロスも4周年！\n今年も【前夜祭】を開催！4周年前夜祭も盛り上げるわよ！\n【前夜祭】の目玉は【前夜祭娘くじ☆】よ。"
+
+msgid "tutopict_0203_0001_msg"
+msgstr "今年の娘々祭でも2つの娘くじ☆が開催されるわ。\nそれぞれ【娘くじ☆抽選券】の入手期間と\n目玉報酬が違うから忘れずに確認してね。"
+
+msgid "tutopict_0203_0002_msg"
+msgstr "【2021年7月30日】までに手に入れた娘くじ☆抽選券は\n【前夜祭娘くじ☆抽選会場】で使用できるわ。\n入手期限に注意が必要ね。"
+
+msgid "tutopict_0203_0003_msg"
+msgstr "前夜祭娘くじ☆抽選券1枚で1回引くことができるわ。\n2つめ以降のBOXにも★5プレートが入っているから\nプレミア化させることもできるわよ！"
+
+msgid "tutopict_0203_0004_msg"
+msgstr "8月3日はいよいよ歌マクロス4周年！\n7月31日からはパワーアップした【娘々祭】が開催されるわ。\nワクワクするわね！"
+
+msgid "tutopict_0204_0000_title"
+msgstr "歌マクロス 4th Anniversary 娘々祭について"
+
+msgid "tutopict_0204_0000_msg"
+msgstr "ついに歌マクロス4周年！\nここまで応援してくれたみんなに感謝して\n今年も【娘くじ☆】が特別開催されるわ。"
+
+msgid "tutopict_0204_0001_msg"
+msgstr "今年の娘々祭でも2つの娘くじ☆が開催されるわ。\nそれぞれ【娘くじ☆抽選券】の入手期間と\n目玉報酬が違うから忘れずに確認してね。"
+
+msgid "tutopict_0204_0002_msg"
+msgstr "【2021年7月31日】以降に手に入れた娘くじ☆抽選券は\n【4周年娘くじ☆抽選会場】で使用できるわ。\n前夜祭娘くじ☆抽選会場も引き続き開催中よ！"
+
+msgid "tutopict_0204_0003_msg"
+msgstr "過去の娘くじ☆で登場したプレートと交換できる\n「歌マクSPメダル」が目玉アイテムよ！\n4周年娘くじ☆抽選券1枚で1回引くことができるわ。"
+
+msgid "tutopict_0205_0000_title"
+msgstr "娘くじ☆について"
+
+msgid "tutopict_0205_0000_msg"
+msgstr "今年の娘々祭でも2つの娘くじ☆が開催されるわ。\nそれぞれ【娘くじ☆抽選券】の入手期間と\n目玉報酬が違うから忘れずに確認してね。"
+
+msgid "tutopict_0205_0001_msg"
+msgstr "【2021年7月30日】までに手に入れた娘くじ☆抽選券は\n【前夜祭娘くじ☆抽選会場】で使用できるわ。\n入手期限に注意が必要ね。"
+
+msgid "tutopict_0205_0002_msg"
+msgstr "前夜祭娘くじ☆抽選券1枚で1回引くことができるわ。\n2つめ以降のBOXにも★5プレートが入っているから\nプレミア化させることもできるわよ！"
+
+msgid "tutopict_0206_0000_title"
+msgstr "娘くじ☆について"
+
+msgid "tutopict_0206_0000_msg"
+msgstr "今年の娘々祭でも2つの娘くじ☆が開催されるわ。\nそれぞれ【娘くじ☆抽選券】の入手期間と\n目玉報酬が違うから忘れずに確認してね。"
+
+msgid "tutopict_0206_0001_msg"
+msgstr "【2021年7月31日】以降に手に入れた娘くじ☆抽選券は\n【4周年娘くじ☆抽選会場】で使用できるわ。\n前夜祭娘くじ☆抽選会場も引き続き開催中よ！"
+
+msgid "tutopict_0206_0002_msg"
+msgstr "過去の娘くじ☆で登場したプレートと交換できる\n「歌マクSPメダル」が目玉アイテムよ！\n4周年娘くじ☆抽選券1枚で1回引くことができるわ。"
+
+msgid "tutopict_0207_0000_title"
+msgstr "イベントの遊び方について"
+
+msgid "tutopict_0207_0000_msg"
+msgstr "さぁ新年まであと少し！\n超時空カウントダウンライブの始まりよ！"
+
+msgid "tutopict_0207_0001_msg"
+msgstr "マクロスシリーズの楽曲が日替わりで変更されていくわ。\n楽曲ごとにドロップするプレートが違うから\n取り逃したイベント報酬プレートを入手するチャンスね！"
+
+msgid "tutopict_0207_0002_msg"
+msgstr "超時空LIVEチケットはレアアイテムノーツから\n出現するわよ。あと、チケットは1日1回\nプレゼントするからイベントホームで受け取ってね。"
+
+msgid "tutopict_0207_0003_msg"
+msgstr "イベントアイテムは、種類に応じてポイントに\n変換されるわ。\nたくさん集めて、ポイントをためていきましょう。"
+
+msgid "tutopict_0207_0004_msg"
+msgstr "今回は報酬として娘くじ☆抽選券がもらえるわ。\n新年に向けてはりきっていきましょう！"
+
+msgid "tutopict_0207_0005_msg"
+msgstr "同じエピソードのプレートを複数編成しても\n1エピソード分のボーナスしか得られないから注意してね。"
+
+msgid "tutopict_0207_0006_msg"
+msgstr "まずは、チケットの消費枚数を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0207_0007_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0207_0008_msg"
+msgstr "イベント楽曲ランキングではイベントスコアに\n注目してね！ランキングに応じて楽曲の称号がもらえるの。\n楽曲称号については達成報酬ボタンから確認できるわ。"
+
+msgid "tutopict_0208_0000_title"
+msgstr "イベントの遊び方について"
+
+msgid "tutopict_0208_0000_msg"
+msgstr "さぁ新年まであと少し！\n超時空カウントダウンライブの始まりよ！"
+
+msgid "tutopict_0208_0001_msg"
+msgstr "マクロスシリーズの楽曲が日替わりで変更されていくわ。\n楽曲ごとにドロップするプレートが違うから\n取り逃したイベント報酬プレートを入手するチャンスね！"
+
+msgid "tutopict_0208_0002_msg"
+msgstr "超時空LIVEチケットはレアアイテムノーツから\n出現するわよ。あと、チケットは1日1回\nプレゼントするからイベントホームで受け取ってね。"
+
+msgid "tutopict_0208_0003_msg"
+msgstr "イベントアイテムは、種類に応じてポイントに\n変換されるわ。\nたくさん集めて、ポイントをためていきましょう。"
+
+msgid "tutopict_0208_0004_msg"
+msgstr "今回は報酬として娘くじ☆抽選券がもらえるわ。\n新年に向けてはりきっていきましょう！"
+
+msgid "tutopict_0208_0005_msg"
+msgstr "イベントミッションを達成すると\n十二星座メダルを獲得できるの。\nメダルが集まったら交換所でアイテムと交換よ！"
+
+msgid "tutopict_0208_0006_msg"
+msgstr "イベント楽曲ランキングではイベントスコアに\n注目してね！ランキングに応じて楽曲の称号がもらえるの。\n楽曲称号については達成報酬ボタンから確認できるわ。"
+
+msgid "tutopict_0209_0000_title"
+msgstr "エピソードボーナスについて"
+
+msgid "tutopict_0209_0000_msg"
+msgstr "同じエピソードのプレートを複数編成しても\n1エピソード分のボーナスしか得られないから注意してね。"
+
+msgid "tutopict_0209_0001_msg"
+msgstr "プレート選択時には\nエピソードボーナスの対象となっているプレートのみを表示\nすることができるわ。"
+
+msgid "tutopict_0210_0000_title"
+msgstr "ブースト機能について"
+
+msgid "tutopict_0210_0000_msg"
+msgstr "まずは、チケットの消費枚数を選択しましょう！\n選択した倍率に応じてもらえるポイントが増えるわよ。\nうまく利用して、イベントの攻略に役立てましょうね！"
+
+msgid "tutopict_0211_0000_title"
+msgstr "アシストプレートについて"
+
+msgid "tutopict_0211_0000_msg"
+msgstr "アシストプレートはステータスとセンタースキルで\nユニットを強くしてくれるわ。"
+
+msgid "tutopict_0212_0000_title"
+msgstr "ユニットセットについて"
+
+msgid "tutopict_0212_0000_msg"
+msgstr "目的に合わせていろんなユニットを\n組んでみましょう！"
+
+msgid "tutopict_0212_0001_msg"
+msgstr "【ユニットセット】は属性別、スコア重視、\nライフ重視など、目的別に保存しておくと便利よ。"
+
+msgid "tutopict_0213_0000_title"
+msgstr "スキルについて"
+
+msgid "tutopict_0213_0000_msg"
+msgstr "センタースキル、アクティブスキル、ライブスキル\nそれぞれに特徴があるの。"
+
+msgid "tutopict_0213_0001_msg"
+msgstr "メインプレートはアクティブスキルとセンタースキル、\nサブプレートはライブスキルを発動できるわ。\n3つのスキルを組み合わせてライブを有利にしましょう！"
+
+msgid "tutopict_0213_0002_msg"
+msgstr "ライブスキルはエピソードプレートと\n歌姫の相性によって発動するかどうかが決まるわ。\n青いマイクアイコンが目印よ。"
+
+msgid "tutopict_0214_0000_title"
+msgstr "歌姫の編成について"
+
+msgid "tutopict_0214_0000_msg"
+msgstr "新たな歌姫が【ユニット】に参加できるようになったわ。\nユニット編成で参加させてみましょう！"
+
+msgid "tutopict_0215_0000_title"
+msgstr "楽曲の属性について"
+
+msgid "tutopict_0215_0000_msg"
+msgstr "エピソードプレートと楽曲の属性が同じときは\n属性ボーナスが発生するわよ。"
+
+msgid "tutopict_0215_0001_msg"
+msgstr "狙いたい結晶があるときは楽曲属性を意識してみてね。\n例えば愛属性の楽曲なら愛の結晶が手に入れやすいわ。"
+
+msgid "tutopict_0216_0000_title"
+msgstr "ハイスコアを取るには"
+
+msgid "tutopict_0216_0000_msg"
+msgstr "最大3人の歌姫がユニットに参加できるわ！\nライブに登場させたい歌姫をセンターにしてね。"
+
+msgid "tutopict_0217_0000_title"
+msgstr "生体フォールド波をためるには"
+
+msgid "tutopict_0217_0000_msg"
+msgstr "【生体フォールド波】はユニットの【フォールド波】の\n値が高いほどたまりやすくなるわ。"
+
+msgid "tutopict_0218_0000_title"
+msgstr "バルキリーモードで敵を倒すには"
+
+msgid "tutopict_0218_0000_msg"
+msgstr "【サポート】の値を上げてパイロットの能力を\n引き出すことで、敵を倒しやすくなるわ。\n歌姫とパイロットは持ちつ持たれつの関係ね。"
+
+msgid "tutopict_0219_0000_title"
+msgstr "シミュレーションライブの遊び方"
+
+msgid "tutopict_0219_0000_msg"
+msgstr "シミュレーションライブ中に登場する\n歌姫、衣装、バルキリーを楽曲ごとに設定できるわ。"
+
+msgid "tutopict_0219_0001_msg"
+msgstr "難易度に合わせたノーツタップ音が鳴るから\nPERFECTなタップタイミングが確認できるの。"
+
+msgid "tutopict_0220_0000_title"
+msgstr "超時空プリズムについて"
+
+msgid "tutopict_0220_0000_msg"
+msgstr "【超時空プリズム】が解放されたわ！\n楽曲ごとにライブ中の見た目だけを変更できるの。"
+
+msgid "tutopict_0221_0000_title"
+msgstr "ライブを成功させるには"
+
+msgid "tutopict_0221_0000_msg"
+msgstr "【ライフ】の値が高いとライブが失敗しにくくなるわ。\n【ライフ回復】のアクティブスキルを\n使うのも効果的ね！"
+
+msgid "tutopict_0222_0000_title"
+msgstr "ユニットライブについて"
+
+msgid "tutopict_0222_0000_msg"
+msgstr "【ユニットライブ】は2人以上でのライブのことよ。\nユニットライブを選んでいる場合、\nユニット編成にアイコンが表示されるわ。"
+
+msgid "tutopict_0223_0000_title"
+msgstr "衣装強化について"
+
+msgid "tutopict_0223_0000_msg"
+msgstr "特定の衣装を手に入れた後、\nその衣装をさらに強化することができるようになったわ！"
+
+msgid "tutopict_0223_0001_msg"
+msgstr "オペレーションで手に入る【クロースストーン】を使って\n【解放値】を上げると衣装の【きゃわわランク】がアップ！\nランクをどんどん上げて報酬を手に入れましょう！"
+
+msgid "tutopict_0223_0002_msg"
+msgstr "報酬には【支援プレート枠】や歌姫のステータスアップが\nあるの。ユニットに追加でプレートをセットできる\n【支援プレート枠】は、さらなるユニット強化に繋がるわ！"
+
+msgid "tutopict_0224_0000_title"
+msgstr "支援プレートについて"
+
+msgid "tutopict_0224_0000_msg"
+msgstr "【支援プレート】には、編成していないプレートの\n中から一番効果のあるものが自動でセットされるわ。\nいろんなプレートを育てていきましょう！"
+
+msgid "tutopict_0224_0001_msg"
+msgstr "【支援プレート】 にセットされているプレートの\n能力の一部がユニットに上乗せされて\nハイスコアが狙いやすくなるのよ！"
+
+msgid "tutopict_0225_0000_title"
+msgstr "スコア予測ゲージについて"
+
+msgid "tutopict_0225_0000_msg"
+msgstr "現在の設定でプレイしたときのスコア予測ゲージが\n表示されるわ。\n参考にしながらユニットを編成してみてね。"
+
+msgid "tutopict_0226_0000_title"
+msgstr "ライブスキップについて"
+
+msgid "tutopict_0226_0000_msg"
+msgstr "リズムゲームをスキップすることでドロップアイテムや\nイベント報酬が集めやすくなるわよ。"
+
+msgid "tutopict_0226_0001_msg"
+msgstr "スコアランクSSを取得した楽曲であれば\n各イベントでもスキップすることができるわよ。\nこれでよりイベントポイントを入手しやすくなるわね。"
+
+msgid "tutopict_0227_0000_title"
+msgstr "アシスト編成について"
+
+msgid "tutopict_0227_0000_msg"
+msgstr "自分がアシスト設定したプレートが\n他のプレイヤーのアシスト選択時に\n表示されるようになったわ。"
+
+msgid "tutopict_0228_0000_title"
+msgstr "ライブを成功させるには"
+
+msgid "tutopict_0228_0000_msg"
+msgstr "【ライフ】の値が高いとライブが失敗しにくくなるわ。\n【ライフ回復】のアクティブスキルを\n使うのも効果的ね！"
+
+msgid "tutopict_0229_0000_title"
+msgstr "アシストプレートについて"
+
+msgid "tutopict_0229_0000_msg"
+msgstr "アシストプレートはステータスとセンタースキルで\nユニットを強くしてくれるわ。"
+
+msgid "tutopict_0230_0000_title"
+msgstr "ユニット編成について"
+
+msgid "tutopict_0230_0000_msg"
+msgstr "最大3人の歌姫がユニットに参加できるわ！\nライブに登場させたい歌姫をセンターにしてね。"
+
+msgid "tutopict_0231_0000_title"
+msgstr "ステータスについて"
+
+msgid "tutopict_0231_0000_msg"
+msgstr "【TOTAL】は【ソウル】【ボイス】【チャーム】の\n合計値なの。ハイスコアでライブを成功させたいときは、\n【TOTAL】を意識してみてね。"
+
+msgid "tutopict_0231_0001_msg"
+msgstr "【生体フォールド波】はユニットの【フォールド波】の\n値が高いほどたまりやすくなるわ。"
+
+msgid "tutopict_0231_0002_msg"
+msgstr "【サポート】の値を上げてパイロットの能力を\n引き出すことで、敵を倒しやすくなるわ。"
+
+msgid "tutopict_0231_0003_msg"
+msgstr "【LUCK】が高くなるほど\nレアアイテムが入手しやすくなるわ。"
+
+msgid "tutopict_0232_0000_title"
+msgstr "スキルについて"
+
+msgid "tutopict_0232_0000_msg"
+msgstr "センタースキル、アクティブスキル、ライブスキル\nそれぞれに特徴があるの。"
+
+msgid "tutopict_0232_0001_msg"
+msgstr "メインプレートはアクティブスキルとセンタースキル、\nサブプレートはライブスキルを発動できるわ。\n3つのスキルを組み合わせてライブを有利にしましょう！"
+
+msgid "tutopict_0232_0002_msg"
+msgstr "ライブスキルはエピソードプレートと\n歌姫の相性によって発動するかどうかが決まるわ。\n青いマイクアイコンが目印よ。"
+
+msgid "tutopict_0233_0000_title"
+msgstr "楽曲の属性について"
+
+msgid "tutopict_0233_0000_msg"
+msgstr "エピソードプレートと楽曲の属性が同じときは\n属性ボーナスが発生するわよ。"
+
+msgid "tutopict_0233_0001_msg"
+msgstr "狙いたい結晶があるときは楽曲属性を意識してみてね。\n例えば愛属性の楽曲なら愛の結晶が手に入れやすいわ。"
+
+msgid "tutopict_0234_0000_title"
+msgstr "ユニットセットについて"
+
+msgid "tutopict_0234_0000_msg"
+msgstr "目的に合わせていろんなユニットを\n組んでみましょう！"
+
+msgid "tutopict_0234_0001_msg"
+msgstr "【ユニットセット】は属性別、スコア重視、\nライフ重視など、目的別に保存しておくと便利よ。"
+
+msgid "tutopict_0235_0000_title"
+msgstr "超時空プリズムについて"
+
+msgid "tutopict_0235_0000_msg"
+msgstr "【超時空プリズム】を有効にすると\n楽曲ごとにライブ中の見た目だけを変更できるの。"
+
+msgid "tutopict_0236_0000_title"
+msgstr "ライブスキップについて"
+
+msgid "tutopict_0236_0000_msg"
+msgstr "リズムゲームをスキップすることでドロップアイテムや\nイベント報酬が集めやすくなるわよ。"
+
+msgid "tutopict_0236_0001_msg"
+msgstr "スコアランクSSを取得した楽曲であれば\n各イベントでもスキップすることができるわよ。\nこれでよりイベントポイントを入手しやすくなるわね。"
+
+msgid "tutopict_0237_0000_title"
+msgstr "アシスト編成について"
+
+msgid "tutopict_0237_0000_msg"
+msgstr "自分がアシスト設定したプレートが\n他のプレイヤーのアシスト選択時に\n表示されるようになったわ。"
+

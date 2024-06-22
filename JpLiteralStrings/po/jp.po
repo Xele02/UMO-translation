@@ -1,0 +1,2007 @@
+msgid ""
+msgstr ""
+
+msgid "StringLiteral_367"
+msgstr " "
+
+msgid "StringLiteral_1374"
+msgstr "年"
+
+msgid "StringLiteral_1376"
+msgstr "月"
+
+msgid "StringLiteral_1378"
+msgstr "日"
+
+msgid "StringLiteral_5812"
+msgstr "\n"
+
+msgid "StringLiteral_8278"
+msgstr "既に初期化済みです。再初期化を行う場合は、Terminateを呼ぶ必要があります。"
+
+msgid "StringLiteral_8280"
+msgstr "初期化されていません。"
+
+msgid "StringLiteral_8676"
+msgstr "ベース★3以下のカードでリーフ枚数が0でない"
+
+msgid "StringLiteral_8686"
+msgstr "なし"
+
+msgid "StringLiteral_9360"
+msgstr "ロビーメイン"
+
+msgid "StringLiteral_9362"
+msgstr "ロビーバトルログ"
+
+msgid "StringLiteral_9364"
+msgstr "ロビー攻略"
+
+msgid "StringLiteral_9366"
+msgstr "デコチャット"
+
+msgid "StringLiteral_9368"
+msgstr "協力ミッション"
+
+msgid "StringLiteral_9370"
+msgstr "未知のタイプ"
+
+msgid "StringLiteral_9477"
+msgstr "ボス名"
+
+msgid "StringLiteral_9528"
+msgstr "想定していない人数が入っています　id:"
+
+msgid "StringLiteral_9555"
+msgstr "event_quest"
+
+msgid "StringLiteral_9630"
+msgstr "から新しいメッセージがあります。"
+
+msgid "StringLiteral_9714"
+msgstr "第"
+
+msgid "StringLiteral_9715"
+msgstr "話"
+
+msgid "StringLiteral_9767"
+msgstr "超時空ユニット"
+
+msgid "StringLiteral_9768"
+msgstr "エピソード達成報酬"
+
+msgid "StringLiteral_9769"
+msgstr "くりかえしエピソード解放報酬達成！"
+
+msgid "StringLiteral_9771"
+msgstr "デイリーミッション達成報酬"
+
+msgid "StringLiteral_9773"
+msgstr "SNSミッション達成報酬"
+
+msgid "StringLiteral_9774"
+msgstr "デビューミッション達成報酬"
+
+msgid "StringLiteral_9775"
+msgstr "ノーマルミッション達成報酬"
+
+msgid "StringLiteral_9777"
+msgstr "イベントミッション達成報酬"
+
+msgid "StringLiteral_9787"
+msgstr "<color=yellow>期間限定エナジーアイテムの削除</color>"
+
+msgid "StringLiteral_9788"
+msgstr "<color=pink>ログイン日数="
+
+msgid "StringLiteral_9793"
+msgstr "エナジー"
+
+msgid "StringLiteral_9794"
+msgstr "スタミナ"
+
+msgid "StringLiteral_9796"
+msgstr "コンテニュー"
+
+msgid "StringLiteral_9797"
+msgstr "VOP高速完了"
+
+msgid "StringLiteral_9798"
+msgstr "AP回復"
+
+msgid "StringLiteral_9799"
+msgstr "コンテニュー:"
+
+msgid "StringLiteral_9806"
+msgstr "プレイヤー"
+
+msgid "StringLiteral_9807"
+msgstr "よろしくおねがいします"
+
+msgid "StringLiteral_9829"
+msgstr "デコルーム"
+
+msgid "StringLiteral_9874"
+msgstr "未取得"
+
+msgid "StringLiteral_9949"
+msgstr "★{0}1枚確定"
+
+msgid "StringLiteral_9950"
+msgstr "★{0}以上1枚確定"
+
+msgid "StringLiteral_10040"
+msgstr "お気に入り1"
+
+msgid "StringLiteral_10041"
+msgstr "お気に入り2"
+
+msgid "StringLiteral_10042"
+msgstr "お気に入り3"
+
+msgid "StringLiteral_10058"
+msgstr "無効 VcItemSceduleInfo id="
+
+msgid "StringLiteral_10062"
+msgstr "期間内 VcItemSceduleInfo id="
+
+msgid "StringLiteral_10064"
+msgstr "商品件数 = "
+
+msgid "StringLiteral_10065"
+msgstr "期間外 VcItemSceduleInfo id="
+
+msgid "StringLiteral_10089"
+msgstr "個"
+
+msgid "StringLiteral_10090"
+msgstr "枚"
+
+msgid "StringLiteral_10093"
+msgstr "機"
+
+msgid "StringLiteral_10094"
+msgstr "人"
+
+msgid "StringLiteral_10095"
+msgstr "セット"
+
+msgid "StringLiteral_10096"
+msgstr "体"
+
+msgid "StringLiteral_10136"
+msgstr "定義なし"
+
+msgid "StringLiteral_10137"
+msgstr "歌晶石"
+
+msgid "StringLiteral_10138"
+msgstr "ガチャチケット"
+
+msgid "StringLiteral_10139"
+msgstr "エピソードプレート"
+
+msgid "StringLiteral_10140"
+msgstr "衣装"
+
+msgid "StringLiteral_10141"
+msgstr "ヴァルキリー"
+
+msgid "StringLiteral_10142"
+msgstr "解放アイテム"
+
+msgid "StringLiteral_10143"
+msgstr "エピソードオーブ"
+
+msgid "StringLiteral_10144"
+msgstr "称号"
+
+msgid "StringLiteral_10145"
+msgstr "イベントアイテム"
+
+msgid "StringLiteral_10146"
+msgstr "イベントチケット"
+
+msgid "StringLiteral_10147"
+msgstr "歌姫"
+
+msgid "StringLiteral_10148"
+msgstr "セットアイテム"
+
+msgid "StringLiteral_10149"
+msgstr "SNSアイテム"
+
+msgid "StringLiteral_10150"
+msgstr "エナジー回復アイテム"
+
+msgid "StringLiteral_10151"
+msgstr "MVチケット"
+
+msgid "StringLiteral_10152"
+msgstr "メダル"
+
+msgid "StringLiteral_10153"
+msgstr "おまけVC"
+
+msgid "StringLiteral_10154"
+msgstr "イベントガチャチケット"
+
+msgid "StringLiteral_10155"
+msgstr "プレゼントアイテム"
+
+msgid "StringLiteral_10156"
+msgstr "特殊アイテム"
+
+msgid "StringLiteral_10157"
+msgstr "衣装強化アイテム"
+
+msgid "StringLiteral_10158"
+msgstr "レアリティアップアイテム"
+
+msgid "StringLiteral_10159"
+msgstr "期間限定アイテム"
+
+msgid "StringLiteral_10160"
+msgstr "補填用アイテム"
+
+msgid "StringLiteral_10161"
+msgstr "デコアイテム背景"
+
+msgid "StringLiteral_10162"
+msgstr "デコアイテムオブジェ"
+
+msgid "StringLiteral_10163"
+msgstr "デコアイテムちびキャラ"
+
+msgid "StringLiteral_10164"
+msgstr "スタンプアイテムセリフ"
+
+msgid "StringLiteral_10165"
+msgstr "デコアイテム特殊オブジェ"
+
+msgid "StringLiteral_10166"
+msgstr "バルキリー強化アイテム"
+
+msgid "StringLiteral_10167"
+msgstr "不使用のため欠番"
+
+msgid "StringLiteral_10168"
+msgstr "デコアイテムポスター"
+
+msgid "StringLiteral_10169"
+msgstr "デコアイテムポスター(シーン進化前)"
+
+msgid "StringLiteral_10170"
+msgstr "デコアイテムポスター(シーン進化後)"
+
+msgid "StringLiteral_10171"
+msgstr "レイドアイテム"
+
+msgid "StringLiteral_10172"
+msgstr "スタンプアイテムキャラ"
+
+msgid "StringLiteral_10173"
+msgstr "デコセットアイテム"
+
+msgid "StringLiteral_10174"
+msgstr "デコアイテムバルキリーフィギュア"
+
+msgid "StringLiteral_10175"
+msgstr "デコアイテム衣装トルソー"
+
+msgid "StringLiteral_10176"
+msgstr "期限有無アイテム"
+
+msgid "StringLiteral_10177"
+msgstr "ホーム背景"
+
+msgid "StringLiteral_10178"
+msgstr "ガチャ天井アイテム"
+
+msgid "StringLiteral_10282"
+msgstr "AP全回復"
+
+msgid "StringLiteral_10294"
+msgstr "超時空SNS"
+
+msgid "StringLiteral_10298"
+msgstr "ログボを受け取ろう！"
+
+msgid "StringLiteral_10299"
+msgstr "歌晶石100個を2日目ログボでプレゼント！今すぐログインしよう！"
+
+msgid "StringLiteral_10303"
+msgstr "歌晶石セール開催中！"
+
+msgid "StringLiteral_10304"
+msgstr "今だけのごりっごりお得な歌晶石セット。もうすぐ買えなくなっちゃうんよ！"
+
+msgid "StringLiteral_10309"
+msgstr "エナジー回復"
+
+msgid "StringLiteral_10310"
+msgstr "エナジーが全回復しました！"
+
+msgid "StringLiteral_10314"
+msgstr "？？？"
+
+msgid "StringLiteral_10338"
+msgstr "購入上限数を超えている"
+
+msgid "StringLiteral_10339"
+msgstr "所持数が足りない"
+
+msgid "StringLiteral_10340"
+msgstr "Sakashoの商品がない"
+
+msgid "StringLiteral_10345"
+msgstr "イベント クエストID="
+
+msgid "StringLiteral_10346"
+msgstr "LinkError : 自分自身のIDをリンクIDに指定している"
+
+msgid "StringLiteral_10416"
+msgstr "<color=pink>最高スコア更新 "
+
+msgid "StringLiteral_10431"
+msgstr "デビューガチャ"
+
+msgid "StringLiteral_10443"
+msgstr "プレート"
+
+msgid "StringLiteral_11015"
+msgstr "master_gacha_ticket.xlsxにデカルガチャチケットの設定がありません"
+
+msgid "StringLiteral_11062"
+msgstr "ライフ"
+
+msgid "StringLiteral_11063"
+msgstr "ソウル"
+
+msgid "StringLiteral_11064"
+msgstr "ボイス"
+
+msgid "StringLiteral_11065"
+msgstr "チャーム"
+
+msgid "StringLiteral_11066"
+msgstr "Cスキル"
+
+msgid "StringLiteral_11067"
+msgstr "Aスキル"
+
+msgid "StringLiteral_11068"
+msgstr "Lスキル"
+
+msgid "StringLiteral_11069"
+msgstr "サポート"
+
+msgid "StringLiteral_11070"
+msgstr "生体F"
+
+msgid "StringLiteral_11071"
+msgstr "レア上昇"
+
+msgid "StringLiteral_11072"
+msgstr "ノーツ期待値"
+
+msgid "StringLiteral_11073"
+msgstr "その他1"
+
+msgid "StringLiteral_11074"
+msgstr "その他2"
+
+msgid "StringLiteral_11075"
+msgstr "その他3"
+
+msgid "StringLiteral_11076"
+msgstr "その他4"
+
+msgid "StringLiteral_11077"
+msgstr "その他5"
+
+msgid "StringLiteral_11078"
+msgstr "開始"
+
+msgid "StringLiteral_11079"
+msgstr "エピソード"
+
+msgid "StringLiteral_11081"
+msgstr "無限"
+
+msgid "StringLiteral_11082"
+msgstr "ストーリー"
+
+msgid "StringLiteral_11083"
+msgstr "あと"
+
+msgid "StringLiteral_11085"
+msgstr "MAX"
+
+msgid "StringLiteral_11086"
+msgstr "SHOP 購入開始 label="
+
+msgid "StringLiteral_11088"
+msgstr "SHOP 指定したラベルの商品が見つからない label="
+
+msgid "StringLiteral_11089"
+msgstr "SHOP 商品の期限切れ label="
+
+msgid "StringLiteral_11090"
+msgstr "SHOP 通信エラー発生 label="
+
+msgid "StringLiteral_11115"
+msgstr "★５1枚確定"
+
+msgid "StringLiteral_11117"
+msgstr "デカルガチャ"
+
+msgid "StringLiteral_11118"
+msgstr "★４以上1枚確定"
+
+msgid "StringLiteral_11128"
+msgstr "初心者"
+
+msgid "StringLiteral_11129"
+msgstr "割引"
+
+msgid "StringLiteral_11130"
+msgstr "通常"
+
+msgid "StringLiteral_11136"
+msgstr "3D標準"
+
+msgid "StringLiteral_11137"
+msgstr "3D軽量"
+
+msgid "StringLiteral_11139"
+msgstr "カスタム"
+
+msgid "StringLiteral_11163"
+msgstr "それ以外"
+
+msgid "StringLiteral_11164"
+msgstr "フルコンボ"
+
+msgid "StringLiteral_11165"
+msgstr "パーフェクトフルコンボ"
+
+msgid "StringLiteral_11167"
+msgstr "入らず"
+
+msgid "StringLiteral_11168"
+msgstr "バルキリーモード"
+
+msgid "StringLiteral_11170"
+msgstr "歌姫モード"
+
+msgid "StringLiteral_11171"
+msgstr "超歌姫モード"
+
+msgid "StringLiteral_11173"
+msgstr "使わなかった"
+
+msgid "StringLiteral_11174"
+msgstr "使用した"
+
+msgid "StringLiteral_11428"
+msgstr "支援攻撃"
+
+msgid "StringLiteral_11429"
+msgstr "全力攻撃"
+
+msgid "StringLiteral_11430"
+msgstr "マクロスキャノン"
+
+msgid "StringLiteral_11431"
+msgstr "通常攻撃"
+
+msgid "StringLiteral_11476"
+msgstr "登録"
+
+msgid "StringLiteral_11477"
+msgstr "解除"
+
+msgid "StringLiteral_11776"
+msgstr "情報"
+
+msgid "StringLiteral_11781"
+msgstr "新しいバージョン検知 mver= "
+
+msgid "StringLiteral_11855"
+msgstr "Install : Start reception. / バッチインストーラ　開始受付  status = {0}"
+
+msgid "StringLiteral_11856"
+msgstr "Install : Accept debut reception / バッチインストーラ　開始受付受理"
+
+msgid "StringLiteral_11857"
+msgstr "Install : Stop / バッチインストーラ　停止受付  status = {0}"
+
+msgid "StringLiteral_11858"
+msgstr "Install : Interruption / バッチインストーラ　停止受付受理"
+
+msgid "StringLiteral_11859"
+msgstr "Install : Done/ バッチインストーラ　停止完了"
+
+msgid "StringLiteral_11860"
+msgstr "Install : Waiting / バッチインストーラ　停止待ち {0}"
+
+msgid "StringLiteral_11861"
+msgstr "Install : non-stop module waiver/ バッチインストーラ　不停止モジュール放棄"
+
+msgid "StringLiteral_11862"
+msgstr "Install : Number of installed modules that did not complete the shutdown process/ バッチインストーラ　停止処理が完了しなかったインストールモジュール数 {0}"
+
+msgid "StringLiteral_11863"
+msgstr "Install : Generate installation modules for abandonment/ バッチインストーラ　放棄した分、インストールモジュールを生成 {0}"
+
+msgid "StringLiteral_11865"
+msgstr "Install : Batch Installer Number of modules installed Active:{0} Waiting:{1}/ バッチインストーラ　インストールモジュール数　稼働中:{0}　待機中:{1}"
+
+msgid "StringLiteral_11845"
+msgstr "火"
+
+msgid "StringLiteral_11846"
+msgstr "水"
+
+msgid "StringLiteral_11847"
+msgstr "木"
+
+msgid "StringLiteral_11848"
+msgstr "金"
+
+msgid "StringLiteral_11849"
+msgstr "土"
+
+msgid "StringLiteral_11911"
+msgstr "クライアントエラー"
+
+msgid "StringLiteral_11912"
+msgstr "フレンド申請済み"
+
+msgid "StringLiteral_11913"
+msgstr "フレンド上限"
+
+msgid "StringLiteral_11914"
+msgstr "フレンド確認"
+
+msgid "StringLiteral_11915"
+msgstr "検索失敗"
+
+msgid "StringLiteral_11916"
+msgstr "連携失敗"
+
+msgid "StringLiteral_11917"
+msgstr "申請失敗"
+
+msgid "StringLiteral_11918"
+msgstr "通信エラー"
+
+msgid "StringLiteral_11920"
+msgstr "\n\nエラーコード : "
+
+msgid "StringLiteral_11921"
+msgstr "データ更新"
+
+msgid "StringLiteral_11922"
+msgstr "日付変更"
+
+msgid "StringLiteral_11923"
+msgstr "日付が変わりました。"
+
+msgid "StringLiteral_11927"
+msgstr "ストレージエラー"
+
+msgid "StringLiteral_11928"
+msgstr "ファイルのダウンロードに失敗しました。\nストレージに十分な空き容量がない場合に\nこのメッセージが表示される可能性があります。\nリトライしますか？"
+
+msgid "StringLiteral_11929"
+msgstr "ダウンロードエラー"
+
+msgid "StringLiteral_11930"
+msgstr "ファイルのダウンロードに失敗しました。\nインターネットへの接続や電波の状況を確認して、\nもう一度お試しください。"
+
+msgid "StringLiteral_11955"
+msgstr "通信がタイムアウトしました。リトライしますか？\nキャンセルした場合はタイトル画面に戻ります。"
+
+msgid "StringLiteral_11956"
+msgstr "通信がタイムアウトしました。\nタイトル画面に戻ります。"
+
+msgid "StringLiteral_11962"
+msgstr "エラー"
+
+msgid "StringLiteral_11972"
+msgstr "内部エラー"
+
+msgid "StringLiteral_11973"
+msgstr "エラーが発生しました。\nタイトル画面に戻ります。"
+
+msgid "StringLiteral_11992"
+msgstr "バッチインストーラ　インストールモジュール作成失敗"
+
+msgid "StringLiteral_12004"
+msgstr "プレゼント"
+
+msgid "StringLiteral_12005"
+msgstr "タッチ"
+
+msgid "StringLiteral_12010"
+msgstr "コスチューム名"
+
+msgid "StringLiteral_12037"
+msgstr "　"
+
+msgid "StringLiteral_12038"
+msgstr "…"
+
+msgid "StringLiteral_12097"
+msgstr " (歌マクロス"
+
+msgid "StringLiteral_12139"
+msgstr "オペレーション完了"
+
+msgid "StringLiteral_12141"
+msgstr "小隊"
+
+msgid "StringLiteral_12148"
+msgstr "Ⅰ"
+
+msgid "StringLiteral_12149"
+msgstr "Ⅱ"
+
+msgid "StringLiteral_12150"
+msgstr "Ⅲ"
+
+msgid "StringLiteral_12151"
+msgstr "Ⅳ"
+
+msgid "StringLiteral_12152"
+msgstr "Ⅴ"
+
+msgid "StringLiteral_12215"
+msgstr "ロック解除条件"
+
+msgid "StringLiteral_12223"
+msgstr "<color=red>楽曲削除="
+
+msgid "StringLiteral_12297"
+msgstr "アップ"
+
+msgid "StringLiteral_12298"
+msgstr "獲得 "
+
+msgid "StringLiteral_12300"
+msgstr "アップ "
+
+msgid "StringLiteral_12326"
+msgstr "おまけ付初心者セット"
+
+msgid "StringLiteral_12327"
+msgstr "お得セットA"
+
+msgid "StringLiteral_12328"
+msgstr "お得セットB"
+
+msgid "StringLiteral_12329"
+msgstr "歌晶石セットA"
+
+msgid "StringLiteral_12330"
+msgstr "歌晶石セットB"
+
+msgid "StringLiteral_12331"
+msgstr "歌晶石セットC"
+
+msgid "StringLiteral_12332"
+msgstr "歌晶石セットD"
+
+msgid "StringLiteral_12333"
+msgstr "歌晶石セットE"
+
+msgid "StringLiteral_12334"
+msgstr "歌晶石セットF"
+
+msgid "StringLiteral_12335"
+msgstr "歌晶石セットG"
+
+msgid "StringLiteral_12459"
+msgstr "通信がタイムアウトしました。"
+
+msgid "StringLiteral_12462"
+msgstr "エラーが発生しました。\n\n(エラーコード : {0})"
+
+msgid "StringLiteral_12526"
+msgstr "汎用"
+
+msgid "StringLiteral_12528"
+msgstr "専用"
+
+msgid "StringLiteral_12532"
+msgstr "GPGSログインボタンを表示"
+
+msgid "StringLiteral_12533"
+msgstr "GPGSログインボタンを表示しない"
+
+msgid "StringLiteral_12534"
+msgstr "GPGSセーブデータが存在しない"
+
+msgid "StringLiteral_12540"
+msgstr "ログイン継続"
+
+msgid "StringLiteral_12541"
+msgstr "ログアウトされた"
+
+msgid "StringLiteral_12573"
+msgstr "GPGSログイン成功"
+
+msgid "StringLiteral_12574"
+msgstr "GPGSログイン失敗"
+
+msgid "StringLiteral_12619"
+msgstr "no data"
+
+msgid "StringLiteral_12640"
+msgstr "<color=cyan>ローカルセーブデータ再作成</color>"
+
+msgid "StringLiteral_12692"
+msgstr "エナジー全回復"
+
+msgid "StringLiteral_12693"
+msgstr "お知らせ"
+
+msgid "StringLiteral_12695"
+msgstr "デコルチャーモード"
+
+msgid "StringLiteral_12696"
+msgstr "期限付きアイテム"
+
+msgid "StringLiteral_12839"
+msgstr "プロローグ開始"
+
+msgid "StringLiteral_12840"
+msgstr "アセットDL 0%"
+
+msgid "StringLiteral_12841"
+msgstr "アセットDL 10%"
+
+msgid "StringLiteral_12842"
+msgstr "アセットDL 20%"
+
+msgid "StringLiteral_12843"
+msgstr "アセットDL 30%"
+
+msgid "StringLiteral_12844"
+msgstr "アセットDL 40%"
+
+msgid "StringLiteral_12845"
+msgstr "アセットDL 50%"
+
+msgid "StringLiteral_12846"
+msgstr "アセットDL 60%"
+
+msgid "StringLiteral_12847"
+msgstr "アセットDL 70%"
+
+msgid "StringLiteral_12848"
+msgstr "アセットDL 80%"
+
+msgid "StringLiteral_12849"
+msgstr "アセットDL 90%"
+
+msgid "StringLiteral_12850"
+msgstr "アセットDL 100%"
+
+msgid "StringLiteral_12851"
+msgstr "アドベンチャー1"
+
+msgid "StringLiteral_12852"
+msgstr "タイミング調整"
+
+msgid "StringLiteral_12853"
+msgstr "タイミング調整リトライ"
+
+msgid "StringLiteral_12854"
+msgstr "ライブ1回目"
+
+msgid "StringLiteral_12855"
+msgstr "ライブ1回目スキップ"
+
+msgid "StringLiteral_12856"
+msgstr "ライブ1回目終了"
+
+msgid "StringLiteral_12857"
+msgstr "アドベンチャー2開始"
+
+msgid "StringLiteral_12858"
+msgstr "ガチャ一覧"
+
+msgid "StringLiteral_12859"
+msgstr "ガチャ開始"
+
+msgid "StringLiteral_12860"
+msgstr "ガチャ排出"
+
+msgid "StringLiteral_12861"
+msgstr "ユニット編成開始"
+
+msgid "StringLiteral_12862"
+msgstr "ユニット編成終了"
+
+msgid "StringLiteral_12863"
+msgstr "ライブ2回目"
+
+msgid "StringLiteral_12864"
+msgstr "ライブ2回目スキップ"
+
+msgid "StringLiteral_12865"
+msgstr "ライブ2回目終了"
+
+msgid "StringLiteral_12866"
+msgstr "アドベンチャー3開始"
+
+msgid "StringLiteral_12867"
+msgstr "超時空SNS開始"
+
+msgid "StringLiteral_12868"
+msgstr "超時空SNS終了"
+
+msgid "StringLiteral_12869"
+msgstr "名前入力"
+
+msgid "StringLiteral_12870"
+msgstr "名前入力終了"
+
+msgid "StringLiteral_12871"
+msgstr "歌姫選択"
+
+msgid "StringLiteral_12872"
+msgstr "歌姫登場"
+
+msgid "StringLiteral_12873"
+msgstr "ヴァルキリー登場"
+
+msgid "StringLiteral_12874"
+msgstr "メインアセットDL 0%"
+
+msgid "StringLiteral_12875"
+msgstr "メインアセットDL 10%"
+
+msgid "StringLiteral_12876"
+msgstr "メインアセットDL 20%"
+
+msgid "StringLiteral_12877"
+msgstr "メインアセットDL 30%"
+
+msgid "StringLiteral_12878"
+msgstr "メインアセットDL 40%"
+
+msgid "StringLiteral_12879"
+msgstr "メインアセットDL 50%"
+
+msgid "StringLiteral_12880"
+msgstr "メインアセットDL 60%"
+
+msgid "StringLiteral_12881"
+msgstr "メインアセットDL 70%"
+
+msgid "StringLiteral_12882"
+msgstr "メインアセットDL 80%"
+
+msgid "StringLiteral_12883"
+msgstr "メインアセットDL 90%"
+
+msgid "StringLiteral_12884"
+msgstr "メインアセットDL 100%"
+
+msgid "StringLiteral_12885"
+msgstr "ログインボーナス"
+
+msgid "StringLiteral_12886"
+msgstr "ホーム画面画面到達"
+
+msgid "StringLiteral_12887"
+msgstr "ミッション画面到達"
+
+msgid "StringLiteral_12888"
+msgstr "通常ドロップ"
+
+msgid "StringLiteral_12889"
+msgstr "ストーリードロップ"
+
+msgid "StringLiteral_12890"
+msgstr "課金"
+
+msgid "StringLiteral_12891"
+msgstr "ガチャ"
+
+msgid "StringLiteral_12892"
+msgstr "ライブ達成"
+
+msgid "StringLiteral_12893"
+msgstr "プレゼントBOX"
+
+msgid "StringLiteral_11202"
+msgstr "無料ガチャ"
+
+msgid "StringLiteral_11203"
+msgstr "超時空ガチャチケット"
+
+msgid "StringLiteral_11216"
+msgstr "デイリーミッション"
+
+msgid "StringLiteral_11217"
+msgstr "SNSミッション"
+
+msgid "StringLiteral_11218"
+msgstr "デビューミッション"
+
+msgid "StringLiteral_11219"
+msgstr "ノーマルミッション"
+
+msgid "StringLiteral_11220"
+msgstr "イベントミッション"
+
+msgid "StringLiteral_11221"
+msgstr "ビンゴミッション"
+
+msgid "StringLiteral_11223"
+msgstr "申請"
+
+msgid "StringLiteral_11224"
+msgstr "承認"
+
+msgid "StringLiteral_11225"
+msgstr "削除"
+
+msgid "StringLiteral_11226"
+msgstr "申請拒否"
+
+msgid "StringLiteral_11227"
+msgstr "申請取り消し"
+
+msgid "StringLiteral_11245"
+msgstr "歌唱石"
+
+msgid "StringLiteral_11248"
+msgstr "既に回答済み"
+
+msgid "StringLiteral_12894"
+msgstr "イベント達成pt"
+
+msgid "StringLiteral_12895"
+msgstr "ログボ"
+
+msgid "StringLiteral_12896"
+msgstr "イベントログインボーナス"
+
+msgid "StringLiteral_12897"
+msgstr "ショップ"
+
+msgid "StringLiteral_12898"
+msgstr "イベントボックスガチャ"
+
+msgid "StringLiteral_12899"
+msgstr "おまけ通貨自動変換"
+
+msgid "StringLiteral_12900"
+msgstr "AR称号取得"
+
+msgid "StringLiteral_12901"
+msgstr "親密度初回プレゼント"
+
+msgid "StringLiteral_12902"
+msgstr "親密度報酬"
+
+msgid "StringLiteral_12903"
+msgstr "ミッションイベントの勲章"
+
+msgid "StringLiteral_12904"
+msgstr "バトルイベントのクラス称号"
+
+msgid "StringLiteral_12905"
+msgstr "VFオペレーション"
+
+msgid "StringLiteral_12906"
+msgstr "VFオペレーション初回報酬"
+
+msgid "StringLiteral_12907"
+msgstr "衣装強化"
+
+msgid "StringLiteral_12908"
+msgstr "月間パスログボ"
+
+msgid "StringLiteral_12909"
+msgstr "月間パス継続特典"
+
+msgid "StringLiteral_12910"
+msgstr "VFオペレーション歌晶石"
+
+msgid "StringLiteral_12911"
+msgstr "バルキリースキル強化"
+
+msgid "StringLiteral_12912"
+msgstr "レイドボス撃破"
+
+msgid "StringLiteral_12913"
+msgstr "レイドボスMVP"
+
+msgid "StringLiteral_12914"
+msgstr "レイドボスファースト"
+
+msgid "StringLiteral_12915"
+msgstr "デコショップ"
+
+msgid "StringLiteral_12916"
+msgstr "メダル生成機"
+
+msgid "StringLiteral_12917"
+msgstr "トレジャーボックス"
+
+msgid "StringLiteral_12918"
+msgstr "ルーム訪問"
+
+msgid "StringLiteral_12919"
+msgstr "レイドチュートリアル"
+
+msgid "StringLiteral_12920"
+msgstr "AP回復おまけ"
+
+msgid "StringLiteral_12921"
+msgstr "レアアップスター自動変換"
+
+msgid "StringLiteral_12922"
+msgstr "ライブスキップチケット受け取り"
+
+msgid "StringLiteral_12923"
+msgstr "レアアップスター使用"
+
+msgid "StringLiteral_12924"
+msgstr "シークレットボード拡張"
+
+msgid "StringLiteral_12925"
+msgstr "歌グレード到達報酬"
+
+msgid "StringLiteral_12926"
+msgstr "月間スペシャルパスログボ"
+
+msgid "StringLiteral_12927"
+msgstr "その他"
+
+msgid "StringLiteral_12928"
+msgstr "イベントストーリー"
+
+msgid "StringLiteral_12929"
+msgstr "カルーセルバナー"
+
+msgid "StringLiteral_12930"
+msgstr "イベントホーム画面"
+
+msgid "StringLiteral_12931"
+msgstr "イベントデイリー"
+
+msgid "StringLiteral_12932"
+msgstr "特設ボタン"
+
+msgid "StringLiteral_12933"
+msgstr "イベントバナー"
+
+msgid "StringLiteral_12934"
+msgstr "イベントバルーン"
+
+msgid "StringLiteral_12935"
+msgstr "特設イベントホーム"
+
+msgid "StringLiteral_12936"
+msgstr "ホーム自動再生"
+
+msgid "StringLiteral_12937"
+msgstr "能力ボード"
+
+msgid "StringLiteral_12943"
+msgstr "バルキリー小隊"
+
+msgid "StringLiteral_13053"
+msgstr "★[0-9]"
+
+msgid "StringLiteral_13085"
+msgstr "アイテム"
+
+msgid "StringLiteral_13101"
+msgstr "5分以内"
+
+msgid "StringLiteral_13102"
+msgstr "分前"
+
+msgid "StringLiteral_13103"
+msgstr "時間前"
+
+msgid "StringLiteral_13104"
+msgstr "日前"
+
+msgid "StringLiteral_13105"
+msgstr "365日以上"
+
+msgid "StringLiteral_13106"
+msgstr "1時間前"
+
+msgid "StringLiteral_13238"
+msgstr "<color=red>矢印のレイアウトがNULLです。</color>"
+
+msgid "StringLiteral_13316"
+msgstr "ディフォルト3Dモードの設定 : "
+
+msgid "StringLiteral_13620"
+msgstr " - 対応していない型が渡されました\n   {0}"
+
+msgid "StringLiteral_13959"
+msgstr "★"
+
+msgid "StringLiteral_13975"
+msgstr "EXレート="
+
+msgid "StringLiteral_13976"
+msgstr ",EXスコア効果="
+
+msgid "StringLiteral_13977"
+msgstr ",CLスキル="
+
+msgid "StringLiteral_14007"
+msgstr "×{0}"
+
+msgid "StringLiteral_14024"
+msgstr "\r"
+
+msgid "StringLiteral_14032"
+msgstr "アニメーションテーブル数以上のキーフレーム番号が指定されました。"
+
+msgid "StringLiteral_14355"
+msgstr "今日は表示しない"
+
+msgid "StringLiteral_14401"
+msgstr "+ボタン"
+
+msgid "StringLiteral_14529"
+msgstr "ーーー"
+
+msgid "StringLiteral_14769"
+msgstr "{0}さん"
+
+msgid "StringLiteral_14832"
+msgstr "ふた"
+
+msgid "StringLiteral_14844"
+msgstr "★[０-９]"
+
+msgid "StringLiteral_14845"
+msgstr "[０-９]"
+
+msgid "StringLiteral_15053"
+msgstr "エピソード「"
+
+msgid "StringLiteral_15054"
+msgstr "」"
+
+msgid "StringLiteral_15055"
+msgstr " 専用衣装"
+
+msgid "StringLiteral_15265"
+msgstr "所持："
+
+msgid "StringLiteral_15475"
+msgstr "ホームへ戻る"
+
+msgid "StringLiteral_15476"
+msgstr "訪問リスト"
+
+msgid "StringLiteral_15477"
+msgstr "一括回収"
+
+msgid "StringLiteral_15478"
+msgstr "拠点名変更"
+
+msgid "StringLiteral_15479"
+msgstr "<color=red>** デコポイント交換所が見つからない **</color>"
+
+msgid "StringLiteral_15480"
+msgstr "交換所"
+
+msgid "StringLiteral_15497"
+msgstr "エネルギー充填機"
+
+msgid "StringLiteral_15509"
+msgstr "スタンプ一覧"
+
+msgid "StringLiteral_15510"
+msgstr "スタンプ作成"
+
+msgid "StringLiteral_15524"
+msgstr "更新"
+
+msgid "StringLiteral_15525"
+msgstr "作成"
+
+msgid "StringLiteral_15528"
+msgstr "選択"
+
+msgid "StringLiteral_15538"
+msgstr "保存"
+
+msgid "StringLiteral_15542"
+msgstr "名前変更"
+
+msgid "StringLiteral_15546"
+msgstr "他人のデコルーム:訪問リスト経由"
+
+msgid "StringLiteral_15553"
+msgstr "自分のデコルームへ戻る"
+
+msgid "StringLiteral_15554"
+msgstr "訪問デコルームからロビーへ戻る"
+
+msgid "StringLiteral_15651"
+msgstr "手動"
+
+msgid "StringLiteral_15697"
+msgstr "{0}　{1}{2}"
+
+msgid "StringLiteral_15750"
+msgstr "次の報酬まで {0} {1}"
+
+msgid "StringLiteral_15778"
+msgstr "追加報酬"
+
+msgid "StringLiteral_15794"
+msgstr "あと {0} {1}"
+
+msgid "StringLiteral_15830"
+msgstr "一度に使用できるアイテムは"
+
+msgid "StringLiteral_15831"
+msgstr "個までです。"
+
+msgid "StringLiteral_16059"
+msgstr "最終ログイン："
+
+msgid "StringLiteral_16060"
+msgstr "申請："
+
+msgid "StringLiteral_16095"
+msgstr "他人のデコルーム:フレンドリスト経由"
+
+msgid "StringLiteral_16155"
+msgstr "衣装リストをクリック : {0} : {1}"
+
+msgid "StringLiteral_16162"
+msgstr "【解放条件】\n\nプレイヤーランクを8にする。"
+
+msgid "StringLiteral_16170"
+msgstr "ギフトリストをクリック : {0} : {1}"
+
+msgid "StringLiteral_16338"
+msgstr "ユーザーリスト 失敗"
+
+msgid "StringLiteral_16339"
+msgstr "ユーザーフレンドリスト 成功 "
+
+msgid "StringLiteral_16417"
+msgstr "初回アドベンチャー"
+
+msgid "StringLiteral_16418"
+msgstr "自分のデコルーム"
+
+msgid "StringLiteral_16419"
+msgstr "【解放条件】\n\nプレイヤーランクを5にする。"
+
+msgid "StringLiteral_16496"
+msgstr "解放していないキャラで\n親密度を上げることはできません。"
+
+msgid "StringLiteral_16775"
+msgstr "配置数 {0:D2} / {1:D2}"
+
+msgid "StringLiteral_17446"
+msgstr "さしすせそ"
+
+msgid "StringLiteral_17754"
+msgstr "(＋{0})"
+
+msgid "StringLiteral_17777"
+msgstr "獲得したアイテムはありません。"
+
+msgid "StringLiteral_17787"
+msgstr "％"
+
+msgid "StringLiteral_17788"
+msgstr "(UCアイテムは {0}UC に変換されました)"
+
+msgid "StringLiteral_17960"
+msgstr "{0}回"
+
+msgid "StringLiteral_18022"
+msgstr "使用スキル"
+
+msgid "StringLiteral_18023"
+msgstr "{0}秒"
+
+msgid "StringLiteral_18024"
+msgstr "：{0}"
+
+msgid "StringLiteral_18054"
+msgstr "～{0}秒"
+
+msgid "StringLiteral_18067"
+msgstr "エナジーが{0}に回復しました"
+
+msgid "StringLiteral_18280"
+msgstr "プリズム"
+
+msgid "StringLiteral_18787"
+msgstr "獲得ユニオンクレジット"
+
+msgid "StringLiteral_18797"
+msgstr "小隊選択"
+
+msgid "StringLiteral_18843"
+msgstr "リザルト画面"
+
+msgid "StringLiteral_18923"
+msgstr "オファー選択"
+
+msgid "StringLiteral_18944"
+msgstr "形態選択"
+
+msgid "StringLiteral_18949"
+msgstr "ヴァルキリー選択"
+
+msgid "StringLiteral_19017"
+msgstr "誕生日"
+
+msgid "StringLiteral_19018"
+msgstr "{0}/{1}/{2}　{3}"
+
+msgid "StringLiteral_19422"
+msgstr "ランキング"
+
+msgid "StringLiteral_19427"
+msgstr "～"
+
+msgid "StringLiteral_19428"
+msgstr "位:"
+
+msgid "StringLiteral_19432"
+msgstr "【{0}】"
+
+msgid "StringLiteral_19433"
+msgstr "イベント楽曲でのレアドロップ"
+
+msgid "StringLiteral_19538"
+msgstr "インパクト"
+
+msgid "StringLiteral_19639"
+msgstr "無期限"
+
+msgid "StringLiteral_19612"
+msgstr "ユニットセット"
+
+msgid "StringLiteral_19704"
+msgstr "他人のデコルーム:プロフィール経由"
+
+msgid "StringLiteral_20178"
+msgstr " ★"
+
+msgid "StringLiteral_20179"
+msgstr "の最大マス数="
+
+msgid "StringLiteral_20180"
+msgstr "なのに "
+
+msgid "StringLiteral_20181"
+msgstr "しかマスがない。"
+
+msgid "StringLiteral_20290"
+msgstr "l×{0}"
+
+msgid "StringLiteral_20367"
+msgstr "ー"
+
+msgid "StringLiteral_20369"
+msgstr "±{0}"
+
+msgid "StringLiteral_20382"
+msgstr "（2回使用可）"
+
+msgid "StringLiteral_20383"
+msgstr "<color={0}>（2回使用可）</color>"
+
+msgid "StringLiteral_20406"
+msgstr "フィルターボタンが押されました"
+
+msgid "StringLiteral_20448"
+msgstr "モーションが指定されていない、またはモーション数を超えています。[ "
+
+msgid "StringLiteral_20457"
+msgstr "シンプルモデルに歌姫IDが設定されておりません。"
+
+msgid "StringLiteral_20458"
+msgstr "シンプルモデルに衣装モデルIDが設定されておりません。"
+
+msgid "StringLiteral_20469"
+msgstr "シンプルモデルで設定できるモーション数を超えております。[ "
+
+msgid "StringLiteral_20470"
+msgstr "シンプルモデルで設定できるループモーション数を超えております。[ "
+
+msgid "StringLiteral_20864"
+msgstr "自動編成"
+
+msgid "StringLiteral_20882"
+msgstr "(<color={1}>↑{0}</color>)"
+
+msgid "StringLiteral_21607"
+msgstr "???12"
+
+msgid "UMO_login_38788_name"
+msgstr "衣装解放応援ログインボーナス③"
+
+msgid "UMO_login_38788_desc"
+msgstr "衣装解放応援ログインボーナス③"
+
+msgid "UMO_login_38788_prize1_msg"
+msgstr "特別ログインボーナスのプレゼントです。"
+
+msgid "UMO_login_10665_name"
+msgstr "カムバックログインボーナス 28日間非ログイン"
+
+msgid "UMO_login_10665_desc"
+msgstr "カムバックログインボーナス 28日間非ログイン\r\n"
+
+msgid "UMO_login_10666_name"
+msgstr "カムバックログインボーナス 28日間非ログイン　歌晶石"
+
+msgid "UMO_login_10666_desc"
+msgstr "カムバックログインボーナス 28日間非ログイン　歌晶石"
+
+msgid "UMO_login_7740_name"
+msgstr "ログインボーナス"
+
+msgid "UMO_login_7740_desc"
+msgstr "毎日1回ログイン時に一度プレゼントを受け取れるよ！"
+
+msgid "UMO_login_7740_prize1_msg"
+msgstr "ログインボーナスのプレゼントです。	"
+
+msgid "UMO_login_7740_prize2_msg"
+msgstr "ログインボーナスのプレゼントです。"
+
+msgid "UMO_login_6541_name"
+msgstr "スタートダッシュログインボーナス"
+
+msgid "UMO_login_6541_desc"
+msgstr "ゲーム開始から7日目までもらえるログインボーナスです。"
+
+msgid "UMO_login_6541_prize1_msg"
+msgstr "スタートダッシュログインボーナスのプレゼントです。"
+
+msgid "UMO_achievements_normal_quest"
+msgstr "ノーマルミッションの達成報酬です。"
+
+msgid "UMO_achievements_daily_quest"
+msgstr "Daily quest reward"
+
+msgid "UMO_achievements_episode"
+msgstr "エピソードの解放報酬です。"
+
+msgid "UMO_achievements_debut_quest"
+msgstr "デビューミッションの達成報酬です。"
+
+msgid "UMO_achievements_new_offer"
+msgstr "バルキリーオペレーションの初回達成報酬です。"
+
+msgid "UMO_achievements_costume"
+msgstr "衣装強化のきゃわわランクアップ報酬です。"
+
+msgid "UMO_achievements_freemusic"
+msgstr "Reward from free music"
+
+msgid "UMO_currency_1001_desc"
+msgstr "ゲーム内で購入できる仮想通貨"
+
+msgid "UMO_currency_2002_name"
+msgstr "★5確定ガチャチケットA"
+
+msgid "UMO_currency_2002_desc"
+msgstr "★5確定ガチャを引くためのチケット"
+
+msgid "UMO_currency_2003_name"
+msgstr "★5確定ガチャチケットB"
+
+msgid "UMO_currency_2003_desc"
+msgstr "★5確定ガチャを引くためのチケット"
+
+msgid "UMO_currency_2004_name"
+msgstr "★5確定ガチャチケットC"
+
+msgid "UMO_currency_2004_desc"
+msgstr "★5確定ガチャを引くためのチケット"
+
+msgid "UMO_currency_2008_name"
+msgstr "★5確定ログボガチャチケット　5月"
+
+msgid "UMO_currency_2008_desc"
+msgstr "ログボ用の★5確定ガチャを引くためのチケット"
+
+msgid "UMO_currency_2009_name"
+msgstr "★5確定ログボガチャチケット　6月"
+
+msgid "UMO_currency_2009_desc"
+msgstr "ログボ用の★5確定ガチャを引くためのチケット"
+
+msgid "UMO_currency_2010_name"
+msgstr "★5確定ログボガチャチケット　7月"
+
+msgid "UMO_currency_2010_desc"
+msgstr "ログボ用の★5確定ガチャを引くためのチケット"
+
+msgid "UMO_currency_2101_name"
+msgstr "デカルガチャチケット"
+
+msgid "UMO_currency_2101_desc"
+msgstr "デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2201_name"
+msgstr "イベントガチャチケット(収集A)"
+
+msgid "UMO_currency_2201_desc"
+msgstr "収集イベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2202_name"
+msgstr "イベントガチャチケット(収集B)"
+
+msgid "UMO_currency_2202_desc"
+msgstr "収集イベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2203_name"
+msgstr "イベントガチャチケット(収集C)"
+
+msgid "UMO_currency_2203_desc"
+msgstr "収集イベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2204_name"
+msgstr "イベントガチャチケット(ミッションA)"
+
+msgid "UMO_currency_2204_desc"
+msgstr "ミッションイベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2205_name"
+msgstr "イベントガチャチケット(ミッションB)"
+
+msgid "UMO_currency_2205_desc"
+msgstr "ミッションイベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2206_name"
+msgstr "イベントガチャチケット(ミッションC)"
+
+msgid "UMO_currency_2206_desc"
+msgstr "ミッションイベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2207_name"
+msgstr "イベントガチャチケット(歌姫-バトルA)"
+
+msgid "UMO_currency_2207_desc"
+msgstr "バトルイベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2208_name"
+msgstr "イベントガチャチケット(歌姫-バトルB)"
+
+msgid "UMO_currency_2208_desc"
+msgstr "バトルイベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_2209_name"
+msgstr "イベントガチャチケット(歌姫-バトルC)"
+
+msgid "UMO_currency_2209_desc"
+msgstr "バトルイベント報酬用、デカルガチャを引くためのチケット"
+
+msgid "UMO_currency_3001_name"
+msgstr "スプリングスフィア"
+
+msgid "UMO_currency_3001_desc"
+msgstr "歌晶石購入のおまけ (3/1～5/31)"
+
+msgid "UMO_currency_3002_name"
+msgstr "サマースフィア"
+
+msgid "UMO_currency_3002_desc"
+msgstr "歌晶石購入のおまけ (6/1～8/31)"
+
+msgid "UMO_currency_3003_name"
+msgstr "オータムスフィア"
+
+msgid "UMO_currency_3003_desc"
+msgstr "歌晶石購入のおまけ (9/1～11/30)"
+
+msgid "UMO_currency_3004_name"
+msgstr "ウィンタースフィア"
+
+msgid "UMO_currency_3004_desc"
+msgstr "歌晶石購入のおまけ (12/1～2/28)"
+
+msgid "UMO_currency_3005_name"
+msgstr "衣装解放プレート交換券"
+
+msgid "UMO_currency_3005_desc"
+msgstr "衣装解放プレート交換券"
+
+msgid "UMO_currency_4001_name"
+msgstr "娘くじ☆抽選券"
+
+msgid "UMO_currency_4001_desc"
+msgstr "娘くじ☆抽選用"
+
+msgid "UMO_currency_4002_name"
+msgstr "娘くじ☆抽選券B"
+
+msgid "UMO_currency_4002_desc"
+msgstr "娘くじ☆抽選用"
+
+msgid "UMO_currency_4003_name"
+msgstr "娘くじ☆抽選券C"
+
+msgid "UMO_currency_4003_desc"
+msgstr "娘くじ☆抽選用"
+
+msgid "UMO_currency_4004_name"
+msgstr "娘くじ☆抽選券D"
+
+msgid "UMO_currency_4004_desc"
+msgstr "娘クジ☆抽選用"
+
+msgid "UMO_currency_5001_name"
+msgstr "お年玉"
+
+msgid "UMO_currency_5001_desc"
+msgstr "お年玉用通貨"
+
+msgid "UMO_currency_5002_name"
+msgstr "サマーチケット"
+
+msgid "UMO_currency_5002_desc"
+msgstr "サマーチケット"
+
+msgid "UMO_product_178088_name"
+msgstr "★5確定デビューガチャ22 10連"
+
+msgid "UMO_product_178088_desc_name"
+msgstr "デビューガチャ"
+
+msgid "UMO_product_429267_name"
+msgstr "★5確定サービスガチャ8"
+
+msgid "UMO_product_429267_desc_name"
+msgstr "★5確定サービスガチャ"
+
+msgid "UMO_product_429267_desc_desc"
+msgstr "★5確定サービスチケットを消費し\n★5のプレートを入手できます。\n※2022/3/31ラインナップ更新"
+
+msgid "UMO_product_429712_name"
+msgstr "サービスガチャ317"
+
+msgid "UMO_product_429712_desc_name"
+msgstr "サービスガチャ"
+
+msgid "UMO_product_429712_desc_desc"
+msgstr "\n朝・昼・夜\n1日に3回歌晶石なしでも引けるガチャです。\n\n「こんなサービス1日3回しかしないんだからね！」\n　　　　　　　　　　　　　－シェリル・ノーム－"
+
+msgid "UMO_product_429927_name"
+msgstr "超時空ガチャ45"
+
+msgid "UMO_product_429927_desc_name"
+msgstr "超時空ガチャ"
+
+msgid "UMO_product_429927_desc_desc"
+msgstr "超時空ガチャチケットを消費して\n★1～★6のプレートを入手できます。\n※2022/5/1ラインナップ更新"
+
+msgid "UMO_product_429928_name"
+msgstr "ピックアップガチャ159"
+
+msgid "UMO_product_429928_desc_free_msg"
+msgstr "1回無料！"
+
+msgid "UMO_product_429928_desc_name"
+msgstr "★5以上確定ガチャ"
+
+msgid "UMO_product_429929_name"
+msgstr "ピックアップガチャ159 10連"
+
+msgid "UMO_product_429929_desc_free_msg"
+msgstr "1回無料！"
+
+msgid "UMO_product_429929_desc_kakutei"
+msgstr "★5以上10枚確定"
+
+msgid "UMO_product_429929_desc_name"
+msgstr "★5以上確定ガチャ"
+
+msgid "UMO_product_429930_name"
+msgstr "ピックアップガチャ159 10連 初回"
+
+msgid "UMO_product_429930_desc_free_msg"
+msgstr "1回無料！"
+
+msgid "UMO_product_429930_desc_kakutei"
+msgstr "★5以上10枚確定"
+
+msgid "UMO_product_429930_desc_name"
+msgstr "★5以上確定ガチャ"
+
+msgid "UMO_product_430020_name"
+msgstr "お得ガチャ31096 10連"
+
+msgid "UMO_product_430020_desc_free_msg"
+msgstr "10連無料"
+
+msgid "UMO_product_430020_desc_free_multi_msg"
+msgstr "1日1回\n無料！"
+
+msgid "UMO_product_430020_desc_name"
+msgstr "無料10連ガチャ"
+
+msgid "UMO_product_67554_name"
+msgstr "コンテニュー"
+
+msgid "UMO_product_67554_desc"
+msgstr "ゲーム中にコンテニューできます。"
+
+msgid "UMO_product_67572_name"
+msgstr "スタミナ回復"
+
+msgid "UMO_product_153192_name"
+msgstr "VOP高速完了"
+
+msgid "UMO_product_153192_desc"
+msgstr "VOP高速完了の実行に使用します。"
+
+msgid "UMO_product_167079_name"
+msgstr "AP回復"
+
+msgid "UMO_product_222423_name"
+msgstr "AP回復2"
+
+msgid "UMO_product_222423_desc"
+msgstr "AP回復(小)"
+
+msgid "UMO_product_222424_name"
+msgstr "AP回復3"
+
+msgid "UMO_product_222424_desc"
+msgstr "AP回復（大）"
+
+msgid "UMO_product_428662_name"
+msgstr "2022年春 5月 : 春スフィア：幸運の煌石×1（購入制限有＆5月）"
+
+msgid "UMO_product_428665_name"
+msgstr "2022年春 5月 : 春スフィア：幸運の輝石×1（購入制限有＆5月）"
+
+msgid "UMO_product_428666_name"
+msgstr "2022年春 2月 : 春スフィア：星の結晶（小）×5"
+
+msgid "UMO_product_428667_name"
+msgstr "2022年春 2月 : 春スフィア：星の結晶（中）×5"
+
+msgid "UMO_product_428668_name"
+msgstr "2022年春 2月 : 春スフィア：星の結晶（大）×5"
+
+msgid "UMO_product_428669_name"
+msgstr "2022年春 2月 : 春スフィア：愛の結晶（小）×5"
+
+msgid "UMO_product_428670_name"
+msgstr "2022年春 2月 : 春スフィア：愛の結晶（中）×5"
+
+msgid "UMO_product_428671_name"
+msgstr "2022年春 2月 : 春スフィア：愛の結晶（大）×5"
+
+msgid "UMO_product_428672_name"
+msgstr "2022年春 2月 : 春スフィア：命の結晶（小）×5"
+
+msgid "UMO_product_428673_name"
+msgstr "2022年春 2月 : 春スフィア：命の結晶（中）×5"
+
+msgid "UMO_product_428674_name"
+msgstr "2022年春 2月 : 春スフィア：命の結晶（大）×5"
+
+msgid "UMO_product_428675_name"
+msgstr "2022年春 2月 : 春スフィア：メロディストーン（小）×20"
+
+msgid "UMO_product_428676_name"
+msgstr "2022年春 2月 : 春スフィア：メロディストーン（中）×20"
+
+msgid "UMO_product_428677_name"
+msgstr "2022年春 2月 : 春スフィア：メロディストーン（大）×20"
+
+msgid "UMO_product_428678_name"
+msgstr "2022年春 2月 : 春スフィア：ソウルストーン（小）×20"
+
+msgid "UMO_product_428679_name"
+msgstr "2022年春 2月 : 春スフィア：ソウルストーン（中）×20"
+
+msgid "UMO_product_428680_name"
+msgstr "2022年春 2月 : 春スフィア：ソウルストーン（大）×20"
+
+msgid "UMO_product_428681_name"
+msgstr "2022年春 2月 : 春スフィア：ボイスストーン（小）×20"
+
+msgid "UMO_product_428682_name"
+msgstr "2022年春 2月 : 春スフィア：ボイスストーン（中）×20"
+
+msgid "UMO_product_428683_name"
+msgstr "2022年春 2月 : 春スフィア：ボイスストーン（大）×20"
+
+msgid "UMO_product_428684_name"
+msgstr "2022年春 2月 : 春スフィア：チャームストーン（小）×20"
+
+msgid "UMO_product_428685_name"
+msgstr "2022年春 2月 : 春スフィア：チャームストーン（中）×20"
+
+msgid "UMO_product_428686_name"
+msgstr "2022年春 2月 : 春スフィア：チャームストーン（大）×20"
+
+msgid "UMO_product_428687_name"
+msgstr "2022年春 2月 : 春スフィア：UC×2000"
+
+msgid "UMO_product_428690_name"
+msgstr "2022年春 5月 : 春スフィア：★5確定ガチャチケ×1（購入制限有＆5月）"
+
+msgid "UMO_product_428693_name"
+msgstr "2022年春 5月 : 春スフィア：超時空ガチャチケ×1（購入制限有＆5月）"
+
+msgid "UMO_product_428696_name"
+msgstr "2022年春 5月 : 春スフィア：シークレットストーン×1（購入制限有＆5月）"
+
+msgid "UMO_product_428699_name"
+msgstr "2022年春 5月 : 春スフィア： エピソードオーブ（大）×1（購入制限有＆5月）"
+
+msgid "UMO_start_present_1"
+msgstr "歌マクロス特別プレゼントです。"
+
+msgid "UMO_start_present_2"
+msgstr "歌マクロスプレイ開始記念プレゼントです。"
+
+msgid "UMO_Next"
+msgstr "Next"
+
+msgid "UMO_Total"
+msgstr "TOTAL"
+
+msgid "UMO_Fold"
+msgstr "フォールド波"
+
+msgid "UMO_Luck"
+msgstr "LUCK"
+
+msgid "UMO_Status"
+msgstr "ステータス"
+
+msgid "UMO_SubStatus"
+msgstr "支援プレート効果"
+
+msgid "UMO_CenterSkill"
+msgstr "センタースキル"
+
+msgid "UMO_ActiveSkill"
+msgstr "アクティブスキル"
+
+msgid "UMO_LeafLabel"
+msgstr "ラッキーリーフ効果"
+
+msgid "UMO_Excellent"
+msgstr "EXCELLENT"
+
+msgid "UMO_CenterLiveSkillNote"
+msgstr "センターLスキルノーツ確率"
+
+msgid "UMO_Notes"
+msgstr "ノーツ期待値"
+
+msgid "UMO_Heal"
+msgstr "回復"
+
+msgid "UMO_Score"
+msgstr "スコア"
+
+msgid "UMO_Atk"
+msgstr "攻撃"
+
+msgid "UMO_SupportImp"
+msgstr "支援プレート未解放"
+
+msgid "UMO_SupportImp2"
+msgstr "解放条件：衣装強化で支援プレート解放を獲得する。"
+
+msgid "UMO_NumLeft"
+msgstr "残り回数"
+
+msgid "UMO_PlayAttr"
+msgstr "プレイする楽曲属性"
+
+msgid "UMO_PlayAttr2"
+msgstr "優先する属性"
+
+msgid "UMO_All"
+msgstr "ALL"
+
+msgid "UMO_Attr1"
+msgstr "星"
+
+msgid "UMO_Attr2"
+msgstr "愛"
+
+msgid "UMO_Attr3"
+msgstr "命"
+
+msgid "UMO_PlayStyle"
+msgstr "優先する条件"
+
+msgid "UMO_PlayStyleScore"
+msgstr "スコア優先"
+
+msgid "UMO_PlayStyleLife"
+msgstr "ライフ優先"
+
+msgid "UMO_PlayStyleCombo"
+msgstr "コンボ優先"
+
+msgid "UMO_PlayStatus"
+msgstr "優先するステータス"
+
+msgid "UMO_DivaLevel"
+msgstr "歌姫Lv"
+
+msgid "UMO_IntimacyLevel"
+msgstr "親密度Lv"
+
+msgid "UMO_CostumeCount"
+msgstr "衣装所持数"
+
+msgid "UMO_DivaStatus"
+msgstr "歌姫ステータス"
+
+msgid "UMO_CostumeStatus"
+msgstr "衣装強化ステータス"
+
+msgid "UMO_SoulTotal"
+msgstr "ソウルアピール"
+
+msgid "UMO_VoiceTotal"
+msgstr "ボイスアピール"
+
+msgid "UMO_CharmTotal"
+msgstr "チャームアピール"
+
+msgid "UMO_DivaRanking"
+msgstr "歌姫ランキング"
+
+msgid "UMO_DivaRankingBtn"
+msgstr "歌姫ランキング確認"
+
+msgid "UMO_Age"
+msgstr "年齢"
+
+msgid "UMO_Birthplace"
+msgstr "出身地"
+
+msgid "UMO_Favorite"
+msgstr "好きなもの"
+
+msgid "UMO_DivaDesc"
+msgstr "歌姫紹介"
+
+msgid "UMO_Back"
+msgstr "戻る"
+
+msgid "UMO_Costume"
+msgstr "衣装変更"
+
+msgid "UMO_Gift"
+msgstr "ギフト"
+
+msgid "UMO_Profil"
+msgstr "プロフィール"
+

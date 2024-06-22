@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+
+msgid "talk_time_01"
+msgstr "あー、腹減った。\nなんかねーかな"
+
+msgid "talk_time_02"
+msgstr "俺の歌を聞けば、\nいつだってパワーが湧いてくるぜ"
+
+msgid "talk_time_03"
+msgstr "散歩ってのもいいもんだぜ。\nいいフレーズが浮かんでくるんだ"
+
+msgid "talk_time_04"
+msgstr "難しいことなんて\n考えてねーで、歌おうぜ！"
+
+msgid "talk_time_05"
+msgstr "俺は好きな時に歌うぜ。\n時間や場所なんて関係ねぇ！"
+
+msgid "talk_time_06"
+msgstr "おい、返事くらいしろよ。\nライブが始まるぞ"
+
+msgid "talk_time_07"
+msgstr "…んー\n…この音だとどうもしっくりこねぇな"
+
+msgid "talk_time_08"
+msgstr "なんだ？ミレーヌが呼んでんのか？"
+
+msgid "talk_login_01"
+msgstr "んん…\nまだこんな時間かよ…"
+
+msgid "talk_login_02"
+msgstr "さ、今日も1日、熱くいくぜ！"
+
+msgid "talk_login_03"
+msgstr "飯食わねえと、\nライブはできねぇぞ"
+
+msgid "talk_login_04"
+msgstr "今日も俺の歌、\n聞いてくれたのか？"
+
+msgid "talk_login_05"
+msgstr "ん～…、なんか違うな…\nおっ、いたのかよ"
+
+msgid "talk_comeback_01"
+msgstr "やっぱり、\n俺の歌が忘れられなかったのか？"
+
+msgid "talk_comeback_02"
+msgstr "今日も気合入れていくぜ！"
+
+msgid "talk_birthday_01"
+msgstr "ん？俺の誕生日プレゼント？\n…へぇ、嬉しいねぇ。ありがとよ！"
+
+msgid "talk_event_01"
+msgstr "正月休み？へっ、関係ねぇな。\n盆も正月も俺は歌うだけだ！"
+
+msgid "talk_event_02"
+msgstr "ミレーヌがチョコを作ったんだと。\nお前も一緒に食うか？"
+
+msgid "talk_event_03"
+msgstr "節分ねぇ…そんなに興味ねぇな"
+
+msgid "talk_event_04"
+msgstr "なんだかいい匂いがするな…\n桃の花の匂いか？"
+
+msgid "talk_event_05"
+msgstr "ホワイトデーか。そういや、\nガムリンがお返しがどうのって\n話してたな"
+
+msgid "talk_event_06"
+msgstr "今日はエイプリルフールだな。\nミレーヌがバレバレの嘘を\nついてたぜ"
+
+msgid "talk_event_07"
+msgstr "ゴールデンウィークって\n何がゴールデンなんだ？"
+
+msgid "talk_event_08"
+msgstr "ミレーヌがウェディングドレス\n見てニヤけっぱなしなんだ。\nお前にはまだ早いってーの"
+
+msgid "talk_event_09"
+msgstr "星が綺麗だな…こういう日は、\n星を眺めながら歌うに限る"
+
+msgid "talk_event_10"
+msgstr "歌でスイカを割る？\nいいぜ、試してみようじゃねぇか！"
+
+msgid "talk_event_11"
+msgstr "花火の音って、いいビートだよな。\n嫌いじゃないぜ"
+
+msgid "talk_event_12"
+msgstr "月を見ながら作曲すると、\n結構はかどるんだぜ"
+
+msgid "talk_event_13"
+msgstr "俺の歌でド派手なハロウィンに\nしてやるぜ！\nトリック・オア・ファイヤー！"
+
+msgid "talk_event_14"
+msgstr "文化の祭りって何かって？\nんなもん、俺の歌を聞けばわかるぜ！"
+
+msgid "talk_event_15"
+msgstr "サンタの格好でライブすることに\nなったんだけどよ…髭がギターに\nひっかかって、やりづれぇぞ！"
+
+msgid "talk_event_16"
+msgstr "年越しの準備はできてるか？\n来年も燃えるぜ！ファイヤー！"
+
+msgid "talk_event_17"
+msgstr "オーディエンスが大勢いるな！\nいいね、燃えてきたぜー！"
+
+msgid "talk_event_18"
+msgstr "オーディエンス100万人か！\nサイッコーだぜ！"
+
+msgid "talk_event_19"
+msgstr "200万ダウンロード達成！\nやったぜ！"
+
+msgid "talk_event_20"
+msgstr "何周年だろうと関係ねぇよ、\n俺は歌うだけだ！"
+
+msgid "touch_reaction_01"
+msgstr "なんだ、\n俺の歌が聞きたいのか？"
+
+msgid "touch_reaction_02"
+msgstr "おいおい、\nくすぐったいじゃねーか。"
+
+msgid "touch_reaction_03"
+msgstr "何だってんだ、この気持ち。\n熱いぜ…！"
+
+msgid "touch_reaction_04"
+msgstr "あー、腹減った。\nなんかねーかな"
+
+msgid "touch_reaction_05"
+msgstr "俺の歌を聞けば、\nいつだってパワーが湧いてくるぜ"
+
+msgid "touch_reaction_06"
+msgstr "散歩ってのもいいもんだぜ。\nいいフレーズが浮かんでくるんだ"
+
+msgid "touch_reaction_07"
+msgstr "なんだよ、くすぐってぇな"
+
+msgid "touch_reaction_08"
+msgstr "そうだな…\nお前の好きな歌、教えてくれよ"
+
+msgid "login_reaction_01"
+msgstr "ほらよ、\nこいつを受け取ってくれ！"
+
+msgid "login_reaction_02"
+msgstr "プレゼントってやつだ\n好きに使ってくれよ"
+
+msgid "simulation_result_01"
+msgstr "やっぱ、歌は生で聞くもんだぜ！\n俺のハートを感じたけりゃ、\n次のライブも楽しみにしててくれ！"
+
+msgid "go_diva_result_01"
+msgstr "へぇ…なかなかやるじゃねぇか"
+
+msgid "go_diva_result_02"
+msgstr "…お前の熱いハート、\nしっかり伝わったぜ"
+
+msgid "go_diva_result_03"
+msgstr "スペシャルなプレゼントだ。\n今回だけだぞ？"
+
+msgid "intimacy_pointup_01"
+msgstr "いいねぇ！"
+
+msgid "intimacy_pointup_02"
+msgstr "燃えるぜ！"
+
+msgid "intimacy_pointup_03"
+msgstr "へへっ"
+
+msgid "present_01"
+msgstr "ありがとよ！"
+
+msgid "present_02"
+msgstr "腹減ったな…"
+
+msgid "present_03"
+msgstr "なんつーか、こう…\n刺激のあるもんが食いてぇな"
+
+msgid "present_04"
+msgstr "食いたいときに食う。\n細かいことは気にしねぇぜ"
+
+msgid "present_05"
+msgstr "調子が出ねぇ気がするな…"
+
+msgid "present_06"
+msgstr "たまには気分を変えてみるってのも\n悪くねぇな"
+
+msgid "present_07"
+msgstr "気分転換ってやつでもしてみるか"
+
+msgid "present_08"
+msgstr "身だしなみねぇ…\nそんなに大事なことか？"
+
+msgid "present_09"
+msgstr "俺の部屋？\n別に何も置いてねぇよ"
+
+msgid "present_10"
+msgstr "身の回りに気を使えって\nミレーヌがうるせぇんだよな…"
+
+msgid "present_11"
+msgstr "いいねぇ！"
+
+msgid "cs_touch_reaction_01"
+msgstr "よう、なんか用か？"
+
+msgid "cs_touch_reaction_02"
+msgstr "なぁ、ライブに行こうぜ。\n歌いてぇんだ！"
+
+msgid "cs_touch_reaction_03"
+msgstr "ハイタッチか？いいぜ！"
+
+msgid "cs_touch_reaction_04"
+msgstr "部屋にこもって新曲でも書くか…"
+
+msgid "cs_touch_reaction_05"
+msgstr "俺の部屋に来たい？いいけど、\nレモネードぐらいしかねぇぞ"
+
+msgid "cs_touch_reaction_06"
+msgstr "レイのやつ、また俺のバルキリーを\n持っていきやがった…\n早く返せっての"
+
+msgid "cs_touch_reaction_07"
+msgstr "衣装なんてなんでもいいが、\nずっと同じってのも飽きてくるな。\n刺激が欲しいぜ！"
+
+msgid "cs_touch_reaction_08"
+msgstr "あんた、暇か？\nなら、俺の歌を聞いていけ！"
+
+msgid "cs_touch_reaction_09"
+msgstr "退屈そうだな。なら、\n俺がハートをビンビンにしてやるぜ！"
+
+msgid "cs_touch_reaction_10"
+msgstr "面白ぇやつだな…\nあんたと歌ってみたいぜ"
+
+msgid "talk_event_21"
+msgstr "フレイアの誕生日パーティーを見て\nきたんだけどよ。裸喰娘娘の料理…\nうまそうだったな"
+
+msgid "talk_event_22"
+msgstr "ワルキューレの奴ら、美雲に\nバースデーソングをプレゼント\nしたらしいぜ。最高じゃねぇか…！"
+
+msgid "talk_event_23"
+msgstr "カナメ、誕生日なんだってな"
+
+msgid "talk_event_24"
+msgstr "マキナの誕生日だったのか…"
+
+msgid "talk_event_25"
+msgstr "今日はレイナの誕生日なんだと。\n後で一曲、祝いの曲でも\n歌ってやるか"
+
+msgid "talk_event_26"
+msgstr "今日はランカの誕生日なのか？"
+
+msgid "talk_event_27"
+msgstr "シェリルの奴、\n今日は一段とギラギラしてるな。\n最高の歌声じゃねぇか！"
+
+msgid "talk_event_28"
+msgstr "ミレーヌがずっとニヤニヤ\nしてるんだ。誕生日がそんなに\n嬉しいのか？ったく…"
+
+msgid "talk_event_29"
+msgstr "バサラ"
+
+msgid "talk_event_30"
+msgstr "ミンメイのバースデーライブには、\nたくさんの人が集まるらしい。\nあいつの歌がそうさせるんだろうな…"
+
+msgid "talk_event_31"
+msgstr "ハヤテ"
+
+msgid "talk_event_32"
+msgstr "ミラージュ"
+
+msgid "talk_event_33"
+msgstr "メッサー"
+
+msgid "talk_event_34"
+msgstr "アラド"
+
+msgid "talk_event_35"
+msgstr "チャック"
+
+msgid "talk_event_36"
+msgstr "アルト"
+
+msgid "talk_event_37"
+msgstr "オズマ"
+
+msgid "talk_event_38"
+msgstr "レイへの誕生日プレゼントは、\nミレーヌとビヒーダに任せて…\n俺は記念の新曲でも書くか"
+
+msgid "talk_event_39"
+msgstr "輝"
+
+msgid "talk_event_40"
+msgstr "ミレーヌから、ガムリンの誕生日\nプレゼントを考えろって言われたん\nだけどよ…俺が考えるのか？"
+
+msgid "talk_event_41"
+msgstr "未沙"
+
+msgid "talk_event_42"
+msgstr "俺たちの映画が公開されるんだと"
+
+msgid "talk_event_43"
+msgstr "思えばずいぶんと世話になったな。\nお前とのセッション、最高だったぜ！\nまたいつかやろうな！"
+
+msgid "talk_event_44"
+msgstr "ガムリンもお前のことを褒めてたぜ。\nこれまでの協力に感謝しますってな。\nあいつもほんと生真面目だよな"
+
+msgid "talk_event_45"
+msgstr "バジュラやウィンダミアの奴らにも、\n俺の歌を聞かせてやりてぇな。\nま、次の楽しみってことにしとくか。"
+
+msgid "talk_event_46"
+msgstr "銀河を見て、時空を超えて…へへっ、\n次は何が起きるのか楽しみだぜ。\nその前にまた旅にでも出るか"
+
+msgid "talk_event_47"
+msgstr "ミレーヌのやつが最後にミンメイに\n挨拶しようってうるせぇんだ。まぁ、\n世話になったし、行ってくるか…"
+

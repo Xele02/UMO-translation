@@ -1,0 +1,7239 @@
+msgid ""
+msgstr ""
+
+msgid "sns_dsc_0001"
+msgstr "フレイアがログインしました"
+
+msgid "sns_dsc_0002"
+msgstr "記憶の時空で楽曲を1曲解放"
+
+msgid "sns_dsc_0003"
+msgstr "記憶の時空で楽曲を2曲解放"
+
+msgid "sns_dsc_0004"
+msgstr "記憶の時空で楽曲を3曲解放"
+
+msgid "sns_dsc_0005"
+msgstr "記憶の時空で楽曲を4曲解放"
+
+msgid "sns_dsc_0006"
+msgstr "記憶の時空で楽曲を5曲解放"
+
+msgid "sns_dsc_0007"
+msgstr "記憶の時空で楽曲を6曲解放"
+
+msgid "sns_dsc_0008"
+msgstr "記憶の時空で楽曲を7曲解放"
+
+msgid "sns_dsc_0009"
+msgstr "記憶の時空で楽曲を8曲解放"
+
+msgid "sns_dsc_0010"
+msgstr "記憶の時空で楽曲を9曲解放"
+
+msgid "sns_dsc_0011"
+msgstr "記憶の時空で楽曲を10曲解放"
+
+msgid "sns_dsc_0012"
+msgstr "記憶の時空で楽曲を11曲解放"
+
+msgid "sns_dsc_0013"
+msgstr "記憶の時空で楽曲を12曲解放"
+
+msgid "sns_dsc_0014"
+msgstr "記憶の時空で楽曲を13曲解放"
+
+msgid "sns_dsc_0015"
+msgstr "記憶の時空で楽曲を14曲解放"
+
+msgid "sns_dsc_0016"
+msgstr "記憶の時空で楽曲を15曲解放"
+
+msgid "sns_dsc_0017"
+msgstr "記憶の時空で楽曲を16曲解放"
+
+msgid "sns_dsc_0018"
+msgstr "記憶の時空で楽曲を17曲解放"
+
+msgid "sns_dsc_0019"
+msgstr "記憶の時空で楽曲を18曲解放"
+
+msgid "sns_dsc_0020"
+msgstr "記憶の時空で楽曲を19曲解放"
+
+msgid "sns_dsc_0021"
+msgstr "記憶の時空で楽曲を20曲解放"
+
+msgid "sns_dsc_0022"
+msgstr "記憶の時空で楽曲を21曲解放"
+
+msgid "sns_dsc_0023"
+msgstr "記憶の時空で楽曲を22曲解放"
+
+msgid "sns_dsc_0024"
+msgstr "記憶の時空で楽曲を23曲解放"
+
+msgid "sns_dsc_0025"
+msgstr "記憶の時空で楽曲を24曲解放"
+
+msgid "sns_dsc_0026"
+msgstr "記憶の時空で楽曲を25曲解放"
+
+msgid "sns_dsc_0027"
+msgstr "記憶の時空で楽曲を26曲解放"
+
+msgid "sns_dsc_0028"
+msgstr "記憶の時空で楽曲を27曲解放"
+
+msgid "sns_dsc_0029"
+msgstr "記憶の時空で楽曲を28曲解放"
+
+msgid "sns_dsc_0030"
+msgstr "記憶の時空で楽曲を29曲解放"
+
+msgid "sns_dsc_0031"
+msgstr "記憶の時空で楽曲を30曲解放"
+
+msgid "sns_dsc_0032"
+msgstr "記憶の時空で楽曲を31曲解放"
+
+msgid "sns_dsc_0033"
+msgstr "記憶の時空で楽曲を32曲解放"
+
+msgid "sns_dsc_0034"
+msgstr "記憶の時空で楽曲を33曲解放"
+
+msgid "sns_dsc_0035"
+msgstr "記憶の時空で楽曲を34曲解放"
+
+msgid "sns_dsc_0036"
+msgstr "記憶の時空で楽曲を35曲解放"
+
+msgid "sns_dsc_0038"
+msgstr "記憶の時空で楽曲を36曲解放"
+
+msgid "sns_dsc_0039"
+msgstr "記憶の時空で楽曲を37曲解放"
+
+msgid "sns_dsc_0040"
+msgstr "記憶の時空で楽曲を38曲解放"
+
+msgid "sns_dsc_0041"
+msgstr "記憶の時空で楽曲を39曲解放"
+
+msgid "sns_dsc_0042"
+msgstr "記憶の時空で楽曲を40曲解放"
+
+msgid "sns_dsc_0043"
+msgstr "記憶の時空で楽曲を41曲解放"
+
+msgid "sns_dsc_0044"
+msgstr "記憶の時空で楽曲を42曲解放"
+
+msgid "sns_dsc_0045"
+msgstr "記憶の時空で楽曲を43曲解放"
+
+msgid "sns_dsc_0046"
+msgstr "記憶の時空で楽曲を44曲解放"
+
+msgid "sns_dsc_0047"
+msgstr "記憶の時空で楽曲を45曲解放"
+
+msgid "sns_dsc_0048"
+msgstr "記憶の時空で楽曲を46曲解放"
+
+msgid "sns_dsc_0049"
+msgstr "記憶の時空で楽曲を47曲解放"
+
+msgid "sns_dsc_0050"
+msgstr "記憶の時空で楽曲を48曲解放"
+
+msgid "sns_dsc_0051"
+msgstr "記憶の時空で楽曲を49曲解放"
+
+msgid "sns_dsc_0052"
+msgstr "記憶の時空で楽曲を50曲解放"
+
+msgid "sns_dsc_0053"
+msgstr "記憶の時空で楽曲を51曲解放"
+
+msgid "sns_dsc_0054"
+msgstr "記憶の時空で楽曲を52曲解放"
+
+msgid "sns_dsc_0055"
+msgstr "記憶の時空で楽曲を53曲解放"
+
+msgid "sns_dsc_0056"
+msgstr "記憶の時空で楽曲を54曲解放"
+
+msgid "sns_dsc_0057"
+msgstr "記憶の時空で楽曲を55曲解放"
+
+msgid "sns_dsc_0058"
+msgstr "記憶の時空で楽曲を56曲解放"
+
+msgid "sns_dsc_0059"
+msgstr "記憶の時空で楽曲を57曲解放"
+
+msgid "sns_dsc_0060"
+msgstr "記憶の時空で楽曲を58曲解放"
+
+msgid "sns_dsc_0061"
+msgstr "記憶の時空で楽曲を59曲解放"
+
+msgid "sns_dsc_0062"
+msgstr "記憶の時空で楽曲を60曲解放"
+
+msgid "sns_dsc_0063"
+msgstr "記憶の時空で楽曲を61曲解放"
+
+msgid "sns_dsc_0064"
+msgstr "記憶の時空で楽曲を62曲解放"
+
+msgid "sns_dsc_0065"
+msgstr "記憶の時空で楽曲を63曲解放"
+
+msgid "sns_dsc_0066"
+msgstr "記憶の時空で楽曲を64曲解放"
+
+msgid "sns_dsc_0067"
+msgstr "記憶の時空で楽曲を65曲解放"
+
+msgid "sns_dsc_0068"
+msgstr "記憶の時空で楽曲を66曲解放"
+
+msgid "sns_dsc_0069"
+msgstr "記憶の時空で楽曲を67曲解放"
+
+msgid "sns_dsc_0070"
+msgstr "記憶の時空で楽曲を68曲解放"
+
+msgid "sns_dsc_0071"
+msgstr "記憶の時空で楽曲を69曲解放"
+
+msgid "sns_dsc_0072"
+msgstr "記憶の時空で楽曲を70曲解放"
+
+msgid "sns_dsc_0073"
+msgstr "記憶の時空で楽曲を71曲解放"
+
+msgid "sns_dsc_0074"
+msgstr "記憶の時空で楽曲を72曲解放"
+
+msgid "sns_dsc_0075"
+msgstr "記憶の時空で楽曲を73曲解放"
+
+msgid "sns_dsc_0076"
+msgstr "記憶の時空で楽曲を74曲解放"
+
+msgid "sns_dsc_0077"
+msgstr "記憶の時空で楽曲を75曲解放"
+
+msgid "sns_dsc_0078"
+msgstr "定常曲「絶対零度θノヴァティック Another ver.」を解放"
+
+msgid "sns_dsc_0079"
+msgstr "定常曲「HEART＆SOUL」を解放"
+
+msgid "sns_dsc_0080"
+msgstr "定常曲「蒼のエーテル」を解放"
+
+msgid "sns_dsc_0081"
+msgstr "定常曲「シンデレラ」を解放"
+
+msgid "sns_dsc_0082"
+msgstr "定常曲「いけないボーダーライン Another ver.」を解放"
+
+msgid "sns_dsc_0083"
+msgstr "定常曲「僕らの戦場【MIRROR ver.】」を解放"
+
+msgid "sns_dsc_0084"
+msgstr "定常曲「妖精」を解放"
+
+msgid "sns_dsc_0085"
+msgstr "定常曲「Merry Christmas without You」を解放"
+
+msgid "sns_dsc_0086"
+msgstr "定常曲「Dancing in the Moonlight Another ver.」を解放"
+
+msgid "sns_dsc_0087"
+msgstr "定常曲「イゾラド」を解放"
+
+msgid "sns_dsc_0101"
+msgstr "フレイア　レベル2"
+
+msgid "sns_dsc_0102"
+msgstr "フレイア　レベル4"
+
+msgid "sns_dsc_0103"
+msgstr "フレイア　レベル7"
+
+msgid "sns_dsc_0104"
+msgstr "フレイア　レベル10"
+
+msgid "sns_dsc_0105"
+msgstr "フレイア　レベル12"
+
+msgid "sns_dsc_0106"
+msgstr "フレイア　レベル17"
+
+msgid "sns_dsc_0107"
+msgstr "フレイア　レベル20"
+
+msgid "sns_dsc_0108"
+msgstr "フレイア　レベル25"
+
+msgid "sns_dsc_0109"
+msgstr "フレイア　レベル30"
+
+msgid "sns_dsc_0110"
+msgstr "フレイア　レベル35"
+
+msgid "sns_dsc_0111"
+msgstr "フレイア　レベル40"
+
+msgid "sns_dsc_0114"
+msgstr "美雲　レベル2"
+
+msgid "sns_dsc_0115"
+msgstr "美雲　レベル4"
+
+msgid "sns_dsc_0116"
+msgstr "美雲　レベル7"
+
+msgid "sns_dsc_0117"
+msgstr "美雲　レベル10"
+
+msgid "sns_dsc_0118"
+msgstr "美雲　レベル12"
+
+msgid "sns_dsc_0119"
+msgstr "美雲　レベル17"
+
+msgid "sns_dsc_0120"
+msgstr "美雲　レベル20"
+
+msgid "sns_dsc_0121"
+msgstr "美雲　レベル25"
+
+msgid "sns_dsc_0122"
+msgstr "美雲　レベル30"
+
+msgid "sns_dsc_0123"
+msgstr "美雲　レベル35"
+
+msgid "sns_dsc_0124"
+msgstr "美雲　レベル40"
+
+msgid "sns_dsc_0127"
+msgstr "カナメ　レベル2"
+
+msgid "sns_dsc_0128"
+msgstr "カナメ　レベル4"
+
+msgid "sns_dsc_0129"
+msgstr "カナメ　レベル7"
+
+msgid "sns_dsc_0130"
+msgstr "カナメ　レベル10"
+
+msgid "sns_dsc_0131"
+msgstr "カナメ　レベル12"
+
+msgid "sns_dsc_0132"
+msgstr "カナメ　レベル17"
+
+msgid "sns_dsc_0133"
+msgstr "カナメ　レベル20"
+
+msgid "sns_dsc_0134"
+msgstr "カナメ　レベル25"
+
+msgid "sns_dsc_0135"
+msgstr "カナメ　レベル30"
+
+msgid "sns_dsc_0136"
+msgstr "カナメ　レベル35"
+
+msgid "sns_dsc_0137"
+msgstr "カナメ　レベル40"
+
+msgid "sns_dsc_0140"
+msgstr "マキナ　レベル2"
+
+msgid "sns_dsc_0141"
+msgstr "マキナ　レベル4"
+
+msgid "sns_dsc_0142"
+msgstr "マキナ　レベル7"
+
+msgid "sns_dsc_0143"
+msgstr "マキナ　レベル10"
+
+msgid "sns_dsc_0144"
+msgstr "マキナ　レベル12"
+
+msgid "sns_dsc_0145"
+msgstr "マキナ　レベル17"
+
+msgid "sns_dsc_0146"
+msgstr "マキナ　レベル20"
+
+msgid "sns_dsc_0147"
+msgstr "マキナ　レベル25"
+
+msgid "sns_dsc_0148"
+msgstr "マキナ　レベル30"
+
+msgid "sns_dsc_0149"
+msgstr "マキナ　レベル35"
+
+msgid "sns_dsc_0150"
+msgstr "マキナ　レベル40"
+
+msgid "sns_dsc_0153"
+msgstr "レイナ　レベル2"
+
+msgid "sns_dsc_0154"
+msgstr "レイナ　レベル4"
+
+msgid "sns_dsc_0155"
+msgstr "レイナ　レベル7"
+
+msgid "sns_dsc_0156"
+msgstr "レイナ　レベル10"
+
+msgid "sns_dsc_0157"
+msgstr "レイナ　レベル12"
+
+msgid "sns_dsc_0158"
+msgstr "レイナ　レベル17"
+
+msgid "sns_dsc_0159"
+msgstr "レイナ　レベル20"
+
+msgid "sns_dsc_0160"
+msgstr "レイナ　レベル25"
+
+msgid "sns_dsc_0161"
+msgstr "レイナ　レベル30"
+
+msgid "sns_dsc_0162"
+msgstr "レイナ　レベル35"
+
+msgid "sns_dsc_0163"
+msgstr "レイナ　レベル40"
+
+msgid "sns_dsc_0166"
+msgstr "ランカ　レベル2"
+
+msgid "sns_dsc_0167"
+msgstr "ランカ　レベル4"
+
+msgid "sns_dsc_0168"
+msgstr "ランカ　レベル7"
+
+msgid "sns_dsc_0169"
+msgstr "ランカ　レベル10"
+
+msgid "sns_dsc_0170"
+msgstr "ランカ　レベル12"
+
+msgid "sns_dsc_0171"
+msgstr "ランカ　レベル17"
+
+msgid "sns_dsc_0172"
+msgstr "ランカ　レベル20"
+
+msgid "sns_dsc_0173"
+msgstr "ランカ　レベル25"
+
+msgid "sns_dsc_0174"
+msgstr "ランカ　レベル30"
+
+msgid "sns_dsc_0175"
+msgstr "ランカ　レベル35"
+
+msgid "sns_dsc_0176"
+msgstr "ランカ　レベル40"
+
+msgid "sns_dsc_0179"
+msgstr "シェリル　レベル2"
+
+msgid "sns_dsc_0180"
+msgstr "シェリル　レベル4"
+
+msgid "sns_dsc_0181"
+msgstr "シェリル　レベル7"
+
+msgid "sns_dsc_0182"
+msgstr "シェリル　レベル10"
+
+msgid "sns_dsc_0183"
+msgstr "シェリル　レベル12"
+
+msgid "sns_dsc_0184"
+msgstr "シェリル　レベル17"
+
+msgid "sns_dsc_0185"
+msgstr "シェリル　レベル20"
+
+msgid "sns_dsc_0186"
+msgstr "シェリル　レベル25"
+
+msgid "sns_dsc_0187"
+msgstr "シェリル　レベル30"
+
+msgid "sns_dsc_0188"
+msgstr "シェリル　レベル35"
+
+msgid "sns_dsc_0189"
+msgstr "シェリル　レベル40"
+
+msgid "sns_dsc_0192"
+msgstr "ミレーヌ　レベル2"
+
+msgid "sns_dsc_0193"
+msgstr "ミレーヌ　レベル4"
+
+msgid "sns_dsc_0194"
+msgstr "ミレーヌ　レベル7"
+
+msgid "sns_dsc_0195"
+msgstr "ミレーヌ　レベル10"
+
+msgid "sns_dsc_0196"
+msgstr "ミレーヌ　レベル12"
+
+msgid "sns_dsc_0197"
+msgstr "ミレーヌ　レベル17"
+
+msgid "sns_dsc_0198"
+msgstr "ミレーヌ　レベル20"
+
+msgid "sns_dsc_0199"
+msgstr "ミレーヌ　レベル25"
+
+msgid "sns_dsc_0200"
+msgstr "ミレーヌ　レベル30"
+
+msgid "sns_dsc_0201"
+msgstr "ミレーヌ　レベル35"
+
+msgid "sns_dsc_0202"
+msgstr "ミレーヌ　レベル40"
+
+msgid "sns_dsc_0205"
+msgstr "バサラ　レベル2"
+
+msgid "sns_dsc_0206"
+msgstr "バサラ　レベル4"
+
+msgid "sns_dsc_0207"
+msgstr "バサラ　レベル7"
+
+msgid "sns_dsc_0208"
+msgstr "バサラ　レベル10"
+
+msgid "sns_dsc_0209"
+msgstr "バサラ　レベル12"
+
+msgid "sns_dsc_0210"
+msgstr "バサラ　レベル17"
+
+msgid "sns_dsc_0211"
+msgstr "バサラ　レベル20"
+
+msgid "sns_dsc_0212"
+msgstr "バサラ　レベル25"
+
+msgid "sns_dsc_0213"
+msgstr "バサラ　レベル30"
+
+msgid "sns_dsc_0214"
+msgstr "バサラ　レベル35"
+
+msgid "sns_dsc_0215"
+msgstr "バサラ　レベル40"
+
+msgid "sns_dsc_0218"
+msgstr "ミンメイ　レベル2"
+
+msgid "sns_dsc_0219"
+msgstr "ミンメイ　レベル4"
+
+msgid "sns_dsc_0220"
+msgstr "ミンメイ　レベル7"
+
+msgid "sns_dsc_0221"
+msgstr "ミンメイ　レベル10"
+
+msgid "sns_dsc_0222"
+msgstr "ミンメイ　レベル12"
+
+msgid "sns_dsc_0223"
+msgstr "ミンメイ　レベル17"
+
+msgid "sns_dsc_0224"
+msgstr "ミンメイ　レベル20"
+
+msgid "sns_dsc_0225"
+msgstr "ミンメイ　レベル25"
+
+msgid "sns_dsc_0226"
+msgstr "ミンメイ　レベル30"
+
+msgid "sns_dsc_0227"
+msgstr "ミンメイ　レベル35"
+
+msgid "sns_dsc_0228"
+msgstr "ミンメイ　レベル40"
+
+msgid "sns_dsc_0231"
+msgstr "ライブ　5回クリア"
+
+msgid "sns_dsc_0232"
+msgstr "ライブ　10回クリア"
+
+msgid "sns_dsc_0233"
+msgstr "ライブ　20回クリア"
+
+msgid "sns_dsc_0234"
+msgstr "ライブ　30回クリア"
+
+msgid "sns_dsc_0235"
+msgstr "ライブ　40回クリア"
+
+msgid "sns_dsc_0236"
+msgstr "ライブ　50回クリア"
+
+msgid "sns_dsc_0237"
+msgstr "ライブ　75回クリア"
+
+msgid "sns_dsc_0238"
+msgstr "ライブ　100回クリア"
+
+msgid "sns_dsc_0239"
+msgstr "ライブ　150回クリア"
+
+msgid "sns_dsc_0240"
+msgstr "ライブ　200回クリア"
+
+msgid "sns_dsc_0241"
+msgstr "ライブ　250回クリア"
+
+msgid "sns_dsc_0242"
+msgstr "ライブ　300回クリア"
+
+msgid "sns_dsc_0243"
+msgstr "ライブ　400回クリア"
+
+msgid "sns_dsc_0244"
+msgstr "ライブ　500回クリア"
+
+msgid "sns_dsc_0245"
+msgstr "ライブ　600回クリア"
+
+msgid "sns_dsc_0246"
+msgstr "ライブ　700回クリア"
+
+msgid "sns_dsc_0247"
+msgstr "ライブ　800回クリア"
+
+msgid "sns_dsc_0248"
+msgstr "ライブ　900回クリア"
+
+msgid "sns_dsc_0249"
+msgstr "ライブ　1000回クリア"
+
+msgid "sns_dsc_0250"
+msgstr "ライブ　1250回クリア"
+
+msgid "sns_dsc_0251"
+msgstr "ライブ　1500回クリア"
+
+msgid "sns_dsc_0252"
+msgstr "ライブ　1750回クリア"
+
+msgid "sns_dsc_0253"
+msgstr "ライブ　2000回クリア"
+
+msgid "sns_dsc_0254"
+msgstr "ライブ　2250回クリア"
+
+msgid "sns_dsc_0255"
+msgstr "ライブ　2500回クリア"
+
+msgid "sns_dsc_0256"
+msgstr "ライブ　2750回クリア"
+
+msgid "sns_dsc_0257"
+msgstr "ライブ　3000回クリア"
+
+msgid "sns_dsc_0258"
+msgstr "ライブ　3250回クリア"
+
+msgid "sns_dsc_0259"
+msgstr "ライブ　3500回クリア"
+
+msgid "sns_dsc_0260"
+msgstr "ライブ　3750回クリア"
+
+msgid "sns_dsc_0400"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc_0401"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc_0402"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc_0403"
+msgstr "2021クリスマス"
+
+msgid "sns_dsc_0404"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc_0405"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc_0406"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc_0407"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc_0408"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc_0409"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc_0410"
+msgstr "キース誕生日"
+
+msgid "sns_dsc_0411"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc_0412"
+msgstr "2022エイプリルフール"
+
+msgid "sns_dsc_0413"
+msgstr "2022エイプリルフール"
+
+msgid "sns_dsc_0414"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc_0415"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc_0416"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc_0417"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc_0532"
+msgstr "デビューオペレーションを1回達成"
+
+msgid "sns_dsc_0533"
+msgstr "デビューオペレーションを2回達成"
+
+msgid "sns_dsc_0534"
+msgstr "デビューオペレーションを3回達成"
+
+msgid "sns_dsc_0535"
+msgstr "デビューオペレーションを4回達成"
+
+msgid "sns_dsc_0536"
+msgstr "デビューオペレーションを5回達成"
+
+msgid "sns_dsc_0537"
+msgstr "デビューオペレーションを6回達成"
+
+msgid "sns_dsc_0538"
+msgstr "デビューオペレーションを7回達成"
+
+msgid "sns_dsc_0539"
+msgstr "デビューオペレーションを8回達成"
+
+msgid "sns_dsc_0540"
+msgstr "歌姫オペレーション解放"
+
+msgid "sns_dsc_0541"
+msgstr "フレイアの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0542"
+msgstr "フレイアの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0543"
+msgstr "美雲の歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0544"
+msgstr "美雲の歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0545"
+msgstr "カナメの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0546"
+msgstr "カナメの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0547"
+msgstr "マキナの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0548"
+msgstr "マキナの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0549"
+msgstr "レイナの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0550"
+msgstr "レイナの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0551"
+msgstr "ランカの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0552"
+msgstr "ランカの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0553"
+msgstr "シェリルの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0554"
+msgstr "シェリルの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0555"
+msgstr "ミレーヌの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0556"
+msgstr "ミレーヌの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0557"
+msgstr "バサラの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0558"
+msgstr "バサラの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0559"
+msgstr "ミンメイの歌姫オペレーション1回達成"
+
+msgid "sns_dsc_0560"
+msgstr "ミンメイの歌姫オペレーション10回達成"
+
+msgid "sns_dsc_0561"
+msgstr "？？？？？？"
+
+msgid "sns_dsc_0577"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc_0578"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc_0580"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc_0583"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc_0584"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc_0588"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc_0589"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc_0590"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc_0592"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc_0593"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc_0594"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc_0595"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc_0596"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc_0598"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc_0604"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc_0605"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc_0608"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc_0611"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc_0613"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc_0614"
+msgstr "キース誕生日"
+
+msgid "sns_dsc_0615"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc_0616"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc_0617"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc_0618"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc_0619"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc_0620"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc_0621"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc_0622"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc_0623"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc_0624"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc_0625"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc_0626"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc_0627"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc_0628"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc_0629"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc_0630"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc_0631"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc_0632"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc_0633"
+msgstr "キース誕生日"
+
+msgid "sns_dsc_0634"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc_0635"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc_0636"
+msgstr "2019エイプリルフール"
+
+msgid "sns_dsc_0637"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc_0638"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc_0639"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc_0640"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc_0641"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc_0642"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc_0643"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc_0644"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc_0645"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc_0646"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc_0647"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc_0648"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc_0649"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc_0650"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc_0651"
+msgstr "2019クリスマス"
+
+msgid "sns_dsc_0652"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc_0653"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc_0654"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc_0655"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc_0656"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc_0657"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc_0658"
+msgstr "キース誕生日"
+
+msgid "sns_dsc_0659"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc_0660"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc_0661"
+msgstr "2020エイプリルフール"
+
+msgid "sns_dsc_0662"
+msgstr "2020エイプリルフール"
+
+msgid "sns_dsc_0663"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc_0664"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc_0665"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc_0666"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc_0667"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc_0668"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc_0669"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc_0670"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc_0671"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc_0672"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc_0673"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc_0674"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc_0675"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc_0676"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc_0677"
+msgstr "2020クリスマス"
+
+msgid "sns_dsc_0678"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc_0679"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc_0680"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc_0681"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc_0682"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc_0683"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc_0684"
+msgstr "キース誕生日"
+
+msgid "sns_dsc_0685"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc_0686"
+msgstr "2021エイプリルフール"
+
+msgid "sns_dsc_0687"
+msgstr "2021エイプリルフール"
+
+msgid "sns_dsc_0688"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc_0689"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc_0690"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc_0691"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc_0692"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc_0693"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc_0694"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc_0695"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc_0696"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc_0697"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc_0698"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc_0699"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc_0700"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0701"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0702"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0703"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0704"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0705"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0706"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0707"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0708"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0709"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0710"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0711"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0712"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0713"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0714"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0715"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0716"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0717"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0718"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0719"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0720"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0721"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0722"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0723"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0724"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0725"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0726"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0727"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0728"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0729"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0730"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0731"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0732"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0733"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0734"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0735"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0736"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0737"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0738"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0739"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0740"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0741"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0742"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0743"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0744"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0745"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0746"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0747"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0748"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0749"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0750"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0751"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0752"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0753"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0754"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0755"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0756"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0757"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0758"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0759"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0760"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0761"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0762"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0763"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0764"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0765"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0766"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0767"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0768"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0769"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0770"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0771"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0772"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0773"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0774"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0775"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0776"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0777"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0778"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0779"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0780"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0781"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0782"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0783"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0784"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0785"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0786"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0787"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0788"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0789"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0790"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0791"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0792"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0793"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0794"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0795"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0796"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0797"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0798"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0799"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0800"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0801"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0802"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0803"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0804"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0805"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0806"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0807"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0808"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0809"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0810"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0811"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0812"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0813"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0814"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0815"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0816"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0817"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0818"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0819"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0820"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0821"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0822"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0823"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0824"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0825"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0826"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0827"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0828"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0829"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0830"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0831"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0832"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0833"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0834"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0835"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0836"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0837"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0838"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0839"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0840"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0841"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0842"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0843"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0844"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0845"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0846"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0847"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0848"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0849"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0850"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0851"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0852"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0853"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0854"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0855"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0856"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0857"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0858"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0860"
+msgstr "累計ポイントを1000pt入手"
+
+msgid "sns_dsc_0861"
+msgstr "累計ポイントを10000pt入手"
+
+msgid "sns_dsc_0862"
+msgstr "累計ポイントを20000pt入手"
+
+msgid "sns_dsc_0863"
+msgstr "累計ポイントを1300pt入手"
+
+msgid "sns_dsc_0864"
+msgstr "累計ポイントを14000pt入手"
+
+msgid "sns_dsc_0865"
+msgstr "累計ポイントを24000pt入手"
+
+msgid "sns_dsc_0866"
+msgstr "累計ポイントを1000pt入手"
+
+msgid "sns_dsc_0867"
+msgstr "累計ポイントを6400pt入手"
+
+msgid "sns_dsc_0868"
+msgstr "累計ポイントを14500pt入手"
+
+msgid "sns_dsc_0869"
+msgstr "累計ポイントを1300pt入手"
+
+msgid "sns_dsc_0870"
+msgstr "累計ポイントを14000pt入手"
+
+msgid "sns_dsc_0871"
+msgstr "累計ポイントを24000pt入手"
+
+msgid "sns_dsc_0872"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0873"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0874"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0875"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0876"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0877"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0878"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0879"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0880"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0881"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0882"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0883"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0884"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0885"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0886"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0887"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0888"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0889"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0890"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0891"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0892"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0893"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0894"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0895"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0896"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0897"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0898"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0899"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0900"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0901"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0902"
+msgstr "クリスマス（2017）"
+
+msgid "sns_dsc_0903"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0904"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0905"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0906"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0907"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0908"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0909"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0910"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0911"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0912"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc_0913"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc_0914"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc_0915"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc_0916"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0917"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0918"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0919"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0920"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0921"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0922"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0923"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0924"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0925"
+msgstr "劇場版コラボ"
+
+msgid "sns_dsc_0926"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0927"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0928"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0929"
+msgstr "3rdライブコラボ"
+
+msgid "sns_dsc_0930"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0931"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0932"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0933"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0934"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0935"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0936"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0937"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0938"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0939"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0940"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0941"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0942"
+msgstr "エイプリルフール"
+
+msgid "sns_dsc_0943"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0944"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0945"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0946"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0947"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0948"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0949"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0950"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0951"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0952"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0953"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0954"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0955"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0956"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0957"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0958"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0959"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0960"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0961"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0962"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0963"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0964"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0965"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0966"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0967"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0968"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0969"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0970"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0971"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0972"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0973"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0974"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0975"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0976"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0977"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0978"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0979"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0980"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0981"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0982"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0983"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0984"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0985"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0986"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0987"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0988"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0989"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0990"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0991"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0992"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0993"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0994"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0995"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0996"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0997"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0998"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_0999"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1000"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1001"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1002"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1003"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1004"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1005"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1006"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1007"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1008"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1009"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1010"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1011"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1012"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1013"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1014"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1015"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1016"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1017"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1018"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1019"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1020"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1021"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1022"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1023"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1024"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1025"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1026"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1027"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1028"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1029"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1030"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1031"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1032"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1033"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1034"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1035"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1036"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1037"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1038"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1039"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1040"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1041"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1042"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1043"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1044"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1045"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1046"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1047"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1048"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1049"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1050"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1051"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1052"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1053"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1054"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1055"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1056"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1057"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1058"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1059"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1060"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1061"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1062"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1063"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1064"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1065"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1066"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1067"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1068"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1069"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1070"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1071"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1072"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1073"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1074"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1075"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1076"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1077"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1078"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1079"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1080"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1081"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1082"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1083"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1084"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1085"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1086"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1087"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1088"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1089"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1090"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1091"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1092"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1093"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1094"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1095"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1096"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1097"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1098"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1099"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1100"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1101"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1102"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1103"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1104"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1105"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1106"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1107"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1108"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1109"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1110"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1111"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1112"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1113"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1114"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1115"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1116"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1117"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1118"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1119"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1120"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1121"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1122"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1123"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1124"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc_1125"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0001"
+msgstr "フレイアがログインしました"
+
+msgid "sns_dsc2_0002"
+msgstr "記憶の時空で楽曲を1曲解放"
+
+msgid "sns_dsc2_0003"
+msgstr "記憶の時空で楽曲を2曲解放"
+
+msgid "sns_dsc2_0004"
+msgstr "記憶の時空で楽曲を3曲解放"
+
+msgid "sns_dsc2_0005"
+msgstr "記憶の時空で楽曲を4曲解放"
+
+msgid "sns_dsc2_0006"
+msgstr "記憶の時空で楽曲を5曲解放"
+
+msgid "sns_dsc2_0007"
+msgstr "記憶の時空で楽曲を6曲解放"
+
+msgid "sns_dsc2_0008"
+msgstr "記憶の時空で楽曲を7曲解放"
+
+msgid "sns_dsc2_0009"
+msgstr "記憶の時空で楽曲を8曲解放"
+
+msgid "sns_dsc2_0010"
+msgstr "記憶の時空で楽曲を9曲解放"
+
+msgid "sns_dsc2_0011"
+msgstr "記憶の時空で楽曲を10曲解放"
+
+msgid "sns_dsc2_0012"
+msgstr "記憶の時空で楽曲を11曲解放"
+
+msgid "sns_dsc2_0013"
+msgstr "記憶の時空で楽曲を12曲解放"
+
+msgid "sns_dsc2_0014"
+msgstr "記憶の時空で楽曲を13曲解放"
+
+msgid "sns_dsc2_0015"
+msgstr "記憶の時空で楽曲を14曲解放"
+
+msgid "sns_dsc2_0016"
+msgstr "記憶の時空で楽曲を15曲解放"
+
+msgid "sns_dsc2_0017"
+msgstr "記憶の時空で楽曲を16曲解放"
+
+msgid "sns_dsc2_0018"
+msgstr "記憶の時空で楽曲を17曲解放"
+
+msgid "sns_dsc2_0019"
+msgstr "記憶の時空で楽曲を18曲解放"
+
+msgid "sns_dsc2_0020"
+msgstr "記憶の時空で楽曲を19曲解放"
+
+msgid "sns_dsc2_0021"
+msgstr "記憶の時空で楽曲を20曲解放"
+
+msgid "sns_dsc2_0022"
+msgstr "記憶の時空で楽曲を21曲解放"
+
+msgid "sns_dsc2_0023"
+msgstr "記憶の時空で楽曲を22曲解放"
+
+msgid "sns_dsc2_0024"
+msgstr "記憶の時空で楽曲を23曲解放"
+
+msgid "sns_dsc2_0025"
+msgstr "記憶の時空で楽曲を24曲解放"
+
+msgid "sns_dsc2_0026"
+msgstr "記憶の時空で楽曲を25曲解放"
+
+msgid "sns_dsc2_0027"
+msgstr "記憶の時空で楽曲を26曲解放"
+
+msgid "sns_dsc2_0028"
+msgstr "記憶の時空で楽曲を27曲解放"
+
+msgid "sns_dsc2_0029"
+msgstr "記憶の時空で楽曲を28曲解放"
+
+msgid "sns_dsc2_0030"
+msgstr "記憶の時空で楽曲を29曲解放"
+
+msgid "sns_dsc2_0031"
+msgstr "記憶の時空で楽曲を30曲解放"
+
+msgid "sns_dsc2_0032"
+msgstr "記憶の時空で楽曲を31曲解放"
+
+msgid "sns_dsc2_0033"
+msgstr "記憶の時空で楽曲を32曲解放"
+
+msgid "sns_dsc2_0034"
+msgstr "記憶の時空で楽曲を33曲解放"
+
+msgid "sns_dsc2_0035"
+msgstr "記憶の時空で楽曲を34曲解放"
+
+msgid "sns_dsc2_0036"
+msgstr "記憶の時空で楽曲を35曲解放"
+
+msgid "sns_dsc2_0038"
+msgstr "記憶の時空で楽曲を36曲解放"
+
+msgid "sns_dsc2_0039"
+msgstr "記憶の時空で楽曲を37曲解放"
+
+msgid "sns_dsc2_0040"
+msgstr "記憶の時空で楽曲を38曲解放"
+
+msgid "sns_dsc2_0041"
+msgstr "記憶の時空で楽曲を39曲解放"
+
+msgid "sns_dsc2_0042"
+msgstr "記憶の時空で楽曲を40曲解放"
+
+msgid "sns_dsc2_0043"
+msgstr "記憶の時空で楽曲を41曲解放"
+
+msgid "sns_dsc2_0044"
+msgstr "記憶の時空で楽曲を42曲解放"
+
+msgid "sns_dsc2_0045"
+msgstr "記憶の時空で楽曲を43曲解放"
+
+msgid "sns_dsc2_0046"
+msgstr "記憶の時空で楽曲を44曲解放"
+
+msgid "sns_dsc2_0047"
+msgstr "記憶の時空で楽曲を45曲解放"
+
+msgid "sns_dsc2_0048"
+msgstr "記憶の時空で楽曲を46曲解放"
+
+msgid "sns_dsc2_0049"
+msgstr "記憶の時空で楽曲を47曲解放"
+
+msgid "sns_dsc2_0050"
+msgstr "記憶の時空で楽曲を48曲解放"
+
+msgid "sns_dsc2_0051"
+msgstr "記憶の時空で楽曲を49曲解放"
+
+msgid "sns_dsc2_0052"
+msgstr "記憶の時空で楽曲を50曲解放"
+
+msgid "sns_dsc2_0053"
+msgstr "記憶の時空で楽曲を51曲解放"
+
+msgid "sns_dsc2_0054"
+msgstr "記憶の時空で楽曲を52曲解放"
+
+msgid "sns_dsc2_0055"
+msgstr "記憶の時空で楽曲を53曲解放"
+
+msgid "sns_dsc2_0056"
+msgstr "記憶の時空で楽曲を54曲解放"
+
+msgid "sns_dsc2_0057"
+msgstr "記憶の時空で楽曲を55曲解放"
+
+msgid "sns_dsc2_0058"
+msgstr "記憶の時空で楽曲を56曲解放"
+
+msgid "sns_dsc2_0059"
+msgstr "記憶の時空で楽曲を57曲解放"
+
+msgid "sns_dsc2_0060"
+msgstr "記憶の時空で楽曲を58曲解放"
+
+msgid "sns_dsc2_0061"
+msgstr "記憶の時空で楽曲を59曲解放"
+
+msgid "sns_dsc2_0062"
+msgstr "記憶の時空で楽曲を60曲解放"
+
+msgid "sns_dsc2_0063"
+msgstr "記憶の時空で楽曲を61曲解放"
+
+msgid "sns_dsc2_0064"
+msgstr "記憶の時空で楽曲を62曲解放"
+
+msgid "sns_dsc2_0065"
+msgstr "記憶の時空で楽曲を63曲解放"
+
+msgid "sns_dsc2_0066"
+msgstr "記憶の時空で楽曲を64曲解放"
+
+msgid "sns_dsc2_0067"
+msgstr "記憶の時空で楽曲を65曲解放"
+
+msgid "sns_dsc2_0068"
+msgstr "記憶の時空で楽曲を66曲解放"
+
+msgid "sns_dsc2_0069"
+msgstr "記憶の時空で楽曲を67曲解放"
+
+msgid "sns_dsc2_0070"
+msgstr "記憶の時空で楽曲を68曲解放"
+
+msgid "sns_dsc2_0071"
+msgstr "記憶の時空で楽曲を69曲解放"
+
+msgid "sns_dsc2_0072"
+msgstr "記憶の時空で楽曲を70曲解放"
+
+msgid "sns_dsc2_0073"
+msgstr "記憶の時空で楽曲を71曲解放"
+
+msgid "sns_dsc2_0074"
+msgstr "記憶の時空で楽曲を72曲解放"
+
+msgid "sns_dsc2_0075"
+msgstr "記憶の時空で楽曲を73曲解放"
+
+msgid "sns_dsc2_0076"
+msgstr "記憶の時空で楽曲を74曲解放"
+
+msgid "sns_dsc2_0077"
+msgstr "記憶の時空で楽曲を75曲解放"
+
+msgid "sns_dsc2_0078"
+msgstr "定常曲「絶対零度θノヴァティック Another ver.」を解放"
+
+msgid "sns_dsc2_0079"
+msgstr "定常曲「HEART＆SOUL」を解放"
+
+msgid "sns_dsc2_0080"
+msgstr "定常曲「蒼のエーテル」を解放"
+
+msgid "sns_dsc2_0081"
+msgstr "定常曲「シンデレラ」を解放"
+
+msgid "sns_dsc2_0082"
+msgstr "定常曲「いけないボーダーライン Another ver.」を解放"
+
+msgid "sns_dsc2_0083"
+msgstr "定常曲「僕らの戦場【MIRROR ver.】」を解放"
+
+msgid "sns_dsc2_0084"
+msgstr "定常曲「妖精」を解放"
+
+msgid "sns_dsc2_0085"
+msgstr "定常曲「Merry Christmas without You」を解放"
+
+msgid "sns_dsc2_0086"
+msgstr "定常曲「Dancing in the Moonlight Another ver.」を解放"
+
+msgid "sns_dsc2_0087"
+msgstr "定常曲「イゾラド」を解放"
+
+msgid "sns_dsc2_0101"
+msgstr "フレイア　レベル2で解放"
+
+msgid "sns_dsc2_0102"
+msgstr "フレイア　レベル4で解放"
+
+msgid "sns_dsc2_0103"
+msgstr "フレイア　レベル7で解放"
+
+msgid "sns_dsc2_0104"
+msgstr "フレイア　レベル10で解放"
+
+msgid "sns_dsc2_0105"
+msgstr "フレイア　レベル12で解放"
+
+msgid "sns_dsc2_0106"
+msgstr "フレイア　レベル17で解放"
+
+msgid "sns_dsc2_0107"
+msgstr "フレイア　レベル20で解放"
+
+msgid "sns_dsc2_0108"
+msgstr "フレイア　レベル25で解放"
+
+msgid "sns_dsc2_0109"
+msgstr "フレイア　レベル30で解放"
+
+msgid "sns_dsc2_0110"
+msgstr "フレイア　レベル35で解放"
+
+msgid "sns_dsc2_0111"
+msgstr "フレイア　レベル40で解放"
+
+msgid "sns_dsc2_0114"
+msgstr "美雲　レベル2で解放"
+
+msgid "sns_dsc2_0115"
+msgstr "美雲　レベル4で解放"
+
+msgid "sns_dsc2_0116"
+msgstr "美雲　レベル7で解放"
+
+msgid "sns_dsc2_0117"
+msgstr "美雲　レベル10で解放"
+
+msgid "sns_dsc2_0118"
+msgstr "美雲　レベル12で解放"
+
+msgid "sns_dsc2_0119"
+msgstr "美雲　レベル17で解放"
+
+msgid "sns_dsc2_0120"
+msgstr "美雲　レベル20で解放"
+
+msgid "sns_dsc2_0121"
+msgstr "美雲　レベル25で解放"
+
+msgid "sns_dsc2_0122"
+msgstr "美雲　レベル30で解放"
+
+msgid "sns_dsc2_0123"
+msgstr "美雲　レベル35で解放"
+
+msgid "sns_dsc2_0124"
+msgstr "美雲　レベル40で解放"
+
+msgid "sns_dsc2_0127"
+msgstr "カナメ　レベル2で解放"
+
+msgid "sns_dsc2_0128"
+msgstr "カナメ　レベル4で解放"
+
+msgid "sns_dsc2_0129"
+msgstr "カナメ　レベル7で解放"
+
+msgid "sns_dsc2_0130"
+msgstr "カナメ　レベル10で解放"
+
+msgid "sns_dsc2_0131"
+msgstr "カナメ　レベル12で解放"
+
+msgid "sns_dsc2_0132"
+msgstr "カナメ　レベル17で解放"
+
+msgid "sns_dsc2_0133"
+msgstr "カナメ　レベル20で解放"
+
+msgid "sns_dsc2_0134"
+msgstr "カナメ　レベル25で解放"
+
+msgid "sns_dsc2_0135"
+msgstr "カナメ　レベル30で解放"
+
+msgid "sns_dsc2_0136"
+msgstr "カナメ　レベル35で解放"
+
+msgid "sns_dsc2_0137"
+msgstr "カナメ　レベル40で解放"
+
+msgid "sns_dsc2_0140"
+msgstr "マキナ　レベル2で解放"
+
+msgid "sns_dsc2_0141"
+msgstr "マキナ　レベル4で解放"
+
+msgid "sns_dsc2_0142"
+msgstr "マキナ　レベル7で解放"
+
+msgid "sns_dsc2_0143"
+msgstr "マキナ　レベル10で解放"
+
+msgid "sns_dsc2_0144"
+msgstr "マキナ　レベル12で解放"
+
+msgid "sns_dsc2_0145"
+msgstr "マキナ　レベル17で解放"
+
+msgid "sns_dsc2_0146"
+msgstr "マキナ　レベル20で解放"
+
+msgid "sns_dsc2_0147"
+msgstr "マキナ　レベル25で解放"
+
+msgid "sns_dsc2_0148"
+msgstr "マキナ　レベル30で解放"
+
+msgid "sns_dsc2_0149"
+msgstr "マキナ　レベル35で解放"
+
+msgid "sns_dsc2_0150"
+msgstr "マキナ　レベル40で解放"
+
+msgid "sns_dsc2_0153"
+msgstr "レイナ　レベル2で解放"
+
+msgid "sns_dsc2_0154"
+msgstr "レイナ　レベル4で解放"
+
+msgid "sns_dsc2_0155"
+msgstr "レイナ　レベル7で解放"
+
+msgid "sns_dsc2_0156"
+msgstr "レイナ　レベル10で解放"
+
+msgid "sns_dsc2_0157"
+msgstr "レイナ　レベル12で解放"
+
+msgid "sns_dsc2_0158"
+msgstr "レイナ　レベル17で解放"
+
+msgid "sns_dsc2_0159"
+msgstr "レイナ　レベル20で解放"
+
+msgid "sns_dsc2_0160"
+msgstr "レイナ　レベル25で解放"
+
+msgid "sns_dsc2_0161"
+msgstr "レイナ　レベル30で解放"
+
+msgid "sns_dsc2_0162"
+msgstr "レイナ　レベル35で解放"
+
+msgid "sns_dsc2_0163"
+msgstr "レイナ　レベル40で解放"
+
+msgid "sns_dsc2_0166"
+msgstr "ランカ　レベル2で解放"
+
+msgid "sns_dsc2_0167"
+msgstr "ランカ　レベル4で解放"
+
+msgid "sns_dsc2_0168"
+msgstr "ランカ　レベル7で解放"
+
+msgid "sns_dsc2_0169"
+msgstr "ランカ　レベル10で解放"
+
+msgid "sns_dsc2_0170"
+msgstr "ランカ　レベル12で解放"
+
+msgid "sns_dsc2_0171"
+msgstr "ランカ　レベル17で解放"
+
+msgid "sns_dsc2_0172"
+msgstr "ランカ　レベル20で解放"
+
+msgid "sns_dsc2_0173"
+msgstr "ランカ　レベル25で解放"
+
+msgid "sns_dsc2_0174"
+msgstr "ランカ　レベル30で解放"
+
+msgid "sns_dsc2_0175"
+msgstr "ランカ　レベル35で解放"
+
+msgid "sns_dsc2_0176"
+msgstr "ランカ　レベル40で解放"
+
+msgid "sns_dsc2_0179"
+msgstr "シェリル　レベル2で解放"
+
+msgid "sns_dsc2_0180"
+msgstr "シェリル　レベル4で解放"
+
+msgid "sns_dsc2_0181"
+msgstr "シェリル　レベル7で解放"
+
+msgid "sns_dsc2_0182"
+msgstr "シェリル　レベル10で解放"
+
+msgid "sns_dsc2_0183"
+msgstr "シェリル　レベル12で解放"
+
+msgid "sns_dsc2_0184"
+msgstr "シェリル　レベル17で解放"
+
+msgid "sns_dsc2_0185"
+msgstr "シェリル　レベル20で解放"
+
+msgid "sns_dsc2_0186"
+msgstr "シェリル　レベル25で解放"
+
+msgid "sns_dsc2_0187"
+msgstr "シェリル　レベル30で解放"
+
+msgid "sns_dsc2_0188"
+msgstr "シェリル　レベル35で解放"
+
+msgid "sns_dsc2_0189"
+msgstr "シェリル　レベル40で解放"
+
+msgid "sns_dsc2_0192"
+msgstr "ミレーヌ　レベル2で解放"
+
+msgid "sns_dsc2_0193"
+msgstr "ミレーヌ　レベル4で解放"
+
+msgid "sns_dsc2_0194"
+msgstr "ミレーヌ　レベル7で解放"
+
+msgid "sns_dsc2_0195"
+msgstr "ミレーヌ　レベル10で解放"
+
+msgid "sns_dsc2_0196"
+msgstr "ミレーヌ　レベル12で解放"
+
+msgid "sns_dsc2_0197"
+msgstr "ミレーヌ　レベル17で解放"
+
+msgid "sns_dsc2_0198"
+msgstr "ミレーヌ　レベル20で解放"
+
+msgid "sns_dsc2_0199"
+msgstr "ミレーヌ　レベル25で解放"
+
+msgid "sns_dsc2_0200"
+msgstr "ミレーヌ　レベル30で解放"
+
+msgid "sns_dsc2_0201"
+msgstr "ミレーヌ　レベル35で解放"
+
+msgid "sns_dsc2_0202"
+msgstr "ミレーヌ　レベル40で解放"
+
+msgid "sns_dsc2_0205"
+msgstr "バサラ　レベル2で解放"
+
+msgid "sns_dsc2_0206"
+msgstr "バサラ　レベル4で解放"
+
+msgid "sns_dsc2_0207"
+msgstr "バサラ　レベル7で解放"
+
+msgid "sns_dsc2_0208"
+msgstr "バサラ　レベル10で解放"
+
+msgid "sns_dsc2_0209"
+msgstr "バサラ　レベル12で解放"
+
+msgid "sns_dsc2_0210"
+msgstr "バサラ　レベル17で解放"
+
+msgid "sns_dsc2_0211"
+msgstr "バサラ　レベル20で解放"
+
+msgid "sns_dsc2_0212"
+msgstr "バサラ　レベル25で解放"
+
+msgid "sns_dsc2_0213"
+msgstr "バサラ　レベル30で解放"
+
+msgid "sns_dsc2_0214"
+msgstr "バサラ　レベル35で解放"
+
+msgid "sns_dsc2_0215"
+msgstr "バサラ　レベル40で解放"
+
+msgid "sns_dsc2_0218"
+msgstr "ミンメイ　レベル2で解放"
+
+msgid "sns_dsc2_0219"
+msgstr "ミンメイ　レベル4で解放"
+
+msgid "sns_dsc2_0220"
+msgstr "ミンメイ　レベル7で解放"
+
+msgid "sns_dsc2_0221"
+msgstr "ミンメイ　レベル10で解放"
+
+msgid "sns_dsc2_0222"
+msgstr "ミンメイ　レベル12で解放"
+
+msgid "sns_dsc2_0223"
+msgstr "ミンメイ　レベル17で解放"
+
+msgid "sns_dsc2_0224"
+msgstr "ミンメイ　レベル20で解放"
+
+msgid "sns_dsc2_0225"
+msgstr "ミンメイ　レベル25で解放"
+
+msgid "sns_dsc2_0226"
+msgstr "ミンメイ　レベル30で解放"
+
+msgid "sns_dsc2_0227"
+msgstr "ミンメイ　レベル35で解放"
+
+msgid "sns_dsc2_0228"
+msgstr "ミンメイ　レベル40で解放"
+
+msgid "sns_dsc2_0231"
+msgstr "ライブ　5回クリアで解放"
+
+msgid "sns_dsc2_0232"
+msgstr "ライブ　10回クリアで解放"
+
+msgid "sns_dsc2_0233"
+msgstr "ライブ　20回クリアで解放"
+
+msgid "sns_dsc2_0234"
+msgstr "ライブ　30回クリアで解放"
+
+msgid "sns_dsc2_0235"
+msgstr "ライブ　40回クリアで解放"
+
+msgid "sns_dsc2_0236"
+msgstr "ライブ　50回クリアで解放"
+
+msgid "sns_dsc2_0237"
+msgstr "ライブ　75回クリアで解放"
+
+msgid "sns_dsc2_0238"
+msgstr "ライブ　100回クリアで解放"
+
+msgid "sns_dsc2_0239"
+msgstr "ライブ　150回クリアで解放"
+
+msgid "sns_dsc2_0240"
+msgstr "ライブ　200回クリアで解放"
+
+msgid "sns_dsc2_0241"
+msgstr "ライブ　250回クリアで解放"
+
+msgid "sns_dsc2_0242"
+msgstr "ライブ　300回クリアで解放"
+
+msgid "sns_dsc2_0243"
+msgstr "ライブ　400回クリアで解放"
+
+msgid "sns_dsc2_0244"
+msgstr "ライブ　500回クリアで解放"
+
+msgid "sns_dsc2_0245"
+msgstr "ライブ　600回クリアで解放"
+
+msgid "sns_dsc2_0246"
+msgstr "ライブ　700回クリアで解放"
+
+msgid "sns_dsc2_0247"
+msgstr "ライブ　800回クリアで解放"
+
+msgid "sns_dsc2_0248"
+msgstr "ライブ　900回クリアで解放"
+
+msgid "sns_dsc2_0249"
+msgstr "ライブ　1000回クリアで解放"
+
+msgid "sns_dsc2_0250"
+msgstr "ライブ　1250回クリアで解放"
+
+msgid "sns_dsc2_0251"
+msgstr "ライブ　1500回クリアで解放"
+
+msgid "sns_dsc2_0252"
+msgstr "ライブ　1750回クリアで解放"
+
+msgid "sns_dsc2_0253"
+msgstr "ライブ　2000回クリアで解放"
+
+msgid "sns_dsc2_0254"
+msgstr "ライブ　2250回クリアで解放"
+
+msgid "sns_dsc2_0255"
+msgstr "ライブ　2500回クリアで解放"
+
+msgid "sns_dsc2_0256"
+msgstr "ライブ　2750回クリアで解放"
+
+msgid "sns_dsc2_0257"
+msgstr "ライブ　3000回クリアで解放"
+
+msgid "sns_dsc2_0258"
+msgstr "ライブ　3250回クリアで解放"
+
+msgid "sns_dsc2_0259"
+msgstr "ライブ　3500回クリアで解放"
+
+msgid "sns_dsc2_0260"
+msgstr "ライブ　3750回クリアで解放"
+
+msgid "sns_dsc2_0400"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc2_0401"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc2_0402"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc2_0403"
+msgstr "2021クリスマス"
+
+msgid "sns_dsc2_0404"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc2_0405"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc2_0406"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc2_0407"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc2_0408"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc2_0409"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc2_0410"
+msgstr "キース誕生日"
+
+msgid "sns_dsc2_0411"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc2_0412"
+msgstr "2022エイプリルフール"
+
+msgid "sns_dsc2_0413"
+msgstr "2022エイプリルフール"
+
+msgid "sns_dsc2_0414"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc2_0415"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc2_0416"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc2_0417"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc2_0532"
+msgstr "デビューオペレーション1回達成で解放"
+
+msgid "sns_dsc2_0533"
+msgstr "デビューオペレーション2回達成で解放"
+
+msgid "sns_dsc2_0534"
+msgstr "デビューオペレーション3回達成で解放"
+
+msgid "sns_dsc2_0535"
+msgstr "デビューオペレーション4回達成で解放"
+
+msgid "sns_dsc2_0536"
+msgstr "デビューオペレーション5回達成で解放"
+
+msgid "sns_dsc2_0537"
+msgstr "デビューオペレーション6回達成で解放"
+
+msgid "sns_dsc2_0538"
+msgstr "デビューオペレーション7回達成で解放"
+
+msgid "sns_dsc2_0539"
+msgstr "デビューオペレーション8回達成で解放"
+
+msgid "sns_dsc2_0540"
+msgstr "バルキリーオペレーションを累計10回クリア"
+
+msgid "sns_dsc2_0541"
+msgstr "フレイアの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0542"
+msgstr "フレイアの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0543"
+msgstr "美雲の歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0544"
+msgstr "美雲の歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0545"
+msgstr "カナメの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0546"
+msgstr "カナメの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0547"
+msgstr "マキナの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0548"
+msgstr "マキナの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0549"
+msgstr "レイナの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0550"
+msgstr "レイナの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0551"
+msgstr "ランカの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0552"
+msgstr "ランカの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0553"
+msgstr "シェリルの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0554"
+msgstr "シェリルの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0555"
+msgstr "ミレーヌの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0556"
+msgstr "ミレーヌの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0557"
+msgstr "バサラの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0558"
+msgstr "バサラの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0559"
+msgstr "ミンメイの歌姫オペレーション1回達成で解放"
+
+msgid "sns_dsc2_0560"
+msgstr "ミンメイの歌姫オペレーション10回達成で解放"
+
+msgid "sns_dsc2_0561"
+msgstr "？？？？？？"
+
+msgid "sns_dsc2_0577"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc2_0578"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc2_0580"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc2_0583"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc2_0584"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc2_0588"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc2_0589"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc2_0590"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc2_0592"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc2_0593"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc2_0594"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc2_0595"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc2_0596"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc2_0598"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc2_0604"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc2_0605"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc2_0608"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc2_0611"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc2_0613"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc2_0614"
+msgstr "キース誕生日"
+
+msgid "sns_dsc2_0615"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc2_0616"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc2_0617"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc2_0618"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc2_0619"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc2_0620"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc2_0621"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc2_0622"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc2_0623"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc2_0624"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc2_0625"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc2_0626"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc2_0627"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc2_0628"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc2_0629"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc2_0630"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc2_0631"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc2_0632"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc2_0633"
+msgstr "キース誕生日"
+
+msgid "sns_dsc2_0634"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc2_0635"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc2_0636"
+msgstr "2019エイプリルフール"
+
+msgid "sns_dsc2_0637"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc2_0638"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc2_0639"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc2_0640"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc2_0641"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc2_0642"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc2_0643"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc2_0644"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc2_0645"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc2_0646"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc2_0647"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc2_0648"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc2_0649"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc2_0650"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc2_0651"
+msgstr "2019クリスマス"
+
+msgid "sns_dsc2_0652"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc2_0653"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc2_0654"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc2_0655"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc2_0656"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc2_0657"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc2_0658"
+msgstr "キース誕生日"
+
+msgid "sns_dsc2_0659"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc2_0660"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc2_0661"
+msgstr "2020エイプリルフール"
+
+msgid "sns_dsc2_0662"
+msgstr "2020エイプリルフール"
+
+msgid "sns_dsc2_0663"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc2_0664"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc2_0665"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc2_0666"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc2_0667"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc2_0668"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc2_0669"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc2_0670"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc2_0671"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc2_0672"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc2_0673"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc2_0674"
+msgstr "フレイア誕生日"
+
+msgid "sns_dsc2_0675"
+msgstr "シェリル誕生日"
+
+msgid "sns_dsc2_0676"
+msgstr "メッサー誕生日"
+
+msgid "sns_dsc2_0677"
+msgstr "2020クリスマス"
+
+msgid "sns_dsc2_0678"
+msgstr "ロイド誕生日"
+
+msgid "sns_dsc2_0679"
+msgstr "オズマ誕生日"
+
+msgid "sns_dsc2_0680"
+msgstr "アラド誕生日"
+
+msgid "sns_dsc2_0681"
+msgstr "ガムリン誕生日"
+
+msgid "sns_dsc2_0682"
+msgstr "ミレーヌ誕生日"
+
+msgid "sns_dsc2_0683"
+msgstr "ミラージュ誕生日"
+
+msgid "sns_dsc2_0684"
+msgstr "キース誕生日"
+
+msgid "sns_dsc2_0685"
+msgstr "未沙誕生日"
+
+msgid "sns_dsc2_0686"
+msgstr "2021エイプリルフール"
+
+msgid "sns_dsc2_0687"
+msgstr "2021エイプリルフール"
+
+msgid "sns_dsc2_0688"
+msgstr "ボーグ誕生日"
+
+msgid "sns_dsc2_0689"
+msgstr "マキナ誕生日"
+
+msgid "sns_dsc2_0690"
+msgstr "ランカ誕生日"
+
+msgid "sns_dsc2_0691"
+msgstr "カナメ誕生日"
+
+msgid "sns_dsc2_0692"
+msgstr "レイナ誕生日"
+
+msgid "sns_dsc2_0693"
+msgstr "アルト誕生日"
+
+msgid "sns_dsc2_0694"
+msgstr "バサラ誕生日"
+
+msgid "sns_dsc2_0695"
+msgstr "美雲誕生日"
+
+msgid "sns_dsc2_0696"
+msgstr "チャック誕生日"
+
+msgid "sns_dsc2_0697"
+msgstr "ハヤテ誕生日"
+
+msgid "sns_dsc2_0698"
+msgstr "レイ誕生日"
+
+msgid "sns_dsc2_0699"
+msgstr "ミンメイ誕生日"
+
+msgid "sns_dsc2_0700"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0701"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0702"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0703"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0704"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0705"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0706"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0707"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0708"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0709"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0710"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0711"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0712"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0713"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0714"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0715"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0716"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0717"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0718"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0719"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0720"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0721"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0722"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0723"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0724"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0725"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0726"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0727"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0728"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0729"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0730"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0731"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0732"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0733"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0734"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0735"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0736"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0737"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0738"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0739"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0740"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0741"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0742"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0743"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0744"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0745"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0746"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0747"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0748"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0749"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0750"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0751"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0752"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0753"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0754"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0755"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0756"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0757"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0758"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0759"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0760"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0761"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0762"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0763"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0764"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0765"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0766"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0767"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0768"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0769"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0770"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0771"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0772"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0773"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0774"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0775"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0776"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0777"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0778"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0779"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0780"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0781"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0782"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0783"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0784"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0785"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0786"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0787"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0788"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0789"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0790"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0791"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0792"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0793"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0794"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0795"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0796"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0797"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0798"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0799"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0800"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0801"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0802"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0803"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0804"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0805"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0806"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0807"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0808"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0809"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0810"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0811"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0812"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0813"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0814"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0815"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0816"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0817"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0818"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0819"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0820"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0821"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0822"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0823"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0824"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0825"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0826"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0827"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0828"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0829"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0830"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0831"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0832"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0833"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0834"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0835"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0836"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0837"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0838"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0839"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0840"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0841"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0842"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0843"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0844"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0845"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0846"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0847"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0848"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0849"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0850"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0851"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0852"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0853"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0854"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0855"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0856"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0857"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0858"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0860"
+msgstr "累計ポイントを1000pt入手"
+
+msgid "sns_dsc2_0861"
+msgstr "累計ポイントを10000pt入手"
+
+msgid "sns_dsc2_0862"
+msgstr "累計ポイントを20000pt入手"
+
+msgid "sns_dsc2_0863"
+msgstr "累計ポイントを1300pt入手"
+
+msgid "sns_dsc2_0864"
+msgstr "累計ポイントを14000pt入手"
+
+msgid "sns_dsc2_0865"
+msgstr "累計ポイントを24000pt入手"
+
+msgid "sns_dsc2_0866"
+msgstr "累計ポイントを1000pt入手"
+
+msgid "sns_dsc2_0867"
+msgstr "累計ポイントを6400pt入手"
+
+msgid "sns_dsc2_0868"
+msgstr "累計ポイントを14500pt入手"
+
+msgid "sns_dsc2_0869"
+msgstr "累計ポイントを1300pt入手"
+
+msgid "sns_dsc2_0870"
+msgstr "累計ポイントを14000pt入手"
+
+msgid "sns_dsc2_0871"
+msgstr "累計ポイントを24000pt入手"
+
+msgid "sns_dsc2_0872"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0873"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0874"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0875"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0876"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0877"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0878"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0879"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0880"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0881"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0882"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0883"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0884"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0885"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0886"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0887"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0888"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0889"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0890"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0891"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0892"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0893"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0894"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0895"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0896"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0897"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0898"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0899"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0900"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0901"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0902"
+msgstr "クリスマス（2017）"
+
+msgid "sns_dsc2_0903"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0904"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0905"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0906"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0907"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0908"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0909"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0910"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0911"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0912"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc2_0913"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc2_0914"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc2_0915"
+msgstr "スカイツリーコラボ"
+
+msgid "sns_dsc2_0916"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0917"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0918"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0919"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0920"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0921"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0922"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0923"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0924"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0925"
+msgstr "劇場版コラボ"
+
+msgid "sns_dsc2_0926"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0927"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0928"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0929"
+msgstr "3rdライブコラボ"
+
+msgid "sns_dsc2_0930"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0931"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0932"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0933"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0934"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0935"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0936"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0937"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0938"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0939"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0940"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0941"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0942"
+msgstr "？？？"
+
+msgid "sns_dsc2_0943"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0944"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0945"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0946"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0947"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0948"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0949"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0950"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0951"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0952"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0953"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0954"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0955"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0956"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0957"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0958"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0959"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0960"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0961"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0962"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0963"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0964"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0965"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0966"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0967"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0968"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0969"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0970"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0971"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0972"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0973"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0974"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0975"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0976"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0977"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0978"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0979"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0980"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0981"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0982"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0983"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0984"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0985"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0986"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0987"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0988"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0989"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0990"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0991"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0992"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0993"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0994"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0995"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0996"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0997"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0998"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_0999"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1000"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1001"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1002"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1003"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1004"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1005"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1006"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1007"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1008"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1009"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1010"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1011"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1012"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1013"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1014"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1015"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1016"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1017"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1018"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1019"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1020"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1021"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1022"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1023"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1024"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1025"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1026"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1027"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1028"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1029"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1030"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1031"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1032"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1033"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1034"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1035"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1036"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1037"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1038"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1039"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1040"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1041"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1042"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1043"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1044"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1045"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1046"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1047"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1048"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1049"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1050"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1051"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1052"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1053"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1054"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1055"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1056"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1057"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1058"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1059"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1060"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1061"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1062"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1063"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1064"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1065"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1066"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1067"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1068"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1069"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1070"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1071"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1072"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1073"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1074"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1075"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1076"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1077"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1078"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1079"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1080"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1081"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1082"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1083"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1084"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1085"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1086"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1087"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1088"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1089"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1090"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1091"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1092"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1093"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1094"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1095"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1096"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1097"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1098"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1099"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1100"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1101"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1102"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1103"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1104"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1105"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1106"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1107"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1108"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1109"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1110"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1111"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1112"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1113"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1114"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1115"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1116"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1117"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1118"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1119"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1120"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1121"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1122"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1123"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1124"
+msgstr "イベントを進めて解放"
+
+msgid "sns_dsc2_1125"
+msgstr "イベントを進めて解放"
+
+msgid "sns_nm_0001"
+msgstr "超時空SNSへようこそ！"
+
+msgid "sns_nm_0002"
+msgstr "共鳴する滅びの歌"
+
+msgid "sns_nm_0003"
+msgstr "伝説の歌姫と戦術音楽ユニット"
+
+msgid "sns_nm_0004"
+msgstr "俺の歌を聞け！"
+
+msgid "sns_nm_0005"
+msgstr "わたしたちの歌を聴け！"
+
+msgid "sns_nm_0006"
+msgstr "戦場で歌うこと"
+
+msgid "sns_nm_0007"
+msgstr "偉大なボーカリスト"
+
+msgid "sns_nm_0008"
+msgstr "サインを1枚もらえませんか？"
+
+msgid "sns_nm_0009"
+msgstr "バルキリーを運ぶ風"
+
+msgid "sns_nm_0010"
+msgstr "記憶の時空"
+
+msgid "sns_nm_0011"
+msgstr "ストイックな美雲"
+
+msgid "sns_nm_0012"
+msgstr "ジーナス家の叔母と姪"
+
+msgid "sns_nm_0013"
+msgstr "アルトの登録写真"
+
+msgid "sns_nm_0014"
+msgstr "ギターで操るバルキリー"
+
+msgid "sns_nm_0015"
+msgstr "ライブ前の歌姫たち"
+
+msgid "sns_nm_0016"
+msgstr "隊長、部下はどうですか？"
+
+msgid "sns_nm_0017"
+msgstr "団結する歌姫たち"
+
+msgid "sns_nm_0018"
+msgstr "仲直りのアドバイス"
+
+msgid "sns_nm_0019"
+msgstr "たくさんお話しましょう！"
+
+msgid "sns_nm_0020"
+msgstr "空中騎士団の異変"
+
+msgid "sns_nm_0021"
+msgstr "歌姫とパイロットの記憶"
+
+msgid "sns_nm_0022"
+msgstr "叔母のためなら"
+
+msgid "sns_nm_0023"
+msgstr "もう1人の自分"
+
+msgid "sns_nm_0024"
+msgstr "もしかしたら…"
+
+msgid "sns_nm_0025"
+msgstr "セキュリティアップ"
+
+msgid "sns_nm_0026"
+msgstr "ミラージュの相談"
+
+msgid "sns_nm_0027"
+msgstr "レイナに直談判"
+
+msgid "sns_nm_0028"
+msgstr "滅びの歌"
+
+msgid "sns_nm_0029"
+msgstr "初めてのバルキリー"
+
+msgid "sns_nm_0030"
+msgstr "時空の歪み"
+
+msgid "sns_nm_0031"
+msgstr "空中騎士団に関する調査報告"
+
+msgid "sns_nm_0032"
+msgstr "レイナとブレラ"
+
+msgid "sns_nm_0033"
+msgstr "自由な奴は…"
+
+msgid "sns_nm_0034"
+msgstr "3人がそろったとき"
+
+msgid "sns_nm_0035"
+msgstr "仲直りの方法"
+
+msgid "sns_nm_0036"
+msgstr "真面目な男、ガムリン木崎"
+
+msgid "sns_nm_0038"
+msgstr "大人なミレーヌさん"
+
+msgid "sns_nm_0039"
+msgstr "バサラとフレイアは似てる…？"
+
+msgid "sns_nm_0040"
+msgstr "叔母様に似合うと思って…"
+
+msgid "sns_nm_0041"
+msgstr "もっと仲良くなりたいです！"
+
+msgid "sns_nm_0042"
+msgstr "乙女心を学びましょう"
+
+msgid "sns_nm_0043"
+msgstr "ミラージュとガムリン"
+
+msgid "sns_nm_0044"
+msgstr "料理にチャレンジ！"
+
+msgid "sns_nm_0045"
+msgstr "熱気バサラと超時空SNS"
+
+msgid "sns_nm_0046"
+msgstr "妹たちの複雑な心"
+
+msgid "sns_nm_0047"
+msgstr "メカニック・トーク"
+
+msgid "sns_nm_0048"
+msgstr "美雲と顔文字"
+
+msgid "sns_nm_0049"
+msgstr "ハヤテは優しい？"
+
+msgid "sns_nm_0050"
+msgstr "小さきものたちの邂逅"
+
+msgid "sns_nm_0051"
+msgstr "あなたにもおすすめするわ"
+
+msgid "sns_nm_0052"
+msgstr "クラゲが食べたい"
+
+msgid "sns_nm_0053"
+msgstr "誰かに似てきた…？"
+
+msgid "sns_nm_0054"
+msgstr "ミンメイの悪戯"
+
+msgid "sns_nm_0055"
+msgstr "まずはお友達から始めましょう"
+
+msgid "sns_nm_0056"
+msgstr "お願い、ランカ！"
+
+msgid "sns_nm_0057"
+msgstr "飽きない2人"
+
+msgid "sns_nm_0058"
+msgstr "緊張のバルキリーオペレーション"
+
+msgid "sns_nm_0059"
+msgstr "ガムリン先輩"
+
+msgid "sns_nm_0060"
+msgstr "怒られるって思っちゃうんよ"
+
+msgid "sns_nm_0061"
+msgstr "バサラのあだ名…？？"
+
+msgid "sns_nm_0062"
+msgstr "美雲を待つ3人"
+
+msgid "sns_nm_0063"
+msgstr "人のことは言えない"
+
+msgid "sns_nm_0064"
+msgstr "ミシェルからのお願い"
+
+msgid "sns_nm_0065"
+msgstr "メッサーとミレーヌ"
+
+msgid "sns_nm_0066"
+msgstr "しっかり者にならなくちゃ！"
+
+msgid "sns_nm_0067"
+msgstr "ミレーヌにお任せ"
+
+msgid "sns_nm_0068"
+msgstr "ミンメイのマイブーム"
+
+msgid "sns_nm_0069"
+msgstr "新しい顔文字よ"
+
+msgid "sns_nm_0070"
+msgstr "観念しなさい"
+
+msgid "sns_nm_0071"
+msgstr "仲良くするコツ"
+
+msgid "sns_nm_0072"
+msgstr "カナメの悩みごと"
+
+msgid "sns_nm_0073"
+msgstr "バサラが驚くような"
+
+msgid "sns_nm_0074"
+msgstr "ミラージュとグババ"
+
+msgid "sns_nm_0075"
+msgstr "ミンメイの休日"
+
+msgid "sns_nm_0076"
+msgstr "新メニュー？ "
+
+msgid "sns_nm_0077"
+msgstr "感覚派"
+
+msgid "sns_nm_0078"
+msgstr "ランカのお洋服"
+
+msgid "sns_nm_0079"
+msgstr "美雲の休日"
+
+msgid "sns_nm_0080"
+msgstr "珍しい喧嘩"
+
+msgid "sns_nm_0081"
+msgstr "待ち合わせ"
+
+msgid "sns_nm_0082"
+msgstr "グババに相談"
+
+msgid "sns_nm_0083"
+msgstr "大捜索"
+
+msgid "sns_nm_0084"
+msgstr "バサラと一緒"
+
+msgid "sns_nm_0085"
+msgstr "シェリルの特別な休暇"
+
+msgid "sns_nm_0086"
+msgstr "内緒のお出かけ"
+
+msgid "sns_nm_0087"
+msgstr "輝の悩み事"
+
+msgid "sns_nm_0101"
+msgstr "頼もしくなったフレイア"
+
+msgid "sns_nm_0102"
+msgstr "デビューステージの思い出"
+
+msgid "sns_nm_0103"
+msgstr "フレイアの休日"
+
+msgid "sns_nm_0104"
+msgstr "ききリンゴ大会…？"
+
+msgid "sns_nm_0105"
+msgstr "フレイアとキュルル"
+
+msgid "sns_nm_0106"
+msgstr "フレイアの大切なお守り"
+
+msgid "sns_nm_0107"
+msgstr "忘れとるんかね！？"
+
+msgid "sns_nm_0108"
+msgstr "ウィンダミアの方言で話そう！"
+
+msgid "sns_nm_0109"
+msgstr "フレイアとミラージュ"
+
+msgid "sns_nm_0110"
+msgstr "楽屋でミニライブ！"
+
+msgid "sns_nm_0111"
+msgstr "クッションの行方"
+
+msgid "sns_nm_0114"
+msgstr "美雲の変化"
+
+msgid "sns_nm_0115"
+msgstr "歌唱テストの思い出"
+
+msgid "sns_nm_0116"
+msgstr "美雲のミステリアスな休日"
+
+msgid "sns_nm_0117"
+msgstr "ウミグモ、食べたことあるかしら？"
+
+msgid "sns_nm_0118"
+msgstr "実際よりも意外と…"
+
+msgid "sns_nm_0119"
+msgstr "ファンからの気持ち"
+
+msgid "sns_nm_0120"
+msgstr "何かいいことがあった？"
+
+msgid "sns_nm_0121"
+msgstr "私を怒らせてごらんなさい"
+
+msgid "sns_nm_0122"
+msgstr "浜辺で発見！"
+
+msgid "sns_nm_0123"
+msgstr "カナメからのお誘い"
+
+msgid "sns_nm_0124"
+msgstr "美雲の日常～お手入れ～"
+
+msgid "sns_nm_0127"
+msgstr "絶好調なカナメ"
+
+msgid "sns_nm_0128"
+msgstr "カナメの経歴資料"
+
+msgid "sns_nm_0129"
+msgstr "レッスンに付き合って！"
+
+msgid "sns_nm_0130"
+msgstr "おつまみっておいしいのよ？"
+
+msgid "sns_nm_0131"
+msgstr "湿気が多い日の悩み"
+
+msgid "sns_nm_0132"
+msgstr "カナメのピンキーリング"
+
+msgid "sns_nm_0133"
+msgstr "ワルキューレとしてできること"
+
+msgid "sns_nm_0134"
+msgstr "みんなのカナメお姉さん"
+
+msgid "sns_nm_0135"
+msgstr "距離を縮める方法"
+
+msgid "sns_nm_0136"
+msgstr "メッサーとの約束"
+
+msgid "sns_nm_0137"
+msgstr "マネージャー時代の思い出"
+
+msgid "sns_nm_0140"
+msgstr "負けていられないから！"
+
+msgid "sns_nm_0141"
+msgstr "水と油の2人"
+
+msgid "sns_nm_0142"
+msgstr "よくぞ聞いてくれました！"
+
+msgid "sns_nm_0143"
+msgstr "甘くてふわふわ"
+
+msgid "sns_nm_0144"
+msgstr "ダイエット、ダメ！"
+
+msgid "sns_nm_0145"
+msgstr "マキナのゴーグル"
+
+msgid "sns_nm_0146"
+msgstr "諦めないでよかったこと"
+
+msgid "sns_nm_0147"
+msgstr "ワルキューレに入って変わったこと"
+
+msgid "sns_nm_0148"
+msgstr "バルキリーちゃんのためだから"
+
+msgid "sns_nm_0149"
+msgstr "マキナの意外な一面"
+
+msgid "sns_nm_0150"
+msgstr "マキナの○○は私が守る…"
+
+msgid "sns_nm_0153"
+msgstr "絶好調の秘訣は？"
+
+msgid "sns_nm_0154"
+msgstr "いつも一緒の2人"
+
+msgid "sns_nm_0155"
+msgstr "レイナの休日"
+
+msgid "sns_nm_0156"
+msgstr "究極の選択"
+
+msgid "sns_nm_0157"
+msgstr "レイナの耳"
+
+msgid "sns_nm_0158"
+msgstr "こだわり衣装のひみつ"
+
+msgid "sns_nm_0159"
+msgstr "マキナのおかげ"
+
+msgid "sns_nm_0160"
+msgstr "私は危険を楽しむ女"
+
+msgid "sns_nm_0161"
+msgstr "胸がチクチク…寂しい"
+
+msgid "sns_nm_0162"
+msgstr "カナメから見たレイナ"
+
+msgid "sns_nm_0163"
+msgstr "真夜中のレイナとマキナ"
+
+msgid "sns_nm_0166"
+msgstr "もっともっと頑張ります！"
+
+msgid "sns_nm_0167"
+msgstr "スターライト納豆"
+
+msgid "sns_nm_0168"
+msgstr "お休みの日のアレ"
+
+msgid "sns_nm_0169"
+msgstr "おいしくできたら…"
+
+msgid "sns_nm_0170"
+msgstr "どんな髪型がいいと思う？"
+
+msgid "sns_nm_0171"
+msgstr "オオサンショウウオさん"
+
+msgid "sns_nm_0172"
+msgstr "オズマVSブレラ　兄同士の対決"
+
+msgid "sns_nm_0173"
+msgstr "ランカのお気に入りの場所"
+
+msgid "sns_nm_0174"
+msgstr "兄妹喧嘩の理由"
+
+msgid "sns_nm_0175"
+msgstr "噂の衣装…？"
+
+msgid "sns_nm_0176"
+msgstr "転校してきたランカとシェリル"
+
+msgid "sns_nm_0179"
+msgstr "シェリルの刺激的な癖"
+
+msgid "sns_nm_0180"
+msgstr "セルフプロデュース"
+
+msgid "sns_nm_0181"
+msgstr "紹介してあげてもいいわよ？"
+
+msgid "sns_nm_0182"
+msgstr "思い出のホットドッグ店"
+
+msgid "sns_nm_0183"
+msgstr "シェリルのサングラス"
+
+msgid "sns_nm_0184"
+msgstr "運命の人と出会った日"
+
+msgid "sns_nm_0185"
+msgstr "別に心配してるわけじゃないけど"
+
+msgid "sns_nm_0186"
+msgstr "面白いことは楽しまなくちゃ！"
+
+msgid "sns_nm_0187"
+msgstr "買い物に付き合いなさい"
+
+msgid "sns_nm_0188"
+msgstr "ステージから見た景色"
+
+msgid "sns_nm_0189"
+msgstr "初めてのパジャマパーティー"
+
+msgid "sns_nm_0192"
+msgstr "新曲の練習…？"
+
+msgid "sns_nm_0193"
+msgstr "ミレーヌの成長"
+
+msgid "sns_nm_0194"
+msgstr "多才なミレーヌの休日"
+
+msgid "sns_nm_0195"
+msgstr "夜ごはんのリクエスト"
+
+msgid "sns_nm_0196"
+msgstr "気にするわよ！あたし自身が！"
+
+msgid "sns_nm_0197"
+msgstr "グババとSNS"
+
+msgid "sns_nm_0198"
+msgstr "ミレーヌって呼んで！"
+
+msgid "sns_nm_0199"
+msgstr "いいことを思いついちゃったの！"
+
+msgid "sns_nm_0200"
+msgstr "ミレーヌとグババ"
+
+msgid "sns_nm_0201"
+msgstr "あたしたちのサウンド"
+
+msgid "sns_nm_0202"
+msgstr "ライブのあとで"
+
+msgid "sns_nm_0205"
+msgstr "バサラの相談相手"
+
+msgid "sns_nm_0206"
+msgstr "戦場でのレコーディング"
+
+msgid "sns_nm_0207"
+msgstr "バサラの休日"
+
+msgid "sns_nm_0208"
+msgstr "バサラのスペシャルカレー"
+
+msgid "sns_nm_0209"
+msgstr "歌える体は歌ってつくれ"
+
+msgid "sns_nm_0210"
+msgstr "謎の書き置き"
+
+msgid "sns_nm_0211"
+msgstr "早く歌わせてくれ！"
+
+msgid "sns_nm_0212"
+msgstr "バサラの楽譜"
+
+msgid "sns_nm_0213"
+msgstr "デビューライブの出来事"
+
+msgid "sns_nm_0214"
+msgstr "不思議な男、熱気バサラ"
+
+msgid "sns_nm_0215"
+msgstr "思い出のライブ"
+
+msgid "sns_nm_0218"
+msgstr "毎日が刺激的"
+
+msgid "sns_nm_0219"
+msgstr "ミンメイのデビュー曲"
+
+msgid "sns_nm_0220"
+msgstr "ミンメイの休日"
+
+msgid "sns_nm_0221"
+msgstr "お夜食を持っていくわね"
+
+msgid "sns_nm_0222"
+msgstr "髪は女の命"
+
+msgid "sns_nm_0223"
+msgstr "娘々の名前"
+
+msgid "sns_nm_0224"
+msgstr "今のわたしにできること"
+
+msgid "sns_nm_0225"
+msgstr "マクロスシティ"
+
+msgid "sns_nm_0226"
+msgstr "お仕事をこっそり抜け出して"
+
+msgid "sns_nm_0227"
+msgstr "最後まで見ていってね！"
+
+msgid "sns_nm_0228"
+msgstr "わたしたち、似てますね"
+
+msgid "sns_nm_0231"
+msgstr "フレイアの課題"
+
+msgid "sns_nm_0232"
+msgstr "熱気バサラ直伝、音楽の幸せ"
+
+msgid "sns_nm_0233"
+msgstr "お気に入りの歌姫"
+
+msgid "sns_nm_0234"
+msgstr "人生にはメリハリが必要"
+
+msgid "sns_nm_0235"
+msgstr "それぞれの「愛・おぼえていますか」"
+
+msgid "sns_nm_0236"
+msgstr "天才パイロットVS色男スナイパー"
+
+msgid "sns_nm_0237"
+msgstr "雪よりもクールな人たち"
+
+msgid "sns_nm_0238"
+msgstr "チャックの野望"
+
+msgid "sns_nm_0239"
+msgstr "隊長たちのお悩み"
+
+msgid "sns_nm_0240"
+msgstr "ミリア、おしゃれを知る"
+
+msgid "sns_nm_0241"
+msgstr "熱気バサラ直伝、キメ台詞"
+
+msgid "sns_nm_0242"
+msgstr "教えてちょうだい"
+
+msgid "sns_nm_0243"
+msgstr "ワルキューレの衣装が着たい！"
+
+msgid "sns_nm_0244"
+msgstr "レイナが見た、ブレラの脳内"
+
+msgid "sns_nm_0245"
+msgstr "いつだってミステリアス"
+
+msgid "sns_nm_0246"
+msgstr "超時空シンデレラ、ランカ・リー"
+
+msgid "sns_nm_0247"
+msgstr "シェリル・ノームであり続けること"
+
+msgid "sns_nm_0248"
+msgstr "ルカはどんなお洋服が好き？"
+
+msgid "sns_nm_0249"
+msgstr "オズマの願い事"
+
+msgid "sns_nm_0250"
+msgstr "アルトのイメージチェンジ"
+
+msgid "sns_nm_0251"
+msgstr "ジーナス家の父と娘"
+
+msgid "sns_nm_0252"
+msgstr "これがあたしのステージ衣装！"
+
+msgid "sns_nm_0253"
+msgstr "バルキリーを貸しなさい！"
+
+msgid "sns_nm_0254"
+msgstr "ビヒーダさんに聞きたいこと"
+
+msgid "sns_nm_0255"
+msgstr "バサラinワルキューレ"
+
+msgid "sns_nm_0256"
+msgstr "ミス・マクロスコンテスト"
+
+msgid "sns_nm_0257"
+msgstr "パイロットのみんなに質問"
+
+msgid "sns_nm_0258"
+msgstr "お兄ちゃんのパインケーキ"
+
+msgid "sns_nm_0259"
+msgstr "真面目な部下、メッサー"
+
+msgid "sns_nm_0260"
+msgstr "ジーナス家の祖母と孫"
+
+msgid "sns_nm_0400"
+msgstr "ハートフル・バースデー ～フレイア～"
+
+msgid "sns_nm_0401"
+msgstr "ハートフル・バースデー ～シェリル～"
+
+msgid "sns_nm_0402"
+msgstr "ハートフル・バースデー ～メッサー～"
+
+msgid "sns_nm_0403"
+msgstr "ハッピー・メリー・クリスマス ～2021～"
+
+msgid "sns_nm_0404"
+msgstr "ハートフル・バースデー ～ロイド～"
+
+msgid "sns_nm_0405"
+msgstr "ハートフル・バースデー ～オズマ～"
+
+msgid "sns_nm_0406"
+msgstr "ハートフル・バースデー ～アラド～"
+
+msgid "sns_nm_0407"
+msgstr "ハートフル・バースデー ～ガムリン～"
+
+msgid "sns_nm_0408"
+msgstr "ハートフル・バースデー ～ミレーヌ～"
+
+msgid "sns_nm_0409"
+msgstr "ハートフル・バースデー ～ミラージュ～"
+
+msgid "sns_nm_0410"
+msgstr "ハートフル・バースデー ～キース～"
+
+msgid "sns_nm_0411"
+msgstr "ハートフル・バースデー ～未沙～"
+
+msgid "sns_nm_0412"
+msgstr "犯人の正体"
+
+msgid "sns_nm_0413"
+msgstr "スターライト納豆"
+
+msgid "sns_nm_0414"
+msgstr "ハートフル・バースデー ～ボーグ～"
+
+msgid "sns_nm_0415"
+msgstr "ハートフル・バースデー ～マキナ～"
+
+msgid "sns_nm_0416"
+msgstr "ハートフル・バースデー ～ランカ～"
+
+msgid "sns_nm_0417"
+msgstr "ハートフル・バースデー ～カナメ～"
+
+msgid "sns_nm_0532"
+msgstr "バルキリーオペレーション"
+
+msgid "sns_nm_0533"
+msgstr "超時空ネットワークの異変"
+
+msgid "sns_nm_0534"
+msgstr "出撃準備、完了"
+
+msgid "sns_nm_0535"
+msgstr "一方その頃…"
+
+msgid "sns_nm_0536"
+msgstr "パイロットからの通信"
+
+msgid "sns_nm_0537"
+msgstr "隊長たちの心配"
+
+msgid "sns_nm_0538"
+msgstr "超時空ネットワークの世界"
+
+msgid "sns_nm_0539"
+msgstr "誰と一緒に飛ぶ？"
+
+msgid "sns_nm_0540"
+msgstr "歌姫たちからのお願い"
+
+msgid "sns_nm_0541"
+msgstr "全部そこから始まったんよ"
+
+msgid "sns_nm_0542"
+msgstr "ワルキューレは仲良し"
+
+msgid "sns_nm_0543"
+msgstr "戦場で響いた歌声"
+
+msgid "sns_nm_0544"
+msgstr "不思議なことがあったのよ"
+
+msgid "sns_nm_0545"
+msgstr "これが5人のワルキューレ"
+
+msgid "sns_nm_0546"
+msgstr "夜更けの海にて"
+
+msgid "sns_nm_0547"
+msgstr "2人の刺激的な毎日"
+
+msgid "sns_nm_0548"
+msgstr "もっと知ってほしくて！"
+
+msgid "sns_nm_0549"
+msgstr "頼れる相手がいること"
+
+msgid "sns_nm_0550"
+msgstr "少しだけ、特別"
+
+msgid "sns_nm_0551"
+msgstr "ランカの宝物"
+
+msgid "sns_nm_0552"
+msgstr "私の自慢のお兄ちゃん"
+
+msgid "sns_nm_0553"
+msgstr "ギャラクシーの面影"
+
+msgid "sns_nm_0554"
+msgstr "シェリルが語る早乙女アルト"
+
+msgid "sns_nm_0555"
+msgstr "バサラには秘密！"
+
+msgid "sns_nm_0556"
+msgstr "Fire Bomberのファンとして"
+
+msgid "sns_nm_0557"
+msgstr "バサラと一緒に飛ぶということ"
+
+msgid "sns_nm_0558"
+msgstr "この場所で歌いたい"
+
+msgid "sns_nm_0559"
+msgstr "ミンメイのおすすめ"
+
+msgid "sns_nm_0560"
+msgstr "こっそり抜け出して"
+
+msgid "sns_nm_0561"
+msgstr "？？？？？？"
+
+msgid "sns_nm_0577"
+msgstr "Happy birthday ～バサラ～"
+
+msgid "sns_nm_0578"
+msgstr "Happy birthday ～美雲～"
+
+msgid "sns_nm_0580"
+msgstr "Happy birthday ～ミンメイ～"
+
+msgid "sns_nm_0583"
+msgstr "Happy birthday ～フレイア～"
+
+msgid "sns_nm_0584"
+msgstr "Happy birthday ～シェリル～"
+
+msgid "sns_nm_0588"
+msgstr "Happy birthday ～チャック～"
+
+msgid "sns_nm_0589"
+msgstr "Happy birthday ～ハヤテ～"
+
+msgid "sns_nm_0590"
+msgstr "Happy birthday ～レイ～"
+
+msgid "sns_nm_0592"
+msgstr "Happy birthday ～メッサー～"
+
+msgid "sns_nm_0593"
+msgstr "Happy birthday ～ロイド～"
+
+msgid "sns_nm_0594"
+msgstr "Happy birthday ～アラド～"
+
+msgid "sns_nm_0595"
+msgstr "Happy birthday ～ガムリン～"
+
+msgid "sns_nm_0596"
+msgstr "Happy birthday ～オズマ～"
+
+msgid "sns_nm_0598"
+msgstr "Happy birthday ～ミレーヌ～"
+
+msgid "sns_nm_0604"
+msgstr "Happy birthday ～マキナ～"
+
+msgid "sns_nm_0605"
+msgstr "Happy birthday ～ランカ～"
+
+msgid "sns_nm_0608"
+msgstr "Happy birthday ～カナメ～"
+
+msgid "sns_nm_0611"
+msgstr "Happy birthday ～レイナ～"
+
+msgid "sns_nm_0613"
+msgstr "Happy Birthday ～ミラージュ～"
+
+msgid "sns_nm_0614"
+msgstr "Happy birthday ～キース～"
+
+msgid "sns_nm_0615"
+msgstr "Happy birthday ～未沙～"
+
+msgid "sns_nm_0616"
+msgstr "Happy birthday ～ボーグ～"
+
+msgid "sns_nm_0617"
+msgstr "Happy birthday ～アルト～"
+
+msgid "sns_nm_0618"
+msgstr "ワンダフル・バースデー ～バサラ～"
+
+msgid "sns_nm_0619"
+msgstr "ワンダフル・バースデー ～美雲～"
+
+msgid "sns_nm_0620"
+msgstr "ワンダフル・バースデー ～チャック～"
+
+msgid "sns_nm_0621"
+msgstr "ワンダフル・バースデー ～ハヤテ～"
+
+msgid "sns_nm_0622"
+msgstr "ワンダフル・バースデー ～レイ～"
+
+msgid "sns_nm_0623"
+msgstr "ワンダフル・バースデー ～ミンメイ～"
+
+msgid "sns_nm_0624"
+msgstr "ワンダフル・バースデー ～フレイア～"
+
+msgid "sns_nm_0625"
+msgstr "ワンダフル・バースデー ～シェリル～"
+
+msgid "sns_nm_0626"
+msgstr "ワンダフル・バースデー ～メッサー～"
+
+msgid "sns_nm_0627"
+msgstr "ワンダフル・バースデー ～ロイド～"
+
+msgid "sns_nm_0628"
+msgstr "ワンダフル・バースデー ～オズマ～"
+
+msgid "sns_nm_0629"
+msgstr "ワンダフル・バースデー ～アラド～"
+
+msgid "sns_nm_0630"
+msgstr "ワンダフル・バースデー ～ガムリン～"
+
+msgid "sns_nm_0631"
+msgstr "ワンダフル・バースデー ～ミレーヌ～"
+
+msgid "sns_nm_0632"
+msgstr "ワンダフル・バースデー ～ミラージュ～"
+
+msgid "sns_nm_0633"
+msgstr "ワンダフル・バースデー ～キース～"
+
+msgid "sns_nm_0634"
+msgstr "ワンダフル・バースデー ～未沙～"
+
+msgid "sns_nm_0635"
+msgstr "ワンダフル・バースデー ～ボーグ～"
+
+msgid "sns_nm_0636"
+msgstr "未知の生物、飛来"
+
+msgid "sns_nm_0637"
+msgstr "ワンダフル・バースデー ～マキナ～"
+
+msgid "sns_nm_0638"
+msgstr "ワンダフル・バースデー ～ランカ～"
+
+msgid "sns_nm_0639"
+msgstr "ワンダフル・バースデー ～カナメ～"
+
+msgid "sns_nm_0640"
+msgstr "ワンダフル・バースデー ～レイナ～"
+
+msgid "sns_nm_0641"
+msgstr "ワンダフル・バースデー ～アルト～"
+
+msgid "sns_nm_0642"
+msgstr "スペシャルバースデー ～チャック～"
+
+msgid "sns_nm_0643"
+msgstr "スペシャルバースデー ～バサラ～"
+
+msgid "sns_nm_0644"
+msgstr "スペシャルバースデー ～美雲～"
+
+msgid "sns_nm_0645"
+msgstr "スペシャルバースデー ～ハヤテ～"
+
+msgid "sns_nm_0646"
+msgstr "スペシャルバースデー ～レイ～"
+
+msgid "sns_nm_0647"
+msgstr "スペシャルバースデー ～ミンメイ～"
+
+msgid "sns_nm_0648"
+msgstr "スペシャルバースデー ～フレイア～"
+
+msgid "sns_nm_0649"
+msgstr "スペシャルバースデー ～シェリル～"
+
+msgid "sns_nm_0650"
+msgstr "スペシャルバースデー ～メッサー～"
+
+msgid "sns_nm_0651"
+msgstr "ハッピー・メリー・クリスマス ～2019～"
+
+msgid "sns_nm_0652"
+msgstr "スペシャルバースデー ～ロイド～"
+
+msgid "sns_nm_0653"
+msgstr "スペシャルバースデー ～オズマ～"
+
+msgid "sns_nm_0654"
+msgstr "スペシャルバースデー ～アラド～"
+
+msgid "sns_nm_0655"
+msgstr "スペシャルバースデー ～ガムリン～"
+
+msgid "sns_nm_0656"
+msgstr "スペシャルバースデー ～ミレーヌ～"
+
+msgid "sns_nm_0657"
+msgstr "スペシャルバースデー ～ミラージュ～"
+
+msgid "sns_nm_0658"
+msgstr "スペシャルバースデー ～キース～"
+
+msgid "sns_nm_0659"
+msgstr "スペシャルバースデー ～未沙～"
+
+msgid "sns_nm_0660"
+msgstr "スペシャルバースデー ～ボーグ～"
+
+msgid "sns_nm_0661"
+msgstr "エイプリルフールライブ"
+
+msgid "sns_nm_0662"
+msgstr "バルキリーユニットダンス"
+
+msgid "sns_nm_0663"
+msgstr "スペシャルバースデー ～マキナ～"
+
+msgid "sns_nm_0664"
+msgstr "スペシャルバースデー ～ランカ～"
+
+msgid "sns_nm_0665"
+msgstr "スペシャルバースデー ～カナメ～"
+
+msgid "sns_nm_0666"
+msgstr "スペシャルバースデー ～レイナ～"
+
+msgid "sns_nm_0667"
+msgstr "スペシャルバースデー ～アルト～"
+
+msgid "sns_nm_0668"
+msgstr "エンジョイ・バースデー ～バサラ～"
+
+msgid "sns_nm_0669"
+msgstr "エンジョイ・バースデー ～美雲～"
+
+msgid "sns_nm_0670"
+msgstr "エンジョイ・バースデー ～チャック～"
+
+msgid "sns_nm_0671"
+msgstr "エンジョイ・バースデー ～ハヤテ～"
+
+msgid "sns_nm_0672"
+msgstr "エンジョイ・バースデー ～レイ～"
+
+msgid "sns_nm_0673"
+msgstr "エンジョイ・バースデー ～ミンメイ～"
+
+msgid "sns_nm_0674"
+msgstr "エンジョイ・バースデー ～フレイア～"
+
+msgid "sns_nm_0675"
+msgstr "エンジョイ・バースデー ～シェリル～"
+
+msgid "sns_nm_0676"
+msgstr "エンジョイ・バースデー ～メッサー～"
+
+msgid "sns_nm_0677"
+msgstr "ハッピー・メリー・クリスマス ～2020～"
+
+msgid "sns_nm_0678"
+msgstr "エンジョイ・バースデー ～ロイド～"
+
+msgid "sns_nm_0679"
+msgstr "エンジョイ・バースデー ～オズマ～"
+
+msgid "sns_nm_0680"
+msgstr "エンジョイ・バースデー ～アラド～"
+
+msgid "sns_nm_0681"
+msgstr "エンジョイ・バースデー ～ガムリン～"
+
+msgid "sns_nm_0682"
+msgstr "エンジョイ・バースデー ～ミレーヌ～"
+
+msgid "sns_nm_0683"
+msgstr "エンジョイ・バースデー ～ミラージュ～"
+
+msgid "sns_nm_0684"
+msgstr "エンジョイ・バースデー ～キース～"
+
+msgid "sns_nm_0685"
+msgstr "エンジョイ・バースデー ～未沙～"
+
+msgid "sns_nm_0686"
+msgstr "新作ゲーム…？"
+
+msgid "sns_nm_0687"
+msgstr "みんなでプレイ！"
+
+msgid "sns_nm_0688"
+msgstr "エンジョイ・バースデー ～ボーグ～"
+
+msgid "sns_nm_0689"
+msgstr "エンジョイ・バースデー ～マキナ～"
+
+msgid "sns_nm_0690"
+msgstr "エンジョイ・バースデー ～ランカ～"
+
+msgid "sns_nm_0691"
+msgstr "エンジョイ・バースデー ～カナメ～"
+
+msgid "sns_nm_0692"
+msgstr "エンジョイ・バースデー ～レイナ～"
+
+msgid "sns_nm_0693"
+msgstr "エンジョイ・バースデー ～アルト～"
+
+msgid "sns_nm_0694"
+msgstr "ハートフル・バースデー ～バサラ～"
+
+msgid "sns_nm_0695"
+msgstr "ハートフル・バースデー ～美雲～"
+
+msgid "sns_nm_0696"
+msgstr "ハートフル・バースデー ～チャック～"
+
+msgid "sns_nm_0697"
+msgstr "ハートフル・バースデー ～ハヤテ～"
+
+msgid "sns_nm_0698"
+msgstr "ハートフル・バースデー ～レイ～"
+
+msgid "sns_nm_0699"
+msgstr "ハートフル・バースデー ～ミンメイ～"
+
+msgid "sns_nm_0700"
+msgstr "神出鬼没の熱気バサラ"
+
+msgid "sns_nm_0701"
+msgstr "ミンメイの悩み"
+
+msgid "sns_nm_0702"
+msgstr "歌姫たちが見た、リン・ミンメイ"
+
+msgid "sns_nm_0703"
+msgstr "ワルキューレへの悪戯"
+
+msgid "sns_nm_0704"
+msgstr "ミラージュの絶叫"
+
+msgid "sns_nm_0705"
+msgstr "熱気バサラを驚かせよう！"
+
+msgid "sns_nm_0706"
+msgstr "もしもの学園生活！"
+
+msgid "sns_nm_0707"
+msgstr "逃げない勇気"
+
+msgid "sns_nm_0708"
+msgstr "放課後ワルキューレ！"
+
+msgid "sns_nm_0709"
+msgstr "魂を送る歌"
+
+msgid "sns_nm_0710"
+msgstr "近くにいたの"
+
+msgid "sns_nm_0711"
+msgstr "カナメが見た記憶"
+
+msgid "sns_nm_0712"
+msgstr "バースデーライブとサプライズ"
+
+msgid "sns_nm_0713"
+msgstr "シェリル・ノームだもの"
+
+msgid "sns_nm_0714"
+msgstr "本番はこれから"
+
+msgid "sns_nm_0715"
+msgstr "作戦成功！"
+
+msgid "sns_nm_0716"
+msgstr "血は争えない"
+
+msgid "sns_nm_0717"
+msgstr "ハヤテと美雲を捜せ"
+
+msgid "sns_nm_0718"
+msgstr "ジーナス家限定！マジカルライブ！"
+
+msgid "sns_nm_0719"
+msgstr "バサラとガムリン…？"
+
+msgid "sns_nm_0720"
+msgstr "Oh! MY FAMILY"
+
+msgid "sns_nm_0721"
+msgstr "クリスマスライブの成果"
+
+msgid "sns_nm_0722"
+msgstr "サンタからのプレゼント…？"
+
+msgid "sns_nm_0723"
+msgstr "悩めるアルト"
+
+msgid "sns_nm_0724"
+msgstr "フレイアとバサラでファイアー！"
+
+msgid "sns_nm_0725"
+msgstr "ランカとミレーヌの仲良しライブ"
+
+msgid "sns_nm_0726"
+msgstr "セクシーな2人"
+
+msgid "sns_nm_0727"
+msgstr "まったり過ごすお正月"
+
+msgid "sns_nm_0728"
+msgstr "ハヤテとデート？"
+
+msgid "sns_nm_0729"
+msgstr "ライブ成功祈願"
+
+msgid "sns_nm_0730"
+msgstr "アルトの協力"
+
+msgid "sns_nm_0731"
+msgstr "こだわりの振り付け"
+
+msgid "sns_nm_0732"
+msgstr "踊ったの…？？"
+
+msgid "sns_nm_0733"
+msgstr "ミレーヌ、女優デビュー？"
+
+msgid "sns_nm_0734"
+msgstr "やっぱり、バサラはバサラ"
+
+msgid "sns_nm_0735"
+msgstr "2人のリン・ミンメイ"
+
+msgid "sns_nm_0736"
+msgstr "A.D.2040"
+
+msgid "sns_nm_0737"
+msgstr "シャロン・アップルの幻影"
+
+msgid "sns_nm_0738"
+msgstr "人工知能が持つ心"
+
+msgid "sns_nm_0739"
+msgstr "ランドールでのライブ、再び"
+
+msgid "sns_nm_0740"
+msgstr "甘い匂い"
+
+msgid "sns_nm_0741"
+msgstr "美雲からのサプライズ"
+
+msgid "sns_nm_0742"
+msgstr "ブレラの心遣い"
+
+msgid "sns_nm_0743"
+msgstr "シェリルの確信"
+
+msgid "sns_nm_0744"
+msgstr "仲間に包まれて"
+
+msgid "sns_nm_0745"
+msgstr "伝説のロックバンド"
+
+msgid "sns_nm_0746"
+msgstr "バサラとシェリルの行方"
+
+msgid "sns_nm_0747"
+msgstr "仲がいいとか悪いとか"
+
+msgid "sns_nm_0748"
+msgstr "桜色の制服"
+
+msgid "sns_nm_0749"
+msgstr "ガールズ・スクール"
+
+msgid "sns_nm_0750"
+msgstr "時は流れる"
+
+msgid "sns_nm_0751"
+msgstr "星に歌えば"
+
+msgid "sns_nm_0752"
+msgstr "流星デート"
+
+msgid "sns_nm_0753"
+msgstr "30年も待たずとも"
+
+msgid "sns_nm_0754"
+msgstr "パーティーライブ"
+
+msgid "sns_nm_0755"
+msgstr "犯人は誰？"
+
+msgid "sns_nm_0756"
+msgstr "報復とは"
+
+msgid "sns_nm_0757"
+msgstr "周知の事実"
+
+msgid "sns_nm_0758"
+msgstr "アルトだから仕方ない"
+
+msgid "sns_nm_0759"
+msgstr "ライバルだから"
+
+msgid "sns_nm_0760"
+msgstr "心強い協力者"
+
+msgid "sns_nm_0761"
+msgstr "奇跡のタッグ"
+
+msgid "sns_nm_0762"
+msgstr "そんなことはありそう"
+
+msgid "sns_nm_0763"
+msgstr "直球勝負"
+
+msgid "sns_nm_0764"
+msgstr "昔と今のワルキューレ"
+
+msgid "sns_nm_0765"
+msgstr "きゃわわ増し増し"
+
+msgid "sns_nm_0766"
+msgstr "ロック イン ザ ウェディング"
+
+msgid "sns_nm_0767"
+msgstr "ベースを持った花嫁"
+
+msgid "sns_nm_0768"
+msgstr "ミレーヌの将来のお相手は？"
+
+msgid "sns_nm_0769"
+msgstr "シェリルの要求"
+
+msgid "sns_nm_0770"
+msgstr "花嫁と…花嫁？"
+
+msgid "sns_nm_0771"
+msgstr "ドレスを着るのは？"
+
+msgid "sns_nm_0772"
+msgstr "仲直り大作戦！"
+
+msgid "sns_nm_0773"
+msgstr "絆のデュエット"
+
+msgid "sns_nm_0774"
+msgstr "適度な緊張感"
+
+msgid "sns_nm_0775"
+msgstr "お礼をしたいんだ"
+
+msgid "sns_nm_0776"
+msgstr "とびきりの方法"
+
+msgid "sns_nm_0777"
+msgstr "シェリルとランカが望むこと"
+
+msgid "sns_nm_0778"
+msgstr "カンフーガール・ミンメイ"
+
+msgid "sns_nm_0779"
+msgstr "カンフーガール・フレイア"
+
+msgid "sns_nm_0780"
+msgstr "ミンメイからの贈り物"
+
+msgid "sns_nm_0781"
+msgstr "ビーチに舞い降りた女神たち"
+
+msgid "sns_nm_0782"
+msgstr "本日のカメラ係"
+
+msgid "sns_nm_0783"
+msgstr "美雲の純情"
+
+msgid "sns_nm_0784"
+msgstr "水中のマーメイドたち"
+
+msgid "sns_nm_0785"
+msgstr "トラブル発生？"
+
+msgid "sns_nm_0786"
+msgstr "イルカと歌えば…"
+
+msgid "sns_nm_0787"
+msgstr "好きでいてくれて "
+
+msgid "sns_nm_0788"
+msgstr "悪だくみ？"
+
+msgid "sns_nm_0789"
+msgstr "星間飛行"
+
+msgid "sns_nm_0790"
+msgstr "大事件発生？"
+
+msgid "sns_nm_0791"
+msgstr "水着とエプロン"
+
+msgid "sns_nm_0792"
+msgstr "ミレーヌの計画"
+
+msgid "sns_nm_0793"
+msgstr "フロンティアのハロウィン"
+
+msgid "sns_nm_0794"
+msgstr "もしもレイナが猫だったら？"
+
+msgid "sns_nm_0795"
+msgstr "仮装したい男"
+
+msgid "sns_nm_0796"
+msgstr "映画撮影1日目"
+
+msgid "sns_nm_0797"
+msgstr "ウミネコたちの真実？"
+
+msgid "sns_nm_0798"
+msgstr "6人目のワルキューレ"
+
+msgid "sns_nm_0799"
+msgstr "しあわせバースデー"
+
+msgid "sns_nm_0800"
+msgstr "時空を超えたプレゼント"
+
+msgid "sns_nm_0801"
+msgstr "歌声のプレゼント"
+
+msgid "sns_nm_0802"
+msgstr "ボーカル争奪戦！"
+
+msgid "sns_nm_0803"
+msgstr "危険で刺激的なライブ"
+
+msgid "sns_nm_0804"
+msgstr "チクチク、ズキズキさせちゃうから"
+
+msgid "sns_nm_0805"
+msgstr "メッサーサンタの人気ぶり"
+
+msgid "sns_nm_0806"
+msgstr "全力だったあの頃"
+
+msgid "sns_nm_0807"
+msgstr "クレアとリディ、あの日のワルキューレ"
+
+msgid "sns_nm_0808"
+msgstr "最高のクリスマスライブを"
+
+msgid "sns_nm_0809"
+msgstr "飛び込んじまえよ！"
+
+msgid "sns_nm_0810"
+msgstr "空で歌う男"
+
+msgid "sns_nm_0811"
+msgstr "シェリルの本音"
+
+msgid "sns_nm_0812"
+msgstr "1人ぼっちは嫌"
+
+msgid "sns_nm_0813"
+msgstr "1人じゃないから"
+
+msgid "sns_nm_0814"
+msgstr "レイナのお宝"
+
+msgid "sns_nm_0815"
+msgstr "心配不要"
+
+msgid "sns_nm_0816"
+msgstr "新しいリン・ミンメイ物語"
+
+msgid "sns_nm_0817"
+msgstr "ジーナス家のバレンタイン"
+
+msgid "sns_nm_0818"
+msgstr "フレイア、秘密の計画"
+
+msgid "sns_nm_0819"
+msgstr "本命のチョコレート"
+
+msgid "sns_nm_0820"
+msgstr "映画『恋はドッグファイト』"
+
+msgid "sns_nm_0821"
+msgstr "意外な出演者たち"
+
+msgid "sns_nm_0822"
+msgstr "きゃわわ警報！"
+
+msgid "sns_nm_0823"
+msgstr "おかえりなさいませ、女神様"
+
+msgid "sns_nm_0824"
+msgstr "ミラージュの趣味？"
+
+msgid "sns_nm_0825"
+msgstr "美雲は見た"
+
+msgid "sns_nm_0826"
+msgstr "天使なフレイア"
+
+msgid "sns_nm_0827"
+msgstr "天使なフレイアTake2"
+
+msgid "sns_nm_0828"
+msgstr "天使の絵の具で…"
+
+msgid "sns_nm_0829"
+msgstr "ラブリーボンバー！"
+
+msgid "sns_nm_0830"
+msgstr "アルトは出ないの？"
+
+msgid "sns_nm_0831"
+msgstr "ようこそ、美星学園へ！"
+
+msgid "sns_nm_0832"
+msgstr "ライブ後のお楽しみ"
+
+msgid "sns_nm_0833"
+msgstr "ワルキューレなう！"
+
+msgid "sns_nm_0834"
+msgstr "新たなる一面"
+
+msgid "sns_nm_0835"
+msgstr "いらっしゃいませ！"
+
+msgid "sns_nm_0836"
+msgstr "疑惑の目"
+
+msgid "sns_nm_0837"
+msgstr "レイナの宝物"
+
+msgid "sns_nm_0838"
+msgstr "海の惑星"
+
+msgid "sns_nm_0839"
+msgstr "船の守護者"
+
+msgid "sns_nm_0840"
+msgstr "やってくれるじゃねぇか！"
+
+msgid "sns_nm_0841"
+msgstr "調査結果報告"
+
+msgid "sns_nm_0842"
+msgstr "バルキリーの幽霊？"
+
+msgid "sns_nm_0843"
+msgstr "夢、風、そして…"
+
+msgid "sns_nm_0844"
+msgstr "ドッグ・ファイターたち"
+
+msgid "sns_nm_0845"
+msgstr "I'm Dead？"
+
+msgid "sns_nm_0846"
+msgstr "風、無重力、そして…"
+
+msgid "sns_nm_0847"
+msgstr "ありがとうツアー"
+
+msgid "sns_nm_0848"
+msgstr "フレイアとミレーヌの密談"
+
+msgid "sns_nm_0849"
+msgstr "花咲く恋もあるよ"
+
+msgid "sns_nm_0850"
+msgstr "ミレーヌの心配事"
+
+msgid "sns_nm_0851"
+msgstr "雨に挑む"
+
+msgid "sns_nm_0852"
+msgstr "天から注ぐLIGHT"
+
+msgid "sns_nm_0853"
+msgstr "歌に込めた、ありがとう"
+
+msgid "sns_nm_0854"
+msgstr "ミンメイから、みんなへ"
+
+msgid "sns_nm_0855"
+msgstr "もう、1人ぼっちじゃない"
+
+msgid "sns_nm_0856"
+msgstr "悩むレイナ"
+
+msgid "sns_nm_0857"
+msgstr "レイナらしい伝え方"
+
+msgid "sns_nm_0858"
+msgstr "サプライズだよ！"
+
+msgid "sns_nm_0860"
+msgstr "アル・シャハルの思い出"
+
+msgid "sns_nm_0861"
+msgstr "ミラージュの拳"
+
+msgid "sns_nm_0862"
+msgstr "積み重なっていくもの"
+
+msgid "sns_nm_0863"
+msgstr "メッサー入隊時の思い出"
+
+msgid "sns_nm_0864"
+msgstr "聴こえた歌"
+
+msgid "sns_nm_0865"
+msgstr "次の楽しみ"
+
+msgid "sns_nm_0866"
+msgstr "シェリルとビーチ"
+
+msgid "sns_nm_0867"
+msgstr "撮影の裏側"
+
+msgid "sns_nm_0868"
+msgstr "アルトが選んでくれる？"
+
+msgid "sns_nm_0869"
+msgstr "マキナにしかできない技"
+
+msgid "sns_nm_0870"
+msgstr "鍛え上げられたスタイル"
+
+msgid "sns_nm_0871"
+msgstr "夏の思い出"
+
+msgid "sns_nm_0872"
+msgstr "カタスミパークにて"
+
+msgid "sns_nm_0873"
+msgstr "バサラの思い出"
+
+msgid "sns_nm_0874"
+msgstr "やっと追いつけた？"
+
+msgid "sns_nm_0875"
+msgstr "初めて出会った2人"
+
+msgid "sns_nm_0876"
+msgstr "心に響いた言葉"
+
+msgid "sns_nm_0877"
+msgstr "ただ嬉しかっただけ"
+
+msgid "sns_nm_0878"
+msgstr "ステージ上でのバースデー"
+
+msgid "sns_nm_0879"
+msgstr "あとで持っていくよ"
+
+msgid "sns_nm_0880"
+msgstr "窓から受けとるプレゼント"
+
+msgid "sns_nm_0881"
+msgstr "レイナのハロウィン"
+
+msgid "sns_nm_0882"
+msgstr "マキナのために"
+
+msgid "sns_nm_0883"
+msgstr "レイナのイタズラ"
+
+msgid "sns_nm_0884"
+msgstr "似た者同士"
+
+msgid "sns_nm_0885"
+msgstr "美雲の激励"
+
+msgid "sns_nm_0886"
+msgstr "ミラージュの決意"
+
+msgid "sns_nm_0887"
+msgstr "ミレーヌの不安"
+
+msgid "sns_nm_0888"
+msgstr "旅から得る物"
+
+msgid "sns_nm_0889"
+msgstr "いつものバサラ"
+
+msgid "sns_nm_0890"
+msgstr "ハヤテを探すフレイア"
+
+msgid "sns_nm_0891"
+msgstr "パイロットのことはパイロットに"
+
+msgid "sns_nm_0892"
+msgstr "あのときの言葉"
+
+msgid "sns_nm_0893"
+msgstr "記憶を乗せて飛ぶ紙飛行機"
+
+msgid "sns_nm_0894"
+msgstr "翼に風を"
+
+msgid "sns_nm_0895"
+msgstr "銀河に歌を"
+
+msgid "sns_nm_0896"
+msgstr "クロスオーバーライブ"
+
+msgid "sns_nm_0897"
+msgstr "ライブ中のシェリル"
+
+msgid "sns_nm_0898"
+msgstr "息がぴったりな2人"
+
+msgid "sns_nm_0899"
+msgstr "サンタクロースはいない？"
+
+msgid "sns_nm_0900"
+msgstr "雪だるまと美雲"
+
+msgid "sns_nm_0901"
+msgstr "不器用なクリスマスプレゼント"
+
+msgid "sns_nm_0902"
+msgstr "Happy Merry Xmas ～2017～"
+
+msgid "sns_nm_0903"
+msgstr "カナメと美雲のライオン"
+
+msgid "sns_nm_0904"
+msgstr "バサラとミレーヌのライオン"
+
+msgid "sns_nm_0905"
+msgstr "カウントダウン"
+
+msgid "sns_nm_0906"
+msgstr "様子がおかしい2人"
+
+msgid "sns_nm_0907"
+msgstr "フレイアの初夢"
+
+msgid "sns_nm_0908"
+msgstr "カナメ、新年の出会い"
+
+msgid "sns_nm_0909"
+msgstr "ミス・マクロスへの道"
+
+msgid "sns_nm_0910"
+msgstr "コンテストの裏側"
+
+msgid "sns_nm_0911"
+msgstr "目指せ！ミス・マクロス"
+
+msgid "sns_nm_0912"
+msgstr "みんなで東京スカイツリー"
+
+msgid "sns_nm_0913"
+msgstr "東京スカイツリー天望回廊にて"
+
+msgid "sns_nm_0914"
+msgstr "スカイツリーに聞かせる歌"
+
+msgid "sns_nm_0915"
+msgstr "天空のカフェで待ち合わせ"
+
+msgid "sns_nm_0916"
+msgstr "セルフプロデュース"
+
+msgid "sns_nm_0917"
+msgstr "自分らしく歌うこと"
+
+msgid "sns_nm_0918"
+msgstr "敵わない人たち"
+
+msgid "sns_nm_0919"
+msgstr "ジーナス家、集合"
+
+msgid "sns_nm_0920"
+msgstr "バサラからの贈り物"
+
+msgid "sns_nm_0921"
+msgstr "ガムリンからの贈り物"
+
+msgid "sns_nm_0922"
+msgstr "ワルキューレのバレンタイン"
+
+msgid "sns_nm_0923"
+msgstr "シェリルとランカのバレンタイン"
+
+msgid "sns_nm_0924"
+msgstr "感謝のチョコレート"
+
+msgid "sns_nm_0925"
+msgstr "映画館に行こう！"
+
+msgid "sns_nm_0926"
+msgstr "レッスン中の出来事"
+
+msgid "sns_nm_0927"
+msgstr "美雲が告げる真相"
+
+msgid "sns_nm_0928"
+msgstr "とまらない"
+
+msgid "sns_nm_0929"
+msgstr "ライブへようこそ！"
+
+msgid "sns_nm_0930"
+msgstr "ランカのお兄ちゃん"
+
+msgid "sns_nm_0931"
+msgstr "ランカとオズマ"
+
+msgid "sns_nm_0932"
+msgstr "ランカの相談事"
+
+msgid "sns_nm_0933"
+msgstr "アイドルらしさ"
+
+msgid "sns_nm_0934"
+msgstr "ミンメイ直伝"
+
+msgid "sns_nm_0935"
+msgstr "小悪魔？"
+
+msgid "sns_nm_0936"
+msgstr "あなたのためのライブ"
+
+msgid "sns_nm_0937"
+msgstr "味方がいっぱい"
+
+msgid "sns_nm_0938"
+msgstr "不思議な感覚"
+
+msgid "sns_nm_0939"
+msgstr "美雲の異変"
+
+msgid "sns_nm_0940"
+msgstr "記憶の中の女神"
+
+msgid "sns_nm_0941"
+msgstr "あなたたちと歌いたい"
+
+msgid "sns_nm_0942"
+msgstr "波乱のエイプリルフール"
+
+msgid "sns_nm_0943"
+msgstr "歌に込められた想い"
+
+msgid "sns_nm_0944"
+msgstr "悲しい記憶"
+
+msgid "sns_nm_0945"
+msgstr "桜のように"
+
+msgid "sns_nm_0946"
+msgstr "不思議な世界"
+
+msgid "sns_nm_0947"
+msgstr "内緒の手紙"
+
+msgid "sns_nm_0948"
+msgstr "イツワリノセカイの君へ"
+
+msgid "sns_nm_0949"
+msgstr "超時空ユニットライブ、始動"
+
+msgid "sns_nm_0950"
+msgstr "開発までの道のり"
+
+msgid "sns_nm_0951"
+msgstr "新しいステージ"
+
+msgid "sns_nm_0952"
+msgstr "母と姪からの追及"
+
+msgid "sns_nm_0953"
+msgstr "シビル"
+
+msgid "sns_nm_0954"
+msgstr "いつかどこかで"
+
+msgid "sns_nm_0955"
+msgstr "麗しのアルト姫"
+
+msgid "sns_nm_0956"
+msgstr "喧嘩するほど仲が良い人たち"
+
+msgid "sns_nm_0957"
+msgstr "いつか同じステージで"
+
+msgid "sns_nm_0958"
+msgstr "思い出に残る衣装"
+
+msgid "sns_nm_0959"
+msgstr "カナメの気持ち"
+
+msgid "sns_nm_0960"
+msgstr "素直な感想"
+
+msgid "sns_nm_0961"
+msgstr "ファンなんです！"
+
+msgid "sns_nm_0962"
+msgstr "シェリルに学ぶこと"
+
+msgid "sns_nm_0963"
+msgstr "シェリルの反応"
+
+msgid "sns_nm_0964"
+msgstr "衝撃告白…？"
+
+msgid "sns_nm_0965"
+msgstr "歌えばいいだろ"
+
+msgid "sns_nm_0966"
+msgstr "感じるままに"
+
+msgid "sns_nm_0967"
+msgstr "衝撃の事実"
+
+msgid "sns_nm_0968"
+msgstr "事の真相"
+
+msgid "sns_nm_0969"
+msgstr "あなたは昔から…"
+
+msgid "sns_nm_0970"
+msgstr "ミンメイ艦長誕生！？"
+
+msgid "sns_nm_0971"
+msgstr "うちの艦長と言えば？"
+
+msgid "sns_nm_0972"
+msgstr "いつか、その日が来たら"
+
+msgid "sns_nm_0973"
+msgstr "予想外のライブ"
+
+msgid "sns_nm_0974"
+msgstr "ミレーヌからのお願い"
+
+msgid "sns_nm_0975"
+msgstr "気分次第！"
+
+msgid "sns_nm_0976"
+msgstr "結集1周年！"
+
+msgid "sns_nm_0977"
+msgstr "衝撃の1枚"
+
+msgid "sns_nm_0978"
+msgstr "だって私は…"
+
+msgid "sns_nm_0979"
+msgstr "ミラージュが見たもの"
+
+msgid "sns_nm_0980"
+msgstr "わたしの水着、どうだった？"
+
+msgid "sns_nm_0981"
+msgstr "輝、頑張る"
+
+msgid "sns_nm_0982"
+msgstr "バサラが来るまで"
+
+msgid "sns_nm_0983"
+msgstr "歌う人と真面目な人"
+
+msgid "sns_nm_0984"
+msgstr "広がり続ける交流"
+
+msgid "sns_nm_0985"
+msgstr "アルトの為のバルキリー"
+
+msgid "sns_nm_0986"
+msgstr "デルタ小隊にも導入？"
+
+msgid "sns_nm_0987"
+msgstr "2人を乗せた翼"
+
+msgid "sns_nm_0988"
+msgstr "砂漠の踊り子"
+
+msgid "sns_nm_0989"
+msgstr "たったひとつの問題点"
+
+msgid "sns_nm_0990"
+msgstr "アルトが思う、シェリル・ノーム"
+
+msgid "sns_nm_0991"
+msgstr "秘密のパジャマパーティー！"
+
+msgid "sns_nm_0992"
+msgstr "秘密の恋のお話"
+
+msgid "sns_nm_0993"
+msgstr "それは内緒よ？"
+
+msgid "sns_nm_0994"
+msgstr "マキナを守ろう大作戦"
+
+msgid "sns_nm_0995"
+msgstr "マキナの一大事"
+
+msgid "sns_nm_0996"
+msgstr "みんなでワルキューレ"
+
+msgid "sns_nm_0997"
+msgstr "超時空歌合戦！"
+
+msgid "sns_nm_0998"
+msgstr "ドリームマッチ？"
+
+msgid "sns_nm_0999"
+msgstr "熱い想い、歌にのせ"
+
+msgid "sns_nm_1000"
+msgstr "超時空コーディネート"
+
+msgid "sns_nm_1001"
+msgstr "ドキドキワクワクな企画"
+
+msgid "sns_nm_1002"
+msgstr "新しい自分へ"
+
+msgid "sns_nm_1003"
+msgstr "バルキリーに乗って"
+
+msgid "sns_nm_1004"
+msgstr "蒼い旅路"
+
+msgid "sns_nm_1005"
+msgstr "笑顔を見せて"
+
+msgid "sns_nm_1006"
+msgstr "わくわくがいっぱい"
+
+msgid "sns_nm_1007"
+msgstr "ハロウィンの夢"
+
+msgid "sns_nm_1008"
+msgstr "ハロウィンパーティーライブ"
+
+msgid "sns_nm_1009"
+msgstr "チャレンジ！"
+
+msgid "sns_nm_1010"
+msgstr "ライブの演出案"
+
+msgid "sns_nm_1011"
+msgstr "あきらめない"
+
+msgid "sns_nm_1012"
+msgstr "反省会？"
+
+msgid "sns_nm_1013"
+msgstr "ルンピカな一日"
+
+msgid "sns_nm_1014"
+msgstr "また明日から…"
+
+msgid "sns_nm_1015"
+msgstr "煌めく街"
+
+msgid "sns_nm_1016"
+msgstr "カナメのアイデア"
+
+msgid "sns_nm_1017"
+msgstr "あなたもきっと、誰かの妖精"
+
+msgid "sns_nm_1018"
+msgstr "聖夜の招待状"
+
+msgid "sns_nm_1019"
+msgstr "サプライズな贈り物"
+
+msgid "sns_nm_1020"
+msgstr "始まりの合図"
+
+msgid "sns_nm_1021"
+msgstr "ライブ、スタート"
+
+msgid "sns_nm_1022"
+msgstr "年越しライブのテーマ"
+
+msgid "sns_nm_1023"
+msgstr "やりたいこと、全部"
+
+msgid "sns_nm_1024"
+msgstr "ルカの心配"
+
+msgid "sns_nm_1025"
+msgstr "大人の魅力"
+
+msgid "sns_nm_1026"
+msgstr "シェリルのレッスン"
+
+msgid "sns_nm_1027"
+msgstr "女神の羽休め"
+
+msgid "sns_nm_1028"
+msgstr "カナメの行き先は？"
+
+msgid "sns_nm_1029"
+msgstr "バサラの経験談"
+
+msgid "sns_nm_1030"
+msgstr "デカルチャーな港町？"
+
+msgid "sns_nm_1031"
+msgstr "もう一度、あの場所で"
+
+msgid "sns_nm_1032"
+msgstr "ワルキューレは裏切らない"
+
+msgid "sns_nm_1033"
+msgstr "特別出演"
+
+msgid "sns_nm_1034"
+msgstr "息を合わせる"
+
+msgid "sns_nm_1035"
+msgstr "アルトのお願い"
+
+msgid "sns_nm_1036"
+msgstr "当日"
+
+msgid "sns_nm_1037"
+msgstr "放課後デート"
+
+msgid "sns_nm_1038"
+msgstr "新たな発想"
+
+msgid "sns_nm_1039"
+msgstr "お忍び…？"
+
+msgid "sns_nm_1040"
+msgstr "飛び入り参加"
+
+msgid "sns_nm_1041"
+msgstr "ミレーヌらしさ"
+
+msgid "sns_nm_1042"
+msgstr "フレイアの楽器"
+
+msgid "sns_nm_1043"
+msgstr "選んだ理由"
+
+msgid "sns_nm_1044"
+msgstr "超時空音楽祭"
+
+msgid "sns_nm_1045"
+msgstr "シェリルの悩み"
+
+msgid "sns_nm_1046"
+msgstr "超えたい存在"
+
+msgid "sns_nm_1047"
+msgstr "どちらも自分"
+
+msgid "sns_nm_1048"
+msgstr "盛り上げたい！"
+
+msgid "sns_nm_1049"
+msgstr "ワルキューレのアイディア"
+
+msgid "sns_nm_1050"
+msgstr "ライブ当日"
+
+msgid "sns_nm_1051"
+msgstr "苦い思い出"
+
+msgid "sns_nm_1052"
+msgstr "懐かしきハードな日々"
+
+msgid "sns_nm_1053"
+msgstr "リベンジ"
+
+msgid "sns_nm_1054"
+msgstr "早速、相談！"
+
+msgid "sns_nm_1055"
+msgstr "厳しいアドバイス？"
+
+msgid "sns_nm_1056"
+msgstr "大切にすること"
+
+msgid "sns_nm_1057"
+msgstr "【with Fire Bomber】"
+
+msgid "sns_nm_1058"
+msgstr "提案があるの！"
+
+msgid "sns_nm_1059"
+msgstr "相応しい演出"
+
+msgid "sns_nm_1060"
+msgstr "海でのひととき"
+
+msgid "sns_nm_1061"
+msgstr "海中リラクゼーション"
+
+msgid "sns_nm_1062"
+msgstr "貫いた姿"
+
+msgid "sns_nm_1063"
+msgstr "チアガール"
+
+msgid "sns_nm_1064"
+msgstr "応援したい人へ"
+
+msgid "sns_nm_1065"
+msgstr "更なる進化を"
+
+msgid "sns_nm_1066"
+msgstr "作戦大会議"
+
+msgid "sns_nm_1067"
+msgstr "こだわりの衣装"
+
+msgid "sns_nm_1068"
+msgstr "ハヤテの名案"
+
+msgid "sns_nm_1069"
+msgstr "驚きのツアー"
+
+msgid "sns_nm_1070"
+msgstr "ツアープラン"
+
+msgid "sns_nm_1071"
+msgstr "見学を終えて"
+
+msgid "sns_nm_1072"
+msgstr "ドキドキ体験入学"
+
+msgid "sns_nm_1073"
+msgstr "楽しい学校生活"
+
+msgid "sns_nm_1074"
+msgstr "放課後の楽しみ"
+
+msgid "sns_nm_1075"
+msgstr "衣装案、発表"
+
+msgid "sns_nm_1076"
+msgstr "ひっそり、こっそり"
+
+msgid "sns_nm_1077"
+msgstr "衣装イメージ"
+
+msgid "sns_nm_1078"
+msgstr "バサラのわからず屋"
+
+msgid "sns_nm_1079"
+msgstr "天才的な提案"
+
+msgid "sns_nm_1080"
+msgstr "ティーパーティー"
+
+msgid "sns_nm_1081"
+msgstr "相談に来ました！"
+
+msgid "sns_nm_1082"
+msgstr "カナメの答え"
+
+msgid "sns_nm_1083"
+msgstr "バサラからのアドバイス"
+
+msgid "sns_nm_1084"
+msgstr "Memories of VOICES"
+
+msgid "sns_nm_1085"
+msgstr "シャロン・アップル"
+
+msgid "sns_nm_1086"
+msgstr "楽園"
+
+msgid "sns_nm_1087"
+msgstr "スペシャル応援ライブ"
+
+msgid "sns_nm_1088"
+msgstr "デルタ小隊より"
+
+msgid "sns_nm_1089"
+msgstr "ドッキリ・ビックリ"
+
+msgid "sns_nm_1090"
+msgstr "新しい組み合わせ"
+
+msgid "sns_nm_1091"
+msgstr "新しいクリスマス"
+
+msgid "sns_nm_1092"
+msgstr "きゃわわ～だけじゃない"
+
+msgid "sns_nm_1093"
+msgstr "作戦会議"
+
+msgid "sns_nm_1094"
+msgstr "作戦、開始"
+
+msgid "sns_nm_1095"
+msgstr "5人でワルキューレ"
+
+msgid "sns_nm_1096"
+msgstr "一緒に考えよう"
+
+msgid "sns_nm_1097"
+msgstr "思い出の娘々"
+
+msgid "sns_nm_1098"
+msgstr "娘々ライブ"
+
+msgid "sns_nm_1099"
+msgstr "相談事"
+
+msgid "sns_nm_1100"
+msgstr "もしもの話"
+
+msgid "sns_nm_1101"
+msgstr "信じてる"
+
+msgid "sns_nm_1102"
+msgstr "クッキング"
+
+msgid "sns_nm_1103"
+msgstr "切ない気持ち"
+
+msgid "sns_nm_1104"
+msgstr "チョコレートの行方"
+
+msgid "sns_nm_1105"
+msgstr "アイススケート"
+
+msgid "sns_nm_1106"
+msgstr "練習風景"
+
+msgid "sns_nm_1107"
+msgstr "寒さを楽しむために"
+
+msgid "sns_nm_1108"
+msgstr "相談"
+
+msgid "sns_nm_1109"
+msgstr "思わぬ助っ人"
+
+msgid "sns_nm_1110"
+msgstr "思わぬコラボレーション"
+
+msgid "sns_nm_1111"
+msgstr "楽しい休暇"
+
+msgid "sns_nm_1112"
+msgstr "レイの作戦"
+
+msgid "sns_nm_1113"
+msgstr "次の約束"
+
+msgid "sns_nm_1114"
+msgstr "とある惑星より"
+
+msgid "sns_nm_1115"
+msgstr "必要なもの"
+
+msgid "sns_nm_1116"
+msgstr "旅の理由"
+
+msgid "sns_nm_1117"
+msgstr "解析"
+
+msgid "sns_nm_1118"
+msgstr "集合"
+
+msgid "sns_nm_1119"
+msgstr "協力"
+
+msgid "sns_nm_1120"
+msgstr "記憶の断片"
+
+msgid "sns_nm_1121"
+msgstr "暴走の原因"
+
+msgid "sns_nm_1122"
+msgstr "負の感情の記憶"
+
+msgid "sns_nm_1123"
+msgstr "大規模作戦"
+
+msgid "sns_nm_1124"
+msgstr "私たちにできること"
+
+msgid "sns_nm_1125"
+msgstr "パイロットたちの心境"
+

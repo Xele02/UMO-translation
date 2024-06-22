@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+
+msgid "homebg_0000_name"
+msgstr ""
+
+msgid "homebg_0001_name"
+msgstr ""
+
+msgid "homebg_0002_name"
+msgstr ""
+
+msgid "homebg_0003_name"
+msgstr ""
+
+msgid "homebg_0004_name"
+msgstr ""
+
+msgid "homebg_0005_name"
+msgstr ""
+
+msgid "homebg_0006_name"
+msgstr ""
+
+msgid "homebg_0007_name"
+msgstr ""
+
+msgid "homebg_0008_name"
+msgstr ""
+
+msgid "homebg_0009_name"
+msgstr ""
+
+msgid "homebg_0010_name"
+msgstr ""
+
+msgid "homebg_0011_name"
+msgstr ""
+
+msgid "homebg_0012_name"
+msgstr ""
+
+msgid "homebg_0013_name"
+msgstr ""
+
+msgid "homebg_0014_name"
+msgstr ""
+
+msgid "homebg_0015_name"
+msgstr ""
+
+msgid "homebg_0016_name"
+msgstr ""
+
+msgid "homebg_0017_name"
+msgstr ""
+
+msgid "homebg_0018_name"
+msgstr ""
+

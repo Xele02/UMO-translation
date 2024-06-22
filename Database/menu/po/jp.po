@@ -1,0 +1,6141 @@
+msgid ""
+msgstr ""
+
+msgid "popup_title_00"
+msgstr "お知らせ"
+
+msgid "popup_title_01"
+msgstr "ユニット名編集"
+
+msgid "popup_title_02"
+msgstr "変更確認"
+
+msgid "popup_title_03"
+msgstr "変更確認"
+
+msgid "popup_title_04"
+msgstr "バルキリー詳細"
+
+msgid "popup_title_05"
+msgstr "衣装詳細"
+
+msgid "unit_popup_title_00"
+msgstr "ユニットセット保存・呼び出し"
+
+msgid "unit_popup_title_01"
+msgstr "保存確認"
+
+msgid "unit_popup_title_02"
+msgstr "上書き確認"
+
+msgid "unit_popup_title_03"
+msgstr "呼び出し確認"
+
+msgid "unit_setpopup_text_00"
+msgstr "ユニットセット{0}"
+
+msgid "unit_setpopup_text_01"
+msgstr "呼び出し前"
+
+msgid "unit_setpopup_text_02"
+msgstr "呼び出し後"
+
+msgid "unit_setpopup_text_03"
+msgstr "保存前"
+
+msgid "unit_setpopup_text_04"
+msgstr "保存後"
+
+msgid "unit_setpopup_text_05"
+msgstr "このユニットを保存しますがよろしいですか？"
+
+msgid "unit_setpopup_text_06"
+msgstr "このユニットを上書きしますがよろしいですか？"
+
+msgid "unit_setpopup_text_07"
+msgstr "このユニットを呼び出しますがよろしいですか？"
+
+msgid "popup_text_00"
+msgstr "ユニット名を入力してください。\n（全角半角{0}文字まで）"
+
+msgid "popup_text_02"
+msgstr "センターの歌姫を外すことはできません。"
+
+msgid "popup_text_03"
+msgstr "センターの歌姫を外すことはできません。"
+
+msgid "popup_text_08"
+msgstr "歌姫ステータス"
+
+msgid "popup_text_09"
+msgstr "消費アイテム確認"
+
+msgid "popup_text_10"
+msgstr "所持アイテム一覧"
+
+msgid "popup_text_11"
+msgstr "能力解放確認"
+
+msgid "popup_text_12"
+msgstr "エピソードプレート全解除"
+
+msgid "popup_text_14"
+msgstr "エピソードプレート自動編成"
+
+msgid "popup_text_15"
+msgstr "確認"
+
+msgid "popup_text_16"
+msgstr "スキル説明"
+
+msgid "popup_text_17"
+msgstr "支援プレート確認"
+
+msgid "popup_sort_text_00"
+msgstr "選択中の歌姫と相性が一致するプレートのみ表示する"
+
+msgid "popup_sort_title"
+msgstr "表示順変更"
+
+msgid "popup_sort_title_unit"
+msgstr "表示情報変更"
+
+msgid "popup_comparison_00"
+msgstr "ノーツ期待値"
+
+msgid "popup_music_select_00"
+msgstr "楽曲情報"
+
+msgid "popup_music_select_01"
+msgstr "楽曲クリア報酬(仮)"
+
+msgid "popup_music_select_02"
+msgstr "達成報酬"
+
+msgid "popup_music_select_03"
+msgstr "初回クリア詳細(仮)"
+
+msgid "popup_music_select_04"
+msgstr "楽曲クリア詳細(仮)"
+
+msgid "popup_music_select_05"
+msgstr "ミッションクリア詳細(仮)"
+
+msgid "popup_music_select_06"
+msgstr "熟練度"
+
+msgid "popup_music_select_07"
+msgstr "敵情報"
+
+msgid "popup_stamina_title_00"
+msgstr "確認画面"
+
+msgid "popup_stamina_text_00"
+msgstr "エナジーが不足しています。"
+
+msgid "popup_ap_title_00"
+msgstr "確認画面"
+
+msgid "popup_ap_text_00"
+msgstr "APが不足しています。"
+
+msgid "item_popup_text_00"
+msgstr "所持:{0,4}"
+
+msgid "item_detail_popup_title_00"
+msgstr "アイテム詳細"
+
+msgid "pbox_title_00"
+msgstr "受け取り確認"
+
+msgid "pbox_title_01"
+msgstr "受け取り失敗"
+
+msgid "pbox_title_02"
+msgstr "プレゼント受け取り"
+
+msgid "pbox_title_03"
+msgstr "一括受取確認"
+
+msgid "pbox_title_04"
+msgstr "所持上限"
+
+msgid "pbox_text_01"
+msgstr "<color=#C8087E>{0}</color>\nを受け取ります。\n\nよろしいですか？"
+
+msgid "pbox_text_02"
+msgstr "受け取ろうとしたアイテムが\n所持上限を超えています。"
+
+msgid "pbox_text_03"
+msgstr "<color=#C8087E>{0}</color>\n\nを受け取りました。"
+
+msgid "pbox_text_04"
+msgstr "{0}\n\nを受け取り、LUCKの加算を行いました。\n{1} のLUCKが {2} 上昇しました。"
+
+msgid "pbox_text_05"
+msgstr "{0}\n\n{1} のLUCKは上限に達しているため、\n{2} に変換されました。"
+
+msgid "pbox_text_06"
+msgstr "プレゼントを一括で受け取ります。\n\nよろしいですか？"
+
+msgid "pbox_text_07"
+msgstr "受け取ろうとしたアイテムに\n所持上限を超えるものがありました。"
+
+msgid "pbox_text_08"
+msgstr "プレゼント {0} 件を受け取りました。"
+
+msgid "pbox_text_09"
+msgstr "受け取り可能なプレゼントがありませんでした。"
+
+msgid "pbox_text_10"
+msgstr "{0}/{1}/{2} {3}:{4}"
+
+msgid "pbox_text_11"
+msgstr "{0}/{1}/{2} {3}:{4}"
+
+msgid "pbox_text_12"
+msgstr "あと{0}日"
+
+msgid "pbox_text_13"
+msgstr "あと{0}時間"
+
+msgid "pbox_text_14"
+msgstr "あと{0}分"
+
+msgid "pbox_win_warn01"
+msgstr "<color=#c8087e>最新の{0}件が表示されます。</color>"
+
+msgid "pbox_win_warn02"
+msgstr "<color=#c8087e>最新の{0}件が表示されます。</color>"
+
+msgid "pbox_win_none01"
+msgstr "プレゼントがありません。"
+
+msgid "pbox_win_none02"
+msgstr "受け取り履歴がありません。"
+
+msgid "set_notification_text_00"
+msgstr "通知設定"
+
+msgid "set_notification_text_01"
+msgstr "ご利用の端末の通知設定をOFFにしている場合はすべての通知が行われません。"
+
+msgid "set_notification_text_02"
+msgstr "イベントやキャンペーンなど\nお知らせ情報をプッシュ通知します。"
+
+msgid "set_notification_text_03"
+msgstr "通知が届く時間帯を設定します。"
+
+msgid "set_notification_text_04"
+msgstr "「お知らせ」には適用されません。"
+
+msgid "set_notification_text_05"
+msgstr "エナジーが全回復した時に\nプッシュ通知します。"
+
+msgid "set_notification_text_06"
+msgstr "超時空SNSで会話が発信された時に\nプッシュ通知します。"
+
+msgid "set_notification_text_07"
+msgstr "バルキリーオペレーションが\n完了した時にプッシュ通知します。"
+
+msgid "set_notification_text_08"
+msgstr "APが全回復した時に\nプッシュ通知します。"
+
+msgid "set_notification_text_09"
+msgstr "EX暴走エネミーが出現した時に\nプッシュ通知します。"
+
+msgid "set_notification_text_10"
+msgstr "「お知らせ」の通知をOFFにしている場合は通知されません。"
+
+msgid "set_notification_text_11"
+msgstr "デコルーム上で回収できるものが\n満タンの時にプッシュ通知します。"
+
+msgid "set_battle_event_text_01"
+msgstr "バトルクラス再選択"
+
+msgid "set_battle_event_text_02"
+msgstr "※クラスを再選択するとEXゲージがリセットされます。"
+
+msgid "set_battle_event_text_03"
+msgstr "バトル途中経過の表示"
+
+msgid "set_battle_event_text_04"
+msgstr "※OFFにするとライブ中の途中経過のアイコンが表示されなくなります。"
+
+msgid "config_text_00"
+msgstr "音量設定"
+
+msgid "config_text_01"
+msgstr "BGM"
+
+msgid "config_text_02"
+msgstr "効果音"
+
+msgid "config_text_03"
+msgstr "ボイス"
+
+msgid "config_text_04"
+msgstr "画面表示設定"
+
+msgid "config_text_05"
+msgstr "端末の向きによって自動で画面を回転するか、\n左右どちらかに固定で表示するかを選択します\n「自動」を設定している場合でも端末機能で画面の向きを\nロックしている場合は回転しません"
+
+msgid "config_text_05_iphone"
+msgstr "<size=22>端末の向きによって自動で画面を回転するか、\n左右どちらかに固定で表示するかを選択します。\n「自動」を設定している場合でも端末機能で画面の向きを\nロックしている場合は回転しません。</size>"
+
+msgid "config_text_05_android"
+msgstr "<size=22>端末の向きによって自動で画面を回転するか、\n左右どちらかに固定で表示するかを選択します。</size>"
+
+msgid "config_text_06"
+msgstr "自動"
+
+msgid "config_text_07"
+msgstr "右を上にする"
+
+msgid "config_text_08"
+msgstr "左を上にする"
+
+msgid "config_text_09"
+msgstr "表示設定"
+
+msgid "config_text_10"
+msgstr "ビデオ設定を低、非表示にすることでゲームの動作が軽くなる場合があります。"
+
+msgid "config_text_11"
+msgstr "カスタム設定"
+
+msgid "config_text_12"
+msgstr "スキル発動時のカットイン表示設定です。"
+
+msgid "config_text_13"
+msgstr "ノーツが飛んで来る軌道の表示設定です。"
+
+msgid "config_text_14"
+msgstr "動作設定"
+
+msgid "config_text_15"
+msgstr "各項目を設定した条件でライブを行います。"
+
+msgid "config_text_16"
+msgstr "動作の軽量化のため、2D表示でライブが行われます。"
+
+msgid "config_text_17"
+msgstr "動作の軽量化のため、一部のライブ演出をカットします。"
+
+msgid "config_text_18"
+msgstr "すべてのライブ演出を表示します。"
+
+msgid "config_text_19"
+msgstr "タイミング設定"
+
+msgid "config_text_20"
+msgstr "ノーツアイコンの判定タイミングを調整できます。"
+
+msgid "config_text_21"
+msgstr "ライブ設定"
+
+msgid "config_text_22"
+msgstr "確認"
+
+msgid "config_text_23"
+msgstr "音量設定を初期設定に戻します。\nよろしいですか？"
+
+msgid "config_text_24"
+msgstr "ライブ中に3Dで表示される歌姫について設定します。\n低にすると描画のクオリティを最低限に抑え、負荷を\n軽減します。"
+
+msgid "config_text_25"
+msgstr "ライブ中に3Dで表示される背景、バルキリーなどに\nついて設定します。低にすると描画のクオリティを\n最低限に抑え、負荷を軽減します。"
+
+msgid "config_text_26"
+msgstr "ライブ中に2Dで表示される演出について設定します。\n低にすると演出を最低限に抑え、負荷を軽減します。"
+
+msgid "config_text_27"
+msgstr "描画設定"
+
+msgid "config_text_28"
+msgstr "メニュー設定"
+
+msgid "config_text_29"
+msgstr "その他設定"
+
+msgid "config_text_30"
+msgstr "背景設定"
+
+msgid "config_text_31"
+msgstr "<size=22>ホーム画面の背景について設定できます。</size>"
+
+msgid "config_text_32"
+msgstr "デフォルトの背景が表示されます。"
+
+msgid "config_text_33"
+msgstr "メインプレートのレアリティアップ前の\nレアリティが★4以上の場合、背景として表示します。"
+
+msgid "config_text_34"
+msgstr "有効の場合はポーズ状態になり、無効の場合は反応しなくなります。"
+
+msgid "config_text_35"
+msgstr "ライブ中のBackキー設定をします。"
+
+msgid "config_text_36"
+msgstr "Backキー設定"
+
+msgid "config_text_37_rhythm"
+msgstr "現在の難易度"
+
+msgid "config_text_37_option"
+msgstr "選択中の難易度"
+
+msgid "config_text_38"
+msgstr "ノーツスピードは難易度ごとに設定されます。"
+
+msgid "config_text_39"
+msgstr "ライブ中のノーツスピードを調整できます。"
+
+msgid "config_text_40"
+msgstr "ノーツスピード設定"
+
+msgid "config_text_41"
+msgstr "ビデオ設定"
+
+msgid "config_text_42"
+msgstr "歌姫モード中に流れるビデオについて設定できます。"
+
+msgid "config_text_43"
+msgstr "ビデオ画質を低にすることでゲームの動作が軽くなる場合があります。"
+
+msgid "config_text_44"
+msgstr "画質を切り替える場合はビデオを再ダウンロードします。"
+
+msgid "config_text_45"
+msgstr "設定を変更する場合は\n現在ダウンロード済みのビデオを削除し\n楽曲プレイ時に新しくビデオが再ダウンロードされます。\n\n設定を変更しますか？"
+
+msgid "config_text_46"
+msgstr "削除が完了しました。"
+
+msgid "config_text_47"
+msgstr "歌姫設定"
+
+msgid "config_text_48"
+msgstr "<size=22>ホーム画面の歌姫について設定できます。</size>"
+
+msgid "config_text_49"
+msgstr "ユニットのセンター歌姫・衣装が表示されます。"
+
+msgid "config_text_50"
+msgstr "楽屋で選択した歌姫が表示されます。"
+
+msgid "config_text_51"
+msgstr "タイミング設定を初期設定に戻します。\nよろしいですか？"
+
+msgid "config_text_52"
+msgstr "明度設定"
+
+msgid "config_text_53"
+msgstr "3Dライブと2Dライブ、それぞれの画面の明るさを調整できます。"
+
+msgid "config_text_54"
+msgstr "暗"
+
+msgid "config_text_55"
+msgstr "明"
+
+msgid "config_text_56"
+msgstr "明度設定を初期設定に戻します。\nよろしいですか？"
+
+msgid "config_text_57"
+msgstr "バルキリーモード設定"
+
+msgid "config_text_58"
+msgstr "バルキリーモード中の演出について設定できます。"
+
+msgid "config_text_59"
+msgstr "バルキリーと敵のバトルが表示されます。"
+
+msgid "config_text_60"
+msgstr "バルキリーモード中も歌姫が表示されます。"
+
+msgid "config_text_61"
+msgstr "確認"
+
+msgid "config_text_62"
+msgstr "ノーツスピードを初期設定に戻します。\nよろしいですか？\n<color=#C8087E>※すべての難易度の設定値が変更されます。</color>"
+
+msgid "config_text_63"
+msgstr "すべての難易度で同じ設定を反映する"
+
+msgid "config_text_64"
+msgstr "チェックしない場合、ノーツスピードは難易度ごとに設定されます。"
+
+msgid "config_text_65"
+msgstr "次から表示しない"
+
+msgid "config_text_66"
+msgstr "ノーツスピードはゲーム設定からいつでも変更できます。"
+
+msgid "config_text_67"
+msgstr "ノーツスピード設定が完了しました。\nゲーム設定からいつでも変更できます。"
+
+msgid "config_text_68"
+msgstr "ノーツデザイン設定"
+
+msgid "config_text_69"
+msgstr "3色を選ぶとフリックノーツが各方向で別の色になります。"
+
+msgid "config_text_70"
+msgstr "ライブ中のEXCELLENT表示設定です。"
+
+msgid "config_text_71"
+msgstr "OFFの場合、ライブ中にEXCELLENTが発生してもPERFECTが表示されます。"
+
+msgid "config_text_72"
+msgstr "歌姫モード設定"
+
+msgid "config_text_73"
+msgstr "歌姫モード中の演出について設定できます。"
+
+msgid "config_text_74"
+msgstr "設定は3Dライブにのみ反映されます。"
+
+msgid "config_text_75"
+msgstr "歌姫モード中、歌姫の背景にビデオが表示されます。"
+
+msgid "config_text_76"
+msgstr "歌姫モード中、歌姫のみが表示されます。"
+
+msgid "config_text_77"
+msgstr "歌姫モード中、ビデオのみが表示されます。"
+
+msgid "config_text_78"
+msgstr "ノーツタップ音は最小にしても無音になりません。"
+
+msgid "config_text_79"
+msgstr "ライブ表示設定"
+
+msgid "config_text_80"
+msgstr "ライブシステム設定"
+
+msgid "config_text_81"
+msgstr "<size=24>シミュレーションライブ設定</size>"
+
+msgid "config_text_82"
+msgstr "<size=24>画面フレーム設定</size>"
+
+msgid "config_text_83"
+msgstr "画面のフレームデザインについて設定できます。"
+
+msgid "config_text_84"
+msgstr "デザインフレーム1を表示します。"
+
+msgid "config_text_85"
+msgstr "デザインフレーム2を表示します。"
+
+msgid "config_text_86"
+msgstr "黒フレームを表示します。"
+
+msgid "config_text_87"
+msgstr "OFFの場合、6レーンゲームのスライド中のガイドエフェクトを非表示にします。"
+
+msgid "config_text_88"
+msgstr "<size=24>アスペクト比</size>"
+
+msgid "config_text_89"
+msgstr "画面の表示について設定できます。"
+
+msgid "config_text_90"
+msgstr "横に広い画面で表示します。"
+
+msgid "config_text_91"
+msgstr "ワイドに比べて縦が広く、横が狭い画面で表示します。"
+
+msgid "config_text_92"
+msgstr "設定は次回アプリ起動時から反映されます。"
+
+msgid "config_text_93"
+msgstr "プレミアプレート"
+
+msgid "config_text_94"
+msgstr "<size=22>プレミア化したプレートの表示について設定できます。</size>"
+
+msgid "config_text_95"
+msgstr "プレートをプレミア化した状態で表示します。"
+
+msgid "config_text_96"
+msgstr "プレートをプレミア化前の状態で表示します。"
+
+msgid "growth_list_text_01"
+msgstr "次回取得報酬"
+
+msgid "growth_list_text_02"
+msgstr "×{0}"
+
+msgid "growth_list_text_03"
+msgstr "{0}の{1}レベル{2}"
+
+msgid "growth_popup_title_01"
+msgstr "ロック解放条件"
+
+msgid "growth_popup_title_text01"
+msgstr "メインボード拡張"
+
+msgid "growth_popup_title_text02"
+msgstr "シークレットボード追加"
+
+msgid "growth_popup_title_text03"
+msgstr "シークレットボード拡張"
+
+msgid "growth_popup_title_text04"
+msgstr "解放数選択"
+
+msgid "growth_popup_title_text05"
+msgstr "解放上限確認"
+
+msgid "growth_popup_title_text06"
+msgstr "解放上限確認"
+
+msgid "growth_popup_text01"
+msgstr "所持:{0,4}"
+
+msgid "growth_popup_text02"
+msgstr "以下のアイテムとUCを消費します。"
+
+msgid "growth_popup_text03"
+msgstr "必要UC:<color={1}>{0,4}</color>"
+
+msgid "growth_popup_text04"
+msgstr "所持UC:<color={1}>{0,8}</color>"
+
+msgid "growth_popup_text05"
+msgstr "アイテムが不足しています。"
+
+msgid "growth_popup_text06"
+msgstr "{0}個の能力を解放します。よろしいですか？"
+
+msgid "growth_popup_text07"
+msgstr "所持:<color={1}>{0,4}</color>"
+
+msgid "growth_popup_text08"
+msgstr "UCが不足しています。"
+
+msgid "growth_popup_text09"
+msgstr "アイテムとUCが不足しています。"
+
+msgid "growth_popup_text10"
+msgstr "レアリティがアップしました。\n能力ボードが拡張されました。"
+
+msgid "growth_popup_text11"
+msgstr "シークレットボードが追加されました。"
+
+msgid "growth_popup_text12"
+msgstr "シークレットボードが拡張されました。"
+
+msgid "growth_popup_text13"
+msgstr "現在解放できる特別エピソード解放マスは{0}回分です。\n何回分解放するか選択してください。"
+
+msgid "growth_popup_text14"
+msgstr "このマスで一度に解放できるエピソード解放値は{0}までです。"
+
+msgid "growth_popup_text15"
+msgstr "これ以上解放すると一度に解放できるエピソード値を超えてしまいます。"
+
+msgid "growth_popup_text16"
+msgstr "これ以上はアイテムが不足しているため解放できません。"
+
+msgid "growth_popup_text17"
+msgstr "これ以上はUCが不足しているため解放できません。"
+
+msgid "growth_popup_text18"
+msgstr "これ以上はアイテムとUCが不足しているため解放できません。"
+
+msgid "growth_popup_text19"
+msgstr "{0}個の能力を解放します。よろしいですか？\n<color={1}>※このエピソードの完全解放報酬は獲得済みです。</color>"
+
+msgid "growth_addreward_text"
+msgstr "追加報酬"
+
+msgid "story_unlock_01"
+msgstr "<size=25>【解放条件】</size>"
+
+msgid "story_unlock_02"
+msgstr "<size=20>以下の条件を満たすことで解放。</size>"
+
+msgid "story_unlock_03"
+msgstr "<size=20>以下のいずれか1つを満たすことで解放。</size>"
+
+msgid "story_unlock_04"
+msgstr "・プレイヤーランク{0}にする"
+
+msgid "story_unlock_05"
+msgstr "・ライブで下記楽曲を{0}以上でクリアする\n　{1}"
+
+msgid "story_unlock_06"
+msgstr "・ライブで下記楽曲{0}を\nスコアランク{1}以上でクリアする\n「{2}」"
+
+msgid "story_unlock_07"
+msgstr "・前の領域を先にクリア"
+
+msgid "story_unlock_08"
+msgstr "ロック中"
+
+msgid "story_unlock_09"
+msgstr "先に1つ前の領域を解放してください。"
+
+msgid "story_unlock_10"
+msgstr "<size=20>以下の条件を満たすことで参加します。</size>"
+
+msgid "story_unlock_11"
+msgstr "<size=20>以下のいずれか1つを満たすことで参加します。</size>"
+
+msgid "music_not_exist_text_00"
+msgstr "このカテゴリには現在遊べる楽曲がありません。\n<color=#C8087E>※記憶の時空で歌の記憶を解放すると楽曲が追加されます。 </color>"
+
+msgid "music_not_exist_line6_text_00"
+msgstr "このカテゴリには現在遊べる6レーン用の楽曲がありません。\n<color=#C8087E>※6レーン用の楽曲が解放されると追加されます。</color>"
+
+msgid "reward_all_clear_text_00"
+msgstr "全達成報酬"
+
+msgid "unit_auto_popup_text_00"
+msgstr "センタースキルを変えずに自動編成する"
+
+msgid "unit_auto_popup_text_01"
+msgstr "歌姫と相性が合うエピソードプレートを優先する"
+
+msgid "unit_clearplate_confirm_text"
+msgstr "ユニット内とユニット外のすべての歌姫から\nセット中のエピソードプレートをすべて外します。\nよろしいですか？"
+
+msgid "unit_save_text"
+msgstr "ユニットを保存しました。"
+
+msgid "unit_load_text"
+msgstr "ユニットを呼び出しました。"
+
+msgid "header_desc_home000"
+msgstr "プレイする項目を選択してください"
+
+msgid "header_desc_home001"
+msgstr "フレンドの一覧です"
+
+msgid "header_desc_home002"
+msgstr "プレゼントの一覧です"
+
+msgid "header_desc_home003"
+msgstr "フレンドについて確認できます"
+
+msgid "header_desc_home004"
+msgstr "フレンド申請中の一覧です"
+
+msgid "header_desc_home005"
+msgstr "フレンドの承認を行ってください"
+
+msgid "header_desc_home006"
+msgstr "他プレイヤーをIDで検索できます"
+
+msgid "header_desc_home007"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_home008"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_home009"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_home010"
+msgstr "イベントミッションの一覧です"
+
+msgid "header_desc_vop000"
+msgstr "オペレーションを選択してください"
+
+msgid "header_desc_vop001"
+msgstr "小隊を選択してください"
+
+msgid "header_desc_vop002"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_vop003"
+msgstr "形態を選択してください"
+
+msgid "header_desc_home030"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_home031"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_home032"
+msgstr "スタンプを作成できます"
+
+msgid "header_desc_home033"
+msgstr "隊員の情報が確認できます　　　　"
+
+msgid "header_desc_home034"
+msgstr "協力ミッションの一覧です"
+
+msgid "header_desc_home035"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_home110"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_home130"
+msgstr "イベントミッションの一覧です"
+
+msgid "header_desc_home201"
+msgstr "アシストを選択してください"
+
+msgid "header_desc_home202"
+msgstr "ユニットを編成してください"
+
+msgid "header_desc_home203"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_home204"
+msgstr "楽曲ごとの成長を確認できます"
+
+msgid "header_desc_home205"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_home206"
+msgstr "プレートの能力を解放できます"
+
+msgid "header_desc_home207"
+msgstr "保存したユニットを確認できます"
+
+msgid "header_desc_home208"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_home209"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_home210"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_home211"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_home230"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_home231"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_home240"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_home301"
+msgstr "デコルームを選択してください"
+
+msgid "header_desc_home302"
+msgstr "訪問先の一覧です"
+
+msgid "header_desc_home303"
+msgstr "アイテムを選択してください"
+
+msgid "header_desc_setting000"
+msgstr "ライブの準備をしましょう"
+
+msgid "header_desc_setting001"
+msgstr "ユニットを編成してください"
+
+msgid "header_desc_setting002"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_setting003"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_setting004"
+msgstr "保存したユニットを確認できます"
+
+msgid "header_desc_setting005"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_setting006"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_setting007"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_setting008"
+msgstr "プレートの一覧です"
+
+msgid "header_desc_setting009"
+msgstr "楽曲ごとの成長を確認できます"
+
+msgid "header_desc_setting010"
+msgstr "プレートの能力を解放できます"
+
+msgid "header_desc_setting011"
+msgstr "エピソードを選択してください"
+
+msgid "header_desc_setting012"
+msgstr "解放状況を確認できます"
+
+msgid "header_desc_setting013"
+msgstr "アイテムを選択してください"
+
+msgid "header_desc_setting030"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_setting031"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_setting032"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_story000"
+msgstr "領域を選択してください"
+
+msgid "header_desc_story001"
+msgstr "アシストを選択してください"
+
+msgid "header_desc_story002"
+msgstr "ユニットを編成してください"
+
+msgid "header_desc_story003"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_story004"
+msgstr "楽曲ごとの成長を確認できます"
+
+msgid "header_desc_story005"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_story006"
+msgstr "プレートの能力を解放できます"
+
+msgid "header_desc_story007"
+msgstr "保存したユニットを確認できます"
+
+msgid "header_desc_story008"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_story009"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_story030"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_story031"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_free000"
+msgstr "楽曲を選択してください"
+
+msgid "header_desc_free001"
+msgstr "アシストを選択してください"
+
+msgid "header_desc_free002"
+msgstr "ユニットを編成してください"
+
+msgid "header_desc_free003"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_free004"
+msgstr "楽曲ごとの成長を確認できます"
+
+msgid "header_desc_free005"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_free006"
+msgstr "プレートの能力を解放できます"
+
+msgid "header_desc_free007"
+msgstr "保存したユニットを確認できます"
+
+msgid "header_desc_free008"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_free009"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_free010"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_free011"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_free020"
+msgstr "ライブの設定を確認してください"
+
+msgid "header_desc_free110"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_free120"
+msgstr "イベントストーリーを確認できます"
+
+msgid "header_desc_free130"
+msgstr "イベントミッションの一覧です"
+
+msgid "header_desc_free030"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_free031"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_free201"
+msgstr "アシストを選択してください"
+
+msgid "header_desc_free202"
+msgstr "ユニットを編成してください"
+
+msgid "header_desc_free203"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_free204"
+msgstr "楽曲ごとの成長を確認できます"
+
+msgid "header_desc_free205"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_free206"
+msgstr "プレートの能力を解放できます"
+
+msgid "header_desc_free207"
+msgstr "保存したユニットを確認できます"
+
+msgid "header_desc_free208"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_free209"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_free210"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_free211"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_free230"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_free231"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_free240"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_free303"
+msgstr "アイテムを選択してください"
+
+msgid "header_desc_gacha000"
+msgstr "ガチャを選択してください"
+
+msgid "header_desc_gacha001"
+msgstr "ガチャについて確認できます"
+
+msgid "header_desc_quest000"
+msgstr "ミッションの一覧です"
+
+msgid "header_desc_quest001"
+msgstr "イベントミッションの一覧です"
+
+msgid "header_desc_quest002"
+msgstr "報酬を選択してください"
+
+msgid "header_desc_quest003"
+msgstr "ビンゴミッションに挑戦できます"
+
+msgid "header_desc_option000"
+msgstr "項目を選択してください"
+
+msgid "header_desc_option001"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_option002"
+msgstr "称号を選択してください"
+
+msgid "header_desc_option003"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_option004"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_option005"
+msgstr "項目を選択してください"
+
+msgid "header_desc_option006"
+msgstr "交換所を選択してください"
+
+msgid "header_desc_option007"
+msgstr "アイテムを選択してください"
+
+msgid "header_desc_option008"
+msgstr "イベントストーリーを確認できます"
+
+msgid "header_desc_option009"
+msgstr "ブロックしたユーザーの一覧です"
+
+msgid "header_desc_evquest001"
+msgstr "アシストを選択してください"
+
+msgid "header_desc_evquest002"
+msgstr "ユニットを編成してください"
+
+msgid "header_desc_evquest003"
+msgstr "歌姫を選択してください"
+
+msgid "header_desc_evquest004"
+msgstr "楽曲ごとの成長を確認できます"
+
+msgid "header_desc_evquest005"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_evquest006"
+msgstr "プレートの能力を解放できます"
+
+msgid "header_desc_evquest007"
+msgstr "保存したユニットを確認できます"
+
+msgid "header_desc_evquest008"
+msgstr "バルキリーを選択してください"
+
+msgid "header_desc_evquest009"
+msgstr "衣装を選択してください"
+
+msgid "header_desc_evquest010"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_evquest011"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_evquest110"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_evquest120"
+msgstr "イベントストーリーを確認できます"
+
+msgid "header_desc_evquest130"
+msgstr "イベントミッションの一覧です"
+
+msgid "header_desc_evquest030"
+msgstr "強化する衣装を選択してください"
+
+msgid "header_desc_evquest031"
+msgstr "アイテムを選択してください　　　　　"
+
+msgid "header_desc_result211"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_result240"
+msgstr "ランキングを確認できます"
+
+msgid "header_desc_musicrate000"
+msgstr "歌レート情報を確認できます"
+
+msgid "header_desc_musicrate001"
+msgstr "プロフィールを確認できます"
+
+msgid "popup_unlock_desc_000"
+msgstr "ライブに楽曲が追加されました！"
+
+msgid "popup_unlock_desc_001"
+msgstr "記憶の時空で 歌の記憶が解放できます。"
+
+msgid "popup_unlock_desc_002"
+msgstr "歌姫ステータス"
+
+msgid "popup_loginbonus_001"
+msgstr "通算ログインボーナス"
+
+msgid "popup_loginbonus_002"
+msgstr "アイテムはプレゼントBOXに送られます。"
+
+msgid "popup_loginbonus_comeback_pack_001"
+msgstr "おかえりなさいパック"
+
+msgid "popup_review_000"
+msgstr "フレイアからレビューのお願い"
+
+msgid "popup_review_001"
+msgstr "歌マクロス スマホDeカルチャーを\n遊んでくれてあんがとね！\n遊んでみて、どんな感じかね？"
+
+msgid "popup_review_002"
+msgstr "星をタップして評価してください"
+
+msgid "popup_review_003"
+msgstr "もしよかったら、感想とか\n聞かせてもらえると嬉しいんやけど…\n\nこっそり教えてくれんかね？"
+
+msgid "popup_review_004"
+msgstr "もしよかったら、意見とか\n聞かせてもらえんかね？\n\n歌マクロス スマホDeカルチャーを\nもっと面白くしていくかんね！"
+
+msgid "popup_reward_detail_001"
+msgstr "{0}回以上クリア"
+
+msgid "popup_reward_detail_002"
+msgstr "スコア{0}以上"
+
+msgid "popup_reward_detail_003"
+msgstr "{0}コンボ以上"
+
+msgid "popup_reward_detail_004"
+msgstr "{0}UC"
+
+msgid "popup_reward_detail_005"
+msgstr "{0}×{1}"
+
+msgid "popup_reward_detail_title"
+msgstr "取得報酬"
+
+msgid "pupup_app_exit_title"
+msgstr "アプリ終了確認"
+
+msgid "popup_app_exit"
+msgstr "アプリを終了してもよろしいですか？"
+
+msgid "popup_quest_reward_title"
+msgstr "ミッション達成"
+
+msgid "quest_event_none_list"
+msgstr "現在挑戦できるミッションはありません。"
+
+msgid "quest_reward_none_list"
+msgstr "報酬を受け取ることができるミッションはありません。"
+
+msgid "quest_timer_d"
+msgstr "あと{0}日"
+
+msgid "quest_timer_h"
+msgstr "あと{0}時間"
+
+msgid "quest_timer_m"
+msgstr "あと{0}分"
+
+msgid "quest_tiemr_e001"
+msgstr "開催期間:{0} ～\n{1}まで"
+
+msgid "quest_tiemr_e002"
+msgstr "受取期間:{0} ～\n{1}まで"
+
+msgid "quest_tiemr_e003"
+msgstr "{0:D4}年 {1}月{2}日 {3:D2}:{4:D2}"
+
+msgid "popup_quest_detail_001"
+msgstr "ユニオンクレジット×{0}"
+
+msgid "popup_quest_detail_002"
+msgstr "{0}×{1}"
+
+msgid "popup_title_episode_01"
+msgstr "エピソード解放報酬"
+
+msgid "popup_title_episode_02"
+msgstr "エピソードアイテム"
+
+msgid "popup_title_episode_03"
+msgstr "エピソード解放"
+
+msgid "popup_title_episode_04"
+msgstr "エピソード報酬"
+
+msgid "episode_item_select_01"
+msgstr "アイテムを所持していません。"
+
+msgid "popup_title_sns_01"
+msgstr "超時空SNSルーム"
+
+msgid "sns_text_01"
+msgstr "新しいメッセージがあります。"
+
+msgid "sns_item_description"
+msgstr "超時空SNSルーム「{0}」で\n「トーク：{1}」を見ることができる。"
+
+msgid "popup_friend_request_title"
+msgstr "フレンド申請"
+
+msgid "popup_friend_request_msg"
+msgstr "{0} さんにフレンドを申請します。\n\nよろしいですか？"
+
+msgid "popup_friend_release_title"
+msgstr "フレンド解除確認"
+
+msgid "popup_friend_release_msg"
+msgstr "{0} さんとの\nフレンドを解除します。\n\nよろしいですか？"
+
+msgid "popup_friend_cancel_title"
+msgstr "フレンド申請取り消し確認"
+
+msgid "popup_friend_cancel_msg"
+msgstr "{0} さんへの\nフレンド申請を取り消します。\n\nよろしいですか？"
+
+msgid "popup_friend_accept_title"
+msgstr "フレンド承認確認"
+
+msgid "popup_friend_accept_msg"
+msgstr "{0} さんからの\nフレンド申請を承認します。\n\nよろしいですか？"
+
+msgid "popup_friend_reject_title"
+msgstr "フレンド拒否確認"
+
+msgid "popup_friend_reject_msg"
+msgstr "{0} さんからの\nフレンド申請を断ります。\n\nよろしいですか？"
+
+msgid "popup_friend_requested_title"
+msgstr "フレンド申請完了"
+
+msgid "popup_friend_requested_msg"
+msgstr "{0} さんに\nフレンド申請を送りました。"
+
+msgid "popup_friend_released_title"
+msgstr "フレンド解除完了"
+
+msgid "popup_friend_released_msg"
+msgstr "{0} さんとの\nフレンドを解除しました。"
+
+msgid "popup_friend_cancelled_title"
+msgstr "フレンド申請取り消し完了"
+
+msgid "popup_friend_cancelled_msg"
+msgstr "{0} さんへの\nフレンド申請を取り消しました。"
+
+msgid "popup_friend_accepted_title"
+msgstr "フレンド承認完了"
+
+msgid "popup_friend_accepted_msg"
+msgstr "{0} さんと\nフレンドになりました。"
+
+msgid "popup_friend_rejected_title"
+msgstr "フレンド拒否完了"
+
+msgid "popup_friend_rejected_msg"
+msgstr "{0} さんからの\nフレンド申請を断りました。"
+
+msgid "friend_accept_not_found"
+msgstr "フレンド承認待ちのプレイヤーはいません。"
+
+msgid "friend_list_not_found"
+msgstr "フレンドがいません。"
+
+msgid "friend_request_not_found"
+msgstr "あなたがフレンド申請しているプレイヤーはいません。"
+
+msgid "friend_search_ready"
+msgstr "ID検索をしたプレイヤーが表示されます。"
+
+msgid "friend_search_not_found"
+msgstr "プレイヤーが見つかりません。"
+
+msgid "friend_caution_request"
+msgstr "申請から14日間経過するとリストから自動的に削除されます。"
+
+msgid "popup_friend_search_title"
+msgstr "ID検索"
+
+msgid "popup_friend_search_placeholder"
+msgstr "プレイヤーIDを入力してください。"
+
+msgid "popup_friend_search_myself_title"
+msgstr "検索失敗"
+
+msgid "popup_friend_search_myself_msg"
+msgstr "あなたのプレイヤーIDです。"
+
+msgid "popup_friend_search_not_found_title"
+msgstr "検索失敗"
+
+msgid "popup_friend_search_not_found_msg"
+msgstr "プレイヤーIDが間違っています。"
+
+msgid "ranking_message"
+msgstr "全難易度共通のランキングになります。"
+
+msgid "ranking_no_entry"
+msgstr "ランキングに参加していません。"
+
+msgid "ranking_ev_period"
+msgstr "開催期間:{0} ～\n{1}まで"
+
+msgid "ranking_ev_period_date"
+msgstr "{0:D4}年 {1}月{2}日 {3:D2}:{4:D2}"
+
+msgid "ranking_ev_no_entry"
+msgstr "ランキングに参加していません。"
+
+msgid "ranking_ev_range_not_found"
+msgstr "その順位にはユーザーがいません。"
+
+msgid "popup_rank_range_title"
+msgstr "表示順位"
+
+msgid "popup_rank_range_myself"
+msgstr "自分の順位"
+
+msgid "popup_rank_range_place"
+msgstr "{0}位～"
+
+msgid "music_week_play_count_limit"
+msgstr "プレイ可能回数の上限に\n達したため本日はこれ以上\nプレイできません。"
+
+msgid "music_event_end_week"
+msgstr "本日の曜日イベントは\n終了しました。"
+
+msgid "music_event_end_score_rank"
+msgstr "集計中"
+
+msgid "music_event_end_attain"
+msgstr "集計中"
+
+msgid "music_event_end_attain_banner"
+msgstr "集計中"
+
+msgid "music_event_end_attain_popup"
+msgstr "集計中"
+
+msgid "music_event_period"
+msgstr "開催期間:{0} ～ {1} まで"
+
+msgid "music_event_period_date"
+msgstr "{0:D4}年 {1}月{2}日 {3:D2}:{4:D2}"
+
+msgid "music_event_remain_prefix"
+msgstr "あと "
+
+msgid "music_event_remain_day"
+msgstr "{0}日"
+
+msgid "music_event_remain_hour"
+msgstr "{0}時間"
+
+msgid "music_event_remain_minute"
+msgstr "{0}分"
+
+msgid "music_event_remain_second"
+msgstr "{0}秒"
+
+msgid "music_event_collect_ticket_label"
+msgstr "所持チケット"
+
+msgid "music_event_collect_current_point_label"
+msgstr "累計ポイント"
+
+msgid "music_event_collect_next_point_label"
+msgstr "次の報酬まで"
+
+msgid "music_event_collect_point_unit"
+msgstr "pt"
+
+msgid "music_event_collect_rank_label"
+msgstr "現在の順位"
+
+msgid "music_event_collect_rank_counting_label"
+msgstr "最終順位"
+
+msgid "music_event_collect_rank_unit"
+msgstr "位"
+
+msgid "music_event_collect_rank_counting"
+msgstr "集計中"
+
+msgid "music_event_collect_reward_label"
+msgstr "次の報酬"
+
+msgid "music_event_battle_current_point_label"
+msgstr "累計ポイント"
+
+msgid "music_event_battle_next_point_label"
+msgstr "次の報酬まで"
+
+msgid "music_event_battle_point_unit"
+msgstr "pt"
+
+msgid "music_event_battle_rank_hiscore_label"
+msgstr "EXバトル順位"
+
+msgid "music_event_battle_rank_hiscore_counting_label"
+msgstr "最終EXバトル順位"
+
+msgid "music_event_battle_rank_total_label"
+msgstr "累計ポイント順位"
+
+msgid "music_event_battle_rank_total_counting_label"
+msgstr "最終累計ポイント順位"
+
+msgid "music_event_battle_rank_unit"
+msgstr "位"
+
+msgid "music_event_battle_bp_counting_label"
+msgstr "EXバトルハイスコア"
+
+msgid "music_event_battle_rank_counting"
+msgstr "集計中"
+
+msgid "music_event_battle_reward_label"
+msgstr "次の報酬"
+
+msgid "music_event_battle_class"
+msgstr "クラス{0}"
+
+msgid "music_event_battle_ｔarｇeｔ_score"
+msgstr "目標スコア"
+
+msgid "music_event_battle_class_lvup"
+msgstr "新しいバトルクラスで勝利すればイベントポイントが\nより多く獲得できるようになります。\n新しいバトルクラスに挑戦しますか？"
+
+msgid "music_event_battle_class_get_emblem_01"
+msgstr "バトルクラス{0}の称号を獲得しました。"
+
+msgid "music_event_battle_class_get_emblem_02"
+msgstr "バトルクラス{0}までの称号を獲得しました。"
+
+msgid "music_event_battle_class_next_01"
+msgstr "バトルクラス{0}のEXバトルに勝利 または"
+
+msgid "music_event_battle_class_next_02"
+msgstr "楽曲EXバトルスコア{0}以上獲得"
+
+msgid "music_event_battle_class_caution"
+msgstr "挑戦するバトルクラスを選んでください。\n高クラスになるほどイベントポイントがより多く獲得できるようになります。"
+
+msgid "music_event_battle_class_reselect_01"
+msgstr "バトルクラス再選択確認"
+
+msgid "music_event_battle_class_reselect_02"
+msgstr "バトルクラスの再選択を行います。\nよろしいですか？\n"
+
+msgid "music_event_battle_class_reselect_03"
+msgstr "<color=#8e0529>※EXゲージがリセットされます。\n※対戦相手が再度マッチングされます。</color>"
+
+msgid "ex_battle_non_record"
+msgstr "EXバトルスコアの記録がありません。"
+
+msgid "event_battle_reward_check_hi_score"
+msgstr "EXバトルハイスコア"
+
+msgid "event_battle_reward_check_ranking"
+msgstr "EXバトルスコアランキング"
+
+msgid "event_battle_reward_check_ranking_unit"
+msgstr "位"
+
+msgid "music_event_battle_ex_schedule_caution_01"
+msgstr "EXバトルの楽曲は日付変更のタイミングで切り替わります。"
+
+msgid "music_event_battle_ex_schedule_caution_02"
+msgstr "一度出現したEXバトルの楽曲は日付が変わっても変更されません。"
+
+msgid "music_event_end"
+msgstr "イベントの開催期間は終了しました。"
+
+msgid "music_event_counting"
+msgstr "イベント集計中です。"
+
+msgid "music_to_live_ticket_msg"
+msgstr "ライブで<color=#c8087e>チケット</color>を<color=#c8087e>GET</color>しよう！"
+
+msgid "music_select_slive_own_item"
+msgstr "所持トークン"
+
+msgid "music_select_slive_cost_item"
+msgstr "消費トークン"
+
+msgid "game_play_event_end_attain"
+msgstr "このイベントは終了しました。\nホームへ戻ります。"
+
+msgid "gacha_list_period"
+msgstr "{0}/{1} {2}:{3:D2}まで"
+
+msgid "gacha_list_daycount"
+msgstr "{0}日目"
+
+msgid "gacha_main_timezone"
+msgstr "朝{0}-{1}　昼{2}-{3}　夜{4}-{5}"
+
+msgid "gacha_main_timezone_time"
+msgstr "{0}:{1:D2}"
+
+msgid "gacha_main_event_period"
+msgstr "{0}/{1} {2}:{3:D2}まで"
+
+msgid "gacha_main_promo_msg_01"
+msgstr "※該当のプレートを2枚集めるとレアリティアップができます。"
+
+msgid "gacha_main_promo_msg_02"
+msgstr "※該当のプレートはレアリティアップ後のプレートです。"
+
+msgid "gacha_main_ep_reward_sub"
+msgstr "エピソード報酬例"
+
+msgid "gacha_main_ep_caution01"
+msgstr "※エピソード報酬はエピソードポイントにより\n　エピソードを解放することで取得できます。"
+
+msgid "gacha_main_ep_caution02"
+msgstr "※獲得可能なエピソードポイントの上限は、\n　プレートにより異なります。"
+
+msgid "gacha_main_ep_diva_costume"
+msgstr "{0}衣装\n{1}"
+
+msgid "gacha_main_pickup_caution"
+msgstr "※ピックアップ対象プレートが出現率アップしている分、ピックアップ対象外プレートの出現率が下がっています。"
+
+msgid "gacha_main_ticket_sale_period"
+msgstr "※チケット付き歌晶石の販売期間は{0}/{1} {2}:{3:D2}までです。"
+
+msgid "gacha_main_mpass_desc"
+msgstr "{0}を消費して\nエピソードプレートを入手できます。"
+
+msgid "gacha_main_mpass_caution"
+msgstr "※チケットを複数所持している場合、\n　一番利用期限の早いものが表示されます。"
+
+msgid "gacha_main_mpass_period"
+msgstr "利用期限: {0}/{1}/{2} {3}:{4:D2}まで"
+
+msgid "popup_record_plate_001"
+msgstr "重複したエピソードプレートが自動合成されました。"
+
+msgid "popup_record_plate_002"
+msgstr "重複したエピソードプレートが自動合成され\n<color=#c8087e>シークレットボードが追加</color>されました。"
+
+msgid "popup_record_plate_003"
+msgstr "重複したエピソードプレートが自動合成され\n<color=#c8087e>シークレットボードが拡張</color>されました。"
+
+msgid "popup_record_plate_004"
+msgstr "重複したエピソードプレートが自動合成され<color=#c8087e>レアリティがアップ</color>しました。"
+
+msgid "popup_record_plate_005"
+msgstr "重複したエピソードプレートが自動合成され<color=#c8087e>シークレットボードが追加</color>されました。"
+
+msgid "popup_record_plate_006"
+msgstr "重複したエピソードプレートが自動合成され<color=#c8087e>シークレットボードが拡張</color>されました。"
+
+msgid "popup_record_plate_007"
+msgstr "取得したエピソードプレートが<color=#c8087e>解放アイテムに変換</color>されました。"
+
+msgid "popup_record_plate_008"
+msgstr "合成結果"
+
+msgid "popup_record_plate_009"
+msgstr "新しいエピソードプレートを入手しました。"
+
+msgid "popup_record_plate_010"
+msgstr "新規エピソードプレート"
+
+msgid "popup_gacha_rate_title"
+msgstr "出現エピソードプレート一覧"
+
+msgid "popup_gacha_rate_limited_header"
+msgstr "確定枠ガチャ出現率"
+
+msgid "popup_gacha_rate_limited_list"
+msgstr "確定枠ガチャ出現一覧"
+
+msgid "popup_gacha_rate_limited5_header"
+msgstr "確定枠ガチャ出現率"
+
+msgid "popup_gacha_rate_limited5_list"
+msgstr "確定枠ガチャ出現一覧"
+
+msgid "popup_gacha_rate_basic_header"
+msgstr "ガチャ出現率"
+
+msgid "popup_gacha_rate_basic_list"
+msgstr "ガチャ出現一覧"
+
+msgid "popup_gacha_rate_pickup"
+msgstr "ピックアップ対象！"
+
+msgid "popup_gacha_rate_stepup"
+msgstr "ステップ{0}の出現確率"
+
+msgid "popup_gacha_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。\n\n※「ガチャ出現率」に表示されている各レアリティごとの\n   出現確率は「初期出現確率」です。\n\n※★5が一定程度出現しなかった場合、\n　★5の出現確率が「初期出現確率」からやや上昇し、その上昇分だけ\n　★3★4の全体の出現確率が「初期出現確率」から下がります。\n\n※一度「初期出現確率」から変動した出現確率は、\n　ガチャの開催期間の終了、対象ガチャからの★5の排出をもって\n　リセットされます。\n\n※「初期出現確率」からの確率の変動はデビューガチャでは発生しません。"
+
+msgid "popup_gacha2_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。\n\n※「ガチャ出現率」に表示されている各レアリティごとの\n   出現確率は「初期出現確率」です。\n\n※★5が一定程度出現しなかった場合、\n　★5の出現確率が「初期出現確率」からやや上昇し、その上昇分だけ\n　★3★4の全体の出現確率が「初期出現確率」から下がります。\n\n※一度「初期出現確率」から変動した出現確率は、\n　ガチャの開催期間の終了、対象ガチャからの★5の排出をもって\n　リセットされます。"
+
+msgid "popup_gacha_once_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。"
+
+msgid "popup_gacha_rare5_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。"
+
+msgid "popup_gacha_debut_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。\n\n※「ガチャ出現率」に表示されている各レアリティごとの\n   出現確率は「初期出現確率」です。\n\n※★5が一定程度出現しなかった場合、\n　★5の出現確率が「初期出現確率」からやや上昇し、その上昇分だけ\n　★3★4の全体の出現確率が「初期出現確率」から下がります。\n\n※一度「初期出現確率」から変動した出現確率は、\n　ガチャの開催期間の終了、対象ガチャからの★5の排出をもって\n　リセットされます。\n\n※「初期出現確率」からの確率の変動はデビューガチャでは発生しません。"
+
+msgid "popup_gacha_stepup_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。\n\n※「ガチャ出現率」に表示されている各レアリティごとの\n   出現確率は「初期出現確率」です。\n\n※★5が一定程度出現しなかった場合、\n　★5の出現確率が「初期出現確率」からやや上昇し、その上昇分だけ\n　★3★4の全体の出現確率が「初期出現確率」から下がります。\n\n※一度「初期出現確率」から変動した出現確率は、\n　ガチャの開催期間の終了、対象ガチャからの★5の排出をもって\n　リセットされます。"
+
+msgid "popup_gacha_pass_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。"
+
+msgid "popup_gacha_rate_ep_caution01"
+msgstr "エピソード報酬は、エピソードポイントによりエピソードを解放することで取得できます。"
+
+msgid "popup_gacha_rate_ep_caution02"
+msgstr "獲得可能なエピソードポイントの上限は、プレートにより異なります。"
+
+msgid "popup_gacha_rate_ep_episode_sub"
+msgstr "エピソード："
+
+msgid "popup_gacha_rate_ep_reward_sub"
+msgstr "エピソード報酬例："
+
+msgid "popup_gacha_rate_ep_diva_costume"
+msgstr "{0}　{1}"
+
+msgid "popup_home_scene_bg_title"
+msgstr "背景変更"
+
+msgid "popup_home_scene_bg_msg"
+msgstr "メインプレートのレアリティアップ前のレアリティが\n★4以上の場合、背景をプレートイラストに変更できます。\n\n変更は「背景」から行う事ができます。"
+
+msgid "popup_home_scene_limited_bg_msg_00"
+msgstr "ホーム画面を期間限定の背景に変更できます。\n背景を変更しますか？"
+
+msgid "popup_home_scene_limited_bg_msg_01"
+msgstr "<color=#c8087e>※背景を再度変更したい場合は、\nホーム画面の背景変更から設定できます。</color>"
+
+msgid "popup_home_scene_limited_bg_msg_02"
+msgstr "<color=#c8087e>再度プレートを表示したい場合は背景から設定できます。</color>"
+
+msgid "popup_home_ngword_rename_title"
+msgstr "NGワード通知"
+
+msgid "popup_home_ngword_rename_msg"
+msgstr "プレイヤー名、または紹介文に\nNGワードが含まれていたため変更いたしました。"
+
+msgid "home_pickup_checkbox"
+msgstr "今日は表示しない"
+
+msgid "home_event_end_attain"
+msgstr "集計中"
+
+msgid "home_event_epilogue"
+msgstr "イベントエピローグ配信中！"
+
+msgid "home_banner_event_end_attain"
+msgstr "集計中"
+
+msgid "popup_scene_autocombine_title"
+msgstr "自動合成確認"
+
+msgid "popup_scene_autocombine_msg"
+msgstr "このエピソードプレートは自動合成に使用されました。"
+
+msgid "popup_scene_convertitem_title"
+msgstr "アイテム変換確認"
+
+msgid "popup_scene_convertitem_msg"
+msgstr "このエピソードプレートはアイテムに変換されました。"
+
+msgid "popup_gacha_lot_paid_msg"
+msgstr "歌晶石を{0}個使用して\nガチャを{1}回引きますか？"
+
+msgid "popup_gacha_lot_paid_few_msg"
+msgstr "歌晶石が不足しています。"
+
+msgid "popup_gacha_lot_paid_count"
+msgstr "{0}個"
+
+msgid "popup_gacha_lot_free_msg"
+msgstr "無料でガチャを{0}回引きますか？"
+
+msgid "popup_gacha_lot_ticket_msg"
+msgstr "{0}を{1}枚使用して\nガチャを{2}回引きますか？"
+
+msgid "popup_gacha_lot_ticket_few_msg"
+msgstr "{0}が不足しています。"
+
+msgid "popup_gacha_lot_ticket_few_caution_01"
+msgstr "{0}は歌晶石のおまけから入手可能です。"
+
+msgid "popup_gacha_lot_ticket_few_caution_02"
+msgstr "{0}付き歌晶石は販売を終了しました。"
+
+msgid "popup_gacha_lot_ticket_few_caution_03"
+msgstr "※{0}は月間パスを購入すると\nおまけとしてついてくる超時空ログインボーナスで入手できます。"
+
+msgid "popup_gacha_lot_ticket_count"
+msgstr "{0}枚"
+
+msgid "popup_gacha_reject_title"
+msgstr "ガチャ操作中断"
+
+msgid "popup_gacha_reject_free_timeout_msg"
+msgstr "現在、このガチャを引くことはできません。\n元の画面に戻ります。"
+
+msgid "popup_gacha_reject_ticket_timeout_msg"
+msgstr "現在、このガチャを引くことはできません。\nタイトル画面に戻ります。"
+
+msgid "popup_myid_copy_title"
+msgstr "コピー完了"
+
+msgid "popup_myid_copy_msg"
+msgstr "プレイヤーIDをコピーしました。"
+
+msgid "popup_title_degree_01"
+msgstr "称号詳細"
+
+msgid "degree_current_window_title"
+msgstr "セット中の称号"
+
+msgid "degree_select_window_title"
+msgstr "選択中の称号"
+
+msgid "popup_title_profil_01"
+msgstr "プレイヤー名変更"
+
+msgid "popup_title_profil_02"
+msgstr "プレイヤー名を入力してください。\n（全角半角10文字まで）"
+
+msgid "popup_title_profil_03"
+msgstr "<color=#C8087E>※プレイヤー名を変更すると、\n以後30日間はプレイヤー名を変更できません。</color>\n・一部使用できない記号、文字がございます。\n・変更の反映に時間がかかることがあります。"
+
+msgid "popup_title_profil_04"
+msgstr "プレイヤー名変更確認"
+
+msgid "popup_title_profil_05"
+msgstr "\n\n変更後のプレイヤー名はこれでよろしいですか？\n\n<color=#C8087E>※プレイヤー名を変更すると、\n以後30日間はプレイヤー名を変更できません。</color>\n"
+
+msgid "popup_title_profil_06"
+msgstr "プレイヤー名変更"
+
+msgid "popup_title_profil_07"
+msgstr "プレイヤー名を変更しました。"
+
+msgid "popup_title_profil_08"
+msgstr "前回のプレイヤー名変更から30日以内は\n新たに変更できません。"
+
+msgid "popup_title_profil_09"
+msgstr "紹介文変更"
+
+msgid "popup_title_profil_10"
+msgstr "紹介文を入力してください。\n（全角半角25文字まで）"
+
+msgid "popup_title_profil_11"
+msgstr "・一部使用できない記号、文字がございます。\n・変更の反映に時間がかかることがあります。\n・個人情報や公序に反する内容は入力しないでください。"
+
+msgid "popup_title_profil_12"
+msgstr "紹介文変更"
+
+msgid "popup_title_profil_13"
+msgstr "紹介文を変更しました。"
+
+msgid "popup_title_profil_14"
+msgstr "プレイヤーID"
+
+msgid "popup_title_profil_15"
+msgstr "プレイヤーIDをコピーしました。"
+
+msgid "popup_title_playernameentry"
+msgstr "プレイヤー名入力"
+
+msgid "popup_text_playernameentry_desc"
+msgstr "プレイヤー名を入力してください。\n（全角半角{0}文字まで）"
+
+msgid "popup_text_playernameentry_notes"
+msgstr "<color={0}>※プレイヤー名は後から変更することが可能です。</color>"
+
+msgid "popup_text_playernameconfirm"
+msgstr "{0}\nでよろしいですか？\n<color={1}>※プレイヤー名は後から変更することが可能です。</color>"
+
+msgid "popup_text_notchangedplayername"
+msgstr "プレイヤー名が変更されませんでした。"
+
+msgid "popup_text_notchangedcomment"
+msgstr "紹介文が変更されませんでした。"
+
+msgid "popup_title_stamina_01"
+msgstr "エナジー回復"
+
+msgid "popup_text_stamina_01"
+msgstr "歌晶石を{0}個消費することで\nエナジーを{1}回復します。\n\n<color=#C8087E>歌晶石  {2}→{3}</color>"
+
+msgid "popup_text_stamina_02"
+msgstr "歌晶石を{0}個消費することで\nエナジーを{1}回復します。\n\n<color=#C8087E>歌晶石が足りません。</color>"
+
+msgid "popup_text_stamina_03"
+msgstr "エナジーが{0}に回復しました。"
+
+msgid "popup_text_stamina_04"
+msgstr "これ以上エナジーを回復できません。"
+
+msgid "popup_text_stamina_05"
+msgstr "{0}を{1}個消費することで\nエナジーを{2}回復します。\n\n<color=#C8087E>{0}  {3}→{4}</color>"
+
+msgid "popup_title_week_recovery_01"
+msgstr "曜日楽曲プレイ回数回復"
+
+msgid "popup_title_week_recovery_02"
+msgstr "{0}使用確認"
+
+msgid "popup_text_week_recovery_01"
+msgstr "{0}を{1}個消費することで\n曜日楽曲のプレイ回数を{2}回まで回復します。\n\n<color=#C8087E>{0}  {3}→{4}</color>"
+
+msgid "popup_text_week_recovery_02"
+msgstr "プレイ回数を回復する{0}を\n所持していません。"
+
+msgid "popup_text_week_recovery_03"
+msgstr "曜日楽曲のプレイ回数が\n残り{0}回まで回復しました。"
+
+msgid "popup_text_week_recovery_04"
+msgstr "間もなく日付が切り替わります。\n{0}を使用しますか？\n\n<color=#8E0529>※日付が切り替わると回復した回数分は\n翌日の曜日楽曲に上乗せされません。</color>"
+
+msgid "diva_musiclevel_nocleartext"
+msgstr "クリアした楽曲がありません。"
+
+msgid "popup_event_quest_change_diff_title"
+msgstr "難易度選択"
+
+msgid "popup_event_quest_change_diff_text"
+msgstr "難易度 {0} のミッションが遊べます。"
+
+msgid "popup_event_quest_reset"
+msgstr "{1} UC消費して\nミッションを再度選びなおすことができます。\nリセットしますか？\n\n<color={0}>所持UC {2}→{3}</color>"
+
+msgid "popup_event_quest_reset_failed"
+msgstr "{1} UC消費して\nミッションを再度選びなおすことができます。\n\n<color={0}>UCが不足しています。\n所持UC {2}</color>"
+
+msgid "popup_event_quest_last_spurt_title"
+msgstr "ラッキーカード大量発生"
+
+msgid "popup_event_quest_last_spurt_text"
+msgstr "ボーナスミッションの\n出現確率が2倍になりました！"
+
+msgid "popup_event_quest_select_lucky"
+msgstr "<color={0}>ラッキーミッションカードを選びました！</color>\nミッション達成時に取得できるポイントが2倍になります。"
+
+msgid "event_quest_progress"
+msgstr "ミッション達成まであと　{0}{1}"
+
+msgid "event_quest_touch_screen"
+msgstr "STARTボタンでミッション開始"
+
+msgid "event_quest_touch_screen2"
+msgstr "画面をタップでシャッフル開始"
+
+msgid "event_quest_touch_screen3"
+msgstr "カードを1枚選択"
+
+msgid "event_quest_touch_screen4"
+msgstr "画面をタップで進む"
+
+msgid "event_quest_limit_time_d"
+msgstr "あと{0}日"
+
+msgid "event_quest_limit_time_h"
+msgstr "あと{0}時間"
+
+msgid "event_quest_limit_time_m"
+msgstr "あと{0}分"
+
+msgid "event_quest_progress_count"
+msgstr "あと{0}{1}"
+
+msgid "popup_event_quest_unreceived_reward_title"
+msgstr "未受け取りの報酬があります"
+
+msgid "popup_event_quest_unreceived_reward_text"
+msgstr "ミッション特設ページにて\n報酬を受け取ることができます。\n<color={0}>※イベント終了後1時間以内に\n受け取らなければ報酬が消失します。</color>"
+
+msgid "popup_event_collect_ticket_few_title"
+msgstr "チケット消費"
+
+msgid "popup_event_collect_ticket_few_msg"
+msgstr "チケットを{0}枚消費して楽曲をプレイします。\n\n<color=#C8087E>チケットが不足しています。\n所持チケット数 {1}枚</color>\n\nライブでチケットを集めますか？"
+
+msgid "popup_event_login_item00_title_msg"
+msgstr "<color=#C8087E>超時空LIVEチケット　{0}枚</color>"
+
+msgid "popup_event_login_item00_label00_msg"
+msgstr "イベントの楽曲をプレイするために必要なアイテム。"
+
+msgid "popup_event_login_item00_label01_msg"
+msgstr "<color=#8e0529>現在開催中のイベント終了時に消失します。</color>"
+
+msgid "popup_event_login_item01_title_msg"
+msgstr "<color=#C8087E>【当日限定】エナジーエーテル　{0}個</color>"
+
+msgid "popup_event_login_item01_label00_msg"
+msgstr "使用するとエナジーが全回復する。"
+
+msgid "popup_event_login_item01_label01_msg"
+msgstr "<color=#8e0529>獲得した当日の24時に消失します。</color>"
+
+msgid "popup_event_login_prologue_title"
+msgstr "イベントプロローグ報酬"
+
+msgid "popup_event_login_epilogue_title"
+msgstr "イベントエピローグ報酬"
+
+msgid "popup_event_score_my_rank_title"
+msgstr "ランキング順位"
+
+msgid "popup_event_score_my_rank_msg"
+msgstr "<size=28>現在のランキング順位</size>\n<size=40><color=#C8087E>{0}</color>位</size>"
+
+msgid "popup_unlock_diva_title"
+msgstr "歌姫の記憶解放"
+
+msgid "popup_unlock_basara_title"
+msgstr "熱気バサラの記憶解放"
+
+msgid "popup_unlock_diva_desc_001"
+msgstr "記憶の時空で 歌姫の記憶が解放できます。"
+
+msgid "popup_unlock_basara_desc_001"
+msgstr "記憶の時空で 熱気バサラの記憶が解放できます。"
+
+msgid "popup_story_diva_title_001"
+msgstr "歌姫の記憶発見"
+
+msgid "popup_story_diva_title_002"
+msgstr "歌姫の記憶解放条件"
+
+msgid "result_playlog_hint_001"
+msgstr "フォールド波の高いエピソードプレートを編成して、バルキリーモードの突入を目指そう！"
+
+msgid "result_playlog_hint_002"
+msgstr "サポート値の高いエピソードプレートを編成して、歌姫モード&超歌姫モードの突入を目指そう！"
+
+msgid "result_playlog_hint_003"
+msgstr "MISSやBADが多かったみたい。リズムに合わせてうまくノーツをタップできるように練習しよう！"
+
+msgid "result_playlog_hint_004"
+msgstr "まだまだ能力を解放できるプレートがあるみたい。プレートの能力を解放してステータスを強化しよう。"
+
+msgid "result_playlog_hint_005"
+msgstr "ユニットのトータル値がまだまだ低いみたい。トータル値の高いプレートを編成してみよう。"
+
+msgid "result_playlog_hint_006"
+msgstr "GREAT以上でコンボがつながるよ。判定緩和やコンボ継続のスキルが役に立つよ。"
+
+msgid "result_playlog_hint_007"
+msgstr "アクティブスキルを使おう！"
+
+msgid "result_playlog_hint_008"
+msgstr "歌姫とプレートの相性を合わせてみよう。ライブスキルが発動してコンボの継続やハイスコアが期待できるよ。"
+
+msgid "result_playlog_hint_009"
+msgstr "バルキリーモードまでに生体フォールド波のゲージを溜めよう。GREAT以上の判定で溜めることができるよ。"
+
+msgid "result_playlog_hint_010"
+msgstr "バルキリーモードで4コンボ以上を維持すると、敵にダメージを与えられるよ。"
+
+msgid "result_playlog_hint_011"
+msgstr "サポート値の高いエピソードプレートをそろえて、超歌姫モードの突入を目指そう！"
+
+msgid "result_playlog_hint_012"
+msgstr "スコアをあげるためにアクティブスキルを見直してみよう。"
+
+msgid "result_playlog_graph_detail"
+msgstr "詳細を確認したい\nグラフの箇所を\nタップしてください。"
+
+msgid "popup_valkyrie_select_title"
+msgstr "変更確認"
+
+msgid "popup_event_reward_result_pt_title"
+msgstr "累計ポイント報酬取得"
+
+msgid "popup_event_reward_result_rank_title"
+msgstr "ランキング報酬取得"
+
+msgid "popup_event_reward_ranking_type001"
+msgstr "累計ランキング"
+
+msgid "popup_event_reward_ranking_type002"
+msgstr "EXバトルスコアランキング"
+
+msgid "popup_event_reward_ranking_type003"
+msgstr "歌姫スコアランキング"
+
+msgid "event_reward_result_present_box"
+msgstr "<color=#C8087E>歌晶石はプレゼントBOXに送られます。</color>"
+
+msgid "event_reward_result_present_box2"
+msgstr "<color=#C8087E>報酬はプレゼントBOXに送られます。</color>"
+
+msgid "event_reward_result_total"
+msgstr "取得報酬合計"
+
+msgid "event_reward_result_get_pt"
+msgstr "総獲得ポイント"
+
+msgid "event_reward_result_win"
+msgstr "WIN"
+
+msgid "event_reward_result_lose"
+msgstr "LOSE"
+
+msgid "event_reward_result_wincountbonus_unit"
+msgstr "{0}連勝"
+
+msgid "event_reward_result_episodebonus_unit"
+msgstr "{0}エピソード"
+
+msgid "event_reward_result_last_rank"
+msgstr "最終順位"
+
+msgid "event_reward_result_dash_bonus"
+msgstr "消費ボーナス{0}倍"
+
+msgid "popup_event_reward_check_pt_title"
+msgstr "累計ポイント報酬"
+
+msgid "popup_event_reward_check_rank_title"
+msgstr "ランキング報酬"
+
+msgid "popup_event_reward_check_plate_info_title"
+msgstr "プレート情報"
+
+msgid "popup_event_reward_check_pt"
+msgstr "【累計ポイント】"
+
+msgid "popup_event_reward_currentpoint_unit"
+msgstr "pt"
+
+msgid "popup_event_reward_needpoint_unit"
+msgstr "{0}pt"
+
+msgid "popup_event_reward_currentrank_unit"
+msgstr "位"
+
+msgid "popup_event_reward_needrank_unit"
+msgstr "{0}位"
+
+msgid "popup_event_reward_needrankrange_unit"
+msgstr "{0}～{1}位"
+
+msgid "popup_event_reward_sns_itemtitle"
+msgstr "トーク：{0}"
+
+msgid "popup_event_reward_emblemtitle"
+msgstr "称号：{0}"
+
+msgid "popup_event_reward_platetitle"
+msgstr "★{0} {1}"
+
+msgid "event_reward_check_have_pt"
+msgstr "現在のポイント"
+
+msgid "event_reward_check_rank"
+msgstr "現在の順位"
+
+msgid "rhythm_adjust_set"
+msgstr "設定値"
+
+msgid "rhythm_adjust_desc"
+msgstr "高音がなるタイミングに合わせてリズムボタンを\nタップしてください。\nタイミングが自動で設定されます。\n確認モードでリズムをお試しできます。"
+
+msgid "rhythm_adjust_balloon_text"
+msgstr "高音に合わせてタップ"
+
+msgid "rhythm_adjust_confirmmode_title"
+msgstr "調整確認"
+
+msgid "rhythm_adjust_confirmmode_text"
+msgstr "設定値を {0}に調整しました。\n確認モードに移行しますか？"
+
+msgid "popup_rhythm_adjust_result_title"
+msgstr "調整結果"
+
+msgid "popup_rhythm_adjust_result_text"
+msgstr "設定値 {0}\nタイミング調整を完了します。\nこちらでよろしいですか？"
+
+msgid "popup_rhythm_adjust_start_title"
+msgstr "調整モード"
+
+msgid "popup_rhythm_adjust_start_text"
+msgstr "ノーツタイミングの調整を開始します。"
+
+msgid "popup_rhythm_adjust_tutorial_title"
+msgstr "ノーツタイミング"
+
+msgid "popup_result_playlog_detail_title"
+msgstr "プレイログ詳細"
+
+msgid "popup_denom_check_birthday_title"
+msgstr "年齢確認"
+
+msgid "popup_denom_check_birthday_text"
+msgstr "生年月は{0}年{1}月でよろしいですか？"
+
+msgid "popup_denom_title"
+msgstr "歌晶石購入"
+
+msgid "denom_item_rest"
+msgstr "残り{0}セット"
+
+msgid "popup_denom_regist_birthday_title"
+msgstr "年齢登録"
+
+msgid "popup_denom_regist_birthday_text1"
+msgstr "生年月を登録してください。"
+
+msgid "popup_denom_regist_birthday_text2"
+msgstr "未成年の方にも安心・安全な環境でサービスをご利用頂くため\n一ヶ月に購入できる金額に制限を設けております。 \n\n<color=#C8087E>※一度登録した年齢は変更できません。 </color>\n※年齢は誕生月の翌月になると自動で更新されます。"
+
+msgid "popup_option_various_info"
+msgstr "各種情報"
+
+msgid "popup_option_ranking_title"
+msgstr "前回のイベントランキング"
+
+msgid "popup_option_ranking_notfound_title"
+msgstr "前回のイベントランキング"
+
+msgid "popup_option_ranking_notfound_msg"
+msgstr "イベントランキング情報の取得に失敗しました。\n\n前回開催されたイベント以外の\n情報は取得できません。"
+
+msgid "profil_text_01"
+msgstr "未セット"
+
+msgid "profil_text_02"
+msgstr "未セット"
+
+msgid "profil_text_03"
+msgstr "なし"
+
+msgid "profil_text_04"
+msgstr "RANK "
+
+msgid "profil_text_05"
+msgstr "変更可能日 {0}月 {1}日"
+
+msgid "popup_music_info_01"
+msgstr "楽曲をプレイしますか？"
+
+msgid "popup_buy_music_msg_android"
+msgstr "これより先は外部サイトへリンクします。"
+
+msgid "popup_buy_music_msg_ios"
+msgstr "これより先は外部サイトへリンクします。"
+
+msgid "popup_home_diva_01"
+msgstr "歌姫設定が選択歌姫に変更されます。\n\nユニットのセンター歌姫をホームに表示する場合は\nメニューから設定を変更できます。"
+
+msgid "balloon_story_new_chara"
+msgstr "歌姫の記憶を解放しよう"
+
+msgid "balloon_story_new_basara"
+msgstr "熱気バサラの記憶を解放しよう"
+
+msgid "balloon_story_new_stage"
+msgstr "歌の記憶を解放しよう"
+
+msgid "balloon_story_new_sns"
+msgstr "超時空SNSが更新されました"
+
+msgid "balloon_event_prologue_loginbonus"
+msgstr "イベントプロローグを見て\n{0}を受け取ろう"
+
+msgid "balloon_event_epilogue_loginbonus"
+msgstr "イベントエピローグを見て\n{0}を受け取ろう"
+
+msgid "costume_select_text_01"
+msgstr "取得条件"
+
+msgid "costume_select_text_02"
+msgstr "エピソード\n「{0}」\nを完全解放"
+
+msgid "costume_select_text_03"
+msgstr "エピソード未解放"
+
+msgid "costume_select_text_04"
+msgstr "「{0}」\nエピソードを構成するプレートを所持していません\nエピソードプレートを集めてエピソードを解放しましょう"
+
+msgid "popup_unlock_diff_02"
+msgstr "<size=22>難易度HARDが選べるようになりました！</size>"
+
+msgid "popup_unlock_diff_03"
+msgstr "<size=22>難易度VERY HARDが選べるようになりました！</size>"
+
+msgid "popup_unlock_diff_04"
+msgstr "<size=22>難易度EXTREMEが選べるようになりました！</size>"
+
+msgid "popup_add_episode_01"
+msgstr "報酬はエピソードを完全解放することで入手できます。"
+
+msgid "popup_add_episode_02"
+msgstr "バルキリーはエピソードを完全解放することで入手できます。"
+
+msgid "popup_add_episode_03"
+msgstr "衣装はエピソードを完全解放することで入手できます。"
+
+msgid "popup_add_episode_04"
+msgstr "背景はエピソードを完全解放することで入手できます。"
+
+msgid "popup_release_ep_diva_costume"
+msgstr "{0}衣装"
+
+msgid "popup_release_episode_01"
+msgstr "エピソード一覧から衣装を解放しよう！"
+
+msgid "popup_release_episode_02"
+msgstr "エピソード一覧からバルキリーを解放しよう！"
+
+msgid "popup_release_episode_03"
+msgstr "エピソード一覧から背景を解放しよう！"
+
+msgid "popup_event_end_title"
+msgstr "イベント終了"
+
+msgid "popup_event_end_text_1"
+msgstr "イベントは終了しました。\nタイトル画面に戻ります。"
+
+msgid "popup_event_end_text_2"
+msgstr "イベントは終了しました。\nホーム画面に戻ります。"
+
+msgid "popup_event_end_text_3"
+msgstr "イベントは終了しました。"
+
+msgid "popup_beginner_mission_001"
+msgstr "おめでとう！\nこれで初心者ミッションはすべてクリアね。\n\n他にもミッションはたくさんあるから、\nこの調子でどんどんクリアしていきましょう。"
+
+msgid "popup_gotitle_001"
+msgstr "タイトルへ戻ります。\nよろしいですか？"
+
+msgid "skill_format_001"
+msgstr "<img={0}>　 {1}"
+
+msgid "skill_format_002"
+msgstr "<img={0}>　<img={1}>{2}"
+
+msgid "skill_format_003"
+msgstr "<img={0}>　  Lv{1}"
+
+msgid "skill_format_004"
+msgstr "{0} <img={1}>　 Lv{2}"
+
+msgid "tuto_gacha_title"
+msgstr "デカルガチャ"
+
+msgid "tuto_gacha_desc"
+msgstr "歌晶石を消費して\nエピソードプレートを入手できます。"
+
+msgid "tuto_divaselect_popup_001"
+msgstr "【{0}】"
+
+msgid "tuto_divaselect_popup_002"
+msgstr "この歌姫でゲームを始めますか？"
+
+msgid "tuto_divaselect_popup_003"
+msgstr "<color=#C8087E>ゲームを進めることで他の歌姫も選べるようになります。 </color>"
+
+msgid "popup_help_select_title"
+msgstr "ヘルプ"
+
+msgid "story_diva_tilte_01"
+msgstr "「命がけで飛べば飛べる！」"
+
+msgid "story_diva_tilte_02"
+msgstr "「あなたはどんな想いで歌うの？」"
+
+msgid "story_diva_tilte_03"
+msgstr "「命がけで楽しんじゃえ！」"
+
+msgid "story_diva_tilte_04"
+msgstr "「どうしても一緒に歌いたくて！」"
+
+msgid "story_diva_tilte_05"
+msgstr "「だから楽しむ。今を、精一杯」"
+
+msgid "story_diva_tilte_06"
+msgstr "「伝えなきゃ、私の気持ち！」"
+
+msgid "story_diva_tilte_07"
+msgstr "「わたしは、わたしの歌で銀河を震わせたいの」"
+
+msgid "story_diva_tilte_08"
+msgstr "「あたしだってサウンドフォースのボーカルよ！」"
+
+msgid "story_diva_tilte_09"
+msgstr "「伝えてやるぜ、お前にも俺の歌を！」"
+
+msgid "story_diva_tilte_10"
+msgstr "「思いをこめて、歌います」"
+
+msgid "story_diva_desc_01"
+msgstr "戦術音楽ユニット「ワルキューレ」に憧れて\n故郷を飛び出してきた女の子。\n\n天真爛漫な性格で歌が大好き、しかしダンスは苦手。\n気持ちが昂ると頭の「ルン」が光り輝く。\n\n独特の訛りで話し、「ごりごり」が口癖。"
+
+msgid "story_diva_desc_02"
+msgstr "戦術音楽ユニット「ワルキューレ」のエースボーカル。\n\n素性や経歴の一切が謎に包まれている\nミステリアスな存在。\n\n歌に対して強いこだわりを見せ、\nどのような危機に襲われても決して歌うことを諦めない。"
+
+msgid "story_diva_desc_03"
+msgstr "戦術音楽ユニット「ワルキューレ」のリーダー。\n\nスケジュール管理をはじめ、\nチームのマネジメントもこなすしっかり者。\n\nワルキューレに加入する前は、\nソロでアイドル活動を行っていた。"
+
+msgid "story_diva_desc_04"
+msgstr "戦術音楽ユニット「ワルキューレ」のメンバー。\n\n代々メカニックという家系の生まれで、\n自身もまた一流の腕を持つメカニックである。\n\n仲間やメカにあだ名をつける癖がある。\nレイナとは姉妹のように仲が良い。"
+
+msgid "story_diva_desc_05"
+msgstr "戦術音楽ユニット「ワルキューレ」のメンバー。\n\n毒舌家で、あまり感情を表に出さない。\n\n凄腕のハッカーでもあり、\n電子技術者としても活躍している。\nマキナとはひとつ屋根の下で暮らすほどの仲である。"
+
+msgid "story_diva_desc_06"
+msgstr "ふとしたきっかけからデビューし、\nたちまち人気アイドルとなった「超時空シンデレラ」。\n\n心優しく一生懸命な性格。\n\n子供のころから歌うことが大好きで、\nシェリルに対して憧れの念を抱いている。"
+
+msgid "story_diva_desc_07"
+msgstr "「この銀河に暮らしてシェリルの歌を聴かない日はない」\nと称されるトップシンガー。\n\n通称「銀河の妖精」。\n\nプロである自分に誇りを持っており、\n一流であり続けるための努力を惜しまない。"
+
+msgid "story_diva_desc_08"
+msgstr "ロックバンド「Fire Bomber」のボーカル／ベース担当。\n\n七人姉妹の末娘。物怖じしない真っ直ぐな性格で、\n子ども扱いされることを嫌う。\n\nボーカリストとしてもパイロットとしても、\nバサラに劣らない実力を持つ。"
+
+msgid "story_diva_desc_09"
+msgstr "ロックバンド「Fire Bomber」のボーカル／ギター担当。\n\n何よりも歌うことが好きで、争い事を好まない。\n口癖は「俺の歌を聞けぇ！」。\n\nどんなことでも、歌があれば理解し合えると考えている。"
+
+msgid "story_diva_desc_10"
+msgstr "後世にも語り継がれる伝説のアイドル。\n\n明るく屈託のない性格だが、\n少しわがままな一面もある。\n\n彼女の魅力と歌は、\n人類と戦争状態にあったゼントラーディさえも魅了し、\n彼らに文化を取り戻させるきっかけとなった。"
+
+msgid "sns_notify_fmt"
+msgstr "{0}から新しいメッセージがあります。"
+
+msgid "unlock_costume_not_have_diva"
+msgstr "この衣装を使用できる歌姫がいません。\n記憶の時空で歌姫の記憶を解放しましょう。"
+
+msgid "unlock_costume_not_have_basara"
+msgstr "バサラがいないためこの衣装を使用できません。\n記憶の時空でバサラの記憶を解放しましょう。"
+
+msgid "scenelist_not_listed_up"
+msgstr "該当するエピソードプレートがありません。"
+
+msgid "popup_adv_skip_title"
+msgstr "スキップ確認"
+
+msgid "popup_adv_skip_text"
+msgstr "{0}をスキップします。\nよろしいですか？"
+
+msgid "popup_adv_skip_target001"
+msgstr "会話"
+
+msgid "popup_adv_skip_target002"
+msgstr "オープニング"
+
+msgid "popup_cbt_purchase"
+msgstr "クローズドβテストでは\n歌晶石の購入はできません。"
+
+msgid "questionary_notification_000"
+msgstr "該当項目をひとつ選択してください。"
+
+msgid "questionary_notification_001"
+msgstr "該当する項目を{0}つまで選択してください。"
+
+msgid "questionary_notification_002"
+msgstr "選択肢によってゲームの内容が変化することはありません。"
+
+msgid "popup_sns_desc_001"
+msgstr "{0}\nを達成しました。\n\nミッションから報酬を受け取ることができます。"
+
+msgid "popup_story_termination"
+msgstr "記憶の時空で現在発見されている\nすべての記憶を解放しました。"
+
+msgid "popup_unlock_desc_title"
+msgstr "歌の記憶解放"
+
+msgid "popup_episodebonus_platelist_title"
+msgstr "{0}"
+
+msgid "popup_episodebonus_nothingplate"
+msgstr "該当のエピソードを構成するプレートを所持していません。"
+
+msgid "push_notify_lb_title"
+msgstr "ログボを受け取ろう！"
+
+msgid "push_notify_lb_msg_01"
+msgstr "歌晶石100個を2日目ログボでプレゼント！今すぐログインしよう！"
+
+msgid "push_notify_debut_vc_title"
+msgstr "歌晶石セール開催中！"
+
+msgid "push_notify_debut_vc_msg_01"
+msgstr "今だけのお得な歌晶石セット、まもなく販売終了です！"
+
+msgid "popup_limit_over_add"
+msgstr "ラッキーリーフの新しい能力を解放できます。"
+
+msgid "popup_limit_over_release_01"
+msgstr "ラッキーリーフの効果が追加されました！"
+
+msgid "popup_limit_over_release_02"
+msgstr "ラッキーリーフの効果が追加されました！\nさらにラッキーリーフの新しい能力を解放できます。"
+
+msgid "limit_over_excellent_rate_01"
+msgstr "PERFECTが<color=#C8087E>EXCELLENT</color>に変化する確率を+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_rate_02"
+msgstr "PERFECTが<color=#C8087E>EXCELLENT</color>に変化する確率を+<color=#C8087E>{0}</color>%\nプレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{ma}</color>%"
+
+msgid "limit_over_excellent_rate_03"
+msgstr "PERFECTが<color=#C8087E>EXCELLENT</color>に変化する確率を+<color=#C8087E>{0}</color>%\nプレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{ma}</color>%\nプレートと楽曲の<color=#C8087E>シリーズが同じ</color>だとさらに+<color=#C8087E>{sa}</color>%"
+
+msgid "limit_over_excellent_rate_04"
+msgstr "プレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_rate_05"
+msgstr "プレートと楽曲の<color=#C8087E>シリーズが同じ</color>だとさらに+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_effect_01"
+msgstr "<color=#C8087E>EXCELLENT</color>が発生した場合にスコアを+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_excellent_effect_02"
+msgstr "<color=#C8087E>EXCELLENT</color>が発生した場合にスコアを+<color=#C8087E>{0}</color>%\nプレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{1}</color>%"
+
+msgid "limit_over_excellent_effect_03"
+msgstr "プレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_center_live_skill_01"
+msgstr "<color=#C8087E>センターライブスキルノーツ</color>が出現する確率を+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_center_live_skill_02"
+msgstr "<color=#C8087E>センターライブスキルノーツ</color>が出現する確率を+<color=#C8087E>{0}</color>%\nプレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{ma}</color>%"
+
+msgid "limit_over_center_live_skill_03"
+msgstr "<color=#C8087E>センターライブスキルノーツ</color>が出現する確率を+<color=#C8087E>{0}</color>%\nプレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{ma}</color>%\nプレートと楽曲の<color=#C8087E>シリーズが同じ</color>だとさらに+<color=#C8087E>{sa}</color>%"
+
+msgid "limit_over_center_live_skill_04"
+msgstr "プレートと楽曲の<color=#C8087E>属性が同じ</color>だとさらに+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_center_live_skill_05"
+msgstr "プレートと楽曲の<color=#C8087E>シリーズが同じ</color>だとさらに+<color=#C8087E>{0}</color>%"
+
+msgid "limit_over_unlock_01"
+msgstr "【解放条件】LUCK{0}以上"
+
+msgid "limit_over_unlock_02"
+msgstr "【解放条件】LUCK{0}以上　<size=18><color=#8e0529>LUCKが不足しています。</color></size>"
+
+msgid "limit_over_unlock_03"
+msgstr "このラッキーリーフの効果はすべて解放済みです。"
+
+msgid "limit_over_unlock_04"
+msgstr "※メインプレートと歌姫相性が合っていない場合でも発動します。"
+
+msgid "limit_over_popup_title"
+msgstr "ラッキーリーフ効果"
+
+msgid "limit_over_popup_caution"
+msgstr "※★{0}プレートを最大まで解放すればプレミア化します。"
+
+msgid "popup_limit_over_list_title"
+msgstr "ラッキーリーフ一覧"
+
+msgid "popup_limit_over_list_count"
+msgstr "{0}枚"
+
+msgid "popup_limit_over_list_none_desc"
+msgstr "表示できるプレートがありません。"
+
+msgid "popup_dash_ticket_title"
+msgstr "チケット消費枚数選択"
+
+msgid "popup_dash_energy_title"
+msgstr "エナジー消費量選択"
+
+msgid "popup_dash_button"
+msgstr "{0}倍"
+
+msgid "popup_dash_cost_energy"
+msgstr "エナジー消費量 {0}"
+
+msgid "popup_dash_own_energy"
+msgstr "現在のエナジー {0}"
+
+msgid "popup_dash_cost_ticket"
+msgstr "消費チケット枚数 {0}"
+
+msgid "popup_dash_own_ticket"
+msgstr "所持チケット枚数 {0}"
+
+msgid "popup_dash_caution"
+msgstr "選択した倍率に応じて獲得できるイベントポイントも増えます。"
+
+msgid "popup_dash_caution_skip"
+msgstr "スキップ機能は1倍消費のみ使用可能です。"
+
+msgid "popup_dash_cost_over_energy"
+msgstr "<color=#8e0529>必要な消費量までエナジーを回復できないため、選択できません。</color>"
+
+msgid "popup_dash_cost_over_ticket"
+msgstr "<color=#8e0529>チケットが不足しているため、選択できません。</color>"
+
+msgid "popup_rcmd_app_update_title"
+msgstr "アプリアップデート"
+
+msgid "popup_rcmd_app_update_an"
+msgstr "新しいアプリバージョンがあります。\nGoogle Play ストアにて\nアップデートを行ってください。\n更新に失敗する場合は、端末を再起動してください。"
+
+msgid "popup_rcmd_app_update_ios"
+msgstr "新しいアプリバージョンがあります。\nApp Storeにて\nアップデートを行ってください。\n更新に失敗する場合は、端末を再起動してください。"
+
+msgid "game_popup_mvpause_title"
+msgstr "一時停止中"
+
+msgid "game_popup_mvpause_text"
+msgstr "楽曲名\n{0}\n\n難易度\n{1}"
+
+msgid "game_mvmode_endtitle_text"
+msgstr "終了確認"
+
+msgid "game_mvmode_end_text"
+msgstr "シミュレーションライブを終了します。\nよろしいですか？"
+
+msgid "mvmode_setting_popuptitle_000"
+msgstr "歌姫選択"
+
+msgid "mvmode_setting_popuptitle_001"
+msgstr "衣装選択"
+
+msgid "mvmode_setting_popuptitle_002"
+msgstr "バルキリー選択"
+
+msgid "mvmode_setting_menu_000"
+msgstr "<size=22>バルキリーモードに突入</size>"
+
+msgid "mvmode_setting_menu_001"
+msgstr "<size=22>超歌姫モードに突入</size>"
+
+msgid "mvmode_setting_menu_002"
+msgstr "<color=#8e0529>OFFの場合、ノーツ表示のみがOFFになります。</color>"
+
+msgid "mvmode_setting_popup_text_000_000"
+msgstr "ホームの歌姫"
+
+msgid "mvmode_setting_popup_text_000_001"
+msgstr "{0}"
+
+msgid "mvmode_setting_popup_text_001_000"
+msgstr "歌姫にSET中の衣装"
+
+msgid "mvmode_setting_popup_text_001_001"
+msgstr "{0}"
+
+msgid "mvmode_setting_popup_text_001_002"
+msgstr "バサラにSET中の衣装"
+
+msgid "mvmode_setting_popup_text_002_000"
+msgstr "ユニットにSET中のバルキリー"
+
+msgid "mvmode_setting_popup_text_002_001"
+msgstr "{0} {1}\n{2}"
+
+msgid "mvmode_check_popup_title"
+msgstr "アイテム消費"
+
+msgid "mvmode_check_popup_text"
+msgstr "S-LIVEトークンを{0}個消費して\nシミュレーションライブをプレイします。\n\n<color=#8e0529>アイテムが不足しています。</color>"
+
+msgid "prism_caution"
+msgstr "ライブの歌姫やバルキリーの見た目だけを変更できます。"
+
+msgid "item_popup_shop_text_00"
+msgstr "アイテム交換"
+
+msgid "item_popup_shop_text_01"
+msgstr "所持："
+
+msgid "item_popup_shop_text_02"
+msgstr "必要："
+
+msgid "item_popup_shop_text_03"
+msgstr "{0} と {1} を交換します。"
+
+msgid "item_popup_shop_text_04"
+msgstr "残り{0}回"
+
+msgid "item_popup_shop_text_05"
+msgstr "アイテム受け取り"
+
+msgid "item_popup_shop_text_06"
+msgstr "{0}は\n{1}/{2}/{3} {4:}:{5:00}に消失します。"
+
+msgid "item_popup_shop_text_07"
+msgstr "{0}は\n{1}/{2}/{3} {4:}:{5:00}に消失します。\n\n{0}は歌晶石の\nおまけからのみ入手可能です。"
+
+msgid "item_popup_shop_text_08"
+msgstr "{0}には利用期限があります。今交換しますか？"
+
+msgid "item_popup_shop_text_09"
+msgstr "上記にはこれから交換するアイテムの利用期限を表示しています。"
+
+msgid "item_episode_plate"
+msgstr "エピソードプレート"
+
+msgid "item_shop_medal_period"
+msgstr "メダルは{0}/{1} {2}:{3:D2}に消失します。"
+
+msgid "item_shop_sphere_period"
+msgstr "スフィアは{0}/{1} {2}:{3:D2}に消失します。"
+
+msgid "item_shop_caution"
+msgstr "必要なアイテムが不足しているため、交換できません。"
+
+msgid "item_shop_caution_max"
+msgstr "アイテムの所持上限に達したため、交換できません。"
+
+msgid "item_shop_closed"
+msgstr "現在、ご利用になれません。"
+
+msgid "item_shop_period"
+msgstr "交換期限　{0}/{1} {2}:{3:D2}まで"
+
+msgid "item_shop_get_period"
+msgstr "取得期限　{0}/{1} {2}:{3:D2}まで"
+
+msgid "item_shop_reset_period"
+msgstr "{0}/{1} {2}:{3:D2}まで"
+
+msgid "item_shop_limit_period"
+msgstr "{0}/{1} {2}:{3:D2}まで"
+
+msgid "event_mission_message_000"
+msgstr "+{0}%"
+
+msgid "event_mission_message_001"
+msgstr "挑戦するミッションを選択しよう"
+
+msgid "music_select_event_bonus"
+msgstr "ボーナス楽曲{0}%アップ"
+
+msgid "event_mission_changemusic_title"
+msgstr "楽曲選択"
+
+msgid "event_mission_changemusic_title2"
+msgstr "ボーナス楽曲について"
+
+msgid "event_mission_changemusic_desc_001"
+msgstr "楽曲のプレイ可能期間が終了したため\n再度楽曲を選び直しました。"
+
+msgid "event_mission_changemusic_desc_002"
+msgstr "曜日イベント楽曲が\nプレイ可能回数の上限に達したため\n再度楽曲を選び直しました。"
+
+msgid "event_mission_changemusic_desc_003"
+msgstr "ボーナス楽曲の対象が変更されました。"
+
+msgid "event_mission_changemusic_caution"
+msgstr "ボーナス楽曲からランダムで選択が行われます。"
+
+msgid "event_mission_changemusic_caution2"
+msgstr "前回プレイした楽曲はボーナス楽曲ではなくなりました。"
+
+msgid "event_mission_changemusic_format"
+msgstr "{0}{1}{2}"
+
+msgid "event_mission_setting_title"
+msgstr "ミッション設定"
+
+msgid "event_mission_setting_desc_001"
+msgstr "楽曲選択設定"
+
+msgid "event_mission_setting_desc_002"
+msgstr "ミッション決定後、自動で選択される楽曲について設定します。"
+
+msgid "event_mission_setting_desc_003"
+msgstr "楽曲は任意に選択し直すことができます。"
+
+msgid "event_mission_setting_desc_004"
+msgstr "ボーナス楽曲からランダムで選択する"
+
+msgid "event_mission_setting_desc_005"
+msgstr "前回プレイした楽曲を選択する"
+
+msgid "event_mission_comborank"
+msgstr "\n({0}コンボ)"
+
+msgid "simulation_result_anim_name_01"
+msgstr "マクロスΔ(デルタ)（全26話）"
+
+msgid "simulation_result_anim_name_02"
+msgstr "マクロスＦ（全25話）"
+
+msgid "simulation_result_anim_name_03"
+msgstr "マクロス7（全52話）"
+
+msgid "simulation_result_anim_name_04"
+msgstr "超時空要塞マクロス（全36話）"
+
+msgid "popup_music_rate_title"
+msgstr "歌レート詳細"
+
+msgid "popup_music_grade_title"
+msgstr "歌グレード一覧"
+
+msgid "popup_music_rate_total"
+msgstr "合計"
+
+msgid "popup_music_rate_up"
+msgstr "↑"
+
+msgid "popup_music_rate_not_found"
+msgstr "歌レートの記録がありません。"
+
+msgid "popup_music_rate_ranking_not_found"
+msgstr "歌レートランキングの記録がありません。"
+
+msgid "popup_music_rate_next_01"
+msgstr "あと"
+
+msgid "popup_music_rate_next_02"
+msgstr "で"
+
+msgid "popup_music_rate_must"
+msgstr "必要歌レート"
+
+msgid "popup_music_rate_get_reward_desc_01"
+msgstr "歌グレードが上昇したので、報酬としてアイテムを獲得しました。"
+
+msgid "popup_music_rate_get_reward_desc_02"
+msgstr "報酬は全てプレゼントBOXに送られます。"
+
+msgid "popup_music_rate_desc"
+msgstr "歌グレードはハイスコア上位10曲の歌レートの合計値で決まります。"
+
+msgid "popup_music_rate_rank_unit"
+msgstr "{0}位"
+
+msgid "event_gacha_box_period"
+msgstr "開催期間 {0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
+
+msgid "event_gacha_box_medama_plate_name"
+msgstr "目玉プレート"
+
+msgid "event_gacha_box_list_count"
+msgstr "報酬リスト{0}"
+
+msgid "popup_event_gacha_box_text_01"
+msgstr "娘くじ☆　残りアイテム"
+
+msgid "popup_event_gacha_box_text_02"
+msgstr "残り"
+
+msgid "popup_event_gacha_box_text_03"
+msgstr "娘くじ☆をすべて引いたため、中身を入れ替えます。"
+
+msgid "popup_event_gacha_box_text_04"
+msgstr "娘くじ☆は終了しました。\nタイトル画面に戻ります。"
+
+msgid "popup_event_gacha_box_text_05"
+msgstr "{0}/{1}/{2} {3}:{4:D2} に詳細が公開されます。"
+
+msgid "popup_event_gacha_box_text_06"
+msgstr "1回の交換に必要な勲章数：<color=#C8087E>{0}</color>個"
+
+msgid "popup_event_gacha_box_text_07"
+msgstr "勲章を<color=#C8087E>{0}</color>個使用して\nアーネスト艦長からの報酬と\n<color=#C8087E>{1}</color>回交換しますか？"
+
+msgid "popup_event_gacha_box_text_08"
+msgstr "報酬リスト{0}　残りアイテム"
+
+msgid "popup_event_gacha_box_text_09"
+msgstr "次のリストに変更しますか？\n変更すると前のリストには戻せなくなります。"
+
+msgid "popup_event_gacha_box_text_10"
+msgstr "1回交換するために必要な勲章の数が\n以下のように変更されます。\n<color=#C8087E>{0}</color>→<color=#C8087E>{1}</color>"
+
+msgid "popup_event_gacha_box_text_11"
+msgstr "報酬リストの変更を行いました。"
+
+msgid "popup_event_gacha_box_text_12"
+msgstr "目玉アイテムを引き当てたため\n報酬リストの変更が\n行えるようになりました。"
+
+msgid "popup_event_gacha_box_text_13"
+msgstr "アーネスト艦長からの報酬をすべて交換したため\n次のリストに変更します。"
+
+msgid "popup_ar_marker_emblem_title"
+msgstr "称号獲得"
+
+msgid "popup_ar_marker_emblem_text_01"
+msgstr "以下の報酬を受け取りました。"
+
+msgid "pupup_music_select_periodover_text_001"
+msgstr "選択した楽曲のプレイ可能期間が終了しました。"
+
+msgid "pupup_music_select_periodover_text_002"
+msgstr "選択した楽曲のプレイ可能期間が終了しました。\nイベントホーム画面に戻ります。"
+
+msgid "pupup_music_select_periodover_text_003"
+msgstr "選択した楽曲のプレイ可能期間が終了しました。\nライブ画面に戻ります。"
+
+msgid "pupup_music_select_periodover_text_004"
+msgstr "選択した楽曲のプレイ可能期間が終了しました。\nホーム画面に戻ります。"
+
+msgid "diva_intimacy_lvup_text_001"
+msgstr "{0}のボイスが\n追加されました。"
+
+msgid "diva_intimacy_lvup_text_002"
+msgstr "{0}のリアクションが\n追加されました。"
+
+msgid "diva_intimacy_lvup_text_003"
+msgstr "{0}の親密度ボーナス\n+{1}%が解放されました。"
+
+msgid "diva_intimacy_lvup_text_004"
+msgstr "{0}の称号を\n獲得しました。"
+
+msgid "diva_intimacy_time_count"
+msgstr "あと {0}:{1:D2}"
+
+msgid "diva_intimacy_time_count_2"
+msgstr "あと {0}:{1:D2}:{2:D2}"
+
+msgid "diva_intimacy_max"
+msgstr "親密度レベルが最大です。"
+
+msgid "diva_intimacy_tips"
+msgstr "歌姫を長押しタッチして\n親密度を上げよう！"
+
+msgid "diva_intimacy_basara_tips"
+msgstr "バサラを長押しタッチして\n親密度を上げよう！"
+
+msgid "event_story_text_001"
+msgstr "プロローグ"
+
+msgid "event_story_text_002"
+msgstr "エピローグ"
+
+msgid "event_story_text_003"
+msgstr "イベントを進めて解放"
+
+msgid "event_story_text_004"
+msgstr "{0}/{1}/{2}　{3}:{4:D2}に解放"
+
+msgid "event_story_text_005"
+msgstr "？？？"
+
+msgid "event_story_text_006"
+msgstr "{0}を{1}{2}使用して解放"
+
+msgid "event_story_text_007"
+msgstr "オープニング{0}"
+
+msgid "event_story_text_008"
+msgstr "SNS解放"
+
+msgid "event_story_text_009"
+msgstr "{0}を{1}{4}消費して\nSNSを解放します。\n\n<color=#C8087E>{0}　{2}→{3}</color>"
+
+msgid "event_story_text_010"
+msgstr "SNSを解放しました。"
+
+msgid "event_story_text_011"
+msgstr "1つ前のトークを見ていないため\nトークを見ることができません。"
+
+msgid "event_story_text_012"
+msgstr "1つ前のトークを見ていないため\nトークを解放することができません。"
+
+msgid "event_story_text_013"
+msgstr "{0}を{1}{2}消費して\nSNSを解放します。\n\n<color=#8e0529>アイテムが不足しています。</color>"
+
+msgid "event_story_text_014"
+msgstr "アイテム消費"
+
+msgid "event_story_list_period"
+msgstr "開催期間\n{0}/{1}/{2}～{3}/{4}/{5}"
+
+msgid "present_item_rank_postfix"
+msgstr "<color=#C8087E>※ギフトはランク{0}で解放されます。</color>"
+
+msgid "present_intimacy_limit_01"
+msgstr "親密度レベルが最大のため\nギフトを贈ることができません。"
+
+msgid "present_intimacy_limit_02"
+msgstr "本日はこれ以上\nギフトを贈ることができません。"
+
+msgid "present_intimacy_limit_03"
+msgstr "ギフトを持っていないため\nギフトを贈ることができません。"
+
+msgid "campaign_live_3rd_coution_01"
+msgstr "「応募する」ボタンを押すことで、1日1回抽選権を獲得できます。（応募は毎日0時に切り替わります）"
+
+msgid "campaign_live_3rd_coution_02"
+msgstr "後日抽選期間にログインすることで、抽選スタンプ数に応じた結果を確認する事ができます。"
+
+msgid "campaign_live_3rd_coution_03"
+msgstr "キャンペーン登録から必要事項の登録を行っていただいた方のみ1等への抽選権利が与えられます。"
+
+msgid "campaign_live_3rd_coution_04"
+msgstr "1等「ライブ招待チケット」当選の方へのみ、登録メールアドレスにご案内をお送りいたします。"
+
+msgid "campaign_live_3rd_coution_05"
+msgstr "登録サイトで登録を行っていただいた方へのみ、1等への抽選権利が与えられます。"
+
+msgid "campaign_live_3rd_coution_06"
+msgstr "登録サイトでお預かりした個人情報は、株式会社ディー・エヌ・エーが取得し「ライブ招待チケット」を\n取得いただくためのご連絡およびお問い合わせのために使用します。"
+
+msgid "campaign_live_3rd_coution_07"
+msgstr "この画面には「ライブ招待チケット」および「歌晶石×1000」は表示されません。"
+
+msgid "campaign_live_3rd_content_01"
+msgstr "<color=#C8087E>登録サイトボタン</color>をタップして\n1等「ライブ招待チケット」または「歌晶石×1000個」の抽選に参加！"
+
+msgid "campaign_live_3rd_content_02"
+msgstr "【ライブ招待チケットで応募された方】\n応募時にご登録していただいたメールアドレスへ招待チケットお受け取りのための\n「申込サイトURL」のご案内を記載したメールを10月11日～10月13日に送信いたします。"
+
+msgid "campaign_live_3rd_msg_chara_01"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_02"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_03"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_04"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_05"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_06"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_07"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_08"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_09"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_msg_chara_10"
+msgstr "\n【歌晶石×1,000個で応募された方】\n歌晶石は2021年10月7日(木)15:00以降に\nプレゼントBOXへ別途配布させていただきます。\n"
+
+msgid "campaign_live_3rd_period"
+msgstr "{0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
+
+msgid "campaign_live_3rd_period2"
+msgstr "応募期間 {0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
+
+msgid "campaign_live_3rd_roulette_title"
+msgstr "<size=18>マクロスF ギャラクシーライブ 2021［リベンジ］抽選会場</size>"
+
+msgid "popup_campaign_title"
+msgstr "キャンペーン登録"
+
+msgid "popup_campaign_result_title"
+msgstr "抽選結果"
+
+msgid "home_pickup_checkbox_next"
+msgstr "次から表示しない"
+
+msgid "event_result_episode"
+msgstr "{0}エピソード"
+
+msgid "event_result_bonus"
+msgstr "消費ボーナス{0}倍"
+
+msgid "event_hi_score"
+msgstr "イベントハイスコア"
+
+msgid "event_music_ranking"
+msgstr "イベント楽曲ランキング"
+
+msgid "event_music_ranking_unit"
+msgstr "位"
+
+msgid "ar_common_count_text"
+msgstr "{0} / {1}"
+
+msgid "ar_top_button_text_collection"
+msgstr "歌姫コレクション"
+
+msgid "ar_top_button_text_help"
+msgstr "使い方"
+
+msgid "ar_top_button_text_event"
+msgstr "ARイベント情報"
+
+msgid "ar_top_button_text_back"
+msgstr "タイトルへ戻る"
+
+msgid "ar_photo_button_text_sns"
+msgstr "SNSへ投稿"
+
+msgid "ar_help_title_text"
+msgstr "使い方"
+
+msgid "ar_help_title2_text"
+msgstr "ARイベント情報"
+
+msgid "ar_collection_title_text"
+msgstr "歌姫コレクション"
+
+msgid "ar_collection_pattern_format"
+msgstr "{0}・{1}"
+
+msgid "ar_collection_pattern_text_0"
+msgstr "ミニチュア"
+
+msgid "ar_collection_pattern_text_1"
+msgstr "等身大"
+
+msgid "ar_collection_pattern_text_2"
+msgstr "パンフレット"
+
+msgid "ar_popup_expired_message"
+msgstr "このARマーカーは有効期限が切れているため\nご利用いただけません。"
+
+msgid "ar_popup_download_error_0_message"
+msgstr "ファイルのダウンロードに失敗しました。\nストレージに十分な空き容量がない場合に\nこのメッセージが表示される可能性が\nあります。"
+
+msgid "ar_popup_download_error_1_message"
+msgstr "ファイルのダウンロードに失敗しました。\nインターネットへの接続や電波の状況を\n確認して、もう一度お試しください。"
+
+msgid "ar_popup_download_error_button"
+msgstr "リトライ"
+
+msgid "ar_popup_saved_photo"
+msgstr "写真を保存しました。"
+
+msgid "ar_popup_err_camera_permission"
+msgstr "歌マクロスにカメラの使用権限が許可\nされていないので、ARモードをプレイ\nすることができません。"
+
+msgid "ar_popup_err_device_not_supported"
+msgstr "ご利用中のデバイスは歌マクロスの\nARモードに対応していません。"
+
+msgid "ar_popup_err_vuforia_init_error"
+msgstr "エラーが発生しました。\nARシステムを起動できません。"
+
+msgid "ar_popup_err_no_permission_storage"
+msgstr "ストレージへのアクセスが許可されて\nいないので、写真を保存できませんで\nした。"
+
+msgid "ar_popup_err_not_abailable_storage"
+msgstr "ストレージの空き容量が不足している\nので、写真を保存できませんでした。"
+
+msgid "ar_popup_err_no_space_for_dataset"
+msgstr "ストレージの空き容量が不足している\nので、ARシステムを起動できません\nでした。"
+
+msgid "ar_popup_err_no_system_error"
+msgstr "問題が発生しました。\nARモードを終了します。"
+
+msgid "ar_sel_popup_camera_message"
+msgstr "歌マクロスにカメラの使用権限が許可\nされていないので、ARモードをプレイ\nすることができません。\n\n以下の権限を許可してください。\n\n"
+
+msgid "ar_sel_popup_camera_text"
+msgstr "<b>カメラ</b>\n歌マクロスでAR写真を撮影するために\nカメラにアクセスします。\n"
+
+msgid "ar_sel_popup_camera_button_l"
+msgstr "タイトルへ戻る"
+
+msgid "ar_sel_popup_camera_button_r"
+msgstr "設定画面へ移動"
+
+msgid "ar_sel_popup_storage_message_android"
+msgstr "歌マクロスにストレージへのアクセスが\n許可されていないので、写真を保存\nできません。\n\n以下の権限を許可してください。\n\n"
+
+msgid "ar_sel_popup_storage_message_ios"
+msgstr "歌マクロスに写真への書き込みが\n許可されていないので、写真を保存\nできません。\n\n以下の権限を許可してください。\n\n"
+
+msgid "ar_sel_popup_storage_text_android"
+msgstr "<b>ストレージ</b>\nAR写真を保存するために本体のスト\nレージやSDカードにアクセスします。\n"
+
+msgid "ar_sel_popup_storage_text_ios"
+msgstr "<b>写真</b>\nAR写真を保存するためにフォト\nライブラリに書き込みます。\n"
+
+msgid "ar_sel_popup_storage_button_l"
+msgstr "ARモードへ戻る"
+
+msgid "ar_sel_popup_storage_button_r"
+msgstr "設定画面へ移動"
+
+msgid "cmn_profil_emblem_none"
+msgstr "称号を所持していません。"
+
+msgid "pop_eve_story_title"
+msgstr "イベントストーリー"
+
+msgid "ar_net_error_01"
+msgstr "通信エラーが発生しました。\r\nインターネットへの接続や電波の状況を\n確認して、もう一度お試しください。"
+
+msgid "ar_net_error_02"
+msgstr "通信がタイムアウトしました。\r\nインターネットへの接続や電波の状況を\n確認して、もう一度お試しください。"
+
+msgid "ar_net_error_03"
+msgstr "エラーが発生しました。\n\nエラーコード：{0}"
+
+msgid "ar_net_error_retry"
+msgstr "リトライ"
+
+msgid "ar_net_error_title"
+msgstr "タイトルへ戻る"
+
+msgid "badge_label_quest_achieved"
+msgstr "{0}達成！"
+
+msgid "badge_label_gacha_oneday"
+msgstr "1回無料"
+
+msgid "badge_label_gacha_firsttime"
+msgstr "初回無料"
+
+msgid "badge_label_gacha_thistime"
+msgstr "今回は無料"
+
+msgid "unit_multi_dance_popup_00"
+msgstr "歌姫が編成されていないため\n楽曲をプレイすることができません。"
+
+msgid "unit_multi_dance_popup_01"
+msgstr "超時空プリズムに\n歌姫が編成されていないため\n楽曲をプレイすることができません。"
+
+msgid "unit_multi_dance_popup_02"
+msgstr "歌姫が編成されていないため\n楽曲をプレイすることができません。"
+
+msgid "unit_multi_dance_popup_03"
+msgstr "このユニットライブをプレイするためには\n{0}人以上の歌姫が必要です。\n\n<color=#C8087E>※記憶の時空を進めることで新しい歌姫が\nユニットに参加できるようになります。</color>"
+
+msgid "unit_multi_dance_lock_text"
+msgstr "ユニットライブは\nRANK{0}で\n解放されます。"
+
+msgid "unit_warning_window_title"
+msgstr "ユニットライブについて"
+
+msgid "unit_warning_window_check"
+msgstr "今後表示しない"
+
+msgid "unit_warning_window_text_001"
+msgstr "ユニットライブが選択されています。\nユニットライブはご使用の端末によっては快適なプレイが\nできない可能性があります。\n\n快適なプレイを重視する場合はソロライブでプレイすることを推奨します。\n\n<color=#C8087E>※ソロライブ、ユニットライブには見た目以外の違いはありません。\n※動作設定の「3Dライト」を選ぶことで改善することがあります。</color>"
+
+msgid "unit_warning_window_text_002"
+msgstr "ユニットライブが選択されています。\nユニットライブはご使用の端末によっては快適なプレイが\nできない可能性があります。\n\n<color=#C8087E>※動作設定の「3Dライト」を選ぶことで改善することがあります。</color>"
+
+msgid "episode_appeal_text_001"
+msgstr "新エピソード"
+
+msgid "episode_appeal_text_002"
+msgstr "エピソード完全解放報酬"
+
+msgid "episode_appeal_text_003"
+msgstr "{0}専用：新衣装登場！"
+
+msgid "add_unit_multi_dance_popup_01"
+msgstr "ユニットライブ（{0}人）が追加されました。"
+
+msgid "popup_error_purchase_multi_title"
+msgstr "購入失敗"
+
+msgid "popup_error_purchase_multi_text_00"
+msgstr "購入処理中にエラーが発生しました。\nタイトル画面に戻ります。\n<color=#C8087E>※購入した商品がプレゼントBOXに送られている\n可能性がありますのでご確認ください。</color>"
+
+msgid "ar_sel_popup_shutdown_message"
+msgstr "アプリを終了してもよろしいですか？"
+
+msgid "ar_sel_popup_shutdown_button_l"
+msgstr "キャンセル"
+
+msgid "ar_sel_popup_shutdown_button_r"
+msgstr "OK"
+
+msgid "android_backbutton_disable"
+msgstr "Backキーは無効です。"
+
+msgid "event_sp_daily_adv_num_title"
+msgstr "第{0}話　配信中"
+
+msgid "event_sp_daily_adv_all_title"
+msgstr "全話　配信中"
+
+msgid "event_sp_end_attain"
+msgstr "集計中"
+
+msgid "event_sp_epilogue"
+msgstr "イベントエピローグ配信中"
+
+msgid "event_sp_reward"
+msgstr "受取期間中！"
+
+msgid "event_sp_open_at"
+msgstr "{0}/{1}/{2} {3}:{4:D2} 開催"
+
+msgid "event_sp_close_at"
+msgstr "{0}/{1}/{2} {3}:{4:D2} まで"
+
+msgid "episode_reward_text001"
+msgstr "必要EP：{0}"
+
+msgid "episode_reward_text002"
+msgstr "エピソード完全解放後\n{0}{1}ごとに獲得"
+
+msgid "episode_reward_text003"
+msgstr "EP"
+
+msgid "popup_unlock_6line_music_text"
+msgstr "6レーンゲームが追加されました。"
+
+msgid "offer_formation_name_chenge_popup_title"
+msgstr "小隊名変更"
+
+msgid "offer_formation_name_chenge_popup_text_01"
+msgstr "小隊名を入力してください。\n（全角半角15文字まで）"
+
+msgid "offer_formation_name_chenge_popup_text_02"
+msgstr "・一部使用できない記号、文字がございます。\n・変更の反映に時間がかかることがあります。"
+
+msgid "offer_formation_name_chenge_popup_text_03"
+msgstr "小隊名変更完了しました。"
+
+msgid "offer_formation_name_notchangedcomment_popup"
+msgstr "小隊名が変更されませんでした。"
+
+msgid "offer_chenge_popup_title"
+msgstr "変更確認"
+
+msgid "offer_plantoon_chenge_popup_text_01"
+msgstr "所属する小隊を変更しますか？"
+
+msgid "offer_no_leader_popup_text"
+msgstr "リーダー機が編成されていないため\n小隊を決定できません。"
+
+msgid "offer_Dissolution_popup_text"
+msgstr "小隊を解散しますか？"
+
+msgid "offer__cant_orders_popup_text"
+msgstr "現在、このオペレーションを\n受注することはできません。"
+
+msgid "offer_squadron_popup_title"
+msgstr "出撃小隊"
+
+msgid "offer_fast_completion_popup_title_01"
+msgstr "高速完了"
+
+msgid "offer_fast_completion_popup_text_01_01"
+msgstr "高速プログラムを{0}個消費することで\nオペレーションを高速完了します。"
+
+msgid "offer_fast_completion_popup_text_01_02"
+msgstr "<color=#C8087E>高速プログラム {0}→{1}</color>"
+
+msgid "offer_fast_completion_popup_text_02_01"
+msgstr "歌晶石を{0}個消費することで\nオペレーションを高速完了します。"
+
+msgid "offer_fast_completion_popup_text_02_02"
+msgstr "<color=#C8087E>歌晶石　 {0}→{1}</color>"
+
+msgid "offer_fast_completion_popup_text_02_03"
+msgstr "<color=#C8087E>歌晶石が足りません。</color>"
+
+msgid "offer_fast_done_limit_over_pop_text"
+msgstr "本日はこれ以上\n高速完了することができません。"
+
+msgid "offer_not_fast_done_pop_text"
+msgstr "現在、このオペレーションを\n高速完了することができません。"
+
+msgid "offer_platoon_release_condition_title_text"
+msgstr "小隊解放条件"
+
+msgid "offer_platoon_release_condition_text_01"
+msgstr "デビューオペレーションをすべて達成する"
+
+msgid "offer_platoon_release_condition_text_02"
+msgstr "デビューオペレーションをすべて達成する\n\nバルキリーを{0}機以上所持する"
+
+msgid "costume_upgrade_diva_select_title_text"
+msgstr "歌姫選択"
+
+msgid "costume_upgrade_comp_title_text"
+msgstr "衣装解放"
+
+msgid "costume_upgrade_detail_item_title_text"
+msgstr "報酬詳細"
+
+msgid "costume_upgrade_item_select_makina_serif"
+msgstr "この衣装を強化するよー\n強化アイテムを選んでね！"
+
+msgid "costume_upgrade_item_select_makina_serif2"
+msgstr "クロースストーンは\nVOPで入手できるよ！"
+
+msgid "costume_upgrade_item_use_title_text"
+msgstr "消費アイテム確認"
+
+msgid "costume_upgrade_achievement_title_text"
+msgstr "きゃわわランクアップ報酬"
+
+msgid "costume_upgrade_rankup_title_text"
+msgstr "きゃわわランク制限解放"
+
+msgid "costume_upgrade_cmn_rankup_attention_text"
+msgstr "ランクアップ毎に　歌晶石　{0}個　を獲得できます。"
+
+msgid "costume_upgrade_next_release_point_text"
+msgstr "次の報酬まで {0} {1}"
+
+msgid "costume_upgrade_use_item_limit_text"
+msgstr "一度に使用できるアイテムは{0}個までです。"
+
+msgid "costume_upgrade_diva_select_warning_text"
+msgstr "未解放の歌姫が選択されています。\n強化可能な衣装がありません。"
+
+msgid "costume_upgrade_item_detail_costume_skillup"
+msgstr "衣装に新たな効果を付与する。\n獲得効果『{0}』"
+
+msgid "costume_upgrade_item_detail_costume_skillget"
+msgstr "衣装の効果を1段階強化する。\n強化後ステータス『{0}』"
+
+msgid "costume_upgrade_item_detail_costume_color"
+msgstr "{0}\n{1}のパレットチェンジ衣装を解放する。"
+
+msgid "costume_upgrade_item_detail_diva_status_up"
+msgstr "{0}のステータスを強化する。\n強化後ステータス『{1}{2}』"
+
+msgid "costume_upgrade_item_detail_diva_status_up_title"
+msgstr "ステータスアップ"
+
+msgid "costume_upgrade_item_detail_sub_plate"
+msgstr "『{0}』を解放する。\n解放済みの場合はその枠を3%強化する。"
+
+msgid "costume_upgrade_rank_up_unlock_condition_text"
+msgstr "解放条件"
+
+msgid "costume_upgrade_lock_text"
+msgstr "【解放条件】\n・バルキリーオペレーションを合計{0}回達成する。\n\n<color=#C8087E>※バルキリーオペレーションは\nゲームを進めることで解放されます。</color>"
+
+msgid "subplate_rate_text"
+msgstr "{0}％"
+
+msgid "subplate_lock_text"
+msgstr "【解放条件】\n・衣装強化で支援プレート解放を獲得する。\n\n<color=#C8087E>※衣装強化はゲームを進めることで解放されます。</color>"
+
+msgid "offer_infomation_text_01"
+msgstr "オペレーションを\n更新しました！"
+
+msgid "offer_infomation_text_02"
+msgstr "【{0}】から\n依頼があります！"
+
+msgid "offer_infomation_text_03"
+msgstr "歌姫オペレーションが\nパワーアップしました！"
+
+msgid "offer_infomation_text_04"
+msgstr "オペレーションが\n完了しました！"
+
+msgid "offer_non_offer_text"
+msgstr "選択可能な歌姫オペレーションが見つかりません。\n\n<color=#C8087E>※楽曲プレイで歌姫オペレーションは出現します。</color>"
+
+msgid "offer_occur_diva_offer_text_01"
+msgstr "{0}から特別な依頼が届いています"
+
+msgid "offer_occur_diva_offer_text_02"
+msgstr "{0}の依頼内容がパワーアップしました！"
+
+msgid "offer_cancel_pop_title"
+msgstr "受注解除確認"
+
+msgid "offer_cancel_pop_text"
+msgstr "受注を解除すると報酬を獲得することができません。\n\nよろしいですか？"
+
+msgid "offer_daily_offer_levelup_text"
+msgstr "デイリーオペレーション難易度解放"
+
+msgid "offer_diva_offer_levelup_text"
+msgstr "<size=23>{0}の歌姫オペレーション難易度解放</size>"
+
+msgid "offer_result_first_achievement_title"
+msgstr "初回達成報酬"
+
+msgid "sacred_stones_count_text"
+msgstr "<color=#C8087E>歌晶石 {0}個</color>"
+
+msgid "offer_item_scene_detail_text"
+msgstr "★1～★3プレートの中から１つ出現する。"
+
+msgid "offer_spitem_detail_title"
+msgstr "目玉アイテム"
+
+msgid "offer_spitem_detail_text"
+msgstr "レアドロップで出現する可能性があるアイテム。\n<color=#C8087E>※任務大成功の場合は１つ出現します。</color>"
+
+msgid "offer_all_platoon_sortie_pop_text"
+msgstr "すべての小隊が出撃中のため\nオペレーションを受注することはできません。"
+
+msgid "offer_select_operation_ended_pop_text"
+msgstr "現在、このオペレーションを\n受注することはできません。"
+
+msgid "offer_fast_done_limit_count_text"
+msgstr "本日 残り{0}回"
+
+msgid "offer_operation_badge_text"
+msgstr "{0}件完了！"
+
+msgid "offer_notification_return_vfp_title"
+msgstr "オペレーション完了"
+
+msgid "offer_notification_return_vfp_1"
+msgstr "レイナ「小隊Ⅰの作戦完了。確認よろしく」"
+
+msgid "offer_notification_return_vfp_2"
+msgstr "レイナ「小隊Ⅱが戻ってきた…いい感じ」"
+
+msgid "offer_notification_return_vfp_3"
+msgstr "レイナ「小隊Ⅲが戻ってくる。みんな無事」"
+
+msgid "offer_notification_return_vfp_4"
+msgstr "レイナ「小隊Ⅳ、帰還。結果を確認すべし」"
+
+msgid "offer_notification_return_vfp_5"
+msgstr "レイナ「小隊Ⅴが帰ってくる。出迎えよう」"
+
+msgid "offer_cannot_cancel_text"
+msgstr "オペレーションが完了しています。\n受注解除できません。"
+
+msgid "item_use_caution_1"
+msgstr "利用期限を過ぎるとこのアイテムは消失します。"
+
+msgid "item_use_caution_2"
+msgstr "アイテムを複数所持している場合、一番利用期限の早いものが表示されます。"
+
+msgid "item_use_period"
+msgstr "利用期限: {0}/{1}/{2} {3}:{4:D2}まで"
+
+msgid "item_use_period_title"
+msgstr "{0}利用期限"
+
+msgid "item_use_period_text_1"
+msgstr "利用期限"
+
+msgid "item_use_period_text_2"
+msgstr "{0}数"
+
+msgid "item_use_period_date"
+msgstr "{0}/{1}/{2} {3}:{4:D2}"
+
+msgid "rarityup_item_use_title"
+msgstr "レアリティアップ確認"
+
+msgid "rarityup_item_use_desc_1"
+msgstr "以下のアイテムを消費してプレートをレアリティアップします。"
+
+msgid "rarityup_item_use_desc_2"
+msgstr "レアリティアップに必要なアイテムが不足しています。"
+
+msgid "rarityup_item_get_desc_1"
+msgstr "※{0}は月間パスを購入するとおまけとしてついてくる\n超時空ログインボーナスを既定の回数受け取ることで入手できます。"
+
+msgid "rarityup_item_use_confirm_title"
+msgstr "レアリティアップ最終確認"
+
+msgid "rarityup_item_use_confirm_desc"
+msgstr "このプレートを本当にレアリティアップしますか？"
+
+msgid "rarityup_item_use_warning"
+msgstr "{0}は\nレアリティアップ前の★5プレートにも使用できます。\n\nレアリティアップ前の★4プレートに\n使用してもよろしいですか？"
+
+msgid "secret_board_item_use_title"
+msgstr "シークレットボード解放確認"
+
+msgid "secret_board_item_use_desc_1"
+msgstr "以下のアイテムを消費してシークレットボードを解放します。"
+
+msgid "secret_board_item_use_desc_2"
+msgstr "シークレットボードの解放に必要なアイテムが不足しています。"
+
+msgid "secret_board_item_use_confirm_title"
+msgstr "シークレットボード解放最終確認"
+
+msgid "secret_board_item_use_confirm_desc"
+msgstr "このプレートを本当にシークレットボード解放しますか？"
+
+msgid "secret_board_item_use_warning"
+msgstr "{0}は\nレアリティアップ後が★6のプレートにも使用できます。\n\nこのプレートはレアリティアップ後が★5のプレートですが\n本当に使用してもよろしいですか？"
+
+msgid "popup_sel_cos_terms_title"
+msgstr "取得条件"
+
+msgid "popup_sel_cos_terms_text_base"
+msgstr "エピソード\r\n「{0}」\nを完全解放"
+
+msgid "popup_sel_cos_terms_text_color01"
+msgstr "「{0}」\nのきゃわわランクを{1}まで強化"
+
+msgid "popup_sel_cos_terms_text_color02"
+msgstr "「衣装強化」を解放して"
+
+msgid "popup_sel_cos_terms_text_color03"
+msgstr "エピソード\n「{0}」\nを完全解放して\n\n「{1}」\nを取得"
+
+msgid "popup_sel_cos_terms_costume_change"
+msgstr "【解放条件】\n・バルキリーオペレーションを合計{0}回クリアする。\n<color=#C8087E>※バルキリーオペレーションはゲーム進行で解放されます。</color>"
+
+msgid "home_footer_badge_text_offer"
+msgstr "VOP完了！"
+
+msgid "home_diva_button_monthly_pass"
+msgstr "まであと{0}回"
+
+msgid "popup_add_operation_text"
+msgstr "オペレーションが追加されました。"
+
+msgid "pop_pass_title"
+msgstr "歌マクパス購入"
+
+msgid "pop_pass_text01"
+msgstr "■同意事項\n・歌マクパスの有効期間は購入してから1ヶ月間です。"
+
+msgid "pop_pass_text02"
+msgstr "\n■特典内容\n・有効期間中、獲得するプレイヤーランク経験値、歌姫熟練度ポイントが1.2倍になります。\n・有効期間中、バルキリーオペレーション（VOP）に特別なデイリーオペレーションが追加されます。 \n\n■おまけ特典\n歌マクパスを購入すると、おまけとして以下の特典が付与されます。\n・超時空ガチャチケットなど豪華報酬が貰える超時空ログインボーナスが追加されます。\n　超時空ログインボーナスは歌マクパスの有効期間中、1日1回受け取ることができます。\n・超時空ログインボーナスを90回受け取るごとにレアアップスターを獲得できます。\n　レアアップスターはエピソードプレートをレアリティアップできるアイテムです。\n　レアリティアップ前の★4、★5プレートに使用できます。\n\n■初回特典\n超時空ログインボーナスを初めて25回受け取った際にレアアップスターをプレゼントします。\n　※初回特典を受け取った後、再度歌マクパスを購入しても初回特典はプレゼントされません。\n　※異なる端末で複数回購入しても、初回特典の付与は1回限りです。"
+
+msgid "pop_pass_text_android"
+msgstr "・歌マクパスの有効期間は、ご利用のOSの規定に基づいて\n　自動で更新されます。それに伴い、特典の付与期間も自動で更新されます。\n・お客様が本ゲームの利用端末のデータ引き継ぎを行った場合、\n　旧端末における歌マクパスおよび特典付与の有効期間は引き継がれますが、\n　異なるOS間でのデータ引き継ぎの場合や旧端末と異なるGoogleIDを使用する場合、\n　旧端末における歌マクパスおよび特典付与の有効期間の自動更新は新端末に反映されません。\n　新端末で歌マクパスを利用する場合には、旧端末の歌マクパスおよび特典付与期間をご確認の上、\n　当該期間の終了後に新端末での歌マクパスの購入をお願いいたします。\n・旧端末と新端末とで二重に歌マクパスを購入しても、\n　歌マクパスの効果発動および特典付与は重複して行われません。\n・有効期間中に解約した場合も、有効期間中は歌マクパスの効果および特典付与は継続します。\n・レアアップスターの有効期限は付与から90日間となります。\n・超時空ガチャチケットの有効期限は付与から30日間となります。\n・歌マクパスの更新をしない場合には、OSの規定に基づいて解約をする必要があります。　\n　Androidでの解約\n　　Google Play ストア→定期購入から定期購入の解約を行ってください。"
+
+msgid "pop_pass_text_ios"
+msgstr "・歌マクパスの料金はご利用のiTunesアカウントに対して請求されます。\n・歌マクパスの有効期間が終了する24時間前までに自動更新を解除しない限り、\n　歌マクパスの有効期間は自動的に更新されます。\n・自動更新の料金のお支払いは、歌マクパスの有効期間が終了する24時間以内に更新が行われます。\n・次回の自動更新の料金は、有効期間が終了する24時間以上前に、ご利用のApple IDに対して\n　提示されます。\n・歌マクパスは下記の手順で、次回の自動更新のタイミングの確認や自動更新の解除を行うことが\n　できます。\n　[設定アプリ]→[iTunes StoreとApp Store]→[Apple IDを表示]→[登録]\n・お客様が本ゲームの利用端末のデータ引き継ぎを行った場合、　\n　旧端末における歌マクパスおよび特典付与の有効期間は引き継がれますが、　\n　異なるOS間でのデータ引き継ぎの場合や旧端末と異なるAppleIDを使用する場合、　\n　旧端末における歌マクパスおよび特典付与の有効期間の自動更新は新端末に反映されません。\n　新端末で歌マクパスを利用する場合には、旧端末の歌マクパスおよび特典付与期間をご確認の上、\n　当該期間の終了後に新端末での歌マクパスの購入をお願いいたします。\n・旧端末と新端末とで二重に歌マクパスを購入しても、　\n　歌マクパスの効果発動および特典付与は重複して行われません。\n・有効期間中に解約した場合も、有効期間中は歌マクパスの効果および特典付与は継続します。\n・レアアップスターの有効期限は付与から90日間となります。\n・超時空ガチャチケットの有効期限は付与から30日間となります。"
+
+msgid "pop_pass_popup_title"
+msgstr "購入確認"
+
+msgid "pop_pass_popup_text01"
+msgstr "歌マクパスをご利用いただくには、\n同意事項を承認いただく必要があります。"
+
+msgid "pop_pass_popup_text02"
+msgstr "<size=22><color=#8e0529>※引き継ぎしてから購入される場合、\n旧端末での解約を済ませてから購入いただくようお願いいたします。</color></size>"
+
+msgid "pop_pass_popup_check"
+msgstr "<color=#C8087E>同意事項を承認する</color>"
+
+msgid "pop_pass_loginbonus_rarityup_get"
+msgstr "あと{0}回受け取りで\nGET！"
+
+msgid "pop_pass_loginbonus_desc"
+msgstr "※GOALまで到達するとSTARTから開始します。\n※所持上限を超えるアイテムは消失します。"
+
+msgid "pop_pass_loginbonus_title"
+msgstr "超時空ログインボーナス"
+
+msgid "pop_pass_loginbonus_about_title"
+msgstr "同意事項"
+
+msgid "pop_pass_loginbonus_hoten_title"
+msgstr "歌マクパスログイン補填"
+
+msgid "pop_pass_loginbonus_hoten_desc"
+msgstr "月間パスのログイン補填として\n{0}日分の超時空ログインボーナスの\nアイテムを受け取りました。\n\n<color=#C8087E>※レアアップスターがもらえるまでの\n超時空ログインボーナス受け取り回数として加算されます。</color>"
+
+msgid "pop_pass_goto_home"
+msgstr "超時空ログインボーナスを受け取るために\nホーム画面に戻ります。"
+
+msgid "pop_pass_store_error"
+msgstr "ストアのエラーによって\n月間パスの購入情報が正しく取得できませんでした。\n\n月間パスを購入されている場合、\n特典が一時的に受けられない状態になっています。\n後程、もう一度お試しください。"
+
+msgid "popup_update_operation_text"
+msgstr "オペレーションが追加されました。\nリストを更新します。"
+
+msgid "popup_dateline_error_title"
+msgstr "日付変更"
+
+msgid "popup_dateline_error_text"
+msgstr "日付の変更処理に失敗しました。\nタイトル画面に戻ります。"
+
+msgid "pop_pass_goto_home_2"
+msgstr "月間パスは購入済みです。\nホーム画面に戻ります。"
+
+msgid "home_popup_event_period"
+msgstr "開催期間：{0}年{1}月{2}日({3}) {4}:{5:D2} ～ {6}年{7}月{8}日({9}) {10}:{11:D2}"
+
+msgid "home_pickup_event_period"
+msgstr "開催期間：{0}月{1}日 {2}:{3:D2} ～ {4}月{5}日 {6}:{7:D2}"
+
+msgid "popup_download_size_title"
+msgstr "データダウンロード"
+
+msgid "popup_download_size_text"
+msgstr "新しいダウンロードデータが見つかりました。\nゲームデータのダウンロードを行います。\n<color=#C8087E>※キャンセルした場合、タイトルに戻ります。</color>\n\nダウンロードサイズ：{0}"
+
+msgid "popup_download_size_error"
+msgstr "ダウンロードサイズの取得に失敗しました。\nインターネットへの接続や電波の状況を確認して、\nもう一度お試しください。"
+
+msgid "popup_bunchdownload_data_check"
+msgstr "データを確認中です。\nしばらくお待ちください。"
+
+msgid "popup_bunchdownload_size_text"
+msgstr "新しいダウンロードデータが見つかりました。\nゲームデータのダウンロードを行います。\n<color=#C8087E>※Wi-Fi環境下でのダウンロードをおすすめします。</color>\n\nダウンロードサイズ：{0}"
+
+msgid "popup_bunchdownload_size_zero"
+msgstr "新しいダウンロードデータは見つかりませんでした。"
+
+msgid "popup_bunchdownload_cancel_title"
+msgstr "ダウンロード中断"
+
+msgid "popup_bunchdownload_cancel"
+msgstr "データダウンロードを中断します。\n\n<color=#C8087E>※次回ダウンロード行う場合\n中断されたデータからダウンロードが再開されます。</color>"
+
+msgid "popup_bunchdownload_complete_title"
+msgstr "ダウンロード完了"
+
+msgid "popup_bunchdownload_complete"
+msgstr "データダウンロードが完了しました。"
+
+msgid "lucky_leaf_sort_message"
+msgstr "<size={1}>解放可能ラッキーリーフ:{0}</size>"
+
+msgid "popup_recover_done_title"
+msgstr "プレイデータの反映"
+
+msgid "popup_recover_done_text"
+msgstr "前回のゲームプレイのリザルトは\nゲーム内に反映されています。"
+
+msgid "pop_tutorial_gacha_details"
+msgstr "★4　今日からあなたもワルキューレ　　　　　100%"
+
+msgid "bingo_next_charange"
+msgstr "{0}/{1}/{2} 0:00から\n次のビンゴミッションに\n挑戦できます。"
+
+msgid "bingo_count_text"
+msgstr "{0}枚目"
+
+msgid "bingo_reward_count_text"
+msgstr "{0}ビンゴ報酬"
+
+msgid "bingo_ribbon_bingo_count_text"
+msgstr "現在{0}ビンゴ！"
+
+msgid "bingo_ribbon_costume_text"
+msgstr "{0}ビンゴ目で解放プレートGET！"
+
+msgid "bingo_ribbon_item_text"
+msgstr "すべてのビンゴ報酬をGET！"
+
+msgid "bingo_next_reward_text"
+msgstr "次のビンゴ報酬"
+
+msgid "bingo_reward_select_desc1"
+msgstr "ビンゴミッション1回につき、報酬を1つ選択することができます。"
+
+msgid "bingo_reward_select_desc2"
+msgstr "ビンゴミッションは最大{0}回までとなります。"
+
+msgid "bingo_reward_select_desc3"
+msgstr "ビンゴミッションの開始後は、報酬を選択し直すことができません。"
+
+msgid "bingo_reward_select_title"
+msgstr "エピソード完全解放報酬"
+
+msgid "bingo_reward_select_caution_desc"
+msgstr "※現在所持しているプレートでエピソードを完全解放することができます。"
+
+msgid "bingo_reward_select_caution_desc1"
+msgstr "※このエピソードは完全解放済みです。"
+
+msgid "bingo_reward_select_conf_text"
+msgstr "この報酬でよろしいですか？"
+
+msgid "bingo_reward_select_conf_title"
+msgstr "報酬選択"
+
+msgid "bingo_mission_reward_pop_title"
+msgstr "ミッション報酬"
+
+msgid "bingo_reward_pop_title"
+msgstr "ビンゴ報酬"
+
+msgid "bingo_mission_reward_get_pop_title"
+msgstr "報酬獲得"
+
+msgid "bingo_mission_change__bingo_text"
+msgstr "{0}枚目のビンゴミッションの報酬を\nすべて獲得しました。"
+
+msgid "bingo_mission_end_pop_text"
+msgstr "すべてのビンゴミッションの報酬を獲得しました。\nミッション画面に戻ります。"
+
+msgid "pop_score_detail_title"
+msgstr "スコア予測ゲージ詳細"
+
+msgid "pop_score_detail_caution_01"
+msgstr "滅びの歌の影響も予測に含まれています。"
+
+msgid "pop_score_detail_caution_02"
+msgstr "プレートの能力やスキルからの予測であり、実際のプレイ結果ではありません。"
+
+msgid "pop_score_detail_item_name_01"
+msgstr "ベース値"
+
+msgid "pop_score_detail_item_name_02"
+msgstr "衣装"
+
+msgid "pop_score_detail_item_name_03"
+msgstr "属性ボーナス"
+
+msgid "pop_score_detail_item_name_04"
+msgstr "Cスキル"
+
+msgid "pop_score_detail_item_name_05"
+msgstr "支援プレート"
+
+msgid "pop_score_detail_item_name_06"
+msgstr "Lスキル"
+
+msgid "pop_score_detail_item_name_07"
+msgstr "Aスキル"
+
+msgid "pop_score_detail_item_name_08"
+msgstr "コンボ"
+
+msgid "pop_score_detail_item_name_09"
+msgstr "スコアノーツ"
+
+msgid "pop_score_detail_item_name_10"
+msgstr "ラッキーリーフ"
+
+msgid "pop_score_detail_item_name_11"
+msgstr "バルキリー"
+
+msgid "pop_score_detail_item_desc_01"
+msgstr "歌姫とプレートのステータスのみで獲得できるスコアの予測"
+
+msgid "pop_score_detail_item_desc_02"
+msgstr "着用した衣装のステータスによって上昇する予測"
+
+msgid "pop_score_detail_item_desc_03"
+msgstr "楽曲とプレートの属性の合致によるボーナスによって上昇する予測"
+
+msgid "pop_score_detail_item_desc_04"
+msgstr "センタースキルによって上昇するスコアの予測"
+
+msgid "pop_score_detail_item_desc_05"
+msgstr "支援プレートによって上昇するスコアの予測"
+
+msgid "pop_score_detail_item_desc_06"
+msgstr "ライブスキルによって上昇するスコアの予測の合計"
+
+msgid "pop_score_detail_item_desc_07"
+msgstr "アクティブスキルによって上昇するスコアの予測"
+
+msgid "pop_score_detail_item_desc_08"
+msgstr "楽曲の90％まで継続したコンボボーナスの予測"
+
+msgid "pop_score_detail_item_desc_09"
+msgstr "出現するスコアノーツを全てタップした場合の予測"
+
+msgid "pop_score_detail_item_desc_10"
+msgstr "解放状態のラッキーリーフによって上昇するスコアの予測"
+
+msgid "pop_score_detail_item_desc_11"
+msgstr "選択したバルキリーによって上昇するスコアの予測"
+
+msgid "bingo_reward_select_scene_detail_text"
+msgstr "【{0}】の\nEPを大幅に上げられるプレート。"
+
+msgid "bingo_normal_bingo_start_text"
+msgstr "{0}枚目のビンゴミッションを開始します。"
+
+msgid "bingo_mission_conditions_text"
+msgstr "【獲得条件】"
+
+msgid "offer_not_received_item_title"
+msgstr "期限切れのアイテム"
+
+msgid "offer_not_received_item_text"
+msgstr "以下のアイテムは期限切れのため入手できませんでした。"
+
+msgid "pop_valyrietuneup_title"
+msgstr "消費アイテム確認"
+
+msgid "pop_valkyrietuneup_desc"
+msgstr "バルキリーの拡張性能を解放します。よろしいですか？"
+
+msgid "pop_valyrietuneupcheck_title"
+msgstr "拡張性能解放"
+
+msgid "pop_deco_save_title"
+msgstr "変更内容が保存されていません"
+
+msgid "pop_deco_save_desc"
+msgstr "変更した内容を保存していません。"
+
+msgid "pop_deco_bast_title"
+msgstr "配置保存"
+
+msgid "pop_deco_bast_desc"
+msgstr "編集内容を保存しました。"
+
+msgid "deco_no_have_text"
+msgstr "デコアイテムを\n所持していません。"
+
+msgid "deco_bast_storage_title"
+msgstr "デコルーム一覧"
+
+msgid "pop_deco_storage_delete_title"
+msgstr "削除確認"
+
+msgid "pop_deco_storage_delete_desc"
+msgstr "{0}\nに保存されているデコルームを削除しますか？"
+
+msgid "pop_deco_storage_delete_comp_title"
+msgstr "削除完了"
+
+msgid "pop_deco_storage_delete_comp_desc"
+msgstr "{0}\nのデコルームを削除しました。"
+
+msgid "pop_deco_storage_overwrite_title"
+msgstr "上書き確認"
+
+msgid "pop_deco_storage_overwrite_desc"
+msgstr "{0}\nに現在のデコルームを上書き保存しますか？"
+
+msgid "pop_deco_storage_overwrite_comp_title"
+msgstr "保存完了"
+
+msgid "pop_deco_storage_overwrite_comp_desc"
+msgstr "{0}\nに現在のデコルームを上書き保存しました。"
+
+msgid "pop_deco_storage_select_comp_title"
+msgstr "デコルーム変更完了"
+
+msgid "pop_deco_storage_select_comp_desc"
+msgstr "現在のデコルームを\n{0}\nに変更しました。"
+
+msgid "deco_storage_select_text"
+msgstr "選択中のデコルームに変更しますか？"
+
+msgid "deco_screenshot_success"
+msgstr "写真を保存しました。"
+
+msgid "deco_sel_popup_storage_message_ios"
+msgstr "歌マクロスに写真への書き込みが\n許可されていないので、写真を保存できません。\n\n以下の権限を許可してください。\n\n"
+
+msgid "deco_sel_popup_storage_message_android"
+msgstr "歌マクロスにストレージへのアクセスが\n許可されていないので、写真を保存できません。\n\n以下の権限を許可してください。\n\n"
+
+msgid "deco_screenshot_storage_text_ios"
+msgstr "写真\n写真を保存するために\nフォトライブラリに書き込みます。\n"
+
+msgid "deco_screenshot_storage_text_android"
+msgstr "ストレージ\n写真を保存するために\n本体のストレージやSDカードにアクセスします。\n"
+
+msgid "deco_popup_err_no_permission_storage"
+msgstr "ストレージへのアクセスが許可されて\nいないので、写真を保存できませんでした。"
+
+msgid "deco_popup_err_not_abailable_storage"
+msgstr "ストレージの空き容量が不足している\nので、写真を保存できませんでした。"
+
+msgid "pop_deco_name_change_title"
+msgstr "デコルーム名変更"
+
+msgid "pop_deco_name_change_text"
+msgstr "デコルーム名を変更しました。"
+
+msgid "pop_deco_name_change_desc"
+msgstr "デコルーム名を入力してください。\n（全角半角10文字まで）"
+
+msgid "pop_deco_name_change_notes"
+msgstr "・一部使用できない記号、文字がございます。\n・変更の反映に時間がかかることがあります。"
+
+msgid "pop_deco_name_change_cancel"
+msgstr "デコルーム名が変更されませんでした。"
+
+msgid "pop_deco_item_title"
+msgstr "デコアイテム所持数"
+
+msgid "pop_deco_item_count"
+msgstr "{0}個"
+
+msgid "pop_deco_item_content"
+msgstr "「衣装トルソー」と「バルキリーのフィギュア」と\n「デコマスコット」を除いた\n「インテリア」と「フレーズ」がカウントされます。\n「ポスター」は対象外となります。"
+
+msgid "pop_deco_sp_item_001"
+msgstr "あと デコアイテム {0} 個入手でレベルアップ"
+
+msgid "pop_deco_sp_item_002"
+msgstr "レベルアップ可能！"
+
+msgid "pop_deco_sp_item_003"
+msgstr "レベルは最大です。"
+
+msgid "pop_deco_sp_item_004"
+msgstr "アイテムを回収した後にレベルアップします。"
+
+msgid "pop_deco_sp_item_levelup"
+msgstr "{0}\nがレベルアップしました。"
+
+msgid "pop_deco_sp_all_receive_title"
+msgstr "一括対応"
+
+msgid "pop_deco_sp_all_receive_content"
+msgstr "現在デコルーム上で\n受け取れるアイテムがありません。"
+
+msgid "pop_deco_sp_item_point_format"
+msgstr "{0}/{1}<size=18>{2}</size>"
+
+msgid "pop_deco_sp_item_time_format"
+msgstr "{0}<size=18>時間</size>{1:D2}<size=18>分</size>"
+
+msgid "pop_deco_sp_item_cannon_suffix"
+msgstr "%"
+
+msgid "pop_deco_sp_item_cannon_title"
+msgstr "マクロスキャノンゲージ"
+
+msgid "pop_deco_sp_item_itemlist_title"
+msgstr "回収アイテム"
+
+msgid "pop_deco_sp_item_cannon_text001"
+msgstr "エネルギーをチャージしました。"
+
+msgid "pop_deco_sp_item_cannon_text002"
+msgstr "ゲージがMAXのため\nエネルギーをチャージできません。"
+
+msgid "pop_deco_sp_item_cannon_text003"
+msgstr "※マクロスキャノンを使用することでチャージが可能です。"
+
+msgid "pop_deco_sp_item_remove_title"
+msgstr "エクストラアイテム収納"
+
+msgid "pop_deco_sp_item_remove_message_001"
+msgstr "以下のエクストラアイテムが\n変更するデコルームに含まれていません。"
+
+msgid "pop_deco_sp_item_remove_message_002"
+msgstr "以下のエクストラアイテムを収納します。"
+
+msgid "pop_deco_sp_item_remove_message_003"
+msgstr "※エクストラアイテムを収納すると、\n残り時間や受け取り可能な状態がリセットされます。"
+
+msgid "pop_deco_gift_success_title"
+msgstr "贈り物完了"
+
+msgid "pop_deco_gift_failed_title"
+msgstr "贈り物可能上限"
+
+msgid "pop_deco_gift_multi_message"
+msgstr "{0}人に贈り物を届けました。"
+
+msgid "pop_deco_gift_single_message"
+msgstr "贈り物を届けました。"
+
+msgid "pop_deco_gift_failed_message"
+msgstr "本日はこれ以上贈り物ができません。"
+
+msgid "pop_deco_gift_item_message"
+msgstr "{0}\n{1}{2}獲得"
+
+msgid "pop_deco_option_title"
+msgstr "デコルチャーモード設定"
+
+msgid "pop_deco_option_desc_display"
+msgstr "デコルチャーモードの表示物について設定できます。"
+
+msgid "raid_bossselect_none_text01"
+msgstr "暴走エネミーは発見されていません。"
+
+msgid "raid_bossselect_none_text02"
+msgstr "暴走エネミーは「{0}」で探すことができます。"
+
+msgid "raid_bossselect_rescue_time"
+msgstr "あと{0:D2}：{1:D2}"
+
+msgid "raid_first_attack_free_ap_01"
+msgstr "支援が実行可能です！"
+
+msgid "raid_first_attack_free_ap_02"
+msgstr "この敵に対しては支援が実行できます。\nスキップを消費せずライブをスキップできます。"
+
+msgid "raid_assist_attack_skip_01"
+msgstr "1回だけチケットなし\nスキップのチャンス！"
+
+msgid "pop_raid_helprequest_confirmed_title"
+msgstr "救援確認"
+
+msgid "pop_raid_helprequest_confirmed_text"
+msgstr "まだ参戦していません。\n参戦しないと報酬が獲得できません。"
+
+msgid "pop_raid_helprequest_failed_text01"
+msgstr "ロビー内に他の参加者がまだいないので、\n救援要請を送ることはできません。\n\n<color=#C6077CFF>※救援要請を送ったことにはなっていません。</color>"
+
+msgid "pop_raid_helprequest_failed_text02"
+msgstr "救援要請を送りましたが、\n受け取れるプレイヤーがいませんでした。\n\n<color=#C6077CFF>※救援要請を送れる回数は減りませんでした。</color>"
+
+msgid "pop_raid_bosspop_title"
+msgstr "暴走エネミー索敵"
+
+msgid "pop_raid_bosspop_text01"
+msgstr "{0}を使用して\n暴走エネミーを索敵します。\n\n<color=#C6077CFF>{0}　{1}→{2}</color>"
+
+msgid "pop_raid_bosspop_not_text01"
+msgstr "{0}を所持していません。\n{0}は楽曲クリア後に\n入手できる可能性があります。\n\n<color=#C6077CFF>{0}　{1}</color>"
+
+msgid "pop_raid_helprequest_title"
+msgstr "救援確認"
+
+msgid "pop_raid_helprequest_loby"
+msgstr "マクロスロビーに救援要請を送る"
+
+msgid "pop_raid_helprequest_friend"
+msgstr "フレンドを優先する"
+
+msgid "pop_raid_helprequest_all"
+msgstr "全体に救援要請を送る"
+
+msgid "pop_raid_boss_sort_title"
+msgstr "表示順変更"
+
+msgid "pop_raid_cannon_plate_title"
+msgstr "装填プレート確認　<size=22>※マクロスキャノンゲージ1消費</size>"
+
+msgid "pop_raid_cannon_plate_bonus_format"
+msgstr "{0}ボーナス：<color=#C8087E>{1}％</color>"
+
+msgid "pop_raid_cannon_plate_text01"
+msgstr "主砲威力：{0}"
+
+msgid "pop_raid_cannon_plate_text02"
+msgstr "以下のプレートを【<color=#C8087E>{0}枚</color>】装填してマクロスキャノンを発射します。\n※プレートは同じ暴走エネミーに対して1度しか装填できません。"
+
+msgid "pop_raid_cannon_plate_text03"
+msgstr "プレートをすべて使い切ったため、プレートを装填しないでマクロスキャノンを発射します。\n※プレートは同じ暴走エネミーに対して1度しか装填できません。"
+
+msgid "pop_raid_cannon_plate_text04"
+msgstr "使用できるプレートはありません。"
+
+msgid "pop_raid_init_sort_text"
+msgstr "現在のフィルター条件で\n表示可能な暴走エネミーが存在しません。\n\nフィルター設定を初期化します。"
+
+msgid "pop_raid_warning_sort_text"
+msgstr "選択された条件に一致する\n暴走エネミーはいません。\n\n条件を再設定してください。"
+
+msgid "raid_announce_text"
+msgstr "{0}から支援を受け、マクロスキャノンゲージが{1}%上昇しました。"
+
+msgid "raid_announce_text02"
+msgstr "{0}等から{2}回の支援を受け、マクロスキャノンゲージが{1}%上昇しました。"
+
+msgid "raid_announce_text03"
+msgstr "部隊の仲間から{2}回の支援を受け、マクロスキャノンゲージが{1}%上昇しました。"
+
+msgid "raid_top_gauge_text"
+msgstr "仲間の協力で\nマクロスキャノンゲージが{0}%上昇！"
+
+msgid "raid_top_gauge_max_text"
+msgstr "最大までチャージされているので\nこれ以上は上昇しません。"
+
+msgid "raid_act_support_desc_text"
+msgstr "チケットなしでライブスキップ！"
+
+msgid "raid_act_fullpower_desc_text"
+msgstr "エネミーに超インパクト！"
+
+msgid "raid_damage_result_text"
+msgstr "インパクト"
+
+msgid "raid_damage_result_gauge_max_text"
+msgstr "最大までチャージされているのでこれ以上は上昇しません。"
+
+msgid "pop_raid_ap_heal_title"
+msgstr "AP回復確認"
+
+msgid "pop_raid_ap_heal_text"
+msgstr "アイテムを使用してAPを回復します。"
+
+msgid "pop_raid_ap_heal_item01_text01"
+msgstr "歌晶石×{0}個"
+
+msgid "pop_raid_ap_heal_item01_text02"
+msgstr "使用するとAPを{0}回復する。"
+
+msgid "pop_raid_ap_heal_item01_text03"
+msgstr "所持：{0}個"
+
+msgid "pop_raid_ap_heal_item02_text01"
+msgstr "{0}"
+
+msgid "pop_raid_ap_heal_item02_text02"
+msgstr "使用するとAPを{0}回復する。"
+
+msgid "pop_raid_ap_heal_item02_text03"
+msgstr "所持：{0}個"
+
+msgid "pop_raid_ap_heal_item03_text01"
+msgstr "{0}"
+
+msgid "pop_raid_ap_heal_item03_text02"
+msgstr "使用するとAPを1回復する。"
+
+msgid "pop_raid_ap_heal_item03_text03"
+msgstr "所持：{0}個"
+
+msgid "pop_raid_heal_item_cannon_text001"
+msgstr "マクロスキャノンゲージチャージ"
+
+msgid "pop_raid_heal_item_cannon_text002"
+msgstr "{0}を{1}個消費することで\nマクロスキャノンゲージを{2}%チャージします。\n最大で200%までチャージできます。\n\n<color=#C6077CFF>{0}　{3}→{4}</color>"
+
+msgid "pop_raid_heal_item_cannon_text003"
+msgstr "マクロスキャノンゲージを回復する\n{0}を所持していません。"
+
+msgid "pop_raid_heal_item_cannon_text004"
+msgstr "これ以上マクロスキャノンゲージを\nチャージできません。"
+
+msgid "pop_raid_heal_item_cannon_text005"
+msgstr "マクロスキャノンゲージのチャージが完了しました。"
+
+msgid "raid_mvp_notes_text"
+msgstr "全難易度共通のランキングになります。"
+
+msgid "raid_mvp_desc_text"
+msgstr "※累計インパクト数にはエネミーに与えたインパクト数がそのまま加算されます"
+
+msgid "raid_mvp_cell_text01"
+msgstr "1位のポイント"
+
+msgid "raid_mvp_cell_text02"
+msgstr "2位のポイント"
+
+msgid "raid_mvp_info_text01"
+msgstr "この暴走エネミーのMVP対象者はいません。"
+
+msgid "raid_mvp_info_text02"
+msgstr "この暴走エネミーへの他の参戦者はいません。"
+
+msgid "raid_mvp_info_text03"
+msgstr "あなたはこの暴走エネミーへ参戦していません。"
+
+msgid "pop_raid_defeated_title"
+msgstr "無力化された暴走エネミー"
+
+msgid "pop_raid_defeated_text"
+msgstr "選択した暴走エネミーは無力化されました。\nリストを更新します。"
+
+msgid "pop_raid_escaped01_title"
+msgstr "無力化に失敗した暴走エネミー"
+
+msgid "pop_raid_escaped01_text"
+msgstr "選択した暴走エネミーの無力化に失敗しました。\nリストを更新します。"
+
+msgid "pop_raid_escaped02_title"
+msgstr "無力化に失敗した暴走エネミー"
+
+msgid "pop_raid_escaped02_text"
+msgstr "選択した暴走エネミーの無力化に失敗しました。\nポイントの加算は行われません。"
+
+msgid "pop_raid_enemy_escape_title"
+msgstr "暴走エネミーの無力化に失敗"
+
+msgid "pop_raid_enemy_escape_enemyselect_text"
+msgstr "制限時間を過ぎたため、暴走エネミーを見失いました。\nリストを更新します。"
+
+msgid "pop_raid_enemy_escape_result_text"
+msgstr "制限時間を過ぎたため、暴走エネミーを見失いました。"
+
+msgid "pop_raid_radar_failed_title"
+msgstr "暴走エネミー索敵"
+
+msgid "pop_raid_rader_failed_text"
+msgstr "対応できる最大数の暴走エネミーが発見されています！\nまずは発見されている暴走エネミーを倒して\n数を減らしてください。\n\n<color=#C6077CFF>フォールドレーダーは消費しませんでした。</color>"
+
+msgid "pop_raid_time_warning_title"
+msgstr "残時間警告"
+
+msgid "pop_raid_time_warning_text"
+msgstr "制限時間が5分未満になっています。\n暴走エネミーの無力化に失敗した場合、\nポイントが加算されません。\n\nライブを開始しますか？"
+
+msgid "pop_raid_assist_attack_skip_title"
+msgstr "支援について"
+
+msgid "pop_raid_assist_attack_skip_desc_01"
+msgstr "ライブをスキップした時のスコアを基準として\nエネミーにインパクトを与えることができます。\n1体のエネミーに対しては1回だけ実行できます。\n\n<color=#C6077CFF>※ライブスキップチケットは消費しません。</color>"
+
+msgid "pop_raid_assist_attack_skip_desc_02"
+msgstr "超銀河総力LIVEで支援を実行時には\nライブスキップチケットを使用できません。\n\n支援を実行時はライブスキップチケットを使用しなくても\n必ずライブがスキップされます。"
+
+msgid "pop_valyrietuneup_needitemdesc"
+msgstr "{0}と{1}を消費します。"
+
+msgid "customstamp_createt_itle"
+msgstr "スタンプ一覧"
+
+msgid "customstamp_longtap_desc"
+msgstr "※スタンプを長押しで削除します。"
+
+msgid "customstamp_sort_title"
+msgstr "スタンプ並び替え"
+
+msgid "pop_customstamp_createlimit_title"
+msgstr "スタンプ作成上限"
+
+msgid "pop_customstamp_createlimit_desc"
+msgstr "新規で作成できるスタンプが上限に達しました。\n\n保存しているスタンプを削除することで\n新しく作成することができます。"
+
+msgid "pop_customstamp_sort_save_title"
+msgstr "保存確認"
+
+msgid "pop_customstamp_sort_save_desc"
+msgstr "現在のスタンプの並びで保存しますか？"
+
+msgid "pop_customstamp_edit_save_title"
+msgstr "スタンプ{0}を保存しました。"
+
+msgid "pop_customstamp_delete_title"
+msgstr "スタンプ{0}を削除しますか？"
+
+msgid "pop_customstamp_deletecheck_title"
+msgstr "スタンプ{0}を削除しました。"
+
+msgid "valkyrie_tuneup_skill_not"
+msgstr "未解放"
+
+msgid "pop_deco_get_title"
+msgstr "{0}獲得"
+
+msgid "pop_deco_get_desc"
+msgstr "デコルームで配置できる{0}を受け取りました。"
+
+msgid "pop_deco_get_limit"
+msgstr "※{0}は{1}枚まで獲得できます。"
+
+msgid "pop_deco_release_desc"
+msgstr "デコルームで配置できる\n以下のアイテムが追加されました。"
+
+msgid "deco_name_poster"
+msgstr "ポスター"
+
+msgid "deco_name_torso"
+msgstr "衣装トルソー"
+
+msgid "deco_name_figure"
+msgstr "バルキリーのフィギュア"
+
+msgid "missionevent_bonus_popup_title"
+msgstr "ボーナス対象の楽曲"
+
+msgid "missionevent_bonus_popup_desc"
+msgstr "イベント楽曲に加えて、以下の楽曲にボーナスが発生！"
+
+msgid "missionevent_bonus_date_format"
+msgstr "yyyy/M/d H:mm"
+
+msgid "missionevent_bonus_limit_format"
+msgstr "{0}　～　{1}"
+
+msgid "missionevent_bonus_target_format"
+msgstr "{0}の楽曲"
+
+msgid "missionevent_bonus_music_attribute001"
+msgstr "星属性"
+
+msgid "missionevent_bonus_music_attribute002"
+msgstr "愛属性"
+
+msgid "missionevent_bonus_music_attribute003"
+msgstr "命属性"
+
+msgid "missionevent_bonus_music_attribute004"
+msgstr "全属性"
+
+msgid "missionevent_bonus_series_attribute001"
+msgstr "マクロスΔシリーズ"
+
+msgid "missionevent_bonus_series_attribute002"
+msgstr "マクロスFシリーズ"
+
+msgid "missionevent_bonus_series_attribute003"
+msgstr "マクロス７シリーズ"
+
+msgid "missionevent_bonus_series_attribute004"
+msgstr "超時空要塞マクロスシリーズ"
+
+msgid "missionevent_bonus_series_attribute005"
+msgstr "マクロスプラスシリーズ"
+
+msgid "missionevent_bonus_all"
+msgstr "すべて"
+
+msgid "lobby_corps_belongs_conf_text"
+msgstr "この部隊に所属しますか？\n開催期間中は部隊の変更が行えません。"
+
+msgid "lobby_corps_belongs_note_text"
+msgstr "<color=#C8087E>※開催期間が終了すると部隊は解散します。</color>"
+
+msgid "lobby_room_name_format"
+msgstr "部隊名：{0}"
+
+msgid "lobby_room_num_format"
+msgstr "第{0}小隊"
+
+msgid "valkyrie_name_text_format_001"
+msgstr "{0} {1}"
+
+msgid "storage_select_text"
+msgstr "選択中のデコルームに変更しますか？"
+
+msgid "home_lobby_button_before"
+msgstr "超銀河総力LIVE開催まで　あと{0}日"
+
+msgid "home_lobby_button_enter"
+msgstr "超銀河総力LIVE開催中！ あと{0}日"
+
+msgid "home_lobby_button_after"
+msgstr "ロビー解放終了まで あと {0}日"
+
+msgid "home_lobby_button_before_today"
+msgstr "超銀河総力LIVE 本日開催"
+
+msgid "home_lobby_button_enter_today"
+msgstr "超銀河総力LIVE開催中！ 本日まで"
+
+msgid "home_lobby_button_after_today"
+msgstr "ロビー解放 本日まで"
+
+msgid "home_lobby_button_popup_raid_end"
+msgstr "超銀河総力LIVEは終了しました。\n部隊に所属していなかったため\nマクロスロビーに移動できません。"
+
+msgid "customstamp_have_serif_not"
+msgstr "フレーズを\n所持していません。"
+
+msgid "customstamp_sort_desc"
+msgstr "※スタンプ同士をタップで位置を入れ替えます。"
+
+msgid "result_drop_foldradar_text"
+msgstr "{0}を発見しました！\n{0}は超銀河総力LIVEで使用できるアイテムです。"
+
+msgid "pop_lobby_group_capacityover_desc"
+msgstr "選択した部隊が満員で\n所属できませんでした。"
+
+msgid "pop_lobby_group_not_searchplayer"
+msgstr "選択可能なフレンド、ファン登録を行っているプレイヤーがいません。"
+
+msgid "pop_lobby_member_fanregister_title"
+msgstr "ファン登録"
+
+msgid "pop_lobby_member_fanregister_desc"
+msgstr "{0}さんをファン登録します。"
+
+msgid "pop_lobby_member_fan_capacityover_title"
+msgstr "ファン上限"
+
+msgid "pop_lobby_member_capacityover_desc"
+msgstr "ファン数が上限に達しています。"
+
+msgid "pop_lobby_member_fan_unregister_title"
+msgstr "ファン解除"
+
+msgid "pop_lobby_member_fan_unregister_desc"
+msgstr "{0}さんをファン解除します。"
+
+msgid "pop_deco_bg_eff_span"
+msgstr "yyyy年M月d日 H:mm"
+
+msgid "pop_deco_bg_eff_initial_setting_title"
+msgstr "画面エフェクト変更"
+
+msgid "pop_deco_bg_eff_initial_setting_desc"
+msgstr "期間限定エフェクトを使用できます。\nエフェクト名：{0}\n\n【使用可能期間】\n{1} ～ {2}\n\nエフェクトを表示しますか？\n<color=#C8087E>※背景の設定はデコルチャーモード設定でも行えます。</color>"
+
+msgid "popup_event_reward_check_mvp_title"
+msgstr "MVP報酬"
+
+msgid "popup_event_reward_check_attack1st_title"
+msgstr "1stアタック報酬"
+
+msgid "popup_event_reward_check_disempowerment_title"
+msgstr "参戦報酬"
+
+msgid "popup_event_reward_check_lotcount_title"
+msgstr "参戦報酬内訳"
+
+msgid "popup_event_reward_raid_info_mvp"
+msgstr "MVP報酬は超銀河メダルを獲得することができます。\n獲得できる個数は歌グレードとエネミーランクによって変動します。"
+
+msgid "popup_event_reward_raid_info_attack1st"
+msgstr "1stアタック報酬は超銀河メダルを獲得することができます。\n獲得できる個数は歌グレードとエネミーランクによって変動します。"
+
+msgid "popup_event_reward_raid_info_disempowerment"
+msgstr "獲得できる個数は歌グレードとエネミーランクによって変動します。\n参戦報酬の内容は参戦報酬内訳タブから確認できます。"
+
+msgid "popup_event_reward_raid_info_lotcount"
+msgstr "獲得できる個数は歌グレードとエネミーランクによって変動します。"
+
+msgid "pop_raid_helprequest_completion_title"
+msgstr "救援確認"
+
+msgid "pop_raid_helprequest_completion_text"
+msgstr "以下のプレイヤーに救援要請を送りました。"
+
+msgid "pop_fan_register_failure_title"
+msgstr "ファン登録失敗"
+
+msgid "pop_fan_register_failure_desc"
+msgstr "ファン登録に失敗しました。"
+
+msgid "pop_fan_unregister_failure_title"
+msgstr "ファン解除失敗"
+
+msgid "pop_fan_unregister_failure_desc"
+msgstr "ファン解除に失敗しました。"
+
+msgid "popup_raid_ap_recovery_title"
+msgstr "AP回復"
+
+msgid "popup_raid_ap_recovery_use_stone_check_msg"
+msgstr "歌晶石を{0}個消費してAPを{1}回復しますか？"
+
+msgid "popup_raid_ap_recovery_use_stone_check_msg02"
+msgstr "歌晶石を{0}個消費してAPを{1}回復しますか？"
+
+msgid "popup_raid_ap_recovery_use_item_check_msg"
+msgstr "{0}を{1}個消費することで\nAPを{2}回復します。\n\n<color=#C8087E>{0}  {3}→{4}</color>"
+
+msgid "popup_raid_ap_recovery_failed_msg"
+msgstr "上限を超えるため、APを回復できませんでした。\n\n※歌晶石、アイテムは消費されません。"
+
+msgid "popup_raid_formation_bonus_costume"
+msgstr "ボーナス衣装"
+
+msgid "popup_raid_formation_bonus_valkyrie"
+msgstr "ボーナスバルキリー"
+
+msgid "popup_raid_formation_bonus_costume_title"
+msgstr "ボーナス対象の衣装"
+
+msgid "popup_raid_formation_bonus_costume_desc"
+msgstr "※ボーナス値が最も高い衣装だけが適用されます。"
+
+msgid "popup_raid_formation_bonus_valkyrie_title"
+msgstr "ボーナス対象のバルキリー"
+
+msgid "stamp_have_not_text"
+msgstr "保存しているスタンプがありません。"
+
+msgid "bulletin_board_limit_input_text"
+msgstr "最大40文字まで入力できます"
+
+msgid "pop_deco_set_max_title"
+msgstr "配置上限"
+
+msgid "pop_deco_item_set_max_desc"
+msgstr "デコアイテムの配置数が上限に達しました。\n\nデコアイテムを選択して「収納」で\nアイテムをしまうことができます。"
+
+msgid "pop_deco_chara_set_max_desc"
+msgstr "キャラの配置数が上限に達しました。\n\nキャラを選択して「収納」で\nアイテムをしまうことができます。"
+
+msgid "shop_no_product_desc"
+msgstr "交換できるアイテムがありません。"
+
+msgid "popup_deco_all_remove_title"
+msgstr "収納確認"
+
+msgid "popup_deco_all_remove_desc"
+msgstr "デコルーム上のアイテムとキャラクターを\nすべて収納しますか？"
+
+msgid "deco_storage_unused_storage_name"
+msgstr "未使用"
+
+msgid "pop_deco_storage_write_comp_desc"
+msgstr "{0}\nに現在のデコルームを保存しました。"
+
+msgid "lobby_viewing_system_text"
+msgstr "別部隊からロビーを観覧中です。"
+
+msgid "popup_profile_visit_title"
+msgstr "訪問確認"
+
+msgid "popup_profile_visit_msg"
+msgstr "{0}さんの\nデコルームへ移動します。"
+
+msgid "popup_profile_lobby_title"
+msgstr "閲覧確認"
+
+msgid "popup_profile_lobby_msg"
+msgstr "{0}さんの\nマクロスロビーへ移動します。"
+
+msgid "deco_visit_gift"
+msgstr "贈り物可能数"
+
+msgid "deco_visit_no_friend"
+msgstr "フレンドがいません。"
+
+msgid "deco_visit_no_fun"
+msgstr "まだファン登録を行っていません。"
+
+msgid "chat_post_conf_popup_text"
+msgstr "バトルログの情報をチャットへ手動投稿します。"
+
+msgid "chat_post_conf_popup_title"
+msgstr "チャット投稿確認"
+
+msgid "raid_event_end_text"
+msgstr "イベント集計中です。"
+
+msgid "lobby_raid_befor_text"
+msgstr "開催まで{0}日"
+
+msgid "lobby_raid_befor_today_text"
+msgstr "本日開催！"
+
+msgid "pop_compatible_music_title"
+msgstr "ライブスキル発動対象の楽曲"
+
+msgid "pop_compatible_music_desc"
+msgstr "以下の楽曲をプレイする時のみライブスキルが発動します。\n\n\n{0}\n\n"
+
+msgid "pop_compatible_series_title"
+msgstr "センタースキル発動対象のシリーズ"
+
+msgid "pop_compatible_series_desc"
+msgstr "以下のシリーズ楽曲をプレイする時のみ\nセンタースキルが発動します。"
+
+msgid "pop_block_ask_title"
+msgstr "ブロック確認"
+
+msgid "pop_block_ask_desc"
+msgstr "{0}さんをブロックしますか？\nブロックされた相手には以下の制限がかかります。\n\n・ロビー、チャットでの発言が非表示になります。\n・あなたのデコルームで発言できなくなります。"
+
+msgid "pop_block_done_title"
+msgstr "ブロック完了"
+
+msgid "pop_block_done_desc"
+msgstr "{0}さんをブロックしました。\n\nブロックリストの管理は\nメニューのブロックリストから行えます。"
+
+msgid "pop_block_limit_title"
+msgstr "ブロック上限"
+
+msgid "pop_block_limit_desc"
+msgstr "ブロックできる人数が\n上限({0}人)に達しています。"
+
+msgid "pop_block_remove_ask_title"
+msgstr "ブロック解除確認"
+
+msgid "pop_block_remove_ask_text"
+msgstr "{0}さんの\nブロックを解除します。\n\nよろしいですか？"
+
+msgid "pop_block_remove_done_title"
+msgstr "ブロック解除完了"
+
+msgid "pop_block_remove_deon_text"
+msgstr "{0}さんの\nブロックを解除しました。"
+
+msgid "pop_blocked_title"
+msgstr "ブロック"
+
+msgid "pop_blocked_text"
+msgstr "ブロックされているので\nこの行動はできません。"
+
+msgid "pop_not_belong_lobby_transition_title"
+msgstr "部隊所属"
+
+msgid "pop_not_belong_lobby_transition_desc"
+msgstr "超銀河総力LIVEに参加するには\n部隊に所属する必要があります。\n<color=#C8087E>※開催期間が終了すると部隊は解散します。</color>"
+
+msgid "deco_chat_footer_attention_text"
+msgstr "スタンプやコメントのつかない\n状態で60日間経過すると\n履歴が自動的に削除されます。"
+
+msgid "blocklist_title"
+msgstr "ブロックしたユーザーの一覧です"
+
+msgid "blocklist_empty_text"
+msgstr "ブロックしているユーザーはいません。"
+
+msgid "deco_set_buy_warn_text"
+msgstr "<color=#C8087E>このアイテムを含む商品がデコセットにもあります。</color>"
+
+msgid "lobby_raidboss_enable_count"
+msgstr "{0}体出現中！"
+
+msgid "pop_raid_attack_network_error"
+msgstr "通信エラーが発生しました。\n\nインターネットへの接続や電波の状況を\n確認して、もう一度お試しください。\n<color=#C8087E>※キャンセルした場合、\nデータを保存せずタイトルに戻ります。</color>"
+
+msgid "pop_exchange_need_item"
+msgstr "{0}で交換します。"
+
+msgid "popup_deco_all_back_title"
+msgstr "編集の終了"
+
+msgid "popup_deco_all_back_desc"
+msgstr "編集内容を保存しないで\nマイデコルームのトップ画面へ戻ります。\nよろしいですか？"
+
+msgid "popup_in_my_blocklist_text"
+msgstr "ブロック中のプレイヤーのため、\nこの行動はできません。"
+
+msgid "shop_product_deco_set_contain_text"
+msgstr "セット販売あり"
+
+msgid "popup_deco_set_item_detaile_title"
+msgstr "アイテムセット"
+
+msgid "deco_set_item_list_text"
+msgstr "{0}×{1}"
+
+msgid "popup_deco_set_item_detaile_list"
+msgstr "このデコセットは以下のアイテムのセット販売です。"
+
+msgid "popup_deco_set_item_detaile_caution"
+msgstr "最大所持数を超えて所持することはできません。"
+
+msgid "deco_change_storage_attention_text"
+msgstr "選択中のデコルームに変更しますか？"
+
+msgid "pop_raid_result_error_text"
+msgstr "通信エラーが発生し、\n結果の反映が行えませんでした。"
+
+msgid "popup_raid_ap_recovery_success_title"
+msgstr "AP回復"
+
+msgid "popup_raid_ap_recovery_success_text"
+msgstr "APが{0}に回復しました。"
+
+msgid "popup_raid_ap_recovery_max_text"
+msgstr "これ以上APを回復できません。"
+
+msgid "popup_raid_ap_recovery_success_bonus_title"
+msgstr "AP回復"
+
+msgid "popup_raid_ap_recovery_success_bonus_text"
+msgstr "歌晶石でAPを回復したおまけで\n{0}を{1}個獲得しました。"
+
+msgid "popup_deco_save_confirm_title"
+msgstr "保存確認"
+
+msgid "popup_deco_save_confirm_desc"
+msgstr "編集中のデコルームが保存されていません。\nデコルームを保存しますか？"
+
+msgid "popup_tutorial_guidetohome_title"
+msgstr "チュートリアル"
+
+msgid "popup_tutorial_guidetohome_text"
+msgstr "規定ランクに達したためホーム画面へ移動します。"
+
+msgid "popup_deco_save_title"
+msgstr "保存して終了"
+
+msgid "popup_deco_save_desc"
+msgstr "編集内容を保存して\nマイデコルームのトップ画面へ戻ります。\nよろしいですか？"
+
+msgid "pop_deco_shop_sort_title"
+msgstr "フィルター設定"
+
+msgid "popup_raid_login_reward_title"
+msgstr "イベント参加報酬"
+
+msgid "raid_new_announce_text"
+msgstr "新規に救援要請が　{0}件届きました！"
+
+msgid "unit_select_skip_count"
+msgstr "残り{0}枚/日"
+
+msgid "unit_select_skip_limit"
+msgstr "本日分は終了"
+
+msgid "unit_skip_condition_title"
+msgstr "解放条件"
+
+msgid "unit_skip_condition_text"
+msgstr "ライブスキップチケットはスコアランクSSでクリアした\n楽曲の難易度のみ使用できます。"
+
+msgid "unit_skip_ticket_count_title"
+msgstr "1日に使用可能な枚数について"
+
+msgid "unit_skip_ticket_count_text"
+msgstr "ライブスキップチケットは1日に使える枚数が決まっています。\n\n使用可能枚数が0になると、ライブスキップチケットを\n所持していても本日は使用できません。\n\n使用可能枚数は毎日0:00になると最大まで回復します。"
+
+msgid "unit_skip_ticket_lack_title"
+msgstr "ライブスキップチケット"
+
+msgid "unit_skip_ticket_lack_text"
+msgstr "ライブスキップチケットを所持していないため、\nスキップ機能を利用できません。"
+
+msgid "use_ticket_popup_title"
+msgstr "ライブスキップ"
+
+msgid "use_ticket_popup_havecount"
+msgstr "所持："
+
+msgid "use_ticket_consume_format"
+msgstr "{0}："
+
+msgid "use_ticket_consume_item_001"
+msgstr "エナジー"
+
+msgid "use_ticket_consume_item_002"
+msgstr "AP"
+
+msgid "use_item_description_01"
+msgstr "<color=#C8087E>1回の使用最大枚数は{0}枚です。</color>\nライブスキップチケットを消費してライブをスキップできます。\nノーツは全てPERFECT、コンボ数は0として報酬、歌姫熟練度ポイントなどを取得できます。\n使用するチケットの枚数によって取得する量は変化します。"
+
+msgid "use_item_description_02"
+msgstr "ライブスキップチケットを消費してライブをスキップできます。\n今回使えるライブスキップチケットは1枚だけです。\nノーツは全てPERFECT、コンボ数は0として報酬、歌姫熟練度ポイントなどを取得できます。"
+
+msgid "use_item_description_03"
+msgstr "ライブスキップチケットを1枚消費してライブをスキップします。\n\nライブスキップチケット　{0}→{1}\n\n・ノーツは全てPERFECTで判定されます。\n・スキップをした場合「フルコンボ」の判定はされません。\n・スコア、バルキリーモードでの結果はユニット編成内容によって変化します。"
+
+msgid "use_item_description_04"
+msgstr "<color=#C8087E>1回の使用最大枚数は{0}枚です。</color>\nライブスキップチケットを消費してライブをスキップできます。\n曜日楽曲の残り回数以上のチケットは使えません。\nノーツは全てPERFECT、コンボ数は0として報酬、歌姫熟練度ポイントなどを取得できます。\n使用するチケットの枚数によって取得する量は変化します。"
+
+msgid "boost_skip_ticket_title"
+msgstr "ライブスキップチケット"
+
+msgid "boost_skip_ticket_text"
+msgstr "ブースト機能を使用している場合は\nスキップ機能を利用できません。"
+
+msgid "boost_skip_battle_ex_title"
+msgstr "ライブスキップチケット"
+
+msgid "boost_skip_battle_ex_text"
+msgstr "EXライバルを選択している場合は\nスキップ機能を利用できません。"
+
+msgid "result_skip_caution"
+msgstr "※ハイスコア、歌レートはスキップ機能使用時には更新されません。"
+
+msgid "result_assist_caution"
+msgstr "※ハイスコア、歌レートは支援を行った時には更新されません。"
+
+msgid "popup_mission_stepup_desc"
+msgstr "ステップ{0}をクリアしたので、次のステップ{1}が解放されました。"
+
+msgid "popup_mission_stepup_allclear"
+msgstr "ステップアップミッションを最後までクリアしました！"
+
+msgid "popup_rareup_item_warning_text"
+msgstr "レアアップスターのかけらが150個を超えると\n自動でレアアップスターへ交換致します。"
+
+msgid "popup_rareup_item_convert_desc_01"
+msgstr "レアアップスターのかけらが所持上限を超えたため\nレアアップスターに交換されます。"
+
+msgid "popup_rareup_item_convert_desc_02"
+msgstr "レアアップスターはアイテム交換所で交換も可能です。\n<color=#8E0529>※レアアップスターの使用期限は90日です。</color>"
+
+msgid "popup_get_liveskip_ticket_title"
+msgstr "{0}獲得"
+
+msgid "popup_get_liveskip_ticket_desc"
+msgstr "※毎日{0}枚配布されます。\n※所持上限を超えた分は消失します。"
+
+msgid "popup_get_liveskip_ticket_count"
+msgstr "現在の所持数"
+
+msgid "popup_get_liveskip_ticket_checkbox"
+msgstr "次から表示しない"
+
+msgid "popup_get_liveskip_ticket_confirm_title"
+msgstr "確認"
+
+msgid "popup_get_liveskip_ticket_confirm_desc"
+msgstr "毎日の{0}配布時に本アナウンスが\n行われない状態になります。\n\nよろしいですか？\n\n<color=#C8087E>※配布自体は毎日行われます。</color>"
+
+msgid "popup_kira_scene_release_desc_1"
+msgstr "ラッキーリーフを最大まで解放しているプレートが\n{0}になりました。"
+
+msgid "popup_kira_scene_release_desc_2"
+msgstr "プレミア化したプレートについては\nデコルームのポスターもプレミア化することができます。"
+
+msgid "popup_episodebonus_note_01"
+msgstr "※ボーナスが適用されるのは1つのエピソードにつき1枚のプレートのみで、ユニットに編成することで適用されます。\n※同エピソードのプレートを複数枚編成した場合はボーナス値の高いプレートのみが適用されます。\n※ボーナス値はエピソードやレアリティによって異なります。"
+
+msgid "popup_episodebonus_note_02"
+msgstr "※1つのエピソードでボーナスが適用されるプレートは1枚だけです。"
+
+msgid "popup_episodebonus_evo_bonus"
+msgstr "レアアップ後は{0}%"
+
+msgid "not_possessed"
+msgstr "未所持"
+
+msgid "popup_gachatransition_title"
+msgstr "ガチャの確認"
+
+msgid "popup_gachatransition"
+msgstr "開催中のガチャ画面に遷移しますか？"
+
+msgid "popup_not_gachatransition"
+msgstr "該当するガチャがありませんでした。"
+
+msgid "pop_raid_enemy_requested_title"
+msgstr "救援確認"
+
+msgid "pop_raid_enemy_requested_text"
+msgstr "救援要請を送れませんでした。\nもうしばらく経ってからもう一度お試しください。"
+
+msgid "utaraterank_over_ranking"
+msgstr "----"
+
+msgid "utaraterank_over_login"
+msgstr "----"
+
+msgid "utaraterank_none"
+msgstr "未登録"
+
+msgid "popup_episodebonus_max"
+msgstr "最大{0}％"
+
+msgid "unorganized"
+msgstr "未編成"
+
+msgid "skill_attr_regulation"
+msgstr "属性制限あり"
+
+msgid "episode_assist"
+msgstr "ASSIST(適用中)"
+
+msgid "episode_available"
+msgstr "適用中"
+
+msgid "pop_raid_help_defeated_text"
+msgstr "選択した暴走エネミーは無力化されました。\nリストを更新します。"
+
+msgid "pop_raid_help_result_defeated_text"
+msgstr "選択した暴走エネミーは無力化されました。"
+
+msgid "pop_raid_help_player_count_limit_over_text"
+msgstr "最大人数まで救援要請を送っています。\nこれ以上は救援要請を送れません。"
+
+msgid "pop_limited_item_warning_text_1"
+msgstr "{0}の有効期限が<color=#C8087E>残り{1}日</color>となりました。"
+
+msgid "pop_limited_item_warning_title"
+msgstr "有効期限付きアイテム"
+
+msgid "notification_rareup_star_limit_title"
+msgstr "【期限切れ通知】"
+
+msgid "notification_rareup_star_limit_text"
+msgstr "{0}が消失間近です！ログインして使用しましょう！"
+
+msgid "set_notification_text_12"
+msgstr "期限付きアイテムの有効期限が\n迫った時にプッシュ通知します。"
+
+msgid "pop_limited_item_warning_text_2"
+msgstr "{0}の有効期限が<color=#C8087E>本日で終了</color>します。"
+
+msgid "pop_deco_option_caution_plateanimation_01"
+msgstr "アニメーションするポスターにのみ適用されます。"
+
+msgid "gacha_rarity_desc_01"
+msgstr "※表示中の画像はレアリティアップ前のものです。"
+
+msgid "gacha_rarity_desc_02"
+msgstr "※表示中の画像はレアリティアップ後のものです。"
+
+msgid "gacha_period"
+msgstr "開催期間：{0}/{1} {2}:{3:D2}まで"
+
+msgid "gacha_cost_01"
+msgstr "消費"
+
+msgid "gacha_cost_02"
+msgstr "を使用して引く"
+
+msgid "gacha_cost_03"
+msgstr "朝　{0}回無料"
+
+msgid "gacha_cost_04"
+msgstr "昼　{0}回無料"
+
+msgid "gacha_cost_05"
+msgstr "夜　{0}回無料"
+
+msgid "config_text_98"
+msgstr "衣装エフェクト"
+
+msgid "config_text_99"
+msgstr "衣装の周囲に発生しているエフェクトについて設定できます。"
+
+msgid "config_text_100"
+msgstr "歌姫が専用エフェクトのある衣装を着用している場合のみ適用されます。"
+
+msgid "config_text_101"
+msgstr "プレートアニメーション設定"
+
+msgid "config_text_102"
+msgstr "アニメーションを行うプレートにのみ適用されます。"
+
+msgid "config_text_103"
+msgstr "ガチャ画面はプレートアニメーション設定の対象外です。"
+
+msgid "liveskillregulation_except"
+msgstr "対象シリーズ\n以外"
+
+msgid "liveskillregulation_popup_title"
+msgstr "ライブスキル発動対象の楽曲"
+
+msgid "centerskillregulation_popup_title"
+msgstr "センタースキル発動対象の楽曲"
+
+msgid "gacha_telop_01"
+msgstr "１回限定！"
+
+msgid "gacha_telop_02"
+msgstr "あと{0}回！"
+
+msgid "gacha_telop_03"
+msgstr "初回のみ無料！"
+
+msgid "gacha_telop_04"
+msgstr "{0}回引けば\n次回は無料！"
+
+msgid "gacha_telop_05"
+msgstr "今回は無料！"
+
+msgid "gacha_telop_06"
+msgstr "1日1回だけ無料！"
+
+msgid "gacha_cost_06"
+msgstr "無料で引く"
+
+msgid "gacha_desc_01"
+msgstr "※上記以外のエピソードプレートも排出される可能性があります。"
+
+msgid "gacha_desc_02"
+msgstr "※毎日深夜0時にリセットされます。"
+
+msgid "gacha_desc_03"
+msgstr "※チケットを複数所持している場合、一番利用期限が早いものが表示されます。"
+
+msgid "gacha_desc_04"
+msgstr "朝・昼・夜の1日3回、歌晶石なしでも引けるガチャです。"
+
+msgid "gacha_set_sale_desc_01"
+msgstr "販売中"
+
+msgid "gacha_set_sale_desc_02"
+msgstr "購入済み"
+
+msgid "gacha_set_sale_desc_03"
+msgstr "販売期間外"
+
+msgid "gacha_ticket_name"
+msgstr "所持チケット"
+
+msgid "assistselect_attribute_other"
+msgstr "フリー枠"
+
+msgid "assistselect_attribute_yellow"
+msgstr "星属性"
+
+msgid "assistselect_attribute_red"
+msgstr "愛属性"
+
+msgid "assistselect_attribute_blue"
+msgstr "命属性"
+
+msgid "assistselect_caution_01"
+msgstr "※現在表示中の編成セットがアシストとして呼び出されます。"
+
+msgid "assistselect_namechange_popup_title"
+msgstr "アシストセット名変更"
+
+msgid "assistselect_namechange_popup_ok"
+msgstr "アシストセット名を変更しました。"
+
+msgid "assistselect_namechange_popup_details_01"
+msgstr "アシストセット名を入力してください\n(全角半角15文字まで)"
+
+msgid "assistselect_name_title_change_ng"
+msgstr "登録エラー"
+
+msgid "assistselect_name_notchangeword"
+msgstr "アシストセット名が変更されていませんでした。"
+
+msgid "assistselect_name_ngword"
+msgstr "使用出来ない言葉が含まれています。\n内容の変更をお願い致します。"
+
+msgid "event_story_text_015"
+msgstr "ストーリーマスを解放することで見ることができます。"
+
+msgid "event_story_text_016"
+msgstr "ストーリー解放"
+
+msgid "event_story_text_017"
+msgstr "1つ前のストーリーを見ていないため\n解放することができません。"
+
+msgid "event_story_text_018"
+msgstr "{0}\nのストーリーマス解放で確認できます。"
+
+msgid "event_story_text_019"
+msgstr "※ストーリー確認ボタンから確認できます。\n※メニュー→イベントストーリー→プレートタブから確認できます。"
+
+msgid "event_story_text_020"
+msgstr "※メニュー→イベントストーリー→プレートタブから確認できます。"
+
+msgid "assist_friend_select_caution_01"
+msgstr "アシストプレートを編成していない場合はメインプレートが表示されます。"
+
+msgid "header_desc_home401"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_home402"
+msgstr "称号を選択してください"
+
+msgid "header_desc_setting040"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_setting041"
+msgstr "称号を選択してください"
+
+msgid "header_desc_setting042"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_story040"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_story041"
+msgstr "称号を選択してください"
+
+msgid "header_desc_story042"
+msgstr "プロフィールを確認できます"
+
+msgid "header_desc_free400"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_free401"
+msgstr "称号を選択してください"
+
+msgid "header_desc_option010"
+msgstr "プレートを選択してください"
+
+msgid "header_desc_option011"
+msgstr "称号を選択してください"
+
+msgid "gacha_desc_05"
+msgstr "「こんなサービス1日3回しかしないんだからね！」\n　　　　　　　　　　　　　－シェリル・ノーム－"
+
+msgid "popup_gacha_rbreak_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。\n\n※「ガチャ出現率」に表示されている各レアリティごとの\n   出現確率は「初期出現確率」です。\n\n※★6が一定程度出現しなかった場合、\n　★6の出現確率が「初期出現確率」からやや上昇し、その上昇分だけ\n　★3★4★5の全体の出現確率が「初期出現確率」から下がります。\n\n※一度「初期出現確率」から変動した出現確率は、\n　ガチャの開催期間の終了、対象ガチャからの★6の排出をもって\n　リセットされます。"
+
+msgid "header_desc_evquest400"
+msgstr "プレートを選択してください。"
+
+msgid "header_desc_evquest401"
+msgstr "称号を選択してください"
+
+msgid "popup_sort_title_guest_select"
+msgstr "表示条件変更"
+
+msgid "quest_receive_all_desc"
+msgstr "※最大{0}件まで一括で受け取れます。"
+
+msgid "popup_quest_receive_limit_title"
+msgstr "所持上限"
+
+msgid "popup_quest_receive_limit_desc"
+msgstr "受け取ろうとしたアイテムに所持上限を超えるものがありました。\nこのミッションの報酬を受け取りますか？"
+
+msgid "popup_quest_receive_get"
+msgstr "受取：{0}"
+
+msgid "popup_quest_receive_lose"
+msgstr "消失：{0}"
+
+msgid "popup_quest_receive_limit_caution"
+msgstr "※所持上限を超えて受け取ったアイテムは自動的に消失します。"
+
+msgid "popup_quest_receive_limit_failure_01"
+msgstr "※所持上限を超えていたため、一部の報酬は受け取れませんでした。"
+
+msgid "popup_quest_receive_limit_failure_02"
+msgstr "受け取ろうとした報酬が\nすべて所持上限を超えているため\nアイテムを受け取れませんでした。"
+
+msgid "popup_gacha_rbreak2_rate_warning"
+msgstr "※確率表示は小数第4位以下にて切り捨て、小数第3位まで表示します。\n　そのため、すべて合算しても100％にならない場合があります。\n\n※上記のエピソードプレートは重複して出現する場合があります。\n\n※同レアリティ内であっても提供割合が異なる場合があります。\n\n※「ガチャ出現率」に表示されている各レアリティごとの\n   出現確率は「初期出現確率」です。\n\n※★5★6が一定程度出現しなかった場合、\n　★5★6の出現確率が「初期出現確率」からやや上昇し、その上昇分だけ\n　★3★4の全体の出現確率が「初期出現確率」から下がります。\n\n※一度「初期出現確率」から変動した出現確率は、\n　ガチャの開催期間の終了、対象ガチャからの★5★6の排出をもって\n　リセットされます。"
+
+msgid "growth_popup_text20"
+msgstr "以下のアイテムとUCを消費して能力マスをすべて解放します。"
+
+msgid "growth_popup_text21"
+msgstr "以下のアイテムとUCを消費してエピソードマスをすべて解放します。"
+
+msgid "growth_popup_text22"
+msgstr "※シークレットボードは含まれません。"
+
+msgid "growth_popup_text23"
+msgstr "以下のアイテムとUCを消費して必要な能力マスをすべて解放します。"
+
+msgid "popup_sort_filter_reset"
+msgstr "リセット"
+
+msgid "popup_sort_filter_all"
+msgstr "ALL"
+
+msgid "popup_sort_title_h1"
+msgstr "ソート設定"
+
+msgid "popup_sort_item_total"
+msgstr "TOTAL"
+
+msgid "popup_sort_item_soul"
+msgstr "ソウル"
+
+msgid "popup_sort_item_voice"
+msgstr "ボイス"
+
+msgid "popup_sort_item_charm"
+msgstr "チャーム"
+
+msgid "popup_sort_item_get"
+msgstr "入手順"
+
+msgid "popup_sort_item_rarity"
+msgstr "レアリティ"
+
+msgid "popup_sort_item_level"
+msgstr "レベル"
+
+msgid "popup_sort_item_life"
+msgstr "ライフ"
+
+msgid "popup_sort_item_luck"
+msgstr "LUCK"
+
+msgid "popup_sort_item_support"
+msgstr "サポート"
+
+msgid "popup_sort_item_fold"
+msgstr "フォールド波"
+
+msgid "popup_sort_item_recovery_notes"
+msgstr "回復ノーツ"
+
+msgid "popup_sort_item_item_notes"
+msgstr "アイテムノーツ"
+
+msgid "popup_sort_item_scoreup_notes"
+msgstr "高得点ノーツ"
+
+msgid "popup_sort_item_support_notes"
+msgstr "サポートノーツ"
+
+msgid "popup_sort_item_fold_notes"
+msgstr "フォールド波ノーツ"
+
+msgid "popup_sort_item_last_playdate"
+msgstr "最終ログイン"
+
+msgid "popup_sort_item_player_runk"
+msgstr "ランク"
+
+msgid "popup_sort_item_request"
+msgstr "申請日時"
+
+msgid "popup_sort_item_skill"
+msgstr "スキル"
+
+msgid "popup_sort_item_active_skill"
+msgstr "Aスキル"
+
+msgid "popup_sort_item_live_skill"
+msgstr "Lスキル"
+
+msgid "popup_sort_item_episode"
+msgstr "エピソード"
+
+msgid "popup_sort_item_secret_board"
+msgstr "シークレットボード数"
+
+msgid "popup_sort_item_highscorerating"
+msgstr "仮"
+
+msgid "popup_sort_item_fannum"
+msgstr "ファン数"
+
+msgid "popup_sort_item_episodeno"
+msgstr "エピソードNO"
+
+msgid "popup_sort_item_diva_and_valkyrie"
+msgstr "歌姫／バルキリー"
+
+msgid "popup_sort_item_episode_point"
+msgstr "エピソードポイント"
+
+msgid "popup_sort_item_lucky_leaf"
+msgstr "ラッキーリーフ"
+
+msgid "popup_sort_item_main_cannnon_power"
+msgstr "主砲威力"
+
+msgid "popup_sort_item_fan"
+msgstr "ファン"
+
+msgid "popup_sort_item_furniture"
+msgstr "仮"
+
+msgid "popup_sort_item_ornament"
+msgstr "仮"
+
+msgid "popup_sort_item_rug"
+msgstr "仮"
+
+msgid "popup_sort_item_rack"
+msgstr "仮"
+
+msgid "popup_sort_item_other"
+msgstr "仮"
+
+msgid "popup_sort_item_filter"
+msgstr "フィルター"
+
+msgid "popup_filter_title_h1"
+msgstr "フィルター設定"
+
+msgid "popup_filter_mainep_title_h2"
+msgstr "解放状況"
+
+msgid "popup_filter_series_title_h2"
+msgstr "シリーズ"
+
+msgid "popup_filter_diva_val_title_h2"
+msgstr "歌姫／バルキリー"
+
+msgid "popup_filter_mainep_item_lock"
+msgstr "未解放"
+
+msgid "popup_filter_mainep_item_unlock"
+msgstr "解放済"
+
+msgid "popup_filter_mainep_item_enable_unlock"
+msgstr "プレート解放可"
+
+msgid "popup_option_data_title"
+msgstr "データ管理"
+
+msgid "popup_option_cacheclear_title"
+msgstr "データ修復"
+
+msgid "popup_option_cacheclear_desc1"
+msgstr "ゲームデータを削除して、データ修復を行います。"
+
+msgid "popup_option_cacheclear_desc2"
+msgstr "ゲームがうまく起動しない場合などにお試しください。\n<color=#C8087E>※プレイデータは削除されません。</color>"
+
+msgid "popup_option_bunchinstall_title"
+msgstr "一括ダウンロード"
+
+msgid "popup_option_bunchinstall_desc1"
+msgstr "ゲームプレイに必要なデータを、一括でダウンロードします。"
+
+msgid "popup_option_bunchinstall_desc2"
+msgstr "通信を減らし、快適にプレイできるようになります。\n<color=#C8087E>※ダウンロードが終了するまで他の操作が行えなくなります。\n※Wi-Fi環境でのダウンロードをおすすめします。</color>"
+
+msgid "episode_sort_filter_empty"
+msgstr "該当するエピソードがありません。"
+
+msgid "popup_homebg_title"
+msgstr "背景選択"
+
+msgid "popup_homebg_scene_select"
+msgstr "選択したプレートを背景に設定しますか？"
+
+msgid "popup_homebg_default_scene"
+msgstr "背景をデフォルトに設定しますか？"
+
+msgid "popup_homebg_default_scene_name"
+msgstr "デフォルト背景"
+
+msgid "header_desc_home040"
+msgstr "背景を選択してください"
+
+msgid "popup_quest_receive_vc_caution"
+msgstr "※歌晶石はプレゼントBOXに送られます。"
+
+msgid "homebgselect_title"
+msgstr "ホーム"
+
+msgid "select_costume_desc01"
+msgstr "※ここで変更した衣装はユニット編成には反映されません。"
+
+msgid "popup_filter_rarity_title_h2"
+msgstr "レアリティ"
+
+msgid "popup_filter_rarity_01"
+msgstr "★ 1"
+
+msgid "popup_filter_rarity_02"
+msgstr "★ 2"
+
+msgid "popup_filter_rarity_03"
+msgstr "★ 3"
+
+msgid "popup_filter_rarity_04"
+msgstr "★ 4"
+
+msgid "popup_filter_rarity_05"
+msgstr "★ 5"
+
+msgid "popup_filter_rarity_06"
+msgstr "★ 6"
+
+msgid "popup_filter_rarity_07"
+msgstr "★ 7"
+
+msgid "deco_name_decomascot"
+msgstr "デコマスコット"
+
+msgid "popup_bunchinstall_error_storage_title"
+msgstr "ストレージエラー"
+
+msgid "popup_bunchinstall_error_storage_desc"
+msgstr "ファイルのダウンロードに失敗しました。\nストレージに十分な空き容量を確保して、\nもう一度お試しください。\n\n<color=#C8087E>※キャンセルした場合はタイトル画面に戻ります。</color>"
+
+msgid "popup_bunchinstall_error_other_title"
+msgstr "ダウンロードエラー"
+
+msgid "popup_bunchinstall_error_other_desc"
+msgstr "ファイルのダウンロードに失敗しました。\nインターネットへの接続や電波の状況を確認して、\nもう一度お試しください。\n\n<color=#C8087E>※キャンセルした場合はタイトル画面に戻ります。</color>"
+
+msgid "popup_costumeselect_home"
+msgstr "楽屋に反映"
+
+msgid "pop_pass_loginbonus_caution"
+msgstr "スペシャルパスのおまけとして{0}を{1}{2}配布します。\n<color=#8E0529>※所持上限を超えた分は消失します。</color>"
+
+msgid "popup_gacha_lot_select"
+msgstr "歌晶石もしくはガチャチケットを使ってガチャを引きます。"
+
+msgid "pop_pass_select_title"
+msgstr "月間パスプラン確認"
+
+msgid "pop_pass_select_desc"
+msgstr "月間パスの各種プランについて確認ボタンをタップして確認できます。"
+
+msgid "pop_pass_popup_text03"
+msgstr "スペシャルパスをご利用いただくには、\n同意事項を承認いただく必要があります。"
+
+msgid "pop_pass_popup_text04"
+msgstr "<size=22><color=#8e0529>※引き継ぎしてから別の月間パスへの乗り換えを行われる場合、\n旧端末での解約を済ませてから購入いただくようお願いいたします。</color></size>"
+
+msgid "pop_pass_popup_text05"
+msgstr "歌マクパスをご利用いただくには\n現在契約中のスペシャルパスを\n解約いただくようお願いいたします。\n<color=#C8087E>※スペシャルパスの有効期間終了後に\n歌マクパスを契約することができます。</color>"
+
+msgid "pop_pass_popup_text06"
+msgstr "歌マクパスをご利用いただくには\nスペシャルパスの有効期間終了までお待ちください。\n<color=#C8087E>※スペシャルパスの有効期間終了後に\n歌マクパスを契約することができます。</color>"
+
+msgid "pop_pass_sp_title"
+msgstr "スペシャルパス購入"
+
+msgid "pop_pass_sp_text01"
+msgstr "■同意事項\n・スペシャルパスの有効期間は購入してから1ヶ月間です。"
+
+msgid "pop_pass_sp_text02"
+msgstr "\n■特典内容\n・有効期間中、獲得するプレイヤーランク経験値、歌姫熟練度ポイントが1.5倍になります。\n・有効期間中、バルキリーオペレーション（VOP）に特別なデイリーオペレーションが\n　2つ追加されます。 \n\n■おまけ特典\nスペシャルパスを購入すると、おまけとして以下の特典が付与されます。\n・有効期間中、契約直後と更新時にデカルガチャチケットを10枚獲得できます。\n　デカルガチャチケットとは、単発の有償ガチャを引けるガチャチケットです。\n　デカルガチャチケットはプレゼントボックス内へ配布されます。\n　プレゼントボックス内での保存期間は180日です。\n　保存期間を過ぎるとデカルガチャチケットは自動受取されます。\n　デカルガチャチケットの利用期限はプレゼントボックスで受取を行ってから180日となります。\n・有効期間中、毎日期限付きライブスキップチケットが9枚貰えます。\n　期限付きライブスキップチケットとは、利用期限のあるライブスキップチケットになります。\n　期限付きライブスキップチケットは通常のライブスキップチケットよりも優先して消費されます。\n　利用期限は180日で、利用期限を過ぎた期限付きライブスキップチケットは消失します。\n・有効期間中、ライブスキップチケットの所持枚数の上限が60枚になります。\n　所持枚数上限は期限付きライブスキップチケットと通常のライブスキップチケットで共通となります。\n・有効期間中、ライブスキップチケットの使用枚数の上限が36枚になります。\n・有効期間中、超時空ログインボーナスで貰える成長素材セットが2倍になります。\n・超時空ガチャチケットなど豪華報酬が貰える超時空ログインボーナスが追加されます。\n　超時空ログインボーナスはスペシャルパスの有効期間中、1日1回受け取ることができます。\n・超時空ログインボーナスを90回受け取るごとにレアアップスターを獲得できます。\n　レアアップスターはエピソードプレートをレアリティアップできるアイテムです。\n　レアリティアップ前の★4、★5プレートに使用できます。\n\n■初回特典\n超時空ログインボーナスを初めて25回受け取った際にレアアップスターをプレゼントします。\n　※初回特典を受け取った後、再度スペシャルパスを購入しても初回特典はプレゼントされません。\n　※異なる端末で複数回購入しても、初回特典の付与は1回限りです。"
+
+msgid "pop_pass_sp_text_android"
+msgstr "・スペシャルパスの有効期間は、ご利用のOSの規定に基づいて\n　自動で更新されます。それに伴い、特典の付与期間も自動で更新されます。\n・お客様が本ゲームの利用端末のデータ引き継ぎを行った場合、\n　旧端末におけるスペシャルパスおよび特典付与の有効期間は引き継がれますが、\n　異なるOS間でのデータ引き継ぎの場合や旧端末と異なるGoogleIDを使用する場合、\n　旧端末におけるスペシャルパスおよび特典付与の有効期間の自動更新は新端末に反映されません。\n　新端末でスペシャルパスを利用する場合には、\n　旧端末のスペシャルパスおよび特典付与期間をご確認の上、\n　当該期間の終了後に新端末でのスペシャルパスの購入をお願いいたします。\n・旧端末と新端末とで二重にスペシャルパスを購入しても、\n　スペシャルパスの効果発動および特典付与は重複して行われません。\n・有効期間中に解約した場合も、有効期間中はスペシャルパスの効果および特典付与は継続します。\n・レアアップスターの有効期限は付与から90日間となります。\n・超時空ガチャチケットの有効期限は付与から30日間となります。\n・スペシャルパスの更新をしない場合には、OSの規定に基づいて解約をする必要があります。　\n　Androidでの解約\n　　Google Play ストア→定期購入から定期購入の解約を行ってください。\n・スペシャルパスから歌マクパスに変更を行う場合も、OSの規定に基づいて解約をする必要があります。\n・スペシャルパスを解約した場合も、有効期間終了後に歌マクパスを契約できます。\n・歌マクパスからスペシャルパスに変更を行った場合、超時空ログインボーナスやレアアップスターの\n　経過日数を引き継ぎます。\n・歌マクパスからスペシャルパスへ変更を行った際に超時空ログインボーナスの内容に\n　差分があった場合、変更したタイミングで超時空ログインボーナスの差分が付与されます。"
+
+msgid "pop_pass_sp_text_ios"
+msgstr "・スペシャルパスの料金はご利用のiTunesアカウントに対して請求されます。\n・スペシャルパスの有効期間が終了する24時間前までに自動更新を解除しない限り、\n　スペシャルパスの有効期間は自動的に更新されます。\n・自動更新の料金のお支払いは、スペシャルパスの有効期間が終了する24時間以内に更新が行われます。\n・次回の自動更新の料金は、有効期間が終了する24時間以上前に、ご利用のApple IDに対して\n　提示されます。\n・スペシャルパスは下記の手順で、次回の自動更新のタイミングの確認や自動更新の解除を行うことが\n　できます。\n　[設定アプリ]→[iTunes StoreとApp Store]→[Apple IDを表示]→[登録]\n・スペシャルパスから歌マクパスへ変更を行う場合も、上記と同じ手順で解除をお願いいたします。\n・スペシャルパスを解約した場合も、有効期間終了後に歌マクパスを契約できます。\n・お客様が本ゲームの利用端末のデータ引き継ぎを行った場合、　\n　旧端末におけるスペシャルパスおよび特典付与の有効期間は引き継がれますが、　\n　異なるOS間でのデータ引き継ぎの場合や旧端末と異なるApple IDを使用する場合、　\n　旧端末におけるスペシャルパスおよび特典付与の有効期間の自動更新は新端末に反映されません。\n　新端末でスペシャルパスを利用する場合には、\n　旧端末のスペシャルパスおよび特典付与期間をご確認の上、\n　当該期間の終了後に新端末でのスペシャルパスの購入をお願いいたします。\n・旧端末と新端末とで二重にスペシャルパスを購入しても、　\n　スペシャルパスの効果発動および特典付与は重複して行われません。\n・有効期間中に解約した場合も、有効期間中はスペシャルパスの効果および特典付与は継続します。\n・レアアップスターの有効期限は付与から90日間となります。\n・超時空ガチャチケットの有効期限は付与から30日間となります。\n・歌マクパスからスペシャルパスに変更を行った場合、超時空ログインボーナスやレアアップスターの\n　経過日数を引き継ぎます。\n・歌マクパスからスペシャルパスへ変更を行った際に超時空ログインボーナスの内容に\n　差分があった場合、変更したタイミングで超時空ログインボーナスの差分が付与されます。"
+
+msgid "pop_pass_update_popup_title"
+msgstr "乗り換え確認"
+
+msgid "pop_godiva_bonus_open_target_status"
+msgstr "獲得エール"
+
+msgid "pop_godiva_bonus_open_bonus_2"
+msgstr "<color=#C8087E>{0:#.#}</color><color=#062E49>倍</color>"
+
+msgid "pop_godiva_bonus_open_explain"
+msgstr "スペシャルライブではより多くのエールが入手できます。"
+
+msgid "pop_godiva_bonus_close_title"
+msgstr "スペシャルライブ"
+
+msgid "pop_godiva_bonus_close_text"
+msgstr "スペシャルライブは終了しました。"
+
+msgid "pop_godiva_bonus_close_next_hidden"
+msgstr "次から表示しない"
+
+msgid "pop_godiva_music_reselect_title"
+msgstr "楽曲選択"
+
+msgid "pop_godiva_music_reselect_text"
+msgstr "楽曲のプレイ可能期間が終了したため\n再度楽曲を選び直しました。\n\n<color=#C8087E>※楽曲からランダムで選択が行われます。</color>"
+
+msgid "pop_godiva_music_reselect_text_count_limit"
+msgstr "曜日イベント楽曲が\nプレイ可能回数の上限に達したため\n再度楽曲を選び直しました。 \n\n<color=#C8087E>※楽曲からランダムで選択が行われます。</color>"
+
+msgid "pop_godiva_bonusitem_title"
+msgstr "ライブボルテージ上昇"
+
+msgid "pop_godiv_bonusitem_ask_use_text"
+msgstr "ペンライトを1個使用して\nライブボルテージを{0}%上昇させます。\n<color=#C8087E>※本日の残り回数はあと{5}回です。</color>\n\n<color=#C8087E>ライブボルテージ　{1}→{2}\nペンライト　{3}→{4}</color>"
+
+msgid "pop_godiv_bonusitem_use_text"
+msgstr "ライブボルテージが{0}%上昇しました。"
+
+msgid "pop_godiva_bonusitem_none_text"
+msgstr "ペンライトを所持していない為、\nライブボルテージの上昇は行えません。"
+
+msgid "pop_godiva_bonusitem_limit_title"
+msgstr "使用制限"
+
+msgid "pop_godiva_bonusitem_limit_daily_cnt"
+msgstr "1日に使用できる最大数を超えているため\nこのアイテムは使用できません。"
+
+msgid "pop_godiva_bonusitem_limit_on_fever"
+msgstr "フィーバータイム発生中のため\nこのアイテムは使用できません。"
+
+msgid "pop_godiva_bonusitem_limit_on_bonus"
+msgstr "スペシャルライブ開催中のため\nこのアイテムは使用できません。"
+
+msgid "godiva_event_info_highscore"
+msgstr "ハイスコア"
+
+msgid "godiva_even_tinfo_rank"
+msgstr "順位"
+
+msgid "godiva_even_tinfo_total_point"
+msgstr "累計ポイント"
+
+msgid "godiva_even_tinfo_next_point"
+msgstr "次の報酬まで"
+
+msgid "godiva_even_tinfo_nest_reward"
+msgstr "次の報酬"
+
+msgid "godiva_even_tinfo_rank_unit"
+msgstr "位"
+
+msgid "godiva_even_tinfo_point_unit"
+msgstr "pt"
+
+msgid "godiva_even_tinfo_final_rank"
+msgstr "最終順位"
+
+msgid "godiva_even_tinfo_rank_collecting"
+msgstr "集計中"
+
+msgid "godiva_diva_select_not_have"
+msgstr "未参加"
+
+msgid "godiva_diva_select_explain"
+msgstr "歌姫を選択してください"
+
+msgid "godiva_music_info_bonus_remain_count"
+msgstr "あと{0}回"
+
+msgid "godiva_music_info_bonus_lots_rate"
+msgstr "{0}%"
+
+msgid "godiva_music_info_exp_bonus"
+msgstr "獲得エール{0:#.#}倍！"
+
+msgid "godiva_music_select_exp_bonus"
+msgstr "獲得エール{0:#.#}倍"
+
+msgid "godiva_result_bonus"
+msgstr "ライブボーナス{0}倍"
+
+msgid "popup_filter_godiva_music_exp_title_h2"
+msgstr "エール"
+
+msgid "popup_filter_godiva_music_exp_item_soul"
+msgstr "ソウル"
+
+msgid "popup_filter_godiva_music_exp_item_voice"
+msgstr "ボイス"
+
+msgid "popup_filter_godiva_music_exp_item_charm"
+msgstr "チャーム"
+
+msgid "popup_godiva_status_title"
+msgstr "ステータス補正値"
+
+msgid "popup_godiva_status_name_soul"
+msgstr "ソウルアピール"
+
+msgid "popup_godiva_status_name_voice"
+msgstr "ボイスアピール"
+
+msgid "popup_godiva_status_name_charm"
+msgstr "チャームアピール"
+
+msgid "popup_godiva_status_level"
+msgstr "{0}"
+
+msgid "popup_godiva_status_status"
+msgstr "{0}"
+
+msgid "popup_godiva_status_up_status"
+msgstr "(+{0})"
+
+msgid "popup_diva_select_title"
+msgstr "歌姫選択"
+
+msgid "popup_comeback_mission_count"
+msgstr "達成{0}/{1}個"
+
+msgid "event_godiva_reward_check_hi_score"
+msgstr "イベントハイスコア"
+
+msgid "event_godiva_reward_check_ranking"
+msgstr "歌姫スコアランキング"
+
+msgid "event_godiva_reward_check_ranking_unit"
+msgstr "位"
+
+msgid "diva_name_01"
+msgstr "フレイア・ヴィオン"
+
+msgid "diva_name_02"
+msgstr "美雲・ギンヌメール"
+
+msgid "diva_name_03"
+msgstr "カナメ・バッカニア"
+
+msgid "diva_name_04"
+msgstr "マキナ・中島"
+
+msgid "diva_name_05"
+msgstr "レイナ・プラウラー"
+
+msgid "diva_name_06"
+msgstr "ランカ・リー"
+
+msgid "diva_name_07"
+msgstr "シェリル・ノーム"
+
+msgid "diva_name_08"
+msgstr "ミレーヌ・ジーナス"
+
+msgid "diva_name_09"
+msgstr "熱気バサラ"
+
+msgid "diva_name_10"
+msgstr "リン・ミンメイ"
+
+msgid "home_diva_view_status_place_text"
+msgstr "位"
+
+msgid "home_diva_view_status_divalevel_text"
+msgstr "歌姫Lv"
+
+msgid "home_diva_view_status_intimacyl_text"
+msgstr "親密度Lv"
+
+msgid "home_diva_view_status_havecostume_text"
+msgstr "衣装所持数"
+
+msgid "home_diva_view_status_divaranking_text"
+msgstr "歌姫ランキング"
+
+msgid "home_diva_view_status_havecostume_now_text"
+msgstr "/"
+
+msgid "home_diva_view_status_totalstatus_text"
+msgstr "TOTAL"
+
+msgid "home_diva_view_status_intimacyl_exp_text"
+msgstr "/"
+
+msgid "home_diva_view_status_ranking_error_text"
+msgstr "-"
+
+msgid "home_diva_view_status_intimacyl_max_text"
+msgstr "---- / ----"
+
+msgid "home_diva_statuswindow_divastatus"
+msgstr "歌姫ステータス"
+
+msgid "home_diva_statuswindow_eventglow"
+msgstr "イベントステータス"
+
+msgid "home_diva_statuswindow_costumebonus"
+msgstr "きゃわわランク"
+
+msgid "home_diva_statuswindow_totlastatus"
+msgstr "TOTAL"
+
+msgid "home_diva_statuswindow_title"
+msgstr "TOTAL詳細"
+
+msgid "banner_godiva_fevertime"
+msgstr "FEVER発生中！"
+
+msgid "event_godiva_remain_time_prefix"
+msgstr "FEVER終了まであと"
+
+msgid "sel_music_godiva_exp_type_soul"
+msgstr "ソウル"
+
+msgid "sel_music_godiva_exp_type_voice"
+msgstr "ボイス"
+
+msgid "sel_music_godiva_exp_type_charm"
+msgstr "チャーム"
+
+msgid "sel_music_godiva_exp_type_all"
+msgstr "オール"
+
+msgid "popup_event_login_item02_title_msg"
+msgstr "<color=#C8087E>ペンライト　{0}個</color>"
+
+msgid "popup_event_login_item02_label00_msg"
+msgstr "ライブボルテージを一定時間上昇することができるアイテム。"
+
+msgid "popup_event_login_item02_label01_msg"
+msgstr "<color=#8e0529>現在開催中のイベント終了時に消失します。</color>"
+
+msgid "sel_event_01_period"
+msgstr "{0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
+
+msgid "popup_godiva_filter_title"
+msgstr "表示順変更"
+
+msgid "popup_vop_all_receive_vc_caution"
+msgstr "※歌晶石はプレゼントBOXに送られます。"
+
+msgid "popup_vop_all_receive_title"
+msgstr "オペレーション報酬受取"
+
+msgid "popup_vop_all_receive_item_over"
+msgstr "※所持上限を超えていたため、一部の報酬は受け取れませんでした。"
+
+msgid "popup_story_complete_stage"
+msgstr "【記憶の時空】で現在発見されている\nすべての記憶を解放しました。\n今後の新規楽曲は\n楽曲選択画面に追加されます。"
+
+msgid "popup_story_mission_guidance"
+msgstr "【記憶の時空】をすべて解放する\nを達成しました。\nミッションから報酬を受け取ることができます。"
+
+msgid "popup_gacha_lot_ticket_few_caution_04"
+msgstr "※{0}の入手方法はガチャ詳細をご確認ください。"
+
+msgid "use_item_description_05"
+msgstr "<color=#C8087E>1回の使用最大枚数は{0}枚です。</color>\nライブスキップチケットを消費してライブをスキップできます。\nスペシャルライブの残り回数以上のチケットは使えません。\nノーツは全てPERFECT、コンボ数は0として報酬、歌姫熟練度ポイントなどを取得できます。\n使用するチケットの枚数によって取得する量は変化します。"
+
+msgid "popup_godiva_bonus_remind_title"
+msgstr "楽曲選択"
+
+msgid "popup_godiva_bonus_remind_text"
+msgstr "スペシャルライブが開催中です。\nスペシャルライブの対象楽曲に切り替えますか？\n<color=#C8087E>※スペシャルライブ以外の楽曲をプレイしても、\nライブボルテージは上昇しません。</color>"
+
+msgid "home_footer_badge_text_02"
+msgstr "NEW！"
+
+msgid "home_footer_badge_text_03"
+msgstr "ガチャ更新！"
+
+msgid "home_footer_badge_text_04"
+msgstr "朝 無料！"
+
+msgid "home_footer_badge_text_05"
+msgstr "昼 無料！"
+
+msgid "home_footer_badge_text_06"
+msgstr "夜 無料！"
+
+msgid "home_footer_badge_text_07"
+msgstr "CHECK！"
+
+msgid "home_footer_badge_text_08"
+msgstr "新機能追加！"
+
+msgid "home_footer_badge_text_09"
+msgstr "受信メッセージあり"
+
+msgid "home_banner_period"
+msgstr "{0}/{1}/{2} {3}:{4:D2}まで"
+
+msgid "home_event_banner_period"
+msgstr "{0}/{1}/{2}:{3:D2}～{4}/{5}/{6}:{7:D2}"
+
+msgid "home_unlock_rank"
+msgstr "RANK{0}で解放"
+
+msgid "gakuya_gift_unlock_rank"
+msgstr "RANK{0}\nで解放"
+
+msgid "gakuya_status_diva_ranking_value"
+msgstr "{0}位"
+
+msgid "gakuya_intimacy_present_none"
+msgstr "ギフトを持っていないため\nギフトを贈ることができません。"
+
+msgid "gakuya_gift_stock_count"
+msgstr "所持数：{0}"
+
+msgid "pop_gakuya_present_ask_title"
+msgstr "{0}"
+
+msgid "pop_gakuya_present_ask"
+msgstr "{0}\n\nこのアイテムを使用しますか？"
+
+msgid "pop_gakuya_present_lv_max"
+msgstr "親密度レベルが最大のため\nギフトを贈ることができません。"
+
+msgid "pop_gakuya_present_limit_title"
+msgstr "使用上限"
+
+msgid "pop_gakuya_present_limit"
+msgstr "本日はこれ以上ギフトを贈ることができません。"
+
+msgid "popup_sp_transition_bingo_error_title"
+msgstr "ビンゴ未開放"
+
+msgid "popup_sp_bingo_debutmission_notclear_text"
+msgstr "デビューミッションをすべて達成後\n挑戦できます。\n"
+
+msgid "home_event_started"
+msgstr "イベント開催中！"
+
+msgid "home_event_counting"
+msgstr "イベント集計中！"
+
+msgid "home_event_reward_recieved"
+msgstr "エピローグ配信中！"
+
+msgid "home_story_release_diva"
+msgstr "{0}の記憶を\n解放しよう！"
+
+msgid "home_story_release_music"
+msgstr "新しい歌の記憶を\n解放しよう！"
+
+msgid "home_bg_limit_period"
+msgstr "{0}/{1}/{2} {3}:{4:D2}まで"
+
+msgid "home_banner_raid_lobby_open"
+msgstr "マクロスロビーオープン！"
+
+msgid "home_banner_raid_end"
+msgstr "イベント終了"
+
+msgid "home_pass_button_purchase"
+msgstr "　購入可能！"
+
+msgid "home_pass_button_rare_up_item"
+msgstr "まであと{0}回"
+
+msgid "popup_minigame001_pause_title"
+msgstr "一時停止中"
+
+msgid "popup_minigame001_pause_text"
+msgstr "SCORE {0:D8}"
+
+msgid "popup_minigame001_retire_title"
+msgstr "リタイア確認"
+
+msgid "popup_minigame001_retire_text"
+msgstr "リタイアすると報酬を獲得することができません。\n\nよろしいですか？"
+
+msgid "home_fes_remain_prefix"
+msgstr "開催まであと "
+
+msgid "gacha_ticket_ev_name"
+msgstr "所持イベントチケット"
+
+msgid "popup_filter_unspecified"
+msgstr "指定なし"
+
+msgid "popup_filter_difficulty_title_h2"
+msgstr "難易度"
+
+msgid "popup_filter_difficulty_easy"
+msgstr "EASY"
+
+msgid "popup_filter_difficulty_normal"
+msgstr "NORMAL"
+
+msgid "popup_filter_difficulty_hard"
+msgstr "HARD"
+
+msgid "popup_filter_difficulty_veryhard"
+msgstr "VERY HARD"
+
+msgid "popup_filter_difficulty_extreme"
+msgstr "EXTREME"
+
+msgid "popup_filter_difficulty_6line_hard"
+msgstr "HARD+"
+
+msgid "popup_filter_difficulty_6line_veryhard"
+msgstr "VERY HARD+"
+
+msgid "popup_filter_difficulty_6line_extreme"
+msgstr "EXTREME+"
+
+msgid "popup_filter_music_attribute_title_h2"
+msgstr "属性"
+
+msgid "popup_filter_music_attribute_001"
+msgstr "星"
+
+msgid "popup_filter_music_attribute_002"
+msgstr "愛"
+
+msgid "popup_filter_music_attribute_003"
+msgstr "命"
+
+msgid "popup_filter_music_attribute_004"
+msgstr "全"
+
+msgid "popup_filter_combo_title_h2"
+msgstr "コンボ"
+
+msgid "popup_filter_fullcombo"
+msgstr "フルコンボ\n未達成"
+
+msgid "popup_filter_prefect_fullcombo"
+msgstr "パーフェクトフルコンボ\n未達成"
+
+msgid "popup_filter_unit_title_h2"
+msgstr "ユニットライブ"
+
+msgid "popup_filter_reward_title_h2"
+msgstr "達成報酬"
+
+msgid "popup_filter_reward_score"
+msgstr "SCORE SS \n未達成"
+
+msgid "popup_filter_reward_combo"
+msgstr "COMBO SS \n未達成"
+
+msgid "popup_filter_reward_clear"
+msgstr "CLEAR 報酬 \n未達成"
+
+msgid "popup_filter_music_level_title_h2"
+msgstr "楽曲レベル"
+
+msgid "popup_filter_bonus_title_h2"
+msgstr "ボーナス"
+
+msgid "popup_filter_bonus_ok"
+msgstr "あり"
+
+msgid "popup_filter_bonus_not_ok"
+msgstr "なし"
+
+msgid "music_not_exist_filter_text"
+msgstr "現在のフィルター設定で該当する楽曲はありません。"
+
+msgid "pop_gacha_period_warning_title"
+msgstr "有効期限付きアイテム"
+
+msgid "pop_gacha_period_warning_text_1"
+msgstr "{0}で引けるガチャが<color=#C8087E>本日で終了</color>します。"
+
+msgid "pop_gacha_period_warning_text_2"
+msgstr "ガチャ開催期限：{0}/{1}/{2} {3}:{4:D2}まで"
+
+msgid "pop_gacha_period_warning_text_3"
+msgstr "※対象ガチャについては、ガチャ画面をご確認ください。"
+
+msgid "event_mission_setting_desc_006"
+msgstr "フィルター設定は無効となります。"
+
+msgid "unit_skip_story_title"
+msgstr "ライブスキップチケット"
+
+msgid "unit_skip_story_text"
+msgstr "記憶の時空で楽曲を選択している場合は、\nスキップ機能を利用できません。"
+
+msgid "popup_diva_change_text"
+msgstr "4人目、5人目に設定される歌姫のステータスは、\nユニットに反映されません。"
+
+msgid "unit_diva_limit_message"
+msgstr "人数制限の為\nこの楽曲に参加しません。"
+
+msgid "unit_head_prism_btton_on"
+msgstr "ON"
+
+msgid "unit_head_prism_btton_off"
+msgstr "OFF"
+
+msgid "unit_save_button_save"
+msgstr "保存"
+
+msgid "unit_save_button_overwrite"
+msgstr "上書き"
+
+msgid "unit_mv_mode_description"
+msgstr "ノーツ表示設定：【ON】ノーツが表示されます。【OFF】ノーツのみが非表示なります。　　バルキリーモード設定：【ON】バルキリーモード演出が表示されます。【OFF】バルキリーモード演出が非表示になります。　　超歌姫モード設定：【ON】超歌姫モード演出が表示されます。【OFF】超歌姫モード演出が非表示になります。"
+
+msgid "unit_prism_switch_button_on"
+msgstr "ON"
+
+msgid "unit_prism_switch_button_off"
+msgstr "OFF"
+
+msgid "unit_mv_mode_switch_button_on"
+msgstr "ON"
+
+msgid "unit_mv_mode_switch_button_off"
+msgstr "OFF"
+
+msgid "unit_unitset_description"
+msgstr "操作するユニットセットをリストから選択してください。"
+
+msgid "unit_unitset_page"
+msgstr "{0}/{1}"
+
+msgid "unit_unitset_dummy_name"
+msgstr "ユニット{0}"
+
+msgid "unit_status_skill_regulation_series_y"
+msgstr "シリーズ一致のため、このスキル効果は発動しません。"
+
+msgid "unit_status_skill_regulation_series_n"
+msgstr "シリーズ不一致のため、このスキル効果は発動しません。"
+
+msgid "unit_status_skill_regulation_attr"
+msgstr "対象の属性楽曲ではないので発動しません。"
+
+msgid "popup_sort_item_music_exp"
+msgstr "熟練度"
+
+msgid "unit_diva_status_titla_level"
+msgstr "歌姫Lv"
+
+msgid "unit_diva_status_titla_total"
+msgstr "TOTAL"
+
+msgid "unit_diva_status_titla_music_exp"
+msgstr "熟練度"
+
+msgid "popup_unit_disp_type_scene"
+msgstr "プレート"
+
+msgid "popup_unit_disp_type_diva"
+msgstr "歌姫"
+
+msgid "unit_playbutton_en"
+msgstr "消費EN"
+
+msgid "unit_playbutton_ap"
+msgstr "消費AP"
+
+msgid "popup_prism_unlock_text"
+msgstr "【解放条件】\n\nプレイヤーランクを{0}にする。"
+
+msgid "popup_unit_status_attr_reg"
+msgstr "以下の楽曲をプレイする時のみセンタースキルが発動します。"
+
+msgid "popup_set_prizm_title"
+msgstr "変更確認"
+
+msgid "popup_set_prizm_choice"
+msgstr "歌姫の配置設定を変更します。\n\n<color=#C8087E>※既に編成されている歌姫は、編成内容が上書きされます。</color>"
+
+msgid "popup_set_prizm_lackdiva_titile"
+msgstr "変更通知"
+
+msgid "popup_sort_item_diva_and_valkyrie_and_bg"
+msgstr "歌姫／バルキリー／背景"
+
+msgid "popup_filter_diva_val_title_h3"
+msgstr "歌姫／バルキリー／背景"
+
+msgid "unit_diva_status_leaf_attr"
+msgstr "属性一致+{0}%"
+
+msgid "unit_diva_status_leaf_series"
+msgstr "シリーズ一致+{0}%"
+
+msgid "unit_setpopup_text_08"
+msgstr "上書き前"
+
+msgid "unit_setpopup_text_09"
+msgstr "上書き後"
+
+msgid "popup_sort_musicselect_sortitem_title_h2"
+msgstr "表示順"
+
+msgid "popup_sort_item_default"
+msgstr "シリーズ"
+
+msgid "popup_sort_item_musiclevel"
+msgstr "楽曲レベル"
+
+msgid "popup_sort_item_highscore"
+msgstr "ハイスコア"
+
+msgid "popup_sort_item_utarate"
+msgstr "歌レート"
+
+msgid "popup_sort_item_clearnum"
+msgstr "クリア回数"
+
+msgid "popup_sort_item_notesnum"
+msgstr "ノーツ数"
+
+msgid "popup_sort_item_musiclength"
+msgstr "曲の長さ"
+
+msgid "popup_sort_item_smallorder"
+msgstr "昇順"
+
+msgid "popup_sort_item_bigorder"
+msgstr "降順"
+
+msgid "popup_sort_order_title_h2"
+msgstr "昇順/降順"
+
+msgid "popup_sort_filter_bookmark_h2"
+msgstr "お気に入り"
+
+msgid "popup_sort_filter_bookmark_00"
+msgstr "設定なし"
+
+msgid "popup_sort_filter_musiclock_h2"
+msgstr "楽曲解放状況"
+
+msgid "popup_sort_filter_musiclock"
+msgstr "未解放楽曲"
+
+msgid "popup_sort_filter_musicunlock"
+msgstr "解放済み楽曲"
+
+msgid "popup_sort_filter_range_h2"
+msgstr "楽曲時間"
+
+msgid "popup_sort_filter_range_long"
+msgstr "ロング"
+
+msgid "popup_sort_filter_range_short"
+msgstr "ショート"
+
+msgid "popup_music_bookmark_title"
+msgstr "お気に入り登録"
+
+msgid "popup_music_unlock_title"
+msgstr "解放条件"
+
+msgid "popup_music_unlock_text01"
+msgstr "以下の両方を満たすことで解放。"
+
+msgid "popup_music_unlock_text02"
+msgstr "・プレイヤーランクを{0}にする。"
+
+msgid "popup_music_unlock_text03"
+msgstr "・記憶の時空で現在発見されているすべての記憶を解放する。"
+
+msgid "popup_music_unlock_text04"
+msgstr "記憶の時空を進めて、\n楽曲「{0}」を解放する。"
+
+msgid "popup_music_unlock_text05"
+msgstr "プレイヤーランクを{0}にする。"
+
+msgid "popup_music_unlock_text06"
+msgstr "以下のいずれか1つを満たすことで解放。"
+
+msgid "popup_music_unlock_text07"
+msgstr "・ライブで下記楽曲{0}を\nスコアランク{1}以上でクリアする。\n「{2}」"
+
+msgid "popup_music_input_bookmarkname_title"
+msgstr "お気に入り名の編集"
+
+msgid "popup_music_input_bookmarkname_text_01"
+msgstr "お気に入り名を入力してください。\n（全角半角{0}文字まで）"
+
+msgid "popup_music_input_bookmarkname_deletecheck_title"
+msgstr "変更内容の取り消し"
+
+msgid "popup_music_input_bookmarkname_deletecheck_text_01"
+msgstr "お気に入りの登録先とお気に入り名で変更した\nすべての内容が保存されません。\nよろしいですか？"
+
+msgid "popup_sort_item_notes_expectation"
+msgstr "ノーツ期待値"
+
+msgid "music_not_exist_text_01"
+msgstr "現在のフィルター設定で\n該当する楽曲はありません。"
+
+msgid "music_not_exist_line6_text_01"
+msgstr "現在のシリーズで遊べる6レーン用の\n楽曲がありません。"
+
+msgid "vertical_music_select_event_remain_time"
+msgstr "あと : <color=#FF1576>{0}</color>"
+
+msgid "vertical_music_select_event_remain_count"
+msgstr "残り : <color=#FF1576>{0}回</color>"
+
+msgid "music_event_remain_prefix_01"
+msgstr "あと"
+
+msgid "vertical_music_select_event_period"
+msgstr "開催期間：{0}年{1}月{2}日{3}:{4:D2} ～ {5}年{6}月{7}日{8}:{9:D2}"
+
+msgid "vertical_music_select_music_time"
+msgstr "{0}:{1:D2}"
+
+msgid "music_not_exist_text_02"
+msgstr "このカテゴリで現在遊べる楽曲はありません。"
+
+msgid "pop_gakuya_present_caution"
+msgstr "<color=#FF1576>※親密度上限を超えた場合、数値は反映されません。</color>"
+
+msgid "pop_gakuya_present_num_prefix"
+msgstr "あと"
+
+msgid "pop_gakuya_present_num_title"
+msgstr "{0}回"
+
+msgid "popup_filter_have_title_h2"
+msgstr "所持状況"
+
+msgid "popup_filter_have_01"
+msgstr "所持"
+
+msgid "popup_filter_have_02"
+msgstr "未所持"
+
