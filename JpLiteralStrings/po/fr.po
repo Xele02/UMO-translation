@@ -3,27 +3,28 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-06-23 09:28+0000\n"
+"Last-Translator: Mitsu <meryamselmii@gmail.com>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
+"stringliterals/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "StringLiteral_367"
 msgstr ""
 
 msgid "StringLiteral_1374"
-msgstr ""
+msgstr "Année"
 
 msgid "StringLiteral_1376"
-msgstr ""
+msgstr "Mois"
 
 msgid "StringLiteral_1378"
-msgstr ""
+msgstr "Jour"
 
 msgid "StringLiteral_5812"
 msgstr ""
@@ -40,8 +41,9 @@ msgstr ""
 msgid "StringLiteral_8686"
 msgstr ""
 
+#, fuzzy
 msgid "StringLiteral_9360"
-msgstr ""
+msgstr "Lobby principal"
 
 msgid "StringLiteral_9362"
 msgstr ""
@@ -65,7 +67,7 @@ msgid "StringLiteral_9528"
 msgstr ""
 
 msgid "StringLiteral_9555"
-msgstr ""
+msgstr "Quête d'évènement"
 
 msgid "StringLiteral_9630"
 msgstr ""
@@ -73,8 +75,9 @@ msgstr ""
 msgid "StringLiteral_9714"
 msgstr ""
 
+#, fuzzy
 msgid "StringLiteral_9715"
-msgstr ""
+msgstr "Histoire"
 
 msgid "StringLiteral_9767"
 msgstr ""
@@ -107,10 +110,11 @@ msgid "StringLiteral_9788"
 msgstr ""
 
 msgid "StringLiteral_9793"
-msgstr ""
+msgstr "Énergie"
 
+#, fuzzy
 msgid "StringLiteral_9794"
-msgstr ""
+msgstr "Endurance"
 
 msgid "StringLiteral_9796"
 msgstr ""
@@ -121,11 +125,12 @@ msgstr ""
 msgid "StringLiteral_9798"
 msgstr ""
 
+#, fuzzy
 msgid "StringLiteral_9799"
-msgstr ""
+msgstr "Continue:"
 
 msgid "StringLiteral_9806"
-msgstr ""
+msgstr "Joueur"
 
 msgid "StringLiteral_9807"
 msgstr ""
