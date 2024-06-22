@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-22 12:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "anketo_0000_question"
+msgstr ""
+
+msgid "anketo_0000_0000_choice"
+msgstr ""
+
+msgid "anketo_0000_0001_choice"
+msgstr ""
+
+msgid "anketo_0000_0002_choice"
+msgstr ""
+
+msgid "anketo_0000_0003_choice"
+msgstr ""
+
+msgid "anketo_0001_question"
+msgstr ""
+
+msgid "anketo_0001_0000_choice"
+msgstr ""
+
+msgid "anketo_0001_0001_choice"
+msgstr ""
+
+msgid "anketo_0001_0002_choice"
+msgstr ""
+
+msgid "anketo_0001_0003_choice"
+msgstr ""
+
+msgid "anketo_0002_question"
+msgstr ""
+
+msgid "anketo_0002_0000_choice"
+msgstr ""
+
+msgid "anketo_0002_0001_choice"
+msgstr ""
+
+msgid "anketo_0002_0002_choice"
+msgstr ""
+
+msgid "anketo_0002_0003_choice"
+msgstr ""
+
+msgid "anketo_0002_0004_choice"
+msgstr ""
+
+msgid "anketo_0002_0005_choice"
+msgstr ""
