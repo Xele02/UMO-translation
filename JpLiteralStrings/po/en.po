@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-06-23 09:28+0000\n"
+"PO-Revision-Date: 2024-06-26 16:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "StringLiteral_367"
-msgstr ""
+msgstr " "
 
 msgid "StringLiteral_1374"
 msgstr "Year"
@@ -27,7 +27,7 @@ msgid "StringLiteral_1378"
 msgstr "Day"
 
 msgid "StringLiteral_5812"
-msgstr ""
+msgstr "\n"
 
 msgid "StringLiteral_8278"
 msgstr "Already initialized. If reinitializing, a Terminate call is required."
@@ -48,7 +48,7 @@ msgid "StringLiteral_9362"
 msgstr "Lobby Battle Log"
 
 msgid "StringLiteral_9364"
-msgstr ""
+msgstr "Lobby Achievements"
 
 msgid "StringLiteral_9366"
 msgstr "Deco Chat"
@@ -63,85 +63,85 @@ msgid "StringLiteral_9477"
 msgstr "Boss Name"
 
 msgid "StringLiteral_9528"
-msgstr ""
+msgstr "Player numbers beyond expectations"
 
 msgid "StringLiteral_9555"
-msgstr ""
+msgstr "event_quest"
 
 msgid "StringLiteral_9630"
-msgstr ""
+msgstr "You have a new message from id:."
 
 msgid "StringLiteral_9714"
-msgstr ""
+msgstr "Episode"
 
 msgid "StringLiteral_9715"
 msgstr ""
 
 msgid "StringLiteral_9767"
-msgstr ""
+msgstr "Super Dimension Unit"
 
 msgid "StringLiteral_9768"
-msgstr ""
+msgstr "Episode clear rewards"
 
 msgid "StringLiteral_9769"
-msgstr ""
+msgstr "Repeat Episode unlock rewards cleared!"
 
 msgid "StringLiteral_9771"
-msgstr ""
+msgstr "Daily Mission clear rewards"
 
 msgid "StringLiteral_9773"
-msgstr ""
+msgstr "SNS Mission clear rewards"
 
 msgid "StringLiteral_9774"
-msgstr ""
+msgstr "Debut Mission clear rewards"
 
 msgid "StringLiteral_9775"
-msgstr ""
+msgstr "Normal Mission clear rewards"
 
 msgid "StringLiteral_9777"
-msgstr ""
+msgstr "Event Mission clear rewards"
 
 msgid "StringLiteral_9787"
-msgstr ""
+msgstr "<color=yellow>Deletion of limited time Energy Items</color>"
 
 msgid "StringLiteral_9788"
-msgstr ""
+msgstr "<color=pink>No. of days logged in="
 
 msgid "StringLiteral_9793"
-msgstr ""
+msgstr "Energy"
 
 msgid "StringLiteral_9794"
-msgstr ""
+msgstr "Stamina"
 
 msgid "StringLiteral_9796"
-msgstr ""
+msgstr "Continue"
 
 msgid "StringLiteral_9797"
-msgstr ""
+msgstr "VOP Mission complete"
 
 msgid "StringLiteral_9798"
-msgstr ""
+msgstr "AP Recovery"
 
 msgid "StringLiteral_9799"
-msgstr ""
+msgstr "Continue:"
 
 msgid "StringLiteral_9806"
-msgstr ""
+msgstr "Player"
 
 msgid "StringLiteral_9807"
-msgstr ""
+msgstr "Hi there!"
 
 msgid "StringLiteral_9829"
-msgstr ""
+msgstr "Deco Room"
 
 msgid "StringLiteral_9874"
-msgstr ""
+msgstr "Not obtained"
 
 msgid "StringLiteral_9949"
-msgstr ""
+msgstr "1 ★{0} guaranteed"
 
 msgid "StringLiteral_9950"
-msgstr ""
+msgstr "1 ★{0}+ guaranteed"
 
 msgid "StringLiteral_10040"
 msgstr ""
