@@ -1,16 +1,116 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-08 17:42+0000\n"
-"PO-Revision-Date: 2024-07-08 17:42+0000\n"
+"PO-Revision-Date: 2024-07-09 18:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: Japanese <https://umo-translate.xele.org/projects/umo/assets/"
 "ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: ENCODING\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.6\n"
+
+msgid "contract_pack/contract_font_01"
+msgstr "利用規約"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_48"
+msgstr "同意しない"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_47"
+msgstr "同意する"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_09"
+msgstr "閉じる"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_01"
+msgstr "銀河に一大星間文明が築かれた遥か未来。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_02"
+msgstr "幾度となく繰り返された星間戦争により、"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_03"
+msgstr ""
+"ついに超先史人類プロトカルチャーの\n"
+"遺したシステム 「鳥の人」が覚醒した。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_04"
+msgstr ""
+"鳥の人は大宇宙を覆うすべての文明を\n"
+"破壊対象と定め、異なる時空で共鳴を始める。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_07"
+msgstr ""
+"記憶を破壊された人々は次々と消失してゆき、\n"
+"文明は静かに滅びを迎えようとしていた。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_09"
+msgstr ""
+"歌で人の心を動かす歌姫と\n"
+"それを守る人々だ。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_11"
+msgstr ""
+"互いに異なる時空に存在しつつも、\n"
+"鳥の人の力を媒介にした超時空ネットワークを形成。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_13"
+msgstr "銀河のステージに立つ歌姫たち、"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_01"
+msgstr ""
+"問題ないので\n"
+"このまま進める"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_01"
+msgstr "確認モード"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_29"
+msgstr "再調整"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_49"
+msgstr "確認モードへ"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_05"
+msgstr ""
+"無限に広がるその力は、時空を隔てた場所にある\n"
+"生命の記憶集積域 「記憶の時空」まで到達。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_06"
+msgstr "そこに刻まれた人々の記憶を破壊し始めた。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_08"
+msgstr "だが、その滅びに立ち向かう者たちがいた。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_10"
+msgstr ""
+"強力な生体フォールド波により\n"
+"記憶消失を免れた彼女たちは、"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_12"
+msgstr ""
+"歌の力で、 消えていこうとする世界を\n"
+"取り戻すことを誓う。"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_14"
+msgstr "歌で人々の記憶を取り戻す戦いが今、幕を上げる。"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_02"
+msgstr ""
+"ズレを感じるので\n"
+"調整する"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_title"
+msgstr "タイミング調整"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_02"
+msgstr "調整モード"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_03"
+msgstr "決定"
+
+msgid "cmn_tuto03/cmn_tuto03_window_font_01"
+msgstr "次へ"
