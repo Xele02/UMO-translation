@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-08 17:42+0000\n"
-"PO-Revision-Date: 2024-07-09 18:28+0000\n"
+"PO-Revision-Date: 2024-07-11 17:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: Japanese <https://umo-translate.xele.org/projects/umo/assets/"
 "ja/>\n"
@@ -114,3 +114,48 @@ msgstr "決定"
 
 msgid "cmn_tuto03/cmn_tuto03_window_font_01"
 msgstr "次へ"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_39"
+msgstr "スキップ"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_43"
+msgstr "再開"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_10"
+msgstr "キャンセル"
+
+msgid "gacha_main2/gacha_fnt_lot"
+msgstr "回引く"
+
+msgid "gacha_pop/gacha_pop_font_01"
+msgstr "所持歌晶石"
+
+msgid "gacha_main2/gacha_fnt_02"
+msgstr "出現詳細"
+
+msgid "gacha_pop/gacha_pop_btn_font_01"
+msgstr "特定商取引法に基づく表記"
+
+msgid "gatsha_drop/gatsha_drop_btn_font_03"
+msgstr "戻る"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_01"
+msgstr "プロフィール"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_02"
+msgstr "年齡:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_03"
+msgstr "艇生日"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_04"
+msgstr "出身地:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_05"
+msgstr "好きなもの:"
+
+msgid "pack_sel_chara/sel_chara_btn_fnt_01"
+msgstr "ボイス"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_06"
+msgstr "歌姫を選択してください"
