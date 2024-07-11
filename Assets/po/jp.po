@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-08 17:42+0000\n"
-"PO-Revision-Date: 2024-07-11 17:28+0000\n"
+"PO-Revision-Date: 2024-07-12 18:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: Japanese <https://umo-translate.xele.org/projects/umo/assets/"
 "ja/>\n"
@@ -159,3 +159,45 @@ msgstr "ボイス"
 
 msgid "pack_sel_chara/sel_chara_pop_fnt_06"
 msgstr "歌姫を選択してください"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_01"
+msgstr "選びなおす"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_02"
+msgstr "この歌姫にする"
+
+msgid "sel_quest_packtex/sel_que_challenge_fnt"
+msgstr "挑戦する"
+
+msgid "cmn_enquete_pack/cmn_enq_fnt_load_02"
+msgstr "ダウンロード完了"
+
+msgid "game_res_drop_02_pack/g_r_drop_txt_normal"
+msgstr "通常ドロップ"
+
+msgid "game_res_drop_pack/g_r_drop_getuc"
+msgstr "獲得ユニオンクレジット"
+
+msgid "sel_story_pack/sel_story_frm_fnt_01"
+msgstr "ライブで解放条件を達成しよう"
+
+msgid "game_res_drop_pack/g_r_drop_txt_rare"
+msgstr "レアドロップ"
+
+msgid "sel_story_pack/sel_story_frm_fnt_02"
+msgstr "楽曲をプレイしますか?"
+
+msgid "sel_story_pack/cmn_pop01_fnt_01_46"
+msgstr "ライブ"
+
+msgid "sel_quest_packtex/sel_que_get_fnt2"
+msgstr "プレゼントBOXに送られました"
+
+msgid "pop_item_pack/ab_uc_fnt_01"
+msgstr "必要"
+
+msgid "sel_quest_packtex/sel_que_get_fnt"
+msgstr "以下の報酬を受け取りました"
+
+msgid "pop_item_pack/ab_uc_fnt_02"
+msgstr "所持"
