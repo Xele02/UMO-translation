@@ -3,30 +3,41 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:00+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-13 17:28+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"tutominiadvdb_text/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "tuto_miniadv_0000_0000_msg"
 msgstr ""
+"Vérifions que le timing des notes\n"
+"est correct avant de sortir."
 
 msgid "tuto_miniadv_0000_0001_msg"
 msgstr ""
+"Tape sur le bouton en rythme avec \n"
+"les notes aiguës que tu entends."
 
 msgid "tuto_miniadv_0001_0000_msg"
 msgstr ""
+"Tout est ok.\n"
+"Allons-y !"
 
 msgid "tuto_miniadv_0002_0000_msg"
 msgstr ""
+"J'ai préparé un manuel.\n"
+"Regardons-le ensemble."
 
 msgid "tuto_miniadv_0002_0001_msg"
 msgstr ""
+"Comme attendu de Kaname !\n"
+"Tout ce qu'il y a à savoir est dans ce manuel !"
 
 msgid "tuto_miniadv_0003_0000_msg"
 msgstr ""
@@ -36,72 +47,106 @@ msgstr ""
 
 msgid "tuto_miniadv_0005_0000_msg"
 msgstr ""
+"Les 【plaques d'épisode】 peuvent être obtenues \n"
+"de différentes manières."
 
 msgid "tuto_miniadv_0005_0001_msg"
-msgstr ""
+msgstr "Cette fois, tu peux l'obtenir en tirant à la 【loterie】 !"
 
 msgid "tuto_miniadv_0005_0002_msg"
 msgstr ""
+"Les 【pierres de chant】nécessaires à la loterie sont également prêtes.\n"
+"J'ai hâte de voir quel genre de plaque tu obtiendras."
 
 msgid "tuto_miniadv_0006_0000_msg"
 msgstr ""
+"C'est...\n"
+"Le jour ou j'ai réussi l'audition ?"
 
 msgid "tuto_miniadv_0006_0001_msg"
 msgstr ""
+"Ce qui apparaît sur les 【Plaques d'épisode】serait \n"
+"des images de nos souvenirs."
 
 msgid "tuto_miniadv_0007_0000_msg"
 msgstr ""
+"Le pouvoir de la 【Plaque d'épisode】n'est \n"
+"utilisable que par la diva qui la porte.\n"
+"Je vais t'expliquer comment faire."
 
 msgid "tuto_miniadv_0008_0000_msg"
-msgstr ""
+msgstr "Commence par sélectionner 【organisation du groupe】."
 
 msgid "tuto_miniadv_0009_0000_msg"
 msgstr ""
+"Le 【groupe】est composé d'un ensemble \n"
+"de diva et de plaques d'épisode."
 
 msgid "tuto_miniadv_0009_0001_msg"
 msgstr ""
+"Maintenant, commençons et renforçons-le \n"
+"avec la plaque d'épisode que tu as."
 
 msgid "tuto_miniadv_0010_0000_msg"
 msgstr ""
+"La plaque d'épisode a rendu mon chant plus fort !\n"
+"Maintenant, on peut générer des ondes biologiques\n"
+"plus puissantes."
 
 msgid "tuto_miniadv_0011_0000_msg"
 msgstr ""
+"Ici, on peut communiquer à travers le temps et l'espace avec \n"
+"des gens de toute la galaxie, y compris nous, les Walküre."
 
 msgid "tuto_miniadv_0011_0001_msg"
-msgstr ""
+msgstr "Transcender le temps et l'espace ?"
 
 msgid "tuto_miniadv_0011_0002_msg"
-msgstr ""
+msgstr "C'est plus rapide de s'en rendre compte par soi-même."
 
 msgid "tuto_miniadv_0011_0003_msg"
 msgstr ""
+"Sélectionne d'abord une salle.\n"
+"Cette fois, sélectionne 【Salle de contact SNS】."
 
 msgid "tuto_miniadv_0012_0000_msg"
-msgstr ""
+msgstr "C'est bon ?"
 
 msgid "tuto_miniadv_0012_0001_msg"
-msgstr ""
+msgstr "Oui, c'est parfait."
 
 msgid "tuto_miniadv_0013_0000_msg"
 msgstr ""
+"Ah, Mikumo, Makina et Reina sont là !\n"
+"Les membres de Walküre sont au complet !"
 
 msgid "tuto_miniadv_0013_0001_msg"
 msgstr ""
+"J'ai demandé aux autres membres de s'inscrire en avance.\n"
+"Maintenant, discutons !"
 
 msgid "tuto_miniadv_0014_0000_msg"
 msgstr ""
+"La base de données contient les divas actuellement \n"
+"menacées par les hommes oiseaux."
 
 msgid "tuto_miniadv_0014_0001_msg"
 msgstr ""
+"Pour contrer la menace du peuple des \n"
+"hommes oiseaux, le pouvoir de chant des \n"
+"divas et ta coopération sont essentiels."
 
 msgid "tuto_miniadv_0014_0002_msg"
-msgstr ""
+msgstr "En premier, peux-tu choisir une diva avec laquelle combattre ?"
 
 msgid "tuto_miniadv_0014_0003_msg"
 msgstr ""
+"Cependant, Mylène et Basara ne sont pas encore \n"
+"en mesure de se battre ensemble, \n"
+"car leur espace-temps n'est pas stable."
 
 msgid "tuto_miniadv_0014_0004_msg"
-msgstr ""
+msgstr "Mais je crois que nous finirons par pouvoir nous battre ensemble."
 
 msgid "tuto_miniadv_0015_0000_msg"
 msgstr ""
@@ -123,66 +168,104 @@ msgstr ""
 
 msgid "tuto_miniadv_0017_0000_msg"
 msgstr ""
+"Tu peux aussi obtenir le costume de scène de Freyja.\n"
+"Sélectionne 【Défi】et relève le défi !"
 
 msgid "tuto_miniadv_0018_0000_msg"
 msgstr ""
+"Tu as accomplis toutes les missions !\n"
+"Félicitation !"
 
 msgid "tuto_miniadv_0018_0001_msg"
 msgstr ""
+"Il existe de nombreuses autres missions qui vous récompensent \n"
+"pour les avoir accomplies, alors n'hésitez pas à y jeter un coup d'œil."
 
 msgid "tuto_miniadv_0019_0000_msg"
 msgstr ""
+"Pour l'instant, je vais chanter comme d'habitude.\n"
+"Je vais faire de mon mieux !"
 
 msgid "tuto_miniadv_0020_0000_msg"
 msgstr ""
+"Alors ? Est ce qu'il y a un décalage entre le moment \n"
+"où tu tapes sur le bouton et celui où les notes\n"
+"se superposent au bouton ?"
 
 msgid "tuto_miniadv_0021_0000_msg"
-msgstr ""
+msgstr "Tu choisis <SelDiva> ?"
 
 msgid "tuto_miniadv_0022_0000_msg"
-msgstr ""
+msgstr "Tu peux voir les épisodes obtenus ici."
 
 msgid "tuto_miniadv_0022_0001_msg"
 msgstr ""
+"Maintenant, libérons l'épisode \n"
+"【覚悟のオーディション】."
 
 msgid "tuto_miniadv_0023_0000_msg"
 msgstr ""
+"Ceci sont les plaques d'épisode qui constitue \n"
+"l'épisode 【覚悟のオーディション】."
 
 msgid "tuto_miniadv_0023_0001_msg"
-msgstr ""
+msgstr "Choisissez l'une de ces plaques d'épisode."
 
 msgid "tuto_miniadv_0024_0000_msg"
 msgstr ""
+"Vous pouvez obtenir des points d'épisode \n"
+"en libérant des blocs d'épisode."
 
 msgid "tuto_miniadv_0024_0001_msg"
 msgstr ""
+"C'est le bloc de l'épisode qui représente les récompenses \n"
+"disponibles lorsque l'épisode est entièrement libéré."
 
 msgid "tuto_miniadv_0024_0002_msg"
 msgstr ""
+"Cette fois, essayez de libérer les cases où figure \n"
+"la tenue de Freyja."
 
 msgid "tuto_miniadv_0025_0000_msg"
 msgstr ""
+"À partir d'aujourd'hui, tu es l'un des nôtres !\n"
+"Avant de nous battre, peux-tu me parler de toi ?"
 
 msgid "tuto_miniadv_0025_0001_msg"
 msgstr ""
+"A quel point les aimes-tu?\n"
+"Peux-tu choisir l'un d'entre eux ?"
 
 msgid "tuto_miniadv_0026_0000_msg"
 msgstr ""
+"Quel est ton niveau en la matière ?\n"
+" Moi ! ...Eh bien, je vais faire de mon mieux !"
 
 msgid "tuto_miniadv_0027_0000_msg"
 msgstr ""
+"J'ai hâte de voir ce qui nous attend !\n"
+"Quelles sont tes attentes ?"
 
 msgid "tuto_miniadv_0028_0000_msg"
 msgstr ""
+"Merci de m'avoir tant appris !\n"
+"Désormais, je vais travailler dur avec toi !"
 
 msgid "tuto_miniadv_0029_0000_msg"
 msgstr ""
+"Merci pour ton travail.\n"
+"Le concert a été un grand succès !\n"
+"Alors, passons rapidement en revue le déroulement des concerts !"
 
 msgid "tuto_miniadv_0030_0000_msg"
 msgstr ""
+"Alors, essayons d'abord la \n"
+"première mission de débutant."
 
 msgid "tuto_miniadv_0030_0001_msg"
 msgstr ""
+"Les missions de débutants peuvent être tentées \n"
+"à partir de 【Missions】."
 
 msgid "tuto_miniadv_0031_0000_msg"
 msgstr ""
@@ -192,24 +275,37 @@ msgstr ""
 
 msgid "tuto_miniadv_0033_0000_msg"
 msgstr ""
+"Tu as terminé la première mission !\n"
+"Reçois tes récompenses via le bouton Mission."
 
 msgid "tuto_miniadv_0034_0000_msg"
 msgstr ""
+"Appuis sur le bouton Recevoir pour obtenir ta récompense !\n"
+"Si tu vois un badge mission accomplie, consulte les missions !"
 
 msgid "tuto_miniadv_0035_0000_msg"
 msgstr ""
+"Tu as terminé ta deuxième mission de débutant !\n"
+"Il est maintenant temps de récupérer tes récompenses !"
 
 msgid "tuto_miniadv_0036_0000_msg"
 msgstr ""
+"L'étape suivante consiste à débloquer les capacités de la \n"
+"plaque et à la rendre plus puissante !"
 
 msgid "tuto_miniadv_0037_0000_msg"
-msgstr ""
+msgstr "Ajoutes les nouvelles divas dans ton groupe !"
 
 msgid "tuto_miniadv_0038_0000_msg"
 msgstr ""
+"Ton groupe est plus forte avec les nouvelles divas !\n"
+"N'oublies pas d'organiser les nouvelles divas."
 
 msgid "tuto_miniadv_0039_0000_msg"
 msgstr ""
+"Avant de commencer le live, choisis d'abord \n"
+"un joueur pour t'assister.\n"
+"Cette fois, choisissons le meilleur joueur."
 
 msgid "tuto_miniadv_0040_0000_msg"
 msgstr ""
@@ -234,6 +330,9 @@ msgstr ""
 
 msgid "tuto_miniadv_0047_0000_msg"
 msgstr ""
+"Il y a maintenant une mission de bingo qui te permet \n"
+"d'obtenir une plaque d'épisode spéciale !\n"
+"Essayes-les."
 
 msgid "tuto_miniadv_0048_0000_msg"
 msgstr ""
