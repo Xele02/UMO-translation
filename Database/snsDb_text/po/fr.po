@@ -3,18 +3,19 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:44+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-14 13:08+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"snsdb_text/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "room_name_0001_txt"
-msgstr ""
+msgstr "Espace de contact SNS"
 
 msgid "room_name_0002_txt"
 msgstr ""
@@ -491,40 +492,40 @@ msgid "room_name_0159_txt"
 msgstr ""
 
 msgid "chara_name_0000_txt"
-msgstr ""
+msgstr "Freyja"
 
 msgid "chara_name_0001_txt"
-msgstr ""
+msgstr "Mikumo"
 
 msgid "chara_name_0002_txt"
-msgstr ""
+msgstr "Kaname"
 
 msgid "chara_name_0003_txt"
-msgstr ""
+msgstr "Makina"
 
 msgid "chara_name_0004_txt"
-msgstr ""
+msgstr "Reina"
 
 msgid "chara_name_0005_txt"
-msgstr ""
+msgstr "Ranka"
 
 msgid "chara_name_0006_txt"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "chara_name_0007_txt"
-msgstr ""
+msgstr "Mylène"
 
 msgid "chara_name_0008_txt"
-msgstr ""
+msgstr "Basara"
 
 msgid "chara_name_0009_txt"
-msgstr ""
+msgstr "Minmay"
 
 msgid "chara_name_0010_txt"
-msgstr ""
+msgstr "Hayate"
 
 msgid "chara_name_0011_txt"
-msgstr ""
+msgstr "Mirage"
 
 msgid "chara_name_0012_txt"
 msgstr ""
