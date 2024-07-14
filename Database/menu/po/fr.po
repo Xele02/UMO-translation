@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-14 13:08+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"menu/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "popup_title_00"
 msgstr ""
@@ -20,7 +21,7 @@ msgid "popup_title_01"
 msgstr ""
 
 msgid "popup_title_02"
-msgstr ""
+msgstr "Confirmation du changement"
 
 msgid "popup_title_03"
 msgstr ""
@@ -80,13 +81,13 @@ msgid "popup_text_08"
 msgstr ""
 
 msgid "popup_text_09"
-msgstr ""
+msgstr "Confirmation des articles consommés"
 
 msgid "popup_text_10"
 msgstr ""
 
 msgid "popup_text_11"
-msgstr ""
+msgstr "Confirmation du déblocage des capacités"
 
 msgid "popup_text_12"
 msgstr ""
@@ -112,8 +113,9 @@ msgstr ""
 msgid "popup_sort_title_unit"
 msgstr ""
 
+#, fuzzy
 msgid "popup_comparison_00"
-msgstr ""
+msgstr "Notes attendues"
 
 msgid "popup_music_select_00"
 msgstr ""
@@ -122,7 +124,7 @@ msgid "popup_music_select_01"
 msgstr ""
 
 msgid "popup_music_select_02"
-msgstr ""
+msgstr "Récompense de réussite"
 
 msgid "popup_music_select_03"
 msgstr ""
@@ -344,7 +346,7 @@ msgid "config_text_20"
 msgstr ""
 
 msgid "config_text_21"
-msgstr ""
+msgstr "Réglage du concert"
 
 msgid "config_text_22"
 msgstr ""
@@ -392,7 +394,7 @@ msgid "config_text_36"
 msgstr ""
 
 msgid "config_text_37_rhythm"
-msgstr ""
+msgstr "Niveau de difficulté actuel"
 
 msgid "config_text_37_option"
 msgstr ""
@@ -401,10 +403,10 @@ msgid "config_text_38"
 msgstr ""
 
 msgid "config_text_39"
-msgstr ""
+msgstr "Tu peux ajuster la vitesse des notes pendant le concert."
 
 msgid "config_text_40"
-msgstr ""
+msgstr "Réglage de la vitesse des notes"
 
 msgid "config_text_41"
 msgstr ""
@@ -467,22 +469,29 @@ msgid "config_text_60"
 msgstr ""
 
 msgid "config_text_61"
-msgstr ""
+msgstr "Confirmation"
 
 msgid "config_text_62"
 msgstr ""
+"Réinitialiser la vitesse des notes au réglage par défaut.\n"
+"Es-tu sûr ?\n"
+"<color=#C8087E>※ Tous les paramètres de difficulté seront modifiés. </color>"
 
 msgid "config_text_63"
-msgstr ""
+msgstr "Tous les niveaux de difficulté utilisent les mêmes paramètres."
 
 msgid "config_text_64"
 msgstr ""
+"Si cette case n'est pas cochée, la vitesse des notes est définie pour chaque "
+"niveau de difficulté."
 
 msgid "config_text_65"
-msgstr ""
+msgstr "Ne plus montrer la prochaine fois"
 
 msgid "config_text_66"
 msgstr ""
+"La vitesse des notes peut être modifiée à tout moment dans les paramètres du "
+"jeu."
 
 msgid "config_text_67"
 msgstr ""
@@ -605,7 +614,7 @@ msgid "growth_popup_title_text06"
 msgstr ""
 
 msgid "growth_popup_text01"
-msgstr ""
+msgstr "Possession : {0,4}"
 
 msgid "growth_popup_text02"
 msgstr ""
@@ -620,7 +629,7 @@ msgid "growth_popup_text05"
 msgstr ""
 
 msgid "growth_popup_text06"
-msgstr ""
+msgstr "Débloquer {0} compétences. Confirmer ?"
 
 msgid "growth_popup_text07"
 msgstr ""
@@ -629,7 +638,7 @@ msgid "growth_popup_text08"
 msgstr ""
 
 msgid "growth_popup_text09"
-msgstr ""
+msgstr "Manque d'objets et d'UC."
 
 msgid "growth_popup_text10"
 msgstr ""
@@ -665,37 +674,43 @@ msgid "growth_addreward_text"
 msgstr ""
 
 msgid "story_unlock_01"
-msgstr ""
+msgstr "<size=25>【condition de déblocage】</size>"
 
 msgid "story_unlock_02"
-msgstr ""
+msgstr "<size=20>Débloqué si les conditions suivantes sont remplies.</size>"
 
 msgid "story_unlock_03"
-msgstr ""
+msgstr "<size=20>Débloqué en remplissant l'une des conditions suivantes.</size>"
 
 msgid "story_unlock_04"
-msgstr ""
+msgstr "・au rang de joueur {0}"
 
 msgid "story_unlock_05"
 msgstr ""
+"・Jouer la chanson suivante lors d'un concert avec {0} ou plus \n"
+"{1}"
 
 msgid "story_unlock_06"
 msgstr ""
+"・Jouer la chanson suivante {0} \n"
+"avec un score de {1} ou plus lors d'un concet \n"
+"「{2}」"
 
 msgid "story_unlock_07"
-msgstr ""
+msgstr "・Réussir la section précédente"
 
 msgid "story_unlock_08"
-msgstr ""
+msgstr "Verrouillé"
 
 msgid "story_unlock_09"
-msgstr ""
+msgstr "Débloquer d'abord la zone précédente."
 
 msgid "story_unlock_10"
-msgstr ""
+msgstr "<size=20>Participer en remplissant les conditions suivantes.</size>"
 
 msgid "story_unlock_11"
 msgstr ""
+"<size=20>Participez en remplissant l'une des conditions suivantes.</size>"
 
 msgid "music_not_exist_text_00"
 msgstr ""
@@ -842,13 +857,13 @@ msgid "header_desc_home303"
 msgstr ""
 
 msgid "header_desc_setting000"
-msgstr ""
+msgstr "Prépares-toi pour le concert."
 
 msgid "header_desc_setting001"
 msgstr ""
 
 msgid "header_desc_setting002"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_setting003"
 msgstr ""
@@ -866,7 +881,7 @@ msgid "header_desc_setting007"
 msgstr ""
 
 msgid "header_desc_setting008"
-msgstr ""
+msgstr "Liste des plaques"
 
 msgid "header_desc_setting009"
 msgstr ""
@@ -893,13 +908,13 @@ msgid "header_desc_setting032"
 msgstr ""
 
 msgid "header_desc_story000"
-msgstr ""
+msgstr "Sélectionne une zone"
 
 msgid "header_desc_story001"
 msgstr ""
 
 msgid "header_desc_story002"
-msgstr ""
+msgstr "Organiser les groupes"
 
 msgid "header_desc_story003"
 msgstr ""
@@ -1034,7 +1049,7 @@ msgid "header_desc_gacha001"
 msgstr ""
 
 msgid "header_desc_quest000"
-msgstr ""
+msgstr "Liste des missions"
 
 msgid "header_desc_quest001"
 msgstr ""
@@ -1169,7 +1184,7 @@ msgid "popup_review_004"
 msgstr ""
 
 msgid "popup_reward_detail_001"
-msgstr ""
+msgstr "Réussi {0} fois ou plus"
 
 msgid "popup_reward_detail_002"
 msgstr ""
@@ -1193,7 +1208,7 @@ msgid "popup_app_exit"
 msgstr ""
 
 msgid "popup_quest_reward_title"
-msgstr ""
+msgstr "Mission réussie"
 
 msgid "quest_event_none_list"
 msgstr ""
@@ -1232,10 +1247,10 @@ msgid "popup_title_episode_02"
 msgstr ""
 
 msgid "popup_title_episode_03"
-msgstr ""
+msgstr "Déblocage d'épisode"
 
 msgid "popup_title_episode_04"
-msgstr ""
+msgstr "Récompense d'épisode"
 
 msgid "episode_item_select_01"
 msgstr ""
@@ -1397,13 +1412,13 @@ msgid "music_event_period_date"
 msgstr ""
 
 msgid "music_event_remain_prefix"
-msgstr ""
+msgstr "Après "
 
 msgid "music_event_remain_day"
 msgstr ""
 
 msgid "music_event_remain_hour"
-msgstr ""
+msgstr "{0} heures"
 
 msgid "music_event_remain_minute"
 msgstr ""
@@ -1613,13 +1628,13 @@ msgid "popup_record_plate_008"
 msgstr ""
 
 msgid "popup_record_plate_009"
-msgstr ""
+msgstr "Nouvelles plaques d'épisodes disponibles."
 
 msgid "popup_record_plate_010"
 msgstr ""
 
 msgid "popup_gacha_rate_title"
-msgstr ""
+msgstr "Liste d'apparition des plaques d'épisodes"
 
 msgid "popup_gacha_rate_limited_header"
 msgstr ""
@@ -1728,15 +1743,17 @@ msgstr ""
 
 msgid "popup_gacha_lot_paid_msg"
 msgstr ""
+"Veux-tu utiliser {0} pierres de chant \n"
+"pour obtenir {1} tirage ?"
 
 msgid "popup_gacha_lot_paid_few_msg"
 msgstr ""
 
 msgid "popup_gacha_lot_paid_count"
-msgstr ""
+msgstr "{0} pièce"
 
 msgid "popup_gacha_lot_free_msg"
-msgstr ""
+msgstr "Veux-tu faire {0} tirage gratuitement ?"
 
 msgid "popup_gacha_lot_ticket_msg"
 msgstr ""
@@ -1826,16 +1843,21 @@ msgid "popup_title_profil_15"
 msgstr ""
 
 msgid "popup_title_playernameentry"
-msgstr ""
+msgstr "Nom du joueur"
 
 msgid "popup_text_playernameentry_desc"
 msgstr ""
+"Saisir le nom du joueur.\n"
+"(jusqu'à {0} caractères)"
 
 msgid "popup_text_playernameentry_notes"
-msgstr ""
+msgstr "<color={0}>※Le nom du joueur peux être modifié ultérieurement.</color>"
 
 msgid "popup_text_playernameconfirm"
 msgstr ""
+"{0}\n"
+"est correct ?\n"
+"<color={1}>※Le nom du joueur peut être modifié ultérieurement.</color>"
 
 msgid "popup_text_notchangedplayername"
 msgstr ""
@@ -1844,10 +1866,14 @@ msgid "popup_text_notchangedcomment"
 msgstr ""
 
 msgid "popup_title_stamina_01"
-msgstr ""
+msgstr "Récupération d'énergie"
 
 msgid "popup_text_stamina_01"
 msgstr ""
+"Consommer {0} pierres de chant \n"
+"pour restaurer {1} énergie.\n"
+"\n"
+"<color=#C8087E>Pierre de chant  {2}→{3}</color>"
 
 msgid "popup_text_stamina_02"
 msgstr ""
@@ -1992,42 +2018,66 @@ msgstr ""
 
 msgid "result_playlog_hint_001"
 msgstr ""
+"Organise les plaques d'épisode avec des ondes élevées pour passer en mode "
+"Valkyrie !"
 
 msgid "result_playlog_hint_002"
 msgstr ""
+"Organise des plaques d'épisodes avec des valeurs de soutien élevées pour "
+"entrer en mode Diva et en mode Super Diva !"
 
 msgid "result_playlog_hint_003"
 msgstr ""
+"Il y a beaucoup de MISS et de BAD. Entraînes-toi à taper les notes en "
+"suivant le rythme !"
 
 msgid "result_playlog_hint_004"
 msgstr ""
+"Il semble qu'il y ait encore des plaques dont les capacités peuvent être "
+"débloqués. Débloque les capacités de la plaque pour améliorer son statut."
 
 msgid "result_playlog_hint_005"
 msgstr ""
+"Il semble que la valeur totale du groupe soit encore faible. Essaye "
+"d'organiser des plaques dont la valeur totale est élevée."
 
 msgid "result_playlog_hint_006"
 msgstr ""
+"Tu peux obtenir un combo sur un GREAT ou mieux. Les compétences "
+"d'atténuation du jugement et de continuité des combos sont utiles."
 
 msgid "result_playlog_hint_007"
-msgstr ""
+msgstr "Utilise des compétences actives !"
 
 msgid "result_playlog_hint_008"
 msgstr ""
+"Essaye de faire correspondre les diva avec les plaques. Tu peux t'attendre à "
+"ce que tes compétences de concert soient déclenchées pour continuer le combo "
+"et obtenir un score élevé."
 
 msgid "result_playlog_hint_009"
 msgstr ""
+"Augmente la jauge des ondes biologiques avant le mode Valkyrie. Tu peux "
+"l'augmenter avec une note GREAT ou meilleure."
 
 msgid "result_playlog_hint_010"
 msgstr ""
+"Si tu maintiens quatre combos ou plus en mode Valkyrie, tu peux endommager "
+"l'ennemi."
 
 msgid "result_playlog_hint_011"
 msgstr ""
+"Aligne les plaques d'épisode avec des valeurs de soutien élevées pour entrer "
+"dans le mode super diva !"
 
 msgid "result_playlog_hint_012"
-msgstr ""
+msgstr "Change tes compétences actives pour améliorer ton score."
 
 msgid "result_playlog_graph_detail"
 msgstr ""
+"Tape sur la partie du \n"
+"graphique que tu souhaites \n"
+"visualiser plus en détail."
 
 msgid "popup_valkyrie_select_title"
 msgstr ""
@@ -2124,21 +2174,29 @@ msgstr ""
 
 msgid "rhythm_adjust_desc"
 msgstr ""
+"Tape sur le bouton de rythme au moment de la note.\n"
+"Le timing est réglé automatiquement.\n"
+"Tu peux essayer le rythme en mode de confirmation."
 
 msgid "rhythm_adjust_balloon_text"
-msgstr ""
+msgstr "Tape sur les notes"
 
 msgid "rhythm_adjust_confirmmode_title"
-msgstr ""
+msgstr "Confirmation de l'ajustement"
 
 msgid "rhythm_adjust_confirmmode_text"
 msgstr ""
+"Régler la valeur sur {0}.\n"
+"Souhaites-tu entrer dans le mode de confirmation ?"
 
 msgid "popup_rhythm_adjust_result_title"
-msgstr ""
+msgstr "Résultats de l'ajustement"
 
 msgid "popup_rhythm_adjust_result_text"
 msgstr ""
+"La valeur de réglage {0}\n"
+"complète la synchronisation.\n"
+"Est-ce bon ?"
 
 msgid "popup_rhythm_adjust_start_title"
 msgstr ""
@@ -2150,7 +2208,7 @@ msgid "popup_rhythm_adjust_tutorial_title"
 msgstr ""
 
 msgid "popup_result_playlog_detail_title"
-msgstr ""
+msgstr "Détail du log"
 
 msgid "popup_denom_check_birthday_title"
 msgstr ""
@@ -2312,28 +2370,31 @@ msgid "tuto_gacha_desc"
 msgstr ""
 
 msgid "tuto_divaselect_popup_001"
-msgstr ""
+msgstr "【{0}】"
 
 msgid "tuto_divaselect_popup_002"
-msgstr ""
+msgstr "Veux-tu commencer le jeu avec cette diva ?"
 
 msgid "tuto_divaselect_popup_003"
 msgstr ""
+"<color=#C8087E>Au fur et à mesure que le jeu progresse, d'autres divas "
+"peuvent être sélectionnées. </color>"
 
 msgid "popup_help_select_title"
 msgstr ""
 
 msgid "story_diva_tilte_01"
-msgstr ""
+msgstr "「Si tu risques ta vie, tu peux voler !」"
 
+#, fuzzy
 msgid "story_diva_tilte_02"
-msgstr ""
+msgstr "「Quelles sont les pensées qui vous animent ?」"
 
 msgid "story_diva_tilte_03"
-msgstr ""
+msgstr "「Risque ta vie et amuse-toi !」"
 
 msgid "story_diva_tilte_04"
-msgstr ""
+msgstr "「Il fallait que je chante avec vous !」"
 
 msgid "story_diva_tilte_05"
 msgstr ""
@@ -2411,13 +2472,13 @@ msgid "popup_cbt_purchase"
 msgstr ""
 
 msgid "questionary_notification_000"
-msgstr ""
+msgstr "Sélectionne une réponse."
 
 msgid "questionary_notification_001"
-msgstr ""
+msgstr "Sélectionne jusqu'à {0} réponses."
 
 msgid "questionary_notification_002"
-msgstr ""
+msgstr "Le jeu ne change pas en fonction des choix effectués."
 
 msgid "popup_sns_desc_001"
 msgstr ""
@@ -3155,7 +3216,7 @@ msgid "ar_net_error_title"
 msgstr ""
 
 msgid "badge_label_quest_achieved"
-msgstr ""
+msgstr "{0} réussi！"
 
 msgid "badge_label_gacha_oneday"
 msgstr ""
@@ -4721,13 +4782,13 @@ msgid "unit_skip_ticket_lack_text"
 msgstr ""
 
 msgid "use_ticket_popup_title"
-msgstr ""
+msgstr "Passer le concert"
 
 msgid "use_ticket_popup_havecount"
-msgstr ""
+msgstr "Possession :"
 
 msgid "use_ticket_consume_format"
-msgstr ""
+msgstr "{0} :"
 
 msgid "use_ticket_consume_item_001"
 msgstr ""
@@ -4737,6 +4798,13 @@ msgstr ""
 
 msgid "use_item_description_01"
 msgstr ""
+"<color=#C8087E>Le nombre maximum de cartes utilisées en même temps est de "
+"{0}.</color>\n"
+"Vous pouvez passer un conert en consommant un billet de passage.\n"
+"Toutes les notes sont PARFAITES et le nombre de combos est de 0. Il est "
+"possible d'obtenir des récompenses, des points de compétence Diva, etc.\n"
+"Le montant que vous obtenez varie en fonction du nombre de billets que vous "
+"utilisez."
 
 msgid "use_item_description_02"
 msgstr ""
@@ -4761,6 +4829,8 @@ msgstr ""
 
 msgid "result_skip_caution"
 msgstr ""
+"※Les meilleurs scores et les classements de chansons ne sont pas mis à jour "
+"lorsque la fonction de passage est utilisée."
 
 msgid "result_assist_caution"
 msgstr ""
@@ -4781,22 +4851,30 @@ msgid "popup_rareup_item_convert_desc_02"
 msgstr ""
 
 msgid "popup_get_liveskip_ticket_title"
-msgstr ""
+msgstr "{0} acquis"
 
 msgid "popup_get_liveskip_ticket_desc"
 msgstr ""
+"※ {0} pièces sont distribuées quotidiennement.\n"
+"※ Le nombre dépassant la limite sera perdu."
 
 msgid "popup_get_liveskip_ticket_count"
-msgstr ""
+msgstr "Nombre possédé"
 
 msgid "popup_get_liveskip_ticket_checkbox"
-msgstr ""
+msgstr "Ne plus montrer la prochaine fois"
 
 msgid "popup_get_liveskip_ticket_confirm_title"
-msgstr ""
+msgstr "Confirmation"
 
 msgid "popup_get_liveskip_ticket_confirm_desc"
 msgstr ""
+"Cette annonce ne sera plus faite lors de la \n"
+"distribution quotidienne de {0}.\n"
+"\n"
+"Confirmer ?\n"
+"\n"
+"<color=#C8087E>※La distribution elle-même a lieu chaque jour.</color>"
 
 msgid "popup_kira_scene_release_desc_1"
 msgstr ""
@@ -4838,7 +4916,7 @@ msgid "utaraterank_over_login"
 msgstr ""
 
 msgid "utaraterank_none"
-msgstr ""
+msgstr "N/A"
 
 msgid "popup_episodebonus_max"
 msgstr ""
@@ -4901,13 +4979,13 @@ msgid "gacha_cost_02"
 msgstr ""
 
 msgid "gacha_cost_03"
-msgstr ""
+msgstr "Matin　{0} fois gratuit"
 
 msgid "gacha_cost_04"
-msgstr ""
+msgstr "Midi　{0} fois gratuit"
 
 msgid "gacha_cost_05"
-msgstr ""
+msgstr "Soir　{0} fois gratuit"
 
 msgid "config_text_98"
 msgstr ""
@@ -5073,6 +5151,8 @@ msgstr ""
 
 msgid "gacha_desc_05"
 msgstr ""
+"「Nous ne faisons ce genre de service que trois fois par jour !」\n"
+"　　　　　　　　　　　　　－Sheryl Norm－"
 
 msgid "popup_gacha_rbreak_rate_warning"
 msgstr ""
@@ -5714,7 +5794,7 @@ msgid "home_event_banner_period"
 msgstr ""
 
 msgid "home_unlock_rank"
-msgstr ""
+msgstr "Débloquer au rang {0}"
 
 msgid "gakuya_gift_unlock_rank"
 msgstr ""
@@ -5975,7 +6055,7 @@ msgid "unit_playbutton_en"
 msgstr ""
 
 msgid "unit_playbutton_ap"
-msgstr ""
+msgstr "Coût AP"
 
 msgid "popup_prism_unlock_text"
 msgstr ""
