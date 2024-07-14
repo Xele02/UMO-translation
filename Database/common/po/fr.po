@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:35+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-14 13:08+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"common/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "saka_error0000"
 msgstr ""
@@ -410,10 +411,15 @@ msgid "update_error0002"
 msgstr ""
 
 msgid "game_popup_pause_title"
-msgstr ""
+msgstr "Pause"
 
 msgid "game_popup_pause_text"
 msgstr ""
+"Titre de la chanson\n"
+"{0}\n"
+"\n"
+"Difficulté\n"
+"{1}"
 
 msgid "game_popup_continue_title"
 msgstr ""
@@ -446,16 +452,18 @@ msgid "game_popup_retire_story_text"
 msgstr ""
 
 msgid "game_popup_skip_title"
-msgstr ""
+msgstr "Confirmer le passage"
 
 msgid "game_popup_skip_story_text"
-msgstr ""
+msgstr "Passer la chanson ?"
 
 msgid "game_tutorial_skip_title"
-msgstr ""
+msgstr "Confirmation de passage"
 
 msgid "game_tutorial_skip_text"
 msgstr ""
+"Veux-tu passer le concert et \n"
+"aller à la suite ?"
 
 msgid "mlv_unlock_00"
 msgstr ""
@@ -464,19 +472,23 @@ msgid "mlv_unlock_01"
 msgstr ""
 
 msgid "popup_inh_title_000"
-msgstr ""
+msgstr "Paramètres réseaux sociaux"
 
 msgid "popup_inh_sns_000"
 msgstr ""
+"Les données de jeu peuvent être sauvegardées \n"
+"en les reliant à différents comptes."
 
 msgid "popup_inh_sns_001"
 msgstr ""
+"※Si elles ne sont pas liées à un réseau, les données seront perdues si "
+"l'application est supprimée."
 
 msgid "popup_inh_sns_002"
-msgstr ""
+msgstr "Ne plus montrer la prochaine fois"
 
 msgid "popup_inh_sns_003"
-msgstr ""
+msgstr "Réapparaîtra après 30 jours."
 
 msgid "popup_inh_title_001"
 msgstr ""
@@ -665,73 +677,73 @@ msgid "popup_text_amount_over_1617"
 msgstr ""
 
 msgid "profile_diva001_age"
-msgstr ""
+msgstr "14 ans"
 
 msgid "profile_diva001_birthday"
-msgstr ""
+msgstr "03/11"
 
 msgid "profile_diva001_birthplace"
-msgstr ""
+msgstr "Planète Windermere"
 
 msgid "profile_diva001_favorite"
-msgstr ""
+msgstr "Le chant, les pommes"
 
 msgid "profile_diva001_description"
 msgstr ""
 
 msgid "profile_diva002_age"
-msgstr ""
+msgstr "? ans"
 
 msgid "profile_diva002_birthday"
-msgstr ""
+msgstr "17/08"
 
 msgid "profile_diva002_birthplace"
-msgstr ""
+msgstr "Inconnue"
 
 msgid "profile_diva002_favorite"
-msgstr ""
+msgstr "Faire que les chansons résonnent dans la galaxie"
 
 msgid "profile_diva002_description"
 msgstr ""
 
 msgid "profile_diva003_age"
-msgstr ""
+msgstr "22 ans"
 
 msgid "profile_diva003_birthday"
-msgstr ""
+msgstr "08/06"
 
 msgid "profile_diva003_birthplace"
-msgstr ""
+msgstr "Planet Divide"
 
 msgid "profile_diva003_favorite"
-msgstr ""
+msgstr "Produits de la mer"
 
 msgid "profile_diva003_description"
 msgstr ""
 
 msgid "profile_diva004_age"
-msgstr ""
+msgstr "18 ans"
 
 msgid "profile_diva004_birthday"
-msgstr ""
+msgstr "19/04"
 
 msgid "profile_diva004_birthplace"
-msgstr ""
+msgstr "Inconnue"
 
 msgid "profile_diva004_favorite"
-msgstr ""
+msgstr "Mécanique, objets fantaisistes"
 
 msgid "profile_diva004_description"
 msgstr ""
 
 msgid "profile_diva005_age"
-msgstr ""
+msgstr "15 ans"
 
 msgid "profile_diva005_birthday"
-msgstr ""
+msgstr "23/07"
 
 msgid "profile_diva005_birthplace"
-msgstr ""
+msgstr "Inconnue"
 
 msgid "profile_diva005_favorite"
 msgstr ""
@@ -740,31 +752,31 @@ msgid "profile_diva005_description"
 msgstr ""
 
 msgid "profile_diva006_age"
-msgstr ""
+msgstr "15 ans"
 
 msgid "profile_diva006_birthday"
-msgstr ""
+msgstr "29/04"
 
 msgid "profile_diva006_birthplace"
-msgstr ""
+msgstr "117ème flotte de recherche"
 
 msgid "profile_diva006_favorite"
-msgstr ""
+msgstr "Chanter, cuisiner, écouter de la musique"
 
 msgid "profile_diva006_description"
 msgstr ""
 
 msgid "profile_diva007_age"
-msgstr ""
+msgstr "Au moins 17 ans"
 
 msgid "profile_diva007_birthday"
-msgstr ""
+msgstr "23/11"
 
 msgid "profile_diva007_birthplace"
-msgstr ""
+msgstr "Flotte Macross Galaxy"
 
 msgid "profile_diva007_favorite"
-msgstr ""
+msgstr "Yoga, fréquente la salle de sport"
 
 msgid "profile_diva007_description"
 msgstr ""
@@ -800,16 +812,16 @@ msgid "profile_diva009_description"
 msgstr ""
 
 msgid "profile_diva010_age"
-msgstr ""
+msgstr "15 ans"
 
 msgid "profile_diva010_birthday"
-msgstr ""
+msgstr "10/10"
 
 msgid "profile_diva010_birthplace"
-msgstr ""
+msgstr "Terre"
 
 msgid "profile_diva010_favorite"
-msgstr ""
+msgstr "Thé, Ramen"
 
 msgid "profile_diva010_description"
 msgstr ""
@@ -881,13 +893,15 @@ msgid "popup_ngword_error_message"
 msgstr ""
 
 msgid "popup_kiyaku_title"
-msgstr ""
+msgstr "Vérifier les conditions générales"
 
 msgid "popup_kiyaku_001"
-msgstr ""
+msgstr "Acceptez-vous les conditions d'utilisation ?"
 
 msgid "popup_kiyaku_002"
 msgstr ""
+"Pour utiliser Uta Macross Smartphone De Culture,\n"
+"vous devez accepter les conditions d'utilisation."
 
 msgid "popup_not_play_title"
 msgstr ""
