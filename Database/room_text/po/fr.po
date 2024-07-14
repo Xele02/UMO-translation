@@ -3,66 +3,87 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:41+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-14 13:08+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"room_text/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "message_0001_txt"
 msgstr ""
 
 msgid "message_0002_txt"
-msgstr ""
+msgstr "Ah, Freyfrey est arrivée ! (^^) !"
 
 msgid "message_0003_txt"
-msgstr ""
+msgstr "Tu es en retard"
 
 msgid "message_0004_txt"
-msgstr ""
+msgstr "Maintenant, on est tous là"
 
 msgid "message_0005_txt"
 msgstr ""
+"Ouah ! On peux parler à toutes \n"
+"les Walküre ici !"
 
 msgid "message_0006_txt"
 msgstr ""
+"Il n'y a pas que les membres \n"
+"de Walküre"
 
 msgid "message_0007_txt"
-msgstr ""
+msgstr "Bonjour, Freyja"
 
 msgid "message_0008_txt"
 msgstr ""
+"Mi, Minmay !?\n"
+"C'est réel !?"
 
 msgid "message_0009_txt"
 msgstr ""
+"Je suis là aussi !\n"
+"Travaillons ensemble !"
 
 msgid "message_0010_txt"
 msgstr ""
+"Je suis là,\n"
+"Il n'y a pas à s'inquiéter"
 
 msgid "message_0011_txt"
 msgstr ""
+"Hein !?\n"
+"Ranka et Sheryl !?"
 
 msgid "message_0012_txt"
 msgstr ""
+"Il faut chanter de toute façon ?\n"
+"Alors laissez-moi faire !"
 
 msgid "message_0013_txt"
 msgstr ""
+"C'est dans ces moments-là, \n"
+"c'est aux Fire Bomber de jouer"
 
 msgid "message_0014_txt"
 msgstr ""
+"Basara et Mylène !\n"
+"C'est assez incroyable, je n'arrive pas à suivre !"
 
 msgid "message_0015_txt"
-msgstr ""
+msgstr "La réponse de Freyja, satisfaisante"
 
 msgid "message_0016_txt"
 msgstr ""
+"C'est toujours un peu étrange de voir \n"
+"toutes les divas du passé"
 
 msgid "message_0017_txt"
-msgstr ""
+msgstr "Ça va être amusant"
 
 msgid "message_0018_txt"
 msgstr ""
