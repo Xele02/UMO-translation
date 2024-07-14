@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-14 13:08+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "e_nm_0001"
 msgstr ""
@@ -599,7 +600,7 @@ msgid "c_dsc_0020"
 msgstr ""
 
 msgid "c_dsc_0021"
-msgstr ""
+msgstr "Valeur totale du groupe augmente de [v1]%"
 
 msgid "c_dsc_0022"
 msgstr ""
@@ -2840,7 +2841,7 @@ msgid "cs_dsc_0009"
 msgstr ""
 
 msgid "cs_dsc_0010"
-msgstr ""
+msgstr "Augmente toutes les stats de {0]%"
 
 msgid "cs_dsc_0011"
 msgstr ""
@@ -3458,34 +3459,34 @@ msgid "gn_dsc_0027"
 msgstr ""
 
 msgid "diva_01"
-msgstr ""
+msgstr "Freyja Wion"
 
 msgid "diva_02"
-msgstr ""
+msgstr "Mikumo Guynemer"
 
 msgid "diva_03"
-msgstr ""
+msgstr "Kaname Buccaneer"
 
 msgid "diva_04"
-msgstr ""
+msgstr "Makina Nakajima"
 
 msgid "diva_05"
-msgstr ""
+msgstr "Reina Prowler"
 
 msgid "diva_06"
-msgstr ""
+msgstr "Ranka Lee"
 
 msgid "diva_07"
-msgstr ""
+msgstr "Sheryl Norm"
 
 msgid "diva_08"
-msgstr ""
+msgstr "Mylène Jenius"
 
 msgid "diva_09"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "diva_10"
-msgstr ""
+msgstr "Lynn Minmay"
 
 msgid "diva_s_01"
 msgstr ""
@@ -7925,7 +7926,7 @@ msgid "vn_0066"
 msgstr ""
 
 msgid "v_pn_0001"
-msgstr ""
+msgstr "Siegfried"
 
 msgid "v_pn_0002"
 msgstr ""
@@ -13056,42 +13057,58 @@ msgstr ""
 
 msgid "qn_dsc_0001"
 msgstr ""
+"Terminez une chanson dans 【Concert】 !\n"
+"Plaque en récompense : ★3 「特別な計らい」"
 
 msgid "qn_dsc_0002"
 msgstr ""
+"Compléter【記憶の時空】pour \n"
+"débloquer de nouvelles chansons"
 
 msgid "qn_dsc_0003"
 msgstr ""
+"Obtiens un rang de 3 et ajoutes une diva à ton groupe !\n"
+"Plaque en récompense : ★3 「アラド隊長の誘い」"
 
 msgid "qn_dsc_0004"
-msgstr ""
+msgstr "Organise les nouvelles divas dans ton groupe"
 
 msgid "qn_dsc_0005"
 msgstr ""
+"Renforce tes plaques d'épisode \n"
+"en débloquant leurs capacités"
 
 msgid "qn_dsc_0006"
 msgstr ""
+"Jetes un coup d'œil au réseau social \n"
+"super-espace-temps"
 
 msgid "qn_dsc_0007"
-msgstr ""
+msgstr "Récupère des cadeaux dans la boîte à cadeaux"
 
 msgid "qn_dsc_0008"
-msgstr ""
+msgstr "Faites un tirage à la loterie"
 
 msgid "qn_dsc_0009"
-msgstr ""
+msgstr "Ajoute des plaques d'épisode à tes divas"
 
 msgid "qn_dsc_0010"
 msgstr ""
+"Termine une partie en utilisant ta compétence active\n"
+"Plaque en récompense : ★5「Welcome to Walküre World」"
 
 msgid "qn_dsc_0011"
 msgstr ""
+"Débloque complètement l'épisode 【覚悟のオーディション】\n"
+"et récupère un costume"
 
 msgid "qn_dsc_0012"
 msgstr ""
+"Termine un 【concert】 avec Freyja au centre \n"
+"équipée de la tenue 【シュトラール】"
 
 msgid "qn_dsc_0013"
-msgstr ""
+msgstr "Termine toutes les missions de débutant"
 
 msgid "qn_dsc_0014"
 msgstr ""
@@ -20135,7 +20152,7 @@ msgid "plt_nm_0039"
 msgstr ""
 
 msgid "vc_0001"
-msgstr ""
+msgstr "Pierre de chant"
 
 msgid "vc_0002"
 msgstr ""
@@ -20762,7 +20779,7 @@ msgid "cmp_nm_0001"
 msgstr ""
 
 msgid "cmp_nm_0002"
-msgstr ""
+msgstr "Set de pierres (moyen)"
 
 msgid "cmp_nm_0003"
 msgstr ""
@@ -29735,7 +29752,7 @@ msgid "dc_set_dsc_0052"
 msgstr ""
 
 msgid "sk_nm_0001"
-msgstr ""
+msgstr "Ticket pour passer les concerts"
 
 msgid "sk_nm_0002"
 msgstr ""
