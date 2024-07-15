@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-07-15 13:28+0000\n"
+"PO-Revision-Date: 2024-07-15 17:48+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "common/en/>\n"
@@ -455,7 +455,7 @@ msgid "game_popup_skip_title"
 msgstr "Confirm Skip"
 
 msgid "game_popup_skip_story_text"
-msgstr "Really skip?"
+msgstr "Skip scene?"
 
 msgid "game_tutorial_skip_title"
 msgstr "Confirm Skip"
@@ -705,7 +705,7 @@ msgid "profile_diva002_birthplace"
 msgstr "Unknown"
 
 msgid "profile_diva002_favorite"
-msgstr "Making the whole galaxy ring with her songs"
+msgstr "Making the whole galaxy reverberate with her songs"
 
 msgid "profile_diva002_description"
 msgstr ""
@@ -738,58 +738,72 @@ msgid "profile_diva004_birthday"
 msgstr "Apr. 19"
 
 msgid "profile_diva004_birthplace"
-msgstr ""
+msgstr "Unknown"
 
 msgid "profile_diva004_favorite"
-msgstr ""
+msgstr "Machines, fancy things"
 
 msgid "profile_diva004_description"
 msgstr ""
+"A member of tactical sound unit, Walküre, she is also a top class mechanic, "
+"just as the rest of her family has been for generations. Often nicknames her "
+"colleagues and machines. Reina is her best friend, being as close as sisters."
 
 msgid "profile_diva005_age"
-msgstr ""
+msgstr "15"
 
 msgid "profile_diva005_birthday"
-msgstr ""
+msgstr "Jul. 23"
 
 msgid "profile_diva005_birthplace"
-msgstr ""
+msgstr "Unknown"
 
 msgid "profile_diva005_favorite"
-msgstr ""
+msgstr "Weird things, minor things"
 
 msgid "profile_diva005_description"
 msgstr ""
+"A member of tactical sound unit, Walküre. Although she doesn't show her "
+"emotions often, she always has a pithy barb ready. A genius hacker, she also "
+"dabbles in electronic engineering. Lives together with her very close "
+"friend, Makina."
 
 msgid "profile_diva006_age"
-msgstr ""
+msgstr "15"
 
 msgid "profile_diva006_birthday"
-msgstr ""
+msgstr "Apr. 29"
 
 msgid "profile_diva006_birthplace"
-msgstr ""
+msgstr "117th Research Fleet"
 
 msgid "profile_diva006_favorite"
-msgstr ""
+msgstr "Singing, cooking, listening to music"
 
 msgid "profile_diva006_description"
 msgstr ""
+"She debuted as an idol singer on a whim, but very quickly rose to super "
+"stardom, being dubbed the \"Super Dimension Cinderella.\" A kind soul who "
+"always works hard. A big Sheryl Nome fan, she has loved singing since she "
+"was small."
 
 msgid "profile_diva007_age"
-msgstr ""
+msgstr "Officially 17"
 
 msgid "profile_diva007_birthday"
-msgstr ""
+msgstr "Nov. 23"
 
 msgid "profile_diva007_birthplace"
-msgstr ""
+msgstr "Macross Galaxy Fleet"
 
 msgid "profile_diva007_favorite"
-msgstr ""
+msgstr "Yoga, going to the gym"
 
 msgid "profile_diva007_description"
 msgstr ""
+"The galaxy's top artist, people say you never go a day without hearing a "
+"Sheryl Nome song somewhere. Dubbed the \"Galactic Fairy,\" she takes pride "
+"in being a professional, and continually works to stay at the top."
 
 msgid "profile_diva008_age"
 msgstr ""
@@ -822,19 +836,23 @@ msgid "profile_diva009_description"
 msgstr ""
 
 msgid "profile_diva010_age"
-msgstr ""
+msgstr "15"
 
 msgid "profile_diva010_birthday"
-msgstr ""
+msgstr "Oct. 10"
 
 msgid "profile_diva010_birthplace"
-msgstr ""
+msgstr "Earth"
 
 msgid "profile_diva010_favorite"
-msgstr ""
+msgstr "Tea, Nyan Nyan ramen"
 
 msgid "profile_diva010_description"
 msgstr ""
+"The legendary idol singer who will be talked about for generations to come. "
+"Cheerful and carefree, she can be a little selfish at times. Her charm and "
+"songs affected even the alien Zentraedi, causing them to reclaim their "
+"culture when they were at war with humanity."
 
 msgid "popup_title_neterror"
 msgstr ""
@@ -903,19 +921,23 @@ msgid "popup_ngword_error_message"
 msgstr ""
 
 msgid "popup_kiyaku_title"
-msgstr ""
+msgstr "User Agreement Confirmation"
 
 msgid "popup_kiyaku_001"
-msgstr ""
+msgstr "Do you consent to abide by the Terms of Use?"
 
 msgid "popup_kiyaku_002"
 msgstr ""
+"In order to play Uta Macross SmaPho Deculture\n"
+"you must consent to follow the Terms of Use."
 
 msgid "popup_not_play_title"
 msgstr ""
 
 msgid "popup_not_play_001"
 msgstr ""
+"In order to play Uta Macross SmaPho Deculture\n"
+"you must consent to follow the Terms of Use."
 
 msgid "attention"
 msgstr ""
