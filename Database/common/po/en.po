@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-15 13:28+0000\n"
+"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
+"common/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "saka_error0000"
 msgstr ""
@@ -410,10 +411,15 @@ msgid "update_error0002"
 msgstr ""
 
 msgid "game_popup_pause_title"
-msgstr ""
+msgstr "Paused"
 
 msgid "game_popup_pause_text"
 msgstr ""
+"Track title\n"
+"{0}\n"
+"\n"
+"Difficulty\n"
+"{1}"
 
 msgid "game_popup_continue_title"
 msgstr ""
@@ -446,16 +452,18 @@ msgid "game_popup_retire_story_text"
 msgstr ""
 
 msgid "game_popup_skip_title"
-msgstr ""
+msgstr "Confirm Skip"
 
 msgid "game_popup_skip_story_text"
-msgstr ""
+msgstr "Really skip?"
 
 msgid "game_tutorial_skip_title"
-msgstr ""
+msgstr "Confirm Skip"
 
 msgid "game_tutorial_skip_text"
 msgstr ""
+"Skip performance\n"
+"and continue?"
 
 msgid "mlv_unlock_00"
 msgstr ""
@@ -464,19 +472,23 @@ msgid "mlv_unlock_01"
 msgstr ""
 
 msgid "popup_inh_title_000"
-msgstr ""
+msgstr "Social Account Sign In Settings"
 
 msgid "popup_inh_sns_000"
 msgstr ""
+"You can link your game to social media \n"
+"accounts to save your game progress."
 
 msgid "popup_inh_sns_001"
 msgstr ""
+"- If you delete this app without linking to a social media account, you will "
+"lose your save data."
 
 msgid "popup_inh_sns_002"
-msgstr ""
+msgstr "Don't show again"
 
 msgid "popup_inh_sns_003"
-msgstr ""
+msgstr "This message will be displayed again in 30 days."
 
 msgid "popup_inh_title_001"
 msgstr ""
@@ -665,55 +677,65 @@ msgid "popup_text_amount_over_1617"
 msgstr ""
 
 msgid "profile_diva001_age"
-msgstr ""
+msgstr "14"
 
 msgid "profile_diva001_birthday"
-msgstr ""
+msgstr "Nov. 3"
 
 msgid "profile_diva001_birthplace"
-msgstr ""
+msgstr "Planet Windermere"
 
 msgid "profile_diva001_favorite"
-msgstr ""
+msgstr "Singing, apples"
 
 msgid "profile_diva001_description"
 msgstr ""
+"A fan of Walküre, the tactical sound unit, she ran away from her village to "
+"audition for them. Freyja is naive and not good at dancing, but loves to "
+"sing. Her \"rune\" lights up when she feels strong emotions. She has a "
+"unique way of speaking, often using the word \"gori gori.\""
 
 msgid "profile_diva002_age"
-msgstr ""
+msgstr "?"
 
 msgid "profile_diva002_birthday"
-msgstr ""
+msgstr "Aug. 17"
 
 msgid "profile_diva002_birthplace"
-msgstr ""
+msgstr "Unknown"
 
 msgid "profile_diva002_favorite"
-msgstr ""
+msgstr "Making the whole galaxy ring with her songs"
 
 msgid "profile_diva002_description"
 msgstr ""
+"Ace vocalist of the tactical sound unit, Walküre. Her past unknown, she is "
+"an enigma shrouded in mystery. She has strong views on songs, and will never "
+"stop singing no matter the danger."
 
 msgid "profile_diva003_age"
-msgstr ""
+msgstr "22"
 
 msgid "profile_diva003_birthday"
-msgstr ""
+msgstr "Jun. 8"
 
 msgid "profile_diva003_birthplace"
-msgstr ""
+msgstr "Planet Divide"
 
 msgid "profile_diva003_favorite"
-msgstr ""
+msgstr "Seafood delicacies"
 
 msgid "profile_diva003_description"
 msgstr ""
+"Leader of the tactical sound unit, Walküre. A steadfast woman who manages "
+"everything for her team, such as their schedule. Performed solo as an idol "
+"singer before joining Walküre."
 
 msgid "profile_diva004_age"
-msgstr ""
+msgstr "18"
 
 msgid "profile_diva004_birthday"
-msgstr ""
+msgstr "Apr. 19"
 
 msgid "profile_diva004_birthplace"
 msgstr ""
