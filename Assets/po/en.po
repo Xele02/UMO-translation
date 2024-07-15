@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-07-09 18:28+0000\n"
+"PO-Revision-Date: 2024-07-15 17:48+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/assets/"
 "en/>\n"
@@ -27,4 +27,62 @@ msgid "cmn_pop01/cmn_pop01_fnt_01_09"
 msgstr "Close"
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_01"
-msgstr "The far future. A great interstellar civilization is established."
+msgstr "The far future, where a great interstellar civilization lives."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_02"
+msgstr "Through countless interstellar wars,"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_03"
+msgstr ""
+"the *Bird People*, a system left behind by the Protoculture, \n"
+"ancient progenitors of the human race, finally awakens."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_05"
+msgstr ""
+"Their limitless power even reaches the *Memory Dimension*, another\n"
+"dimension that exists as a memory repository for lifeforms,"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_11"
+msgstr ""
+"they create a super dimensional network mediated by the Bird People,\n"
+"even though they exist in different space-times from each other."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_13"
+msgstr "As the Songstresses stand on the galactic stage,"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_07"
+msgstr ""
+"People whose memories were destroyed disappear one after\n"
+"another, and civilizations begin to quietly die out."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_09"
+msgstr ""
+"*Songstresses* who move people with\n"
+"their songs, along with their protectors."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_06"
+msgstr "where it begins to destroy people's *memories* engraved there."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_10"
+msgstr ""
+"Escaping the loss of their memories\n"
+"with powerful *bio-fold waves*,"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_12"
+msgstr ""
+"Through the power of song, they vow to get back\n"
+"the worlds that are beginning to disappear."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_14"
+msgstr "the battle to restore peoples' memories through song begins..."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_08"
+msgstr "However, there are those who rise to face the destruction."
+
+msgid "cmn_tuto03/cmn_tuto03_window_font_01"
+msgstr "Next"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_04"
+msgstr ""
+"The Bird People target this civilization that spans the cosmos for\n"
+"destruction, beginning to resonate in different space-times."
