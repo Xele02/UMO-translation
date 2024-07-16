@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-07-15 17:48+0000\n"
+"PO-Revision-Date: 2024-07-16 17:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/assets/"
 "en/>\n"
@@ -48,7 +48,7 @@ msgstr ""
 "even though they exist in different space-times from each other."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_13"
-msgstr "As the Songstresses stand on the galactic stage,"
+msgstr "As the Divas stand on the galactic stage,"
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_07"
 msgstr ""
@@ -57,8 +57,8 @@ msgstr ""
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_09"
 msgstr ""
-"*Songstresses* who move people with\n"
-"their songs, along with their protectors."
+"*Divas* who move people with their\n"
+"songs, along with their protectors."
 
 msgid "cmn_tuto02/cmn_tuto02_fnt_06"
 msgstr "where it begins to destroy people's *memories* engraved there."
@@ -86,3 +86,118 @@ msgid "cmn_tuto02/cmn_tuto02_fnt_04"
 msgstr ""
 "The Bird People target this civilization that spans the cosmos for\n"
 "destruction, beginning to resonate in different space-times."
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_01"
+msgstr ""
+"Don't adjust timing\n"
+"and continue"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_01"
+msgstr "Check Mode"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_29"
+msgstr "Readjust"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_49"
+msgstr "Check Mode"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_02"
+msgstr ""
+"I want to adjust\n"
+"the timing"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_title"
+msgstr "Timing Adjustments"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_02"
+msgstr "Adjustment Mode"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_03"
+msgstr "OK"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_39"
+msgstr "Skip"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_43"
+msgstr "Resume"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_10"
+msgstr "Cancel"
+
+msgid "gacha_main2/gacha_fnt_lot"
+msgstr "Play"
+
+msgid "gacha_pop/gacha_pop_font_01"
+msgstr "Song Crystals Owned"
+
+msgid "gacha_main2/gacha_fnt_02"
+msgstr "Odds Info"
+
+msgid "gacha_pop/gacha_pop_btn_font_01"
+msgstr "Legal Info Notations"
+
+msgid "gatsha_drop/gatsha_drop_btn_font_03"
+msgstr "Back"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_01"
+msgstr "Profile"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_02"
+msgstr "Age:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_03"
+msgstr "Birthdate:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_04"
+msgstr "Birthplace:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_05"
+msgstr "Likes:"
+
+msgid "pack_sel_chara/sel_chara_btn_fnt_01"
+msgstr "Voice"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_06"
+msgstr "Select a Diva"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_01"
+msgstr "Change selection"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_02"
+msgstr "Use this Diva"
+
+msgid "sel_quest_packtex/sel_que_challenge_fnt"
+msgstr "Go"
+
+msgid "cmn_enquete_pack/cmn_enq_fnt_load_02"
+msgstr "Download complete"
+
+msgid "game_res_drop_02_pack/g_r_drop_txt_normal"
+msgstr "Normal Drops"
+
+msgid "game_res_drop_pack/g_r_drop_getuc"
+msgstr "Union Credits earned"
+
+msgid "sel_story_pack/sel_story_frm_fnt_01"
+msgstr "Fulfill unlock conditions during songs"
+
+msgid "game_res_drop_pack/g_r_drop_txt_rare"
+msgstr "Rare Drops"
+
+msgid "sel_story_pack/sel_story_frm_fnt_02"
+msgstr "Play song?"
+
+msgid "sel_story_pack/cmn_pop01_fnt_01_46"
+msgstr "Songs"
+
+msgid "sel_quest_packtex/sel_que_get_fnt2"
+msgstr "Sent to Gift Box"
+
+msgid "pop_item_pack/ab_uc_fnt_01"
+msgstr "Needed"
+
+msgid "sel_quest_packtex/sel_que_get_fnt"
+msgstr "You got the following rewards"
+
+msgid "pop_item_pack/ab_uc_fnt_02"
+msgstr "Owned"
