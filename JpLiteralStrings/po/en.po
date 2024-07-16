@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-07-16 17:28+0000\n"
+"PO-Revision-Date: 2024-07-16 19:28+0000\n"
 "Last-Translator: F91 <goddangitpaul@gmail.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -1347,7 +1347,7 @@ msgid "StringLiteral_18067"
 msgstr ""
 
 msgid "StringLiteral_18280"
-msgstr ""
+msgstr "Prism"
 
 msgid "StringLiteral_18787"
 msgstr ""
@@ -1374,7 +1374,7 @@ msgid "StringLiteral_19018"
 msgstr ""
 
 msgid "StringLiteral_19422"
-msgstr ""
+msgstr "Ranking"
 
 msgid "StringLiteral_19427"
 msgstr ""
@@ -1389,13 +1389,13 @@ msgid "StringLiteral_19433"
 msgstr ""
 
 msgid "StringLiteral_19538"
-msgstr ""
+msgstr "Impact"
 
 msgid "StringLiteral_19639"
 msgstr ""
 
 msgid "StringLiteral_19612"
-msgstr ""
+msgstr "Set Unit"
 
 msgid "StringLiteral_19704"
 msgstr ""
@@ -1476,7 +1476,7 @@ msgid "UMO_login_10666_desc"
 msgstr ""
 
 msgid "UMO_login_7740_name"
-msgstr ""
+msgstr "Login Bonus"
 
 msgid "UMO_login_7740_desc"
 msgstr ""
@@ -1488,7 +1488,7 @@ msgid "UMO_login_7740_prize2_msg"
 msgstr ""
 
 msgid "UMO_login_6541_name"
-msgstr ""
+msgstr "Start Dash Login Bonus"
 
 msgid "UMO_login_6541_desc"
 msgstr ""
