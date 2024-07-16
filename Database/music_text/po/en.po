@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-06-30 18:28+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-07-16 19:28+0000\n"
+"Last-Translator: F91 <goddangitpaul@gmail.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
 "Language: en\n"
@@ -24,10 +24,10 @@ msgid "musicName_0000_description"
 msgstr "Song Details 000"
 
 msgid "musicName_0001_musicname"
-msgstr "An Angel's Paints"
+msgstr "Tenshi no E no Gu"
 
 msgid "musicName_0001_officialName"
-msgstr "An Angel's Paints"
+msgstr "Tenshi no E no Gu"
 
 msgid "musicName_0001_vocalName"
 msgstr "Mari Ijima"
@@ -129,10 +129,10 @@ msgid "musicName_0004_officialName"
 msgstr ""
 
 msgid "musicName_0004_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0004_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0004_description"
 msgstr ""
@@ -144,16 +144,16 @@ msgid "musicName_0004_storyTitle"
 msgstr ""
 
 msgid "musicName_0005_musicname"
-msgstr ""
+msgstr "Watashi no Kare wa Pilot"
 
 msgid "musicName_0005_officialName"
-msgstr ""
+msgstr "Watashi no Kare wa Pilot"
 
 msgid "musicName_0005_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0005_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0005_description"
 msgstr ""
@@ -162,19 +162,19 @@ msgid "musicName_0005_storyDesc"
 msgstr ""
 
 msgid "musicName_0005_storyTitle"
-msgstr ""
+msgstr "「I am Ranka Lee. Please look after me!」"
 
 msgid "musicName_0006_musicname"
-msgstr ""
+msgstr "Ninjin Loves you yeah!"
 
 msgid "musicName_0006_officialName"
-msgstr ""
+msgstr "Ninjin Loves you yeah!"
 
 msgid "musicName_0006_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0006_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0006_description"
 msgstr ""
@@ -204,19 +204,19 @@ msgid "musicName_0007_storyDesc"
 msgstr ""
 
 msgid "musicName_0007_storyTitle"
-msgstr ""
+msgstr "「Listen to my song!」"
 
 msgid "musicName_0008_musicname"
-msgstr ""
+msgstr "Diamond Crevasse"
 
 msgid "musicName_0008_officialName"
-msgstr ""
+msgstr "Diamond Crevasse"
 
 msgid "musicName_0008_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0008_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0008_description"
 msgstr ""
