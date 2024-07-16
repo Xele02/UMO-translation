@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-07-15 13:28+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-07-16 17:28+0000\n"
+"Last-Translator: F91 <goddangitpaul@gmail.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
 "Language: en\n"
@@ -177,7 +177,7 @@ msgid "StringLiteral_10094"
 msgstr ""
 
 msgid "StringLiteral_10095"
-msgstr ""
+msgstr "Set"
 
 msgid "StringLiteral_10096"
 msgstr ""
@@ -186,70 +186,70 @@ msgid "StringLiteral_10136"
 msgstr ""
 
 msgid "StringLiteral_10137"
-msgstr ""
+msgstr "Song Gem"
 
 msgid "StringLiteral_10138"
-msgstr ""
+msgstr "Gacha Ticket"
 
 msgid "StringLiteral_10139"
-msgstr ""
+msgstr "Episode Plate"
 
 msgid "StringLiteral_10140"
-msgstr ""
+msgstr "Costume"
 
 msgid "StringLiteral_10141"
-msgstr ""
+msgstr "Valkyrie"
 
 msgid "StringLiteral_10142"
 msgstr ""
 
 msgid "StringLiteral_10143"
-msgstr ""
+msgstr "Episode Orb"
 
 msgid "StringLiteral_10144"
-msgstr ""
+msgstr "Title"
 
 msgid "StringLiteral_10145"
-msgstr ""
+msgstr "Event Item"
 
 msgid "StringLiteral_10146"
-msgstr ""
+msgstr "Event Ticket"
 
 msgid "StringLiteral_10147"
-msgstr ""
+msgstr "Diva"
 
 msgid "StringLiteral_10148"
-msgstr ""
+msgstr "Set Item"
 
 msgid "StringLiteral_10149"
-msgstr ""
+msgstr "SNS Item"
 
 msgid "StringLiteral_10150"
-msgstr ""
+msgstr "Energy Recovery Item"
 
 msgid "StringLiteral_10151"
-msgstr ""
+msgstr "MV Ticket"
 
 msgid "StringLiteral_10152"
-msgstr ""
+msgstr "Medal"
 
 msgid "StringLiteral_10153"
 msgstr ""
 
 msgid "StringLiteral_10154"
-msgstr ""
+msgstr "Event Gacha Ticket"
 
 msgid "StringLiteral_10155"
-msgstr ""
+msgstr "Present Item"
 
 msgid "StringLiteral_10156"
 msgstr ""
 
 msgid "StringLiteral_10157"
-msgstr ""
+msgstr "Custome Upgrade Item"
 
 msgid "StringLiteral_10158"
-msgstr ""
+msgstr "Rarity-up Item"
 
 msgid "StringLiteral_10159"
 msgstr ""
@@ -264,22 +264,22 @@ msgid "StringLiteral_10162"
 msgstr ""
 
 msgid "StringLiteral_10163"
-msgstr ""
+msgstr "Deco Item - Chibi Characters"
 
 msgid "StringLiteral_10164"
-msgstr ""
+msgstr "Quote Stamp Item"
 
 msgid "StringLiteral_10165"
 msgstr ""
 
 msgid "StringLiteral_10166"
-msgstr ""
+msgstr "Valkyrie Upgrade Item"
 
 msgid "StringLiteral_10167"
 msgstr ""
 
 msgid "StringLiteral_10168"
-msgstr ""
+msgstr "Deco Item - Poster"
 
 msgid "StringLiteral_10169"
 msgstr ""
@@ -288,19 +288,19 @@ msgid "StringLiteral_10170"
 msgstr ""
 
 msgid "StringLiteral_10171"
-msgstr ""
+msgstr "Raid Item"
 
 msgid "StringLiteral_10172"
-msgstr ""
+msgstr "Stamp Item Character"
 
 msgid "StringLiteral_10173"
-msgstr ""
+msgstr "Deco Set Item"
 
 msgid "StringLiteral_10174"
-msgstr ""
+msgstr "Deco Item - Valkyrie Figure"
 
 msgid "StringLiteral_10175"
-msgstr ""
+msgstr "Deco Item - Costume Torso"
 
 msgid "StringLiteral_10176"
 msgstr ""
@@ -315,10 +315,10 @@ msgid "StringLiteral_10282"
 msgstr ""
 
 msgid "StringLiteral_10294"
-msgstr ""
+msgstr "Super Dimension SNS"
 
 msgid "StringLiteral_10298"
-msgstr ""
+msgstr "Received your Login Bonus!"
 
 msgid "StringLiteral_10299"
 msgstr ""
@@ -348,7 +348,7 @@ msgid "StringLiteral_10340"
 msgstr ""
 
 msgid "StringLiteral_10345"
-msgstr ""
+msgstr "Event Quest ID="
 
 msgid "StringLiteral_10346"
 msgstr ""
@@ -357,37 +357,37 @@ msgid "StringLiteral_10416"
 msgstr ""
 
 msgid "StringLiteral_10431"
-msgstr ""
+msgstr "Debut Gacha"
 
 msgid "StringLiteral_10443"
-msgstr ""
+msgstr "Plate"
 
 msgid "StringLiteral_11015"
 msgstr ""
 
 msgid "StringLiteral_11062"
-msgstr ""
+msgstr "Life"
 
 msgid "StringLiteral_11063"
-msgstr ""
+msgstr "Soul"
 
 msgid "StringLiteral_11064"
-msgstr ""
+msgstr "Voice"
 
 msgid "StringLiteral_11065"
-msgstr ""
+msgstr "Charm"
 
 msgid "StringLiteral_11066"
-msgstr ""
+msgstr "Center Skill"
 
 msgid "StringLiteral_11067"
-msgstr ""
+msgstr "Active Skill"
 
 msgid "StringLiteral_11068"
-msgstr ""
+msgstr "Live Skill"
 
 msgid "StringLiteral_11069"
-msgstr ""
+msgstr "Support"
 
 msgid "StringLiteral_11070"
 msgstr ""
@@ -417,13 +417,13 @@ msgid "StringLiteral_11078"
 msgstr ""
 
 msgid "StringLiteral_11079"
-msgstr ""
+msgstr "Episode"
 
 msgid "StringLiteral_11081"
 msgstr ""
 
 msgid "StringLiteral_11082"
-msgstr ""
+msgstr "Story"
 
 msgid "StringLiteral_11083"
 msgstr ""
@@ -447,7 +447,7 @@ msgid "StringLiteral_11115"
 msgstr ""
 
 msgid "StringLiteral_11117"
-msgstr ""
+msgstr "Deculgacha"
 
 msgid "StringLiteral_11118"
 msgstr ""
@@ -468,28 +468,28 @@ msgid "StringLiteral_11137"
 msgstr ""
 
 msgid "StringLiteral_11139"
-msgstr ""
+msgstr "Custom"
 
 msgid "StringLiteral_11163"
 msgstr ""
 
 msgid "StringLiteral_11164"
-msgstr ""
+msgstr "Full Combo"
 
 msgid "StringLiteral_11165"
-msgstr ""
+msgstr "Perfect Full Combo"
 
 msgid "StringLiteral_11167"
 msgstr ""
 
 msgid "StringLiteral_11168"
-msgstr ""
+msgstr "Valkyrie Mode"
 
 msgid "StringLiteral_11170"
-msgstr ""
+msgstr "Diva Mode"
 
 msgid "StringLiteral_11171"
-msgstr ""
+msgstr "Super Diva Mode"
 
 msgid "StringLiteral_11173"
 msgstr ""
@@ -504,7 +504,7 @@ msgid "StringLiteral_11429"
 msgstr ""
 
 msgid "StringLiteral_11430"
-msgstr ""
+msgstr "Macross Cannon"
 
 msgid "StringLiteral_11431"
 msgstr ""
@@ -567,7 +567,7 @@ msgid "StringLiteral_11849"
 msgstr ""
 
 msgid "StringLiteral_11911"
-msgstr ""
+msgstr "Client Error"
 
 msgid "StringLiteral_11912"
 msgstr ""
@@ -592,6 +592,9 @@ msgstr ""
 
 msgid "StringLiteral_11920"
 msgstr ""
+"\n"
+"\n"
+"Error Code: "
 
 msgid "StringLiteral_11921"
 msgstr ""
@@ -603,13 +606,13 @@ msgid "StringLiteral_11923"
 msgstr ""
 
 msgid "StringLiteral_11927"
-msgstr ""
+msgstr "Storage Error"
 
 msgid "StringLiteral_11928"
 msgstr ""
 
 msgid "StringLiteral_11929"
-msgstr ""
+msgstr "Download Error"
 
 msgid "StringLiteral_11930"
 msgstr ""
@@ -621,7 +624,7 @@ msgid "StringLiteral_11956"
 msgstr ""
 
 msgid "StringLiteral_11962"
-msgstr ""
+msgstr "Error"
 
 msgid "StringLiteral_11972"
 msgstr ""
@@ -633,13 +636,13 @@ msgid "StringLiteral_11992"
 msgstr ""
 
 msgid "StringLiteral_12004"
-msgstr ""
+msgstr "Present"
 
 msgid "StringLiteral_12005"
-msgstr ""
+msgstr "Touch"
 
 msgid "StringLiteral_12010"
-msgstr ""
+msgstr "Costume Name"
 
 msgid "StringLiteral_12037"
 msgstr ""
@@ -648,13 +651,13 @@ msgid "StringLiteral_12038"
 msgstr ""
 
 msgid "StringLiteral_12097"
-msgstr ""
+msgstr " (Uta Macross"
 
 msgid "StringLiteral_12139"
-msgstr ""
+msgstr "Operation Complete"
 
 msgid "StringLiteral_12141"
-msgstr ""
+msgstr "Flight"
 
 msgid "StringLiteral_12148"
 msgstr ""
@@ -678,13 +681,13 @@ msgid "StringLiteral_12223"
 msgstr ""
 
 msgid "StringLiteral_12297"
-msgstr ""
+msgstr "Up"
 
 msgid "StringLiteral_12298"
 msgstr ""
 
 msgid "StringLiteral_12300"
-msgstr ""
+msgstr "Up "
 
 msgid "StringLiteral_12326"
 msgstr ""
@@ -696,25 +699,25 @@ msgid "StringLiteral_12328"
 msgstr ""
 
 msgid "StringLiteral_12329"
-msgstr ""
+msgstr "Song Gem Set A"
 
 msgid "StringLiteral_12330"
-msgstr ""
+msgstr "Song Gem Set B"
 
 msgid "StringLiteral_12331"
-msgstr ""
+msgstr "Song Gem Set C"
 
 msgid "StringLiteral_12332"
-msgstr ""
+msgstr "Song Gem Set D"
 
 msgid "StringLiteral_12333"
-msgstr ""
+msgstr "Song Gem Set E"
 
 msgid "StringLiteral_12334"
-msgstr ""
+msgstr "Song Gem Set F"
 
 msgid "StringLiteral_12335"
-msgstr ""
+msgstr "Song Gem Set G"
 
 msgid "StringLiteral_12459"
 msgstr ""
@@ -762,7 +765,7 @@ msgid "StringLiteral_12693"
 msgstr ""
 
 msgid "StringLiteral_12695"
-msgstr ""
+msgstr "Decorture Mode"
 
 msgid "StringLiteral_12696"
 msgstr ""
@@ -771,40 +774,40 @@ msgid "StringLiteral_12839"
 msgstr ""
 
 msgid "StringLiteral_12840"
-msgstr ""
+msgstr "Asset Download 0%"
 
 msgid "StringLiteral_12841"
-msgstr ""
+msgstr "Asset Download 10%"
 
 msgid "StringLiteral_12842"
-msgstr ""
+msgstr "Asset Download 20%"
 
 msgid "StringLiteral_12843"
-msgstr ""
+msgstr "Asset Download 30%"
 
 msgid "StringLiteral_12844"
-msgstr ""
+msgstr "Asset Download 40%"
 
 msgid "StringLiteral_12845"
-msgstr ""
+msgstr "Asset Download 50%"
 
 msgid "StringLiteral_12846"
-msgstr ""
+msgstr "Asset Download 60%"
 
 msgid "StringLiteral_12847"
-msgstr ""
+msgstr "Asset Download 70%"
 
 msgid "StringLiteral_12848"
-msgstr ""
+msgstr "Asset Download 80%"
 
 msgid "StringLiteral_12849"
-msgstr ""
+msgstr "Asset Download 90%"
 
 msgid "StringLiteral_12850"
-msgstr ""
+msgstr "Asset Download 100%"
 
 msgid "StringLiteral_12851"
-msgstr ""
+msgstr "Adventure 1"
 
 msgid "StringLiteral_12852"
 msgstr ""
@@ -873,40 +876,40 @@ msgid "StringLiteral_12873"
 msgstr ""
 
 msgid "StringLiteral_12874"
-msgstr ""
+msgstr "Main Asset Download 0%"
 
 msgid "StringLiteral_12875"
-msgstr ""
+msgstr "Main Asset Download 10%"
 
 msgid "StringLiteral_12876"
-msgstr ""
+msgstr "Main Asset Download 20%"
 
 msgid "StringLiteral_12877"
-msgstr ""
+msgstr "Main Asset Download 30%"
 
 msgid "StringLiteral_12878"
-msgstr ""
+msgstr "Main Asset Download 40%"
 
 msgid "StringLiteral_12879"
-msgstr ""
+msgstr "Main Asset Download 50%"
 
 msgid "StringLiteral_12880"
-msgstr ""
+msgstr "Main Asset Download 60%"
 
 msgid "StringLiteral_12881"
-msgstr ""
+msgstr "Main Asset Download 70%"
 
 msgid "StringLiteral_12882"
-msgstr ""
+msgstr "Main Asset Download 80%"
 
 msgid "StringLiteral_12883"
-msgstr ""
+msgstr "Main Asset Download 90%"
 
 msgid "StringLiteral_12884"
-msgstr ""
+msgstr "Main Asset Download 100%"
 
 msgid "StringLiteral_12885"
-msgstr ""
+msgstr "Login Bonus"
 
 msgid "StringLiteral_12886"
 msgstr ""
@@ -918,43 +921,43 @@ msgid "StringLiteral_12888"
 msgstr ""
 
 msgid "StringLiteral_12889"
-msgstr ""
+msgstr "Story Drop"
 
 msgid "StringLiteral_12890"
 msgstr ""
 
 msgid "StringLiteral_12891"
-msgstr ""
+msgstr "Gacha"
 
 msgid "StringLiteral_12892"
 msgstr ""
 
 msgid "StringLiteral_12893"
-msgstr ""
+msgstr "Present Box"
 
 msgid "StringLiteral_11202"
-msgstr ""
+msgstr "Free Gacha"
 
 msgid "StringLiteral_11203"
-msgstr ""
+msgstr "Super Dimension Gacha Ticket"
 
 msgid "StringLiteral_11216"
-msgstr ""
+msgstr "Daily Missions"
 
 msgid "StringLiteral_11217"
-msgstr ""
+msgstr "SNS Missions"
 
 msgid "StringLiteral_11218"
-msgstr ""
+msgstr "Debut Missions"
 
 msgid "StringLiteral_11219"
-msgstr ""
+msgstr "Normal Missions"
 
 msgid "StringLiteral_11220"
-msgstr ""
+msgstr "Event Missions"
 
 msgid "StringLiteral_11221"
-msgstr ""
+msgstr "Bingo Missions"
 
 msgid "StringLiteral_11223"
 msgstr ""
@@ -981,16 +984,16 @@ msgid "StringLiteral_12894"
 msgstr ""
 
 msgid "StringLiteral_12895"
-msgstr ""
+msgstr "Login Bonus"
 
 msgid "StringLiteral_12896"
-msgstr ""
+msgstr "Event Login Bonus"
 
 msgid "StringLiteral_12897"
-msgstr ""
+msgstr "Shop"
 
 msgid "StringLiteral_12898"
-msgstr ""
+msgstr "Event Box Gacha"
 
 msgid "StringLiteral_12899"
 msgstr ""
@@ -1029,31 +1032,31 @@ msgid "StringLiteral_12910"
 msgstr ""
 
 msgid "StringLiteral_12911"
-msgstr ""
+msgstr "Valkyrie Skill Upgrade"
 
 msgid "StringLiteral_12912"
-msgstr ""
+msgstr "Raid Boss Damage"
 
 msgid "StringLiteral_12913"
-msgstr ""
+msgstr "Raid Boss MVP"
 
 msgid "StringLiteral_12914"
-msgstr ""
+msgstr "Raid Boss 1st"
 
 msgid "StringLiteral_12915"
-msgstr ""
+msgstr "Deco Shop"
 
 msgid "StringLiteral_12916"
 msgstr ""
 
 msgid "StringLiteral_12917"
-msgstr ""
+msgstr "Treasure Box"
 
 msgid "StringLiteral_12918"
 msgstr ""
 
 msgid "StringLiteral_12919"
-msgstr ""
+msgstr "Raid Tutorial"
 
 msgid "StringLiteral_12920"
 msgstr ""
@@ -1080,25 +1083,25 @@ msgid "StringLiteral_12927"
 msgstr ""
 
 msgid "StringLiteral_12928"
-msgstr ""
+msgstr "Event Story"
 
 msgid "StringLiteral_12929"
-msgstr ""
+msgstr "Carousel Banner"
 
 msgid "StringLiteral_12930"
 msgstr ""
 
 msgid "StringLiteral_12931"
-msgstr ""
+msgstr "Event Daily"
 
 msgid "StringLiteral_12932"
 msgstr ""
 
 msgid "StringLiteral_12933"
-msgstr ""
+msgstr "Event Banner"
 
 msgid "StringLiteral_12934"
-msgstr ""
+msgstr "Event Balloon"
 
 msgid "StringLiteral_12935"
 msgstr ""
@@ -1110,13 +1113,13 @@ msgid "StringLiteral_12937"
 msgstr ""
 
 msgid "StringLiteral_12943"
-msgstr ""
+msgstr "Valkyrie Flight"
 
 msgid "StringLiteral_13053"
 msgstr ""
 
 msgid "StringLiteral_13085"
-msgstr ""
+msgstr "Item"
 
 msgid "StringLiteral_13101"
 msgstr ""
@@ -1149,7 +1152,7 @@ msgid "StringLiteral_13959"
 msgstr ""
 
 msgid "StringLiteral_13975"
-msgstr ""
+msgstr "EX Rate="
 
 msgid "StringLiteral_13976"
 msgstr ""
@@ -1170,13 +1173,13 @@ msgid "StringLiteral_14355"
 msgstr ""
 
 msgid "StringLiteral_14401"
-msgstr ""
+msgstr "+Button"
 
 msgid "StringLiteral_14529"
 msgstr ""
 
 msgid "StringLiteral_14769"
-msgstr ""
+msgstr "{0}-san"
 
 msgid "StringLiteral_14832"
 msgstr ""
@@ -1188,10 +1191,10 @@ msgid "StringLiteral_14845"
 msgstr ""
 
 msgid "StringLiteral_15053"
-msgstr ""
+msgstr "Episode「"
 
 msgid "StringLiteral_15054"
-msgstr ""
+msgstr "」"
 
 msgid "StringLiteral_15055"
 msgstr ""
@@ -1755,10 +1758,10 @@ msgid "UMO_product_430020_desc_free_multi_msg"
 msgstr ""
 
 msgid "UMO_product_430020_desc_name"
-msgstr ""
+msgstr "Free 10x Gacha Roll"
 
 msgid "UMO_product_67554_name"
-msgstr ""
+msgstr "Continue"
 
 msgid "UMO_product_67554_desc"
 msgstr ""
@@ -1878,49 +1881,49 @@ msgid "UMO_start_present_2"
 msgstr ""
 
 msgid "UMO_Next"
-msgstr ""
+msgstr "Next"
 
 msgid "UMO_Total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "UMO_Fold"
 msgstr ""
 
 msgid "UMO_Luck"
-msgstr ""
+msgstr "LUCK"
 
 msgid "UMO_Status"
-msgstr ""
+msgstr "Status"
 
 msgid "UMO_SubStatus"
 msgstr ""
 
 msgid "UMO_CenterSkill"
-msgstr ""
+msgstr "Center Skill"
 
 msgid "UMO_ActiveSkill"
-msgstr ""
+msgstr "Active Skill"
 
 msgid "UMO_LeafLabel"
 msgstr ""
 
 msgid "UMO_Excellent"
-msgstr ""
+msgstr "EXCELLENT"
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr ""
+msgstr "Center Live Skill Chance Note"
 
 msgid "UMO_Notes"
 msgstr ""
 
 msgid "UMO_Heal"
-msgstr ""
+msgstr "Recovery"
 
 msgid "UMO_Score"
-msgstr ""
+msgstr "Score"
 
 msgid "UMO_Atk"
-msgstr ""
+msgstr "Attack"
 
 msgid "UMO_SupportImp"
 msgstr ""
@@ -1938,16 +1941,16 @@ msgid "UMO_PlayAttr2"
 msgstr ""
 
 msgid "UMO_All"
-msgstr ""
+msgstr "ALL"
 
 msgid "UMO_Attr1"
-msgstr ""
+msgstr "Star"
 
 msgid "UMO_Attr2"
-msgstr ""
+msgstr "Love"
 
 msgid "UMO_Attr3"
-msgstr ""
+msgstr "Life"
 
 msgid "UMO_PlayStyle"
 msgstr ""
@@ -1965,55 +1968,55 @@ msgid "UMO_PlayStatus"
 msgstr ""
 
 msgid "UMO_DivaLevel"
-msgstr ""
+msgstr "Diva Lv"
 
 msgid "UMO_IntimacyLevel"
-msgstr ""
+msgstr "Bond Lv"
 
 msgid "UMO_CostumeCount"
 msgstr ""
 
 msgid "UMO_DivaStatus"
-msgstr ""
+msgstr "Diva Status"
 
 msgid "UMO_CostumeStatus"
-msgstr ""
+msgstr "Costume Upgrade Status"
 
 msgid "UMO_SoulTotal"
-msgstr ""
+msgstr "Soul Appeal"
 
 msgid "UMO_VoiceTotal"
-msgstr ""
+msgstr "Voice Appeal"
 
 msgid "UMO_CharmTotal"
-msgstr ""
+msgstr "Charm Appeal"
 
 msgid "UMO_DivaRanking"
-msgstr ""
+msgstr "Diva Ranking"
 
 msgid "UMO_DivaRankingBtn"
 msgstr ""
 
 msgid "UMO_Age"
-msgstr ""
+msgstr "Age"
 
 msgid "UMO_Birthplace"
-msgstr ""
+msgstr "Birthplace"
 
 msgid "UMO_Favorite"
-msgstr ""
+msgstr "Likes"
 
 msgid "UMO_DivaDesc"
 msgstr ""
 
 msgid "UMO_Back"
-msgstr ""
+msgstr "Back"
 
 msgid "UMO_Costume"
-msgstr ""
+msgstr "Change Outfit"
 
 msgid "UMO_Gift"
-msgstr ""
+msgstr "Gift"
 
 msgid "UMO_Profil"
-msgstr ""
+msgstr "Profile"
