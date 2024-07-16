@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-07-16 19:28+0000\n"
+"Last-Translator: F91 <goddangitpaul@gmail.com>\n"
+"Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
+"diva009/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "talk_time_01"
 msgstr ""
@@ -35,13 +36,15 @@ msgid "talk_time_07"
 msgstr ""
 
 msgid "talk_time_08"
-msgstr ""
+msgstr "What is it? Is Mylene calling?"
 
 msgid "talk_login_01"
 msgstr ""
+"Hmm...\n"
+"It's already this late?"
 
 msgid "talk_login_02"
-msgstr ""
+msgstr "Alright, just like any other day, we burn bright!"
 
 msgid "talk_login_03"
 msgstr ""
@@ -60,6 +63,8 @@ msgstr ""
 
 msgid "talk_birthday_01"
 msgstr ""
+"Hmm? My birthday present?\n"
+"Heh, I'm really glad. Thanks!"
 
 msgid "talk_event_01"
 msgstr ""
@@ -81,9 +86,14 @@ msgstr ""
 
 msgid "talk_event_07"
 msgstr ""
+"What's so golden\n"
+"about Golden Week?"
 
 msgid "talk_event_08"
 msgstr ""
+"I can't stop cracking up when\n"
+"I see Mylene in a wedding dress.\n"
+"It's way too early for her to be wearing one"
 
 msgid "talk_event_09"
 msgstr ""
@@ -123,12 +133,18 @@ msgstr ""
 
 msgid "touch_reaction_01"
 msgstr ""
+"What,\n"
+"you want to listen to my song?"
 
 msgid "touch_reaction_02"
 msgstr ""
+"Hey hey\n"
+"that tickles."
 
 msgid "touch_reaction_03"
 msgstr ""
+"What is this. These feelings...\n"
+"It's burning...!"
 
 msgid "touch_reaction_04"
 msgstr ""
@@ -164,16 +180,16 @@ msgid "go_diva_result_03"
 msgstr ""
 
 msgid "intimacy_pointup_01"
-msgstr ""
+msgstr "Nice!"
 
 msgid "intimacy_pointup_02"
-msgstr ""
+msgstr "I'm burning!"
 
 msgid "intimacy_pointup_03"
-msgstr ""
+msgstr "Hehe~"
 
 msgid "present_01"
-msgstr ""
+msgstr "Thanks!"
 
 msgid "present_02"
 msgstr ""
@@ -203,7 +219,7 @@ msgid "present_10"
 msgstr ""
 
 msgid "present_11"
-msgstr ""
+msgstr "Nice!"
 
 msgid "cs_touch_reaction_01"
 msgstr ""
@@ -237,54 +253,63 @@ msgstr ""
 
 msgid "talk_event_21"
 msgstr ""
+"I checked out Freyja's birthday party.\n"
+"The Ragna Nyan-Nyan food...\n"
+"looked really tasty"
 
 msgid "talk_event_22"
 msgstr ""
+"Apparently the folks from Walküre\n"
+"sang a birthday song for Mikumo.\n"
+"That's pretty awesome...!"
 
 msgid "talk_event_23"
-msgstr ""
+msgstr "Looks like today is Kaname's birthday"
 
 msgid "talk_event_24"
-msgstr ""
+msgstr "Today is Makina's birthday, huh…"
 
 msgid "talk_event_25"
 msgstr ""
 
 msgid "talk_event_26"
-msgstr ""
+msgstr "Is today actually Ranka's birthday?"
 
 msgid "talk_event_27"
 msgstr ""
 
 msgid "talk_event_28"
 msgstr ""
+"Mylene has been smirking this entire time.\n"
+"Is she that happy about today being\n"
+"her birthday? Geez…"
 
 msgid "talk_event_29"
-msgstr ""
+msgstr "Basara"
 
 msgid "talk_event_30"
 msgstr ""
 
 msgid "talk_event_31"
-msgstr ""
+msgstr "Hayate"
 
 msgid "talk_event_32"
-msgstr ""
+msgstr "Mirage"
 
 msgid "talk_event_33"
-msgstr ""
+msgstr "Messer"
 
 msgid "talk_event_34"
-msgstr ""
+msgstr "Arad"
 
 msgid "talk_event_35"
-msgstr ""
+msgstr "Chuck"
 
 msgid "talk_event_36"
-msgstr ""
+msgstr "Alto"
 
 msgid "talk_event_37"
-msgstr ""
+msgstr "Ozma"
 
 msgid "talk_event_38"
 msgstr ""
