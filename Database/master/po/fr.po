@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-07-21 10:04+0000\n"
+"PO-Revision-Date: 2024-07-21 15:24+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -291,2413 +291,2545 @@ msgid "e_dsc_0046"
 msgstr ""
 
 msgid "c_nm_0001"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0002"
-msgstr ""
+msgstr "Plaque étoile+"
 
 msgid "c_nm_0003"
-msgstr ""
+msgstr "Plaque amour+"
 
 msgid "c_nm_0004"
-msgstr ""
+msgstr "Plaque vie+"
 
 msgid "c_nm_0005"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0006"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0007"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0008"
-msgstr ""
+msgstr "PV+"
 
 msgid "c_nm_0009"
-msgstr ""
+msgstr "Support+"
 
 msgid "c_nm_0010"
-msgstr ""
+msgstr "Fold+"
 
 msgid "c_nm_0011"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0012"
-msgstr ""
+msgstr "PV+"
 
 msgid "c_nm_0013"
-msgstr ""
+msgstr "Plaque étoile+"
 
 msgid "c_nm_0014"
-msgstr ""
+msgstr "Plaque amour+"
 
 msgid "c_nm_0015"
-msgstr ""
+msgstr "Plaque vie+"
 
 msgid "c_nm_0016"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0017"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0018"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0019"
-msgstr ""
+msgstr "Support+"
 
 msgid "c_nm_0020"
-msgstr ""
+msgstr "Fold+"
 
 msgid "c_nm_0021"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0022"
-msgstr ""
+msgstr "Plaque étoile+"
 
 msgid "c_nm_0023"
-msgstr ""
+msgstr "Plaque amour+"
 
 msgid "c_nm_0024"
-msgstr ""
+msgstr "Plaque vie+"
 
 msgid "c_nm_0025"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0026"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0027"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0028"
-msgstr ""
+msgstr "PV+"
 
 msgid "c_nm_0029"
-msgstr ""
+msgstr "Support+"
 
 msgid "c_nm_0030"
-msgstr ""
+msgstr "Fold+"
 
 msgid "c_nm_0031"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0032"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0033"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_nm_0034"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0035"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0036"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_nm_0037"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0038"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0039"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_nm_0040"
-msgstr ""
+msgstr "Skill points+"
 
 msgid "c_nm_0041"
-msgstr ""
+msgstr "Âme & Charme+"
 
 msgid "c_nm_0042"
-msgstr ""
+msgstr "Voix & Charme+"
 
 msgid "c_nm_0043"
-msgstr ""
+msgstr "Âme & Voix+"
 
 msgid "c_nm_0044"
-msgstr ""
+msgstr "Total A + Support A"
 
 msgid "c_nm_0045"
-msgstr ""
+msgstr "Total B + Support B"
 
 msgid "c_nm_0046"
-msgstr ""
+msgstr "Total A + PV A"
 
 msgid "c_nm_0047"
-msgstr ""
+msgstr "PV A + Support A"
 
 msgid "c_nm_0048"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0049"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0050"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0051"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0052"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0053"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0054"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0055"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0056"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0057"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0058"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0059"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0060"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0061"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0062"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0063"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0064"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0065"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0066"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0067"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0068"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0069"
-msgstr ""
+msgstr "Âme+"
 
 msgid "c_nm_0070"
-msgstr ""
+msgstr "Voix+"
 
 msgid "c_nm_0071"
-msgstr ""
+msgstr "Charme+"
 
 msgid "c_nm_0072"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0073"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0074"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_nm_0075"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0076"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0077"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_nm_0078"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0079"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0080"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_nm_0081"
-msgstr ""
+msgstr "Chanson étoile total+"
 
 msgid "c_nm_0082"
-msgstr ""
+msgstr "Chanson amour total+"
 
 msgid "c_nm_0083"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "c_dsc_0001"
-msgstr ""
+msgstr "Veleur totale du groupe +[v1]%"
 
 msgid "c_dsc_0002"
-msgstr ""
+msgstr "Valeur totale des plaques étoile +[v1]%"
 
 msgid "c_dsc_0003"
-msgstr ""
+msgstr "Valeur totale des plaques amour +[v1]%"
 
 msgid "c_dsc_0004"
-msgstr ""
+msgstr "Valeur totale des plaques vie +[v1]%"
 
 msgid "c_dsc_0005"
-msgstr ""
+msgstr "Âme du groupe +[v1]%"
 
 msgid "c_dsc_0006"
-msgstr ""
+msgstr "Voix du groupe +[v1]%"
 
 msgid "c_dsc_0007"
-msgstr ""
+msgstr "Charme du groupe +[v1]%"
 
 msgid "c_dsc_0008"
-msgstr ""
+msgstr "PV du groupe +[v1]%"
 
 msgid "c_dsc_0009"
-msgstr ""
+msgstr "Support du groupe +[v1]%"
 
 msgid "c_dsc_0010"
-msgstr ""
+msgstr "Bio-fold du groupe +[v1]%"
 
 msgid "c_dsc_0011"
-msgstr ""
+msgstr "Total du groupe +[v1]%"
 
 msgid "c_dsc_0012"
-msgstr ""
+msgstr "PV du groupe +[v1]%"
 
 msgid "c_dsc_0013"
-msgstr ""
+msgstr "Valeur totale des plaques étoile +[v1]%"
 
 msgid "c_dsc_0014"
-msgstr ""
+msgstr "Valeur totale des plaques amour +[v1]%"
 
 msgid "c_dsc_0015"
-msgstr ""
+msgstr "Valeur totale des plaques vie +[v1]%"
 
 msgid "c_dsc_0016"
-msgstr ""
+msgstr "Âme du groupe +[v1]%"
 
 msgid "c_dsc_0017"
-msgstr ""
+msgstr "Voix du groupe +[v1]%"
 
 msgid "c_dsc_0018"
-msgstr ""
+msgstr "Charme du groupe +[v1]%"
 
 msgid "c_dsc_0019"
-msgstr ""
+msgstr "Support du groupe +[v1]%"
 
 msgid "c_dsc_0020"
-msgstr ""
+msgstr "Bio-fold du groupe +[v1]%"
 
 msgid "c_dsc_0021"
 msgstr "Valeur totale du groupe augmente de [v1]%"
 
 msgid "c_dsc_0022"
-msgstr ""
+msgstr "Valeur totale des plaques étoile +[v1]%"
 
 msgid "c_dsc_0023"
-msgstr ""
+msgstr "Valeur totale des plaques amour +[v1]%"
 
 msgid "c_dsc_0024"
-msgstr ""
+msgstr "Valeur totale des plaques vie +[v1]%"
 
 msgid "c_dsc_0025"
-msgstr ""
+msgstr "Âme du groupe +[v1]%"
 
 msgid "c_dsc_0026"
-msgstr ""
+msgstr "Voix du groupe +[v1]%"
 
 msgid "c_dsc_0027"
-msgstr ""
+msgstr "Charme du groupe +[v1]%"
 
 msgid "c_dsc_0028"
-msgstr ""
+msgstr "PV du groupe +[v1]%"
 
 msgid "c_dsc_0029"
-msgstr ""
+msgstr "Support du groupe +[v1]%"
 
 msgid "c_dsc_0030"
-msgstr ""
+msgstr "Bio-fold du groupe +[v1]%"
 
 msgid "c_dsc_0031"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile"
 
 msgid "c_dsc_0032"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour"
 
 msgid "c_dsc_0033"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie"
 
 msgid "c_dsc_0034"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile"
 
 msgid "c_dsc_0035"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour"
 
 msgid "c_dsc_0036"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie"
 
 msgid "c_dsc_0037"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile"
 
 msgid "c_dsc_0038"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour"
 
 msgid "c_dsc_0039"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie"
 
 msgid "c_dsc_0040"
 msgstr ""
 
 msgid "c_dsc_0041"
-msgstr ""
+msgstr "Âme & Charme du groupe +[v1]%"
 
 msgid "c_dsc_0042"
-msgstr ""
+msgstr "Voix & Charme du groupe +[v1]%"
 
 msgid "c_dsc_0043"
-msgstr ""
+msgstr "Âme & Voix du groupe +[v1]%"
 
 msgid "c_dsc_0044"
-msgstr ""
+msgstr "Total & Support du groupe +[v1]%"
 
 msgid "c_dsc_0045"
-msgstr ""
+msgstr "Total & Support du groupe +[v1]%"
 
 msgid "c_dsc_0046"
-msgstr ""
+msgstr "Total & PV du groupe +[v1]%"
 
 msgid "c_dsc_0047"
-msgstr ""
+msgstr "PV & Support du groupe +[v1]%"
 
 msgid "c_dsc_0048"
-msgstr ""
+msgstr "Valeur total du groupe +[v1]% lors de chansons de série spécifiée"
 
 msgid "c_dsc_0049"
-msgstr ""
+msgstr "Valeur total du groupe +[v1]% lors de chansons Macross Δ (Pour série)"
 
 msgid "c_dsc_0050"
-msgstr ""
+msgstr "Valeur total du groupe +[v1]% lors de chansons Macross F (Pour série)"
 
 msgid "c_dsc_0051"
-msgstr ""
+msgstr "Valeur total du groupe +[v1]% lors de chansons Macross 7 (Pour série)"
 
 msgid "c_dsc_0052"
-msgstr ""
+msgstr "Valeur total du groupe +[v1]% lors de chansons Macross (Pour série)"
 
 msgid "c_dsc_0053"
-msgstr ""
+msgstr "Valeur total du groupe +[v1]% lors de chansons \"Autres\" (Pour série)"
 
 msgid "c_dsc_0054"
-msgstr ""
+msgstr "Âme du groupe +[v1]% lors de chansons de série spécifiée"
 
 msgid "c_dsc_0055"
-msgstr ""
+msgstr "Voix du groupe +[v1]% lors de chansons de série spécifiée"
 
 msgid "c_dsc_0056"
-msgstr ""
+msgstr "Charme du groupe +[v1]% lors de chansons de série spécifiée"
 
 msgid "c_dsc_0057"
-msgstr ""
+msgstr "Âme du groupe +[v1]% lors de chansons Macross Δ (Pour série)"
 
 msgid "c_dsc_0058"
-msgstr ""
+msgstr "Voix du groupe +[v1]% lors de chansons Macross Δ (Pour série)"
 
 msgid "c_dsc_0059"
-msgstr ""
+msgstr "Charme du groupe +[v1]% lors de chansons Macross Δ (Pour série)"
 
 msgid "c_dsc_0060"
-msgstr ""
+msgstr "Âme du groupe +[v1]% lors de chansons Macross F (Pour série)"
 
 msgid "c_dsc_0061"
-msgstr ""
+msgstr "Voix du groupe +[v1]% lors de chansons Macross F (Pour série)"
 
 msgid "c_dsc_0062"
-msgstr ""
+msgstr "Charme du groupe +[v1]% lors de chansons Macross F (Pour série)"
 
 msgid "c_dsc_0063"
-msgstr ""
+msgstr "Âme du groupe +[v1]% lors de chansons Macross 7 (Pour série)"
 
 msgid "c_dsc_0064"
-msgstr ""
+msgstr "Voix du groupe +[v1]% lors de chansons Macross 7 (Pour série)"
 
 msgid "c_dsc_0065"
-msgstr ""
+msgstr "Charme du groupe +[v1]% lors de chansons Macross 7 (Pour série)"
 
 msgid "c_dsc_0066"
-msgstr ""
+msgstr "Âme du groupe +[v1]% lors de chansons Macross (Pour série)"
 
 msgid "c_dsc_0067"
-msgstr ""
+msgstr "Voix du groupe +[v1]% lors de chansons Macross (Pour série)"
 
 msgid "c_dsc_0068"
-msgstr ""
+msgstr "Charme du groupe +[v1]% lors de chansons Macross (Pour série)"
 
 msgid "c_dsc_0069"
-msgstr ""
+msgstr "Âme du groupe +[v1]% lors de chansons \"Autres\" (Pour série)"
 
 msgid "c_dsc_0070"
-msgstr ""
+msgstr "Voix du groupe +[v1]% lors de chansons \"Autres\" (Pour série)"
 
 msgid "c_dsc_0071"
-msgstr ""
+msgstr "Charme du groupe +[v1]% lors de chansons \"Autres\" (Pour série)"
 
 msgid "c_dsc_0072"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile Macross F"
 
 msgid "c_dsc_0073"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour Macross F"
 
 msgid "c_dsc_0074"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie Macross F"
 
 msgid "c_dsc_0075"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile Macross Δ"
 
 msgid "c_dsc_0076"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour Macross Δ"
 
 msgid "c_dsc_0077"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie Macross Δ"
 
 msgid "c_dsc_0078"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile Macross"
 
 msgid "c_dsc_0079"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour Macross"
 
 msgid "c_dsc_0080"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie Macross"
 
 msgid "c_dsc_0081"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons étoile Macross 7"
 
 msgid "c_dsc_0082"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons amour Macross 7"
 
 msgid "c_dsc_0083"
-msgstr ""
+msgstr "Valeur totale du groupe +[v1]% lors de chansons vie Macross 7"
 
 msgid "a_nm_0001"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "a_nm_0002"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "a_nm_0003"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "a_nm_0004"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0005"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0006"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0007"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0008"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0009"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "a_nm_0010"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "a_nm_0011"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "a_nm_0012"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "a_nm_0013"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "a_nm_0014"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "a_nm_0015"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "a_nm_0016"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "a_nm_0017"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "a_nm_0018"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "a_nm_0019"
-msgstr ""
+msgstr "100% d'objets"
 
 msgid "a_nm_0020"
 msgstr ""
 
 msgid "a_nm_0021"
-msgstr ""
+msgstr "Modif du jugement & Score+"
 
 msgid "a_nm_0022"
-msgstr ""
+msgstr "Bonus de combo"
 
 msgid "a_nm_0023"
-msgstr ""
+msgstr "Score & Dégats"
 
 msgid "a_nm_0024"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0025"
-msgstr ""
+msgstr "Bonus de combo"
 
 msgid "a_nm_0026"
-msgstr ""
+msgstr "Bonus de combo"
 
 msgid "a_dsc_0001"
-msgstr ""
+msgstr "Récupération de [v1]% de PV"
 
 msgid "a_dsc_0002"
-msgstr ""
+msgstr "Récupération de [v1]% de PV"
 
 msgid "a_dsc_0003"
-msgstr ""
+msgstr "Récupération de [v1]% de PV"
 
 msgid "a_dsc_0004"
-msgstr ""
+msgstr "Score +[v1]% pendant [dv] secondes"
 
 msgid "a_dsc_0005"
-msgstr ""
+msgstr "Score +[v1]% pendant [dv] secondes"
 
 msgid "a_dsc_0006"
-msgstr ""
+msgstr "Score +[v1]% pendant [dv] secondes"
 
 msgid "a_dsc_0007"
-msgstr ""
+msgstr "Score +[v1]% pendant [dv] secondes"
 
 msgid "a_dsc_0008"
-msgstr ""
+msgstr "Score +[v1]% pendant [dv] secondes"
 
 msgid "a_dsc_0009"
-msgstr ""
+msgstr "Aucun dégats pendant [dv] secondes"
 
 msgid "a_dsc_0010"
-msgstr ""
+msgstr "Moitié des dégats pendant [dv] secondes"
 
 msgid "a_dsc_0011"
-msgstr ""
+msgstr "Moitié des dégats pendant [dv] secondes"
 
 msgid "a_dsc_0012"
-msgstr ""
+msgstr "Moitié des dégats pendant [dv] secondes"
 
 msgid "a_dsc_0013"
-msgstr ""
+msgstr "Jugement assoupli pendant [dv] secondes"
 
 msgid "a_dsc_0014"
-msgstr ""
+msgstr "Jugement assoupli pendant [dv] secondes"
 
 msgid "a_dsc_0015"
-msgstr ""
+msgstr "Jugement assoupli pendant [dv] secondes"
 
 msgid "a_dsc_0016"
-msgstr ""
+msgstr "Combo non interruptible pendant [dv] secondes"
 
 msgid "a_dsc_0017"
-msgstr ""
+msgstr "Combo non interruptible pendant [dv] secondes"
 
 msgid "a_dsc_0018"
-msgstr ""
+msgstr "Combo non interruptible pendant [dv] secondes"
 
 msgid "a_dsc_0019"
-msgstr ""
+msgstr "Toutes les notes donnent des objets pendant [dv] secondes"
 
 msgid "a_dsc_0020"
-msgstr ""
+msgstr "Toutes les notes sont des PARFAIT pendant [dv] secondes"
 
 msgid "a_dsc_0021"
-msgstr ""
+msgstr "Jugement réduit mais score +[v2]% pendant [dv] secondes"
 
 msgid "a_dsc_0022"
-msgstr ""
+msgstr "Score +[v1]% pour 50 combos pendant [dv] secondes"
 
 msgid "a_dsc_0023"
-msgstr ""
+msgstr "PV réduits de [v1]/seconde pendant [dv2] secondes et score +[v2]%"
 
 msgid "a_dsc_0024"
-msgstr ""
+msgstr "Score +[v1]% pendant [dv] secondes (2 utilisations)"
 
 msgid "a_dsc_0025"
-msgstr ""
+msgstr "Score +[v1]% pour 50 combos pendant [dv] secondes"
 
 msgid "a_dsc_0026"
-msgstr ""
+msgstr "Score +[v1]% pour 50 combos pendant [dv] secondes (2 utilisations)"
 
 msgid "l_nm_0001"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0002"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0003"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0004"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0005"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0006"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0007"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0008"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0009"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0010"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0011"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0012"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0013"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0014"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0015"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0016"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0017"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0018"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0019"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0020"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0021"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0022"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0023"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0024"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0025"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0026"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0027"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0028"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0029"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0030"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0031"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0032"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0033"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0034"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0035"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0036"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0037"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0038"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0039"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0040"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0041"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0042"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0043"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0044"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0045"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0046"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0047"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0048"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0049"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0050"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0051"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0052"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0053"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0054"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0055"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0056"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0057"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0058"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0059"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0060"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0061"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0062"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0063"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0064"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0065"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0066"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0067"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0068"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0069"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0070"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0071"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0072"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0073"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0074"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0075"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0076"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0077"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0078"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0079"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0080"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0081"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0082"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0083"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0084"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0085"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0086"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0087"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0088"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0089"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0090"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0091"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0092"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0093"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0094"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0095"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0096"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0097"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0098"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0099"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0100"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0101"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0102"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0103"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0104"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0105"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0106"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0107"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0108"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0109"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0110"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0111"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0112"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0113"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0114"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "l_nm_0115"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0116"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0117"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "l_nm_0118"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0119"
-msgstr ""
+msgstr "Modif du jugement B + Score B"
 
 msgid "l_nm_0120"
-msgstr ""
+msgstr "Récupération de PV B + Score B"
 
 msgid "l_nm_0121"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "l_nm_0122"
-msgstr ""
+msgstr "Modif du jugement A + Score A"
 
 msgid "l_nm_0123"
-msgstr ""
+msgstr "Modif du jugement A + Score A"
 
 msgid "l_nm_0124"
-msgstr ""
+msgstr "Combo A + Score A"
 
 msgid "l_nm_0125"
-msgstr ""
+msgstr "Modif du jugement B + Score B"
 
 msgid "l_nm_0126"
-msgstr ""
+msgstr "Répétition du score"
 
 msgid "l_nm_0127"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0128"
-msgstr ""
+msgstr "Répétition du score"
 
 msgid "l_nm_0129"
-msgstr ""
+msgstr "Modif du jugement A + Score A"
 
 msgid "l_nm_0130"
-msgstr ""
+msgstr "Récupération de PV B + Score B"
 
 msgid "l_nm_0131"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "l_nm_0132"
-msgstr ""
+msgstr "Dégats A + Score A"
 
 msgid "l_nm_0133"
-msgstr ""
+msgstr "Réduction de dégats A + Score A"
 
 msgid "l_nm_0134"
-msgstr ""
+msgstr "Score & Dégats"
 
 msgid "l_nm_0135"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "l_nm_0136"
-msgstr ""
+msgstr "Score & Dégats"
 
 msgid "l_nm_0137"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0138"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0139"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0140"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0141"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0142"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0143"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0144"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0145"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0146"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0147"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0148"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0149"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0150"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0151"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0152"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0153"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0154"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0155"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0156"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0157"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0158"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0159"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0160"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0161"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0162"
-msgstr ""
+msgstr "Bonus de combo"
 
 msgid "l_nm_0163"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0164"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0165"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0166"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0167"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0168"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0169"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0170"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0171"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0172"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0173"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0174"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0175"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0176"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0177"
-msgstr ""
+msgstr "Jugement S + Répétition du score S"
 
 msgid "l_nm_0178"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0179"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0180"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0181"
-msgstr ""
+msgstr "Score & Dégats"
 
 msgid "l_nm_0182"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0183"
-msgstr ""
+msgstr "Modif du jugement S + Score S"
 
 msgid "l_nm_0184"
-msgstr ""
+msgstr "Court score+"
 
 msgid "l_nm_0185"
-msgstr ""
+msgstr "Long score+"
 
 msgid "l_nm_0186"
-msgstr ""
+msgstr "Bonus combo+"
 
 msgid "l_nm_0187"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0188"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0189"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0190"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0191"
-msgstr ""
+msgstr "Modif du jugement S + Score S"
 
 msgid "l_nm_0192"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0193"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0194"
-msgstr ""
+msgstr "Mode score+ (ancien)"
 
 msgid "l_nm_0195"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0196"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0197"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0198"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0199"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0200"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0201"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0202"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0203"
-msgstr ""
+msgstr "Répétition score de diva"
 
 msgid "l_nm_0204"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0205"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0206"
-msgstr ""
+msgstr "Modif du jugement S + Score S"
 
 msgid "l_nm_0207"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0208"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0209"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0210"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0211"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0212"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0213"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0214"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0215"
-msgstr ""
+msgstr "Mode score+"
 
 msgid "l_nm_0216"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0217"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0218"
-msgstr ""
+msgstr "Répétition de score & dégats"
 
 msgid "l_nm_0219"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0220"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0221"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0222"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0223"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0224"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0225"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0226"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0227"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0228"
-msgstr ""
+msgstr "Modif du jugement S + Score S"
 
 msgid "l_nm_0229"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0230"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0231"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0232"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0233"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0234"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0235"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0236"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0237"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0238"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0239"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0240"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0241"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0242"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0243"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0244"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0245"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0246"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0247"
-msgstr ""
+msgstr "Récupération PV S + Score S"
 
 msgid "l_nm_0248"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0249"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0250"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0251"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0252"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0253"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0254"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0255"
-msgstr ""
+msgstr "Diva score & dégats"
 
 msgid "l_nm_0256"
-msgstr ""
+msgstr "Bio-Fold & Score+"
 
 msgid "l_nm_0257"
-msgstr ""
+msgstr "Score d'affinité+"
 
 msgid "l_nm_0258"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0259"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0260"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0261"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0262"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0263"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0264"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0265"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0266"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0267"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0268"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0269"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0270"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0271"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0272"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0273"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "l_nm_0274"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0275"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0276"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0277"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "l_nm_0278"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0279"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0280"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "l_nm_0281"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0282"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0283"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0284"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "l_nm_0285"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0286"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0287"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0288"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "l_nm_0289"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0290"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "l_nm_0291"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "l_dsc_0001"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0002"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0003"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0004"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0005"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0006"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0007"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0008"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0009"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0010"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0011"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0012"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0013"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0014"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0015"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0016"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0017"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0018"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0019"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0020"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0021"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0022"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0023"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0024"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0025"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0026"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0027"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0028"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0029"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0030"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0031"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0032"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0033"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0034"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0035"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0036"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0037"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0038"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0039"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0040"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0041"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0042"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0043"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0044"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0045"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0046"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0047"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0048"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0049"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0050"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0051"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0052"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0053"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0054"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0055"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0056"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0057"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0058"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0059"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0060"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0061"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0062"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0063"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0064"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0065"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0066"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0067"
 msgstr ""
+"Dégats réduits de 30% pendant [dv] secondes lorsque les PV sont inférieur à "
+"[tv]%"
 
 msgid "l_dsc_0068"
 msgstr ""
+"Dégats réduits de 30% pendant [dv] secondes lorsque les PV sont inférieur à "
+"[tv]%"
 
 msgid "l_dsc_0069"
 msgstr ""
+"Dégats réduits de 30% pendant [dv] secondes lorsque les PV sont inférieur à "
+"[tv]%"
 
 msgid "l_dsc_0070"
 msgstr ""
+"Dégats réduits de 30% pendant [dv] secondes lorsque les PV sont inférieur à "
+"[tv]%"
 
 msgid "l_dsc_0071"
 msgstr ""
+"Dégats réduits de 30% pendant [dv] secondes lorsque les PV sont inférieur à "
+"[tv]%"
 
 msgid "l_dsc_0072"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0073"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0074"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0075"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0076"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0077"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0078"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes"
 
 msgid "l_dsc_0079"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0080"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0081"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0082"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0083"
-msgstr ""
+msgstr "S'active après [tv] secondes, immunise des dégats pendant [dv] secondes"
 
 msgid "l_dsc_0084"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0085"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0086"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0087"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0088"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0089"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0090"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0091"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0092"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0093"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0094"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0095"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0096"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0097"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes"
 
 msgid "l_dsc_0098"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0099"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0100"
-msgstr ""
+msgstr "Après [tv] combo, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0101"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0102"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0103"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0104"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0105"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0106"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0107"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0108"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0109"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0110"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0111"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0112"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0113"
 msgstr ""
+"S'active au début du mode Valkyrie et assoupli le jugement pendant [dv] "
+"secondes"
 
 msgid "l_dsc_0114"
 msgstr ""
+"S'active au début du mode Valkyrie, combo ininterruptible pendant [dv] "
+"secondes"
 
 msgid "l_dsc_0115"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0116"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0117"
-msgstr ""
+msgstr "Récupère [v1]% de PV lorsqu'ils tombent sous [tv]%"
 
 msgid "l_dsc_0118"
 msgstr ""
+"S'active lorsque les PV sont inférieur à [tv]%, dégats/2 pendant [dv] "
+"secondes"
 
 msgid "l_dsc_0119"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0120"
 msgstr ""
+"S'active après [tv] secondes, récupère [v1]% PV et score +[v2]% pendant [dv2]"
+" secondes"
 
 msgid "l_dsc_0121"
-msgstr ""
+msgstr "Dégats/2 pendant [dv] secondes lorsque les PV sont inférieur à [tv]%"
 
 msgid "l_dsc_0122"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0123"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0124"
 msgstr ""
+"S'active après [tv] secondes, combo ininterruptible pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0125"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0126"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0127"
 msgstr ""
+"S'active au début du mode Super diva, assoupli le jugement pendant [dv] "
+"secondes"
 
 msgid "l_dsc_0128"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0129"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0130"
 msgstr ""
+"S'active après [tv] secondes, récupère [v1]% PV et score +[v2]% pendant [dv2]"
+" secondes"
 
 msgid "l_dsc_0131"
 msgstr ""
+"S'active au début du mode Valkyrie et assoupli le jugement pendant [dv] "
+"secondes"
 
 msgid "l_dsc_0132"
 msgstr ""
+"S'active après [tv] secondes, immunisé aux dégats pendant [dv] secondes et "
+"score +[v2]%"
 
 msgid "l_dsc_0133"
 msgstr ""
+"S'active après [tv] secondes, dégats/2 pendant [dv] secondes et score +[v2]% "
+"pendant [dv2] secondes"
 
 msgid "l_dsc_0134"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0135"
 msgstr ""
+"S'active quand les PV sont inférieurs à [tv]%, invulnérable pendant [dv] "
+"secondes"
 
 msgid "l_dsc_0136"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0137"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0138"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0139"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0140"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0141"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0142"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0143"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0144"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0145"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0146"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0147"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0148"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0149"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0150"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0151"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0152"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0153"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0154"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0155"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0156"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0157"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0158"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0159"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0160"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0161"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0162"
 msgstr ""
+"S'active au début du mode Super diva, score +[v1]% pour chaque combo de 50 "
+"pendant [dv] secondes"
 
 msgid "l_dsc_0163"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0164"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0165"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0166"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0167"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0168"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0169"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0170"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0171"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0172"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0173"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0174"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0175"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0176"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0177"
 msgstr ""
+"S'active toutes les [tv] secondes, jugement assoupli pendant [dv] secondes, "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0178"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0179"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0180"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0181"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0182"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0183"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0184"
-msgstr ""
+msgstr "+[v1]% de l'effet score+ des compétence pour les live court"
 
 msgid "l_dsc_0185"
-msgstr ""
+msgstr "+[v1]% de l'effet score+ des compétence pour les live long"
 
 msgid "l_dsc_0186"
 msgstr ""
+"+[v1]% des effets des score bonus de combo (Uniquement aux compétences live "
+"des bonus de combo normal)"
 
 msgid "l_dsc_0187"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0188"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0189"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0190"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0191"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0192"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0193"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0194"
 msgstr ""
+"S'active au début du mode Super diva, score +{v1]% jusqu'à faire GREAT ou "
+"inférieur. Actif seulement pendant le mode"
 
 msgid "l_dsc_0195"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0196"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0197"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0198"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0199"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0200"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0201"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0202"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0203"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0204"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0205"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0206"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0207"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0208"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0209"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0210"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0211"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0212"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0213"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0214"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0215"
 msgstr ""
+"S'active au début du mode Super diva, score +{v1]% sur PERFECT ou mieux, "
+"jusqu'à faire GOOD ou inférieur. Actif seulement pendant le mode"
 
 msgid "l_dsc_0216"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0217"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0218"
 msgstr ""
+"S'active toutes les [tv] secondes, PV réduits de [v1] et score +[v2]% toutes "
+"les [dv2] secondes"
 
 msgid "l_dsc_0219"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0220"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0221"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0222"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0223"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0224"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0225"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0226"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0227"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0228"
 msgstr ""
+"S'active après [tv] secondes, assoupli le jugement pendant [dv] secondes et "
+"score +[v2]% pendant [dv2] secondes"
 
 msgid "l_dsc_0229"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0230"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0231"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0232"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0233"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0234"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0235"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0236"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0237"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0238"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0239"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0240"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0241"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0242"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0243"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0244"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0245"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0246"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0247"
 msgstr ""
+"S'active après [tv] secondes, récupère [v1]% PV et score +[v2]% pendant [dv2]"
+" secondes"
 
 msgid "l_dsc_0248"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0249"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0250"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0251"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0252"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0253"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0254"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0255"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0256"
 msgstr ""
+"S'active au début du mode Valkyrie, pour chaque [v1_1]% du Bio-Fold, "
+"augmente le score de [v1_2]% toutes les [dv] secondes ([v1_max] max)"
 
 msgid "l_dsc_0257"
 msgstr ""
+"S'active après [tv] secondes, score +[v1_2]% pour chaque [v1_1] affection de "
+"la diva portant la plaque pendant [dv] secondes"
 
 msgid "l_dsc_0258"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0259"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0260"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0261"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0262"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0263"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0264"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0265"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0266"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0267"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0268"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0269"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0270"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0271"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0272"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0273"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0274"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0275"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0276"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0277"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0278"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0279"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0280"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0281"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0282"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0283"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0284"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0285"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0286"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0287"
-msgstr ""
+msgstr "S'active après [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0288"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "l_dsc_0289"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0290"
-msgstr ""
+msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0291"
 msgstr ""
+"S'active après [tv] secondes, PV réduits de [v1] et score +[v2]% chaque "
+"seconde pendant [dv2] secondes"
 
 msgid "cs_nm_0001"
-msgstr "Vie +{0}%"
+msgstr "PV +{0}%"
 
 msgid "cs_nm_0002"
-msgstr "Âme + {0}%"
+msgstr "Âme +{0}%"
 
 msgid "cs_nm_0003"
-msgstr "Chant +{0}%"
+msgstr "Voix +{0}%"
 
 msgid "cs_nm_0004"
 msgstr "Charme +{0}%"
@@ -2706,235 +2838,253 @@ msgid "cs_nm_0005"
 msgstr "Attr. Étoile +{0}%"
 
 msgid "cs_nm_0006"
-msgstr ""
+msgstr "Attr. Amour + {0}%"
 
 msgid "cs_nm_0007"
-msgstr ""
+msgstr "Attr. Vie + {0}%"
 
 msgid "cs_nm_0008"
-msgstr ""
+msgstr "Bio-fold +{0}%"
 
 msgid "cs_nm_0009"
-msgstr ""
+msgstr "Support +{0}%"
 
 msgid "cs_nm_0010"
-msgstr ""
+msgstr "Toutes les stats +{0}%"
 
 msgid "cs_nm_0011"
-msgstr ""
+msgstr "Total +{0}%"
 
 msgid "cs_nm_0012"
-msgstr ""
+msgstr "Âme & Voix +{0}%"
 
 msgid "cs_nm_0013"
-msgstr ""
+msgstr "Âme & Charme +{0}%"
 
 msgid "cs_nm_0014"
-msgstr ""
+msgstr "Voix & Charme +{0}%"
 
 msgid "cs_nm_0015"
-msgstr ""
+msgstr "Bio-fold +{0}%"
 
 msgid "cs_nm_0016"
-msgstr ""
+msgstr "Total & PV +{0}%"
 
 msgid "cs_nm_0017"
-msgstr ""
+msgstr "Total & Support +{0}%"
 
 msgid "cs_nm_0018"
-msgstr ""
+msgstr "Charme & PV + {0}%"
 
 msgid "cs_nm_0019"
-msgstr ""
+msgstr "Voix & PV +{0}%"
 
 msgid "cs_nm_0020"
-msgstr ""
+msgstr "Âme & PV +{0}%"
 
 msgid "cs_nm_0021"
-msgstr ""
+msgstr "Total +{0}%"
 
 msgid "cs_nm_0022"
-msgstr ""
+msgstr "Attr. Étoile +{0}%"
 
 msgid "cs_nm_0023"
-msgstr ""
+msgstr "Attr. Amour + {0}%"
 
 msgid "cs_nm_0024"
-msgstr ""
+msgstr "Attr. Vie + {0}%"
 
 msgid "cs_nm_0025"
-msgstr ""
+msgstr "Total +{0}%"
 
 msgid "cs_nm_0026"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_nm_0027"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_nm_0028"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "cs_nm_0029"
-msgstr ""
+msgstr "Attr. Étoile +{0}%"
 
 msgid "cs_nm_0030"
-msgstr ""
+msgstr "Attr. Amour + {0}%"
 
 msgid "cs_nm_0031"
-msgstr ""
+msgstr "Attr. Vie + {0}%"
 
 msgid "cs_nm_0032"
-msgstr ""
+msgstr "Diva total +{0}%"
 
 msgid "cs_nm_0033"
-msgstr ""
+msgstr "Âme & Voix +{0}%"
 
 msgid "cs_nm_0034"
-msgstr ""
+msgstr "Âme & Charme +{0}%"
 
 msgid "cs_nm_0035"
-msgstr ""
+msgstr "Voix & Charme +{0}%"
 
 msgid "cs_nm_0036"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_nm_0037"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_nm_0038"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "cs_nm_0039"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_nm_0040"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_nm_0041"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "cs_dsc_0001"
-msgstr ""
+msgstr "PV +{0}%"
 
 msgid "cs_dsc_0002"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_dsc_0003"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_dsc_0004"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "cs_dsc_0005"
 msgstr ""
+"Toutes les stats des \n"
+"plaques étoile +{0}%"
 
 msgid "cs_dsc_0006"
 msgstr ""
+"Toutes les stats des \n"
+"plaques amour +{0}%"
 
 msgid "cs_dsc_0007"
 msgstr ""
+"Toutes les stats des \n"
+"plaques vie +{0}%"
 
 msgid "cs_dsc_0008"
-msgstr ""
+msgstr "Bio-fold +{0}%"
 
 msgid "cs_dsc_0009"
-msgstr ""
+msgstr "Support +{0}%"
 
 msgid "cs_dsc_0010"
-msgstr "Augmente toutes les stats de {0}%"
+msgstr "Toutes les stats +{0}%"
 
 msgid "cs_dsc_0011"
-msgstr ""
+msgstr "Total +{0}%"
 
 msgid "cs_dsc_0012"
-msgstr ""
+msgstr "Âme & Voix +{0}%"
 
 msgid "cs_dsc_0013"
-msgstr ""
+msgstr "Âme & Charme +{0}%"
 
 msgid "cs_dsc_0014"
-msgstr ""
+msgstr "Voix & Charme +{0}%"
 
 msgid "cs_dsc_0015"
-msgstr ""
+msgstr "Bio-fold +{0}%"
 
 msgid "cs_dsc_0016"
-msgstr ""
+msgstr "Total & PV +{0}%"
 
 msgid "cs_dsc_0017"
-msgstr ""
+msgstr "Total & Support +{0}%"
 
 msgid "cs_dsc_0018"
-msgstr ""
+msgstr "Charme & PV + {0}%"
 
 msgid "cs_dsc_0019"
-msgstr ""
+msgstr "Voix & PV +{0}%"
 
 msgid "cs_dsc_0020"
-msgstr ""
+msgstr "Âme & PV +{0}%"
 
 msgid "cs_dsc_0021"
-msgstr ""
+msgstr "Total +{0}%"
 
 msgid "cs_dsc_0022"
 msgstr ""
+"Toutes les stats des \n"
+"plaques étoile +{0}%"
 
 msgid "cs_dsc_0023"
 msgstr ""
+"Toutes les stats des \n"
+"plaques amour +{0}%"
 
 msgid "cs_dsc_0024"
 msgstr ""
+"Toutes les stats des \n"
+"plaques vie +{0}%"
 
 msgid "cs_dsc_0025"
-msgstr ""
+msgstr "Total +{0}%"
 
 msgid "cs_dsc_0026"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_dsc_0027"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_dsc_0028"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "cs_dsc_0029"
 msgstr ""
+"Toutes les stats des \n"
+"plaques étoile +{0}%"
 
 msgid "cs_dsc_0030"
 msgstr ""
+"Toutes les stats des \n"
+"plaques amour +{0}%"
 
 msgid "cs_dsc_0031"
 msgstr ""
+"Toutes les stats des \n"
+"plaques vie +{0}%"
 
 msgid "cs_dsc_0032"
-msgstr ""
+msgstr "Diva total +{0}%"
 
 msgid "cs_dsc_0033"
-msgstr ""
+msgstr "Âme & Voix +{0}%"
 
 msgid "cs_dsc_0034"
-msgstr ""
+msgstr "Âme & Charme +{0}%"
 
 msgid "cs_dsc_0035"
-msgstr ""
+msgstr "Voix & Charme +{0}%"
 
 msgid "cs_dsc_0036"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_dsc_0037"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_dsc_0038"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "cs_dsc_0039"
-msgstr ""
+msgstr "Âme +{0}%"
 
 msgid "cs_dsc_0040"
-msgstr ""
+msgstr "Voix +{0}%"
 
 msgid "cs_dsc_0041"
-msgstr ""
+msgstr "Charme +{0}%"
 
 msgid "el_nm_0001"
 msgstr ""
