@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-07-16 19:28+0000\n"
-"Last-Translator: F91 <goddangitpaul@gmail.com>\n"
+"PO-Revision-Date: 2024-07-27 18:28+0000\n"
+"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
 "Language: en\n"
@@ -429,7 +429,7 @@ msgid "StringLiteral_11083"
 msgstr ""
 
 msgid "StringLiteral_11085"
-msgstr ""
+msgstr "MAX"
 
 msgid "StringLiteral_11086"
 msgstr ""
@@ -645,7 +645,7 @@ msgid "StringLiteral_12010"
 msgstr "Costume Name"
 
 msgid "StringLiteral_12037"
-msgstr ""
+msgstr " "
 
 msgid "StringLiteral_12038"
 msgstr ""
@@ -1149,7 +1149,7 @@ msgid "StringLiteral_13620"
 msgstr ""
 
 msgid "StringLiteral_13959"
-msgstr ""
+msgstr "★"
 
 msgid "StringLiteral_13975"
 msgstr "EX Rate="
@@ -1161,7 +1161,7 @@ msgid "StringLiteral_13977"
 msgstr ""
 
 msgid "StringLiteral_14007"
-msgstr ""
+msgstr "×{0}"
 
 msgid "StringLiteral_14024"
 msgstr ""
@@ -1176,7 +1176,7 @@ msgid "StringLiteral_14401"
 msgstr "+Button"
 
 msgid "StringLiteral_14529"
-msgstr ""
+msgstr "———"
 
 msgid "StringLiteral_14769"
 msgstr "{0}-san"
@@ -1197,7 +1197,7 @@ msgid "StringLiteral_15054"
 msgstr "」"
 
 msgid "StringLiteral_15055"
-msgstr ""
+msgstr " Exclusive Costume"
 
 msgid "StringLiteral_15265"
 msgstr ""
@@ -1260,7 +1260,7 @@ msgid "StringLiteral_15697"
 msgstr ""
 
 msgid "StringLiteral_15750"
-msgstr ""
+msgstr "{0} {1} until next reward"
 
 msgid "StringLiteral_15778"
 msgstr ""
@@ -1329,7 +1329,7 @@ msgid "StringLiteral_17788"
 msgstr ""
 
 msgid "StringLiteral_17960"
-msgstr ""
+msgstr "{0} times"
 
 msgid "StringLiteral_18022"
 msgstr ""
@@ -1341,10 +1341,10 @@ msgid "StringLiteral_18024"
 msgstr ""
 
 msgid "StringLiteral_18054"
-msgstr ""
+msgstr "Up to {0}s"
 
 msgid "StringLiteral_18067"
-msgstr ""
+msgstr "Recovered {0} Energy"
 
 msgid "StringLiteral_18280"
 msgstr "Prism"
@@ -1419,7 +1419,7 @@ msgid "StringLiteral_20367"
 msgstr ""
 
 msgid "StringLiteral_20369"
-msgstr ""
+msgstr "±{0}"
 
 msgid "StringLiteral_20382"
 msgstr ""
@@ -1932,7 +1932,7 @@ msgid "UMO_SupportImp2"
 msgstr ""
 
 msgid "UMO_NumLeft"
-msgstr ""
+msgstr "Times left"
 
 msgid "UMO_PlayAttr"
 msgstr ""
