@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-06-23 09:28+0000\n"
-"Last-Translator: Mitsu <meryamselmii@gmail.com>\n"
+"PO-Revision-Date: 2024-08-03 16:28+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
 "Language: fr\n"
@@ -370,16 +370,16 @@ msgid "StringLiteral_11015"
 msgstr ""
 
 msgid "StringLiteral_11062"
-msgstr ""
+msgstr "PV"
 
 msgid "StringLiteral_11063"
-msgstr ""
+msgstr "Âme"
 
 msgid "StringLiteral_11064"
-msgstr ""
+msgstr "Voix"
 
 msgid "StringLiteral_11065"
-msgstr ""
+msgstr "Charme"
 
 msgid "StringLiteral_11066"
 msgstr ""
@@ -391,7 +391,7 @@ msgid "StringLiteral_11068"
 msgstr ""
 
 msgid "StringLiteral_11069"
-msgstr ""
+msgstr "Support"
 
 msgid "StringLiteral_11070"
 msgstr ""
@@ -685,7 +685,7 @@ msgid "StringLiteral_12297"
 msgstr ""
 
 msgid "StringLiteral_12298"
-msgstr ""
+msgstr "Reçoit "
 
 msgid "StringLiteral_12300"
 msgstr ""
@@ -1120,7 +1120,7 @@ msgid "StringLiteral_13053"
 msgstr ""
 
 msgid "StringLiteral_13085"
-msgstr ""
+msgstr "Objet"
 
 msgid "StringLiteral_13101"
 msgstr ""
@@ -1267,7 +1267,7 @@ msgid "StringLiteral_15778"
 msgstr ""
 
 msgid "StringLiteral_15794"
-msgstr ""
+msgstr "Encore {0} {1}"
 
 msgid "StringLiteral_15830"
 msgstr ""
@@ -1885,46 +1885,46 @@ msgid "UMO_Next"
 msgstr ""
 
 msgid "UMO_Total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "UMO_Fold"
-msgstr ""
+msgstr "Bio-fold"
 
 msgid "UMO_Luck"
-msgstr ""
+msgstr "Chance"
 
 msgid "UMO_Status"
-msgstr ""
+msgstr "Status"
 
 msgid "UMO_SubStatus"
-msgstr ""
+msgstr "Effets plaques sup."
 
 msgid "UMO_CenterSkill"
-msgstr ""
+msgstr "Comp. centrale"
 
 msgid "UMO_ActiveSkill"
-msgstr ""
+msgstr "Comp. active"
 
 msgid "UMO_LeafLabel"
-msgstr ""
+msgstr "Effets trèfle"
 
 msgid "UMO_Excellent"
-msgstr ""
+msgstr "EXCELLENT"
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr ""
+msgstr "Prob. notes comp. centrale L"
 
 msgid "UMO_Notes"
-msgstr ""
+msgstr "Notes prévues"
 
 msgid "UMO_Heal"
-msgstr ""
+msgstr "Soin"
 
 msgid "UMO_Score"
-msgstr ""
+msgstr "Score"
 
 msgid "UMO_Atk"
-msgstr ""
+msgstr "Attaque"
 
 msgid "UMO_SupportImp"
 msgstr ""
