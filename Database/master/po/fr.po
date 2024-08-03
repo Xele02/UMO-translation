@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-07-27 18:28+0000\n"
+"PO-Revision-Date: 2024-08-03 13:23+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -381,28 +381,28 @@ msgid "c_nm_0030"
 msgstr "Fold+"
 
 msgid "c_nm_0031"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0032"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0033"
 msgstr "Chanson vie total+"
 
 msgid "c_nm_0034"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0035"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0036"
 msgstr "Chanson vie total+"
 
 msgid "c_nm_0037"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0038"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0039"
 msgstr "Chanson vie total+"
@@ -504,37 +504,37 @@ msgid "c_nm_0071"
 msgstr "Charme+"
 
 msgid "c_nm_0072"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0073"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0074"
 msgstr "Chanson vie total+"
 
 msgid "c_nm_0075"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0076"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0077"
 msgstr "Chanson vie total+"
 
 msgid "c_nm_0078"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0079"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0080"
 msgstr "Chanson vie total+"
 
 msgid "c_nm_0081"
-msgstr "Chanson étoile total+"
+msgstr "Chanson ☆ total+"
 
 msgid "c_nm_0082"
-msgstr "Chanson amour total+"
+msgstr "Chanson ♡ total+"
 
 msgid "c_nm_0083"
 msgstr "Chanson vie total+"
@@ -849,7 +849,7 @@ msgid "a_nm_0020"
 msgstr ""
 
 msgid "a_nm_0021"
-msgstr "Modif du jugement & Score+"
+msgstr "Modif jugement & Score+"
 
 msgid "a_nm_0022"
 msgstr "Bonus de combo"
@@ -1299,40 +1299,40 @@ msgid "l_nm_0118"
 msgstr "Réduction de dégats"
 
 msgid "l_nm_0119"
-msgstr "Modif du jugement B + Score B"
+msgstr "Jugement B + Score B"
 
 msgid "l_nm_0120"
-msgstr "Récupération de PV B + Score B"
+msgstr "Récup. PV B + Score B"
 
 msgid "l_nm_0121"
 msgstr "Réduction de dégats"
 
 msgid "l_nm_0122"
-msgstr "Modif du jugement A + Score A"
+msgstr "Jugement A + Score A"
 
 msgid "l_nm_0123"
-msgstr "Modif du jugement A + Score A"
+msgstr "Jugement A + Score A"
 
 msgid "l_nm_0124"
 msgstr "Combo A + Score A"
 
 msgid "l_nm_0125"
-msgstr "Modif du jugement B + Score B"
+msgstr "Jugement B + Score B"
 
 msgid "l_nm_0126"
-msgstr "Répétition du score"
+msgstr "Répétition score+"
 
 msgid "l_nm_0127"
 msgstr "Modif du jugement"
 
 msgid "l_nm_0128"
-msgstr "Répétition du score"
+msgstr "Répétition score+"
 
 msgid "l_nm_0129"
-msgstr "Modif du jugement A + Score A"
+msgstr "Jugement A + Score A"
 
 msgid "l_nm_0130"
-msgstr "Récupération de PV B + Score B"
+msgstr "Récup. PV B + Score B"
 
 msgid "l_nm_0131"
 msgstr "Modif du jugement"
@@ -1341,7 +1341,7 @@ msgid "l_nm_0132"
 msgstr "Dégats A + Score A"
 
 msgid "l_nm_0133"
-msgstr "Réduction de dégats A + Score A"
+msgstr "Dégats- A + Score A"
 
 msgid "l_nm_0134"
 msgstr "Score & Dégats"
@@ -1473,7 +1473,7 @@ msgid "l_nm_0176"
 msgstr "Répétition du score EX"
 
 msgid "l_nm_0177"
-msgstr "Jugement S + Répétition du score S"
+msgstr "Répét. juge S + Score S"
 
 msgid "l_nm_0178"
 msgstr "Score+ EX"
@@ -1491,13 +1491,13 @@ msgid "l_nm_0182"
 msgstr "Score+ EX"
 
 msgid "l_nm_0183"
-msgstr "Modif du jugement S + Score S"
+msgstr "Jugement S + Score S"
 
 msgid "l_nm_0184"
-msgstr "Court score+"
+msgstr "Live court score+"
 
 msgid "l_nm_0185"
-msgstr "Long score+"
+msgstr "Live long score+"
 
 msgid "l_nm_0186"
 msgstr "Bonus combo+"
@@ -1515,7 +1515,7 @@ msgid "l_nm_0190"
 msgstr "Répétition du score EX"
 
 msgid "l_nm_0191"
-msgstr "Modif du jugement S + Score S"
+msgstr "Jugement S + Score S"
 
 msgid "l_nm_0192"
 msgstr "Répétition du score EX"
@@ -1560,7 +1560,7 @@ msgid "l_nm_0205"
 msgstr "Répétition du score EX"
 
 msgid "l_nm_0206"
-msgstr "Modif du jugement S + Score S"
+msgstr "Jugement S + Score S"
 
 msgid "l_nm_0207"
 msgstr "Répétition du score EX"
@@ -1596,7 +1596,7 @@ msgid "l_nm_0217"
 msgstr "Répétition du score EX"
 
 msgid "l_nm_0218"
-msgstr "Répétition de score & dégats"
+msgstr "Répét. score & dégats"
 
 msgid "l_nm_0219"
 msgstr "Répétition du score EX"
@@ -1626,7 +1626,7 @@ msgid "l_nm_0227"
 msgstr "Score+ EX"
 
 msgid "l_nm_0228"
-msgstr "Modif du jugement S + Score S"
+msgstr "Jugement S + Score S"
 
 msgid "l_nm_0229"
 msgstr "Répétition du score EX"
@@ -1683,7 +1683,7 @@ msgid "l_nm_0246"
 msgstr "Répétition du score EX"
 
 msgid "l_nm_0247"
-msgstr "Récupération PV S + Score S"
+msgstr "Récup. PV S + Score S"
 
 msgid "l_nm_0248"
 msgstr "Répétition du score EX"
@@ -2500,7 +2500,7 @@ msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0194"
 msgstr ""
-"S'active au début du mode Super diva, score +{v1]% jusqu'à faire GREAT ou "
+"S'active au début du mode Super diva, score +[v1]% jusqu'à faire GREAT ou "
 "inférieur. Actif seulement pendant le mode"
 
 msgid "l_dsc_0195"
@@ -2567,7 +2567,7 @@ msgstr "S'active toutes les [tv] secondes, score +[v1]% pendant [dv] secondes"
 
 msgid "l_dsc_0215"
 msgstr ""
-"S'active au début du mode Super diva, score +{v1]% sur PERFECT ou mieux, "
+"S'active au début du mode Super diva, score +[v1]% sur PERFECT ou mieux, "
 "jusqu'à faire GOOD ou inférieur. Actif seulement pendant le mode"
 
 msgid "l_dsc_0216"
