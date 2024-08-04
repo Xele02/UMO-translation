@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-04 10:26+0000\n"
+"PO-Revision-Date: 2024-08-04 15:57+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -3752,34 +3752,36 @@ msgid "bingo_next_reward_text"
 msgstr ""
 
 msgid "bingo_reward_select_desc1"
-msgstr ""
+msgstr "Tu peux sélectionner 1 récompense par mission de bingo."
 
 msgid "bingo_reward_select_desc2"
-msgstr ""
+msgstr "La mission bingo peux être joué {0} fois."
 
 msgid "bingo_reward_select_desc3"
-msgstr ""
+msgstr "La récompense ne peux pas être changé après avoir démarré."
 
 msgid "bingo_reward_select_title"
-msgstr ""
+msgstr "Plaque reçu pour complétion"
 
 msgid "bingo_reward_select_caution_desc"
 msgstr ""
+"※L'épisode peut être entièrement débloqué avec les plaques que tu possèdes "
+"actuellement."
 
 msgid "bingo_reward_select_caution_desc1"
-msgstr ""
+msgstr "※Cet épisode est complètement débloqué."
 
 msgid "bingo_reward_select_conf_text"
-msgstr ""
+msgstr "Choisir cette récompense ?"
 
 msgid "bingo_reward_select_conf_title"
-msgstr ""
+msgstr "Sélection de récompense"
 
 msgid "bingo_mission_reward_pop_title"
 msgstr ""
 
 msgid "bingo_reward_pop_title"
-msgstr ""
+msgstr "Récompense de bingo"
 
 msgid "bingo_mission_reward_get_pop_title"
 msgstr ""
@@ -3867,6 +3869,8 @@ msgstr ""
 
 msgid "bingo_reward_select_scene_detail_text"
 msgstr ""
+"Plaques augmentant beaucoup \n"
+"l'EP de【{0}】."
 
 msgid "bingo_normal_bingo_start_text"
 msgstr ""
