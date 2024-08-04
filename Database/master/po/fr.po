@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-03 16:28+0000\n"
+"PO-Revision-Date: 2024-08-04 10:05+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -25126,22 +25126,22 @@ msgid "odv_nm_0100"
 msgstr ""
 
 msgid "obg_nm_0001"
-msgstr ""
+msgstr "Mesure d'ondes bio-fold"
 
 msgid "obg_nm_0002"
-msgstr ""
+msgstr "Surveillance des îles Atalia du sud"
 
 msgid "obg_nm_0003"
-msgstr ""
+msgstr "Fais chanter le champ de bataille !"
 
 msgid "obg_nm_0004"
-msgstr ""
+msgstr "Examen d'incorporation au S.M.S"
 
 msgid "obg_nm_0005"
-msgstr ""
+msgstr "Piège à souris"
 
 msgid "obg_nm_0006"
-msgstr ""
+msgstr "Incident de la cité 7"
 
 msgid "obg_nm_0007"
 msgstr ""
