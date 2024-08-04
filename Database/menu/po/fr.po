@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-04 09:35+0000\n"
+"PO-Revision-Date: 2024-08-04 10:05+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -5774,25 +5774,25 @@ msgid "home_footer_badge_text_02"
 msgstr "NOUVEAU !"
 
 msgid "home_footer_badge_text_03"
-msgstr ""
+msgstr "Lotterie màj !"
 
 msgid "home_footer_badge_text_04"
-msgstr ""
+msgstr "Matin gratuit !"
 
 msgid "home_footer_badge_text_05"
-msgstr ""
+msgstr "Midi gratuit !"
 
 msgid "home_footer_badge_text_06"
-msgstr ""
+msgstr "Nuit gratuit !"
 
 msgid "home_footer_badge_text_07"
-msgstr ""
+msgstr "CHECK !"
 
 msgid "home_footer_badge_text_08"
-msgstr ""
+msgstr "Nouveauté !"
 
 msgid "home_footer_badge_text_09"
-msgstr ""
+msgstr "Message reçu"
 
 msgid "home_banner_period"
 msgstr ""
