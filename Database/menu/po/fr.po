@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-04 10:05+0000\n"
+"PO-Revision-Date: 2024-08-04 10:26+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -770,7 +770,7 @@ msgid "header_desc_home010"
 msgstr ""
 
 msgid "header_desc_vop000"
-msgstr ""
+msgstr "Sélectionne une opération"
 
 msgid "header_desc_vop001"
 msgstr ""
@@ -1412,13 +1412,13 @@ msgid "music_event_period_date"
 msgstr ""
 
 msgid "music_event_remain_prefix"
-msgstr "Après "
+msgstr "Encore "
 
 msgid "music_event_remain_day"
 msgstr ""
 
 msgid "music_event_remain_hour"
-msgstr "{0} heures"
+msgstr "{0} h."
 
 msgid "music_event_remain_minute"
 msgstr ""
@@ -3335,7 +3335,7 @@ msgid "offer_formation_name_notchangedcomment_popup"
 msgstr ""
 
 msgid "offer_chenge_popup_title"
-msgstr ""
+msgstr "Confirmation de changement"
 
 msgid "offer_plantoon_chenge_popup_text_01"
 msgstr ""
@@ -3344,7 +3344,7 @@ msgid "offer_no_leader_popup_text"
 msgstr ""
 
 msgid "offer_Dissolution_popup_text"
-msgstr ""
+msgstr "Voulez-vous dissoudre le peloton ?"
 
 msgid "offer__cant_orders_popup_text"
 msgstr ""
@@ -3617,7 +3617,7 @@ msgid "home_diva_button_monthly_pass"
 msgstr ""
 
 msgid "popup_add_operation_text"
-msgstr ""
+msgstr "Opérations ajoutées."
 
 msgid "pop_pass_title"
 msgstr ""
@@ -5174,7 +5174,7 @@ msgid "popup_sort_title_guest_select"
 msgstr ""
 
 msgid "quest_receive_all_desc"
-msgstr ""
+msgstr "※Jusqu'à {0} récompense peuvent être reçus en une fois."
 
 msgid "popup_quest_receive_limit_title"
 msgstr ""
