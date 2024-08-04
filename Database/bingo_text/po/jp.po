@@ -1,0 +1,1083 @@
+msgid ""
+msgstr ""
+
+msgid "bingo_0001_0001_0001_desc"
+msgstr "プレイヤーランク\nを8にする"
+
+msgid "bingo_0001_0001_0001_cond"
+msgstr "プレイヤーランクを8にする"
+
+msgid "bingo_0001_0001_0002_desc"
+msgstr "Aスキル\n「ライフ回復」\nを発動してクリア"
+
+msgid "bingo_0001_0001_0002_cond"
+msgstr "アクティブスキル「ライフ回復」を発動してクリア"
+
+msgid "bingo_0001_0001_0003_desc"
+msgstr "Aスキル\n「スコアアップ」\nを発動してクリア"
+
+msgid "bingo_0001_0001_0003_cond"
+msgstr "アクティブスキル「スコアアップ」を発動してクリア"
+
+msgid "bingo_0001_0001_0004_desc"
+msgstr "NORMAL以上\nで3回クリア"
+
+msgid "bingo_0001_0001_0004_cond"
+msgstr "難易度NORMAL以上で3回クリア"
+
+msgid "bingo_0001_0001_0005_desc"
+msgstr "曜日イベントを\n1回クリア"
+
+msgid "bingo_0001_0001_0005_cond"
+msgstr "曜日イベントを1回クリア"
+
+msgid "bingo_0001_0001_0006_desc"
+msgstr "歌レートを\n100にする"
+
+msgid "bingo_0001_0001_0006_cond"
+msgstr "歌レートを100にする"
+
+msgid "bingo_0001_0001_0007_desc"
+msgstr "スコア10万\n以上を達成"
+
+msgid "bingo_0001_0001_0007_cond"
+msgstr "スコア100000以上を達成"
+
+msgid "bingo_0001_0001_0008_desc"
+msgstr "超歌姫モードに\n突入して\n3回クリア"
+
+msgid "bingo_0001_0001_0008_cond"
+msgstr "超歌姫モードに突入して3回クリア"
+
+msgid "bingo_0001_0001_0009_desc"
+msgstr "歌姫のレベルを\n4にする"
+
+msgid "bingo_0001_0001_0009_cond"
+msgstr "いずれかの歌姫のレベルを4にする"
+
+msgid "bingo_0001_0001_0010_desc"
+msgstr "プレイヤーランク\nを12にする"
+
+msgid "bingo_0001_0001_0010_cond"
+msgstr "プレイヤーランクを12にする"
+
+msgid "bingo_0001_0001_0011_desc"
+msgstr "NORMAL以上で\nスコアランクS\nを10回達成"
+
+msgid "bingo_0001_0001_0011_cond"
+msgstr "難易度NORMAL以上で\nスコアランクSを10回達成"
+
+msgid "bingo_0001_0001_0012_desc"
+msgstr "Lスキル\n「スコアアップ」\nを発動してクリア"
+
+msgid "bingo_0001_0001_0012_cond"
+msgstr "ライブスキル「スコアアップ」を発動してクリア"
+
+msgid "bingo_0001_0001_0013_desc"
+msgstr "歌姫のレベルを\n8にする"
+
+msgid "bingo_0001_0001_0013_cond"
+msgstr "いずれかの歌姫のレベルを8にする"
+
+msgid "bingo_0001_0001_0014_desc"
+msgstr "スコアランクSS\nを1回達成"
+
+msgid "bingo_0001_0001_0014_cond"
+msgstr "スコアランクSSを1回達成"
+
+msgid "bingo_0001_0001_0015_desc"
+msgstr "歌姫にギフトを\nプレゼントする"
+
+msgid "bingo_0001_0001_0015_cond"
+msgstr "いずれかの歌姫にギフトをプレゼントする"
+
+msgid "bingo_0001_0001_0016_desc"
+msgstr "スコア30万\n以上を達成"
+
+msgid "bingo_0001_0001_0016_cond"
+msgstr "スコア300000以上を達成"
+
+msgid "bingo_0001_0001_0017_desc"
+msgstr "歌姫オペレー\nションをパワー\nアップさせる"
+
+msgid "bingo_0001_0001_0017_cond"
+msgstr "いずれかの歌姫オペレーションをパワーアップさせる"
+
+msgid "bingo_0001_0001_0018_desc"
+msgstr "歌姫オペレー\nションを出現\nさせる"
+
+msgid "bingo_0001_0001_0018_cond"
+msgstr "楽曲をクリアしていずれかの\n歌姫オペレーションを出現させる"
+
+msgid "bingo_0001_0001_0019_desc"
+msgstr "プレイヤーランク\nを20にする"
+
+msgid "bingo_0001_0001_0019_cond"
+msgstr "プレイヤーランクを20にする"
+
+msgid "bingo_0001_0001_0020_desc"
+msgstr "プレートを\n1種類Lv70にする"
+
+msgid "bingo_0001_0001_0020_cond"
+msgstr "エピソードプレートを1種類Lv70にする"
+
+msgid "bingo_0001_0001_0021_desc"
+msgstr "衣装強化で\nきゃわわランクを\n2にする"
+
+msgid "bingo_0001_0001_0021_cond"
+msgstr "衣装強化でいずれかの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0001_0001_0022_desc"
+msgstr "シークレット\nボードを解放する"
+
+msgid "bingo_0001_0001_0022_cond"
+msgstr "シークレットボードを解放する"
+
+msgid "bingo_0001_0001_0023_desc"
+msgstr "歌マクロスに累計\n7日ログインする"
+
+msgid "bingo_0001_0001_0023_cond"
+msgstr "歌マクロスに累計7日ログインする"
+
+msgid "bingo_0001_0001_0024_desc"
+msgstr "歌姫の親密度\nレベルを\n10にする"
+
+msgid "bingo_0001_0001_0024_cond"
+msgstr "いずれかの歌姫の親密度レベルを10以上にする"
+
+msgid "bingo_0001_0001_0025_desc"
+msgstr "歌グレードを\n一等兵★1にする"
+
+msgid "bingo_0001_0001_0025_cond"
+msgstr "歌レートを500にして\n歌グレードを【一等兵★1】にする"
+
+msgid "bingo_0001_0001_0026_desc"
+msgstr "VOPを\n10回達成"
+
+msgid "bingo_0001_0001_0026_cond"
+msgstr "バルキリーオペレーションを10回達成する"
+
+msgid "bingo_0001_0001_0027_desc"
+msgstr "プレートの\nLUCKを1上げる"
+
+msgid "bingo_0001_0001_0027_cond"
+msgstr "エピソードプレートのLUCKを1上げる"
+
+msgid "bingo_0002_0002_0001_desc"
+msgstr "プレイヤーランク\nを8にする"
+
+msgid "bingo_0002_0002_0001_cond"
+msgstr "プレイヤーランクを8にする"
+
+msgid "bingo_0002_0002_0002_desc"
+msgstr "イベント楽曲を\n合計10回以上\nプレイ"
+
+msgid "bingo_0002_0002_0002_cond"
+msgstr "イベント楽曲を合計10回以上プレイ"
+
+msgid "bingo_0002_0002_0003_desc"
+msgstr "曜日楽曲を\n10回クリア"
+
+msgid "bingo_0002_0002_0003_cond"
+msgstr "曜日楽曲を10回クリア"
+
+msgid "bingo_0002_0002_0004_desc"
+msgstr "ガチャを合計5回\n行う※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0002_0002_0004_cond"
+msgstr "ガチャを合計5回行う\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0002_0002_0005_desc"
+msgstr "スコア50万点\n以上を達成"
+
+msgid "bingo_0002_0002_0005_cond"
+msgstr "スコア50万点以上を達成"
+
+msgid "bingo_0002_0002_0006_desc"
+msgstr "星座メダルを\n1000枚入手"
+
+msgid "bingo_0002_0002_0006_cond"
+msgstr "星座メダルを1000枚入手"
+
+msgid "bingo_0002_0002_0007_desc"
+msgstr "超歌姫モードに\n突入して\n10回クリア"
+
+msgid "bingo_0002_0002_0007_cond"
+msgstr "超歌姫モードに突入して10回クリア"
+
+msgid "bingo_0002_0002_0008_desc"
+msgstr "プレートを30枚\n入手する"
+
+msgid "bingo_0002_0002_0008_cond"
+msgstr "プレートを30枚入手する"
+
+msgid "bingo_0002_0002_0009_desc"
+msgstr "歌マクロスに\n合計3日\nログインする"
+
+msgid "bingo_0002_0002_0009_cond"
+msgstr "歌マクロスに\n合計3日ログインする"
+
+msgid "bingo_0002_0002_0010_desc"
+msgstr "EPプレート\n【新春の団欒】の\nLvを70にする"
+
+msgid "bingo_0002_0002_0010_cond"
+msgstr "EPプレート【新春の団欒】の\nLvを70にする"
+
+msgid "bingo_0002_0002_0011_desc"
+msgstr "歌姫オペレー\nションを4回パワ\n－アップさせる"
+
+msgid "bingo_0002_0002_0011_cond"
+msgstr "歌姫オペレーションを4回パワ－アップさせる"
+
+msgid "bingo_0002_0002_0012_desc"
+msgstr "ガチャを合計5回\n行う※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0002_0002_0012_cond"
+msgstr "ガチャを合計5回行う\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0002_0002_0013_desc"
+msgstr "イベント楽曲を\n合計20回以上\nプレイ"
+
+msgid "bingo_0002_0002_0013_cond"
+msgstr "イベント楽曲を合計20回以上プレイ"
+
+msgid "bingo_0002_0002_0014_desc"
+msgstr "星座メダル交換所\nで1回交換する"
+
+msgid "bingo_0002_0002_0014_cond"
+msgstr "星座メダル交換所で1回交換する"
+
+msgid "bingo_0002_0002_0015_desc"
+msgstr "スコア80万点\n以上を達成"
+
+msgid "bingo_0002_0002_0015_cond"
+msgstr "スコア80万点以上を達成"
+
+msgid "bingo_0002_0002_0016_desc"
+msgstr "歌マクロスに\n合計3日\nログインする"
+
+msgid "bingo_0002_0002_0016_cond"
+msgstr "歌マクロスに\n合計3日ログインする"
+
+msgid "bingo_0002_0002_0017_desc"
+msgstr "歌姫オペレー\nションを1回\n発生させる"
+
+msgid "bingo_0002_0002_0017_cond"
+msgstr "歌姫オペレーションを1回発生させる"
+
+msgid "bingo_0002_0002_0018_desc"
+msgstr "バルキリー\nオペレーションを\n10回達成する"
+
+msgid "bingo_0002_0002_0018_cond"
+msgstr "バルキリーオペレーションを10回達成する"
+
+msgid "bingo_0002_0002_0019_desc"
+msgstr "歌レートを\n1000にする"
+
+msgid "bingo_0002_0002_0019_cond"
+msgstr "歌レートを1000にする"
+
+msgid "bingo_0002_0002_0020_desc"
+msgstr "イベント楽曲を\n合計50回以上\nプレイ"
+
+msgid "bingo_0002_0002_0020_cond"
+msgstr "イベント楽曲を合計50回以上プレイ"
+
+msgid "bingo_0002_0002_0021_desc"
+msgstr "フルコンボを\n10回達成"
+
+msgid "bingo_0002_0002_0021_cond"
+msgstr "フルコンボを10回達成"
+
+msgid "bingo_0002_0002_0022_desc"
+msgstr "ガチャを合計5回\n行う※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0002_0002_0022_cond"
+msgstr "ガチャを合計5回行う\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0002_0002_0023_desc"
+msgstr "歌マクロスに\n合計3日\nログインする"
+
+msgid "bingo_0002_0002_0023_cond"
+msgstr "歌マクロスに\n合計3日ログインする"
+
+msgid "bingo_0002_0002_0024_desc"
+msgstr "スコア100万点\n以上を達成"
+
+msgid "bingo_0002_0002_0024_cond"
+msgstr "スコア100万点以上を達成"
+
+msgid "bingo_0002_0002_0025_desc"
+msgstr "衣装の\nきゃわわランクを\n3にする"
+
+msgid "bingo_0002_0002_0025_cond"
+msgstr "衣装のきゃわわランクを\n3にする"
+
+msgid "bingo_0002_0002_0026_desc"
+msgstr "歌姫オペレー\nションを10回\n発生させる"
+
+msgid "bingo_0002_0002_0026_cond"
+msgstr "歌姫オペレーションを10回発生させる"
+
+msgid "bingo_0002_0002_0027_desc"
+msgstr "バルキリー\nオペレーションを\n20回達成する"
+
+msgid "bingo_0002_0002_0027_cond"
+msgstr "バルキリーオペレーションを20回達成する"
+
+msgid "bingo_0003_0003_0001_desc"
+msgstr "【記憶の時空】で\n指定楽曲を解放"
+
+msgid "bingo_0003_0003_0001_cond"
+msgstr "記憶の時空で\n「アイモ」を解放する"
+
+msgid "bingo_0003_0003_0002_desc"
+msgstr "プレートを\n2種類Lv90にする"
+
+msgid "bingo_0003_0003_0002_cond"
+msgstr "エピソードプレートを2種類Lv90にする"
+
+msgid "bingo_0003_0003_0003_desc"
+msgstr "Aスキル「スコア\nアップ」を発動\nして2回クリア"
+
+msgid "bingo_0003_0003_0003_cond"
+msgstr "アクティブスキル「スコアアップ」を\n発動して2回クリア"
+
+msgid "bingo_0003_0003_0004_desc"
+msgstr "Aスキル「ライフ\n回復」を発動\nして2回クリア"
+
+msgid "bingo_0003_0003_0004_cond"
+msgstr "アクティブスキル「ライフ回復」を\n発動して2回クリア"
+
+msgid "bingo_0003_0003_0005_desc"
+msgstr "Aスキル\n「ダメージ軽減」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0005_cond"
+msgstr "アクティブスキル「ダメージ軽減」を発動してクリア"
+
+msgid "bingo_0003_0003_0006_desc"
+msgstr "Aスキル\n「判定緩和」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0006_cond"
+msgstr "アクティブスキル「判定緩和」を発動してクリア"
+
+msgid "bingo_0003_0003_0007_desc"
+msgstr "Aスキル\n「コンボ継続」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0007_cond"
+msgstr "アクティブスキル「コンボ継続」を発動してクリア"
+
+msgid "bingo_0003_0003_0008_desc"
+msgstr "Lスキル「スコア\nアップ」を発動\nして2回クリア"
+
+msgid "bingo_0003_0003_0008_cond"
+msgstr "ライブスキル「スコアアップ」を\n発動して2回クリア"
+
+msgid "bingo_0003_0003_0009_desc"
+msgstr "Lスキル\n「ライフ回復」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0009_cond"
+msgstr "ライブスキル「ライフ回復」を発動してクリア"
+
+msgid "bingo_0003_0003_0010_desc"
+msgstr "Lスキル\n「ダメージ軽減」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0010_cond"
+msgstr "ライブスキル「ダメージ軽減」を発動してクリア"
+
+msgid "bingo_0003_0003_0011_desc"
+msgstr "Lスキル\n「判定緩和」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0011_cond"
+msgstr "ライブスキル「判定緩和」を発動してクリア"
+
+msgid "bingo_0003_0003_0012_desc"
+msgstr "Lスキル\n「コンボ継続」\nを発動してクリア"
+
+msgid "bingo_0003_0003_0012_cond"
+msgstr "ライブスキル「コンボ継続」を発動してクリア"
+
+msgid "bingo_0003_0003_0013_desc"
+msgstr "フレイアの衣装を\n2回解放する"
+
+msgid "bingo_0003_0003_0013_cond"
+msgstr "シュトラール以外のフレイアの衣装を2回解放する"
+
+msgid "bingo_0003_0003_0014_desc"
+msgstr "美雲の\n衣装を解放する"
+
+msgid "bingo_0003_0003_0014_cond"
+msgstr "美雲の衣装を解放する"
+
+msgid "bingo_0003_0003_0015_desc"
+msgstr "カナメの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0015_cond"
+msgstr "カナメの衣装を解放する"
+
+msgid "bingo_0003_0003_0016_desc"
+msgstr "マキナの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0016_cond"
+msgstr "マキナの衣装を解放する"
+
+msgid "bingo_0003_0003_0017_desc"
+msgstr "レイナの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0017_cond"
+msgstr "レイナの衣装を解放する"
+
+msgid "bingo_0003_0003_0018_desc"
+msgstr "ランカの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0018_cond"
+msgstr "ランカの衣装を解放する"
+
+msgid "bingo_0003_0003_0019_desc"
+msgstr "シェリルの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0019_cond"
+msgstr "シェリルの衣装を解放する"
+
+msgid "bingo_0003_0003_0020_desc"
+msgstr "ミレーヌの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0020_cond"
+msgstr "ミレーヌの衣装を解放する"
+
+msgid "bingo_0003_0003_0021_desc"
+msgstr "バサラの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0021_cond"
+msgstr "バサラの衣装を解放する"
+
+msgid "bingo_0003_0003_0022_desc"
+msgstr "ミンメイの\n衣装を解放する"
+
+msgid "bingo_0003_0003_0022_cond"
+msgstr "ミンメイの衣装を解放する"
+
+msgid "bingo_0003_0003_0023_desc"
+msgstr "フレイアの衣装を\n2回着替える"
+
+msgid "bingo_0003_0003_0023_cond"
+msgstr "フレイアの衣装を2回着替える"
+
+msgid "bingo_0003_0003_0024_desc"
+msgstr "美雲の\n衣装を着替える"
+
+msgid "bingo_0003_0003_0024_cond"
+msgstr "美雲の衣装を着替える"
+
+msgid "bingo_0003_0003_0025_desc"
+msgstr "カナメの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0025_cond"
+msgstr "カナメの衣装を着替える"
+
+msgid "bingo_0003_0003_0026_desc"
+msgstr "マキナの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0026_cond"
+msgstr "マキナの衣装を着替える"
+
+msgid "bingo_0003_0003_0027_desc"
+msgstr "レイナの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0027_cond"
+msgstr "レイナの衣装を着替える"
+
+msgid "bingo_0003_0003_0028_desc"
+msgstr "ランカの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0028_cond"
+msgstr "ランカの衣装を着替える"
+
+msgid "bingo_0003_0003_0029_desc"
+msgstr "シェリルの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0029_cond"
+msgstr "シェリルの衣装を着替える"
+
+msgid "bingo_0003_0003_0030_desc"
+msgstr "ミレーヌの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0030_cond"
+msgstr "ミレーヌの衣装を着替える"
+
+msgid "bingo_0003_0003_0031_desc"
+msgstr "バサラの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0031_cond"
+msgstr "バサラの衣装を着替える"
+
+msgid "bingo_0003_0003_0032_desc"
+msgstr "ミンメイの\n衣装を着替える"
+
+msgid "bingo_0003_0003_0032_cond"
+msgstr "ミンメイの衣装を着替える"
+
+msgid "bingo_0003_0003_0033_desc"
+msgstr "フレイアにギフト\nを2回プレゼント\nする"
+
+msgid "bingo_0003_0003_0033_cond"
+msgstr "フレイアにギフトを2回プレゼントする"
+
+msgid "bingo_0003_0003_0034_desc"
+msgstr "美雲にギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0034_cond"
+msgstr "美雲にギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0035_desc"
+msgstr "カナメにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0035_cond"
+msgstr "カナメにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0036_desc"
+msgstr "マキナにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0036_cond"
+msgstr "マキナにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0037_desc"
+msgstr "レイナにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0037_cond"
+msgstr "レイナにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0038_desc"
+msgstr "ランカにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0038_cond"
+msgstr "ランカにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0039_desc"
+msgstr "シェリルにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0039_cond"
+msgstr "シェリルにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0040_desc"
+msgstr "ミレーヌにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0040_cond"
+msgstr "ミレーヌにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0041_desc"
+msgstr "バサラにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0041_cond"
+msgstr "バサラにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0042_desc"
+msgstr "ミンメイにギフト\nをプレゼントする"
+
+msgid "bingo_0003_0003_0042_cond"
+msgstr "ミンメイにギフトをプレゼントする"
+
+msgid "bingo_0003_0003_0043_desc"
+msgstr "フレイアの歌姫\nオペレーションを\n2回発生させる"
+
+msgid "bingo_0003_0003_0043_cond"
+msgstr "フレイアの歌姫オペレーションを\n2回発生させる"
+
+msgid "bingo_0003_0003_0044_desc"
+msgstr "美雲の歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0044_cond"
+msgstr "美雲の歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0045_desc"
+msgstr "カナメの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0045_cond"
+msgstr "カナメの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0046_desc"
+msgstr "マキナの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0046_cond"
+msgstr "マキナの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0047_desc"
+msgstr "レイナの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0047_cond"
+msgstr "レイナの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0048_desc"
+msgstr "ランカの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0048_cond"
+msgstr "ランカの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0049_desc"
+msgstr "シェリルの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0049_cond"
+msgstr "シェリルの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0050_desc"
+msgstr "ミレーヌの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0050_cond"
+msgstr "ミレーヌの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0051_desc"
+msgstr "バサラの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0051_cond"
+msgstr "バサラの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0052_desc"
+msgstr "ミンメイの歌姫\nオペレーションを\n発生させる"
+
+msgid "bingo_0003_0003_0052_cond"
+msgstr "ミンメイの歌姫オペレーションを発生させる"
+
+msgid "bingo_0003_0003_0053_desc"
+msgstr "フレイアの歌姫\nオペレーションを\n2回パワーアップ"
+
+msgid "bingo_0003_0003_0053_cond"
+msgstr "フレイアの歌姫オペレーションを\n2回パワーアップする"
+
+msgid "bingo_0003_0003_0054_desc"
+msgstr "美雲の歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0054_cond"
+msgstr "美雲の歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0055_desc"
+msgstr "カナメの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0055_cond"
+msgstr "カナメの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0056_desc"
+msgstr "マキナの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0056_cond"
+msgstr "マキナの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0057_desc"
+msgstr "レイナの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0057_cond"
+msgstr "レイナの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0058_desc"
+msgstr "ランカの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0058_cond"
+msgstr "ランカの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0059_desc"
+msgstr "シェリルの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0059_cond"
+msgstr "シェリルの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0060_desc"
+msgstr "ミレーヌの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0060_cond"
+msgstr "ミレーヌの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0061_desc"
+msgstr "バサラの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0061_cond"
+msgstr "バサラの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0062_desc"
+msgstr "ミンメイの歌姫\nオペレーションを\nパワーアップ"
+
+msgid "bingo_0003_0003_0062_cond"
+msgstr "ミンメイの歌姫オペレーションをパワーアップする"
+
+msgid "bingo_0003_0003_0063_desc"
+msgstr "フレイアの衣装の\nきゃわわランクを\n3にする"
+
+msgid "bingo_0003_0003_0063_cond"
+msgstr "衣装強化でフレイアの衣装の\nきゃわわランクを3にする"
+
+msgid "bingo_0003_0003_0064_desc"
+msgstr "美雲の衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0064_cond"
+msgstr "衣装強化で美雲の衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0065_desc"
+msgstr "カナメの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0065_cond"
+msgstr "衣装強化でカナメの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0066_desc"
+msgstr "マキナの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0066_cond"
+msgstr "衣装強化でマキナの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0067_desc"
+msgstr "レイナの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0067_cond"
+msgstr "衣装強化でレイナの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0068_desc"
+msgstr "ランカの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0068_cond"
+msgstr "衣装強化でランカの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0069_desc"
+msgstr "シェリルの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0069_cond"
+msgstr "衣装強化でシェリルの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0070_desc"
+msgstr "ミレーヌの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0070_cond"
+msgstr "衣装強化でミレーヌの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0071_desc"
+msgstr "バサラの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0071_cond"
+msgstr "衣装強化でバサラの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0003_0003_0072_desc"
+msgstr "ミンメイの衣装の\nきゃわわランクを\n2にする"
+
+msgid "bingo_0003_0003_0072_cond"
+msgstr "衣装強化でミンメイの衣装の\nきゃわわランクを2にする"
+
+msgid "bingo_0004_0004_0001_desc"
+msgstr "プレイヤーランク\nを8にする"
+
+msgid "bingo_0004_0004_0001_cond"
+msgstr "プレイヤーランクを8にする"
+
+msgid "bingo_0004_0004_0002_desc"
+msgstr "イベント楽曲を\n合計1回以上\nプレイ"
+
+msgid "bingo_0004_0004_0002_cond"
+msgstr "イベント楽曲を合計1回以上プレイ"
+
+msgid "bingo_0004_0004_0003_desc"
+msgstr "曜日楽曲を\n1回クリア"
+
+msgid "bingo_0004_0004_0003_cond"
+msgstr "曜日楽曲を1回クリア"
+
+msgid "bingo_0004_0004_0004_desc"
+msgstr "ガチャを合計5回\n行う※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0004_0004_0004_cond"
+msgstr "ガチャを合計5回行う\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0004_0004_0005_desc"
+msgstr "スコア30万点\n以上を達成"
+
+msgid "bingo_0004_0004_0005_cond"
+msgstr "スコア30万点以上を達成"
+
+msgid "bingo_0004_0004_0006_desc"
+msgstr "星座メダルを\n500枚入手"
+
+msgid "bingo_0004_0004_0006_cond"
+msgstr "星座メダルを500枚入手"
+
+msgid "bingo_0004_0004_0007_desc"
+msgstr "超歌姫モードに\n突入して\n1回クリア"
+
+msgid "bingo_0004_0004_0007_cond"
+msgstr "超歌姫モードに突入して1回クリア"
+
+msgid "bingo_0004_0004_0008_desc"
+msgstr "プレートを30枚\n入手する"
+
+msgid "bingo_0004_0004_0008_cond"
+msgstr "プレートを30枚入手する"
+
+msgid "bingo_0004_0004_0009_desc"
+msgstr "歌マクロスに\n合計2日\nログインする"
+
+msgid "bingo_0004_0004_0009_cond"
+msgstr "歌マクロスに\n合計2日ログインする"
+
+msgid "bingo_0004_0004_0010_desc"
+msgstr "S-LIIVEを\n1回プレイ"
+
+msgid "bingo_0004_0004_0010_cond"
+msgstr "S-LIVEを1回プレイ"
+
+msgid "bingo_0004_0004_0011_desc"
+msgstr "歌姫オペレー\nションを1回パワ\n－アップさせる"
+
+msgid "bingo_0004_0004_0011_cond"
+msgstr "歌姫オペレーションを1回パワ－アップさせる"
+
+msgid "bingo_0004_0004_0012_desc"
+msgstr "ガチャを合計5回\n行う※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0004_0004_0012_cond"
+msgstr "ガチャを合計5回行う\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0004_0004_0013_desc"
+msgstr "イベント楽曲を\n合計10回以上\nプレイ"
+
+msgid "bingo_0004_0004_0013_cond"
+msgstr "イベント楽曲を合計10回以上プレイ"
+
+msgid "bingo_0004_0004_0014_desc"
+msgstr "星座メダル交換所\nで1回交換する"
+
+msgid "bingo_0004_0004_0014_cond"
+msgstr "星座メダル交換所で1回交換する"
+
+msgid "bingo_0004_0004_0015_desc"
+msgstr "スコア60万点\n以上を達成"
+
+msgid "bingo_0004_0004_0015_cond"
+msgstr "スコア60万点以上を達成"
+
+msgid "bingo_0004_0004_0016_desc"
+msgstr "歌マクロスに\n合計3日\nログインする"
+
+msgid "bingo_0004_0004_0016_cond"
+msgstr "歌マクロスに\n合計3日ログインする"
+
+msgid "bingo_0004_0004_0017_desc"
+msgstr "歌姫オペレー\nションを1回\n発生させる"
+
+msgid "bingo_0004_0004_0017_cond"
+msgstr "歌姫オペレーションを1回発生させる"
+
+msgid "bingo_0004_0004_0018_desc"
+msgstr "バルキリー\nオペレーションを\n5回達成する"
+
+msgid "bingo_0004_0004_0018_cond"
+msgstr "バルキリーオペレーションを5回達成する"
+
+msgid "bingo_0004_0004_0019_desc"
+msgstr "歌レートを\n1000にする"
+
+msgid "bingo_0004_0004_0019_cond"
+msgstr "歌レートを1000にする"
+
+msgid "bingo_0004_0004_0020_desc"
+msgstr "イベント楽曲を\n合計20回以上\nプレイ"
+
+msgid "bingo_0004_0004_0020_cond"
+msgstr "イベント楽曲を合計20回以上プレイ"
+
+msgid "bingo_0004_0004_0021_desc"
+msgstr "フルコンボを\n3回達成"
+
+msgid "bingo_0004_0004_0021_cond"
+msgstr "フルコンボを3回達成"
+
+msgid "bingo_0004_0004_0022_desc"
+msgstr "ガチャを合計5回\n行う※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0004_0004_0022_cond"
+msgstr "ガチャを合計5回行う\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0004_0004_0023_desc"
+msgstr "歌マクロスに\n合計3日\nログインする"
+
+msgid "bingo_0004_0004_0023_cond"
+msgstr "歌マクロスに\n合計3日ログインする"
+
+msgid "bingo_0004_0004_0024_desc"
+msgstr "スコア100万点\n以上を達成"
+
+msgid "bingo_0004_0004_0024_cond"
+msgstr "スコア100万点以上を達成"
+
+msgid "bingo_0004_0004_0025_desc"
+msgstr "衣装の\nきゃわわランクを\n3にする"
+
+msgid "bingo_0004_0004_0025_cond"
+msgstr "衣装のきゃわわランクを\n3にする"
+
+msgid "bingo_0004_0004_0026_desc"
+msgstr "歌姫オペレー\nションを5回\n発生させる"
+
+msgid "bingo_0004_0004_0026_cond"
+msgstr "歌姫オペレーションを5回発生させる"
+
+msgid "bingo_0004_0004_0027_desc"
+msgstr "バルキリー\nオペレーションを\n10回達成する"
+
+msgid "bingo_0004_0004_0027_cond"
+msgstr "バルキリーオペレーションを10回達成する"
+
+msgid "bingo_0005_0005_0001_desc"
+msgstr "プレイヤーランク\nを8にする"
+
+msgid "bingo_0005_0005_0001_cond"
+msgstr "プレイヤーランクを8にする"
+
+msgid "bingo_0005_0005_0002_desc"
+msgstr "イベントで楽曲\nを1回プレイ"
+
+msgid "bingo_0005_0005_0002_cond"
+msgstr "イベントで楽曲を1回プレイする"
+
+msgid "bingo_0005_0005_0003_desc"
+msgstr "曜日楽曲を\n3回クリア"
+
+msgid "bingo_0005_0005_0003_cond"
+msgstr "曜日楽曲を3回クリアする"
+
+msgid "bingo_0005_0005_0004_desc"
+msgstr "ガチャを合計5回\n引く※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0005_0005_0004_cond"
+msgstr "ガチャを合計5回引く\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0005_0005_0005_desc"
+msgstr "スコア50万点\n以上を達成"
+
+msgid "bingo_0005_0005_0005_cond"
+msgstr "スコア50万点以上を達成する"
+
+msgid "bingo_0005_0005_0006_desc"
+msgstr "スコアランクSS\nを1回達成"
+
+msgid "bingo_0005_0005_0006_cond"
+msgstr "スコアランクSSを1回達成する"
+
+msgid "bingo_0005_0005_0007_desc"
+msgstr "超歌姫モードに\n突入して\n1回クリア"
+
+msgid "bingo_0005_0005_0007_cond"
+msgstr "超歌姫モードに突入して1回クリアする"
+
+msgid "bingo_0005_0005_0008_desc"
+msgstr "プレートを\n10枚入手"
+
+msgid "bingo_0005_0005_0008_cond"
+msgstr "エピソードプレートを10枚入手する"
+
+msgid "bingo_0005_0005_0009_desc"
+msgstr "歌マクロスに\n合計2日ログイン"
+
+msgid "bingo_0005_0005_0009_cond"
+msgstr "歌マクロスに\n合計2日ログインする"
+
+msgid "bingo_0005_0005_0010_desc"
+msgstr "EPプレート\n【新春の団欒】の\nLvを70にする"
+
+msgid "bingo_0005_0005_0010_cond"
+msgstr "エピソードプレート【新春の団欒】\nのレベルを70にする"
+
+msgid "bingo_0005_0005_0011_desc"
+msgstr "プレートを\n10枚入手"
+
+msgid "bingo_0005_0005_0011_cond"
+msgstr "エピソードプレートを10枚入手する"
+
+msgid "bingo_0005_0005_0012_desc"
+msgstr "ガチャを合計5回\n引く※10連ガチャ\nも1回にカウント"
+
+msgid "bingo_0005_0005_0012_cond"
+msgstr "ガチャを合計5回引く\n※10連ガチャも1回にカウント"
+
+msgid "bingo_0005_0005_0013_desc"
+msgstr "イベントで楽曲\nを5回プレイ"
+
+msgid "bingo_0005_0005_0013_cond"
+msgstr "イベントで楽曲を5回プレイする"
+
+msgid "bingo_0005_0005_0014_desc"
+msgstr "スコア80万点\n以上を達成"
+
+msgid "bingo_0005_0005_0014_cond"
+msgstr "スコア80万点以上を達成する"
+
+msgid "bingo_0005_0005_0015_desc"
+msgstr "歌マクロスに\n合計3日\nログイン"
+
+msgid "bingo_0005_0005_0015_cond"
+msgstr "歌マクロスに\n合計3日ログインする"
+
+msgid "bingo_0005_0005_0016_desc"
+msgstr "スコアランクSS\nを5回達成"
+
+msgid "bingo_0005_0005_0016_cond"
+msgstr "スコアランクSSを5回達成する"
+
+msgid "bingo_0005_0005_0017_desc"
+msgstr "超歌姫モードに\n突入して\n5回クリア"
+
+msgid "bingo_0005_0005_0017_cond"
+msgstr "超歌姫モードに突入して5回クリアする"
+
+msgid "bingo_0005_0005_0018_desc"
+msgstr "いずれかの歌姫の\nレベルを3にする"
+
+msgid "bingo_0005_0005_0018_cond"
+msgstr "いずれかの歌姫のレベルを3にする"
+
+msgid "bingo_0005_0005_0019_desc"
+msgstr "歌レートを\n1500にする"
+
+msgid "bingo_0005_0005_0019_cond"
+msgstr "歌レートを1500にする"
+
+msgid "bingo_0005_0005_0020_desc"
+msgstr "イベントで楽曲\nを10回プレイ"
+
+msgid "bingo_0005_0005_0020_cond"
+msgstr "イベントで楽曲を10回プレイする"
+
+msgid "bingo_0005_0005_0021_desc"
+msgstr "フルコンボを\n5回達成"
+
+msgid "bingo_0005_0005_0021_cond"
+msgstr "フルコンボを5回達成する"
+
+msgid "bingo_0005_0005_0022_desc"
+msgstr "超歌姫モードに\n突入して\n5回クリア"
+
+msgid "bingo_0005_0005_0022_cond"
+msgstr "超歌姫モードに突入して5回クリアする"
+
+msgid "bingo_0005_0005_0023_desc"
+msgstr "スコア200万点\n以上を達成"
+
+msgid "bingo_0005_0005_0023_cond"
+msgstr "スコア200万点以上を達成する"
+
+msgid "bingo_0005_0005_0024_desc"
+msgstr "スコア100万点\n以上を達成"
+
+msgid "bingo_0005_0005_0024_cond"
+msgstr "スコア100万点以上を達成する"
+
+msgid "bingo_0005_0005_0025_desc"
+msgstr "スコアランクSS\nを10回達成"
+
+msgid "bingo_0005_0005_0025_cond"
+msgstr "スコアランクSSを10回達成する"
+
+msgid "bingo_0005_0005_0026_desc"
+msgstr "いずれかの歌姫の\nレベルを5にする"
+
+msgid "bingo_0005_0005_0026_cond"
+msgstr "いずれかの歌姫のレベルを5にする"
+
+msgid "bingo_0005_0005_0027_desc"
+msgstr "曜日楽曲を\n5回クリア"
+
+msgid "bingo_0005_0005_0027_cond"
+msgstr "曜日楽曲を5回クリアする"
+
