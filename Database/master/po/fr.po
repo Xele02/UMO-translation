@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-10 13:08+0000\n"
+"PO-Revision-Date: 2024-08-10 14:11+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -13170,40 +13170,40 @@ msgid "em_dsc_0810"
 msgstr ""
 
 msgid "qd_dsc_0001"
-msgstr ""
+msgstr "Réussir 3 chansons"
 
 msgid "qd_dsc_0002"
-msgstr ""
+msgstr "Obtenir un score S ou plus 1x"
 
 msgid "qd_dsc_0003"
-msgstr ""
+msgstr "Activer une compétence active et réussir la chanson"
 
 msgid "qd_dsc_0004"
-msgstr ""
+msgstr "Faire un tirage à la lotterie"
 
 msgid "qd_dsc_0005"
 msgstr "Activer le mode Super Diva et finir la chanson 1x"
 
 msgid "qd_dsc_0006"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qd_dsc_0007"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qd_dsc_0008"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qd_dsc_0009"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qd_dsc_0010"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qd_dsc_0011"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qd_dsc_0012"
-msgstr ""
+msgstr "Réussir toutes les missions quotidiennes"
 
 msgid "qn_dsc_0001"
 msgstr ""
