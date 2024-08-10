@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-10 13:54+0000\n"
+"PO-Revision-Date: 2024-08-10 17:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -78,7 +78,7 @@ msgid "popup_text_03"
 msgstr ""
 
 msgid "popup_text_08"
-msgstr ""
+msgstr "Status de la diva"
 
 msgid "popup_text_09"
 msgstr "Confirmation des articles consommés"
@@ -111,7 +111,7 @@ msgid "popup_sort_title"
 msgstr ""
 
 msgid "popup_sort_title_unit"
-msgstr ""
+msgstr "Changement infos affichées"
 
 #, fuzzy
 msgid "popup_comparison_00"
@@ -593,82 +593,94 @@ msgid "growth_list_text_03"
 msgstr ""
 
 msgid "growth_popup_title_01"
-msgstr ""
+msgstr "Condition de déblocage"
 
 msgid "growth_popup_title_text01"
-msgstr ""
+msgstr "Extension du tableau principal"
 
 msgid "growth_popup_title_text02"
-msgstr ""
+msgstr "Ajout tableau secret"
 
 msgid "growth_popup_title_text03"
-msgstr ""
+msgstr "Extension du tableau secret"
 
 msgid "growth_popup_title_text04"
-msgstr ""
+msgstr "Selection nombre de débloquage"
 
 msgid "growth_popup_title_text05"
-msgstr ""
+msgstr "Vérification limite de déblocage"
 
 msgid "growth_popup_title_text06"
-msgstr ""
+msgstr "Vérification limite de déblocage"
 
 msgid "growth_popup_text01"
 msgstr "Possession : {0,4}"
 
 msgid "growth_popup_text02"
-msgstr ""
+msgstr "Utilise les objets et UC suivant."
 
 msgid "growth_popup_text03"
-msgstr ""
+msgstr "UC nécessaires : <color={1}>{0,4}</color>"
 
 msgid "growth_popup_text04"
-msgstr ""
+msgstr "UC possédés : <color={1}>{0,8}</color>"
 
 msgid "growth_popup_text05"
-msgstr ""
+msgstr "Objets manquants."
 
 msgid "growth_popup_text06"
-msgstr "Débloquer {0} compétences. Confirmer ?"
+msgstr "Débloquer {0} capacités. Confirmer ?"
 
 msgid "growth_popup_text07"
-msgstr ""
+msgstr "Possédés : <color={1}>{0,4}</color>"
 
 msgid "growth_popup_text08"
-msgstr ""
+msgstr "Pas assez d'UC."
 
 msgid "growth_popup_text09"
 msgstr "Manque d'objets et d'UC."
 
 msgid "growth_popup_text10"
 msgstr ""
+"La rareté a augmentée.\n"
+"Extension du tableau de capacités."
 
 msgid "growth_popup_text11"
-msgstr ""
+msgstr "Ajout d'un tableau secret."
 
 msgid "growth_popup_text12"
-msgstr ""
+msgstr "Le tableau secret à été étendu."
 
 msgid "growth_popup_text13"
 msgstr ""
+"Le nombre de déblocage d'épisodes spéciaux actuellement est de {0} fois.\n"
+"Sélectionne le nombre que tu veux débloqué."
 
 msgid "growth_popup_text14"
 msgstr ""
+"La valeur maximale de déblocage sur cette case en une seule fois est de {0}."
 
 msgid "growth_popup_text15"
 msgstr ""
+"Si tu en débloque plus, tu dépasseras le nombre d'épisodes que tu peux "
+"débloquer en une seule fois."
 
 msgid "growth_popup_text16"
 msgstr ""
+"Il n'est pas possible d'en débloquer d'autres en raison du manque d'objets."
 
 msgid "growth_popup_text17"
-msgstr ""
+msgstr "Il n'est pas possible d'en débloquer d'autres en raison du manque d'UC."
 
 msgid "growth_popup_text18"
 msgstr ""
+"Il n'est pas possible d'en débloquer d'autres en raison du manque d'objets "
+"et d'UC."
 
 msgid "growth_popup_text19"
 msgstr ""
+"Débloquer {0} capacités?\n"
+"<color={1}>※Tu as déjà gagné la récompense complète pour cet épisode.</color>"
 
 msgid "growth_addreward_text"
 msgstr ""
@@ -1562,7 +1574,7 @@ msgid "gacha_list_daycount"
 msgstr ""
 
 msgid "gacha_main_timezone"
-msgstr ""
+msgstr "Matin : {0}-{1} Midi : {2}-{3} Soir : {4}-{5}"
 
 msgid "gacha_main_timezone_time"
 msgstr ""
@@ -2327,13 +2339,13 @@ msgid "popup_release_ep_diva_costume"
 msgstr ""
 
 msgid "popup_release_episode_01"
-msgstr ""
+msgstr "Débloque un costume avec l'épisode !"
 
 msgid "popup_release_episode_02"
-msgstr ""
+msgstr "Débloque une valkyrie avec l'épisode !"
 
 msgid "popup_release_episode_03"
-msgstr ""
+msgstr "Débloque un fond avec l'épisode !"
 
 msgid "popup_event_end_title"
 msgstr ""
@@ -2456,7 +2468,7 @@ msgid "unlock_costume_not_have_basara"
 msgstr ""
 
 msgid "scenelist_not_listed_up"
-msgstr ""
+msgstr "Pas de plaques d'épisodes corresopndantes."
 
 msgid "popup_adv_skip_title"
 msgstr ""
@@ -3388,64 +3400,85 @@ msgid "offer_platoon_release_condition_text_02"
 msgstr ""
 
 msgid "costume_upgrade_diva_select_title_text"
-msgstr ""
+msgstr "Sélection diva"
 
 msgid "costume_upgrade_comp_title_text"
-msgstr ""
+msgstr "Déblocage de costume"
 
 msgid "costume_upgrade_detail_item_title_text"
-msgstr ""
+msgstr "Détail de récompense"
 
 msgid "costume_upgrade_item_select_makina_serif"
 msgstr ""
+"Renforçons ce costume ー\n"
+"Sélectionne un objet !"
 
 msgid "costume_upgrade_item_select_makina_serif2"
 msgstr ""
+"Les cristaux de costumes \n"
+"sont obtenable dans les VOP !"
 
 msgid "costume_upgrade_item_use_title_text"
-msgstr ""
+msgstr "Confirmation des articles consommés"
 
 msgid "costume_upgrade_achievement_title_text"
 msgstr "Récompense évolution Kyawawa"
 
 msgid "costume_upgrade_rankup_title_text"
-msgstr ""
+msgstr "Déblocage niveau limite"
 
 msgid "costume_upgrade_cmn_rankup_attention_text"
-msgstr ""
+msgstr "Tu obtiens {0} Orbes sonores à chaque montée en grade."
 
 msgid "costume_upgrade_next_release_point_text"
-msgstr ""
+msgstr "Pour récomp. suivante : {0} {1}"
 
 msgid "costume_upgrade_use_item_limit_text"
-msgstr ""
+msgstr "Jusque {0} objets peuvent être utilisés à la fois."
 
 msgid "costume_upgrade_diva_select_warning_text"
 msgstr ""
+"Une diva non débloqué est selectionnée.\n"
+"Il n'y a pas de costume disponible."
 
 msgid "costume_upgrade_item_detail_costume_skillup"
 msgstr ""
+"Ajout d'un nouvel effet au costume.\n"
+"Effet acquis : 『{0}』"
 
 msgid "costume_upgrade_item_detail_costume_skillget"
 msgstr ""
+"Augmente le niveau de l'effet.\n"
+"Status après déblocage : 『{0}』"
 
 msgid "costume_upgrade_item_detail_costume_color"
 msgstr ""
+"{0}\n"
+"Déblocage de la palette de couleur {1}."
 
 msgid "costume_upgrade_item_detail_diva_status_up"
 msgstr ""
+"Amélioration du status {0}.\n"
+"Status après :『{1}{2}』"
 
 msgid "costume_upgrade_item_detail_diva_status_up_title"
-msgstr ""
+msgstr "Augmentation status"
 
 msgid "costume_upgrade_item_detail_sub_plate"
 msgstr ""
+"Débloque 『{0}』。\n"
+"Si déjà débloquer, augmente de 3%."
 
 msgid "costume_upgrade_rank_up_unlock_condition_text"
-msgstr ""
+msgstr "Condition de déblocage"
 
 msgid "costume_upgrade_lock_text"
 msgstr ""
+"【Condition de déblocage】\n"
+"・Compléter {0} opérations valkyrie.\n"
+"\n"
+"<color=#C8087E>※Les opérations valkyrie sont \n"
+"débloquées en avançant dans le jeu.</color>"
 
 msgid "subplate_rate_text"
 msgstr ""
@@ -3577,22 +3610,27 @@ msgid "rarityup_item_use_warning"
 msgstr ""
 
 msgid "secret_board_item_use_title"
-msgstr ""
+msgstr "Confirmation déblocage tableau secret"
 
 msgid "secret_board_item_use_desc_1"
-msgstr ""
+msgstr "Utiliser les objets suivants pour débloquer le tableau secret."
 
 msgid "secret_board_item_use_desc_2"
-msgstr ""
+msgstr "Les objets nécessaires pour débloquer le tableau secret sont manquant."
 
 msgid "secret_board_item_use_confirm_title"
-msgstr ""
+msgstr "Confirmation final de déblocage du tableau secret"
 
 msgid "secret_board_item_use_confirm_desc"
-msgstr ""
+msgstr "Veux-tu vraiment débloquer le tableau secret de cette plaque ?"
 
 msgid "secret_board_item_use_warning"
 msgstr ""
+"{0} peux\n"
+"être utilisé sur une plaque de rareté ★6.\n"
+"\n"
+"Êtes-tu sûr de vouloir l'utiliser sur cette plaque, qui \n"
+"sera ★5 aprè augmentation de la rareté ?"
 
 msgid "popup_sel_cos_terms_title"
 msgstr ""
@@ -3786,7 +3824,7 @@ msgid "bingo_reward_pop_title"
 msgstr "Récompense de bingo"
 
 msgid "bingo_mission_reward_get_pop_title"
-msgstr ""
+msgstr "Récompenses récues"
 
 msgid "bingo_mission_change__bingo_text"
 msgstr ""
@@ -3795,79 +3833,82 @@ msgid "bingo_mission_end_pop_text"
 msgstr ""
 
 msgid "pop_score_detail_title"
-msgstr ""
+msgstr "Détails des jauges de prédiction"
 
 msgid "pop_score_detail_caution_01"
-msgstr ""
+msgstr "L'influence de \"song of ruin(?)\" est inclu dans la prédiction."
 
 msgid "pop_score_detail_caution_02"
 msgstr ""
+"Ceci est une prédiction basée sur les comp. et capacités des plaques, et non "
+"le vrai résultat."
 
 msgid "pop_score_detail_item_name_01"
-msgstr ""
+msgstr "Valeur de base"
 
 msgid "pop_score_detail_item_name_02"
-msgstr ""
+msgstr "Costume"
 
 msgid "pop_score_detail_item_name_03"
-msgstr ""
+msgstr "Bonus d'attribut"
 
 msgid "pop_score_detail_item_name_04"
-msgstr ""
+msgstr "Comp. central"
 
 msgid "pop_score_detail_item_name_05"
-msgstr ""
+msgstr "Plaques de support"
 
 msgid "pop_score_detail_item_name_06"
-msgstr ""
+msgstr "Comp. live"
 
 msgid "pop_score_detail_item_name_07"
-msgstr ""
+msgstr "Comp. Actives"
 
 msgid "pop_score_detail_item_name_08"
-msgstr ""
+msgstr "Combo"
 
 msgid "pop_score_detail_item_name_09"
-msgstr ""
+msgstr "Score+"
 
 msgid "pop_score_detail_item_name_10"
-msgstr ""
+msgstr "Trèfles"
 
 msgid "pop_score_detail_item_name_11"
-msgstr ""
+msgstr "Valkyrie"
 
 msgid "pop_score_detail_item_desc_01"
-msgstr ""
+msgstr "Prédiction du score obtenu par les statistiques des divas et plaques"
 
 msgid "pop_score_detail_item_desc_02"
-msgstr ""
+msgstr "Prédiction augmentant en fonction des costumes"
 
 msgid "pop_score_detail_item_desc_03"
 msgstr ""
+"Prédiction en fonction de la correspondance des attributs plaques/chansons"
 
 msgid "pop_score_detail_item_desc_04"
-msgstr ""
+msgstr "Prédiction en fonction des compétences centrales"
 
 msgid "pop_score_detail_item_desc_05"
-msgstr ""
+msgstr "Prédiction en fonction des plaques de support"
 
 msgid "pop_score_detail_item_desc_06"
-msgstr ""
+msgstr "Prédiction en fonction des compétences lives"
 
 msgid "pop_score_detail_item_desc_07"
-msgstr ""
+msgstr "Prédiction fonction des compétences actives"
 
 msgid "pop_score_detail_item_desc_08"
-msgstr ""
+msgstr "Prédiction du score avec un combo de 90%"
 
 msgid "pop_score_detail_item_desc_09"
-msgstr ""
+msgstr "Prédiction lorsque toutes les notes score+ sont touchées"
 
 msgid "pop_score_detail_item_desc_10"
-msgstr ""
+msgstr "Prédiction considérant les trèfles débloqués"
 
 msgid "pop_score_detail_item_desc_11"
-msgstr ""
+msgstr "Prédiction augmentant en fonction de la valkyrie"
 
 msgid "bingo_reward_select_scene_detail_text"
 msgstr ""
@@ -4409,7 +4450,7 @@ msgid "lobby_room_num_format"
 msgstr ""
 
 msgid "valkyrie_name_text_format_001"
-msgstr ""
+msgstr "{0} {1}"
 
 msgid "storage_select_text"
 msgstr ""
@@ -4992,13 +5033,13 @@ msgid "gacha_cost_02"
 msgstr ""
 
 msgid "gacha_cost_03"
-msgstr "Matin　{0} fois gratuit"
+msgstr "Matin {0}x gratuit"
 
 msgid "gacha_cost_04"
-msgstr "Midi　{0} fois gratuit"
+msgstr "Midi {0}x gratuit"
 
 msgid "gacha_cost_05"
-msgstr "Soir　{0} fois gratuit"
+msgstr "Soir {0}x gratuit"
 
 msgid "config_text_98"
 msgstr ""
@@ -5058,7 +5099,7 @@ msgid "gacha_desc_03"
 msgstr ""
 
 msgid "gacha_desc_04"
-msgstr ""
+msgstr "Lotterie dispo. 3x : matin, midi et soir gratuitement."
 
 msgid "gacha_set_sale_desc_01"
 msgstr ""
@@ -5164,7 +5205,7 @@ msgstr ""
 
 msgid "gacha_desc_05"
 msgstr ""
-"「Nous ne faisons ce genre de service que trois fois par jour !」\n"
+"「Seulement disponible trois fois par jour !」\n"
 "　　　　　　　　　　　　　－Sheryl Norm－"
 
 msgid "popup_gacha_rbreak_rate_warning"
@@ -5207,121 +5248,123 @@ msgid "popup_gacha_rbreak2_rate_warning"
 msgstr ""
 
 msgid "growth_popup_text20"
-msgstr ""
+msgstr "Dépenser les objets et UC suivants pour libérer toutes les capacités."
 
 msgid "growth_popup_text21"
-msgstr ""
+msgstr "Dépenser les objets et UC suivants pour libérer toutes les épisodes."
 
 msgid "growth_popup_text22"
-msgstr ""
+msgstr "※Tableau secret non inclu."
 
 msgid "growth_popup_text23"
 msgstr ""
+"Dépenser les objets et UC suivants pour libérer toutes les capacités "
+"requises."
 
 msgid "popup_sort_filter_reset"
-msgstr ""
+msgstr "Reset"
 
 msgid "popup_sort_filter_all"
-msgstr ""
+msgstr "Tous"
 
 msgid "popup_sort_title_h1"
 msgstr ""
 
 msgid "popup_sort_item_total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "popup_sort_item_soul"
-msgstr ""
+msgstr "Âme"
 
 msgid "popup_sort_item_voice"
-msgstr ""
+msgstr "Voix"
 
 msgid "popup_sort_item_charm"
-msgstr ""
+msgstr "Charme"
 
 msgid "popup_sort_item_get"
-msgstr ""
+msgstr "Obtention"
 
 msgid "popup_sort_item_rarity"
-msgstr ""
+msgstr "Rareté"
 
 msgid "popup_sort_item_level"
-msgstr ""
+msgstr "Niveau"
 
 msgid "popup_sort_item_life"
-msgstr ""
+msgstr "PV"
 
 msgid "popup_sort_item_luck"
-msgstr ""
+msgstr "Chance"
 
 msgid "popup_sort_item_support"
-msgstr ""
+msgstr "Support"
 
 msgid "popup_sort_item_fold"
-msgstr ""
+msgstr "Bio-fold"
 
 msgid "popup_sort_item_recovery_notes"
-msgstr ""
+msgstr "Notes soins"
 
 msgid "popup_sort_item_item_notes"
-msgstr ""
+msgstr "Notes d'objets"
 
 msgid "popup_sort_item_scoreup_notes"
-msgstr ""
+msgstr "Notes scores"
 
 msgid "popup_sort_item_support_notes"
-msgstr ""
+msgstr "Notes support"
 
 msgid "popup_sort_item_fold_notes"
-msgstr ""
+msgstr "Notes Bio-fold"
 
 msgid "popup_sort_item_last_playdate"
-msgstr ""
+msgstr "Dernier login"
 
 msgid "popup_sort_item_player_runk"
-msgstr ""
+msgstr "Rang"
 
 msgid "popup_sort_item_request"
-msgstr ""
+msgstr "Inscription"
 
 msgid "popup_sort_item_skill"
-msgstr ""
+msgstr "Compétence"
 
 msgid "popup_sort_item_active_skill"
-msgstr ""
+msgstr "Comp. Active"
 
 msgid "popup_sort_item_live_skill"
-msgstr ""
+msgstr "Comp. Live"
 
 msgid "popup_sort_item_episode"
-msgstr ""
+msgstr "Episode"
 
 msgid "popup_sort_item_secret_board"
-msgstr ""
+msgstr "Nombre planches secrètes"
 
 msgid "popup_sort_item_highscorerating"
-msgstr ""
+msgstr "Score"
 
 msgid "popup_sort_item_fannum"
-msgstr ""
+msgstr "Fans"
 
 msgid "popup_sort_item_episodeno"
-msgstr ""
+msgstr "Num. Episode"
 
 msgid "popup_sort_item_diva_and_valkyrie"
-msgstr ""
+msgstr "Diva/Valkyrie"
 
 msgid "popup_sort_item_episode_point"
-msgstr ""
+msgstr "Points d'épisode"
 
 msgid "popup_sort_item_lucky_leaf"
-msgstr ""
+msgstr "Trèfle"
 
 msgid "popup_sort_item_main_cannnon_power"
-msgstr ""
+msgstr "Force tir principal"
 
 msgid "popup_sort_item_fan"
-msgstr ""
+msgstr "Fans"
 
 msgid "popup_sort_item_furniture"
 msgstr ""
@@ -5339,28 +5382,28 @@ msgid "popup_sort_item_other"
 msgstr ""
 
 msgid "popup_sort_item_filter"
-msgstr ""
+msgstr "Filtres"
 
 msgid "popup_filter_title_h1"
-msgstr ""
+msgstr "Config. filtres"
 
 msgid "popup_filter_mainep_title_h2"
-msgstr ""
+msgstr "Status déblocage"
 
 msgid "popup_filter_series_title_h2"
-msgstr ""
+msgstr "Série"
 
 msgid "popup_filter_diva_val_title_h2"
-msgstr ""
+msgstr "Diva/Valkyrie"
 
 msgid "popup_filter_mainep_item_lock"
-msgstr ""
+msgstr "Non débloqué"
 
 msgid "popup_filter_mainep_item_unlock"
-msgstr ""
+msgstr "Débloqué"
 
 msgid "popup_filter_mainep_item_enable_unlock"
-msgstr ""
+msgstr "Plaque déblocable"
 
 msgid "popup_option_data_title"
 msgstr ""
@@ -5411,28 +5454,28 @@ msgid "select_costume_desc01"
 msgstr ""
 
 msgid "popup_filter_rarity_title_h2"
-msgstr ""
+msgstr "Rareté"
 
 msgid "popup_filter_rarity_01"
-msgstr ""
+msgstr "★ 1"
 
 msgid "popup_filter_rarity_02"
-msgstr ""
+msgstr "★ 2"
 
 msgid "popup_filter_rarity_03"
-msgstr ""
+msgstr "★ 3"
 
 msgid "popup_filter_rarity_04"
-msgstr ""
+msgstr "★ 4"
 
 msgid "popup_filter_rarity_05"
-msgstr ""
+msgstr "★ 5"
 
 msgid "popup_filter_rarity_06"
-msgstr ""
+msgstr "★ 6"
 
 msgid "popup_filter_rarity_07"
-msgstr ""
+msgstr "★ 7"
 
 msgid "deco_name_decomascot"
 msgstr ""
@@ -5594,16 +5637,16 @@ msgid "godiva_result_bonus"
 msgstr ""
 
 msgid "popup_filter_godiva_music_exp_title_h2"
-msgstr ""
+msgstr "Cri"
 
 msgid "popup_filter_godiva_music_exp_item_soul"
-msgstr ""
+msgstr "Âme"
 
 msgid "popup_filter_godiva_music_exp_item_voice"
-msgstr ""
+msgstr "Voix"
 
 msgid "popup_filter_godiva_music_exp_item_charm"
-msgstr ""
+msgstr "Charme"
 
 msgid "popup_godiva_status_title"
 msgstr ""
@@ -5891,85 +5934,95 @@ msgid "gacha_ticket_ev_name"
 msgstr ""
 
 msgid "popup_filter_unspecified"
-msgstr ""
+msgstr "N/A"
 
 msgid "popup_filter_difficulty_title_h2"
-msgstr ""
+msgstr "Difficulté"
 
 msgid "popup_filter_difficulty_easy"
-msgstr ""
+msgstr "FACILE"
 
 msgid "popup_filter_difficulty_normal"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "popup_filter_difficulty_hard"
-msgstr ""
+msgstr "DUR"
 
 msgid "popup_filter_difficulty_veryhard"
-msgstr ""
+msgstr "TRES-DUR"
 
 msgid "popup_filter_difficulty_extreme"
-msgstr ""
+msgstr "EXTREME"
 
 msgid "popup_filter_difficulty_6line_hard"
-msgstr ""
+msgstr "DUR+"
 
 msgid "popup_filter_difficulty_6line_veryhard"
-msgstr ""
+msgstr "TRES-DUR+"
 
 msgid "popup_filter_difficulty_6line_extreme"
-msgstr ""
+msgstr "EXTREME+"
 
 msgid "popup_filter_music_attribute_title_h2"
-msgstr ""
+msgstr "Propriété"
 
 msgid "popup_filter_music_attribute_001"
-msgstr ""
+msgstr "Étoile"
 
 msgid "popup_filter_music_attribute_002"
-msgstr ""
+msgstr "Amour"
 
 msgid "popup_filter_music_attribute_003"
-msgstr ""
+msgstr "Vie"
 
 msgid "popup_filter_music_attribute_004"
-msgstr ""
+msgstr "Tous"
 
 msgid "popup_filter_combo_title_h2"
-msgstr ""
+msgstr "Combo"
 
 msgid "popup_filter_fullcombo"
 msgstr ""
+"Full combo\n"
+"non fait"
 
 msgid "popup_filter_prefect_fullcombo"
 msgstr ""
+"Full combo parfait\n"
+"non fait"
 
 msgid "popup_filter_unit_title_h2"
-msgstr ""
+msgstr "Groupe"
 
 msgid "popup_filter_reward_title_h2"
-msgstr ""
+msgstr "Récompense de réussite"
 
 msgid "popup_filter_reward_score"
 msgstr ""
+"SCORE SS\n"
+"non fait"
 
 msgid "popup_filter_reward_combo"
 msgstr ""
+"COMBO SS\n"
+"non fait"
 
 msgid "popup_filter_reward_clear"
 msgstr ""
+"Récomp. réussite\n"
+"non fait"
 
 msgid "popup_filter_music_level_title_h2"
-msgstr ""
+msgstr "Niveau musique"
 
 msgid "popup_filter_bonus_title_h2"
-msgstr ""
+msgstr "Bonus"
 
 msgid "popup_filter_bonus_ok"
-msgstr ""
+msgstr "Ok"
 
 msgid "popup_filter_bonus_not_ok"
-msgstr ""
+msgstr "Non ok"
 
 msgid "music_not_exist_filter_text"
 msgstr ""
@@ -6038,16 +6091,16 @@ msgid "unit_unitset_dummy_name"
 msgstr ""
 
 msgid "unit_status_skill_regulation_series_y"
-msgstr ""
+msgstr "La comp. ne sera pas activée car la série de correspond pas."
 
 msgid "unit_status_skill_regulation_series_n"
-msgstr ""
+msgstr "La comp. ne sera pas activée car la série de correspond pas."
 
 msgid "unit_status_skill_regulation_attr"
-msgstr ""
+msgstr "La comp. ne sera pas activée car l'attribut ne correspond pas."
 
 msgid "popup_sort_item_music_exp"
-msgstr ""
+msgstr "Exp."
 
 msgid "unit_diva_status_titla_level"
 msgstr "Niv. diva"
@@ -6059,10 +6112,10 @@ msgid "unit_diva_status_titla_music_exp"
 msgstr ""
 
 msgid "popup_unit_disp_type_scene"
-msgstr ""
+msgstr "Plaque"
 
 msgid "popup_unit_disp_type_diva"
-msgstr ""
+msgstr "Diva"
 
 msgid "unit_playbutton_en"
 msgstr ""
@@ -6086,13 +6139,13 @@ msgid "popup_set_prizm_lackdiva_titile"
 msgstr ""
 
 msgid "popup_sort_item_diva_and_valkyrie_and_bg"
-msgstr ""
+msgstr "Diva/Valkyrie/Bg"
 
 msgid "popup_filter_diva_val_title_h3"
-msgstr ""
+msgstr "Diva/Valkyrie/Bg"
 
 msgid "unit_diva_status_leaf_attr"
-msgstr ""
+msgstr "Attr. bonus +{0}%"
 
 msgid "unit_diva_status_leaf_series"
 msgstr ""
@@ -6107,31 +6160,31 @@ msgid "popup_sort_musicselect_sortitem_title_h2"
 msgstr ""
 
 msgid "popup_sort_item_default"
-msgstr ""
+msgstr "Série"
 
 msgid "popup_sort_item_musiclevel"
-msgstr ""
+msgstr "Niv. chanson"
 
 msgid "popup_sort_item_highscore"
-msgstr ""
+msgstr "Score"
 
 msgid "popup_sort_item_utarate"
-msgstr ""
+msgstr "Taux de chant"
 
 msgid "popup_sort_item_clearnum"
-msgstr ""
+msgstr "Nb. réussi"
 
 msgid "popup_sort_item_notesnum"
-msgstr ""
+msgstr "Nb. notes"
 
 msgid "popup_sort_item_musiclength"
-msgstr ""
+msgstr "Durée"
 
 msgid "popup_sort_item_smallorder"
-msgstr ""
+msgstr "Asc."
 
 msgid "popup_sort_item_bigorder"
-msgstr ""
+msgstr "Desc."
 
 msgid "popup_sort_order_title_h2"
 msgstr ""
@@ -6200,7 +6253,7 @@ msgid "popup_music_input_bookmarkname_deletecheck_text_01"
 msgstr ""
 
 msgid "popup_sort_item_notes_expectation"
-msgstr ""
+msgstr "Notes prévues"
 
 msgid "music_not_exist_text_01"
 msgstr ""
@@ -6236,10 +6289,10 @@ msgid "pop_gakuya_present_num_title"
 msgstr ""
 
 msgid "popup_filter_have_title_h2"
-msgstr ""
+msgstr "Status possession"
 
 msgid "popup_filter_have_01"
-msgstr ""
+msgstr "Possession"
 
 msgid "popup_filter_have_02"
-msgstr ""
+msgstr "Non possédé"
