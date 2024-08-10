@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-10 13:54+0000\n"
+"PO-Revision-Date: 2024-08-10 17:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -688,7 +688,7 @@ msgid "StringLiteral_12298"
 msgstr "Reçoit "
 
 msgid "StringLiteral_12300"
-msgstr ""
+msgstr "+ "
 
 msgid "StringLiteral_12326"
 msgstr ""
@@ -1150,7 +1150,7 @@ msgid "StringLiteral_13620"
 msgstr ""
 
 msgid "StringLiteral_13959"
-msgstr ""
+msgstr "★"
 
 msgid "StringLiteral_13975"
 msgstr ""
@@ -1201,7 +1201,7 @@ msgid "StringLiteral_15055"
 msgstr ""
 
 msgid "StringLiteral_15265"
-msgstr ""
+msgstr "Possédé :"
 
 msgid "StringLiteral_15475"
 msgstr ""
@@ -1261,10 +1261,10 @@ msgid "StringLiteral_15697"
 msgstr "{0}　{1}{2}"
 
 msgid "StringLiteral_15750"
-msgstr ""
+msgstr "{0} {1} avant prochaine récompense"
 
 msgid "StringLiteral_15778"
-msgstr ""
+msgstr "Compensation additionnelle"
 
 msgid "StringLiteral_15794"
 msgstr "Encore {0} {1}"
