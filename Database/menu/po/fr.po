@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-10 11:28+0000\n"
+"PO-Revision-Date: 2024-08-10 13:54+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -1211,7 +1211,7 @@ msgid "popup_quest_reward_title"
 msgstr "Mission réussie"
 
 msgid "quest_event_none_list"
-msgstr ""
+msgstr "Aucune mission disponible."
 
 msgid "quest_reward_none_list"
 msgstr ""
@@ -1379,13 +1379,13 @@ msgid "ranking_ev_range_not_found"
 msgstr ""
 
 msgid "popup_rank_range_title"
-msgstr ""
+msgstr "Ordre d'affichage"
 
 msgid "popup_rank_range_myself"
-msgstr ""
+msgstr "Mon rang"
 
 msgid "popup_rank_range_place"
-msgstr ""
+msgstr "{0}ème"
 
 msgid "music_week_play_count_limit"
 msgstr ""
@@ -2828,16 +2828,16 @@ msgid "popup_music_rate_not_found"
 msgstr ""
 
 msgid "popup_music_rate_ranking_not_found"
-msgstr ""
+msgstr "Aucun classement pour le taux de chant."
 
 msgid "popup_music_rate_next_01"
-msgstr ""
+msgstr "Encore"
 
 msgid "popup_music_rate_next_02"
-msgstr ""
+msgstr "pour"
 
 msgid "popup_music_rate_must"
-msgstr ""
+msgstr "Taux requis"
 
 msgid "popup_music_rate_get_reward_desc_01"
 msgstr ""
@@ -2847,6 +2847,8 @@ msgstr ""
 
 msgid "popup_music_rate_desc"
 msgstr ""
+"Le niveau de chant est calculé à partir du taux de chant des 10 meilleurs "
+"chansons."
 
 msgid "popup_music_rate_rank_unit"
 msgstr ""
@@ -3737,16 +3739,16 @@ msgid "bingo_count_text"
 msgstr ""
 
 msgid "bingo_reward_count_text"
-msgstr ""
+msgstr "Récomp. {0} bingo"
 
 msgid "bingo_ribbon_bingo_count_text"
-msgstr ""
+msgstr "Actuellement {0} bingo！"
 
 msgid "bingo_ribbon_costume_text"
-msgstr ""
+msgstr "Gagne la plaque au bingo {0} !"
 
 msgid "bingo_ribbon_item_text"
-msgstr ""
+msgstr "Récompense pour bingo complet !"
 
 msgid "bingo_next_reward_text"
 msgstr ""
@@ -3876,7 +3878,7 @@ msgid "bingo_normal_bingo_start_text"
 msgstr ""
 
 msgid "bingo_mission_conditions_text"
-msgstr ""
+msgstr "【Condition d'obtention】"
 
 msgid "offer_not_received_item_title"
 msgstr ""
