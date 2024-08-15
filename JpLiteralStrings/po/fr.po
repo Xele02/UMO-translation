@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-15 15:18+0000\n"
+"PO-Revision-Date: 2024-08-15 16:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -1309,6 +1309,9 @@ msgstr ""
 
 msgid "StringLiteral_16419"
 msgstr ""
+"【Condition de déblocage】\n"
+"\n"
+"Atteindre le niveau de joueur 5."
 
 msgid "StringLiteral_16496"
 msgstr ""
@@ -1320,13 +1323,13 @@ msgid "StringLiteral_17446"
 msgstr ""
 
 msgid "StringLiteral_17754"
-msgstr ""
+msgstr "(＋{0})"
 
 msgid "StringLiteral_17777"
 msgstr ""
 
 msgid "StringLiteral_17787"
-msgstr ""
+msgstr "%"
 
 msgid "StringLiteral_17788"
 msgstr "(Objets convertis en {0} UC)"
@@ -1938,34 +1941,34 @@ msgid "UMO_NumLeft"
 msgstr "Reste"
 
 msgid "UMO_PlayAttr"
-msgstr ""
+msgstr "Attribut de chanson"
 
 msgid "UMO_PlayAttr2"
 msgstr ""
 
 msgid "UMO_All"
-msgstr ""
+msgstr "Tous"
 
 msgid "UMO_Attr1"
-msgstr ""
+msgstr "Étoile"
 
 msgid "UMO_Attr2"
-msgstr ""
+msgstr "Amour"
 
 msgid "UMO_Attr3"
-msgstr ""
+msgstr "Vie"
 
 msgid "UMO_PlayStyle"
-msgstr ""
+msgstr "Priorité"
 
 msgid "UMO_PlayStyleScore"
-msgstr ""
+msgstr "Score"
 
 msgid "UMO_PlayStyleLife"
-msgstr ""
+msgstr "Vie"
 
 msgid "UMO_PlayStyleCombo"
-msgstr ""
+msgstr "Combo"
 
 msgid "UMO_PlayStatus"
 msgstr ""
