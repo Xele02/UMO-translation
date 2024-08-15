@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-15 13:31+0000\n"
+"PO-Revision-Date: 2024-08-15 14:43+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -21471,19 +21471,19 @@ msgid "vc_uni_0010"
 msgstr ""
 
 msgid "df_00"
-msgstr ""
+msgstr "FACILE"
 
 msgid "df_01"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "df_02"
-msgstr ""
+msgstr "DUR"
 
 msgid "df_03"
-msgstr ""
+msgstr "TRES-DUR"
 
 msgid "df_04"
-msgstr ""
+msgstr "EXTREME"
 
 msgid "rn_0000"
 msgstr ""
