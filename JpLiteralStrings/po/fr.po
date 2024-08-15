@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-15 14:43+0000\n"
+"PO-Revision-Date: 2024-08-15 15:18+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -181,7 +181,7 @@ msgid "StringLiteral_10094"
 msgstr ""
 
 msgid "StringLiteral_10095"
-msgstr "{0:plural:set|sets}"
+msgstr " {0:plural:set|sets}"
 
 msgid "StringLiteral_10096"
 msgstr ""
@@ -1261,7 +1261,9 @@ msgid "StringLiteral_15697"
 msgstr "{0}　{1}{2}"
 
 msgid "StringLiteral_15750"
-msgstr "{0} {1} avant prochaine récompense"
+msgstr ""
+"Prochaine récompense : \n"
+"{0} {1}"
 
 msgid "StringLiteral_15778"
 msgstr "Compensation additionnelle"
@@ -1393,7 +1395,7 @@ msgid "StringLiteral_19538"
 msgstr ""
 
 msgid "StringLiteral_19639"
-msgstr ""
+msgstr "Sans limite de temps"
 
 msgid "StringLiteral_19612"
 msgstr ""
@@ -1498,25 +1500,25 @@ msgid "UMO_login_6541_prize1_msg"
 msgstr ""
 
 msgid "UMO_achievements_normal_quest"
-msgstr ""
+msgstr "Récompense de mission normale."
 
 msgid "UMO_achievements_daily_quest"
-msgstr ""
+msgstr "Récompense de mission journalière"
 
 msgid "UMO_achievements_episode"
-msgstr ""
+msgstr "Récompense d'épisode."
 
 msgid "UMO_achievements_debut_quest"
-msgstr ""
+msgstr "Récompense de mission de débutant."
 
 msgid "UMO_achievements_new_offer"
-msgstr ""
+msgstr "Récomp. pour 1ère complétion d'une op. Valkyrie."
 
 msgid "UMO_achievements_costume"
-msgstr ""
+msgstr "Récompense pour amélioration de costume."
 
 msgid "UMO_achievements_freemusic"
-msgstr ""
+msgstr "Récompense de concert"
 
 msgid "UMO_currency_1001_desc"
 msgstr ""
