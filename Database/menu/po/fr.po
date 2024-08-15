@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-15 14:43+0000\n"
+"PO-Revision-Date: 2024-08-15 15:18+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -160,28 +160,35 @@ msgid "item_detail_popup_title_00"
 msgstr ""
 
 msgid "pbox_title_00"
-msgstr ""
+msgstr "Confirmation de réception"
 
 msgid "pbox_title_01"
 msgstr ""
 
 msgid "pbox_title_02"
-msgstr ""
+msgstr "Reception de cadeaux"
 
 msgid "pbox_title_03"
-msgstr ""
+msgstr "Confirmation de réception en masse"
 
 msgid "pbox_title_04"
 msgstr ""
 
 msgid "pbox_text_01"
 msgstr ""
+"Recevoir \n"
+"<color=#C8087E>{0}</color>.\n"
+"\n"
+"Confirmer ?"
 
 msgid "pbox_text_02"
 msgstr ""
 
 msgid "pbox_text_03"
 msgstr ""
+"<color=#C8087E>{0}</color>\n"
+"\n"
+"reçu."
 
 msgid "pbox_text_04"
 msgstr ""
@@ -191,18 +198,21 @@ msgstr ""
 
 msgid "pbox_text_06"
 msgstr ""
+"Réception des objets en masses.\n"
+"\n"
+"Confirmer ?"
 
 msgid "pbox_text_07"
 msgstr ""
 
 msgid "pbox_text_08"
-msgstr ""
+msgstr "{0} {0:plural:cadeau reçu|cadeaux reçus}."
 
 msgid "pbox_text_09"
 msgstr ""
 
 msgid "pbox_text_10"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_11"
 msgstr ""
@@ -217,16 +227,16 @@ msgid "pbox_text_14"
 msgstr ""
 
 msgid "pbox_win_warn01"
-msgstr ""
+msgstr "<color=#c8087e>Seul les derniers {0} sont affichés</color>"
 
 msgid "pbox_win_warn02"
-msgstr ""
+msgstr "<color=#c8087e>Seul les derniers {0} sont affichés</color>"
 
 msgid "pbox_win_none01"
-msgstr ""
+msgstr "Il n'y a pas de cadeaux."
 
 msgid "pbox_win_none02"
-msgstr ""
+msgstr "Il n'y a pas d'historique."
 
 msgid "set_notification_text_00"
 msgstr ""
