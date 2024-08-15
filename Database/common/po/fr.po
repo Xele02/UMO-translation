@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:35+0000\n"
-"PO-Revision-Date: 2024-08-15 12:41+0000\n"
+"PO-Revision-Date: 2024-08-15 16:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "common/fr/>\n"
@@ -782,31 +782,31 @@ msgid "profile_diva007_description"
 msgstr ""
 
 msgid "profile_diva008_age"
-msgstr ""
+msgstr "14ans"
 
 msgid "profile_diva008_birthday"
-msgstr ""
+msgstr "02/02"
 
 msgid "profile_diva008_birthplace"
-msgstr ""
+msgstr "Vaisseau de la lune rouge"
 
 msgid "profile_diva008_favorite"
-msgstr ""
+msgstr "Galaxy Drive, escalopes de porc, pizzas"
 
 msgid "profile_diva008_description"
 msgstr ""
 
 msgid "profile_diva009_age"
-msgstr ""
+msgstr "21ans"
 
 msgid "profile_diva009_birthday"
-msgstr ""
+msgstr "15/08"
 
 msgid "profile_diva009_birthplace"
-msgstr ""
+msgstr "Inconnu"
 
 msgid "profile_diva009_favorite"
-msgstr ""
+msgstr "Ecouter mes chansons"
 
 msgid "profile_diva009_description"
 msgstr ""
