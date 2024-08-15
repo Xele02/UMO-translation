@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:50+0000\n"
-"PO-Revision-Date: 2024-08-15 12:41+0000\n"
+"PO-Revision-Date: 2024-08-15 12:53+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/fr/>\n"
@@ -3356,7 +3356,7 @@ msgid "adv_300601_0033_msg"
 msgstr ""
 
 msgid "adv_300601_0034_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_300601_0035_msg"
 msgstr ""
@@ -5660,7 +5660,7 @@ msgid "adv_301001_0021_msg"
 msgstr ""
 
 msgid "adv_301001_0022_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_301001_0023_msg"
 msgstr ""
@@ -5735,7 +5735,7 @@ msgid "adv_301001_0046_msg"
 msgstr ""
 
 msgid "adv_301001_0047_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_301001_0048_msg"
 msgstr ""
@@ -5798,7 +5798,7 @@ msgid "adv_301002_0016_msg"
 msgstr ""
 
 msgid "adv_301002_0017_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_301002_0018_msg"
 msgstr ""
@@ -9137,7 +9137,7 @@ msgid "adv_201502_0008_msg"
 msgstr ""
 
 msgid "adv_201502_0009_msg"
-msgstr ""
+msgstr "Minmay"
 
 msgid "adv_201502_0010_msg"
 msgstr ""
@@ -9389,7 +9389,7 @@ msgid "adv_301402_0027_msg"
 msgstr ""
 
 msgid "adv_301402_0031_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_301402_0032_msg"
 msgstr ""
@@ -9788,7 +9788,7 @@ msgid "adv_201602_0025_msg"
 msgstr ""
 
 msgid "adv_201602_0027_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_201602_0028_msg"
 msgstr ""
@@ -10112,7 +10112,7 @@ msgid "adv_101802_0008_msg"
 msgstr ""
 
 msgid "adv_101802_0009_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_101802_0010_msg"
 msgstr ""
@@ -10574,7 +10574,7 @@ msgid "adv_201702_0021_msg"
 msgstr ""
 
 msgid "adv_201702_0023_msg"
-msgstr ""
+msgstr "Mylène"
 
 msgid "adv_201702_0024_msg"
 msgstr ""
@@ -11258,7 +11258,7 @@ msgid "adv_201802_0027_msg"
 msgstr ""
 
 msgid "adv_201802_0028_msg"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "adv_201802_0029_msg"
 msgstr ""
@@ -11549,7 +11549,7 @@ msgid "adv_102102_0010_msg"
 msgstr ""
 
 msgid "adv_102102_0012_msg"
-msgstr ""
+msgstr "Mikumo"
 
 msgid "adv_102102_0013_msg"
 msgstr ""
@@ -12299,7 +12299,7 @@ msgid "adv_301901_0034_msg"
 msgstr ""
 
 msgid "adv_301902_0008_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_301902_0009_msg"
 msgstr ""
@@ -15071,7 +15071,7 @@ msgid "adv_103001_0038_msg"
 msgstr ""
 
 msgid "adv_103001_0040_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_103001_0041_msg"
 msgstr ""
@@ -17405,7 +17405,7 @@ msgid "adv_303201_0040_msg"
 msgstr ""
 
 msgid "adv_303202_0009_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_303202_0010_msg"
 msgstr ""
@@ -18650,7 +18650,7 @@ msgid "adv_1400101_0026_msg"
 msgstr ""
 
 msgid "adv_1400101_0029_msg"
-msgstr ""
+msgstr "Basara"
 
 msgid "adv_1400101_0030_msg"
 msgstr ""
@@ -19376,7 +19376,7 @@ msgid "adv_104002_0036_msg"
 msgstr ""
 
 msgid "adv_104002_0037_msg"
-msgstr ""
+msgstr "Mylène"
 
 msgid "adv_104002_0038_msg"
 msgstr ""
@@ -19649,7 +19649,7 @@ msgid "adv_104101_0024_msg"
 msgstr ""
 
 msgid "adv_104101_0026_msg"
-msgstr ""
+msgstr "Ranka"
 
 msgid "adv_104101_0027_msg"
 msgstr ""
@@ -19733,7 +19733,7 @@ msgid "adv_104102_0022_msg"
 msgstr ""
 
 msgid "adv_104102_0024_msg"
-msgstr ""
+msgstr "Ranka"
 
 msgid "adv_104102_0025_msg"
 msgstr ""
@@ -20579,7 +20579,7 @@ msgid "adv_303702_0024_msg"
 msgstr ""
 
 msgid "adv_303702_0025_msg"
-msgstr ""
+msgstr "Ranka"
 
 msgid "adv_303702_0026_msg"
 msgstr ""
@@ -21038,7 +21038,7 @@ msgid "adv_104501_0042_msg"
 msgstr ""
 
 msgid "adv_104502_0008_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_104502_0009_msg"
 msgstr ""
@@ -21263,7 +21263,7 @@ msgid "adv_303801_0024_msg"
 msgstr ""
 
 msgid "adv_303801_0026_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_303801_0027_msg"
 msgstr ""
@@ -21296,7 +21296,7 @@ msgid "adv_303802_0008_msg"
 msgstr ""
 
 msgid "adv_303802_0009_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_303802_0010_msg"
 msgstr ""
@@ -21329,7 +21329,7 @@ msgid "adv_303802_0019_msg"
 msgstr ""
 
 msgid "adv_303802_0020_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_303802_0021_msg"
 msgstr ""
@@ -22100,7 +22100,7 @@ msgid "adv_104802_0009_msg"
 msgstr ""
 
 msgid "adv_104802_0010_msg"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "adv_104802_0011_msg"
 msgstr ""
@@ -22706,7 +22706,7 @@ msgid "adv_105001_0021_msg"
 msgstr ""
 
 msgid "adv_105001_0023_msg"
-msgstr ""
+msgstr "Minmay"
 
 msgid "adv_105001_0024_msg"
 msgstr ""
@@ -22898,7 +22898,7 @@ msgid "adv_1400701_0019_msg"
 msgstr ""
 
 msgid "adv_1400701_0020_msg"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "adv_1400701_0021_msg"
 msgstr ""
@@ -23927,7 +23927,7 @@ msgid "adv_105401_0015_msg"
 msgstr ""
 
 msgid "adv_105401_0016_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_105401_0017_msg"
 msgstr ""
@@ -25823,7 +25823,7 @@ msgid "adv_206301_0008_msg"
 msgstr ""
 
 msgid "adv_206301_0009_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_206301_0010_msg"
 msgstr ""
