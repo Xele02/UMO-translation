@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:50+0000\n"
-"PO-Revision-Date: 2024-08-15 13:31+0000\n"
+"PO-Revision-Date: 2024-08-15 18:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/fr/>\n"
@@ -8132,88 +8132,135 @@ msgid "adv_301202_0044_msg"
 msgstr ""
 
 msgid "adv_000110_0003_msg"
-msgstr ""
+msgstr "...Capitaine Arad"
 
 msgid "adv_000110_0004_msg"
 msgstr ""
+"Nous avons établie la communication avec les pilotes\n"
+"de chaque espace-temps. ...Mais pourquoi avez-vous\n"
+" décidé d'organiser une réunion commune ?"
 
 msgid "adv_000110_0005_msg"
 msgstr ""
+"A propos de ça... Messer,\n"
+"Avez-vous entendu parler de ce qui s'est passé ?"
 
 msgid "adv_000110_0006_msg"
 msgstr ""
+"Oui, par Kaname.\n"
+"C'est à propos des phénomènes anormaux qui se \n"
+"produisent dans le réseau hypertemporel ?"
 
 msgid "adv_000110_0007_msg"
 msgstr ""
+"Oui. Récemment, il y a eu un certain nombre de pannes de \n"
+"communication sur le réseau suer-espace-temps que \n"
+"Reina a créé"
 
 msgid "adv_000110_0008_msg"
 msgstr ""
+"Il s'avère que cela est apparemment dû à l'effet \n"
+"des chants d'apocalypse émis par le \n"
+"peuple des oiseaux…"
 
 msgid "adv_000110_0009_msg"
-msgstr ""
+msgstr "Systèmes ultra-anciens, hommes-oiseaux... ?"
 
 msgid "adv_000110_0010_msg"
 msgstr ""
+"...Je n'ai jamais pensé que les effets de la chanson \n"
+"de l'apocalypse se manifesteraient dans \n"
+"le réseau hyperspatial"
 
 msgid "adv_000110_0011_msg"
 msgstr ""
+"Réseaux sociaux super spatio-temporels, groupe de concert \n"
+"super spatio-temporelle... De nombreux systèmes ont été mis \n"
+"en place par le biais de réseaux super-espace-temps"
 
 msgid "adv_000110_0012_msg"
 msgstr ""
+"Oh. Si c'est détruit...\n"
+"Lynn Minmay, Sheryl Norm, Ranka Lee…"
 
 msgid "adv_000110_0013_msg"
 msgstr ""
+"Et Fire Bomber.\n"
+"Il n'y aurait aucun moyen d'entrer en contact avec eux"
 
 msgid "adv_000110_0014_msg"
 msgstr ""
+"Si nous perdons notre coordination, les pertes de mémoire\n"
+"seront encore plus importantes. Ce serait certainement à \n"
+"l'avantage de l'ennemi"
 
 msgid "adv_000110_0015_msg"
 msgstr ""
+"...Bien sûr, nous ne pouvons pas laisser cela se produire.\n"
+"Mais nous, la section Delta, sommes assez limités \n"
+"dans ce que nous pouvons faire par nous-mêmes"
 
 msgid "adv_000110_0016_msg"
-msgstr ""
+msgstr "...Oui"
 
 msgid "adv_000110_0017_msg"
 msgstr ""
+"C'est ainsi.\n"
+"J'ai parlé à Ozma et aux autres et j'ai demandé à Reina de \n"
+"créer un nouveau système"
 
 msgid "adv_000110_0018_msg"
 msgstr ""
+"...Il n'y a pas que les divas qui coopèrent.\n"
+"Je pense qu'il est temps pour nous, les pilotes, \n"
+"de travailler ensemble aussi"
 
 msgid "adv_000110_0019_msg"
-msgstr ""
+msgstr "... ?"
 
 msgid "adv_000110_0022_msg"
-msgstr ""
+msgstr "... Les opérations Valkyrie"
 
 msgid "adv_000110_0023_msg"
-msgstr ""
+msgstr "... Bien"
 
 msgid "adv_000110_0024_msg"
-msgstr ""
+msgstr "Dans tout les cas, c'est bien une idée du capitaine Arad !"
 
 msgid "adv_000110_0025_msg"
 msgstr ""
+"En ses termes :『Nous voulons aussi protéger le réseau \n"
+"super-espace-temps, permet nous de nous battre \n"
+"dans le réseau 』 !"
 
 msgid "adv_000110_0026_msg"
-msgstr ""
+msgstr "Audacieux"
 
 msgid "adv_000110_0027_msg"
-msgstr ""
+msgstr "Bien sûr, Reirei est aussi incroyable de l'avoir réalisé !"
 
 msgid "adv_000110_0028_msg"
 msgstr ""
+"Je n'aurais jamais pensé que les Valkyrie puisse être \n"
+"changées en donnée pour permettre de se battre \n"
+"sur le réseau hyper-spatial !"
 
 msgid "adv_000110_0029_msg"
-msgstr ""
+msgstr "C'était facile"
 
 msgid "adv_000110_0030_msg"
 msgstr ""
+"Il ne reste plus à Reirei qu'à demander au pilote \n"
+"une operation si tu détectes quelque chose \n"
+"d'anormal sur le réseau"
 
 msgid "adv_000110_0031_msg"
-msgstr ""
+msgstr "...C'est parti, Makina"
 
 msgid "adv_000110_0032_msg"
 msgstr ""
+"Oui !\n"
+"Opération Valkyrie, activation !"
 
 msgid "adv_101501_0009_msg"
 msgstr ""
@@ -10254,93 +10301,127 @@ msgstr ""
 
 msgid "adv_000130_0003_msg"
 msgstr ""
+"Hey, hey, hey ! Attention, tout le monde !\n"
+"Je voudrais faire une grande annonce !"
 
 msgid "adv_000130_0004_msg"
-msgstr ""
+msgstr "Tu as mon attention"
 
 msgid "adv_000130_0005_msg"
-msgstr ""
+msgstr "Mhh !?"
 
 msgid "adv_000130_0007_msg"
-msgstr ""
+msgstr "Oui !?"
 
 msgid "adv_000130_0009_msg"
-msgstr ""
+msgstr "...Je me demande ce que c'est cette fois"
 
 msgid "adv_000130_0010_msg"
 msgstr ""
+"...vous savez, en fait,\n"
+"j'ai toujours pensé qu'il nous manquait quelque chose"
 
 msgid "adv_000130_0012_msg"
-msgstr ""
+msgstr "Quoi donc... ?"
 
 msgid "adv_000130_0013_msg"
 msgstr ""
+"Mhh. Réseau social, groupe de concert...\n"
+"En utilisant le réseau super espace-temps,\n"
+"Reirei a inventé beaucoup de choses, n'est-ce pas ?"
 
 msgid "adv_000130_0014_msg"
 msgstr ""
+"Grâce à ca, j'ai pu interagir avec de nombreuses personnes à\n"
+"travers le temps et l'espace, mais j'ai toujours eu l'impression\n"
+"qu'il manquait quelque chose…"
 
 msgid "adv_000130_0015_msg"
-msgstr ""
+msgstr "Ce qui manque... je ne voit pas"
 
 msgid "adv_000130_0017_msg"
 msgstr ""
+"Tout le monde interagisse entre eux,\n"
+"et sont heureux comme ça, non ?"
 
 msgid "adv_000130_0019_msg"
-msgstr ""
+msgstr "...Je ne voit rien en particulier non plus"
 
 msgid "adv_000130_0020_msg"
-msgstr ""
+msgstr "Mais, vous savez, j'ai fini par m'en rendre compte !"
 
 msgid "adv_000130_0022_msg"
-msgstr ""
+msgstr "Oh!! Et c'est quoi ?"
 
 msgid "adv_000130_0023_msg"
-msgstr ""
+msgstr "Il n'y a pas assez de customisation !"
 
 msgid "adv_000130_0024_msg"
-msgstr ""
+msgstr "...Oh ?"
 
 msgid "adv_000130_0025_msg"
 msgstr ""
+"C'est pourquoi j'ai demandé à Reirei de créer un endroit sur\n"
+"le super réseau spatio-temporel où je pourrais interagir\n"
+"avec mes objets mignons !"
 
 msgid "adv_000130_0026_msg"
-msgstr ""
+msgstr "Eh !? Et c'est déjà prêt ?"
 
 msgid "adv_000130_0028_msg"
-msgstr ""
+msgstr "Le nom est DeculDeco"
 
 msgid "adv_000130_0029_msg"
-msgstr ""
+msgstr "dec...quoi ??"
 
 msgid "adv_000130_0030_msg"
 msgstr ""
+"Le groupe de concert super-espace-temps peut surcharger\n"
+"le réseau super-espace-temps si il est activée à plusieurs \n"
+"endroits en même temps…"
 
 msgid "adv_000130_0031_msg"
 msgstr ""
+"Il n'est pas facile d'organiser des fêtes ou d'autres\n"
+"événements où tout le monde se retrouve en même\n"
+"temps, n'est-ce pas ?"
 
 msgid "adv_000130_0032_msg"
 msgstr ""
+"Je me suis donc dit : pourquoi ne pas créer une pièce où tout\n"
+"le monde peut facilement se retrouver ?\n"
+"Nous pourrions la décorer d'une manière très jolie !"
 
 msgid "adv_000130_0033_msg"
 msgstr ""
+"De plus, quand on est dans la pièce, on peux avoir des \n"
+"conversations avec des gens d'autres espaces-temps, \n"
+"comme un groupe de concert d'espace-temps !"
 
 msgid "adv_000130_0034_msg"
-msgstr ""
+msgstr "GoriGori !?"
 
 msgid "adv_000130_0035_msg"
 msgstr ""
+"Après tout, si vous allez dans une pièce si mignonne, \n"
+"vous aurez certainement envie de parler à vos amis !"
 
 msgid "adv_000130_0036_msg"
-msgstr ""
+msgstr "Mhh"
 
 msgid "adv_000130_0037_msg"
 msgstr ""
+"D'ailleurs, en mode DéculDeco, si vous voulez parler à \n"
+"des personnes dans le monde réel, vous pouvez \n"
+"également discuter avec elles"
 
 msgid "adv_000130_0039_msg"
-msgstr ""
+msgstr "C'est génial…"
 
 msgid "adv_000130_0040_msg"
 msgstr ""
+"Quel genre de chambre devrais-t-on faire, Il va falloir en discuter...\n"
+"Plein de chose amusante à venir"
 
 msgid "adv_000130_0041_msg"
 msgstr ""
