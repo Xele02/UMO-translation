@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-15 13:31+0000\n"
+"PO-Revision-Date: 2024-08-15 14:08+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -406,7 +406,7 @@ msgid "config_text_39"
 msgstr "Tu peux ajuster la vitesse des notes pendant le concert."
 
 msgid "config_text_40"
-msgstr "Réglage de la vitesse des notes"
+msgstr "Réglage vitesse"
 
 msgid "config_text_41"
 msgstr ""
@@ -482,16 +482,14 @@ msgstr "Tous les niveaux de difficulté utilisent les mêmes paramètres."
 
 msgid "config_text_64"
 msgstr ""
-"Si cette case n'est pas cochée, la vitesse des notes est définie pour chaque "
-"niveau de difficulté."
+"Non cochée : la vitesse des notes est définie pour chaque niveau de "
+"difficulté."
 
 msgid "config_text_65"
 msgstr "Ne plus montrer la prochaine fois"
 
 msgid "config_text_66"
-msgstr ""
-"La vitesse des notes peut être modifiée à tout moment dans les paramètres du "
-"jeu."
+msgstr "La vitesse des notes peut être modifiée dans les paramètres du jeu."
 
 msgid "config_text_67"
 msgstr ""
@@ -1199,16 +1197,16 @@ msgid "popup_reward_detail_001"
 msgstr "Réussi {0} fois ou plus"
 
 msgid "popup_reward_detail_002"
-msgstr ""
+msgstr "Score {0}+"
 
 msgid "popup_reward_detail_003"
-msgstr ""
+msgstr "{0} combos+"
 
 msgid "popup_reward_detail_004"
-msgstr ""
+msgstr "{0} UC"
 
 msgid "popup_reward_detail_005"
-msgstr ""
+msgstr "{0}×{1}"
 
 msgid "popup_reward_detail_title"
 msgstr ""
@@ -3284,7 +3282,7 @@ msgid "episode_appeal_text_003"
 msgstr ""
 
 msgid "add_unit_multi_dance_popup_01"
-msgstr ""
+msgstr "Version {0} personnes ajoutée."
 
 msgid "popup_error_purchase_multi_title"
 msgstr ""
@@ -3839,7 +3837,7 @@ msgid "bingo_mission_end_pop_text"
 msgstr ""
 
 msgid "pop_score_detail_title"
-msgstr "Détails des jauges de prédiction"
+msgstr "Détails des jauges"
 
 msgid "pop_score_detail_caution_01"
 msgstr "L'influence de \"song of ruin(?)\" est inclu dans la prédiction."
@@ -3856,7 +3854,7 @@ msgid "pop_score_detail_item_name_02"
 msgstr "Costume"
 
 msgid "pop_score_detail_item_name_03"
-msgstr "Bonus d'attribut"
+msgstr "Bonus d'attr."
 
 msgid "pop_score_detail_item_name_04"
 msgstr "Comp. central"
@@ -3889,8 +3887,7 @@ msgid "pop_score_detail_item_desc_02"
 msgstr "Prédiction augmentant en fonction des costumes"
 
 msgid "pop_score_detail_item_desc_03"
-msgstr ""
-"Prédiction en fonction de la correspondance des attributs plaques/chansons"
+msgstr "Prédiction en fonction de la corresp. des attr. plaques/chansons"
 
 msgid "pop_score_detail_item_desc_04"
 msgstr "Prédiction en fonction des compétences centrales"
