@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-15 12:41+0000\n"
+"PO-Revision-Date: 2024-08-15 14:08+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -1327,25 +1327,25 @@ msgid "StringLiteral_17787"
 msgstr ""
 
 msgid "StringLiteral_17788"
-msgstr ""
+msgstr "(Objets convertis en {0} UC)"
 
 msgid "StringLiteral_17960"
-msgstr ""
+msgstr "{0}x"
 
 msgid "StringLiteral_18022"
-msgstr ""
+msgstr "Comp. utilisées"
 
 msgid "StringLiteral_18023"
-msgstr ""
+msgstr "{0}s."
 
 msgid "StringLiteral_18024"
-msgstr ""
+msgstr ": {0}"
 
 msgid "StringLiteral_18054"
 msgstr ""
 
 msgid "StringLiteral_18067"
-msgstr ""
+msgstr "{0} points d'énergie récupérés"
 
 msgid "StringLiteral_18280"
 msgstr ""
@@ -1927,13 +1927,13 @@ msgid "UMO_Atk"
 msgstr "Attaque"
 
 msgid "UMO_SupportImp"
-msgstr ""
+msgstr "Plaques de support non débloquées"
 
 msgid "UMO_SupportImp2"
-msgstr ""
+msgstr "Déblocage : Obtenir des plaques de support en améliorant des costumes."
 
 msgid "UMO_NumLeft"
-msgstr ""
+msgstr "Reste"
 
 msgid "UMO_PlayAttr"
 msgstr ""
