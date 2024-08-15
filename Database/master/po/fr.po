@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-10 14:11+0000\n"
+"PO-Revision-Date: 2024-08-15 12:53+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -3639,34 +3639,34 @@ msgid "diva_10"
 msgstr "Lynn Minmay"
 
 msgid "diva_s_01"
-msgstr ""
+msgstr "Freyja"
 
 msgid "diva_s_02"
-msgstr ""
+msgstr "Mikumo"
 
 msgid "diva_s_03"
-msgstr ""
+msgstr "Kaname"
 
 msgid "diva_s_04"
-msgstr ""
+msgstr "Makina"
 
 msgid "diva_s_05"
-msgstr ""
+msgstr "Reina"
 
 msgid "diva_s_06"
-msgstr ""
+msgstr "Ranka"
 
 msgid "diva_s_07"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "diva_s_08"
-msgstr ""
+msgstr "Mylène"
 
 msgid "diva_s_09"
-msgstr ""
+msgstr "Basara"
 
 msgid "diva_s_10"
-msgstr ""
+msgstr "Minmay"
 
 msgid "cs_i_nm_0001"
 msgstr ""
