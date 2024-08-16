@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-16 10:02+0000\n"
+"PO-Revision-Date: 2024-08-16 10:59+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -21339,16 +21339,18 @@ msgid "ep_dsc_0405"
 msgstr ""
 
 msgid "ep_i_nm_0001"
-msgstr ""
+msgstr "Orbe d'épisode (petit)"
 
 msgid "ep_i_nm_0002"
-msgstr ""
+msgstr "Orbe d'épisode (moyen)"
 
 msgid "ep_i_nm_0003"
-msgstr ""
+msgstr "Orbe d'épisode (grand)"
 
 msgid "ep_i_dsc_0001"
 msgstr ""
+"<size=22>Objet utilisable pour tous les épisodes, augmente légèrement le "
+"déblocage.</size>"
 
 msgid "ep_i_dsc_0002"
 msgstr ""
@@ -21510,6 +21512,8 @@ msgstr ""
 
 msgid "vc_dsc_0002"
 msgstr ""
+"Tickets utilisé à la lotterie au lieu des orbes sonores.\n"
+"<color=#C8087E>※Peuvent être utilisés pour certaines loteries.</color>"
 
 msgid "vc_dsc_0003"
 msgstr ""
@@ -21517,7 +21521,7 @@ msgstr ""
 "le déblocage de capacités des plaques d'épisode."
 
 msgid "vc_dsc_0004"
-msgstr ""
+msgstr "Compenssation de login UtaMacPass."
 
 msgid "vc_dsc_0005"
 msgstr ""
