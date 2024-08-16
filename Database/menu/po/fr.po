@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-16 14:30+0000\n"
+"PO-Revision-Date: 2024-08-16 16:15+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -84,7 +84,7 @@ msgid "popup_text_09"
 msgstr "Confirmation des articles consommés"
 
 msgid "popup_text_10"
-msgstr ""
+msgstr "Objets possedés"
 
 msgid "popup_text_11"
 msgstr "Confirmation du déblocage des capacités"
@@ -796,13 +796,13 @@ msgid "header_desc_vop000"
 msgstr "Sélection d'une opération"
 
 msgid "header_desc_vop001"
-msgstr ""
+msgstr "Selection du peloton"
 
 msgid "header_desc_vop002"
 msgstr ""
 
 msgid "header_desc_vop003"
-msgstr ""
+msgstr "Selection de la forme"
 
 msgid "header_desc_home030"
 msgstr ""
@@ -937,7 +937,7 @@ msgid "header_desc_story001"
 msgstr ""
 
 msgid "header_desc_story002"
-msgstr "Organiser les groupes"
+msgstr "Formation du groupe"
 
 msgid "header_desc_story003"
 msgstr ""
@@ -970,10 +970,10 @@ msgid "header_desc_free000"
 msgstr ""
 
 msgid "header_desc_free001"
-msgstr ""
+msgstr "Selection d'un assistant"
 
 msgid "header_desc_free002"
-msgstr ""
+msgstr "Formation du groupe"
 
 msgid "header_desc_free003"
 msgstr ""
@@ -1222,7 +1222,7 @@ msgid "popup_reward_detail_005"
 msgstr "{0}×{1}"
 
 msgid "popup_reward_detail_title"
-msgstr ""
+msgstr "Récompenses acquises"
 
 msgid "pupup_app_exit_title"
 msgstr ""
@@ -2346,16 +2346,16 @@ msgid "popup_unlock_diff_04"
 msgstr ""
 
 msgid "popup_add_episode_01"
-msgstr ""
+msgstr "Récompenses obtenues en débloquant complètement l'épisode."
 
 msgid "popup_add_episode_02"
-msgstr ""
+msgstr "Valkyrie obtenue en débloquant complètement l'épisode."
 
 msgid "popup_add_episode_03"
 msgstr "Costume obtenu en débloquant complètement l'épisode."
 
 msgid "popup_add_episode_04"
-msgstr ""
+msgstr "Fond d'écran obtenu en débloquant complètement l'épisode."
 
 msgid "popup_release_ep_diva_costume"
 msgstr ""
@@ -3560,7 +3560,7 @@ msgid "offer_diva_offer_levelup_text"
 msgstr ""
 
 msgid "offer_result_first_achievement_title"
-msgstr ""
+msgstr "Récompense de 1ère réussite"
 
 msgid "sacred_stones_count_text"
 msgstr ""
@@ -3569,10 +3569,13 @@ msgid "offer_item_scene_detail_text"
 msgstr ""
 
 msgid "offer_spitem_detail_title"
-msgstr ""
+msgstr "Objet vedette"
 
 msgid "offer_spitem_detail_text"
 msgstr ""
+"Objets susceptibles d'apparaître dans les drops rares.\n"
+"<color=#C8087E>※L'un d'entre eux apparaîtra pour une mission très "
+"réussie.</color>"
 
 msgid "offer_all_platoon_sortie_pop_text"
 msgstr ""
@@ -3838,7 +3841,7 @@ msgid "bingo_reward_select_desc2"
 msgstr "La mission bingo peux être joué {0} fois."
 
 msgid "bingo_reward_select_desc3"
-msgstr "La récompense ne peux pas être changé après avoir démarré."
+msgstr "La récompense ne peut pas être changé après avoir choisi."
 
 msgid "bingo_reward_select_title"
 msgstr "Plaque reçu pour complétion"
