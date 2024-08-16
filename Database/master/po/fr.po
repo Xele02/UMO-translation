@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-16 08:33+0000\n"
+"PO-Revision-Date: 2024-08-16 10:02+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -3447,166 +3447,262 @@ msgid "fl_nm_0040"
 msgstr ""
 
 msgid "gn_0001"
-msgstr ""
+msgstr "Pierre de mélodie (petite)"
 
 msgid "gn_0002"
-msgstr ""
+msgstr "Pierre de mélodie (moyenne)"
 
 msgid "gn_0003"
-msgstr ""
+msgstr "Pierre de mélodie (grande)"
 
 msgid "gn_0004"
-msgstr ""
+msgstr "Pierre de PV (petite)"
 
 msgid "gn_0005"
-msgstr ""
+msgstr "Pierre de PV (moyenne)"
 
 msgid "gn_0006"
-msgstr ""
+msgstr "Pierre de PV (grande)"
 
 msgid "gn_0007"
-msgstr ""
+msgstr "Pierre d'âme (petite)"
 
 msgid "gn_0008"
-msgstr ""
+msgstr "Pierre d'âme (moyenne)"
 
 msgid "gn_0009"
-msgstr ""
+msgstr "Pierre d'âme (grande)"
 
 msgid "gn_0010"
-msgstr ""
+msgstr "Pierre de voix (petite)"
 
 msgid "gn_0011"
-msgstr ""
+msgstr "Pierre de voix (moyenne)"
 
 msgid "gn_0012"
-msgstr ""
+msgstr "Pierre de voix (grande)"
 
 msgid "gn_0013"
-msgstr ""
+msgstr "Pierre de charme (petite)"
 
 msgid "gn_0014"
-msgstr ""
+msgstr "Pierre de charme (moyenne)"
 
 msgid "gn_0015"
-msgstr ""
+msgstr "Pierre de charme (grande)"
 
 msgid "gn_0016"
-msgstr ""
+msgstr "Cristal de vie (petit)"
 
 msgid "gn_0017"
-msgstr ""
+msgstr "Cristal de vie (moyen)"
 
 msgid "gn_0018"
-msgstr ""
+msgstr "Cristal de vie (grand)"
 
 msgid "gn_0019"
-msgstr ""
+msgstr "Cristal d'amour (petit)"
 
 msgid "gn_0020"
-msgstr ""
+msgstr "Cristal d'amour (moyen)"
 
 msgid "gn_0021"
-msgstr ""
+msgstr "Cristal d'amour (grand)"
 
 msgid "gn_0022"
-msgstr ""
+msgstr "Cristal d'étoile (petit)"
 
 msgid "gn_0023"
-msgstr ""
+msgstr "Cristal d'étoile (moyen)"
 
 msgid "gn_0024"
-msgstr ""
+msgstr "Cristal d'étoile (grand)"
 
 msgid "gn_0025"
-msgstr ""
+msgstr "Gemme de chance"
 
 msgid "gn_0026"
-msgstr ""
+msgstr "Gemme brillante de chance"
 
 msgid "gn_0027"
-msgstr ""
+msgstr "Pierre secrète"
 
 msgid "gn_dsc_0001"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu du pouvoir mélodique y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Lun. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0002"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir mélodique y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Lun. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0003"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir mélodique y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Lun. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0004"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir de PV y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Jeu. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0005"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir de PV y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Jeu. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0006"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir de PV y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Jeu. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0007"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir d'âme y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Ven. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0008"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir d'âme y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Jeu. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0009"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir d'âme y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Jeu. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0010"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir de voix y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Mer. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0011"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir de voix y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Mer. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0012"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir de voix y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Mer. et Dim.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0013"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir de charme y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Mar. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0014"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir de charme y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Mar. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0015"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir de charme y est caché.\n"
+"<color=#C8087E>※Obtenue dans【l'événement le Mar. et Sam.】et d'autres "
+"sources.</color>"
 
 msgid "gn_dsc_0016"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir de vie y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons vie, etc.</color>"
 
 msgid "gn_dsc_0017"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir de vie y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons vie, etc.</color>"
 
 msgid "gn_dsc_0018"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir de vie y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons vie, etc.</color>"
 
 msgid "gn_dsc_0019"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir d'amour y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons amour, etc.</color>"
 
 msgid "gn_dsc_0020"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir d'amour y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons amour, etc.</color>"
 
 msgid "gn_dsc_0021"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir d'amour y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons amour, etc.</color>"
 
 msgid "gn_dsc_0022"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un peu de pouvoir d'étoile y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons étoile, etc.</color>"
 
 msgid "gn_dsc_0023"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Du pouvoir d'étoile y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons étoile, etc.</color>"
 
 msgid "gn_dsc_0024"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Un grand pouvoir d'étoile y est caché.\n"
+"<color=#C8087E>※Obtenue dans les chansons étoile, etc.</color>"
 
 msgid "gn_dsc_0025"
 msgstr ""
+"Objet rare utilisé pour libérer les capacités des trèfles.\n"
+"<color=#8e0529>※Peut être utilisé sur les plaques d'une \n"
+"rareté de ★5 après augmentation de la rareté.</color>"
 
 msgid "gn_dsc_0026"
 msgstr ""
+"Objet rare utilisé pour libérer les capacités des trèfles.\n"
+"<color=#8e0529>※Peut être utilisé sur les plaques d'une \n"
+"rareté de ★6 et ★7 après augmentation de la rareté.</color>"
 
 msgid "gn_dsc_0027"
 msgstr ""
+"Peut être utilisé débloquer les tableaux secrets.\n"
+"<color=#8e0529>※Peut être utilisé pour les plaques \n"
+"avec une rareté de ★5 ou ★6 après l'augmentation de la rareté.</color>"
 
 msgid "diva_01"
 msgstr "Freyja Wion"
@@ -21378,13 +21474,13 @@ msgid "plt_nm_0039"
 msgstr ""
 
 msgid "vc_0001"
-msgstr "Pierre de chant"
+msgstr "Orbes sonores"
 
 msgid "vc_0002"
 msgstr ""
 
 msgid "vc_0003"
-msgstr ""
+msgstr "Crédit d'Union"
 
 msgid "vc_0004"
 msgstr ""
@@ -21409,12 +21505,16 @@ msgstr ""
 
 msgid "vc_dsc_0001"
 msgstr ""
+"Objet utilisable pour une variété de choses, \n"
+"y compris la loterie et la récupération d'énergie."
 
 msgid "vc_dsc_0002"
 msgstr ""
 
 msgid "vc_dsc_0003"
 msgstr ""
+"Monnaie utilisable pour diverses choses, comme \n"
+"le déblocage de capacités des plaques d'épisode."
 
 msgid "vc_dsc_0004"
 msgstr ""
@@ -22002,76 +22102,100 @@ msgid "et_dsc_0006"
 msgstr ""
 
 msgid "cmp_nm_0001"
-msgstr ""
+msgstr "Set de pierres (petites)"
 
 msgid "cmp_nm_0002"
-msgstr "Set de pierres (moyen)"
+msgstr "Set de pierres (moyennes)"
 
 msgid "cmp_nm_0003"
-msgstr ""
+msgstr "Set de pierres (grandes)"
 
 msgid "cmp_nm_0004"
-msgstr ""
+msgstr "Set de cristaux (petits)"
 
 msgid "cmp_nm_0005"
-msgstr ""
+msgstr "Set de cristaux (moyens)"
 
 msgid "cmp_nm_0006"
-msgstr ""
+msgstr "Set de cristaux (grands)"
 
 msgid "cmp_nm_0007"
-msgstr ""
+msgstr "Set de croissance (cuivre)"
 
 msgid "cmp_nm_0008"
-msgstr ""
+msgstr "Set de croissance (argent)"
 
 msgid "cmp_nm_0009"
-msgstr ""
+msgstr "Set de croissance (or)"
 
 msgid "cmp_nm_0010"
-msgstr ""
+msgstr "Set de croissance (arc-en-ciel)"
 
 msgid "cmp_nm_0011"
-msgstr ""
+msgstr "Set de toutes pierres"
 
 msgid "cmp_nm_0012"
-msgstr ""
+msgstr "Set de tout cristaux"
 
 msgid "cmp_dsc_0001"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Tous les types de pierres (petites) sont inclus dans le set."
 
 msgid "cmp_dsc_0002"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Tous les types de pierres (moyennes) sont inclus dans le set."
 
 msgid "cmp_dsc_0003"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Tous les types de pierres (grandes) sont inclus dans le set."
 
 msgid "cmp_dsc_0004"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Tous les types de cristaux (petits) sont inclus dans le set."
 
 msgid "cmp_dsc_0005"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Tous les types de cristaux (moyens) sont inclus dans le set."
 
 msgid "cmp_dsc_0006"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+"Tous les types de cristaux (grands) sont inclus dans le set."
 
 msgid "cmp_dsc_0007"
 msgstr ""
+"Un ensemble d'objets de déblocage et d'UC donnés \n"
+"comme bonus de connexion au super espace-temps."
 
 msgid "cmp_dsc_0008"
 msgstr ""
+"Un ensemble d'objets de déblocage et d'UC donnés \n"
+"comme bonus de connexion au super espace-temps."
 
 msgid "cmp_dsc_0009"
 msgstr ""
+"Un ensemble d'objets de déblocage et d'UC donnés \n"
+"comme bonus de connexion au super espace-temps."
 
 msgid "cmp_dsc_0010"
 msgstr ""
+"Un ensemble d'objets de déblocage et d'UC donnés \n"
+"comme bonus de connexion au super espace-temps."
 
 msgid "cmp_dsc_0011"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+" Le set contient tous types de pierres (petites) (moyennes) (grandes)."
 
 msgid "cmp_dsc_0012"
 msgstr ""
+"Objet utilisé pour débloquer les capacités des plaques d'épisode.\n"
+" Le set contient tous types de cristaux (petits) (moyens) (grands)."
 
 msgid "evn_0001"
 msgstr ""
@@ -23670,100 +23794,138 @@ msgid "ebgc_rtx_0012"
 msgstr ""
 
 msgid "spitm_nm_0001"
-msgstr ""
+msgstr "Clé de déblocage SNS"
 
 msgid "spitm_nm_0002"
-msgstr ""
+msgstr "Programme haute vitesse"
 
 msgid "spitm_nm_0003"
-msgstr ""
+msgstr "Ether de vie"
 
 msgid "spitm_nm_0004"
-msgstr ""
+msgstr "Non utilisé"
 
 msgid "spitm_nm_0005"
-msgstr ""
+msgstr "Non utilisé"
 
 msgid "spitm_nm_0006"
-msgstr ""
+msgstr "Médaille de capitaine"
 
 msgid "spitm_nm_0007"
-msgstr ""
+msgstr "Médaille de super galaxie"
 
 msgid "spitm_nm_0008"
-msgstr ""
+msgstr "Point déco"
 
 msgid "spitm_nm_0009"
-msgstr ""
+msgstr "Fragment rare d'évolution"
 
 msgid "spitm_nm_0010"
-msgstr ""
+msgstr "Fragment de pierre secrète"
 
 msgid "spitm_nm_0011"
-msgstr ""
+msgstr "Fragment de gemme"
 
 msgid "spitm_nm_0012"
-msgstr ""
+msgstr "Fragment de gemme brillante"
 
 msgid "spitm_nm_0013"
-msgstr ""
+msgstr "Ticket pour passer les concerts"
 
 msgid "spitm_nm_0014"
 msgstr ""
 
 msgid "spitm_nm_0015"
-msgstr ""
+msgstr "Ticket d'échange de plaque"
 
 msgid "spitm_nm_0016"
-msgstr ""
+msgstr "Ticket d'échange d'amélioration de costume"
 
 msgid "spitm_dsc_0001"
 msgstr ""
+"Objet utilisé pour débloquer des discussions inédites sur le SNS.\n"
+"Les discussions manquées peuvent être visionnées à nouveau.\n"
+"<color=#8e0529>※Certaines discussions ne peuvent pas être débloqués. </color>"
 
 msgid "spitm_dsc_0002"
 msgstr ""
+"Objet qui accélère une opération Valkyrie commencée. Si le nombre \n"
+"spécifié est utilisé, l'opération Valkyrie peut être achevée.\n"
+"<color=#C8087E>※Les opérations Valkyries sont débloqués au rang 7.</color>"
 
 msgid "spitm_dsc_0003"
 msgstr ""
+"Objet qui permet de restaurer 3 tentatives de la chanson du jour.\n"
+"<color=#C8087E>※Peut être utilisé lorsque le nombre de tentative \n"
+"de la chanson du jour est de 0.</color>"
 
 msgid "spitm_dsc_0004"
-msgstr ""
+msgstr "Non utilisé"
 
 msgid "spitm_dsc_0005"
-msgstr ""
+msgstr "Non utilisé"
 
 msgid "spitm_dsc_0006"
 msgstr ""
+"Une grande médaille avec les pensées des \n"
+"anciens capitaines Macross.\n"
+"Un objet qui peut charger la jauge du canon Macross."
 
 msgid "spitm_dsc_0007"
 msgstr ""
+"Médaille sur laquelle sont gravés des symboles galactiques.\n"
+"Peut être échangée contre des objets au magasin Chaos.\n"
+"<color=#C8087E>※Obtenue auprès de la Super Galactic Alliance LIVE, "
+"etc.</color>"
 
 msgid "spitm_dsc_0008"
 msgstr ""
+"Pièces de monnaie portant le symbole d'un point déco.\n"
+"Elles peuvent être échangées contre des \n"
+"objets déco au magasin Chaos."
 
 msgid "spitm_dsc_0009"
 msgstr ""
+"Des objets qui, s'ils sont collectés en plusieurs exemplaires, \n"
+"peuvent être échangés contre des \n"
+"nouveautés rares au magasin Chaos"
 
 msgid "spitm_dsc_0010"
 msgstr ""
+"Des objets qui, s'ils sont collectés en plusieurs exemplaires, \n"
+"peuvent être échangés contre des \n"
+"pierres secrètes au magasin Chaos"
 
 msgid "spitm_dsc_0011"
 msgstr ""
+"Des objets qui, s'ils sont collectés en plusieurs exemplaires, \n"
+"peuvent être échangés contre des \n"
+"gemmes chance au magasin Chaos"
 
 msgid "spitm_dsc_0012"
 msgstr ""
+"Des objets qui, s'ils sont collectés en plusieurs exemplaires, \n"
+"peuvent être échangés contre des \n"
+"gemmes brillantes au magasin Chaos"
 
 msgid "spitm_dsc_0013"
 msgstr ""
+"Il y a une limite au nombre de tickets qui \n"
+"peuvent être utilisés par jour pour \n"
+"sauter les concerts."
 
 msgid "spitm_dsc_0014"
 msgstr ""
 
 msgid "spitm_dsc_0015"
 msgstr ""
+"Billet d'échange spécial rempli de souvenirs.\n"
+"Peut être échangé contre des plaques au magasin Chaos."
 
 msgid "spitm_dsc_0016"
 msgstr ""
+"Billet d'échange spécial rempli de souvenirs de costumes.\n"
+"Peut être échangé contre une plaque de costume au magasin Chaos."
 
 msgid "spitm_qt_0007"
 msgstr ""
