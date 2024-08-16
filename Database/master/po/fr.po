@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-16 11:01+0000\n"
+"PO-Revision-Date: 2024-08-16 16:15+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -3765,91 +3765,130 @@ msgid "diva_s_10"
 msgstr "Minmay"
 
 msgid "cs_i_nm_0001"
-msgstr ""
+msgstr "Cristal de costume (petit)"
 
 msgid "cs_i_nm_0002"
-msgstr ""
+msgstr "Cristal de costume (moyen)"
 
 msgid "cs_i_nm_0003"
-msgstr ""
+msgstr "Cristal de costume (grand)"
 
 msgid "cs_i_nm_0004"
-msgstr ""
+msgstr "Poupée mignone (Freyja)"
 
 msgid "cs_i_nm_0005"
-msgstr ""
+msgstr "Poupée mignone (Mikumo)"
 
 msgid "cs_i_nm_0006"
-msgstr ""
+msgstr "Poupée mignone (Kaname)"
 
 msgid "cs_i_nm_0007"
-msgstr ""
+msgstr "Poupée mignone (Makina)"
 
 msgid "cs_i_nm_0008"
-msgstr ""
+msgstr "Poupée mignone (Reina)"
 
 msgid "cs_i_nm_0009"
-msgstr ""
+msgstr "Poupée mignone (Ranka)"
 
 msgid "cs_i_nm_0010"
-msgstr ""
+msgstr "Poupée mignone (Sheryl)"
 
 msgid "cs_i_nm_0011"
-msgstr ""
+msgstr "Poupée mignone (Mylène)"
 
 msgid "cs_i_nm_0012"
-msgstr ""
+msgstr "Poupée mignone (Basara)"
 
 msgid "cs_i_nm_0013"
-msgstr ""
+msgstr "Poupée mignone (Minmay)"
 
 msgid "cs_i_dsc_0001"
 msgstr ""
+"Objet qui améliore légèrement un costume.\n"
+"<color=#C8087E>※Peut être obtenu dans les opération valkyrie et "
+"autre.</color>"
 
 msgid "cs_i_dsc_0002"
 msgstr ""
+"Objet qui améliore un costume.\n"
+"<color=#C8087E>※Peut être obtenu dans les opération valkyrie et "
+"autre.</color>"
 
 msgid "cs_i_dsc_0003"
 msgstr ""
+"Objet qui améliore grandement un costume.\n"
+"<color=#C8087E>※Peut être obtenu dans les opération valkyrie et "
+"autre.</color>"
 
 msgid "cs_i_dsc_0004"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Freya.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Freya et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0005"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Mikumo.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Mikumo et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0006"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Kaname.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Kaname et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0007"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Makina.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Makina et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0008"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Reina.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Reina et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0009"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Ranka.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Ranka et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0010"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Sheryl.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Sheryl et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0011"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Mylène.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Mylène et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0012"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Basara.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Basara et "
+"autres.</color>"
 
 msgid "cs_i_dsc_0013"
 msgstr ""
+"Objet permettant de débloquer le rang ★4 d'un costume de Minmay.\n"
+"<color=#C8087E>※Peut être obtenu dans les l'opérations diva de Minmay et "
+"autres.</color>"
 
 msgid "cs_i_dsc_short_0001"
-msgstr ""
+msgstr "Objet qui améliore légèrement un costume."
 
 msgid "cs_i_dsc_short_0002"
-msgstr ""
+msgstr "Objet qui améliore un costume."
 
 msgid "cs_i_dsc_short_0003"
-msgstr ""
+msgstr "Objet qui améliore grandement un costume."
 
 msgid "cos_0001"
 msgstr ""
@@ -22260,22 +22299,30 @@ msgid "evdsc_0009"
 msgstr ""
 
 msgid "eng_nm_0001"
-msgstr ""
+msgstr "Ether d'energie"
 
 msgid "eng_nm_0002"
-msgstr ""
+msgstr "Ether d'énergie【journalier】"
 
 msgid "eng_dsc_0001"
 msgstr ""
+"Objet capable de récupérer l'énergie nécessaire pour maintenir le\n"
+"Super espace-temps. L'énergie est entièrement récupérée."
 
 msgid "eng_dsc_0002"
 msgstr ""
+"Objet capable de récupérer l'énergie nécessaire pour maintenir le\n"
+"Super espace-temps. L'énergie est entièrement récupérée.\n"
+"<color=#8e0529>※Expire à minuit</color>"
 
 msgid "mvtk_nm_0001"
-msgstr ""
+msgstr "Jeton S-LIVE"
 
 msgid "mvtk_dsc_0001"
 msgstr ""
+"Terminal électronique qui projette des images dans l'espace.\n"
+"Objet requis pour jouer à la simulation de concert.\n"
+"<color=#C8087E>※La simulation de concert se débloque au niveau 10.</color>"
 
 msgid "mdl_nm_0001"
 msgstr ""
@@ -26402,22 +26449,26 @@ msgid "rup_dsc_0001"
 msgstr ""
 
 msgid "lmitm_nm_0001"
-msgstr ""
+msgstr "Ticket de lotterie super espace-temps"
 
 msgid "lmitm_nm_0002"
 msgstr ""
 
 msgid "lmitm_nm_0003"
-msgstr ""
+msgstr "Ticket de lotterie super espace-temps ★5"
 
 msgid "lmitm_dsc_0001"
 msgstr ""
+"Tickets de loterie qui te permet de tirer des loteries spéciales.\n"
+"Permet de tirer des loteries super spatio-temporels."
 
 msgid "lmitm_dsc_0002"
 msgstr ""
 
 msgid "lmitm_dsc_0003"
 msgstr ""
+"Tickets de loterie qui te permet de tirer des loteries spéciales.\n"
+"Tu peux tirer la plaque ★5 du bingo."
 
 msgid "lmitm_qt_0001"
 msgstr ""
@@ -30728,34 +30779,47 @@ msgid "dc_itm_nm_0314_srf"
 msgstr ""
 
 msgid "val_itm_nm_0001"
-msgstr ""
+msgstr "Outil mécanique"
 
 msgid "val_itm_nm_0002"
-msgstr ""
+msgstr "Equipement de feu"
 
 msgid "val_itm_nm_0003"
-msgstr ""
+msgstr "Equipement de vent"
 
 msgid "val_itm_nm_0004"
-msgstr ""
+msgstr "Equipement de ciel"
 
 msgid "val_itm_nm_0005"
-msgstr ""
+msgstr "Equipement de Valkyrie"
 
 msgid "val_itm_dsc_0001"
 msgstr ""
+"Objet utilisé pour débloquer les performances étendues des Valkyrie.\n"
+"Outils pour le traitement de matériaux spéciaux."
 
 msgid "val_itm_dsc_0002"
 msgstr ""
+"Objet utilisé pour débloquer les niveaux des Valkyrie.\n"
+"Un matériau qui contient le pouvoir du feu pour faire ressortir\n"
+"les performances des Valkyrie."
 
 msgid "val_itm_dsc_0003"
 msgstr ""
+"Objet utilisé pour débloquer les niveaux des Valkyrie.\n"
+"Un matériau qui contient le pouvoir du vent pour faire ressortir\n"
+"les performances des Valkyrie."
 
 msgid "val_itm_dsc_0004"
 msgstr ""
+"Objet utilisé pour débloquer les niveaux des Valkyrie.\n"
+"Un matériau qui contient le pouvoir du ciel pour faire ressortir\n"
+"les performances des Valkyrie."
 
 msgid "val_itm_dsc_0005"
 msgstr ""
+"Objet utilisé pour débloquer les performances étendues des Valkyrie.\n"
+"Un matériel très précieux pour les performances des Valkyrie."
 
 msgid "val_skill_nm_0001"
 msgstr "Live"
@@ -31228,13 +31292,18 @@ msgid "sk_nm_0001"
 msgstr "Ticket pour passer les concerts"
 
 msgid "sk_nm_0002"
-msgstr ""
+msgstr "Ticket de passage de concert limité"
 
 msgid "sk_dsc_0001"
 msgstr ""
+"Il y a une limite au nombre de tickets qui \n"
+"peuvent être utilisés par jour pour \n"
+"sauter les concerts."
 
 msgid "sk_dsc_0002"
 msgstr ""
+"Le nombre de tickets utilisables par jour est limité, de même que\n"
+"le temps imparti pour passer les concerts."
 
 msgid "sk_qt_0001"
 msgstr "x"
