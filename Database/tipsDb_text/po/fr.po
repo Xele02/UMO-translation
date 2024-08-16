@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2024-08-16 14:30+0000\n"
+"PO-Revision-Date: 2024-08-16 16:16+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
@@ -33,10 +33,12 @@ msgid "tips_0002_msg"
 msgstr ""
 
 msgid "tips_0003_title"
-msgstr ""
+msgstr "【Comp.】Qu'est ce que l'assoup. de juge ?"
 
 msgid "tips_0003_msg"
 msgstr ""
+"Lorsqu'activée, la précision est assou-\n"
+"plie, si tu n'est pas précis, utilise le !"
 
 msgid "tips_0004_title"
 msgstr ""
@@ -51,10 +53,12 @@ msgid "tips_0005_msg"
 msgstr ""
 
 msgid "tips_0006_title"
-msgstr ""
+msgstr "Qu'est ce que le mode super diva ?"
 
 msgid "tips_0006_msg"
 msgstr ""
+"C'est un évènement qui se produit si tu\n"
+"repousses l'ennemi en mode poursuite !"
 
 msgid "tips_0007_title"
 msgstr "Qu'est ce qu'un set de groupe ?"
@@ -237,10 +241,12 @@ msgid "tips_0034_msg"
 msgstr ""
 
 msgid "tips_0035_title"
-msgstr ""
+msgstr "Qu'est ce que les comp. actives ?"
 
 msgid "tips_0035_msg"
 msgstr ""
+"C'est une comp. qui peut être activée à\n"
+"tout moment, utilise-la au bon moment"
 
 msgid "tips_0036_title"
 msgstr ""
@@ -646,10 +652,12 @@ msgid "tips_0095_msg"
 msgstr ""
 
 msgid "tips_0096_title"
-msgstr ""
+msgstr "Gallerie de costume"
 
 msgid "tips_0096_msg"
 msgstr ""
+"Le clin d'œil de FreyFrey est si mignon !\n"
+"L'araignée à l'arrière est aussi jolie♪"
 
 msgid "tips_0097_title"
 msgstr "Gallerie de costume"
@@ -692,10 +700,12 @@ msgid "tips_0102_msg"
 msgstr ""
 
 msgid "tips_0103_title"
-msgstr ""
+msgstr "Gallerie de costume"
 
 msgid "tips_0103_msg"
 msgstr ""
+"C'est une photo en concert de Sheryl !\n"
+"C'est tellement cool et excitant !"
 
 msgid "tips_0104_title"
 msgstr ""
