@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-16 16:15+0000\n"
+"PO-Revision-Date: 2024-08-16 16:34+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -3372,19 +3372,23 @@ msgid "popup_unlock_6line_music_text"
 msgstr "Version 6 pistes débloqué."
 
 msgid "offer_formation_name_chenge_popup_title"
-msgstr ""
+msgstr "Changement du nom de peloton"
 
 msgid "offer_formation_name_chenge_popup_text_01"
 msgstr ""
+"Entrer le nom du platon\n"
+"(15 caractères maximum)"
 
 msgid "offer_formation_name_chenge_popup_text_02"
 msgstr ""
+"・Il y a quelques caractères non utilisable.\n"
+"・Les modifications peuvent prendre un certain temps."
 
 msgid "offer_formation_name_chenge_popup_text_03"
-msgstr ""
+msgstr "Changement du nom terminé."
 
 msgid "offer_formation_name_notchangedcomment_popup"
-msgstr ""
+msgstr "Changement du nom non fait."
 
 msgid "offer_chenge_popup_title"
 msgstr "Confirmation de changement"
@@ -3402,25 +3406,29 @@ msgid "offer__cant_orders_popup_text"
 msgstr ""
 
 msgid "offer_squadron_popup_title"
-msgstr ""
+msgstr "Peloton en sortie"
 
 msgid "offer_fast_completion_popup_title_01"
-msgstr ""
+msgstr "Completion rapide"
 
 msgid "offer_fast_completion_popup_text_01_01"
 msgstr ""
+"Compléter l'opération en consommant \n"
+"{0} {0:plural:programme|programmes} haute vitesse."
 
 msgid "offer_fast_completion_popup_text_01_02"
-msgstr ""
+msgstr "<color=#C8087E>Programme haute vitesse {0}→{1}</color>"
 
 msgid "offer_fast_completion_popup_text_02_01"
 msgstr ""
+"Compléter l'opération en consommant \n"
+"{0} {0:plural:orbe sonore|orbes sonores}."
 
 msgid "offer_fast_completion_popup_text_02_02"
-msgstr ""
+msgstr "<color=#C8087E>Orbes sonores　 {0}→{1}</color>"
 
 msgid "offer_fast_completion_popup_text_02_03"
-msgstr ""
+msgstr "<color=#C8087E>Orbes sonores insufisantes.</color>"
 
 msgid "offer_fast_done_limit_over_pop_text"
 msgstr ""
@@ -3429,13 +3437,18 @@ msgid "offer_not_fast_done_pop_text"
 msgstr ""
 
 msgid "offer_platoon_release_condition_title_text"
-msgstr ""
+msgstr "Condition de déblocage"
 
 msgid "offer_platoon_release_condition_text_01"
 msgstr ""
+"Terminer toutes les opérations\n"
+"de débutant"
 
 msgid "offer_platoon_release_condition_text_02"
 msgstr ""
+"Terminer toutes les opérations\n"
+"de débutant\n"
+"Avoir au moins {0} Valkyries"
 
 msgid "costume_upgrade_diva_select_title_text"
 msgstr "Sélection diva"
@@ -3548,10 +3561,13 @@ msgid "offer_occur_diva_offer_text_02"
 msgstr ""
 
 msgid "offer_cancel_pop_title"
-msgstr ""
+msgstr "Confirmation d'annulation"
 
 msgid "offer_cancel_pop_text"
 msgstr ""
+"Si tu annules la missions, tu ne reçevras pas les récompenses.\n"
+"\n"
+"Confirmer ?"
 
 msgid "offer_daily_offer_levelup_text"
 msgstr ""
@@ -3579,6 +3595,8 @@ msgstr ""
 
 msgid "offer_all_platoon_sortie_pop_text"
 msgstr ""
+"L'opération ne peux pas être lancée \n"
+"car tous les pelotons sont de sortie."
 
 msgid "offer_select_operation_ended_pop_text"
 msgstr ""
