@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-16 11:00+0000\n"
+"PO-Revision-Date: 2024-08-16 14:30+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -694,7 +694,7 @@ msgid "growth_addreward_text"
 msgstr ""
 
 msgid "story_unlock_01"
-msgstr "<size=25>【condition de déblocage】</size>"
+msgstr "<size=25>【Condition de déblocage】</size>"
 
 msgid "story_unlock_02"
 msgstr "<size=20>Débloqué si les conditions suivantes sont remplies.</size>"
@@ -895,7 +895,7 @@ msgid "header_desc_setting004"
 msgstr ""
 
 msgid "header_desc_setting005"
-msgstr ""
+msgstr "Selection de costume"
 
 msgid "header_desc_setting006"
 msgstr ""
@@ -1438,16 +1438,16 @@ msgid "music_event_remain_prefix"
 msgstr "Encore "
 
 msgid "music_event_remain_day"
-msgstr ""
+msgstr "{0} j."
 
 msgid "music_event_remain_hour"
 msgstr "{0} h."
 
 msgid "music_event_remain_minute"
-msgstr ""
+msgstr "{0} m."
 
 msgid "music_event_remain_second"
-msgstr ""
+msgstr "{0} s."
 
 msgid "music_event_collect_ticket_label"
 msgstr ""
@@ -5547,7 +5547,7 @@ msgid "popup_bunchinstall_error_other_desc"
 msgstr ""
 
 msgid "popup_costumeselect_home"
-msgstr ""
+msgstr "Par defaut"
 
 msgid "pop_pass_loginbonus_caution"
 msgstr ""
@@ -6276,28 +6276,33 @@ msgid "popup_music_bookmark_title"
 msgstr ""
 
 msgid "popup_music_unlock_title"
-msgstr ""
+msgstr "Condition de déblocage"
 
 msgid "popup_music_unlock_text01"
-msgstr ""
+msgstr "Débloqué en effectuant les 2 conditions."
 
 msgid "popup_music_unlock_text02"
-msgstr ""
+msgstr "・Niveau de joueur {0}."
 
 msgid "popup_music_unlock_text03"
-msgstr ""
+msgstr "・Débloquer toutes les mémoires dans l'espace-temp mémoriel."
 
 msgid "popup_music_unlock_text04"
 msgstr ""
+"Avancer dans l'espace-temp mémoriel\n"
+"et débloquer 「{0}」."
 
 msgid "popup_music_unlock_text05"
-msgstr ""
+msgstr "Atteindre le niveau joueur {0}."
 
 msgid "popup_music_unlock_text06"
-msgstr ""
+msgstr "Débloqué en effectuant un de ces conditions."
 
 msgid "popup_music_unlock_text07"
 msgstr ""
+"・Terminer la chanson suivante {0}\n"
+"avec un score de {1}+.\n"
+"「{2}」"
 
 msgid "popup_music_input_bookmarkname_title"
 msgstr ""
@@ -6327,7 +6332,7 @@ msgid "vertical_music_select_event_remain_count"
 msgstr "Reste : <color=#FF1576>{0}x</color>"
 
 msgid "music_event_remain_prefix_01"
-msgstr ""
+msgstr "Encore"
 
 msgid "vertical_music_select_event_period"
 msgstr ""
