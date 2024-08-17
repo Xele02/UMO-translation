@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-17 11:28+0000\n"
+"PO-Revision-Date: 2024-08-17 12:31+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -287,7 +287,7 @@ msgid "set_battle_event_text_04"
 msgstr ""
 
 msgid "config_text_00"
-msgstr ""
+msgstr "Volume"
 
 msgid "config_text_01"
 msgstr ""
@@ -320,13 +320,13 @@ msgid "config_text_08"
 msgstr ""
 
 msgid "config_text_09"
-msgstr ""
+msgstr "Affichage"
 
 msgid "config_text_10"
 msgstr ""
 
 msgid "config_text_11"
-msgstr ""
+msgstr "Config. personnalisée"
 
 msgid "config_text_12"
 msgstr ""
@@ -335,25 +335,25 @@ msgid "config_text_13"
 msgstr ""
 
 msgid "config_text_14"
-msgstr ""
+msgstr "Affichage"
 
 msgid "config_text_15"
-msgstr ""
+msgstr "Personnaliser la performance."
 
 msgid "config_text_16"
-msgstr ""
+msgstr "La performance sera remplacée par une image 2D."
 
 msgid "config_text_17"
-msgstr ""
+msgstr "Certaines parties seront désactivée pour alléger l'affichage."
 
 msgid "config_text_18"
-msgstr ""
+msgstr "Voir toute la performance."
 
 msgid "config_text_19"
-msgstr ""
+msgstr "Timing"
 
 msgid "config_text_20"
-msgstr ""
+msgstr "Paramétrage du timing d'affichage."
 
 msgid "config_text_21"
 msgstr "Réglage du concert"
@@ -366,15 +366,22 @@ msgstr ""
 
 msgid "config_text_24"
 msgstr ""
+"Définit les paramètres de la diva affichée en \n"
+"3D. Un réglage bas minimise la qualité \n"
+"du rendu et réduit la charge."
 
 msgid "config_text_25"
 msgstr ""
+"Définit les paramètres pour les arrière-plans, les valkyries, etc. affichés "
+"en 3D. Un réglage bas réduit la qualité du rendu et la charge."
 
 msgid "config_text_26"
 msgstr ""
+"Définit l'affichage 2D pendant le concert.\n"
+"Un réglage bas minimise la mise en scène et réduit la charge."
 
 msgid "config_text_27"
-msgstr ""
+msgstr "Affichage"
 
 msgid "config_text_28"
 msgstr ""
@@ -395,13 +402,13 @@ msgid "config_text_33"
 msgstr ""
 
 msgid "config_text_34"
-msgstr ""
+msgstr "Si activé, lance la pause, si désactivé, ignore l'appui."
 
 msgid "config_text_35"
-msgstr ""
+msgstr "Utiliser la touche \"Retour\" pendant le concert."
 
 msgid "config_text_36"
-msgstr ""
+msgstr "Btn retour"
 
 msgid "config_text_37_rhythm"
 msgstr "Niveau de difficulté actuel"
@@ -413,22 +420,22 @@ msgid "config_text_38"
 msgstr ""
 
 msgid "config_text_39"
-msgstr "Tu peux ajuster la vitesse des notes pendant le concert."
+msgstr "Réglage de la vitesse des notes pendant le concert."
 
 msgid "config_text_40"
 msgstr "Réglage vitesse"
 
 msgid "config_text_41"
-msgstr ""
+msgstr "Vidéo"
 
 msgid "config_text_42"
-msgstr ""
+msgstr "Paramétrage de la vidéo durant le mode diva."
 
 msgid "config_text_43"
-msgstr ""
+msgstr "Réduire la qualité vidéo peux améliorer les performances."
 
 msgid "config_text_44"
-msgstr ""
+msgstr "Changer le paramètre re-téléchargera la vidéo."
 
 msgid "config_text_45"
 msgstr ""
@@ -452,31 +459,31 @@ msgid "config_text_51"
 msgstr ""
 
 msgid "config_text_52"
-msgstr ""
+msgstr "Luminosité"
 
 msgid "config_text_53"
-msgstr ""
+msgstr "Paramètrage de la luminosité en 2D et 3D."
 
 msgid "config_text_54"
-msgstr ""
+msgstr "Sombre"
 
 msgid "config_text_55"
-msgstr ""
+msgstr "Clair"
 
 msgid "config_text_56"
 msgstr ""
 
 msgid "config_text_57"
-msgstr ""
+msgstr "Mode valkyrie"
 
 msgid "config_text_58"
-msgstr ""
+msgstr "Réglage de l'affichage du mode Valkyrie."
 
 msgid "config_text_59"
-msgstr ""
+msgstr "La bataille entre la Valkyrie et l'ennemi est affichée."
 
 msgid "config_text_60"
-msgstr ""
+msgstr "La diva sera affiché pendant le mode valkyrie."
 
 msgid "config_text_61"
 msgstr "Confirmation"
@@ -491,9 +498,7 @@ msgid "config_text_63"
 msgstr "Tous les niveaux de difficulté utilisent les mêmes paramètres."
 
 msgid "config_text_64"
-msgstr ""
-"Non cochée : la vitesse des notes est définie pour chaque niveau de "
-"difficulté."
+msgstr "Non cochée : la vitesse des notes pour chaque niveau de difficulté."
 
 msgid "config_text_65"
 msgstr "Ne plus montrer la prochaine fois"
@@ -505,43 +510,45 @@ msgid "config_text_67"
 msgstr ""
 
 msgid "config_text_68"
-msgstr ""
+msgstr "Type notes"
 
 msgid "config_text_69"
 msgstr ""
+"Si 3 couleurs, les notes directionnelles auront \n"
+"une couleur par direction."
 
 msgid "config_text_70"
 msgstr ""
 
 msgid "config_text_71"
-msgstr ""
+msgstr "Si OFF, PERFECT sera affiché même pour un EXCELLENT."
 
 msgid "config_text_72"
-msgstr ""
+msgstr "Mode diva"
 
 msgid "config_text_73"
-msgstr ""
+msgstr "Réglage de l'affichage du mode diva."
 
 msgid "config_text_74"
-msgstr ""
+msgstr "Les réglages ne sont effectifs que en 3D."
 
 msgid "config_text_75"
-msgstr ""
+msgstr "En mode diva, une vidéo sera affiché en arrière plan."
 
 msgid "config_text_76"
-msgstr ""
+msgstr "En mode diva, seule la diva sera affichée."
 
 msgid "config_text_77"
-msgstr ""
+msgstr "En mode diva, seule la vidéo sera affichée."
 
 msgid "config_text_78"
 msgstr ""
 
 msgid "config_text_79"
-msgstr ""
+msgstr "Config. affichage concert"
 
 msgid "config_text_80"
-msgstr ""
+msgstr "Config. concert"
 
 msgid "config_text_81"
 msgstr ""
@@ -562,7 +569,7 @@ msgid "config_text_86"
 msgstr ""
 
 msgid "config_text_87"
-msgstr ""
+msgstr "Si OFF, désactive l'effet pendant le slide en mode 6 pistes."
 
 msgid "config_text_88"
 msgstr ""
@@ -3548,6 +3555,8 @@ msgstr ""
 
 msgid "offer_infomation_text_02"
 msgstr ""
+"Demande de \n"
+"【{0}】 !"
 
 msgid "offer_infomation_text_03"
 msgstr ""
@@ -3698,22 +3707,38 @@ msgstr ""
 "sera ★5 aprè augmentation de la rareté ?"
 
 msgid "popup_sel_cos_terms_title"
-msgstr ""
+msgstr "Condition de déblocage"
 
 msgid "popup_sel_cos_terms_text_base"
 msgstr ""
+"Débloquer l'épisode\n"
+"「{0}」"
 
 msgid "popup_sel_cos_terms_text_color01"
 msgstr ""
+"「{0}」\n"
+"est amélioré au niveau {1}"
 
 msgid "popup_sel_cos_terms_text_color02"
 msgstr ""
+"Débloquer \n"
+"「Amélioration de costume」"
 
 msgid "popup_sel_cos_terms_text_color03"
 msgstr ""
+"Débloquer l'épisode\n"
+"「{0}」\n"
+"\n"
+"\n"
+"Obtenir\n"
+"「{1}」"
 
 msgid "popup_sel_cos_terms_costume_change"
 msgstr ""
+"【Condition de déblocage】\n"
+"・Faire {0} opérations Valkyrie.\n"
+"<color=#C8087E>※Les opérations Valkyrie sont débloquées au fur et à mesure "
+"de la progression du jeu. </color>"
 
 msgid "home_footer_badge_text_offer"
 msgstr "VOP fini !"
@@ -5243,6 +5268,8 @@ msgstr ""
 
 msgid "assist_friend_select_caution_01"
 msgstr ""
+"Si une plaque d'assistant n'a pas été selectionnée, la plaque principale "
+"sera affichée."
 
 msgid "header_desc_home401"
 msgstr ""
@@ -5349,7 +5376,7 @@ msgid "popup_sort_filter_all"
 msgstr "Tous"
 
 msgid "popup_sort_title_h1"
-msgstr ""
+msgstr "Config. tri"
 
 msgid "popup_sort_item_total"
 msgstr "TOTAL"
@@ -6281,28 +6308,28 @@ msgid "popup_sort_filter_bookmark_h2"
 msgstr "Favori"
 
 msgid "popup_sort_filter_bookmark_00"
-msgstr ""
+msgstr "Aucun"
 
 msgid "popup_sort_filter_musiclock_h2"
 msgstr ""
 
 msgid "popup_sort_filter_musiclock"
-msgstr ""
+msgstr "Chansons bloquées"
 
 msgid "popup_sort_filter_musicunlock"
-msgstr ""
+msgstr "Chansons débloquées"
 
 msgid "popup_sort_filter_range_h2"
 msgstr ""
 
 msgid "popup_sort_filter_range_long"
-msgstr ""
+msgstr "Long"
 
 msgid "popup_sort_filter_range_short"
-msgstr ""
+msgstr "Court"
 
 msgid "popup_music_bookmark_title"
-msgstr ""
+msgstr "Ajouter aux favoris"
 
 msgid "popup_music_unlock_title"
 msgstr "Condition de déblocage"
@@ -6334,16 +6361,21 @@ msgstr ""
 "「{2}」"
 
 msgid "popup_music_input_bookmarkname_title"
-msgstr ""
+msgstr "Modifier le nom des favoris"
 
 msgid "popup_music_input_bookmarkname_text_01"
 msgstr ""
+"Saisir un nom de favori.\n"
+"(jusqu'à {0} caractères)"
 
 msgid "popup_music_input_bookmarkname_deletecheck_title"
-msgstr ""
+msgstr "Annuler le changement"
 
 msgid "popup_music_input_bookmarkname_deletecheck_text_01"
 msgstr ""
+"Toutes les modifications de nom et choix de favoris \n"
+"ne seront pas sauvegardées.\n"
+"Confirmer ?"
 
 msgid "popup_sort_item_notes_expectation"
 msgstr "Notes prévues"
