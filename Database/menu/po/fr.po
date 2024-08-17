@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-17 09:16+0000\n"
+"PO-Revision-Date: 2024-08-17 10:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -154,7 +154,7 @@ msgid "popup_ap_text_00"
 msgstr ""
 
 msgid "item_popup_text_00"
-msgstr ""
+msgstr "Possédé : {0,4}"
 
 msgid "item_detail_popup_title_00"
 msgstr "Détails de l'objet"
@@ -622,7 +622,7 @@ msgid "growth_popup_title_text06"
 msgstr "Vérification limite de déblocage"
 
 msgid "growth_popup_text01"
-msgstr "Possession : {0,4}"
+msgstr "Possédé : {0,4}"
 
 msgid "growth_popup_text02"
 msgstr "Utilise les objets et UC suivant."
@@ -703,7 +703,7 @@ msgid "story_unlock_03"
 msgstr "<size=20>Débloqué en remplissant l'une des conditions suivantes.</size>"
 
 msgid "story_unlock_04"
-msgstr "・au rang de joueur {0}"
+msgstr "・Atteindre le niveau de joueur {0}"
 
 msgid "story_unlock_05"
 msgstr ""
@@ -5315,6 +5315,8 @@ msgstr ""
 
 msgid "popup_quest_receive_limit_failure_01"
 msgstr ""
+"※Certaines récompenses n'ont pas pu être obtenu car elles dépassent la "
+"limite."
 
 msgid "popup_quest_receive_limit_failure_02"
 msgstr ""
@@ -5868,13 +5870,15 @@ msgid "popup_godiva_filter_title"
 msgstr ""
 
 msgid "popup_vop_all_receive_vc_caution"
-msgstr ""
+msgstr "※ Les orbes sonores sont envoyées dans la boite à cadeaux."
 
 msgid "popup_vop_all_receive_title"
-msgstr ""
+msgstr "Récompenses des opérations"
 
 msgid "popup_vop_all_receive_item_over"
 msgstr ""
+"※Certaines récompenses n'ont pas pu être obtenu car elles dépassent la "
+"limite."
 
 msgid "popup_story_complete_stage"
 msgstr ""
