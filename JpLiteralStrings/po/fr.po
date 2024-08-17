@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-17 11:28+0000\n"
+"PO-Revision-Date: 2024-08-17 12:31+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -148,13 +148,13 @@ msgid "StringLiteral_9950"
 msgstr ""
 
 msgid "StringLiteral_10040"
-msgstr ""
+msgstr "Favoris 1"
 
 msgid "StringLiteral_10041"
-msgstr ""
+msgstr "Favoris 2"
 
 msgid "StringLiteral_10042"
-msgstr ""
+msgstr "Favoris 3"
 
 msgid "StringLiteral_10058"
 msgstr ""
@@ -1999,7 +1999,7 @@ msgid "UMO_CharmTotal"
 msgstr "Charme total"
 
 msgid "UMO_DivaRanking"
-msgstr ""
+msgstr "Classement diva"
 
 msgid "UMO_DivaRankingBtn"
 msgstr "Voir le classement"
@@ -2008,7 +2008,7 @@ msgid "UMO_Age"
 msgstr "Âge"
 
 msgid "UMO_Birthplace"
-msgstr ""
+msgstr "Lieu naissance"
 
 msgid "UMO_Favorite"
 msgstr "Aime"
