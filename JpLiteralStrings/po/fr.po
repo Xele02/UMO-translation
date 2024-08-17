@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-17 10:28+0000\n"
+"PO-Revision-Date: 2024-08-17 11:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -685,7 +685,7 @@ msgid "StringLiteral_12297"
 msgstr ""
 
 msgid "StringLiteral_12298"
-msgstr "Reçoit "
+msgstr " reçu "
 
 msgid "StringLiteral_12300"
 msgstr "+ "
@@ -1289,6 +1289,9 @@ msgstr ""
 
 msgid "StringLiteral_16162"
 msgstr ""
+"【Condition de déblocage】\n"
+"\n"
+"Atteindre le niveau de joueur 8."
 
 msgid "StringLiteral_16170"
 msgstr ""
@@ -1372,7 +1375,7 @@ msgid "StringLiteral_18949"
 msgstr ""
 
 msgid "StringLiteral_19017"
-msgstr ""
+msgstr "Anniversaire"
 
 msgid "StringLiteral_19018"
 msgstr ""
@@ -1972,55 +1975,55 @@ msgid "UMO_PlayStatus"
 msgstr ""
 
 msgid "UMO_DivaLevel"
-msgstr ""
+msgstr "Niveau Diva"
 
 msgid "UMO_IntimacyLevel"
-msgstr ""
+msgstr "Niv. d'affection"
 
 msgid "UMO_CostumeCount"
-msgstr ""
+msgstr "Nb. costumes"
 
 msgid "UMO_DivaStatus"
-msgstr ""
+msgstr "Diva status"
 
 msgid "UMO_CostumeStatus"
-msgstr ""
+msgstr "Costume status"
 
 msgid "UMO_SoulTotal"
-msgstr ""
+msgstr "Âme totale"
 
 msgid "UMO_VoiceTotal"
-msgstr ""
+msgstr "Voix totale"
 
 msgid "UMO_CharmTotal"
-msgstr ""
+msgstr "Charme total"
 
 msgid "UMO_DivaRanking"
 msgstr ""
 
 msgid "UMO_DivaRankingBtn"
-msgstr ""
+msgstr "Voir le classement"
 
 msgid "UMO_Age"
-msgstr ""
+msgstr "Âge"
 
 msgid "UMO_Birthplace"
 msgstr ""
 
 msgid "UMO_Favorite"
-msgstr ""
+msgstr "Aime"
 
 msgid "UMO_DivaDesc"
-msgstr ""
+msgstr "Présentation"
 
 msgid "UMO_Back"
 msgstr ""
 
 msgid "UMO_Costume"
-msgstr ""
+msgstr "Costumes"
 
 msgid "UMO_Gift"
-msgstr ""
+msgstr "Cadeaux"
 
 msgid "UMO_Profil"
-msgstr ""
+msgstr "Profile"
