@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-17 10:28+0000\n"
+"PO-Revision-Date: 2024-08-17 11:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -922,7 +922,7 @@ msgid "header_desc_setting013"
 msgstr ""
 
 msgid "header_desc_setting030"
-msgstr ""
+msgstr "Choix d'un costume"
 
 msgid "header_desc_setting031"
 msgstr ""
@@ -1396,7 +1396,7 @@ msgid "ranking_ev_period_date"
 msgstr ""
 
 msgid "ranking_ev_no_entry"
-msgstr ""
+msgstr "Pas de classement disponible."
 
 msgid "ranking_ev_range_not_found"
 msgstr ""
@@ -2302,6 +2302,10 @@ msgstr ""
 
 msgid "popup_home_diva_01"
 msgstr ""
+"Le réglage de la diva est modifié en Sélection de diva\n"
+"\n"
+"Pour afficher la diva centrale du groupe, le réglage\n"
+"peut être modifié dans le menu."
 
 msgid "balloon_story_new_chara"
 msgstr ""
@@ -3026,7 +3030,7 @@ msgid "event_story_list_period"
 msgstr ""
 
 msgid "present_item_rank_postfix"
-msgstr ""
+msgstr "<color=#C8087E>※Les cadeaux sont débloqués au niveau {0}.</color>"
 
 msgid "present_intimacy_limit_01"
 msgstr ""
@@ -3520,7 +3524,7 @@ msgstr "Augmentation status"
 msgid "costume_upgrade_item_detail_sub_plate"
 msgstr ""
 "Débloque 『{0}』。\n"
-"Si déjà débloquer, augmente de 3%."
+"Si déjà débloqué, augmente de 3%."
 
 msgid "costume_upgrade_rank_up_unlock_condition_text"
 msgstr "Condition de déblocage"
@@ -5762,34 +5766,34 @@ msgid "event_godiva_reward_check_ranking_unit"
 msgstr ""
 
 msgid "diva_name_01"
-msgstr ""
+msgstr "Freyja Wion"
 
 msgid "diva_name_02"
-msgstr ""
+msgstr "Mikumo Guynemer"
 
 msgid "diva_name_03"
-msgstr ""
+msgstr "Kaname Buccaneer"
 
 msgid "diva_name_04"
-msgstr ""
+msgstr "Makina Nakajima"
 
 msgid "diva_name_05"
-msgstr ""
+msgstr "Reina Prowler"
 
 msgid "diva_name_06"
-msgstr ""
+msgstr "Ranka Lee"
 
 msgid "diva_name_07"
-msgstr ""
+msgstr "Sheryl Norm"
 
 msgid "diva_name_08"
-msgstr ""
+msgstr "Mylène Jenius"
 
 msgid "diva_name_09"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "diva_name_10"
-msgstr ""
+msgstr "Lynn Minmay"
 
 msgid "home_diva_view_status_place_text"
 msgstr ""
@@ -5807,7 +5811,7 @@ msgid "home_diva_view_status_divaranking_text"
 msgstr ""
 
 msgid "home_diva_view_status_havecostume_now_text"
-msgstr ""
+msgstr "/"
 
 msgid "home_diva_view_status_totalstatus_text"
 msgstr ""
@@ -5935,7 +5939,7 @@ msgid "gakuya_gift_unlock_rank"
 msgstr ""
 
 msgid "gakuya_status_diva_ranking_value"
-msgstr ""
+msgstr "{0}{0:plural:1ère|ème}"
 
 msgid "gakuya_intimacy_present_none"
 msgstr ""
