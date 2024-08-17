@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:50+0000\n"
-"PO-Revision-Date: 2024-08-15 20:28+0000\n"
+"PO-Revision-Date: 2024-08-17 15:20+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/fr/>\n"
@@ -10219,85 +10219,121 @@ msgid "adv_101802_0028_msg"
 msgstr ""
 
 msgid "adv_000120_0003_msg"
-msgstr ""
+msgstr "Luca, qu'est ce qu'il se passe ? Tout à coup…"
 
 msgid "adv_000120_0004_msg"
 msgstr ""
+"Alto, Michael !\n"
+"Désolé de vous avoir appelé !"
 
 msgid "adv_000120_0005_msg"
 msgstr ""
+"Ca ne fait rien.\n"
+"Mais, tu as dit que tu avais des nouvelles urgentes...\n"
+"Que se passe t'il ?"
 
 msgid "adv_000120_0006_msg"
 msgstr ""
+"En fait, il s'agit des données qu'Alto a ramenées du\n"
+"réseau hypertemporel l'autre jour…"
 
 msgid "adv_000120_0007_msg"
 msgstr ""
+"Oh, tu parles des données trouvées lors de l'opération\n"
+"Valkyrie. J'avais l'impression qu'il y avait quelque chose\n"
+"qui sortait de l'ordinaire…"
 
 msgid "adv_000120_0008_msg"
 msgstr ""
+"Oui. Lorsque nous les avons analysées, on a constaté \n"
+"que c'était des données jamais vues"
 
 msgid "adv_000120_0009_msg"
-msgstr ""
+msgstr "Des données jamais vues ?"
 
 msgid "adv_000120_0010_msg"
 msgstr ""
+"Mhh... le monde du réseau spatio-temporel est encore\n"
+"inconnu"
 
 msgid "adv_000120_0011_msg"
 msgstr ""
+"Et donc, j'ai travaillé avec Reina et Makina pour\n"
+"analyser les données…"
 
 msgid "adv_000120_0013_msg"
 msgstr ""
+"On a découvert qu'on peux les utiliser pour \n"
+"améliorer les Valkyrie"
 
 msgid "adv_000120_0014_msg"
 msgstr ""
+"Woah ! Reina !?\n"
+"N'apparaît pas comme ça !"
 
 msgid "adv_000120_0015_msg"
-msgstr ""
+msgstr "Sans offense"
 
 msgid "adv_000120_0016_msg"
-msgstr ""
+msgstr "Améliorer les Valkyrie... c'est possible ?"
 
 msgid "adv_000120_0017_msg"
-msgstr ""
+msgstr "Oui, c'est le fruits de Makina et mes efforts"
 
 msgid "adv_000120_0018_msg"
-msgstr ""
+msgstr "...Et, aussi Luka"
 
 msgid "adv_000120_0019_msg"
-msgstr ""
+msgstr "...Ne dit pas ca comme si j'était un bonus"
 
 msgid "adv_000120_0020_msg"
-msgstr ""
+msgstr "Mais, ce n'est pas encore parfait"
 
 msgid "adv_000120_0022_msg"
-msgstr ""
+msgstr "Qu'est ce que tu veux dire par là ?"
 
 msgid "adv_000120_0023_msg"
 msgstr ""
+"J'ai déjà réussi à renforcer une Valkyrie.\n"
+"Mais nous avons besoin de plus de données pour continuer\n"
+"de l'améliorer"
 
 msgid "adv_000120_0024_msg"
 msgstr ""
+"Après tout, il y a beaucoup d'inconnues dans les données\n"
+"elles-mêmes... Il faudra un peu plus de temps pour terminer\n"
+"l'analyse"
 
 msgid "adv_000120_0025_msg"
 msgstr ""
+"...mais la menace des chants d'apocalypse du peuple des\n"
+"oiseaux persiste. Il est très important de renforcer davantage\n"
+"nos Valkyries afin d'être prêt pour les batailles à venir"
 
 msgid "adv_000120_0026_msg"
 msgstr ""
+"Si vous trouvez des données d'améliorations au cours\n"
+"des opérations Valkyries, rapportez-les"
 
 msgid "adv_000120_0027_msg"
 msgstr ""
+"...Je vois.\n"
+"Tu veux donc que j'aille collecter mes propres données pour\n"
+"renforcer mon avion"
 
 msgid "adv_000120_0028_msg"
-msgstr ""
+msgstr "Oui"
 
 msgid "adv_000120_0030_msg"
-msgstr ""
+msgstr "D'accord"
 
 msgid "adv_000120_0031_msg"
 msgstr ""
+"Passons maintenant sur l'avion !\n"
+"Je donnerai des explications détaillées à ce sujet"
 
 msgid "adv_000120_0032_msg"
-msgstr ""
+msgstr "Ok"
 
 msgid "adv_000130_0003_msg"
 msgstr ""
