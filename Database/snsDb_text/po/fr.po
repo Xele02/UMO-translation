@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:44+0000\n"
-"PO-Revision-Date: 2024-08-15 18:28+0000\n"
+"PO-Revision-Date: 2024-08-17 14:11+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "snsdb_text/fr/>\n"
@@ -537,16 +537,16 @@ msgid "chara_name_0014_txt"
 msgstr ""
 
 msgid "chara_name_0015_txt"
-msgstr ""
+msgstr "Alto"
 
 msgid "chara_name_0016_txt"
-msgstr ""
+msgstr "Michael"
 
 msgid "chara_name_0017_txt"
 msgstr ""
 
 msgid "chara_name_0018_txt"
-msgstr ""
+msgstr "Luca"
 
 msgid "chara_name_0019_txt"
 msgstr ""
