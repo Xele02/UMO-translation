@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2024-08-18 12:36+0000\n"
+"PO-Revision-Date: 2024-08-18 17:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
@@ -47,10 +47,12 @@ msgstr ""
 "plie, si tu n'est pas précis, utilise le !"
 
 msgid "tips_0004_title"
-msgstr ""
+msgstr "【Comp.】Continuité de combo ?"
 
 msgid "tips_0004_msg"
 msgstr ""
+"Permet de ne pas interrompre le\n"
+"combo, utile pour augmenter ton score"
 
 msgid "tips_0005_title"
 msgstr ""
@@ -80,7 +82,7 @@ msgstr "Qu'est ce que l'homme-oiseau ?"
 msgid "tips_0008_msg"
 msgstr ""
 "C'est une arme géante laissée par la\n"
-"protoculture, qui détruit les souvenirs."
+"protoculture, qui détruit les souvenirs"
 
 msgid "tips_0009_title"
 msgstr "Conseil pour combo complet"
@@ -189,16 +191,20 @@ msgstr ""
 "Frontier sans le dire à mon frère !"
 
 msgid "tips_0023_title"
-msgstr ""
+msgstr "Secret de Sheryl"
 
 msgid "tips_0023_msg"
 msgstr ""
+"J'ai tellement de souvenirs de la galaxie\n"
+"que je ne sait pas par où commencer"
 
 msgid "tips_0024_title"
-msgstr ""
+msgstr "Secret de Mylène"
 
 msgid "tips_0024_msg"
 msgstr ""
+"J'ai 6 grandes sœurs, ne me traitez pas\n"
+"comme une enfant !"
 
 msgid "tips_0025_title"
 msgstr "Secret de basara"
@@ -237,10 +243,12 @@ msgstr ""
 "en fonction de la formation du groupe"
 
 msgid "tips_0030_title"
-msgstr ""
+msgstr "Qu'est ce que la loterie journalière ?"
 
 msgid "tips_0030_msg"
 msgstr ""
+"Loterie utilsable 3 fois par jour, matin,\n"
+"midi et soir, n'oublie pas"
 
 msgid "tips_0031_title"
 msgstr "Qu'est ce que les missions ?"
@@ -267,10 +275,12 @@ msgstr ""
 "n'oublie pas de transférer tes données !"
 
 msgid "tips_0034_title"
-msgstr ""
+msgstr "Qu'est ce que le niveau de chanson ?"
 
 msgid "tips_0034_msg"
 msgstr ""
+"Plus le niveau est élevé, plus la\n"
+"chanson est difficile"
 
 msgid "tips_0035_title"
 msgstr "Qu'est ce que les comp. actives ?"
@@ -456,22 +466,28 @@ msgstr ""
 "des「Paramètres du jeu」"
 
 msgid "tips_0060_title"
-msgstr ""
+msgstr "Qu'est ce que le magasin Chaos ?"
 
 msgid "tips_0060_msg"
 msgstr ""
+"N'oublie pas de consulter les articles à\n"
+"durée limitée disponibles à l'échange"
 
 msgid "tips_0061_title"
-msgstr ""
+msgstr "Qu'est ce le Prisme Spatio-Temporel ?"
 
 msgid "tips_0061_msg"
 msgstr ""
+"Une fonction qui permet de changer\n"
+"l'apparence des divas et costumes"
 
 msgid "tips_0062_title"
-msgstr ""
+msgstr "Qu'est ce que la simulation de concert ?"
 
 msgid "tips_0062_msg"
 msgstr ""
+"Avec les jetons S-LIVE, tu peux\n"
+"t'asseoir et nous regarder"
 
 msgid "tips_0063_title"
 msgstr ""
@@ -566,28 +582,34 @@ msgid "tips_0073_msg"
 msgstr ""
 
 msgid "tips_0074_title"
-msgstr ""
+msgstr "L'amélioration de costume, c'est quoi ?"
 
 msgid "tips_0074_msg"
 msgstr ""
+"Tu peux améliorer tes costumes. Tu\n"
+"peux même débloquer des couleurs."
 
 msgid "tips_0075_title"
-msgstr ""
+msgstr "Qu'est ce qu'une opération ?"
 
 msgid "tips_0075_msg"
 msgstr ""
+"Demande à la section Valkyrie de faire\n"
+"une opération, et attendre le résultat"
 
 msgid "tips_0076_title"
-msgstr ""
+msgstr "Qu'est ce que les opérations diva ?"
 
 msgid "tips_0076_msg"
-msgstr ""
+msgstr "Des requêtes personnelles des divas"
 
 msgid "tips_0077_title"
-msgstr ""
+msgstr "Qu'est ce que les notes glissées ?"
 
 msgid "tips_0077_msg"
 msgstr ""
+"c'est des longues notes à travers les\n"
+"pistes, garde et déplace ton doigts"
 
 msgid "tips_0078_title"
 msgstr ""
@@ -783,13 +805,15 @@ msgstr "Gallerie de costume"
 msgid "tips_0104_msg"
 msgstr ""
 "La tenue de SheriSheri est très sexy !\n"
-"Le macross dans le dos est aussi joli !"
+"Le macross a l'arrière est aussi joli !"
 
 msgid "tips_0105_title"
-msgstr ""
+msgstr "Gallerie de costume"
 
 msgid "tips_0105_msg"
 msgstr ""
+"Mylène dans son costume crossover.\n"
+"Mylène adulte est aussi mignonne♪"
 
 msgid "tips_0106_title"
 msgstr "Gallerie de costume"
