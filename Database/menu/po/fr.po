@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-18 12:36+0000\n"
+"PO-Revision-Date: 2024-08-18 17:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -497,7 +497,7 @@ msgstr ""
 "<color=#C8087E>※ Tous les paramètres de difficulté seront modifiés. </color>"
 
 msgid "config_text_63"
-msgstr "Tous les niveaux de difficulté utilisent les mêmes paramètres."
+msgstr "Tous les niveaux de difficulté utilisent les mêmes paramètres"
 
 msgid "config_text_64"
 msgstr "Non cochée : la vitesse des notes pour chaque niveau de difficulté."
@@ -889,7 +889,7 @@ msgid "header_desc_home303"
 msgstr ""
 
 msgid "header_desc_setting000"
-msgstr "Préparation du concert."
+msgstr "Préparation du concert"
 
 msgid "header_desc_setting001"
 msgstr "Formation du groupe"
@@ -1659,7 +1659,7 @@ msgid "popup_record_plate_007"
 msgstr ""
 
 msgid "popup_record_plate_008"
-msgstr ""
+msgstr "Résultats d'émelioration"
 
 msgid "popup_record_plate_009"
 msgstr "Nouvelle plaque d'épisode disponibles."
@@ -2386,7 +2386,7 @@ msgid "popup_add_episode_04"
 msgstr "Fond d'écran obtenu en débloquant complètement l'épisode."
 
 msgid "popup_release_ep_diva_costume"
-msgstr ""
+msgstr "Costume {0}"
 
 msgid "popup_release_episode_01"
 msgstr "Débloque un costume avec l'épisode !"
@@ -3693,6 +3693,8 @@ msgstr ""
 
 msgid "offer_daily_offer_levelup_text"
 msgstr ""
+"Déblocage difficulté opération\n"
+"quotidienne"
 
 msgid "offer_diva_offer_levelup_text"
 msgstr ""
@@ -3967,7 +3969,7 @@ msgid "popup_recover_done_text"
 msgstr ""
 
 msgid "pop_tutorial_gacha_details"
-msgstr ""
+msgstr "★4　今日からあなたもワルキューレ　　　　　100%"
 
 msgid "bingo_next_charange"
 msgstr ""
@@ -4027,6 +4029,8 @@ msgstr "Récompenses récues"
 
 msgid "bingo_mission_change__bingo_text"
 msgstr ""
+"Toutes les récompenses de la {0} {0:plural:ère|ème} \n"
+"mission de bingo ont été gagnées."
 
 msgid "bingo_mission_end_pop_text"
 msgstr ""
@@ -6024,9 +6028,16 @@ msgstr ""
 
 msgid "popup_story_complete_stage"
 msgstr ""
+"Tous les souvenirs actuellement présents\n"
+"dans【espace-temp mémoriel】 ont été débloqués.\n"
+"Les futures chansons seront ajoutées\n"
+"dans la sélection de chansons."
 
 msgid "popup_story_mission_guidance"
 msgstr ""
+"Tu as réussi à débloqué tout\n"
+"l'【espace-temp mémoriel】.\n"
+"Tu vas recevoir une récompense pour cette mission."
 
 msgid "popup_gacha_lot_ticket_few_caution_04"
 msgstr ""
