@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-17 12:31+0000\n"
+"PO-Revision-Date: 2024-08-18 11:05+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -27,7 +27,7 @@ msgid "StringLiteral_1378"
 msgstr "Jour"
 
 msgid "StringLiteral_5812"
-msgstr ""
+msgstr "\n"
 
 msgid "StringLiteral_8278"
 msgstr ""
@@ -649,7 +649,7 @@ msgid "StringLiteral_12037"
 msgstr "　"
 
 msgid "StringLiteral_12038"
-msgstr ""
+msgstr "…"
 
 msgid "StringLiteral_12097"
 msgstr ""
@@ -1270,10 +1270,10 @@ msgid "StringLiteral_15794"
 msgstr "Encore {0} {1}"
 
 msgid "StringLiteral_15830"
-msgstr ""
+msgstr " "
 
 msgid "StringLiteral_15831"
-msgstr ""
+msgstr " {0:plural:utilsable|utilisables} en une fois."
 
 msgid "StringLiteral_16059"
 msgstr ""
@@ -1420,13 +1420,13 @@ msgid "StringLiteral_20181"
 msgstr ""
 
 msgid "StringLiteral_20290"
-msgstr ""
+msgstr "l×{0}"
 
 msgid "StringLiteral_20367"
 msgstr ""
 
 msgid "StringLiteral_20369"
-msgstr ""
+msgstr "±{0}"
 
 msgid "StringLiteral_20382"
 msgstr ""
