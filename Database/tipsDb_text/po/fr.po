@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2024-08-18 11:05+0000\n"
+"PO-Revision-Date: 2024-08-18 12:22+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
@@ -31,10 +31,12 @@ msgstr ""
 "compétence qui peut te sauver la vie"
 
 msgid "tips_0002_title"
-msgstr ""
+msgstr "【Comp.】Réduction de dommage ?"
 
 msgid "tips_0002_msg"
 msgstr ""
+"Réduit les dégâts, une compétence\n"
+"importante pour continuer à chanter"
 
 msgid "tips_0003_title"
 msgstr "【Comp.】Qu'est ce que l'assoup. de juge ?"
@@ -133,10 +135,12 @@ msgid "tips_0015_msg"
 msgstr ""
 
 msgid "tips_0016_title"
-msgstr ""
+msgstr "Qu'est ce qu'un costume ?"
 
 msgid "tips_0016_msg"
 msgstr ""
+"Fait des concert dans différents cos-\n"
+"tumes, les stats change en fonction !"
 
 msgid "tips_0017_title"
 msgstr "Secret de Freyja"
@@ -163,10 +167,12 @@ msgstr ""
 "aujourd'hui je ne pense qu'aux Walküre"
 
 msgid "tips_0020_title"
-msgstr ""
+msgstr "Secret de Makina"
 
 msgid "tips_0020_msg"
 msgstr ""
+"Mon grand-père était mécanicien,\n"
+"et j'aime aussi les méchas～♪"
 
 msgid "tips_0021_title"
 msgstr "Secret de Reina"
@@ -245,10 +251,12 @@ msgstr ""
 "récompense, fait de ton mieux !"
 
 msgid "tips_0032_title"
-msgstr ""
+msgstr "Qu'est ce qu'un titre ?"
 
 msgid "tips_0032_msg"
 msgstr ""
+"Obtenable lors d'événements, et il y a\n"
+"beaucoup d'autres façons"
 
 msgid "tips_0033_title"
 msgstr "Qu'est ce que le transfert de données ?"
@@ -320,10 +328,12 @@ msgstr ""
 "j'ai hâte de voir ce que tu recevras !"
 
 msgid "tips_0042_title"
-msgstr ""
+msgstr "Qu'est ce qu'une note d'objet rare ?"
 
 msgid "tips_0042_msg"
 msgstr ""
+"Tu peux gagner des articles plus rare,\n"
+"alors ne rate pas ta chance et tape !"
 
 msgid "tips_0043_title"
 msgstr "Qu'est ce que la Chance ?"
@@ -584,10 +594,12 @@ msgid "tips_0078_msg"
 msgstr ""
 
 msgid "tips_0079_title"
-msgstr ""
+msgstr "Astuce pour augmenter le score －1－"
 
 msgid "tips_0079_msg"
 msgstr ""
+"La durée de la chanson est importante\n"
+"pour cette compétence live"
 
 msgid "tips_0080_title"
 msgstr "Qu'est ce que la pièce déco ?"
@@ -598,10 +610,12 @@ msgstr ""
 "n'importe quelle pièce"
 
 msgid "tips_0081_title"
-msgstr ""
+msgstr "L'amélioration de Valkyrie ?"
 
 msgid "tips_0081_msg"
 msgstr ""
+"La Valkyrie améliorée peut\n"
+"débloquée de nouvelles capacités"
 
 msgid "tips_0082_title"
 msgstr ""
@@ -654,10 +668,12 @@ msgid "tips_0089_msg"
 msgstr ""
 
 msgid "tips_0090_title"
-msgstr ""
+msgstr "【Comp.】Score et dégats répétés ?"
 
 msgid "tips_0090_msg"
 msgstr ""
+"Plus puissant que le score répété, mais\n"
+"inflige des dégâts, soit prudent"
 
 msgid "tips_0091_title"
 msgstr ""
@@ -666,10 +682,12 @@ msgid "tips_0091_msg"
 msgstr ""
 
 msgid "tips_0092_title"
-msgstr ""
+msgstr "Le secret des animations des plaques 1"
 
 msgid "tips_0092_msg"
 msgstr ""
+"La comp. centrale est maximisée à ★6,\n"
+"donnant un grand effet de score"
 
 msgid "tips_0093_title"
 msgstr "Qu'est ce quele classement des divas ?"
@@ -791,7 +809,7 @@ msgstr "Gallerie de costume"
 msgid "tips_0108_msg"
 msgstr ""
 "Une photo de Basara au moment où il\n"
-"saute !Basara a l'air athlétique～"
+"saute ! Basara a l'air athlétique～"
 
 msgid "tips_0109_title"
 msgstr "Gallerie de costume"
@@ -810,10 +828,12 @@ msgstr ""
 "suis heureuse de chanter avec elle"
 
 msgid "tips_0111_title"
-msgstr ""
+msgstr "Gallerie de costume"
 
 msgid "tips_0111_msg"
 msgstr ""
+"Freya, Kaname et moi en train de\n"
+"danser, tu peux ressentir nos pensées ?"
 
 msgid "tips_0112_title"
 msgstr "Gallerie de costume"
@@ -1054,10 +1074,12 @@ msgid "tips_0149_msg"
 msgstr ""
 
 msgid "tips_0150_title"
-msgstr ""
+msgstr "【Comp.】Qu'est ce que l'affection+ ?"
 
 msgid "tips_0150_msg"
 msgstr ""
+"Plus ton affection avec la diva est\n"
+"grande, plus la valeur d'effet est élevée"
 
 msgid "tips_0151_title"
 msgstr ""
