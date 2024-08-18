@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-18 09:08+0000\n"
+"PO-Revision-Date: 2024-08-18 11:05+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -99,7 +99,7 @@ msgid "popup_text_15"
 msgstr ""
 
 msgid "popup_text_16"
-msgstr ""
+msgstr "Déscription de compétence"
 
 msgid "popup_text_17"
 msgstr ""
@@ -925,7 +925,7 @@ msgid "header_desc_setting011"
 msgstr ""
 
 msgid "header_desc_setting012"
-msgstr ""
+msgstr "Vérification de déblocaque"
 
 msgid "header_desc_setting013"
 msgstr ""
@@ -985,7 +985,7 @@ msgid "header_desc_free002"
 msgstr "Formation du groupe"
 
 msgid "header_desc_free003"
-msgstr ""
+msgstr "Sélection d'une diva"
 
 msgid "header_desc_free004"
 msgstr ""
@@ -1009,10 +1009,10 @@ msgid "header_desc_free010"
 msgstr ""
 
 msgid "header_desc_free011"
-msgstr ""
+msgstr "Consulter le profil"
 
 msgid "header_desc_free020"
-msgstr ""
+msgstr "Vérification des paramètres"
 
 msgid "header_desc_free110"
 msgstr ""
@@ -2304,13 +2304,13 @@ msgid "profil_text_01"
 msgstr ""
 
 msgid "profil_text_02"
-msgstr ""
+msgstr "N/A"
 
 msgid "profil_text_03"
 msgstr ""
 
 msgid "profil_text_04"
-msgstr ""
+msgstr "Niveau "
 
 msgid "profil_text_05"
 msgstr ""
@@ -2689,25 +2689,32 @@ msgid "popup_rcmd_app_update_ios"
 msgstr ""
 
 msgid "game_popup_mvpause_title"
-msgstr ""
+msgstr "Pause"
 
 msgid "game_popup_mvpause_text"
 msgstr ""
+"Titre de la chanson\n"
+"{0}\n"
+"\n"
+"Difficulté\n"
+"{1}"
 
 msgid "game_mvmode_endtitle_text"
-msgstr ""
+msgstr "Confirmation"
 
 msgid "game_mvmode_end_text"
 msgstr ""
+"Quitter la simulation de concert.\n"
+"Confirmer ?"
 
 msgid "mvmode_setting_popuptitle_000"
-msgstr ""
+msgstr "Sélection de diva"
 
 msgid "mvmode_setting_popuptitle_001"
-msgstr ""
+msgstr "Sélection de costume"
 
 msgid "mvmode_setting_popuptitle_002"
-msgstr ""
+msgstr "Sélection de Valkyrie"
 
 msgid "mvmode_setting_menu_000"
 msgstr ""
@@ -2722,13 +2729,13 @@ msgid "mvmode_setting_popup_text_000_000"
 msgstr ""
 
 msgid "mvmode_setting_popup_text_000_001"
-msgstr ""
+msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_000"
 msgstr ""
 
 msgid "mvmode_setting_popup_text_001_001"
-msgstr ""
+msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_002"
 msgstr ""
@@ -2738,6 +2745,8 @@ msgstr ""
 
 msgid "mvmode_setting_popup_text_002_001"
 msgstr ""
+"{0} {1}\n"
+"{2}"
 
 msgid "mvmode_check_popup_title"
 msgstr "Consommation d'objet"
@@ -2879,7 +2888,7 @@ msgid "simulation_result_anim_name_04"
 msgstr ""
 
 msgid "popup_music_rate_title"
-msgstr ""
+msgstr "Détail du taux de chant"
 
 msgid "popup_music_grade_title"
 msgstr ""
@@ -2891,7 +2900,7 @@ msgid "popup_music_rate_up"
 msgstr ""
 
 msgid "popup_music_rate_not_found"
-msgstr ""
+msgstr "Il n'y a pas de classement de taux de chant."
 
 msgid "popup_music_rate_ranking_not_found"
 msgstr "Aucun classement pour le taux de chant."
@@ -3277,7 +3286,7 @@ msgid "ar_sel_popup_storage_button_r"
 msgstr ""
 
 msgid "cmn_profil_emblem_none"
-msgstr ""
+msgstr "Il n'y a pas de titre."
 
 msgid "pop_eve_story_title"
 msgstr ""
@@ -3311,15 +3320,27 @@ msgstr ""
 
 msgid "unit_multi_dance_popup_00"
 msgstr ""
+"Le concert ne peux pas être lancé\n"
+"car il manque des divas."
 
 msgid "unit_multi_dance_popup_01"
 msgstr ""
+"Le concert ne peux pas être lancé\n"
+"car il manque des divas dans\n"
+"le prisme spatio-temporel."
 
 msgid "unit_multi_dance_popup_02"
 msgstr ""
+"Le concert ne peux pas être lancé\n"
+"car il manque des divas."
 
 msgid "unit_multi_dance_popup_03"
 msgstr ""
+"Il faut au moins {0} divas pour \n"
+"lancé ce concert.\n"
+"\n"
+"<color=#C8087E>※De nouvelles divas peuvent rejoindre\n"
+"le groupe en avançant dans l'espace-temp mémoriel. </color>"
 
 msgid "unit_multi_dance_lock_text"
 msgstr ""
@@ -3404,7 +3425,7 @@ msgid "event_sp_close_at"
 msgstr ""
 
 msgid "episode_reward_text001"
-msgstr ""
+msgstr "EP requis : {0}"
 
 msgid "episode_reward_text002"
 msgstr ""
@@ -3605,6 +3626,10 @@ msgstr ""
 
 msgid "offer_non_offer_text"
 msgstr ""
+"Aucune opération diva sélectionnable n'a été trouvée.\n"
+"\n"
+"<color=#C8087E>※Les opérations diva apparaissent en jouant des concerts. "
+"</color>"
 
 msgid "offer_occur_diva_offer_text_01"
 msgstr ""
@@ -4947,10 +4972,12 @@ msgid "unit_select_skip_limit"
 msgstr ""
 
 msgid "unit_skip_condition_title"
-msgstr ""
+msgstr "Condition de déblocage"
 
 msgid "unit_skip_condition_text"
 msgstr ""
+"Les tickets de passage de concert ne peuvent être utilisés que \n"
+"pour la difficulté des chansons réussies avec un score de SS ou plus."
 
 msgid "unit_skip_ticket_count_title"
 msgstr ""
@@ -5255,16 +5282,16 @@ msgid "gacha_ticket_name"
 msgstr ""
 
 msgid "assistselect_attribute_other"
-msgstr ""
+msgstr "Libre"
 
 msgid "assistselect_attribute_yellow"
-msgstr ""
+msgstr "Attr. Étoile"
 
 msgid "assistselect_attribute_red"
-msgstr ""
+msgstr "Attr. Amour"
 
 msgid "assistselect_attribute_blue"
-msgstr ""
+msgstr "Attr. Vie"
 
 msgid "assistselect_caution_01"
 msgstr ""
@@ -5550,7 +5577,7 @@ msgid "popup_filter_mainep_item_unlock"
 msgstr "Débloqué"
 
 msgid "popup_filter_mainep_item_enable_unlock"
-msgstr "Plaque déblocable"
+msgstr "Déblocable"
 
 msgid "popup_option_data_title"
 msgstr ""
@@ -6205,15 +6232,17 @@ msgstr ""
 
 msgid "popup_diva_change_text"
 msgstr ""
+"Le statut des 4ème et 5ème divas ne sera pas utilisé\n"
+"dans le groupe."
 
 msgid "unit_diva_limit_message"
 msgstr ""
 
 msgid "unit_head_prism_btton_on"
-msgstr ""
+msgstr "ON"
 
 msgid "unit_head_prism_btton_off"
-msgstr ""
+msgstr "OFF"
 
 msgid "unit_save_button_save"
 msgstr ""
@@ -6223,6 +6252,11 @@ msgstr ""
 
 msgid "unit_mv_mode_description"
 msgstr ""
+"Affichage des notes :【ON】 Les notes sont affichées.【OFF】Les notes sont "
+"masquées.　　Réglage du mode Valkyrie :【ON】Le mode Valkyrie est "
+"affichée.【OFF】Le mode Valkyrie est masquée.　　Réglage du mode Super Diva :"
+" 【ON】Le mode Super Diva est affichée. 【OFF】Le mode Super Diva n'est pas "
+"affiché."
 
 msgid "unit_prism_switch_button_on"
 msgstr ""
@@ -6288,13 +6322,17 @@ msgid "popup_unit_status_attr_reg"
 msgstr ""
 
 msgid "popup_set_prizm_title"
-msgstr ""
+msgstr "Confirmation de changement"
 
 msgid "popup_set_prizm_choice"
 msgstr ""
+"Modifier les paramètres de placement des divas.\n"
+"\n"
+"<color=#C8087E>※Si des divas sont déjà présentes, l'organisation sera "
+"écrasé. </color>"
 
 msgid "popup_set_prizm_lackdiva_titile"
-msgstr ""
+msgstr "Notification de changement"
 
 msgid "popup_sort_item_diva_and_valkyrie_and_bg"
 msgstr "Diva/Valkyrie/Bg"
