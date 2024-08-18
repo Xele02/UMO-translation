@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2024-08-18 17:28+0000\n"
+"PO-Revision-Date: 2024-08-19 19:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "tips_0000_title"
-msgstr "【Comp.】Qu'est ce que le score+ ?"
+msgstr "[Comp.] C'est quoi le score+ ?"
 
 msgid "tips_0000_msg"
 msgstr ""
@@ -23,7 +23,7 @@ msgstr ""
 "augmente, alors concentre-toi"
 
 msgid "tips_0001_title"
-msgstr "【Comp.】Qu'est ce que Récup. PV ?"
+msgstr "[Comp.] C'est quoi la récup. de PV ?"
 
 msgid "tips_0001_msg"
 msgstr ""
@@ -31,7 +31,7 @@ msgstr ""
 "compétence qui peut te sauver la vie"
 
 msgid "tips_0002_title"
-msgstr "【Comp.】Réduction de dommage ?"
+msgstr "[Comp.] C'est quoi la réduc. de dégats ?"
 
 msgid "tips_0002_msg"
 msgstr ""
@@ -39,7 +39,7 @@ msgstr ""
 "importante pour continuer à chanter"
 
 msgid "tips_0003_title"
-msgstr "【Comp.】Qu'est ce que l'assoup. de juge ?"
+msgstr "[Comp.] C'est quoi l'assoup. de juge ?"
 
 msgid "tips_0003_msg"
 msgstr ""
@@ -47,7 +47,7 @@ msgstr ""
 "plie, si tu n'est pas précis, utilise le !"
 
 msgid "tips_0004_title"
-msgstr "【Comp.】Continuité de combo ?"
+msgstr "[Comp.] La continuité de combo ?"
 
 msgid "tips_0004_msg"
 msgstr ""
@@ -61,7 +61,7 @@ msgid "tips_0005_msg"
 msgstr ""
 
 msgid "tips_0006_title"
-msgstr "Qu'est ce que le mode super diva ?"
+msgstr "C'est quoi le mode super diva ?"
 
 msgid "tips_0006_msg"
 msgstr ""
@@ -69,7 +69,7 @@ msgstr ""
 "repousses l'ennemi en mode poursuite !"
 
 msgid "tips_0007_title"
-msgstr "Qu'est ce qu'un set de groupe ?"
+msgstr "C'est quoi un set de groupe ?"
 
 msgid "tips_0007_msg"
 msgstr ""
@@ -77,7 +77,7 @@ msgstr ""
 "préférées que tu as organisées"
 
 msgid "tips_0008_title"
-msgstr "Qu'est ce que l'homme-oiseau ?"
+msgstr "C'est quoi l'homme-oiseau ?"
 
 msgid "tips_0008_msg"
 msgstr ""
@@ -93,7 +93,7 @@ msgstr ""
 "comp. pour assouplir le jugement"
 
 msgid "tips_0010_title"
-msgstr "Qu'est ce que le SNS spatio-temporel ?"
+msgstr "C'est quoi le SNS spatio-temporel ?"
 
 msgid "tips_0010_msg"
 msgstr ""
@@ -101,7 +101,7 @@ msgstr ""
 "discuter à travers le temps et l'espace"
 
 msgid "tips_0011_title"
-msgstr "Qu'est ce que l'ajustement du timing ?"
+msgstr "C'est quoi l'ajustement du timing ?"
 
 msgid "tips_0011_msg"
 msgstr ""
@@ -121,7 +121,7 @@ msgid "tips_0013_msg"
 msgstr ""
 
 msgid "tips_0014_title"
-msgstr "Qu'est ce que l'organisation auto ?"
+msgstr "C'est quoi l'organisation auto ?"
 
 msgid "tips_0014_msg"
 msgstr ""
@@ -137,7 +137,7 @@ msgid "tips_0015_msg"
 msgstr ""
 
 msgid "tips_0016_title"
-msgstr "Qu'est ce qu'un costume ?"
+msgstr "C'est quoi un costume ?"
 
 msgid "tips_0016_msg"
 msgstr ""
@@ -207,7 +207,7 @@ msgstr ""
 "comme une enfant !"
 
 msgid "tips_0025_title"
-msgstr "Secret de basara"
+msgstr "Secret de Basara"
 
 msgid "tips_0025_msg"
 msgstr ""
@@ -243,7 +243,7 @@ msgstr ""
 "en fonction de la formation du groupe"
 
 msgid "tips_0030_title"
-msgstr "Qu'est ce que la loterie journalière ?"
+msgstr "C'est quoi la loterie journalière ?"
 
 msgid "tips_0030_msg"
 msgstr ""
@@ -251,7 +251,7 @@ msgstr ""
 "midi et soir, n'oublie pas"
 
 msgid "tips_0031_title"
-msgstr "Qu'est ce que les missions ?"
+msgstr "C'est quoi les missions ?"
 
 msgid "tips_0031_msg"
 msgstr ""
@@ -259,7 +259,7 @@ msgstr ""
 "récompense, fait de ton mieux !"
 
 msgid "tips_0032_title"
-msgstr "Qu'est ce qu'un titre ?"
+msgstr "C'est quoi un titre ?"
 
 msgid "tips_0032_msg"
 msgstr ""
@@ -267,7 +267,7 @@ msgstr ""
 "beaucoup d'autres façons"
 
 msgid "tips_0033_title"
-msgstr "Qu'est ce que le transfert de données ?"
+msgstr "C'est quoi le transfert de données ?"
 
 msgid "tips_0033_msg"
 msgstr ""
@@ -275,7 +275,7 @@ msgstr ""
 "n'oublie pas de transférer tes données !"
 
 msgid "tips_0034_title"
-msgstr "Qu'est ce que le niveau de chanson ?"
+msgstr "C'est quoi le niveau de chanson ?"
 
 msgid "tips_0034_msg"
 msgstr ""
@@ -283,7 +283,7 @@ msgstr ""
 "chanson est difficile"
 
 msgid "tips_0035_title"
-msgstr "Qu'est ce que les comp. actives ?"
+msgstr "C'est quoi les compétences actives ?"
 
 msgid "tips_0035_msg"
 msgstr ""
@@ -297,7 +297,7 @@ msgid "tips_0036_msg"
 msgstr ""
 
 msgid "tips_0037_title"
-msgstr "Qu'est que la rareté ?"
+msgstr "C'est quoi la rareté ?"
 
 msgid "tips_0037_msg"
 msgstr ""
@@ -305,7 +305,7 @@ msgstr ""
 "les compétences sont puissantes"
 
 msgid "tips_0038_title"
-msgstr "Qu'est ce que le continue ?"
+msgstr "C'est quoi le continue ?"
 
 msgid "tips_0038_msg"
 msgstr ""
@@ -314,7 +314,7 @@ msgstr ""
 "pour continuer"
 
 msgid "tips_0039_title"
-msgstr "Qu'est ce que l'Extrème ?"
+msgstr "C'est quoi l'Extrème ?"
 
 msgid "tips_0039_msg"
 msgstr ""
@@ -322,7 +322,7 @@ msgstr ""
 "difficile, tente le si tu t'en sent capable"
 
 msgid "tips_0040_title"
-msgstr "Qu'est ce que le mode Valkyrie ?"
+msgstr "C'est quoi le mode Valkyrie ?"
 
 msgid "tips_0040_msg"
 msgstr ""
@@ -330,7 +330,7 @@ msgstr ""
 "encourage le pilote avec la chanson"
 
 msgid "tips_0041_title"
-msgstr "Qu'est ce que les notes objets ?"
+msgstr "C'est quoi les notes objets ?"
 
 msgid "tips_0041_msg"
 msgstr ""
@@ -338,7 +338,7 @@ msgstr ""
 "j'ai hâte de voir ce que tu recevras !"
 
 msgid "tips_0042_title"
-msgstr "Qu'est ce qu'une note d'objet rare ?"
+msgstr "C'est quoi une note d'objet rare ?"
 
 msgid "tips_0042_msg"
 msgstr ""
@@ -346,7 +346,7 @@ msgstr ""
 "alors ne rate pas ta chance et tape !"
 
 msgid "tips_0043_title"
-msgstr "Qu'est ce que la Chance ?"
+msgstr "C'est quoi la Chance ?"
 
 msgid "tips_0043_msg"
 msgstr ""
@@ -360,7 +360,7 @@ msgid "tips_0044_msg"
 msgstr ""
 
 msgid "tips_0045_title"
-msgstr "Qu'est ce qu'un tableau secret ?"
+msgstr "C'est quoi un tableau secret ?"
 
 msgid "tips_0045_msg"
 msgstr ""
@@ -368,7 +368,7 @@ msgstr ""
 "peux débloquer plus de capacités"
 
 msgid "tips_0046_title"
-msgstr "Qu'est ce que la preview(Diva) ?"
+msgstr "C'est quoi la preview(Diva) ?"
 
 msgid "tips_0046_msg"
 msgstr ""
@@ -376,7 +376,7 @@ msgstr ""
 "mais pas trop, c'est gênant"
 
 msgid "tips_0047_title"
-msgstr "Qu'est ce que la preview(Valkyrie) ?"
+msgstr "C'est quoi la preview(Valkyrie) ?"
 
 msgid "tips_0047_msg"
 msgstr ""
@@ -384,7 +384,7 @@ msgstr ""
 "adorables Valkyrie"
 
 msgid "tips_0048_title"
-msgstr "Qu'est ce que le dressing ?"
+msgstr "C'est quoi le dressing ?"
 
 msgid "tips_0048_msg"
 msgstr ""
@@ -392,7 +392,7 @@ msgstr ""
 "leurs tenues, qui est ta préférée ?"
 
 msgid "tips_0049_title"
-msgstr "Qu'est ce que les notes directionnelles ?"
+msgstr "C'est quoi les notes directionnelles ?"
 
 msgid "tips_0049_msg"
 msgstr ""
@@ -418,7 +418,7 @@ msgid "tips_0052_msg"
 msgstr ""
 
 msgid "tips_0053_title"
-msgstr "Qu'est ce que la vitesse de note ?"
+msgstr "C'est quoi la vitesse de note ?"
 
 msgid "tips_0053_msg"
 msgstr ""
@@ -450,7 +450,7 @@ msgid "tips_0057_msg"
 msgstr ""
 
 msgid "tips_0058_title"
-msgstr "Qu'est ce que les trèfles ?"
+msgstr "C'est quoi les trèfles ?"
 
 msgid "tips_0058_msg"
 msgstr ""
@@ -466,7 +466,7 @@ msgstr ""
 "des「Paramètres du jeu」"
 
 msgid "tips_0060_title"
-msgstr "Qu'est ce que le magasin Chaos ?"
+msgstr "C'est quoi le magasin Chaos ?"
 
 msgid "tips_0060_msg"
 msgstr ""
@@ -474,7 +474,7 @@ msgstr ""
 "durée limitée disponibles à l'échange"
 
 msgid "tips_0061_title"
-msgstr "Qu'est ce le Prisme Spatio-Temporel ?"
+msgstr "C'est quoi le Prisme Spatio-Temporel ?"
 
 msgid "tips_0061_msg"
 msgstr ""
@@ -482,7 +482,7 @@ msgstr ""
 "l'apparence des divas et costumes"
 
 msgid "tips_0062_title"
-msgstr "Qu'est ce que la simulation de concert ?"
+msgstr "C'est quoi la simulation de concert ?"
 
 msgid "tips_0062_msg"
 msgstr ""
@@ -496,7 +496,7 @@ msgid "tips_0063_msg"
 msgstr ""
 
 msgid "tips_0064_title"
-msgstr "Qu'est ce que 「deculture」 ?"
+msgstr "C'est quoi「deculture」 ?"
 
 msgid "tips_0064_msg"
 msgstr ""
@@ -504,7 +504,7 @@ msgstr ""
 "exprimer la surprise ou l'émotion"
 
 msgid "tips_0065_title"
-msgstr "Qu'est ce que le Kyururu ?"
+msgstr "C'est quoi le Kyururu ?"
 
 msgid "tips_0065_msg"
 msgstr ""
@@ -512,7 +512,7 @@ msgstr ""
 "il a un motif rayé"
 
 msgid "tips_0066_title"
-msgstr "Qu'est ce qu'une salamandre géante ?"
+msgstr "C'est quoi une salamandre géante ?"
 
 msgid "tips_0066_msg"
 msgstr ""
@@ -521,7 +521,7 @@ msgstr ""
 "N'est-elle pas mignonne et réaliste ?"
 
 msgid "tips_0067_title"
-msgstr "Qu'est-ce qu'un chevalier aérien ?"
+msgstr "C'est quoi un chevalier aérien ?"
 
 msgid "tips_0067_msg"
 msgstr ""
@@ -530,7 +530,7 @@ msgstr ""
 "par Roid"
 
 msgid "tips_0068_title"
-msgstr "Qu'est ce que la section Delta ?"
+msgstr "C'est quoi la section Delta ?"
 
 msgid "tips_0068_msg"
 msgstr ""
@@ -539,7 +539,7 @@ msgstr ""
 "des artistes"
 
 msgid "tips_0069_title"
-msgstr "Qu'est ce que le S.M.S ?"
+msgstr "C'est quoi le S.M.S ?"
 
 msgid "tips_0069_msg"
 msgstr ""
@@ -548,7 +548,7 @@ msgstr ""
 "les nouveaux avions"
 
 msgid "tips_0070_title"
-msgstr "Qu'est ce que le 娘々 ?"
+msgstr "C'est quoi le 娘々 ?"
 
 msgid "tips_0070_msg"
 msgstr ""
@@ -557,7 +557,7 @@ msgstr ""
 "sont délicieux !"
 
 msgid "tips_0071_title"
-msgstr "Qu'est ce que les Zentradi ?"
+msgstr "C'est quoi les Zentradi ?"
 
 msgid "tips_0071_msg"
 msgstr ""
@@ -567,7 +567,7 @@ msgstr ""
 "de la Terre"
 
 msgid "tips_0072_title"
-msgstr "Qu'est ce que les Vajra ?"
+msgstr "C'est quoi les Vajra ?"
 
 msgid "tips_0072_msg"
 msgstr ""
@@ -582,7 +582,7 @@ msgid "tips_0073_msg"
 msgstr ""
 
 msgid "tips_0074_title"
-msgstr "L'amélioration de costume, c'est quoi ?"
+msgstr "C'est quoi l'amélioration de costume  ?"
 
 msgid "tips_0074_msg"
 msgstr ""
@@ -590,7 +590,7 @@ msgstr ""
 "peux même débloquer des couleurs."
 
 msgid "tips_0075_title"
-msgstr "Qu'est ce qu'une opération ?"
+msgstr "C'est quoi une opération ?"
 
 msgid "tips_0075_msg"
 msgstr ""
@@ -598,13 +598,13 @@ msgstr ""
 "une opération, et attendre le résultat"
 
 msgid "tips_0076_title"
-msgstr "Qu'est ce que les opérations diva ?"
+msgstr "C'est quoi les opérations diva ?"
 
 msgid "tips_0076_msg"
 msgstr "Des requêtes personnelles des divas"
 
 msgid "tips_0077_title"
-msgstr "Qu'est ce que les notes glissées ?"
+msgstr "C'est quoi les notes glissées ?"
 
 msgid "tips_0077_msg"
 msgstr ""
@@ -626,7 +626,7 @@ msgstr ""
 "pour cette compétence live"
 
 msgid "tips_0080_title"
-msgstr "Qu'est ce que la pièce déco ?"
+msgstr "C'est quoi la pièce déco ?"
 
 msgid "tips_0080_msg"
 msgstr ""
@@ -634,7 +634,7 @@ msgstr ""
 "n'importe quelle pièce"
 
 msgid "tips_0081_title"
-msgstr "L'amélioration de Valkyrie ?"
+msgstr "C'est quoi l'amélioration de Valkyrie ?"
 
 msgid "tips_0081_msg"
 msgstr ""
@@ -678,7 +678,7 @@ msgid "tips_0087_msg"
 msgstr ""
 
 msgid "tips_0088_title"
-msgstr "【Comp.】Le mode score+ ?"
+msgstr "[Comp.] C'est quoi le mode score+ ?"
 
 msgid "tips_0088_msg"
 msgstr ""
@@ -692,7 +692,7 @@ msgid "tips_0089_msg"
 msgstr ""
 
 msgid "tips_0090_title"
-msgstr "【Comp.】Score et dégats répétés ?"
+msgstr "[Comp.] Score et dégats répétés ?"
 
 msgid "tips_0090_msg"
 msgstr ""
@@ -714,7 +714,7 @@ msgstr ""
 "donnant un grand effet de score"
 
 msgid "tips_0093_title"
-msgstr "Qu'est ce quele classement des divas ?"
+msgstr "C'est quoi le classement des divas ?"
 
 msgid "tips_0093_msg"
 msgstr ""
@@ -722,7 +722,7 @@ msgstr ""
 "des divas. Entraîne tes préférées"
 
 msgid "tips_0094_title"
-msgstr "【Costume】Le diva status+ ?"
+msgstr "【Costume】C'est quoi le diva status+ ?"
 
 msgid "tips_0094_msg"
 msgstr ""
@@ -946,7 +946,7 @@ msgid "tips_0124_msg"
 msgstr ""
 
 msgid "tips_0125_title"
-msgstr "Qu'est ce que le changement de fond ?"
+msgstr "C'est quoi le changement de fond ?"
 
 msgid "tips_0125_msg"
 msgstr ""
@@ -954,7 +954,7 @@ msgstr ""
 "le personnaliser à ta guise !"
 
 msgid "tips_0126_title"
-msgstr "Qu'est ce que les tickets d'évènement ?"
+msgstr "C'est quoi les tickets d'évènement ?"
 
 msgid "tips_0126_msg"
 msgstr ""
@@ -968,7 +968,7 @@ msgid "tips_0127_msg"
 msgstr ""
 
 msgid "tips_0128_title"
-msgstr "【Comp.】Bio-Fold & Score+ ?"
+msgstr "[Comp.] C'est quoi Bio-Fold & Score+ ?"
 
 msgid "tips_0128_msg"
 msgstr ""
@@ -1102,7 +1102,7 @@ msgid "tips_0149_msg"
 msgstr ""
 
 msgid "tips_0150_title"
-msgstr "【Comp.】Qu'est ce que l'affection+ ?"
+msgstr "[Comp.] C'est quoi l'affection score+ ?"
 
 msgid "tips_0150_msg"
 msgstr ""
