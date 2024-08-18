@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2024-08-18 09:08+0000\n"
+"PO-Revision-Date: 2024-08-18 11:05+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
@@ -139,16 +139,20 @@ msgid "tips_0016_msg"
 msgstr ""
 
 msgid "tips_0017_title"
-msgstr ""
+msgstr "Secret de Freyja"
 
 msgid "tips_0017_msg"
 msgstr ""
+"Cette chose sur ma tête s'appelle\n"
+" 「Run」 ! C'est génial et brillant ?"
 
 msgid "tips_0018_title"
-msgstr ""
+msgstr "Secret de Mikumo"
 
 msgid "tips_0018_msg"
 msgstr ""
+"Malheureusement, je ne peux pas te\n"
+"révéler mon secret aussi facilement"
 
 msgid "tips_0019_title"
 msgstr "Secret de Kaname"
@@ -165,10 +169,10 @@ msgid "tips_0020_msg"
 msgstr ""
 
 msgid "tips_0021_title"
-msgstr ""
+msgstr "Secret de Reina"
 
 msgid "tips_0021_msg"
-msgstr ""
+msgstr "Méduses avalées entières et crues"
 
 msgid "tips_0022_title"
 msgstr "Secret de Ranka"
@@ -426,10 +430,12 @@ msgid "tips_0057_msg"
 msgstr ""
 
 msgid "tips_0058_title"
-msgstr ""
+msgstr "Qu'est ce que les trèfles ?"
 
 msgid "tips_0058_msg"
 msgstr ""
+"Débloque le trèfle, et il se passera peut-\n"
+"être quelque chose pendant le concert"
 
 msgid "tips_0059_title"
 msgstr ""
@@ -726,10 +732,12 @@ msgstr ""
 "Makina sexy... ça me rend nerveuse…"
 
 msgid "tips_0101_title"
-msgstr ""
+msgstr "Gallerie de costume"
 
 msgid "tips_0101_msg"
 msgstr ""
+"C'est le concert solo de ReiRei !\n"
+"Reirei est belle quand elle chante  !"
 
 msgid "tips_0102_title"
 msgstr "Gallerie de costume"
@@ -794,10 +802,12 @@ msgstr ""
 "C'est parfait pour l'adorable Min-Min♪"
 
 msgid "tips_0110_title"
-msgstr ""
+msgstr "Gallerie de costume"
 
 msgid "tips_0110_msg"
 msgstr ""
+"J'ai chanté「星間飛行」avec Ranka ! Je\n"
+"suis heureuse de chanter avec elle"
 
 msgid "tips_0111_title"
 msgstr ""
