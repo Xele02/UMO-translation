@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2024-08-20 18:28+0000\n"
+"PO-Revision-Date: 2024-08-21 19:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -195,58 +195,58 @@ msgid "help_0004_0001_name"
 msgstr "A propos du déblocage d'épisode"
 
 msgid "wiki_0004_0000_name"
-msgstr ""
+msgstr "Liste des épisodes"
 
 msgid "help_0005_0000_name"
-msgstr ""
+msgstr "À propos du déblocage des capacités"
 
 msgid "help_0005_0001_name"
-msgstr ""
+msgstr "A propos du tableau secret"
 
 msgid "help_0005_0002_name"
-msgstr ""
+msgstr "A propos de l'augmentation de rareté"
 
 msgid "help_0005_0003_name"
-msgstr ""
+msgstr "A propos des étoiles de rareté"
 
 msgid "help_0005_0004_name"
-msgstr ""
+msgstr "A propros des trèfles"
 
 msgid "help_0005_0005_name"
-msgstr ""
+msgstr "A propos des effets de trèfles"
 
 msgid "help_0005_0006_name"
-msgstr ""
+msgstr "A propos du déblocage groupé de capacités"
 
 msgid "wiki_0005_0000_name"
-msgstr ""
+msgstr "Liste des plaques d'épisode"
 
 msgid "help_0006_0000_name"
-msgstr ""
+msgstr "A propos des compétences"
 
 msgid "help_0006_0001_name"
-msgstr ""
+msgstr "A propos des costumes"
 
 msgid "help_0006_0002_name"
-msgstr ""
+msgstr "A propos de l'affection"
 
 msgid "help_0006_0003_name"
-msgstr ""
+msgstr "A propos des cadeaux"
 
 msgid "help_0006_0004_name"
-msgstr ""
+msgstr "A propos de l'amélioration de costume"
 
 msgid "help_0006_0005_name"
-msgstr ""
+msgstr "A propos du changement de couleur"
 
 msgid "help_0006_0006_name"
-msgstr ""
+msgstr "A propos de l'évolution de Valkyrie"
 
 msgid "wiki_0006_0000_name"
-msgstr ""
+msgstr "Astuces pour augmenter le niveau de diva"
 
 msgid "wiki_0006_0001_name"
-msgstr ""
+msgstr "Liste des costumes"
 
 msgid "help_0007_0000_name"
 msgstr ""
@@ -276,91 +276,91 @@ msgid "wiki_0007_0001_name"
 msgstr ""
 
 msgid "help_0008_0000_name"
-msgstr ""
+msgstr "A propos de la boîte à cadeaux"
 
 msgid "help_0008_0001_name"
-msgstr ""
+msgstr "A propos des amis"
 
 msgid "help_0008_0002_name"
-msgstr ""
+msgstr "A propos des rangs des joueurs"
 
 msgid "help_0008_0003_name"
-msgstr ""
+msgstr "À propos du réseau social de l'espace ultra-temporel"
 
 msgid "help_0008_0004_name"
-msgstr ""
+msgstr "A propos de la sélection du costume de l'acceuil"
 
 msgid "help_0008_0005_name"
-msgstr ""
+msgstr "A propos du fond de l'acceuil"
 
 msgid "wiki_0008_0000_name"
-msgstr ""
+msgstr "Faisons-nous plein d'amis"
 
 msgid "wiki_0008_0001_name"
-msgstr ""
+msgstr "Comment augmenter le niveau de joueur"
 
 msgid "wiki_0008_0002_name"
-msgstr ""
+msgstr "Condition de déblocage du SNS"
 
 msgid "wiki_0008_0003_name"
-msgstr ""
+msgstr "Liste des costumes"
 
 msgid "help_0009_0000_name"
-msgstr ""
+msgstr "A propose des opérations Valkyrie"
 
 msgid "help_0009_0001_name"
-msgstr ""
+msgstr "A propos du déblocage des opérations Valkyrie"
 
 msgid "help_0009_0002_name"
-msgstr ""
+msgstr "A propos des opérations diva"
 
 msgid "help_0010_0000_name"
-msgstr ""
+msgstr "A propos de la loterie"
 
 msgid "help_0010_0001_name"
-msgstr ""
+msgstr "A propos de la loterie journalière"
 
 msgid "wiki_0010_0000_name"
-msgstr ""
+msgstr "Information des dernières loteries"
 
 msgid "help_0012_0000_name"
-msgstr ""
+msgstr "A propos du profil"
 
 msgid "help_0012_0001_name"
-msgstr ""
+msgstr "A propos du magasin Chaos"
 
 msgid "help_0012_0002_name"
-msgstr ""
+msgstr "À propos des fragments"
 
 msgid "help_0012_0003_name"
-msgstr ""
+msgstr "A propos des sphères de saison"
 
 msgid "help_0012_0004_name"
-msgstr ""
+msgstr "A propos de la configuration de push"
 
 msgid "help_0012_0005_name"
-msgstr ""
+msgstr "A propos du classement des divas"
 
 msgid "wiki_0012_0000_name"
-msgstr ""
+msgstr "Guide de débutant"
 
 msgid "wiki_0012_0001_name"
-msgstr ""
+msgstr "A propos du transfert de données"
 
 msgid "wiki_0012_0002_name"
-msgstr ""
+msgstr "Bulletin d'information"
 
 msgid "help_0013_0000_name"
-msgstr ""
+msgstr "A propos du mode de déco"
 
 msgid "help_0013_0001_name"
-msgstr ""
+msgstr "A propos des objets spéciaux"
 
 msgid "help_0013_0002_name"
-msgstr ""
+msgstr "A propos des personnages"
 
 msgid "help_0013_0003_name"
-msgstr ""
+msgstr "A propos du blocage des joueurs"
 
 msgid "help_0014_0000_name"
 msgstr ""
@@ -378,19 +378,19 @@ msgid "help_0014_0004_name"
 msgstr ""
 
 msgid "help_0015_0000_name"
-msgstr ""
+msgstr "A propos de la préparation du Super Concert"
 
 msgid "help_0015_0001_name"
-msgstr ""
+msgstr "A propos du lobby Macross"
 
 msgid "help_0015_0002_name"
-msgstr ""
+msgstr "A propos des tampons"
 
 msgid "help_0015_0003_name"
-msgstr ""
+msgstr "A propos des fonctions de notes"
 
 msgid "help_0015_0004_name"
-msgstr ""
+msgstr "A propos du changement d'icônes"
 
 msgid "help_0016_0000_name"
 msgstr ""
