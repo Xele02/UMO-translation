@@ -3,93 +3,94 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:58+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-08-23 16:56+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"shopdb_text/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "shop_0000_name"
-msgstr ""
+msgstr "Echange de médaille Capricorne"
 
 msgid "shop_0001_name"
-msgstr ""
+msgstr "Echange de médalile Verseau"
 
 msgid "shop_0002_name"
-msgstr ""
+msgstr "Echange de médaille Poisson"
 
 msgid "shop_0003_name"
-msgstr ""
+msgstr "Echange de médaille Bélier"
 
 msgid "shop_0004_name"
-msgstr ""
+msgstr "Echange de médaille Taureau"
 
 msgid "shop_0005_name"
-msgstr ""
+msgstr "Echange de médaille Gémeaux"
 
 msgid "shop_0006_name"
-msgstr ""
+msgstr "Echange de médaille Cancer"
 
 msgid "shop_0007_name"
-msgstr ""
+msgstr "Echange de médaille Lion"
 
 msgid "shop_0008_name"
-msgstr ""
+msgstr "Echange de médaille Vierge"
 
 msgid "shop_0009_name"
-msgstr ""
+msgstr "Echange de médaille Balance"
 
 msgid "shop_0010_name"
-msgstr ""
+msgstr "Echange de médaille Scorpion"
 
 msgid "shop_0011_name"
-msgstr ""
+msgstr "Echange de médaille Sagittaire"
 
 msgid "shop_0012_name"
-msgstr ""
+msgstr "Echange de sphère de printemps"
 
 msgid "shop_0013_name"
-msgstr ""
+msgstr "Echange de sphère d'été"
 
 msgid "shop_0014_name"
-msgstr ""
+msgstr "Echange de sphère d'automne"
 
 msgid "shop_0015_name"
-msgstr ""
+msgstr "Echange de sphère d'hiver"
 
 msgid "shop_0016_name"
-msgstr ""
+msgstr "Echange d'objets"
 
 msgid "shop_0017_name"
-msgstr ""
+msgstr "Echange de crédits d'union"
 
 msgid "shop_0018_name"
 msgstr ""
 
 msgid "shop_0019_name"
-msgstr ""
+msgstr "Echange points déco"
 
 msgid "shop_0020_name"
-msgstr ""
+msgstr "Echange médaille Super Galaxie"
 
 msgid "shop_0021_name"
-msgstr ""
+msgstr "Echange commémoratif concert F"
 
 msgid "shop_0022_name"
-msgstr ""
+msgstr "Echange ticket commémoratif"
 
 msgid "shop_0023_name"
-msgstr ""
+msgstr "Echange pour plaques de costume"
 
 msgid "shop_0024_name"
-msgstr ""
+msgstr "Echange de plaque d'épisode ★1～4"
 
 msgid "shop_0025_name"
-msgstr ""
+msgstr "Echange de plaque d'épisode ★5～6"
 
 msgid "shop_0026_name"
-msgstr ""
+msgstr "Echange pour plaques de costume"
