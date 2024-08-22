@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-21 19:28+0000\n"
+"PO-Revision-Date: 2024-08-23 16:56+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -790,31 +790,31 @@ msgid "header_desc_home006"
 msgstr ""
 
 msgid "header_desc_home007"
-msgstr ""
+msgstr "Selectionne un costume"
 
 msgid "header_desc_home008"
 msgstr ""
 
 msgid "header_desc_home009"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_home010"
 msgstr ""
 
 msgid "header_desc_vop000"
-msgstr "Sélection d'une opération"
+msgstr "Sélectionne une opération"
 
 msgid "header_desc_vop001"
-msgstr "Selection du peloton"
+msgstr "Selectionne un peloton"
 
 msgid "header_desc_vop002"
-msgstr "Selection de Valkyrie"
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_vop003"
-msgstr "Selection de la forme"
+msgstr "Selectionne une forme"
 
 msgid "header_desc_home030"
-msgstr ""
+msgstr "Choisi un costume"
 
 msgid "header_desc_home031"
 msgstr ""
@@ -838,13 +838,13 @@ msgid "header_desc_home130"
 msgstr ""
 
 msgid "header_desc_home201"
-msgstr ""
+msgstr "Selectionne un assistant"
 
 msgid "header_desc_home202"
-msgstr ""
+msgstr "Forme un groupe"
 
 msgid "header_desc_home203"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_home204"
 msgstr ""
@@ -853,25 +853,25 @@ msgid "header_desc_home205"
 msgstr ""
 
 msgid "header_desc_home206"
-msgstr ""
+msgstr "Débloque des capacités"
 
 msgid "header_desc_home207"
 msgstr ""
 
 msgid "header_desc_home208"
-msgstr ""
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_home209"
-msgstr ""
+msgstr "Selectionne un costume"
 
 msgid "header_desc_home210"
 msgstr ""
 
 msgid "header_desc_home211"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_home230"
-msgstr ""
+msgstr "Choisi un costume"
 
 msgid "header_desc_home231"
 msgstr ""
@@ -886,16 +886,16 @@ msgid "header_desc_home302"
 msgstr ""
 
 msgid "header_desc_home303"
-msgstr ""
+msgstr "Sélectionne un objet"
 
 msgid "header_desc_setting000"
-msgstr "Préparation du concert"
+msgstr "Prépare le concert"
 
 msgid "header_desc_setting001"
-msgstr "Formation du groupe"
+msgstr "Forme un groupe"
 
 msgid "header_desc_setting002"
-msgstr "Sélection d'une diva"
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_setting003"
 msgstr ""
@@ -904,13 +904,13 @@ msgid "header_desc_setting004"
 msgstr ""
 
 msgid "header_desc_setting005"
-msgstr "Selection de costume"
+msgstr "Selectionne un costume"
 
 msgid "header_desc_setting006"
-msgstr ""
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_setting007"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_setting008"
 msgstr "Liste des plaques"
@@ -919,37 +919,37 @@ msgid "header_desc_setting009"
 msgstr ""
 
 msgid "header_desc_setting010"
-msgstr "Déblocage des capacités"
+msgstr "Débloque des capacités"
 
 msgid "header_desc_setting011"
 msgstr ""
 
 msgid "header_desc_setting012"
-msgstr "Vérification de déblocaque"
+msgstr "Vérifie le déblocaque"
 
 msgid "header_desc_setting013"
-msgstr ""
+msgstr "Sélectionne un objet"
 
 msgid "header_desc_setting030"
-msgstr "Choix d'un costume"
+msgstr "Choisi un costume"
 
 msgid "header_desc_setting031"
 msgstr ""
 
 msgid "header_desc_setting032"
-msgstr "Sélection d'une Valkyrie"
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_story000"
-msgstr "Sélection d'une zone"
+msgstr "Sélectionne une zone"
 
 msgid "header_desc_story001"
-msgstr ""
+msgstr "Selectionne un assistant"
 
 msgid "header_desc_story002"
-msgstr "Formation du groupe"
+msgstr "Forme un groupe"
 
 msgid "header_desc_story003"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_story004"
 msgstr ""
@@ -958,19 +958,19 @@ msgid "header_desc_story005"
 msgstr ""
 
 msgid "header_desc_story006"
-msgstr ""
+msgstr "Débloque des capacités"
 
 msgid "header_desc_story007"
 msgstr ""
 
 msgid "header_desc_story008"
-msgstr ""
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_story009"
-msgstr ""
+msgstr "Selectionne un costume"
 
 msgid "header_desc_story030"
-msgstr ""
+msgstr "Choisi un costume"
 
 msgid "header_desc_story031"
 msgstr ""
@@ -979,13 +979,13 @@ msgid "header_desc_free000"
 msgstr ""
 
 msgid "header_desc_free001"
-msgstr "Selection d'un assistant"
+msgstr "Selectionne un assistant"
 
 msgid "header_desc_free002"
-msgstr "Formation du groupe"
+msgstr "Forme un groupe"
 
 msgid "header_desc_free003"
-msgstr "Sélection d'une diva"
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_free004"
 msgstr ""
@@ -994,25 +994,25 @@ msgid "header_desc_free005"
 msgstr ""
 
 msgid "header_desc_free006"
-msgstr ""
+msgstr "Débloque des capacités"
 
 msgid "header_desc_free007"
 msgstr ""
 
 msgid "header_desc_free008"
-msgstr ""
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_free009"
-msgstr ""
+msgstr "Selectionne un costume"
 
 msgid "header_desc_free010"
 msgstr ""
 
 msgid "header_desc_free011"
-msgstr "Consulter le profil"
+msgstr "Consulte le profil"
 
 msgid "header_desc_free020"
-msgstr "Vérification des paramètres"
+msgstr "Vérifie les paramètres de concert"
 
 msgid "header_desc_free110"
 msgstr ""
@@ -1024,19 +1024,19 @@ msgid "header_desc_free130"
 msgstr ""
 
 msgid "header_desc_free030"
-msgstr ""
+msgstr "Choisi un costume"
 
 msgid "header_desc_free031"
 msgstr ""
 
 msgid "header_desc_free201"
-msgstr ""
+msgstr "Selectionne un assistant"
 
 msgid "header_desc_free202"
-msgstr ""
+msgstr "Forme un groupe"
 
 msgid "header_desc_free203"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_free204"
 msgstr ""
@@ -1045,25 +1045,25 @@ msgid "header_desc_free205"
 msgstr ""
 
 msgid "header_desc_free206"
-msgstr ""
+msgstr "Débloque des capacités"
 
 msgid "header_desc_free207"
 msgstr ""
 
 msgid "header_desc_free208"
-msgstr ""
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_free209"
-msgstr ""
+msgstr "Selectionne un costume"
 
 msgid "header_desc_free210"
 msgstr ""
 
 msgid "header_desc_free211"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_free230"
-msgstr ""
+msgstr "Choisi un costume"
 
 msgid "header_desc_free231"
 msgstr ""
@@ -1072,7 +1072,7 @@ msgid "header_desc_free240"
 msgstr ""
 
 msgid "header_desc_free303"
-msgstr ""
+msgstr "Sélectionne un objet"
 
 msgid "header_desc_gacha000"
 msgstr ""
@@ -1093,28 +1093,28 @@ msgid "header_desc_quest003"
 msgstr ""
 
 msgid "header_desc_option000"
-msgstr ""
+msgstr "Sélectionne une catégorie"
 
 msgid "header_desc_option001"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_option002"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "header_desc_option003"
 msgstr ""
 
 msgid "header_desc_option004"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_option005"
-msgstr ""
+msgstr "Sélectionne une catégorie"
 
 msgid "header_desc_option006"
-msgstr ""
+msgstr "Sélectionne un magasin"
 
 msgid "header_desc_option007"
-msgstr ""
+msgstr "Sélectionne un objet"
 
 msgid "header_desc_option008"
 msgstr ""
@@ -1123,13 +1123,13 @@ msgid "header_desc_option009"
 msgstr ""
 
 msgid "header_desc_evquest001"
-msgstr ""
+msgstr "Selectionne un assistant"
 
 msgid "header_desc_evquest002"
-msgstr ""
+msgstr "Forme un groupe"
 
 msgid "header_desc_evquest003"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "header_desc_evquest004"
 msgstr ""
@@ -1138,22 +1138,22 @@ msgid "header_desc_evquest005"
 msgstr ""
 
 msgid "header_desc_evquest006"
-msgstr ""
+msgstr "Débloque des capacités"
 
 msgid "header_desc_evquest007"
 msgstr ""
 
 msgid "header_desc_evquest008"
-msgstr ""
+msgstr "Selectionne une Valkyrie"
 
 msgid "header_desc_evquest009"
-msgstr ""
+msgstr "Selectionne un costume"
 
 msgid "header_desc_evquest010"
 msgstr ""
 
 msgid "header_desc_evquest011"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_evquest110"
 msgstr ""
@@ -1165,13 +1165,13 @@ msgid "header_desc_evquest130"
 msgstr ""
 
 msgid "header_desc_evquest030"
-msgstr ""
+msgstr "Choisi un costume"
 
 msgid "header_desc_evquest031"
 msgstr ""
 
 msgid "header_desc_result211"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_result240"
 msgstr ""
@@ -1180,7 +1180,7 @@ msgid "header_desc_musicrate000"
 msgstr ""
 
 msgid "header_desc_musicrate001"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "popup_unlock_desc_000"
 msgstr "Chanson ajoutée !"
@@ -1826,55 +1826,74 @@ msgid "popup_title_degree_01"
 msgstr ""
 
 msgid "degree_current_window_title"
-msgstr ""
+msgstr "Lot de titres"
 
 msgid "degree_select_window_title"
 msgstr ""
 
 msgid "popup_title_profil_01"
-msgstr ""
+msgstr "Changement du nom du joueur"
 
 msgid "popup_title_profil_02"
 msgstr ""
+"Entrer le nom du joueur.\n"
+"(Jusque 10 caractères)"
 
 msgid "popup_title_profil_03"
 msgstr ""
+"<color=#C8087E>※Si tu changes le nom de joueur,\n"
+"tu ne pourras pas changer pendant les 30 prochains jours. </color>\n"
+"Certains symboles et caractères peuvent ne pas être utilisés.\n"
+"La modification peut prendre un certain temps avant de prendre effet."
 
 msgid "popup_title_profil_04"
-msgstr ""
+msgstr "Confirmation du changement de nom"
 
 msgid "popup_title_profil_05"
 msgstr ""
+"\n"
+"\n"
+"Est-ce que le nom est bon ?\n"
+"\n"
+"<color=#C8087E>※Si tu changes le nom de joueur,\n"
+"tu ne pourras pas changer pendant les 30 prochains jours. </color>\n"
 
 msgid "popup_title_profil_06"
-msgstr ""
+msgstr "Changement du nom du joueur"
 
 msgid "popup_title_profil_07"
-msgstr ""
+msgstr "Le nom a été changé."
 
 msgid "popup_title_profil_08"
 msgstr ""
+"Il est impossible de changer de nom avant\n"
+"30 jours depuis le dernier changement."
 
 msgid "popup_title_profil_09"
-msgstr ""
+msgstr "Changement de la description"
 
 msgid "popup_title_profil_10"
 msgstr ""
+"Entrer la description\n"
+"(Jusque 25 caractères)"
 
 msgid "popup_title_profil_11"
 msgstr ""
+"・Certains symboles et caractères peuvent ne pas être utilisés.\n"
+"・La modification peut prendre un certain temps avant de prendre effet.\n"
+"・N'entrer pas d'informations personnelles."
 
 msgid "popup_title_profil_12"
-msgstr ""
+msgstr "Changement de la description"
 
 msgid "popup_title_profil_13"
-msgstr ""
+msgstr "La description a été changée."
 
 msgid "popup_title_profil_14"
-msgstr ""
+msgstr "ID de joueur"
 
 msgid "popup_title_profil_15"
-msgstr ""
+msgstr "L'ID de joueur a été copié."
 
 msgid "popup_title_playernameentry"
 msgstr "Nom du joueur"
@@ -2856,10 +2875,10 @@ msgid "item_shop_period"
 msgstr ""
 
 msgid "item_shop_get_period"
-msgstr ""
+msgstr "Jusque {0}/{1} {2}:{3:D2}"
 
 msgid "item_shop_reset_period"
-msgstr ""
+msgstr "Jusque {0}/{1} {2}:{3:D2}"
 
 msgid "item_shop_limit_period"
 msgstr "Jusque {0}/{1} {2}:{3:D2}"
@@ -5390,37 +5409,37 @@ msgid "header_desc_home401"
 msgstr ""
 
 msgid "header_desc_home402"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "header_desc_setting040"
 msgstr ""
 
 msgid "header_desc_setting041"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "header_desc_setting042"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_story040"
 msgstr ""
 
 msgid "header_desc_story041"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "header_desc_story042"
-msgstr ""
+msgstr "Consulte le profil"
 
 msgid "header_desc_free400"
 msgstr ""
 
 msgid "header_desc_free401"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "header_desc_option010"
 msgstr ""
 
 msgid "header_desc_option011"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "gacha_desc_05"
 msgstr ""
@@ -5434,7 +5453,7 @@ msgid "header_desc_evquest400"
 msgstr ""
 
 msgid "header_desc_evquest401"
-msgstr ""
+msgstr "Sélectionne un titre"
 
 msgid "popup_sort_title_guest_select"
 msgstr ""
@@ -5842,7 +5861,7 @@ msgid "godiva_diva_select_not_have"
 msgstr ""
 
 msgid "godiva_diva_select_explain"
-msgstr ""
+msgstr "Sélectionne une diva"
 
 msgid "godiva_music_info_bonus_remain_count"
 msgstr ""
