@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-23 16:56+0000\n"
+"PO-Revision-Date: 2024-08-23 17:41+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -27,10 +27,10 @@ msgid "popup_title_03"
 msgstr ""
 
 msgid "popup_title_04"
-msgstr ""
+msgstr "Détail de la Valkyre"
 
 msgid "popup_title_05"
-msgstr ""
+msgstr "Détail du costume"
 
 msgid "unit_popup_title_00"
 msgstr ""
@@ -239,40 +239,55 @@ msgid "pbox_win_none02"
 msgstr "Il n'y a pas d'historique."
 
 msgid "set_notification_text_00"
-msgstr ""
+msgstr "Config. notif."
 
 msgid "set_notification_text_01"
 msgstr ""
+"Si les notifications sont désactivées sur votre système, il n'y en aura pas."
 
 msgid "set_notification_text_02"
 msgstr ""
+"Notifications pour \n"
+"événements, campagnes..."
 
 msgid "set_notification_text_03"
-msgstr ""
+msgstr "Paramétrer les heures autorisées."
 
 msgid "set_notification_text_04"
-msgstr ""
+msgstr "Ne s'applique pas aux 「news」."
 
 msgid "set_notification_text_05"
 msgstr ""
+"Notification quand l'énergie\n"
+"est remplie."
 
 msgid "set_notification_text_06"
 msgstr ""
+"Notification quand une conversation\n"
+"est reçue dans le réseau social."
 
 msgid "set_notification_text_07"
 msgstr ""
+"Notification lorsqu'un opération \n"
+"Valkyrie est terminée."
 
 msgid "set_notification_text_08"
 msgstr ""
+"Notification lorsque les\n"
+"AP sont remplis."
 
 msgid "set_notification_text_09"
 msgstr ""
+"Notfication quand un ennemi\n"
+"EX apparait."
 
 msgid "set_notification_text_10"
-msgstr ""
+msgstr "Il n'y aura pas de notification si désactivé."
 
 msgid "set_notification_text_11"
 msgstr ""
+"Notification lorsque les objets de \n"
+"la chambre déco sont pleins."
 
 msgid "set_battle_event_text_01"
 msgstr ""
@@ -299,7 +314,7 @@ msgid "config_text_03"
 msgstr ""
 
 msgid "config_text_04"
-msgstr ""
+msgstr "Config. écran"
 
 msgid "config_text_05"
 msgstr ""
@@ -309,6 +324,8 @@ msgstr ""
 
 msgid "config_text_05_android"
 msgstr ""
+"<size=22>Choisir de tourner automatiquement l'écran \n"
+"ou de manière fixe à gauche ou droite.</size>"
 
 msgid "config_text_06"
 msgstr ""
@@ -410,13 +427,13 @@ msgid "config_text_35"
 msgstr "Utiliser la touche \"Retour\" pendant le concert."
 
 msgid "config_text_36"
-msgstr "Btn retour"
+msgstr "Bouton retour"
 
 msgid "config_text_37_rhythm"
 msgstr "Niveau de difficulté actuel"
 
 msgid "config_text_37_option"
-msgstr ""
+msgstr "Difficulté"
 
 msgid "config_text_38"
 msgstr ""
@@ -446,16 +463,16 @@ msgid "config_text_46"
 msgstr ""
 
 msgid "config_text_47"
-msgstr ""
+msgstr "Config. diva"
 
 msgid "config_text_48"
-msgstr ""
+msgstr "Réglages de la diva de l'accueil."
 
 msgid "config_text_49"
-msgstr ""
+msgstr "La diva centrale du groupe est affichée."
 
 msgid "config_text_50"
-msgstr ""
+msgstr "La diva du dressing est affichée."
 
 msgid "config_text_51"
 msgstr ""
@@ -544,16 +561,16 @@ msgid "config_text_77"
 msgstr "En mode diva, seule la vidéo sera affichée."
 
 msgid "config_text_78"
-msgstr ""
+msgstr "Les notes ne sont pas inaudible même à 0."
 
 msgid "config_text_79"
-msgstr "Config. affichage concert"
+msgstr "Config. visuel concert"
 
 msgid "config_text_80"
 msgstr "Config. concert"
 
 msgid "config_text_81"
-msgstr ""
+msgstr "<size=24>Config. simulation concert</size>"
 
 msgid "config_text_82"
 msgstr ""
@@ -589,16 +606,16 @@ msgid "config_text_92"
 msgstr ""
 
 msgid "config_text_93"
-msgstr ""
+msgstr "<size=18>Plaques premium</size>"
 
 msgid "config_text_94"
-msgstr ""
+msgstr "Paramètre de l'affichage des plaques premium."
 
 msgid "config_text_95"
-msgstr ""
+msgstr "Affichage de la plaque en mode premium."
 
 msgid "config_text_96"
-msgstr ""
+msgstr "Affichage de la plaque en mode normal."
 
 msgid "growth_list_text_01"
 msgstr ""
@@ -1829,7 +1846,7 @@ msgid "degree_current_window_title"
 msgstr "Lot de titres"
 
 msgid "degree_select_window_title"
-msgstr ""
+msgstr "Titres choisis"
 
 msgid "popup_title_profil_01"
 msgstr "Changement du nom du joueur"
@@ -1844,7 +1861,7 @@ msgstr ""
 "<color=#C8087E>※Si tu changes le nom de joueur,\n"
 "tu ne pourras pas changer pendant les 30 prochains jours. </color>\n"
 "Certains symboles et caractères peuvent ne pas être utilisés.\n"
-"La modification peut prendre un certain temps avant de prendre effet."
+"La modification peut prendre un certain temps."
 
 msgid "popup_title_profil_04"
 msgstr "Confirmation du changement de nom"
@@ -1880,7 +1897,7 @@ msgstr ""
 msgid "popup_title_profil_11"
 msgstr ""
 "・Certains symboles et caractères peuvent ne pas être utilisés.\n"
-"・La modification peut prendre un certain temps avant de prendre effet.\n"
+"・La modification peut prendre un certain temps.\n"
 "・N'entrer pas d'informations personnelles."
 
 msgid "popup_title_profil_12"
@@ -5246,6 +5263,8 @@ msgstr ""
 
 msgid "set_notification_text_12"
 msgstr ""
+"Notification lorsque des dates \n"
+"d'expiration approchent."
 
 msgid "pop_limited_item_warning_text_2"
 msgstr ""
@@ -5278,19 +5297,19 @@ msgid "gacha_cost_05"
 msgstr "Soir {0}x gratuit"
 
 msgid "config_text_98"
-msgstr ""
+msgstr "<size=18>Effet de costume</size>"
 
 msgid "config_text_99"
-msgstr ""
+msgstr "Paramètre de l'effet autour du costume."
 
 msgid "config_text_100"
-msgstr ""
+msgstr "S'applique uniquement sur les costumes avec un effet."
 
 msgid "config_text_101"
-msgstr ""
+msgstr "Config. anim. plaques"
 
 msgid "config_text_102"
-msgstr ""
+msgstr "S'applique qu'au plaques avec animations."
 
 msgid "config_text_103"
 msgstr ""
@@ -5362,25 +5381,29 @@ msgid "assistselect_attribute_blue"
 msgstr "Attr. Vie"
 
 msgid "assistselect_caution_01"
-msgstr ""
+msgstr "※La selection actuelle sera utilisée en tant qu'assistant."
 
 msgid "assistselect_namechange_popup_title"
-msgstr ""
+msgstr "Changement du nom du set"
 
 msgid "assistselect_namechange_popup_ok"
-msgstr ""
+msgstr "Le nom du set a été changé."
 
 msgid "assistselect_namechange_popup_details_01"
 msgstr ""
+"Entrer un nom de set\n"
+"(Jusque 15 maximum)"
 
 msgid "assistselect_name_title_change_ng"
-msgstr ""
+msgstr "Erreur"
 
 msgid "assistselect_name_notchangeword"
-msgstr ""
+msgstr "Le nom du set n'a pas été changé."
 
 msgid "assistselect_name_ngword"
 msgstr ""
+"Certains mots ne peuvent pas être utilisés.\n"
+"Veuillez les changer."
 
 msgid "event_story_text_015"
 msgstr ""
