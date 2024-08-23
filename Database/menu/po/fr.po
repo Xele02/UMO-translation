@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-23 17:41+0000\n"
+"PO-Revision-Date: 2024-08-23 19:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -263,8 +263,8 @@ msgstr ""
 
 msgid "set_notification_text_06"
 msgstr ""
-"Notification quand une conversation\n"
-"est reçue dans le réseau social."
+"<size=21>Notification quand une discussion\n"
+"est reçue dans le réseau social.</size>"
 
 msgid "set_notification_text_07"
 msgstr ""
@@ -286,8 +286,8 @@ msgstr "Il n'y aura pas de notification si désactivé."
 
 msgid "set_notification_text_11"
 msgstr ""
-"Notification lorsque les objets de \n"
-"la chambre déco sont pleins."
+"Notification lorsque les objets\n"
+"de la chambre déco sont pleins."
 
 msgid "set_battle_event_text_01"
 msgstr ""
@@ -325,7 +325,7 @@ msgstr ""
 msgid "config_text_05_android"
 msgstr ""
 "<size=22>Choisir de tourner automatiquement l'écran \n"
-"ou de manière fixe à gauche ou droite.</size>"
+"ou afficher de manière fixe à gauche ou droite.</size>"
 
 msgid "config_text_06"
 msgstr ""
@@ -403,10 +403,10 @@ msgid "config_text_27"
 msgstr "Affichage"
 
 msgid "config_text_28"
-msgstr ""
+msgstr "Config. menu"
 
 msgid "config_text_29"
-msgstr ""
+msgstr "Autres config."
 
 msgid "config_text_30"
 msgstr ""
@@ -561,7 +561,7 @@ msgid "config_text_77"
 msgstr "En mode diva, seule la vidéo sera affichée."
 
 msgid "config_text_78"
-msgstr "Les notes ne sont pas inaudible même à 0."
+msgstr "Les notes sont inaudible même à 0."
 
 msgid "config_text_79"
 msgstr "Config. visuel concert"
@@ -789,22 +789,22 @@ msgid "header_desc_home000"
 msgstr ""
 
 msgid "header_desc_home001"
-msgstr ""
+msgstr "Liste des amis"
 
 msgid "header_desc_home002"
-msgstr ""
+msgstr "Liste des cadeaux"
 
 msgid "header_desc_home003"
-msgstr ""
+msgstr "Vérifie les amis"
 
 msgid "header_desc_home004"
-msgstr ""
+msgstr "Liste des requêtes d'amis"
 
 msgid "header_desc_home005"
-msgstr ""
+msgstr "Approuve les requêtes d'amis"
 
 msgid "header_desc_home006"
-msgstr ""
+msgstr "Recherche de joueur par ID"
 
 msgid "header_desc_home007"
 msgstr "Selectionne un costume"
@@ -846,7 +846,7 @@ msgid "header_desc_home034"
 msgstr ""
 
 msgid "header_desc_home035"
-msgstr ""
+msgstr "Vérifie les classements"
 
 msgid "header_desc_home110"
 msgstr ""
@@ -1107,7 +1107,7 @@ msgid "header_desc_quest002"
 msgstr ""
 
 msgid "header_desc_quest003"
-msgstr ""
+msgstr "Essaye les missions bingo"
 
 msgid "header_desc_option000"
 msgstr "Sélectionne une catégorie"
@@ -1137,7 +1137,7 @@ msgid "header_desc_option008"
 msgstr ""
 
 msgid "header_desc_option009"
-msgstr ""
+msgstr "Liste des utilisateurs bloqués"
 
 msgid "header_desc_evquest001"
 msgstr "Selectionne un assistant"
@@ -1307,7 +1307,7 @@ msgid "episode_item_select_01"
 msgstr ""
 
 msgid "popup_title_sns_01"
-msgstr ""
+msgstr "Salle SNS"
 
 msgid "sns_text_01"
 msgstr ""
@@ -1376,28 +1376,28 @@ msgid "popup_friend_rejected_msg"
 msgstr ""
 
 msgid "friend_accept_not_found"
-msgstr ""
+msgstr "Aucun joueur en attente d'approbation."
 
 msgid "friend_list_not_found"
-msgstr ""
+msgstr "Il n'y a pas d'amis."
 
 msgid "friend_request_not_found"
-msgstr ""
+msgstr "Il n'y a pas de joueurs avec lesquels tu as demandé à être amis."
 
 msgid "friend_search_ready"
-msgstr ""
+msgstr "Les joueurs avec l'ID cherché seront affichés."
 
 msgid "friend_search_not_found"
 msgstr ""
 
 msgid "friend_caution_request"
-msgstr ""
+msgstr "Automatiquement supprimé au bout de 14 jours."
 
 msgid "popup_friend_search_title"
-msgstr ""
+msgstr "Recherche d'ID"
 
 msgid "popup_friend_search_placeholder"
-msgstr ""
+msgstr "Entrer un ID de joueur."
 
 msgid "popup_friend_search_myself_title"
 msgstr ""
@@ -1834,10 +1834,10 @@ msgid "popup_gacha_reject_ticket_timeout_msg"
 msgstr ""
 
 msgid "popup_myid_copy_title"
-msgstr ""
+msgstr "Copie terminée"
 
 msgid "popup_myid_copy_msg"
-msgstr ""
+msgstr "L'ID de joueur a été copié."
 
 msgid "popup_title_degree_01"
 msgstr ""
@@ -2328,13 +2328,17 @@ msgid "popup_option_various_info"
 msgstr ""
 
 msgid "popup_option_ranking_title"
-msgstr ""
+msgstr "Classement d'événement précédant"
 
 msgid "popup_option_ranking_notfound_title"
-msgstr ""
+msgstr "Classement d'événement précédant"
 
 msgid "popup_option_ranking_notfound_msg"
 msgstr ""
+"Echec de récupération du classement précédent.\n"
+"\n"
+"Seul le classement de l'événement précédent \n"
+"peux être récupéré."
 
 msgid "profil_text_01"
 msgstr ""
@@ -2450,6 +2454,8 @@ msgstr ""
 
 msgid "popup_gotitle_001"
 msgstr ""
+"Retourner à l'écran titre.\n"
+"Confirmer ?"
 
 msgid "skill_format_001"
 msgstr ""
@@ -2889,7 +2895,7 @@ msgid "item_shop_closed"
 msgstr ""
 
 msgid "item_shop_period"
-msgstr ""
+msgstr "Echange jusque {0}/{1} {2}:{3:D2}"
 
 msgid "item_shop_get_period"
 msgstr "Jusque {0}/{1} {2}:{3:D2}"
@@ -4055,7 +4061,7 @@ msgid "bingo_reward_select_conf_title"
 msgstr "Sélection de récompense"
 
 msgid "bingo_mission_reward_pop_title"
-msgstr ""
+msgstr "Récompense de mission"
 
 msgid "bingo_reward_pop_title"
 msgstr "Récompense de bingo"
@@ -4188,6 +4194,8 @@ msgstr ""
 
 msgid "deco_no_have_text"
 msgstr ""
+"Aucun objet\n"
+"disponible."
 
 msgid "deco_bast_storage_title"
 msgstr ""
@@ -4226,7 +4234,7 @@ msgid "deco_storage_select_text"
 msgstr ""
 
 msgid "deco_screenshot_success"
-msgstr ""
+msgstr "Photo sauvegardée."
 
 msgid "deco_sel_popup_storage_message_ios"
 msgstr ""
@@ -4346,10 +4354,10 @@ msgid "pop_deco_gift_item_message"
 msgstr ""
 
 msgid "pop_deco_option_title"
-msgstr ""
+msgstr "Configuration mode déco"
 
 msgid "pop_deco_option_desc_display"
-msgstr ""
+msgstr "Réglage de l'affichage du mode déco."
 
 msgid "raid_bossselect_none_text01"
 msgstr ""
@@ -4849,10 +4857,12 @@ msgid "shop_no_product_desc"
 msgstr ""
 
 msgid "popup_deco_all_remove_title"
-msgstr ""
+msgstr "Confirmation de stockage"
 
 msgid "popup_deco_all_remove_desc"
 msgstr ""
+"Stocker tous les objets déco et personnages\n"
+"de la pièce déco ?"
 
 msgid "deco_storage_unused_storage_name"
 msgstr ""
@@ -4964,7 +4974,7 @@ msgid "blocklist_title"
 msgstr ""
 
 msgid "blocklist_empty_text"
-msgstr ""
+msgstr "Aucun utilisateur n'est boqué."
 
 msgid "deco_set_buy_warn_text"
 msgstr ""
@@ -4979,10 +4989,13 @@ msgid "pop_exchange_need_item"
 msgstr ""
 
 msgid "popup_deco_all_back_title"
-msgstr ""
+msgstr "Fin d'édition"
 
 msgid "popup_deco_all_back_desc"
 msgstr ""
+"Retourner à l'écran principal \n"
+"de l'espace déco sans sauvegarder.\n"
+"Confirmer ?"
 
 msgid "popup_in_my_blocklist_text"
 msgstr ""
@@ -4997,10 +5010,12 @@ msgid "deco_set_item_list_text"
 msgstr ""
 
 msgid "popup_deco_set_item_detaile_list"
-msgstr ""
+msgstr "Cet objet est vendu comme un set avec ces objets."
 
 msgid "popup_deco_set_item_detaile_caution"
 msgstr ""
+"Impossible de posséder un nombre d'objets\n"
+"supérieur au nombre maximal."
 
 msgid "deco_change_storage_attention_text"
 msgstr ""
@@ -5024,10 +5039,12 @@ msgid "popup_raid_ap_recovery_success_bonus_text"
 msgstr ""
 
 msgid "popup_deco_save_confirm_title"
-msgstr ""
+msgstr "Confirmation de sauvegarde"
 
 msgid "popup_deco_save_confirm_desc"
 msgstr ""
+"La configuration a été modifiée.\n"
+"Confirmer la sauvegarde ?"
 
 msgid "popup_tutorial_guidetohome_title"
 msgstr ""
@@ -5036,13 +5053,16 @@ msgid "popup_tutorial_guidetohome_text"
 msgstr ""
 
 msgid "popup_deco_save_title"
-msgstr ""
+msgstr "Quitter et sauvegarder"
 
 msgid "popup_deco_save_desc"
 msgstr ""
+"Sauvegarder la décoration et \n"
+"retourner à l'écran principal.\n"
+"Confirmer ?"
 
 msgid "pop_deco_shop_sort_title"
-msgstr ""
+msgstr "Configuration des filtres"
 
 msgid "popup_raid_login_reward_title"
 msgstr ""
@@ -5270,7 +5290,7 @@ msgid "pop_limited_item_warning_text_2"
 msgstr ""
 
 msgid "pop_deco_option_caution_plateanimation_01"
-msgstr ""
+msgstr "S'applique uniquement aux poster animés."
 
 msgid "gacha_rarity_desc_01"
 msgstr ""
@@ -5671,25 +5691,30 @@ msgid "popup_filter_mainep_item_enable_unlock"
 msgstr "Déblocable"
 
 msgid "popup_option_data_title"
-msgstr ""
+msgstr "Organisation des données"
 
 msgid "popup_option_cacheclear_title"
-msgstr ""
+msgstr "Réparation"
 
 msgid "popup_option_cacheclear_desc1"
-msgstr ""
+msgstr "Supprimer les données du jeu et faire une récupération."
 
 msgid "popup_option_cacheclear_desc2"
 msgstr ""
+"A utiliser si le jeu ne démarre pas correctement.\n"
+"<color=#C8087E>※Les donées joueurs ne seront pas supprimées。</color>"
 
 msgid "popup_option_bunchinstall_title"
-msgstr ""
+msgstr "Intallation"
 
 msgid "popup_option_bunchinstall_desc1"
-msgstr ""
+msgstr "Télécharger toutes les données du jeu en une fois."
 
 msgid "popup_option_bunchinstall_desc2"
 msgstr ""
+"Réduit la communication de données.\n"
+"<color=#C8087E>※Impossible d'effectuer d'autres opérations.\n"
+"※Il est recommandé d'effectuer le téléchargement en Wi-Fi. </color>"
 
 msgid "episode_sort_filter_empty"
 msgstr ""
@@ -6138,13 +6163,16 @@ msgstr ""
 "cadeaux car il n'y en a pas."
 
 msgid "gakuya_gift_stock_count"
-msgstr ""
+msgstr "Possédé : {0}"
 
 msgid "pop_gakuya_present_ask_title"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_gakuya_present_ask"
 msgstr ""
+"{0}\n"
+"\n"
+"Confirmer l'utilsation de l'objet ?"
 
 msgid "pop_gakuya_present_lv_max"
 msgstr ""
@@ -6585,6 +6613,8 @@ msgstr ""
 
 msgid "pop_gakuya_present_caution"
 msgstr ""
+"<color=#FF1576>※Si l'affection est maximale, la valeur ne sera pas "
+"affectée.</color>"
 
 msgid "pop_gakuya_present_num_prefix"
 msgstr "Encore"
