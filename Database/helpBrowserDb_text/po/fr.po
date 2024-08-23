@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2024-08-21 19:28+0000\n"
+"PO-Revision-Date: 2024-08-23 19:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -462,13 +462,13 @@ msgid "wiki_0017_0000_name"
 msgstr ""
 
 msgid "help_0018_0000_name"
-msgstr ""
+msgstr "A propos du déblocage des chansons"
 
 msgid "help_0018_0001_name"
-msgstr ""
+msgstr "A propos du déblocage des divas"
 
 msgid "wiki_0018_0000_name"
-msgstr ""
+msgstr "Condition de déblocage des chansons"
 
 msgid "help_0019_0000_name"
 msgstr ""
@@ -750,16 +750,16 @@ msgid "help_0041_0000_name"
 msgstr ""
 
 msgid "help_0042_0000_name"
-msgstr ""
+msgstr "A propos du mode de déco"
 
 msgid "help_0042_0001_name"
-msgstr ""
+msgstr "A propos des objets spéciaux"
 
 msgid "help_0042_0002_name"
-msgstr ""
+msgstr "A propos des personnages"
 
 msgid "help_0042_0003_name"
-msgstr ""
+msgstr "A propos du blocage des joueurs"
 
 msgid "help_0043_0000_name"
 msgstr ""
