@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2024-08-24 11:28+0000\n"
+"PO-Revision-Date: 2024-08-24 13:25+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -555,37 +555,37 @@ msgid "wiki_0022_0000_name"
 msgstr "Liste des Valkyries"
 
 msgid "help_0023_0000_name"
-msgstr ""
+msgstr "A propos des rangs des joueurs"
 
 msgid "help_0023_0001_name"
-msgstr ""
+msgstr "A propos du log de jeu"
 
 msgid "help_0023_0002_name"
-msgstr ""
+msgstr "À propos des récompenses d'objectifs"
 
 msgid "help_0023_0003_name"
-msgstr ""
+msgstr "A propos des compétences"
 
 msgid "help_0023_0004_name"
-msgstr ""
+msgstr "À propos de la récupération d'objets"
 
 msgid "help_0023_0005_name"
-msgstr ""
+msgstr "A propos des médailles zodiac"
 
 msgid "help_0023_0006_name"
-msgstr ""
+msgstr "A propos du niveau de chant"
 
 msgid "wiki_0023_0000_name"
-msgstr ""
+msgstr "Comment augmenter le niveau de joueur"
 
 msgid "wiki_0023_0001_name"
-msgstr ""
+msgstr "Utilisation efficace du log de jeu"
 
 msgid "wiki_0023_0002_name"
-msgstr ""
+msgstr "Astuces pour augmenter le niveau de diva"
 
 msgid "wiki_0023_0003_name"
-msgstr ""
+msgstr "Astuces pour collecter des objets efficacement"
 
 msgid "help_0024_0000_name"
 msgstr "À propos du déblocage des capacités"
@@ -648,13 +648,13 @@ msgid "help_0029_0002_name"
 msgstr ""
 
 msgid "help_0030_0000_name"
-msgstr ""
+msgstr "A propros des trèfles"
 
 msgid "help_0030_0001_name"
-msgstr ""
+msgstr "A propos des effets de trèfles"
 
 msgid "help_0031_0000_name"
-msgstr ""
+msgstr "A propos des récompenses de bingo"
 
 msgid "help_0032_0000_name"
 msgstr ""
@@ -702,10 +702,10 @@ msgid "wiki_0034_0002_name"
 msgstr ""
 
 msgid "help_0035_0000_name"
-msgstr ""
+msgstr "Comment jouer les missions bingo"
 
 msgid "help_0036_0000_name"
-msgstr ""
+msgstr "A propos du niveau de chant"
 
 msgid "help_0037_0000_name"
 msgstr "A propos de l'évolution de Valkyrie"
@@ -1191,61 +1191,61 @@ msgid "wiki_0073_0002_name"
 msgstr ""
 
 msgid "help_0074_0000_name"
-msgstr ""
+msgstr "A propos des plaques d'assistances"
 
 msgid "help_0074_0001_name"
-msgstr ""
+msgstr "A propos des formations des assistants"
 
 msgid "wiki_0074_0000_name"
-msgstr ""
+msgstr "Astuce pour choisir les plaques d'assistant"
 
 msgid "help_0075_0000_name"
-msgstr ""
+msgstr "A propos de l'organisation du groupe"
 
 msgid "help_0075_0001_name"
-msgstr ""
+msgstr "A propos du status"
 
 msgid "help_0075_0002_name"
-msgstr ""
+msgstr "A propos des compétences"
 
 msgid "help_0075_0003_name"
-msgstr ""
+msgstr "A propos des attributs des chansons"
 
 msgid "help_0075_0004_name"
-msgstr ""
+msgstr "A propos des groupes"
 
 msgid "help_0075_0005_name"
-msgstr ""
+msgstr "À propos des super prismes spatio-temporel"
 
 msgid "help_0075_0006_name"
-msgstr ""
+msgstr "A propos des plaques de support"
 
 msgid "help_0075_0007_name"
-msgstr ""
+msgstr "A propros des trèfles"
 
 msgid "help_0075_0008_name"
-msgstr ""
+msgstr "A propos des effets de trèfles"
 
 msgid "help_0075_0009_name"
-msgstr ""
+msgstr "A propos de la jauge de prédiction de score"
 
 msgid "help_0075_0010_name"
-msgstr ""
+msgstr "A propos de l'organisation standard"
 
 msgid "wiki_0075_0000_name"
-msgstr ""
+msgstr "Astuces pour organiser le groupe"
 
 msgid "wiki_0075_0001_name"
-msgstr ""
+msgstr "Liste des compétences"
 
 msgid "wiki_0075_0002_name"
-msgstr ""
+msgstr "Liste des plaques"
 
 msgid "help_0076_0000_name"
-msgstr ""
+msgstr "A propos de la config. de la simulation de concert"
 
 msgid "help_0076_0001_name"
-msgstr ""
+msgstr "A propos de l'organisation standard"
 
 msgid "help_0077_0000_name"
 msgstr "A propos de l'amélioration de costume"
