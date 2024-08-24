@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2024-08-24 09:54+0000\n"
+"PO-Revision-Date: 2024-08-24 11:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -588,25 +588,25 @@ msgid "wiki_0023_0003_name"
 msgstr ""
 
 msgid "help_0024_0000_name"
-msgstr ""
+msgstr "À propos du déblocage des capacités"
 
 msgid "help_0024_0001_name"
-msgstr ""
+msgstr "A propos du tableau secret"
 
 msgid "help_0024_0002_name"
-msgstr ""
+msgstr "A propos de l'augmentation de rareté"
 
 msgid "help_0024_0003_name"
-msgstr ""
+msgstr "A propos des étoiles de rareté"
 
 msgid "help_0024_0004_name"
-msgstr ""
+msgstr "A propros des trèfles"
 
 msgid "help_0024_0005_name"
-msgstr ""
+msgstr "A propos des effets de trèfles"
 
 msgid "help_0024_0006_name"
-msgstr ""
+msgstr "A propos du déblocage groupé de capacités"
 
 msgid "help_0025_0000_name"
 msgstr "A propos des costumes"
@@ -630,13 +630,13 @@ msgid "help_0027_0000_name"
 msgstr ""
 
 msgid "help_0028_0000_name"
-msgstr ""
+msgstr "A propose des opérations Valkyrie"
 
 msgid "help_0028_0001_name"
-msgstr ""
+msgstr "A propos du déblocage des opérations Valkyrie"
 
 msgid "help_0028_0002_name"
-msgstr ""
+msgstr "A propos des opérations diva"
 
 msgid "help_0029_0000_name"
 msgstr ""
@@ -708,7 +708,7 @@ msgid "help_0036_0000_name"
 msgstr ""
 
 msgid "help_0037_0000_name"
-msgstr ""
+msgstr "A propos de l'évolution de Valkyrie"
 
 msgid "help_0038_0000_name"
 msgstr ""
@@ -1248,13 +1248,13 @@ msgid "help_0076_0001_name"
 msgstr ""
 
 msgid "help_0077_0000_name"
-msgstr ""
+msgstr "A propos de l'amélioration de costume"
 
 msgid "help_0077_0001_name"
-msgstr ""
+msgstr "A propos du changement de couleur"
 
 msgid "help_0077_0002_name"
-msgstr ""
+msgstr "A propos des plaques de support"
 
 msgid "help_0078_0000_name"
 msgstr ""
