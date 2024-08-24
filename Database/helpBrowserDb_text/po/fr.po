@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2024-08-24 13:25+0000\n"
+"PO-Revision-Date: 2024-08-24 15:39+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -1158,37 +1158,37 @@ msgid "wiki_0072_0001_name"
 msgstr ""
 
 msgid "help_0073_0000_name"
-msgstr ""
+msgstr "A propos des concerts"
 
 msgid "help_0073_0001_name"
-msgstr ""
+msgstr "A propos des évènements du jour"
 
 msgid "help_0073_0002_name"
-msgstr ""
+msgstr "A propos du concert de groupe"
 
 msgid "help_0073_0003_name"
-msgstr ""
+msgstr "A propos du passage des concerts"
 
 msgid "help_0073_0004_name"
-msgstr ""
+msgstr "A propos de la simulation de concert"
 
 msgid "help_0073_0005_name"
-msgstr ""
+msgstr "A propos des 6 pistes"
 
 msgid "help_0073_0006_name"
-msgstr ""
+msgstr "A propos de l'utilisation des 6 pistes"
 
 msgid "help_0073_0007_name"
-msgstr ""
+msgstr "A propos des favoris"
 
 msgid "wiki_0073_0000_name"
-msgstr ""
+msgstr "Condition de déblocage des chansons"
 
 msgid "wiki_0073_0001_name"
-msgstr ""
+msgstr "Astuces pour collecter des objets efficacement"
 
 msgid "wiki_0073_0002_name"
-msgstr ""
+msgstr "Informations des évènements"
 
 msgid "help_0074_0000_name"
 msgstr "A propos des plaques d'assistances"
