@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-24 11:28+0000\n"
+"PO-Revision-Date: 2024-08-24 13:25+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -95,7 +95,7 @@ msgid "popup_text_12"
 msgstr "Plaques débloquées"
 
 msgid "popup_text_14"
-msgstr "Organization automatique des plaques"
+msgstr "Organisation automatique des plaques"
 
 msgid "popup_text_15"
 msgstr ""
@@ -120,7 +120,7 @@ msgid "popup_comparison_00"
 msgstr "Notes attendues"
 
 msgid "popup_music_select_00"
-msgstr ""
+msgstr "Information de chanson"
 
 msgid "popup_music_select_01"
 msgstr ""
@@ -138,10 +138,10 @@ msgid "popup_music_select_05"
 msgstr ""
 
 msgid "popup_music_select_06"
-msgstr ""
+msgstr "Exp."
 
 msgid "popup_music_select_07"
-msgstr ""
+msgstr "Information d'ennemi"
 
 msgid "popup_stamina_title_00"
 msgstr ""
@@ -1025,13 +1025,13 @@ msgid "header_desc_free009"
 msgstr "Selectionne un costume"
 
 msgid "header_desc_free010"
-msgstr ""
+msgstr "Vérifie les classements"
 
 msgid "header_desc_free011"
 msgstr "Consulte le profil"
 
 msgid "header_desc_free020"
-msgstr "Vérifie les paramètres de concert"
+msgstr "Vérifie les param. de concert"
 
 msgid "header_desc_free110"
 msgstr ""
@@ -1106,7 +1106,7 @@ msgid "header_desc_quest001"
 msgstr ""
 
 msgid "header_desc_quest002"
-msgstr ""
+msgstr "Sélectionne une récompense"
 
 msgid "header_desc_quest003"
 msgstr "Essaye les missions bingo"
@@ -1196,7 +1196,7 @@ msgid "header_desc_result240"
 msgstr ""
 
 msgid "header_desc_musicrate000"
-msgstr ""
+msgstr "Vérifie le taux de chant"
 
 msgid "header_desc_musicrate001"
 msgstr "Consulte le profil"
@@ -1414,7 +1414,7 @@ msgid "popup_friend_search_not_found_msg"
 msgstr ""
 
 msgid "ranking_message"
-msgstr ""
+msgstr "Même classement pour toutes les difficultés."
 
 msgid "ranking_no_entry"
 msgstr ""
@@ -1634,9 +1634,13 @@ msgstr ""
 
 msgid "gacha_main_ep_caution01"
 msgstr ""
+"※Les récompenses d'épisodes s'obtien-\n"
+"　nent avec des points d'épisodes."
 
 msgid "gacha_main_ep_caution02"
 msgstr ""
+"※Le nombre de points varient \n"
+"　en fonctions des plaques."
 
 msgid "gacha_main_ep_diva_costume"
 msgstr ""
@@ -1654,7 +1658,7 @@ msgid "gacha_main_mpass_caution"
 msgstr ""
 
 msgid "gacha_main_mpass_period"
-msgstr ""
+msgstr "Jusqu'au {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "popup_record_plate_001"
 msgstr ""
@@ -1841,21 +1845,25 @@ msgstr "Veux-tu faire {0} {0:plural:tirage|tirages} gratuitement ?"
 
 msgid "popup_gacha_lot_ticket_msg"
 msgstr ""
+"Utiliser {0}x {1} pour la\n"
+"loterie {2} ?"
 
 msgid "popup_gacha_lot_ticket_few_msg"
-msgstr ""
+msgstr "{0} insuffisant."
 
 msgid "popup_gacha_lot_ticket_few_caution_01"
-msgstr ""
+msgstr "{0} peux être obtenu en bonus d'orbes sonores."
 
 msgid "popup_gacha_lot_ticket_few_caution_02"
-msgstr ""
+msgstr "Les orbes avec {0} ne sont plus en ventes."
 
 msgid "popup_gacha_lot_ticket_few_caution_03"
 msgstr ""
+"※{0} peux être obtenu en bonus de \n"
+"connection dans le pass mensuel."
 
 msgid "popup_gacha_lot_ticket_count"
-msgstr ""
+msgstr "{0}x"
 
 msgid "popup_gacha_reject_title"
 msgstr ""
@@ -2392,7 +2400,7 @@ msgid "popup_music_info_01"
 msgstr ""
 
 msgid "popup_buy_music_msg_android"
-msgstr ""
+msgstr "Ceci va ouvrir un site externe."
 
 msgid "popup_buy_music_msg_ios"
 msgstr ""
@@ -2659,95 +2667,96 @@ msgstr ""
 
 msgid "limit_over_excellent_rate_01"
 msgstr ""
-"Probabilité que PERFECT devienne\n"
-"<color=#C8087E>EXCELLENT</color> +<color=#C8087E>{0}</color>%"
+"<size=18>Probabilité que PERFECT devienne <color=#C8087E>EXCELLENT</color> "
+"+<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_excellent_rate_02"
 msgstr ""
-"Probabilité que PERFECT devienne\n"
-"<color=#C8087E>EXCELLENT</color> +<color=#C8087E>{0}</color>%\n"
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{ma}</color>%"
+"<size=18>Probabilité que PERFECT devienne <color=#C8087E>EXCELLENT</color> "
+"+<color=#C8087E>{0}</color>%\n"
+"Si même <color=#C8087E>attribut</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{ma}</color>%</size>"
 
 msgid "limit_over_excellent_rate_03"
 msgstr ""
-"Probabilité que PERFECT devienne\n"
-"<color=#C8087E>EXCELLENT</color> +<color=#C8087E>{0}</color>%\n"
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{ma}</color>%\n"
-"Si même <color=#C8087E>série</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{sa}</color>%"
+"<size=18>Probabilité que PERFECT devienne <color=#C8087E>EXCELLENT</color> "
+"+<color=#C8087E>{0}</color>%\n"
+"Si même <color=#C8087E>attribut</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{ma}</color>%\n"
+"Si même <color=#C8087E>série</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{sa}</color>%</size>"
 
 msgid "limit_over_excellent_rate_04"
 msgstr ""
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{0}</color>%"
+"<size=18>Si même <color=#C8087E>attribut</color> de plaque et chanson, "
+"probabilité +<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_excellent_rate_05"
 msgstr ""
-"Si même <color=#C8087E>série</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{0}</color>%"
+"<size=18>Si même <color=#C8087E>série</color> de plaque et chanson, "
+"probabilité +<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_excellent_effect_01"
 msgstr ""
-"Score +<color=#C8087E>{0}</color>% lors d'<color=#C8087E>EXCELLENT</color>"
+"<size=18>Score +<color=#C8087E>{0}</color>% lors "
+"d'<color=#C8087E>EXCELLENT</color></size>"
 
 msgid "limit_over_excellent_effect_02"
 msgstr ""
-"Score +<color=#C8087E>{0}</color>% lors d'<color=#C8087E>EXCELLENT</color>\n"
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{1}</color>%"
+"<size=18>Score +<color=#C8087E>{0}</color>% lors "
+"d'<color=#C8087E>EXCELLENT</color>\n"
+"Si même <color=#C8087E>attribut</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{1}</color>%</size>"
 
 msgid "limit_over_excellent_effect_03"
 msgstr ""
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{0}</color>%"
+"<size=18>Si même <color=#C8087E>attribut</color> de plaque et chanson, "
+"probabilité +<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_center_live_skill_01"
 msgstr ""
-"Probabilité d'apparition des <color=#C8087E>notes de comp.\n"
-"live centrale</color> +<color=#C8087E>{0}</color>%"
+"<size=18>Probabilité d'apparition des <color=#C8087E>notes de comp.\n"
+"live centrale</color> +<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_center_live_skill_02"
 msgstr ""
-"Probabilité d'apparition des <color=#C8087E>notes de comp.\n"
+"<size=18>Probabilité d'apparition des <color=#C8087E>notes de comp.\n"
 "live centrale</color> +<color=#C8087E>{0}</color>%\n"
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{ma}</color>%"
+"Si même <color=#C8087E>attribut</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{ma}</color>%</size>"
 
 msgid "limit_over_center_live_skill_03"
 msgstr ""
-"Probabilité d'apparition des <color=#C8087E>notes de comp.\n"
+"<size=18>Probabilité d'apparition des <color=#C8087E>notes de comp.\n"
 "live centrale</color> +<color=#C8087E>{0}</color>%\n"
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{ma}</color>%\n"
-"Si même <color=#C8087E>série</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{sa}</color>%"
+"Si même <color=#C8087E>attribut</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{ma}</color>%\n"
+"Si même <color=#C8087E>série</color> de plaque et chanson, probabilité "
+"+<color=#C8087E>{sa}</color>%</size>"
 
 msgid "limit_over_center_live_skill_04"
 msgstr ""
-"Si même <color=#C8087E>attribut</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{0}</color>%"
+"<size=18>Si même <color=#C8087E>attribut</color> de plaque et chanson, "
+"probabilité +<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_center_live_skill_05"
 msgstr ""
-"Si même <color=#C8087E>série</color> de plaque et chanson,\n"
-"probabilité +<color=#C8087E>{0}</color>%"
+"<size=18>Si même <color=#C8087E>série</color> de plaque et chanson, "
+"probabilité +<color=#C8087E>{0}</color>%</size>"
 
 msgid "limit_over_unlock_01"
 msgstr "【Condition de déblocage】Chance {0} ou plus"
 
 msgid "limit_over_unlock_02"
 msgstr ""
-"【Condition de déblocage】Chance {0} ou plus　<size=18><color=#8e0529>Chance "
-"manquante.</color></size>"
+"【Condition de déblocage】\n"
+"Chance {0} ou plus　<size=18><color=#8e0529>Chance manquante.</color></size>"
 
 msgid "limit_over_unlock_03"
 msgstr "Tous les effets du trèfle sont débloqués."
 
 msgid "limit_over_unlock_04"
-msgstr ""
-"※S'active même si la plaque principale n'est pas compatible avec la diva."
+msgstr "※Actif même si la plaque est incompatible avec la diva."
 
 msgid "limit_over_popup_title"
 msgstr "Effet de trèfle"
@@ -2844,22 +2853,22 @@ msgid "mvmode_setting_menu_002"
 msgstr ""
 
 msgid "mvmode_setting_popup_text_000_000"
-msgstr ""
+msgstr "Diva de l'acceuil"
 
 msgid "mvmode_setting_popup_text_000_001"
 msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_000"
-msgstr ""
+msgstr "Costume de la diva"
 
 msgid "mvmode_setting_popup_text_001_001"
 msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_002"
-msgstr ""
+msgstr "Costume de Basara"
 
 msgid "mvmode_setting_popup_text_002_000"
-msgstr ""
+msgstr "Valkyrie du groupe"
 
 msgid "mvmode_setting_popup_text_002_001"
 msgstr ""
@@ -2883,10 +2892,10 @@ msgid "item_popup_shop_text_00"
 msgstr "Echange d'objets"
 
 msgid "item_popup_shop_text_01"
-msgstr "Possédé :"
+msgstr "Poss. :"
 
 msgid "item_popup_shop_text_02"
-msgstr "Requis :"
+msgstr "Req. :"
 
 msgid "item_popup_shop_text_03"
 msgstr "Echange {0} contre {1}."
@@ -2899,18 +2908,25 @@ msgstr "Objet reçu"
 
 msgid "item_popup_shop_text_06"
 msgstr ""
+"{0} expire le\n"
+"{1}/{2}/{3} {4:}:{5:00}."
 
 msgid "item_popup_shop_text_07"
 msgstr ""
+"{0} expire le\n"
+"{1}/{2}/{3} {4:}:{5:00}.\n"
+"\n"
+"{0} ne s'obtient qu'en \n"
+"bonus des orbes sonores."
 
 msgid "item_popup_shop_text_08"
-msgstr ""
+msgstr "{0} a une date d'expiration. L'utiliser maintenant ?"
 
 msgid "item_popup_shop_text_09"
-msgstr ""
+msgstr "La date d'expiration de l'objet est indiquée au dessus."
 
 msgid "item_episode_plate"
-msgstr ""
+msgstr "Plaques d'épisode"
 
 msgid "item_shop_medal_period"
 msgstr ""
@@ -2919,7 +2935,7 @@ msgid "item_shop_sphere_period"
 msgstr ""
 
 msgid "item_shop_caution"
-msgstr ""
+msgstr "Objet requis manquant."
 
 msgid "item_shop_caution_max"
 msgstr ""
@@ -2994,16 +3010,16 @@ msgid "event_mission_comborank"
 msgstr ""
 
 msgid "simulation_result_anim_name_01"
-msgstr ""
+msgstr "MacrossΔ(Delta) (26 ep.)"
 
 msgid "simulation_result_anim_name_02"
-msgstr ""
+msgstr "Macross F (25 ep.)"
 
 msgid "simulation_result_anim_name_03"
-msgstr ""
+msgstr "Macross 7 (52 ep.)"
 
 msgid "simulation_result_anim_name_04"
-msgstr ""
+msgstr "Macross (36 ep.)"
 
 msgid "popup_music_rate_title"
 msgstr "Détail du taux de chant"
@@ -3840,16 +3856,16 @@ msgid "item_use_period"
 msgstr ""
 
 msgid "item_use_period_title"
-msgstr ""
+msgstr "Date limite pour {0}"
 
 msgid "item_use_period_text_1"
-msgstr ""
+msgstr "Période"
 
 msgid "item_use_period_text_2"
-msgstr ""
+msgstr "{0}x"
 
 msgid "item_use_period_date"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2}"
 
 msgid "rarityup_item_use_title"
 msgstr "Confirmation d'augmentation de rareté"
@@ -4339,19 +4355,21 @@ msgstr ""
 "ne sont pas pris en compte."
 
 msgid "pop_deco_sp_item_001"
-msgstr ""
+msgstr "Encore {0} {0:plural:objet|objets} déco pour gagner un niveau"
 
 msgid "pop_deco_sp_item_002"
-msgstr ""
+msgstr "Monté de niveau possible !"
 
 msgid "pop_deco_sp_item_003"
-msgstr ""
+msgstr "Niveau maximum."
 
 msgid "pop_deco_sp_item_004"
-msgstr ""
+msgstr "Niveau suivant après récupération des objets."
 
 msgid "pop_deco_sp_item_levelup"
 msgstr ""
+"{0}\n"
+"a gagné un niveau."
 
 msgid "pop_deco_sp_all_receive_title"
 msgstr "Récupération en masse"
@@ -4362,40 +4380,46 @@ msgstr ""
 "objet récupérable dans la pièce."
 
 msgid "pop_deco_sp_item_point_format"
-msgstr ""
+msgstr "{0}/{1}<size=18>{2}</size>"
 
 msgid "pop_deco_sp_item_time_format"
-msgstr ""
+msgstr "{0}<size=18>h.</size>{1:D2}<size=18>m.</size>"
 
 msgid "pop_deco_sp_item_cannon_suffix"
-msgstr ""
+msgstr "%"
 
 msgid "pop_deco_sp_item_cannon_title"
-msgstr ""
+msgstr "Jauge canon Macross"
 
 msgid "pop_deco_sp_item_itemlist_title"
-msgstr ""
+msgstr "Collection d'objets"
 
 msgid "pop_deco_sp_item_cannon_text001"
-msgstr ""
+msgstr "Energie rechargée."
 
 msgid "pop_deco_sp_item_cannon_text002"
 msgstr ""
+"L'énergie ne peux pas être \n"
+"chargée car la jauge est au max."
 
 msgid "pop_deco_sp_item_cannon_text003"
-msgstr ""
+msgstr "※Peux-être utilisé pour charger le canon Macross."
 
 msgid "pop_deco_sp_item_remove_title"
-msgstr ""
+msgstr "Stockage objets spéciaux"
 
 msgid "pop_deco_sp_item_remove_message_001"
 msgstr ""
+"Les objets suivants ne sont pas inclus\n"
+"dans la salle de déco à changer."
 
 msgid "pop_deco_sp_item_remove_message_002"
-msgstr ""
+msgstr "Stocker les objets suivants."
 
 msgid "pop_deco_sp_item_remove_message_003"
 msgstr ""
+"※Stocker les objets spéciaux réinitialisera \n"
+"le temps et les objets a récupérer."
 
 msgid "pop_deco_gift_success_title"
 msgstr ""
@@ -5439,6 +5463,8 @@ msgstr ""
 
 msgid "gacha_desc_03"
 msgstr ""
+"※Les tickets avec la date d'expiration la plus courte seront utilisés en "
+"premier."
 
 msgid "gacha_desc_04"
 msgstr "Lotterie dispo. 3x : matin, midi et soir gratuitement."
@@ -5453,7 +5479,7 @@ msgid "gacha_set_sale_desc_03"
 msgstr ""
 
 msgid "gacha_ticket_name"
-msgstr ""
+msgstr "Tickets poss."
 
 msgid "assistselect_attribute_other"
 msgstr "Libre"
@@ -5566,7 +5592,7 @@ msgid "header_desc_evquest401"
 msgstr "Sélectionne un titre"
 
 msgid "popup_sort_title_guest_select"
-msgstr ""
+msgstr "Changement d'affichage"
 
 msgid "quest_receive_all_desc"
 msgstr ""
@@ -6174,7 +6200,7 @@ msgstr ""
 "Tu vas recevoir une récompense pour cette mission."
 
 msgid "popup_gacha_lot_ticket_few_caution_04"
-msgstr ""
+msgstr "※Vérifie le détail de la loterie pour savoir comment obtenir {0}."
 
 msgid "use_item_description_05"
 msgstr ""
@@ -6222,7 +6248,7 @@ msgid "gakuya_gift_unlock_rank"
 msgstr ""
 
 msgid "gakuya_status_diva_ranking_value"
-msgstr "{0}{0:plural:1ère|ème}"
+msgstr "{0}{0:plural:ère|ème}"
 
 msgid "gakuya_intimacy_present_none"
 msgstr ""
