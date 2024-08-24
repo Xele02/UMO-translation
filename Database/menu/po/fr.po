@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-23 19:28+0000\n"
+"PO-Revision-Date: 2024-08-24 09:54+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -18,7 +18,7 @@ msgid "popup_title_00"
 msgstr ""
 
 msgid "popup_title_01"
-msgstr ""
+msgstr "Changer le nom du groupe"
 
 msgid "popup_title_02"
 msgstr "Confirmation du changement"
@@ -36,40 +36,42 @@ msgid "unit_popup_title_00"
 msgstr ""
 
 msgid "unit_popup_title_01"
-msgstr ""
+msgstr "Confirmation de sauvegarde"
 
 msgid "unit_popup_title_02"
-msgstr ""
+msgstr "Confirmation d'écrasement"
 
 msgid "unit_popup_title_03"
-msgstr ""
+msgstr "Confirmation d'appel"
 
 msgid "unit_setpopup_text_00"
-msgstr ""
+msgstr "Set de groupe {0}"
 
 msgid "unit_setpopup_text_01"
-msgstr ""
+msgstr "Avant changement"
 
 msgid "unit_setpopup_text_02"
-msgstr ""
+msgstr "Après changement"
 
 msgid "unit_setpopup_text_03"
-msgstr ""
+msgstr "Avant sauvegarde"
 
 msgid "unit_setpopup_text_04"
-msgstr ""
+msgstr "Après sauvegarde"
 
 msgid "unit_setpopup_text_05"
-msgstr ""
+msgstr "Confirmer la sauvegarde du groupe ?"
 
 msgid "unit_setpopup_text_06"
-msgstr ""
+msgstr "Confirmer l'écrasement du groupe ?"
 
 msgid "unit_setpopup_text_07"
-msgstr ""
+msgstr "Confirmer l'appel de ce groupe ?"
 
 msgid "popup_text_00"
 msgstr ""
+"Entrer le nom du groupe.\n"
+"(Jusque {0} caractères)"
 
 msgid "popup_text_02"
 msgstr ""
@@ -108,7 +110,7 @@ msgid "popup_sort_text_00"
 msgstr ""
 
 msgid "popup_sort_title"
-msgstr ""
+msgstr "Ordre de tri"
 
 msgid "popup_sort_title_unit"
 msgstr "Changement infos affichées"
@@ -780,10 +782,10 @@ msgstr ""
 "Confirmer ?"
 
 msgid "unit_save_text"
-msgstr ""
+msgstr "Groupe sauvegardé."
 
 msgid "unit_load_text"
-msgstr ""
+msgstr "Groupe appelé."
 
 msgid "header_desc_home000"
 msgstr ""
@@ -837,7 +839,7 @@ msgid "header_desc_home031"
 msgstr ""
 
 msgid "header_desc_home032"
-msgstr ""
+msgstr "Crée des tampons"
 
 msgid "header_desc_home033"
 msgstr ""
@@ -897,10 +899,10 @@ msgid "header_desc_home240"
 msgstr ""
 
 msgid "header_desc_home301"
-msgstr ""
+msgstr "Sélectionne une pièce déco"
 
 msgid "header_desc_home302"
-msgstr ""
+msgstr "Liste des pièces à visiter"
 
 msgid "header_desc_home303"
 msgstr "Sélectionne un objet"
@@ -915,7 +917,7 @@ msgid "header_desc_setting002"
 msgstr "Sélectionne une diva"
 
 msgid "header_desc_setting003"
-msgstr ""
+msgstr "Sélectionne une plaque"
 
 msgid "header_desc_setting004"
 msgstr ""
@@ -939,7 +941,7 @@ msgid "header_desc_setting010"
 msgstr "Débloque des capacités"
 
 msgid "header_desc_setting011"
-msgstr ""
+msgstr "Sélectionne un épisode"
 
 msgid "header_desc_setting012"
 msgstr "Vérifie le déblocaque"
@@ -1292,7 +1294,7 @@ msgid "popup_quest_detail_002"
 msgstr ""
 
 msgid "popup_title_episode_01"
-msgstr ""
+msgstr "Récompense de déblocage d'épisode"
 
 msgid "popup_title_episode_02"
 msgstr ""
@@ -3514,9 +3516,11 @@ msgstr "EP requis : {0}"
 
 msgid "episode_reward_text002"
 msgstr ""
+"Obtenu après déblocage\n"
+"tous les {0}{1}"
 
 msgid "episode_reward_text003"
-msgstr ""
+msgstr "EP"
 
 msgid "popup_unlock_6line_music_text"
 msgstr "Version 6 pistes débloqué."
@@ -4002,7 +4006,7 @@ msgid "popup_bunchdownload_complete"
 msgstr ""
 
 msgid "lucky_leaf_sort_message"
-msgstr ""
+msgstr "<size={1}>Trèfles débocables : {0}</size>"
 
 msgid "popup_recover_done_title"
 msgstr ""
@@ -4198,37 +4202,48 @@ msgstr ""
 "disponible."
 
 msgid "deco_bast_storage_title"
-msgstr ""
+msgstr "Liste des pièces déco"
 
 msgid "pop_deco_storage_delete_title"
-msgstr ""
+msgstr "Confirmation de suppression"
 
 msgid "pop_deco_storage_delete_desc"
 msgstr ""
+"Supprimer la pièce déco stockée dans \n"
+"{0} ?"
 
 msgid "pop_deco_storage_delete_comp_title"
-msgstr ""
+msgstr "Suppression terminée"
 
 msgid "pop_deco_storage_delete_comp_desc"
 msgstr ""
+"{0}\n"
+"a été supprimée."
 
 msgid "pop_deco_storage_overwrite_title"
-msgstr ""
+msgstr "Confirmation d'écrasement"
 
 msgid "pop_deco_storage_overwrite_desc"
 msgstr ""
+"Ecraser {0} et \n"
+"sauvegarder la pièce courante ?"
 
 msgid "pop_deco_storage_overwrite_comp_title"
-msgstr ""
+msgstr "Sauvé"
 
 msgid "pop_deco_storage_overwrite_comp_desc"
 msgstr ""
+"La pièce {0}\n"
+"a été remplacé et sauvé."
 
 msgid "pop_deco_storage_select_comp_title"
-msgstr ""
+msgstr "Changement terminé"
 
 msgid "pop_deco_storage_select_comp_desc"
 msgstr ""
+"La pièce courante a \n"
+"été remplacée par\n"
+"{0}."
 
 msgid "deco_storage_select_text"
 msgstr ""
@@ -4255,28 +4270,36 @@ msgid "deco_popup_err_not_abailable_storage"
 msgstr ""
 
 msgid "pop_deco_name_change_title"
-msgstr ""
+msgstr "Changer le nom de la pièce"
 
 msgid "pop_deco_name_change_text"
-msgstr ""
+msgstr "Le nom a été changé."
 
 msgid "pop_deco_name_change_desc"
 msgstr ""
+"Entrer un nom pour la pièce\n"
+"(Jusque 10 caractères)"
 
 msgid "pop_deco_name_change_notes"
 msgstr ""
+"・Il y a quelques caractères non utilisable.\n"
+"・Les modifications peuvent prendre un certain temps."
 
 msgid "pop_deco_name_change_cancel"
-msgstr ""
+msgstr "Le nom n'a pas été changé."
 
 msgid "pop_deco_item_title"
-msgstr ""
+msgstr "Nombre d'objets déco possédé"
 
 msgid "pop_deco_item_count"
-msgstr ""
+msgstr "{0}x"
 
 msgid "pop_deco_item_content"
 msgstr ""
+"Les「intérieurs」à l'exclusion des「torses」, des\n"
+"「figurines Valkyrie」, des「mascottes déco」 et\n"
+"des「phrases」sont pris en compte. Les「posters」\n"
+"ne sont pas pris en compte."
 
 msgid "pop_deco_sp_item_001"
 msgstr ""
@@ -4294,10 +4317,12 @@ msgid "pop_deco_sp_item_levelup"
 msgstr ""
 
 msgid "pop_deco_sp_all_receive_title"
-msgstr ""
+msgstr "Récupération en masse"
 
 msgid "pop_deco_sp_all_receive_content"
 msgstr ""
+"Il n'y a actuellement aucun\n"
+"objet récupérable dans la pièce."
 
 msgid "pop_deco_sp_item_point_format"
 msgstr ""
@@ -4585,10 +4610,10 @@ msgid "pop_valyrietuneup_needitemdesc"
 msgstr "Consomme {0} et {1}."
 
 msgid "customstamp_createt_itle"
-msgstr ""
+msgstr "Liste de tampons"
 
 msgid "customstamp_longtap_desc"
-msgstr ""
+msgstr "※Appuis long pour supprimer le tampon."
 
 msgid "customstamp_sort_title"
 msgstr ""
@@ -4606,13 +4631,13 @@ msgid "pop_customstamp_sort_save_desc"
 msgstr ""
 
 msgid "pop_customstamp_edit_save_title"
-msgstr ""
+msgstr "Tampon {0} sauvegardé."
 
 msgid "pop_customstamp_delete_title"
-msgstr ""
+msgstr "Supprimer le tampon {0} ?"
 
 msgid "pop_customstamp_deletecheck_title"
-msgstr ""
+msgstr "Tampon {0} supprimé."
 
 msgid "valkyrie_tuneup_skill_not"
 msgstr "Bloqué"
@@ -4842,7 +4867,7 @@ msgid "stamp_have_not_text"
 msgstr ""
 
 msgid "bulletin_board_limit_input_text"
-msgstr ""
+msgstr "Entrer jusque 40 caractères"
 
 msgid "pop_deco_set_max_title"
 msgstr ""
@@ -4865,10 +4890,12 @@ msgstr ""
 "de la pièce déco ?"
 
 msgid "deco_storage_unused_storage_name"
-msgstr ""
+msgstr "Inutilisé"
 
 msgid "pop_deco_storage_write_comp_desc"
 msgstr ""
+"{0}\n"
+"a été sauvegardé."
 
 msgid "lobby_viewing_system_text"
 msgstr ""
@@ -4886,13 +4913,13 @@ msgid "popup_profile_lobby_msg"
 msgstr ""
 
 msgid "deco_visit_gift"
-msgstr ""
+msgstr "Cadeaux dispo"
 
 msgid "deco_visit_no_friend"
-msgstr ""
+msgstr "Il n'y a pas d'amis."
 
 msgid "deco_visit_no_fun"
-msgstr ""
+msgstr "Aucun fan enregistré."
 
 msgid "chat_post_conf_popup_text"
 msgstr ""
@@ -4969,6 +4996,9 @@ msgstr ""
 
 msgid "deco_chat_footer_attention_text"
 msgstr ""
+"L'historique sera supprimé\n"
+"après 60 jours sans\n"
+"messages ou tampons."
 
 msgid "blocklist_title"
 msgstr ""
@@ -5018,7 +5048,7 @@ msgstr ""
 "supérieur au nombre maximal."
 
 msgid "deco_change_storage_attention_text"
-msgstr ""
+msgstr "Veux-tu changer la pièce courante ?"
 
 msgid "pop_raid_result_error_text"
 msgstr ""
@@ -6397,13 +6427,13 @@ msgid "unit_mv_mode_switch_button_off"
 msgstr ""
 
 msgid "unit_unitset_description"
-msgstr ""
+msgstr "Sélectionne un set de groupe."
 
 msgid "unit_unitset_page"
-msgstr ""
+msgstr "{0}/{1}"
 
 msgid "unit_unitset_dummy_name"
-msgstr ""
+msgstr "Groupe {0}"
 
 msgid "unit_status_skill_regulation_series_y"
 msgstr "La comp. ne sera pas activée car la série de correspond pas."
@@ -6473,10 +6503,10 @@ msgid "unit_diva_status_leaf_series"
 msgstr ""
 
 msgid "unit_setpopup_text_08"
-msgstr ""
+msgstr "Avant écrasement"
 
 msgid "unit_setpopup_text_09"
-msgstr ""
+msgstr "Après écrasement"
 
 msgid "popup_sort_musicselect_sortitem_title_h2"
 msgstr ""
