@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-18 17:28+0000\n"
+"PO-Revision-Date: 2024-08-24 14:23+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -8034,187 +8034,187 @@ msgid "cos_subplate_status_0003"
 msgstr "Cat. Charme"
 
 msgid "vn_0001"
-msgstr ""
+msgstr "VF-31J"
 
 msgid "vn_0002"
-msgstr ""
+msgstr "VF-25F"
 
 msgid "vn_0003"
-msgstr ""
+msgstr "VF-19 Custom"
 
 msgid "vn_0004"
-msgstr ""
+msgstr "VF-1J"
 
 msgid "vn_0005"
-msgstr ""
+msgstr "VF-31E"
 
 msgid "vn_0006"
-msgstr ""
+msgstr "VF-1S"
 
 msgid "vn_0007"
-msgstr ""
+msgstr "VF-1J"
 
 msgid "vn_0008"
-msgstr ""
+msgstr "VF-31F"
 
 msgid "vn_0009"
-msgstr ""
+msgstr "VF-31C"
 
 msgid "vn_0011"
-msgstr ""
+msgstr "VF-27γ"
 
 msgid "vn_0012"
-msgstr ""
+msgstr "VF-31S"
 
 msgid "vn_0013"
-msgstr ""
+msgstr "YF-29"
 
 msgid "vn_0014"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "vn_0015"
-msgstr ""
+msgstr "Sv-262Ba"
 
 msgid "vn_0017"
-msgstr ""
+msgstr "RVF-25"
 
 msgid "vn_0018"
-msgstr ""
+msgstr "VF-25S"
 
 msgid "vn_0019"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "vn_0020"
-msgstr ""
+msgstr "VF-25G"
 
 msgid "vn_0021"
-msgstr ""
+msgstr "VF-17D"
 
 msgid "vn_0022"
-msgstr ""
+msgstr "VF-1J"
 
 msgid "vn_0024"
-msgstr ""
+msgstr "VF-11MAXL Custom"
 
 msgid "vn_0026"
-msgstr ""
+msgstr "VF-25A"
 
 msgid "vn_0027"
-msgstr ""
+msgstr "VF-25F (Diva)"
 
 msgid "vn_0028"
-msgstr ""
+msgstr "YF-29 SP"
 
 msgid "vn_0029"
-msgstr ""
+msgstr "VF-31J 35ème"
 
 msgid "vn_0030"
-msgstr ""
+msgstr "Sv-262Ba"
 
 msgid "vn_0031"
-msgstr ""
+msgstr "YF-19"
 
 msgid "vn_0032"
-msgstr ""
+msgstr "YF-21"
 
 msgid "vn_0033"
-msgstr ""
+msgstr "VF-19 Custom S.N-01"
 
 msgid "vn_0034"
-msgstr ""
+msgstr "Sv-262Ba w/L"
 
 msgid "vn_0035"
-msgstr ""
+msgstr "VF-31C M.N-01"
 
 msgid "vn_0037"
-msgstr ""
+msgstr "VF-25G SP"
 
 msgid "vn_0038"
-msgstr ""
+msgstr "VF-25F SP"
 
 msgid "vn_0039"
-msgstr ""
+msgstr "Sv-262Hs w/L"
 
 msgid "vn_0040"
-msgstr ""
+msgstr "VF-1J C.O-19"
 
 msgid "vn_0041"
-msgstr ""
+msgstr "VF-31J SP"
 
 msgid "vn_0042"
-msgstr ""
+msgstr "VF-25S SP"
 
 msgid "vn_0043"
-msgstr ""
+msgstr "VF-31J F.W-01"
 
 msgid "vn_0044"
-msgstr ""
+msgstr "VF-31F K.B-01"
 
 msgid "vn_0045"
-msgstr ""
+msgstr "VF-25F TP"
 
 msgid "vn_0046"
-msgstr ""
+msgstr "YF-19 K-40"
 
 msgid "vn_0047"
-msgstr ""
+msgstr "VF-31C SP"
 
 msgid "vn_0048"
-msgstr ""
+msgstr "VF-31S SP"
 
 msgid "vn_0049"
-msgstr ""
+msgstr "VF-25G TP"
 
 msgid "vn_0050"
-msgstr ""
+msgstr "VF-31E SP"
 
 msgid "vn_0051"
-msgstr ""
+msgstr "VF-19EF/A"
 
 msgid "vn_0052"
-msgstr ""
+msgstr "VF-31J F.W-02"
 
 msgid "vn_0053"
-msgstr ""
+msgstr "VF-1D"
 
 msgid "vn_0054"
-msgstr ""
+msgstr "VF-17S"
 
 msgid "vn_0055"
-msgstr ""
+msgstr "VF-27γ SP"
 
 msgid "vn_0056"
-msgstr ""
+msgstr "VF-31F K.B-02"
 
 msgid "vn_0057"
-msgstr ""
+msgstr "VF-171EX"
 
 msgid "vn_0058"
-msgstr ""
+msgstr "VF-1D"
 
 msgid "vn_0059"
-msgstr ""
+msgstr "VF-19P"
 
 msgid "vn_0060"
-msgstr ""
+msgstr "VF-25S AP"
 
 msgid "vn_0061"
-msgstr ""
+msgstr "VF-22S"
 
 msgid "vn_0062"
-msgstr ""
+msgstr "RVF-25 SP"
 
 msgid "vn_0063"
-msgstr ""
+msgstr "Sv-262Ba"
 
 msgid "vn_0064"
-msgstr ""
+msgstr "VF-1A"
 
 msgid "vn_0065"
-msgstr ""
+msgstr "VF-31S M.G-01"
 
 msgid "vn_0066"
-msgstr ""
+msgstr "VF-31AX"
 
 msgid "v_pn_0001"
 msgstr "Siegfried"
@@ -21408,121 +21408,121 @@ msgstr ""
 "grandement le déblocage.</size>"
 
 msgid "plt_nm_0001"
-msgstr ""
+msgstr "Hikaru Ichijyo"
 
 msgid "plt_nm_0002"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "plt_nm_0003"
-msgstr ""
+msgstr "Alto Saotome"
 
 msgid "plt_nm_0004"
-msgstr ""
+msgstr "Hayate Immelmann"
 
 msgid "plt_nm_0005"
-msgstr ""
+msgstr "Mirage F. Jenius"
 
 msgid "plt_nm_0006"
-msgstr ""
+msgstr "Messer Ihlefeld"
 
 msgid "plt_nm_0007"
-msgstr ""
+msgstr "Arad Mölders"
 
 msgid "plt_nm_0008"
-msgstr ""
+msgstr "Chuck Mustang"
 
 msgid "plt_nm_0009"
-msgstr ""
+msgstr "Michael Blanc"
 
 msgid "plt_nm_0010"
-msgstr ""
+msgstr "Ozma Lee"
 
 msgid "plt_nm_0011"
-msgstr ""
+msgstr "Brera Sterne"
 
 msgid "plt_nm_0012"
-msgstr ""
+msgstr "Mylène Jenius"
 
 msgid "plt_nm_0013"
-msgstr ""
+msgstr "Roy Focker"
 
 msgid "plt_nm_0014"
-msgstr ""
+msgstr "Max Jenius"
 
 msgid "plt_nm_0015"
-msgstr ""
+msgstr "Alto Saotome"
 
 msgid "plt_nm_0016"
-msgstr ""
+msgstr "Gamlin Kizaki"
 
 msgid "plt_nm_0017"
-msgstr ""
+msgstr "Milia Fallyna Jenius"
 
 msgid "plt_nm_0018"
-msgstr ""
+msgstr "<size=16>Keith Aero Windermere</size>"
 
 msgid "plt_nm_0019"
-msgstr ""
+msgstr "Roid Brehm"
 
 msgid "plt_nm_0020"
-msgstr ""
+msgstr "Bogue Con-Vaart"
 
 msgid "plt_nm_0021"
-msgstr ""
+msgstr "Luca Angeloni "
 
 msgid "plt_nm_0022"
-msgstr ""
+msgstr "Troupe S.M.S"
 
 msgid "plt_nm_0023"
-msgstr ""
+msgstr "Isamu Alva Dyson"
 
 msgid "plt_nm_0024"
-msgstr ""
+msgstr "Guld Goa Bowman"
 
 msgid "plt_nm_0025"
-msgstr ""
+msgstr "Mirage F. Jenius"
 
 msgid "plt_nm_0026"
-msgstr ""
+msgstr "Andrias japonicus"
 
 msgid "plt_nm_0027"
-msgstr ""
+msgstr "Hikaru Ichijyo"
 
 msgid "plt_nm_0028"
-msgstr ""
+msgstr "Isamu Alva Dyson"
 
 msgid "plt_nm_0029"
-msgstr ""
+msgstr "Hikaru Ichijyo"
 
 msgid "plt_nm_0030"
-msgstr ""
+msgstr "Brera Sterne"
 
 msgid "plt_nm_0031"
-msgstr ""
+msgstr "Alto Saotome"
 
 msgid "plt_nm_0032"
-msgstr ""
+msgstr "Max & Milia"
 
 msgid "plt_nm_0033"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "plt_nm_0034"
-msgstr ""
+msgstr "Gamlin Kizaki"
 
 msgid "plt_nm_0035"
-msgstr ""
+msgstr "Theo Jussila"
 
 msgid "plt_nm_0036"
-msgstr ""
+msgstr "Theo Jussila"
 
 msgid "plt_nm_0037"
-msgstr ""
+msgstr "Kassim Eberhardt"
 
 msgid "plt_nm_0038"
-msgstr ""
+msgstr "Hermann Kroos"
 
 msgid "plt_nm_0039"
-msgstr ""
+msgstr "Hayate Immelmann"
 
 msgid "vc_0001"
 msgstr "Orbes sonores"
@@ -30828,7 +30828,7 @@ msgstr ""
 "Un matériel très précieux pour les performances des Valkyrie."
 
 msgid "val_skill_nm_0001"
-msgstr "Live"
+msgstr "Concert"
 
 msgid "val_skill_nm_0002"
 msgstr "VOP"
