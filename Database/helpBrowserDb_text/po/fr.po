@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2024-08-23 19:28+0000\n"
+"PO-Revision-Date: 2024-08-24 09:54+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -549,10 +549,10 @@ msgid "wiki_0021_0002_name"
 msgstr ""
 
 msgid "help_0022_0000_name"
-msgstr ""
+msgstr "A propos de l'organisation des Valkyrie"
 
 msgid "wiki_0022_0000_name"
-msgstr ""
+msgstr "Liste des Valkyries"
 
 msgid "help_0023_0000_name"
 msgstr ""
@@ -609,22 +609,22 @@ msgid "help_0024_0006_name"
 msgstr ""
 
 msgid "help_0025_0000_name"
-msgstr ""
+msgstr "A propos des costumes"
 
 msgid "help_0025_0001_name"
-msgstr ""
+msgstr "A propos du changement de couleur"
 
 msgid "wiki_0025_0000_name"
-msgstr ""
+msgstr "Liste des costumes"
 
 msgid "help_0026_0000_name"
-msgstr ""
+msgstr "A propos des épisodes"
 
 msgid "wiki_0026_0000_name"
-msgstr ""
+msgstr "Liste des épisodes"
 
 msgid "wiki_0026_0001_name"
-msgstr ""
+msgstr "Liste des plaques d'épisode"
 
 msgid "help_0027_0000_name"
 msgstr ""
@@ -774,10 +774,10 @@ msgid "help_0043_0003_name"
 msgstr ""
 
 msgid "help_0044_0000_name"
-msgstr ""
+msgstr "A propos du chat"
 
 msgid "help_0044_0001_name"
-msgstr ""
+msgstr "A propos des tampons"
 
 msgid "help_0045_0000_name"
 msgstr ""
