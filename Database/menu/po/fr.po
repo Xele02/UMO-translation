@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-08-24 09:54+0000\n"
+"PO-Revision-Date: 2024-08-24 11:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -935,7 +935,7 @@ msgid "header_desc_setting008"
 msgstr "Liste des plaques"
 
 msgid "header_desc_setting009"
-msgstr ""
+msgstr "Vérifie le status par chanson"
 
 msgid "header_desc_setting010"
 msgstr "Débloque des capacités"
@@ -953,7 +953,7 @@ msgid "header_desc_setting030"
 msgstr "Choisi un costume"
 
 msgid "header_desc_setting031"
-msgstr ""
+msgstr "Sélectionne un objet　　　　　"
 
 msgid "header_desc_setting032"
 msgstr "Selectionne une Valkyrie"
@@ -1297,7 +1297,7 @@ msgid "popup_title_episode_01"
 msgstr "Récompense de déblocage d'épisode"
 
 msgid "popup_title_episode_02"
-msgstr ""
+msgstr "Objets d'épisode"
 
 msgid "popup_title_episode_03"
 msgstr "Déblocage d'épisode"
@@ -1690,31 +1690,60 @@ msgid "popup_gacha_rate_title"
 msgstr "Liste d'apparition des plaques d'épisodes"
 
 msgid "popup_gacha_rate_limited_header"
-msgstr ""
+msgstr "Taux d'apparition garantie"
 
 msgid "popup_gacha_rate_limited_list"
-msgstr ""
+msgstr "Taux d'apparition fixe"
 
 msgid "popup_gacha_rate_limited5_header"
-msgstr ""
+msgstr "Taux d'apparition garantie"
 
 msgid "popup_gacha_rate_limited5_list"
-msgstr ""
+msgstr "Taux d'apparition fixe"
 
 msgid "popup_gacha_rate_basic_header"
-msgstr ""
+msgstr "Taux d'apparition"
 
 msgid "popup_gacha_rate_basic_list"
-msgstr ""
+msgstr "Liste d'apparition"
 
 msgid "popup_gacha_rate_pickup"
-msgstr ""
+msgstr "Plaque cible !"
 
 msgid "popup_gacha_rate_stepup"
-msgstr ""
+msgstr "Probabilité à l'étape {0}"
 
 msgid "popup_gacha_rate_warning"
 msgstr ""
+"※Les probabilités sont arrondies à la quatrième décimale et affichées à la\n"
+"　troisième décimale.\n"
+"　Par conséquent, le total peut ne pas être de 100 % si tous les\n"
+"　chiffres sont additionnés.\n"
+"\n"
+"※Les plaques des épisodes ci-dessus peuvent apparaître en double.\n"
+"\n"
+"※Le pourcentage offert peut varier au sein d'une même rareté.\n"
+"\n"
+"※La probabilité d'apparition pour chaque rareté indiquée\n"
+"　dans le 「Taux d'apparition」est la 「Probabilité d'apparition\n"
+"　initiale」. \n"
+"\n"
+"※Dans le cas où ★5 n'apparaît pas pendant un certain temps,\n"
+"　La probabilité globale de ★5 augmentera légèrement par\n"
+"　rapport à la 「Probabilité d'apparition initiale」, et\n"
+"　l'augmentation sera utilisée pour calculer la probabilité\n"
+"　globale de ★3★4.\n"
+"　La probabilité d'apparition globale de ★3★4 diminuera par\n"
+"　rapport à la「Probabilité d'apparition initiale」.\n"
+"\n"
+"※Une fois que la probabilité d'apparition a changé par rapport\n"
+"　à la 「Probabilité d'apparition initiale」, la probabilité d'apparition\n"
+"　sera réinitialisée à la fin de la période de loterie et\n"
+"　lorsqu'un ★5 est enlevé de la loterie en question.\n"
+"\n"
+"※Les changements de probabilité par rapport à la\n"
+"　「Probabilité d'apparition initiale」ne se produiront\n"
+"　pas dans la loterie de débutant."
 
 msgid "popup_gacha2_rate_warning"
 msgstr ""
@@ -1736,18 +1765,20 @@ msgstr ""
 
 msgid "popup_gacha_rate_ep_caution01"
 msgstr ""
+"Les récompenses d'épisode s'obtiennent en débloquant les épisodes avec des "
+"points d'épisodes."
 
 msgid "popup_gacha_rate_ep_caution02"
-msgstr ""
+msgstr "Le nombre maximum de points d'épisode dépends des plaques."
 
 msgid "popup_gacha_rate_ep_episode_sub"
-msgstr ""
+msgstr "Episode :"
 
 msgid "popup_gacha_rate_ep_reward_sub"
-msgstr ""
+msgstr "Exemple de récomp. d'épisode :"
 
 msgid "popup_gacha_rate_ep_diva_costume"
-msgstr ""
+msgstr "{0}　{1}"
 
 msgid "popup_home_scene_bg_title"
 msgstr ""
@@ -3516,7 +3547,8 @@ msgstr "EP requis : {0}"
 
 msgid "episode_reward_text002"
 msgstr ""
-"Obtenu après déblocage\n"
+"Obtenu après\n"
+"déblocage\n"
 "tous les {0}{1}"
 
 msgid "episode_reward_text003"
@@ -3820,25 +3852,30 @@ msgid "item_use_period_date"
 msgstr ""
 
 msgid "rarityup_item_use_title"
-msgstr ""
+msgstr "Confirmation d'augmentation de rareté"
 
 msgid "rarityup_item_use_desc_1"
-msgstr ""
+msgstr "Consommer cet objet pour augmenter la rareté."
 
 msgid "rarityup_item_use_desc_2"
-msgstr ""
+msgstr "Nombre d'objets insufisants."
 
 msgid "rarityup_item_get_desc_1"
 msgstr ""
 
 msgid "rarityup_item_use_confirm_title"
-msgstr ""
+msgstr "Confirmation finale d'augmentation de rareté"
 
 msgid "rarityup_item_use_confirm_desc"
-msgstr ""
+msgstr "Veux-tu vraiment augmenter la rareté de cette plaque ?"
 
 msgid "rarityup_item_use_warning"
 msgstr ""
+"{0}\n"
+"peux être utilisé sur des plaques ★5.\n"
+"\n"
+"Confirmer l'utilisation sur \n"
+"la plaque ★4 ?"
 
 msgid "secret_board_item_use_title"
 msgstr "Confirmation déblocage tableau secret"
@@ -5323,16 +5360,16 @@ msgid "pop_deco_option_caution_plateanimation_01"
 msgstr "S'applique uniquement aux poster animés."
 
 msgid "gacha_rarity_desc_01"
-msgstr ""
+msgstr "※L'image affichée est le résultat avant augmentation de la rareté."
 
 msgid "gacha_rarity_desc_02"
-msgstr ""
+msgstr "※L'image affichée est le résultat après augmentation de la rareté."
 
 msgid "gacha_period"
-msgstr ""
+msgstr "Période : Jusqu'au {0}/{1} {2}:{3:D2}"
 
 msgid "gacha_cost_01"
-msgstr ""
+msgstr "x\t\t"
 
 msgid "gacha_cost_02"
 msgstr ""
@@ -5374,7 +5411,7 @@ msgid "centerskillregulation_popup_title"
 msgstr ""
 
 msgid "gacha_telop_01"
-msgstr ""
+msgstr "Limité à 1x !"
 
 msgid "gacha_telop_02"
 msgstr ""
@@ -5813,7 +5850,7 @@ msgid "popup_bunchinstall_error_other_desc"
 msgstr ""
 
 msgid "popup_costumeselect_home"
-msgstr "Par defaut"
+msgstr "Dressing room"
 
 msgid "pop_pass_loginbonus_caution"
 msgstr ""
@@ -5969,25 +6006,25 @@ msgid "popup_filter_godiva_music_exp_item_charm"
 msgstr "Charme"
 
 msgid "popup_godiva_status_title"
-msgstr ""
+msgstr "Valeur de correction"
 
 msgid "popup_godiva_status_name_soul"
-msgstr ""
+msgstr "Attrait d'âme"
 
 msgid "popup_godiva_status_name_voice"
-msgstr ""
+msgstr "Attrait de voix"
 
 msgid "popup_godiva_status_name_charm"
-msgstr ""
+msgstr "Attrait de charme"
 
 msgid "popup_godiva_status_level"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_godiva_status_status"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_godiva_status_up_status"
-msgstr ""
+msgstr "(+{0})"
 
 msgid "popup_diva_select_title"
 msgstr ""
@@ -6110,7 +6147,7 @@ msgid "sel_event_01_period"
 msgstr ""
 
 msgid "popup_godiva_filter_title"
-msgstr ""
+msgstr "Ordre de tri"
 
 msgid "popup_vop_all_receive_vc_caution"
 msgstr "※ Les orbes sonores sont envoyées dans la boite à cadeaux."
@@ -6143,7 +6180,7 @@ msgid "use_item_description_05"
 msgstr ""
 
 msgid "popup_godiva_bonus_remind_title"
-msgstr ""
+msgstr "Chansons"
 
 msgid "popup_godiva_bonus_remind_text"
 msgstr ""
