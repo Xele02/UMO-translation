@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:57+0000\n"
-"PO-Revision-Date: 2024-08-24 15:39+0000\n"
+"PO-Revision-Date: 2024-08-25 16:50+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "master/fr/>\n"
@@ -3177,274 +3177,274 @@ msgid "ec_nm_0021"
 msgstr ""
 
 msgid "fc_nm_0001"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0002"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0003"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0004"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0005"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0006"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0007"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0008"
-msgstr ""
+msgstr "Total + Support"
 
 msgid "fc_nm_0009"
-msgstr ""
+msgstr "Total + PV"
 
 msgid "fc_nm_0010"
-msgstr ""
+msgstr "Plaque étoile+"
 
 msgid "fc_nm_0011"
-msgstr ""
+msgstr "Chanson ☆ total+"
 
 msgid "fc_nm_0012"
-msgstr ""
+msgstr "Plaque amour+"
 
 msgid "fc_nm_0013"
-msgstr ""
+msgstr "Chanson ♡ total+"
 
 msgid "fc_nm_0014"
-msgstr ""
+msgstr "Plaque vie+"
 
 msgid "fc_nm_0015"
-msgstr ""
+msgstr "Chanson vie total+"
 
 msgid "fc_nm_0016"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0017"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0018"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0019"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0020"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0021"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0022"
-msgstr ""
+msgstr "Charme+"
 
 msgid "fc_nm_0023"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0024"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0025"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0026"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0027"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0028"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0029"
-msgstr ""
+msgstr "Âme+"
 
 msgid "fc_nm_0030"
-msgstr ""
+msgstr "Âme & Charme+"
 
 msgid "fc_nm_0031"
-msgstr ""
+msgstr "Âme & Voix+"
 
 msgid "fc_nm_0032"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0033"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0034"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0035"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0036"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0037"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0038"
-msgstr ""
+msgstr "Voix+"
 
 msgid "fc_nm_0039"
-msgstr ""
+msgstr "Voix & Charme+"
 
 msgid "fc_nm_0040"
-msgstr ""
+msgstr "PV+"
 
 msgid "fc_nm_0041"
-msgstr ""
+msgstr "PV + Support"
 
 msgid "fc_nm_0042"
-msgstr ""
+msgstr "Support+"
 
 msgid "fc_nm_0043"
-msgstr ""
+msgstr "Fold+"
 
 msgid "fa_nm_0001"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "fa_nm_0002"
-msgstr ""
+msgstr "Score+"
 
 msgid "fa_nm_0003"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "fa_nm_0004"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "fa_nm_0005"
-msgstr ""
+msgstr "Modif du jugement"
 
 msgid "fa_nm_0006"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "fa_nm_0008"
-msgstr ""
+msgstr "Bonus de combo"
 
 msgid "fl_nm_0001"
-msgstr ""
+msgstr "Score+"
 
 msgid "fl_nm_0002"
-msgstr ""
+msgstr "Score+"
 
 msgid "fl_nm_0003"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0004"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0005"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0006"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0007"
-msgstr ""
+msgstr "Live long score+"
 
 msgid "fl_nm_0008"
-msgstr ""
+msgstr "Live court score+"
 
 msgid "fl_nm_0009"
-msgstr ""
+msgstr "Mode score+"
 
 msgid "fl_nm_0010"
-msgstr ""
+msgstr "Bio-Fold & Score+"
 
 msgid "fl_nm_0011"
-msgstr ""
+msgstr "Répétition score+"
 
 msgid "fl_nm_0012"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "fl_nm_0013"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "fl_nm_0014"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "fl_nm_0015"
-msgstr ""
+msgstr "Répétition du score EX"
 
 msgid "fl_nm_0016"
-msgstr ""
+msgstr "Répétition score de diva"
 
 msgid "fl_nm_0017"
-msgstr ""
+msgstr "Répét. score & dégats"
 
 msgid "fl_nm_0018"
-msgstr ""
+msgstr "Score & Dégats"
 
 msgid "fl_nm_0019"
-msgstr ""
+msgstr "Diva score & dégats"
 
 msgid "fl_nm_0020"
-msgstr ""
+msgstr "Récupération de PV"
 
 msgid "fl_nm_0021"
-msgstr ""
+msgstr "Soin+Score"
 
 msgid "fl_nm_0022"
-msgstr ""
+msgstr "Modif. juge"
 
 msgid "fl_nm_0023"
-msgstr ""
+msgstr "Modif. juge"
 
 msgid "fl_nm_0024"
-msgstr ""
+msgstr "Modif. juge"
 
 msgid "fl_nm_0025"
-msgstr ""
+msgstr "Modif. juge + Score"
 
 msgid "fl_nm_0026"
-msgstr ""
+msgstr "Juge + Score répet."
 
 msgid "fl_nm_0027"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "fl_nm_0028"
-msgstr ""
+msgstr "Protection de combo"
 
 msgid "fl_nm_0029"
-msgstr ""
+msgstr "Combo + Score"
 
 msgid "fl_nm_0030"
-msgstr ""
+msgstr "Bonus de combo"
 
 msgid "fl_nm_0031"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "fl_nm_0032"
-msgstr ""
+msgstr "Aucun dégats"
 
 msgid "fl_nm_0033"
-msgstr ""
+msgstr "Dégats + Score"
 
 msgid "fl_nm_0034"
-msgstr ""
+msgstr "Réduction de dégats"
 
 msgid "fl_nm_0035"
-msgstr ""
+msgstr "Réduc. dégats + Score"
 
 msgid "fl_nm_0036"
-msgstr ""
+msgstr "Score d'affinité+"
 
 msgid "fl_nm_0037"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "fl_nm_0038"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "fl_nm_0039"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "fl_nm_0040"
-msgstr ""
+msgstr "Score & dégats EX"
 
 msgid "gn_0001"
 msgstr "Pierre de mélodie (petite)"
