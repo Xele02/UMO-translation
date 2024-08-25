@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-25 13:33+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2024-08-25 16:28+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
 "Language: fr\n"
@@ -70,7 +70,7 @@ msgid "StringLiteral_9555"
 msgstr "Quête d'évènement"
 
 msgid "StringLiteral_9630"
-msgstr " t'as envoyé un message."
+msgstr " t'a envoyé un message."
 
 msgid "StringLiteral_9714"
 msgstr ""
@@ -322,23 +322,23 @@ msgid "StringLiteral_10294"
 msgstr "Réseau social super dimensionnel"
 
 msgid "StringLiteral_10298"
-msgstr "Bonus de connection !"
+msgstr "Bonus de connexion !"
 
 msgid "StringLiteral_10299"
 msgstr ""
-"100 orbes sonores lors de la deuxième journée de connexion ! Connecte-toi !"
+"100 orbes sonores pour la deuxième journée de connexion ! Connecte-toi !"
 
 msgid "StringLiteral_10303"
 msgstr "Offre d'orbes sonores !"
 
 msgid "StringLiteral_10304"
-msgstr "Un set d'orbes sonores disponibles à un prix dérisoire !"
+msgstr "Un set d'orbes sonores disponible à un prix dérisoire !"
 
 msgid "StringLiteral_10309"
 msgstr "Récupération d'énergie"
 
 msgid "StringLiteral_10310"
-msgstr "L'énergie est complètement remplie !"
+msgstr "L'énergie est entièrement restaurée !"
 
 msgid "StringLiteral_10314"
 msgstr ""
@@ -1192,11 +1192,13 @@ msgstr ""
 msgid "StringLiteral_14845"
 msgstr ""
 
+#, fuzzy
 msgid "StringLiteral_15053"
-msgstr "Episode「"
+msgstr "Épisode «"
 
+#, fuzzy
 msgid "StringLiteral_15054"
-msgstr "」"
+msgstr "»"
 
 msgid "StringLiteral_15055"
 msgstr " costume spécial"
@@ -1270,8 +1272,9 @@ msgstr "Compensation additionnelle"
 msgid "StringLiteral_15794"
 msgstr "Encore {0} {1}"
 
+#, fuzzy
 msgid "StringLiteral_15830"
-msgstr " "
+msgstr "Les articles qui peuvent être utilisés en même temps sont"
 
 msgid "StringLiteral_15831"
 msgstr " {0:plural:utilsable|utilisables} en une fois."
@@ -1358,7 +1361,7 @@ msgid "StringLiteral_18280"
 msgstr ""
 
 msgid "StringLiteral_18787"
-msgstr "Unions crédits gagnés"
+msgstr "Crédits d'union gagnés"
 
 msgid "StringLiteral_18797"
 msgstr ""
@@ -1508,7 +1511,7 @@ msgid "UMO_achievements_normal_quest"
 msgstr "Récompense de mission normale."
 
 msgid "UMO_achievements_daily_quest"
-msgstr "Récompense de mission journalière"
+msgstr "Récompense de mission journalière."
 
 msgid "UMO_achievements_episode"
 msgstr "Récompense d'épisode."
@@ -1523,7 +1526,7 @@ msgid "UMO_achievements_costume"
 msgstr "Récompense pour amélioration de costume."
 
 msgid "UMO_achievements_freemusic"
-msgstr "Récompense de concert"
+msgstr "Récompense de concert."
 
 msgid "UMO_currency_1001_desc"
 msgstr ""
@@ -1904,7 +1907,7 @@ msgid "UMO_Luck"
 msgstr "Chance"
 
 msgid "UMO_Status"
-msgstr "Status"
+msgstr "Statut"
 
 msgid "UMO_SubStatus"
 msgstr "Effets plaques sup."
@@ -1922,7 +1925,7 @@ msgid "UMO_Excellent"
 msgstr "EXCELLENT"
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr "Prob. notes comp. centrale L"
+msgstr "Proba. notes comp. centrale L"
 
 msgid "UMO_Notes"
 msgstr "Notes prévues"
@@ -1976,7 +1979,7 @@ msgid "UMO_PlayStyleCombo"
 msgstr "Combo"
 
 msgid "UMO_PlayStatus"
-msgstr "Priorité de status"
+msgstr "Priorité de statut"
 
 msgid "UMO_DivaLevel"
 msgstr "Niveau Diva"
@@ -1988,10 +1991,10 @@ msgid "UMO_CostumeCount"
 msgstr "Nb. costumes"
 
 msgid "UMO_DivaStatus"
-msgstr "Diva status"
+msgstr "Diva statut"
 
 msgid "UMO_CostumeStatus"
-msgstr "Costume status"
+msgstr "Costume statut"
 
 msgid "UMO_SoulTotal"
 msgstr "Attrait d'âme"
@@ -2030,4 +2033,4 @@ msgid "UMO_Gift"
 msgstr "Cadeaux"
 
 msgid "UMO_Profil"
-msgstr "Profile"
+msgstr "Profil"
