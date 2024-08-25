@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:35+0000\n"
-"PO-Revision-Date: 2024-08-25 08:20+0000\n"
+"PO-Revision-Date: 2024-08-25 13:33+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "common/fr/>\n"
@@ -864,37 +864,37 @@ msgid "popup_app_error_stop"
 msgstr ""
 
 msgid "notify_comback_title"
-msgstr ""
+msgstr "Message"
 
 msgid "notify_comback_01"
-msgstr ""
+msgstr "Je t'attends !"
 
 msgid "notify_comback_02"
-msgstr ""
+msgstr "Mes chansons doivent te manquer non ?"
 
 msgid "notify_comback_03"
-msgstr ""
+msgstr "C'est un peu triste sans toi"
 
 msgid "notify_comback_04"
-msgstr ""
+msgstr "Je t'attends, viens me voir !"
 
 msgid "notify_comback_05"
-msgstr ""
+msgstr "Quand je ne te vois pas, mon cœur se serre…"
 
 msgid "notify_comback_06"
-msgstr ""
+msgstr "Cela fait longtemps que je ne t'ai pas parlé !"
 
 msgid "notify_comback_07"
-msgstr ""
+msgstr "Viens me voir, je t'attends"
 
 msgid "notify_comback_08"
-msgstr ""
+msgstr "C'est bientôt le concert ! Viens voir !"
 
 msgid "notify_comback_09"
-msgstr ""
+msgstr "Dépêche toi et viens écouter mes chansons !"
 
 msgid "notify_comback_10"
-msgstr ""
+msgstr "Hey, je ne t'ai pas vu depuis longtemps !"
 
 msgid "popup_ngword_error_title"
 msgstr ""
@@ -1106,10 +1106,10 @@ msgid "first_present_item_name"
 msgstr ""
 
 msgid "notify_comback_title_2"
-msgstr ""
+msgstr "Viens recevoir ton bonus de retour !"
 
 msgid "notify_comback_text_2"
-msgstr ""
+msgstr "Reçoit un bonus d'orbes sonores pour revenir ! Connecte toi !"
 
 msgid "pop_subscription_confirmation_text"
 msgstr ""
