@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-24 17:28+0000\n"
+"PO-Revision-Date: 2024-08-25 13:33+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -70,7 +70,7 @@ msgid "StringLiteral_9555"
 msgstr "Quête d'évènement"
 
 msgid "StringLiteral_9630"
-msgstr ""
+msgstr " t'as envoyé un message."
 
 msgid "StringLiteral_9714"
 msgstr ""
@@ -319,25 +319,26 @@ msgid "StringLiteral_10282"
 msgstr ""
 
 msgid "StringLiteral_10294"
-msgstr ""
+msgstr "Réseau social super dimensionnel"
 
 msgid "StringLiteral_10298"
-msgstr ""
+msgstr "Bonus de connection !"
 
 msgid "StringLiteral_10299"
 msgstr ""
+"100 orbes sonores lors de la deuxième journée de connexion ! Connecte-toi !"
 
 msgid "StringLiteral_10303"
-msgstr ""
+msgstr "Offre d'orbes sonores !"
 
 msgid "StringLiteral_10304"
-msgstr ""
+msgstr "Un set d'orbes sonores disponibles à un prix dérisoire !"
 
 msgid "StringLiteral_10309"
-msgstr ""
+msgstr "Récupération d'énergie"
 
 msgid "StringLiteral_10310"
-msgstr ""
+msgstr "L'énergie est complètement remplie !"
 
 msgid "StringLiteral_10314"
 msgstr ""
@@ -655,25 +656,25 @@ msgid "StringLiteral_12097"
 msgstr ""
 
 msgid "StringLiteral_12139"
-msgstr ""
+msgstr "Opération réussie"
 
 msgid "StringLiteral_12141"
-msgstr ""
+msgstr "Section "
 
 msgid "StringLiteral_12148"
-msgstr ""
+msgstr "I"
 
 msgid "StringLiteral_12149"
-msgstr ""
+msgstr "II"
 
 msgid "StringLiteral_12150"
-msgstr ""
+msgstr "III"
 
 msgid "StringLiteral_12151"
-msgstr ""
+msgstr "IV"
 
 msgid "StringLiteral_12152"
-msgstr ""
+msgstr "V"
 
 msgid "StringLiteral_12215"
 msgstr ""
