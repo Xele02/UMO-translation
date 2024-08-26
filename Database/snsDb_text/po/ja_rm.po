@@ -1,0 +1,605 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-26 16:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "room_name_0001_txt"
+msgstr ""
+
+msgid "room_name_0002_txt"
+msgstr ""
+
+msgid "room_name_0003_txt"
+msgstr ""
+
+msgid "room_name_0004_txt"
+msgstr ""
+
+msgid "room_name_0005_txt"
+msgstr ""
+
+msgid "room_name_0006_txt"
+msgstr ""
+
+msgid "room_name_0007_txt"
+msgstr ""
+
+msgid "room_name_0008_txt"
+msgstr ""
+
+msgid "room_name_0009_txt"
+msgstr ""
+
+msgid "room_name_0010_txt"
+msgstr ""
+
+msgid "room_name_0011_txt"
+msgstr ""
+
+msgid "room_name_0012_txt"
+msgstr ""
+
+msgid "room_name_0013_txt"
+msgstr ""
+
+msgid "room_name_0014_txt"
+msgstr ""
+
+msgid "room_name_0015_txt"
+msgstr ""
+
+msgid "room_name_0016_txt"
+msgstr ""
+
+msgid "room_name_0017_txt"
+msgstr ""
+
+msgid "room_name_0018_txt"
+msgstr ""
+
+msgid "room_name_0019_txt"
+msgstr ""
+
+msgid "room_name_0020_txt"
+msgstr ""
+
+msgid "room_name_0021_txt"
+msgstr ""
+
+msgid "room_name_0022_txt"
+msgstr ""
+
+msgid "room_name_0023_txt"
+msgstr ""
+
+msgid "room_name_0024_txt"
+msgstr ""
+
+msgid "room_name_0025_txt"
+msgstr ""
+
+msgid "room_name_0026_txt"
+msgstr ""
+
+msgid "room_name_0027_txt"
+msgstr ""
+
+msgid "room_name_0028_txt"
+msgstr ""
+
+msgid "room_name_0029_txt"
+msgstr ""
+
+msgid "room_name_0030_txt"
+msgstr ""
+
+msgid "room_name_0031_txt"
+msgstr ""
+
+msgid "room_name_0032_txt"
+msgstr ""
+
+msgid "room_name_0033_txt"
+msgstr ""
+
+msgid "room_name_0034_txt"
+msgstr ""
+
+msgid "room_name_0035_txt"
+msgstr ""
+
+msgid "room_name_0036_txt"
+msgstr ""
+
+msgid "room_name_0037_txt"
+msgstr ""
+
+msgid "room_name_0038_txt"
+msgstr ""
+
+msgid "room_name_0039_txt"
+msgstr ""
+
+msgid "room_name_0040_txt"
+msgstr ""
+
+msgid "room_name_0041_txt"
+msgstr ""
+
+msgid "room_name_0042_txt"
+msgstr ""
+
+msgid "room_name_0043_txt"
+msgstr ""
+
+msgid "room_name_0044_txt"
+msgstr ""
+
+msgid "room_name_0045_txt"
+msgstr ""
+
+msgid "room_name_0046_txt"
+msgstr ""
+
+msgid "room_name_0047_txt"
+msgstr ""
+
+msgid "room_name_0048_txt"
+msgstr ""
+
+msgid "room_name_0049_txt"
+msgstr ""
+
+msgid "room_name_0050_txt"
+msgstr ""
+
+msgid "room_name_0051_txt"
+msgstr ""
+
+msgid "room_name_0052_txt"
+msgstr ""
+
+msgid "room_name_0053_txt"
+msgstr ""
+
+msgid "room_name_0054_txt"
+msgstr ""
+
+msgid "room_name_0055_txt"
+msgstr ""
+
+msgid "room_name_0056_txt"
+msgstr ""
+
+msgid "room_name_0057_txt"
+msgstr ""
+
+msgid "room_name_0058_txt"
+msgstr ""
+
+msgid "room_name_0059_txt"
+msgstr ""
+
+msgid "room_name_0060_txt"
+msgstr ""
+
+msgid "room_name_0061_txt"
+msgstr ""
+
+msgid "room_name_0062_txt"
+msgstr ""
+
+msgid "room_name_0063_txt"
+msgstr ""
+
+msgid "room_name_0064_txt"
+msgstr ""
+
+msgid "room_name_0065_txt"
+msgstr ""
+
+msgid "room_name_0066_txt"
+msgstr ""
+
+msgid "room_name_0067_txt"
+msgstr ""
+
+msgid "room_name_0068_txt"
+msgstr ""
+
+msgid "room_name_0069_txt"
+msgstr ""
+
+msgid "room_name_0070_txt"
+msgstr ""
+
+msgid "room_name_0071_txt"
+msgstr ""
+
+msgid "room_name_0072_txt"
+msgstr ""
+
+msgid "room_name_0073_txt"
+msgstr ""
+
+msgid "room_name_0074_txt"
+msgstr ""
+
+msgid "room_name_0075_txt"
+msgstr ""
+
+msgid "room_name_0076_txt"
+msgstr ""
+
+msgid "room_name_0077_txt"
+msgstr ""
+
+msgid "room_name_0078_txt"
+msgstr ""
+
+msgid "room_name_0079_txt"
+msgstr ""
+
+msgid "room_name_0080_txt"
+msgstr ""
+
+msgid "room_name_0081_txt"
+msgstr ""
+
+msgid "room_name_0082_txt"
+msgstr ""
+
+msgid "room_name_0083_txt"
+msgstr ""
+
+msgid "room_name_0084_txt"
+msgstr ""
+
+msgid "room_name_0085_txt"
+msgstr ""
+
+msgid "room_name_0086_txt"
+msgstr ""
+
+msgid "room_name_0087_txt"
+msgstr ""
+
+msgid "room_name_0088_txt"
+msgstr ""
+
+msgid "room_name_0089_txt"
+msgstr ""
+
+msgid "room_name_0090_txt"
+msgstr ""
+
+msgid "room_name_0091_txt"
+msgstr ""
+
+msgid "room_name_0092_txt"
+msgstr ""
+
+msgid "room_name_0093_txt"
+msgstr ""
+
+msgid "room_name_0094_txt"
+msgstr ""
+
+msgid "room_name_0095_txt"
+msgstr ""
+
+msgid "room_name_0096_txt"
+msgstr ""
+
+msgid "room_name_0097_txt"
+msgstr ""
+
+msgid "room_name_0098_txt"
+msgstr ""
+
+msgid "room_name_0099_txt"
+msgstr ""
+
+msgid "room_name_0100_txt"
+msgstr ""
+
+msgid "room_name_0101_txt"
+msgstr ""
+
+msgid "room_name_0102_txt"
+msgstr ""
+
+msgid "room_name_0103_txt"
+msgstr ""
+
+msgid "room_name_0104_txt"
+msgstr ""
+
+msgid "room_name_0105_txt"
+msgstr ""
+
+msgid "room_name_0106_txt"
+msgstr ""
+
+msgid "room_name_0107_txt"
+msgstr ""
+
+msgid "room_name_0108_txt"
+msgstr ""
+
+msgid "room_name_0109_txt"
+msgstr ""
+
+msgid "room_name_0110_txt"
+msgstr ""
+
+msgid "room_name_0111_txt"
+msgstr ""
+
+msgid "room_name_0112_txt"
+msgstr ""
+
+msgid "room_name_0113_txt"
+msgstr ""
+
+msgid "room_name_0114_txt"
+msgstr ""
+
+msgid "room_name_0115_txt"
+msgstr ""
+
+msgid "room_name_0116_txt"
+msgstr ""
+
+msgid "room_name_0117_txt"
+msgstr ""
+
+msgid "room_name_0118_txt"
+msgstr ""
+
+msgid "room_name_0119_txt"
+msgstr ""
+
+msgid "room_name_0120_txt"
+msgstr ""
+
+msgid "room_name_0121_txt"
+msgstr ""
+
+msgid "room_name_0122_txt"
+msgstr ""
+
+msgid "room_name_0123_txt"
+msgstr ""
+
+msgid "room_name_0124_txt"
+msgstr ""
+
+msgid "room_name_0125_txt"
+msgstr ""
+
+msgid "room_name_0126_txt"
+msgstr ""
+
+msgid "room_name_0127_txt"
+msgstr ""
+
+msgid "room_name_0128_txt"
+msgstr ""
+
+msgid "room_name_0129_txt"
+msgstr ""
+
+msgid "room_name_0130_txt"
+msgstr ""
+
+msgid "room_name_0131_txt"
+msgstr ""
+
+msgid "room_name_0132_txt"
+msgstr ""
+
+msgid "room_name_0133_txt"
+msgstr ""
+
+msgid "room_name_0134_txt"
+msgstr ""
+
+msgid "room_name_0135_txt"
+msgstr ""
+
+msgid "room_name_0136_txt"
+msgstr ""
+
+msgid "room_name_0137_txt"
+msgstr ""
+
+msgid "room_name_0138_txt"
+msgstr ""
+
+msgid "room_name_0139_txt"
+msgstr ""
+
+msgid "room_name_0140_txt"
+msgstr ""
+
+msgid "room_name_0141_txt"
+msgstr ""
+
+msgid "room_name_0142_txt"
+msgstr ""
+
+msgid "room_name_0143_txt"
+msgstr ""
+
+msgid "room_name_0144_txt"
+msgstr ""
+
+msgid "room_name_0145_txt"
+msgstr ""
+
+msgid "room_name_0146_txt"
+msgstr ""
+
+msgid "room_name_0147_txt"
+msgstr ""
+
+msgid "room_name_0148_txt"
+msgstr ""
+
+msgid "room_name_0149_txt"
+msgstr ""
+
+msgid "room_name_0150_txt"
+msgstr ""
+
+msgid "room_name_0151_txt"
+msgstr ""
+
+msgid "room_name_0152_txt"
+msgstr ""
+
+msgid "room_name_0153_txt"
+msgstr ""
+
+msgid "room_name_0154_txt"
+msgstr ""
+
+msgid "room_name_0155_txt"
+msgstr ""
+
+msgid "room_name_0156_txt"
+msgstr ""
+
+msgid "room_name_0157_txt"
+msgstr ""
+
+msgid "room_name_0158_txt"
+msgstr ""
+
+msgid "room_name_0159_txt"
+msgstr ""
+
+msgid "chara_name_0000_txt"
+msgstr ""
+
+msgid "chara_name_0001_txt"
+msgstr ""
+
+msgid "chara_name_0002_txt"
+msgstr ""
+
+msgid "chara_name_0003_txt"
+msgstr ""
+
+msgid "chara_name_0004_txt"
+msgstr ""
+
+msgid "chara_name_0005_txt"
+msgstr ""
+
+msgid "chara_name_0006_txt"
+msgstr ""
+
+msgid "chara_name_0007_txt"
+msgstr ""
+
+msgid "chara_name_0008_txt"
+msgstr ""
+
+msgid "chara_name_0009_txt"
+msgstr ""
+
+msgid "chara_name_0010_txt"
+msgstr ""
+
+msgid "chara_name_0011_txt"
+msgstr ""
+
+msgid "chara_name_0012_txt"
+msgstr ""
+
+msgid "chara_name_0013_txt"
+msgstr ""
+
+msgid "chara_name_0014_txt"
+msgstr ""
+
+msgid "chara_name_0015_txt"
+msgstr ""
+
+msgid "chara_name_0016_txt"
+msgstr ""
+
+msgid "chara_name_0017_txt"
+msgstr ""
+
+msgid "chara_name_0018_txt"
+msgstr ""
+
+msgid "chara_name_0019_txt"
+msgstr ""
+
+msgid "chara_name_0020_txt"
+msgstr ""
+
+msgid "chara_name_0021_txt"
+msgstr ""
+
+msgid "chara_name_0022_txt"
+msgstr ""
+
+msgid "chara_name_0023_txt"
+msgstr ""
+
+msgid "chara_name_0024_txt"
+msgstr ""
+
+msgid "chara_name_0025_txt"
+msgstr ""
+
+msgid "chara_name_0026_txt"
+msgstr ""
+
+msgid "chara_name_0027_txt"
+msgstr ""
+
+msgid "chara_name_0028_txt"
+msgstr ""
+
+msgid "chara_name_0029_txt"
+msgstr ""
+
+msgid "chara_name_0030_txt"
+msgstr ""
+
+msgid "chara_name_0031_txt"
+msgstr ""
+
+msgid "chara_name_0032_txt"
+msgstr ""
+
+msgid "chara_name_0033_txt"
+msgstr ""
+
+msgid "chara_name_0034_txt"
+msgstr ""
+
+msgid "chara_name_0035_txt"
+msgstr ""
+
+msgid "chara_name_0036_txt"
+msgstr ""
+
+msgid "chara_name_0037_txt"
+msgstr ""
