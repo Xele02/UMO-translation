@@ -1,0 +1,6152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-26 16:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "popup_title_00"
+msgstr ""
+
+msgid "popup_title_01"
+msgstr ""
+
+msgid "popup_title_02"
+msgstr ""
+
+msgid "popup_title_03"
+msgstr ""
+
+msgid "popup_title_04"
+msgstr ""
+
+msgid "popup_title_05"
+msgstr ""
+
+msgid "unit_popup_title_00"
+msgstr ""
+
+msgid "unit_popup_title_01"
+msgstr ""
+
+msgid "unit_popup_title_02"
+msgstr ""
+
+msgid "unit_popup_title_03"
+msgstr ""
+
+msgid "unit_setpopup_text_00"
+msgstr ""
+
+msgid "unit_setpopup_text_01"
+msgstr ""
+
+msgid "unit_setpopup_text_02"
+msgstr ""
+
+msgid "unit_setpopup_text_03"
+msgstr ""
+
+msgid "unit_setpopup_text_04"
+msgstr ""
+
+msgid "unit_setpopup_text_05"
+msgstr ""
+
+msgid "unit_setpopup_text_06"
+msgstr ""
+
+msgid "unit_setpopup_text_07"
+msgstr ""
+
+msgid "popup_text_00"
+msgstr ""
+
+msgid "popup_text_02"
+msgstr ""
+
+msgid "popup_text_03"
+msgstr ""
+
+msgid "popup_text_08"
+msgstr ""
+
+msgid "popup_text_09"
+msgstr ""
+
+msgid "popup_text_10"
+msgstr ""
+
+msgid "popup_text_11"
+msgstr ""
+
+msgid "popup_text_12"
+msgstr ""
+
+msgid "popup_text_14"
+msgstr ""
+
+msgid "popup_text_15"
+msgstr ""
+
+msgid "popup_text_16"
+msgstr ""
+
+msgid "popup_text_17"
+msgstr ""
+
+msgid "popup_sort_text_00"
+msgstr ""
+
+msgid "popup_sort_title"
+msgstr ""
+
+msgid "popup_sort_title_unit"
+msgstr ""
+
+msgid "popup_comparison_00"
+msgstr ""
+
+msgid "popup_music_select_00"
+msgstr ""
+
+msgid "popup_music_select_01"
+msgstr ""
+
+msgid "popup_music_select_02"
+msgstr ""
+
+msgid "popup_music_select_03"
+msgstr ""
+
+msgid "popup_music_select_04"
+msgstr ""
+
+msgid "popup_music_select_05"
+msgstr ""
+
+msgid "popup_music_select_06"
+msgstr ""
+
+msgid "popup_music_select_07"
+msgstr ""
+
+msgid "popup_stamina_title_00"
+msgstr ""
+
+msgid "popup_stamina_text_00"
+msgstr ""
+
+msgid "popup_ap_title_00"
+msgstr ""
+
+msgid "popup_ap_text_00"
+msgstr ""
+
+msgid "item_popup_text_00"
+msgstr ""
+
+msgid "item_detail_popup_title_00"
+msgstr ""
+
+msgid "pbox_title_00"
+msgstr ""
+
+msgid "pbox_title_01"
+msgstr ""
+
+msgid "pbox_title_02"
+msgstr ""
+
+msgid "pbox_title_03"
+msgstr ""
+
+msgid "pbox_title_04"
+msgstr ""
+
+msgid "pbox_text_01"
+msgstr ""
+
+msgid "pbox_text_02"
+msgstr ""
+
+msgid "pbox_text_03"
+msgstr ""
+
+msgid "pbox_text_04"
+msgstr ""
+
+msgid "pbox_text_05"
+msgstr ""
+
+msgid "pbox_text_06"
+msgstr ""
+
+msgid "pbox_text_07"
+msgstr ""
+
+msgid "pbox_text_08"
+msgstr ""
+
+msgid "pbox_text_09"
+msgstr ""
+
+msgid "pbox_text_10"
+msgstr ""
+
+msgid "pbox_text_11"
+msgstr ""
+
+msgid "pbox_text_12"
+msgstr ""
+
+msgid "pbox_text_13"
+msgstr ""
+
+msgid "pbox_text_14"
+msgstr ""
+
+msgid "pbox_win_warn01"
+msgstr ""
+
+msgid "pbox_win_warn02"
+msgstr ""
+
+msgid "pbox_win_none01"
+msgstr ""
+
+msgid "pbox_win_none02"
+msgstr ""
+
+msgid "set_notification_text_00"
+msgstr ""
+
+msgid "set_notification_text_01"
+msgstr ""
+
+msgid "set_notification_text_02"
+msgstr ""
+
+msgid "set_notification_text_03"
+msgstr ""
+
+msgid "set_notification_text_04"
+msgstr ""
+
+msgid "set_notification_text_05"
+msgstr ""
+
+msgid "set_notification_text_06"
+msgstr ""
+
+msgid "set_notification_text_07"
+msgstr ""
+
+msgid "set_notification_text_08"
+msgstr ""
+
+msgid "set_notification_text_09"
+msgstr ""
+
+msgid "set_notification_text_10"
+msgstr ""
+
+msgid "set_notification_text_11"
+msgstr ""
+
+msgid "set_battle_event_text_01"
+msgstr ""
+
+msgid "set_battle_event_text_02"
+msgstr ""
+
+msgid "set_battle_event_text_03"
+msgstr ""
+
+msgid "set_battle_event_text_04"
+msgstr ""
+
+msgid "config_text_00"
+msgstr ""
+
+msgid "config_text_01"
+msgstr ""
+
+msgid "config_text_02"
+msgstr ""
+
+msgid "config_text_03"
+msgstr ""
+
+msgid "config_text_04"
+msgstr ""
+
+msgid "config_text_05"
+msgstr ""
+
+msgid "config_text_05_iphone"
+msgstr ""
+
+msgid "config_text_05_android"
+msgstr ""
+
+msgid "config_text_06"
+msgstr ""
+
+msgid "config_text_07"
+msgstr ""
+
+msgid "config_text_08"
+msgstr ""
+
+msgid "config_text_09"
+msgstr ""
+
+msgid "config_text_10"
+msgstr ""
+
+msgid "config_text_11"
+msgstr ""
+
+msgid "config_text_12"
+msgstr ""
+
+msgid "config_text_13"
+msgstr ""
+
+msgid "config_text_14"
+msgstr ""
+
+msgid "config_text_15"
+msgstr ""
+
+msgid "config_text_16"
+msgstr ""
+
+msgid "config_text_17"
+msgstr ""
+
+msgid "config_text_18"
+msgstr ""
+
+msgid "config_text_19"
+msgstr ""
+
+msgid "config_text_20"
+msgstr ""
+
+msgid "config_text_21"
+msgstr ""
+
+msgid "config_text_22"
+msgstr ""
+
+msgid "config_text_23"
+msgstr ""
+
+msgid "config_text_24"
+msgstr ""
+
+msgid "config_text_25"
+msgstr ""
+
+msgid "config_text_26"
+msgstr ""
+
+msgid "config_text_27"
+msgstr ""
+
+msgid "config_text_28"
+msgstr ""
+
+msgid "config_text_29"
+msgstr ""
+
+msgid "config_text_30"
+msgstr ""
+
+msgid "config_text_31"
+msgstr ""
+
+msgid "config_text_32"
+msgstr ""
+
+msgid "config_text_33"
+msgstr ""
+
+msgid "config_text_34"
+msgstr ""
+
+msgid "config_text_35"
+msgstr ""
+
+msgid "config_text_36"
+msgstr ""
+
+msgid "config_text_37_rhythm"
+msgstr ""
+
+msgid "config_text_37_option"
+msgstr ""
+
+msgid "config_text_38"
+msgstr ""
+
+msgid "config_text_39"
+msgstr ""
+
+msgid "config_text_40"
+msgstr ""
+
+msgid "config_text_41"
+msgstr ""
+
+msgid "config_text_42"
+msgstr ""
+
+msgid "config_text_43"
+msgstr ""
+
+msgid "config_text_44"
+msgstr ""
+
+msgid "config_text_45"
+msgstr ""
+
+msgid "config_text_46"
+msgstr ""
+
+msgid "config_text_47"
+msgstr ""
+
+msgid "config_text_48"
+msgstr ""
+
+msgid "config_text_49"
+msgstr ""
+
+msgid "config_text_50"
+msgstr ""
+
+msgid "config_text_51"
+msgstr ""
+
+msgid "config_text_52"
+msgstr ""
+
+msgid "config_text_53"
+msgstr ""
+
+msgid "config_text_54"
+msgstr ""
+
+msgid "config_text_55"
+msgstr ""
+
+msgid "config_text_56"
+msgstr ""
+
+msgid "config_text_57"
+msgstr ""
+
+msgid "config_text_58"
+msgstr ""
+
+msgid "config_text_59"
+msgstr ""
+
+msgid "config_text_60"
+msgstr ""
+
+msgid "config_text_61"
+msgstr ""
+
+msgid "config_text_62"
+msgstr ""
+
+msgid "config_text_63"
+msgstr ""
+
+msgid "config_text_64"
+msgstr ""
+
+msgid "config_text_65"
+msgstr ""
+
+msgid "config_text_66"
+msgstr ""
+
+msgid "config_text_67"
+msgstr ""
+
+msgid "config_text_68"
+msgstr ""
+
+msgid "config_text_69"
+msgstr ""
+
+msgid "config_text_70"
+msgstr ""
+
+msgid "config_text_71"
+msgstr ""
+
+msgid "config_text_72"
+msgstr ""
+
+msgid "config_text_73"
+msgstr ""
+
+msgid "config_text_74"
+msgstr ""
+
+msgid "config_text_75"
+msgstr ""
+
+msgid "config_text_76"
+msgstr ""
+
+msgid "config_text_77"
+msgstr ""
+
+msgid "config_text_78"
+msgstr ""
+
+msgid "config_text_79"
+msgstr ""
+
+msgid "config_text_80"
+msgstr ""
+
+msgid "config_text_81"
+msgstr ""
+
+msgid "config_text_82"
+msgstr ""
+
+msgid "config_text_83"
+msgstr ""
+
+msgid "config_text_84"
+msgstr ""
+
+msgid "config_text_85"
+msgstr ""
+
+msgid "config_text_86"
+msgstr ""
+
+msgid "config_text_87"
+msgstr ""
+
+msgid "config_text_88"
+msgstr ""
+
+msgid "config_text_89"
+msgstr ""
+
+msgid "config_text_90"
+msgstr ""
+
+msgid "config_text_91"
+msgstr ""
+
+msgid "config_text_92"
+msgstr ""
+
+msgid "config_text_93"
+msgstr ""
+
+msgid "config_text_94"
+msgstr ""
+
+msgid "config_text_95"
+msgstr ""
+
+msgid "config_text_96"
+msgstr ""
+
+msgid "growth_list_text_01"
+msgstr ""
+
+msgid "growth_list_text_02"
+msgstr ""
+
+msgid "growth_list_text_03"
+msgstr ""
+
+msgid "growth_popup_title_01"
+msgstr ""
+
+msgid "growth_popup_title_text01"
+msgstr ""
+
+msgid "growth_popup_title_text02"
+msgstr ""
+
+msgid "growth_popup_title_text03"
+msgstr ""
+
+msgid "growth_popup_title_text04"
+msgstr ""
+
+msgid "growth_popup_title_text05"
+msgstr ""
+
+msgid "growth_popup_title_text06"
+msgstr ""
+
+msgid "growth_popup_text01"
+msgstr ""
+
+msgid "growth_popup_text02"
+msgstr ""
+
+msgid "growth_popup_text03"
+msgstr ""
+
+msgid "growth_popup_text04"
+msgstr ""
+
+msgid "growth_popup_text05"
+msgstr ""
+
+msgid "growth_popup_text06"
+msgstr ""
+
+msgid "growth_popup_text07"
+msgstr ""
+
+msgid "growth_popup_text08"
+msgstr ""
+
+msgid "growth_popup_text09"
+msgstr ""
+
+msgid "growth_popup_text10"
+msgstr ""
+
+msgid "growth_popup_text11"
+msgstr ""
+
+msgid "growth_popup_text12"
+msgstr ""
+
+msgid "growth_popup_text13"
+msgstr ""
+
+msgid "growth_popup_text14"
+msgstr ""
+
+msgid "growth_popup_text15"
+msgstr ""
+
+msgid "growth_popup_text16"
+msgstr ""
+
+msgid "growth_popup_text17"
+msgstr ""
+
+msgid "growth_popup_text18"
+msgstr ""
+
+msgid "growth_popup_text19"
+msgstr ""
+
+msgid "growth_addreward_text"
+msgstr ""
+
+msgid "story_unlock_01"
+msgstr ""
+
+msgid "story_unlock_02"
+msgstr ""
+
+msgid "story_unlock_03"
+msgstr ""
+
+msgid "story_unlock_04"
+msgstr ""
+
+msgid "story_unlock_05"
+msgstr ""
+
+msgid "story_unlock_06"
+msgstr ""
+
+msgid "story_unlock_07"
+msgstr ""
+
+msgid "story_unlock_08"
+msgstr ""
+
+msgid "story_unlock_09"
+msgstr ""
+
+msgid "story_unlock_10"
+msgstr ""
+
+msgid "story_unlock_11"
+msgstr ""
+
+msgid "music_not_exist_text_00"
+msgstr ""
+
+msgid "music_not_exist_line6_text_00"
+msgstr ""
+
+msgid "reward_all_clear_text_00"
+msgstr ""
+
+msgid "unit_auto_popup_text_00"
+msgstr ""
+
+msgid "unit_auto_popup_text_01"
+msgstr ""
+
+msgid "unit_clearplate_confirm_text"
+msgstr ""
+
+msgid "unit_save_text"
+msgstr ""
+
+msgid "unit_load_text"
+msgstr ""
+
+msgid "header_desc_home000"
+msgstr ""
+
+msgid "header_desc_home001"
+msgstr ""
+
+msgid "header_desc_home002"
+msgstr ""
+
+msgid "header_desc_home003"
+msgstr ""
+
+msgid "header_desc_home004"
+msgstr ""
+
+msgid "header_desc_home005"
+msgstr ""
+
+msgid "header_desc_home006"
+msgstr ""
+
+msgid "header_desc_home007"
+msgstr ""
+
+msgid "header_desc_home008"
+msgstr ""
+
+msgid "header_desc_home009"
+msgstr ""
+
+msgid "header_desc_home010"
+msgstr ""
+
+msgid "header_desc_vop000"
+msgstr ""
+
+msgid "header_desc_vop001"
+msgstr ""
+
+msgid "header_desc_vop002"
+msgstr ""
+
+msgid "header_desc_vop003"
+msgstr ""
+
+msgid "header_desc_home030"
+msgstr ""
+
+msgid "header_desc_home031"
+msgstr ""
+
+msgid "header_desc_home032"
+msgstr ""
+
+msgid "header_desc_home033"
+msgstr ""
+
+msgid "header_desc_home034"
+msgstr ""
+
+msgid "header_desc_home035"
+msgstr ""
+
+msgid "header_desc_home110"
+msgstr ""
+
+msgid "header_desc_home130"
+msgstr ""
+
+msgid "header_desc_home201"
+msgstr ""
+
+msgid "header_desc_home202"
+msgstr ""
+
+msgid "header_desc_home203"
+msgstr ""
+
+msgid "header_desc_home204"
+msgstr ""
+
+msgid "header_desc_home205"
+msgstr ""
+
+msgid "header_desc_home206"
+msgstr ""
+
+msgid "header_desc_home207"
+msgstr ""
+
+msgid "header_desc_home208"
+msgstr ""
+
+msgid "header_desc_home209"
+msgstr ""
+
+msgid "header_desc_home210"
+msgstr ""
+
+msgid "header_desc_home211"
+msgstr ""
+
+msgid "header_desc_home230"
+msgstr ""
+
+msgid "header_desc_home231"
+msgstr ""
+
+msgid "header_desc_home240"
+msgstr ""
+
+msgid "header_desc_home301"
+msgstr ""
+
+msgid "header_desc_home302"
+msgstr ""
+
+msgid "header_desc_home303"
+msgstr ""
+
+msgid "header_desc_setting000"
+msgstr ""
+
+msgid "header_desc_setting001"
+msgstr ""
+
+msgid "header_desc_setting002"
+msgstr ""
+
+msgid "header_desc_setting003"
+msgstr ""
+
+msgid "header_desc_setting004"
+msgstr ""
+
+msgid "header_desc_setting005"
+msgstr ""
+
+msgid "header_desc_setting006"
+msgstr ""
+
+msgid "header_desc_setting007"
+msgstr ""
+
+msgid "header_desc_setting008"
+msgstr ""
+
+msgid "header_desc_setting009"
+msgstr ""
+
+msgid "header_desc_setting010"
+msgstr ""
+
+msgid "header_desc_setting011"
+msgstr ""
+
+msgid "header_desc_setting012"
+msgstr ""
+
+msgid "header_desc_setting013"
+msgstr ""
+
+msgid "header_desc_setting030"
+msgstr ""
+
+msgid "header_desc_setting031"
+msgstr ""
+
+msgid "header_desc_setting032"
+msgstr ""
+
+msgid "header_desc_story000"
+msgstr ""
+
+msgid "header_desc_story001"
+msgstr ""
+
+msgid "header_desc_story002"
+msgstr ""
+
+msgid "header_desc_story003"
+msgstr ""
+
+msgid "header_desc_story004"
+msgstr ""
+
+msgid "header_desc_story005"
+msgstr ""
+
+msgid "header_desc_story006"
+msgstr ""
+
+msgid "header_desc_story007"
+msgstr ""
+
+msgid "header_desc_story008"
+msgstr ""
+
+msgid "header_desc_story009"
+msgstr ""
+
+msgid "header_desc_story030"
+msgstr ""
+
+msgid "header_desc_story031"
+msgstr ""
+
+msgid "header_desc_free000"
+msgstr ""
+
+msgid "header_desc_free001"
+msgstr ""
+
+msgid "header_desc_free002"
+msgstr ""
+
+msgid "header_desc_free003"
+msgstr ""
+
+msgid "header_desc_free004"
+msgstr ""
+
+msgid "header_desc_free005"
+msgstr ""
+
+msgid "header_desc_free006"
+msgstr ""
+
+msgid "header_desc_free007"
+msgstr ""
+
+msgid "header_desc_free008"
+msgstr ""
+
+msgid "header_desc_free009"
+msgstr ""
+
+msgid "header_desc_free010"
+msgstr ""
+
+msgid "header_desc_free011"
+msgstr ""
+
+msgid "header_desc_free020"
+msgstr ""
+
+msgid "header_desc_free110"
+msgstr ""
+
+msgid "header_desc_free120"
+msgstr ""
+
+msgid "header_desc_free130"
+msgstr ""
+
+msgid "header_desc_free030"
+msgstr ""
+
+msgid "header_desc_free031"
+msgstr ""
+
+msgid "header_desc_free201"
+msgstr ""
+
+msgid "header_desc_free202"
+msgstr ""
+
+msgid "header_desc_free203"
+msgstr ""
+
+msgid "header_desc_free204"
+msgstr ""
+
+msgid "header_desc_free205"
+msgstr ""
+
+msgid "header_desc_free206"
+msgstr ""
+
+msgid "header_desc_free207"
+msgstr ""
+
+msgid "header_desc_free208"
+msgstr ""
+
+msgid "header_desc_free209"
+msgstr ""
+
+msgid "header_desc_free210"
+msgstr ""
+
+msgid "header_desc_free211"
+msgstr ""
+
+msgid "header_desc_free230"
+msgstr ""
+
+msgid "header_desc_free231"
+msgstr ""
+
+msgid "header_desc_free240"
+msgstr ""
+
+msgid "header_desc_free303"
+msgstr ""
+
+msgid "header_desc_gacha000"
+msgstr ""
+
+msgid "header_desc_gacha001"
+msgstr ""
+
+msgid "header_desc_quest000"
+msgstr ""
+
+msgid "header_desc_quest001"
+msgstr ""
+
+msgid "header_desc_quest002"
+msgstr ""
+
+msgid "header_desc_quest003"
+msgstr ""
+
+msgid "header_desc_option000"
+msgstr ""
+
+msgid "header_desc_option001"
+msgstr ""
+
+msgid "header_desc_option002"
+msgstr ""
+
+msgid "header_desc_option003"
+msgstr ""
+
+msgid "header_desc_option004"
+msgstr ""
+
+msgid "header_desc_option005"
+msgstr ""
+
+msgid "header_desc_option006"
+msgstr ""
+
+msgid "header_desc_option007"
+msgstr ""
+
+msgid "header_desc_option008"
+msgstr ""
+
+msgid "header_desc_option009"
+msgstr ""
+
+msgid "header_desc_evquest001"
+msgstr ""
+
+msgid "header_desc_evquest002"
+msgstr ""
+
+msgid "header_desc_evquest003"
+msgstr ""
+
+msgid "header_desc_evquest004"
+msgstr ""
+
+msgid "header_desc_evquest005"
+msgstr ""
+
+msgid "header_desc_evquest006"
+msgstr ""
+
+msgid "header_desc_evquest007"
+msgstr ""
+
+msgid "header_desc_evquest008"
+msgstr ""
+
+msgid "header_desc_evquest009"
+msgstr ""
+
+msgid "header_desc_evquest010"
+msgstr ""
+
+msgid "header_desc_evquest011"
+msgstr ""
+
+msgid "header_desc_evquest110"
+msgstr ""
+
+msgid "header_desc_evquest120"
+msgstr ""
+
+msgid "header_desc_evquest130"
+msgstr ""
+
+msgid "header_desc_evquest030"
+msgstr ""
+
+msgid "header_desc_evquest031"
+msgstr ""
+
+msgid "header_desc_result211"
+msgstr ""
+
+msgid "header_desc_result240"
+msgstr ""
+
+msgid "header_desc_musicrate000"
+msgstr ""
+
+msgid "header_desc_musicrate001"
+msgstr ""
+
+msgid "popup_unlock_desc_000"
+msgstr ""
+
+msgid "popup_unlock_desc_001"
+msgstr ""
+
+msgid "popup_unlock_desc_002"
+msgstr ""
+
+msgid "popup_loginbonus_001"
+msgstr ""
+
+msgid "popup_loginbonus_002"
+msgstr ""
+
+msgid "popup_loginbonus_comeback_pack_001"
+msgstr ""
+
+msgid "popup_review_000"
+msgstr ""
+
+msgid "popup_review_001"
+msgstr ""
+
+msgid "popup_review_002"
+msgstr ""
+
+msgid "popup_review_003"
+msgstr ""
+
+msgid "popup_review_004"
+msgstr ""
+
+msgid "popup_reward_detail_001"
+msgstr ""
+
+msgid "popup_reward_detail_002"
+msgstr ""
+
+msgid "popup_reward_detail_003"
+msgstr ""
+
+msgid "popup_reward_detail_004"
+msgstr ""
+
+msgid "popup_reward_detail_005"
+msgstr ""
+
+msgid "popup_reward_detail_title"
+msgstr ""
+
+msgid "pupup_app_exit_title"
+msgstr ""
+
+msgid "popup_app_exit"
+msgstr ""
+
+msgid "popup_quest_reward_title"
+msgstr ""
+
+msgid "quest_event_none_list"
+msgstr ""
+
+msgid "quest_reward_none_list"
+msgstr ""
+
+msgid "quest_timer_d"
+msgstr ""
+
+msgid "quest_timer_h"
+msgstr ""
+
+msgid "quest_timer_m"
+msgstr ""
+
+msgid "quest_tiemr_e001"
+msgstr ""
+
+msgid "quest_tiemr_e002"
+msgstr ""
+
+msgid "quest_tiemr_e003"
+msgstr ""
+
+msgid "popup_quest_detail_001"
+msgstr ""
+
+msgid "popup_quest_detail_002"
+msgstr ""
+
+msgid "popup_title_episode_01"
+msgstr ""
+
+msgid "popup_title_episode_02"
+msgstr ""
+
+msgid "popup_title_episode_03"
+msgstr ""
+
+msgid "popup_title_episode_04"
+msgstr ""
+
+msgid "episode_item_select_01"
+msgstr ""
+
+msgid "popup_title_sns_01"
+msgstr ""
+
+msgid "sns_text_01"
+msgstr ""
+
+msgid "sns_item_description"
+msgstr ""
+
+msgid "popup_friend_request_title"
+msgstr ""
+
+msgid "popup_friend_request_msg"
+msgstr ""
+
+msgid "popup_friend_release_title"
+msgstr ""
+
+msgid "popup_friend_release_msg"
+msgstr ""
+
+msgid "popup_friend_cancel_title"
+msgstr ""
+
+msgid "popup_friend_cancel_msg"
+msgstr ""
+
+msgid "popup_friend_accept_title"
+msgstr ""
+
+msgid "popup_friend_accept_msg"
+msgstr ""
+
+msgid "popup_friend_reject_title"
+msgstr ""
+
+msgid "popup_friend_reject_msg"
+msgstr ""
+
+msgid "popup_friend_requested_title"
+msgstr ""
+
+msgid "popup_friend_requested_msg"
+msgstr ""
+
+msgid "popup_friend_released_title"
+msgstr ""
+
+msgid "popup_friend_released_msg"
+msgstr ""
+
+msgid "popup_friend_cancelled_title"
+msgstr ""
+
+msgid "popup_friend_cancelled_msg"
+msgstr ""
+
+msgid "popup_friend_accepted_title"
+msgstr ""
+
+msgid "popup_friend_accepted_msg"
+msgstr ""
+
+msgid "popup_friend_rejected_title"
+msgstr ""
+
+msgid "popup_friend_rejected_msg"
+msgstr ""
+
+msgid "friend_accept_not_found"
+msgstr ""
+
+msgid "friend_list_not_found"
+msgstr ""
+
+msgid "friend_request_not_found"
+msgstr ""
+
+msgid "friend_search_ready"
+msgstr ""
+
+msgid "friend_search_not_found"
+msgstr ""
+
+msgid "friend_caution_request"
+msgstr ""
+
+msgid "popup_friend_search_title"
+msgstr ""
+
+msgid "popup_friend_search_placeholder"
+msgstr ""
+
+msgid "popup_friend_search_myself_title"
+msgstr ""
+
+msgid "popup_friend_search_myself_msg"
+msgstr ""
+
+msgid "popup_friend_search_not_found_title"
+msgstr ""
+
+msgid "popup_friend_search_not_found_msg"
+msgstr ""
+
+msgid "ranking_message"
+msgstr ""
+
+msgid "ranking_no_entry"
+msgstr ""
+
+msgid "ranking_ev_period"
+msgstr ""
+
+msgid "ranking_ev_period_date"
+msgstr ""
+
+msgid "ranking_ev_no_entry"
+msgstr ""
+
+msgid "ranking_ev_range_not_found"
+msgstr ""
+
+msgid "popup_rank_range_title"
+msgstr ""
+
+msgid "popup_rank_range_myself"
+msgstr ""
+
+msgid "popup_rank_range_place"
+msgstr ""
+
+msgid "music_week_play_count_limit"
+msgstr ""
+
+msgid "music_event_end_week"
+msgstr ""
+
+msgid "music_event_end_score_rank"
+msgstr ""
+
+msgid "music_event_end_attain"
+msgstr ""
+
+msgid "music_event_end_attain_banner"
+msgstr ""
+
+msgid "music_event_end_attain_popup"
+msgstr ""
+
+msgid "music_event_period"
+msgstr ""
+
+msgid "music_event_period_date"
+msgstr ""
+
+msgid "music_event_remain_prefix"
+msgstr ""
+
+msgid "music_event_remain_day"
+msgstr ""
+
+msgid "music_event_remain_hour"
+msgstr ""
+
+msgid "music_event_remain_minute"
+msgstr ""
+
+msgid "music_event_remain_second"
+msgstr ""
+
+msgid "music_event_collect_ticket_label"
+msgstr ""
+
+msgid "music_event_collect_current_point_label"
+msgstr ""
+
+msgid "music_event_collect_next_point_label"
+msgstr ""
+
+msgid "music_event_collect_point_unit"
+msgstr ""
+
+msgid "music_event_collect_rank_label"
+msgstr ""
+
+msgid "music_event_collect_rank_counting_label"
+msgstr ""
+
+msgid "music_event_collect_rank_unit"
+msgstr ""
+
+msgid "music_event_collect_rank_counting"
+msgstr ""
+
+msgid "music_event_collect_reward_label"
+msgstr ""
+
+msgid "music_event_battle_current_point_label"
+msgstr ""
+
+msgid "music_event_battle_next_point_label"
+msgstr ""
+
+msgid "music_event_battle_point_unit"
+msgstr ""
+
+msgid "music_event_battle_rank_hiscore_label"
+msgstr ""
+
+msgid "music_event_battle_rank_hiscore_counting_label"
+msgstr ""
+
+msgid "music_event_battle_rank_total_label"
+msgstr ""
+
+msgid "music_event_battle_rank_total_counting_label"
+msgstr ""
+
+msgid "music_event_battle_rank_unit"
+msgstr ""
+
+msgid "music_event_battle_bp_counting_label"
+msgstr ""
+
+msgid "music_event_battle_rank_counting"
+msgstr ""
+
+msgid "music_event_battle_reward_label"
+msgstr ""
+
+msgid "music_event_battle_class"
+msgstr ""
+
+msgid "music_event_battle_ｔarｇeｔ_score"
+msgstr ""
+
+msgid "music_event_battle_class_lvup"
+msgstr ""
+
+msgid "music_event_battle_class_get_emblem_01"
+msgstr ""
+
+msgid "music_event_battle_class_get_emblem_02"
+msgstr ""
+
+msgid "music_event_battle_class_next_01"
+msgstr ""
+
+msgid "music_event_battle_class_next_02"
+msgstr ""
+
+msgid "music_event_battle_class_caution"
+msgstr ""
+
+msgid "music_event_battle_class_reselect_01"
+msgstr ""
+
+msgid "music_event_battle_class_reselect_02"
+msgstr ""
+
+msgid "music_event_battle_class_reselect_03"
+msgstr ""
+
+msgid "ex_battle_non_record"
+msgstr ""
+
+msgid "event_battle_reward_check_hi_score"
+msgstr ""
+
+msgid "event_battle_reward_check_ranking"
+msgstr ""
+
+msgid "event_battle_reward_check_ranking_unit"
+msgstr ""
+
+msgid "music_event_battle_ex_schedule_caution_01"
+msgstr ""
+
+msgid "music_event_battle_ex_schedule_caution_02"
+msgstr ""
+
+msgid "music_event_end"
+msgstr ""
+
+msgid "music_event_counting"
+msgstr ""
+
+msgid "music_to_live_ticket_msg"
+msgstr ""
+
+msgid "music_select_slive_own_item"
+msgstr ""
+
+msgid "music_select_slive_cost_item"
+msgstr ""
+
+msgid "game_play_event_end_attain"
+msgstr ""
+
+msgid "gacha_list_period"
+msgstr ""
+
+msgid "gacha_list_daycount"
+msgstr ""
+
+msgid "gacha_main_timezone"
+msgstr ""
+
+msgid "gacha_main_timezone_time"
+msgstr ""
+
+msgid "gacha_main_event_period"
+msgstr ""
+
+msgid "gacha_main_promo_msg_01"
+msgstr ""
+
+msgid "gacha_main_promo_msg_02"
+msgstr ""
+
+msgid "gacha_main_ep_reward_sub"
+msgstr ""
+
+msgid "gacha_main_ep_caution01"
+msgstr ""
+
+msgid "gacha_main_ep_caution02"
+msgstr ""
+
+msgid "gacha_main_ep_diva_costume"
+msgstr ""
+
+msgid "gacha_main_pickup_caution"
+msgstr ""
+
+msgid "gacha_main_ticket_sale_period"
+msgstr ""
+
+msgid "gacha_main_mpass_desc"
+msgstr ""
+
+msgid "gacha_main_mpass_caution"
+msgstr ""
+
+msgid "gacha_main_mpass_period"
+msgstr ""
+
+msgid "popup_record_plate_001"
+msgstr ""
+
+msgid "popup_record_plate_002"
+msgstr ""
+
+msgid "popup_record_plate_003"
+msgstr ""
+
+msgid "popup_record_plate_004"
+msgstr ""
+
+msgid "popup_record_plate_005"
+msgstr ""
+
+msgid "popup_record_plate_006"
+msgstr ""
+
+msgid "popup_record_plate_007"
+msgstr ""
+
+msgid "popup_record_plate_008"
+msgstr ""
+
+msgid "popup_record_plate_009"
+msgstr ""
+
+msgid "popup_record_plate_010"
+msgstr ""
+
+msgid "popup_gacha_rate_title"
+msgstr ""
+
+msgid "popup_gacha_rate_limited_header"
+msgstr ""
+
+msgid "popup_gacha_rate_limited_list"
+msgstr ""
+
+msgid "popup_gacha_rate_limited5_header"
+msgstr ""
+
+msgid "popup_gacha_rate_limited5_list"
+msgstr ""
+
+msgid "popup_gacha_rate_basic_header"
+msgstr ""
+
+msgid "popup_gacha_rate_basic_list"
+msgstr ""
+
+msgid "popup_gacha_rate_pickup"
+msgstr ""
+
+msgid "popup_gacha_rate_stepup"
+msgstr ""
+
+msgid "popup_gacha_rate_warning"
+msgstr ""
+
+msgid "popup_gacha2_rate_warning"
+msgstr ""
+
+msgid "popup_gacha_once_rate_warning"
+msgstr ""
+
+msgid "popup_gacha_rare5_rate_warning"
+msgstr ""
+
+msgid "popup_gacha_debut_rate_warning"
+msgstr ""
+
+msgid "popup_gacha_stepup_rate_warning"
+msgstr ""
+
+msgid "popup_gacha_pass_rate_warning"
+msgstr ""
+
+msgid "popup_gacha_rate_ep_caution01"
+msgstr ""
+
+msgid "popup_gacha_rate_ep_caution02"
+msgstr ""
+
+msgid "popup_gacha_rate_ep_episode_sub"
+msgstr ""
+
+msgid "popup_gacha_rate_ep_reward_sub"
+msgstr ""
+
+msgid "popup_gacha_rate_ep_diva_costume"
+msgstr ""
+
+msgid "popup_home_scene_bg_title"
+msgstr ""
+
+msgid "popup_home_scene_bg_msg"
+msgstr ""
+
+msgid "popup_home_scene_limited_bg_msg_00"
+msgstr ""
+
+msgid "popup_home_scene_limited_bg_msg_01"
+msgstr ""
+
+msgid "popup_home_scene_limited_bg_msg_02"
+msgstr ""
+
+msgid "popup_home_ngword_rename_title"
+msgstr ""
+
+msgid "popup_home_ngword_rename_msg"
+msgstr ""
+
+msgid "home_pickup_checkbox"
+msgstr ""
+
+msgid "home_event_end_attain"
+msgstr ""
+
+msgid "home_event_epilogue"
+msgstr ""
+
+msgid "home_banner_event_end_attain"
+msgstr ""
+
+msgid "popup_scene_autocombine_title"
+msgstr ""
+
+msgid "popup_scene_autocombine_msg"
+msgstr ""
+
+msgid "popup_scene_convertitem_title"
+msgstr ""
+
+msgid "popup_scene_convertitem_msg"
+msgstr ""
+
+msgid "popup_gacha_lot_paid_msg"
+msgstr ""
+
+msgid "popup_gacha_lot_paid_few_msg"
+msgstr ""
+
+msgid "popup_gacha_lot_paid_count"
+msgstr ""
+
+msgid "popup_gacha_lot_free_msg"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_msg"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_few_msg"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_few_caution_01"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_few_caution_02"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_few_caution_03"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_count"
+msgstr ""
+
+msgid "popup_gacha_reject_title"
+msgstr ""
+
+msgid "popup_gacha_reject_free_timeout_msg"
+msgstr ""
+
+msgid "popup_gacha_reject_ticket_timeout_msg"
+msgstr ""
+
+msgid "popup_myid_copy_title"
+msgstr ""
+
+msgid "popup_myid_copy_msg"
+msgstr ""
+
+msgid "popup_title_degree_01"
+msgstr ""
+
+msgid "degree_current_window_title"
+msgstr ""
+
+msgid "degree_select_window_title"
+msgstr ""
+
+msgid "popup_title_profil_01"
+msgstr ""
+
+msgid "popup_title_profil_02"
+msgstr ""
+
+msgid "popup_title_profil_03"
+msgstr ""
+
+msgid "popup_title_profil_04"
+msgstr ""
+
+msgid "popup_title_profil_05"
+msgstr ""
+
+msgid "popup_title_profil_06"
+msgstr ""
+
+msgid "popup_title_profil_07"
+msgstr ""
+
+msgid "popup_title_profil_08"
+msgstr ""
+
+msgid "popup_title_profil_09"
+msgstr ""
+
+msgid "popup_title_profil_10"
+msgstr ""
+
+msgid "popup_title_profil_11"
+msgstr ""
+
+msgid "popup_title_profil_12"
+msgstr ""
+
+msgid "popup_title_profil_13"
+msgstr ""
+
+msgid "popup_title_profil_14"
+msgstr ""
+
+msgid "popup_title_profil_15"
+msgstr ""
+
+msgid "popup_title_playernameentry"
+msgstr ""
+
+msgid "popup_text_playernameentry_desc"
+msgstr ""
+
+msgid "popup_text_playernameentry_notes"
+msgstr ""
+
+msgid "popup_text_playernameconfirm"
+msgstr ""
+
+msgid "popup_text_notchangedplayername"
+msgstr ""
+
+msgid "popup_text_notchangedcomment"
+msgstr ""
+
+msgid "popup_title_stamina_01"
+msgstr ""
+
+msgid "popup_text_stamina_01"
+msgstr ""
+
+msgid "popup_text_stamina_02"
+msgstr ""
+
+msgid "popup_text_stamina_03"
+msgstr ""
+
+msgid "popup_text_stamina_04"
+msgstr ""
+
+msgid "popup_text_stamina_05"
+msgstr ""
+
+msgid "popup_title_week_recovery_01"
+msgstr ""
+
+msgid "popup_title_week_recovery_02"
+msgstr ""
+
+msgid "popup_text_week_recovery_01"
+msgstr ""
+
+msgid "popup_text_week_recovery_02"
+msgstr ""
+
+msgid "popup_text_week_recovery_03"
+msgstr ""
+
+msgid "popup_text_week_recovery_04"
+msgstr ""
+
+msgid "diva_musiclevel_nocleartext"
+msgstr ""
+
+msgid "popup_event_quest_change_diff_title"
+msgstr ""
+
+msgid "popup_event_quest_change_diff_text"
+msgstr ""
+
+msgid "popup_event_quest_reset"
+msgstr ""
+
+msgid "popup_event_quest_reset_failed"
+msgstr ""
+
+msgid "popup_event_quest_last_spurt_title"
+msgstr ""
+
+msgid "popup_event_quest_last_spurt_text"
+msgstr ""
+
+msgid "popup_event_quest_select_lucky"
+msgstr ""
+
+msgid "event_quest_progress"
+msgstr ""
+
+msgid "event_quest_touch_screen"
+msgstr ""
+
+msgid "event_quest_touch_screen2"
+msgstr ""
+
+msgid "event_quest_touch_screen3"
+msgstr ""
+
+msgid "event_quest_touch_screen4"
+msgstr ""
+
+msgid "event_quest_limit_time_d"
+msgstr ""
+
+msgid "event_quest_limit_time_h"
+msgstr ""
+
+msgid "event_quest_limit_time_m"
+msgstr ""
+
+msgid "event_quest_progress_count"
+msgstr ""
+
+msgid "popup_event_quest_unreceived_reward_title"
+msgstr ""
+
+msgid "popup_event_quest_unreceived_reward_text"
+msgstr ""
+
+msgid "popup_event_collect_ticket_few_title"
+msgstr ""
+
+msgid "popup_event_collect_ticket_few_msg"
+msgstr ""
+
+msgid "popup_event_login_item00_title_msg"
+msgstr ""
+
+msgid "popup_event_login_item00_label00_msg"
+msgstr ""
+
+msgid "popup_event_login_item00_label01_msg"
+msgstr ""
+
+msgid "popup_event_login_item01_title_msg"
+msgstr ""
+
+msgid "popup_event_login_item01_label00_msg"
+msgstr ""
+
+msgid "popup_event_login_item01_label01_msg"
+msgstr ""
+
+msgid "popup_event_login_prologue_title"
+msgstr ""
+
+msgid "popup_event_login_epilogue_title"
+msgstr ""
+
+msgid "popup_event_score_my_rank_title"
+msgstr ""
+
+msgid "popup_event_score_my_rank_msg"
+msgstr ""
+
+msgid "popup_unlock_diva_title"
+msgstr ""
+
+msgid "popup_unlock_basara_title"
+msgstr ""
+
+msgid "popup_unlock_diva_desc_001"
+msgstr ""
+
+msgid "popup_unlock_basara_desc_001"
+msgstr ""
+
+msgid "popup_story_diva_title_001"
+msgstr ""
+
+msgid "popup_story_diva_title_002"
+msgstr ""
+
+msgid "result_playlog_hint_001"
+msgstr ""
+
+msgid "result_playlog_hint_002"
+msgstr ""
+
+msgid "result_playlog_hint_003"
+msgstr ""
+
+msgid "result_playlog_hint_004"
+msgstr ""
+
+msgid "result_playlog_hint_005"
+msgstr ""
+
+msgid "result_playlog_hint_006"
+msgstr ""
+
+msgid "result_playlog_hint_007"
+msgstr ""
+
+msgid "result_playlog_hint_008"
+msgstr ""
+
+msgid "result_playlog_hint_009"
+msgstr ""
+
+msgid "result_playlog_hint_010"
+msgstr ""
+
+msgid "result_playlog_hint_011"
+msgstr ""
+
+msgid "result_playlog_hint_012"
+msgstr ""
+
+msgid "result_playlog_graph_detail"
+msgstr ""
+
+msgid "popup_valkyrie_select_title"
+msgstr ""
+
+msgid "popup_event_reward_result_pt_title"
+msgstr ""
+
+msgid "popup_event_reward_result_rank_title"
+msgstr ""
+
+msgid "popup_event_reward_ranking_type001"
+msgstr ""
+
+msgid "popup_event_reward_ranking_type002"
+msgstr ""
+
+msgid "popup_event_reward_ranking_type003"
+msgstr ""
+
+msgid "event_reward_result_present_box"
+msgstr ""
+
+msgid "event_reward_result_present_box2"
+msgstr ""
+
+msgid "event_reward_result_total"
+msgstr ""
+
+msgid "event_reward_result_get_pt"
+msgstr ""
+
+msgid "event_reward_result_win"
+msgstr ""
+
+msgid "event_reward_result_lose"
+msgstr ""
+
+msgid "event_reward_result_wincountbonus_unit"
+msgstr ""
+
+msgid "event_reward_result_episodebonus_unit"
+msgstr ""
+
+msgid "event_reward_result_last_rank"
+msgstr ""
+
+msgid "event_reward_result_dash_bonus"
+msgstr ""
+
+msgid "popup_event_reward_check_pt_title"
+msgstr ""
+
+msgid "popup_event_reward_check_rank_title"
+msgstr ""
+
+msgid "popup_event_reward_check_plate_info_title"
+msgstr ""
+
+msgid "popup_event_reward_check_pt"
+msgstr ""
+
+msgid "popup_event_reward_currentpoint_unit"
+msgstr ""
+
+msgid "popup_event_reward_needpoint_unit"
+msgstr ""
+
+msgid "popup_event_reward_currentrank_unit"
+msgstr ""
+
+msgid "popup_event_reward_needrank_unit"
+msgstr ""
+
+msgid "popup_event_reward_needrankrange_unit"
+msgstr ""
+
+msgid "popup_event_reward_sns_itemtitle"
+msgstr ""
+
+msgid "popup_event_reward_emblemtitle"
+msgstr ""
+
+msgid "popup_event_reward_platetitle"
+msgstr ""
+
+msgid "event_reward_check_have_pt"
+msgstr ""
+
+msgid "event_reward_check_rank"
+msgstr ""
+
+msgid "rhythm_adjust_set"
+msgstr ""
+
+msgid "rhythm_adjust_desc"
+msgstr ""
+
+msgid "rhythm_adjust_balloon_text"
+msgstr ""
+
+msgid "rhythm_adjust_confirmmode_title"
+msgstr ""
+
+msgid "rhythm_adjust_confirmmode_text"
+msgstr ""
+
+msgid "popup_rhythm_adjust_result_title"
+msgstr ""
+
+msgid "popup_rhythm_adjust_result_text"
+msgstr ""
+
+msgid "popup_rhythm_adjust_start_title"
+msgstr ""
+
+msgid "popup_rhythm_adjust_start_text"
+msgstr ""
+
+msgid "popup_rhythm_adjust_tutorial_title"
+msgstr ""
+
+msgid "popup_result_playlog_detail_title"
+msgstr ""
+
+msgid "popup_denom_check_birthday_title"
+msgstr ""
+
+msgid "popup_denom_check_birthday_text"
+msgstr ""
+
+msgid "popup_denom_title"
+msgstr ""
+
+msgid "denom_item_rest"
+msgstr ""
+
+msgid "popup_denom_regist_birthday_title"
+msgstr ""
+
+msgid "popup_denom_regist_birthday_text1"
+msgstr ""
+
+msgid "popup_denom_regist_birthday_text2"
+msgstr ""
+
+msgid "popup_option_various_info"
+msgstr ""
+
+msgid "popup_option_ranking_title"
+msgstr ""
+
+msgid "popup_option_ranking_notfound_title"
+msgstr ""
+
+msgid "popup_option_ranking_notfound_msg"
+msgstr ""
+
+msgid "profil_text_01"
+msgstr ""
+
+msgid "profil_text_02"
+msgstr ""
+
+msgid "profil_text_03"
+msgstr ""
+
+msgid "profil_text_04"
+msgstr ""
+
+msgid "profil_text_05"
+msgstr ""
+
+msgid "popup_music_info_01"
+msgstr ""
+
+msgid "popup_buy_music_msg_android"
+msgstr ""
+
+msgid "popup_buy_music_msg_ios"
+msgstr ""
+
+msgid "popup_home_diva_01"
+msgstr ""
+
+msgid "balloon_story_new_chara"
+msgstr ""
+
+msgid "balloon_story_new_basara"
+msgstr ""
+
+msgid "balloon_story_new_stage"
+msgstr ""
+
+msgid "balloon_story_new_sns"
+msgstr ""
+
+msgid "balloon_event_prologue_loginbonus"
+msgstr ""
+
+msgid "balloon_event_epilogue_loginbonus"
+msgstr ""
+
+msgid "costume_select_text_01"
+msgstr ""
+
+msgid "costume_select_text_02"
+msgstr ""
+
+msgid "costume_select_text_03"
+msgstr ""
+
+msgid "costume_select_text_04"
+msgstr ""
+
+msgid "popup_unlock_diff_02"
+msgstr ""
+
+msgid "popup_unlock_diff_03"
+msgstr ""
+
+msgid "popup_unlock_diff_04"
+msgstr ""
+
+msgid "popup_add_episode_01"
+msgstr ""
+
+msgid "popup_add_episode_02"
+msgstr ""
+
+msgid "popup_add_episode_03"
+msgstr ""
+
+msgid "popup_add_episode_04"
+msgstr ""
+
+msgid "popup_release_ep_diva_costume"
+msgstr ""
+
+msgid "popup_release_episode_01"
+msgstr ""
+
+msgid "popup_release_episode_02"
+msgstr ""
+
+msgid "popup_release_episode_03"
+msgstr ""
+
+msgid "popup_event_end_title"
+msgstr ""
+
+msgid "popup_event_end_text_1"
+msgstr ""
+
+msgid "popup_event_end_text_2"
+msgstr ""
+
+msgid "popup_event_end_text_3"
+msgstr ""
+
+msgid "popup_beginner_mission_001"
+msgstr ""
+
+msgid "popup_gotitle_001"
+msgstr ""
+
+msgid "skill_format_001"
+msgstr ""
+
+msgid "skill_format_002"
+msgstr ""
+
+msgid "skill_format_003"
+msgstr ""
+
+msgid "skill_format_004"
+msgstr ""
+
+msgid "tuto_gacha_title"
+msgstr ""
+
+msgid "tuto_gacha_desc"
+msgstr ""
+
+msgid "tuto_divaselect_popup_001"
+msgstr ""
+
+msgid "tuto_divaselect_popup_002"
+msgstr ""
+
+msgid "tuto_divaselect_popup_003"
+msgstr ""
+
+msgid "popup_help_select_title"
+msgstr ""
+
+msgid "story_diva_tilte_01"
+msgstr ""
+
+msgid "story_diva_tilte_02"
+msgstr ""
+
+msgid "story_diva_tilte_03"
+msgstr ""
+
+msgid "story_diva_tilte_04"
+msgstr ""
+
+msgid "story_diva_tilte_05"
+msgstr ""
+
+msgid "story_diva_tilte_06"
+msgstr ""
+
+msgid "story_diva_tilte_07"
+msgstr ""
+
+msgid "story_diva_tilte_08"
+msgstr ""
+
+msgid "story_diva_tilte_09"
+msgstr ""
+
+msgid "story_diva_tilte_10"
+msgstr ""
+
+msgid "story_diva_desc_01"
+msgstr ""
+
+msgid "story_diva_desc_02"
+msgstr ""
+
+msgid "story_diva_desc_03"
+msgstr ""
+
+msgid "story_diva_desc_04"
+msgstr ""
+
+msgid "story_diva_desc_05"
+msgstr ""
+
+msgid "story_diva_desc_06"
+msgstr ""
+
+msgid "story_diva_desc_07"
+msgstr ""
+
+msgid "story_diva_desc_08"
+msgstr ""
+
+msgid "story_diva_desc_09"
+msgstr ""
+
+msgid "story_diva_desc_10"
+msgstr ""
+
+msgid "sns_notify_fmt"
+msgstr ""
+
+msgid "unlock_costume_not_have_diva"
+msgstr ""
+
+msgid "unlock_costume_not_have_basara"
+msgstr ""
+
+msgid "scenelist_not_listed_up"
+msgstr ""
+
+msgid "popup_adv_skip_title"
+msgstr ""
+
+msgid "popup_adv_skip_text"
+msgstr ""
+
+msgid "popup_adv_skip_target001"
+msgstr ""
+
+msgid "popup_adv_skip_target002"
+msgstr ""
+
+msgid "popup_cbt_purchase"
+msgstr ""
+
+msgid "questionary_notification_000"
+msgstr ""
+
+msgid "questionary_notification_001"
+msgstr ""
+
+msgid "questionary_notification_002"
+msgstr ""
+
+msgid "popup_sns_desc_001"
+msgstr ""
+
+msgid "popup_story_termination"
+msgstr ""
+
+msgid "popup_unlock_desc_title"
+msgstr ""
+
+msgid "popup_episodebonus_platelist_title"
+msgstr ""
+
+msgid "popup_episodebonus_nothingplate"
+msgstr ""
+
+msgid "push_notify_lb_title"
+msgstr ""
+
+msgid "push_notify_lb_msg_01"
+msgstr ""
+
+msgid "push_notify_debut_vc_title"
+msgstr ""
+
+msgid "push_notify_debut_vc_msg_01"
+msgstr ""
+
+msgid "popup_limit_over_add"
+msgstr ""
+
+msgid "popup_limit_over_release_01"
+msgstr ""
+
+msgid "popup_limit_over_release_02"
+msgstr ""
+
+msgid "limit_over_excellent_rate_01"
+msgstr ""
+
+msgid "limit_over_excellent_rate_02"
+msgstr ""
+
+msgid "limit_over_excellent_rate_03"
+msgstr ""
+
+msgid "limit_over_excellent_rate_04"
+msgstr ""
+
+msgid "limit_over_excellent_rate_05"
+msgstr ""
+
+msgid "limit_over_excellent_effect_01"
+msgstr ""
+
+msgid "limit_over_excellent_effect_02"
+msgstr ""
+
+msgid "limit_over_excellent_effect_03"
+msgstr ""
+
+msgid "limit_over_center_live_skill_01"
+msgstr ""
+
+msgid "limit_over_center_live_skill_02"
+msgstr ""
+
+msgid "limit_over_center_live_skill_03"
+msgstr ""
+
+msgid "limit_over_center_live_skill_04"
+msgstr ""
+
+msgid "limit_over_center_live_skill_05"
+msgstr ""
+
+msgid "limit_over_unlock_01"
+msgstr ""
+
+msgid "limit_over_unlock_02"
+msgstr ""
+
+msgid "limit_over_unlock_03"
+msgstr ""
+
+msgid "limit_over_unlock_04"
+msgstr ""
+
+msgid "limit_over_popup_title"
+msgstr ""
+
+msgid "limit_over_popup_caution"
+msgstr ""
+
+msgid "popup_limit_over_list_title"
+msgstr ""
+
+msgid "popup_limit_over_list_count"
+msgstr ""
+
+msgid "popup_limit_over_list_none_desc"
+msgstr ""
+
+msgid "popup_dash_ticket_title"
+msgstr ""
+
+msgid "popup_dash_energy_title"
+msgstr ""
+
+msgid "popup_dash_button"
+msgstr ""
+
+msgid "popup_dash_cost_energy"
+msgstr ""
+
+msgid "popup_dash_own_energy"
+msgstr ""
+
+msgid "popup_dash_cost_ticket"
+msgstr ""
+
+msgid "popup_dash_own_ticket"
+msgstr ""
+
+msgid "popup_dash_caution"
+msgstr ""
+
+msgid "popup_dash_caution_skip"
+msgstr ""
+
+msgid "popup_dash_cost_over_energy"
+msgstr ""
+
+msgid "popup_dash_cost_over_ticket"
+msgstr ""
+
+msgid "popup_rcmd_app_update_title"
+msgstr ""
+
+msgid "popup_rcmd_app_update_an"
+msgstr ""
+
+msgid "popup_rcmd_app_update_ios"
+msgstr ""
+
+msgid "game_popup_mvpause_title"
+msgstr ""
+
+msgid "game_popup_mvpause_text"
+msgstr ""
+
+msgid "game_mvmode_endtitle_text"
+msgstr ""
+
+msgid "game_mvmode_end_text"
+msgstr ""
+
+msgid "mvmode_setting_popuptitle_000"
+msgstr ""
+
+msgid "mvmode_setting_popuptitle_001"
+msgstr ""
+
+msgid "mvmode_setting_popuptitle_002"
+msgstr ""
+
+msgid "mvmode_setting_menu_000"
+msgstr ""
+
+msgid "mvmode_setting_menu_001"
+msgstr ""
+
+msgid "mvmode_setting_menu_002"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_000_000"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_000_001"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_001_000"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_001_001"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_001_002"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_002_000"
+msgstr ""
+
+msgid "mvmode_setting_popup_text_002_001"
+msgstr ""
+
+msgid "mvmode_check_popup_title"
+msgstr ""
+
+msgid "mvmode_check_popup_text"
+msgstr ""
+
+msgid "prism_caution"
+msgstr ""
+
+msgid "item_popup_shop_text_00"
+msgstr ""
+
+msgid "item_popup_shop_text_01"
+msgstr ""
+
+msgid "item_popup_shop_text_02"
+msgstr ""
+
+msgid "item_popup_shop_text_03"
+msgstr ""
+
+msgid "item_popup_shop_text_04"
+msgstr ""
+
+msgid "item_popup_shop_text_05"
+msgstr ""
+
+msgid "item_popup_shop_text_06"
+msgstr ""
+
+msgid "item_popup_shop_text_07"
+msgstr ""
+
+msgid "item_popup_shop_text_08"
+msgstr ""
+
+msgid "item_popup_shop_text_09"
+msgstr ""
+
+msgid "item_episode_plate"
+msgstr ""
+
+msgid "item_shop_medal_period"
+msgstr ""
+
+msgid "item_shop_sphere_period"
+msgstr ""
+
+msgid "item_shop_caution"
+msgstr ""
+
+msgid "item_shop_caution_max"
+msgstr ""
+
+msgid "item_shop_closed"
+msgstr ""
+
+msgid "item_shop_period"
+msgstr ""
+
+msgid "item_shop_get_period"
+msgstr ""
+
+msgid "item_shop_reset_period"
+msgstr ""
+
+msgid "item_shop_limit_period"
+msgstr ""
+
+msgid "event_mission_message_000"
+msgstr ""
+
+msgid "event_mission_message_001"
+msgstr ""
+
+msgid "music_select_event_bonus"
+msgstr ""
+
+msgid "event_mission_changemusic_title"
+msgstr ""
+
+msgid "event_mission_changemusic_title2"
+msgstr ""
+
+msgid "event_mission_changemusic_desc_001"
+msgstr ""
+
+msgid "event_mission_changemusic_desc_002"
+msgstr ""
+
+msgid "event_mission_changemusic_desc_003"
+msgstr ""
+
+msgid "event_mission_changemusic_caution"
+msgstr ""
+
+msgid "event_mission_changemusic_caution2"
+msgstr ""
+
+msgid "event_mission_changemusic_format"
+msgstr ""
+
+msgid "event_mission_setting_title"
+msgstr ""
+
+msgid "event_mission_setting_desc_001"
+msgstr ""
+
+msgid "event_mission_setting_desc_002"
+msgstr ""
+
+msgid "event_mission_setting_desc_003"
+msgstr ""
+
+msgid "event_mission_setting_desc_004"
+msgstr ""
+
+msgid "event_mission_setting_desc_005"
+msgstr ""
+
+msgid "event_mission_comborank"
+msgstr ""
+
+msgid "simulation_result_anim_name_01"
+msgstr ""
+
+msgid "simulation_result_anim_name_02"
+msgstr ""
+
+msgid "simulation_result_anim_name_03"
+msgstr ""
+
+msgid "simulation_result_anim_name_04"
+msgstr ""
+
+msgid "popup_music_rate_title"
+msgstr ""
+
+msgid "popup_music_grade_title"
+msgstr ""
+
+msgid "popup_music_rate_total"
+msgstr ""
+
+msgid "popup_music_rate_up"
+msgstr ""
+
+msgid "popup_music_rate_not_found"
+msgstr ""
+
+msgid "popup_music_rate_ranking_not_found"
+msgstr ""
+
+msgid "popup_music_rate_next_01"
+msgstr ""
+
+msgid "popup_music_rate_next_02"
+msgstr ""
+
+msgid "popup_music_rate_must"
+msgstr ""
+
+msgid "popup_music_rate_get_reward_desc_01"
+msgstr ""
+
+msgid "popup_music_rate_get_reward_desc_02"
+msgstr ""
+
+msgid "popup_music_rate_desc"
+msgstr ""
+
+msgid "popup_music_rate_rank_unit"
+msgstr ""
+
+msgid "event_gacha_box_period"
+msgstr ""
+
+msgid "event_gacha_box_medama_plate_name"
+msgstr ""
+
+msgid "event_gacha_box_list_count"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_01"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_02"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_03"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_04"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_05"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_06"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_07"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_08"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_09"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_10"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_11"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_12"
+msgstr ""
+
+msgid "popup_event_gacha_box_text_13"
+msgstr ""
+
+msgid "popup_ar_marker_emblem_title"
+msgstr ""
+
+msgid "popup_ar_marker_emblem_text_01"
+msgstr ""
+
+msgid "pupup_music_select_periodover_text_001"
+msgstr ""
+
+msgid "pupup_music_select_periodover_text_002"
+msgstr ""
+
+msgid "pupup_music_select_periodover_text_003"
+msgstr ""
+
+msgid "pupup_music_select_periodover_text_004"
+msgstr ""
+
+msgid "diva_intimacy_lvup_text_001"
+msgstr ""
+
+msgid "diva_intimacy_lvup_text_002"
+msgstr ""
+
+msgid "diva_intimacy_lvup_text_003"
+msgstr ""
+
+msgid "diva_intimacy_lvup_text_004"
+msgstr ""
+
+msgid "diva_intimacy_time_count"
+msgstr ""
+
+msgid "diva_intimacy_time_count_2"
+msgstr ""
+
+msgid "diva_intimacy_max"
+msgstr ""
+
+msgid "diva_intimacy_tips"
+msgstr ""
+
+msgid "diva_intimacy_basara_tips"
+msgstr ""
+
+msgid "event_story_text_001"
+msgstr ""
+
+msgid "event_story_text_002"
+msgstr ""
+
+msgid "event_story_text_003"
+msgstr ""
+
+msgid "event_story_text_004"
+msgstr ""
+
+msgid "event_story_text_005"
+msgstr ""
+
+msgid "event_story_text_006"
+msgstr ""
+
+msgid "event_story_text_007"
+msgstr ""
+
+msgid "event_story_text_008"
+msgstr ""
+
+msgid "event_story_text_009"
+msgstr ""
+
+msgid "event_story_text_010"
+msgstr ""
+
+msgid "event_story_text_011"
+msgstr ""
+
+msgid "event_story_text_012"
+msgstr ""
+
+msgid "event_story_text_013"
+msgstr ""
+
+msgid "event_story_text_014"
+msgstr ""
+
+msgid "event_story_list_period"
+msgstr ""
+
+msgid "present_item_rank_postfix"
+msgstr ""
+
+msgid "present_intimacy_limit_01"
+msgstr ""
+
+msgid "present_intimacy_limit_02"
+msgstr ""
+
+msgid "present_intimacy_limit_03"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_01"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_02"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_03"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_04"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_05"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_06"
+msgstr ""
+
+msgid "campaign_live_3rd_coution_07"
+msgstr ""
+
+msgid "campaign_live_3rd_content_01"
+msgstr ""
+
+msgid "campaign_live_3rd_content_02"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_01"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_02"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_03"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_04"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_05"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_06"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_07"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_08"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_09"
+msgstr ""
+
+msgid "campaign_live_3rd_msg_chara_10"
+msgstr ""
+
+msgid "campaign_live_3rd_period"
+msgstr ""
+
+msgid "campaign_live_3rd_period2"
+msgstr ""
+
+msgid "campaign_live_3rd_roulette_title"
+msgstr ""
+
+msgid "popup_campaign_title"
+msgstr ""
+
+msgid "popup_campaign_result_title"
+msgstr ""
+
+msgid "home_pickup_checkbox_next"
+msgstr ""
+
+msgid "event_result_episode"
+msgstr ""
+
+msgid "event_result_bonus"
+msgstr ""
+
+msgid "event_hi_score"
+msgstr ""
+
+msgid "event_music_ranking"
+msgstr ""
+
+msgid "event_music_ranking_unit"
+msgstr ""
+
+msgid "ar_common_count_text"
+msgstr ""
+
+msgid "ar_top_button_text_collection"
+msgstr ""
+
+msgid "ar_top_button_text_help"
+msgstr ""
+
+msgid "ar_top_button_text_event"
+msgstr ""
+
+msgid "ar_top_button_text_back"
+msgstr ""
+
+msgid "ar_photo_button_text_sns"
+msgstr ""
+
+msgid "ar_help_title_text"
+msgstr ""
+
+msgid "ar_help_title2_text"
+msgstr ""
+
+msgid "ar_collection_title_text"
+msgstr ""
+
+msgid "ar_collection_pattern_format"
+msgstr ""
+
+msgid "ar_collection_pattern_text_0"
+msgstr ""
+
+msgid "ar_collection_pattern_text_1"
+msgstr ""
+
+msgid "ar_collection_pattern_text_2"
+msgstr ""
+
+msgid "ar_popup_expired_message"
+msgstr ""
+
+msgid "ar_popup_download_error_0_message"
+msgstr ""
+
+msgid "ar_popup_download_error_1_message"
+msgstr ""
+
+msgid "ar_popup_download_error_button"
+msgstr ""
+
+msgid "ar_popup_saved_photo"
+msgstr ""
+
+msgid "ar_popup_err_camera_permission"
+msgstr ""
+
+msgid "ar_popup_err_device_not_supported"
+msgstr ""
+
+msgid "ar_popup_err_vuforia_init_error"
+msgstr ""
+
+msgid "ar_popup_err_no_permission_storage"
+msgstr ""
+
+msgid "ar_popup_err_not_abailable_storage"
+msgstr ""
+
+msgid "ar_popup_err_no_space_for_dataset"
+msgstr ""
+
+msgid "ar_popup_err_no_system_error"
+msgstr ""
+
+msgid "ar_sel_popup_camera_message"
+msgstr ""
+
+msgid "ar_sel_popup_camera_text"
+msgstr ""
+
+msgid "ar_sel_popup_camera_button_l"
+msgstr ""
+
+msgid "ar_sel_popup_camera_button_r"
+msgstr ""
+
+msgid "ar_sel_popup_storage_message_android"
+msgstr ""
+
+msgid "ar_sel_popup_storage_message_ios"
+msgstr ""
+
+msgid "ar_sel_popup_storage_text_android"
+msgstr ""
+
+msgid "ar_sel_popup_storage_text_ios"
+msgstr ""
+
+msgid "ar_sel_popup_storage_button_l"
+msgstr ""
+
+msgid "ar_sel_popup_storage_button_r"
+msgstr ""
+
+msgid "cmn_profil_emblem_none"
+msgstr ""
+
+msgid "pop_eve_story_title"
+msgstr ""
+
+msgid "ar_net_error_01"
+msgstr ""
+
+msgid "ar_net_error_02"
+msgstr ""
+
+msgid "ar_net_error_03"
+msgstr ""
+
+msgid "ar_net_error_retry"
+msgstr ""
+
+msgid "ar_net_error_title"
+msgstr ""
+
+msgid "badge_label_quest_achieved"
+msgstr ""
+
+msgid "badge_label_gacha_oneday"
+msgstr ""
+
+msgid "badge_label_gacha_firsttime"
+msgstr ""
+
+msgid "badge_label_gacha_thistime"
+msgstr ""
+
+msgid "unit_multi_dance_popup_00"
+msgstr ""
+
+msgid "unit_multi_dance_popup_01"
+msgstr ""
+
+msgid "unit_multi_dance_popup_02"
+msgstr ""
+
+msgid "unit_multi_dance_popup_03"
+msgstr ""
+
+msgid "unit_multi_dance_lock_text"
+msgstr ""
+
+msgid "unit_warning_window_title"
+msgstr ""
+
+msgid "unit_warning_window_check"
+msgstr ""
+
+msgid "unit_warning_window_text_001"
+msgstr ""
+
+msgid "unit_warning_window_text_002"
+msgstr ""
+
+msgid "episode_appeal_text_001"
+msgstr ""
+
+msgid "episode_appeal_text_002"
+msgstr ""
+
+msgid "episode_appeal_text_003"
+msgstr ""
+
+msgid "add_unit_multi_dance_popup_01"
+msgstr ""
+
+msgid "popup_error_purchase_multi_title"
+msgstr ""
+
+msgid "popup_error_purchase_multi_text_00"
+msgstr ""
+
+msgid "ar_sel_popup_shutdown_message"
+msgstr ""
+
+msgid "ar_sel_popup_shutdown_button_l"
+msgstr ""
+
+msgid "ar_sel_popup_shutdown_button_r"
+msgstr ""
+
+msgid "android_backbutton_disable"
+msgstr ""
+
+msgid "event_sp_daily_adv_num_title"
+msgstr ""
+
+msgid "event_sp_daily_adv_all_title"
+msgstr ""
+
+msgid "event_sp_end_attain"
+msgstr ""
+
+msgid "event_sp_epilogue"
+msgstr ""
+
+msgid "event_sp_reward"
+msgstr ""
+
+msgid "event_sp_open_at"
+msgstr ""
+
+msgid "event_sp_close_at"
+msgstr ""
+
+msgid "episode_reward_text001"
+msgstr ""
+
+msgid "episode_reward_text002"
+msgstr ""
+
+msgid "episode_reward_text003"
+msgstr ""
+
+msgid "popup_unlock_6line_music_text"
+msgstr ""
+
+msgid "offer_formation_name_chenge_popup_title"
+msgstr ""
+
+msgid "offer_formation_name_chenge_popup_text_01"
+msgstr ""
+
+msgid "offer_formation_name_chenge_popup_text_02"
+msgstr ""
+
+msgid "offer_formation_name_chenge_popup_text_03"
+msgstr ""
+
+msgid "offer_formation_name_notchangedcomment_popup"
+msgstr ""
+
+msgid "offer_chenge_popup_title"
+msgstr ""
+
+msgid "offer_plantoon_chenge_popup_text_01"
+msgstr ""
+
+msgid "offer_no_leader_popup_text"
+msgstr ""
+
+msgid "offer_Dissolution_popup_text"
+msgstr ""
+
+msgid "offer__cant_orders_popup_text"
+msgstr ""
+
+msgid "offer_squadron_popup_title"
+msgstr ""
+
+msgid "offer_fast_completion_popup_title_01"
+msgstr ""
+
+msgid "offer_fast_completion_popup_text_01_01"
+msgstr ""
+
+msgid "offer_fast_completion_popup_text_01_02"
+msgstr ""
+
+msgid "offer_fast_completion_popup_text_02_01"
+msgstr ""
+
+msgid "offer_fast_completion_popup_text_02_02"
+msgstr ""
+
+msgid "offer_fast_completion_popup_text_02_03"
+msgstr ""
+
+msgid "offer_fast_done_limit_over_pop_text"
+msgstr ""
+
+msgid "offer_not_fast_done_pop_text"
+msgstr ""
+
+msgid "offer_platoon_release_condition_title_text"
+msgstr ""
+
+msgid "offer_platoon_release_condition_text_01"
+msgstr ""
+
+msgid "offer_platoon_release_condition_text_02"
+msgstr ""
+
+msgid "costume_upgrade_diva_select_title_text"
+msgstr ""
+
+msgid "costume_upgrade_comp_title_text"
+msgstr ""
+
+msgid "costume_upgrade_detail_item_title_text"
+msgstr ""
+
+msgid "costume_upgrade_item_select_makina_serif"
+msgstr ""
+
+msgid "costume_upgrade_item_select_makina_serif2"
+msgstr ""
+
+msgid "costume_upgrade_item_use_title_text"
+msgstr ""
+
+msgid "costume_upgrade_achievement_title_text"
+msgstr ""
+
+msgid "costume_upgrade_rankup_title_text"
+msgstr ""
+
+msgid "costume_upgrade_cmn_rankup_attention_text"
+msgstr ""
+
+msgid "costume_upgrade_next_release_point_text"
+msgstr ""
+
+msgid "costume_upgrade_use_item_limit_text"
+msgstr ""
+
+msgid "costume_upgrade_diva_select_warning_text"
+msgstr ""
+
+msgid "costume_upgrade_item_detail_costume_skillup"
+msgstr ""
+
+msgid "costume_upgrade_item_detail_costume_skillget"
+msgstr ""
+
+msgid "costume_upgrade_item_detail_costume_color"
+msgstr ""
+
+msgid "costume_upgrade_item_detail_diva_status_up"
+msgstr ""
+
+msgid "costume_upgrade_item_detail_diva_status_up_title"
+msgstr ""
+
+msgid "costume_upgrade_item_detail_sub_plate"
+msgstr ""
+
+msgid "costume_upgrade_rank_up_unlock_condition_text"
+msgstr ""
+
+msgid "costume_upgrade_lock_text"
+msgstr ""
+
+msgid "subplate_rate_text"
+msgstr ""
+
+msgid "subplate_lock_text"
+msgstr ""
+
+msgid "offer_infomation_text_01"
+msgstr ""
+
+msgid "offer_infomation_text_02"
+msgstr ""
+
+msgid "offer_infomation_text_03"
+msgstr ""
+
+msgid "offer_infomation_text_04"
+msgstr ""
+
+msgid "offer_non_offer_text"
+msgstr ""
+
+msgid "offer_occur_diva_offer_text_01"
+msgstr ""
+
+msgid "offer_occur_diva_offer_text_02"
+msgstr ""
+
+msgid "offer_cancel_pop_title"
+msgstr ""
+
+msgid "offer_cancel_pop_text"
+msgstr ""
+
+msgid "offer_daily_offer_levelup_text"
+msgstr ""
+
+msgid "offer_diva_offer_levelup_text"
+msgstr ""
+
+msgid "offer_result_first_achievement_title"
+msgstr ""
+
+msgid "sacred_stones_count_text"
+msgstr ""
+
+msgid "offer_item_scene_detail_text"
+msgstr ""
+
+msgid "offer_spitem_detail_title"
+msgstr ""
+
+msgid "offer_spitem_detail_text"
+msgstr ""
+
+msgid "offer_all_platoon_sortie_pop_text"
+msgstr ""
+
+msgid "offer_select_operation_ended_pop_text"
+msgstr ""
+
+msgid "offer_fast_done_limit_count_text"
+msgstr ""
+
+msgid "offer_operation_badge_text"
+msgstr ""
+
+msgid "offer_notification_return_vfp_title"
+msgstr ""
+
+msgid "offer_notification_return_vfp_1"
+msgstr ""
+
+msgid "offer_notification_return_vfp_2"
+msgstr ""
+
+msgid "offer_notification_return_vfp_3"
+msgstr ""
+
+msgid "offer_notification_return_vfp_4"
+msgstr ""
+
+msgid "offer_notification_return_vfp_5"
+msgstr ""
+
+msgid "offer_cannot_cancel_text"
+msgstr ""
+
+msgid "item_use_caution_1"
+msgstr ""
+
+msgid "item_use_caution_2"
+msgstr ""
+
+msgid "item_use_period"
+msgstr ""
+
+msgid "item_use_period_title"
+msgstr ""
+
+msgid "item_use_period_text_1"
+msgstr ""
+
+msgid "item_use_period_text_2"
+msgstr ""
+
+msgid "item_use_period_date"
+msgstr ""
+
+msgid "rarityup_item_use_title"
+msgstr ""
+
+msgid "rarityup_item_use_desc_1"
+msgstr ""
+
+msgid "rarityup_item_use_desc_2"
+msgstr ""
+
+msgid "rarityup_item_get_desc_1"
+msgstr ""
+
+msgid "rarityup_item_use_confirm_title"
+msgstr ""
+
+msgid "rarityup_item_use_confirm_desc"
+msgstr ""
+
+msgid "rarityup_item_use_warning"
+msgstr ""
+
+msgid "secret_board_item_use_title"
+msgstr ""
+
+msgid "secret_board_item_use_desc_1"
+msgstr ""
+
+msgid "secret_board_item_use_desc_2"
+msgstr ""
+
+msgid "secret_board_item_use_confirm_title"
+msgstr ""
+
+msgid "secret_board_item_use_confirm_desc"
+msgstr ""
+
+msgid "secret_board_item_use_warning"
+msgstr ""
+
+msgid "popup_sel_cos_terms_title"
+msgstr ""
+
+msgid "popup_sel_cos_terms_text_base"
+msgstr ""
+
+msgid "popup_sel_cos_terms_text_color01"
+msgstr ""
+
+msgid "popup_sel_cos_terms_text_color02"
+msgstr ""
+
+msgid "popup_sel_cos_terms_text_color03"
+msgstr ""
+
+msgid "popup_sel_cos_terms_costume_change"
+msgstr ""
+
+msgid "home_footer_badge_text_offer"
+msgstr ""
+
+msgid "home_diva_button_monthly_pass"
+msgstr ""
+
+msgid "popup_add_operation_text"
+msgstr ""
+
+msgid "pop_pass_title"
+msgstr ""
+
+msgid "pop_pass_text01"
+msgstr ""
+
+msgid "pop_pass_text02"
+msgstr ""
+
+msgid "pop_pass_text_android"
+msgstr ""
+
+msgid "pop_pass_text_ios"
+msgstr ""
+
+msgid "pop_pass_popup_title"
+msgstr ""
+
+msgid "pop_pass_popup_text01"
+msgstr ""
+
+msgid "pop_pass_popup_text02"
+msgstr ""
+
+msgid "pop_pass_popup_check"
+msgstr ""
+
+msgid "pop_pass_loginbonus_rarityup_get"
+msgstr ""
+
+msgid "pop_pass_loginbonus_desc"
+msgstr ""
+
+msgid "pop_pass_loginbonus_title"
+msgstr ""
+
+msgid "pop_pass_loginbonus_about_title"
+msgstr ""
+
+msgid "pop_pass_loginbonus_hoten_title"
+msgstr ""
+
+msgid "pop_pass_loginbonus_hoten_desc"
+msgstr ""
+
+msgid "pop_pass_goto_home"
+msgstr ""
+
+msgid "pop_pass_store_error"
+msgstr ""
+
+msgid "popup_update_operation_text"
+msgstr ""
+
+msgid "popup_dateline_error_title"
+msgstr ""
+
+msgid "popup_dateline_error_text"
+msgstr ""
+
+msgid "pop_pass_goto_home_2"
+msgstr ""
+
+msgid "home_popup_event_period"
+msgstr ""
+
+msgid "home_pickup_event_period"
+msgstr ""
+
+msgid "popup_download_size_title"
+msgstr ""
+
+msgid "popup_download_size_text"
+msgstr ""
+
+msgid "popup_download_size_error"
+msgstr ""
+
+msgid "popup_bunchdownload_data_check"
+msgstr ""
+
+msgid "popup_bunchdownload_size_text"
+msgstr ""
+
+msgid "popup_bunchdownload_size_zero"
+msgstr ""
+
+msgid "popup_bunchdownload_cancel_title"
+msgstr ""
+
+msgid "popup_bunchdownload_cancel"
+msgstr ""
+
+msgid "popup_bunchdownload_complete_title"
+msgstr ""
+
+msgid "popup_bunchdownload_complete"
+msgstr ""
+
+msgid "lucky_leaf_sort_message"
+msgstr ""
+
+msgid "popup_recover_done_title"
+msgstr ""
+
+msgid "popup_recover_done_text"
+msgstr ""
+
+msgid "pop_tutorial_gacha_details"
+msgstr ""
+
+msgid "bingo_next_charange"
+msgstr ""
+
+msgid "bingo_count_text"
+msgstr ""
+
+msgid "bingo_reward_count_text"
+msgstr ""
+
+msgid "bingo_ribbon_bingo_count_text"
+msgstr ""
+
+msgid "bingo_ribbon_costume_text"
+msgstr ""
+
+msgid "bingo_ribbon_item_text"
+msgstr ""
+
+msgid "bingo_next_reward_text"
+msgstr ""
+
+msgid "bingo_reward_select_desc1"
+msgstr ""
+
+msgid "bingo_reward_select_desc2"
+msgstr ""
+
+msgid "bingo_reward_select_desc3"
+msgstr ""
+
+msgid "bingo_reward_select_title"
+msgstr ""
+
+msgid "bingo_reward_select_caution_desc"
+msgstr ""
+
+msgid "bingo_reward_select_caution_desc1"
+msgstr ""
+
+msgid "bingo_reward_select_conf_text"
+msgstr ""
+
+msgid "bingo_reward_select_conf_title"
+msgstr ""
+
+msgid "bingo_mission_reward_pop_title"
+msgstr ""
+
+msgid "bingo_reward_pop_title"
+msgstr ""
+
+msgid "bingo_mission_reward_get_pop_title"
+msgstr ""
+
+msgid "bingo_mission_change__bingo_text"
+msgstr ""
+
+msgid "bingo_mission_end_pop_text"
+msgstr ""
+
+msgid "pop_score_detail_title"
+msgstr ""
+
+msgid "pop_score_detail_caution_01"
+msgstr ""
+
+msgid "pop_score_detail_caution_02"
+msgstr ""
+
+msgid "pop_score_detail_item_name_01"
+msgstr ""
+
+msgid "pop_score_detail_item_name_02"
+msgstr ""
+
+msgid "pop_score_detail_item_name_03"
+msgstr ""
+
+msgid "pop_score_detail_item_name_04"
+msgstr ""
+
+msgid "pop_score_detail_item_name_05"
+msgstr ""
+
+msgid "pop_score_detail_item_name_06"
+msgstr ""
+
+msgid "pop_score_detail_item_name_07"
+msgstr ""
+
+msgid "pop_score_detail_item_name_08"
+msgstr ""
+
+msgid "pop_score_detail_item_name_09"
+msgstr ""
+
+msgid "pop_score_detail_item_name_10"
+msgstr ""
+
+msgid "pop_score_detail_item_name_11"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_01"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_02"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_03"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_04"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_05"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_06"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_07"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_08"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_09"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_10"
+msgstr ""
+
+msgid "pop_score_detail_item_desc_11"
+msgstr ""
+
+msgid "bingo_reward_select_scene_detail_text"
+msgstr ""
+
+msgid "bingo_normal_bingo_start_text"
+msgstr ""
+
+msgid "bingo_mission_conditions_text"
+msgstr ""
+
+msgid "offer_not_received_item_title"
+msgstr ""
+
+msgid "offer_not_received_item_text"
+msgstr ""
+
+msgid "pop_valyrietuneup_title"
+msgstr ""
+
+msgid "pop_valkyrietuneup_desc"
+msgstr ""
+
+msgid "pop_valyrietuneupcheck_title"
+msgstr ""
+
+msgid "pop_deco_save_title"
+msgstr ""
+
+msgid "pop_deco_save_desc"
+msgstr ""
+
+msgid "pop_deco_bast_title"
+msgstr ""
+
+msgid "pop_deco_bast_desc"
+msgstr ""
+
+msgid "deco_no_have_text"
+msgstr ""
+
+msgid "deco_bast_storage_title"
+msgstr ""
+
+msgid "pop_deco_storage_delete_title"
+msgstr ""
+
+msgid "pop_deco_storage_delete_desc"
+msgstr ""
+
+msgid "pop_deco_storage_delete_comp_title"
+msgstr ""
+
+msgid "pop_deco_storage_delete_comp_desc"
+msgstr ""
+
+msgid "pop_deco_storage_overwrite_title"
+msgstr ""
+
+msgid "pop_deco_storage_overwrite_desc"
+msgstr ""
+
+msgid "pop_deco_storage_overwrite_comp_title"
+msgstr ""
+
+msgid "pop_deco_storage_overwrite_comp_desc"
+msgstr ""
+
+msgid "pop_deco_storage_select_comp_title"
+msgstr ""
+
+msgid "pop_deco_storage_select_comp_desc"
+msgstr ""
+
+msgid "deco_storage_select_text"
+msgstr ""
+
+msgid "deco_screenshot_success"
+msgstr ""
+
+msgid "deco_sel_popup_storage_message_ios"
+msgstr ""
+
+msgid "deco_sel_popup_storage_message_android"
+msgstr ""
+
+msgid "deco_screenshot_storage_text_ios"
+msgstr ""
+
+msgid "deco_screenshot_storage_text_android"
+msgstr ""
+
+msgid "deco_popup_err_no_permission_storage"
+msgstr ""
+
+msgid "deco_popup_err_not_abailable_storage"
+msgstr ""
+
+msgid "pop_deco_name_change_title"
+msgstr ""
+
+msgid "pop_deco_name_change_text"
+msgstr ""
+
+msgid "pop_deco_name_change_desc"
+msgstr ""
+
+msgid "pop_deco_name_change_notes"
+msgstr ""
+
+msgid "pop_deco_name_change_cancel"
+msgstr ""
+
+msgid "pop_deco_item_title"
+msgstr ""
+
+msgid "pop_deco_item_count"
+msgstr ""
+
+msgid "pop_deco_item_content"
+msgstr ""
+
+msgid "pop_deco_sp_item_001"
+msgstr ""
+
+msgid "pop_deco_sp_item_002"
+msgstr ""
+
+msgid "pop_deco_sp_item_003"
+msgstr ""
+
+msgid "pop_deco_sp_item_004"
+msgstr ""
+
+msgid "pop_deco_sp_item_levelup"
+msgstr ""
+
+msgid "pop_deco_sp_all_receive_title"
+msgstr ""
+
+msgid "pop_deco_sp_all_receive_content"
+msgstr ""
+
+msgid "pop_deco_sp_item_point_format"
+msgstr ""
+
+msgid "pop_deco_sp_item_time_format"
+msgstr ""
+
+msgid "pop_deco_sp_item_cannon_suffix"
+msgstr ""
+
+msgid "pop_deco_sp_item_cannon_title"
+msgstr ""
+
+msgid "pop_deco_sp_item_itemlist_title"
+msgstr ""
+
+msgid "pop_deco_sp_item_cannon_text001"
+msgstr ""
+
+msgid "pop_deco_sp_item_cannon_text002"
+msgstr ""
+
+msgid "pop_deco_sp_item_cannon_text003"
+msgstr ""
+
+msgid "pop_deco_sp_item_remove_title"
+msgstr ""
+
+msgid "pop_deco_sp_item_remove_message_001"
+msgstr ""
+
+msgid "pop_deco_sp_item_remove_message_002"
+msgstr ""
+
+msgid "pop_deco_sp_item_remove_message_003"
+msgstr ""
+
+msgid "pop_deco_gift_success_title"
+msgstr ""
+
+msgid "pop_deco_gift_failed_title"
+msgstr ""
+
+msgid "pop_deco_gift_multi_message"
+msgstr ""
+
+msgid "pop_deco_gift_single_message"
+msgstr ""
+
+msgid "pop_deco_gift_failed_message"
+msgstr ""
+
+msgid "pop_deco_gift_item_message"
+msgstr ""
+
+msgid "pop_deco_option_title"
+msgstr ""
+
+msgid "pop_deco_option_desc_display"
+msgstr ""
+
+msgid "raid_bossselect_none_text01"
+msgstr ""
+
+msgid "raid_bossselect_none_text02"
+msgstr ""
+
+msgid "raid_bossselect_rescue_time"
+msgstr ""
+
+msgid "raid_first_attack_free_ap_01"
+msgstr ""
+
+msgid "raid_first_attack_free_ap_02"
+msgstr ""
+
+msgid "raid_assist_attack_skip_01"
+msgstr ""
+
+msgid "pop_raid_helprequest_confirmed_title"
+msgstr ""
+
+msgid "pop_raid_helprequest_confirmed_text"
+msgstr ""
+
+msgid "pop_raid_helprequest_failed_text01"
+msgstr ""
+
+msgid "pop_raid_helprequest_failed_text02"
+msgstr ""
+
+msgid "pop_raid_bosspop_title"
+msgstr ""
+
+msgid "pop_raid_bosspop_text01"
+msgstr ""
+
+msgid "pop_raid_bosspop_not_text01"
+msgstr ""
+
+msgid "pop_raid_helprequest_title"
+msgstr ""
+
+msgid "pop_raid_helprequest_loby"
+msgstr ""
+
+msgid "pop_raid_helprequest_friend"
+msgstr ""
+
+msgid "pop_raid_helprequest_all"
+msgstr ""
+
+msgid "pop_raid_boss_sort_title"
+msgstr ""
+
+msgid "pop_raid_cannon_plate_title"
+msgstr ""
+
+msgid "pop_raid_cannon_plate_bonus_format"
+msgstr ""
+
+msgid "pop_raid_cannon_plate_text01"
+msgstr ""
+
+msgid "pop_raid_cannon_plate_text02"
+msgstr ""
+
+msgid "pop_raid_cannon_plate_text03"
+msgstr ""
+
+msgid "pop_raid_cannon_plate_text04"
+msgstr ""
+
+msgid "pop_raid_init_sort_text"
+msgstr ""
+
+msgid "pop_raid_warning_sort_text"
+msgstr ""
+
+msgid "raid_announce_text"
+msgstr ""
+
+msgid "raid_announce_text02"
+msgstr ""
+
+msgid "raid_announce_text03"
+msgstr ""
+
+msgid "raid_top_gauge_text"
+msgstr ""
+
+msgid "raid_top_gauge_max_text"
+msgstr ""
+
+msgid "raid_act_support_desc_text"
+msgstr ""
+
+msgid "raid_act_fullpower_desc_text"
+msgstr ""
+
+msgid "raid_damage_result_text"
+msgstr ""
+
+msgid "raid_damage_result_gauge_max_text"
+msgstr ""
+
+msgid "pop_raid_ap_heal_title"
+msgstr ""
+
+msgid "pop_raid_ap_heal_text"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item01_text01"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item01_text02"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item01_text03"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item02_text01"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item02_text02"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item02_text03"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item03_text01"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item03_text02"
+msgstr ""
+
+msgid "pop_raid_ap_heal_item03_text03"
+msgstr ""
+
+msgid "pop_raid_heal_item_cannon_text001"
+msgstr ""
+
+msgid "pop_raid_heal_item_cannon_text002"
+msgstr ""
+
+msgid "pop_raid_heal_item_cannon_text003"
+msgstr ""
+
+msgid "pop_raid_heal_item_cannon_text004"
+msgstr ""
+
+msgid "pop_raid_heal_item_cannon_text005"
+msgstr ""
+
+msgid "raid_mvp_notes_text"
+msgstr ""
+
+msgid "raid_mvp_desc_text"
+msgstr ""
+
+msgid "raid_mvp_cell_text01"
+msgstr ""
+
+msgid "raid_mvp_cell_text02"
+msgstr ""
+
+msgid "raid_mvp_info_text01"
+msgstr ""
+
+msgid "raid_mvp_info_text02"
+msgstr ""
+
+msgid "raid_mvp_info_text03"
+msgstr ""
+
+msgid "pop_raid_defeated_title"
+msgstr ""
+
+msgid "pop_raid_defeated_text"
+msgstr ""
+
+msgid "pop_raid_escaped01_title"
+msgstr ""
+
+msgid "pop_raid_escaped01_text"
+msgstr ""
+
+msgid "pop_raid_escaped02_title"
+msgstr ""
+
+msgid "pop_raid_escaped02_text"
+msgstr ""
+
+msgid "pop_raid_enemy_escape_title"
+msgstr ""
+
+msgid "pop_raid_enemy_escape_enemyselect_text"
+msgstr ""
+
+msgid "pop_raid_enemy_escape_result_text"
+msgstr ""
+
+msgid "pop_raid_radar_failed_title"
+msgstr ""
+
+msgid "pop_raid_rader_failed_text"
+msgstr ""
+
+msgid "pop_raid_time_warning_title"
+msgstr ""
+
+msgid "pop_raid_time_warning_text"
+msgstr ""
+
+msgid "pop_raid_assist_attack_skip_title"
+msgstr ""
+
+msgid "pop_raid_assist_attack_skip_desc_01"
+msgstr ""
+
+msgid "pop_raid_assist_attack_skip_desc_02"
+msgstr ""
+
+msgid "pop_valyrietuneup_needitemdesc"
+msgstr ""
+
+msgid "customstamp_createt_itle"
+msgstr ""
+
+msgid "customstamp_longtap_desc"
+msgstr ""
+
+msgid "customstamp_sort_title"
+msgstr ""
+
+msgid "pop_customstamp_createlimit_title"
+msgstr ""
+
+msgid "pop_customstamp_createlimit_desc"
+msgstr ""
+
+msgid "pop_customstamp_sort_save_title"
+msgstr ""
+
+msgid "pop_customstamp_sort_save_desc"
+msgstr ""
+
+msgid "pop_customstamp_edit_save_title"
+msgstr ""
+
+msgid "pop_customstamp_delete_title"
+msgstr ""
+
+msgid "pop_customstamp_deletecheck_title"
+msgstr ""
+
+msgid "valkyrie_tuneup_skill_not"
+msgstr ""
+
+msgid "pop_deco_get_title"
+msgstr ""
+
+msgid "pop_deco_get_desc"
+msgstr ""
+
+msgid "pop_deco_get_limit"
+msgstr ""
+
+msgid "pop_deco_release_desc"
+msgstr ""
+
+msgid "deco_name_poster"
+msgstr ""
+
+msgid "deco_name_torso"
+msgstr ""
+
+msgid "deco_name_figure"
+msgstr ""
+
+msgid "missionevent_bonus_popup_title"
+msgstr ""
+
+msgid "missionevent_bonus_popup_desc"
+msgstr ""
+
+msgid "missionevent_bonus_date_format"
+msgstr ""
+
+msgid "missionevent_bonus_limit_format"
+msgstr ""
+
+msgid "missionevent_bonus_target_format"
+msgstr ""
+
+msgid "missionevent_bonus_music_attribute001"
+msgstr ""
+
+msgid "missionevent_bonus_music_attribute002"
+msgstr ""
+
+msgid "missionevent_bonus_music_attribute003"
+msgstr ""
+
+msgid "missionevent_bonus_music_attribute004"
+msgstr ""
+
+msgid "missionevent_bonus_series_attribute001"
+msgstr ""
+
+msgid "missionevent_bonus_series_attribute002"
+msgstr ""
+
+msgid "missionevent_bonus_series_attribute003"
+msgstr ""
+
+msgid "missionevent_bonus_series_attribute004"
+msgstr ""
+
+msgid "missionevent_bonus_series_attribute005"
+msgstr ""
+
+msgid "missionevent_bonus_all"
+msgstr ""
+
+msgid "lobby_corps_belongs_conf_text"
+msgstr ""
+
+msgid "lobby_corps_belongs_note_text"
+msgstr ""
+
+msgid "lobby_room_name_format"
+msgstr ""
+
+msgid "lobby_room_num_format"
+msgstr ""
+
+msgid "valkyrie_name_text_format_001"
+msgstr ""
+
+msgid "storage_select_text"
+msgstr ""
+
+msgid "home_lobby_button_before"
+msgstr ""
+
+msgid "home_lobby_button_enter"
+msgstr ""
+
+msgid "home_lobby_button_after"
+msgstr ""
+
+msgid "home_lobby_button_before_today"
+msgstr ""
+
+msgid "home_lobby_button_enter_today"
+msgstr ""
+
+msgid "home_lobby_button_after_today"
+msgstr ""
+
+msgid "home_lobby_button_popup_raid_end"
+msgstr ""
+
+msgid "customstamp_have_serif_not"
+msgstr ""
+
+msgid "customstamp_sort_desc"
+msgstr ""
+
+msgid "result_drop_foldradar_text"
+msgstr ""
+
+msgid "pop_lobby_group_capacityover_desc"
+msgstr ""
+
+msgid "pop_lobby_group_not_searchplayer"
+msgstr ""
+
+msgid "pop_lobby_member_fanregister_title"
+msgstr ""
+
+msgid "pop_lobby_member_fanregister_desc"
+msgstr ""
+
+msgid "pop_lobby_member_fan_capacityover_title"
+msgstr ""
+
+msgid "pop_lobby_member_capacityover_desc"
+msgstr ""
+
+msgid "pop_lobby_member_fan_unregister_title"
+msgstr ""
+
+msgid "pop_lobby_member_fan_unregister_desc"
+msgstr ""
+
+msgid "pop_deco_bg_eff_span"
+msgstr ""
+
+msgid "pop_deco_bg_eff_initial_setting_title"
+msgstr ""
+
+msgid "pop_deco_bg_eff_initial_setting_desc"
+msgstr ""
+
+msgid "popup_event_reward_check_mvp_title"
+msgstr ""
+
+msgid "popup_event_reward_check_attack1st_title"
+msgstr ""
+
+msgid "popup_event_reward_check_disempowerment_title"
+msgstr ""
+
+msgid "popup_event_reward_check_lotcount_title"
+msgstr ""
+
+msgid "popup_event_reward_raid_info_mvp"
+msgstr ""
+
+msgid "popup_event_reward_raid_info_attack1st"
+msgstr ""
+
+msgid "popup_event_reward_raid_info_disempowerment"
+msgstr ""
+
+msgid "popup_event_reward_raid_info_lotcount"
+msgstr ""
+
+msgid "pop_raid_helprequest_completion_title"
+msgstr ""
+
+msgid "pop_raid_helprequest_completion_text"
+msgstr ""
+
+msgid "pop_fan_register_failure_title"
+msgstr ""
+
+msgid "pop_fan_register_failure_desc"
+msgstr ""
+
+msgid "pop_fan_unregister_failure_title"
+msgstr ""
+
+msgid "pop_fan_unregister_failure_desc"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_title"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_use_stone_check_msg"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_use_stone_check_msg02"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_use_item_check_msg"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_failed_msg"
+msgstr ""
+
+msgid "popup_raid_formation_bonus_costume"
+msgstr ""
+
+msgid "popup_raid_formation_bonus_valkyrie"
+msgstr ""
+
+msgid "popup_raid_formation_bonus_costume_title"
+msgstr ""
+
+msgid "popup_raid_formation_bonus_costume_desc"
+msgstr ""
+
+msgid "popup_raid_formation_bonus_valkyrie_title"
+msgstr ""
+
+msgid "stamp_have_not_text"
+msgstr ""
+
+msgid "bulletin_board_limit_input_text"
+msgstr ""
+
+msgid "pop_deco_set_max_title"
+msgstr ""
+
+msgid "pop_deco_item_set_max_desc"
+msgstr ""
+
+msgid "pop_deco_chara_set_max_desc"
+msgstr ""
+
+msgid "shop_no_product_desc"
+msgstr ""
+
+msgid "popup_deco_all_remove_title"
+msgstr ""
+
+msgid "popup_deco_all_remove_desc"
+msgstr ""
+
+msgid "deco_storage_unused_storage_name"
+msgstr ""
+
+msgid "pop_deco_storage_write_comp_desc"
+msgstr ""
+
+msgid "lobby_viewing_system_text"
+msgstr ""
+
+msgid "popup_profile_visit_title"
+msgstr ""
+
+msgid "popup_profile_visit_msg"
+msgstr ""
+
+msgid "popup_profile_lobby_title"
+msgstr ""
+
+msgid "popup_profile_lobby_msg"
+msgstr ""
+
+msgid "deco_visit_gift"
+msgstr ""
+
+msgid "deco_visit_no_friend"
+msgstr ""
+
+msgid "deco_visit_no_fun"
+msgstr ""
+
+msgid "chat_post_conf_popup_text"
+msgstr ""
+
+msgid "chat_post_conf_popup_title"
+msgstr ""
+
+msgid "raid_event_end_text"
+msgstr ""
+
+msgid "lobby_raid_befor_text"
+msgstr ""
+
+msgid "lobby_raid_befor_today_text"
+msgstr ""
+
+msgid "pop_compatible_music_title"
+msgstr ""
+
+msgid "pop_compatible_music_desc"
+msgstr ""
+
+msgid "pop_compatible_series_title"
+msgstr ""
+
+msgid "pop_compatible_series_desc"
+msgstr ""
+
+msgid "pop_block_ask_title"
+msgstr ""
+
+msgid "pop_block_ask_desc"
+msgstr ""
+
+msgid "pop_block_done_title"
+msgstr ""
+
+msgid "pop_block_done_desc"
+msgstr ""
+
+msgid "pop_block_limit_title"
+msgstr ""
+
+msgid "pop_block_limit_desc"
+msgstr ""
+
+msgid "pop_block_remove_ask_title"
+msgstr ""
+
+msgid "pop_block_remove_ask_text"
+msgstr ""
+
+msgid "pop_block_remove_done_title"
+msgstr ""
+
+msgid "pop_block_remove_deon_text"
+msgstr ""
+
+msgid "pop_blocked_title"
+msgstr ""
+
+msgid "pop_blocked_text"
+msgstr ""
+
+msgid "pop_not_belong_lobby_transition_title"
+msgstr ""
+
+msgid "pop_not_belong_lobby_transition_desc"
+msgstr ""
+
+msgid "deco_chat_footer_attention_text"
+msgstr ""
+
+msgid "blocklist_title"
+msgstr ""
+
+msgid "blocklist_empty_text"
+msgstr ""
+
+msgid "deco_set_buy_warn_text"
+msgstr ""
+
+msgid "lobby_raidboss_enable_count"
+msgstr ""
+
+msgid "pop_raid_attack_network_error"
+msgstr ""
+
+msgid "pop_exchange_need_item"
+msgstr ""
+
+msgid "popup_deco_all_back_title"
+msgstr ""
+
+msgid "popup_deco_all_back_desc"
+msgstr ""
+
+msgid "popup_in_my_blocklist_text"
+msgstr ""
+
+msgid "shop_product_deco_set_contain_text"
+msgstr ""
+
+msgid "popup_deco_set_item_detaile_title"
+msgstr ""
+
+msgid "deco_set_item_list_text"
+msgstr ""
+
+msgid "popup_deco_set_item_detaile_list"
+msgstr ""
+
+msgid "popup_deco_set_item_detaile_caution"
+msgstr ""
+
+msgid "deco_change_storage_attention_text"
+msgstr ""
+
+msgid "pop_raid_result_error_text"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_success_title"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_success_text"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_max_text"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_success_bonus_title"
+msgstr ""
+
+msgid "popup_raid_ap_recovery_success_bonus_text"
+msgstr ""
+
+msgid "popup_deco_save_confirm_title"
+msgstr ""
+
+msgid "popup_deco_save_confirm_desc"
+msgstr ""
+
+msgid "popup_tutorial_guidetohome_title"
+msgstr ""
+
+msgid "popup_tutorial_guidetohome_text"
+msgstr ""
+
+msgid "popup_deco_save_title"
+msgstr ""
+
+msgid "popup_deco_save_desc"
+msgstr ""
+
+msgid "pop_deco_shop_sort_title"
+msgstr ""
+
+msgid "popup_raid_login_reward_title"
+msgstr ""
+
+msgid "raid_new_announce_text"
+msgstr ""
+
+msgid "unit_select_skip_count"
+msgstr ""
+
+msgid "unit_select_skip_limit"
+msgstr ""
+
+msgid "unit_skip_condition_title"
+msgstr ""
+
+msgid "unit_skip_condition_text"
+msgstr ""
+
+msgid "unit_skip_ticket_count_title"
+msgstr ""
+
+msgid "unit_skip_ticket_count_text"
+msgstr ""
+
+msgid "unit_skip_ticket_lack_title"
+msgstr ""
+
+msgid "unit_skip_ticket_lack_text"
+msgstr ""
+
+msgid "use_ticket_popup_title"
+msgstr ""
+
+msgid "use_ticket_popup_havecount"
+msgstr ""
+
+msgid "use_ticket_consume_format"
+msgstr ""
+
+msgid "use_ticket_consume_item_001"
+msgstr ""
+
+msgid "use_ticket_consume_item_002"
+msgstr ""
+
+msgid "use_item_description_01"
+msgstr ""
+
+msgid "use_item_description_02"
+msgstr ""
+
+msgid "use_item_description_03"
+msgstr ""
+
+msgid "use_item_description_04"
+msgstr ""
+
+msgid "boost_skip_ticket_title"
+msgstr ""
+
+msgid "boost_skip_ticket_text"
+msgstr ""
+
+msgid "boost_skip_battle_ex_title"
+msgstr ""
+
+msgid "boost_skip_battle_ex_text"
+msgstr ""
+
+msgid "result_skip_caution"
+msgstr ""
+
+msgid "result_assist_caution"
+msgstr ""
+
+msgid "popup_mission_stepup_desc"
+msgstr ""
+
+msgid "popup_mission_stepup_allclear"
+msgstr ""
+
+msgid "popup_rareup_item_warning_text"
+msgstr ""
+
+msgid "popup_rareup_item_convert_desc_01"
+msgstr ""
+
+msgid "popup_rareup_item_convert_desc_02"
+msgstr ""
+
+msgid "popup_get_liveskip_ticket_title"
+msgstr ""
+
+msgid "popup_get_liveskip_ticket_desc"
+msgstr ""
+
+msgid "popup_get_liveskip_ticket_count"
+msgstr ""
+
+msgid "popup_get_liveskip_ticket_checkbox"
+msgstr ""
+
+msgid "popup_get_liveskip_ticket_confirm_title"
+msgstr ""
+
+msgid "popup_get_liveskip_ticket_confirm_desc"
+msgstr ""
+
+msgid "popup_kira_scene_release_desc_1"
+msgstr ""
+
+msgid "popup_kira_scene_release_desc_2"
+msgstr ""
+
+msgid "popup_episodebonus_note_01"
+msgstr ""
+
+msgid "popup_episodebonus_note_02"
+msgstr ""
+
+msgid "popup_episodebonus_evo_bonus"
+msgstr ""
+
+msgid "not_possessed"
+msgstr ""
+
+msgid "popup_gachatransition_title"
+msgstr ""
+
+msgid "popup_gachatransition"
+msgstr ""
+
+msgid "popup_not_gachatransition"
+msgstr ""
+
+msgid "pop_raid_enemy_requested_title"
+msgstr ""
+
+msgid "pop_raid_enemy_requested_text"
+msgstr ""
+
+msgid "utaraterank_over_ranking"
+msgstr ""
+
+msgid "utaraterank_over_login"
+msgstr ""
+
+msgid "utaraterank_none"
+msgstr ""
+
+msgid "popup_episodebonus_max"
+msgstr ""
+
+msgid "unorganized"
+msgstr ""
+
+msgid "skill_attr_regulation"
+msgstr ""
+
+msgid "episode_assist"
+msgstr ""
+
+msgid "episode_available"
+msgstr ""
+
+msgid "pop_raid_help_defeated_text"
+msgstr ""
+
+msgid "pop_raid_help_result_defeated_text"
+msgstr ""
+
+msgid "pop_raid_help_player_count_limit_over_text"
+msgstr ""
+
+msgid "pop_limited_item_warning_text_1"
+msgstr ""
+
+msgid "pop_limited_item_warning_title"
+msgstr ""
+
+msgid "notification_rareup_star_limit_title"
+msgstr ""
+
+msgid "notification_rareup_star_limit_text"
+msgstr ""
+
+msgid "set_notification_text_12"
+msgstr ""
+
+msgid "pop_limited_item_warning_text_2"
+msgstr ""
+
+msgid "pop_deco_option_caution_plateanimation_01"
+msgstr ""
+
+msgid "gacha_rarity_desc_01"
+msgstr ""
+
+msgid "gacha_rarity_desc_02"
+msgstr ""
+
+msgid "gacha_period"
+msgstr ""
+
+msgid "gacha_cost_01"
+msgstr ""
+
+msgid "gacha_cost_02"
+msgstr ""
+
+msgid "gacha_cost_03"
+msgstr ""
+
+msgid "gacha_cost_04"
+msgstr ""
+
+msgid "gacha_cost_05"
+msgstr ""
+
+msgid "config_text_98"
+msgstr ""
+
+msgid "config_text_99"
+msgstr ""
+
+msgid "config_text_100"
+msgstr ""
+
+msgid "config_text_101"
+msgstr ""
+
+msgid "config_text_102"
+msgstr ""
+
+msgid "config_text_103"
+msgstr ""
+
+msgid "liveskillregulation_except"
+msgstr ""
+
+msgid "liveskillregulation_popup_title"
+msgstr ""
+
+msgid "centerskillregulation_popup_title"
+msgstr ""
+
+msgid "gacha_telop_01"
+msgstr ""
+
+msgid "gacha_telop_02"
+msgstr ""
+
+msgid "gacha_telop_03"
+msgstr ""
+
+msgid "gacha_telop_04"
+msgstr ""
+
+msgid "gacha_telop_05"
+msgstr ""
+
+msgid "gacha_telop_06"
+msgstr ""
+
+msgid "gacha_cost_06"
+msgstr ""
+
+msgid "gacha_desc_01"
+msgstr ""
+
+msgid "gacha_desc_02"
+msgstr ""
+
+msgid "gacha_desc_03"
+msgstr ""
+
+msgid "gacha_desc_04"
+msgstr ""
+
+msgid "gacha_set_sale_desc_01"
+msgstr ""
+
+msgid "gacha_set_sale_desc_02"
+msgstr ""
+
+msgid "gacha_set_sale_desc_03"
+msgstr ""
+
+msgid "gacha_ticket_name"
+msgstr ""
+
+msgid "assistselect_attribute_other"
+msgstr ""
+
+msgid "assistselect_attribute_yellow"
+msgstr ""
+
+msgid "assistselect_attribute_red"
+msgstr ""
+
+msgid "assistselect_attribute_blue"
+msgstr ""
+
+msgid "assistselect_caution_01"
+msgstr ""
+
+msgid "assistselect_namechange_popup_title"
+msgstr ""
+
+msgid "assistselect_namechange_popup_ok"
+msgstr ""
+
+msgid "assistselect_namechange_popup_details_01"
+msgstr ""
+
+msgid "assistselect_name_title_change_ng"
+msgstr ""
+
+msgid "assistselect_name_notchangeword"
+msgstr ""
+
+msgid "assistselect_name_ngword"
+msgstr ""
+
+msgid "event_story_text_015"
+msgstr ""
+
+msgid "event_story_text_016"
+msgstr ""
+
+msgid "event_story_text_017"
+msgstr ""
+
+msgid "event_story_text_018"
+msgstr ""
+
+msgid "event_story_text_019"
+msgstr ""
+
+msgid "event_story_text_020"
+msgstr ""
+
+msgid "assist_friend_select_caution_01"
+msgstr ""
+
+msgid "header_desc_home401"
+msgstr ""
+
+msgid "header_desc_home402"
+msgstr ""
+
+msgid "header_desc_setting040"
+msgstr ""
+
+msgid "header_desc_setting041"
+msgstr ""
+
+msgid "header_desc_setting042"
+msgstr ""
+
+msgid "header_desc_story040"
+msgstr ""
+
+msgid "header_desc_story041"
+msgstr ""
+
+msgid "header_desc_story042"
+msgstr ""
+
+msgid "header_desc_free400"
+msgstr ""
+
+msgid "header_desc_free401"
+msgstr ""
+
+msgid "header_desc_option010"
+msgstr ""
+
+msgid "header_desc_option011"
+msgstr ""
+
+msgid "gacha_desc_05"
+msgstr ""
+
+msgid "popup_gacha_rbreak_rate_warning"
+msgstr ""
+
+msgid "header_desc_evquest400"
+msgstr ""
+
+msgid "header_desc_evquest401"
+msgstr ""
+
+msgid "popup_sort_title_guest_select"
+msgstr ""
+
+msgid "quest_receive_all_desc"
+msgstr ""
+
+msgid "popup_quest_receive_limit_title"
+msgstr ""
+
+msgid "popup_quest_receive_limit_desc"
+msgstr ""
+
+msgid "popup_quest_receive_get"
+msgstr ""
+
+msgid "popup_quest_receive_lose"
+msgstr ""
+
+msgid "popup_quest_receive_limit_caution"
+msgstr ""
+
+msgid "popup_quest_receive_limit_failure_01"
+msgstr ""
+
+msgid "popup_quest_receive_limit_failure_02"
+msgstr ""
+
+msgid "popup_gacha_rbreak2_rate_warning"
+msgstr ""
+
+msgid "growth_popup_text20"
+msgstr ""
+
+msgid "growth_popup_text21"
+msgstr ""
+
+msgid "growth_popup_text22"
+msgstr ""
+
+msgid "growth_popup_text23"
+msgstr ""
+
+msgid "popup_sort_filter_reset"
+msgstr ""
+
+msgid "popup_sort_filter_all"
+msgstr ""
+
+msgid "popup_sort_title_h1"
+msgstr ""
+
+msgid "popup_sort_item_total"
+msgstr ""
+
+msgid "popup_sort_item_soul"
+msgstr ""
+
+msgid "popup_sort_item_voice"
+msgstr ""
+
+msgid "popup_sort_item_charm"
+msgstr ""
+
+msgid "popup_sort_item_get"
+msgstr ""
+
+msgid "popup_sort_item_rarity"
+msgstr ""
+
+msgid "popup_sort_item_level"
+msgstr ""
+
+msgid "popup_sort_item_life"
+msgstr ""
+
+msgid "popup_sort_item_luck"
+msgstr ""
+
+msgid "popup_sort_item_support"
+msgstr ""
+
+msgid "popup_sort_item_fold"
+msgstr ""
+
+msgid "popup_sort_item_recovery_notes"
+msgstr ""
+
+msgid "popup_sort_item_item_notes"
+msgstr ""
+
+msgid "popup_sort_item_scoreup_notes"
+msgstr ""
+
+msgid "popup_sort_item_support_notes"
+msgstr ""
+
+msgid "popup_sort_item_fold_notes"
+msgstr ""
+
+msgid "popup_sort_item_last_playdate"
+msgstr ""
+
+msgid "popup_sort_item_player_runk"
+msgstr ""
+
+msgid "popup_sort_item_request"
+msgstr ""
+
+msgid "popup_sort_item_skill"
+msgstr ""
+
+msgid "popup_sort_item_active_skill"
+msgstr ""
+
+msgid "popup_sort_item_live_skill"
+msgstr ""
+
+msgid "popup_sort_item_episode"
+msgstr ""
+
+msgid "popup_sort_item_secret_board"
+msgstr ""
+
+msgid "popup_sort_item_highscorerating"
+msgstr ""
+
+msgid "popup_sort_item_fannum"
+msgstr ""
+
+msgid "popup_sort_item_episodeno"
+msgstr ""
+
+msgid "popup_sort_item_diva_and_valkyrie"
+msgstr ""
+
+msgid "popup_sort_item_episode_point"
+msgstr ""
+
+msgid "popup_sort_item_lucky_leaf"
+msgstr ""
+
+msgid "popup_sort_item_main_cannnon_power"
+msgstr ""
+
+msgid "popup_sort_item_fan"
+msgstr ""
+
+msgid "popup_sort_item_furniture"
+msgstr ""
+
+msgid "popup_sort_item_ornament"
+msgstr ""
+
+msgid "popup_sort_item_rug"
+msgstr ""
+
+msgid "popup_sort_item_rack"
+msgstr ""
+
+msgid "popup_sort_item_other"
+msgstr ""
+
+msgid "popup_sort_item_filter"
+msgstr ""
+
+msgid "popup_filter_title_h1"
+msgstr ""
+
+msgid "popup_filter_mainep_title_h2"
+msgstr ""
+
+msgid "popup_filter_series_title_h2"
+msgstr ""
+
+msgid "popup_filter_diva_val_title_h2"
+msgstr ""
+
+msgid "popup_filter_mainep_item_lock"
+msgstr ""
+
+msgid "popup_filter_mainep_item_unlock"
+msgstr ""
+
+msgid "popup_filter_mainep_item_enable_unlock"
+msgstr ""
+
+msgid "popup_option_data_title"
+msgstr ""
+
+msgid "popup_option_cacheclear_title"
+msgstr ""
+
+msgid "popup_option_cacheclear_desc1"
+msgstr ""
+
+msgid "popup_option_cacheclear_desc2"
+msgstr ""
+
+msgid "popup_option_bunchinstall_title"
+msgstr ""
+
+msgid "popup_option_bunchinstall_desc1"
+msgstr ""
+
+msgid "popup_option_bunchinstall_desc2"
+msgstr ""
+
+msgid "episode_sort_filter_empty"
+msgstr ""
+
+msgid "popup_homebg_title"
+msgstr ""
+
+msgid "popup_homebg_scene_select"
+msgstr ""
+
+msgid "popup_homebg_default_scene"
+msgstr ""
+
+msgid "popup_homebg_default_scene_name"
+msgstr ""
+
+msgid "header_desc_home040"
+msgstr ""
+
+msgid "popup_quest_receive_vc_caution"
+msgstr ""
+
+msgid "homebgselect_title"
+msgstr ""
+
+msgid "select_costume_desc01"
+msgstr ""
+
+msgid "popup_filter_rarity_title_h2"
+msgstr ""
+
+msgid "popup_filter_rarity_01"
+msgstr ""
+
+msgid "popup_filter_rarity_02"
+msgstr ""
+
+msgid "popup_filter_rarity_03"
+msgstr ""
+
+msgid "popup_filter_rarity_04"
+msgstr ""
+
+msgid "popup_filter_rarity_05"
+msgstr ""
+
+msgid "popup_filter_rarity_06"
+msgstr ""
+
+msgid "popup_filter_rarity_07"
+msgstr ""
+
+msgid "deco_name_decomascot"
+msgstr ""
+
+msgid "popup_bunchinstall_error_storage_title"
+msgstr ""
+
+msgid "popup_bunchinstall_error_storage_desc"
+msgstr ""
+
+msgid "popup_bunchinstall_error_other_title"
+msgstr ""
+
+msgid "popup_bunchinstall_error_other_desc"
+msgstr ""
+
+msgid "popup_costumeselect_home"
+msgstr ""
+
+msgid "pop_pass_loginbonus_caution"
+msgstr ""
+
+msgid "popup_gacha_lot_select"
+msgstr ""
+
+msgid "pop_pass_select_title"
+msgstr ""
+
+msgid "pop_pass_select_desc"
+msgstr ""
+
+msgid "pop_pass_popup_text03"
+msgstr ""
+
+msgid "pop_pass_popup_text04"
+msgstr ""
+
+msgid "pop_pass_popup_text05"
+msgstr ""
+
+msgid "pop_pass_popup_text06"
+msgstr ""
+
+msgid "pop_pass_sp_title"
+msgstr ""
+
+msgid "pop_pass_sp_text01"
+msgstr ""
+
+msgid "pop_pass_sp_text02"
+msgstr ""
+
+msgid "pop_pass_sp_text_android"
+msgstr ""
+
+msgid "pop_pass_sp_text_ios"
+msgstr ""
+
+msgid "pop_pass_update_popup_title"
+msgstr ""
+
+msgid "pop_godiva_bonus_open_target_status"
+msgstr ""
+
+msgid "pop_godiva_bonus_open_bonus_2"
+msgstr ""
+
+msgid "pop_godiva_bonus_open_explain"
+msgstr ""
+
+msgid "pop_godiva_bonus_close_title"
+msgstr ""
+
+msgid "pop_godiva_bonus_close_text"
+msgstr ""
+
+msgid "pop_godiva_bonus_close_next_hidden"
+msgstr ""
+
+msgid "pop_godiva_music_reselect_title"
+msgstr ""
+
+msgid "pop_godiva_music_reselect_text"
+msgstr ""
+
+msgid "pop_godiva_music_reselect_text_count_limit"
+msgstr ""
+
+msgid "pop_godiva_bonusitem_title"
+msgstr ""
+
+msgid "pop_godiv_bonusitem_ask_use_text"
+msgstr ""
+
+msgid "pop_godiv_bonusitem_use_text"
+msgstr ""
+
+msgid "pop_godiva_bonusitem_none_text"
+msgstr ""
+
+msgid "pop_godiva_bonusitem_limit_title"
+msgstr ""
+
+msgid "pop_godiva_bonusitem_limit_daily_cnt"
+msgstr ""
+
+msgid "pop_godiva_bonusitem_limit_on_fever"
+msgstr ""
+
+msgid "pop_godiva_bonusitem_limit_on_bonus"
+msgstr ""
+
+msgid "godiva_event_info_highscore"
+msgstr ""
+
+msgid "godiva_even_tinfo_rank"
+msgstr ""
+
+msgid "godiva_even_tinfo_total_point"
+msgstr ""
+
+msgid "godiva_even_tinfo_next_point"
+msgstr ""
+
+msgid "godiva_even_tinfo_nest_reward"
+msgstr ""
+
+msgid "godiva_even_tinfo_rank_unit"
+msgstr ""
+
+msgid "godiva_even_tinfo_point_unit"
+msgstr ""
+
+msgid "godiva_even_tinfo_final_rank"
+msgstr ""
+
+msgid "godiva_even_tinfo_rank_collecting"
+msgstr ""
+
+msgid "godiva_diva_select_not_have"
+msgstr ""
+
+msgid "godiva_diva_select_explain"
+msgstr ""
+
+msgid "godiva_music_info_bonus_remain_count"
+msgstr ""
+
+msgid "godiva_music_info_bonus_lots_rate"
+msgstr ""
+
+msgid "godiva_music_info_exp_bonus"
+msgstr ""
+
+msgid "godiva_music_select_exp_bonus"
+msgstr ""
+
+msgid "godiva_result_bonus"
+msgstr ""
+
+msgid "popup_filter_godiva_music_exp_title_h2"
+msgstr ""
+
+msgid "popup_filter_godiva_music_exp_item_soul"
+msgstr ""
+
+msgid "popup_filter_godiva_music_exp_item_voice"
+msgstr ""
+
+msgid "popup_filter_godiva_music_exp_item_charm"
+msgstr ""
+
+msgid "popup_godiva_status_title"
+msgstr ""
+
+msgid "popup_godiva_status_name_soul"
+msgstr ""
+
+msgid "popup_godiva_status_name_voice"
+msgstr ""
+
+msgid "popup_godiva_status_name_charm"
+msgstr ""
+
+msgid "popup_godiva_status_level"
+msgstr ""
+
+msgid "popup_godiva_status_status"
+msgstr ""
+
+msgid "popup_godiva_status_up_status"
+msgstr ""
+
+msgid "popup_diva_select_title"
+msgstr ""
+
+msgid "popup_comeback_mission_count"
+msgstr ""
+
+msgid "event_godiva_reward_check_hi_score"
+msgstr ""
+
+msgid "event_godiva_reward_check_ranking"
+msgstr ""
+
+msgid "event_godiva_reward_check_ranking_unit"
+msgstr ""
+
+msgid "diva_name_01"
+msgstr ""
+
+msgid "diva_name_02"
+msgstr ""
+
+msgid "diva_name_03"
+msgstr ""
+
+msgid "diva_name_04"
+msgstr ""
+
+msgid "diva_name_05"
+msgstr ""
+
+msgid "diva_name_06"
+msgstr ""
+
+msgid "diva_name_07"
+msgstr ""
+
+msgid "diva_name_08"
+msgstr ""
+
+msgid "diva_name_09"
+msgstr ""
+
+msgid "diva_name_10"
+msgstr ""
+
+msgid "home_diva_view_status_place_text"
+msgstr ""
+
+msgid "home_diva_view_status_divalevel_text"
+msgstr ""
+
+msgid "home_diva_view_status_intimacyl_text"
+msgstr ""
+
+msgid "home_diva_view_status_havecostume_text"
+msgstr ""
+
+msgid "home_diva_view_status_divaranking_text"
+msgstr ""
+
+msgid "home_diva_view_status_havecostume_now_text"
+msgstr ""
+
+msgid "home_diva_view_status_totalstatus_text"
+msgstr ""
+
+msgid "home_diva_view_status_intimacyl_exp_text"
+msgstr ""
+
+msgid "home_diva_view_status_ranking_error_text"
+msgstr ""
+
+msgid "home_diva_view_status_intimacyl_max_text"
+msgstr ""
+
+msgid "home_diva_statuswindow_divastatus"
+msgstr ""
+
+msgid "home_diva_statuswindow_eventglow"
+msgstr ""
+
+msgid "home_diva_statuswindow_costumebonus"
+msgstr ""
+
+msgid "home_diva_statuswindow_totlastatus"
+msgstr ""
+
+msgid "home_diva_statuswindow_title"
+msgstr ""
+
+msgid "banner_godiva_fevertime"
+msgstr ""
+
+msgid "event_godiva_remain_time_prefix"
+msgstr ""
+
+msgid "sel_music_godiva_exp_type_soul"
+msgstr ""
+
+msgid "sel_music_godiva_exp_type_voice"
+msgstr ""
+
+msgid "sel_music_godiva_exp_type_charm"
+msgstr ""
+
+msgid "sel_music_godiva_exp_type_all"
+msgstr ""
+
+msgid "popup_event_login_item02_title_msg"
+msgstr ""
+
+msgid "popup_event_login_item02_label00_msg"
+msgstr ""
+
+msgid "popup_event_login_item02_label01_msg"
+msgstr ""
+
+msgid "sel_event_01_period"
+msgstr ""
+
+msgid "popup_godiva_filter_title"
+msgstr ""
+
+msgid "popup_vop_all_receive_vc_caution"
+msgstr ""
+
+msgid "popup_vop_all_receive_title"
+msgstr ""
+
+msgid "popup_vop_all_receive_item_over"
+msgstr ""
+
+msgid "popup_story_complete_stage"
+msgstr ""
+
+msgid "popup_story_mission_guidance"
+msgstr ""
+
+msgid "popup_gacha_lot_ticket_few_caution_04"
+msgstr ""
+
+msgid "use_item_description_05"
+msgstr ""
+
+msgid "popup_godiva_bonus_remind_title"
+msgstr ""
+
+msgid "popup_godiva_bonus_remind_text"
+msgstr ""
+
+msgid "home_footer_badge_text_02"
+msgstr ""
+
+msgid "home_footer_badge_text_03"
+msgstr ""
+
+msgid "home_footer_badge_text_04"
+msgstr ""
+
+msgid "home_footer_badge_text_05"
+msgstr ""
+
+msgid "home_footer_badge_text_06"
+msgstr ""
+
+msgid "home_footer_badge_text_07"
+msgstr ""
+
+msgid "home_footer_badge_text_08"
+msgstr ""
+
+msgid "home_footer_badge_text_09"
+msgstr ""
+
+msgid "home_banner_period"
+msgstr ""
+
+msgid "home_event_banner_period"
+msgstr ""
+
+msgid "home_unlock_rank"
+msgstr ""
+
+msgid "gakuya_gift_unlock_rank"
+msgstr ""
+
+msgid "gakuya_status_diva_ranking_value"
+msgstr ""
+
+msgid "gakuya_intimacy_present_none"
+msgstr ""
+
+msgid "gakuya_gift_stock_count"
+msgstr ""
+
+msgid "pop_gakuya_present_ask_title"
+msgstr ""
+
+msgid "pop_gakuya_present_ask"
+msgstr ""
+
+msgid "pop_gakuya_present_lv_max"
+msgstr ""
+
+msgid "pop_gakuya_present_limit_title"
+msgstr ""
+
+msgid "pop_gakuya_present_limit"
+msgstr ""
+
+msgid "popup_sp_transition_bingo_error_title"
+msgstr ""
+
+msgid "popup_sp_bingo_debutmission_notclear_text"
+msgstr ""
+
+msgid "home_event_started"
+msgstr ""
+
+msgid "home_event_counting"
+msgstr ""
+
+msgid "home_event_reward_recieved"
+msgstr ""
+
+msgid "home_story_release_diva"
+msgstr ""
+
+msgid "home_story_release_music"
+msgstr ""
+
+msgid "home_bg_limit_period"
+msgstr ""
+
+msgid "home_banner_raid_lobby_open"
+msgstr ""
+
+msgid "home_banner_raid_end"
+msgstr ""
+
+msgid "home_pass_button_purchase"
+msgstr ""
+
+msgid "home_pass_button_rare_up_item"
+msgstr ""
+
+msgid "popup_minigame001_pause_title"
+msgstr ""
+
+msgid "popup_minigame001_pause_text"
+msgstr ""
+
+msgid "popup_minigame001_retire_title"
+msgstr ""
+
+msgid "popup_minigame001_retire_text"
+msgstr ""
+
+msgid "home_fes_remain_prefix"
+msgstr ""
+
+msgid "gacha_ticket_ev_name"
+msgstr ""
+
+msgid "popup_filter_unspecified"
+msgstr ""
+
+msgid "popup_filter_difficulty_title_h2"
+msgstr ""
+
+msgid "popup_filter_difficulty_easy"
+msgstr ""
+
+msgid "popup_filter_difficulty_normal"
+msgstr ""
+
+msgid "popup_filter_difficulty_hard"
+msgstr ""
+
+msgid "popup_filter_difficulty_veryhard"
+msgstr ""
+
+msgid "popup_filter_difficulty_extreme"
+msgstr ""
+
+msgid "popup_filter_difficulty_6line_hard"
+msgstr ""
+
+msgid "popup_filter_difficulty_6line_veryhard"
+msgstr ""
+
+msgid "popup_filter_difficulty_6line_extreme"
+msgstr ""
+
+msgid "popup_filter_music_attribute_title_h2"
+msgstr ""
+
+msgid "popup_filter_music_attribute_001"
+msgstr ""
+
+msgid "popup_filter_music_attribute_002"
+msgstr ""
+
+msgid "popup_filter_music_attribute_003"
+msgstr ""
+
+msgid "popup_filter_music_attribute_004"
+msgstr ""
+
+msgid "popup_filter_combo_title_h2"
+msgstr ""
+
+msgid "popup_filter_fullcombo"
+msgstr ""
+
+msgid "popup_filter_prefect_fullcombo"
+msgstr ""
+
+msgid "popup_filter_unit_title_h2"
+msgstr ""
+
+msgid "popup_filter_reward_title_h2"
+msgstr ""
+
+msgid "popup_filter_reward_score"
+msgstr ""
+
+msgid "popup_filter_reward_combo"
+msgstr ""
+
+msgid "popup_filter_reward_clear"
+msgstr ""
+
+msgid "popup_filter_music_level_title_h2"
+msgstr ""
+
+msgid "popup_filter_bonus_title_h2"
+msgstr ""
+
+msgid "popup_filter_bonus_ok"
+msgstr ""
+
+msgid "popup_filter_bonus_not_ok"
+msgstr ""
+
+msgid "music_not_exist_filter_text"
+msgstr ""
+
+msgid "pop_gacha_period_warning_title"
+msgstr ""
+
+msgid "pop_gacha_period_warning_text_1"
+msgstr ""
+
+msgid "pop_gacha_period_warning_text_2"
+msgstr ""
+
+msgid "pop_gacha_period_warning_text_3"
+msgstr ""
+
+msgid "event_mission_setting_desc_006"
+msgstr ""
+
+msgid "unit_skip_story_title"
+msgstr ""
+
+msgid "unit_skip_story_text"
+msgstr ""
+
+msgid "popup_diva_change_text"
+msgstr ""
+
+msgid "unit_diva_limit_message"
+msgstr ""
+
+msgid "unit_head_prism_btton_on"
+msgstr ""
+
+msgid "unit_head_prism_btton_off"
+msgstr ""
+
+msgid "unit_save_button_save"
+msgstr ""
+
+msgid "unit_save_button_overwrite"
+msgstr ""
+
+msgid "unit_mv_mode_description"
+msgstr ""
+
+msgid "unit_prism_switch_button_on"
+msgstr ""
+
+msgid "unit_prism_switch_button_off"
+msgstr ""
+
+msgid "unit_mv_mode_switch_button_on"
+msgstr ""
+
+msgid "unit_mv_mode_switch_button_off"
+msgstr ""
+
+msgid "unit_unitset_description"
+msgstr ""
+
+msgid "unit_unitset_page"
+msgstr ""
+
+msgid "unit_unitset_dummy_name"
+msgstr ""
+
+msgid "unit_status_skill_regulation_series_y"
+msgstr ""
+
+msgid "unit_status_skill_regulation_series_n"
+msgstr ""
+
+msgid "unit_status_skill_regulation_attr"
+msgstr ""
+
+msgid "popup_sort_item_music_exp"
+msgstr ""
+
+msgid "unit_diva_status_titla_level"
+msgstr ""
+
+msgid "unit_diva_status_titla_total"
+msgstr ""
+
+msgid "unit_diva_status_titla_music_exp"
+msgstr ""
+
+msgid "popup_unit_disp_type_scene"
+msgstr ""
+
+msgid "popup_unit_disp_type_diva"
+msgstr ""
+
+msgid "unit_playbutton_en"
+msgstr ""
+
+msgid "unit_playbutton_ap"
+msgstr ""
+
+msgid "popup_prism_unlock_text"
+msgstr ""
+
+msgid "popup_unit_status_attr_reg"
+msgstr ""
+
+msgid "popup_set_prizm_title"
+msgstr ""
+
+msgid "popup_set_prizm_choice"
+msgstr ""
+
+msgid "popup_set_prizm_lackdiva_titile"
+msgstr ""
+
+msgid "popup_sort_item_diva_and_valkyrie_and_bg"
+msgstr ""
+
+msgid "popup_filter_diva_val_title_h3"
+msgstr ""
+
+msgid "unit_diva_status_leaf_attr"
+msgstr ""
+
+msgid "unit_diva_status_leaf_series"
+msgstr ""
+
+msgid "unit_setpopup_text_08"
+msgstr ""
+
+msgid "unit_setpopup_text_09"
+msgstr ""
+
+msgid "popup_sort_musicselect_sortitem_title_h2"
+msgstr ""
+
+msgid "popup_sort_item_default"
+msgstr ""
+
+msgid "popup_sort_item_musiclevel"
+msgstr ""
+
+msgid "popup_sort_item_highscore"
+msgstr ""
+
+msgid "popup_sort_item_utarate"
+msgstr ""
+
+msgid "popup_sort_item_clearnum"
+msgstr ""
+
+msgid "popup_sort_item_notesnum"
+msgstr ""
+
+msgid "popup_sort_item_musiclength"
+msgstr ""
+
+msgid "popup_sort_item_smallorder"
+msgstr ""
+
+msgid "popup_sort_item_bigorder"
+msgstr ""
+
+msgid "popup_sort_order_title_h2"
+msgstr ""
+
+msgid "popup_sort_filter_bookmark_h2"
+msgstr ""
+
+msgid "popup_sort_filter_bookmark_00"
+msgstr ""
+
+msgid "popup_sort_filter_musiclock_h2"
+msgstr ""
+
+msgid "popup_sort_filter_musiclock"
+msgstr ""
+
+msgid "popup_sort_filter_musicunlock"
+msgstr ""
+
+msgid "popup_sort_filter_range_h2"
+msgstr ""
+
+msgid "popup_sort_filter_range_long"
+msgstr ""
+
+msgid "popup_sort_filter_range_short"
+msgstr ""
+
+msgid "popup_music_bookmark_title"
+msgstr ""
+
+msgid "popup_music_unlock_title"
+msgstr ""
+
+msgid "popup_music_unlock_text01"
+msgstr ""
+
+msgid "popup_music_unlock_text02"
+msgstr ""
+
+msgid "popup_music_unlock_text03"
+msgstr ""
+
+msgid "popup_music_unlock_text04"
+msgstr ""
+
+msgid "popup_music_unlock_text05"
+msgstr ""
+
+msgid "popup_music_unlock_text06"
+msgstr ""
+
+msgid "popup_music_unlock_text07"
+msgstr ""
+
+msgid "popup_music_input_bookmarkname_title"
+msgstr ""
+
+msgid "popup_music_input_bookmarkname_text_01"
+msgstr ""
+
+msgid "popup_music_input_bookmarkname_deletecheck_title"
+msgstr ""
+
+msgid "popup_music_input_bookmarkname_deletecheck_text_01"
+msgstr ""
+
+msgid "popup_sort_item_notes_expectation"
+msgstr ""
+
+msgid "music_not_exist_text_01"
+msgstr ""
+
+msgid "music_not_exist_line6_text_01"
+msgstr ""
+
+msgid "vertical_music_select_event_remain_time"
+msgstr ""
+
+msgid "vertical_music_select_event_remain_count"
+msgstr ""
+
+msgid "music_event_remain_prefix_01"
+msgstr ""
+
+msgid "vertical_music_select_event_period"
+msgstr ""
+
+msgid "vertical_music_select_music_time"
+msgstr ""
+
+msgid "music_not_exist_text_02"
+msgstr ""
+
+msgid "pop_gakuya_present_caution"
+msgstr ""
+
+msgid "pop_gakuya_present_num_prefix"
+msgstr ""
+
+msgid "pop_gakuya_present_num_title"
+msgstr ""
+
+msgid "popup_filter_have_title_h2"
+msgstr ""
+
+msgid "popup_filter_have_01"
+msgstr ""
+
+msgid "popup_filter_have_02"
+msgstr ""
