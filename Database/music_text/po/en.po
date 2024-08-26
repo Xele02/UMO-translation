@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-07-16 19:28+0000\n"
-"Last-Translator: F91 <goddangitpaul@gmail.com>\n"
+"PO-Revision-Date: 2024-08-26 16:38+0000\n"
+"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
 "Language: en\n"
@@ -24,10 +24,10 @@ msgid "musicName_0000_description"
 msgstr "Song Details 000"
 
 msgid "musicName_0001_musicname"
-msgstr "Tenshi no E no Gu"
+msgstr "An Angel's Paints"
 
 msgid "musicName_0001_officialName"
-msgstr "Tenshi no E no Gu"
+msgstr "An Angel's Paints"
 
 msgid "musicName_0001_vocalName"
 msgstr "Mari Ijima"
@@ -144,10 +144,10 @@ msgid "musicName_0004_storyTitle"
 msgstr ""
 
 msgid "musicName_0005_musicname"
-msgstr "Watashi no Kare wa Pilot"
+msgstr "My Boyfriend Is a Pilot"
 
 msgid "musicName_0005_officialName"
-msgstr "Watashi no Kare wa Pilot"
+msgstr "My Boyfriend Is a Pilot"
 
 msgid "musicName_0005_vocalName"
 msgstr "Ranka Lee = Megumi Nakajima"
@@ -432,10 +432,10 @@ msgid "musicName_0018_storyTitle"
 msgstr ""
 
 msgid "musicName_0019_musicname"
-msgstr ""
+msgstr "My Boyfriend Is a Pilot (Part I)"
 
 msgid "musicName_0019_officialName"
-msgstr ""
+msgstr "My Boyfriend Is a Pilot (Part I)"
 
 msgid "musicName_0019_vocalName"
 msgstr ""
@@ -2097,10 +2097,10 @@ msgid "musicName_0103_description"
 msgstr ""
 
 msgid "musicName_0104_musicname"
-msgstr ""
+msgstr "An Angel's Paints [Mirror Version]"
 
 msgid "musicName_0104_officialName"
-msgstr ""
+msgstr "An Angel's Paints"
 
 msgid "musicName_0104_vocalName"
 msgstr ""
@@ -2361,10 +2361,10 @@ msgid "musicName_0119_description"
 msgstr ""
 
 msgid "musicName_0120_musicname"
-msgstr ""
+msgstr "My Boyfriend Is a Pilot (Part II)"
 
 msgid "musicName_0120_officialName"
-msgstr ""
+msgstr "My Boyfriend Is a Pilot (Part II)"
 
 msgid "musicName_0120_vocalName"
 msgstr ""
