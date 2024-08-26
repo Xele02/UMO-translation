@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-26 16:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "talk_time_01"
+msgstr ""
+
+msgid "talk_time_02"
+msgstr ""
+
+msgid "talk_time_03"
+msgstr ""
+
+msgid "talk_time_04"
+msgstr ""
+
+msgid "talk_time_05"
+msgstr ""
+
+msgid "talk_time_06"
+msgstr ""
+
+msgid "talk_time_07"
+msgstr ""
+
+msgid "talk_time_08"
+msgstr ""
+
+msgid "talk_login_01"
+msgstr ""
+
+msgid "talk_login_02"
+msgstr ""
+
+msgid "talk_login_03"
+msgstr ""
+
+msgid "talk_login_04"
+msgstr ""
+
+msgid "talk_login_05"
+msgstr ""
+
+msgid "talk_comeback_01"
+msgstr ""
+
+msgid "talk_comeback_02"
+msgstr ""
+
+msgid "talk_birthday_01"
+msgstr ""
+
+msgid "talk_event_01"
+msgstr ""
+
+msgid "talk_event_02"
+msgstr ""
+
+msgid "talk_event_03"
+msgstr ""
+
+msgid "talk_event_04"
+msgstr ""
+
+msgid "talk_event_05"
+msgstr ""
+
+msgid "talk_event_06"
+msgstr ""
+
+msgid "talk_event_07"
+msgstr ""
+
+msgid "talk_event_08"
+msgstr ""
+
+msgid "talk_event_09"
+msgstr ""
+
+msgid "talk_event_10"
+msgstr ""
+
+msgid "talk_event_11"
+msgstr ""
+
+msgid "talk_event_12"
+msgstr ""
+
+msgid "talk_event_13"
+msgstr ""
+
+msgid "talk_event_14"
+msgstr ""
+
+msgid "talk_event_15"
+msgstr ""
+
+msgid "talk_event_16"
+msgstr ""
+
+msgid "talk_event_17"
+msgstr ""
+
+msgid "talk_event_18"
+msgstr ""
+
+msgid "talk_event_19"
+msgstr ""
+
+msgid "talk_event_20"
+msgstr ""
+
+msgid "touch_reaction_01"
+msgstr ""
+
+msgid "touch_reaction_02"
+msgstr ""
+
+msgid "touch_reaction_03"
+msgstr ""
+
+msgid "touch_reaction_04"
+msgstr ""
+
+msgid "touch_reaction_05"
+msgstr ""
+
+msgid "touch_reaction_06"
+msgstr ""
+
+msgid "touch_reaction_07"
+msgstr ""
+
+msgid "touch_reaction_08"
+msgstr ""
+
+msgid "login_reaction_01"
+msgstr ""
+
+msgid "login_reaction_02"
+msgstr ""
+
+msgid "simulation_result_01"
+msgstr ""
+
+msgid "go_diva_result_01"
+msgstr ""
+
+msgid "go_diva_result_02"
+msgstr ""
+
+msgid "go_diva_result_03"
+msgstr ""
+
+msgid "intimacy_pointup_01"
+msgstr ""
+
+msgid "intimacy_pointup_02"
+msgstr ""
+
+msgid "intimacy_pointup_03"
+msgstr ""
+
+msgid "present_01"
+msgstr ""
+
+msgid "present_02"
+msgstr ""
+
+msgid "present_03"
+msgstr ""
+
+msgid "present_04"
+msgstr ""
+
+msgid "present_05"
+msgstr ""
+
+msgid "present_06"
+msgstr ""
+
+msgid "present_07"
+msgstr ""
+
+msgid "present_08"
+msgstr ""
+
+msgid "present_09"
+msgstr ""
+
+msgid "present_10"
+msgstr ""
+
+msgid "present_11"
+msgstr ""
+
+msgid "cs_touch_reaction_01"
+msgstr ""
+
+msgid "cs_touch_reaction_02"
+msgstr ""
+
+msgid "cs_touch_reaction_03"
+msgstr ""
+
+msgid "cs_touch_reaction_04"
+msgstr ""
+
+msgid "cs_touch_reaction_05"
+msgstr ""
+
+msgid "cs_touch_reaction_06"
+msgstr ""
+
+msgid "cs_touch_reaction_07"
+msgstr ""
+
+msgid "cs_touch_reaction_08"
+msgstr ""
+
+msgid "cs_touch_reaction_09"
+msgstr ""
+
+msgid "cs_touch_reaction_10"
+msgstr ""
+
+msgid "talk_event_21"
+msgstr ""
+
+msgid "talk_event_22"
+msgstr ""
+
+msgid "talk_event_23"
+msgstr ""
+
+msgid "talk_event_24"
+msgstr ""
+
+msgid "talk_event_25"
+msgstr ""
+
+msgid "talk_event_26"
+msgstr ""
+
+msgid "talk_event_27"
+msgstr ""
+
+msgid "talk_event_28"
+msgstr ""
+
+msgid "talk_event_29"
+msgstr ""
+
+msgid "talk_event_30"
+msgstr ""
+
+msgid "talk_event_31"
+msgstr ""
+
+msgid "talk_event_32"
+msgstr ""
+
+msgid "talk_event_33"
+msgstr ""
+
+msgid "talk_event_34"
+msgstr ""
+
+msgid "talk_event_35"
+msgstr ""
+
+msgid "talk_event_36"
+msgstr ""
+
+msgid "talk_event_37"
+msgstr ""
+
+msgid "talk_event_38"
+msgstr ""
+
+msgid "talk_event_39"
+msgstr ""
+
+msgid "talk_event_40"
+msgstr ""
+
+msgid "talk_event_41"
+msgstr ""
+
+msgid "talk_event_42"
+msgstr ""
+
+msgid "talk_event_43"
+msgstr ""
+
+msgid "talk_event_44"
+msgstr ""
+
+msgid "talk_event_45"
+msgstr ""
+
+msgid "talk_event_46"
+msgstr ""
+
+msgid "talk_event_47"
+msgstr ""
