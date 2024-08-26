@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-26 16:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "homebg_0000_name"
+msgstr ""
+
+msgid "homebg_0001_name"
+msgstr ""
+
+msgid "homebg_0002_name"
+msgstr ""
+
+msgid "homebg_0003_name"
+msgstr ""
+
+msgid "homebg_0004_name"
+msgstr ""
+
+msgid "homebg_0005_name"
+msgstr ""
+
+msgid "homebg_0006_name"
+msgstr ""
+
+msgid "homebg_0007_name"
+msgstr ""
+
+msgid "homebg_0008_name"
+msgstr ""
+
+msgid "homebg_0009_name"
+msgstr ""
+
+msgid "homebg_0010_name"
+msgstr ""
+
+msgid "homebg_0011_name"
+msgstr ""
+
+msgid "homebg_0012_name"
+msgstr ""
+
+msgid "homebg_0013_name"
+msgstr ""
+
+msgid "homebg_0014_name"
+msgstr ""
+
+msgid "homebg_0015_name"
+msgstr ""
+
+msgid "homebg_0016_name"
+msgstr ""
+
+msgid "homebg_0017_name"
+msgstr ""
+
+msgid "homebg_0018_name"
+msgstr ""
