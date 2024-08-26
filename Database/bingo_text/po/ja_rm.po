@@ -1,0 +1,1094 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-26 16:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ja_rm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.13.1\n"
+
+
+msgid "bingo_0001_0001_0001_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0001_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0002_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0002_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0003_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0003_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0004_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0004_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0005_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0005_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0006_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0006_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0007_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0007_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0008_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0008_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0009_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0009_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0010_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0010_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0011_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0011_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0012_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0012_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0013_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0013_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0014_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0014_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0015_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0015_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0016_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0016_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0017_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0017_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0018_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0018_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0019_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0019_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0020_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0020_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0021_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0021_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0022_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0022_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0023_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0023_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0024_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0024_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0025_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0025_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0026_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0026_cond"
+msgstr ""
+
+msgid "bingo_0001_0001_0027_desc"
+msgstr ""
+
+msgid "bingo_0001_0001_0027_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0001_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0001_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0002_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0002_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0003_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0003_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0004_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0004_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0005_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0005_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0006_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0006_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0007_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0007_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0008_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0008_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0009_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0009_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0010_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0010_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0011_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0011_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0012_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0012_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0013_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0013_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0014_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0014_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0015_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0015_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0016_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0016_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0017_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0017_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0018_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0018_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0019_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0019_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0020_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0020_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0021_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0021_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0022_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0022_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0023_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0023_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0024_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0024_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0025_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0025_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0026_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0026_cond"
+msgstr ""
+
+msgid "bingo_0002_0002_0027_desc"
+msgstr ""
+
+msgid "bingo_0002_0002_0027_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0001_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0001_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0002_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0002_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0003_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0003_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0004_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0004_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0005_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0005_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0006_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0006_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0007_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0007_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0008_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0008_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0009_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0009_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0010_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0010_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0011_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0011_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0012_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0012_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0013_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0013_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0014_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0014_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0015_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0015_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0016_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0016_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0017_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0017_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0018_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0018_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0019_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0019_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0020_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0020_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0021_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0021_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0022_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0022_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0023_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0023_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0024_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0024_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0025_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0025_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0026_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0026_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0027_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0027_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0028_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0028_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0029_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0029_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0030_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0030_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0031_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0031_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0032_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0032_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0033_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0033_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0034_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0034_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0035_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0035_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0036_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0036_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0037_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0037_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0038_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0038_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0039_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0039_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0040_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0040_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0041_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0041_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0042_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0042_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0043_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0043_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0044_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0044_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0045_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0045_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0046_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0046_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0047_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0047_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0048_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0048_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0049_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0049_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0050_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0050_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0051_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0051_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0052_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0052_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0053_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0053_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0054_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0054_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0055_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0055_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0056_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0056_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0057_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0057_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0058_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0058_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0059_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0059_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0060_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0060_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0061_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0061_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0062_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0062_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0063_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0063_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0064_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0064_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0065_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0065_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0066_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0066_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0067_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0067_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0068_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0068_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0069_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0069_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0070_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0070_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0071_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0071_cond"
+msgstr ""
+
+msgid "bingo_0003_0003_0072_desc"
+msgstr ""
+
+msgid "bingo_0003_0003_0072_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0001_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0001_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0002_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0002_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0003_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0003_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0004_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0004_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0005_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0005_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0006_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0006_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0007_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0007_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0008_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0008_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0009_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0009_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0010_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0010_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0011_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0011_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0012_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0012_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0013_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0013_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0014_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0014_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0015_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0015_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0016_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0016_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0017_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0017_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0018_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0018_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0019_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0019_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0020_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0020_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0021_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0021_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0022_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0022_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0023_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0023_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0024_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0024_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0025_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0025_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0026_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0026_cond"
+msgstr ""
+
+msgid "bingo_0004_0004_0027_desc"
+msgstr ""
+
+msgid "bingo_0004_0004_0027_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0001_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0001_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0002_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0002_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0003_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0003_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0004_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0004_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0005_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0005_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0006_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0006_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0007_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0007_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0008_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0008_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0009_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0009_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0010_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0010_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0011_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0011_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0012_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0012_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0013_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0013_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0014_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0014_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0015_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0015_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0016_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0016_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0017_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0017_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0018_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0018_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0019_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0019_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0020_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0020_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0021_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0021_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0022_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0022_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0023_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0023_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0024_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0024_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0025_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0025_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0026_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0026_cond"
+msgstr ""
+
+msgid "bingo_0005_0005_0027_desc"
+msgstr ""
+
+msgid "bingo_0005_0005_0027_cond"
+msgstr ""
