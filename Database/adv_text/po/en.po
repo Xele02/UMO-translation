@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2024-08-20 18:28+0000\n"
+"PO-Revision-Date: 2024-08-26 16:38+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/en/>\n"
@@ -16,24 +16,34 @@ msgstr ""
 
 msgid "adv_000001_0002_msg"
 msgstr ""
+"Freyja, Hayate.\n"
+"Ready for takeoff?"
 
 msgid "adv_000001_0003_msg"
 msgstr ""
+"You betcha!\n"
+"I'm gonna gori gori go for it!"
 
 msgid "adv_000001_0004_msg"
 msgstr ""
+"That said, who are our enemies this time?\n"
+"They're totally different to the Aerial Knights."
 
 msgid "adv_000001_0005_msg"
 msgstr ""
 
 msgid "adv_000001_0006_msg"
 msgstr ""
+"They're the ancient Bird People defense system.\n"
+"That's who we'll be facing."
 
 msgid "adv_000001_0007_msg"
-msgstr ""
+msgstr "Do you remember what I explained to you a little while ago?"
 
 msgid "adv_000001_0008_msg"
 msgstr ""
+"Yeah, something about how many have lost\n"
+"their memories because of the Bird People."
 
 msgid "adv_000001_0009_msg"
 msgstr ""
@@ -3273,7 +3283,7 @@ msgid "adv_300601_0033_msg"
 msgstr ""
 
 msgid "adv_300601_0034_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_300601_0035_msg"
 msgstr ""
@@ -5715,7 +5725,7 @@ msgid "adv_301002_0016_msg"
 msgstr ""
 
 msgid "adv_301002_0017_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_301002_0018_msg"
 msgstr ""
@@ -12216,7 +12226,7 @@ msgid "adv_301901_0034_msg"
 msgstr ""
 
 msgid "adv_301902_0008_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_301902_0009_msg"
 msgstr ""
@@ -14988,7 +14998,7 @@ msgid "adv_103001_0038_msg"
 msgstr ""
 
 msgid "adv_103001_0040_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_103001_0041_msg"
 msgstr ""
@@ -21180,7 +21190,7 @@ msgid "adv_303801_0024_msg"
 msgstr ""
 
 msgid "adv_303801_0026_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_303801_0027_msg"
 msgstr ""
@@ -21213,7 +21223,7 @@ msgid "adv_303802_0008_msg"
 msgstr ""
 
 msgid "adv_303802_0009_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_303802_0010_msg"
 msgstr ""
@@ -21246,7 +21256,7 @@ msgid "adv_303802_0019_msg"
 msgstr ""
 
 msgid "adv_303802_0020_msg"
-msgstr ""
+msgstr "Freyja"
 
 msgid "adv_303802_0021_msg"
 msgstr ""
