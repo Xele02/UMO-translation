@@ -2005,3 +2005,30 @@ msgstr ""
 msgid "UMO_Profil"
 msgstr ""
 
+msgid "UMO_DivaCompatibility"
+msgstr ""
+
+msgid "UMO_SkillFilterActive"
+msgstr ""
+
+msgid "UMO_SkillFilterDisableAll"
+msgstr ""
+
+msgid "UMO_SkillFilterLongNote"
+msgstr ""
+
+msgid "UMO_SkillFilterRank"
+msgstr ""
+
+msgid "UMO_SkillFilterBRank"
+msgstr ""
+
+msgid "UMO_SkillFilterARank"
+msgstr ""
+
+msgid "UMO_SkillFilterSRank"
+msgstr ""
+
+msgid "UMO_SkillFilterSSRank"
+msgstr ""
+

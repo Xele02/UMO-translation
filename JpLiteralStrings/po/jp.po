@@ -2005,3 +2005,30 @@ msgstr "ギフト"
 msgid "UMO_Profil"
 msgstr "プロフィール"
 
+msgid "UMO_DivaCompatibility"
+msgstr "歌姫相性"
+
+msgid "UMO_SkillFilterActive"
+msgstr "設定中"
+
+msgid "UMO_SkillFilterDisableAll"
+msgstr "選択解除"
+
+msgid "UMO_SkillFilterLongNote"
+msgstr "ロング・ショート"
+
+msgid "UMO_SkillFilterRank"
+msgstr "スキルランク"
+
+msgid "UMO_SkillFilterBRank"
+msgstr "B級"
+
+msgid "UMO_SkillFilterARank"
+msgstr "A級"
+
+msgid "UMO_SkillFilterSRank"
+msgstr "S級"
+
+msgid "UMO_SkillFilterSSRank"
+msgstr "SS級"
+
