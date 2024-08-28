@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-25 16:28+0000\n"
-"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
+"PO-Revision-Date: 2024-08-28 17:17+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
 "Language: fr\n"
@@ -2024,7 +2024,7 @@ msgid "UMO_DivaDesc"
 msgstr "Présentation"
 
 msgid "UMO_Back"
-msgstr ""
+msgstr "Retour"
 
 msgid "UMO_Costume"
 msgstr "Costumes"
@@ -2034,3 +2034,30 @@ msgstr "Cadeaux"
 
 msgid "UMO_Profil"
 msgstr "Profil"
+
+msgid "UMO_DivaCompatibility"
+msgstr "Compat. diva"
+
+msgid "UMO_SkillFilterActive"
+msgstr "Activé"
+
+msgid "UMO_SkillFilterDisableAll"
+msgstr "Tout désactivé"
+
+msgid "UMO_SkillFilterLongNote"
+msgstr "Long/Court"
+
+msgid "UMO_SkillFilterRank"
+msgstr "Rang"
+
+msgid "UMO_SkillFilterBRank"
+msgstr "B"
+
+msgid "UMO_SkillFilterARank"
+msgstr "A"
+
+msgid "UMO_SkillFilterSRank"
+msgstr "S"
+
+msgid "UMO_SkillFilterSSRank"
+msgstr "SS"
