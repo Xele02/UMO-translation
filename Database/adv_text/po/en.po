@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2024-09-01 15:05+0000\n"
+"PO-Revision-Date: 2024-09-01 16:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/en/>\n"
@@ -180,70 +180,100 @@ msgid "adv_000004_0009_msg"
 msgstr "People who'll help other than us?"
 
 msgid "adv_000004_0010_msg"
-msgstr ""
+msgstr "Right, the Super Dimensional Network that Reina developed."
 
 msgid "adv_000004_0011_msg"
-msgstr ""
+msgstr "Super Dimensional...Network?"
 
 msgid "adv_000004_0012_msg"
 msgstr ""
+"Yes. I'll give you an SDN device\n"
+"and explain, so listen carefully."
 
 msgid "adv_000004_0015_msg"
 msgstr ""
+"Oooh!\n"
+"The SDN sure is amazin'!"
 
 msgid "adv_000004_0016_msg"
 msgstr ""
+"If we use this to work together with everyone,\n"
+"we should be able to hold on to our memories."
 
 msgid "adv_000004_0017_msg"
 msgstr ""
+"This is a battle to protect ours and the galaxy's memories.\n"
+"Freyja, Hayate, let's do our best!"
 
 msgid "adv_000004_0018_msg"
-msgstr ""
+msgstr "Yeah, of course!"
 
 msgid "adv_000004_0019_msg"
-msgstr ""
+msgstr "You betcha! Leave it to me!"
 
 msgid "adv_000004_0020_msg"
 msgstr ""
+"That reminds me, I heard we've got a \n"
+"new person joining Xaos Ragna today."
 
 msgid "adv_000004_0021_msg"
-msgstr ""
+msgstr "Oh yeah, Mirage mentioned that to me."
 
 msgid "adv_000004_0022_msg"
 msgstr ""
+"A new member...\n"
+"I wonder what they'll be like..."
 
 msgid "adv_000005_0002_msg"
 msgstr ""
+"Thank you for waiting.\n"
+"You're the person who's come to help us out, right?"
 
 msgid "adv_000005_0003_msg"
 msgstr ""
+"Nice to meet you.\n"
+"I'm Mirage Farina Jenius of \n"
+"Xaos Ragna's Delta Flight."
 
 msgid "adv_000005_0004_msg"
 msgstr ""
+"I was told to help you get settled in.\n"
+"Looking forward to working with you."
 
 msgid "adv_000005_0005_msg"
 msgstr ""
+"First we'll have you enlist.\n"
+"Please sign this."
 
 msgid "adv_000005_0007_msg"
 msgstr ""
+"OK, next I'll introduce you to the\n"
+"Divas you'll be fighting alongside."
 
 msgid "adv_000006_0002_msg"
-msgstr ""
+msgstr "Now you're ready."
 
 msgid "adv_000006_0003_msg"
 msgstr ""
+"2nd Lieutenant Hayate will support\n"
+"you in battle from now on."
 
 msgid "adv_000006_0005_msg"
 msgstr ""
+"We are about to commence fighting the\n"
+"Bird People, but with you and the Divas,\n"
+"I'm sure things will go well."
 
 msgid "adv_000006_0006_msg"
-msgstr ""
+msgstr "Well, if you'll excuse me, I'll leave you to it."
 
 msgid "adv_000006_0007_msg"
 msgstr ""
+"I am sure we will meet\n"
+"again soon in battle…"
 
 msgid "adv_000006_0008_msg"
-msgstr ""
+msgstr "Stay safe until then."
 
 msgid "adv_100101_0002_msg"
 msgstr ""
