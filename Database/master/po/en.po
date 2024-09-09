@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-08 13:16+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-09-09 21:28+0000\n"
+"Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
 "Language: en\n"
@@ -3606,64 +3606,64 @@ msgid "cs_i_dsc_short_0003"
 msgstr ""
 
 msgid "cos_0001"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0002"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0003"
-msgstr ""
+msgstr "Rotkäppchen"
 
 msgid "cos_0004"
-msgstr ""
+msgstr "Blaue Blume"
 
 msgid "cos_0005"
-msgstr ""
+msgstr "Kimono-Stahl"
 
 msgid "cos_0006"
-msgstr ""
+msgstr "Vor Stoß"
 
 msgid "cos_0007"
-msgstr ""
+msgstr "Hübsche Qualle"
 
 msgid "cos_0008"
-msgstr ""
+msgstr "Erste Liebe"
 
 msgid "cos_0009"
-msgstr ""
+msgstr "Resonance"
 
 msgid "cos_0010"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0011"
-msgstr ""
+msgstr "Garnet Teen"
 
 msgid "cos_0012"
-msgstr ""
+msgstr "Blauer Äther"
 
 msgid "cos_0013"
-msgstr ""
+msgstr "Sternenblau"
 
 msgid "cos_0014"
-msgstr ""
+msgstr "Leidenshaft"
 
 msgid "cos_0015"
-msgstr ""
+msgstr "Rag Nyan-Nyan Messiah"
 
 msgid "cos_0016"
-msgstr ""
+msgstr "Cosmic Apple"
 
 msgid "cos_0017"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0018"
-msgstr ""
+msgstr "Pop Twister"
 
 msgid "cos_0019"
-msgstr ""
+msgstr "Hot Lilith"
 
 msgid "cos_0020"
-msgstr ""
+msgstr "Crossover Passion"
 
 msgid "cos_0021"
 msgstr ""
@@ -4260,34 +4260,34 @@ msgid "cos_0230"
 msgstr ""
 
 msgid "cos_0231"
-msgstr ""
+msgstr "Apple Chocolate"
 
 msgid "cos_0232"
-msgstr ""
+msgstr "Cherry Braut"
 
 msgid "cos_0233"
-msgstr ""
+msgstr "Modish Wind"
 
 msgid "cos_0234"
-msgstr ""
+msgstr "Apple Mythos"
 
 msgid "cos_0235"
-msgstr ""
+msgstr "Crossover Lip"
 
 msgid "cos_0236"
-msgstr ""
+msgstr "Trick Apple"
 
 msgid "cos_0237"
-msgstr ""
+msgstr "Merry Schürze"
 
 msgid "cos_0238"
-msgstr ""
+msgstr "Shining Bell"
 
 msgid "cos_0239"
-msgstr ""
+msgstr "Eintracht"
 
 msgid "cos_0240"
-msgstr ""
+msgstr "Canary Apple"
 
 msgid "cos_0241"
 msgstr ""
