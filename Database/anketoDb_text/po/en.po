@@ -3,63 +3,64 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-09-09 21:28+0000\n"
+"Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
+"Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
+"anketodb_text/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "anketo_0000_question"
-msgstr ""
+msgstr "How much do you like the Macross franchise?"
 
 msgid "anketo_0000_0000_choice"
-msgstr ""
+msgstr "I really enjoy it"
 
 msgid "anketo_0000_0001_choice"
-msgstr ""
+msgstr "I only like it a little"
 
 msgid "anketo_0000_0002_choice"
-msgstr ""
+msgstr "I don't really like it"
 
 msgid "anketo_0000_0003_choice"
-msgstr ""
+msgstr "I don't know the series"
 
 msgid "anketo_0001_question"
-msgstr ""
+msgstr "Have you played any other rhythm games?"
 
 msgid "anketo_0001_0000_choice"
-msgstr ""
+msgstr "I play them a lot"
 
 msgid "anketo_0001_0001_choice"
-msgstr ""
+msgstr "I play them often"
 
 msgid "anketo_0001_0002_choice"
-msgstr ""
+msgstr "I don't really play them"
 
 msgid "anketo_0001_0003_choice"
-msgstr ""
+msgstr "Uta Macross is my first"
 
 msgid "anketo_0002_question"
-msgstr ""
+msgstr "What are you looking forward to in Uta Macross?"
 
 msgid "anketo_0002_0000_choice"
-msgstr ""
+msgstr "The characters"
 
 msgid "anketo_0002_0001_choice"
-msgstr ""
+msgstr "The storyline"
 
 msgid "anketo_0002_0002_choice"
-msgstr ""
+msgstr "The songs"
 
 msgid "anketo_0002_0003_choice"
-msgstr ""
+msgstr "The performances"
 
 msgid "anketo_0002_0004_choice"
-msgstr ""
+msgstr "The Valkyries"
 
 msgid "anketo_0002_0005_choice"
-msgstr ""
+msgstr "The gameplay"
