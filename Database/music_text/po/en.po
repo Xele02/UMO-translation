@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-08-26 16:38+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-09-10 17:28+0000\n"
+"Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
 "Language: en\n"
@@ -27,17 +27,17 @@ msgid "musicName_0001_musicname"
 msgstr "An Angel's Paints"
 
 msgid "musicName_0001_officialName"
-msgstr "An Angel's Paints"
+msgstr "An Angel Paints"
 
 msgid "musicName_0001_vocalName"
-msgstr "Mari Ijima"
+msgstr "Mari Iijima"
 
 msgid "musicName_0001_vocalNameLF"
-msgstr "Mari Ijima"
+msgstr "Mari Iijima"
 
 msgid "musicName_0001_description"
 msgstr ""
-"From: Super Dimension Fortress Macross: Do You Remember Love\n"
+"From: Macross: Do You Remember Love\n"
 "\n"
 "Artist: Mari Ijima\n"
 "\n"
@@ -57,10 +57,10 @@ msgid "musicName_0001_storyTitle"
 msgstr "\"One, Two, Three, Four...\""
 
 msgid "musicName_0002_musicname"
-msgstr "PLANET DANCE"
+msgstr "Planet Dance"
 
 msgid "musicName_0002_officialName"
-msgstr "PLANET DANCE"
+msgstr "Planet Dance"
 
 msgid "musicName_0002_vocalName"
 msgstr "Fire Bomber"
@@ -90,22 +90,22 @@ msgid "musicName_0002_storyTitle"
 msgstr "\"Kept You Waiting, Huh!\""
 
 msgid "musicName_0003_musicname"
-msgstr "MY SOUL FOR YOU"
+msgstr "My Soul For You"
 
 msgid "musicName_0003_officialName"
-msgstr "MY SOUL FOR YOU"
+msgstr "My Soul For You"
 
 msgid "musicName_0003_vocalName"
-msgstr "Fire Bomber featuring BASARA NEKKI"
+msgstr "Fire Bomber featuring Basara Nekki"
 
 msgid "musicName_0003_vocalNameLF"
-msgstr "Fire Bomber featuring BASARA NEKKI"
+msgstr "Fire Bomber featuring Basara Nekki"
 
 msgid "musicName_0003_description"
 msgstr ""
 "From: Macross 7\n"
 "\n"
-"Artist: Fire Bomber featuring BASARA NEKKI\n"
+"Artist: Fire Bomber featuring Basara Nekki\n"
 "\n"
 "Lyrics: K.INOJO\n"
 "Music: Yoshiki Fukuyama"
@@ -123,10 +123,10 @@ msgid "musicName_0003_storyTitle"
 msgstr "\"One Day I'll Show You\""
 
 msgid "musicName_0004_musicname"
-msgstr ""
+msgstr "Interstellar Flight"
 
 msgid "musicName_0004_officialName"
-msgstr ""
+msgstr "Interstellar Flight"
 
 msgid "musicName_0004_vocalName"
 msgstr "Ranka Lee = Megumi Nakajima"
@@ -186,16 +186,16 @@ msgid "musicName_0006_storyTitle"
 msgstr ""
 
 msgid "musicName_0007_musicname"
-msgstr ""
+msgstr "Sagittarius 9pm, Don't Be Late"
 
 msgid "musicName_0007_officialName"
-msgstr ""
+msgstr "Sagittarius 9pm, Don't Be Late"
 
 msgid "musicName_0007_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0007_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0007_description"
 msgstr ""
@@ -243,16 +243,16 @@ msgid "musicName_0009_storyTitle"
 msgstr ""
 
 msgid "musicName_0010_musicname"
-msgstr ""
+msgstr "Infinity"
 
 msgid "musicName_0010_officialName"
-msgstr ""
+msgstr "Infinity"
 
 msgid "musicName_0010_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0010_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0010_description"
 msgstr ""
@@ -264,16 +264,16 @@ msgid "musicName_0010_storyTitle"
 msgstr ""
 
 msgid "musicName_0011_musicname"
-msgstr ""
+msgstr "Do You Remember Love"
 
 msgid "musicName_0011_officialName"
-msgstr ""
+msgstr "Do You Remember Love"
 
 msgid "musicName_0011_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
 msgid "musicName_0011_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
 msgid "musicName_0011_description"
 msgstr ""
@@ -285,16 +285,16 @@ msgid "musicName_0011_storyTitle"
 msgstr ""
 
 msgid "musicName_0012_musicname"
-msgstr ""
+msgstr "Little White Dragon"
 
 msgid "musicName_0012_officialName"
-msgstr ""
+msgstr "Little White Dragon"
 
 msgid "musicName_0012_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
 msgid "musicName_0012_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
 msgid "musicName_0012_description"
 msgstr ""
@@ -306,16 +306,16 @@ msgid "musicName_0012_storyTitle"
 msgstr ""
 
 msgid "musicName_0013_musicname"
-msgstr ""
+msgstr "Welcome To My Fan Club's Night!"
 
 msgid "musicName_0013_officialName"
-msgstr ""
+msgstr "Welcome To My Fan Club's Night!"
 
 msgid "musicName_0013_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0013_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0013_description"
 msgstr ""
@@ -327,16 +327,16 @@ msgid "musicName_0013_storyTitle"
 msgstr ""
 
 msgid "musicName_0014_musicname"
-msgstr ""
+msgstr "Try Again"
 
 msgid "musicName_0014_officialName"
-msgstr ""
+msgstr "Try Again"
 
 msgid "musicName_0014_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0014_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0014_description"
 msgstr ""
@@ -348,16 +348,16 @@ msgid "musicName_0014_storyTitle"
 msgstr ""
 
 msgid "musicName_0015_musicname"
-msgstr ""
+msgstr "Universal Bunny"
 
 msgid "musicName_0015_officialName"
-msgstr ""
+msgstr "Universal Bunny"
 
 msgid "musicName_0015_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0015_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0015_description"
 msgstr ""
@@ -369,16 +369,16 @@ msgid "musicName_0015_storyTitle"
 msgstr ""
 
 msgid "musicName_0016_musicname"
-msgstr ""
+msgstr "Triangler (Fight on Stage)"
 
 msgid "musicName_0016_officialName"
-msgstr ""
+msgstr "Triangler (Fight on Stage)"
 
 msgid "musicName_0016_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
 
 msgid "musicName_0016_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
 
 msgid "musicName_0016_description"
 msgstr ""
@@ -390,16 +390,16 @@ msgid "musicName_0016_storyTitle"
 msgstr ""
 
 msgid "musicName_0017_musicname"
-msgstr ""
+msgstr "Totsugeki Love Heart (Duet Version)"
 
 msgid "musicName_0017_officialName"
-msgstr ""
+msgstr "Totsugeki Love Heart (Duet Version)"
 
 msgid "musicName_0017_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0017_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0017_description"
 msgstr ""
@@ -411,16 +411,16 @@ msgid "musicName_0017_storyTitle"
 msgstr ""
 
 msgid "musicName_0018_musicname"
-msgstr ""
+msgstr "Northern Cross"
 
 msgid "musicName_0018_officialName"
-msgstr ""
+msgstr "Northern Cross"
 
 msgid "musicName_0018_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0018_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0018_description"
 msgstr ""
@@ -438,10 +438,10 @@ msgid "musicName_0019_officialName"
 msgstr "My Boyfriend Is a Pilot (Part I)"
 
 msgid "musicName_0019_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
 msgid "musicName_0019_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
 msgid "musicName_0019_description"
 msgstr ""
@@ -453,16 +453,16 @@ msgid "musicName_0019_storyTitle"
 msgstr ""
 
 msgid "musicName_0020_musicname"
-msgstr ""
+msgstr "Ikenai Borderline"
 
 msgid "musicName_0020_officialName"
-msgstr ""
+msgstr "Ikenai Borderline"
 
 msgid "musicName_0020_vocalName"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0020_vocalNameLF"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0020_description"
 msgstr ""
@@ -474,16 +474,16 @@ msgid "musicName_0020_storyTitle"
 msgstr ""
 
 msgid "musicName_0021_musicname"
-msgstr ""
+msgstr "Lion"
 
 msgid "musicName_0021_officialName"
-msgstr ""
+msgstr "Lion"
 
 msgid "musicName_0021_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n, Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0021_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n, Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0021_description"
 msgstr ""
