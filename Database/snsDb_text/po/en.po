@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2024-09-10 20:28+0000\n"
+"PO-Revision-Date: 2024-09-11 12:28+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "snsdb_text/en/>\n"
@@ -501,106 +501,106 @@ msgid "chara_name_0002_txt"
 msgstr "Kaname"
 
 msgid "chara_name_0003_txt"
-msgstr ""
+msgstr "Makina"
 
 msgid "chara_name_0004_txt"
-msgstr ""
+msgstr "Reina"
 
 msgid "chara_name_0005_txt"
 msgstr "Ranka"
 
 msgid "chara_name_0006_txt"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "chara_name_0007_txt"
-msgstr ""
+msgstr "Mylene"
 
 msgid "chara_name_0008_txt"
-msgstr ""
+msgstr "Basara"
 
 msgid "chara_name_0009_txt"
-msgstr ""
+msgstr "Minmay"
 
 msgid "chara_name_0010_txt"
-msgstr ""
+msgstr "Hayate"
 
 msgid "chara_name_0011_txt"
-msgstr ""
+msgstr "Mirage"
 
 msgid "chara_name_0012_txt"
-msgstr ""
+msgstr "Messer"
 
 msgid "chara_name_0013_txt"
-msgstr ""
+msgstr "Arad"
 
 msgid "chara_name_0014_txt"
-msgstr ""
+msgstr "Chuck"
 
 msgid "chara_name_0015_txt"
-msgstr ""
+msgstr "Alto"
 
 msgid "chara_name_0016_txt"
-msgstr ""
+msgstr "Michael"
 
 msgid "chara_name_0017_txt"
-msgstr ""
+msgstr "Ozma"
 
 msgid "chara_name_0018_txt"
 msgstr "Luca"
 
 msgid "chara_name_0019_txt"
-msgstr ""
+msgstr "Brera"
 
 msgid "chara_name_0020_txt"
-msgstr ""
+msgstr "Ray"
 
 msgid "chara_name_0021_txt"
-msgstr ""
+msgstr "Veffidas"
 
 msgid "chara_name_0022_txt"
-msgstr ""
+msgstr "Hikaru"
 
 msgid "chara_name_0023_txt"
-msgstr ""
+msgstr "Fokker"
 
 msgid "chara_name_0024_txt"
-msgstr ""
+msgstr "Max"
 
 msgid "chara_name_0025_txt"
-msgstr ""
+msgstr "Miriya"
 
 msgid "chara_name_0026_txt"
-msgstr ""
+msgstr "Keith"
 
 msgid "chara_name_0027_txt"
-msgstr ""
+msgstr "Lloyd"
 
 msgid "chara_name_0028_txt"
-msgstr ""
+msgstr "Bogue"
 
 msgid "chara_name_0029_txt"
-msgstr ""
+msgstr "Klan"
 
 msgid "chara_name_0030_txt"
-msgstr ""
+msgstr "Nanase"
 
 msgid "chara_name_0031_txt"
-msgstr ""
+msgstr "Gamlin"
 
 msgid "chara_name_0032_txt"
-msgstr ""
+msgstr "Akiko"
 
 msgid "chara_name_0033_txt"
-msgstr ""
+msgstr "Misa"
 
 msgid "chara_name_0034_txt"
-msgstr ""
+msgstr "Claudia"
 
 msgid "chara_name_0035_txt"
-msgstr ""
+msgstr "Isamu"
 
 msgid "chara_name_0036_txt"
-msgstr ""
+msgstr "Guld"
 
 msgid "chara_name_0037_txt"
-msgstr ""
+msgstr "Everyone"
