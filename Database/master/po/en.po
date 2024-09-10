@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-10 20:28+0000\n"
+"PO-Revision-Date: 2024-09-11 12:28+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -3465,28 +3465,28 @@ msgid "diva_02"
 msgstr "Mikumo Guynemer"
 
 msgid "diva_03"
-msgstr ""
+msgstr "Kaname Buccaneer"
 
 msgid "diva_04"
-msgstr ""
+msgstr "Makina Nakajima"
 
 msgid "diva_05"
-msgstr ""
+msgstr "Reina Prowler"
 
 msgid "diva_06"
-msgstr ""
+msgstr "Ranka Lee"
 
 msgid "diva_07"
-msgstr ""
+msgstr "Sheryl Nome"
 
 msgid "diva_08"
-msgstr ""
+msgstr "Mylene Jenius"
 
 msgid "diva_09"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "diva_10"
-msgstr ""
+msgstr "Lynn Minmay"
 
 msgid "diva_s_01"
 msgstr "Freyja"
@@ -3498,25 +3498,25 @@ msgid "diva_s_03"
 msgstr "Kaname"
 
 msgid "diva_s_04"
-msgstr ""
+msgstr "Makina"
 
 msgid "diva_s_05"
-msgstr ""
+msgstr "Reina"
 
 msgid "diva_s_06"
 msgstr "Ranka"
 
 msgid "diva_s_07"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "diva_s_08"
-msgstr ""
+msgstr "Mylene"
 
 msgid "diva_s_09"
-msgstr ""
+msgstr "Basara"
 
 msgid "diva_s_10"
-msgstr ""
+msgstr "Minmay"
 
 msgid "cs_i_nm_0001"
 msgstr ""
@@ -20022,7 +20022,7 @@ msgid "plt_nm_0001"
 msgstr ""
 
 msgid "plt_nm_0002"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "plt_nm_0003"
 msgstr ""
@@ -20052,7 +20052,7 @@ msgid "plt_nm_0011"
 msgstr ""
 
 msgid "plt_nm_0012"
-msgstr ""
+msgstr "Mylene Jenius"
 
 msgid "plt_nm_0013"
 msgstr ""
@@ -20115,7 +20115,7 @@ msgid "plt_nm_0032"
 msgstr ""
 
 msgid "plt_nm_0033"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "plt_nm_0034"
 msgstr ""
@@ -28125,28 +28125,28 @@ msgid "dc_itm_nm_0002_chr"
 msgstr "Mikumo Guynemer"
 
 msgid "dc_itm_nm_0003_chr"
-msgstr ""
+msgstr "Kaname Buccaneer"
 
 msgid "dc_itm_nm_0004_chr"
-msgstr ""
+msgstr "Makina Nakajima"
 
 msgid "dc_itm_nm_0005_chr"
-msgstr ""
+msgstr "Reina Prowler"
 
 msgid "dc_itm_nm_0006_chr"
-msgstr ""
+msgstr "Ranka Lee"
 
 msgid "dc_itm_nm_0007_chr"
-msgstr ""
+msgstr "Sheryl Nome"
 
 msgid "dc_itm_nm_0008_chr"
-msgstr ""
+msgstr "Mylene Jenius"
 
 msgid "dc_itm_nm_0009_chr"
-msgstr ""
+msgstr "Basara Nekki"
 
 msgid "dc_itm_nm_0010_chr"
-msgstr ""
+msgstr "Lynn Minmay"
 
 msgid "dc_itm_nm_0001_sp"
 msgstr ""
