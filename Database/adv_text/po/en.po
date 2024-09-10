@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2024-09-01 16:28+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-09-10 20:28+0000\n"
+"Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/en/>\n"
 "Language: en\n"
@@ -9390,7 +9390,7 @@ msgid "adv_301402_0027_msg"
 msgstr ""
 
 msgid "adv_301402_0031_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_301402_0032_msg"
 msgstr ""
@@ -9789,7 +9789,7 @@ msgid "adv_201602_0025_msg"
 msgstr ""
 
 msgid "adv_201602_0027_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_201602_0028_msg"
 msgstr ""
@@ -11550,7 +11550,7 @@ msgid "adv_102102_0010_msg"
 msgstr ""
 
 msgid "adv_102102_0012_msg"
-msgstr ""
+msgstr "Mikumo"
 
 msgid "adv_102102_0013_msg"
 msgstr ""
@@ -11796,7 +11796,7 @@ msgid "adv_301801_0023_msg"
 msgstr ""
 
 msgid "adv_301801_0027_msg"
-msgstr ""
+msgstr "Freyja Wion"
 
 msgid "adv_301801_0028_msg"
 msgstr ""
@@ -19650,7 +19650,7 @@ msgid "adv_104101_0024_msg"
 msgstr ""
 
 msgid "adv_104101_0026_msg"
-msgstr ""
+msgstr "Ranka"
 
 msgid "adv_104101_0027_msg"
 msgstr ""
@@ -19734,7 +19734,7 @@ msgid "adv_104102_0022_msg"
 msgstr ""
 
 msgid "adv_104102_0024_msg"
-msgstr ""
+msgstr "Ranka"
 
 msgid "adv_104102_0025_msg"
 msgstr ""
@@ -20580,7 +20580,7 @@ msgid "adv_303702_0024_msg"
 msgstr ""
 
 msgid "adv_303702_0025_msg"
-msgstr ""
+msgstr "Ranka"
 
 msgid "adv_303702_0026_msg"
 msgstr ""
@@ -21039,7 +21039,7 @@ msgid "adv_104501_0042_msg"
 msgstr ""
 
 msgid "adv_104502_0008_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_104502_0009_msg"
 msgstr ""
@@ -23928,7 +23928,7 @@ msgid "adv_105401_0015_msg"
 msgstr ""
 
 msgid "adv_105401_0016_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_105401_0017_msg"
 msgstr ""
@@ -25824,7 +25824,7 @@ msgid "adv_206301_0008_msg"
 msgstr ""
 
 msgid "adv_206301_0009_msg"
-msgstr ""
+msgstr "Kaname"
 
 msgid "adv_206301_0010_msg"
 msgstr ""
