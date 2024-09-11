@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-10 20:28+0000\n"
+"PO-Revision-Date: 2024-09-11 12:28+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "room_text/en/>\n"
@@ -822,7 +822,7 @@ msgid "message_0269_txt"
 msgstr ""
 
 msgid "message_0270_txt"
-msgstr ""
+msgstr "Messer"
 
 msgid "message_0271_txt"
 msgstr ""
@@ -3897,7 +3897,7 @@ msgid "message_1294_txt"
 msgstr ""
 
 msgid "message_1295_txt"
-msgstr ""
+msgstr "Mylene"
 
 msgid "message_1296_txt"
 msgstr ""
@@ -3918,7 +3918,7 @@ msgid "message_1301_txt"
 msgstr ""
 
 msgid "message_1302_txt"
-msgstr ""
+msgstr "Basara"
 
 msgid "message_1303_txt"
 msgstr ""
@@ -9522,7 +9522,7 @@ msgid "message_3169_txt"
 msgstr ""
 
 msgid "message_3170_txt"
-msgstr ""
+msgstr "Reina Prowler"
 
 msgid "message_3171_txt"
 msgstr ""
@@ -10533,7 +10533,7 @@ msgid "message_3506_txt"
 msgstr ""
 
 msgid "message_3507_txt"
-msgstr ""
+msgstr "Mirage"
 
 msgid "message_3508_txt"
 msgstr ""
@@ -12450,7 +12450,7 @@ msgid "message_4145_txt"
 msgstr ""
 
 msgid "message_4146_txt"
-msgstr ""
+msgstr "Minmay"
 
 msgid "message_4147_txt"
 msgstr ""
@@ -14823,7 +14823,7 @@ msgid "message_4936_txt"
 msgstr ""
 
 msgid "message_4937_txt"
-msgstr ""
+msgstr "Makina"
 
 msgid "message_4938_txt"
 msgstr ""
@@ -28482,7 +28482,7 @@ msgid "message_9489_txt"
 msgstr ""
 
 msgid "message_9490_txt"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "message_9491_txt"
 msgstr ""
@@ -30249,7 +30249,7 @@ msgid "message_10078_txt"
 msgstr ""
 
 msgid "message_10079_txt"
-msgstr ""
+msgstr "Alto"
 
 msgid "message_10080_txt"
 msgstr ""
@@ -36855,7 +36855,7 @@ msgid "message_12280_txt"
 msgstr ""
 
 msgid "message_12281_txt"
-msgstr ""
+msgstr "Reina"
 
 msgid "message_12282_txt"
 msgstr ""
