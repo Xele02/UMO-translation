@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2024-09-10 20:28+0000\n"
+"PO-Revision-Date: 2024-09-11 12:28+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/en/>\n"
@@ -5661,7 +5661,7 @@ msgid "adv_301001_0021_msg"
 msgstr ""
 
 msgid "adv_301001_0022_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_301001_0023_msg"
 msgstr ""
@@ -5736,7 +5736,7 @@ msgid "adv_301001_0046_msg"
 msgstr ""
 
 msgid "adv_301001_0047_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_301001_0048_msg"
 msgstr ""
@@ -5814,7 +5814,7 @@ msgid "adv_301002_0023_msg"
 msgstr ""
 
 msgid "adv_301002_0024_msg"
-msgstr ""
+msgstr "Mirage"
 
 msgid "adv_301002_0025_msg"
 msgstr ""
@@ -6513,7 +6513,7 @@ msgid "adv_301102_0029_msg"
 msgstr ""
 
 msgid "adv_301102_0030_msg"
-msgstr ""
+msgstr "Alto"
 
 msgid "adv_301102_0031_msg"
 msgstr ""
@@ -9138,7 +9138,7 @@ msgid "adv_201502_0008_msg"
 msgstr ""
 
 msgid "adv_201502_0009_msg"
-msgstr ""
+msgstr "Minmay"
 
 msgid "adv_201502_0010_msg"
 msgstr ""
@@ -9678,7 +9678,7 @@ msgid "adv_201601_0021_msg"
 msgstr ""
 
 msgid "adv_201601_0022_msg"
-msgstr ""
+msgstr "Chuck"
 
 msgid "adv_201601_0023_msg"
 msgstr ""
@@ -10113,7 +10113,7 @@ msgid "adv_101802_0008_msg"
 msgstr ""
 
 msgid "adv_101802_0009_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_101802_0010_msg"
 msgstr ""
@@ -10575,7 +10575,7 @@ msgid "adv_201702_0021_msg"
 msgstr ""
 
 msgid "adv_201702_0023_msg"
-msgstr ""
+msgstr "Mylene"
 
 msgid "adv_201702_0024_msg"
 msgstr ""
@@ -11211,7 +11211,7 @@ msgid "adv_201802_0010_msg"
 msgstr ""
 
 msgid "adv_201802_0011_msg"
-msgstr ""
+msgstr "Hayate"
 
 msgid "adv_201802_0012_msg"
 msgstr ""
@@ -11259,7 +11259,7 @@ msgid "adv_201802_0027_msg"
 msgstr ""
 
 msgid "adv_201802_0028_msg"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "adv_201802_0029_msg"
 msgstr ""
@@ -11715,7 +11715,7 @@ msgid "adv_201902_0021_msg"
 msgstr ""
 
 msgid "adv_201902_0023_msg"
-msgstr ""
+msgstr "Mirage"
 
 msgid "adv_201902_0024_msg"
 msgstr ""
@@ -12426,7 +12426,7 @@ msgid "adv_102301_0027_msg"
 msgstr ""
 
 msgid "adv_102301_0028_msg"
-msgstr ""
+msgstr "Hayate"
 
 msgid "adv_102301_0029_msg"
 msgstr ""
@@ -13974,7 +13974,7 @@ msgid "adv_102702_0015_msg"
 msgstr ""
 
 msgid "adv_102702_0016_msg"
-msgstr ""
+msgstr "Hayate"
 
 msgid "adv_102702_0017_msg"
 msgstr ""
@@ -14850,7 +14850,7 @@ msgid "adv_302601_0029_msg"
 msgstr ""
 
 msgid "adv_302601_0031_msg"
-msgstr ""
+msgstr "Hayate"
 
 msgid "adv_302601_0032_msg"
 msgstr ""
@@ -17406,7 +17406,7 @@ msgid "adv_303201_0040_msg"
 msgstr ""
 
 msgid "adv_303202_0009_msg"
-msgstr ""
+msgstr "Makina"
 
 msgid "adv_303202_0010_msg"
 msgstr ""
@@ -17577,7 +17577,7 @@ msgid "adv_103601_0041_msg"
 msgstr ""
 
 msgid "adv_103602_0009_msg"
-msgstr ""
+msgstr "Chuck"
 
 msgid "adv_103602_0010_msg"
 msgstr ""
@@ -18651,7 +18651,7 @@ msgid "adv_1400101_0026_msg"
 msgstr ""
 
 msgid "adv_1400101_0029_msg"
-msgstr ""
+msgstr "Basara"
 
 msgid "adv_1400101_0030_msg"
 msgstr ""
@@ -19377,7 +19377,7 @@ msgid "adv_104002_0036_msg"
 msgstr ""
 
 msgid "adv_104002_0037_msg"
-msgstr ""
+msgstr "Mylene"
 
 msgid "adv_104002_0038_msg"
 msgstr ""
@@ -22101,7 +22101,7 @@ msgid "adv_104802_0009_msg"
 msgstr ""
 
 msgid "adv_104802_0010_msg"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "adv_104802_0011_msg"
 msgstr ""
@@ -22707,7 +22707,7 @@ msgid "adv_105001_0021_msg"
 msgstr ""
 
 msgid "adv_105001_0023_msg"
-msgstr ""
+msgstr "Minmay"
 
 msgid "adv_105001_0024_msg"
 msgstr ""
@@ -22899,7 +22899,7 @@ msgid "adv_1400701_0019_msg"
 msgstr ""
 
 msgid "adv_1400701_0020_msg"
-msgstr ""
+msgstr "Sheryl"
 
 msgid "adv_1400701_0021_msg"
 msgstr ""
