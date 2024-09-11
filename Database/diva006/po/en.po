@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-10 20:28+0000\n"
+"PO-Revision-Date: 2024-09-11 12:28+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "diva006/en/>\n"
@@ -270,16 +270,16 @@ msgid "talk_event_31"
 msgstr ""
 
 msgid "talk_event_32"
-msgstr ""
+msgstr "Mirage"
 
 msgid "talk_event_33"
-msgstr ""
+msgstr "Messer"
 
 msgid "talk_event_34"
-msgstr ""
+msgstr "Arad"
 
 msgid "talk_event_35"
-msgstr ""
+msgstr "Chuck"
 
 msgid "talk_event_36"
 msgstr ""
@@ -288,16 +288,16 @@ msgid "talk_event_37"
 msgstr ""
 
 msgid "talk_event_38"
-msgstr ""
+msgstr "Ray"
 
 msgid "talk_event_39"
-msgstr ""
+msgstr "Hikaru"
 
 msgid "talk_event_40"
-msgstr ""
+msgstr "Gamlin"
 
 msgid "talk_event_41"
-msgstr ""
+msgstr "Misa"
 
 msgid "talk_event_42"
 msgstr ""
