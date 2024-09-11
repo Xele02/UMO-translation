@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-10 17:28+0000\n"
+"PO-Revision-Date: 2024-09-12 19:28+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
@@ -30,10 +30,10 @@ msgid "musicName_0001_officialName"
 msgstr "An Angel Paints"
 
 msgid "musicName_0001_vocalName"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0001_vocalNameLF"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0001_description"
 msgstr ""
@@ -46,12 +46,13 @@ msgstr ""
 
 msgid "musicName_0001_storyDesc"
 msgstr ""
-"Lynn Minmay, the singer whose voice brought about the end\n"
-"of a war, all the while worrying about the conflict's hardships\n"
-"and those she loved.\n"
-"Once everything was over, showered with praise from all, she\n"
-"took to the stage to sing once more with a proud look on her\n"
-"face. And then, she slowly sang a tune to herself…"
+"Lynn Minmay, the singer whose voice brought\n"
+"about the end of a war, all the while worrying about\n"
+"the conflict's hardships and those she loved.\n"
+"Once everything was over, showered with praise\n"
+"from all, she took to the stage to sing once more\n"
+"with a proud look on her face. And then, she slowly\n"
+"sang a tune to herself…"
 
 msgid "musicName_0001_storyTitle"
 msgstr "\"One, Two, Three, Four...\""
@@ -79,12 +80,13 @@ msgstr ""
 
 msgid "musicName_0002_storyDesc"
 msgstr ""
-"Fire Bomber, is a band hidden in a corner of the Macross 7 fleet, \n"
-"whose fame started to spread. Every member in the band is\n"
-"highly skilled.\n"
-"However, the main vocalist, a man called Basara Nekki, is\n"
-"a maverick. Even today, Basara, often late for his own shows,\n"
-"appeared on stage coming in from high above."
+"Fire Bomber, is a band hidden in a corner of the\n"
+"Macross 7 fleet, whose fame started to spread.\n"
+"Every member in the band is highly skilled.\n"
+"However, the main vocalist, a man called Basara\n"
+"Nekki, is a maverick. Even today, Basara, often late\n"
+"for his own shows, appeared on stage coming in\n"
+"from high above."
 
 msgid "musicName_0002_storyTitle"
 msgstr "\"Kept You Waiting, Huh!\""
@@ -96,16 +98,16 @@ msgid "musicName_0003_officialName"
 msgstr "My Soul For You"
 
 msgid "musicName_0003_vocalName"
-msgstr "Fire Bomber featuring Basara Nekki"
+msgstr "BASARA NEKKI"
 
 msgid "musicName_0003_vocalNameLF"
-msgstr "Fire Bomber featuring Basara Nekki"
+msgstr "BASARA NEKKI"
 
 msgid "musicName_0003_description"
 msgstr ""
 "From: Macross 7\n"
 "\n"
-"Artist: Fire Bomber featuring Basara Nekki\n"
+"Artist: Yoshiki Fukuyama\n"
 "\n"
 "Lyrics: K.INOJO\n"
 "Music: Yoshiki Fukuyama"
@@ -270,10 +272,10 @@ msgid "musicName_0011_officialName"
 msgstr "Do You Remember Love"
 
 msgid "musicName_0011_vocalName"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0011_vocalNameLF"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0011_description"
 msgstr ""
@@ -291,10 +293,10 @@ msgid "musicName_0012_officialName"
 msgstr "Little White Dragon"
 
 msgid "musicName_0012_vocalName"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0012_vocalNameLF"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0012_description"
 msgstr ""
@@ -438,10 +440,10 @@ msgid "musicName_0019_officialName"
 msgstr "My Boyfriend Is a Pilot (Part I)"
 
 msgid "musicName_0019_vocalName"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0019_vocalNameLF"
-msgstr "Mari Iijima"
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0019_description"
 msgstr ""
@@ -693,10 +695,10 @@ msgid "musicName_0032_officialName"
 msgstr ""
 
 msgid "musicName_0032_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0032_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0032_description"
 msgstr ""
@@ -756,10 +758,10 @@ msgid "musicName_0035_officialName"
 msgstr ""
 
 msgid "musicName_0035_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0035_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0035_description"
 msgstr ""
@@ -777,10 +779,10 @@ msgid "musicName_0036_officialName"
 msgstr ""
 
 msgid "musicName_0036_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0036_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0036_description"
 msgstr ""
@@ -855,10 +857,10 @@ msgid "musicName_0040_officialName"
 msgstr ""
 
 msgid "musicName_0040_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0040_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0040_description"
 msgstr ""
@@ -918,10 +920,10 @@ msgid "musicName_0043_officialName"
 msgstr ""
 
 msgid "musicName_0043_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0043_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0043_description"
 msgstr ""
@@ -981,10 +983,10 @@ msgid "musicName_0046_officialName"
 msgstr ""
 
 msgid "musicName_0046_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0046_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0046_description"
 msgstr ""
@@ -1074,10 +1076,10 @@ msgid "musicName_0051_officialName"
 msgstr ""
 
 msgid "musicName_0051_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0051_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0051_description"
 msgstr ""
@@ -1173,10 +1175,10 @@ msgid "musicName_0056_officialName"
 msgstr ""
 
 msgid "musicName_0056_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0056_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0056_description"
 msgstr ""
@@ -1224,10 +1226,10 @@ msgid "musicName_0059_officialName"
 msgstr ""
 
 msgid "musicName_0059_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0059_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0059_description"
 msgstr ""
@@ -1344,10 +1346,10 @@ msgid "musicName_0065_officialName"
 msgstr ""
 
 msgid "musicName_0065_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0065_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0065_description"
 msgstr ""
@@ -1365,10 +1367,10 @@ msgid "musicName_0066_officialName"
 msgstr ""
 
 msgid "musicName_0066_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0066_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0066_description"
 msgstr ""
@@ -1626,10 +1628,10 @@ msgid "musicName_0081_officialName"
 msgstr ""
 
 msgid "musicName_0081_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0081_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0081_description"
 msgstr ""
@@ -1647,10 +1649,10 @@ msgid "musicName_0082_officialName"
 msgstr ""
 
 msgid "musicName_0082_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0082_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0082_description"
 msgstr ""
@@ -1668,10 +1670,10 @@ msgid "musicName_0083_officialName"
 msgstr ""
 
 msgid "musicName_0083_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0083_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0083_description"
 msgstr ""
@@ -1899,10 +1901,10 @@ msgid "musicName_0094_officialName"
 msgstr ""
 
 msgid "musicName_0094_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0094_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0094_description"
 msgstr ""
@@ -1983,10 +1985,10 @@ msgid "musicName_0098_officialName"
 msgstr ""
 
 msgid "musicName_0098_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0098_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0098_description"
 msgstr ""
@@ -2088,10 +2090,10 @@ msgid "musicName_0103_officialName"
 msgstr ""
 
 msgid "musicName_0103_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0103_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0103_description"
 msgstr ""
@@ -2103,10 +2105,10 @@ msgid "musicName_0104_officialName"
 msgstr "An Angel's Paints"
 
 msgid "musicName_0104_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0104_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0104_description"
 msgstr ""
@@ -2322,10 +2324,10 @@ msgid "musicName_0117_officialName"
 msgstr ""
 
 msgid "musicName_0117_vocalName"
-msgstr ""
+msgstr "Emilia Jenius with BASARA NEKKI"
 
 msgid "musicName_0117_vocalNameLF"
-msgstr ""
+msgstr "Emilia Jenius with BASARA NEKKI"
 
 msgid "musicName_0117_description"
 msgstr ""
@@ -2367,10 +2369,10 @@ msgid "musicName_0120_officialName"
 msgstr "My Boyfriend Is a Pilot (Part II)"
 
 msgid "musicName_0120_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0120_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0120_description"
 msgstr ""
@@ -2502,10 +2504,10 @@ msgid "musicName_0129_officialName"
 msgstr ""
 
 msgid "musicName_0129_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0129_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0129_description"
 msgstr ""
@@ -2775,10 +2777,10 @@ msgid "musicName_0149_officialName"
 msgstr ""
 
 msgid "musicName_0149_vocalName"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0149_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima as Lynn Minmay"
 
 msgid "musicName_0149_description"
 msgstr ""
