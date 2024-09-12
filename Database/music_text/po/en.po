@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-12 19:28+0000\n"
+"PO-Revision-Date: 2024-09-12 20:59+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
@@ -27,7 +27,7 @@ msgid "musicName_0001_musicname"
 msgstr "An Angel's Paints"
 
 msgid "musicName_0001_officialName"
-msgstr "An Angel Paints"
+msgstr "An Angel's Paints"
 
 msgid "musicName_0001_vocalName"
 msgstr "Mari Iijima as Lynn Minmay"
@@ -191,7 +191,7 @@ msgid "musicName_0007_musicname"
 msgstr "Sagittarius 9pm, Don't Be Late"
 
 msgid "musicName_0007_officialName"
-msgstr "Sagittarius 9pm, Don't Be Late"
+msgstr "Sagittarius☆9pm, Don't Be Late"
 
 msgid "musicName_0007_vocalName"
 msgstr "Sheryl Nome starring May'n"
@@ -206,7 +206,7 @@ msgid "musicName_0007_storyDesc"
 msgstr ""
 
 msgid "musicName_0007_storyTitle"
-msgstr "「Listen to my song!」"
+msgstr "\"Listen to my song!\""
 
 msgid "musicName_0008_musicname"
 msgstr "Diamond Crevasse"
@@ -224,16 +224,16 @@ msgid "musicName_0008_description"
 msgstr ""
 
 msgid "musicName_0009_musicname"
-msgstr ""
+msgstr "What 'bout My Star?"
 
 msgid "musicName_0009_officialName"
-msgstr ""
+msgstr "What 'bout My Star?"
 
 msgid "musicName_0009_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0009_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0009_description"
 msgstr ""
@@ -512,31 +512,31 @@ msgid "musicName_0022_storyTitle"
 msgstr ""
 
 msgid "musicName_0023_musicname"
-msgstr ""
+msgstr "If The Rune Shines"
 
 msgid "musicName_0023_officialName"
-msgstr ""
+msgstr "If The Rune Shines"
 
 msgid "musicName_0023_vocalName"
-msgstr ""
+msgstr "Freya Δ Minori Suzuki"
 
 msgid "musicName_0023_vocalNameLF"
-msgstr ""
+msgstr "Freya Δ Minori Suzuki"
 
 msgid "musicName_0023_description"
 msgstr ""
 
 msgid "musicName_0024_musicname"
-msgstr ""
+msgstr "Fukakuteisei☆COSMIC MOVEMENT"
 
 msgid "musicName_0024_officialName"
-msgstr ""
+msgstr "Fukakuteisei☆COSMIC MOVEMENT"
 
 msgid "musicName_0024_vocalName"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0024_vocalNameLF"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0024_description"
 msgstr ""
@@ -548,16 +548,16 @@ msgid "musicName_0024_storyTitle"
 msgstr ""
 
 msgid "musicName_0025_musicname"
-msgstr ""
+msgstr "Love Halation! THE WAR"
 
 msgid "musicName_0025_officialName"
-msgstr ""
+msgstr "Love Halation! THE WAR"
 
 msgid "musicName_0025_vocalName"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0025_vocalNameLF"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0025_description"
 msgstr ""
@@ -569,31 +569,31 @@ msgid "musicName_0025_storyTitle"
 msgstr ""
 
 msgid "musicName_0026_musicname"
-msgstr ""
+msgstr "Your Sound"
 
 msgid "musicName_0026_officialName"
-msgstr ""
+msgstr "Your Sound"
 
 msgid "musicName_0026_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0026_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0026_description"
 msgstr ""
 
 msgid "musicName_0027_musicname"
-msgstr ""
+msgstr "Aimo"
 
 msgid "musicName_0027_officialName"
-msgstr ""
+msgstr "Aimo"
 
 msgid "musicName_0027_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0027_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0027_description"
 msgstr ""
@@ -605,16 +605,16 @@ msgid "musicName_0027_storyTitle"
 msgstr ""
 
 msgid "musicName_0028_musicname"
-msgstr ""
+msgstr "Cat Diary"
 
 msgid "musicName_0028_officialName"
-msgstr ""
+msgstr "Cat Diary"
 
 msgid "musicName_0028_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0028_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0028_description"
 msgstr ""
@@ -626,16 +626,16 @@ msgid "musicName_0028_storyTitle"
 msgstr ""
 
 msgid "musicName_0029_musicname"
-msgstr ""
+msgstr "Giritic♡BEGINNER"
 
 msgid "musicName_0029_officialName"
-msgstr ""
+msgstr "Giritic♡BEGINNER"
 
 msgid "musicName_0029_vocalName"
-msgstr ""
+msgstr "Reina Δ Nao Toyama and Makina Δ Nozomi Nishida"
 
 msgid "musicName_0029_vocalNameLF"
-msgstr ""
+msgstr "Reina Δ Nao Toyama and Makina Δ Nozomi Nishida"
 
 msgid "musicName_0029_description"
 msgstr ""
@@ -647,16 +647,16 @@ msgid "musicName_0029_storyTitle"
 msgstr ""
 
 msgid "musicName_0030_musicname"
-msgstr ""
+msgstr "After-School Overflow"
 
 msgid "musicName_0030_officialName"
-msgstr ""
+msgstr "After-School Overflow"
 
 msgid "musicName_0030_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0030_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0030_description"
 msgstr ""
@@ -668,16 +668,16 @@ msgid "musicName_0030_storyTitle"
 msgstr ""
 
 msgid "musicName_0031_musicname"
-msgstr ""
+msgstr "AXIA"
 
 msgid "musicName_0031_officialName"
-msgstr ""
+msgstr "AXIA"
 
 msgid "musicName_0031_vocalName"
-msgstr ""
+msgstr "Kaname Δ Kiyono Yasuno"
 
 msgid "musicName_0031_vocalNameLF"
-msgstr ""
+msgstr "Kaname Δ Kiyono Yasuno"
 
 msgid "musicName_0031_description"
 msgstr ""
@@ -689,10 +689,10 @@ msgid "musicName_0031_storyTitle"
 msgstr ""
 
 msgid "musicName_0032_musicname"
-msgstr ""
+msgstr "Power To The Dream"
 
 msgid "musicName_0032_officialName"
-msgstr ""
+msgstr "Power To The Dream"
 
 msgid "musicName_0032_vocalName"
 msgstr "Fire Bomber"
@@ -710,16 +710,16 @@ msgid "musicName_0032_storyTitle"
 msgstr ""
 
 msgid "musicName_0033_musicname"
-msgstr ""
+msgstr "Wings Of Farewell 〜 The End of Triangle"
 
 msgid "musicName_0033_officialName"
-msgstr ""
+msgstr "Wings Of Farewell 〜 The End of Triangle"
 
 msgid "musicName_0033_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n, Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0033_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n, Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0033_description"
 msgstr ""
@@ -731,16 +731,16 @@ msgid "musicName_0033_storyTitle"
 msgstr ""
 
 msgid "musicName_0034_musicname"
-msgstr ""
+msgstr "Our Battlefield"
 
 msgid "musicName_0034_officialName"
-msgstr ""
+msgstr "Our Battlefield"
 
 msgid "musicName_0034_vocalName"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0034_vocalNameLF"
-msgstr ""
+msgstr "Walküre"
 
 msgid "musicName_0034_description"
 msgstr ""
@@ -752,10 +752,10 @@ msgid "musicName_0034_storyTitle"
 msgstr ""
 
 msgid "musicName_0035_musicname"
-msgstr ""
+msgstr "Dynamite Explosion"
 
 msgid "musicName_0035_officialName"
-msgstr ""
+msgstr "Dynamite Explosion"
 
 msgid "musicName_0035_vocalName"
 msgstr "Fire Bomber"
@@ -773,10 +773,10 @@ msgid "musicName_0035_storyTitle"
 msgstr ""
 
 msgid "musicName_0036_musicname"
-msgstr ""
+msgstr "Silver Moon, Red Moon"
 
 msgid "musicName_0036_officialName"
-msgstr ""
+msgstr "Silver Moon, Red Moon"
 
 msgid "musicName_0036_vocalName"
 msgstr "Mari Iijima as Lynn Minmay"
@@ -956,16 +956,16 @@ msgid "musicName_0044_storyTitle"
 msgstr ""
 
 msgid "musicName_0045_musicname"
-msgstr ""
+msgstr "Dream Colored Bear"
 
 msgid "musicName_0045_officialName"
-msgstr ""
+msgstr "Dream Colored Bear"
 
 msgid "musicName_0045_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Magical Girl Ranka"
 
 msgid "musicName_0045_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Magical Girl Ranka"
 
 msgid "musicName_0045_description"
 msgstr ""
