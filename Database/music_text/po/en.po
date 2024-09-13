@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-12 20:59+0000\n"
+"PO-Revision-Date: 2024-09-13 19:27+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
@@ -30,10 +30,10 @@ msgid "musicName_0001_officialName"
 msgstr "An Angel's Paints"
 
 msgid "musicName_0001_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0001_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0001_description"
 msgstr ""
@@ -98,16 +98,16 @@ msgid "musicName_0003_officialName"
 msgstr "My Soul For You"
 
 msgid "musicName_0003_vocalName"
-msgstr "BASARA NEKKI"
+msgstr "Fire Bomber featuring BASARA NEKKI"
 
 msgid "musicName_0003_vocalNameLF"
-msgstr "BASARA NEKKI"
+msgstr "Fire Bomber featuring BASARA NEKKI"
 
 msgid "musicName_0003_description"
 msgstr ""
 "From: Macross 7\n"
 "\n"
-"Artist: Yoshiki Fukuyama\n"
+"Artist: Fire Bomber featuring BASARA NEKKI\n"
 "\n"
 "Lyrics: K.INOJO\n"
 "Music: Yoshiki Fukuyama"
@@ -272,10 +272,10 @@ msgid "musicName_0011_officialName"
 msgstr "Do You Remember Love"
 
 msgid "musicName_0011_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0011_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0011_description"
 msgstr ""
@@ -293,10 +293,10 @@ msgid "musicName_0012_officialName"
 msgstr "Little White Dragon"
 
 msgid "musicName_0012_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0012_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0012_description"
 msgstr ""
@@ -440,10 +440,10 @@ msgid "musicName_0019_officialName"
 msgstr "My Boyfriend Is a Pilot (Part I)"
 
 msgid "musicName_0019_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0019_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0019_description"
 msgstr ""
@@ -461,10 +461,10 @@ msgid "musicName_0020_officialName"
 msgstr "Ikenai Borderline"
 
 msgid "musicName_0020_vocalName"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0020_vocalNameLF"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0020_description"
 msgstr ""
@@ -518,10 +518,10 @@ msgid "musicName_0023_officialName"
 msgstr "If The Rune Shines"
 
 msgid "musicName_0023_vocalName"
-msgstr "Freya Δ Minori Suzuki"
+msgstr ""
 
 msgid "musicName_0023_vocalNameLF"
-msgstr "Freya Δ Minori Suzuki"
+msgstr ""
 
 msgid "musicName_0023_description"
 msgstr ""
@@ -533,10 +533,10 @@ msgid "musicName_0024_officialName"
 msgstr "Fukakuteisei☆COSMIC MOVEMENT"
 
 msgid "musicName_0024_vocalName"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0024_vocalNameLF"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0024_description"
 msgstr ""
@@ -557,7 +557,7 @@ msgid "musicName_0025_vocalName"
 msgstr "Walküre"
 
 msgid "musicName_0025_vocalNameLF"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0025_description"
 msgstr ""
@@ -632,10 +632,10 @@ msgid "musicName_0029_officialName"
 msgstr "Giritic♡BEGINNER"
 
 msgid "musicName_0029_vocalName"
-msgstr "Reina Δ Nao Toyama and Makina Δ Nozomi Nishida"
+msgstr ""
 
 msgid "musicName_0029_vocalNameLF"
-msgstr "Reina Δ Nao Toyama and Makina Δ Nozomi Nishida"
+msgstr ""
 
 msgid "musicName_0029_description"
 msgstr ""
@@ -668,16 +668,16 @@ msgid "musicName_0030_storyTitle"
 msgstr ""
 
 msgid "musicName_0031_musicname"
-msgstr "AXIA"
+msgstr ""
 
 msgid "musicName_0031_officialName"
-msgstr "AXIA"
+msgstr ""
 
 msgid "musicName_0031_vocalName"
-msgstr "Kaname Δ Kiyono Yasuno"
+msgstr ""
 
 msgid "musicName_0031_vocalNameLF"
-msgstr "Kaname Δ Kiyono Yasuno"
+msgstr ""
 
 msgid "musicName_0031_description"
 msgstr ""
@@ -737,10 +737,10 @@ msgid "musicName_0034_officialName"
 msgstr "Our Battlefield"
 
 msgid "musicName_0034_vocalName"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0034_vocalNameLF"
-msgstr "Walküre"
+msgstr ""
 
 msgid "musicName_0034_description"
 msgstr ""
@@ -779,10 +779,10 @@ msgid "musicName_0036_officialName"
 msgstr "Silver Moon, Red Moon"
 
 msgid "musicName_0036_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0036_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0036_description"
 msgstr ""
@@ -857,10 +857,10 @@ msgid "musicName_0040_officialName"
 msgstr ""
 
 msgid "musicName_0040_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0040_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0040_description"
 msgstr ""
@@ -962,10 +962,10 @@ msgid "musicName_0045_officialName"
 msgstr "Dream Colored Bear"
 
 msgid "musicName_0045_vocalName"
-msgstr "Ranka Lee = Megumi Nakajima, Magical Girl Ranka"
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0045_vocalNameLF"
-msgstr "Ranka Lee = Megumi Nakajima, Magical Girl Ranka"
+msgstr "Ranka Lee = Megumi Nakajima"
 
 msgid "musicName_0045_description"
 msgstr ""
@@ -1076,10 +1076,10 @@ msgid "musicName_0051_officialName"
 msgstr ""
 
 msgid "musicName_0051_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0051_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0051_description"
 msgstr ""
@@ -1175,10 +1175,10 @@ msgid "musicName_0056_officialName"
 msgstr ""
 
 msgid "musicName_0056_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0056_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0056_description"
 msgstr ""
@@ -1628,10 +1628,10 @@ msgid "musicName_0081_officialName"
 msgstr ""
 
 msgid "musicName_0081_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0081_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0081_description"
 msgstr ""
@@ -1649,10 +1649,10 @@ msgid "musicName_0082_officialName"
 msgstr ""
 
 msgid "musicName_0082_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0082_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0082_description"
 msgstr ""
@@ -1670,10 +1670,10 @@ msgid "musicName_0083_officialName"
 msgstr ""
 
 msgid "musicName_0083_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0083_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0083_description"
 msgstr ""
@@ -1901,10 +1901,10 @@ msgid "musicName_0094_officialName"
 msgstr ""
 
 msgid "musicName_0094_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0094_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0094_description"
 msgstr ""
@@ -1985,10 +1985,10 @@ msgid "musicName_0098_officialName"
 msgstr ""
 
 msgid "musicName_0098_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0098_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0098_description"
 msgstr ""
@@ -2090,10 +2090,10 @@ msgid "musicName_0103_officialName"
 msgstr ""
 
 msgid "musicName_0103_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0103_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0103_description"
 msgstr ""
@@ -2105,10 +2105,10 @@ msgid "musicName_0104_officialName"
 msgstr "An Angel's Paints"
 
 msgid "musicName_0104_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0104_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0104_description"
 msgstr ""
@@ -2324,10 +2324,10 @@ msgid "musicName_0117_officialName"
 msgstr ""
 
 msgid "musicName_0117_vocalName"
-msgstr "Emilia Jenius with BASARA NEKKI"
+msgstr "EMILIA with BASARA NEKKI"
 
 msgid "musicName_0117_vocalNameLF"
-msgstr "Emilia Jenius with BASARA NEKKI"
+msgstr "EMILIA with BASARA NEKKI"
 
 msgid "musicName_0117_description"
 msgstr ""
@@ -2369,10 +2369,10 @@ msgid "musicName_0120_officialName"
 msgstr "My Boyfriend Is a Pilot (Part II)"
 
 msgid "musicName_0120_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0120_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0120_description"
 msgstr ""
@@ -2504,10 +2504,10 @@ msgid "musicName_0129_officialName"
 msgstr ""
 
 msgid "musicName_0129_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0129_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0129_description"
 msgstr ""
@@ -2777,10 +2777,10 @@ msgid "musicName_0149_officialName"
 msgstr ""
 
 msgid "musicName_0149_vocalName"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0149_vocalNameLF"
-msgstr "Mari Iijima as Lynn Minmay"
+msgstr "Mari Iijima"
 
 msgid "musicName_0149_description"
 msgstr ""
