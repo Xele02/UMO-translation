@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:43+0000\n"
-"PO-Revision-Date: 2024-09-14 18:17+0000\n"
+"PO-Revision-Date: 2024-09-15 11:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "diva004/fr/>\n"
@@ -202,37 +202,53 @@ msgstr ""
 "Continue à faire du bon travail !"
 
 msgid "touch_reaction_01"
-msgstr ""
+msgstr "Oui ? Qu'est ce qu'il y a ?"
 
 msgid "touch_reaction_02"
-msgstr ""
+msgstr "Hey, ne touche pas trop !"
 
 msgid "touch_reaction_03"
 msgstr ""
+"Tu n'es pas censé...\n"
+"toucher ici, non ?"
 
 msgid "touch_reaction_04"
 msgstr ""
+"C'est l'heure du concert ?\n"
+"C'est excitant♪"
 
 msgid "touch_reaction_05"
 msgstr ""
+"Je doit prendre soin de Siegfried\n"
+"et des autres～"
 
 msgid "touch_reaction_06"
 msgstr ""
+"Ouah ! J'ai trouvé une nouvelle\n"
+"boutique ! J'irai avec ReiRei～♪"
 
 msgid "touch_reaction_07"
 msgstr ""
+"Hey ! Même MakiMaki peux\n"
+"s'ennerver des fois !"
 
 msgid "touch_reaction_08"
 msgstr ""
+"Héhé ! Ca chatouille\n"
+"si tu touche trop !"
 
 msgid "login_reaction_01"
-msgstr ""
+msgstr "Oui, tiens, c'est un cadeau♪"
 
+#, fuzzy
 msgid "login_reaction_02"
-msgstr ""
+msgstr "C'est bon d'être plus joyeux ?"
 
 msgid "simulation_result_01"
 msgstr ""
+"Félicitation ! J'ai oublié que\n"
+"c'était une simulation et je me\n"
+"suis amusée comme une folle♪"
 
 msgid "go_diva_result_01"
 msgstr ""
@@ -244,76 +260,110 @@ msgid "go_diva_result_03"
 msgstr ""
 
 msgid "intimacy_pointup_01"
-msgstr ""
+msgstr "Waouh !"
 
 msgid "intimacy_pointup_02"
-msgstr ""
+msgstr "Yay !"
 
 msgid "intimacy_pointup_03"
-msgstr ""
+msgstr "Parfait !"
 
 msgid "present_01"
-msgstr ""
+msgstr "Merci !"
 
 msgid "present_02"
 msgstr ""
+"J'ai faim, \n"
+"Je mangerais bien quelque\n"
+"chose de bon !"
 
 msgid "present_03"
 msgstr ""
+"Allons chercher quelque chose\n"
+"de bon avec ReiRei ?"
 
 msgid "present_04"
 msgstr ""
+"C'est pas bon de grignoter... Mais\n"
+"à cet heure, c'est sans danger !"
 
 msgid "present_05"
 msgstr ""
+"Humm...\n"
+"Je ne me sent pas bien…"
 
 msgid "present_06"
 msgstr ""
+"Je m'ennuie...\n"
+"Il n'y a pas quelque chose de\n"
+"fun à faire ?"
 
 msgid "present_07"
 msgstr ""
+"Hmm... J'aimerais changer\n"
+"mon humeur !"
 
 msgid "present_08"
 msgstr ""
+"C'est fun de penser à comment\n"
+"redécorer sa chambre !"
 
 msgid "present_09"
 msgstr ""
+"J'ai fini par acheter de\n"
+"jolies décorations～"
 
 msgid "present_10"
 msgstr ""
+"Je veux transformer toutes les\n"
+"choses autour de moi en choses\n"
+"mignones."
 
 msgid "present_11"
-msgstr ""
+msgstr "Parfait !"
 
 msgid "cs_touch_reaction_01"
-msgstr ""
+msgstr "Huhu, ca chatouille."
 
 msgid "cs_touch_reaction_02"
-msgstr ""
+msgstr "Hey, qu'est ce que tu fait ?"
 
+#, fuzzy
 msgid "cs_touch_reaction_03"
-msgstr ""
+msgstr "Ce n'est pas boudiné !"
 
+#, fuzzy
 msgid "cs_touch_reaction_04"
 msgstr ""
+"ReiRei peux aussi être \n"
+"distante comme ça."
 
 msgid "cs_touch_reaction_05"
-msgstr ""
+msgstr "Oui Oui ! C'est MakiMaki !"
 
 msgid "cs_touch_reaction_06"
 msgstr ""
+"Quel est le niveau de\n"
+"mignonitude aujourd'hui ?"
 
 msgid "cs_touch_reaction_07"
 msgstr ""
+"J'aime cette coupe, mais aussi\n"
+"celle-ci...\n"
+"Que faire…"
 
 msgid "cs_touch_reaction_08"
 msgstr ""
+"Mhh ?\n"
+"Ou est ReiRei ?"
 
 msgid "cs_touch_reaction_09"
-msgstr ""
+msgstr "Hey, tu veux me parler ?"
 
 msgid "cs_touch_reaction_10"
 msgstr ""
+"Regarde ! Ce mecha est\n"
+"si mignon !"
 
 msgid "talk_event_21"
 msgstr ""
