@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:45+0000\n"
-"PO-Revision-Date: 2024-08-15 12:53+0000\n"
+"PO-Revision-Date: 2024-09-15 11:28+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "diva005/fr/>\n"
@@ -16,24 +16,36 @@ msgstr ""
 
 msgid "talk_time_01"
 msgstr ""
+"Quand je me repose, je le fait\n"
+"à fond... ZzzZZz…"
 
 msgid "talk_time_02"
 msgstr ""
+"S'il y a des café-chat, il devrais y\n"
+"avoir des café-chathons."
 
 msgid "talk_time_03"
 msgstr ""
+"Les méduses sont meilleurs\n"
+"crues. Pas besoin de cuisson."
 
+#, fuzzy
 msgid "talk_time_04"
-msgstr ""
+msgstr "1 heure de jeu par jour..."
 
 msgid "talk_time_05"
 msgstr ""
+"Il ny a rien que je ne\n"
+"puisse pirater."
 
 msgid "talk_time_06"
 msgstr ""
+"Tu es naïf de penser que\n"
+"tu peux me fuir.\n"
+"Je suis doué pour te localiser."
 
 msgid "talk_time_07"
-msgstr ""
+msgstr "♪～"
 
 msgid "talk_time_08"
 msgstr ""
