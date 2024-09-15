@@ -3,18 +3,19 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-26 16:38+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-09-16 14:28+0000\n"
+"Last-Translator: Mitsu <meryamselmii@gmail.com>\n"
+"Language-Team: Japanese Romanized <https://umo-translate.xele.org/projects/"
+"umo/database/music_text/ja_rm/>\n"
 "Language: ja_rm\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=n >= 0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "musicName_0000_musicname"
-msgstr ""
+msgstr "nashi"
 
 msgid "musicName_0000_officialName"
 msgstr ""
@@ -23,7 +24,7 @@ msgid "musicName_0000_description"
 msgstr ""
 
 msgid "musicName_0001_musicname"
-msgstr ""
+msgstr "Tenshi no Enogu"
 
 msgid "musicName_0001_officialName"
 msgstr ""
@@ -44,7 +45,7 @@ msgid "musicName_0001_storyTitle"
 msgstr ""
 
 msgid "musicName_0002_musicname"
-msgstr ""
+msgstr "PLANET DANCE"
 
 msgid "musicName_0002_officialName"
 msgstr ""
@@ -65,7 +66,7 @@ msgid "musicName_0002_storyTitle"
 msgstr ""
 
 msgid "musicName_0003_musicname"
-msgstr ""
+msgstr "MY SOUL FOR YOU"
 
 msgid "musicName_0003_officialName"
 msgstr ""
@@ -86,7 +87,7 @@ msgid "musicName_0003_storyTitle"
 msgstr ""
 
 msgid "musicName_0004_musicname"
-msgstr ""
+msgstr "Seikan Hikou"
 
 msgid "musicName_0004_officialName"
 msgstr ""
@@ -107,7 +108,7 @@ msgid "musicName_0004_storyTitle"
 msgstr ""
 
 msgid "musicName_0005_musicname"
-msgstr ""
+msgstr "Watashi no Kare wa Pilot"
 
 msgid "musicName_0005_officialName"
 msgstr ""
@@ -128,7 +129,7 @@ msgid "musicName_0005_storyTitle"
 msgstr ""
 
 msgid "musicName_0006_musicname"
-msgstr ""
+msgstr "Ninjin Loves you yeah!"
 
 msgid "musicName_0006_officialName"
 msgstr ""
@@ -149,7 +150,7 @@ msgid "musicName_0006_storyTitle"
 msgstr ""
 
 msgid "musicName_0007_musicname"
-msgstr ""
+msgstr "Iteza☆Gogo Kuji Don't be late"
 
 msgid "musicName_0007_officialName"
 msgstr ""
@@ -170,7 +171,7 @@ msgid "musicName_0007_storyTitle"
 msgstr ""
 
 msgid "musicName_0008_musicname"
-msgstr ""
+msgstr "Diamond Crevasse"
 
 msgid "musicName_0008_officialName"
 msgstr ""
@@ -185,7 +186,7 @@ msgid "musicName_0008_description"
 msgstr ""
 
 msgid "musicName_0009_musicname"
-msgstr ""
+msgstr "What 'bout my star?"
 
 msgid "musicName_0009_officialName"
 msgstr ""
@@ -206,7 +207,7 @@ msgid "musicName_0009_storyTitle"
 msgstr ""
 
 msgid "musicName_0010_musicname"
-msgstr ""
+msgstr "Infinity"
 
 msgid "musicName_0010_officialName"
 msgstr ""
@@ -227,7 +228,7 @@ msgid "musicName_0010_storyTitle"
 msgstr ""
 
 msgid "musicName_0011_musicname"
-msgstr ""
+msgstr "Ai・Oboeteimasuka"
 
 msgid "musicName_0011_officialName"
 msgstr ""
@@ -248,7 +249,7 @@ msgid "musicName_0011_storyTitle"
 msgstr ""
 
 msgid "musicName_0012_musicname"
-msgstr ""
+msgstr "Shao Pai Long"
 
 msgid "musicName_0012_officialName"
 msgstr ""
@@ -269,7 +270,7 @@ msgid "musicName_0012_storyTitle"
 msgstr ""
 
 msgid "musicName_0013_musicname"
-msgstr ""
+msgstr "Welcome To My FanClub's Night!"
 
 msgid "musicName_0013_officialName"
 msgstr ""
@@ -290,7 +291,7 @@ msgid "musicName_0013_storyTitle"
 msgstr ""
 
 msgid "musicName_0014_musicname"
-msgstr ""
+msgstr "TRY AGAIN"
 
 msgid "musicName_0014_officialName"
 msgstr ""
@@ -311,7 +312,7 @@ msgid "musicName_0014_storyTitle"
 msgstr ""
 
 msgid "musicName_0015_musicname"
-msgstr ""
+msgstr "Universal・Bunny"
 
 msgid "musicName_0015_officialName"
 msgstr ""
@@ -332,7 +333,7 @@ msgid "musicName_0015_storyTitle"
 msgstr ""
 
 msgid "musicName_0016_musicname"
-msgstr ""
+msgstr "Triangler (fight on stage)"
 
 msgid "musicName_0016_officialName"
 msgstr ""
@@ -353,7 +354,7 @@ msgid "musicName_0016_storyTitle"
 msgstr ""
 
 msgid "musicName_0017_musicname"
-msgstr ""
+msgstr "Totsugeki Love Heart [Duet Version]"
 
 msgid "musicName_0017_officialName"
 msgstr ""
@@ -374,7 +375,7 @@ msgid "musicName_0017_storyTitle"
 msgstr ""
 
 msgid "musicName_0018_musicname"
-msgstr ""
+msgstr "Northern Cross"
 
 msgid "musicName_0018_officialName"
 msgstr ""
@@ -395,7 +396,7 @@ msgid "musicName_0018_storyTitle"
 msgstr ""
 
 msgid "musicName_0019_musicname"
-msgstr ""
+msgstr "Watashi no Kare wa Pilot (Part I)"
 
 msgid "musicName_0019_officialName"
 msgstr ""
@@ -416,7 +417,7 @@ msgid "musicName_0019_storyTitle"
 msgstr ""
 
 msgid "musicName_0020_musicname"
-msgstr ""
+msgstr "Ikenai Borderline"
 
 msgid "musicName_0020_officialName"
 msgstr ""
@@ -437,7 +438,7 @@ msgid "musicName_0020_storyTitle"
 msgstr ""
 
 msgid "musicName_0021_musicname"
-msgstr ""
+msgstr "Lion"
 
 msgid "musicName_0021_officialName"
 msgstr ""
@@ -452,7 +453,7 @@ msgid "musicName_0021_description"
 msgstr ""
 
 msgid "musicName_0022_musicname"
-msgstr ""
+msgstr "Ichido Dake no Koi Nara"
 
 msgid "musicName_0022_officialName"
 msgstr ""
@@ -473,7 +474,7 @@ msgid "musicName_0022_storyTitle"
 msgstr ""
 
 msgid "musicName_0023_musicname"
-msgstr ""
+msgstr "Rune ga Pikatto Hikattara"
 
 msgid "musicName_0023_officialName"
 msgstr ""
@@ -488,7 +489,7 @@ msgid "musicName_0023_description"
 msgstr ""
 
 msgid "musicName_0024_musicname"
-msgstr ""
+msgstr "Fukakuteisei☆COSMIC MOVEMENT"
 
 msgid "musicName_0024_officialName"
 msgstr ""
@@ -509,7 +510,7 @@ msgid "musicName_0024_storyTitle"
 msgstr ""
 
 msgid "musicName_0025_musicname"
-msgstr ""
+msgstr "Koi! Halation THE WAR"
 
 msgid "musicName_0025_officialName"
 msgstr ""
@@ -530,7 +531,7 @@ msgid "musicName_0025_storyTitle"
 msgstr ""
 
 msgid "musicName_0026_musicname"
-msgstr ""
+msgstr "Anata no Oto"
 
 msgid "musicName_0026_officialName"
 msgstr ""
@@ -545,7 +546,7 @@ msgid "musicName_0026_description"
 msgstr ""
 
 msgid "musicName_0027_musicname"
-msgstr ""
+msgstr "Aimo"
 
 msgid "musicName_0027_officialName"
 msgstr ""
@@ -566,7 +567,7 @@ msgid "musicName_0027_storyTitle"
 msgstr ""
 
 msgid "musicName_0028_musicname"
-msgstr ""
+msgstr "Neko Nikki"
 
 msgid "musicName_0028_officialName"
 msgstr ""
@@ -587,7 +588,7 @@ msgid "musicName_0028_storyTitle"
 msgstr ""
 
 msgid "musicName_0029_musicname"
-msgstr ""
+msgstr "Jiritikku♡BEGINNER"
 
 msgid "musicName_0029_officialName"
 msgstr ""
@@ -608,7 +609,7 @@ msgid "musicName_0029_storyTitle"
 msgstr ""
 
 msgid "musicName_0030_musicname"
-msgstr ""
+msgstr "Houkago Overflow"
 
 msgid "musicName_0030_officialName"
 msgstr ""
@@ -629,7 +630,7 @@ msgid "musicName_0030_storyTitle"
 msgstr ""
 
 msgid "musicName_0031_musicname"
-msgstr ""
+msgstr "AXIA～Daisuki de Daikirai～"
 
 msgid "musicName_0031_officialName"
 msgstr ""
@@ -650,7 +651,7 @@ msgid "musicName_0031_storyTitle"
 msgstr ""
 
 msgid "musicName_0032_musicname"
-msgstr ""
+msgstr "POWER TO THE DREAM"
 
 msgid "musicName_0032_officialName"
 msgstr ""
@@ -671,7 +672,7 @@ msgid "musicName_0032_storyTitle"
 msgstr ""
 
 msgid "musicName_0033_musicname"
-msgstr ""
+msgstr "Sayonara no Tsubasa ～ the end of triangle"
 
 msgid "musicName_0033_officialName"
 msgstr ""
@@ -692,7 +693,7 @@ msgid "musicName_0033_storyTitle"
 msgstr ""
 
 msgid "musicName_0034_musicname"
-msgstr ""
+msgstr "Bokura no Senjou"
 
 msgid "musicName_0034_officialName"
 msgstr ""
@@ -713,7 +714,7 @@ msgid "musicName_0034_storyTitle"
 msgstr ""
 
 msgid "musicName_0035_musicname"
-msgstr ""
+msgstr "DYNAMITE EXPLOSION"
 
 msgid "musicName_0035_officialName"
 msgstr ""
@@ -734,7 +735,7 @@ msgid "musicName_0035_storyTitle"
 msgstr ""
 
 msgid "musicName_0036_musicname"
-msgstr ""
+msgstr "Silver Moon・Red Moon"
 
 msgid "musicName_0036_officialName"
 msgstr ""
@@ -755,7 +756,7 @@ msgid "musicName_0036_storyTitle"
 msgstr ""
 
 msgid "musicName_0037_musicname"
-msgstr ""
+msgstr "Gira Gira Summer(^ω^)ノ"
 
 msgid "musicName_0037_officialName"
 msgstr ""
@@ -776,7 +777,7 @@ msgid "musicName_0037_storyTitle"
 msgstr ""
 
 msgid "musicName_0038_musicname"
-msgstr ""
+msgstr "Family Mart・Cosmos"
 
 msgid "musicName_0038_officialName"
 msgstr ""
@@ -791,7 +792,7 @@ msgid "musicName_0038_description"
 msgstr ""
 
 msgid "musicName_0039_musicname"
-msgstr ""
+msgstr "Walküre Attack!"
 
 msgid "musicName_0039_officialName"
 msgstr ""
@@ -812,7 +813,7 @@ msgid "musicName_0039_storyTitle"
 msgstr ""
 
 msgid "musicName_0040_musicname"
-msgstr ""
+msgstr "0-G Love"
 
 msgid "musicName_0040_officialName"
 msgstr ""
@@ -833,7 +834,7 @@ msgid "musicName_0040_storyTitle"
 msgstr ""
 
 msgid "musicName_0041_musicname"
-msgstr ""
+msgstr "Silent Hacker"
 
 msgid "musicName_0041_officialName"
 msgstr ""
@@ -854,7 +855,7 @@ msgid "musicName_0041_storyTitle"
 msgstr ""
 
 msgid "musicName_0042_musicname"
-msgstr ""
+msgstr "God Bless You"
 
 msgid "musicName_0042_officialName"
 msgstr ""
@@ -875,7 +876,7 @@ msgid "musicName_0042_storyTitle"
 msgstr ""
 
 msgid "musicName_0043_musicname"
-msgstr ""
+msgstr "HOLY LONELY LIGHT [Duet Version]"
 
 msgid "musicName_0043_officialName"
 msgstr ""
@@ -896,7 +897,7 @@ msgid "musicName_0043_storyTitle"
 msgstr ""
 
 msgid "musicName_0044_musicname"
-msgstr ""
+msgstr "pink monsoon"
 
 msgid "musicName_0044_officialName"
 msgstr ""
@@ -917,7 +918,7 @@ msgid "musicName_0044_storyTitle"
 msgstr ""
 
 msgid "musicName_0045_musicname"
-msgstr ""
+msgstr "Niji-iro・Kuma Kuma"
 
 msgid "musicName_0045_officialName"
 msgstr ""
@@ -938,7 +939,7 @@ msgid "musicName_0045_storyTitle"
 msgstr ""
 
 msgid "musicName_0046_musicname"
-msgstr ""
+msgstr "SEVENTH MOON"
 
 msgid "musicName_0046_officialName"
 msgstr ""
@@ -953,7 +954,7 @@ msgid "musicName_0046_description"
 msgstr ""
 
 msgid "musicName_0047_musicname"
-msgstr ""
+msgstr "Hear The Universe"
 
 msgid "musicName_0047_officialName"
 msgstr ""
@@ -974,7 +975,7 @@ msgid "musicName_0047_storyTitle"
 msgstr ""
 
 msgid "musicName_0048_musicname"
-msgstr ""
+msgstr "Seikan Eve (Seikan Hikou christmas ver.)"
 
 msgid "musicName_0048_officialName"
 msgstr ""
@@ -989,7 +990,7 @@ msgid "musicName_0048_description"
 msgstr ""
 
 msgid "musicName_0049_musicname"
-msgstr ""
+msgstr "d Shootin' Star b"
 
 msgid "musicName_0049_officialName"
 msgstr ""
@@ -1010,7 +1011,7 @@ msgid "musicName_0049_storyTitle"
 msgstr ""
 
 msgid "musicName_0050_musicname"
-msgstr ""
+msgstr "Zettai Reido θ Novatic"
 
 msgid "musicName_0050_officialName"
 msgstr ""
@@ -1031,7 +1032,7 @@ msgid "musicName_0050_storyTitle"
 msgstr ""
 
 msgid "musicName_0051_musicname"
-msgstr ""
+msgstr "Yasashisa SAYONARA"
 
 msgid "musicName_0051_officialName"
 msgstr ""
@@ -1052,7 +1053,7 @@ msgid "musicName_0051_storyTitle"
 msgstr ""
 
 msgid "musicName_0052_musicname"
-msgstr ""
+msgstr "Soudayo."
 
 msgid "musicName_0052_officialName"
 msgstr ""
@@ -1073,7 +1074,7 @@ msgid "musicName_0052_storyTitle"
 msgstr ""
 
 msgid "musicName_0053_musicname"
-msgstr ""
+msgstr "Onya no Ko☆girl"
 
 msgid "musicName_0053_officialName"
 msgstr ""
@@ -1094,7 +1095,7 @@ msgid "musicName_0053_storyTitle"
 msgstr ""
 
 msgid "musicName_0054_musicname"
-msgstr ""
+msgstr "GIRAFFE BLUES"
 
 msgid "musicName_0054_officialName"
 msgstr ""
@@ -1109,7 +1110,7 @@ msgid "musicName_0054_description"
 msgstr ""
 
 msgid "musicName_0055_musicname"
-msgstr ""
+msgstr "Get it on ～Kousoku Climax"
 
 msgid "musicName_0055_officialName"
 msgstr ""
@@ -1130,7 +1131,7 @@ msgid "musicName_0055_storyTitle"
 msgstr ""
 
 msgid "musicName_0056_musicname"
-msgstr ""
+msgstr "Cinderella"
 
 msgid "musicName_0056_officialName"
 msgstr ""
@@ -1145,7 +1146,7 @@ msgid "musicName_0056_description"
 msgstr ""
 
 msgid "musicName_0057_musicname"
-msgstr ""
+msgstr "NEO STREAM"
 
 msgid "musicName_0057_officialName"
 msgstr ""
@@ -1166,7 +1167,7 @@ msgid "musicName_0057_storyTitle"
 msgstr ""
 
 msgid "musicName_0058_musicname"
-msgstr ""
+msgstr "Obelisk"
 
 msgid "musicName_0058_officialName"
 msgstr ""
@@ -1181,7 +1182,7 @@ msgid "musicName_0058_description"
 msgstr ""
 
 msgid "musicName_0059_musicname"
-msgstr ""
+msgstr "Virgin Story"
 
 msgid "musicName_0059_officialName"
 msgstr ""
@@ -1202,7 +1203,7 @@ msgid "musicName_0059_storyTitle"
 msgstr ""
 
 msgid "musicName_0060_musicname"
-msgstr ""
+msgstr "LOVE! THUNDER GLOW"
 
 msgid "musicName_0060_officialName"
 msgstr ""
@@ -1223,7 +1224,7 @@ msgid "musicName_0060_storyTitle"
 msgstr ""
 
 msgid "musicName_0061_musicname"
-msgstr ""
+msgstr "Macross"
 
 msgid "musicName_0061_officialName"
 msgstr ""
@@ -1244,7 +1245,7 @@ msgid "musicName_0061_storyTitle"
 msgstr ""
 
 msgid "musicName_0062_musicname"
-msgstr ""
+msgstr "Kindan no Elixir"
 
 msgid "musicName_0062_officialName"
 msgstr ""
@@ -1265,7 +1266,7 @@ msgid "musicName_0062_storyTitle"
 msgstr ""
 
 msgid "musicName_0063_musicname"
-msgstr ""
+msgstr "Kaze wa Yokoku naku Fuku"
 
 msgid "musicName_0063_officialName"
 msgstr ""
@@ -1286,7 +1287,7 @@ msgid "musicName_0063_storyTitle"
 msgstr ""
 
 msgid "musicName_0064_musicname"
-msgstr ""
+msgstr "Koi wa Dogfight (FIRST LIVE in Atlantis Dome)"
 
 msgid "musicName_0064_officialName"
 msgstr ""
@@ -1301,7 +1302,7 @@ msgid "musicName_0064_description"
 msgstr ""
 
 msgid "musicName_0065_musicname"
-msgstr ""
+msgstr "REMEMBER 16"
 
 msgid "musicName_0065_officialName"
 msgstr ""
@@ -1322,7 +1323,7 @@ msgid "musicName_0065_storyTitle"
 msgstr ""
 
 msgid "musicName_0066_musicname"
-msgstr ""
+msgstr "SUBMARINE STREET"
 
 msgid "musicName_0066_officialName"
 msgstr ""
@@ -1343,7 +1344,7 @@ msgid "musicName_0066_storyTitle"
 msgstr ""
 
 msgid "musicName_0067_musicname"
-msgstr ""
+msgstr "Ao no Ether"
 
 msgid "musicName_0067_officialName"
 msgstr ""
@@ -1358,7 +1359,7 @@ msgid "musicName_0067_description"
 msgstr ""
 
 msgid "musicName_0068_musicname"
-msgstr ""
+msgstr "Walküre ga Tomaranai"
 
 msgid "musicName_0068_officialName"
 msgstr ""
@@ -1379,7 +1380,7 @@ msgid "musicName_0068_storyTitle"
 msgstr ""
 
 msgid "musicName_0069_musicname"
-msgstr ""
+msgstr "Namidame Bakuhatsuon"
 
 msgid "musicName_0069_officialName"
 msgstr ""
@@ -1400,7 +1401,7 @@ msgid "musicName_0069_storyTitle"
 msgstr ""
 
 msgid "musicName_0070_musicname"
-msgstr ""
+msgstr "Ai・Oboeteimasuka〜bless the little queen"
 
 msgid "musicName_0070_officialName"
 msgstr ""
@@ -1421,7 +1422,7 @@ msgid "musicName_0070_storyTitle"
 msgstr ""
 
 msgid "musicName_0071_musicname"
-msgstr ""
+msgstr "What 'bout my star?@Formo"
 
 msgid "musicName_0071_officialName"
 msgstr ""
@@ -1430,7 +1431,7 @@ msgid "musicName_0071_description"
 msgstr ""
 
 msgid "musicName_0072_musicname"
-msgstr ""
+msgstr "Yousei"
 
 msgid "musicName_0072_officialName"
 msgstr ""
@@ -1445,7 +1446,7 @@ msgid "musicName_0072_description"
 msgstr ""
 
 msgid "musicName_0073_musicname"
-msgstr ""
+msgstr "Hametsu no Junjou"
 
 msgid "musicName_0073_officialName"
 msgstr ""
@@ -1466,7 +1467,7 @@ msgid "musicName_0073_storyTitle"
 msgstr ""
 
 msgid "musicName_0074_musicname"
-msgstr ""
+msgstr "Eien"
 
 msgid "musicName_0074_officialName"
 msgstr ""
@@ -1481,7 +1482,7 @@ msgid "musicName_0074_description"
 msgstr ""
 
 msgid "musicName_0075_musicname"
-msgstr ""
+msgstr "Hoshi Kira"
 
 msgid "musicName_0075_officialName"
 msgstr ""
@@ -1502,7 +1503,7 @@ msgid "musicName_0075_storyTitle"
 msgstr ""
 
 msgid "musicName_0076_musicname"
-msgstr ""
+msgstr "Absolute 5"
 
 msgid "musicName_0076_officialName"
 msgstr ""
@@ -1523,7 +1524,7 @@ msgid "musicName_0076_storyTitle"
 msgstr ""
 
 msgid "musicName_0077_musicname"
-msgstr ""
+msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
 
 msgid "musicName_0077_officialName"
 msgstr ""
@@ -1544,7 +1545,7 @@ msgid "musicName_0077_storyTitle"
 msgstr ""
 
 msgid "musicName_0078_musicname"
-msgstr ""
+msgstr "Uchuu Kyoudai Bune"
 
 msgid "musicName_0078_officialName"
 msgstr ""
@@ -1553,7 +1554,7 @@ msgid "musicName_0078_description"
 msgstr ""
 
 msgid "musicName_0079_musicname"
-msgstr ""
+msgstr "Izolado"
 
 msgid "musicName_0079_officialName"
 msgstr ""
@@ -1568,7 +1569,7 @@ msgid "musicName_0079_description"
 msgstr ""
 
 msgid "musicName_0080_musicname"
-msgstr ""
+msgstr "Rune ga Pikatto Hikattara"
 
 msgid "musicName_0080_officialName"
 msgstr ""
@@ -1583,7 +1584,7 @@ msgid "musicName_0080_description"
 msgstr ""
 
 msgid "musicName_0081_musicname"
-msgstr ""
+msgstr "Runner -Lynn Minmay・Version-"
 
 msgid "musicName_0081_officialName"
 msgstr ""
@@ -1604,7 +1605,7 @@ msgid "musicName_0081_storyTitle"
 msgstr ""
 
 msgid "musicName_0082_musicname"
-msgstr ""
+msgstr "Ai wa Nagareru"
 
 msgid "musicName_0082_officialName"
 msgstr ""
@@ -1625,7 +1626,7 @@ msgid "musicName_0082_storyTitle"
 msgstr ""
 
 msgid "musicName_0083_musicname"
-msgstr ""
+msgstr "SUNSET BEACH"
 
 msgid "musicName_0083_officialName"
 msgstr ""
@@ -1646,7 +1647,7 @@ msgid "musicName_0083_storyTitle"
 msgstr ""
 
 msgid "musicName_0084_musicname"
-msgstr ""
+msgstr "Walküre wa Uragiranai"
 
 msgid "musicName_0084_officialName"
 msgstr ""
@@ -1667,7 +1668,7 @@ msgid "musicName_0084_storyTitle"
 msgstr ""
 
 msgid "musicName_0085_musicname"
-msgstr ""
+msgstr "Sheryl no Uchuu Kyoudai Bune"
 
 msgid "musicName_0085_officialName"
 msgstr ""
@@ -1688,7 +1689,7 @@ msgid "musicName_0085_storyTitle"
 msgstr ""
 
 msgid "musicName_0086_musicname"
-msgstr ""
+msgstr "Gor〜〜geous"
 
 msgid "musicName_0086_officialName"
 msgstr ""
@@ -1709,7 +1710,7 @@ msgid "musicName_0086_storyTitle"
 msgstr ""
 
 msgid "musicName_0087_musicname"
-msgstr ""
+msgstr "Ranka to Brand New Peach"
 
 msgid "musicName_0087_officialName"
 msgstr ""
@@ -1730,7 +1731,7 @@ msgid "musicName_0087_storyTitle"
 msgstr ""
 
 msgid "musicName_0088_musicname"
-msgstr ""
+msgstr "Good job !"
 
 msgid "musicName_0088_officialName"
 msgstr ""
@@ -1751,7 +1752,7 @@ msgid "musicName_0088_storyTitle"
 msgstr ""
 
 msgid "musicName_0089_musicname"
-msgstr ""
+msgstr "Change!!!!!"
 
 msgid "musicName_0089_officialName"
 msgstr ""
@@ -1772,7 +1773,7 @@ msgid "musicName_0089_storyTitle"
 msgstr ""
 
 msgid "musicName_0090_musicname"
-msgstr ""
+msgstr "MY FRIENDS"
 
 msgid "musicName_0090_officialName"
 msgstr ""
@@ -1793,7 +1794,7 @@ msgid "musicName_0090_storyTitle"
 msgstr ""
 
 msgid "musicName_0091_musicname"
-msgstr ""
+msgstr "Silent de Nanka Irarenai"
 
 msgid "musicName_0091_officialName"
 msgstr ""
@@ -1814,7 +1815,7 @@ msgid "musicName_0091_storyTitle"
 msgstr ""
 
 msgid "musicName_0092_musicname"
-msgstr ""
+msgstr "INFORMATION HIGH"
 
 msgid "musicName_0092_officialName"
 msgstr ""
@@ -1835,7 +1836,7 @@ msgid "musicName_0092_storyTitle"
 msgstr ""
 
 msgid "musicName_0093_musicname"
-msgstr ""
+msgstr "Youkoso! Walküre・World-e"
 
 msgid "musicName_0093_officialName"
 msgstr ""
@@ -1856,7 +1857,7 @@ msgid "musicName_0093_storyTitle"
 msgstr ""
 
 msgid "musicName_0094_musicname"
-msgstr ""
+msgstr "My・Beautiful・Place"
 
 msgid "musicName_0094_officialName"
 msgstr ""
@@ -1877,7 +1878,7 @@ msgid "musicName_0094_storyTitle"
 msgstr ""
 
 msgid "musicName_0095_musicname"
-msgstr ""
+msgstr "Dancing in the Moonlight"
 
 msgid "musicName_0095_officialName"
 msgstr ""
@@ -1898,7 +1899,7 @@ msgid "musicName_0095_storyTitle"
 msgstr ""
 
 msgid "musicName_0096_musicname"
-msgstr ""
+msgstr "Tenshi ni Nacchatta"
 
 msgid "musicName_0096_officialName"
 msgstr ""
@@ -1919,7 +1920,7 @@ msgid "musicName_0096_storyTitle"
 msgstr ""
 
 msgid "musicName_0097_musicname"
-msgstr ""
+msgstr "Infinity #7"
 
 msgid "musicName_0097_officialName"
 msgstr ""
@@ -1940,7 +1941,7 @@ msgid "musicName_0097_storyTitle"
 msgstr ""
 
 msgid "musicName_0098_musicname"
-msgstr ""
+msgstr "Shao Pai Long【MIRROR ver.】"
 
 msgid "musicName_0098_officialName"
 msgstr ""
@@ -1961,7 +1962,7 @@ msgid "musicName_0098_storyTitle"
 msgstr ""
 
 msgid "musicName_0099_musicname"
-msgstr ""
+msgstr "Seikan Hikou〜Freyja Ver.〜"
 
 msgid "musicName_0099_officialName"
 msgstr ""
@@ -1982,7 +1983,7 @@ msgid "musicName_0099_storyTitle"
 msgstr ""
 
 msgid "musicName_0100_musicname"
-msgstr ""
+msgstr "Neko Nikki【MIRROR ver.】"
 
 msgid "musicName_0100_officialName"
 msgstr ""
@@ -2003,7 +2004,7 @@ msgid "musicName_0100_storyTitle"
 msgstr ""
 
 msgid "musicName_0101_musicname"
-msgstr ""
+msgstr "...Dakedo Baby!!"
 
 msgid "musicName_0101_officialName"
 msgstr ""
@@ -2024,7 +2025,7 @@ msgid "musicName_0101_storyTitle"
 msgstr ""
 
 msgid "musicName_0102_musicname"
-msgstr ""
+msgstr "NEW FRONTIER"
 
 msgid "musicName_0102_officialName"
 msgstr ""
@@ -2045,7 +2046,7 @@ msgid "musicName_0102_storyTitle"
 msgstr ""
 
 msgid "musicName_0103_musicname"
-msgstr ""
+msgstr "Ai・Oboeteimasuka【MIRROR ver.】"
 
 msgid "musicName_0103_officialName"
 msgstr ""
@@ -2060,7 +2061,7 @@ msgid "musicName_0103_description"
 msgstr ""
 
 msgid "musicName_0104_musicname"
-msgstr ""
+msgstr "Tenshi no Enogu【MIRROR ver.】"
 
 msgid "musicName_0104_officialName"
 msgstr ""
@@ -2084,7 +2085,7 @@ msgid "musicName_0105_description"
 msgstr ""
 
 msgid "musicName_0106_musicname"
-msgstr ""
+msgstr "Walküre no Birthday song"
 
 msgid "musicName_0106_officialName"
 msgstr ""
@@ -2114,7 +2115,7 @@ msgid "musicName_0107_description"
 msgstr ""
 
 msgid "musicName_0108_musicname"
-msgstr ""
+msgstr "ANGEL VOICE"
 
 msgid "musicName_0108_officialName"
 msgstr ""
@@ -2135,7 +2136,7 @@ msgid "musicName_0108_storyTitle"
 msgstr ""
 
 msgid "musicName_0109_musicname"
-msgstr ""
+msgstr "Dog・Fighter"
 
 msgid "musicName_0109_officialName"
 msgstr ""
@@ -2156,7 +2157,7 @@ msgid "musicName_0109_storyTitle"
 msgstr ""
 
 msgid "musicName_0110_musicname"
-msgstr ""
+msgstr "VOICES"
 
 msgid "musicName_0110_officialName"
 msgstr ""
@@ -2177,7 +2178,7 @@ msgid "musicName_0110_storyTitle"
 msgstr ""
 
 msgid "musicName_0111_musicname"
-msgstr ""
+msgstr "LIGHT THE LIGHT"
 
 msgid "musicName_0111_officialName"
 msgstr ""
@@ -2198,7 +2199,7 @@ msgid "musicName_0111_storyTitle"
 msgstr ""
 
 msgid "musicName_0112_musicname"
-msgstr ""
+msgstr "PARADE"
 
 msgid "musicName_0112_officialName"
 msgstr ""
@@ -2213,7 +2214,7 @@ msgid "musicName_0112_description"
 msgstr ""
 
 msgid "musicName_0113_musicname"
-msgstr ""
+msgstr "Mirai wa Onna no Tameni Aru"
 
 msgid "musicName_0113_officialName"
 msgstr ""
@@ -2228,7 +2229,7 @@ msgid "musicName_0113_description"
 msgstr ""
 
 msgid "musicName_0114_musicname"
-msgstr ""
+msgstr "Zettai Reido θ Novatic Another ver."
 
 msgid "musicName_0114_officialName"
 msgstr ""
@@ -2243,7 +2244,7 @@ msgid "musicName_0114_description"
 msgstr ""
 
 msgid "musicName_0115_musicname"
-msgstr ""
+msgstr "Merry Christmas without You"
 
 msgid "musicName_0115_officialName"
 msgstr ""
@@ -2258,7 +2259,7 @@ msgid "musicName_0115_description"
 msgstr ""
 
 msgid "musicName_0116_musicname"
-msgstr ""
+msgstr "Rune ni Hanasaku Koi mo Aru"
 
 msgid "musicName_0116_officialName"
 msgstr ""
@@ -2279,7 +2280,7 @@ msgid "musicName_0116_storyTitle"
 msgstr ""
 
 msgid "musicName_0117_musicname"
-msgstr ""
+msgstr "HEART & SOUL"
 
 msgid "musicName_0117_officialName"
 msgstr ""
@@ -2294,7 +2295,7 @@ msgid "musicName_0117_description"
 msgstr ""
 
 msgid "musicName_0118_musicname"
-msgstr ""
+msgstr "Ikenai Borderline Another ver."
 
 msgid "musicName_0118_officialName"
 msgstr ""
@@ -2309,7 +2310,7 @@ msgid "musicName_0118_description"
 msgstr ""
 
 msgid "musicName_0119_musicname"
-msgstr ""
+msgstr "Bokura no Senjou 【MIRROR ver.】"
 
 msgid "musicName_0119_officialName"
 msgstr ""
@@ -2324,7 +2325,7 @@ msgid "musicName_0119_description"
 msgstr ""
 
 msgid "musicName_0120_musicname"
-msgstr ""
+msgstr "Watashi no Kare wa Pilot (Part II)"
 
 msgid "musicName_0120_officialName"
 msgstr ""
@@ -2339,7 +2340,7 @@ msgid "musicName_0120_description"
 msgstr ""
 
 msgid "musicName_0121_musicname"
-msgstr ""
+msgstr "NEO STREAM Another ver."
 
 msgid "musicName_0121_officialName"
 msgstr ""
@@ -2354,7 +2355,7 @@ msgid "musicName_0121_description"
 msgstr ""
 
 msgid "musicName_0122_musicname"
-msgstr ""
+msgstr "FLASH IN THE DARK"
 
 msgid "musicName_0122_officialName"
 msgstr ""
@@ -2369,7 +2370,7 @@ msgid "musicName_0122_description"
 msgstr ""
 
 msgid "musicName_0123_musicname"
-msgstr ""
+msgstr "Songbird"
 
 msgid "musicName_0123_officialName"
 msgstr ""
@@ -2384,7 +2385,7 @@ msgid "musicName_0123_description"
 msgstr ""
 
 msgid "musicName_0124_musicname"
-msgstr ""
+msgstr "Dancing in the Moonlight Another ver."
 
 msgid "musicName_0124_officialName"
 msgstr ""
@@ -2399,7 +2400,7 @@ msgid "musicName_0124_description"
 msgstr ""
 
 msgid "musicName_0125_musicname"
-msgstr ""
+msgstr "SWEET FANTASY"
 
 msgid "musicName_0125_officialName"
 msgstr ""
@@ -2414,7 +2415,7 @@ msgid "musicName_0125_description"
 msgstr ""
 
 msgid "musicName_0126_musicname"
-msgstr ""
+msgstr "Kimi ni Todoke→"
 
 msgid "musicName_0126_officialName"
 msgstr ""
@@ -2429,7 +2430,7 @@ msgid "musicName_0126_description"
 msgstr ""
 
 msgid "musicName_0127_musicname"
-msgstr ""
+msgstr "Lion【MIRROR ver.】"
 
 msgid "musicName_0127_officialName"
 msgstr ""
@@ -2444,7 +2445,7 @@ msgid "musicName_0127_description"
 msgstr ""
 
 msgid "musicName_0128_musicname"
-msgstr ""
+msgstr "Universal Bunny【MIRROR ver.】"
 
 msgid "musicName_0128_officialName"
 msgstr ""
@@ -2459,7 +2460,7 @@ msgid "musicName_0128_description"
 msgstr ""
 
 msgid "musicName_0129_musicname"
-msgstr ""
+msgstr "SUNSET BEACH【MIRROR ver.】"
 
 msgid "musicName_0129_officialName"
 msgstr ""
@@ -2474,7 +2475,7 @@ msgid "musicName_0129_description"
 msgstr ""
 
 msgid "musicName_0130_musicname"
-msgstr ""
+msgstr "Northern Cross【MIRROR ver.】"
 
 msgid "musicName_0130_officialName"
 msgstr ""
@@ -2489,7 +2490,7 @@ msgid "musicName_0130_description"
 msgstr ""
 
 msgid "musicName_0131_musicname"
-msgstr ""
+msgstr "Walküre wa Akiramenai"
 
 msgid "musicName_0131_officialName"
 msgstr ""
@@ -2504,7 +2505,7 @@ msgid "musicName_0131_description"
 msgstr ""
 
 msgid "musicName_0132_musicname"
-msgstr ""
+msgstr "Kuchibiru no Toshou"
 
 msgid "musicName_0132_officialName"
 msgstr ""
@@ -2519,7 +2520,7 @@ msgid "musicName_0132_description"
 msgstr ""
 
 msgid "musicName_0133_musicname"
-msgstr ""
+msgstr "Glow in the dark"
 
 msgid "musicName_0133_officialName"
 msgstr ""
@@ -2534,7 +2535,7 @@ msgid "musicName_0133_description"
 msgstr ""
 
 msgid "musicName_0134_musicname"
-msgstr ""
+msgstr "Toki no Meikyuu"
 
 msgid "musicName_0134_officialName"
 msgstr ""
@@ -2549,7 +2550,7 @@ msgid "musicName_0134_description"
 msgstr ""
 
 msgid "musicName_0135_musicname"
-msgstr ""
+msgstr "Runner - Duet・Version-"
 
 msgid "musicName_0135_officialName"
 msgstr ""
@@ -2564,7 +2565,7 @@ msgid "musicName_0135_description"
 msgstr ""
 
 msgid "musicName_0136_musicname"
-msgstr ""
+msgstr "ROCK'N'ROLL FIRE"
 
 msgid "musicName_0136_officialName"
 msgstr ""
@@ -2578,8 +2579,9 @@ msgstr ""
 msgid "musicName_0136_description"
 msgstr ""
 
+#, fuzzy
 msgid "musicName_0137_musicname"
-msgstr ""
+msgstr "Dainamu Chogokin"
 
 msgid "musicName_0137_officialName"
 msgstr ""
@@ -2594,7 +2596,7 @@ msgid "musicName_0137_description"
 msgstr ""
 
 msgid "musicName_0138_musicname"
-msgstr ""
+msgstr "HELLO"
 
 msgid "musicName_0138_officialName"
 msgstr ""
@@ -2609,7 +2611,7 @@ msgid "musicName_0138_description"
 msgstr ""
 
 msgid "musicName_0139_musicname"
-msgstr ""
+msgstr "What 'bout my star? @Formo"
 
 msgid "musicName_0139_officialName"
 msgstr ""
@@ -2624,7 +2626,7 @@ msgid "musicName_0139_description"
 msgstr ""
 
 msgid "musicName_0140_musicname"
-msgstr ""
+msgstr "WANNA BE AN ANGEL"
 
 msgid "musicName_0140_officialName"
 msgstr ""
@@ -2639,7 +2641,7 @@ msgid "musicName_0140_description"
 msgstr ""
 
 msgid "musicName_0141_musicname"
-msgstr ""
+msgstr "Koi no Mahou"
 
 msgid "musicName_0141_officialName"
 msgstr ""
@@ -2654,7 +2656,7 @@ msgid "musicName_0141_description"
 msgstr ""
 
 msgid "musicName_0142_musicname"
-msgstr ""
+msgstr "Aenai Toki"
 
 msgid "musicName_0142_officialName"
 msgstr ""
@@ -2669,7 +2671,7 @@ msgid "musicName_0142_description"
 msgstr ""
 
 msgid "musicName_0143_musicname"
-msgstr ""
+msgstr "NEVER SAY DIE"
 
 msgid "musicName_0143_officialName"
 msgstr ""
@@ -2684,13 +2686,13 @@ msgid "musicName_0143_description"
 msgstr ""
 
 msgid "musicName_0144_musicname"
-msgstr ""
+msgstr "PILLOW DREAM"
 
 msgid "musicName_0144_officialName"
 msgstr ""
 
 msgid "musicName_0145_musicname"
-msgstr ""
+msgstr "Starlight Natto"
 
 msgid "musicName_0145_officialName"
 msgstr ""
@@ -2705,7 +2707,7 @@ msgid "musicName_0145_description"
 msgstr ""
 
 msgid "musicName_0146_musicname"
-msgstr ""
+msgstr "Tsurami Genzai Shinkoukei"
 
 msgid "musicName_0146_officialName"
 msgstr ""
@@ -2720,19 +2722,19 @@ msgid "musicName_0146_description"
 msgstr ""
 
 msgid "musicName_0147_musicname"
-msgstr ""
+msgstr "1・2・3・4・5・6・7 NIGHTS"
 
 msgid "musicName_0147_officialName"
 msgstr ""
 
 msgid "musicName_0148_musicname"
-msgstr ""
+msgstr "0-G Love【MIRROR ver.】"
 
 msgid "musicName_0148_officialName"
 msgstr ""
 
 msgid "musicName_0149_musicname"
-msgstr ""
+msgstr "Silver Moon・Red Moon【MIRROR ver.】"
 
 msgid "musicName_0149_officialName"
 msgstr ""
@@ -2746,8 +2748,9 @@ msgstr ""
 msgid "musicName_0149_description"
 msgstr ""
 
+#, fuzzy
 msgid "musicName_0150_musicname"
-msgstr ""
+msgstr "Glow in the dark (Kō nandou ver.)"
 
 msgid "musicName_0150_officialName"
 msgstr ""
@@ -2762,7 +2765,7 @@ msgid "musicName_0150_description"
 msgstr ""
 
 msgid "musicName_0151_musicname"
-msgstr ""
+msgstr "Sayonara no Tsubasa〜 the end of triangle"
 
 msgid "musicName_0151_officialName"
 msgstr ""
@@ -2777,7 +2780,7 @@ msgid "musicName_0151_description"
 msgstr ""
 
 msgid "musicName_0152_musicname"
-msgstr ""
+msgstr "Ikenai Borderline"
 
 msgid "musicName_0152_officialName"
 msgstr ""
