@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-09-22 17:28+0000\n"
+"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
+"helpbrowserdb_text/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "category_0000_name"
 msgstr ""
@@ -83,10 +84,10 @@ msgid "help_0000_0005_name"
 msgstr ""
 
 msgid "help_0000_0006_name"
-msgstr ""
+msgstr "Assist Plates"
 
 msgid "help_0000_0007_name"
-msgstr ""
+msgstr "Play Logs"
 
 msgid "help_0000_0008_name"
 msgstr ""
@@ -152,7 +153,7 @@ msgid "help_0001_0005_name"
 msgstr ""
 
 msgid "help_0001_0006_name"
-msgstr ""
+msgstr "Selecting Teams"
 
 msgid "help_0001_0007_name"
 msgstr ""
@@ -410,10 +411,10 @@ msgid "help_0016_0005_name"
 msgstr ""
 
 msgid "help_0016_0006_name"
-msgstr ""
+msgstr "Assist Plates"
 
 msgid "help_0016_0007_name"
-msgstr ""
+msgstr "Play Logs"
 
 msgid "help_0016_0008_name"
 msgstr ""
@@ -500,7 +501,7 @@ msgid "wiki_0019_0002_name"
 msgstr ""
 
 msgid "help_0020_0000_name"
-msgstr ""
+msgstr "Assist Plates"
 
 msgid "wiki_0020_0000_name"
 msgstr ""
@@ -518,7 +519,7 @@ msgid "help_0021_0003_name"
 msgstr ""
 
 msgid "help_0021_0004_name"
-msgstr ""
+msgstr "Selecting Teams"
 
 msgid "help_0021_0005_name"
 msgstr ""
@@ -557,7 +558,7 @@ msgid "help_0023_0000_name"
 msgstr ""
 
 msgid "help_0023_0001_name"
-msgstr ""
+msgstr "Play Logs"
 
 msgid "help_0023_0002_name"
 msgstr ""
@@ -677,7 +678,7 @@ msgid "help_0034_0003_name"
 msgstr ""
 
 msgid "help_0034_0004_name"
-msgstr ""
+msgstr "Selecting Teams"
 
 msgid "help_0034_0005_name"
 msgstr ""
@@ -1037,10 +1038,10 @@ msgid "help_0070_0005_name"
 msgstr ""
 
 msgid "help_0070_0006_name"
-msgstr ""
+msgstr "Assist Plates"
 
 msgid "help_0070_0007_name"
-msgstr ""
+msgstr "Play Logs"
 
 msgid "help_0070_0008_name"
 msgstr ""
@@ -1106,7 +1107,7 @@ msgid "help_0071_0004_name"
 msgstr ""
 
 msgid "help_0071_0005_name"
-msgstr ""
+msgstr "Selecting Teams"
 
 msgid "help_0071_0006_name"
 msgstr ""
@@ -1190,7 +1191,7 @@ msgid "wiki_0073_0002_name"
 msgstr ""
 
 msgid "help_0074_0000_name"
-msgstr ""
+msgstr "Assist Plates"
 
 msgid "help_0074_0001_name"
 msgstr ""
@@ -1211,7 +1212,7 @@ msgid "help_0075_0003_name"
 msgstr ""
 
 msgid "help_0075_0004_name"
-msgstr ""
+msgstr "Selecting Teams"
 
 msgid "help_0075_0005_name"
 msgstr ""
@@ -1268,7 +1269,7 @@ msgid "help_0078_0003_name"
 msgstr ""
 
 msgid "help_0078_0004_name"
-msgstr ""
+msgstr "Selecting Teams"
 
 msgid "help_0078_0005_name"
 msgstr ""
