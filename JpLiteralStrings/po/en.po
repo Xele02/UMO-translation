@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-22 17:28+0000\n"
+"PO-Revision-Date: 2024-09-22 19:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -396,7 +396,7 @@ msgid "StringLiteral_11071"
 msgstr ""
 
 msgid "StringLiteral_11072"
-msgstr ""
+msgstr "Expected Note Value"
 
 msgid "StringLiteral_11073"
 msgstr ""
@@ -1887,7 +1887,7 @@ msgid "UMO_Total"
 msgstr "TOTAL"
 
 msgid "UMO_Fold"
-msgstr ""
+msgstr "Fold Waves"
 
 msgid "UMO_Luck"
 msgstr "LUCK"
@@ -1896,7 +1896,7 @@ msgid "UMO_Status"
 msgstr "Stats"
 
 msgid "UMO_SubStatus"
-msgstr ""
+msgstr "Supp. Plate Effects"
 
 msgid "UMO_CenterSkill"
 msgstr "Center Skill"
@@ -1905,7 +1905,7 @@ msgid "UMO_ActiveSkill"
 msgstr "Active Skill"
 
 msgid "UMO_LeafLabel"
-msgstr ""
+msgstr "Lucky Leaf Effects"
 
 msgid "UMO_Excellent"
 msgstr "EXCELLENT"
@@ -1914,7 +1914,7 @@ msgid "UMO_CenterLiveSkillNote"
 msgstr "Center Live Skill Chance Note"
 
 msgid "UMO_Notes"
-msgstr ""
+msgstr "Expected Note Value"
 
 msgid "UMO_Heal"
 msgstr "Recovery"
@@ -1926,19 +1926,19 @@ msgid "UMO_Atk"
 msgstr "Attack"
 
 msgid "UMO_SupportImp"
-msgstr ""
+msgstr "Locked Support Plate"
 
 msgid "UMO_SupportImp2"
-msgstr ""
+msgstr "How to unlock: Upgrade costumes to unlock Support Plates."
 
 msgid "UMO_NumLeft"
 msgstr "Times left"
 
 msgid "UMO_PlayAttr"
-msgstr ""
+msgstr "Song Attribute"
 
 msgid "UMO_PlayAttr2"
-msgstr ""
+msgstr "Attribute Priority"
 
 msgid "UMO_All"
 msgstr "ALL"
@@ -1956,13 +1956,13 @@ msgid "UMO_PlayStyle"
 msgstr "Play Style"
 
 msgid "UMO_PlayStyleScore"
-msgstr "Prioritize Score"
+msgstr "Score"
 
 msgid "UMO_PlayStyleLife"
-msgstr "Prioritize Life"
+msgstr "Life"
 
 msgid "UMO_PlayStyleCombo"
-msgstr ""
+msgstr "Combos"
 
 msgid "UMO_PlayStatus"
 msgstr "Stat Priority"
@@ -1974,7 +1974,7 @@ msgid "UMO_IntimacyLevel"
 msgstr "Bond Lv."
 
 msgid "UMO_CostumeCount"
-msgstr ""
+msgstr "Costumes Owned"
 
 msgid "UMO_DivaStatus"
 msgstr "Diva Status"
@@ -2007,7 +2007,7 @@ msgid "UMO_Favorite"
 msgstr "Likes"
 
 msgid "UMO_DivaDesc"
-msgstr ""
+msgstr "Diva Bio"
 
 msgid "UMO_Back"
 msgstr "Back"
@@ -2020,3 +2020,30 @@ msgstr "Gifts"
 
 msgid "UMO_Profil"
 msgstr "Profile"
+
+msgid "UMO_DivaCompatibility"
+msgstr "Diva Compatibility"
+
+msgid "UMO_SkillFilterActive"
+msgstr "Active"
+
+msgid "UMO_SkillFilterDisableAll"
+msgstr "Unselect"
+
+msgid "UMO_SkillFilterLongNote"
+msgstr "Long/Short"
+
+msgid "UMO_SkillFilterRank"
+msgstr "Skill Rank"
+
+msgid "UMO_SkillFilterBRank"
+msgstr "B Rank"
+
+msgid "UMO_SkillFilterARank"
+msgstr "A Rank"
+
+msgid "UMO_SkillFilterSRank"
+msgstr "S Rank"
+
+msgid "UMO_SkillFilterSSRank"
+msgstr "SS Rank"
