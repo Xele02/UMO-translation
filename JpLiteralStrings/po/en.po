@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-08 13:15+0000\n"
+"PO-Revision-Date: 2024-09-22 17:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -1893,7 +1893,7 @@ msgid "UMO_Luck"
 msgstr "LUCK"
 
 msgid "UMO_Status"
-msgstr "Status"
+msgstr "Stats"
 
 msgid "UMO_SubStatus"
 msgstr ""
@@ -1953,25 +1953,25 @@ msgid "UMO_Attr3"
 msgstr "Life"
 
 msgid "UMO_PlayStyle"
-msgstr ""
+msgstr "Play Style"
 
 msgid "UMO_PlayStyleScore"
-msgstr ""
+msgstr "Prioritize Score"
 
 msgid "UMO_PlayStyleLife"
-msgstr ""
+msgstr "Prioritize Life"
 
 msgid "UMO_PlayStyleCombo"
 msgstr ""
 
 msgid "UMO_PlayStatus"
-msgstr ""
+msgstr "Stat Priority"
 
 msgid "UMO_DivaLevel"
-msgstr "Diva Lv"
+msgstr "Diva Lv."
 
 msgid "UMO_IntimacyLevel"
-msgstr "Bond Lv"
+msgstr "Bond Lv."
 
 msgid "UMO_CostumeCount"
 msgstr ""
@@ -1995,7 +1995,7 @@ msgid "UMO_DivaRanking"
 msgstr "Diva Ranking"
 
 msgid "UMO_DivaRankingBtn"
-msgstr ""
+msgstr "See Diva Ranking"
 
 msgid "UMO_Age"
 msgstr "Age"
@@ -2016,7 +2016,7 @@ msgid "UMO_Costume"
 msgstr "Change"
 
 msgid "UMO_Gift"
-msgstr "Gift"
+msgstr "Gifts"
 
 msgid "UMO_Profil"
 msgstr "Profile"
