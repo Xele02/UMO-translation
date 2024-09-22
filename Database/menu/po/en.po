@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-22 17:28+0000\n"
+"PO-Revision-Date: 2024-09-22 19:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -114,7 +114,7 @@ msgid "popup_sort_title_unit"
 msgstr ""
 
 msgid "popup_comparison_00"
-msgstr ""
+msgstr "Expected Note Value"
 
 msgid "popup_music_select_00"
 msgstr ""
@@ -2508,7 +2508,7 @@ msgid "limit_over_unlock_04"
 msgstr ""
 
 msgid "limit_over_popup_title"
-msgstr ""
+msgstr "Lucky Leaf Effects"
 
 msgid "limit_over_popup_caution"
 msgstr ""
@@ -4299,13 +4299,13 @@ msgid "missionevent_bonus_target_format"
 msgstr ""
 
 msgid "missionevent_bonus_music_attribute001"
-msgstr ""
+msgstr "Star Attribute"
 
 msgid "missionevent_bonus_music_attribute002"
-msgstr ""
+msgstr "Love Attribute"
 
 msgid "missionevent_bonus_music_attribute003"
-msgstr ""
+msgstr "Destiny Attribute"
 
 msgid "missionevent_bonus_music_attribute004"
 msgstr ""
@@ -4986,13 +4986,13 @@ msgid "assistselect_attribute_other"
 msgstr ""
 
 msgid "assistselect_attribute_yellow"
-msgstr ""
+msgstr "Star Attribute"
 
 msgid "assistselect_attribute_red"
-msgstr ""
+msgstr "Love Attribute"
 
 msgid "assistselect_attribute_blue"
-msgstr ""
+msgstr "Destiny Attribute"
 
 msgid "assistselect_caution_01"
 msgstr ""
@@ -5166,7 +5166,7 @@ msgid "popup_sort_item_support"
 msgstr ""
 
 msgid "popup_sort_item_fold"
-msgstr ""
+msgstr "Fold Waves"
 
 msgid "popup_sort_item_recovery_notes"
 msgstr ""
@@ -5589,7 +5589,7 @@ msgid "home_diva_view_status_intimacyl_text"
 msgstr "Bond Lv."
 
 msgid "home_diva_view_status_havecostume_text"
-msgstr ""
+msgstr "Costumes Owned"
 
 msgid "home_diva_view_status_divaranking_text"
 msgstr ""
@@ -5829,7 +5829,7 @@ msgid "popup_filter_difficulty_6line_extreme"
 msgstr ""
 
 msgid "popup_filter_music_attribute_title_h2"
-msgstr ""
+msgstr "Attribute"
 
 msgid "popup_filter_music_attribute_001"
 msgstr ""
@@ -6108,7 +6108,7 @@ msgid "popup_music_input_bookmarkname_deletecheck_text_01"
 msgstr ""
 
 msgid "popup_sort_item_notes_expectation"
-msgstr ""
+msgstr "Expected Note Value"
 
 msgid "music_not_exist_text_01"
 msgstr ""
