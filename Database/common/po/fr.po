@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:35+0000\n"
-"PO-Revision-Date: 2024-08-25 13:33+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2024-09-22 13:17+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "common/fr/>\n"
 "Language: fr\n"
@@ -422,7 +422,7 @@ msgstr ""
 "{1}"
 
 msgid "game_popup_continue_title"
-msgstr "Confirmation de poursuite"
+msgstr "Reprendre le concert"
 
 msgid "game_popup_continue_text"
 msgstr ""
@@ -444,7 +444,7 @@ msgstr ""
 "<color=#C8087E>※Aucune orbe sonore ne sera consommée. </color>"
 
 msgid "game_popup_retire_title"
-msgstr "Confirmation de retrait"
+msgstr "Abandonner le concert"
 
 msgid "game_popup_retire_text"
 msgstr ""
@@ -462,13 +462,13 @@ msgid "game_popup_retire_story_text"
 msgstr "Veux-tu quitter ?"
 
 msgid "game_popup_skip_title"
-msgstr "Confirmation de passage"
+msgstr "Passer le concert"
 
 msgid "game_popup_skip_story_text"
 msgstr "Passer la chanson ?"
 
 msgid "game_tutorial_skip_title"
-msgstr "Confirmation de passage"
+msgstr "Passer le concert"
 
 msgid "game_tutorial_skip_text"
 msgstr ""
@@ -492,7 +492,7 @@ msgstr ""
 msgid "popup_inh_sns_001"
 msgstr ""
 "※Si elles ne sont pas liées, les données seront perdues si l'application est "
-"supprimée."
+"supprimée. (fonctionnalité non implémentée)"
 
 msgid "popup_inh_sns_002"
 msgstr "Ne plus montrer"
@@ -816,7 +816,7 @@ msgid "profile_diva009_birthplace"
 msgstr "Inconnu"
 
 msgid "profile_diva009_favorite"
-msgstr "Ecouter mes chansons"
+msgstr "Écouter mes chansons"
 
 msgid "profile_diva009_description"
 msgstr ""
@@ -870,10 +870,10 @@ msgid "notify_comback_01"
 msgstr "Je t'attends !"
 
 msgid "notify_comback_02"
-msgstr "Mes chansons doivent te manquer non ?"
+msgstr "Mes chansons doivent te manquer, non ?"
 
 msgid "notify_comback_03"
-msgstr "C'est un peu triste sans toi"
+msgstr "C'est un peu triste sans toi."
 
 msgid "notify_comback_04"
 msgstr "Je t'attends, viens me voir !"
@@ -885,13 +885,13 @@ msgid "notify_comback_06"
 msgstr "Cela fait longtemps que je ne t'ai pas parlé !"
 
 msgid "notify_comback_07"
-msgstr "Viens me voir, je t'attends"
+msgstr "Viens me voir, je t'attends."
 
 msgid "notify_comback_08"
 msgstr "C'est bientôt le concert ! Viens voir !"
 
 msgid "notify_comback_09"
-msgstr "Dépêche toi et viens écouter mes chansons !"
+msgstr "Dépêche-toi et viens écouter mes chansons !"
 
 msgid "notify_comback_10"
 msgstr "Hey, je ne t'ai pas vu depuis longtemps !"
@@ -1109,7 +1109,7 @@ msgid "notify_comback_title_2"
 msgstr "Viens recevoir ton bonus de retour !"
 
 msgid "notify_comback_text_2"
-msgstr "Reçoit un bonus d'orbes sonores pour revenir ! Connecte toi !"
+msgstr "Reçois un bonus d'orbes sonores pour ton retour ! Connecte-toi !"
 
 msgid "pop_subscription_confirmation_text"
 msgstr ""
