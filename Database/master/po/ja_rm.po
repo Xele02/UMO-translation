@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-26 16:38+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-09-22 17:28+0000\n"
+"Last-Translator: Mitsu <meryamselmii@gmail.com>\n"
+"Language-Team: Japanese Romanized <https://umo-translate.xele.org/projects/"
+"umo/database/master/ja_rm/>\n"
 "Language: ja_rm\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=n >= 0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "e_nm_0001"
 msgstr ""
@@ -3605,304 +3606,306 @@ msgid "cs_i_dsc_short_0003"
 msgstr ""
 
 msgid "cos_0001"
-msgstr ""
+msgstr "Walküre・Uniform"
 
 msgid "cos_0002"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0003"
-msgstr ""
+msgstr "Rotkäppchen"
 
 msgid "cos_0004"
-msgstr ""
+msgstr "Blau・Blume"
 
 msgid "cos_0005"
-msgstr ""
+msgstr "Kimonostil"
 
 msgid "cos_0006"
-msgstr ""
+msgstr "Vor・Stoß"
 
 msgid "cos_0007"
-msgstr ""
+msgstr "Hübsche・Qualle"
 
 msgid "cos_0008"
-msgstr ""
+msgstr "Erste・Liebe"
 
 msgid "cos_0009"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0010"
-msgstr ""
+msgstr "Edel・Schwan"
 
 msgid "cos_0011"
-msgstr ""
+msgstr "Garnet・Teen"
 
 msgid "cos_0012"
-msgstr ""
+msgstr "Blauer Ether"
 
 msgid "cos_0013"
-msgstr ""
+msgstr "Sternen・Blau"
 
 msgid "cos_0014"
-msgstr ""
+msgstr "Leidenschaft"
 
+#, fuzzy
 msgid "cos_0015"
-msgstr ""
+msgstr "Ragunyannyan Mesaia"
 
 msgid "cos_0016"
-msgstr ""
+msgstr "Cosmic Apple"
 
 msgid "cos_0017"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0018"
-msgstr ""
+msgstr "Pop・Twister"
 
 msgid "cos_0019"
-msgstr ""
+msgstr "Hot Lilith"
 
 msgid "cos_0020"
-msgstr ""
+msgstr "Crossover・Passion"
 
 msgid "cos_0021"
-msgstr ""
+msgstr "Walküre・Uniform"
 
 msgid "cos_0022"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0023"
-msgstr ""
+msgstr "Verkleidung"
 
 msgid "cos_0024"
-msgstr ""
+msgstr "Edel・Schwan"
 
 msgid "cos_0025"
-msgstr ""
+msgstr "Mondschein"
 
 msgid "cos_0026"
-msgstr ""
+msgstr "Vor・Stoß"
 
 msgid "cos_0027"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0028"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0029"
-msgstr ""
+msgstr "Verboten"
 
 msgid "cos_0030"
-msgstr ""
+msgstr "Schwarze・Rätsel"
 
 msgid "cos_0031"
-msgstr ""
+msgstr "Sternern・Veilchen"
 
 msgid "cos_0032"
-msgstr ""
+msgstr "Mystik・Braut"
 
 msgid "cos_0033"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0034"
-msgstr ""
+msgstr "Prussian Gorgeous"
 
 msgid "cos_0035"
-msgstr ""
+msgstr "Misty・Officer"
 
 msgid "cos_0036"
-msgstr ""
+msgstr "Crossover・Fabulous"
 
 msgid "cos_0037"
-msgstr ""
+msgstr "Kimono・Kunoichi"
 
 msgid "cos_0038"
-msgstr ""
+msgstr "Nebel・Schokolade"
 
 msgid "cos_0039"
-msgstr ""
+msgstr "Modisch・Würde"
 
 msgid "cos_0040"
-msgstr ""
+msgstr "Crossover・Illusion"
 
 msgid "cos_0041"
-msgstr ""
+msgstr "Walküre・Uniform"
 
 msgid "cos_0042"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0043"
-msgstr ""
+msgstr "Blau・Blume"
 
 msgid "cos_0044"
-msgstr ""
+msgstr "Schwarze・Frühling"
 
 msgid "cos_0045"
-msgstr ""
+msgstr "Blitz・Braut"
 
 msgid "cos_0046"
-msgstr ""
+msgstr "Milchstraße"
 
 msgid "cos_0047"
-msgstr ""
+msgstr "Marigold"
 
 msgid "cos_0048"
-msgstr ""
+msgstr "Edel・Schwan"
 
 msgid "cos_0049"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0050"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0051"
-msgstr ""
+msgstr "Cosmic Margaret"
 
 msgid "cos_0052"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0053"
-msgstr ""
+msgstr "Mandarin・Gorgeous"
 
 msgid "cos_0054"
-msgstr ""
+msgstr "Dyna・Officer"
 
 msgid "cos_0055"
-msgstr ""
+msgstr "Bursting・Bell"
 
 msgid "cos_0056"
-msgstr ""
+msgstr "Crossover・Alive"
 
 msgid "cos_0057"
-msgstr ""
+msgstr "Vor・Stoß"
 
 msgid "cos_0058"
-msgstr ""
+msgstr "Bitter・Schokolade"
 
 msgid "cos_0059"
-msgstr ""
+msgstr "Slove・Pirates"
 
 msgid "cos_0060"
-msgstr ""
+msgstr "Sternen・Leben"
 
 msgid "cos_0061"
-msgstr ""
+msgstr "Walküre・Uniform"
 
 msgid "cos_0062"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0063"
-msgstr ""
+msgstr "Pastel Summer"
 
 msgid "cos_0064"
-msgstr ""
+msgstr "Sweet・Bell"
 
 msgid "cos_0065"
-msgstr ""
+msgstr "Schwarze・Katze"
 
 msgid "cos_0066"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0067"
-msgstr ""
+msgstr "Biore・Gorgeous"
 
 msgid "cos_0068"
-msgstr ""
+msgstr "Sweet Lilith"
 
 msgid "cos_0069"
-msgstr ""
+msgstr "Vor・Stoß"
 
 msgid "cos_0070"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0071"
-msgstr ""
+msgstr "Sternen・Wasser"
 
 msgid "cos_0072"
-msgstr ""
+msgstr "Blau・Blume"
 
 msgid "cos_0073"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0074"
-msgstr ""
+msgstr "Crossover・Suite"
 
 msgid "cos_0075"
-msgstr ""
+msgstr "Kimono・Rabbit"
 
 msgid "cos_0076"
-msgstr ""
+msgstr "Milch・Shockolade"
 
 msgid "cos_0077"
-msgstr ""
+msgstr "Edel・Schwan"
 
 msgid "cos_0078"
-msgstr ""
+msgstr "Crossover・Embrace"
 
 msgid "cos_0079"
-msgstr ""
+msgstr "Sugar・Alice"
 
 msgid "cos_0080"
-msgstr ""
+msgstr "Kaninchen Mythos"
 
 msgid "cos_0081"
-msgstr ""
+msgstr "Walküre・Uniform"
 
 msgid "cos_0082"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0083"
-msgstr ""
+msgstr "Silent Jasper"
 
 msgid "cos_0084"
-msgstr ""
+msgstr "Edel・Schwan"
 
 msgid "cos_0085"
-msgstr ""
+msgstr "Little Ghost"
 
 msgid "cos_0086"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0087"
-msgstr ""
+msgstr "Vor・Stoß"
 
 msgid "cos_0088"
-msgstr ""
+msgstr "Gerbera・Braut"
 
 msgid "cos_0089"
-msgstr ""
+msgstr "Meer・Zitrone"
 
 msgid "cos_0090"
-msgstr ""
+msgstr "Blau・Blume"
 
 msgid "cos_0091"
-msgstr ""
+msgstr "Leindenschaft"
 
 msgid "cos_0092"
-msgstr ""
+msgstr "Sternen・Nacht"
 
 msgid "cos_0093"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0094"
-msgstr ""
+msgstr "Crossover・Tingle"
 
 msgid "cos_0095"
-msgstr ""
+msgstr "Tingling・Bell"
 
+#, fuzzy
 msgid "cos_0096"
-msgstr ""
+msgstr "Kimino・Foliage"
 
 msgid "cos_0097"
-msgstr ""
+msgstr "Spitz・Schokolade"
 
 msgid "cos_0098"
-msgstr ""
+msgstr "Crossover・Curious"
 
 msgid "cos_0099"
-msgstr ""
+msgstr "Schwarze Schelm"
 
 msgid "cos_0100"
-msgstr ""
+msgstr "Quallen Mythos"
 
 msgid "cos_0101"
 msgstr ""
@@ -4628,7 +4631,7 @@ msgid "cos_0001_01"
 msgstr ""
 
 msgid "cos_0002_01"
-msgstr ""
+msgstr "Neo・Strahl"
 
 msgid "cos_0003_01"
 msgstr ""
