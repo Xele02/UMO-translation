@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2024-09-22 19:28+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-09-23 07:28+0000\n"
+"Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/en/>\n"
 "Language: en\n"
@@ -78,24 +78,33 @@ msgstr "Play Logs"
 
 msgid "tutopict_0005_0000_msg"
 msgstr ""
+"Here you can see where you made mistakes,\n"
+"when you used skills, and various other\n"
+"performance info."
 
 msgid "tutopict_0006_0000_title"
-msgstr ""
+msgstr "Player Ranks"
 
 msgid "tutopict_0006_0000_msg"
 msgstr ""
+"If you want to earn higher ranks,\n"
+"play lots of songs to earn EXP."
 
 msgid "tutopict_0007_0000_title"
-msgstr ""
+msgstr "Friend Requests"
 
 msgid "tutopict_0007_0000_msg"
 msgstr ""
+"Send friend requests to others! You want to keep\n"
+"getting people you can rely on to help you out."
 
 msgid "tutopict_0008_0000_title"
-msgstr ""
+msgstr "Skills"
 
 msgid "tutopict_0008_0000_msg"
 msgstr ""
+"Center Skills, Active Skills, and Live Skills, all\n"
+"have their own unique characteristics."
 
 msgid "tutopict_0008_0001_msg"
 msgstr ""
@@ -907,6 +916,9 @@ msgstr "Play Logs"
 
 msgid "tutopict_0101_0000_msg"
 msgstr ""
+"Here you can see where you made mistakes,\n"
+"when you used skills, and various other\n"
+"performance info."
 
 msgid "tutopict_0102_0000_title"
 msgstr ""
@@ -930,10 +942,12 @@ msgid "tutopict_0103_0003_msg"
 msgstr ""
 
 msgid "tutopict_0104_0000_title"
-msgstr ""
+msgstr "Skills"
 
 msgid "tutopict_0104_0000_msg"
 msgstr ""
+"Center Skills, Active Skills, and Live Skills, all\n"
+"have their own unique characteristics."
 
 msgid "tutopict_0104_0001_msg"
 msgstr ""
@@ -1051,10 +1065,12 @@ msgid "tutopict_0116_0000_msg"
 msgstr ""
 
 msgid "tutopict_0117_0000_title"
-msgstr ""
+msgstr "Player Ranks"
 
 msgid "tutopict_0117_0000_msg"
 msgstr ""
+"If you want to earn higher ranks,\n"
+"play lots of songs to earn EXP."
 
 msgid "tutopict_0118_0000_title"
 msgstr ""
@@ -2291,10 +2307,12 @@ msgstr ""
 "scores/Life, and so on."
 
 msgid "tutopict_0213_0000_title"
-msgstr ""
+msgstr "Skills"
 
 msgid "tutopict_0213_0000_msg"
 msgstr ""
+"Center Skills, Active Skills, and Live Skills, all\n"
+"have their own unique characteristics."
 
 msgid "tutopict_0213_0001_msg"
 msgstr ""
@@ -2440,10 +2458,12 @@ msgid "tutopict_0231_0003_msg"
 msgstr ""
 
 msgid "tutopict_0232_0000_title"
-msgstr ""
+msgstr "Skills"
 
 msgid "tutopict_0232_0000_msg"
 msgstr ""
+"Center Skills, Active Skills, and Live Skills, all\n"
+"have their own unique characteristics."
 
 msgid "tutopict_0232_0001_msg"
 msgstr ""
