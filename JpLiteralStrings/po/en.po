@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-23 05:28+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-09-23 07:28+0000\n"
+"Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
 "Language: en\n"
@@ -189,73 +189,73 @@ msgid "StringLiteral_10137"
 msgstr "{0:plural:Song Gem|Song Gems}"
 
 msgid "StringLiteral_10138"
-msgstr "Gacha Ticket"
+msgstr "{0:plural:Gacha Ticket|Gacha Tickets}"
 
 msgid "StringLiteral_10139"
-msgstr "Episode Plate"
+msgstr "{0:plural:Episode Plate|Episode Plates}"
 
 msgid "StringLiteral_10140"
-msgstr "Costume"
+msgstr "{0:plural:Costume|Costumes}"
 
 msgid "StringLiteral_10141"
-msgstr "Valkyrie"
+msgstr "{0:plural:Valkyrie|Valkyries}"
 
 msgid "StringLiteral_10142"
-msgstr ""
+msgstr "{0:plural:Unlocked item|Unlocked items}"
 
 msgid "StringLiteral_10143"
-msgstr "Episode Orb"
+msgstr "{0:plural:Episode Orb|Episode Orbs}"
 
 msgid "StringLiteral_10144"
-msgstr "Title"
+msgstr "{0:plural:Title|Titles}"
 
 msgid "StringLiteral_10145"
-msgstr "Event Item"
+msgstr "{0:plural:Event item|Event items}"
 
 msgid "StringLiteral_10146"
-msgstr "Event Ticket"
+msgstr "{0:plural:Event Ticket|Event Tickets}"
 
 msgid "StringLiteral_10147"
-msgstr "Diva"
+msgstr "{0:plural:Diva|Divas}"
 
 msgid "StringLiteral_10148"
-msgstr "Set Item"
+msgstr "{0:plural:Set item|Set items}"
 
 msgid "StringLiteral_10149"
-msgstr "SNS Item"
+msgstr "{0:plural:SDN item|SDN items}"
 
 msgid "StringLiteral_10150"
-msgstr "Energy Recovery Item"
+msgstr "{0:plural:Energy Recovery item|Energy Recovery items}"
 
 msgid "StringLiteral_10151"
-msgstr "MV Ticket"
+msgstr "{0:plural:MV Ticket|MV Tickets}"
 
 msgid "StringLiteral_10152"
-msgstr "Medal"
+msgstr "{0:plural:Medal|Medals}"
 
 msgid "StringLiteral_10153"
-msgstr ""
+msgstr "{0:plural:Bonus VC|Bonus VCs}"
 
 msgid "StringLiteral_10154"
-msgstr "Event Gacha Ticket"
+msgstr "{0:plural:Event Gacha Ticket|Event Gacha Tickets}"
 
 msgid "StringLiteral_10155"
-msgstr "Present Item"
+msgstr "{0:plural:Present item|Present items}"
 
 msgid "StringLiteral_10156"
-msgstr ""
+msgstr "{0:plural:Special item|Special items}"
 
 msgid "StringLiteral_10157"
-msgstr "Custome Upgrade Item"
+msgstr "{0:plural:Costume Upgrade item|Costume Upgrade items}"
 
 msgid "StringLiteral_10158"
-msgstr "Rarity-up Item"
+msgstr "{0:plural:Rarity-Up item|Rarity-Up items}"
 
 msgid "StringLiteral_10159"
-msgstr ""
+msgstr "{0:plural:Limited time item|Limited time items}"
 
 msgid "StringLiteral_10160"
-msgstr ""
+msgstr "{0:plural:Compensation item|Compensation items}"
 
 msgid "StringLiteral_10161"
 msgstr ""
