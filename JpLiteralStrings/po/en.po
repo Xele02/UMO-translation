@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-22 19:28+0000\n"
+"PO-Revision-Date: 2024-09-23 05:28+0000\n"
 "Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -36,10 +36,10 @@ msgid "StringLiteral_8280"
 msgstr "Not initialized."
 
 msgid "StringLiteral_8676"
-msgstr "Leaf no. is not 0 for base 3-star and below cards"
+msgstr "Leaf count is not 0 for base 3-star and below cards"
 
 msgid "StringLiteral_8686"
-msgstr "None"
+msgstr "N/A"
 
 msgid "StringLiteral_9360"
 msgstr "Lobby Main"
@@ -138,31 +138,31 @@ msgid "StringLiteral_9874"
 msgstr "Not obtained"
 
 msgid "StringLiteral_9949"
-msgstr "1 ★{0} guaranteed"
+msgstr "★{0} x1 guaranteed"
 
 msgid "StringLiteral_9950"
-msgstr "1 ★{0}+ guaranteed"
+msgstr "★{0}+ x1 guaranteed"
 
 msgid "StringLiteral_10040"
-msgstr ""
+msgstr "Favorite 1"
 
 msgid "StringLiteral_10041"
-msgstr ""
+msgstr "Favorite 2"
 
 msgid "StringLiteral_10042"
-msgstr ""
+msgstr "Favorite 3"
 
 msgid "StringLiteral_10058"
-msgstr ""
+msgstr "Unavailable VcItemSceduleInfo id="
 
 msgid "StringLiteral_10062"
-msgstr ""
+msgstr "Within Period"
 
 msgid "StringLiteral_10064"
-msgstr ""
+msgstr "Products "
 
 msgid "StringLiteral_10065"
-msgstr ""
+msgstr "Not Within Period VcItemSceduleInfo id="
 
 msgid "StringLiteral_10089"
 msgstr ""
@@ -171,22 +171,22 @@ msgid "StringLiteral_10090"
 msgstr ""
 
 msgid "StringLiteral_10093"
-msgstr ""
+msgstr "{0:plural: Valkyrie|Valkyries}"
 
 msgid "StringLiteral_10094"
-msgstr ""
+msgstr "Players"
 
 msgid "StringLiteral_10095"
-msgstr "Set"
+msgstr "{0:plural:set|sets}"
 
 msgid "StringLiteral_10096"
 msgstr ""
 
 msgid "StringLiteral_10136"
-msgstr ""
+msgstr "Not set"
 
 msgid "StringLiteral_10137"
-msgstr "Song Gems"
+msgstr "{0:plural:Song Gem|Song Gems}"
 
 msgid "StringLiteral_10138"
 msgstr "Gacha Ticket"
@@ -1911,7 +1911,7 @@ msgid "UMO_Excellent"
 msgstr "EXCELLENT"
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr "Center Live Skill Chance Note"
+msgstr "Center Live Skill Note Chance"
 
 msgid "UMO_Notes"
 msgstr "Expected Note Value"
