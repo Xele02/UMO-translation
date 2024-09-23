@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-26 16:38+0000\n"
-"PO-Revision-Date: 2024-09-22 17:28+0000\n"
+"PO-Revision-Date: 2024-09-24 10:28+0000\n"
 "Last-Translator: Mitsu <meryamselmii@gmail.com>\n"
 "Language-Team: Japanese Romanized <https://umo-translate.xele.org/projects/"
 "umo/database/master/ja_rm/>\n"
@@ -3908,70 +3908,73 @@ msgid "cos_0100"
 msgstr "Quallen Mythos"
 
 msgid "cos_0101"
-msgstr ""
+msgstr "Hijiri Maria Gakuen Seifuku"
 
+#, fuzzy
 msgid "cos_0102"
-msgstr ""
+msgstr "Starlight Lovely"
 
 msgid "cos_0103"
-msgstr ""
+msgstr "Wish of Valkyria"
 
 msgid "cos_0105"
-msgstr ""
+msgstr "Pumpkin Witch"
 
 msgid "cos_0106"
-msgstr ""
+msgstr "Gold Fishtail"
 
 msgid "cos_0107"
-msgstr ""
+msgstr "Pinkie Petite"
 
 msgid "cos_0108"
-msgstr ""
+msgstr "Twinkle Magic"
 
+#, fuzzy
 msgid "cos_0109"
-msgstr ""
+msgstr "Retail An Blue"
 
 msgid "cos_0110"
-msgstr ""
+msgstr "Sky Blue・Stellar"
 
 msgid "cos_0111"
-msgstr ""
+msgstr "Ranka・Blossom"
 
 msgid "cos_0112"
-msgstr ""
+msgstr "Cheerful Emerald"
 
 msgid "cos_0113"
-msgstr ""
+msgstr "Jolly Rose"
 
 msgid "cos_0114"
-msgstr ""
+msgstr "Crossover Star"
 
 msgid "cos_0115"
-msgstr ""
+msgstr "Fluffy・Stella"
 
 msgid "cos_0116"
-msgstr ""
+msgstr "Travail・Éclat"
 
 msgid "cos_0117"
-msgstr ""
+msgstr "Lazurite・Teen"
 
+#, fuzzy
 msgid "cos_0118"
-msgstr ""
+msgstr "Mignonne・Noël"
 
 msgid "cos_0119"
-msgstr ""
+msgstr "Twinkle・Stella"
 
 msgid "cos_0120"
-msgstr ""
+msgstr "Pinafore・Rose"
 
 msgid "cos_0121"
-msgstr ""
+msgstr "Off Shoulder"
 
 msgid "cos_0122"
-msgstr ""
+msgstr "Blue Bondage"
 
 msgid "cos_0123"
-msgstr ""
+msgstr "Count Baby"
 
 msgid "cos_0124"
 msgstr ""
