@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2024-09-23 05:28+0000\n"
-"Last-Translator: Not Telling <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2024-09-27 15:28+0000\n"
+"Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
 "Language: en\n"
@@ -15,37 +15,37 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "popup_title_00"
-msgstr ""
+msgstr "Notice"
 
 msgid "popup_title_01"
-msgstr ""
+msgstr "Edit Unit Name"
 
 msgid "popup_title_02"
-msgstr ""
+msgstr "Change Confirmation"
 
 msgid "popup_title_03"
-msgstr ""
+msgstr "Change Confirmation"
 
 msgid "popup_title_04"
-msgstr ""
+msgstr "Valkyrie Details"
 
 msgid "popup_title_05"
-msgstr ""
+msgstr "Costume Details"
 
 msgid "unit_popup_title_00"
-msgstr ""
+msgstr "Unit Setting Save And Recall"
 
 msgid "unit_popup_title_01"
-msgstr ""
+msgstr "Save Confirmation"
 
 msgid "unit_popup_title_02"
-msgstr ""
+msgstr "Confirm Overwriting"
 
 msgid "unit_popup_title_03"
-msgstr ""
+msgstr "Call Acknowledgement"
 
 msgid "unit_setpopup_text_00"
-msgstr ""
+msgstr "Unit Set (0)"
 
 msgid "unit_setpopup_text_01"
 msgstr ""
@@ -276,304 +276,337 @@ msgid "set_battle_event_text_04"
 msgstr ""
 
 msgid "config_text_00"
-msgstr ""
+msgstr "Volume Settings"
 
 msgid "config_text_01"
 msgstr ""
 
 msgid "config_text_02"
-msgstr ""
+msgstr "Sound"
 
 msgid "config_text_03"
-msgstr ""
+msgstr "Voice"
 
 msgid "config_text_04"
-msgstr ""
+msgstr "Screen Display"
 
 msgid "config_text_05"
 msgstr ""
+"Select whether to allow the screen to rotate\n"
+"automatically or be fixed depending on the\n"
+"orientation of the device\n"
+"This can be overriden by phone settings"
 
 msgid "config_text_05_iphone"
 msgstr ""
+"<size=22>Select whether to allow the screen to rotate\n"
+"automatically or be fixed depending on the\n"
+"orientation of the device\n"
+"This can be overriden by phone settings</size>"
 
 msgid "config_text_05_android"
 msgstr ""
+"<size=22> Select whether to allow the screen to rotate\n"
+"automatically or be fixed. </size>"
 
 msgid "config_text_06"
-msgstr ""
+msgstr "Automatic"
 
 msgid "config_text_07"
-msgstr ""
+msgstr "Lock to Right"
 
 msgid "config_text_08"
-msgstr ""
+msgstr "Lock to Left"
 
 msgid "config_text_09"
-msgstr ""
+msgstr "Display"
 
 msgid "config_text_10"
-msgstr ""
+msgstr "Adjusting the settings lower may improve performance."
 
 msgid "config_text_11"
-msgstr ""
+msgstr "Custom"
 
 msgid "config_text_12"
-msgstr ""
+msgstr "This governs cut-in displays for skills."
 
 msgid "config_text_13"
-msgstr ""
+msgstr "This governs the angle of the note display."
 
 msgid "config_text_14"
-msgstr ""
+msgstr "Graphics"
 
 msgid "config_text_15"
-msgstr ""
+msgstr "Set each item individually."
 
 msgid "config_text_16"
-msgstr ""
+msgstr "Disable all 3D rendered effects."
 
 msgid "config_text_17"
-msgstr ""
+msgstr "Some elements will be reduced for performance."
 
 msgid "config_text_18"
-msgstr ""
+msgstr "Default setting."
 
 msgid "config_text_19"
-msgstr ""
+msgstr "Judgement Timing"
 
 msgid "config_text_20"
-msgstr ""
+msgstr "This adjusts the timing on note press judgements."
 
 msgid "config_text_21"
-msgstr ""
+msgstr "Live Setup"
 
 msgid "config_text_22"
-msgstr ""
+msgstr "Confirmation"
 
 msgid "config_text_23"
 msgstr ""
+"This will restore the volume settings to default.\n"
+"Confirm?"
 
 msgid "config_text_24"
 msgstr ""
+"Do you wish to lower the model quality on\n"
+"the performer?\n"
+"Doing so may improve performance."
 
 msgid "config_text_25"
 msgstr ""
+"Do you wish to lower the resolution on\n"
+"the stage elements?\n"
+"Doing this may improve performance."
 
 msgid "config_text_26"
 msgstr ""
+"Turning this setting on or off will toggle the 2D display elements.\n"
+"Doing so may improve performance."
 
 msgid "config_text_27"
-msgstr ""
+msgstr "Rendering Options"
 
 msgid "config_text_28"
-msgstr ""
+msgstr "Menu Settings"
 
 msgid "config_text_29"
-msgstr ""
+msgstr "Other Settings"
 
 msgid "config_text_30"
-msgstr ""
+msgstr "Background Settings"
 
 msgid "config_text_31"
-msgstr ""
+msgstr "<size=22> Home screen background settings. </size>"
 
 msgid "config_text_32"
-msgstr ""
+msgstr "Display default background."
 
 msgid "config_text_33"
 msgstr ""
+"You may only use a Episode Plate of ★4 or higher\n"
+"as a background image."
 
 msgid "config_text_34"
-msgstr ""
+msgstr "If enabled, it will pause the game. If disabled, it will do nothing."
 
 msgid "config_text_35"
-msgstr ""
+msgstr "Set operation of the Back key during gameplay."
 
 msgid "config_text_36"
-msgstr ""
+msgstr "Back key setting"
 
 msgid "config_text_37_rhythm"
-msgstr ""
+msgstr "Current Difficulty"
 
 msgid "config_text_37_option"
-msgstr ""
+msgstr "Selected Difficulty Level"
 
 msgid "config_text_38"
-msgstr ""
+msgstr "Set note speed for each difficulty level."
 
 msgid "config_text_39"
-msgstr ""
+msgstr "Notes speed can be adjusted during gameplay."
 
 msgid "config_text_40"
-msgstr ""
+msgstr "Note Speed Settings"
 
 msgid "config_text_41"
-msgstr ""
+msgstr "Video Settings"
 
 msgid "config_text_42"
-msgstr ""
+msgstr "This setting concerns the video during Diva Mode."
 
 msgid "config_text_43"
-msgstr ""
+msgstr "Lowering video quality may improve performance."
 
 msgid "config_text_44"
-msgstr ""
+msgstr "Reducing video quality will not remove the original videos."
 
 msgid "config_text_45"
 msgstr ""
 
 msgid "config_text_46"
-msgstr ""
+msgstr "Video quality changed."
 
 msgid "config_text_47"
-msgstr ""
+msgstr "Diva Settings"
 
 msgid "config_text_48"
-msgstr ""
+msgstr "<size=22> This setting is for Divas on the home screen. </size>"
 
 msgid "config_text_49"
-msgstr ""
+msgstr "The team leader will be displayed in their current costume."
 
 msgid "config_text_50"
-msgstr ""
+msgstr "The diva selected in the dressing room will be displayed."
 
 msgid "config_text_51"
 msgstr ""
+"This will reset judgement timing to default.\n"
+"Confirm?"
 
 msgid "config_text_52"
-msgstr ""
+msgstr "Brightness Settings"
 
 msgid "config_text_53"
-msgstr ""
+msgstr "You can adjust brightness independently for 3D and 2D modes."
 
 msgid "config_text_54"
-msgstr ""
+msgstr "Low"
 
 msgid "config_text_55"
-msgstr ""
+msgstr "High"
 
 msgid "config_text_56"
 msgstr ""
+"Resetting brightness to default.\n"
+"Confirm?"
 
 msgid "config_text_57"
-msgstr ""
+msgstr "Valkyrie Battle Settings"
 
 msgid "config_text_58"
-msgstr ""
+msgstr "You can set effect display during the battle phase."
 
 msgid "config_text_59"
-msgstr ""
+msgstr "Show the battle live during performances."
 
 msgid "config_text_60"
-msgstr ""
+msgstr "Show the diva dancing during the attack sequence."
 
 msgid "config_text_61"
-msgstr ""
+msgstr "Confirm"
 
 msgid "config_text_62"
 msgstr ""
+"Reset Note Speed to Default.\n"
+"Confirm?\n"
+"<color=#C8087E> * All difficulty settings will be changed. </color>"
 
 msgid "config_text_63"
-msgstr ""
+msgstr "The settings will be reflected on all difficulties"
 
 msgid "config_text_64"
-msgstr ""
+msgstr "If not checked, Note speed will depend on difficulty."
 
 msgid "config_text_65"
 msgstr ""
 
 msgid "config_text_66"
-msgstr ""
+msgstr "You can change note speed at any time from the settings menu."
 
 msgid "config_text_67"
 msgstr ""
+"The note speed setting is complete.\n"
+"You can change it at any time from the settings menu."
 
 msgid "config_text_68"
-msgstr ""
+msgstr "Note Skin Settings"
 
 msgid "config_text_69"
 msgstr ""
+"If you choose three colors, each type of flick note will be a different "
+"color."
 
 msgid "config_text_70"
-msgstr ""
+msgstr "EXCELLENT judgement setting."
 
 msgid "config_text_71"
-msgstr ""
+msgstr "If it is OFF, an EXCELLENT judgement will register as PERFECT."
 
 msgid "config_text_72"
-msgstr ""
+msgstr "Diva Mode Settings"
 
 msgid "config_text_73"
 msgstr ""
 
 msgid "config_text_74"
-msgstr ""
+msgstr "These settings only affect 3D Mode."
 
 msgid "config_text_75"
-msgstr ""
+msgstr "During Diva Mode, the Diva will continue to be displayed."
 
 msgid "config_text_76"
-msgstr ""
+msgstr "During the Diva mode, the video is disabled."
 
 msgid "config_text_77"
-msgstr ""
+msgstr "During Diva mode, only the video is displayed."
 
 msgid "config_text_78"
-msgstr ""
+msgstr "The note tap sound cannot be disabled."
 
 msgid "config_text_79"
-msgstr ""
+msgstr "Live display settings"
 
 msgid "config_text_80"
-msgstr ""
+msgstr "Live System Settings"
 
 msgid "config_text_81"
-msgstr ""
+msgstr "<size=24> Simulation Live Settings </size>"
 
 msgid "config_text_82"
-msgstr ""
+msgstr "<size=24>Screen Frame Settings</size>"
 
 msgid "config_text_83"
-msgstr ""
+msgstr "You can set the frame design for the screen."
 
 msgid "config_text_84"
-msgstr ""
+msgstr "Display Design Frame 1."
 
 msgid "config_text_85"
-msgstr ""
+msgstr "Display Design Frame 2."
 
 msgid "config_text_86"
-msgstr ""
+msgstr "Display a black frame."
 
 msgid "config_text_87"
-msgstr ""
+msgstr "When OFF, this will remove the guide lanes during 6-lane mode."
 
 msgid "config_text_88"
-msgstr ""
+msgstr "<size=24>Aspect Ratio</size>"
 
 msgid "config_text_89"
-msgstr ""
+msgstr "You can set the screen display."
 
 msgid "config_text_90"
-msgstr ""
+msgstr "Widescreen Ratio."
 
 msgid "config_text_91"
-msgstr ""
+msgstr "Portrait Mode."
 
 msgid "config_text_92"
-msgstr ""
+msgstr "This setting will be enabled next time the app is launched."
 
 msgid "config_text_93"
-msgstr ""
+msgstr "Enhanced Plates"
 
 msgid "config_text_94"
-msgstr ""
+msgstr "<size=22> you can set the display of the enhanced plate.</size>"
 
 msgid "config_text_95"
-msgstr ""
+msgstr "Displays the enhanced plate image."
 
 msgid "config_text_96"
-msgstr ""
+msgstr "Displays the original plate image."
 
 msgid "growth_list_text_01"
 msgstr ""
@@ -4916,22 +4949,22 @@ msgid "gacha_cost_05"
 msgstr ""
 
 msgid "config_text_98"
-msgstr ""
+msgstr "Costume Effects"
 
 msgid "config_text_99"
-msgstr ""
+msgstr "You can set any special visual effects for selected costumes."
 
 msgid "config_text_100"
-msgstr ""
+msgstr "This will only effect costumes with special effects."
 
 msgid "config_text_101"
-msgstr ""
+msgstr "Plate animation settings"
 
 msgid "config_text_102"
-msgstr ""
+msgstr "Applies only to plates with animated effects."
 
 msgid "config_text_103"
-msgstr ""
+msgstr "The gacha mode is not affected by this setting."
 
 msgid "liveskillregulation_except"
 msgstr ""
