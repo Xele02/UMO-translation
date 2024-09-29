@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-09-01 15:05+0000\n"
+"PO-Revision-Date: 2024-09-29 09:45+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -1136,7 +1136,7 @@ msgid "header_desc_option007"
 msgstr "Sélectionne un objet"
 
 msgid "header_desc_option008"
-msgstr ""
+msgstr "Regarde les histoires d'évènements"
 
 msgid "header_desc_option009"
 msgstr "Liste des utilisateurs bloqués"
@@ -3172,10 +3172,10 @@ msgstr ""
 "augmenter l'affection !"
 
 msgid "event_story_text_001"
-msgstr ""
+msgstr "Prologue"
 
 msgid "event_story_text_002"
-msgstr ""
+msgstr "Epilogue"
 
 msgid "event_story_text_003"
 msgstr ""
@@ -3184,37 +3184,45 @@ msgid "event_story_text_004"
 msgstr ""
 
 msgid "event_story_text_005"
-msgstr ""
+msgstr "？？？"
 
 msgid "event_story_text_006"
-msgstr ""
+msgstr "{0} débloqué en utilisant {1}{2}"
 
 msgid "event_story_text_007"
 msgstr ""
 
 msgid "event_story_text_008"
-msgstr ""
+msgstr "Déblocage SNS"
 
 msgid "event_story_text_009"
 msgstr ""
+"Consomme {1}{4} {0} pour\n"
+"débloquer la conversation.\n"
+"\n"
+"<color=#C8087E>{0}　{2}→{3}</color>"
 
 msgid "event_story_text_010"
-msgstr ""
+msgstr "Conversation débloquée."
 
 msgid "event_story_text_011"
 msgstr ""
 
 msgid "event_story_text_012"
 msgstr ""
+"Tu ne peux pas voir cette discussion\n"
+"avant d'avoir vu la précédante."
 
 msgid "event_story_text_013"
 msgstr ""
 
 msgid "event_story_text_014"
-msgstr ""
+msgstr "Consommation d'objet"
 
 msgid "event_story_list_period"
 msgstr ""
+"Période de l'évènement\n"
+"{0}/{1}/{2}～{3}/{4}/{5}"
 
 msgid "present_item_rank_postfix"
 msgstr "<color=#C8087E>※Les cadeaux sont débloqués au niveau {0}.</color>"
@@ -3427,7 +3435,7 @@ msgid "cmn_profil_emblem_none"
 msgstr "Il n'y a pas de titre."
 
 msgid "pop_eve_story_title"
-msgstr ""
+msgstr "Histoires"
 
 msgid "ar_net_error_01"
 msgstr ""
@@ -5525,16 +5533,18 @@ msgstr ""
 "Veuillez les changer."
 
 msgid "event_story_text_015"
-msgstr ""
+msgstr "Nécessite le déblocage dans l'épisode."
 
 msgid "event_story_text_016"
-msgstr ""
+msgstr "Déblocage d'histoire"
 
 msgid "event_story_text_017"
 msgstr ""
 
 msgid "event_story_text_018"
 msgstr ""
+"Regarde {0}\n"
+"en débloquant dans l'épisode."
 
 msgid "event_story_text_019"
 msgstr ""
