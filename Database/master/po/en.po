@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-26 05:28+0000\n"
+"PO-Revision-Date: 2024-10-16 11:10+0000\n"
 "Last-Translator: Valentine Meikin <sheng.long@ntlworld.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -3906,25 +3906,25 @@ msgid "cos_0100"
 msgstr ""
 
 msgid "cos_0101"
-msgstr ""
+msgstr "St. Mary's Uniform"
 
 msgid "cos_0102"
-msgstr ""
+msgstr "Starlit Lovely"
 
 msgid "cos_0103"
-msgstr ""
+msgstr "Wish Of Valkyria"
 
 msgid "cos_0105"
-msgstr ""
+msgstr "Pumpkin Witch"
 
 msgid "cos_0106"
-msgstr ""
+msgstr "Golden Fishtail"
 
 msgid "cos_0107"
-msgstr ""
+msgstr "Pinkie Putty"
 
 msgid "cos_0108"
-msgstr ""
+msgstr "Twinkle Magic"
 
 msgid "cos_0109"
 msgstr ""
@@ -4629,19 +4629,19 @@ msgid "cos_0001_01"
 msgstr ""
 
 msgid "cos_0002_01"
-msgstr ""
+msgstr "Neo Strahl"
 
 msgid "cos_0003_01"
 msgstr ""
 
 msgid "cos_0004_01"
-msgstr ""
+msgstr "Rot Blume"
 
 msgid "cos_0005_01"
 msgstr ""
 
 msgid "cos_0006_01"
-msgstr ""
+msgstr "Sturm Stoß"
 
 msgid "cos_0007_01"
 msgstr ""
@@ -4662,7 +4662,7 @@ msgid "cos_0012_01"
 msgstr ""
 
 msgid "cos_0013_01"
-msgstr ""
+msgstr "Star Pumpkin"
 
 msgid "cos_0014_01"
 msgstr ""
@@ -4671,7 +4671,7 @@ msgid "cos_0015_01"
 msgstr ""
 
 msgid "cos_0016_01"
-msgstr ""
+msgstr "Cosmic Papaya"
 
 msgid "cos_0017_01"
 msgstr ""
@@ -4944,7 +4944,7 @@ msgid "cos_0107_01"
 msgstr ""
 
 msgid "cos_0108_01"
-msgstr ""
+msgstr "Twinkle Shadow"
 
 msgid "cos_0109_01"
 msgstr ""
