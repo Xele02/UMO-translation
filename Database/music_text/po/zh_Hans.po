@@ -3,60 +3,73 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-20 03:28+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/music_text/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "musicName_0000_musicname"
-msgstr ""
+msgstr "无"
 
 msgid "musicName_0000_officialName"
-msgstr ""
+msgstr "无"
 
 msgid "musicName_0000_description"
-msgstr ""
+msgstr "歌曲详情 000"
 
 msgid "musicName_0001_musicname"
-msgstr ""
+msgstr "天使的画笔"
 
 msgid "musicName_0001_officialName"
-msgstr ""
+msgstr "天使的画笔"
 
 msgid "musicName_0001_vocalName"
-msgstr ""
+msgstr "饭岛真理"
 
 msgid "musicName_0001_vocalNameLF"
-msgstr ""
+msgstr "饭岛真理"
 
 msgid "musicName_0001_description"
 msgstr ""
+"作品：超时空要塞剧场版 可曾记得爱\n"
+"\n"
+"歌手：饭岛真理\n"
+"\n"
+"作词：饭岛真理\n"
+"作曲：饭岛真理"
 
 msgid "musicName_0001_storyDesc"
 msgstr ""
 
 msgid "musicName_0001_storyTitle"
-msgstr ""
+msgstr "“一，二，三，四……”"
 
 msgid "musicName_0002_musicname"
-msgstr ""
+msgstr "PLANET DANCE"
 
 msgid "musicName_0002_officialName"
-msgstr ""
+msgstr "PLANET DANCE"
 
 msgid "musicName_0002_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0002_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0002_description"
 msgstr ""
+"作品：超时空要塞7\n"
+"\n"
+"歌手：Fire Bomber\n"
+"\n"
+"作词：K.INOJO\n"
+"作曲：须藤英树"
 
 msgid "musicName_0002_storyDesc"
 msgstr ""
@@ -65,19 +78,25 @@ msgid "musicName_0002_storyTitle"
 msgstr ""
 
 msgid "musicName_0003_musicname"
-msgstr ""
+msgstr "MY SOUL FOR YOU"
 
 msgid "musicName_0003_officialName"
-msgstr ""
+msgstr "MY SOUL FOR YOU"
 
 msgid "musicName_0003_vocalName"
-msgstr ""
+msgstr "Fire Bomber featuring BASARA NEKKI"
 
 msgid "musicName_0003_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber featuring BASARA NEKKI"
 
 msgid "musicName_0003_description"
 msgstr ""
+"作品：超时空要塞7\n"
+"\n"
+"歌手：Fire Bomber featuring BASARA NEKKI\n"
+"\n"
+"作词：K.INOJO\n"
+"作曲：福山芳树"
 
 msgid "musicName_0003_storyDesc"
 msgstr ""
@@ -86,256 +105,328 @@ msgid "musicName_0003_storyTitle"
 msgstr ""
 
 msgid "musicName_0004_musicname"
-msgstr ""
+msgstr "星间飞行"
 
 msgid "musicName_0004_officialName"
-msgstr ""
+msgstr "星间飞行"
 
 msgid "musicName_0004_vocalName"
-msgstr ""
+msgstr "兰卡·李=中岛爱"
 
 msgid "musicName_0004_vocalNameLF"
-msgstr ""
+msgstr "兰卡·李=中岛爱"
 
 msgid "musicName_0004_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：兰卡·李=中岛爱\n"
+"\n"
+"作词：松本隆\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0004_storyDesc"
 msgstr ""
 
 msgid "musicName_0004_storyTitle"
-msgstr ""
+msgstr "“大家一起拥抱歌声吧，终点是银河尽头！”"
 
 msgid "musicName_0005_musicname"
-msgstr ""
+msgstr "我的男朋友是飞行员"
 
 msgid "musicName_0005_officialName"
-msgstr ""
+msgstr "我的男朋友是飞行员"
 
 msgid "musicName_0005_vocalName"
-msgstr ""
+msgstr "兰卡·李=中岛爱"
 
 msgid "musicName_0005_vocalNameLF"
-msgstr ""
+msgstr "兰卡·李=中岛爱"
 
 msgid "musicName_0005_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：兰卡·李=中岛爱\n"
+"\n"
+"作词：阿佐茜\n"
+"作曲：羽田健太郎"
 
 msgid "musicName_0005_storyDesc"
 msgstr ""
 
 msgid "musicName_0005_storyTitle"
-msgstr ""
+msgstr "“我叫兰卡·李，请多指教！”"
 
 msgid "musicName_0006_musicname"
-msgstr ""
+msgstr "胡萝卜 Loves you yeah！"
 
 msgid "musicName_0006_officialName"
-msgstr ""
+msgstr "胡萝卜 Loves you yeah！"
 
 msgid "musicName_0006_vocalName"
-msgstr ""
+msgstr "兰卡·李=中岛爱"
 
 msgid "musicName_0006_vocalNameLF"
-msgstr ""
+msgstr "兰卡·李=中岛爱"
 
 msgid "musicName_0006_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：兰卡·李=中岛爱\n"
+"\n"
+"作词：一仓宏\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0006_storyDesc"
 msgstr ""
 
 msgid "musicName_0006_storyTitle"
-msgstr ""
+msgstr "“汇集7大维生素哦！”"
 
 msgid "musicName_0007_musicname"
-msgstr ""
+msgstr "射手座☆午后九时Don't be late"
 
 msgid "musicName_0007_officialName"
-msgstr ""
+msgstr "射手座☆午后九时Don't be late"
 
 msgid "musicName_0007_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0007_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0007_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：佐藤大、hal、Gabriela Robin、杉山昭彦\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0007_storyDesc"
 msgstr ""
 
 msgid "musicName_0007_storyTitle"
-msgstr ""
+msgstr "“听我唱歌吧！”"
 
 msgid "musicName_0008_musicname"
-msgstr ""
+msgstr "钻石裂痕"
 
 msgid "musicName_0008_officialName"
-msgstr ""
+msgstr "钻石裂痕"
 
 msgid "musicName_0008_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0008_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0008_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：hal\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0009_musicname"
-msgstr ""
+msgstr "What 'bout my star?"
 
 msgid "musicName_0009_officialName"
-msgstr ""
+msgstr "What 'bout my star?"
 
 msgid "musicName_0009_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0009_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0009_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：hal\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0009_storyDesc"
 msgstr ""
 
 msgid "musicName_0009_storyTitle"
-msgstr ""
+msgstr "“Frontier船团，真是个好地方呢”"
 
 msgid "musicName_0010_musicname"
-msgstr ""
+msgstr "Infinity"
 
 msgid "musicName_0010_officialName"
-msgstr ""
+msgstr "Infinity"
 
 msgid "musicName_0010_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0010_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0010_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：岩里祐穗\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0010_storyDesc"
 msgstr ""
 
 msgid "musicName_0010_storyTitle"
-msgstr ""
+msgstr "“我有个任性的请求，可以听我说吗？”"
 
 msgid "musicName_0011_musicname"
-msgstr ""
+msgstr "可曾记得爱"
 
 msgid "musicName_0011_officialName"
-msgstr ""
+msgstr "可曾记得爱"
 
 msgid "musicName_0011_vocalName"
-msgstr ""
+msgstr "饭岛真理"
 
 msgid "musicName_0011_vocalNameLF"
-msgstr ""
+msgstr "饭岛真理"
 
 msgid "musicName_0011_description"
 msgstr ""
+"作品：超时空要塞剧场版 可曾记得爱\n"
+"\n"
+"歌手：饭岛真理\n"
+"\n"
+"作词：安井一美\n"
+"作曲：加藤和彦"
 
 msgid "musicName_0011_storyDesc"
 msgstr ""
 
 msgid "musicName_0011_storyTitle"
-msgstr ""
+msgstr "“我要歌唱，全力以赴地歌唱！”"
 
 msgid "musicName_0012_musicname"
-msgstr ""
+msgstr "小白龙"
 
 msgid "musicName_0012_officialName"
-msgstr ""
+msgstr "小白龙"
 
 msgid "musicName_0012_vocalName"
-msgstr ""
+msgstr "饭岛真理"
 
 msgid "musicName_0012_vocalNameLF"
-msgstr ""
+msgstr "饭岛真理"
 
 msgid "musicName_0012_description"
 msgstr ""
+"作品：超时空要塞Macross\n"
+"\n"
+"歌手：饭岛真理\n"
+"\n"
+"作词：阿佐茜\n"
+"作曲：羽田健太郎"
 
 msgid "musicName_0012_storyDesc"
 msgstr ""
 
 msgid "musicName_0012_storyTitle"
-msgstr ""
+msgstr "“大家晚上好，我是林明美”"
 
 msgid "musicName_0013_musicname"
-msgstr ""
+msgstr "Welcome To My FanClub's Night!"
 
 msgid "musicName_0013_officialName"
-msgstr ""
+msgstr "Welcome To My FanClub's Night!"
 
 msgid "musicName_0013_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0013_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0013_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：hal\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0013_storyDesc"
 msgstr ""
 
 msgid "musicName_0013_storyTitle"
-msgstr ""
+msgstr "“别管了，就这样飞出去吧！”"
 
 msgid "musicName_0014_musicname"
-msgstr ""
+msgstr "TRY AGAIN"
 
 msgid "musicName_0014_officialName"
-msgstr ""
+msgstr "TRY AGAIN"
 
 msgid "musicName_0014_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0014_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0014_description"
 msgstr ""
+"作品：超时空要塞7\n"
+"\n"
+"歌手：Fire Bomber\n"
+"\n"
+"作词：K.INOJO、福山恭子\n"
+"作曲：福山芳树"
 
 msgid "musicName_0014_storyDesc"
 msgstr ""
 
 msgid "musicName_0014_storyTitle"
-msgstr ""
+msgstr "“山啊！银河啊！听我的歌吧！！”"
 
 msgid "musicName_0015_musicname"
-msgstr ""
+msgstr "Universal Bunny"
 
 msgid "musicName_0015_officialName"
-msgstr ""
+msgstr "Universal Bunny"
 
 msgid "musicName_0015_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0015_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0015_description"
 msgstr ""
+"作品：超时空要塞F剧场版 虚空歌姬\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：瀬名、PA-NON、Gabriela Robin\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0015_storyDesc"
 msgstr ""
 
 msgid "musicName_0015_storyTitle"
-msgstr ""
+msgstr "“格蕾丝，是我，雪莉露”"
 
 msgid "musicName_0016_musicname"
-msgstr ""
+msgstr "Triangular（fight on stage）"
 
 msgid "musicName_0016_officialName"
-msgstr ""
+msgstr "Triangular（fight on stage）"
 
 msgid "musicName_0016_vocalName"
 msgstr ""
