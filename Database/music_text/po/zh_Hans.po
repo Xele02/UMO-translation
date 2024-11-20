@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2024-11-20 03:28+0000\n"
+"PO-Revision-Date: 2024-11-20 07:52+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/music_text/zh_Hans/>\n"
@@ -285,7 +285,7 @@ msgid "musicName_0010_storyDesc"
 msgstr ""
 
 msgid "musicName_0010_storyTitle"
-msgstr "“我有个任性的请求，可以听我说吗？”"
+msgstr "“我有个任性的请求，可以听我说说看吗？”"
 
 msgid "musicName_0011_musicname"
 msgstr "可曾记得爱"
@@ -312,7 +312,7 @@ msgid "musicName_0011_storyDesc"
 msgstr ""
 
 msgid "musicName_0011_storyTitle"
-msgstr "“我要歌唱，全力以赴地歌唱！”"
+msgstr "“我要，全力以赴地歌唱！”"
 
 msgid "musicName_0012_musicname"
 msgstr "小白龙"
@@ -366,7 +366,7 @@ msgid "musicName_0013_storyDesc"
 msgstr ""
 
 msgid "musicName_0013_storyTitle"
-msgstr "“别管了，就这样飞出去吧！”"
+msgstr "“别管了，就这样飞吧！”"
 
 msgid "musicName_0014_musicname"
 msgstr "TRY AGAIN"
@@ -429,67 +429,86 @@ msgid "musicName_0016_officialName"
 msgstr "Triangular（fight on stage）"
 
 msgid "musicName_0016_vocalName"
-msgstr ""
+msgstr "兰卡·李=中岛爱、雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0016_vocalNameLF"
-msgstr ""
+msgstr "兰卡·李=中岛爱、雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0016_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：兰卡·李=中岛爱、\n"
+"　　　雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：Gabriela Robin\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0016_storyDesc"
 msgstr ""
 
 msgid "musicName_0016_storyTitle"
-msgstr ""
+msgstr "“让我驾驶女武神吧！”"
 
 msgid "musicName_0017_musicname"
-msgstr ""
+msgstr "突击 Love Heart [Duet Version]"
 
 msgid "musicName_0017_officialName"
-msgstr ""
+msgstr "突击 Love Heart [Duet Version]"
 
 msgid "musicName_0017_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0017_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
 msgid "musicName_0017_description"
 msgstr ""
+"作品：超时空要塞7\n"
+"\n"
+"歌手：Fire Bomber\n"
+"\n"
+"作词：K.INOJO\n"
+"作曲：河内淳贵"
 
 msgid "musicName_0017_storyDesc"
 msgstr ""
 
 msgid "musicName_0017_storyTitle"
-msgstr ""
+msgstr "“这一刻终于来了！”"
 
 msgid "musicName_0018_musicname"
-msgstr ""
+msgstr "北十字星"
 
 msgid "musicName_0018_officialName"
-msgstr ""
+msgstr "北十字星"
 
 msgid "musicName_0018_vocalName"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0018_vocalNameLF"
-msgstr ""
+msgstr "雪莉露·诺姆 starring May'n"
 
 msgid "musicName_0018_description"
 msgstr ""
+"作品：超时空要塞F\n"
+"\n"
+"歌手：雪莉露·诺姆 starring May'n\n"
+"\n"
+"作词：岩里祐穗、Gabriela Robin\n"
+"作曲：菅野洋子"
 
 msgid "musicName_0018_storyDesc"
 msgstr ""
 
 msgid "musicName_0018_storyTitle"
-msgstr ""
+msgstr "“现在，唯有音乐伴我左右”"
 
 msgid "musicName_0019_musicname"
-msgstr ""
+msgstr "我的男朋友是飞行员（PartⅠ）"
 
 msgid "musicName_0019_officialName"
-msgstr ""
+msgstr "我的男朋友是飞行员（PartⅠ）"
 
 msgid "musicName_0019_vocalName"
 msgstr ""
