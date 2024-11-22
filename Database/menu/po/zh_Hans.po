@@ -3,327 +3,372 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-23 14:28+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/menu/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "popup_title_00"
-msgstr ""
+msgstr "通知"
 
 msgid "popup_title_01"
-msgstr ""
+msgstr "编辑队伍名字"
 
 msgid "popup_title_02"
-msgstr ""
+msgstr "确认更改"
 
 msgid "popup_title_03"
-msgstr ""
+msgstr "确认更改"
 
 msgid "popup_title_04"
-msgstr ""
+msgstr "战机详情"
 
 msgid "popup_title_05"
-msgstr ""
+msgstr "服装详情"
 
 msgid "unit_popup_title_00"
-msgstr ""
+msgstr "保存/套用编队组合"
 
 msgid "unit_popup_title_01"
-msgstr ""
+msgstr "保存确认"
 
 msgid "unit_popup_title_02"
-msgstr ""
+msgstr "覆盖确认"
 
 msgid "unit_popup_title_03"
-msgstr ""
+msgstr "套用确认"
 
 msgid "unit_setpopup_text_00"
-msgstr ""
+msgstr "编队组合{0}"
 
 msgid "unit_setpopup_text_01"
-msgstr ""
+msgstr "套用前"
 
 msgid "unit_setpopup_text_02"
-msgstr ""
+msgstr "套用后"
 
 msgid "unit_setpopup_text_03"
-msgstr ""
+msgstr "保存前"
 
 msgid "unit_setpopup_text_04"
-msgstr ""
+msgstr "保存后"
 
 msgid "unit_setpopup_text_05"
-msgstr ""
+msgstr "是否保存此编队？"
 
 msgid "unit_setpopup_text_06"
-msgstr ""
+msgstr "是否覆盖此编队？"
 
 msgid "unit_setpopup_text_07"
-msgstr ""
+msgstr "是否套用此编队？"
 
 msgid "popup_text_00"
 msgstr ""
+"请输入队伍名字。\n"
+"（最多输入{0}字）"
 
 msgid "popup_text_02"
-msgstr ""
+msgstr "无法卸下C位歌姬。"
 
 msgid "popup_text_03"
-msgstr ""
+msgstr "无法卸下C位歌姬。"
 
 msgid "popup_text_08"
-msgstr ""
+msgstr "歌姬数据"
 
 msgid "popup_text_09"
-msgstr ""
+msgstr "消费物品确认"
 
 msgid "popup_text_10"
-msgstr ""
+msgstr "所有道具一览"
 
 msgid "popup_text_11"
-msgstr ""
+msgstr "能力解锁确认"
 
 msgid "popup_text_12"
-msgstr ""
+msgstr "卸下所有卡片"
 
 msgid "popup_text_14"
-msgstr ""
+msgstr "自动编组卡片"
 
 msgid "popup_text_15"
-msgstr ""
+msgstr "确认"
 
 msgid "popup_text_16"
-msgstr ""
+msgstr "技能说明"
 
 msgid "popup_text_17"
-msgstr ""
+msgstr "支援卡片确认"
 
 msgid "popup_sort_text_00"
-msgstr ""
+msgstr "只显示与选中的歌姬相匹配的卡片"
 
 msgid "popup_sort_title"
-msgstr ""
+msgstr "变更排序"
 
 msgid "popup_sort_title_unit"
-msgstr ""
+msgstr "变更显示信息"
 
 msgid "popup_comparison_00"
-msgstr ""
+msgstr "音符期望值"
 
 msgid "popup_music_select_00"
-msgstr ""
+msgstr "歌曲信息"
 
 msgid "popup_music_select_01"
-msgstr ""
+msgstr "歌曲通关奖励（暂定）"
 
 msgid "popup_music_select_02"
-msgstr ""
+msgstr "达成奖励"
 
 msgid "popup_music_select_03"
-msgstr ""
+msgstr "首次通关详情（暂定）"
 
 msgid "popup_music_select_04"
-msgstr ""
+msgstr "歌曲通关详情（暂定）"
 
 msgid "popup_music_select_05"
-msgstr ""
+msgstr "任务完成详情（暂定）"
 
 msgid "popup_music_select_06"
-msgstr ""
+msgstr "熟练度"
 
 msgid "popup_music_select_07"
-msgstr ""
+msgstr "敌方信息"
 
 msgid "popup_stamina_title_00"
-msgstr ""
+msgstr "确认界面"
 
 msgid "popup_stamina_text_00"
-msgstr ""
+msgstr "体力不足。"
 
 msgid "popup_ap_title_00"
-msgstr ""
+msgstr "确认界面"
 
 msgid "popup_ap_text_00"
-msgstr ""
+msgstr "AP不足。"
 
 msgid "item_popup_text_00"
-msgstr ""
+msgstr "持有数：{0,4}"
 
 msgid "item_detail_popup_title_00"
-msgstr ""
+msgstr "物品详情"
 
 msgid "pbox_title_00"
-msgstr ""
+msgstr "确认领取"
 
 msgid "pbox_title_01"
-msgstr ""
+msgstr "领取失败"
 
 msgid "pbox_title_02"
-msgstr ""
+msgstr "领取礼物"
 
 msgid "pbox_title_03"
-msgstr ""
+msgstr "全部领取确认"
 
 msgid "pbox_title_04"
-msgstr ""
+msgstr "持有上限"
 
 msgid "pbox_text_01"
 msgstr ""
+"将领取\n"
+"<color=#C8087E>{0}</color>\n"
+"\n"
+"确定要继续吗？"
 
 msgid "pbox_text_02"
 msgstr ""
+"领取的物品已超出\n"
+"持有上限。"
 
 msgid "pbox_text_03"
 msgstr ""
+"<color=#C8087E>{0}</color>\n"
+"\n"
+"已领取。"
 
 msgid "pbox_text_04"
 msgstr ""
+"{0}\n"
+"\n"
+"已领取物品并增加LUCK值\n"
+"{1} 的LUCK值上升至 {2} 。"
 
 msgid "pbox_text_05"
 msgstr ""
+"{0}\n"
+"\n"
+"{1} 的LUCK值已达上限，\n"
+"已转换为{2} 。"
 
 msgid "pbox_text_06"
 msgstr ""
+"将领取所有礼物。\n"
+"\n"
+"确定要继续吗？"
 
 msgid "pbox_text_07"
 msgstr ""
+"领取的物品中存在\n"
+"超出持有上限的物品。"
 
 msgid "pbox_text_08"
-msgstr ""
+msgstr "已领取{0}件礼物。"
 
 msgid "pbox_text_09"
-msgstr ""
+msgstr "没有可以领取的礼物。"
 
 msgid "pbox_text_10"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_11"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
-msgstr ""
+msgstr "还有{0}天"
 
 msgid "pbox_text_13"
-msgstr ""
+msgstr "还有{0}小时"
 
 msgid "pbox_text_14"
-msgstr ""
+msgstr "还有{0}分钟"
 
 msgid "pbox_win_warn01"
-msgstr ""
+msgstr "<color=#c8087e>已显示最近的{0}项</color>"
 
 msgid "pbox_win_warn02"
-msgstr ""
+msgstr "<color=#c8087e>已显示最近的{0}项</color>"
 
 msgid "pbox_win_none01"
-msgstr ""
+msgstr "没有礼物。"
 
 msgid "pbox_win_none02"
-msgstr ""
+msgstr "没有领取记录。"
 
 msgid "set_notification_text_00"
-msgstr ""
+msgstr "通知"
 
 msgid "set_notification_text_01"
-msgstr ""
+msgstr "设备的通知权限未开启的情况下，将无法发送通知。"
 
 msgid "set_notification_text_02"
 msgstr ""
+"推送通知\n"
+"各项活动的信息。"
 
 msgid "set_notification_text_03"
-msgstr ""
+msgstr "设置收取通知的时间。"
 
 msgid "set_notification_text_04"
-msgstr ""
+msgstr "此设置不适用于“通知”选项。"
 
 msgid "set_notification_text_05"
 msgstr ""
+"在体力完全恢复时\n"
+"进行推送。"
 
 msgid "set_notification_text_06"
 msgstr ""
+"在超时空SNS收到信息时\n"
+"进行推送。"
 
 msgid "set_notification_text_07"
 msgstr ""
+"在战机派遣任务完成时\n"
+"进行推送。"
 
 msgid "set_notification_text_08"
 msgstr ""
+"在AP完全恢复时\n"
+"进行推送。"
 
 msgid "set_notification_text_09"
 msgstr ""
+"在EX暴走敌人出现时\n"
+"进行推送。"
 
 msgid "set_notification_text_10"
-msgstr ""
+msgstr "在“通知”选项关闭时，将不会进行推送。"
 
 msgid "set_notification_text_11"
 msgstr ""
+"在房间中可收取的物品蓄满时\n"
+"进行推送。"
 
 msgid "set_battle_event_text_01"
-msgstr ""
+msgstr "重新选择战斗等级"
 
 msgid "set_battle_event_text_02"
-msgstr ""
+msgstr "※重新选择等级后，EX计量表将归零。"
 
 msgid "set_battle_event_text_03"
-msgstr ""
+msgstr "显示战斗过程"
 
 msgid "set_battle_event_text_04"
-msgstr ""
+msgstr "※关闭后将不会在演出期间显示战斗过程图标。"
 
 msgid "config_text_00"
-msgstr ""
+msgstr "音量"
 
 msgid "config_text_01"
-msgstr ""
+msgstr "BGM"
 
 msgid "config_text_02"
-msgstr ""
+msgstr "音效"
 
 msgid "config_text_03"
-msgstr ""
+msgstr "语音"
 
 msgid "config_text_04"
-msgstr ""
+msgstr "屏幕方向"
 
 msgid "config_text_05"
 msgstr ""
+"选择是否要开启重力感应自动旋屏，\n"
+"或是将屏幕方向固定在左侧或右侧。\n"
+"选择“自动”的情况下，若设备本身已锁定屏幕方向，\n"
+"设置将无法生效"
 
 msgid "config_text_05_iphone"
 msgstr ""
 
 msgid "config_text_05_android"
 msgstr ""
+"<size=22>选择是否要开启重力感应自动旋屏，\n"
+"或是将屏幕方向固定在左侧或右侧。</size>"
 
 msgid "config_text_06"
-msgstr ""
+msgstr "自动"
 
 msgid "config_text_07"
-msgstr ""
+msgstr "屏幕右侧在上"
 
 msgid "config_text_08"
-msgstr ""
+msgstr "屏幕左侧在上"
 
 msgid "config_text_09"
-msgstr ""
+msgstr "显示"
 
 msgid "config_text_10"
-msgstr ""
+msgstr "画质设置越低，游戏将会越流畅。"
 
 msgid "config_text_11"
-msgstr ""
+msgstr "自定义"
 
 msgid "config_text_12"
-msgstr ""
+msgstr "发动技能时的动画显示。"
 
 msgid "config_text_13"
-msgstr ""
+msgstr "音符轨道的显示。"
 
 msgid "config_text_14"
-msgstr ""
+msgstr "画质"
 
 msgid "config_text_15"
 msgstr ""
