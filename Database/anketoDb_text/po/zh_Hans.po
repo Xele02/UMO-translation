@@ -3,63 +3,64 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-22 09:17+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/anketodb_text/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "anketo_0000_question"
-msgstr ""
+msgstr "你对Macross系列喜欢的程度是？"
 
 msgid "anketo_0000_0000_choice"
-msgstr ""
+msgstr "非常喜欢"
 
 msgid "anketo_0000_0001_choice"
-msgstr ""
+msgstr "一般喜欢"
 
 msgid "anketo_0000_0002_choice"
-msgstr ""
+msgstr "不太喜欢"
 
 msgid "anketo_0000_0003_choice"
-msgstr ""
+msgstr "不太清楚"
 
 msgid "anketo_0001_question"
-msgstr ""
+msgstr "有游玩过其它音游的经历吗？"
 
 msgid "anketo_0001_0000_choice"
-msgstr ""
+msgstr "经常游玩"
 
 msgid "anketo_0001_0001_choice"
-msgstr ""
+msgstr "玩过一些"
 
 msgid "anketo_0001_0002_choice"
-msgstr ""
+msgstr "不怎么玩"
 
 msgid "anketo_0001_0003_choice"
-msgstr ""
+msgstr "这是我的第一款音游"
 
 msgid "anketo_0002_question"
-msgstr ""
+msgstr "你对本游戏中里的哪些内容较为期待？"
 
 msgid "anketo_0002_0000_choice"
-msgstr ""
+msgstr "角色"
 
 msgid "anketo_0002_0001_choice"
-msgstr ""
+msgstr "剧情"
 
 msgid "anketo_0002_0002_choice"
-msgstr ""
+msgstr "歌曲"
 
 msgid "anketo_0002_0003_choice"
-msgstr ""
+msgstr "舞蹈"
 
 msgid "anketo_0002_0004_choice"
-msgstr ""
+msgstr "女武神战机"
 
 msgid "anketo_0002_0005_choice"
-msgstr ""
+msgstr "音游环节"
