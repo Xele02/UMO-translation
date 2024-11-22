@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-11-22 13:28+0000\n"
+"PO-Revision-Date: 2024-11-23 14:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -69,7 +69,7 @@ msgid "help_0000_0000_name"
 msgstr "关于演出"
 
 msgid "help_0000_0001_name"
-msgstr "演出基础操作"
+msgstr "演出基本操作"
 
 msgid "help_0000_0002_name"
 msgstr "演出失败"
@@ -99,7 +99,7 @@ msgid "help_0000_0010_name"
 msgstr "模拟演出设置"
 
 msgid "help_0000_0011_name"
-msgstr "多人演出"
+msgstr "多人同台"
 
 msgid "help_0000_0012_name"
 msgstr "十二星座奖章"
@@ -123,67 +123,67 @@ msgid "wiki_0000_0000_name"
 msgstr "歌曲解锁条件"
 
 msgid "wiki_0000_0001_name"
-msgstr ""
+msgstr "如何挑选支援卡片"
 
 msgid "wiki_0000_0002_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "wiki_0000_0003_name"
-msgstr ""
+msgstr "如何阅读游玩记录"
 
 msgid "wiki_0000_0004_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0001_0000_name"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "help_0001_0001_name"
-msgstr ""
+msgstr "各项数据"
 
 msgid "help_0001_0002_name"
-msgstr ""
+msgstr "技能"
 
 msgid "help_0001_0003_name"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "help_0001_0004_name"
-msgstr ""
+msgstr "战机编队"
 
 msgid "help_0001_0005_name"
-msgstr ""
+msgstr "支援设置"
 
 msgid "help_0001_0006_name"
-msgstr ""
+msgstr "编队组合"
 
 msgid "help_0001_0007_name"
-msgstr ""
+msgstr "超时空棱镜"
 
 msgid "help_0001_0008_name"
-msgstr ""
+msgstr "我的支援卡片"
 
 msgid "help_0001_0009_name"
-msgstr ""
+msgstr "分数预测计量表"
 
 msgid "wiki_0001_0000_name"
-msgstr ""
+msgstr "角色编队技巧"
 
 msgid "wiki_0001_0001_name"
-msgstr ""
+msgstr "技能一览"
 
 msgid "wiki_0001_0002_name"
-msgstr ""
+msgstr "卡片一览"
 
 msgid "wiki_0001_0003_name"
-msgstr ""
+msgstr "战机一览"
 
 msgid "help_0002_0000_name"
-msgstr ""
+msgstr "歌曲解锁"
 
 msgid "help_0002_0001_name"
-msgstr ""
+msgstr "歌姬解锁"
 
 msgid "wiki_0002_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "help_0003_0000_name"
 msgstr ""
