@@ -3,123 +3,124 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-22 13:28+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/helpbrowserdb_text/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "category_0000_name"
-msgstr ""
+msgstr "演出"
 
 msgid "category_0001_name"
-msgstr ""
+msgstr "演出"
 
 msgid "category_0002_name"
-msgstr ""
+msgstr "角色编队"
 
 msgid "category_0003_name"
-msgstr ""
+msgstr "角色编队"
 
 msgid "category_0004_name"
-msgstr ""
+msgstr "回忆时空"
 
 msgid "category_0006_name"
-msgstr ""
+msgstr "故事片段"
 
 msgid "category_0007_name"
-msgstr ""
+msgstr "故事卡片"
 
 msgid "category_0008_name"
-msgstr ""
+msgstr "故事卡片"
 
 msgid "category_0010_name"
-msgstr ""
+msgstr "歌姬"
 
 msgid "category_0012_name"
-msgstr ""
+msgstr "大厅"
 
 msgid "category_0013_name"
-msgstr ""
+msgstr "战机派遣任务"
 
 msgid "category_0014_name"
-msgstr ""
+msgstr "装饰编辑模式"
 
 msgid "category_0015_name"
-msgstr ""
+msgstr "抽卡"
 
 msgid "category_0016_name"
-msgstr ""
+msgstr "Macross大厅"
 
 msgid "category_0017_name"
-msgstr ""
+msgstr "Macross大厅"
 
 msgid "category_0019_name"
-msgstr ""
+msgstr "其他"
 
 msgid "category_0055_name"
-msgstr ""
+msgstr "演出"
 
 msgid "help_0000_0000_name"
-msgstr ""
+msgstr "关于演出"
 
 msgid "help_0000_0001_name"
-msgstr ""
+msgstr "演出基础操作"
 
 msgid "help_0000_0002_name"
-msgstr ""
+msgstr "演出失败"
 
 msgid "help_0000_0003_name"
-msgstr ""
+msgstr "战机模式"
 
 msgid "help_0000_0004_name"
-msgstr ""
+msgstr "歌姬模式"
 
 msgid "help_0000_0005_name"
-msgstr ""
+msgstr "物品掉落"
 
 msgid "help_0000_0006_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0000_0007_name"
-msgstr ""
+msgstr "游玩记录"
 
 msgid "help_0000_0008_name"
-msgstr ""
+msgstr "每日活动"
 
 msgid "help_0000_0009_name"
-msgstr ""
+msgstr "模拟演出"
 
 msgid "help_0000_0010_name"
-msgstr ""
+msgstr "模拟演出设置"
 
 msgid "help_0000_0011_name"
-msgstr ""
+msgstr "多人演出"
 
 msgid "help_0000_0012_name"
-msgstr ""
+msgstr "十二星座奖章"
 
 msgid "help_0000_0013_name"
-msgstr ""
+msgstr "歌手等级"
 
 msgid "help_0000_0014_name"
-msgstr ""
+msgstr "达成奖励"
 
 msgid "help_0000_0015_name"
-msgstr ""
+msgstr "演出跳过"
 
 msgid "help_0000_0016_name"
-msgstr ""
+msgstr "6 Key模式"
 
 msgid "help_0000_0017_name"
-msgstr ""
+msgstr "6 Key模式操作"
 
 msgid "wiki_0000_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "wiki_0000_0001_name"
 msgstr ""
