@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-22 10:06+0000\n"
+"PO-Revision-Date: 2024-11-22 11:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/bingo_text/zh_Hans/>\n"
@@ -26,19 +26,19 @@ msgid "bingo_0001_0001_0002_desc"
 msgstr ""
 "使用A技能\n"
 "“生命回复”\n"
-"后通关"
+"并通关"
 
 msgid "bingo_0001_0001_0002_cond"
-msgstr "使用主动技能“生命回复”后通关"
+msgstr "使用主动技能“生命回复”并通关"
 
 msgid "bingo_0001_0001_0003_desc"
 msgstr ""
 "使用A技能\n"
 "“分数提升”\n"
-"后通关"
+"并通关"
 
 msgid "bingo_0001_0001_0003_cond"
-msgstr "使用主动技能“分数提升”后通关"
+msgstr "使用主动技能“分数提升”并通关"
 
 msgid "bingo_0001_0001_0004_desc"
 msgstr ""
@@ -110,12 +110,12 @@ msgstr ""
 
 msgid "bingo_0001_0001_0012_desc"
 msgstr ""
-"使用L技能\n"
+"触发L技能\n"
 "“分数提升”\n"
-"后通关"
+"并通关"
 
 msgid "bingo_0001_0001_0012_cond"
-msgstr "使用L技能“分数提升”后通关"
+msgstr "触发演出技能“分数提升”并通关"
 
 msgid "bingo_0001_0001_0013_desc"
 msgstr ""
@@ -516,480 +516,719 @@ msgstr "将2个种类的卡片提升至90级"
 
 msgid "bingo_0003_0003_0003_desc"
 msgstr ""
+"使用A技能\n"
+"“分数提升”\n"
+"并通关2次"
 
 msgid "bingo_0003_0003_0003_cond"
 msgstr ""
+"使用主动技能“分数提升”\n"
+"并通关2次"
 
 msgid "bingo_0003_0003_0004_desc"
 msgstr ""
+"使用A技能\n"
+"“生命回复”\n"
+"并通关2次"
 
 msgid "bingo_0003_0003_0004_cond"
 msgstr ""
+"使用主动技能“生命回复”\n"
+"并通关2次"
 
 msgid "bingo_0003_0003_0005_desc"
 msgstr ""
+"使用A技能\n"
+"“伤害降低”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0005_cond"
-msgstr ""
+msgstr "使用主动技能“伤害降低”并通关"
 
 msgid "bingo_0003_0003_0006_desc"
 msgstr ""
+"使用A技能\n"
+"“判定缓和”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0006_cond"
-msgstr ""
+msgstr "使用主动技能“判定缓和”并通关"
 
 msgid "bingo_0003_0003_0007_desc"
 msgstr ""
+"使用A技能\n"
+"“连击持续”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0007_cond"
-msgstr ""
+msgstr "使用主动技能“连击持续”并通关"
 
 msgid "bingo_0003_0003_0008_desc"
 msgstr ""
+"触发L技能\n"
+"“分数提升”\n"
+"并通关2次"
 
 msgid "bingo_0003_0003_0008_cond"
 msgstr ""
+"触发演出技能“分数提升”\n"
+"并通关2次"
 
 msgid "bingo_0003_0003_0009_desc"
 msgstr ""
+"触发L技能\n"
+"“生命回复”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0009_cond"
-msgstr ""
+msgstr "触发演出技能“生命回复”并通关"
 
 msgid "bingo_0003_0003_0010_desc"
 msgstr ""
+"触发L技能\n"
+"“伤害降低”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0010_cond"
-msgstr ""
+msgstr "触发演出技能“伤害降低”并通关"
 
 msgid "bingo_0003_0003_0011_desc"
 msgstr ""
+"触发L技能\n"
+"“判定缓和”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0011_cond"
-msgstr ""
+msgstr "触发演出技能“判定缓和”并通关"
 
 msgid "bingo_0003_0003_0012_desc"
 msgstr ""
+"触发L技能\n"
+"“连击持续”\n"
+"并通关"
 
 msgid "bingo_0003_0003_0012_cond"
-msgstr ""
+msgstr "触发演出技能“连击持续”并通关"
 
 msgid "bingo_0003_0003_0013_desc"
 msgstr ""
+"解锁芙蕾雅的\n"
+"服装2次"
 
 msgid "bingo_0003_0003_0013_cond"
-msgstr ""
+msgstr "解锁芙蕾雅除“绽放之光”以外的服装2次"
 
 msgid "bingo_0003_0003_0014_desc"
 msgstr ""
+"解锁美云\n"
+"的服装"
 
 msgid "bingo_0003_0003_0014_cond"
-msgstr ""
+msgstr "解锁美云的服装"
 
 msgid "bingo_0003_0003_0015_desc"
 msgstr ""
+"解锁要\n"
+"的服装"
 
 msgid "bingo_0003_0003_0015_cond"
-msgstr ""
+msgstr "解锁要的服装"
 
 msgid "bingo_0003_0003_0016_desc"
 msgstr ""
+"解锁玛基娜\n"
+"的服装"
 
 msgid "bingo_0003_0003_0016_cond"
-msgstr ""
+msgstr "解锁玛基娜的服装"
 
 msgid "bingo_0003_0003_0017_desc"
 msgstr ""
+"解锁蕾娜\n"
+"的服装"
 
 msgid "bingo_0003_0003_0017_cond"
-msgstr ""
+msgstr "解锁蕾娜的服装"
 
 msgid "bingo_0003_0003_0018_desc"
 msgstr ""
+"解锁兰卡\n"
+"的服装"
 
 msgid "bingo_0003_0003_0018_cond"
-msgstr ""
+msgstr "解锁兰卡的服装"
 
 msgid "bingo_0003_0003_0019_desc"
 msgstr ""
+"解锁雪莉露\n"
+"的服装"
 
 msgid "bingo_0003_0003_0019_cond"
-msgstr ""
+msgstr "解锁雪莉露的服装"
 
 msgid "bingo_0003_0003_0020_desc"
 msgstr ""
+"解锁米莲\n"
+"的服装"
 
 msgid "bingo_0003_0003_0020_cond"
-msgstr ""
+msgstr "解锁米莲的服装"
 
 msgid "bingo_0003_0003_0021_desc"
 msgstr ""
+"解锁巴萨拉\n"
+"的服装"
 
 msgid "bingo_0003_0003_0021_cond"
-msgstr ""
+msgstr "解锁巴萨拉的服装"
 
 msgid "bingo_0003_0003_0022_desc"
 msgstr ""
+"解锁明美\n"
+"的服装"
 
 msgid "bingo_0003_0003_0022_cond"
-msgstr ""
+msgstr "解锁明美的服装"
 
 msgid "bingo_0003_0003_0023_desc"
 msgstr ""
+"更换芙蕾雅\n"
+"的服装2次"
 
 msgid "bingo_0003_0003_0023_cond"
-msgstr ""
+msgstr "更换芙蕾雅的服装2次"
 
 msgid "bingo_0003_0003_0024_desc"
 msgstr ""
+"更换美云\n"
+"的服装"
 
 msgid "bingo_0003_0003_0024_cond"
-msgstr ""
+msgstr "更换美云的服装"
 
 msgid "bingo_0003_0003_0025_desc"
 msgstr ""
+"更换要\n"
+"的服装"
 
 msgid "bingo_0003_0003_0025_cond"
-msgstr ""
+msgstr "更换要的服装"
 
 msgid "bingo_0003_0003_0026_desc"
 msgstr ""
+"更换玛基娜\n"
+"的服装"
 
 msgid "bingo_0003_0003_0026_cond"
-msgstr ""
+msgstr "更换玛基娜的服装"
 
 msgid "bingo_0003_0003_0027_desc"
 msgstr ""
+"更换蕾娜\n"
+"的服装"
 
 msgid "bingo_0003_0003_0027_cond"
-msgstr ""
+msgstr "更换蕾娜的服装"
 
 msgid "bingo_0003_0003_0028_desc"
 msgstr ""
+"更换兰卡\n"
+"的服装"
 
 msgid "bingo_0003_0003_0028_cond"
-msgstr ""
+msgstr "更换兰卡的服装"
 
 msgid "bingo_0003_0003_0029_desc"
 msgstr ""
+"更换雪莉露\n"
+"的服装"
 
 msgid "bingo_0003_0003_0029_cond"
-msgstr ""
+msgstr "更换雪莉露的服装"
 
 msgid "bingo_0003_0003_0030_desc"
 msgstr ""
+"更换米莲\n"
+"的服装"
 
 msgid "bingo_0003_0003_0030_cond"
-msgstr ""
+msgstr "更换米莲的服装"
 
 msgid "bingo_0003_0003_0031_desc"
 msgstr ""
+"更换巴萨拉\n"
+"的服装"
 
 msgid "bingo_0003_0003_0031_cond"
-msgstr ""
+msgstr "更换巴萨拉的服装"
 
 msgid "bingo_0003_0003_0032_desc"
 msgstr ""
+"更换明美\n"
+"的服装"
 
 msgid "bingo_0003_0003_0032_cond"
-msgstr ""
+msgstr "更换明美的服装"
 
 msgid "bingo_0003_0003_0033_desc"
 msgstr ""
+"向芙蕾雅\n"
+"赠送礼物\n"
+"2次"
 
 msgid "bingo_0003_0003_0033_cond"
-msgstr ""
+msgstr "向芙蕾雅赠送礼物2次"
 
 msgid "bingo_0003_0003_0034_desc"
 msgstr ""
+"向美云\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0034_cond"
-msgstr ""
+msgstr "向美云赠送礼物"
 
 msgid "bingo_0003_0003_0035_desc"
 msgstr ""
+"向要\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0035_cond"
-msgstr ""
+msgstr "向要赠送礼物"
 
 msgid "bingo_0003_0003_0036_desc"
 msgstr ""
+"向玛基娜\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0036_cond"
-msgstr ""
+msgstr "向玛基娜赠送礼物"
 
 msgid "bingo_0003_0003_0037_desc"
 msgstr ""
+"向蕾娜\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0037_cond"
-msgstr ""
+msgstr "向蕾娜赠送礼物"
 
 msgid "bingo_0003_0003_0038_desc"
 msgstr ""
+"向兰卡\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0038_cond"
-msgstr ""
+msgstr "向兰卡赠送礼物"
 
 msgid "bingo_0003_0003_0039_desc"
 msgstr ""
+"向雪莉露\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0039_cond"
-msgstr ""
+msgstr "向雪莉露赠送礼物"
 
 msgid "bingo_0003_0003_0040_desc"
 msgstr ""
+"向米莲\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0040_cond"
-msgstr ""
+msgstr "向米莲赠送礼物"
 
 msgid "bingo_0003_0003_0041_desc"
 msgstr ""
+"向巴萨拉\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0041_cond"
-msgstr ""
+msgstr "向巴萨拉赠送礼物"
 
 msgid "bingo_0003_0003_0042_desc"
 msgstr ""
+"向明美\n"
+"赠送礼物"
 
 msgid "bingo_0003_0003_0042_cond"
-msgstr ""
+msgstr "向明美赠送礼物"
 
 msgid "bingo_0003_0003_0043_desc"
 msgstr ""
+"生成芙蕾雅的\n"
+"歌姬派遣任务\n"
+"2次"
 
 msgid "bingo_0003_0003_0043_cond"
 msgstr ""
+"生成芙蕾雅的\n"
+"歌姬派遣任务2次"
 
 msgid "bingo_0003_0003_0044_desc"
 msgstr ""
+"生成\n"
+"美云的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0044_cond"
-msgstr ""
+msgstr "生成美云的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0045_desc"
 msgstr ""
+"生成\n"
+"要的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0045_cond"
-msgstr ""
+msgstr "生成要的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0046_desc"
 msgstr ""
+"生成\n"
+"玛基娜的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0046_cond"
-msgstr ""
+msgstr "生成玛基娜的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0047_desc"
 msgstr ""
+"生成\n"
+"蕾娜的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0047_cond"
-msgstr ""
+msgstr "生成蕾娜的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0048_desc"
 msgstr ""
+"生成\n"
+"兰卡的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0048_cond"
-msgstr ""
+msgstr "生成兰卡的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0049_desc"
 msgstr ""
+"生成\n"
+"雪莉露的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0049_cond"
-msgstr ""
+msgstr "生成雪莉露的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0050_desc"
 msgstr ""
+"生成\n"
+"米莲的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0050_cond"
-msgstr ""
+msgstr "生成米莲的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0051_desc"
 msgstr ""
+"生成\n"
+"巴萨拉的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0051_cond"
-msgstr ""
+msgstr "生成巴萨拉的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0052_desc"
 msgstr ""
+"生成\n"
+"明美的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0052_cond"
-msgstr ""
+msgstr "生成明美的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0053_desc"
 msgstr ""
+"强化芙蕾雅的\n"
+"歌姬派遣任务\n"
+"2次"
 
 msgid "bingo_0003_0003_0053_cond"
 msgstr ""
+"强化芙蕾雅的\n"
+"歌姬派遣任务2次"
 
 msgid "bingo_0003_0003_0054_desc"
 msgstr ""
+"强化\n"
+"美云的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0054_cond"
-msgstr ""
+msgstr "强化美云的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0055_desc"
 msgstr ""
+"强化\n"
+"要的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0055_cond"
-msgstr ""
+msgstr "强化要的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0056_desc"
 msgstr ""
+"强化\n"
+"玛基娜的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0056_cond"
-msgstr ""
+msgstr "强化玛基娜的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0057_desc"
 msgstr ""
+"强化\n"
+"蕾娜的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0057_cond"
-msgstr ""
+msgstr "强化蕾娜的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0058_desc"
 msgstr ""
+"强化\n"
+"兰卡的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0058_cond"
-msgstr ""
+msgstr "强化兰卡的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0059_desc"
 msgstr ""
+"强化\n"
+"雪莉露的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0059_cond"
-msgstr ""
+msgstr "强化雪莉露的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0060_desc"
 msgstr ""
+"强化\n"
+"米莲的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0060_cond"
-msgstr ""
+msgstr "强化米莲的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0061_desc"
 msgstr ""
+"强化\n"
+"巴萨拉的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0061_cond"
-msgstr ""
+msgstr "强化巴萨拉的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0062_desc"
 msgstr ""
+"强化\n"
+"明美的\n"
+"歌姬派遣任务"
 
 msgid "bingo_0003_0003_0062_cond"
-msgstr ""
+msgstr "强化明美的歌姬派遣任务"
 
 msgid "bingo_0003_0003_0063_desc"
 msgstr ""
+"芙蕾雅服装的\n"
+"卡哇哇等级\n"
+"提升至3级"
 
 msgid "bingo_0003_0003_0063_cond"
 msgstr ""
+"芙蕾雅服装的\n"
+"卡哇哇等级提升至3级"
 
 msgid "bingo_0003_0003_0064_desc"
 msgstr ""
+"美云服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0064_cond"
 msgstr ""
+"美云服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0065_desc"
 msgstr ""
+"要服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0065_cond"
 msgstr ""
+"要服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0066_desc"
 msgstr ""
+"玛基娜服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0066_cond"
 msgstr ""
+"玛基娜服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0067_desc"
 msgstr ""
+"蕾娜服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0067_cond"
 msgstr ""
+"蕾娜服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0068_desc"
 msgstr ""
+"兰卡服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0068_cond"
 msgstr ""
+"兰卡服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0069_desc"
 msgstr ""
+"雪莉露服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0069_cond"
 msgstr ""
+"雪莉露服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0070_desc"
 msgstr ""
+"米莲服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0070_cond"
 msgstr ""
+"米莲服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0071_desc"
 msgstr ""
+"巴萨拉服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0071_cond"
 msgstr ""
+"巴萨拉服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0003_0003_0072_desc"
 msgstr ""
+"明美服装的\n"
+"卡哇哇等级\n"
+"提升至2级"
 
 msgid "bingo_0003_0003_0072_cond"
 msgstr ""
+"明美服装的\n"
+"卡哇哇等级提升至2级"
 
 msgid "bingo_0004_0004_0001_desc"
 msgstr ""
+"玩家等级\n"
+"提升至8级"
 
 msgid "bingo_0004_0004_0001_cond"
-msgstr ""
+msgstr "玩家等级提升至8级"
 
 msgid "bingo_0004_0004_0002_desc"
 msgstr ""
+"总计游玩\n"
+"活动歌曲\n"
+"1次或以上"
 
 msgid "bingo_0004_0004_0002_cond"
-msgstr ""
+msgstr "总计游玩活动歌曲1次或以上"
 
 msgid "bingo_0004_0004_0003_desc"
 msgstr ""
+"通关1次\n"
+"每日歌曲"
 
 msgid "bingo_0004_0004_0003_cond"
-msgstr ""
+msgstr "通关一次每日歌曲"
 
 msgid "bingo_0004_0004_0004_desc"
 msgstr ""
+"累计抽卡5次\n"
+"※10连抽\n"
+"仅算1次"
 
 msgid "bingo_0004_0004_0004_cond"
 msgstr ""
+"累计抽卡5次\n"
+"※10连抽仅算1次"
 
 msgid "bingo_0004_0004_0005_desc"
 msgstr ""
+"取得30万\n"
+"或以上分数"
 
 msgid "bingo_0004_0004_0005_cond"
-msgstr ""
+msgstr "取得30万或以上分数"
 
 msgid "bingo_0004_0004_0006_desc"
 msgstr ""
+"获得500枚\n"
+"星座奖章"
 
 msgid "bingo_0004_0004_0006_cond"
-msgstr ""
+msgstr "获得500枚星座奖章"
 
 msgid "bingo_0004_0004_0007_desc"
 msgstr ""
+"进入\n"
+"超歌姬模式\n"
+"通关1次"
 
 msgid "bingo_0004_0004_0007_cond"
-msgstr ""
+msgstr "进入超歌姬模式通关1次"
 
 msgid "bingo_0004_0004_0008_desc"
 msgstr ""
+"获得30张\n"
+"卡片"
 
 msgid "bingo_0004_0004_0008_cond"
-msgstr ""
+msgstr "获得30张卡片"
 
 msgid "bingo_0004_0004_0009_desc"
 msgstr ""
+"游戏内\n"
+"累计登录\n"
+"2天"
 
 msgid "bingo_0004_0004_0009_cond"
 msgstr ""
+"游戏内\n"
+"累计登录2天"
 
 msgid "bingo_0004_0004_0010_desc"
 msgstr ""
+"播放S-LIVE\n"
+"1次"
 
 msgid "bingo_0004_0004_0010_cond"
 msgstr ""
