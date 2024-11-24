@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-24 06:28+0000\n"
+"PO-Revision-Date: 2024-11-24 14:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/bingo_text/zh_Hans/>\n"
@@ -183,7 +183,7 @@ msgstr ""
 "提升至70级"
 
 msgid "bingo_0001_0001_0020_cond"
-msgstr "将1个种类的故事卡片提升至70级"
+msgstr "将1个种类的回忆卡片提升至70级"
 
 msgid "bingo_0001_0001_0021_desc"
 msgstr ""
@@ -245,7 +245,7 @@ msgstr ""
 "提升1"
 
 msgid "bingo_0001_0001_0027_cond"
-msgstr "故事卡片LUCK属性提升1"
+msgstr "回忆卡片LUCK属性提升1"
 
 msgid "bingo_0002_0002_0001_desc"
 msgstr ""
@@ -498,12 +498,12 @@ msgstr "完成战机派遣任务20次"
 
 msgid "bingo_0003_0003_0001_desc"
 msgstr ""
-"在【回忆时空】内\n"
+"在【记忆时空】内\n"
 "解锁特定歌曲"
 
 msgid "bingo_0003_0003_0001_cond"
 msgstr ""
-"在【回忆时空】内\n"
+"在【记忆时空】内\n"
 "解锁《Aimo》"
 
 msgid "bingo_0003_0003_0002_desc"
@@ -512,7 +512,7 @@ msgstr ""
 "提升至90级"
 
 msgid "bingo_0003_0003_0002_cond"
-msgstr "将2个种类的故事卡片提升至90级"
+msgstr "将2个种类的回忆卡片提升至90级"
 
 msgid "bingo_0003_0003_0003_desc"
 msgstr ""
@@ -1457,7 +1457,7 @@ msgstr ""
 "卡片"
 
 msgid "bingo_0005_0005_0008_cond"
-msgstr "获得10张故事卡片"
+msgstr "获得10张回忆卡片"
 
 msgid "bingo_0005_0005_0009_desc"
 msgstr ""
@@ -1477,7 +1477,7 @@ msgstr ""
 
 msgid "bingo_0005_0005_0010_cond"
 msgstr ""
-"故事卡片【新春团圆】\n"
+"回忆卡片【新春团圆】\n"
 "提升至70级"
 
 msgid "bingo_0005_0005_0011_desc"
@@ -1486,7 +1486,7 @@ msgstr ""
 "卡片"
 
 msgid "bingo_0005_0005_0011_cond"
-msgstr "获得10张故事卡片"
+msgstr "获得10张回忆卡片"
 
 msgid "bingo_0005_0005_0012_desc"
 msgstr ""
