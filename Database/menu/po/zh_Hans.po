@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-24 06:28+0000\n"
+"PO-Revision-Date: 2024-11-24 14:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -383,7 +383,7 @@ msgid "config_text_18"
 msgstr "显示所有演出动画。"
 
 msgid "config_text_19"
-msgstr "判定调节"
+msgstr "判定调整"
 
 msgid "config_text_20"
 msgstr "调节音符判定延迟。"
@@ -719,10 +719,10 @@ msgstr ""
 "请选择要解放的次数。"
 
 msgid "growth_popup_text14"
-msgstr "一次性可解放的最大片段值为{0}。"
+msgstr "一次性可解放的最大回忆值为{0}。"
 
 msgid "growth_popup_text15"
-msgstr "若继续解放，将超出一次性可解放的片段值。"
+msgstr "若继续解放，将超出一次性可解放的最大回忆值。"
 
 msgid "growth_popup_text16"
 msgstr "物品不足，无法继续解放。"
@@ -736,7 +736,7 @@ msgstr "物品与UC不足，无法继续解放。"
 msgid "growth_popup_text19"
 msgstr ""
 "将解放{0}个能力。是否确认？\n"
-"<color={1}>※您已获得该片段的完全解放奖励。</color>"
+"<color={1}>※您已获得该回忆的完全解放奖励。</color>"
 
 msgid "growth_addreward_text"
 msgstr "附加奖励"
@@ -782,7 +782,7 @@ msgstr "<size=20>满足以下任一条件即可参加。</size>"
 msgid "music_not_exist_text_00"
 msgstr ""
 "此分类下没有可以游玩的歌曲。\n"
-"<color=#C8087E>※歌曲可在回忆时空中解锁。 </color>"
+"<color=#C8087E>※歌曲可在记忆时空中解锁。 </color>"
 
 msgid "music_not_exist_line6_text_00"
 msgstr ""
@@ -793,199 +793,202 @@ msgid "reward_all_clear_text_00"
 msgstr "全部达成奖励"
 
 msgid "unit_auto_popup_text_00"
-msgstr "不改变中心技能进行自动编队"
+msgstr "在不改变中心技能的情况下进行自动编队"
 
 msgid "unit_auto_popup_text_01"
-msgstr ""
+msgstr "优先选择适配歌姬的卡片"
 
 msgid "unit_clearplate_confirm_text"
 msgstr ""
+"将编队内及编队外的所有歌姬\n"
+"所装备的卡片移除\n"
+"确定要继续吗？"
 
 msgid "unit_save_text"
-msgstr ""
+msgstr "已保存编队。"
 
 msgid "unit_load_text"
-msgstr ""
+msgstr "已套用编队。"
 
 msgid "header_desc_home000"
-msgstr ""
+msgstr "请选择将要游玩的项目"
 
 msgid "header_desc_home001"
-msgstr ""
+msgstr "好友一览"
 
 msgid "header_desc_home002"
-msgstr ""
+msgstr "礼物一览"
 
 msgid "header_desc_home003"
-msgstr ""
+msgstr "查看好友信息"
 
 msgid "header_desc_home004"
-msgstr ""
+msgstr "好友申请一览"
 
 msgid "header_desc_home005"
-msgstr ""
+msgstr "查看好友申请"
 
 msgid "header_desc_home006"
-msgstr ""
+msgstr "搜索其他玩家的ID"
 
 msgid "header_desc_home007"
-msgstr ""
+msgstr "选择服装"
 
 msgid "header_desc_home008"
-msgstr ""
+msgstr "查看排名"
 
 msgid "header_desc_home009"
-msgstr ""
+msgstr "查看个人资料"
 
 msgid "header_desc_home010"
-msgstr ""
+msgstr "活动任务一览"
 
 msgid "header_desc_vop000"
-msgstr ""
+msgstr "选择派遣任务"
 
 msgid "header_desc_vop001"
-msgstr ""
+msgstr "选择小队"
 
 msgid "header_desc_vop002"
-msgstr ""
+msgstr "选择战机"
 
 msgid "header_desc_vop003"
-msgstr ""
+msgstr "选择战机形态"
 
 msgid "header_desc_home030"
-msgstr ""
+msgstr "选择需要强化的服装"
 
 msgid "header_desc_home031"
-msgstr ""
+msgstr "选择物品　　　　　"
 
 msgid "header_desc_home032"
-msgstr ""
+msgstr "制作表情"
 
 msgid "header_desc_home033"
-msgstr ""
+msgstr "查看队员信息　　　　"
 
 msgid "header_desc_home034"
-msgstr ""
+msgstr "合作任务一览"
 
 msgid "header_desc_home035"
-msgstr ""
+msgstr "查看排名"
 
 msgid "header_desc_home110"
-msgstr ""
+msgstr "查看排名"
 
 msgid "header_desc_home130"
-msgstr ""
+msgstr "活动任务一览"
 
 msgid "header_desc_home201"
-msgstr ""
+msgstr "选择支援"
 
 msgid "header_desc_home202"
-msgstr ""
+msgstr "编辑队伍"
 
 msgid "header_desc_home203"
-msgstr ""
+msgstr "选择歌姬"
 
 msgid "header_desc_home204"
-msgstr ""
+msgstr "查看歌曲熟练度"
 
 msgid "header_desc_home205"
-msgstr ""
+msgstr "选择卡片"
 
 msgid "header_desc_home206"
-msgstr ""
+msgstr "解放卡片能力"
 
 msgid "header_desc_home207"
-msgstr ""
+msgstr "查看已保存的编队"
 
 msgid "header_desc_home208"
-msgstr ""
+msgstr "选择战机"
 
 msgid "header_desc_home209"
-msgstr ""
+msgstr "选择服装"
 
 msgid "header_desc_home210"
-msgstr ""
+msgstr "查看排名"
 
 msgid "header_desc_home211"
-msgstr ""
+msgstr "查看个人资料"
 
 msgid "header_desc_home230"
-msgstr ""
+msgstr "选择需要强化的服装"
 
 msgid "header_desc_home231"
-msgstr ""
+msgstr "选择物品　　　　　"
 
 msgid "header_desc_home240"
-msgstr ""
+msgstr "查看排名"
 
 msgid "header_desc_home301"
-msgstr ""
+msgstr "选择房间"
 
 msgid "header_desc_home302"
-msgstr ""
+msgstr "访问地一览"
 
 msgid "header_desc_home303"
-msgstr ""
+msgstr "选择物品"
 
 msgid "header_desc_setting000"
-msgstr ""
+msgstr "做好演出准备"
 
 msgid "header_desc_setting001"
-msgstr ""
+msgstr "编辑队伍"
 
 msgid "header_desc_setting002"
-msgstr ""
+msgstr "选择歌姬"
 
 msgid "header_desc_setting003"
-msgstr ""
+msgstr "选择卡片"
 
 msgid "header_desc_setting004"
-msgstr ""
+msgstr "查看已保存的编队"
 
 msgid "header_desc_setting005"
-msgstr ""
+msgstr "选择服装"
 
 msgid "header_desc_setting006"
-msgstr ""
+msgstr "选择战机"
 
 msgid "header_desc_setting007"
-msgstr ""
+msgstr "选择歌姬"
 
 msgid "header_desc_setting008"
-msgstr ""
+msgstr "卡片一览"
 
 msgid "header_desc_setting009"
-msgstr ""
+msgstr "查看歌曲熟练度"
 
 msgid "header_desc_setting010"
-msgstr ""
+msgstr "解放卡片能力"
 
 msgid "header_desc_setting011"
-msgstr ""
+msgstr "选择回忆片段"
 
 msgid "header_desc_setting012"
-msgstr ""
+msgstr "查看解放进度"
 
 msgid "header_desc_setting013"
-msgstr ""
+msgstr "选择物品"
 
 msgid "header_desc_setting030"
-msgstr ""
+msgstr "选择需要强化的服装"
 
 msgid "header_desc_setting031"
-msgstr ""
+msgstr "选择物品　　　　　"
 
 msgid "header_desc_setting032"
-msgstr ""
+msgstr "选择战机"
 
 msgid "header_desc_story000"
-msgstr ""
+msgstr "选择时空领域"
 
 msgid "header_desc_story001"
-msgstr ""
+msgstr "选择支援"
 
 msgid "header_desc_story002"
-msgstr ""
+msgstr "编辑队伍"
 
 msgid "header_desc_story003"
 msgstr ""
