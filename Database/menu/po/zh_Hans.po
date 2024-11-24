@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-23 14:28+0000\n"
+"PO-Revision-Date: 2024-11-24 06:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -83,13 +83,13 @@ msgid "popup_text_08"
 msgstr "歌姬数据"
 
 msgid "popup_text_09"
-msgstr "消费物品确认"
+msgstr "消耗物品确认"
 
 msgid "popup_text_10"
 msgstr "所有道具一览"
 
 msgid "popup_text_11"
-msgstr "能力解锁确认"
+msgstr "能力解放确认"
 
 msgid "popup_text_12"
 msgstr "卸下所有卡片"
@@ -371,388 +371,429 @@ msgid "config_text_14"
 msgstr "画质"
 
 msgid "config_text_15"
-msgstr ""
+msgstr "根据自定义设置进行显示。"
 
 msgid "config_text_16"
-msgstr ""
+msgstr "只显示2D演出动画。"
 
 msgid "config_text_17"
-msgstr ""
+msgstr "只显示一部分3D演出动画。"
 
 msgid "config_text_18"
-msgstr ""
+msgstr "显示所有演出动画。"
 
 msgid "config_text_19"
-msgstr ""
+msgstr "判定调节"
 
 msgid "config_text_20"
-msgstr ""
+msgstr "调节音符判定延迟。"
 
 msgid "config_text_21"
-msgstr ""
+msgstr "演出设置"
 
 msgid "config_text_22"
-msgstr ""
+msgstr "确认"
 
 msgid "config_text_23"
 msgstr ""
+"将恢复初始音量设置。\n"
+"是否确认？"
 
 msgid "config_text_24"
 msgstr ""
+"调整演出中显示的歌姬3D模型质量。\n"
+"设置为“低”的情况下，将最大程度降低品质，\n"
+"以减少运行负荷。"
 
 msgid "config_text_25"
 msgstr ""
+"调整演出中显示的3D背景、战机等质量。\n"
+"设置为“低”的情况下，将最大程度降低品质，\n"
+"以减少运行负荷。"
 
 msgid "config_text_26"
 msgstr ""
+"调整演出中显示的2D动画质量。\n"
+"设置为“低”将最大程度降低品质，以减少运行负荷。"
 
 msgid "config_text_27"
-msgstr ""
+msgstr "渲染"
 
 msgid "config_text_28"
-msgstr ""
+msgstr "菜单"
 
 msgid "config_text_29"
-msgstr ""
+msgstr "其他"
 
 msgid "config_text_30"
-msgstr ""
+msgstr "背景"
 
 msgid "config_text_31"
-msgstr ""
+msgstr "<size=22>设置大厅背景。</size>"
 
 msgid "config_text_32"
-msgstr ""
+msgstr "显示默认背景。"
 
 msgid "config_text_33"
 msgstr ""
+"若主卡片在的初始稀有度在★4以上，\n"
+"将作为背景展示。"
 
 msgid "config_text_34"
-msgstr ""
+msgstr "开启时使用手机返回键将会暂停演出，关闭时将不会暂停。"
 
 msgid "config_text_35"
-msgstr ""
+msgstr "选择演出中手机返回键是否作用。"
 
 msgid "config_text_36"
-msgstr ""
+msgstr "手机返回键"
 
 msgid "config_text_37_rhythm"
-msgstr ""
+msgstr "现在的难度"
 
 msgid "config_text_37_option"
-msgstr ""
+msgstr "套用的难度"
 
 msgid "config_text_38"
-msgstr ""
+msgstr "音符下落速度将分别应用于选中的难度。"
 
 msgid "config_text_39"
-msgstr ""
+msgstr "调整演出中音符的下落速度。"
 
 msgid "config_text_40"
-msgstr ""
+msgstr "音符速度"
 
 msgid "config_text_41"
-msgstr ""
+msgstr "视频"
 
 msgid "config_text_42"
-msgstr ""
+msgstr "调整歌姬模式中播放的视频。"
 
 msgid "config_text_43"
-msgstr ""
+msgstr "视频画质越低，游戏越流畅。"
 
 msgid "config_text_44"
-msgstr ""
+msgstr "切换画质后，将重新下载视频文件。"
 
 msgid "config_text_45"
 msgstr ""
+"切换画质后，\n"
+"将删除已下载的视频文件，\n"
+"并进行重新下载。\n"
+"\n"
+"确定要切换吗？"
 
 msgid "config_text_46"
-msgstr ""
+msgstr "已删除。"
 
 msgid "config_text_47"
-msgstr ""
+msgstr "歌姬"
 
 msgid "config_text_48"
-msgstr ""
+msgstr "<size=22>设置大厅界面显示的歌姬。</size>"
 
 msgid "config_text_49"
-msgstr ""
+msgstr "显示队伍c位的歌姬及其服装。"
 
 msgid "config_text_50"
-msgstr ""
+msgstr "显示后台中选择的歌姬。"
 
 msgid "config_text_51"
 msgstr ""
+"将恢复初始延迟设置\n"
+"是否确认？"
 
 msgid "config_text_52"
-msgstr ""
+msgstr "亮度"
 
 msgid "config_text_53"
-msgstr ""
+msgstr "分别设置3D和2D演出的亮度。"
 
 msgid "config_text_54"
-msgstr ""
+msgstr "暗"
 
 msgid "config_text_55"
-msgstr ""
+msgstr "亮"
 
 msgid "config_text_56"
 msgstr ""
+"将恢复初始亮度设置\n"
+"是否确认？"
 
 msgid "config_text_57"
-msgstr ""
+msgstr "战机模式"
 
 msgid "config_text_58"
-msgstr ""
+msgstr "调整演出中战机模式的显示。"
 
 msgid "config_text_59"
-msgstr ""
+msgstr "显示空战画面。"
 
 msgid "config_text_60"
-msgstr ""
+msgstr "只显示歌姬画面。"
 
 msgid "config_text_61"
-msgstr ""
+msgstr "确认"
 
 msgid "config_text_62"
 msgstr ""
+"将恢复初始速度设置\n"
+"是否确认？\n"
+"<color=#C8087E>※将同时应用于所有难度。</color>"
 
 msgid "config_text_63"
-msgstr ""
+msgstr "同时应用于所有难度"
 
 msgid "config_text_64"
-msgstr ""
+msgstr "若不勾选，音符速度将分别应用于选中的难度。"
 
 msgid "config_text_65"
-msgstr ""
+msgstr "下次不再显示"
 
 msgid "config_text_66"
-msgstr ""
+msgstr "可随时在设置中调整音符速度。"
 
 msgid "config_text_67"
 msgstr ""
+"已完成音符速度设置。\n"
+"可随时在设置内调整。"
 
 msgid "config_text_68"
-msgstr ""
+msgstr "音符样式"
 
 msgid "config_text_69"
-msgstr ""
+msgstr "选择3色时，3种方向的flick音符将分别以不同颜色显示。"
 
 msgid "config_text_70"
-msgstr ""
+msgstr "演出中EXCELLENT字样的显示。"
 
 msgid "config_text_71"
-msgstr ""
+msgstr "关闭后，演出中EXCELLENT效果发生时将显示为PERFECT。"
 
 msgid "config_text_72"
-msgstr ""
+msgstr "歌姬模式"
 
 msgid "config_text_73"
-msgstr ""
+msgstr "调整演出中歌姬模式的显示。"
 
 msgid "config_text_74"
-msgstr ""
+msgstr "只适用于3D演出。"
 
 msgid "config_text_75"
-msgstr ""
+msgstr "显示歌姬和视频背景。"
 
 msgid "config_text_76"
-msgstr ""
+msgstr "只显示歌姬。"
 
 msgid "config_text_77"
-msgstr ""
+msgstr "只显示视频背景。"
 
 msgid "config_text_78"
-msgstr ""
+msgstr "打击音无法设置为静音。"
 
 msgid "config_text_79"
-msgstr ""
+msgstr "演出显示"
 
 msgid "config_text_80"
-msgstr ""
+msgstr "演出系统"
 
 msgid "config_text_81"
-msgstr ""
+msgstr "<size=24>模拟演出</size>"
 
 msgid "config_text_82"
-msgstr ""
+msgstr "<size=24>画面边框</size>"
 
 msgid "config_text_83"
-msgstr ""
+msgstr "设置画面边框样式。"
 
 msgid "config_text_84"
-msgstr ""
+msgstr "显示边框样式1。"
 
 msgid "config_text_85"
-msgstr ""
+msgstr "显示边框样式2。"
 
 msgid "config_text_86"
-msgstr ""
+msgstr "显示黑色边框。"
 
 msgid "config_text_87"
-msgstr ""
+msgstr "关闭时，6 Key模式下将不会显示Slide引导。"
 
 msgid "config_text_88"
-msgstr ""
+msgstr "<size=24>画面比例</size>"
 
 msgid "config_text_89"
-msgstr ""
+msgstr "调整画面比例。"
 
 msgid "config_text_90"
-msgstr ""
+msgstr "显示宽屏画面。"
 
 msgid "config_text_91"
-msgstr ""
+msgstr "比宽屏画面纵向更宽，横向更窄。"
 
 msgid "config_text_92"
-msgstr ""
+msgstr "设置将在重启游戏时生效。"
 
 msgid "config_text_93"
-msgstr ""
+msgstr "高阶卡片"
 
 msgid "config_text_94"
-msgstr ""
+msgstr "<size=22>调整升级为高阶后的卡片显示。</size>"
 
 msgid "config_text_95"
-msgstr ""
+msgstr "显示高阶卡片效果。"
 
 msgid "config_text_96"
-msgstr ""
+msgstr "不显示高阶卡片效果。"
 
 msgid "growth_list_text_01"
-msgstr ""
+msgstr "下回奖励"
 
 msgid "growth_list_text_02"
-msgstr ""
+msgstr "×{0}"
 
 msgid "growth_list_text_03"
-msgstr ""
+msgstr "{0}的{1}等级{2}"
 
 msgid "growth_popup_title_01"
-msgstr ""
+msgstr "解锁条件"
 
 msgid "growth_popup_title_text01"
-msgstr ""
+msgstr "主板块扩充"
 
 msgid "growth_popup_title_text02"
-msgstr ""
+msgstr "秘密板块增设"
 
 msgid "growth_popup_title_text03"
-msgstr ""
+msgstr "秘密板块扩充"
 
 msgid "growth_popup_title_text04"
-msgstr ""
+msgstr "选择解放数量"
 
 msgid "growth_popup_title_text05"
-msgstr ""
+msgstr "解放上限确认"
 
 msgid "growth_popup_title_text06"
-msgstr ""
+msgstr "解放上限确认"
 
 msgid "growth_popup_text01"
-msgstr ""
+msgstr "持有数：{0,4}"
 
 msgid "growth_popup_text02"
-msgstr ""
+msgstr "将消耗以下物品及UC。"
 
 msgid "growth_popup_text03"
-msgstr ""
+msgstr "所需UC：<color={1}>{0,4}</color>"
 
 msgid "growth_popup_text04"
-msgstr ""
+msgstr "持有UC：<color={1}>{0,8}</color>"
 
 msgid "growth_popup_text05"
-msgstr ""
+msgstr "物品数量不足。"
 
 msgid "growth_popup_text06"
-msgstr ""
+msgstr "将解放{0}个能力。是否确认？"
 
 msgid "growth_popup_text07"
-msgstr ""
+msgstr "持有数：<color={1}>{0,4}</color>"
 
 msgid "growth_popup_text08"
-msgstr ""
+msgstr "UC不足。"
 
 msgid "growth_popup_text09"
-msgstr ""
+msgstr "物品与UC不足。"
 
 msgid "growth_popup_text10"
 msgstr ""
+"已升级稀有度。\n"
+"能力板块已扩充。"
 
 msgid "growth_popup_text11"
-msgstr ""
+msgstr "已增设秘密板块。"
 
 msgid "growth_popup_text12"
-msgstr ""
+msgstr "秘密板块已扩充。"
 
 msgid "growth_popup_text13"
 msgstr ""
+"目前剩余的可解放次数为{0}次。\n"
+"请选择要解放的次数。"
 
 msgid "growth_popup_text14"
-msgstr ""
+msgstr "一次性可解放的最大片段值为{0}。"
 
 msgid "growth_popup_text15"
-msgstr ""
+msgstr "若继续解放，将超出一次性可解放的片段值。"
 
 msgid "growth_popup_text16"
-msgstr ""
+msgstr "物品不足，无法继续解放。"
 
 msgid "growth_popup_text17"
-msgstr ""
+msgstr "UC不足，无法继续解放。"
 
 msgid "growth_popup_text18"
-msgstr ""
+msgstr "物品与UC不足，无法继续解放。"
 
 msgid "growth_popup_text19"
 msgstr ""
+"将解放{0}个能力。是否确认？\n"
+"<color={1}>※您已获得该片段的完全解放奖励。</color>"
 
 msgid "growth_addreward_text"
-msgstr ""
+msgstr "附加奖励"
 
 msgid "story_unlock_01"
-msgstr ""
+msgstr "<size=25>【解放条件】</size>"
 
 msgid "story_unlock_02"
-msgstr ""
+msgstr "<size=20>满足以下条件即可解放。</size>"
 
 msgid "story_unlock_03"
-msgstr ""
+msgstr "<size=20>满足以下任一条件即可解放。</size>"
 
 msgid "story_unlock_04"
-msgstr ""
+msgstr "・玩家等级为{0}"
 
 msgid "story_unlock_05"
 msgstr ""
+"・以{0}或以上通关以下歌曲\n"
+"　{1}"
 
 msgid "story_unlock_06"
 msgstr ""
+"・以{1}或以上评价通关\n"
+"以下歌曲{0}\n"
+"“{2}”"
 
 msgid "story_unlock_07"
-msgstr ""
+msgstr "・先完成上一个领域"
 
 msgid "story_unlock_08"
-msgstr ""
+msgstr "锁定中"
 
 msgid "story_unlock_09"
-msgstr ""
+msgstr "请先解锁上一个领域。"
 
 msgid "story_unlock_10"
-msgstr ""
+msgstr "<size=20>满足以下条件即可参加。</size>"
 
 msgid "story_unlock_11"
-msgstr ""
+msgstr "<size=20>满足以下任一条件即可参加。</size>"
 
 msgid "music_not_exist_text_00"
 msgstr ""
+"此分类下没有可以游玩的歌曲。\n"
+"<color=#C8087E>※歌曲可在回忆时空中解锁。 </color>"
 
 msgid "music_not_exist_line6_text_00"
 msgstr ""
+"此分类下没有可以游玩的6 Key模式歌曲。\n"
+"<color=#C8087E>※解锁6 Key模式歌曲后方可游玩。 </color>"
 
 msgid "reward_all_clear_text_00"
-msgstr ""
+msgstr "全部达成奖励"
 
 msgid "unit_auto_popup_text_00"
-msgstr ""
+msgstr "不改变中心技能进行自动编队"
 
 msgid "unit_auto_popup_text_01"
 msgstr ""
