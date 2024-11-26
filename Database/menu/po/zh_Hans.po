@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-25 15:28+0000\n"
+"PO-Revision-Date: 2024-11-26 16:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -390,7 +390,7 @@ msgid "config_text_19"
 msgstr "判定调整"
 
 msgid "config_text_20"
-msgstr "调节音符判定延迟。"
+msgstr "调整音符判定延迟。"
 
 msgid "config_text_21"
 msgstr "演出设置"
@@ -1241,7 +1241,7 @@ msgid "popup_loginbonus_001"
 msgstr "累计登录奖励"
 
 msgid "popup_loginbonus_002"
-msgstr "物品将送至礼物箱。"
+msgstr "物品将发送至礼物箱。"
 
 msgid "popup_loginbonus_comeback_pack_001"
 msgstr "回归礼包"
@@ -2365,8 +2365,7 @@ msgid "result_playlog_hint_007"
 msgstr "使用主动技能吧！"
 
 msgid "result_playlog_hint_008"
-msgstr "试着使用能够和歌姬搭配的卡片吧。可触发演出技能来实现保持连击和取得高分等效果"
-"。"
+msgstr "试着选择和歌姬搭配的卡片吧。可触发演出技能来实现保持连击和取得高分等效果。"
 
 msgid "result_playlog_hint_009"
 msgstr "尽可能填充生物Fold波计量表来进入空战模式吧。准确度在GREAT以上即可填充。"
@@ -2378,190 +2377,206 @@ msgid "result_playlog_hint_011"
 msgstr "以进入超歌姬模式为目标，尽量选择援助值较高的卡片进行搭配吧！"
 
 msgid "result_playlog_hint_012"
-msgstr ""
+msgstr "重新搭配主动技能来提高分数吧。"
 
 msgid "result_playlog_graph_detail"
 msgstr ""
+"点击图表中的\n"
+"区域来查看\n"
+"相应详情。"
 
 msgid "popup_valkyrie_select_title"
-msgstr ""
+msgstr "确认更改"
 
 msgid "popup_event_reward_result_pt_title"
-msgstr ""
+msgstr "获得累计点数奖励"
 
 msgid "popup_event_reward_result_rank_title"
-msgstr ""
+msgstr "获得排名奖励"
 
 msgid "popup_event_reward_ranking_type001"
-msgstr ""
+msgstr "累计排名"
 
 msgid "popup_event_reward_ranking_type002"
-msgstr ""
+msgstr "EX战高分榜"
 
 msgid "popup_event_reward_ranking_type003"
-msgstr ""
+msgstr "歌姬分数排名"
 
 msgid "event_reward_result_present_box"
-msgstr ""
+msgstr "<color=#C8087E>歌晶石将发送至礼物箱。</color>"
 
 msgid "event_reward_result_present_box2"
-msgstr ""
+msgstr "<color=#C8087E>奖励将发送至礼物箱。</color>"
 
 msgid "event_reward_result_total"
-msgstr ""
+msgstr "获得奖励汇总"
 
 msgid "event_reward_result_get_pt"
-msgstr ""
+msgstr "获得点数总计"
 
 msgid "event_reward_result_win"
-msgstr ""
+msgstr "WIN"
 
 msgid "event_reward_result_lose"
-msgstr ""
+msgstr "LOSE"
 
 msgid "event_reward_result_wincountbonus_unit"
-msgstr ""
+msgstr "{0}连胜"
 
 msgid "event_reward_result_episodebonus_unit"
-msgstr ""
+msgstr "{0}回忆片段"
 
 msgid "event_reward_result_last_rank"
-msgstr ""
+msgstr "最终排名"
 
 msgid "event_reward_result_dash_bonus"
-msgstr ""
+msgstr "消耗加成{0}倍"
 
 msgid "popup_event_reward_check_pt_title"
-msgstr ""
+msgstr "累计点数奖励"
 
 msgid "popup_event_reward_check_rank_title"
-msgstr ""
+msgstr "排名奖励"
 
 msgid "popup_event_reward_check_plate_info_title"
-msgstr ""
+msgstr "卡片信息"
 
 msgid "popup_event_reward_check_pt"
-msgstr ""
+msgstr "【累计点数】"
 
 msgid "popup_event_reward_currentpoint_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "popup_event_reward_needpoint_unit"
-msgstr ""
+msgstr "{0}pt"
 
 msgid "popup_event_reward_currentrank_unit"
-msgstr ""
+msgstr "名"
 
 msgid "popup_event_reward_needrank_unit"
-msgstr ""
+msgstr "{0}名"
 
 msgid "popup_event_reward_needrankrange_unit"
-msgstr ""
+msgstr "{0}~{1}名"
 
 msgid "popup_event_reward_sns_itemtitle"
-msgstr ""
+msgstr "对话：{0}"
 
 msgid "popup_event_reward_emblemtitle"
-msgstr ""
+msgstr "称号：{0}"
 
 msgid "popup_event_reward_platetitle"
-msgstr ""
+msgstr "★{0} {1}"
 
 msgid "event_reward_check_have_pt"
-msgstr ""
+msgstr "目前点数"
 
 msgid "event_reward_check_rank"
-msgstr ""
+msgstr "目前排名"
 
 msgid "rhythm_adjust_set"
-msgstr ""
+msgstr "设定值"
 
 msgid "rhythm_adjust_desc"
 msgstr ""
+"请在听到打击音效时\n"
+"点击右方按钮。\n"
+"将自动进行延迟校正。\n"
+"可在确认模式中进行测试。"
 
 msgid "rhythm_adjust_balloon_text"
-msgstr ""
+msgstr "听到打击音效时按下"
 
 msgid "rhythm_adjust_confirmmode_title"
-msgstr ""
+msgstr "校正确认"
 
 msgid "rhythm_adjust_confirmmode_text"
 msgstr ""
+"已将延迟调整为{0}。\n"
+"要切换至确认模式吗？"
 
 msgid "popup_rhythm_adjust_result_title"
-msgstr ""
+msgstr "校正结果"
 
 msgid "popup_rhythm_adjust_result_text"
 msgstr ""
+"设定值{0}\n"
+"延迟已校正完毕。\n"
+"是否确认？"
 
 msgid "popup_rhythm_adjust_start_title"
-msgstr ""
+msgstr "校正模式"
 
 msgid "popup_rhythm_adjust_start_text"
-msgstr ""
+msgstr "开始校正延迟。"
 
 msgid "popup_rhythm_adjust_tutorial_title"
-msgstr ""
+msgstr "判定延迟"
 
 msgid "popup_result_playlog_detail_title"
-msgstr ""
+msgstr "游玩记录详情"
 
 msgid "popup_denom_check_birthday_title"
-msgstr ""
+msgstr "年龄确认"
 
 msgid "popup_denom_check_birthday_text"
-msgstr ""
+msgstr "要将生日设置为{0}年{1}月吗？"
 
 msgid "popup_denom_title"
-msgstr ""
+msgstr "歌晶石购买"
 
 msgid "denom_item_rest"
-msgstr ""
+msgstr "剩余{0}套"
 
 msgid "popup_denom_regist_birthday_title"
-msgstr ""
+msgstr "登记年龄"
 
 msgid "popup_denom_regist_birthday_text1"
-msgstr ""
+msgstr "请填写您的生日。"
 
 msgid "popup_denom_regist_birthday_text2"
 msgstr ""
 
 msgid "popup_option_various_info"
-msgstr ""
+msgstr "信息汇总"
 
 msgid "popup_option_ranking_title"
-msgstr ""
+msgstr "上次活动的排名"
 
 msgid "popup_option_ranking_notfound_title"
-msgstr ""
+msgstr "上次活动的排名"
 
 msgid "popup_option_ranking_notfound_msg"
 msgstr ""
+"查询不到活动排名信息。\n"
+"\n"
+"无法查询上次活动\n"
+"以外的信息。"
 
 msgid "profil_text_01"
-msgstr ""
+msgstr "未设置"
 
 msgid "profil_text_02"
-msgstr ""
+msgstr "未设置"
 
 msgid "profil_text_03"
-msgstr ""
+msgstr "无"
 
 msgid "profil_text_04"
-msgstr ""
+msgstr "RANK "
 
 msgid "profil_text_05"
-msgstr ""
+msgstr "{0}月{1}日可再次更改"
 
 msgid "popup_music_info_01"
-msgstr ""
+msgstr "要游玩此歌曲吗？"
 
 msgid "popup_buy_music_msg_android"
-msgstr ""
+msgstr "将跳转到外部网站。"
 
 msgid "popup_buy_music_msg_ios"
-msgstr ""
+msgstr "将跳转到外部网站。"
 
 msgid "popup_home_diva_01"
 msgstr ""
