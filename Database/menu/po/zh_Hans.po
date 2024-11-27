@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-26 16:28+0000\n"
+"PO-Revision-Date: 2024-11-28 02:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -74,10 +74,10 @@ msgstr ""
 "（最多输入{0}字）"
 
 msgid "popup_text_02"
-msgstr "无法卸下C位歌姬。"
+msgstr "无法卸下中心位歌姬。"
 
 msgid "popup_text_03"
-msgstr "无法卸下C位歌姬。"
+msgstr "无法卸下中心位歌姬。"
 
 msgid "popup_text_08"
 msgstr "歌姬数据"
@@ -197,14 +197,14 @@ msgid "pbox_text_04"
 msgstr ""
 "{0}\n"
 "\n"
-"已领取物品并增加LUCK值\n"
-"{1} 的LUCK值上升至 {2} 。"
+"已领取物品并增加幸运值\n"
+"{1} 的幸运值上升至 {2} 。"
 
 msgid "pbox_text_05"
 msgstr ""
 "{0}\n"
 "\n"
-"{1} 的LUCK值已达上限，\n"
+"{1} 的幸运值已达上限，\n"
 "已转换为{2} 。"
 
 msgid "pbox_text_06"
@@ -497,7 +497,7 @@ msgid "config_text_48"
 msgstr "<size=22>设置大厅界面显示的歌姬。</size>"
 
 msgid "config_text_49"
-msgstr "显示队伍c位的歌姬及其服装。"
+msgstr "显示队伍中心位的歌姬及其服装。"
 
 msgid "config_text_50"
 msgstr "显示后台中选择的歌姬。"
@@ -1157,7 +1157,7 @@ msgid "header_desc_option005"
 msgstr "选择项目"
 
 msgid "header_desc_option006"
-msgstr "选择商店"
+msgstr "选择兑换商店"
 
 msgid "header_desc_option007"
 msgstr "选择物品"
@@ -1289,7 +1289,7 @@ msgid "popup_reward_detail_005"
 msgstr "{0}×{1}"
 
 msgid "popup_reward_detail_title"
-msgstr "取得奖励"
+msgstr "获得奖励"
 
 msgid "pupup_app_exit_title"
 msgstr "退出APP确认"
@@ -1610,7 +1610,7 @@ msgid "music_event_battle_rank_unit"
 msgstr "名"
 
 msgid "music_event_battle_bp_counting_label"
-msgstr "EX战高分"
+msgstr "EX战高分榜"
 
 msgid "music_event_battle_rank_counting"
 msgstr "统计中"
@@ -1664,10 +1664,10 @@ msgid "ex_battle_non_record"
 msgstr "没有EX战分数记录。"
 
 msgid "event_battle_reward_check_hi_score"
-msgstr "EX战高分"
+msgstr "EX战高分榜"
 
 msgid "event_battle_reward_check_ranking"
-msgstr "EX战高分榜"
+msgstr "EX战分数排名"
 
 msgid "event_battle_reward_check_ranking_unit"
 msgstr "名"
@@ -1754,7 +1754,7 @@ msgstr ""
 "　将显示最早过期的奖券。"
 
 msgid "gacha_main_mpass_period"
-msgstr "使用期限： {0}/{1}/{2} {3}:{4:D2}为止"
+msgstr "使用时间： {0}/{1}/{2} {3}:{4:D2}为止"
 
 msgid "popup_record_plate_001"
 msgstr "已自动对重复的回忆卡片进行合成。"
@@ -2241,7 +2241,7 @@ msgstr ""
 
 msgid "popup_event_quest_select_lucky"
 msgstr ""
-"<color={0}>已选择幸运任务牌！</color>\n"
+"<color={0}>已选择幸运任务卡片！</color>\n"
 "完成任务时获得的点数将变为2倍。"
 
 msgid "event_quest_progress"
@@ -2254,7 +2254,7 @@ msgid "event_quest_touch_screen2"
 msgstr "点击画面开始洗牌"
 
 msgid "event_quest_touch_screen3"
-msgstr "选择1张牌"
+msgstr "选择1张卡片"
 
 msgid "event_quest_touch_screen4"
 msgstr "点击屏幕继续"
@@ -2398,7 +2398,7 @@ msgid "popup_event_reward_ranking_type001"
 msgstr "累计排名"
 
 msgid "popup_event_reward_ranking_type002"
-msgstr "EX战高分榜"
+msgstr "EX战分数排名"
 
 msgid "popup_event_reward_ranking_type003"
 msgstr "歌姬分数排名"
@@ -2580,606 +2580,775 @@ msgstr "将跳转到外部网站。"
 
 msgid "popup_home_diva_01"
 msgstr ""
+"歌姬设置可在“选择歌姬”中调整。\n"
+"\n"
+"可在设置中调整是否要\n"
+"在大厅显示队伍中心位歌姬。"
 
 msgid "balloon_story_new_chara"
-msgstr ""
+msgstr "解放歌姬的记忆吧"
 
 msgid "balloon_story_new_basara"
-msgstr ""
+msgstr "解放热气巴萨拉的记忆吧"
 
 msgid "balloon_story_new_stage"
-msgstr ""
+msgstr "解放歌曲记忆吧"
 
 msgid "balloon_story_new_sns"
-msgstr ""
+msgstr "超时空SNS已更新"
 
 msgid "balloon_event_prologue_loginbonus"
 msgstr ""
+"查看活动序章剧情\n"
+"来获取{0}吧"
 
 msgid "balloon_event_epilogue_loginbonus"
 msgstr ""
+"查看活动终章剧情\n"
+"来获取{0}吧"
 
 msgid "costume_select_text_01"
-msgstr ""
+msgstr "获取条件"
 
 msgid "costume_select_text_02"
 msgstr ""
+"完全解放\n"
+"回忆片段\n"
+"“{0}”"
 
 msgid "costume_select_text_03"
-msgstr ""
+msgstr "回忆片段未解放"
 
 msgid "costume_select_text_04"
 msgstr ""
+"“{0}”\n"
+"未持有回忆片段所对应的卡片\n"
+"获取卡片解放回忆片段吧"
 
 msgid "popup_unlock_diff_02"
-msgstr ""
+msgstr "<size=22>可以挑战HARD难度了！</size>"
 
 msgid "popup_unlock_diff_03"
-msgstr ""
+msgstr "<size=22>可以挑战VERY HARD难度了！</size>"
 
 msgid "popup_unlock_diff_04"
-msgstr ""
+msgstr "<size=22>可以挑战EXTREME难度了！</size>"
 
 msgid "popup_add_episode_01"
-msgstr ""
+msgstr "奖励可在回忆片段完全解放后获得。"
 
 msgid "popup_add_episode_02"
-msgstr ""
+msgstr "战机可在回忆片段完全解放后获得。"
 
 msgid "popup_add_episode_03"
-msgstr ""
+msgstr "服装可在回忆片段完全解放后获得。"
 
 msgid "popup_add_episode_04"
-msgstr ""
+msgstr "背景可在回忆片段完全解放后获得。"
 
 msgid "popup_release_ep_diva_costume"
-msgstr ""
+msgstr "{0}服装"
 
 msgid "popup_release_episode_01"
-msgstr ""
+msgstr "在回忆片段一览中解锁服装吧！"
 
 msgid "popup_release_episode_02"
-msgstr ""
+msgstr "在回忆片段一览中解锁战机吧！"
 
 msgid "popup_release_episode_03"
-msgstr ""
+msgstr "在回忆片段一览中解锁背景吧！"
 
 msgid "popup_event_end_title"
-msgstr ""
+msgstr "活动已结束"
 
 msgid "popup_event_end_text_1"
 msgstr ""
+"活动已结束。\n"
+"将返回标题界面。"
 
 msgid "popup_event_end_text_2"
 msgstr ""
+"活动已结束。\n"
+"将返回大厅界面。"
 
 msgid "popup_event_end_text_3"
-msgstr ""
+msgstr "活动已结束。"
 
 msgid "popup_beginner_mission_001"
 msgstr ""
+"恭喜！\n"
+"您已完成所有新手任务。\n"
+"\n"
+"还有更多任务等待您来完成\n"
+"请继续加油吧。"
 
 msgid "popup_gotitle_001"
 msgstr ""
+"将返回标题界面。\n"
+"是否确认？"
 
 msgid "skill_format_001"
-msgstr ""
+msgstr "<img={0}>　 {1}"
 
 msgid "skill_format_002"
-msgstr ""
+msgstr "<img={0}>　<img={1}>{2}"
 
 msgid "skill_format_003"
-msgstr ""
+msgstr "<img={0}>　  Lv{1}"
 
 msgid "skill_format_004"
-msgstr ""
+msgstr "{0} <img={1}>　 Lv{2}"
 
 msgid "tuto_gacha_title"
-msgstr ""
+msgstr "特殊抽卡"
 
 msgid "tuto_gacha_desc"
 msgstr ""
+"可通过消耗歌晶石\n"
+"来获得回忆卡片。"
 
 msgid "tuto_divaselect_popup_001"
-msgstr ""
+msgstr "【{0}】"
 
 msgid "tuto_divaselect_popup_002"
-msgstr ""
+msgstr "要选择这位歌姬开始游戏吗？"
 
 msgid "tuto_divaselect_popup_003"
-msgstr ""
+msgstr "<color=#C8087E>其余歌姬将在游戏进程中解锁。 </color>"
 
 msgid "popup_help_select_title"
-msgstr ""
+msgstr "帮助"
 
 msgid "story_diva_tilte_01"
-msgstr ""
+msgstr "“拼尽全力就能飞！”"
 
 msgid "story_diva_tilte_02"
-msgstr ""
+msgstr "“于你而言，唱歌是怎样的感觉？”"
 
 msgid "story_diva_tilte_03"
-msgstr ""
+msgstr "“在危险之中也要尽情享受！”"
 
 msgid "story_diva_tilte_04"
-msgstr ""
+msgstr "“无论如何也要一起唱歌！”"
 
 msgid "story_diva_tilte_05"
-msgstr ""
+msgstr "“乐在其中吧，我会尽我所能。”"
 
 msgid "story_diva_tilte_06"
-msgstr ""
+msgstr "“要把我的感受，唱给你听！”"
 
 msgid "story_diva_tilte_07"
-msgstr ""
+msgstr "“我要用我的歌声，撼动整个银河。”"
 
 msgid "story_diva_tilte_08"
-msgstr ""
+msgstr "“我可是音力小队的主唱！”"
 
 msgid "story_diva_tilte_09"
-msgstr ""
+msgstr "“让你也听听我的歌吧！”"
 
 msgid "story_diva_tilte_10"
-msgstr ""
+msgstr "“全心全意地为你而唱。”"
 
 msgid "story_diva_desc_01"
 msgstr ""
+"因憧憬战术音乐组合“女武神”\n"
+"而离开家乡外出闯荡的女孩。\n"
+"\n"
+"心地纯洁善良，非常喜欢唱歌，但不擅长舞蹈。\n"
+"头上的器官“Rune”会在情绪高涨时亮起。\n"
+"\n"
+"说话有特别的口音，常把“Gorigori”挂在嘴边。"
 
 msgid "story_diva_desc_02"
 msgstr ""
+"战术音乐组合“女武神”的主唱。\n"
+"\n"
+"身世成谜，无人知晓她的过去。\n"
+"宛如谜团一般的存在。\n"
+"\n"
+"对唱歌有着强烈的执着，\n"
+"无论身处怎样的危机下都不会放弃歌唱。"
 
 msgid "story_diva_desc_03"
 msgstr ""
+"战术音乐组合“女武神”的领队。\n"
+"\n"
+"对日程安排得心应手，\n"
+"十分可靠，是管理队伍的一把好手。\n"
+"\n"
+"在加入女武神之前，\n"
+"曾是一名个人偶像。"
 
 msgid "story_diva_desc_04"
 msgstr ""
+"战术音乐组合“女武神”的成员。\n"
+"\n"
+"出生于机械师世家，\n"
+"自身也是一名出色的机械师。\n"
+"\n"
+"喜欢给同伴和机甲起外号。\n"
+"和蕾娜情同姐妹。"
 
 msgid "story_diva_desc_05"
 msgstr ""
+"战术音乐组合“女武神”的成员。\n"
+"\n"
+"说话毒舌，外表冷若冰霜。\n"
+"\n"
+"是一名出色的黑客，\n"
+"精通各种电子技术。\n"
+"和玛基娜关系要好，甚至居住于同一屋檐下。"
 
 msgid "story_diva_desc_06"
 msgstr ""
+"在机缘巧合下得以出道，\n"
+"一跃成为人气偶像的“超时空灰姑娘”。\n"
+"\n"
+"性格温柔善良，勤奋刻苦。\n"
+"\n"
+"从小就十分喜欢唱歌，\n"
+"对雪莉露怀有仰慕之情。"
 
 msgid "story_diva_desc_07"
 msgstr ""
+"被誉为“只要是银河系的居民，就没有一天会不听\n"
+"雪莉露的歌”的顶尖歌手。\n"
+"\n"
+"人送外号“银河妖精”。\n"
+"\n"
+"对自己身为专业歌手感到自豪，\n"
+"不遗余力地维持着一流水准。"
 
 msgid "story_diva_desc_08"
 msgstr ""
+"摇滚乐队“Fire Bomber”的主唱兼贝斯手。\n"
+"\n"
+"在七姐妹中排行老幺。性格直爽，无所畏惧，\n"
+"讨厌被当作小孩看待。\n"
+"\n"
+"无论是作为歌手还是飞行员，\n"
+"都有不逊于巴萨拉的实力。"
 
 msgid "story_diva_desc_09"
 msgstr ""
+"摇滚乐队“Fire Bomber”的主唱兼吉他手。\n"
+"\n"
+"把唱歌放在第一位，不喜欢参与事端。\n"
+"见人就说“听我的歌吧！”\n"
+"\n"
+"认为歌声可以消除一切隔阂。"
 
 msgid "story_diva_desc_10"
 msgstr ""
+"名垂青史的传奇歌手。\n"
+"\n"
+"性格乐观爽朗，\n"
+"但也有些许任性的一面。\n"
+"\n"
+"她的魅力和歌声，\n"
+"曾令与人类处于战争之中的杰特拉帝人也为之折服，\n"
+"并最终将文化带给了他们。"
 
 msgid "sns_notify_fmt"
-msgstr ""
+msgstr "{0}发来了一则信息。"
 
 msgid "unlock_costume_not_have_diva"
 msgstr ""
+"没有可以装备这件衣服的歌姬。\n"
+"请先前往记忆时空解放歌姬的记忆。"
 
 msgid "unlock_costume_not_have_basara"
 msgstr ""
+"由于巴萨拉缺席，此服装暂时无法装备。\n"
+"请先前往记忆时空解放巴萨拉的记忆。"
 
 msgid "scenelist_not_listed_up"
-msgstr ""
+msgstr "未持有该回忆卡片。"
 
 msgid "popup_adv_skip_title"
-msgstr ""
+msgstr "跳过确认"
 
 msgid "popup_adv_skip_text"
 msgstr ""
+"将跳过{0}。\n"
+"是否确认？"
 
 msgid "popup_adv_skip_target001"
-msgstr ""
+msgstr "对话"
 
 msgid "popup_adv_skip_target002"
-msgstr ""
+msgstr "开幕"
 
 msgid "popup_cbt_purchase"
 msgstr ""
+"B测期间无法\n"
+"购买歌晶石。"
 
 msgid "questionary_notification_000"
-msgstr ""
+msgstr "请选择其中一项。"
 
 msgid "questionary_notification_001"
-msgstr ""
+msgstr "请选择其中{0}项。"
 
 msgid "questionary_notification_002"
-msgstr ""
+msgstr "选择结果不会影响游戏内容。"
 
 msgid "popup_sns_desc_001"
 msgstr ""
+"{0}\n"
+"已完成\n"
+"\n"
+"可领取任务奖励。"
 
 msgid "popup_story_termination"
 msgstr ""
+"已解放记忆时空内\n"
+"所有的记忆。"
 
 msgid "popup_unlock_desc_title"
-msgstr ""
+msgstr "解放歌曲记忆"
 
 msgid "popup_episodebonus_platelist_title"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_episodebonus_nothingplate"
-msgstr ""
+msgstr "未持有该回忆片段所对应的卡片。"
 
 msgid "push_notify_lb_title"
-msgstr ""
+msgstr "领取登录奖励吧！"
 
 msgid "push_notify_lb_msg_01"
-msgstr ""
+msgstr "登录2天送100歌晶石！马上登录吧！"
 
 msgid "push_notify_debut_vc_title"
-msgstr ""
+msgstr "歌晶石折扣已开启！"
 
 msgid "push_notify_debut_vc_msg_01"
-msgstr ""
+msgstr "限时折扣歌晶石即将售罄！"
 
 msgid "popup_limit_over_add"
-msgstr ""
+msgstr "可解放幸运草新能力。"
 
 msgid "popup_limit_over_release_01"
-msgstr ""
+msgstr "已添加幸运草效果！"
 
 msgid "popup_limit_over_release_02"
 msgstr ""
+"已增加幸运草效果！\n"
+"还可以进一步解放幸运草能力。"
 
 msgid "limit_over_excellent_rate_01"
 msgstr ""
+"PERFECT变为<color=#C8087E>EXCELLENT</color>的概率+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_excellent_rate_02"
 msgstr ""
+"PERFECT变为<color=#C8087E>EXCELLENT</color>的概率+<color=#C8087E>{0}</color>%"
+"\n"
+"卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{ma}</color>%"
 
 msgid "limit_over_excellent_rate_03"
 msgstr ""
+"PERFECT变为<color=#C8087E>EXCELLENT</color>的概率+<color=#C8087E>{0}</color>%"
+"\n"
+"卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{ma}</color>%\n"
+"卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{sa}</color>"
+"%"
 
 msgid "limit_over_excellent_rate_04"
-msgstr ""
+msgstr "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_excellent_rate_05"
-msgstr ""
+msgstr "卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_excellent_effect_01"
-msgstr ""
+msgstr "<color=#C8087E>EXCELLENT</color>出现时分数+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_excellent_effect_02"
 msgstr ""
+"<color=#C8087E>EXCELLENT</color>出现时分数+<color=#C8087E>{0}</color>%\n"
+"卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{1}</color>%"
 
 msgid "limit_over_excellent_effect_03"
-msgstr ""
+msgstr "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_center_live_skill_01"
-msgstr ""
+msgstr "<color=#C8087E>中心演出技能音符</color>的出现概率+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_center_live_skill_02"
 msgstr ""
+"<color=#C8087E>中心演出技能音符</color>的出现概率+<color=#C8087E>{0}</color>%"
+"\n"
+"卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{ma}</color>%"
 
 msgid "limit_over_center_live_skill_03"
 msgstr ""
+"<color=#C8087E>中心演出技能音符</color>的出现概率+<color=#C8087E>{0}</color>%"
+"\n"
+"卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{ma}</color>%\n"
+"卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{sa}</color>"
+"%"
 
 msgid "limit_over_center_live_skill_04"
-msgstr ""
+msgstr "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_center_live_skill_05"
-msgstr ""
+msgstr "卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_unlock_01"
-msgstr ""
+msgstr "【解放条件】幸运值{0}以上"
 
 msgid "limit_over_unlock_02"
-msgstr ""
+msgstr "【解放条件】幸运值{0}以上　<size=18><color=#8e0529>LUCK不足。</color></size>"
 
 msgid "limit_over_unlock_03"
-msgstr ""
+msgstr "已解放此幸运草的所有效果。"
 
 msgid "limit_over_unlock_04"
-msgstr ""
+msgstr "※主卡片与歌姬不匹配时也能触发。"
 
 msgid "limit_over_popup_title"
-msgstr ""
+msgstr "幸运草效果"
 
 msgid "limit_over_popup_caution"
-msgstr ""
+msgstr "※★{0}卡片在最大程度解放后将变为高阶卡片。"
 
 msgid "popup_limit_over_list_title"
-msgstr ""
+msgstr "幸运草一览"
 
 msgid "popup_limit_over_list_count"
-msgstr ""
+msgstr "{0}张"
 
 msgid "popup_limit_over_list_none_desc"
-msgstr ""
+msgstr "没有可以显示的卡片。"
 
 msgid "popup_dash_ticket_title"
-msgstr ""
+msgstr "选择入场券消耗数量"
 
 msgid "popup_dash_energy_title"
-msgstr ""
+msgstr "选择体力消耗点数"
 
 msgid "popup_dash_button"
-msgstr ""
+msgstr "{0}倍"
 
 msgid "popup_dash_cost_energy"
-msgstr ""
+msgstr "体力消耗量{0}"
 
 msgid "popup_dash_own_energy"
-msgstr ""
+msgstr "目前体力{0}"
 
 msgid "popup_dash_cost_ticket"
-msgstr ""
+msgstr "消费入场券{0}张"
 
 msgid "popup_dash_own_ticket"
-msgstr ""
+msgstr "持有入场券{0}张"
 
 msgid "popup_dash_caution"
-msgstr ""
+msgstr "选择的倍率越高，获得的活动点数也越高。"
 
 msgid "popup_dash_caution_skip"
-msgstr ""
+msgstr "只能在1倍消耗下使用跳过功能。"
 
 msgid "popup_dash_cost_over_energy"
-msgstr ""
+msgstr "<color=#8e0529>无法回复至需要消耗的体力点数，因此无法选择。</color>"
 
 msgid "popup_dash_cost_over_ticket"
-msgstr ""
+msgstr "<color=#8e0529>入场券不足，因此无法选择。</color>"
 
 msgid "popup_rcmd_app_update_title"
-msgstr ""
+msgstr "APP升级"
 
 msgid "popup_rcmd_app_update_an"
 msgstr ""
+"需要安装新版本。\n"
+"请前往Google Play\n"
+"进行升级。\n"
+"若更新失败，请重启设备。"
 
 msgid "popup_rcmd_app_update_ios"
 msgstr ""
+"需要安装新版本。\n"
+"请前往App Store\n"
+"进行升级。\n"
+"若更新失败，请重启设备。"
 
 msgid "game_popup_mvpause_title"
-msgstr ""
+msgstr "暂停中"
 
 msgid "game_popup_mvpause_text"
 msgstr ""
+"歌名\n"
+"{0}\n"
+"\n"
+"难度\n"
+"{1}"
 
 msgid "game_mvmode_endtitle_text"
-msgstr ""
+msgstr "退出确认"
 
 msgid "game_mvmode_end_text"
 msgstr ""
+"将退出模拟演出。\n"
+"是否确认？"
 
 msgid "mvmode_setting_popuptitle_000"
-msgstr ""
+msgstr "选择歌姬"
 
 msgid "mvmode_setting_popuptitle_001"
-msgstr ""
+msgstr "选择服装"
 
 msgid "mvmode_setting_popuptitle_002"
-msgstr ""
+msgstr "选择战机"
 
 msgid "mvmode_setting_menu_000"
-msgstr ""
+msgstr "<size=22>进入空战模式</size>"
 
 msgid "mvmode_setting_menu_001"
-msgstr ""
+msgstr "<size=22>进入超歌姬模式</size>"
 
 msgid "mvmode_setting_menu_002"
-msgstr ""
+msgstr "<color=#8e0529>关闭后，将不会显示音符。</color>"
 
 msgid "mvmode_setting_popup_text_000_000"
-msgstr ""
+msgstr "大厅歌姬"
 
 msgid "mvmode_setting_popup_text_000_001"
-msgstr ""
+msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_000"
-msgstr ""
+msgstr "歌姬正在装备的服装"
 
 msgid "mvmode_setting_popup_text_001_001"
-msgstr ""
+msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_002"
-msgstr ""
+msgstr "巴萨拉正在装备的衣服"
 
 msgid "mvmode_setting_popup_text_002_000"
-msgstr ""
+msgstr "队伍中设置的战机"
 
 msgid "mvmode_setting_popup_text_002_001"
 msgstr ""
+"{0} {1}\n"
+"{2}"
 
 msgid "mvmode_check_popup_title"
-msgstr ""
+msgstr "消耗物品"
 
 msgid "mvmode_check_popup_text"
 msgstr ""
+"消耗{0}个S-LIVE代币\n"
+"观看模拟演出。\n"
+"\n"
+"<color=#8e0529>物品不足。</color>"
 
 msgid "prism_caution"
-msgstr ""
+msgstr "可改变演出中歌姬和战机的外观。"
 
 msgid "item_popup_shop_text_00"
-msgstr ""
+msgstr "物品兑换"
 
 msgid "item_popup_shop_text_01"
-msgstr ""
+msgstr "持有："
 
 msgid "item_popup_shop_text_02"
-msgstr ""
+msgstr "需要："
 
 msgid "item_popup_shop_text_03"
-msgstr ""
+msgstr "将{0}兑换为{1}。"
 
 msgid "item_popup_shop_text_04"
-msgstr ""
+msgstr "剩余{0}次"
 
 msgid "item_popup_shop_text_05"
-msgstr ""
+msgstr "领取物品"
 
 msgid "item_popup_shop_text_06"
 msgstr ""
+"{0}将在\n"
+"{1}/{2}/{3} {4:}:{5:00}消失。"
 
 msgid "item_popup_shop_text_07"
 msgstr ""
+"{0}将在\n"
+"{1}/{2}/{3} {4:}:{5:00}消失。\n"
+"\n"
+"{0}只能在\n"
+"充值歌晶石时获得。"
 
 msgid "item_popup_shop_text_08"
-msgstr ""
+msgstr "{0}有使用时间限制。确定要兑换吗？"
 
 msgid "item_popup_shop_text_09"
-msgstr ""
+msgstr "以上为即将要兑换的物品的有效期。"
 
 msgid "item_episode_plate"
-msgstr ""
+msgstr "回忆卡片"
 
 msgid "item_shop_medal_period"
-msgstr ""
+msgstr "奖章将在{0}/{1} {2}:{3:D2}消失。"
 
 msgid "item_shop_sphere_period"
-msgstr ""
+msgstr "泪晶将在{0}/{1} {2}:{3:D2}消失。"
 
 msgid "item_shop_caution"
-msgstr ""
+msgstr "所需的物品不足，无法兑换。"
 
 msgid "item_shop_caution_max"
-msgstr ""
+msgstr "物品持有数量已达上限，无法兑换。"
 
 msgid "item_shop_closed"
-msgstr ""
+msgstr "目前无法使用。"
 
 msgid "item_shop_period"
-msgstr ""
+msgstr "兑换时间　{0}/{1} {2}:{3:D2}为止"
 
 msgid "item_shop_get_period"
-msgstr ""
+msgstr "领取时间　{0}/{1} {2}:{3:D2}为止"
 
 msgid "item_shop_reset_period"
-msgstr ""
+msgstr "{0}/{1} {2}:{3:D2}为止"
 
 msgid "item_shop_limit_period"
-msgstr ""
+msgstr "{0}/{1} {2}:{3:D2}为止"
 
 msgid "event_mission_message_000"
-msgstr ""
+msgstr "+{0}%"
 
 msgid "event_mission_message_001"
-msgstr ""
+msgstr "选择要挑战的任务吧"
 
 msgid "music_select_event_bonus"
-msgstr ""
+msgstr "加成歌曲增加{0}%"
 
 msgid "event_mission_changemusic_title"
-msgstr ""
+msgstr "选择歌曲"
 
 msgid "event_mission_changemusic_title2"
-msgstr ""
+msgstr "关于加成歌曲"
 
 msgid "event_mission_changemusic_desc_001"
 msgstr ""
+"该歌曲游玩时间已结束\n"
+"已重新选择歌曲。"
 
 msgid "event_mission_changemusic_desc_002"
 msgstr ""
+"每日歌曲\n"
+"的游玩次数已达上限。\n"
+"已重新选择歌曲。"
 
 msgid "event_mission_changemusic_desc_003"
-msgstr ""
+msgstr "加成歌曲已更换。"
 
 msgid "event_mission_changemusic_caution"
-msgstr ""
+msgstr "从加成歌曲中随机选择。"
 
 msgid "event_mission_changemusic_caution2"
-msgstr ""
+msgstr "上一轮游玩的歌曲已不再受到加成。"
 
 msgid "event_mission_changemusic_format"
-msgstr ""
+msgstr "{0}{1}{2}"
 
 msgid "event_mission_setting_title"
-msgstr ""
+msgstr "任务设置"
 
 msgid "event_mission_setting_desc_001"
-msgstr ""
+msgstr "歌曲选择设置"
 
 msgid "event_mission_setting_desc_002"
-msgstr ""
+msgstr "选择任务后，将自动套用至目前选择的歌曲上。"
 
 msgid "event_mission_setting_desc_003"
-msgstr ""
+msgstr "可随意重新选择歌曲。"
 
 msgid "event_mission_setting_desc_004"
-msgstr ""
+msgstr "从加成歌曲中随机选择"
 
 msgid "event_mission_setting_desc_005"
-msgstr ""
+msgstr "选择上一轮游玩的歌曲"
 
 msgid "event_mission_comborank"
 msgstr ""
+"\n"
+"({0}连击)"
 
 msgid "simulation_result_anim_name_01"
-msgstr ""
+msgstr "超时空要塞Δ（全26集）"
 
 msgid "simulation_result_anim_name_02"
-msgstr ""
+msgstr "超时空要塞F（全25集）"
 
 msgid "simulation_result_anim_name_03"
-msgstr ""
+msgstr "超时空要塞7（全52集）"
 
 msgid "simulation_result_anim_name_04"
-msgstr ""
+msgstr "超时空要塞Macross（全36集）"
 
 msgid "popup_music_rate_title"
-msgstr ""
+msgstr "歌曲评分详情"
 
 msgid "popup_music_grade_title"
-msgstr ""
+msgstr "歌手等级一览"
 
 msgid "popup_music_rate_total"
-msgstr ""
+msgstr "总计"
 
 msgid "popup_music_rate_up"
-msgstr ""
+msgstr "↑"
 
 msgid "popup_music_rate_not_found"
-msgstr ""
+msgstr "没有歌曲评分记录。"
 
 msgid "popup_music_rate_ranking_not_found"
-msgstr ""
+msgstr "没有歌曲评分排名记录。"
 
 msgid "popup_music_rate_next_01"
-msgstr ""
+msgstr "还有"
 
 msgid "popup_music_rate_next_02"
-msgstr ""
+msgstr "到"
 
 msgid "popup_music_rate_must"
-msgstr ""
+msgstr "所需歌曲评分"
 
 msgid "popup_music_rate_get_reward_desc_01"
-msgstr ""
+msgstr "已提升歌手等级，获得物品奖励。"
 
 msgid "popup_music_rate_get_reward_desc_02"
-msgstr ""
+msgstr "奖励将全部发送至礼物箱。"
 
 msgid "popup_music_rate_desc"
-msgstr ""
+msgstr "由高分榜前10名歌曲的评分累计而成。"
 
 msgid "popup_music_rate_rank_unit"
-msgstr ""
+msgstr "{0}名"
 
 msgid "event_gacha_box_period"
-msgstr ""
+msgstr "活动时间{0}/{1}/{2} {3}:{4:D2} ~ {5}/{6}/{7} {8}:{9:D2}"
 
 msgid "event_gacha_box_medama_plate_name"
-msgstr ""
+msgstr "大奖卡片"
 
 msgid "event_gacha_box_list_count"
-msgstr ""
+msgstr "奖励清单{0}"
 
 msgid "popup_event_gacha_box_text_01"
-msgstr ""
+msgstr "娘抽彩☆　剩余奖励"
 
 msgid "popup_event_gacha_box_text_02"
-msgstr ""
+msgstr "剩余"
 
 msgid "popup_event_gacha_box_text_03"
-msgstr ""
+msgstr "奖池已全部抽取，将替换奖池内的奖励。"
 
 msgid "popup_event_gacha_box_text_04"
 msgstr ""
+"抽奖活动已结束。\n"
+"将返回标题界面。"
 
 msgid "popup_event_gacha_box_text_05"
-msgstr ""
+msgstr "详情将在{0}/{1}/{2} {3}:{4:D2} 公布。"
 
 msgid "popup_event_gacha_box_text_06"
 msgstr ""
