@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-29 03:28+0000\n"
+"PO-Revision-Date: 2024-11-30 04:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -4764,7 +4764,7 @@ msgstr "{0}个"
 
 msgid "pop_deco_item_content"
 msgstr ""
-"仅统计“室内装饰”和“对白”的数量。\n"
+"仅统计“室内装饰”和“短语”的数量。\n"
 "不包含“服装模特架”、\n"
 "“飞机模型”、“吉祥物”\n"
 "以及“海报”。"
@@ -4804,7 +4804,7 @@ msgid "pop_deco_sp_item_cannon_suffix"
 msgstr "%"
 
 msgid "pop_deco_sp_item_cannon_title"
-msgstr "Macross加农炮能量槽"
+msgstr "Macross加农能量槽"
 
 msgid "pop_deco_sp_item_itemlist_title"
 msgstr "回收物品"
@@ -4818,7 +4818,7 @@ msgstr ""
 "无法继续充能。"
 
 msgid "pop_deco_sp_item_cannon_text003"
-msgstr "※可使用Macross加农炮进行充能。"
+msgstr "※可使用Macross加农进行充能。"
 
 msgid "pop_deco_sp_item_remove_title"
 msgstr "收纳Extra物品"
@@ -4840,634 +4840,798 @@ msgid "pop_deco_gift_success_title"
 msgstr "已赠送物品"
 
 msgid "pop_deco_gift_failed_title"
-msgstr ""
+msgstr "最多可赠送"
 
 msgid "pop_deco_gift_multi_message"
-msgstr ""
+msgstr "已成功赠送给{0}人。"
 
 msgid "pop_deco_gift_single_message"
-msgstr ""
+msgstr "礼物已送达。"
 
 msgid "pop_deco_gift_failed_message"
-msgstr ""
+msgstr "今天已无法继续赠送礼物。"
 
 msgid "pop_deco_gift_item_message"
 msgstr ""
+"{0}\n"
+"{1}{2}获得"
 
 msgid "pop_deco_option_title"
-msgstr ""
+msgstr "房间模式设置"
 
 msgid "pop_deco_option_desc_display"
-msgstr ""
+msgstr "房间内物品的显示设置。"
 
 msgid "raid_bossselect_none_text01"
-msgstr ""
+msgstr "未发现暴走敌人。"
 
 msgid "raid_bossselect_none_text02"
-msgstr ""
+msgstr "可使用“{0}”寻找暴走敌人。"
 
 msgid "raid_bossselect_rescue_time"
-msgstr ""
+msgstr "还有{0:D2}:{1:D2}"
 
 msgid "raid_first_attack_free_ap_01"
-msgstr ""
+msgstr "可进行支援！"
 
 msgid "raid_first_attack_free_ap_02"
 msgstr ""
+"可支援对此敌人的进攻。\n"
+"无需消耗次数即可进行跳过。"
 
 msgid "raid_assist_attack_skip_01"
 msgstr ""
+"一次无需消耗\n"
+"次数的跳过机会！"
 
 msgid "pop_raid_helprequest_confirmed_title"
-msgstr ""
+msgstr "救援确认"
 
 msgid "pop_raid_helprequest_confirmed_text"
 msgstr ""
+"您尚未参战。\n"
+"将无法获得奖励。"
 
 msgid "pop_raid_helprequest_failed_text01"
 msgstr ""
+"战队大厅内尚未加入其它玩家，\n"
+"无法发送救援信号。\n"
+"\n"
+"<color=#C6077CFF>※救援信号实际未发送。</color>"
 
 msgid "pop_raid_helprequest_failed_text02"
 msgstr ""
+"救援信号已发送，\n"
+"但没有玩家回应。\n"
+"\n"
+"<color=#C6077CFF>※将不消耗救援信号次数。</color>"
 
 msgid "pop_raid_bosspop_title"
-msgstr ""
+msgstr "搜索暴走敌人"
 
 msgid "pop_raid_bosspop_text01"
 msgstr ""
+"使用{0}\n"
+"搜索暴走敌人。\n"
+"\n"
+"<color=#C6077CFF>{0}　{1}→{2}</color>"
 
 msgid "pop_raid_bosspop_not_text01"
 msgstr ""
+"未持有{0}。\n"
+"{0}有概率在游玩\n"
+"歌曲后获得。\n"
+"\n"
+"<color=#C6077CFF>{0}　{1}</color>"
 
 msgid "pop_raid_helprequest_title"
-msgstr ""
+msgstr "救援确认"
 
 msgid "pop_raid_helprequest_loby"
-msgstr ""
+msgstr "向Macross大厅发送救援信号"
 
 msgid "pop_raid_helprequest_friend"
-msgstr ""
+msgstr "优先发送给好友"
 
 msgid "pop_raid_helprequest_all"
-msgstr ""
+msgstr "向所有人发送救援信号"
 
 msgid "pop_raid_boss_sort_title"
-msgstr ""
+msgstr "变更排序"
 
 msgid "pop_raid_cannon_plate_title"
-msgstr ""
+msgstr "装填卡片确认　<size=22>※消费1管Macross加农能量槽</size>"
 
 msgid "pop_raid_cannon_plate_bonus_format"
-msgstr ""
+msgstr "{0}加成：<color=#C8087E>{1}％</color>"
 
 msgid "pop_raid_cannon_plate_text01"
-msgstr ""
+msgstr "主炮威力：{0}"
 
 msgid "pop_raid_cannon_plate_text02"
 msgstr ""
+"装填以下【<color=#C8087E>{0}张</color>】卡片发射Macross加农。\n"
+"※对同一暴走敌人，每张卡片只能装填1次。"
 
 msgid "pop_raid_cannon_plate_text03"
 msgstr ""
+"所有卡片均已使用，将在不装填卡片的情况下发射Macross加农。\n"
+"※对同一暴走敌人，每张卡片只能装填1次。"
 
 msgid "pop_raid_cannon_plate_text04"
-msgstr ""
+msgstr "没有可以使用的卡片。"
 
 msgid "pop_raid_init_sort_text"
 msgstr ""
+"此筛选条件下\n"
+"不存在暴走敌人。\n"
+"\n"
+"将恢复默认筛选。"
 
 msgid "pop_raid_warning_sort_text"
 msgstr ""
+"不存在与筛选条件\n"
+"一致的暴走敌人。\n"
+"\n"
+"请重新进行筛选。"
 
 msgid "raid_announce_text"
-msgstr ""
+msgstr "得到了{0}的支援，Macross加农充能增加{1}%。"
 
 msgid "raid_announce_text02"
-msgstr ""
+msgstr "得到了{0}等人的{2}次支援，Macross加农充能增加{1}%。"
 
 msgid "raid_announce_text03"
-msgstr ""
+msgstr "得到了战队成员的{2}次支援，Macross加农充能增加{1}%。"
 
 msgid "raid_top_gauge_text"
 msgstr ""
+"在伙伴的帮助下\n"
+"Macross加农的充能增加{0}%！"
 
 msgid "raid_top_gauge_max_text"
 msgstr ""
+"能量已达到上限\n"
+"无法继续充能。"
 
 msgid "raid_act_support_desc_text"
-msgstr ""
+msgstr "不消耗次数跳过演出！"
 
 msgid "raid_act_fullpower_desc_text"
-msgstr ""
+msgstr "对敌人造成巨大伤害！"
 
 msgid "raid_damage_result_text"
-msgstr ""
+msgstr "伤害"
 
 msgid "raid_damage_result_gauge_max_text"
-msgstr ""
+msgstr "能量已达到上限，无法继续充能。"
 
 msgid "pop_raid_ap_heal_title"
-msgstr ""
+msgstr "AP回复确认"
 
 msgid "pop_raid_ap_heal_text"
-msgstr ""
+msgstr "使用道具回复AP值。"
 
 msgid "pop_raid_ap_heal_item01_text01"
-msgstr ""
+msgstr "歌晶石×{0}颗"
 
 msgid "pop_raid_ap_heal_item01_text02"
-msgstr ""
+msgstr "使用后将回复{0}点AP。"
 
 msgid "pop_raid_ap_heal_item01_text03"
-msgstr ""
+msgstr "持有：{0}颗"
 
 msgid "pop_raid_ap_heal_item02_text01"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_raid_ap_heal_item02_text02"
-msgstr ""
+msgstr "使用后将回复{0}点AP。"
 
 msgid "pop_raid_ap_heal_item02_text03"
-msgstr ""
+msgstr "持有：{0}颗"
 
 msgid "pop_raid_ap_heal_item03_text01"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_raid_ap_heal_item03_text02"
-msgstr ""
+msgstr "使用后将回复1点AP。"
 
 msgid "pop_raid_ap_heal_item03_text03"
-msgstr ""
+msgstr "持有：{0}颗"
 
 msgid "pop_raid_heal_item_cannon_text001"
-msgstr ""
+msgstr "Macross加农能量槽充能"
 
 msgid "pop_raid_heal_item_cannon_text002"
 msgstr ""
+"消耗{1}颗{0}\n"
+"增加Macross加农{2}%的充能。\n"
+"可最多充能至200%。\n"
+"\n"
+"<color=#C6077CFF>{0}　{3}→{4}</color>"
 
 msgid "pop_raid_heal_item_cannon_text003"
 msgstr ""
+"未持有为Macross加农充能\n"
+"所需的{0}。"
 
 msgid "pop_raid_heal_item_cannon_text004"
 msgstr ""
+"无法为Macross加农\n"
+"继续充能。"
 
 msgid "pop_raid_heal_item_cannon_text005"
-msgstr ""
+msgstr "Macross加农充能完毕。"
 
 msgid "raid_mvp_notes_text"
-msgstr ""
+msgstr "包含所有难度的排名。"
 
 msgid "raid_mvp_desc_text"
-msgstr ""
+msgstr "※累计伤害为对该敌人施加的所有伤害的累计值"
 
 msgid "raid_mvp_cell_text01"
-msgstr ""
+msgstr "第1名的点数"
 
 msgid "raid_mvp_cell_text02"
-msgstr ""
+msgstr "第2名的点数"
 
 msgid "raid_mvp_info_text01"
-msgstr ""
+msgstr "此暴走敌人没有MVP。"
 
 msgid "raid_mvp_info_text02"
-msgstr ""
+msgstr "此暴走敌人没有其它参战成员。"
 
 msgid "raid_mvp_info_text03"
-msgstr ""
+msgstr "您未参战此暴走敌人。"
 
 msgid "pop_raid_defeated_title"
-msgstr ""
+msgstr "被击败的暴走敌人"
 
 msgid "pop_raid_defeated_text"
 msgstr ""
+"选中的暴走敌人已被击败。\n"
+"将更新列表。"
 
 msgid "pop_raid_escaped01_title"
-msgstr ""
+msgstr "未成功击败的暴走敌人"
 
 msgid "pop_raid_escaped01_text"
 msgstr ""
+"未成功击败选中的暴走敌人。\n"
+"将更新列表。"
 
 msgid "pop_raid_escaped02_title"
-msgstr ""
+msgstr "未成功击败的暴走敌人"
 
 msgid "pop_raid_escaped02_text"
 msgstr ""
+"未成功击败选中的暴走敌人。\n"
+"将不会给予点数。"
 
 msgid "pop_raid_enemy_escape_title"
-msgstr ""
+msgstr "未成功击败暴走敌人"
 
 msgid "pop_raid_enemy_escape_enemyselect_text"
 msgstr ""
+"由于超时，暴走敌人已逃脱。\n"
+"将更新列表。"
 
 msgid "pop_raid_enemy_escape_result_text"
-msgstr ""
+msgstr "由于超时，暴走敌人已逃脱。"
 
 msgid "pop_raid_radar_failed_title"
-msgstr ""
+msgstr "搜索暴走敌人"
 
 msgid "pop_raid_rader_failed_text"
 msgstr ""
+"可挑战的暴走敌人已达上限！\n"
+"请先击败已发现的暴走敌人\n"
+"以减少数量。\n"
+"\n"
+"<color=#C6077CFF>Fold雷达未消耗。</color>"
 
 msgid "pop_raid_time_warning_title"
-msgstr ""
+msgstr "剩余时间警告"
 
 msgid "pop_raid_time_warning_text"
 msgstr ""
+"剩余时间已不到5分钟。\n"
+"若未能成功击败暴走敌人\n"
+"将不会给予点数。\n"
+"\n"
+"要进行演出吗？"
 
 msgid "pop_raid_assist_attack_skip_title"
-msgstr ""
+msgstr "关于支援"
 
 msgid "pop_raid_assist_attack_skip_desc_01"
 msgstr ""
+"基于跳过演出所得的分数\n"
+"对敌人造成相应的伤害。\n"
+"对同一敌人只能进行一次支援。\n"
+"\n"
+"<color=#C6077CFF>※不会消耗演出跳过券。</color>"
 
 msgid "pop_raid_assist_attack_skip_desc_02"
 msgstr ""
+"在超银河总力LIVE中进行支援\n"
+"将无法消耗演出跳过券。\n"
+"\n"
+"在进行支援时即便不使用演出跳过券\n"
+"也必定会跳过演出。"
 
 msgid "pop_valyrietuneup_needitemdesc"
-msgstr ""
+msgstr "消耗{0}和{1}。"
 
 msgid "customstamp_createt_itle"
-msgstr ""
+msgstr "表情一览"
 
 msgid "customstamp_longtap_desc"
-msgstr ""
+msgstr "※长按表情以删除。"
 
 msgid "customstamp_sort_title"
-msgstr ""
+msgstr "替换表情"
 
 msgid "pop_customstamp_createlimit_title"
-msgstr ""
+msgstr "表情制作上限"
 
 msgid "pop_customstamp_createlimit_desc"
 msgstr ""
+"制作的表情数量已达上限。\n"
+"\n"
+"请删除已保存的表情\n"
+"再制作新表情。"
 
 msgid "pop_customstamp_sort_save_title"
-msgstr ""
+msgstr "保存确认"
 
 msgid "pop_customstamp_sort_save_desc"
-msgstr ""
+msgstr "要保存目前的表情排列吗？"
 
 msgid "pop_customstamp_edit_save_title"
-msgstr ""
+msgstr "已保存表情{0}。"
 
 msgid "pop_customstamp_delete_title"
-msgstr ""
+msgstr "要删除表情{0}吗？"
 
 msgid "pop_customstamp_deletecheck_title"
-msgstr ""
+msgstr "已删除表情{0}。"
 
 msgid "valkyrie_tuneup_skill_not"
-msgstr ""
+msgstr "未解锁"
 
 msgid "pop_deco_get_title"
-msgstr ""
+msgstr "获得{0}"
 
 msgid "pop_deco_get_desc"
-msgstr ""
+msgstr "已获得房间装饰{0}。"
 
 msgid "pop_deco_get_limit"
-msgstr ""
+msgstr "※{0}可最多获得{1}个。"
 
 msgid "pop_deco_release_desc"
 msgstr ""
+"已添加以下的\n"
+"房间装饰。"
 
 msgid "deco_name_poster"
-msgstr ""
+msgstr "海报"
 
 msgid "deco_name_torso"
-msgstr ""
+msgstr "服装模特架"
 
 msgid "deco_name_figure"
-msgstr ""
+msgstr "飞机模型"
 
 msgid "missionevent_bonus_popup_title"
-msgstr ""
+msgstr "加成歌曲"
 
 msgid "missionevent_bonus_popup_desc"
-msgstr ""
+msgstr "以下歌曲已成为活动歌曲并获得加成！"
 
 msgid "missionevent_bonus_date_format"
-msgstr ""
+msgstr "yyyy/M/d H:mm"
 
 msgid "missionevent_bonus_limit_format"
-msgstr ""
+msgstr "{0}　~　{1}"
 
 msgid "missionevent_bonus_target_format"
-msgstr ""
+msgstr "{0}的歌曲"
 
 msgid "missionevent_bonus_music_attribute001"
-msgstr ""
+msgstr "星属性"
 
 msgid "missionevent_bonus_music_attribute002"
-msgstr ""
+msgstr "爱属性"
 
 msgid "missionevent_bonus_music_attribute003"
-msgstr ""
+msgstr "命属性"
 
 msgid "missionevent_bonus_music_attribute004"
-msgstr ""
+msgstr "全属性"
 
 msgid "missionevent_bonus_series_attribute001"
-msgstr ""
+msgstr "超时空要塞Δ系列"
 
 msgid "missionevent_bonus_series_attribute002"
-msgstr ""
+msgstr "超时空要塞F系列"
 
 msgid "missionevent_bonus_series_attribute003"
-msgstr ""
+msgstr "超时空要塞7系列"
 
 msgid "missionevent_bonus_series_attribute004"
-msgstr ""
+msgstr "超时空要塞Macross系列"
 
 msgid "missionevent_bonus_series_attribute005"
-msgstr ""
+msgstr "超时空要塞Plus系列"
 
 msgid "missionevent_bonus_all"
-msgstr ""
+msgstr "全部"
 
 msgid "lobby_corps_belongs_conf_text"
 msgstr ""
+"要加入此战队吗？\n"
+"活动期间无法更换战队。"
 
 msgid "lobby_corps_belongs_note_text"
-msgstr ""
+msgstr "<color=#C8087E>※战队将在活动结束后解散。</color>"
 
 msgid "lobby_room_name_format"
-msgstr ""
+msgstr "战队名：{0}"
 
 msgid "lobby_room_num_format"
-msgstr ""
+msgstr "第{0}小队"
 
 msgid "valkyrie_name_text_format_001"
-msgstr ""
+msgstr "{0} {1}"
 
 msgid "storage_select_text"
-msgstr ""
+msgstr "要更换为选中的房间吗？"
 
 msgid "home_lobby_button_before"
-msgstr ""
+msgstr "距离超银河总力LIVE　还有{0}天"
 
 msgid "home_lobby_button_enter"
-msgstr ""
+msgstr "超银河总力LIVE开启中！剩余{0}天"
 
 msgid "home_lobby_button_after"
-msgstr ""
+msgstr "距离大厅关闭 还有{0}天"
 
 msgid "home_lobby_button_before_today"
-msgstr ""
+msgstr "超银河总力LIVE 今日开启"
 
 msgid "home_lobby_button_enter_today"
-msgstr ""
+msgstr "超银河总力LIVE开启中！最后一天"
 
 msgid "home_lobby_button_after_today"
-msgstr ""
+msgstr "大厅开启 最后一天"
 
 msgid "home_lobby_button_popup_raid_end"
 msgstr ""
+"超银河总力LIVE已结束。\n"
+"由于您没有加入战队，\n"
+"无法前往Macross大厅。"
 
 msgid "customstamp_have_serif_not"
 msgstr ""
+"未拥有\n"
+"短语。"
 
 msgid "customstamp_sort_desc"
-msgstr ""
+msgstr "※点击两个表情可互换位置。"
 
 msgid "result_drop_foldradar_text"
 msgstr ""
+"发现了{0}！\n"
+"{0}可在超银河总力LIVE中使用。"
 
 msgid "pop_lobby_group_capacityover_desc"
 msgstr ""
+"选中的战队人数已满\n"
+"无法加入。"
 
 msgid "pop_lobby_group_not_searchplayer"
-msgstr ""
+msgstr "没有可以选择的好友和关注的玩家。"
 
 msgid "pop_lobby_member_fanregister_title"
-msgstr ""
+msgstr "关注"
 
 msgid "pop_lobby_member_fanregister_desc"
-msgstr ""
+msgstr "关注{0}。"
 
 msgid "pop_lobby_member_fan_capacityover_title"
-msgstr ""
+msgstr "粉丝上限"
 
 msgid "pop_lobby_member_capacityover_desc"
-msgstr ""
+msgstr "粉丝数已满。"
 
 msgid "pop_lobby_member_fan_unregister_title"
-msgstr ""
+msgstr "取消关注"
 
 msgid "pop_lobby_member_fan_unregister_desc"
-msgstr ""
+msgstr "取消关注{0}。"
 
 msgid "pop_deco_bg_eff_span"
-msgstr ""
+msgstr "yyyy年M月d日 H:mm"
 
 msgid "pop_deco_bg_eff_initial_setting_title"
-msgstr ""
+msgstr "更改画面特效"
 
 msgid "pop_deco_bg_eff_initial_setting_desc"
 msgstr ""
+"可使用限时画面特效。\n"
+"特效名：{0}\n"
+"\n"
+"【使用时间】\n"
+"{1}~{2}\n"
+"\n"
+"要显示该特效吗？\n"
+"<color=#C8087E>※背景设置也可在房间模式设置中调整。</color>"
 
 msgid "popup_event_reward_check_mvp_title"
-msgstr ""
+msgstr "MVP奖励"
 
 msgid "popup_event_reward_check_attack1st_title"
-msgstr ""
+msgstr "身先士卒奖励"
 
 msgid "popup_event_reward_check_disempowerment_title"
-msgstr ""
+msgstr "参战奖励"
 
 msgid "popup_event_reward_check_lotcount_title"
-msgstr ""
+msgstr "参战奖励详情"
 
 msgid "popup_event_reward_raid_info_mvp"
 msgstr ""
+"可通过MVP奖励获取超银河奖章。\n"
+"获得数量与歌手等级和敌人等级相关。"
 
 msgid "popup_event_reward_raid_info_attack1st"
 msgstr ""
+"可通过身先士卒奖励获取超银河奖章。\n"
+"获得数量与歌手等级和敌人等级相关。"
 
 msgid "popup_event_reward_raid_info_disempowerment"
 msgstr ""
+"获得数量与歌手等级和敌人等级相关。\n"
+"参战奖励的内容可点击“参战奖励详情”进行查看。"
 
 msgid "popup_event_reward_raid_info_lotcount"
-msgstr ""
+msgstr "获得数量与歌手等级和敌人等级相关。"
 
 msgid "pop_raid_helprequest_completion_title"
-msgstr ""
+msgstr "救援确认"
 
 msgid "pop_raid_helprequest_completion_text"
-msgstr ""
+msgstr "已向以下玩家发送救援信号。"
 
 msgid "pop_fan_register_failure_title"
-msgstr ""
+msgstr "关注失败"
 
 msgid "pop_fan_register_failure_desc"
-msgstr ""
+msgstr "关注失败。"
 
 msgid "pop_fan_unregister_failure_title"
-msgstr ""
+msgstr "取消关注失败"
 
 msgid "pop_fan_unregister_failure_desc"
-msgstr ""
+msgstr "取消关注失败。"
 
 msgid "popup_raid_ap_recovery_title"
-msgstr ""
+msgstr "AP回复"
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg"
-msgstr ""
+msgstr "要消耗{0}颗歌晶石回复{1}点AP吗？"
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg02"
-msgstr ""
+msgstr "要消耗{0}颗歌晶石回复{1}点AP吗？"
 
 msgid "popup_raid_ap_recovery_use_item_check_msg"
 msgstr ""
+"消耗{1}颗{0}\n"
+"回复{2}点AP。\n"
+"\n"
+"<color=#C8087E>{0}  {3}→{4}</color>"
 
 msgid "popup_raid_ap_recovery_failed_msg"
 msgstr ""
+"由于将超出上限，无法回复AP。\n"
+"\n"
+"※未消耗歌晶石或其它物品。"
 
 msgid "popup_raid_formation_bonus_costume"
-msgstr ""
+msgstr "加成服装"
 
 msgid "popup_raid_formation_bonus_valkyrie"
-msgstr ""
+msgstr "加成战机"
 
 msgid "popup_raid_formation_bonus_costume_title"
-msgstr ""
+msgstr "有加成的服装"
 
 msgid "popup_raid_formation_bonus_costume_desc"
-msgstr ""
+msgstr "※将应用加成值最高的服装。"
 
 msgid "popup_raid_formation_bonus_valkyrie_title"
-msgstr ""
+msgstr "有加成的战机"
 
 msgid "stamp_have_not_text"
-msgstr ""
+msgstr "没有已保存的表情。"
 
 msgid "bulletin_board_limit_input_text"
-msgstr ""
+msgstr "最多40个字"
 
 msgid "pop_deco_set_max_title"
-msgstr ""
+msgstr "放置上限"
 
 msgid "pop_deco_item_set_max_desc"
 msgstr ""
+"装饰放置数量已达上限。\n"
+"\n"
+"选中房间装饰后点按“收纳”\n"
+"可收起该装饰。"
 
 msgid "pop_deco_chara_set_max_desc"
 msgstr ""
+"角色放置数量已达上限。\n"
+"\n"
+"选中角色后点按“收纳”\n"
+"可收起该角色。"
 
 msgid "shop_no_product_desc"
-msgstr ""
+msgstr "没有可兑换的物品。"
 
 msgid "popup_deco_all_remove_title"
-msgstr ""
+msgstr "收纳确认"
 
 msgid "popup_deco_all_remove_desc"
 msgstr ""
+"要收纳房间中所有的\n"
+"装饰和角色吗？"
 
 msgid "deco_storage_unused_storage_name"
-msgstr ""
+msgstr "未使用"
 
 msgid "pop_deco_storage_write_comp_desc"
 msgstr ""
+"{0}\n"
+"已将现在的房间保存为此数据。"
 
 msgid "lobby_viewing_system_text"
-msgstr ""
+msgstr "正在观看另一战队的大厅。"
 
 msgid "popup_profile_visit_title"
-msgstr ""
+msgstr "访问确认"
 
 msgid "popup_profile_visit_msg"
 msgstr ""
+"将前往{0}\n"
+"的房间。"
 
 msgid "popup_profile_lobby_title"
-msgstr ""
+msgstr "阅览确认"
 
 msgid "popup_profile_lobby_msg"
 msgstr ""
+"将前往{0}\n"
+"的Macross大厅。"
 
 msgid "deco_visit_gift"
-msgstr ""
+msgstr "可赠礼物数量"
 
 msgid "deco_visit_no_friend"
-msgstr ""
+msgstr "没有好友。"
 
 msgid "deco_visit_no_fun"
-msgstr ""
+msgstr "还未关注任何玩家。"
 
 msgid "chat_post_conf_popup_text"
-msgstr ""
+msgstr "手动将战斗记录发送到聊天。"
 
 msgid "chat_post_conf_popup_title"
-msgstr ""
+msgstr "发送确认"
 
 msgid "raid_event_end_text"
-msgstr ""
+msgstr "活动结果统计中。"
 
 msgid "lobby_raid_befor_text"
-msgstr ""
+msgstr "还有{0}天开启"
 
 msgid "lobby_raid_befor_today_text"
-msgstr ""
+msgstr "今日开启！"
 
 msgid "pop_compatible_music_title"
-msgstr ""
+msgstr "演出技能适用的歌曲"
 
 msgid "pop_compatible_music_desc"
 msgstr ""
+"此演出技能可在以下歌曲中生效\n"
+"\n"
+"\n"
+"{0}\n"
+"\n"
 
 msgid "pop_compatible_series_title"
-msgstr ""
+msgstr "中心技能适用的作品系列"
 
 msgid "pop_compatible_series_desc"
 msgstr ""
+"此中心技能可在以下系列\n"
+"的歌曲中生效。"
 
 msgid "pop_block_ask_title"
-msgstr ""
+msgstr "黑名单确认"
 
 msgid "pop_block_ask_desc"
 msgstr ""
+"要将{0}加入黑名单吗？\n"
+"黑名单内的玩家将受到以下限制。\n"
+"\n"
+"・不会显示该玩家在战队大厅和聊天中的发言。\n"
+"・该玩家无法在你的房间中留言。"
 
 msgid "pop_block_done_title"
-msgstr ""
+msgstr "已加入黑名单"
 
 msgid "pop_block_done_desc"
 msgstr ""
+"已将{0}加入黑名单。\n"
+"\n"
+"可在菜单内的“黑名单”\n"
+"中对黑名单进行管理。"
 
 msgid "pop_block_limit_title"
-msgstr ""
+msgstr "黑名单上限"
 
 msgid "pop_block_limit_desc"
 msgstr ""
+"黑名单人数已达\n"
+"上限（{0}人）。"
 
 msgid "pop_block_remove_ask_title"
-msgstr ""
+msgstr "移出黑名单确认"
 
 msgid "pop_block_remove_ask_text"
 msgstr ""
+"将{0}\n"
+"移出黑名单。\n"
+"\n"
+"是否确认？"
 
 msgid "pop_block_remove_done_title"
-msgstr ""
+msgstr "已移出黑名单"
 
 msgid "pop_block_remove_deon_text"
 msgstr ""
+"已将{0}\n"
+"移出黑名单。"
 
 msgid "pop_blocked_title"
-msgstr ""
+msgstr "黑名单"
 
 msgid "pop_blocked_text"
 msgstr ""
+"你已被该玩家屏蔽\n"
+"无法进行此操作。"
 
 msgid "pop_not_belong_lobby_transition_title"
-msgstr ""
+msgstr "加入战队"
 
 msgid "pop_not_belong_lobby_transition_desc"
 msgstr ""
+"必须先加入战队\n"
+"才可以参加超银河总力LIVE。\n"
+"<color=#C8087E>※战队将在活动结束后解散。</color>"
 
 msgid "deco_chat_footer_attention_text"
 msgstr ""
+"60天内未发送任何表\n"
+"情或评论，60天后历\n"
+"史记录将被清除。"
 
 msgid "blocklist_title"
-msgstr ""
+msgstr "黑名单一览"
 
 msgid "blocklist_empty_text"
-msgstr ""
+msgstr "黑名单内没有玩家。"
 
 msgid "deco_set_buy_warn_text"
 msgstr ""
