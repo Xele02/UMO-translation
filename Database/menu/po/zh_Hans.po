@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-28 02:28+0000\n"
+"PO-Revision-Date: 2024-11-29 03:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -83,7 +83,7 @@ msgid "popup_text_08"
 msgstr "歌姬数据"
 
 msgid "popup_text_09"
-msgstr "消耗物品确认"
+msgstr "物品消耗确认"
 
 msgid "popup_text_10"
 msgstr "所有道具一览"
@@ -271,41 +271,41 @@ msgstr "此设置不适用于“通知”选项。"
 msgid "set_notification_text_05"
 msgstr ""
 "在体力完全恢复时\n"
-"进行推送。"
+"进行通知。"
 
 msgid "set_notification_text_06"
 msgstr ""
 "在超时空SNS收到信息时\n"
-"进行推送。"
+"进行通知。"
 
 msgid "set_notification_text_07"
 msgstr ""
 "在战机派遣任务完成时\n"
-"进行推送。"
+"进行通知。"
 
 msgid "set_notification_text_08"
 msgstr ""
 "在AP完全恢复时\n"
-"进行推送。"
+"进行通知。"
 
 msgid "set_notification_text_09"
 msgstr ""
 "在EX暴走敌人出现时\n"
-"进行推送。"
+"进行通知。"
 
 msgid "set_notification_text_10"
-msgstr "在“通知”选项关闭时，将不会进行推送。"
+msgstr "“通知”选项关闭时，将不会进行通知推送。"
 
 msgid "set_notification_text_11"
 msgstr ""
 "在房间中可收取的物品蓄满时\n"
-"进行推送。"
+"进行通知。"
 
 msgid "set_battle_event_text_01"
 msgstr "重新选择战斗等级"
 
 msgid "set_battle_event_text_02"
-msgstr "※重新选择战斗等级后，EX计量表将归零。"
+msgstr "※重新选择战斗等级后，EX能量槽将清零。"
 
 msgid "set_battle_event_text_03"
 msgstr "显示战斗过程"
@@ -665,7 +665,7 @@ msgid "growth_popup_title_text01"
 msgstr "主板块扩充"
 
 msgid "growth_popup_title_text02"
-msgstr "秘密板块增设"
+msgstr "新增秘密板块"
 
 msgid "growth_popup_title_text03"
 msgstr "秘密板块扩充"
@@ -712,7 +712,7 @@ msgstr ""
 "能力板块已扩充。"
 
 msgid "growth_popup_text11"
-msgstr "已增设秘密板块。"
+msgstr "已新增秘密板块。"
 
 msgid "growth_popup_text12"
 msgstr "秘密板块已扩充。"
@@ -759,12 +759,12 @@ msgstr "・玩家等级为{0}"
 
 msgid "story_unlock_05"
 msgstr ""
-"・以{0}或以上通关以下歌曲\n"
+"・以至少{0}通关以下歌曲\n"
 "　{1}"
 
 msgid "story_unlock_06"
 msgstr ""
-"・以{1}或以上评价通关\n"
+"・以至少{1}评价通关\n"
 "以下歌曲{0}\n"
 "“{2}”"
 
@@ -1292,10 +1292,10 @@ msgid "popup_reward_detail_title"
 msgstr "获得奖励"
 
 msgid "pupup_app_exit_title"
-msgstr "退出APP确认"
+msgstr "退出游戏确认"
 
 msgid "popup_app_exit"
-msgstr "真的要退出APP吗？"
+msgstr "真的要退出游戏吗？"
 
 msgid "popup_quest_reward_title"
 msgstr "任务完成"
@@ -1640,7 +1640,7 @@ msgid "music_event_battle_class_next_01"
 msgstr "在战斗等级{0}的EX战中胜利 或"
 
 msgid "music_event_battle_class_next_02"
-msgstr "在歌曲的EX战中获得{0}以上分数"
+msgstr "在歌曲的EX战中获得至少{0}分"
 
 msgid "music_event_battle_class_caution"
 msgstr ""
@@ -1657,7 +1657,7 @@ msgstr ""
 
 msgid "music_event_battle_class_reselect_03"
 msgstr ""
-"<color=#8e0529>※EX计量表已清零。\n"
+"<color=#8e0529>※EX能量槽已清零。\n"
 "※将重新进行对战匹配。</color>"
 
 msgid "ex_battle_non_record"
@@ -1750,7 +1750,7 @@ msgstr ""
 
 msgid "gacha_main_mpass_caution"
 msgstr ""
-"※持有复数奖券时，\n"
+"※持有多张奖券时，\n"
 "　将显示最早过期的奖券。"
 
 msgid "gacha_main_mpass_period"
@@ -1762,7 +1762,7 @@ msgstr "已自动对重复的回忆卡片进行合成。"
 msgid "popup_record_plate_002"
 msgstr ""
 "已自动对重复的卡片进行合成\n"
-"已增设<color=#c8087e>秘密板块</color>。"
+"已新增<color=#c8087e>秘密板块</color>。"
 
 msgid "popup_record_plate_003"
 msgstr ""
@@ -1773,7 +1773,7 @@ msgid "popup_record_plate_004"
 msgstr "已自动对重复的卡片进行合成，<color=#c8087e>稀有等级</color>已提升。"
 
 msgid "popup_record_plate_005"
-msgstr "已自动对重复的卡片进行合成，已增设<color=#c8087e>秘密板块</color>。"
+msgstr "已自动对重复的卡片进行合成，已新增xz<color=#c8087e>秘密板块</color>。"
 
 msgid "popup_record_plate_006"
 msgstr "已自动对重复的卡片进行合成，<color=#c8087e>秘密板块</color>已扩充。"
@@ -2070,7 +2070,7 @@ msgid "popup_title_profil_03"
 msgstr ""
 "<color=#C8087E>※昵称发生更改后，\n"
 "30天内将无法再次进行更改。</color>\n"
-"・部分符号和文字无法使用。\n"
+"・无法使用部分符号和文字。\n"
 "・需要等待一定时间才能完成更改。"
 
 msgid "popup_title_profil_04"
@@ -2106,9 +2106,9 @@ msgstr ""
 
 msgid "popup_title_profil_11"
 msgstr ""
-"・部分符号和文字无法使用。\n"
+"・无法使用部分符号和文字。\n"
 "・需要等待一定时间才能完成更改。\n"
-"・请不要输入个人信息或违反社会秩序的内容。"
+"・请不要输入个人信息或扰乱社会秩序的内容。"
 
 msgid "popup_title_profil_12"
 msgstr "更改自我介绍"
@@ -2368,7 +2368,7 @@ msgid "result_playlog_hint_008"
 msgstr "试着选择和歌姬搭配的卡片吧。可触发演出技能来实现保持连击和取得高分等效果。"
 
 msgid "result_playlog_hint_009"
-msgstr "尽可能填充生物Fold波计量表来进入空战模式吧。准确度在GREAT以上即可填充。"
+msgstr "尽可能填充生物Fold波能量槽来进入空战模式吧。准确度在GREAT以上即可充能。"
 
 msgid "result_playlog_hint_010"
 msgstr "在空战模式下保持4连击以上来对敌人造成伤害。"
@@ -2934,7 +2934,7 @@ msgstr "已添加幸运草效果！"
 
 msgid "popup_limit_over_release_02"
 msgstr ""
-"已增加幸运草效果！\n"
+"已添加幸运草效果！\n"
 "还可以进一步解放幸运草能力。"
 
 msgid "limit_over_excellent_rate_01"
@@ -2999,7 +2999,8 @@ msgid "limit_over_unlock_01"
 msgstr "【解放条件】幸运值{0}以上"
 
 msgid "limit_over_unlock_02"
-msgstr "【解放条件】幸运值{0}以上　<size=18><color=#8e0529>LUCK不足。</color></size>"
+msgstr "【解放条件】幸运值{0}以上　"
+"<size=18><color=#8e0529>幸运值不足。</color></size>"
 
 msgid "limit_over_unlock_03"
 msgstr "已解放此幸运草的所有效果。"
@@ -3056,7 +3057,7 @@ msgid "popup_dash_cost_over_ticket"
 msgstr "<color=#8e0529>入场券不足，因此无法选择。</color>"
 
 msgid "popup_rcmd_app_update_title"
-msgstr "APP升级"
+msgstr "安装升级"
 
 msgid "popup_rcmd_app_update_an"
 msgstr ""
@@ -3133,7 +3134,7 @@ msgstr ""
 "{2}"
 
 msgid "mvmode_check_popup_title"
-msgstr "消耗物品"
+msgstr "物品消耗"
 
 msgid "mvmode_check_popup_text"
 msgstr ""
@@ -3331,16 +3332,16 @@ msgid "event_gacha_box_medama_plate_name"
 msgstr "大奖卡片"
 
 msgid "event_gacha_box_list_count"
-msgstr "奖励清单{0}"
+msgstr "奖池{0}"
 
 msgid "popup_event_gacha_box_text_01"
-msgstr "娘抽彩☆　剩余奖励"
+msgstr "娘抽奖☆　剩余奖励"
 
 msgid "popup_event_gacha_box_text_02"
 msgstr "剩余"
 
 msgid "popup_event_gacha_box_text_03"
-msgstr "奖池已全部抽取，将替换奖池内的奖励。"
+msgstr "奖池已全部抽取，将补充奖池内的奖励。"
 
 msgid "popup_event_gacha_box_text_04"
 msgstr ""
@@ -3351,133 +3352,184 @@ msgid "popup_event_gacha_box_text_05"
 msgstr "详情将在{0}/{1}/{2} {3}:{4:D2} 公布。"
 
 msgid "popup_event_gacha_box_text_06"
-msgstr ""
+msgstr "兑换1次所需勋章：<color=#C8087E>{0}</color>个"
 
 msgid "popup_event_gacha_box_text_07"
 msgstr ""
+"使用<color=#C8087E>{0}</color>个勋章\n"
+"和欧内斯特舰长兑换\n"
+"<color=#C8087E>{1}</color>次奖励吗？"
 
 msgid "popup_event_gacha_box_text_08"
-msgstr ""
+msgstr "奖池{0}　剩余奖励"
 
 msgid "popup_event_gacha_box_text_09"
 msgstr ""
+"要切换到下一个奖池吗？\n"
+"切换后将无法返回上一奖池。"
 
 msgid "popup_event_gacha_box_text_10"
 msgstr ""
+"1次兑换所需的勋章数量\n"
+"将发生以下改变。\n"
+"<color=#C8087E>{0}</color>→<color=#C8087E>{1}</color>"
 
 msgid "popup_event_gacha_box_text_11"
-msgstr ""
+msgstr "已切换奖池。"
 
 msgid "popup_event_gacha_box_text_12"
 msgstr ""
+"已获得大奖\n"
+"可以选择切换\n"
+"到下一奖池。"
 
 msgid "popup_event_gacha_box_text_13"
 msgstr ""
+"已向欧内斯特舰长兑换所有奖励\n"
+"将切换到下一奖池。"
 
 msgid "popup_ar_marker_emblem_title"
-msgstr ""
+msgstr "获得称号"
 
 msgid "popup_ar_marker_emblem_text_01"
-msgstr ""
+msgstr "已获得以下奖励。"
 
 msgid "pupup_music_select_periodover_text_001"
-msgstr ""
+msgstr "选择的歌曲已无法游玩。"
 
 msgid "pupup_music_select_periodover_text_002"
 msgstr ""
+"选择的歌曲已无法游玩。\n"
+"将返回活动主页。"
 
 msgid "pupup_music_select_periodover_text_003"
 msgstr ""
+"选择的歌曲已无法游玩。\n"
+"将返回演出界面。"
 
 msgid "pupup_music_select_periodover_text_004"
 msgstr ""
+"选择的歌曲已无法游玩。\n"
+"将返回大厅界面。"
 
 msgid "diva_intimacy_lvup_text_001"
 msgstr ""
+"{0}的语音\n"
+"已增加。"
 
 msgid "diva_intimacy_lvup_text_002"
 msgstr ""
+"{0}的互动\n"
+"已增加。"
 
 msgid "diva_intimacy_lvup_text_003"
 msgstr ""
+"{0}的亲密度加成\n"
+"+{1}%已解锁。"
 
 msgid "diva_intimacy_lvup_text_004"
 msgstr ""
+"已获得{0}\n"
+"的称号。"
 
 msgid "diva_intimacy_time_count"
-msgstr ""
+msgstr "还有 {0}:{1:D2}"
 
 msgid "diva_intimacy_time_count_2"
-msgstr ""
+msgstr "还有 {0}:{1:D2}:{2:D2}"
 
 msgid "diva_intimacy_max"
-msgstr ""
+msgstr "亲密度已满。"
 
 msgid "diva_intimacy_tips"
 msgstr ""
+"长按歌姬来\n"
+"提升亲密度吧！"
 
 msgid "diva_intimacy_basara_tips"
 msgstr ""
+"长按巴萨拉来\n"
+"提升亲密度吧！"
 
 msgid "event_story_text_001"
-msgstr ""
+msgstr "序章"
 
 msgid "event_story_text_002"
-msgstr ""
+msgstr "终章"
 
 msgid "event_story_text_003"
-msgstr ""
+msgstr "随活动进程解锁"
 
 msgid "event_story_text_004"
-msgstr ""
+msgstr "{0}/{1}/{2}　{3}:{4:D2}解锁"
 
 msgid "event_story_text_005"
-msgstr ""
+msgstr "？？？"
 
 msgid "event_story_text_006"
-msgstr ""
+msgstr "使用{1}{2}{0}解锁"
 
 msgid "event_story_text_007"
-msgstr ""
+msgstr "序章{0}"
 
 msgid "event_story_text_008"
-msgstr ""
+msgstr "SNS解锁"
 
 msgid "event_story_text_009"
 msgstr ""
+"消耗{1}{4}{0}\n"
+"解锁SNS\n"
+"\n"
+"<color=#C8087E>{0}　{2}→{3}</color>"
 
 msgid "event_story_text_010"
-msgstr ""
+msgstr "已解锁SNS。"
 
 msgid "event_story_text_011"
 msgstr ""
+"请先查看上一则对话\n"
+"再查看此对话。"
 
 msgid "event_story_text_012"
 msgstr ""
+"未查看上一则对话\n"
+"因此无法解锁此对话。"
 
 msgid "event_story_text_013"
 msgstr ""
+"消耗{1}{2}{0}\n"
+"解锁SNS\n"
+"\n"
+"<color=#C8087E>物品不足。</color>"
 
 msgid "event_story_text_014"
-msgstr ""
+msgstr "物品消耗"
 
 msgid "event_story_list_period"
 msgstr ""
+"活动时间\n"
+"{0}/{1}/{2}~{3}/{4}/{5}"
 
 msgid "present_item_rank_postfix"
-msgstr ""
+msgstr "<color=#C8087E>※礼物将在等级{0}时开放。</color>"
 
 msgid "present_intimacy_limit_01"
 msgstr ""
+"亲密度已满\n"
+"无法赠送礼物。"
 
 msgid "present_intimacy_limit_02"
 msgstr ""
+"今天已无法\n"
+"赠送更多礼物。"
 
 msgid "present_intimacy_limit_03"
 msgstr ""
+"未持有礼物\n"
+"无法赠送礼物。"
 
 msgid "campaign_live_3rd_coution_01"
-msgstr ""
+msgstr "点击“参加”按钮可获得1天1次的抽奖机会。（每天0点更新）"
 
 msgid "campaign_live_3rd_coution_02"
 msgstr ""
@@ -3549,553 +3601,739 @@ msgid "popup_campaign_result_title"
 msgstr ""
 
 msgid "home_pickup_checkbox_next"
-msgstr ""
+msgstr "下次不再显示"
 
 msgid "event_result_episode"
-msgstr ""
+msgstr "{0}回忆片段"
 
 msgid "event_result_bonus"
-msgstr ""
+msgstr "消耗加成{0}倍"
 
 msgid "event_hi_score"
-msgstr ""
+msgstr "活动高分榜"
 
 msgid "event_music_ranking"
-msgstr ""
+msgstr "活动歌曲排名"
 
 msgid "event_music_ranking_unit"
-msgstr ""
+msgstr "名"
 
 msgid "ar_common_count_text"
-msgstr ""
+msgstr "{0} / {1}"
 
 msgid "ar_top_button_text_collection"
-msgstr ""
+msgstr "歌姫阵容"
 
 msgid "ar_top_button_text_help"
-msgstr ""
+msgstr "使用方法"
 
 msgid "ar_top_button_text_event"
-msgstr ""
+msgstr "AR活动信息"
 
 msgid "ar_top_button_text_back"
-msgstr ""
+msgstr "返回标题界面"
 
 msgid "ar_photo_button_text_sns"
-msgstr ""
+msgstr "分享"
 
 msgid "ar_help_title_text"
-msgstr ""
+msgstr "使用方法"
 
 msgid "ar_help_title2_text"
-msgstr ""
+msgstr "AR活动信息"
 
 msgid "ar_collection_title_text"
-msgstr ""
+msgstr "歌姫阵容"
 
 msgid "ar_collection_pattern_format"
-msgstr ""
+msgstr "{0}・{1}"
 
 msgid "ar_collection_pattern_text_0"
-msgstr ""
+msgstr "微缩"
 
 msgid "ar_collection_pattern_text_1"
-msgstr ""
+msgstr "等身大"
 
 msgid "ar_collection_pattern_text_2"
-msgstr ""
+msgstr "宣传册"
 
 msgid "ar_popup_expired_message"
 msgstr ""
+"AR标识已过期\n"
+"无法使用。"
 
 msgid "ar_popup_download_error_0_message"
 msgstr ""
+"文件下载失败。\n"
+"此通知会在系统存储\n"
+"空间不足的情况下\n"
+"显示。"
 
 msgid "ar_popup_download_error_1_message"
 msgstr ""
+"文件下载失败。\n"
+"请确认网络连接是否正常，\n"
+"然后重试。"
 
 msgid "ar_popup_download_error_button"
-msgstr ""
+msgstr "重试"
 
 msgid "ar_popup_saved_photo"
-msgstr ""
+msgstr "照片已保存。"
 
 msgid "ar_popup_err_camera_permission"
 msgstr ""
+"未授权使用相机\n"
+"无法游玩AR\n"
+"模式。"
 
 msgid "ar_popup_err_device_not_supported"
 msgstr ""
+"此设备未符合\n"
+"进入AR模式的条件。"
 
 msgid "ar_popup_err_vuforia_init_error"
 msgstr ""
+"发生错误。\n"
+"无法启动AR系统。"
 
 msgid "ar_popup_err_no_permission_storage"
 msgstr ""
+"未授权访问\n"
+"储存空间\n"
+"无法保存照片。"
 
 msgid "ar_popup_err_not_abailable_storage"
 msgstr ""
+"储存空间不足\n"
+"无法保存照片。"
 
 msgid "ar_popup_err_no_space_for_dataset"
 msgstr ""
+"储存空间不足\n"
+"无法启动\n"
+"AR系统。"
 
 msgid "ar_popup_err_no_system_error"
 msgstr ""
+"发生问题\n"
+"将退出AR模式。"
 
 msgid "ar_sel_popup_camera_message"
 msgstr ""
+"未授权使用相机\n"
+"无法游玩\n"
+"AR模式\n"
+"\n"
+"请开启以下权限。\n"
+"\n"
 
 msgid "ar_sel_popup_camera_text"
 msgstr ""
+"<b>相机</b>\n"
+"为了正常拍摄AR照片，\n"
+"请允许使用相机。\n"
 
 msgid "ar_sel_popup_camera_button_l"
-msgstr ""
+msgstr "返回标题界面"
 
 msgid "ar_sel_popup_camera_button_r"
-msgstr ""
+msgstr "前往设置界面"
 
 msgid "ar_sel_popup_storage_message_android"
 msgstr ""
+"未授权访问\n"
+"储存空间\n"
+"无法保存照片。\n"
+"\n"
+"请开启以下权限。\n"
+"\n"
 
 msgid "ar_sel_popup_storage_message_ios"
 msgstr ""
+"未授权访问\n"
+"相册\n"
+"无法保存照片。\n"
+"\n"
+"请开启以下权限。\n"
+"\n"
 
 msgid "ar_sel_popup_storage_text_android"
 msgstr ""
+"<b>储存空间</b>\n"
+"为了正常保存AR照片，\n"
+"请允许访问设备储存空间。\n"
 
 msgid "ar_sel_popup_storage_text_ios"
 msgstr ""
+"<b>相册</b>\n"
+"需要访问相册\n"
+"以保存AR照片。\n"
 
 msgid "ar_sel_popup_storage_button_l"
-msgstr ""
+msgstr "返回AR模式"
 
 msgid "ar_sel_popup_storage_button_r"
-msgstr ""
+msgstr "前往设置界面"
 
 msgid "cmn_profil_emblem_none"
-msgstr ""
+msgstr "未持有称号。"
 
 msgid "pop_eve_story_title"
-msgstr ""
+msgstr "活动剧情"
 
 msgid "ar_net_error_01"
 msgstr ""
+"网络连接错误。\n"
+"请确认网络连接是否正常，然后重试。"
 
 msgid "ar_net_error_02"
 msgstr ""
+"连接超时。\n"
+"请确认网络连接是否正常，然后重试。"
 
 msgid "ar_net_error_03"
 msgstr ""
+"发生错误。\n"
+"\n"
+"错误代码：{0}"
 
 msgid "ar_net_error_retry"
-msgstr ""
+msgstr "重试"
 
 msgid "ar_net_error_title"
-msgstr ""
+msgstr "返回标题界面"
 
 msgid "badge_label_quest_achieved"
-msgstr ""
+msgstr "{0}达成！"
 
 msgid "badge_label_gacha_oneday"
-msgstr ""
+msgstr "免费1次"
 
 msgid "badge_label_gacha_firsttime"
-msgstr ""
+msgstr "首次免费"
 
 msgid "badge_label_gacha_thistime"
-msgstr ""
+msgstr "本次免费"
 
 msgid "unit_multi_dance_popup_00"
 msgstr ""
+"未进行歌姬编组\n"
+"无法游玩歌曲。"
 
 msgid "unit_multi_dance_popup_01"
 msgstr ""
+"未在超时空棱镜\n"
+"进行歌姬编组\n"
+"无法游玩歌曲。"
 
 msgid "unit_multi_dance_popup_02"
 msgstr ""
+"未进行歌姬编组\n"
+"无法游玩歌曲。"
 
 msgid "unit_multi_dance_popup_03"
 msgstr ""
+"需要至少编入{0}位歌姬\n"
+"来游玩此多人演出。\n"
+"\n"
+"<color=#C8087E>※可推进记忆时空以\n"
+"解锁更多歌姬。</color>"
 
 msgid "unit_multi_dance_lock_text"
 msgstr ""
+"多人演出将在\n"
+"达到RANK{0}\n"
+"时解锁。"
 
 msgid "unit_warning_window_title"
-msgstr ""
+msgstr "关于多人演出"
 
 msgid "unit_warning_window_check"
-msgstr ""
+msgstr "此后不再显示"
 
 msgid "unit_warning_window_text_001"
 msgstr ""
+"您已选择多人演出模式。\n"
+"多人演出模式下，可能会影响在\n"
+"某些设备上运行的流畅度。\n"
+"\n"
+"若流畅度较低，推荐选择单人演出进行游戏。\n"
+"\n"
+"<color=#C8087E>※单人演出与多人演出仅存在画面上的区别。\n"
+"※可将画质设为“3D低画质”来提升流畅度。</color>"
 
 msgid "unit_warning_window_text_002"
 msgstr ""
+"您已选择多人演出模式。\n"
+"多人演出模式下，可能会影响在\n"
+"某些设备上运行的流畅度。\n"
+"\n"
+"<color=#C8087E>※可将画质设为“3D低画质”来提升流畅度。</color>"
 
 msgid "episode_appeal_text_001"
-msgstr ""
+msgstr "新回忆片段"
 
 msgid "episode_appeal_text_002"
-msgstr ""
+msgstr "回忆片段完全解放奖励"
 
 msgid "episode_appeal_text_003"
-msgstr ""
+msgstr "{0}专用：新服装上线！"
 
 msgid "add_unit_multi_dance_popup_01"
-msgstr ""
+msgstr "多人演出（{0}人）已添加。"
 
 msgid "popup_error_purchase_multi_title"
-msgstr ""
+msgstr "购买失败"
 
 msgid "popup_error_purchase_multi_text_00"
 msgstr ""
+"购买过程中出现错误。\n"
+"将返回标题界面。\n"
+"<color=#C8087E>※已购买的物品可能已出现\n"
+"在礼物箱内，请前往确认。</color>"
 
 msgid "ar_sel_popup_shutdown_message"
-msgstr ""
+msgstr "真的要退出游戏吗？"
 
 msgid "ar_sel_popup_shutdown_button_l"
-msgstr ""
+msgstr "取消"
 
 msgid "ar_sel_popup_shutdown_button_r"
-msgstr ""
+msgstr "OK"
 
 msgid "android_backbutton_disable"
-msgstr ""
+msgstr "返回键无效。"
 
 msgid "event_sp_daily_adv_num_title"
-msgstr ""
+msgstr "第{0}集　可观看"
 
 msgid "event_sp_daily_adv_all_title"
-msgstr ""
+msgstr "全集　可观看"
 
 msgid "event_sp_end_attain"
-msgstr ""
+msgstr "统计中"
 
 msgid "event_sp_epilogue"
-msgstr ""
+msgstr "活动终章可观看"
 
 msgid "event_sp_reward"
-msgstr ""
+msgstr "现可领取！"
 
 msgid "event_sp_open_at"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2} 开始"
 
 msgid "event_sp_close_at"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2} 为止"
 
 msgid "episode_reward_text001"
-msgstr ""
+msgstr "所需EP：{0}"
 
 msgid "episode_reward_text002"
 msgstr ""
+"在回忆片段完全解放后\n"
+"每隔{0}{1}获得"
 
 msgid "episode_reward_text003"
-msgstr ""
+msgstr "EP"
 
 msgid "popup_unlock_6line_music_text"
-msgstr ""
+msgstr "6 Key模式已添加。"
 
 msgid "offer_formation_name_chenge_popup_title"
-msgstr ""
+msgstr "更改队名"
 
 msgid "offer_formation_name_chenge_popup_text_01"
 msgstr ""
+"请输入队名。\n"
+"（最多15字）"
 
 msgid "offer_formation_name_chenge_popup_text_02"
 msgstr ""
+"・无法使用部分符号和文字。\n"
+"・需要等待一定时间才能完成更改。"
 
 msgid "offer_formation_name_chenge_popup_text_03"
-msgstr ""
+msgstr "已更改队名。"
 
 msgid "offer_formation_name_notchangedcomment_popup"
-msgstr ""
+msgstr "队名未更改。"
 
 msgid "offer_chenge_popup_title"
-msgstr ""
+msgstr "确认更改"
 
 msgid "offer_plantoon_chenge_popup_text_01"
-msgstr ""
+msgstr "要编至另一小队吗？"
 
 msgid "offer_no_leader_popup_text"
 msgstr ""
+"未编入队长机\n"
+"无法确定小队。"
 
 msgid "offer_Dissolution_popup_text"
-msgstr ""
+msgstr "要解散小队吗？"
 
 msgid "offer__cant_orders_popup_text"
 msgstr ""
+"目前无法接受\n"
+"此派遣任务。"
 
 msgid "offer_squadron_popup_title"
-msgstr ""
+msgstr "出击小队"
 
 msgid "offer_fast_completion_popup_title_01"
-msgstr ""
+msgstr "已加速"
 
 msgid "offer_fast_completion_popup_text_01_01"
 msgstr ""
+"已消耗{0}个加速程序\n"
+"派遣任务已加速完成。"
 
 msgid "offer_fast_completion_popup_text_01_02"
-msgstr ""
+msgstr "<color=#C8087E>加速程序{0}→{1}</color>"
 
 msgid "offer_fast_completion_popup_text_02_01"
 msgstr ""
+"已消耗{0}颗歌晶石\n"
+"派遣任务已加速完成。"
 
 msgid "offer_fast_completion_popup_text_02_02"
-msgstr ""
+msgstr "<color=#C8087E>歌晶石　 {0}→{1}</color>"
 
 msgid "offer_fast_completion_popup_text_02_03"
-msgstr ""
+msgstr "<color=#C8087E>歌晶石不足。</color>"
 
 msgid "offer_fast_done_limit_over_pop_text"
 msgstr ""
+"已达到每日\n"
+"加速完成次数上限。"
 
 msgid "offer_not_fast_done_pop_text"
 msgstr ""
+"目前无法加速完成\n"
+"此派遣任务。"
 
 msgid "offer_platoon_release_condition_title_text"
-msgstr ""
+msgstr "小队解锁条件"
 
 msgid "offer_platoon_release_condition_text_01"
-msgstr ""
+msgstr "已完成全部新手派遣任务"
 
 msgid "offer_platoon_release_condition_text_02"
 msgstr ""
+"完成全部新手派遣任务\n"
+"\n"
+"至少拥有{0}架战机"
 
 msgid "costume_upgrade_diva_select_title_text"
-msgstr ""
+msgstr "选择歌姬"
 
 msgid "costume_upgrade_comp_title_text"
-msgstr ""
+msgstr "解锁服装"
 
 msgid "costume_upgrade_detail_item_title_text"
-msgstr ""
+msgstr "奖励详情"
 
 msgid "costume_upgrade_item_select_makina_serif"
 msgstr ""
+"要强化这件服装哦\n"
+"选择强化道具吧！"
 
 msgid "costume_upgrade_item_select_makina_serif2"
 msgstr ""
+"衣装石可通过\n"
+"VOP获得哦！"
 
 msgid "costume_upgrade_item_use_title_text"
-msgstr ""
+msgstr "物品消耗确认"
 
 msgid "costume_upgrade_achievement_title_text"
-msgstr ""
+msgstr "卡哇哇等级提升奖励"
 
 msgid "costume_upgrade_rankup_title_text"
-msgstr ""
+msgstr "卡哇哇等级上限解锁"
 
 msgid "costume_upgrade_cmn_rankup_attention_text"
-msgstr ""
+msgstr "每提升1级可获得{0}颗<ORB_PIC>。"
 
 msgid "costume_upgrade_next_release_point_text"
-msgstr ""
+msgstr "到下一奖励还有{0}{1}"
 
 msgid "costume_upgrade_use_item_limit_text"
-msgstr ""
+msgstr "一次可使用{0}个物品。"
 
 msgid "costume_upgrade_diva_select_warning_text"
 msgstr ""
+"已选择未解锁的歌姬。\n"
+"没有可以强化的服装。"
 
 msgid "costume_upgrade_item_detail_costume_skillup"
 msgstr ""
+"服装已添加新效果。\n"
+"获得效果“{0}”"
 
 msgid "costume_upgrade_item_detail_costume_skillget"
 msgstr ""
+"将服装效果强化至下一阶段\n"
+"强化后的数值“{0}”"
 
 msgid "costume_upgrade_item_detail_costume_color"
 msgstr ""
+"{0}\n"
+"解锁{1}的异色版服装。"
 
 msgid "costume_upgrade_item_detail_diva_status_up"
 msgstr ""
+"强化{0}的数值。\n"
+"强化后的数值“{1}{2}”"
 
 msgid "costume_upgrade_item_detail_diva_status_up_title"
-msgstr ""
+msgstr "数值强化"
 
 msgid "costume_upgrade_item_detail_sub_plate"
 msgstr ""
+"解锁“{0}”\n"
+"解锁后对应属性将强化3%。"
 
 msgid "costume_upgrade_rank_up_unlock_condition_text"
-msgstr ""
+msgstr "解锁条件"
 
 msgid "costume_upgrade_lock_text"
 msgstr ""
+"【解锁条件】\n"
+"・总计完成战机派遣任务{0}次。\n"
+"\n"
+"<color=#C8087E>※战机派遣任务\n"
+"将在游戏进程中解锁。</color>"
 
 msgid "subplate_rate_text"
-msgstr ""
+msgstr "{0}%"
 
 msgid "subplate_lock_text"
 msgstr ""
+"【解锁条件】\n"
+"・在“强化服装”内解锁支援卡片。\n"
+"\n"
+"<color=#C8087E>※“强化服装”将在游戏进程中解锁。</color>"
 
 msgid "offer_infomation_text_01"
 msgstr ""
+"已更新\n"
+"派遣任务！"
 
 msgid "offer_infomation_text_02"
 msgstr ""
+"收到了来自\n"
+"【{0}】的委托！"
 
 msgid "offer_infomation_text_03"
 msgstr ""
+"已强化\n"
+"歌姬派遣任务！"
 
 msgid "offer_infomation_text_04"
 msgstr ""
+"已完成\n"
+"派遣任务！"
 
 msgid "offer_non_offer_text"
 msgstr ""
+"没有可以选择的歌姬派遣任务。\n"
+"\n"
+"<color=#C8087E>※可通过游玩歌曲生成歌姬派遣任务。</color>"
 
 msgid "offer_occur_diva_offer_text_01"
-msgstr ""
+msgstr "收到了来自{0}的特别委托"
 
 msgid "offer_occur_diva_offer_text_02"
-msgstr ""
+msgstr "已强化{0}的委托内容！"
 
 msgid "offer_cancel_pop_title"
-msgstr ""
+msgstr "取消任务确认"
 
 msgid "offer_cancel_pop_text"
 msgstr ""
+"取消后将无法获得奖励。\n"
+"\n"
+"是否确认？"
 
 msgid "offer_daily_offer_levelup_text"
-msgstr ""
+msgstr "每日派遣任务难度解锁"
 
 msgid "offer_diva_offer_levelup_text"
-msgstr ""
+msgstr "<size=23>解锁{0}的歌姬派遣任务难度</size>"
 
 msgid "offer_result_first_achievement_title"
-msgstr ""
+msgstr "首次完成奖励"
 
 msgid "sacred_stones_count_text"
-msgstr ""
+msgstr "<color=#C8087E>歌晶石 {0}颗</color>"
 
 msgid "offer_item_scene_detail_text"
-msgstr ""
+msgstr "将出现1张★1~★3稀有度的卡片。"
 
 msgid "offer_spitem_detail_title"
-msgstr ""
+msgstr "大奖"
 
 msgid "offer_spitem_detail_text"
 msgstr ""
+"可能会出现稀有物品奖励。\n"
+"<color=#C8087E>※任务大成功时会出现1个。</color>"
 
 msgid "offer_all_platoon_sortie_pop_text"
 msgstr ""
+"所有的小队都已出击，\n"
+"无法接受新的派遣任务。"
 
 msgid "offer_select_operation_ended_pop_text"
 msgstr ""
+"目前无法接受\n"
+"此派遣任务。"
 
 msgid "offer_fast_done_limit_count_text"
-msgstr ""
+msgstr "今天 剩余{0}次"
 
 msgid "offer_operation_badge_text"
-msgstr ""
+msgstr "{0}个完成！"
 
 msgid "offer_notification_return_vfp_title"
-msgstr ""
+msgstr "派遣任务完成"
 
 msgid "offer_notification_return_vfp_1"
-msgstr ""
+msgstr "蕾娜：“1号小队完成任务，请确认。”"
 
 msgid "offer_notification_return_vfp_2"
-msgstr ""
+msgstr "蕾娜：“2号小队已返航...感觉不错。”"
 
 msgid "offer_notification_return_vfp_3"
-msgstr ""
+msgstr "蕾娜：“3号小队已平安归来。”"
 
 msgid "offer_notification_return_vfp_4"
-msgstr ""
+msgstr "蕾娜：“4号小队返航，请确认结果。”"
 
 msgid "offer_notification_return_vfp_5"
-msgstr ""
+msgstr "蕾娜：“5号小队回来了，去迎接他们吧。”"
 
 msgid "offer_cannot_cancel_text"
 msgstr ""
+"派遣任务已完成。\n"
+"无法取消任务。"
 
 msgid "item_use_caution_1"
-msgstr ""
+msgstr "过期的物品将自动消失。"
 
 msgid "item_use_caution_2"
-msgstr ""
+msgstr "持有多个物品时，将显示最早过期的一项。"
 
 msgid "item_use_period"
-msgstr ""
+msgstr "使用时间： {0}/{1}/{2} {3}:{4:D2}为止"
 
 msgid "item_use_period_title"
-msgstr ""
+msgstr "{0}使用时间"
 
 msgid "item_use_period_text_1"
-msgstr ""
+msgstr "使用时间"
 
 msgid "item_use_period_text_2"
 msgstr ""
 
 msgid "item_use_period_date"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2}"
 
 msgid "rarityup_item_use_title"
-msgstr ""
+msgstr "提升稀有等级"
 
 msgid "rarityup_item_use_desc_1"
-msgstr ""
+msgstr "将消耗以下物品提升卡片稀有等级。"
 
 msgid "rarityup_item_use_desc_2"
-msgstr ""
+msgstr "提升稀有等级所需物品不足。"
 
 msgid "rarityup_item_get_desc_1"
 msgstr ""
+"※{0}可通过购买月卡获得\n"
+"可在累计登录到一定天数后获取。"
 
 msgid "rarityup_item_use_confirm_title"
-msgstr ""
+msgstr "提升稀有等级最终确认"
 
 msgid "rarityup_item_use_confirm_desc"
-msgstr ""
+msgstr "真的要提升这张卡片的稀有等级吗？"
 
 msgid "rarityup_item_use_warning"
 msgstr ""
+"{0}\n"
+"可用作提升★5卡片的稀有等级。\n"
+"\n"
+"真的要在★4卡片\n"
+"上使用吗？"
 
 msgid "secret_board_item_use_title"
-msgstr ""
+msgstr "秘密板块解锁确认"
 
 msgid "secret_board_item_use_desc_1"
-msgstr ""
+msgstr "将消耗以下物品解锁秘密板块。"
 
 msgid "secret_board_item_use_desc_2"
-msgstr ""
+msgstr "解锁秘密板块所需的物品不足。"
 
 msgid "secret_board_item_use_confirm_title"
-msgstr ""
+msgstr "秘密板块解锁最终确认"
 
 msgid "secret_board_item_use_confirm_desc"
-msgstr ""
+msgstr "真的要解锁此卡片的秘密板块吗？"
 
 msgid "secret_board_item_use_warning"
 msgstr ""
+"{0}\n"
+"在提升稀有等级后的★6卡片上使用。\n"
+"\n"
+"真的要在提升稀有等级后的\n"
+"★5卡片上使用吗？"
 
 msgid "popup_sel_cos_terms_title"
-msgstr ""
+msgstr "获取条件"
 
 msgid "popup_sel_cos_terms_text_base"
 msgstr ""
+"完全解放\n"
+"回忆片段\n"
+"“{0}”"
 
 msgid "popup_sel_cos_terms_text_color01"
 msgstr ""
+"将“{0}”\n"
+"的卡哇哇等级强化至{1}"
 
 msgid "popup_sel_cos_terms_text_color02"
-msgstr ""
+msgstr "解锁“强化服装”"
 
 msgid "popup_sel_cos_terms_text_color03"
 msgstr ""
+"完全解放\n"
+"回忆片段\n"
+"“{0}”\n"
+"\n"
+"来获得\n"
+"“{1}”"
 
 msgid "popup_sel_cos_terms_costume_change"
 msgstr ""
+"【解锁条件】\n"
+"・总计完成{0}次战机派遣任务\n"
+"<color=#C8087E>※战机派遣任务将在游戏进程中解锁。</color>"
 
 msgid "home_footer_badge_text_offer"
-msgstr ""
+msgstr "VOP完成！"
 
 msgid "home_diva_button_monthly_pass"
-msgstr ""
+msgstr "还有{0}次"
 
 msgid "popup_add_operation_text"
-msgstr ""
+msgstr "已新增派遣任务。"
 
 msgid "pop_pass_title"
-msgstr ""
+msgstr "购买PASS"
 
 msgid "pop_pass_text01"
 msgstr ""
@@ -4158,367 +4396,448 @@ msgid "pop_pass_goto_home_2"
 msgstr ""
 
 msgid "home_popup_event_period"
-msgstr ""
+msgstr "活动时间：{0}年{1}月{2}日({3}) {4}:{5:D2} ~{6}年{7}月{8}日({9}) {10}:{11:D2}"
 
 msgid "home_pickup_event_period"
-msgstr ""
+msgstr "活动时间{0}月{1}日 {2}:{3:D2} ~ {4}月{5}日 {6}:{7:D2}"
 
 msgid "popup_download_size_title"
-msgstr ""
+msgstr "下载数据"
 
 msgid "popup_download_size_text"
 msgstr ""
+"有新的下载数据。\n"
+"将进行下载。\n"
+"<color=#C8087E>※点击取消将返回标题界面。</color>\n"
+"\n"
+"数据包大小：{0}"
 
 msgid "popup_download_size_error"
 msgstr ""
+"无法读取数据包大小。\n"
+"请确认网络连接是否正常，\n"
+"然后重试。"
 
 msgid "popup_bunchdownload_data_check"
 msgstr ""
+"确认数据中。\n"
+"请稍等片刻。"
 
 msgid "popup_bunchdownload_size_text"
 msgstr ""
+"有新的下载数据。\n"
+"将进行下载。\n"
+"<color=#C8087E>※推荐在Wi-Fi下进行下载。</color>\n"
+"\n"
+"数据包大小：{0}"
 
 msgid "popup_bunchdownload_size_zero"
-msgstr ""
+msgstr "没有新的下载数据。"
 
 msgid "popup_bunchdownload_cancel_title"
-msgstr ""
+msgstr "下载中断"
 
 msgid "popup_bunchdownload_cancel"
 msgstr ""
+"下载中断。\n"
+"\n"
+"<color=#C8087E>※再次下载时\n"
+"将从中断的地方继续。</color>"
 
 msgid "popup_bunchdownload_complete_title"
-msgstr ""
+msgstr "下载完毕"
 
 msgid "popup_bunchdownload_complete"
-msgstr ""
+msgstr "数据下载完毕。"
 
 msgid "lucky_leaf_sort_message"
-msgstr ""
+msgstr "<size={1}>可解放的幸运草:{0}</size>"
 
 msgid "popup_recover_done_title"
-msgstr ""
+msgstr "游戏数据生效"
 
 msgid "popup_recover_done_text"
 msgstr ""
+"上一次的游玩结果\n"
+"已在游戏内生效。"
 
 msgid "pop_tutorial_gacha_details"
-msgstr ""
+msgstr "★4　从今天起你就是女武神的一员了　　　　　100%"
 
 msgid "bingo_next_charange"
 msgstr ""
+"{0}/{1}/{2} 0:00\n"
+"可挑战下一个\n"
+"Bingo任务。"
 
 msgid "bingo_count_text"
-msgstr ""
+msgstr "第{0}张"
 
 msgid "bingo_reward_count_text"
-msgstr ""
+msgstr "{0}Bingo奖励"
 
 msgid "bingo_ribbon_bingo_count_text"
-msgstr ""
+msgstr "目前{0}Bingo！"
 
 msgid "bingo_ribbon_costume_text"
-msgstr ""
+msgstr "{0}Bingo时获得解放卡片！"
 
 msgid "bingo_ribbon_item_text"
-msgstr ""
+msgstr "已获得所有奖励！"
 
 msgid "bingo_next_reward_text"
-msgstr ""
+msgstr "下一Bingo奖励"
 
 msgid "bingo_reward_select_desc1"
-msgstr ""
+msgstr "每份Bingo任务可选择一项奖励。"
 
 msgid "bingo_reward_select_desc2"
-msgstr ""
+msgstr "Bingo任务的最大页数为{0}。"
 
 msgid "bingo_reward_select_desc3"
-msgstr ""
+msgstr "Bingo任务开始后，将无法重新选择奖励。"
 
 msgid "bingo_reward_select_title"
-msgstr ""
+msgstr "回忆片段完全解放奖励"
 
 msgid "bingo_reward_select_caution_desc"
-msgstr ""
+msgstr "※目前持有的卡片可完全解放此回忆片段。"
 
 msgid "bingo_reward_select_caution_desc1"
-msgstr ""
+msgstr "※此回忆片段已完全解放。"
 
 msgid "bingo_reward_select_conf_text"
-msgstr ""
+msgstr "要选择这项奖励吗？"
 
 msgid "bingo_reward_select_conf_title"
-msgstr ""
+msgstr "选择奖励"
 
 msgid "bingo_mission_reward_pop_title"
-msgstr ""
+msgstr "任务奖励"
 
 msgid "bingo_reward_pop_title"
-msgstr ""
+msgstr "Bingo奖励"
 
 msgid "bingo_mission_reward_get_pop_title"
-msgstr ""
+msgstr "获取奖励"
 
 msgid "bingo_mission_change__bingo_text"
 msgstr ""
+"已获得第{0}页Bingo任务\n"
+"的所有奖励。"
 
 msgid "bingo_mission_end_pop_text"
 msgstr ""
+"已获得所有Bingo任务奖励。\n"
+"将返回任务界面。"
 
 msgid "pop_score_detail_title"
-msgstr ""
+msgstr "分数预测量表详情"
 
 msgid "pop_score_detail_caution_01"
-msgstr ""
+msgstr "此预测结果包含毁灭之歌造成的影响。"
 
 msgid "pop_score_detail_caution_02"
-msgstr ""
+msgstr "此为基于卡片数值和技能所做出的预测，并非实际的游玩结果。"
 
 msgid "pop_score_detail_item_name_01"
-msgstr ""
+msgstr "基础值"
 
 msgid "pop_score_detail_item_name_02"
-msgstr ""
+msgstr "服装"
 
 msgid "pop_score_detail_item_name_03"
-msgstr ""
+msgstr "属性加成"
 
 msgid "pop_score_detail_item_name_04"
-msgstr ""
+msgstr "中心技能"
 
 msgid "pop_score_detail_item_name_05"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "pop_score_detail_item_name_06"
-msgstr ""
+msgstr "L技能"
 
 msgid "pop_score_detail_item_name_07"
-msgstr ""
+msgstr "A技能"
 
 msgid "pop_score_detail_item_name_08"
-msgstr ""
+msgstr "连击"
 
 msgid "pop_score_detail_item_name_09"
-msgstr ""
+msgstr "加分音符"
 
 msgid "pop_score_detail_item_name_10"
-msgstr ""
+msgstr "幸运草"
 
 msgid "pop_score_detail_item_name_11"
-msgstr ""
+msgstr "战机"
 
 msgid "pop_score_detail_item_desc_01"
-msgstr ""
+msgstr "歌姬和卡片数值的加成预测"
 
 msgid "pop_score_detail_item_desc_02"
-msgstr ""
+msgstr "装备中服装的加成预测"
 
 msgid "pop_score_detail_item_desc_03"
-msgstr ""
+msgstr "歌曲和卡片属性一致时产生的加成预测"
 
 msgid "pop_score_detail_item_desc_04"
-msgstr ""
+msgstr "中心技能效果的加成预测"
 
 msgid "pop_score_detail_item_desc_05"
-msgstr ""
+msgstr "支援卡片的加成预测"
 
 msgid "pop_score_detail_item_desc_06"
-msgstr ""
+msgstr "所有演出技能的累计加成预测"
 
 msgid "pop_score_detail_item_desc_07"
-msgstr ""
+msgstr "主动技能的加成预测"
 
 msgid "pop_score_detail_item_desc_08"
-msgstr ""
+msgstr "持续至歌曲进度90%的连击加成预测"
 
 msgid "pop_score_detail_item_desc_09"
-msgstr ""
+msgstr "没有错过任何一个加分音符时的加成预测"
 
 msgid "pop_score_detail_item_desc_10"
-msgstr ""
+msgstr "已解放的幸运草的加成预测"
 
 msgid "pop_score_detail_item_desc_11"
-msgstr ""
+msgstr "已选中的战机的加成预测"
 
 msgid "bingo_reward_select_scene_detail_text"
 msgstr ""
+"可大幅增加【{0}】\n"
+"的EP的卡片。"
 
 msgid "bingo_normal_bingo_start_text"
-msgstr ""
+msgstr "开始第{0}页的Bingo任务。"
 
 msgid "bingo_mission_conditions_text"
-msgstr ""
+msgstr "【获取条件】"
 
 msgid "offer_not_received_item_title"
-msgstr ""
+msgstr "已过期的物品"
 
 msgid "offer_not_received_item_text"
-msgstr ""
+msgstr "以下道具已过期，无法获得。"
 
 msgid "pop_valyrietuneup_title"
-msgstr ""
+msgstr "物品消耗确认"
 
 msgid "pop_valkyrietuneup_desc"
-msgstr ""
+msgstr "将解锁战机的性能扩充。是否确认？"
 
 msgid "pop_valyrietuneupcheck_title"
-msgstr ""
+msgstr "性能扩充解锁"
 
 msgid "pop_deco_save_title"
-msgstr ""
+msgstr "内容更改未保存"
 
 msgid "pop_deco_save_desc"
-msgstr ""
+msgstr "内容更改未保存。"
 
 msgid "pop_deco_bast_title"
-msgstr ""
+msgstr "保存配置"
 
 msgid "pop_deco_bast_desc"
-msgstr ""
+msgstr "编辑内容已保存。"
 
 msgid "deco_no_have_text"
 msgstr ""
+"未持有\n"
+"房间装饰。"
 
 msgid "deco_bast_storage_title"
-msgstr ""
+msgstr "房间一览"
 
 msgid "pop_deco_storage_delete_title"
-msgstr ""
+msgstr "删除确认"
 
 msgid "pop_deco_storage_delete_desc"
 msgstr ""
+"{0}\n"
+"要删除此房间保存数据吗？"
 
 msgid "pop_deco_storage_delete_comp_title"
-msgstr ""
+msgstr "已删除"
 
 msgid "pop_deco_storage_delete_comp_desc"
 msgstr ""
+"{0}\n"
+"已删除该房间数据。"
 
 msgid "pop_deco_storage_overwrite_title"
-msgstr ""
+msgstr "覆盖确认"
 
 msgid "pop_deco_storage_overwrite_desc"
 msgstr ""
+"{0}\n"
+"要覆盖此保存数据吗？"
 
 msgid "pop_deco_storage_overwrite_comp_title"
-msgstr ""
+msgstr "已保存"
 
 msgid "pop_deco_storage_overwrite_comp_desc"
 msgstr ""
+"{0}\n"
+"已覆盖此保存数据。"
 
 msgid "pop_deco_storage_select_comp_title"
-msgstr ""
+msgstr "已更换房间"
 
 msgid "pop_deco_storage_select_comp_desc"
 msgstr ""
+"已将房间\n"
+"更换为\n"
+"{0}。"
 
 msgid "deco_storage_select_text"
-msgstr ""
+msgstr "要更换为选中的房间吗？"
 
 msgid "deco_screenshot_success"
-msgstr ""
+msgstr "照片已保存。"
 
 msgid "deco_sel_popup_storage_message_ios"
 msgstr ""
+"未授权访问相册\n"
+"无法保存照片。\n"
+"\n"
+"请开启以下权限。\n"
+"\n"
 
 msgid "deco_sel_popup_storage_message_android"
 msgstr ""
+"未授权访问储存空间\n"
+"无法保存照片。\n"
+"\n"
+"请开启以下权限。\n"
+"\n"
 
 msgid "deco_screenshot_storage_text_ios"
 msgstr ""
+"相册\n"
+"需要访问相册\n"
+"以保存照片。\n"
 
 msgid "deco_screenshot_storage_text_android"
 msgstr ""
+"储存空间\n"
+"为了正常保存照片，\n"
+"请允许访问设备储存空间。\n"
 
 msgid "deco_popup_err_no_permission_storage"
 msgstr ""
+"未授权访问储存空间\n"
+"无法保存照片。"
 
 msgid "deco_popup_err_not_abailable_storage"
 msgstr ""
+"储存空间不足\n"
+"无法保存照片。"
 
 msgid "pop_deco_name_change_title"
-msgstr ""
+msgstr "更改房间名"
 
 msgid "pop_deco_name_change_text"
-msgstr ""
+msgstr "已更改房间名。"
 
 msgid "pop_deco_name_change_desc"
 msgstr ""
+"请输入房间名\n"
+"（最多10个字）"
 
 msgid "pop_deco_name_change_notes"
 msgstr ""
+"・无法使用部分符号和文字。\n"
+"・需要等待一定时间才能完成更改。"
 
 msgid "pop_deco_name_change_cancel"
-msgstr ""
+msgstr "房间名未更改。"
 
 msgid "pop_deco_item_title"
-msgstr ""
+msgstr "房间装饰持有数"
 
 msgid "pop_deco_item_count"
-msgstr ""
+msgstr "{0}个"
 
 msgid "pop_deco_item_content"
 msgstr ""
+"仅统计“室内装饰”和“对白”的数量。\n"
+"不包含“服装模特架”、\n"
+"“飞机模型”、“吉祥物”\n"
+"以及“海报”。"
 
 msgid "pop_deco_sp_item_001"
-msgstr ""
+msgstr "再获取{0}个房间装饰可升级"
 
 msgid "pop_deco_sp_item_002"
-msgstr ""
+msgstr "可以升级！"
 
 msgid "pop_deco_sp_item_003"
-msgstr ""
+msgstr "等级已满。"
 
 msgid "pop_deco_sp_item_004"
-msgstr ""
+msgstr "回收物品后再进行升级。"
 
 msgid "pop_deco_sp_item_levelup"
 msgstr ""
+"{0}\n"
+"已升级。"
 
 msgid "pop_deco_sp_all_receive_title"
-msgstr ""
+msgstr "全部套用"
 
 msgid "pop_deco_sp_all_receive_content"
 msgstr ""
+"房间中目前没有\n"
+"可领取的为物品。"
 
 msgid "pop_deco_sp_item_point_format"
-msgstr ""
+msgstr "{0}/{1}<size=18>{2}</size>"
 
 msgid "pop_deco_sp_item_time_format"
-msgstr ""
+msgstr "{0}<size=18>小时</size>{1:D2}<size=18>分</size>"
 
 msgid "pop_deco_sp_item_cannon_suffix"
-msgstr ""
+msgstr "%"
 
 msgid "pop_deco_sp_item_cannon_title"
-msgstr ""
+msgstr "Macross加农炮能量槽"
 
 msgid "pop_deco_sp_item_itemlist_title"
-msgstr ""
+msgstr "回收物品"
 
 msgid "pop_deco_sp_item_cannon_text001"
-msgstr ""
+msgstr "已充能。"
 
 msgid "pop_deco_sp_item_cannon_text002"
 msgstr ""
+"能力槽已满\n"
+"无法继续充能。"
 
 msgid "pop_deco_sp_item_cannon_text003"
-msgstr ""
+msgstr "※可使用Macross加农炮进行充能。"
 
 msgid "pop_deco_sp_item_remove_title"
-msgstr ""
+msgstr "收纳Extra物品"
 
 msgid "pop_deco_sp_item_remove_message_001"
 msgstr ""
+"将要更换的房间内\n"
+"没有放置以下Extra物品。"
 
 msgid "pop_deco_sp_item_remove_message_002"
-msgstr ""
+msgstr "将收纳以下Extra物品。"
 
 msgid "pop_deco_sp_item_remove_message_003"
 msgstr ""
+"※收纳Extra物品后，\n"
+"将重置其产出剩余时间和可领取状态。"
 
 msgid "pop_deco_gift_success_title"
-msgstr ""
+msgstr "已赠送物品"
 
 msgid "pop_deco_gift_failed_title"
 msgstr ""
