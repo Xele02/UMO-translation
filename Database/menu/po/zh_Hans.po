@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-11-30 04:28+0000\n"
+"PO-Revision-Date: 2024-12-02 17:07+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -1610,7 +1610,7 @@ msgid "music_event_battle_rank_unit"
 msgstr "名"
 
 msgid "music_event_battle_bp_counting_label"
-msgstr "EX战高分榜"
+msgstr "EX战高分记录"
 
 msgid "music_event_battle_rank_counting"
 msgstr "统计中"
@@ -1664,7 +1664,7 @@ msgid "ex_battle_non_record"
 msgstr "没有EX战分数记录。"
 
 msgid "event_battle_reward_check_hi_score"
-msgstr "EX战高分榜"
+msgstr "EX战高分记录"
 
 msgid "event_battle_reward_check_ranking"
 msgstr "EX战分数排名"
@@ -2365,7 +2365,7 @@ msgid "result_playlog_hint_007"
 msgstr "使用主动技能吧！"
 
 msgid "result_playlog_hint_008"
-msgstr "试着选择和歌姬搭配的卡片吧。可触发演出技能来实现保持连击和取得高分等效果。"
+msgstr "试着选择能够搭配歌姬的卡片吧。可触发演出技能来实现保持连击、取得高分等效果。"
 
 msgid "result_playlog_hint_009"
 msgstr "尽可能填充生物Fold波能量槽来进入空战模式吧。准确度在GREAT以上即可充能。"
@@ -3320,7 +3320,7 @@ msgid "popup_music_rate_get_reward_desc_02"
 msgstr "奖励将全部发送至礼物箱。"
 
 msgid "popup_music_rate_desc"
-msgstr "由高分榜前10名歌曲的评分累计而成。"
+msgstr "由高分记录前10名歌曲的评分累计而成。"
 
 msgid "popup_music_rate_rank_unit"
 msgstr "{0}名"
@@ -3610,7 +3610,7 @@ msgid "event_result_bonus"
 msgstr "消耗加成{0}倍"
 
 msgid "event_hi_score"
-msgstr "活动高分榜"
+msgstr "活动高分记录"
 
 msgid "event_music_ranking"
 msgstr "活动歌曲排名"
@@ -4966,7 +4966,7 @@ msgstr ""
 "此筛选条件下\n"
 "不存在暴走敌人。\n"
 "\n"
-"将恢复默认筛选。"
+"将恢复默认筛选设置。"
 
 msgid "pop_raid_warning_sort_text"
 msgstr ""
@@ -5634,163 +5634,216 @@ msgid "blocklist_empty_text"
 msgstr "黑名单内没有玩家。"
 
 msgid "deco_set_buy_warn_text"
-msgstr ""
+msgstr "<color=#C8087E>含有此物品的商品包含在此装饰礼包中。</color>"
 
 msgid "lobby_raidboss_enable_count"
-msgstr ""
+msgstr "{0}只已出现！"
 
 msgid "pop_raid_attack_network_error"
 msgstr ""
+"发生连接错误。\n"
+"\n"
+"请确认网络连接是否正常，\n"
+"然后重试。\n"
+"<color=#C8087E>※若点击取消，\n"
+"将不会保存数据，并返回标题界面。</color>"
 
 msgid "pop_exchange_need_item"
-msgstr ""
+msgstr "以{0}进行兑换。"
 
 msgid "popup_deco_all_back_title"
-msgstr ""
+msgstr "退出编辑"
 
 msgid "popup_deco_all_back_desc"
 msgstr ""
+"编辑内容未保存\n"
+"将返回房间主界面。\n"
+"是否确认？"
 
 msgid "popup_in_my_blocklist_text"
 msgstr ""
+"此玩家在黑名单内，\n"
+"无法进行此操作。"
 
 msgid "shop_product_deco_set_contain_text"
-msgstr ""
+msgstr "有组合礼包"
 
 msgid "popup_deco_set_item_detaile_title"
-msgstr ""
+msgstr "物品礼包"
 
 msgid "deco_set_item_list_text"
-msgstr ""
+msgstr "{0}×{1}"
 
 msgid "popup_deco_set_item_detaile_list"
-msgstr ""
+msgstr "此礼包包含以下物品组合。"
 
 msgid "popup_deco_set_item_detaile_caution"
-msgstr ""
+msgstr "无法持有超出数量上限的物品。"
 
 msgid "deco_change_storage_attention_text"
-msgstr ""
+msgstr "要更换为选中的房间吗？"
 
 msgid "pop_raid_result_error_text"
 msgstr ""
+"发生连接错误，\n"
+"结果未生效。"
 
 msgid "popup_raid_ap_recovery_success_title"
-msgstr ""
+msgstr "AP回复"
 
 msgid "popup_raid_ap_recovery_success_text"
-msgstr ""
+msgstr "AP已回复至{0}。"
 
 msgid "popup_raid_ap_recovery_max_text"
-msgstr ""
+msgstr "无法回复更多AP。"
 
 msgid "popup_raid_ap_recovery_success_bonus_title"
-msgstr ""
+msgstr "AP回复"
 
 msgid "popup_raid_ap_recovery_success_bonus_text"
 msgstr ""
+"由于用歌晶石回复了AP\n"
+"获得{1}个{0}。"
 
 msgid "popup_deco_save_confirm_title"
-msgstr ""
+msgstr "保存确认"
 
 msgid "popup_deco_save_confirm_desc"
 msgstr ""
+"房间编辑未保存。\n"
+"要保存吗？"
 
 msgid "popup_tutorial_guidetohome_title"
-msgstr ""
+msgstr "新手教程"
 
 msgid "popup_tutorial_guidetohome_text"
-msgstr ""
+msgstr "已达到规定的等级，将返回大厅。"
 
 msgid "popup_deco_save_title"
-msgstr ""
+msgstr "保存并退出"
 
 msgid "popup_deco_save_desc"
 msgstr ""
+"将保存编辑内容\n"
+"并返回房间主界面。\n"
+"是否确认？"
 
 msgid "pop_deco_shop_sort_title"
-msgstr ""
+msgstr "筛选"
 
 msgid "popup_raid_login_reward_title"
-msgstr ""
+msgstr "参与活动奖励"
 
 msgid "raid_new_announce_text"
-msgstr ""
+msgstr "收到　{0}个新的救援信号！"
 
 msgid "unit_select_skip_count"
-msgstr ""
+msgstr "剩余{0}张/天"
 
 msgid "unit_select_skip_limit"
-msgstr ""
+msgstr "今日次数用尽"
 
 msgid "unit_skip_condition_title"
-msgstr ""
+msgstr "解锁条件"
 
 msgid "unit_skip_condition_text"
 msgstr ""
+"演出跳过券只能用于跳过\n"
+"以SS评价通关的歌曲。"
 
 msgid "unit_skip_ticket_count_title"
-msgstr ""
+msgstr "每日使用次数限制"
 
 msgid "unit_skip_ticket_count_text"
 msgstr ""
+"演出跳过券存在每日使用次数限制。\n"
+"\n"
+"剩余次数为0时，当天将\n"
+"无法继续使用跳过券。\n"
+"\n"
+"使用次数将在每天0:00回满。"
 
 msgid "unit_skip_ticket_lack_title"
-msgstr ""
+msgstr "演出跳过券"
 
 msgid "unit_skip_ticket_lack_text"
 msgstr ""
+"未持有演出跳过券\n"
+"无法跳过演出。"
 
 msgid "use_ticket_popup_title"
-msgstr ""
+msgstr "跳过演出"
 
 msgid "use_ticket_popup_havecount"
-msgstr ""
+msgstr "持有："
 
 msgid "use_ticket_consume_format"
-msgstr ""
+msgstr "{0}："
 
 msgid "use_ticket_consume_item_001"
-msgstr ""
+msgstr "体力"
 
 msgid "use_ticket_consume_item_002"
-msgstr ""
+msgstr "AP"
 
 msgid "use_item_description_01"
 msgstr ""
+"<color=#C8087E>每次最多可使用{0}张。</color>\n"
+"可消耗演出跳过券跳过演出。\n"
+"可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度点数等。\n"
+"获得奖励的数量与跳过券的使用量有关。"
 
 msgid "use_item_description_02"
 msgstr ""
+"可消耗演出跳过券跳过演出。\n"
+"本次可使用1张跳过券。\n"
+"可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度点数等。"
 
 msgid "use_item_description_03"
 msgstr ""
+"消耗1张演出跳过券进行跳过。\n"
+"\n"
+"演出跳过券　{0}→{1}\n"
+"\n"
+"・音符将全部判定为PERFECT\n"
+"・跳过的演出将不会被判定为“FULL COMBO”\n"
+"・演出得分及是否进入战机模式，将基于角色编队进行判断。"
 
 msgid "use_item_description_04"
 msgstr ""
+"<color=#C8087E>每次最多可使用{0}张。</color>\n"
+"可消耗演出跳过券跳过演出。\n"
+"每日歌曲的游玩次数耗尽后将无法使用跳过券。\n"
+"可获得全PERFECT奖励、连击数为0的奖励，以及歌姬熟练度点数等。\n"
+"获得奖励的数量与跳过券的使用量有关。"
 
 msgid "boost_skip_ticket_title"
-msgstr ""
+msgstr "演出跳过券"
 
 msgid "boost_skip_ticket_text"
 msgstr ""
+"使用BOOST功能时\n"
+"无法跳过演出。"
 
 msgid "boost_skip_battle_ex_title"
-msgstr ""
+msgstr "演出跳过券"
 
 msgid "boost_skip_battle_ex_text"
 msgstr ""
+"选择EX级对手时\n"
+"无法跳过演出。"
 
 msgid "result_skip_caution"
-msgstr ""
+msgstr "※使用跳过功能将不会更新歌曲的高分记录及评分。"
 
 msgid "result_assist_caution"
-msgstr ""
+msgstr "※进行支援将不会更新歌曲的高分记录及评分。"
 
 msgid "popup_mission_stepup_desc"
-msgstr ""
+msgstr "已完成Step{0}，将开启Step{1}。"
 
 msgid "popup_mission_stepup_allclear"
-msgstr ""
+msgstr "已完成全部STEP UP任务！"
 
 msgid "popup_rareup_item_warning_text"
 msgstr ""
