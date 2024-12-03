@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-03 05:28+0000\n"
+"PO-Revision-Date: 2024-12-04 04:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -36,13 +36,13 @@ msgid "unit_popup_title_00"
 msgstr "保存/套用编队组合"
 
 msgid "unit_popup_title_01"
-msgstr "保存确认"
+msgstr "编队保存"
 
 msgid "unit_popup_title_02"
-msgstr "覆盖确认"
+msgstr "编队覆盖"
 
 msgid "unit_popup_title_03"
-msgstr "套用确认"
+msgstr "编队套用"
 
 msgid "unit_setpopup_text_00"
 msgstr "编队组合{0}"
@@ -83,13 +83,13 @@ msgid "popup_text_08"
 msgstr "歌姬数据"
 
 msgid "popup_text_09"
-msgstr "物品消耗确认"
+msgstr "物品消耗"
 
 msgid "popup_text_10"
 msgstr "所有道具一览"
 
 msgid "popup_text_11"
-msgstr "能力解放确认"
+msgstr "能力解放"
 
 msgid "popup_text_12"
 msgstr "卸下所有卡片"
@@ -104,7 +104,7 @@ msgid "popup_text_16"
 msgstr "技能说明"
 
 msgid "popup_text_17"
-msgstr "支援卡片确认"
+msgstr "支援卡片"
 
 msgid "popup_sort_text_00"
 msgstr "只显示与选中的歌姬相匹配的卡片"
@@ -161,7 +161,7 @@ msgid "item_detail_popup_title_00"
 msgstr "物品详情"
 
 msgid "pbox_title_00"
-msgstr "确认领取"
+msgstr "领取物品"
 
 msgid "pbox_title_01"
 msgstr "领取失败"
@@ -170,7 +170,7 @@ msgid "pbox_title_02"
 msgstr "领取礼物"
 
 msgid "pbox_title_03"
-msgstr "全部领取确认"
+msgstr "全部领取"
 
 msgid "pbox_title_04"
 msgstr "持有上限"
@@ -240,10 +240,10 @@ msgid "pbox_text_14"
 msgstr "还有{0}分钟"
 
 msgid "pbox_win_warn01"
-msgstr "<color=#c8087e>已显示最新的{0}项</color>"
+msgstr "<color=#c8087e>显示最近的{0}项</color>"
 
 msgid "pbox_win_warn02"
-msgstr "<color=#c8087e>已显示最新的{0}项</color>"
+msgstr "<color=#c8087e>显示最近的{0}项</color>"
 
 msgid "pbox_win_none01"
 msgstr "没有礼物。"
@@ -271,35 +271,35 @@ msgstr "此设置不适用于“公告”选项。"
 msgid "set_notification_text_05"
 msgstr ""
 "在体力完全恢复时\n"
-"进行通知。"
+"进行提醒。"
 
 msgid "set_notification_text_06"
 msgstr ""
 "在超时空SNS收到信息时\n"
-"进行通知。"
+"进行提醒。"
 
 msgid "set_notification_text_07"
 msgstr ""
 "在战机派遣任务完成时\n"
-"进行通知。"
+"进行提醒。"
 
 msgid "set_notification_text_08"
 msgstr ""
 "在AP完全恢复时\n"
-"进行通知。"
+"进行提醒。"
 
 msgid "set_notification_text_09"
 msgstr ""
 "在EX暴走敌人出现时\n"
-"进行通知。"
+"进行提醒。"
 
 msgid "set_notification_text_10"
-msgstr "“公告”选项关闭时，将不会对公告进行通知推送。"
+msgstr "“公告”选项关闭时，将不会进行提醒。"
 
 msgid "set_notification_text_11"
 msgstr ""
 "在房间中可收取的物品蓄满时\n"
-"进行通知。"
+"进行提醒。"
 
 msgid "set_battle_event_text_01"
 msgstr "重新选择战斗等级"
@@ -440,7 +440,7 @@ msgstr "显示默认背景。"
 
 msgid "config_text_33"
 msgstr ""
-"若主卡片在的初始稀有度在★4以上，\n"
+"若中心卡片的初始稀有度在★4以上，\n"
 "将作为背景展示。"
 
 msgid "config_text_34"
@@ -896,7 +896,7 @@ msgid "header_desc_home204"
 msgstr "查看歌曲熟练度"
 
 msgid "header_desc_home205"
-msgstr "选择卡片"
+msgstr "请选择卡片"
 
 msgid "header_desc_home206"
 msgstr "解放卡片能力"
@@ -944,7 +944,7 @@ msgid "header_desc_setting002"
 msgstr "选择歌姬"
 
 msgid "header_desc_setting003"
-msgstr "选择卡片"
+msgstr "请选择卡片"
 
 msgid "header_desc_setting004"
 msgstr "查看已保存的编队"
@@ -1001,7 +1001,7 @@ msgid "header_desc_story004"
 msgstr "查看歌曲熟练度"
 
 msgid "header_desc_story005"
-msgstr "选择卡片"
+msgstr "请选择卡片"
 
 msgid "header_desc_story006"
 msgstr "解放卡片能力"
@@ -1037,7 +1037,7 @@ msgid "header_desc_free004"
 msgstr "查看歌曲熟练度"
 
 msgid "header_desc_free005"
-msgstr "选择卡片"
+msgstr "请选择卡片"
 
 msgid "header_desc_free006"
 msgstr "解放卡片能力"
@@ -1088,7 +1088,7 @@ msgid "header_desc_free204"
 msgstr "查看歌曲熟练度"
 
 msgid "header_desc_free205"
-msgstr "选择卡片"
+msgstr "请选择卡片"
 
 msgid "header_desc_free206"
 msgstr "解放卡片能力"
@@ -1136,7 +1136,7 @@ msgid "header_desc_quest002"
 msgstr "选择报酬"
 
 msgid "header_desc_quest003"
-msgstr "挑战BingoBingo任务"
+msgstr "挑战Bingo任务"
 
 msgid "header_desc_option000"
 msgstr "选择项目"
@@ -1145,7 +1145,7 @@ msgid "header_desc_option001"
 msgstr "查看个人资料"
 
 msgid "header_desc_option002"
-msgstr "选择称号"
+msgstr "请选择称号"
 
 msgid "header_desc_option003"
 msgstr "查看排名"
@@ -1181,7 +1181,7 @@ msgid "header_desc_evquest004"
 msgstr "查看歌曲熟练度"
 
 msgid "header_desc_evquest005"
-msgstr "选择卡片"
+msgstr "请选择卡片"
 
 msgid "header_desc_evquest006"
 msgstr "解放卡片能力"
@@ -1292,7 +1292,7 @@ msgid "popup_reward_detail_title"
 msgstr "获得奖励"
 
 msgid "pupup_app_exit_title"
-msgstr "退出游戏确认"
+msgstr "退出游戏"
 
 msgid "popup_app_exit"
 msgstr "真的要退出游戏吗？"
@@ -1824,39 +1824,39 @@ msgstr ""
 "\n"
 "※上述的卡片有可能会在抽卡结果中重复出现。\n"
 "\n"
-"※相同稀有度的卡片，出现概率有可能会不尽相同。\n"
+"※相同稀有度的卡片，出现概率可能不尽相同。\n"
 "\n"
 "※“出现概率”中所显示的各稀有度卡片的\n"
 "   出现概率为初始概率。\n"
 "\n"
 "※若在一定次数内未出现★5卡片，\n"
 "　★5卡片的出现概率将得到些许提升，\n"
-"　同时，所有★3★4卡片的出现概率将得到同等幅度的下降。\n"
+"　同时，★3★4卡片的出现概率将得到同等幅度的下降。\n"
 "\n"
 "※变动后的概率，将在\n"
-"　卡池的开启时间结束，或同卡池中抽出★5卡片后\n"
+"　卡池的开启时间结束，或在该卡池中抽出★5卡片后\n"
 "　回归至初始概率。\n"
 "\n"
-"※上述的概率变动将不会发生在“新手限定卡池”中。"
+"※上述的概率变动不会发生在“新手限定卡池”中。"
 
 msgid "popup_gacha2_rate_warning"
 msgstr ""
 "※卡片出现概率最多只显示到小数点后3位数。\n"
 "　因此可能会出现累计后无法达到100%的情况。\n"
 "\n"
-"※上述卡片有可能会在抽卡结果中重复出现。\n"
+"※上述的卡片有可能会在抽卡结果中重复出现。\n"
 "\n"
-"※相同稀有度的卡片，出现概率有可能会不尽相同。\n"
+"※相同稀有度的卡片，出现概率可能不尽相同。\n"
 "\n"
 "※“出现概率”中所显示的各稀有度卡片的\n"
 "   出现概率为初始概率。\n"
 "\n"
 "※若在一定次数内未出现★5卡片，\n"
 "　★5卡片的出现概率将得到些许提升，\n"
-"　同时，所有★3★4卡片的出现概率将得到同等幅度的下降。\n"
+"　同时，★3★4卡片的出现概率将得到同等幅度的下降。\n"
 "\n"
 "※变动后的概率，将在\n"
-"　卡池的开启时间结束，或同卡池中抽出★5卡片后\n"
+"　卡池的开启时间结束，或在该卡池中抽出★5卡片后\n"
 "　回归至初始概率。"
 
 msgid "popup_gacha_once_rate_warning"
@@ -1882,39 +1882,39 @@ msgstr ""
 "\n"
 "※上述的卡片有可能会在抽卡结果中重复出现。\n"
 "\n"
-"※相同稀有度的卡片，出现概率有可能会不尽相同。\n"
+"※相同稀有度的卡片，出现概率可能不尽相同。\n"
 "\n"
 "※“出现概率”中所显示的各稀有度卡片的\n"
 "   出现概率为初始概率。\n"
 "\n"
 "※若在一定次数内未出现★5卡片，\n"
 "　★5卡片的出现概率将得到些许提升，\n"
-"　同时，所有★3★4卡片的出现概率将得到同等幅度的下降。\n"
+"　同时，★3★4卡片的出现概率将得到同等幅度的下降。\n"
 "\n"
 "※变动后的概率，将在\n"
-"　卡池的开启时间结束，或同卡池中抽出★5卡片后\n"
+"　卡池的开启时间结束，或在该卡池中抽出★5卡片后\n"
 "　回归至初始概率。\n"
 "\n"
-"※上述的概率变动将不会发生在“新手限定卡池”中。"
+"※上述的概率变动不会发生在“新手限定卡池”中。"
 
 msgid "popup_gacha_stepup_rate_warning"
 msgstr ""
 "※卡片出现概率最多只显示到小数点后3位数。\n"
 "　因此可能会出现累计后无法达到100%的情况。\n"
 "\n"
-"※上述卡片有可能会在抽卡结果中重复出现。\n"
+"※上述的卡片有可能会在抽卡结果中重复出现。\n"
 "\n"
-"※相同稀有度的卡片，出现概率有可能会不尽相同。\n"
+"※相同稀有度的卡片，出现概率可能不尽相同。\n"
 "\n"
 "※“出现概率”中所显示的各稀有度卡片的\n"
 "   出现概率为初始概率。\n"
 "\n"
 "※若在一定次数内未出现★5卡片，\n"
 "　★5卡片的出现概率将得到些许提升，\n"
-"　同时，所有★3★4卡片的出现概率将得到同等幅度的下降。\n"
+"　同时，★3★4卡片的出现概率将得到同等幅度的下降。\n"
 "\n"
 "※变动后的概率，将在\n"
-"　卡池的开启时间结束，或同卡池中抽出★5卡片后\n"
+"　卡池的开启时间结束，或在该卡池中抽出★5卡片后\n"
 "　回归至初始概率。"
 
 msgid "popup_gacha_pass_rate_warning"
@@ -1944,7 +1944,7 @@ msgstr "更改背景"
 
 msgid "popup_home_scene_bg_msg"
 msgstr ""
-"当前主卡的卡片稀有度为★4以上时，\n"
+"当前中心卡片的卡片稀有度为★4以上时，\n"
 "可将其设为大厅背景。\n"
 "\n"
 "可在“背景”选项中进行设置。"
@@ -1963,7 +1963,7 @@ msgid "popup_home_scene_limited_bg_msg_02"
 msgstr "<color=#c8087e>可在“背景”选项中将卡片重新设为背景。</color>"
 
 msgid "popup_home_ngword_rename_title"
-msgstr "违禁词通知"
+msgstr "违禁词提醒"
 
 msgid "popup_home_ngword_rename_msg"
 msgstr ""
@@ -1983,13 +1983,13 @@ msgid "home_banner_event_end_attain"
 msgstr "统计中"
 
 msgid "popup_scene_autocombine_title"
-msgstr "自动合成确认"
+msgstr "自动合成"
 
 msgid "popup_scene_autocombine_msg"
 msgstr "此卡片已自动进行合成。"
 
 msgid "popup_scene_convertitem_title"
-msgstr "物品转换确认"
+msgstr "物品转换"
 
 msgid "popup_scene_convertitem_msg"
 msgstr "此卡片已转换为物品。"
@@ -2074,7 +2074,7 @@ msgstr ""
 "・需要等待一定时间才能完成更改。"
 
 msgid "popup_title_profil_04"
-msgstr "昵称更改确认"
+msgstr "更改昵称"
 
 msgid "popup_title_profil_05"
 msgstr ""
@@ -2365,7 +2365,7 @@ msgid "result_playlog_hint_007"
 msgstr "使用主动技能吧！"
 
 msgid "result_playlog_hint_008"
-msgstr "试着选择能够搭配歌姬的卡片吧。可触发演出技能来实现保持连击、取得高分等效果。"
+msgstr "试着选择能够搭配歌姬的卡片吧。可发动演出技能来实现保持连击、取得高分等效果。"
 
 msgid "result_playlog_hint_009"
 msgstr "尽可能填充生物Fold波能量槽来进入空战模式吧。准确度在GREAT以上即可充能。"
@@ -2386,7 +2386,7 @@ msgstr ""
 "相应详情。"
 
 msgid "popup_valkyrie_select_title"
-msgstr "确认更改"
+msgstr "更改战机"
 
 msgid "popup_event_reward_result_pt_title"
 msgstr "获得累计点数奖励"
@@ -2489,7 +2489,7 @@ msgid "rhythm_adjust_balloon_text"
 msgstr "听到打击音效时按下"
 
 msgid "rhythm_adjust_confirmmode_title"
-msgstr "校正确认"
+msgstr "延迟校正"
 
 msgid "rhythm_adjust_confirmmode_text"
 msgstr ""
@@ -2866,7 +2866,7 @@ msgid "scenelist_not_listed_up"
 msgstr "未持有该回忆卡片。"
 
 msgid "popup_adv_skip_title"
-msgstr "跳过确认"
+msgstr "跳过演出"
 
 msgid "popup_adv_skip_text"
 msgstr ""
@@ -3006,7 +3006,7 @@ msgid "limit_over_unlock_03"
 msgstr "已解放此幸运草的所有效果。"
 
 msgid "limit_over_unlock_04"
-msgstr "※主卡片与歌姬不匹配时也能触发。"
+msgstr "※中心卡片与歌姬不匹配时也能发动。"
 
 msgid "limit_over_popup_title"
 msgstr "幸运草效果"
@@ -3085,7 +3085,7 @@ msgstr ""
 "{1}"
 
 msgid "game_mvmode_endtitle_text"
-msgstr "退出确认"
+msgstr "退出游戏"
 
 msgid "game_mvmode_end_text"
 msgstr ""
@@ -4045,7 +4045,7 @@ msgstr ""
 "VOP获得哦！"
 
 msgid "costume_upgrade_item_use_title_text"
-msgstr "物品消耗确认"
+msgstr "物品消耗"
 
 msgid "costume_upgrade_achievement_title_text"
 msgstr "卡哇哇等级提升奖励"
@@ -4093,7 +4093,7 @@ msgstr "数值强化"
 msgid "costume_upgrade_item_detail_sub_plate"
 msgstr ""
 "解锁“{0}”\n"
-"解锁后对应属性将强化3%。"
+"解锁后对应的支援卡片槽位将强化3%。"
 
 msgid "costume_upgrade_rank_up_unlock_condition_text"
 msgstr "解锁条件"
@@ -4112,7 +4112,7 @@ msgstr "{0}%"
 msgid "subplate_lock_text"
 msgstr ""
 "【解锁条件】\n"
-"・在“强化服装”内解锁支援卡片。\n"
+"・在“强化服装”内解锁支援卡片槽位。\n"
 "\n"
 "<color=#C8087E>※“强化服装”将在游戏进程中解锁。</color>"
 
@@ -4149,7 +4149,7 @@ msgid "offer_occur_diva_offer_text_02"
 msgstr "已强化{0}的委托内容！"
 
 msgid "offer_cancel_pop_title"
-msgstr "取消任务确认"
+msgstr "取消任务"
 
 msgid "offer_cancel_pop_text"
 msgstr ""
@@ -4269,7 +4269,7 @@ msgstr ""
 "上使用吗？"
 
 msgid "secret_board_item_use_title"
-msgstr "秘密板块解锁确认"
+msgstr "解锁秘密板块"
 
 msgid "secret_board_item_use_desc_1"
 msgstr "将消耗以下物品解锁秘密板块。"
@@ -4278,7 +4278,7 @@ msgid "secret_board_item_use_desc_2"
 msgstr "解锁秘密板块所需的物品不足。"
 
 msgid "secret_board_item_use_confirm_title"
-msgstr "秘密板块解锁最终确认"
+msgstr "解锁秘密板块最终确认"
 
 msgid "secret_board_item_use_confirm_desc"
 msgstr "真的要解锁此卡片的秘密板块吗？"
@@ -4471,16 +4471,16 @@ msgstr ""
 "Bingo任务。"
 
 msgid "bingo_count_text"
-msgstr "第{0}张"
+msgstr "第{0}页"
 
 msgid "bingo_reward_count_text"
-msgstr "{0}Bingo奖励"
+msgstr "{0} Bingo奖励"
 
 msgid "bingo_ribbon_bingo_count_text"
 msgstr "目前{0}Bingo！"
 
 msgid "bingo_ribbon_costume_text"
-msgstr "{0}Bingo时获得解放卡片！"
+msgstr "{0} Bingo时获得解放卡片！"
 
 msgid "bingo_ribbon_item_text"
 msgstr "已获得所有奖励！"
@@ -4598,7 +4598,7 @@ msgid "pop_score_detail_item_desc_08"
 msgstr "持续至歌曲进度90%的连击加成预测"
 
 msgid "pop_score_detail_item_desc_09"
-msgstr "没有错过任何一个加分音符时的加成预测"
+msgstr "击中所有加分音符时的加成预测"
 
 msgid "pop_score_detail_item_desc_10"
 msgstr "已解放的幸运草的加成预测"
@@ -4624,7 +4624,7 @@ msgid "offer_not_received_item_text"
 msgstr "以下道具已过期，无法获得。"
 
 msgid "pop_valyrietuneup_title"
-msgstr "物品消耗确认"
+msgstr "物品消耗"
 
 msgid "pop_valkyrietuneup_desc"
 msgstr "将解锁战机的性能扩充。是否确认？"
@@ -4653,7 +4653,7 @@ msgid "deco_bast_storage_title"
 msgstr "房间一览"
 
 msgid "pop_deco_storage_delete_title"
-msgstr "删除确认"
+msgstr "删除房间"
 
 msgid "pop_deco_storage_delete_desc"
 msgstr ""
@@ -4669,7 +4669,7 @@ msgstr ""
 "已删除该房间数据。"
 
 msgid "pop_deco_storage_overwrite_title"
-msgstr "覆盖确认"
+msgstr "覆盖房间"
 
 msgid "pop_deco_storage_overwrite_desc"
 msgstr ""
@@ -4885,7 +4885,7 @@ msgstr ""
 "次数的跳过机会！"
 
 msgid "pop_raid_helprequest_confirmed_title"
-msgstr "救援确认"
+msgstr "参与救援"
 
 msgid "pop_raid_helprequest_confirmed_text"
 msgstr ""
@@ -4925,7 +4925,7 @@ msgstr ""
 "<color=#C6077CFF>{0}　{1}</color>"
 
 msgid "pop_raid_helprequest_title"
-msgstr "救援确认"
+msgstr "请求救援"
 
 msgid "pop_raid_helprequest_loby"
 msgstr "向Macross大厅发送救援信号"
@@ -5089,7 +5089,7 @@ msgstr "被击败的暴走敌人"
 
 msgid "pop_raid_defeated_text"
 msgstr ""
-"选中的暴走敌人已被击败。\n"
+"此暴走敌人已被击败。\n"
 "将更新列表。"
 
 msgid "pop_raid_escaped01_title"
@@ -5183,7 +5183,7 @@ msgstr ""
 "再制作新表情。"
 
 msgid "pop_customstamp_sort_save_title"
-msgstr "保存确认"
+msgstr "保存表情"
 
 msgid "pop_customstamp_sort_save_desc"
 msgstr "要保存目前的表情排列吗？"
@@ -5399,7 +5399,7 @@ msgid "popup_event_reward_raid_info_lotcount"
 msgstr "获得数量与歌手等级和敌人等级相关。"
 
 msgid "pop_raid_helprequest_completion_title"
-msgstr "救援确认"
+msgstr "请求救援"
 
 msgid "pop_raid_helprequest_completion_text"
 msgstr "已向以下玩家发送救援信号。"
@@ -5480,7 +5480,7 @@ msgid "shop_no_product_desc"
 msgstr "没有可兑换的物品。"
 
 msgid "popup_deco_all_remove_title"
-msgstr "收纳确认"
+msgstr "收纳装饰"
 
 msgid "popup_deco_all_remove_desc"
 msgstr ""
@@ -5499,7 +5499,7 @@ msgid "lobby_viewing_system_text"
 msgstr "正在观看另一战队的大厅。"
 
 msgid "popup_profile_visit_title"
-msgstr "访问确认"
+msgstr "访问房间"
 
 msgid "popup_profile_visit_msg"
 msgstr ""
@@ -5507,7 +5507,7 @@ msgstr ""
 "的房间。"
 
 msgid "popup_profile_lobby_title"
-msgstr "阅览确认"
+msgstr "查看大厅"
 
 msgid "popup_profile_lobby_msg"
 msgstr ""
@@ -5527,7 +5527,7 @@ msgid "chat_post_conf_popup_text"
 msgstr "手动将战斗记录发送到聊天。"
 
 msgid "chat_post_conf_popup_title"
-msgstr "发送确认"
+msgstr "发送信息"
 
 msgid "raid_event_end_text"
 msgstr "活动结果统计中。"
@@ -5558,7 +5558,7 @@ msgstr ""
 "的歌曲中生效。"
 
 msgid "pop_block_ask_title"
-msgstr "黑名单确认"
+msgstr "加入黑名单"
 
 msgid "pop_block_ask_desc"
 msgstr ""
@@ -5587,7 +5587,7 @@ msgstr ""
 "上限（{0}人）。"
 
 msgid "pop_block_remove_ask_title"
-msgstr "移出黑名单确认"
+msgstr "移出黑名单"
 
 msgid "pop_block_remove_ask_text"
 msgstr ""
@@ -5790,14 +5790,14 @@ msgid "use_item_description_01"
 msgstr ""
 "<color=#C8087E>每次最多可使用{0}张。</color>\n"
 "可消耗演出跳过券跳过演出。\n"
-"可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度点数等。\n"
+"可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度等。\n"
 "获得奖励的数量与跳过券的使用量有关。"
 
 msgid "use_item_description_02"
 msgstr ""
 "可消耗演出跳过券跳过演出。\n"
 "本次可使用1张跳过券。\n"
-"可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度点数等。"
+"可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度等。"
 
 msgid "use_item_description_03"
 msgstr ""
@@ -5814,7 +5814,7 @@ msgstr ""
 "<color=#C8087E>每次最多可使用{0}张。</color>\n"
 "可消耗演出跳过券跳过演出。\n"
 "每日歌曲的游玩次数耗尽后将无法使用跳过券。\n"
-"可获得全PERFECT奖励、连击数为0的奖励，以及歌姬熟练度点数等。\n"
+"可获得全PERFECT奖励、连击数为0的奖励，以及歌姬熟练度等。\n"
 "获得奖励的数量与跳过券的使用量有关。"
 
 msgid "boost_skip_ticket_title"
@@ -5840,7 +5840,7 @@ msgid "result_assist_caution"
 msgstr "※进行支援将不会更新歌曲的高分记录及评分。"
 
 msgid "popup_mission_stepup_desc"
-msgstr "已完成Step{0}，将开启Step{1}。"
+msgstr "已完成Step {0}，将开放Step {1}。"
 
 msgid "popup_mission_stepup_allclear"
 msgstr "已完成全部STEP UP任务！"
@@ -5865,7 +5865,7 @@ msgstr "获得{0}"
 
 msgid "popup_get_liveskip_ticket_desc"
 msgstr ""
-"※每日补充{0}张。\n"
+"※每日发放{0}张。\n"
 "※超过持有上限的部分将消失。"
 
 msgid "popup_get_liveskip_ticket_count"
@@ -5879,309 +5879,366 @@ msgstr "确认"
 
 msgid "popup_get_liveskip_ticket_confirm_desc"
 msgstr ""
+"发放每日{0}时，将不会\n"
+"继续显示此通知。\n"
+"\n"
+"确定要关闭通知吗？\n"
+"\n"
+"<color=#C8087E>※关闭后不会影响物品发放。</color>"
 
 msgid "popup_kira_scene_release_desc_1"
 msgstr ""
+"幸运草解放等级已满的卡片\n"
+"已转换为{0}。"
 
 msgid "popup_kira_scene_release_desc_2"
 msgstr ""
+"高阶化后的卡片，\n"
+"房间内与其对应的海报装饰也可设置显示高阶特效。"
 
 msgid "popup_episodebonus_note_01"
 msgstr ""
+"※进行编队时，从属于同一回忆片段的卡片，仅有1张会附带回忆片段的加成效果。\n"
+"※编队中同时存在多张从属于同一回忆片段的卡片时，加成仅会在数值最高的卡片上生效"
+"。\n"
+"※具体加成数值将基于回忆片段与卡片稀有度进行计算。"
 
 msgid "popup_episodebonus_note_02"
-msgstr ""
+msgstr "※从属于同一回忆片段的卡片，仅有一张会附带加成效果。"
 
 msgid "popup_episodebonus_evo_bonus"
-msgstr ""
+msgstr "提升稀有度后为{0}%"
 
 msgid "not_possessed"
-msgstr ""
+msgstr "未持有"
 
 msgid "popup_gachatransition_title"
-msgstr ""
+msgstr "前往抽卡"
 
 msgid "popup_gachatransition"
-msgstr ""
+msgstr "要前往抽卡界面吗？"
 
 msgid "popup_not_gachatransition"
-msgstr ""
+msgstr "该卡池已关闭。"
 
 msgid "pop_raid_enemy_requested_title"
-msgstr ""
+msgstr "请求救援"
 
 msgid "pop_raid_enemy_requested_text"
 msgstr ""
+"救援信号发送失败。\n"
+"请稍后再试。"
 
 msgid "utaraterank_over_ranking"
-msgstr ""
+msgstr "----"
 
 msgid "utaraterank_over_login"
-msgstr ""
+msgstr "----"
 
 msgid "utaraterank_none"
-msgstr ""
+msgstr "无数据"
 
 msgid "popup_episodebonus_max"
-msgstr ""
+msgstr "最高{0}%"
 
 msgid "unorganized"
-msgstr ""
+msgstr "未编组"
 
 msgid "skill_attr_regulation"
-msgstr ""
+msgstr "存在属性限制"
 
 msgid "episode_assist"
-msgstr ""
+msgstr "ASSIST（已应用）"
 
 msgid "episode_available"
-msgstr ""
+msgstr "已应用"
 
 msgid "pop_raid_help_defeated_text"
 msgstr ""
+"此暴走敌人已被击败。\n"
+"将更新列表。"
 
 msgid "pop_raid_help_result_defeated_text"
-msgstr ""
+msgstr "此暴走敌人已被击败。"
 
 msgid "pop_raid_help_player_count_limit_over_text"
 msgstr ""
+"救援信号发送人数已达上限。\n"
+"无法继续发送。"
 
 msgid "pop_limited_item_warning_text_1"
-msgstr ""
+msgstr "{0}的有效期<color=#C8087E>剩余{1}天</color>。"
 
 msgid "pop_limited_item_warning_title"
-msgstr ""
+msgstr "存在有效期的物品"
 
 msgid "notification_rareup_star_limit_title"
-msgstr ""
+msgstr "【过期提醒】"
 
 msgid "notification_rareup_star_limit_text"
-msgstr ""
+msgstr "{0}即将过期！现在就上线使用它吧！"
 
 msgid "set_notification_text_12"
 msgstr ""
+"在物品即将过期时\n"
+"进行提醒。"
 
 msgid "pop_limited_item_warning_text_2"
-msgstr ""
+msgstr "{0}将在<color=#C8087E>明天</color>过期。"
 
 msgid "pop_deco_option_caution_plateanimation_01"
-msgstr ""
+msgstr "仅适用于有动画效果的海报。"
 
 msgid "gacha_rarity_desc_01"
-msgstr ""
+msgstr "※此为稀有度提升前的卡面。"
 
 msgid "gacha_rarity_desc_02"
-msgstr ""
+msgstr "※此为稀有度提升后的卡面。"
 
 msgid "gacha_period"
-msgstr ""
+msgstr "活动时间：{0}/{1} {2}:{3:D2}为止"
 
 msgid "gacha_cost_01"
-msgstr ""
+msgstr "消耗"
 
 msgid "gacha_cost_02"
-msgstr ""
+msgstr "使用此道具抽卡"
 
 msgid "gacha_cost_03"
-msgstr ""
+msgstr "早　{0}次免费"
 
 msgid "gacha_cost_04"
-msgstr ""
+msgstr "午　{0}次免费"
 
 msgid "gacha_cost_05"
-msgstr ""
+msgstr "晚　{0}次免费"
 
 msgid "config_text_98"
-msgstr ""
+msgstr "服装特效"
 
 msgid "config_text_99"
-msgstr ""
+msgstr "调整服装周围的视觉特效。"
 
 msgid "config_text_100"
-msgstr ""
+msgstr "仅适用于带有专属特效的服装。"
 
 msgid "config_text_101"
-msgstr ""
+msgstr "卡面动画效果"
 
 msgid "config_text_102"
-msgstr ""
+msgstr "仅适用于有动画效果的卡片。"
 
 msgid "config_text_103"
-msgstr ""
+msgstr "不适用于抽卡界面。"
 
 msgid "liveskillregulation_except"
 msgstr ""
+"非对象\n"
+"系列歌曲"
 
 msgid "liveskillregulation_popup_title"
-msgstr ""
+msgstr "演出技能发动对象歌曲"
 
 msgid "centerskillregulation_popup_title"
-msgstr ""
+msgstr "中心技能发动对象歌曲"
 
 msgid "gacha_telop_01"
-msgstr ""
+msgstr "仅限1次！"
 
 msgid "gacha_telop_02"
-msgstr ""
+msgstr "还有{0}次！"
 
 msgid "gacha_telop_03"
-msgstr ""
+msgstr "首次抽卡免费！"
 
 msgid "gacha_telop_04"
 msgstr ""
+"抽取{0}次后\n"
+"下一次免费！"
 
 msgid "gacha_telop_05"
-msgstr ""
+msgstr "本次免费！"
 
 msgid "gacha_telop_06"
-msgstr ""
+msgstr "每日1次免费！"
 
 msgid "gacha_cost_06"
-msgstr ""
+msgstr "免费抽取"
 
 msgid "gacha_desc_01"
-msgstr ""
+msgstr "※有可能会出现上述以外的卡片。"
 
 msgid "gacha_desc_02"
-msgstr ""
+msgstr "※每天0点刷新。"
 
 msgid "gacha_desc_03"
-msgstr ""
+msgstr "※持有多张奖券时，将显示最早过期的一张。"
 
 msgid "gacha_desc_04"
-msgstr ""
+msgstr "每天早中晚3次的免费抽卡。"
 
 msgid "gacha_set_sale_desc_01"
-msgstr ""
+msgstr "售卖中"
 
 msgid "gacha_set_sale_desc_02"
-msgstr ""
+msgstr "已购买"
 
 msgid "gacha_set_sale_desc_03"
-msgstr ""
+msgstr "已下架"
 
 msgid "gacha_ticket_name"
-msgstr ""
+msgstr "持有奖券"
 
 msgid "assistselect_attribute_other"
-msgstr ""
+msgstr "全属性"
 
 msgid "assistselect_attribute_yellow"
-msgstr ""
+msgstr "星属性"
 
 msgid "assistselect_attribute_red"
-msgstr ""
+msgstr "爱属性"
 
 msgid "assistselect_attribute_blue"
-msgstr ""
+msgstr "命属性"
 
 msgid "assistselect_caution_01"
-msgstr ""
+msgstr "※将套用以下卡组作为支援卡组。"
 
 msgid "assistselect_namechange_popup_title"
-msgstr ""
+msgstr "更改支援卡组名称"
 
 msgid "assistselect_namechange_popup_ok"
-msgstr ""
+msgstr "已更改支援卡组名称。"
 
 msgid "assistselect_namechange_popup_details_01"
 msgstr ""
+"请输入卡组名称。\n"
+"（最多15个字）"
 
 msgid "assistselect_name_title_change_ng"
-msgstr ""
+msgstr "保存失败"
 
 msgid "assistselect_name_notchangeword"
-msgstr ""
+msgstr "卡组名称未更改。"
 
 msgid "assistselect_name_ngword"
 msgstr ""
+"此名称内含有无法使用的文字。\n"
+"请进行更改。"
 
 msgid "event_story_text_015"
-msgstr ""
+msgstr "解锁剧情后可观看。"
 
 msgid "event_story_text_016"
-msgstr ""
+msgstr "剧情解锁"
 
 msgid "event_story_text_017"
 msgstr ""
+"未观看前一章节\n"
+"无法解锁。"
 
 msgid "event_story_text_018"
 msgstr ""
+"{0}\n"
+"可在解锁此剧情后查看。"
 
 msgid "event_story_text_019"
 msgstr ""
+"※点击“查看剧情”可进行查看。\n"
+"※菜单→活动剧情→点击对应项目进行查看。"
 
 msgid "event_story_text_020"
-msgstr ""
+msgstr "※菜单→活动剧情→点击对应项目进行查看。"
 
 msgid "assist_friend_select_caution_01"
-msgstr ""
+msgstr "未编组支援卡片的情况下，将显示中心卡片。"
 
 msgid "header_desc_home401"
-msgstr ""
+msgstr "请选择卡片"
 
 msgid "header_desc_home402"
-msgstr ""
+msgstr "请选择称号"
 
 msgid "header_desc_setting040"
-msgstr ""
+msgstr "请选择卡片"
 
 msgid "header_desc_setting041"
-msgstr ""
+msgstr "请选择称号"
 
 msgid "header_desc_setting042"
-msgstr ""
+msgstr "查看个人资料"
 
 msgid "header_desc_story040"
-msgstr ""
+msgstr "请选择卡片"
 
 msgid "header_desc_story041"
-msgstr ""
+msgstr "请选择称号"
 
 msgid "header_desc_story042"
-msgstr ""
+msgstr "查看个人资料"
 
 msgid "header_desc_free400"
-msgstr ""
+msgstr "请选择卡片"
 
 msgid "header_desc_free401"
-msgstr ""
+msgstr "请选择称号"
 
 msgid "header_desc_option010"
-msgstr ""
+msgstr "请选择卡片"
 
 msgid "header_desc_option011"
-msgstr ""
+msgstr "请选择称号"
 
 msgid "gacha_desc_05"
 msgstr ""
+"“这样的服务，一天只有3次哦！”\n"
+"　　　　　　　　　　　　　－雪莉露·诺姆－"
 
 msgid "popup_gacha_rbreak_rate_warning"
 msgstr ""
+"※卡片出现概率最多只显示到小数点后3位数。\n"
+"　因此可能会出现累计后无法达到100%的情况。\n"
+"\n"
+"※上述的卡片有可能会在抽卡结果中重复出现。\n"
+"\n"
+"※相同稀有度的卡片，出现概率可能不尽相同。\n"
+"\n"
+"※“出现概率”中所显示的各稀有度卡片的\n"
+"   出现概率为初始概率。\n"
+"\n"
+"※若在一定次数内未出现★6卡片，\n"
+"　★6卡片的出现概率将得到些许提升，\n"
+"　同时，★3★4★5卡片的出现概率将得到同等幅度的下降。\n"
+"\n"
+"※变动后的概率，将在\n"
+"　卡池的开启时间结束，或在该卡池中抽出★6卡片后\n"
+"　回归至初始概率。"
 
 msgid "header_desc_evquest400"
-msgstr ""
+msgstr "请选择卡片。"
 
 msgid "header_desc_evquest401"
-msgstr ""
+msgstr "请选择称号"
 
 msgid "popup_sort_title_guest_select"
-msgstr ""
+msgstr "更改筛选条件"
 
 msgid "quest_receive_all_desc"
-msgstr ""
+msgstr "※一次最多可领取{0}项。"
 
 msgid "popup_quest_receive_limit_title"
-msgstr ""
+msgstr "持有上限"
 
 msgid "popup_quest_receive_limit_desc"
 msgstr ""
+"将要领取的物品中有一项或数项已超出持有上限。\n"
+"确定要领取此任务奖励吗？"
 
 msgid "popup_quest_receive_get"
-msgstr ""
+msgstr "领取：{0}"
 
 msgid "popup_quest_receive_lose"
-msgstr ""
+msgstr "消失：{0}"
 
 msgid "popup_quest_receive_limit_caution"
 msgstr ""
