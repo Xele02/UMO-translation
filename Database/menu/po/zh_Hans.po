@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-02 17:07+0000\n"
+"PO-Revision-Date: 2024-12-03 05:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "popup_title_00"
-msgstr "通知"
+msgstr "公告"
 
 msgid "popup_title_01"
 msgstr "编辑队伍名字"
@@ -240,10 +240,10 @@ msgid "pbox_text_14"
 msgstr "还有{0}分钟"
 
 msgid "pbox_win_warn01"
-msgstr "<color=#c8087e>已显示最近的{0}项</color>"
+msgstr "<color=#c8087e>已显示最新的{0}项</color>"
 
 msgid "pbox_win_warn02"
-msgstr "<color=#c8087e>已显示最近的{0}项</color>"
+msgstr "<color=#c8087e>已显示最新的{0}项</color>"
 
 msgid "pbox_win_none01"
 msgstr "没有礼物。"
@@ -259,14 +259,14 @@ msgstr "设备的通知权限未开启的情况下，将无法发送通知。"
 
 msgid "set_notification_text_02"
 msgstr ""
-"推送通知\n"
-"各项活动的信息。"
+"对活动告示等公告\n"
+"进行推送通知。"
 
 msgid "set_notification_text_03"
 msgstr "设置收取通知的时间。"
 
 msgid "set_notification_text_04"
-msgstr "此设置不适用于“通知”选项。"
+msgstr "此设置不适用于“公告”选项。"
 
 msgid "set_notification_text_05"
 msgstr ""
@@ -294,7 +294,7 @@ msgstr ""
 "进行通知。"
 
 msgid "set_notification_text_10"
-msgstr "“通知”选项关闭时，将不会进行通知推送。"
+msgstr "“公告”选项关闭时，将不会对公告进行通知推送。"
 
 msgid "set_notification_text_11"
 msgstr ""
@@ -406,19 +406,19 @@ msgstr ""
 msgid "config_text_24"
 msgstr ""
 "调整演出中显示的歌姬3D模型质量。\n"
-"设置为“低”的情况下，将最大程度降低品质，\n"
+"设置为“低”的情况下，将大幅度降低模型品质，\n"
 "以减少运行负荷。"
 
 msgid "config_text_25"
 msgstr ""
 "调整演出中的3D背景、战机等显示质量。\n"
-"设置为“低”的情况下，将最大程度降低品质，\n"
+"设置为“低”的情况下，将大幅度降低模型品质，\n"
 "以减少运行负荷。"
 
 msgid "config_text_26"
 msgstr ""
 "调整演出中显示的2D动画质量。\n"
-"设置为“低”将最大程度降低品质，以减少运行负荷。"
+"设置为“低”将将大幅度降低动画品质，以减少运行负荷。"
 
 msgid "config_text_27"
 msgstr "渲染"
@@ -444,10 +444,10 @@ msgstr ""
 "将作为背景展示。"
 
 msgid "config_text_34"
-msgstr "开启时使用手机返回键将会暂停演出，关闭时将不会暂停。"
+msgstr "开启时可使用手机返回键暂停演出，关闭时返回键将不会作用。"
 
 msgid "config_text_35"
-msgstr "选择演出中手机返回键是否作用。"
+msgstr "选择演出时手机返回键是否作用。"
 
 msgid "config_text_36"
 msgstr "手机返回键"
@@ -456,10 +456,10 @@ msgid "config_text_37_rhythm"
 msgstr "现在的难度"
 
 msgid "config_text_37_option"
-msgstr "套用的难度"
+msgstr "应用难度"
 
 msgid "config_text_38"
-msgstr "音符下落速度将分别应用于选中的难度。"
+msgstr "分开设置各难度下的音符下落速度。"
 
 msgid "config_text_39"
 msgstr "调整演出中音符的下落速度。"
@@ -549,7 +549,7 @@ msgid "config_text_63"
 msgstr "同时应用于所有难度"
 
 msgid "config_text_64"
-msgstr "若不勾选，音符速度将分别应用于选中的难度。"
+msgstr "若不勾选，则需要分别设置各难度下的音符下落速度。"
 
 msgid "config_text_65"
 msgstr "下次不再显示"
@@ -620,7 +620,7 @@ msgid "config_text_86"
 msgstr "显示黑色边框。"
 
 msgid "config_text_87"
-msgstr "关闭时，6 Key模式下将不会显示Slide引导。"
+msgstr "关闭时，6 Key模式下将不会显示Slide引导线。"
 
 msgid "config_text_88"
 msgstr "<size=24>画面比例</size>"
@@ -632,7 +632,7 @@ msgid "config_text_90"
 msgstr "显示宽屏画面。"
 
 msgid "config_text_91"
-msgstr "比宽屏画面纵向更宽，横向更窄。"
+msgstr "显示比宽屏画面纵向更宽，横向更窄的画面。"
 
 msgid "config_text_92"
 msgstr "设置将在重启游戏时生效。"
@@ -1136,7 +1136,7 @@ msgid "header_desc_quest002"
 msgstr "选择报酬"
 
 msgid "header_desc_quest003"
-msgstr "挑战宾果任务"
+msgstr "挑战BingoBingo任务"
 
 msgid "header_desc_option000"
 msgstr "选择项目"
@@ -3932,7 +3932,7 @@ msgstr "所需EP：{0}"
 msgid "episode_reward_text002"
 msgstr ""
 "在回忆片段完全解放后\n"
-"每隔{0}{1}获得"
+"每满{0}{1}获得"
 
 msgid "episode_reward_text003"
 msgstr "EP"
@@ -4791,8 +4791,8 @@ msgstr "全部套用"
 
 msgid "pop_deco_sp_all_receive_content"
 msgstr ""
-"房间中目前没有\n"
-"可领取的为物品。"
+"房间内目前没有\n"
+"可领取的物品。"
 
 msgid "pop_deco_sp_item_point_format"
 msgstr "{0}/{1}<size=18>{2}</size>"
@@ -5076,13 +5076,13 @@ msgid "raid_mvp_cell_text02"
 msgstr "第2名的点数"
 
 msgid "raid_mvp_info_text01"
-msgstr "此暴走敌人没有MVP。"
+msgstr "此暴走敌人下没有MVP。"
 
 msgid "raid_mvp_info_text02"
-msgstr "此暴走敌人没有其它参战成员。"
+msgstr "此暴走敌人下没有其它参战成员。"
 
 msgid "raid_mvp_info_text03"
-msgstr "您未参战此暴走敌人。"
+msgstr "您未参与此暴走敌人的战斗。"
 
 msgid "pop_raid_defeated_title"
 msgstr "被击败的暴走敌人"
@@ -5847,27 +5847,35 @@ msgstr "已完成全部STEP UP任务！"
 
 msgid "popup_rareup_item_warning_text"
 msgstr ""
+"稀有提升星盘碎片的持有量超过150后\n"
+"将自动兑换为稀有提升星盘。"
 
 msgid "popup_rareup_item_convert_desc_01"
 msgstr ""
+"已超出稀有提升星盘碎片的持有上限\n"
+"将自动兑换为稀有提升星盘。"
 
 msgid "popup_rareup_item_convert_desc_02"
 msgstr ""
+"稀有提升星盘可在物品兑换商店中进行兑换。\n"
+"<color=#8E0529>※稀有提升星盘的使用期限为90天。</color>"
 
 msgid "popup_get_liveskip_ticket_title"
-msgstr ""
+msgstr "获得{0}"
 
 msgid "popup_get_liveskip_ticket_desc"
 msgstr ""
+"※每日补充{0}张。\n"
+"※超过持有上限的部分将消失。"
 
 msgid "popup_get_liveskip_ticket_count"
-msgstr ""
+msgstr "目前持有"
 
 msgid "popup_get_liveskip_ticket_checkbox"
-msgstr ""
+msgstr "下次不再显示"
 
 msgid "popup_get_liveskip_ticket_confirm_title"
-msgstr ""
+msgstr "确认"
 
 msgid "popup_get_liveskip_ticket_confirm_desc"
 msgstr ""
