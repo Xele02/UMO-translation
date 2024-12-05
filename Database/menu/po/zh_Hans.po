@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-05 08:14+0000\n"
+"PO-Revision-Date: 2024-12-05 08:20+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -3074,7 +3074,7 @@ msgstr ""
 "若更新失败，请重启设备。"
 
 msgid "game_popup_mvpause_title"
-msgstr "暂停中"
+msgstr "已暂停"
 
 msgid "game_popup_mvpause_text"
 msgstr ""
@@ -4327,7 +4327,7 @@ msgid "home_footer_badge_text_offer"
 msgstr "VOP完成！"
 
 msgid "home_diva_button_monthly_pass"
-msgstr "还有{0}次"
+msgstr "还有{0}次可获取"
 
 msgid "popup_add_operation_text"
 msgstr "已新增派遣任务。"
@@ -7007,49 +7007,52 @@ msgid "home_pass_button_purchase"
 msgstr "　已上架！"
 
 msgid "home_pass_button_rare_up_item"
-msgstr ""
+msgstr "还有{0}次可获取"
 
 msgid "popup_minigame001_pause_title"
-msgstr ""
+msgstr "已暂停"
 
 msgid "popup_minigame001_pause_text"
-msgstr ""
+msgstr "SCORE {0:D8}"
 
 msgid "popup_minigame001_retire_title"
-msgstr ""
+msgstr "放弃演出"
 
 msgid "popup_minigame001_retire_text"
 msgstr ""
+"放弃演出将无法获取任何奖励。\n"
+"\n"
+"真的要放弃吗？"
 
 msgid "home_fes_remain_prefix"
-msgstr ""
+msgstr "距离开启还有 "
 
 msgid "gacha_ticket_ev_name"
-msgstr ""
+msgstr "持有的活动入场券"
 
 msgid "popup_filter_unspecified"
-msgstr ""
+msgstr "未指定"
 
 msgid "popup_filter_difficulty_title_h2"
-msgstr ""
+msgstr "难度"
 
 msgid "popup_filter_difficulty_easy"
-msgstr ""
+msgstr "EASY"
 
 msgid "popup_filter_difficulty_normal"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "popup_filter_difficulty_hard"
-msgstr ""
+msgstr "HARD"
 
 msgid "popup_filter_difficulty_veryhard"
-msgstr ""
+msgstr "VERY HARD"
 
 msgid "popup_filter_difficulty_extreme"
-msgstr ""
+msgstr "EXTREME"
 
 msgid "popup_filter_difficulty_6line_hard"
-msgstr ""
+msgstr "HARD+"
 
 msgid "popup_filter_difficulty_6line_veryhard"
 msgstr ""
