@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-05 03:12+0000\n"
+"PO-Revision-Date: 2024-12-05 08:14+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -3516,7 +3516,7 @@ msgstr "<color=#C8087E>※礼物将在等级{0}时开放。</color>"
 msgid "present_intimacy_limit_01"
 msgstr ""
 "亲密度已满\n"
-"无法赠送礼物。"
+"无法送礼。"
 
 msgid "present_intimacy_limit_02"
 msgstr ""
@@ -3526,7 +3526,7 @@ msgstr ""
 msgid "present_intimacy_limit_03"
 msgstr ""
 "未持有礼物\n"
-"无法赠送礼物。"
+"无法送礼。"
 
 msgid "campaign_live_3rd_coution_01"
 msgstr "点击“参加”按钮可获得1天1次的抽奖机会。（每天0点更新）"
@@ -4849,7 +4849,7 @@ msgid "pop_deco_gift_single_message"
 msgstr "礼物已送达。"
 
 msgid "pop_deco_gift_failed_message"
-msgstr "今天已无法继续赠送礼物。"
+msgstr "今天的送礼次数已耗尽。"
 
 msgid "pop_deco_gift_item_message"
 msgstr ""
@@ -5789,7 +5789,7 @@ msgstr "AP"
 msgid "use_item_description_01"
 msgstr ""
 "<color=#C8087E>每次最多可使用{0}张。</color>\n"
-"可消耗演出跳过券跳过演出。\n"
+"可使用演出跳过券跳过演出。\n"
 "可获得全PERFECT奖励和连击数为0的奖励，以及歌姬熟练度等。\n"
 "获得奖励的数量与跳过券的使用量有关。"
 
@@ -5812,7 +5812,7 @@ msgstr ""
 msgid "use_item_description_04"
 msgstr ""
 "<color=#C8087E>每次最多可使用{0}张。</color>\n"
-"可消耗演出跳过券跳过演出。\n"
+"可使用演出跳过券跳过演出。\n"
 "每日歌曲的游玩次数耗尽后将无法使用跳过券。\n"
 "可获得全PERFECT奖励、连击数为0的奖励，以及歌姬熟练度等。\n"
 "获得奖励的数量与跳过券的使用量有关。"
@@ -6763,217 +6763,248 @@ msgid "diva_name_05"
 msgstr "蕾娜·普劳拉"
 
 msgid "diva_name_06"
-msgstr ""
+msgstr "兰卡·李"
 
 msgid "diva_name_07"
-msgstr ""
+msgstr "雪莉露·诺姆"
 
 msgid "diva_name_08"
-msgstr ""
+msgstr "米莲·吉纳斯"
 
 msgid "diva_name_09"
-msgstr ""
+msgstr "热气巴萨拉"
 
 msgid "diva_name_10"
-msgstr ""
+msgstr "林明美"
 
 msgid "home_diva_view_status_place_text"
-msgstr ""
+msgstr "名"
 
 msgid "home_diva_view_status_divalevel_text"
-msgstr ""
+msgstr "歌姬Lv"
 
 msgid "home_diva_view_status_intimacyl_text"
-msgstr ""
+msgstr "亲密度Lv"
 
 msgid "home_diva_view_status_havecostume_text"
-msgstr ""
+msgstr "服装持有量"
 
 msgid "home_diva_view_status_divaranking_text"
-msgstr ""
+msgstr "歌姬排名"
 
 msgid "home_diva_view_status_havecostume_now_text"
-msgstr ""
+msgstr "/"
 
 msgid "home_diva_view_status_totalstatus_text"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "home_diva_view_status_intimacyl_exp_text"
-msgstr ""
+msgstr "/"
 
 msgid "home_diva_view_status_ranking_error_text"
-msgstr ""
+msgstr "-"
 
 msgid "home_diva_view_status_intimacyl_max_text"
-msgstr ""
+msgstr "---- / ----"
 
 msgid "home_diva_statuswindow_divastatus"
-msgstr ""
+msgstr "歌姬数据"
 
 msgid "home_diva_statuswindow_eventglow"
-msgstr ""
+msgstr "活动数据"
 
 msgid "home_diva_statuswindow_costumebonus"
-msgstr ""
+msgstr "卡哇哇等级"
 
 msgid "home_diva_statuswindow_totlastatus"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "home_diva_statuswindow_title"
-msgstr ""
+msgstr "TOTAL详情"
 
 msgid "banner_godiva_fevertime"
-msgstr ""
+msgstr "FEVER出现中！"
 
 msgid "event_godiva_remain_time_prefix"
-msgstr ""
+msgstr "距离FEVER结束还有"
 
 msgid "sel_music_godiva_exp_type_soul"
-msgstr ""
+msgstr "歌魂"
 
 msgid "sel_music_godiva_exp_type_voice"
-msgstr ""
+msgstr "歌声"
 
 msgid "sel_music_godiva_exp_type_charm"
-msgstr ""
+msgstr "歌魅"
 
 msgid "sel_music_godiva_exp_type_all"
-msgstr ""
+msgstr "全属性"
 
 msgid "popup_event_login_item02_title_msg"
-msgstr ""
+msgstr "<color=#C8087E>应援棒　{0}根</color>"
 
 msgid "popup_event_login_item02_label00_msg"
-msgstr ""
+msgstr "可在一定时间内提升热情值的道具。"
 
 msgid "popup_event_login_item02_label01_msg"
-msgstr ""
+msgstr "<color=#8e0529>此道具将在活动结束后消失。</color>"
 
 msgid "sel_event_01_period"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2} ~ {5}/{6}/{7} {8}:{9:D2}"
 
 msgid "popup_godiva_filter_title"
-msgstr ""
+msgstr "筛选"
 
 msgid "popup_vop_all_receive_vc_caution"
-msgstr ""
+msgstr "※歌晶石将发送至礼物箱。"
 
 msgid "popup_vop_all_receive_title"
-msgstr ""
+msgstr "领取派遣任务奖励"
 
 msgid "popup_vop_all_receive_item_over"
-msgstr ""
+msgstr "※部分道具已达到持有上限，无法领取。"
 
 msgid "popup_story_complete_stage"
 msgstr ""
+"已解放【记忆时空】\n"
+"所有已发现的记忆。\n"
+"此后的新歌\n"
+"将直接添加至歌曲选择界面。"
 
 msgid "popup_story_mission_guidance"
 msgstr ""
+"已达成完全解放\n"
+"【记忆时空】的成就。\n"
+"请前往“任务”领取奖励。"
 
 msgid "popup_gacha_lot_ticket_few_caution_04"
-msgstr ""
+msgstr "※{0}的获取方法可在抽卡详情中查看。"
 
 msgid "use_item_description_05"
 msgstr ""
+"<color=#C8087E>每次最多可使用{0}张。</color>\n"
+"可使用演出跳过券跳过演出。\n"
+"特别演出的游玩次数耗尽后将无法使用跳过券。\n"
+"可获得全PERFECT奖励、连击数为0的奖励，以及歌姬熟练度等。\n"
+"获得奖励的数量与跳过券的使用量有关。"
 
 msgid "popup_godiva_bonus_remind_title"
-msgstr ""
+msgstr "选择歌曲"
 
 msgid "popup_godiva_bonus_remind_text"
 msgstr ""
+"特别演出已开启。\n"
+"要切换至对应的曲目吗？\n"
+"<color=#C8087E>※游玩特别演出曲目以外的歌曲，\n"
+"热情值将不会上升。</color>"
 
 msgid "home_footer_badge_text_02"
-msgstr ""
+msgstr "NEW！"
 
 msgid "home_footer_badge_text_03"
-msgstr ""
+msgstr "新卡池！"
 
 msgid "home_footer_badge_text_04"
-msgstr ""
+msgstr "早 免费！"
 
 msgid "home_footer_badge_text_05"
-msgstr ""
+msgstr "午 免费！"
 
 msgid "home_footer_badge_text_06"
-msgstr ""
+msgstr "晚 免费！"
 
 msgid "home_footer_badge_text_07"
-msgstr ""
+msgstr "CHECK！"
 
 msgid "home_footer_badge_text_08"
-msgstr ""
+msgstr "新功能上线！"
 
 msgid "home_footer_badge_text_09"
-msgstr ""
+msgstr "有新消息"
 
 msgid "home_banner_period"
-msgstr ""
+msgstr "至{0}/{1}/{2} {3}:{4:D2}"
 
 msgid "home_event_banner_period"
-msgstr ""
+msgstr "{0}/{1}/{2}:{3:D2}~{4}/{5}/{6}:{7:D2}"
 
 msgid "home_unlock_rank"
-msgstr ""
+msgstr "达到RANK{0}解锁"
 
 msgid "gakuya_gift_unlock_rank"
 msgstr ""
+"达到RANK{0}\n"
+"解锁"
 
 msgid "gakuya_status_diva_ranking_value"
-msgstr ""
+msgstr "{0}名"
 
 msgid "gakuya_intimacy_present_none"
 msgstr ""
+"未持有礼物\n"
+"无法送礼。"
 
 msgid "gakuya_gift_stock_count"
-msgstr ""
+msgstr "持有数：{0}"
 
 msgid "pop_gakuya_present_ask_title"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_gakuya_present_ask"
 msgstr ""
+"{0}\n"
+"\n"
+"要使用此道具吗？"
 
 msgid "pop_gakuya_present_lv_max"
 msgstr ""
+"亲密度已满\n"
+"无法送礼。"
 
 msgid "pop_gakuya_present_limit_title"
-msgstr ""
+msgstr "次数已满"
 
 msgid "pop_gakuya_present_limit"
-msgstr ""
+msgstr "今天的送礼次数已耗尽。"
 
 msgid "popup_sp_transition_bingo_error_title"
-msgstr ""
+msgstr "Bingo未开放"
 
 msgid "popup_sp_bingo_debutmission_notclear_text"
 msgstr ""
+"完成所有新手任务后\n"
+"可进行挑战。\n"
 
 msgid "home_event_started"
-msgstr ""
+msgstr "活动开启中！"
 
 msgid "home_event_counting"
-msgstr ""
+msgstr "活动结果统计中！"
 
 msgid "home_event_reward_recieved"
-msgstr ""
+msgstr "活动终章可观看！"
 
 msgid "home_story_release_diva"
 msgstr ""
+"解放{0}\n"
+"的记忆吧！"
 
 msgid "home_story_release_music"
 msgstr ""
+"解放新的\n"
+"歌曲记忆吧！"
 
 msgid "home_bg_limit_period"
-msgstr ""
+msgstr "至{0}/{1}/{2} {3}:{4:D2}"
 
 msgid "home_banner_raid_lobby_open"
-msgstr ""
+msgstr "Macross大厅已开放！"
 
 msgid "home_banner_raid_end"
-msgstr ""
+msgstr "活动已结束"
 
 msgid "home_pass_button_purchase"
-msgstr ""
+msgstr "　已上架！"
 
 msgid "home_pass_button_rare_up_item"
 msgstr ""
