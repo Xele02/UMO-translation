@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2024-11-20 08:34+0000\n"
+"PO-Revision-Date: 2024-12-06 02:38+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/music_text/zh_Hans/>\n"
@@ -51,10 +51,10 @@ msgid "musicName_0001_storyTitle"
 msgstr "“一，二，三，四……”"
 
 msgid "musicName_0002_musicname"
-msgstr "PLANET DANCE"
+msgstr ""
 
 msgid "musicName_0002_officialName"
-msgstr "PLANET DANCE"
+msgstr ""
 
 msgid "musicName_0002_vocalName"
 msgstr "Fire Bomber"
@@ -78,10 +78,10 @@ msgid "musicName_0002_storyTitle"
 msgstr ""
 
 msgid "musicName_0003_musicname"
-msgstr "MY SOUL FOR YOU"
+msgstr ""
 
 msgid "musicName_0003_officialName"
-msgstr "MY SOUL FOR YOU"
+msgstr ""
 
 msgid "musicName_0003_vocalName"
 msgstr "Fire Bomber featuring BASARA NEKKI"
@@ -159,10 +159,10 @@ msgid "musicName_0005_storyTitle"
 msgstr "“我叫兰卡·李，请多指教！”"
 
 msgid "musicName_0006_musicname"
-msgstr "胡萝卜 Loves you yeah！"
+msgstr "胡萝卜爱你哟！"
 
 msgid "musicName_0006_officialName"
-msgstr "胡萝卜 Loves you yeah！"
+msgstr "胡萝卜爱你哟！"
 
 msgid "musicName_0006_vocalName"
 msgstr "兰卡·李=中岛爱"
@@ -183,7 +183,7 @@ msgid "musicName_0006_storyDesc"
 msgstr ""
 
 msgid "musicName_0006_storyTitle"
-msgstr "“汇集7大维生素哦！”"
+msgstr "“汇集7大维生素！”"
 
 msgid "musicName_0007_musicname"
 msgstr "射手座☆午后九时Don't be late"
@@ -234,10 +234,10 @@ msgstr ""
 "作曲：菅野洋子"
 
 msgid "musicName_0009_musicname"
-msgstr "What 'bout my star?"
+msgstr ""
 
 msgid "musicName_0009_officialName"
-msgstr "What 'bout my star?"
+msgstr ""
 
 msgid "musicName_0009_vocalName"
 msgstr "雪莉露·诺姆 starring May'n"
@@ -261,10 +261,10 @@ msgid "musicName_0009_storyTitle"
 msgstr "“Frontier船团，真是个好地方呢”"
 
 msgid "musicName_0010_musicname"
-msgstr "Infinity"
+msgstr "无限"
 
 msgid "musicName_0010_officialName"
-msgstr "Infinity"
+msgstr "无限"
 
 msgid "musicName_0010_vocalName"
 msgstr "雪莉露·诺姆 starring May'n"
@@ -342,10 +342,10 @@ msgid "musicName_0012_storyTitle"
 msgstr "“大家晚上好，我是林明美”"
 
 msgid "musicName_0013_musicname"
-msgstr "Welcome To My FanClub's Night!"
+msgstr ""
 
 msgid "musicName_0013_officialName"
-msgstr "Welcome To My FanClub's Night!"
+msgstr ""
 
 msgid "musicName_0013_vocalName"
 msgstr "雪莉露·诺姆 starring May'n"
@@ -369,10 +369,10 @@ msgid "musicName_0013_storyTitle"
 msgstr "“别管了，就这样飞吧！”"
 
 msgid "musicName_0014_musicname"
-msgstr "TRY AGAIN"
+msgstr ""
 
 msgid "musicName_0014_officialName"
-msgstr "TRY AGAIN"
+msgstr ""
 
 msgid "musicName_0014_vocalName"
 msgstr "Fire Bomber"
@@ -423,10 +423,10 @@ msgid "musicName_0015_storyTitle"
 msgstr "“格蕾丝，是我，雪莉露”"
 
 msgid "musicName_0016_musicname"
-msgstr "Triangular（fight on stage）"
+msgstr "三角爱恋（fight on stage）"
 
 msgid "musicName_0016_officialName"
-msgstr "Triangular（fight on stage）"
+msgstr "三角爱恋（fight on stage）"
 
 msgid "musicName_0016_vocalName"
 msgstr "兰卡·李=中岛爱、雪莉露·诺姆 starring May'n"
@@ -532,10 +532,10 @@ msgid "musicName_0019_storyTitle"
 msgstr ""
 
 msgid "musicName_0020_musicname"
-msgstr ""
+msgstr "禁忌的边界线"
 
 msgid "musicName_0020_officialName"
-msgstr ""
+msgstr "禁忌的边界线"
 
 msgid "musicName_0020_vocalName"
 msgstr ""
@@ -553,10 +553,10 @@ msgid "musicName_0020_storyTitle"
 msgstr ""
 
 msgid "musicName_0021_musicname"
-msgstr ""
+msgstr "狮子座"
 
 msgid "musicName_0021_officialName"
-msgstr ""
+msgstr "狮子座"
 
 msgid "musicName_0021_vocalName"
 msgstr ""
@@ -568,10 +568,10 @@ msgid "musicName_0021_description"
 msgstr ""
 
 msgid "musicName_0022_musicname"
-msgstr ""
+msgstr "若是仅此一次的恋爱"
 
 msgid "musicName_0022_officialName"
-msgstr ""
+msgstr "若是仅此一次的恋爱"
 
 msgid "musicName_0022_vocalName"
 msgstr ""
@@ -589,10 +589,10 @@ msgid "musicName_0022_storyTitle"
 msgstr ""
 
 msgid "musicName_0023_musicname"
-msgstr ""
+msgstr "要是Rune闪闪发光"
 
 msgid "musicName_0023_officialName"
-msgstr ""
+msgstr "要是Rune闪闪发光"
 
 msgid "musicName_0023_vocalName"
 msgstr ""
@@ -604,10 +604,10 @@ msgid "musicName_0023_description"
 msgstr ""
 
 msgid "musicName_0024_musicname"
-msgstr ""
+msgstr "不确定性☆COSMIC MOVEMENT"
 
 msgid "musicName_0024_officialName"
-msgstr ""
+msgstr "不确定性☆COSMIC MOVEMENT"
 
 msgid "musicName_0024_vocalName"
 msgstr ""
@@ -625,10 +625,10 @@ msgid "musicName_0024_storyTitle"
 msgstr ""
 
 msgid "musicName_0025_musicname"
-msgstr ""
+msgstr "恋！HALATION THE WAR"
 
 msgid "musicName_0025_officialName"
-msgstr ""
+msgstr "恋！HALATION THE WAR"
 
 msgid "musicName_0025_vocalName"
 msgstr ""
@@ -646,10 +646,10 @@ msgid "musicName_0025_storyTitle"
 msgstr ""
 
 msgid "musicName_0026_musicname"
-msgstr ""
+msgstr "你的声音"
 
 msgid "musicName_0026_officialName"
-msgstr ""
+msgstr "你的声音"
 
 msgid "musicName_0026_vocalName"
 msgstr ""
@@ -661,10 +661,10 @@ msgid "musicName_0026_description"
 msgstr ""
 
 msgid "musicName_0027_musicname"
-msgstr ""
+msgstr "Aimo"
 
 msgid "musicName_0027_officialName"
-msgstr ""
+msgstr "Aimo"
 
 msgid "musicName_0027_vocalName"
 msgstr ""
@@ -682,10 +682,10 @@ msgid "musicName_0027_storyTitle"
 msgstr ""
 
 msgid "musicName_0028_musicname"
-msgstr ""
+msgstr "猫咪日记"
 
 msgid "musicName_0028_officialName"
-msgstr ""
+msgstr "猫咪日记"
 
 msgid "musicName_0028_vocalName"
 msgstr ""
@@ -703,10 +703,10 @@ msgid "musicName_0028_storyTitle"
 msgstr ""
 
 msgid "musicName_0029_musicname"
-msgstr ""
+msgstr "Giritic♡BEGINNER"
 
 msgid "musicName_0029_officialName"
-msgstr ""
+msgstr "Giritic♡BEGINNER"
 
 msgid "musicName_0029_vocalName"
 msgstr ""
@@ -724,10 +724,10 @@ msgid "musicName_0029_storyTitle"
 msgstr ""
 
 msgid "musicName_0030_musicname"
-msgstr ""
+msgstr "放学后的真情流露"
 
 msgid "musicName_0030_officialName"
-msgstr ""
+msgstr "放学后的真情流露"
 
 msgid "musicName_0030_vocalName"
 msgstr ""
@@ -745,10 +745,10 @@ msgid "musicName_0030_storyTitle"
 msgstr ""
 
 msgid "musicName_0031_musicname"
-msgstr ""
+msgstr "AXIA~如此爱恨交加~"
 
 msgid "musicName_0031_officialName"
-msgstr ""
+msgstr "AXIA~如此爱恨交加~"
 
 msgid "musicName_0031_vocalName"
 msgstr ""
@@ -787,10 +787,10 @@ msgid "musicName_0032_storyTitle"
 msgstr ""
 
 msgid "musicName_0033_musicname"
-msgstr ""
+msgstr "恋离之翼 ~ the end of triangle"
 
 msgid "musicName_0033_officialName"
-msgstr ""
+msgstr "恋离之翼 ~ the end of triangle"
 
 msgid "musicName_0033_vocalName"
 msgstr ""
@@ -808,10 +808,10 @@ msgid "musicName_0033_storyTitle"
 msgstr ""
 
 msgid "musicName_0034_musicname"
-msgstr ""
+msgstr "我们的战场"
 
 msgid "musicName_0034_officialName"
-msgstr ""
+msgstr "我们的战场"
 
 msgid "musicName_0034_vocalName"
 msgstr ""
@@ -850,10 +850,10 @@ msgid "musicName_0035_storyTitle"
 msgstr ""
 
 msgid "musicName_0036_musicname"
-msgstr ""
+msgstr "银的月 红的月"
 
 msgid "musicName_0036_officialName"
-msgstr ""
+msgstr "银的月 红的月"
 
 msgid "musicName_0036_vocalName"
 msgstr ""
@@ -871,10 +871,10 @@ msgid "musicName_0036_storyTitle"
 msgstr ""
 
 msgid "musicName_0037_musicname"
-msgstr ""
+msgstr "闪耀一夏 (^ω^)ノ"
 
 msgid "musicName_0037_officialName"
-msgstr ""
+msgstr "闪耀一夏 (^ω^)ノ"
 
 msgid "musicName_0037_vocalName"
 msgstr ""
@@ -892,10 +892,10 @@ msgid "musicName_0037_storyTitle"
 msgstr ""
 
 msgid "musicName_0038_musicname"
-msgstr ""
+msgstr "FamilyMart・Cosmos"
 
 msgid "musicName_0038_officialName"
-msgstr ""
+msgstr "FamilyMart・Cosmos"
 
 msgid "musicName_0038_vocalName"
 msgstr ""
@@ -1090,10 +1090,10 @@ msgid "musicName_0047_storyTitle"
 msgstr ""
 
 msgid "musicName_0048_musicname"
-msgstr ""
+msgstr "星间平安夜（星间飞行 christmas ver.）"
 
 msgid "musicName_0048_officialName"
-msgstr ""
+msgstr "星间平安夜（星间飞行 christmas ver.）"
 
 msgid "musicName_0048_vocalName"
 msgstr ""
@@ -1105,10 +1105,10 @@ msgid "musicName_0048_description"
 msgstr ""
 
 msgid "musicName_0049_musicname"
-msgstr ""
+msgstr "d Shootin' Star b"
 
 msgid "musicName_0049_officialName"
-msgstr ""
+msgstr "d Shootin' Star b"
 
 msgid "musicName_0049_vocalName"
 msgstr ""
@@ -1126,10 +1126,10 @@ msgid "musicName_0049_storyTitle"
 msgstr ""
 
 msgid "musicName_0050_musicname"
-msgstr ""
+msgstr "绝对零度θ Novatic"
 
 msgid "musicName_0050_officialName"
-msgstr ""
+msgstr "绝对零度θ Novatic"
 
 msgid "musicName_0050_vocalName"
 msgstr ""
@@ -1147,10 +1147,10 @@ msgid "musicName_0050_storyTitle"
 msgstr ""
 
 msgid "musicName_0051_musicname"
-msgstr ""
+msgstr "永别了 你的温柔"
 
 msgid "musicName_0051_officialName"
-msgstr ""
+msgstr "永别了 你的温柔"
 
 msgid "musicName_0051_vocalName"
 msgstr ""
@@ -1168,10 +1168,10 @@ msgid "musicName_0051_storyTitle"
 msgstr ""
 
 msgid "musicName_0052_musicname"
-msgstr ""
+msgstr "真的哦。"
 
 msgid "musicName_0052_officialName"
-msgstr ""
+msgstr "真的哦。"
 
 msgid "musicName_0052_vocalName"
 msgstr ""
@@ -1189,10 +1189,10 @@ msgid "musicName_0052_storyTitle"
 msgstr ""
 
 msgid "musicName_0053_musicname"
-msgstr ""
+msgstr "可爱女孩☆girl"
 
 msgid "musicName_0053_officialName"
-msgstr ""
+msgstr "可爱女孩☆girl"
 
 msgid "musicName_0053_vocalName"
 msgstr ""
@@ -1225,10 +1225,10 @@ msgid "musicName_0054_description"
 msgstr ""
 
 msgid "musicName_0055_musicname"
-msgstr ""
+msgstr "Get it on ~ 到达光速max"
 
 msgid "musicName_0055_officialName"
-msgstr ""
+msgstr "Get it on ~ 到达光速max"
 
 msgid "musicName_0055_vocalName"
 msgstr ""
@@ -1246,10 +1246,10 @@ msgid "musicName_0055_storyTitle"
 msgstr ""
 
 msgid "musicName_0056_musicname"
-msgstr ""
+msgstr "灰姑娘"
 
 msgid "musicName_0056_officialName"
-msgstr ""
+msgstr "灰姑娘"
 
 msgid "musicName_0056_vocalName"
 msgstr ""
@@ -1282,10 +1282,10 @@ msgid "musicName_0057_storyTitle"
 msgstr ""
 
 msgid "musicName_0058_musicname"
-msgstr ""
+msgstr "方尖碑"
 
 msgid "musicName_0058_officialName"
-msgstr ""
+msgstr "方尖碑"
 
 msgid "musicName_0058_vocalName"
 msgstr ""
@@ -1339,10 +1339,10 @@ msgid "musicName_0060_storyTitle"
 msgstr ""
 
 msgid "musicName_0061_musicname"
-msgstr ""
+msgstr "麦克罗斯"
 
 msgid "musicName_0061_officialName"
-msgstr ""
+msgstr "麦克罗斯"
 
 msgid "musicName_0061_vocalName"
 msgstr ""
@@ -1360,10 +1360,10 @@ msgid "musicName_0061_storyTitle"
 msgstr ""
 
 msgid "musicName_0062_musicname"
-msgstr ""
+msgstr "禁忌的万能之药"
 
 msgid "musicName_0062_officialName"
-msgstr ""
+msgstr "禁忌的万能之药"
 
 msgid "musicName_0062_vocalName"
 msgstr ""
@@ -1381,10 +1381,10 @@ msgid "musicName_0062_storyTitle"
 msgstr ""
 
 msgid "musicName_0063_musicname"
-msgstr ""
+msgstr "风起无兆"
 
 msgid "musicName_0063_officialName"
-msgstr ""
+msgstr "风起无兆"
 
 msgid "musicName_0063_vocalName"
 msgstr ""
@@ -1402,10 +1402,10 @@ msgid "musicName_0063_storyTitle"
 msgstr ""
 
 msgid "musicName_0064_musicname"
-msgstr ""
+msgstr "恋如空战（FIRST LIVE in ATLANTIS DOME）"
 
 msgid "musicName_0064_officialName"
-msgstr ""
+msgstr "恋如空战（FIRST LIVE in ATLANTIS DOME）"
 
 msgid "musicName_0064_vocalName"
 msgstr ""
@@ -1459,10 +1459,10 @@ msgid "musicName_0066_storyTitle"
 msgstr ""
 
 msgid "musicName_0067_musicname"
-msgstr ""
+msgstr "苍蓝以太"
 
 msgid "musicName_0067_officialName"
-msgstr ""
+msgstr "苍蓝以太"
 
 msgid "musicName_0067_vocalName"
 msgstr ""
@@ -1474,10 +1474,10 @@ msgid "musicName_0067_description"
 msgstr ""
 
 msgid "musicName_0068_musicname"
-msgstr ""
+msgstr "女武神永不停歇"
 
 msgid "musicName_0068_officialName"
-msgstr ""
+msgstr "女武神永不停歇"
 
 msgid "musicName_0068_vocalName"
 msgstr ""
@@ -1495,10 +1495,10 @@ msgid "musicName_0068_storyTitle"
 msgstr ""
 
 msgid "musicName_0069_musicname"
-msgstr ""
+msgstr "泪目爆发音"
 
 msgid "musicName_0069_officialName"
-msgstr ""
+msgstr "泪目爆发音"
 
 msgid "musicName_0069_vocalName"
 msgstr ""
@@ -1516,10 +1516,10 @@ msgid "musicName_0069_storyTitle"
 msgstr ""
 
 msgid "musicName_0070_musicname"
-msgstr ""
+msgstr "可曾记得爱~bless the little queen"
 
 msgid "musicName_0070_officialName"
-msgstr ""
+msgstr "可曾记得爱~bless the little queen"
 
 msgid "musicName_0070_vocalName"
 msgstr ""
@@ -1561,10 +1561,10 @@ msgid "musicName_0072_description"
 msgstr ""
 
 msgid "musicName_0073_musicname"
-msgstr ""
+msgstr "破灭的纯情"
 
 msgid "musicName_0073_officialName"
-msgstr ""
+msgstr "破灭的纯情"
 
 msgid "musicName_0073_vocalName"
 msgstr ""
@@ -1582,10 +1582,10 @@ msgid "musicName_0073_storyTitle"
 msgstr ""
 
 msgid "musicName_0074_musicname"
-msgstr ""
+msgstr "永远"
 
 msgid "musicName_0074_officialName"
-msgstr ""
+msgstr "永远"
 
 msgid "musicName_0074_vocalName"
 msgstr ""
@@ -1597,10 +1597,10 @@ msgid "musicName_0074_description"
 msgstr ""
 
 msgid "musicName_0075_musicname"
-msgstr ""
+msgstr "星辰闪耀"
 
 msgid "musicName_0075_officialName"
-msgstr ""
+msgstr "星辰闪耀"
 
 msgid "musicName_0075_vocalName"
 msgstr ""
@@ -1660,19 +1660,19 @@ msgid "musicName_0077_storyTitle"
 msgstr ""
 
 msgid "musicName_0078_musicname"
-msgstr ""
+msgstr "宇宙兄弟船"
 
 msgid "musicName_0078_officialName"
-msgstr ""
+msgstr "宇宙兄弟船"
 
 msgid "musicName_0078_description"
 msgstr ""
 
 msgid "musicName_0079_musicname"
-msgstr ""
+msgstr "遗世之人"
 
 msgid "musicName_0079_officialName"
-msgstr ""
+msgstr "遗世之人"
 
 msgid "musicName_0079_vocalName"
 msgstr ""
@@ -1684,10 +1684,10 @@ msgid "musicName_0079_description"
 msgstr ""
 
 msgid "musicName_0080_musicname"
-msgstr ""
+msgstr "要是Rune闪闪发光"
 
 msgid "musicName_0080_officialName"
-msgstr ""
+msgstr "要是Rune闪闪发光"
 
 msgid "musicName_0080_vocalName"
 msgstr ""
@@ -1699,10 +1699,10 @@ msgid "musicName_0080_description"
 msgstr ""
 
 msgid "musicName_0081_musicname"
-msgstr ""
+msgstr "逐梦未来 -Lynn Minmay Version-"
 
 msgid "musicName_0081_officialName"
-msgstr ""
+msgstr "逐梦未来 -Lynn Minmay Version-"
 
 msgid "musicName_0081_vocalName"
 msgstr ""
@@ -1720,10 +1720,10 @@ msgid "musicName_0081_storyTitle"
 msgstr ""
 
 msgid "musicName_0082_musicname"
-msgstr ""
+msgstr "爱在流逝"
 
 msgid "musicName_0082_officialName"
-msgstr ""
+msgstr "爱在流逝"
 
 msgid "musicName_0082_vocalName"
 msgstr ""
@@ -1762,10 +1762,10 @@ msgid "musicName_0083_storyTitle"
 msgstr ""
 
 msgid "musicName_0084_musicname"
-msgstr ""
+msgstr "女武神永不背叛"
 
 msgid "musicName_0084_officialName"
-msgstr ""
+msgstr "女武神永不背叛"
 
 msgid "musicName_0084_vocalName"
 msgstr ""
@@ -1783,10 +1783,10 @@ msgid "musicName_0084_storyTitle"
 msgstr ""
 
 msgid "musicName_0085_musicname"
-msgstr ""
+msgstr "雪莉露的宇宙兄弟船"
 
 msgid "musicName_0085_officialName"
-msgstr ""
+msgstr "雪莉露的宇宙兄弟船"
 
 msgid "musicName_0085_vocalName"
 msgstr ""
@@ -1804,10 +1804,10 @@ msgid "musicName_0085_storyTitle"
 msgstr ""
 
 msgid "musicName_0086_musicname"
-msgstr ""
+msgstr "Gor~~geous"
 
 msgid "musicName_0086_officialName"
-msgstr ""
+msgstr "Gor~~geous"
 
 msgid "musicName_0086_vocalName"
 msgstr ""
@@ -1825,10 +1825,10 @@ msgid "musicName_0086_storyTitle"
 msgstr ""
 
 msgid "musicName_0087_musicname"
-msgstr ""
+msgstr "和兰卡一起 Brand New Peach"
 
 msgid "musicName_0087_officialName"
-msgstr ""
+msgstr "和兰卡一起 Brand New Peach"
 
 msgid "musicName_0087_vocalName"
 msgstr ""
@@ -1867,10 +1867,10 @@ msgid "musicName_0088_storyTitle"
 msgstr ""
 
 msgid "musicName_0089_musicname"
-msgstr ""
+msgstr "Change!!!!!"
 
 msgid "musicName_0089_officialName"
-msgstr ""
+msgstr "Change!!!!!"
 
 msgid "musicName_0089_vocalName"
 msgstr ""
@@ -1909,10 +1909,10 @@ msgid "musicName_0090_storyTitle"
 msgstr ""
 
 msgid "musicName_0091_musicname"
-msgstr ""
+msgstr "今夜不需要宁静"
 
 msgid "musicName_0091_officialName"
-msgstr ""
+msgstr "今夜不需要宁静"
 
 msgid "musicName_0091_vocalName"
 msgstr ""
@@ -1951,10 +1951,10 @@ msgid "musicName_0092_storyTitle"
 msgstr ""
 
 msgid "musicName_0093_musicname"
-msgstr ""
+msgstr "欢迎来到女武神的世界！"
 
 msgid "musicName_0093_officialName"
-msgstr ""
+msgstr "欢迎来到女武神的世界！"
 
 msgid "musicName_0093_vocalName"
 msgstr ""
@@ -1972,10 +1972,10 @@ msgid "musicName_0093_storyTitle"
 msgstr ""
 
 msgid "musicName_0094_musicname"
-msgstr ""
+msgstr "我美丽的家园"
 
 msgid "musicName_0094_officialName"
-msgstr ""
+msgstr "我美丽的家园"
 
 msgid "musicName_0094_vocalName"
 msgstr ""
@@ -2014,10 +2014,10 @@ msgid "musicName_0095_storyTitle"
 msgstr ""
 
 msgid "musicName_0096_musicname"
-msgstr ""
+msgstr "化作天使"
 
 msgid "musicName_0096_officialName"
-msgstr ""
+msgstr "化作天使"
 
 msgid "musicName_0096_vocalName"
 msgstr ""
@@ -2035,10 +2035,10 @@ msgid "musicName_0096_storyTitle"
 msgstr ""
 
 msgid "musicName_0097_musicname"
-msgstr ""
+msgstr "无限 #7"
 
 msgid "musicName_0097_officialName"
-msgstr ""
+msgstr "无限 #7"
 
 msgid "musicName_0097_vocalName"
 msgstr ""
@@ -2056,10 +2056,10 @@ msgid "musicName_0097_storyTitle"
 msgstr ""
 
 msgid "musicName_0098_musicname"
-msgstr ""
+msgstr "小白龙【MIRROR ver.】"
 
 msgid "musicName_0098_officialName"
-msgstr ""
+msgstr "小白龙"
 
 msgid "musicName_0098_vocalName"
 msgstr ""
@@ -2077,10 +2077,10 @@ msgid "musicName_0098_storyTitle"
 msgstr ""
 
 msgid "musicName_0099_musicname"
-msgstr ""
+msgstr "星间飞行~Freyja Ver.~"
 
 msgid "musicName_0099_officialName"
-msgstr ""
+msgstr "星间飞行~Freyja Ver.~"
 
 msgid "musicName_0099_vocalName"
 msgstr ""
@@ -2098,10 +2098,10 @@ msgid "musicName_0099_storyTitle"
 msgstr ""
 
 msgid "musicName_0100_musicname"
-msgstr ""
+msgstr "猫咪日记【MIRROR ver.】"
 
 msgid "musicName_0100_officialName"
-msgstr ""
+msgstr "猫咪日记"
 
 msgid "musicName_0100_vocalName"
 msgstr ""
@@ -2119,10 +2119,10 @@ msgid "musicName_0100_storyTitle"
 msgstr ""
 
 msgid "musicName_0101_musicname"
-msgstr ""
+msgstr "…Dakedo Baby!!"
 
 msgid "musicName_0101_officialName"
-msgstr ""
+msgstr "…Dakedo Baby!!"
 
 msgid "musicName_0101_vocalName"
 msgstr ""
@@ -2161,10 +2161,10 @@ msgid "musicName_0102_storyTitle"
 msgstr ""
 
 msgid "musicName_0103_musicname"
-msgstr ""
+msgstr "可曾记得爱【MIRROR ver.】"
 
 msgid "musicName_0103_officialName"
-msgstr ""
+msgstr "可曾记得爱"
 
 msgid "musicName_0103_vocalName"
 msgstr ""
@@ -2176,10 +2176,10 @@ msgid "musicName_0103_description"
 msgstr ""
 
 msgid "musicName_0104_musicname"
-msgstr ""
+msgstr "天使的画笔【MIRROR ver.】"
 
 msgid "musicName_0104_officialName"
-msgstr ""
+msgstr "天使的画笔"
 
 msgid "musicName_0104_vocalName"
 msgstr ""
@@ -2200,10 +2200,10 @@ msgid "musicName_0105_description"
 msgstr ""
 
 msgid "musicName_0106_musicname"
-msgstr ""
+msgstr "女武神的生日歌"
 
 msgid "musicName_0106_officialName"
-msgstr ""
+msgstr "女武神的生日歌"
 
 msgid "musicName_0106_vocalName"
 msgstr ""
@@ -2251,10 +2251,10 @@ msgid "musicName_0108_storyTitle"
 msgstr ""
 
 msgid "musicName_0109_musicname"
-msgstr ""
+msgstr "Dog Fighter"
 
 msgid "musicName_0109_officialName"
-msgstr ""
+msgstr "Dog Fighter"
 
 msgid "musicName_0109_vocalName"
 msgstr ""
@@ -2329,10 +2329,10 @@ msgid "musicName_0112_description"
 msgstr ""
 
 msgid "musicName_0113_musicname"
-msgstr ""
+msgstr "未来因女性而存在"
 
 msgid "musicName_0113_officialName"
-msgstr ""
+msgstr "未来因女性而存在"
 
 msgid "musicName_0113_vocalName"
 msgstr ""
@@ -2344,10 +2344,10 @@ msgid "musicName_0113_description"
 msgstr ""
 
 msgid "musicName_0114_musicname"
-msgstr ""
+msgstr "绝对零度θ Novatic Another ver."
 
 msgid "musicName_0114_officialName"
-msgstr ""
+msgstr "绝对零度θ Novatic"
 
 msgid "musicName_0114_vocalName"
 msgstr ""
@@ -2374,10 +2374,10 @@ msgid "musicName_0115_description"
 msgstr ""
 
 msgid "musicName_0116_musicname"
-msgstr ""
+msgstr "恋爱忽如花般绽放"
 
 msgid "musicName_0116_officialName"
-msgstr ""
+msgstr "恋爱忽如花般绽放"
 
 msgid "musicName_0116_vocalName"
 msgstr ""
@@ -2410,10 +2410,10 @@ msgid "musicName_0117_description"
 msgstr ""
 
 msgid "musicName_0118_musicname"
-msgstr ""
+msgstr "禁忌的边界线 Another ver."
 
 msgid "musicName_0118_officialName"
-msgstr ""
+msgstr "禁忌的边界线"
 
 msgid "musicName_0118_vocalName"
 msgstr ""
@@ -2425,10 +2425,10 @@ msgid "musicName_0118_description"
 msgstr ""
 
 msgid "musicName_0119_musicname"
-msgstr ""
+msgstr "我们的战场【MIRROR ver.】"
 
 msgid "musicName_0119_officialName"
-msgstr ""
+msgstr "我们的战场"
 
 msgid "musicName_0119_vocalName"
 msgstr ""
@@ -2440,10 +2440,10 @@ msgid "musicName_0119_description"
 msgstr ""
 
 msgid "musicName_0120_musicname"
-msgstr ""
+msgstr "我的男朋友是飞行员（PartⅡ）"
 
 msgid "musicName_0120_officialName"
-msgstr ""
+msgstr "我的男朋友是飞行员（PartⅡ）"
 
 msgid "musicName_0120_vocalName"
 msgstr ""
@@ -2530,10 +2530,10 @@ msgid "musicName_0125_description"
 msgstr ""
 
 msgid "musicName_0126_musicname"
-msgstr ""
+msgstr "到你身边→"
 
 msgid "musicName_0126_officialName"
-msgstr ""
+msgstr "到你身边→"
 
 msgid "musicName_0126_vocalName"
 msgstr ""
@@ -2545,10 +2545,10 @@ msgid "musicName_0126_description"
 msgstr ""
 
 msgid "musicName_0127_musicname"
-msgstr ""
+msgstr "狮子座【MIRROR ver.】"
 
 msgid "musicName_0127_officialName"
-msgstr ""
+msgstr "狮子座"
 
 msgid "musicName_0127_vocalName"
 msgstr ""
@@ -2560,10 +2560,10 @@ msgid "musicName_0127_description"
 msgstr ""
 
 msgid "musicName_0128_musicname"
-msgstr ""
+msgstr "Universal Bunny【MIRROR ver.】"
 
 msgid "musicName_0128_officialName"
-msgstr ""
+msgstr "Universal Bunny"
 
 msgid "musicName_0128_vocalName"
 msgstr ""
@@ -2590,10 +2590,10 @@ msgid "musicName_0129_description"
 msgstr ""
 
 msgid "musicName_0130_musicname"
-msgstr ""
+msgstr "北十字星【MIRROR ver.】"
 
 msgid "musicName_0130_officialName"
-msgstr ""
+msgstr "北十字星"
 
 msgid "musicName_0130_vocalName"
 msgstr ""
@@ -2620,10 +2620,10 @@ msgid "musicName_0131_description"
 msgstr ""
 
 msgid "musicName_0132_musicname"
-msgstr ""
+msgstr "唇上的冻伤"
 
 msgid "musicName_0132_officialName"
-msgstr ""
+msgstr "唇上的冻伤"
 
 msgid "musicName_0132_vocalName"
 msgstr ""
@@ -2650,10 +2650,10 @@ msgid "musicName_0133_description"
 msgstr ""
 
 msgid "musicName_0134_musicname"
-msgstr ""
+msgstr "时间迷宫"
 
 msgid "musicName_0134_officialName"
-msgstr ""
+msgstr "时间迷宫"
 
 msgid "musicName_0134_vocalName"
 msgstr ""
@@ -2665,10 +2665,10 @@ msgid "musicName_0134_description"
 msgstr ""
 
 msgid "musicName_0135_musicname"
-msgstr ""
+msgstr "逐梦未来 -Duet Version-"
 
 msgid "musicName_0135_officialName"
-msgstr ""
+msgstr "逐梦未来 -Duet Version-"
 
 msgid "musicName_0135_vocalName"
 msgstr ""
@@ -2695,10 +2695,10 @@ msgid "musicName_0136_description"
 msgstr ""
 
 msgid "musicName_0137_musicname"
-msgstr ""
+msgstr "Dainamu 超合金"
 
 msgid "musicName_0137_officialName"
-msgstr ""
+msgstr "Dainamu 超合金"
 
 msgid "musicName_0137_vocalName"
 msgstr ""
@@ -2755,10 +2755,10 @@ msgid "musicName_0140_description"
 msgstr ""
 
 msgid "musicName_0141_musicname"
-msgstr ""
+msgstr "爱的魔法"
 
 msgid "musicName_0141_officialName"
-msgstr ""
+msgstr "爱的魔法"
 
 msgid "musicName_0141_vocalName"
 msgstr ""
@@ -2770,10 +2770,10 @@ msgid "musicName_0141_description"
 msgstr ""
 
 msgid "musicName_0142_musicname"
-msgstr ""
+msgstr "无法相见之时"
 
 msgid "musicName_0142_officialName"
-msgstr ""
+msgstr "无法相见之时"
 
 msgid "musicName_0142_vocalName"
 msgstr ""
@@ -2806,10 +2806,10 @@ msgid "musicName_0144_officialName"
 msgstr ""
 
 msgid "musicName_0145_musicname"
-msgstr ""
+msgstr "星光纳豆"
 
 msgid "musicName_0145_officialName"
-msgstr ""
+msgstr "星光纳豆"
 
 msgid "musicName_0145_vocalName"
 msgstr ""
@@ -2821,10 +2821,10 @@ msgid "musicName_0145_description"
 msgstr ""
 
 msgid "musicName_0146_musicname"
-msgstr ""
+msgstr "苦痛现在进行时"
 
 msgid "musicName_0146_officialName"
-msgstr ""
+msgstr "苦痛现在进行时"
 
 msgid "musicName_0146_vocalName"
 msgstr ""
@@ -2848,10 +2848,10 @@ msgid "musicName_0148_officialName"
 msgstr ""
 
 msgid "musicName_0149_musicname"
-msgstr ""
+msgstr "银的月 红的月【MIRROR ver.】"
 
 msgid "musicName_0149_officialName"
-msgstr ""
+msgstr "银的月 红的月"
 
 msgid "musicName_0149_vocalName"
 msgstr ""
@@ -2863,7 +2863,7 @@ msgid "musicName_0149_description"
 msgstr ""
 
 msgid "musicName_0150_musicname"
-msgstr ""
+msgstr "Glow in the dark（高难ver.）"
 
 msgid "musicName_0150_officialName"
 msgstr ""
@@ -2878,10 +2878,10 @@ msgid "musicName_0150_description"
 msgstr ""
 
 msgid "musicName_0151_musicname"
-msgstr ""
+msgstr "恋离之翼 ~ the end of triangle"
 
 msgid "musicName_0151_officialName"
-msgstr ""
+msgstr "恋离之翼 ~ the end of triangle"
 
 msgid "musicName_0151_vocalName"
 msgstr ""
@@ -2893,10 +2893,10 @@ msgid "musicName_0151_description"
 msgstr ""
 
 msgid "musicName_0152_musicname"
-msgstr ""
+msgstr "禁忌的边界线"
 
 msgid "musicName_0152_officialName"
-msgstr ""
+msgstr "禁忌的边界线"
 
 msgid "musicName_0152_vocalName"
 msgstr ""
