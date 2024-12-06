@@ -3,69 +3,70 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-09 11:48+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/homebgdb_text/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "homebg_0000_name"
-msgstr ""
+msgstr "元旦特别活动（年末）"
 
 msgid "homebg_0001_name"
-msgstr ""
+msgstr "元旦特别活动（年初）"
 
 msgid "homebg_0002_name"
-msgstr ""
+msgstr "东京塔联动"
 
 msgid "homebg_0003_name"
-msgstr ""
+msgstr "切换年初BGM"
 
 msgid "homebg_0004_name"
-msgstr ""
+msgstr "娘娘祭~泳装卡池已关闭"
 
 msgid "homebg_0005_name"
-msgstr ""
+msgstr "2018-2019 元旦娘娘祭"
 
 msgid "homebg_0006_name"
-msgstr ""
+msgstr "娘娘祭"
 
 msgid "homebg_0007_name"
-msgstr ""
+msgstr "2019-2020 元旦娘娘祭"
 
 msgid "homebg_0008_name"
-msgstr ""
+msgstr "3周年娘娘祭"
 
 msgid "homebg_0009_name"
-msgstr ""
+msgstr "2021-2022 元旦娘娘祭"
 
 msgid "homebg_0010_name"
-msgstr ""
+msgstr "作战室"
 
 msgid "homebg_0011_name"
-msgstr ""
+msgstr "格里菲斯公园"
 
 msgid "homebg_0012_name"
-msgstr ""
+msgstr "废地公寓"
 
 msgid "homebg_0013_name"
-msgstr ""
+msgstr "娘娘中餐馆"
 
 msgid "homebg_0014_name"
-msgstr ""
+msgstr "4周年娘娘祭"
 
 msgid "homebg_0015_name"
-msgstr ""
+msgstr "女武神演出现场"
 
 msgid "homebg_0016_name"
-msgstr ""
+msgstr "深层・秋叶原"
 
 msgid "homebg_0017_name"
-msgstr ""
+msgstr "瓦鸠拉母星"
 
 msgid "homebg_0018_name"
-msgstr ""
+msgstr "Bomber乐园"
