@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2024-12-06 02:38+0000\n"
+"PO-Revision-Date: 2024-12-09 11:48+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/music_text/zh_Hans/>\n"
@@ -261,10 +261,10 @@ msgid "musicName_0009_storyTitle"
 msgstr "“Frontier船团，真是个好地方呢”"
 
 msgid "musicName_0010_musicname"
-msgstr "无限"
+msgstr "Infinity"
 
 msgid "musicName_0010_officialName"
-msgstr "无限"
+msgstr "Infinity"
 
 msgid "musicName_0010_vocalName"
 msgstr "雪莉露·诺姆 starring May'n"
@@ -589,10 +589,10 @@ msgid "musicName_0022_storyTitle"
 msgstr ""
 
 msgid "musicName_0023_musicname"
-msgstr "要是Rune闪闪发光"
+msgstr "只要Rune闪闪发光"
 
 msgid "musicName_0023_officialName"
-msgstr "要是Rune闪闪发光"
+msgstr "只要Rune闪闪发光"
 
 msgid "musicName_0023_vocalName"
 msgstr ""
@@ -850,10 +850,10 @@ msgid "musicName_0035_storyTitle"
 msgstr ""
 
 msgid "musicName_0036_musicname"
-msgstr "银的月 红的月"
+msgstr "银月亮 红月亮"
 
 msgid "musicName_0036_officialName"
-msgstr "银的月 红的月"
+msgstr "银月亮 红月亮"
 
 msgid "musicName_0036_vocalName"
 msgstr ""
@@ -892,10 +892,10 @@ msgid "musicName_0037_storyTitle"
 msgstr ""
 
 msgid "musicName_0038_musicname"
-msgstr "FamilyMart・Cosmos"
+msgstr "FamilyMart Cosmos"
 
 msgid "musicName_0038_officialName"
-msgstr "FamilyMart・Cosmos"
+msgstr "FamilyMart Cosmos"
 
 msgid "musicName_0038_vocalName"
 msgstr ""
@@ -1360,10 +1360,10 @@ msgid "musicName_0061_storyTitle"
 msgstr ""
 
 msgid "musicName_0062_musicname"
-msgstr "禁忌的万能之药"
+msgstr "禁忌的魔药"
 
 msgid "musicName_0062_officialName"
-msgstr "禁忌的万能之药"
+msgstr "禁忌的魔药"
 
 msgid "musicName_0062_vocalName"
 msgstr ""
@@ -1684,10 +1684,10 @@ msgid "musicName_0079_description"
 msgstr ""
 
 msgid "musicName_0080_musicname"
-msgstr "要是Rune闪闪发光"
+msgstr "只要Rune闪闪发光"
 
 msgid "musicName_0080_officialName"
-msgstr "要是Rune闪闪发光"
+msgstr "只要Rune闪闪发光"
 
 msgid "musicName_0080_vocalName"
 msgstr ""
@@ -1972,10 +1972,10 @@ msgid "musicName_0093_storyTitle"
 msgstr ""
 
 msgid "musicName_0094_musicname"
-msgstr "我美丽的家园"
+msgstr "我美丽的家乡"
 
 msgid "musicName_0094_officialName"
-msgstr "我美丽的家园"
+msgstr "我美丽的家乡"
 
 msgid "musicName_0094_vocalName"
 msgstr ""
@@ -2035,10 +2035,10 @@ msgid "musicName_0096_storyTitle"
 msgstr ""
 
 msgid "musicName_0097_musicname"
-msgstr "无限 #7"
+msgstr "Infinity #7"
 
 msgid "musicName_0097_officialName"
-msgstr "无限 #7"
+msgstr "Infinity #7"
 
 msgid "musicName_0097_vocalName"
 msgstr ""
@@ -2848,10 +2848,10 @@ msgid "musicName_0148_officialName"
 msgstr ""
 
 msgid "musicName_0149_musicname"
-msgstr "银的月 红的月【MIRROR ver.】"
+msgstr "银月亮 红月亮【MIRROR ver.】"
 
 msgid "musicName_0149_officialName"
-msgstr "银的月 红的月"
+msgstr "银月亮 红月亮"
 
 msgid "musicName_0149_vocalName"
 msgstr ""
