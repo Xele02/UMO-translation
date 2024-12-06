@@ -3,153 +3,154 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-09 11:48+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/master/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "e_nm_0001"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0002"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0003"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0004"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0005"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0006"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "e_nm_0007"
-msgstr ""
+msgstr "VF-27γ"
 
 msgid "e_nm_0008"
-msgstr ""
+msgstr "瓦鸠拉女王"
 
 msgid "e_nm_0009"
-msgstr ""
+msgstr "敌009"
 
 msgid "e_nm_0010"
-msgstr ""
+msgstr "敌009"
 
 msgid "e_nm_0011"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0012"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0013"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0014"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0015"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0016"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0017"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0018"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "e_nm_0019"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0020"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0021"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0022"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0023"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0024"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0025"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0026"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0027"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0028"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0029"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0030"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0031"
-msgstr ""
+msgstr "VF-31C"
 
 msgid "e_nm_0032"
-msgstr ""
+msgstr "Ghost X-9"
 
 msgid "e_nm_0033"
-msgstr ""
+msgstr "勇·戴逊"
 
 msgid "e_nm_0034"
-msgstr ""
+msgstr "加鲁特·加奥·保曼"
 
 msgid "e_nm_0035"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0036"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0037"
-msgstr ""
+msgstr "山椒鱼手机"
 
 msgid "e_nm_0038"
-msgstr ""
+msgstr "库巴巴"
 
 msgid "e_nm_0039"
-msgstr ""
+msgstr "盗猎者母舰"
 
 msgid "e_nm_0040"
-msgstr ""
+msgstr "大型瓦鸠拉"
 
 msgid "e_nm_0041"
-msgstr ""
+msgstr "Ghost X-9"
 
 msgid "e_nm_0042"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0043"
-msgstr ""
+msgstr "Sv-303"
 
 msgid "e_nm_0044"
-msgstr ""
+msgstr "NOUSJADEUL-GER"
 
 msgid "e_nm_0045"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0046"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_dsc_0001"
 msgstr ""
@@ -176,10 +177,10 @@ msgid "e_dsc_0008"
 msgstr ""
 
 msgid "e_dsc_0009"
-msgstr ""
+msgstr "说明009"
 
 msgid "e_dsc_0010"
-msgstr ""
+msgstr "说明009"
 
 msgid "e_dsc_0011"
 msgstr ""
@@ -290,556 +291,556 @@ msgid "e_dsc_0046"
 msgstr ""
 
 msgid "c_nm_0001"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0002"
-msgstr ""
+msgstr "星属性卡提升"
 
 msgid "c_nm_0003"
-msgstr ""
+msgstr "爱属性卡提升"
 
 msgid "c_nm_0004"
-msgstr ""
+msgstr "命属性卡提升"
 
 msgid "c_nm_0005"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0006"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0007"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0008"
-msgstr ""
+msgstr "生命提升"
 
 msgid "c_nm_0009"
-msgstr ""
+msgstr "辅助提升"
 
 msgid "c_nm_0010"
-msgstr ""
+msgstr "Fold波提升"
 
 msgid "c_nm_0011"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0012"
-msgstr ""
+msgstr "生命提升"
 
 msgid "c_nm_0013"
-msgstr ""
+msgstr "星属性卡提升"
 
 msgid "c_nm_0014"
-msgstr ""
+msgstr "爱属性卡提升"
 
 msgid "c_nm_0015"
-msgstr ""
+msgstr "命属性卡提升"
 
 msgid "c_nm_0016"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0017"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0018"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0019"
-msgstr ""
+msgstr "辅助提升"
 
 msgid "c_nm_0020"
-msgstr ""
+msgstr "Fold波提升"
 
 msgid "c_nm_0021"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0022"
-msgstr ""
+msgstr "星属性卡提升"
 
 msgid "c_nm_0023"
-msgstr ""
+msgstr "爱属性卡提升"
 
 msgid "c_nm_0024"
-msgstr ""
+msgstr "命属性卡提升"
 
 msgid "c_nm_0025"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0026"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0027"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0028"
-msgstr ""
+msgstr "生命提升"
 
 msgid "c_nm_0029"
-msgstr ""
+msgstr "辅助提升"
 
 msgid "c_nm_0030"
-msgstr ""
+msgstr "Fold波提升"
 
 msgid "c_nm_0031"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0032"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0033"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_nm_0034"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0035"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0036"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_nm_0037"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0038"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0039"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_nm_0040"
-msgstr ""
+msgstr "熟练度获取提升"
 
 msgid "c_nm_0041"
-msgstr ""
+msgstr "歌魂、歌魅提升"
 
 msgid "c_nm_0042"
-msgstr ""
+msgstr "歌声、歌魅提升"
 
 msgid "c_nm_0043"
-msgstr ""
+msgstr "歌魂、歌声提升"
 
 msgid "c_nm_0044"
-msgstr ""
+msgstr "TOTAL A+辅助提升A"
 
 msgid "c_nm_0045"
-msgstr ""
+msgstr "TOTAL B+辅助提升B"
 
 msgid "c_nm_0046"
-msgstr ""
+msgstr "TOTAL A+生命提升A"
 
 msgid "c_nm_0047"
-msgstr ""
+msgstr "生命提升A+辅助提升A"
 
 msgid "c_nm_0048"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0049"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0050"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0051"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0052"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0053"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "c_nm_0054"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0055"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0056"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0057"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0058"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0059"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0060"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0061"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0062"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0063"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0064"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0065"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0066"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0067"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0068"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0069"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "c_nm_0070"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "c_nm_0071"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "c_nm_0072"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0073"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0074"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_nm_0075"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0076"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0077"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_nm_0078"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0079"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0080"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_nm_0081"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "c_nm_0082"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "c_nm_0083"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "c_dsc_0001"
-msgstr ""
+msgstr "队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0002"
-msgstr ""
+msgstr "星属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0003"
-msgstr ""
+msgstr "爱属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0004"
-msgstr ""
+msgstr "命属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0005"
-msgstr ""
+msgstr "队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0006"
-msgstr ""
+msgstr "队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0007"
-msgstr ""
+msgstr "队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0008"
-msgstr ""
+msgstr "队伍的生命提升[v1]％"
 
 msgid "c_dsc_0009"
-msgstr ""
+msgstr "队伍的辅助值提升[v1]％"
 
 msgid "c_dsc_0010"
-msgstr ""
+msgstr "队伍的Fold波提升[v1]％"
 
 msgid "c_dsc_0011"
-msgstr ""
+msgstr "队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0012"
-msgstr ""
+msgstr "队伍的生命提升[v1]％"
 
 msgid "c_dsc_0013"
-msgstr ""
+msgstr "星属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0014"
-msgstr ""
+msgstr "爱属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0015"
-msgstr ""
+msgstr "命属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0016"
-msgstr ""
+msgstr "队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0017"
-msgstr ""
+msgstr "队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0018"
-msgstr ""
+msgstr "队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0019"
-msgstr ""
+msgstr "队伍的辅助值提升[v1]％"
 
 msgid "c_dsc_0020"
-msgstr ""
+msgstr "队伍的Fold波提升[v1]％"
 
 msgid "c_dsc_0021"
-msgstr ""
+msgstr "队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0022"
-msgstr ""
+msgstr "星属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0023"
-msgstr ""
+msgstr "爱属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0024"
-msgstr ""
+msgstr "命属性卡片的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0025"
-msgstr ""
+msgstr "队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0026"
-msgstr ""
+msgstr "队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0027"
-msgstr ""
+msgstr "队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0028"
-msgstr ""
+msgstr "队伍的生命提升[v1]％"
 
 msgid "c_dsc_0029"
-msgstr ""
+msgstr "队伍的辅助值提升[v1]％"
 
 msgid "c_dsc_0030"
-msgstr ""
+msgstr "队伍的Fold波提升[v1]％"
 
 msgid "c_dsc_0031"
-msgstr ""
+msgstr "歌曲为星属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0032"
-msgstr ""
+msgstr "歌曲为爱属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0033"
-msgstr ""
+msgstr "歌曲为命属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0034"
-msgstr ""
+msgstr "歌曲为星属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0035"
-msgstr ""
+msgstr "歌曲为爱属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0036"
-msgstr ""
+msgstr "歌曲为命属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0037"
-msgstr ""
+msgstr "歌曲为星属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0038"
-msgstr ""
+msgstr "歌曲为爱属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0039"
-msgstr ""
+msgstr "歌曲为命属性时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0040"
-msgstr ""
+msgstr "歌姬获得的熟练度点数增加[v1]％"
 
 msgid "c_dsc_0041"
-msgstr ""
+msgstr "队伍的歌魂和歌魅提升[v1]％"
 
 msgid "c_dsc_0042"
-msgstr ""
+msgstr "队伍的歌声和歌魅提升[v1]％"
 
 msgid "c_dsc_0043"
-msgstr ""
+msgstr "队伍的歌魂和歌声提升[v1]％"
 
 msgid "c_dsc_0044"
-msgstr ""
+msgstr "队伍的TOTAL值和辅助值提升[v1]％"
 
 msgid "c_dsc_0045"
-msgstr ""
+msgstr "队伍的TOTAL值和辅助值提升[v1]％"
 
 msgid "c_dsc_0046"
-msgstr ""
+msgstr "队伍的TOTAL值和生命值提升[v1]％"
 
 msgid "c_dsc_0047"
-msgstr ""
+msgstr "队伍的生命值和辅助值提升[v1]％"
 
 msgid "c_dsc_0048"
-msgstr ""
+msgstr "游玩指定系列的歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0049"
-msgstr ""
+msgstr "游玩超时空要塞Δ的歌曲时，队伍的TOTAL值提升[v1]％（系列符合条件时）"
 
 msgid "c_dsc_0050"
-msgstr ""
+msgstr "游玩超时空要塞F的歌曲时，队伍的TOTAL值提升[v1]％（系列符合条件时）"
 
 msgid "c_dsc_0051"
-msgstr ""
+msgstr "游玩超时空要塞7的歌曲时，队伍的TOTAL值提升[v1]％（系列符合条件时）"
 
 msgid "c_dsc_0052"
-msgstr ""
+msgstr "游玩超时空要塞Macross的歌曲时，队伍的TOTAL值提升[v1]％（系列符合条件时）"
 
 msgid "c_dsc_0053"
-msgstr ""
+msgstr "游玩OTHERS的歌曲时，队伍的TOTAL值提升[v1]％（系列符合条件时）"
 
 msgid "c_dsc_0054"
-msgstr ""
+msgstr "游玩指定系列的歌曲时，队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0055"
-msgstr ""
+msgstr "游玩指定系列的歌曲时，队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0056"
-msgstr ""
+msgstr "游玩指定系列的歌曲时，队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0057"
-msgstr ""
+msgstr "游玩超时空要塞Δ的歌曲时，队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0058"
-msgstr ""
+msgstr "游玩超时空要塞Δ的歌曲时，队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0059"
-msgstr ""
+msgstr "游玩超时空要塞Δ的歌曲时，队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0060"
-msgstr ""
+msgstr "游玩超时空要塞F的歌曲时，队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0061"
-msgstr ""
+msgstr "游玩超时空要塞F的歌曲时，队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0062"
-msgstr ""
+msgstr "游玩超时空要塞F的歌曲时，队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0063"
-msgstr ""
+msgstr "游玩超时空要塞7的歌曲时，队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0064"
-msgstr ""
+msgstr "游玩超时空要塞7的歌曲时，队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0065"
-msgstr ""
+msgstr "游玩超时空要塞7的歌曲时，队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0066"
-msgstr ""
+msgstr "游玩超时空要塞Macross的歌曲时，队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0067"
-msgstr ""
+msgstr "游玩超时空要塞Macross的歌曲时，队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0068"
-msgstr ""
+msgstr "游玩超时空要塞Macross的歌曲时，队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0069"
-msgstr ""
+msgstr "游玩OTHERS的歌曲时，队伍的歌魂提升[v1]％"
 
 msgid "c_dsc_0070"
-msgstr ""
+msgstr "游玩OTHERS的歌曲时，队伍的歌声提升[v1]％"
 
 msgid "c_dsc_0071"
-msgstr ""
+msgstr "游玩OTHERS的歌曲时，队伍的歌魅提升[v1]％"
 
 msgid "c_dsc_0072"
-msgstr ""
+msgstr "游玩超时空要塞F的星属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0073"
-msgstr ""
+msgstr "游玩超时空要塞F的爱属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0074"
-msgstr ""
+msgstr "游玩超时空要塞F的命属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0075"
-msgstr ""
+msgstr "游玩超时空要塞Δ的星属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0076"
-msgstr ""
+msgstr "游玩超时空要塞Δ的爱属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0077"
-msgstr ""
+msgstr "游玩超时空要塞Δ的命属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0078"
-msgstr ""
+msgstr "游玩超时空要塞Macross的星属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0079"
-msgstr ""
+msgstr "游玩超时空要塞Macross的爱属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0080"
-msgstr ""
+msgstr "游玩超时空要塞Macross的命属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0081"
-msgstr ""
+msgstr "游玩超时空要塞7的星属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0082"
-msgstr ""
+msgstr "游玩超时空要塞7的爱属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "c_dsc_0083"
-msgstr ""
+msgstr "游玩超时空要塞7的命属性歌曲时，队伍的TOTAL值提升[v1]％"
 
 msgid "a_nm_0001"
-msgstr ""
+msgstr "生命回复"
 
 msgid "a_nm_0002"
-msgstr ""
+msgstr "生命回复"
 
 msgid "a_nm_0003"
-msgstr ""
+msgstr "生命回复"
 
 msgid "a_nm_0004"
-msgstr ""
+msgstr "分数提升"
 
 msgid "a_nm_0005"
-msgstr ""
+msgstr "分数提升"
 
 msgid "a_nm_0006"
-msgstr ""
+msgstr "分数提升"
 
 msgid "a_nm_0007"
-msgstr ""
+msgstr "分数提升"
 
 msgid "a_nm_0008"
-msgstr ""
+msgstr "分数提升"
 
 msgid "a_nm_0009"
-msgstr ""
+msgstr "无敌"
 
 msgid "a_nm_0010"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "a_nm_0011"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "a_nm_0012"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "a_nm_0013"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "a_nm_0014"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "a_nm_0015"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "a_nm_0016"
-msgstr ""
+msgstr "连击持续"
 
 msgid "a_nm_0017"
-msgstr ""
+msgstr "连击持续"
 
 msgid "a_nm_0018"
-msgstr ""
+msgstr "连击持续"
 
 msgid "a_nm_0019"
 msgstr ""
@@ -848,2218 +849,2271 @@ msgid "a_nm_0020"
 msgstr ""
 
 msgid "a_nm_0021"
-msgstr ""
+msgstr "判定区缩小＆分数提升"
 
 msgid "a_nm_0022"
-msgstr ""
+msgstr "连击加成"
 
 msgid "a_nm_0023"
-msgstr ""
+msgstr "分数提升＆生命减少"
 
 msgid "a_nm_0024"
-msgstr ""
+msgstr "分数提升"
 
 msgid "a_nm_0025"
-msgstr ""
+msgstr "连击加成"
 
 msgid "a_nm_0026"
-msgstr ""
+msgstr "连击加成"
 
 msgid "a_dsc_0001"
-msgstr ""
+msgstr "回复[v1]％生命"
 
 msgid "a_dsc_0002"
-msgstr ""
+msgstr "回复[v1]％生命"
 
 msgid "a_dsc_0003"
-msgstr ""
+msgstr "回复[v1]％生命"
 
 msgid "a_dsc_0004"
-msgstr ""
+msgstr "[dv]秒内提升[v1]％分数"
 
 msgid "a_dsc_0005"
-msgstr ""
+msgstr "[dv]秒内提升[v1]％分数"
 
 msgid "a_dsc_0006"
-msgstr ""
+msgstr "[dv]秒内提升[v1]％分数"
 
 msgid "a_dsc_0007"
-msgstr ""
+msgstr "[dv]秒内提升[v1]％分数"
 
 msgid "a_dsc_0008"
-msgstr ""
+msgstr "[dv]秒内提升[v1]％分数"
 
 msgid "a_dsc_0009"
-msgstr ""
+msgstr "[dv]秒内免疫伤害"
 
 msgid "a_dsc_0010"
-msgstr ""
+msgstr "[dv]秒内受到的伤害减半"
 
 msgid "a_dsc_0011"
-msgstr ""
+msgstr "[dv]秒内受到的伤害减半"
 
 msgid "a_dsc_0012"
-msgstr ""
+msgstr "[dv]秒内受到的伤害减半"
 
 msgid "a_dsc_0013"
-msgstr ""
+msgstr "获得[dv]秒判定缓和效果"
 
 msgid "a_dsc_0014"
-msgstr ""
+msgstr "获得[dv]秒判定缓和效果"
 
 msgid "a_dsc_0015"
-msgstr ""
+msgstr "获得[dv]秒判定缓和效果"
 
 msgid "a_dsc_0016"
-msgstr ""
+msgstr "[dv]秒内连击不会中断"
 
 msgid "a_dsc_0017"
-msgstr ""
+msgstr "[dv]秒内连击不会中断"
 
 msgid "a_dsc_0018"
-msgstr ""
+msgstr "[dv]秒内连击不会中断"
 
 msgid "a_dsc_0019"
-msgstr ""
+msgstr "[dv]秒内所有音符变为道具音符"
 
 msgid "a_dsc_0020"
-msgstr ""
+msgstr "[dv]秒内音符全部判定为PERFECT"
 
 msgid "a_dsc_0021"
-msgstr ""
+msgstr "[dv]秒内缩小击打判定区间，并提升[v2]％分数"
 
 msgid "a_dsc_0022"
-msgstr ""
+msgstr "[dv]秒内每达到50连击提升[v1]％分数"
 
 msgid "a_dsc_0023"
-msgstr ""
+msgstr "[dv2]秒内每秒减少[v1]生命并提升[v2]％分数"
 
 msgid "a_dsc_0024"
-msgstr ""
+msgstr "[dv]秒内提升[v1]％分数（可使用2次）"
 
 msgid "a_dsc_0025"
-msgstr ""
+msgstr "[dv]秒内每达到50连击提升[v1]％分数"
 
 msgid "a_dsc_0026"
-msgstr ""
+msgstr "[dv]秒内每达到50连击提升[v1]％分数（可使用2次）"
 
 msgid "l_nm_0001"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0002"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0003"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0004"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0005"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0006"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0007"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0008"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0009"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0010"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0011"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0012"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0013"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0014"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0015"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0016"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0017"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0018"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0019"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0020"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0021"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0022"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0023"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0024"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0025"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0026"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0027"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0028"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0029"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0030"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0031"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0032"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0033"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0034"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0035"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0036"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0037"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0038"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0039"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0040"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0041"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0042"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0043"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0044"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0045"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0046"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0047"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0048"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0049"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0050"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0051"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0052"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0053"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0054"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0055"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0056"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0057"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0058"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0059"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0060"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0061"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0062"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0063"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0064"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0065"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0066"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0067"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0068"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0069"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0070"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0071"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0072"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0073"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0074"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0075"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0076"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0077"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0078"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0079"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0080"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0081"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0082"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0083"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0084"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0085"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0086"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0087"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0088"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0089"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0090"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0091"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0092"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0093"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0094"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0095"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0096"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0097"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0098"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0099"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0100"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0101"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0102"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0103"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0104"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0105"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0106"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0107"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0108"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0109"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0110"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0111"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0112"
-msgstr ""
+msgstr "分数提升"
 
 msgid "l_nm_0113"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0114"
-msgstr ""
+msgstr "连击持续"
 
 msgid "l_nm_0115"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0116"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0117"
-msgstr ""
+msgstr "生命回复"
 
 msgid "l_nm_0118"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0119"
-msgstr ""
+msgstr "判定缓和B+分数提升B"
 
 msgid "l_nm_0120"
-msgstr ""
+msgstr "生命回复B+分数提升B"
 
 msgid "l_nm_0121"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "l_nm_0122"
-msgstr ""
+msgstr "判定缓和A+分数提升A"
 
 msgid "l_nm_0123"
-msgstr ""
+msgstr "判定缓和A+分数提升A"
 
 msgid "l_nm_0124"
-msgstr ""
+msgstr "连击持续A+分数提升A"
 
 msgid "l_nm_0125"
-msgstr ""
+msgstr "判定缓和B+分数提升B"
 
 msgid "l_nm_0126"
-msgstr ""
+msgstr "重复加分"
 
 msgid "l_nm_0127"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0128"
-msgstr ""
+msgstr "重复加分"
 
 msgid "l_nm_0129"
-msgstr ""
+msgstr "判定缓和A+分数提升A"
 
 msgid "l_nm_0130"
-msgstr ""
+msgstr "生命回复B+分数提升B"
 
 msgid "l_nm_0131"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "l_nm_0132"
-msgstr ""
+msgstr "无敌A+分数提升A"
 
 msgid "l_nm_0133"
-msgstr ""
+msgstr "伤害减免A+分数提升A"
 
 msgid "l_nm_0134"
-msgstr ""
+msgstr "分数提升＆生命减少"
 
 msgid "l_nm_0135"
-msgstr ""
+msgstr "无敌"
 
 msgid "l_nm_0136"
-msgstr ""
+msgstr "分数提升＆生命减少"
 
 msgid "l_nm_0137"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0138"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0139"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0140"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0141"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0142"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0143"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0144"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0145"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0146"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0147"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0148"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0149"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0150"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0151"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0152"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0153"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0154"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0155"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0156"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0157"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0158"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0159"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0160"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0161"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0162"
-msgstr ""
+msgstr "连击加成"
 
 msgid "l_nm_0163"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0164"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0165"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0166"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0167"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0168"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0169"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0170"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0171"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0172"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0173"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0174"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0175"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0176"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0177"
-msgstr ""
+msgstr "判定缓和S+重复加分S"
 
 msgid "l_nm_0178"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0179"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0180"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0181"
-msgstr ""
+msgstr "分数提升＆生命减少"
 
 msgid "l_nm_0182"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0183"
-msgstr ""
+msgstr "判定缓和S+分数提升S"
 
 msgid "l_nm_0184"
-msgstr ""
+msgstr "短时加分技能强化"
 
 msgid "l_nm_0185"
-msgstr ""
+msgstr "长时加分技能强化"
 
 msgid "l_nm_0186"
-msgstr ""
+msgstr "连击加成强化"
 
 msgid "l_nm_0187"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0188"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0189"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0190"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0191"
-msgstr ""
+msgstr "判定缓和S+分数提升S"
 
 msgid "l_nm_0192"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0193"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0194"
-msgstr ""
+msgstr "超歌姬模式分数提升（旧）"
 
 msgid "l_nm_0195"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0196"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0197"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0198"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0199"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0200"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0201"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0202"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0203"
-msgstr ""
+msgstr "歌姬重复加分"
 
 msgid "l_nm_0204"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0205"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0206"
-msgstr ""
+msgstr "判定缓和S+分数提升S"
 
 msgid "l_nm_0207"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0208"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0209"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0210"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0211"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0212"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0213"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0214"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0215"
-msgstr ""
+msgstr "超歌姬模式分数提升"
 
 msgid "l_nm_0216"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0217"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0218"
-msgstr ""
+msgstr "重复加分&生命减少"
 
 msgid "l_nm_0219"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0220"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0221"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0222"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0223"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0224"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0225"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0226"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0227"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0228"
-msgstr ""
+msgstr "判定缓和S+分数提升S"
 
 msgid "l_nm_0229"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0230"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0231"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0232"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0233"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0234"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0235"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0236"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0237"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0238"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0239"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0240"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0241"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0242"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0243"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0244"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0245"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0246"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0247"
-msgstr ""
+msgstr "生命回复S+分数提升S"
 
 msgid "l_nm_0248"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0249"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0250"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0251"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0252"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0253"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0254"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0255"
-msgstr ""
+msgstr "歌姬分数提升&生命减少"
 
 msgid "l_nm_0256"
-msgstr ""
+msgstr "Fold波分数提升"
 
 msgid "l_nm_0257"
-msgstr ""
+msgstr "亲密度分数提升"
 
 msgid "l_nm_0258"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0259"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0260"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0261"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0262"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0263"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0264"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0265"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0266"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0267"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0268"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0269"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0270"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0271"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0272"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0273"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "l_nm_0274"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0275"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0276"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0277"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "l_nm_0278"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0279"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0280"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "l_nm_0281"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0282"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0283"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0284"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "l_nm_0285"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0286"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0287"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "l_nm_0288"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "l_nm_0289"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0290"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "l_nm_0291"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "l_dsc_0001"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0002"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0003"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0004"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0005"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0006"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0007"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0008"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0009"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0010"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0011"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0012"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0013"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0014"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0015"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0016"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0017"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0018"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0019"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0020"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0021"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0022"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0023"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0024"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0025"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0026"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0027"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0028"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0029"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0030"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0031"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0032"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0033"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0034"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0035"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0036"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0037"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0038"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0039"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0040"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0041"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0042"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0043"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0044"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0045"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0046"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0047"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0048"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0049"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0050"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0051"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0052"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0053"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0054"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0055"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0056"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0057"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0058"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0059"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0060"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0061"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0062"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0063"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0064"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0065"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0066"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0067"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减少30%"
 
 msgid "l_dsc_0068"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减少30%"
 
 msgid "l_dsc_0069"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减少30%"
 
 msgid "l_dsc_0070"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减少30%"
 
 msgid "l_dsc_0071"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减少30%"
 
 msgid "l_dsc_0072"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0073"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0074"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0075"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0076"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0077"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0078"
-msgstr ""
+msgstr "演出开始[tv]秒后，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0079"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0080"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0081"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0082"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0083"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0084"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0085"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0086"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0087"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0088"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0089"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0090"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0091"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0092"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0093"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0094"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0095"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0096"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0097"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0098"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0099"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0100"
-msgstr ""
+msgstr "达到[tv]连击时发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0101"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0102"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0103"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0104"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0105"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0106"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0107"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0108"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0109"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0110"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0111"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0112"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0113"
-msgstr ""
+msgstr "进入空战模式时发动，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0114"
-msgstr ""
+msgstr "进入空战模式时发动，[dv]秒内连击不会中断"
 
 msgid "l_dsc_0115"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0116"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0117"
-msgstr ""
+msgstr "生命值低于[tv]％时，回复[v1]％生命"
 
 msgid "l_dsc_0118"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0119"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0120"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，回复[v1]％生命，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0121"
-msgstr ""
+msgstr "生命值低于[tv]％时，[dv]秒内受到的伤害减半"
 
 msgid "l_dsc_0122"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0123"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0124"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内连击不会中断，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0125"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0126"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0127"
-msgstr ""
+msgstr "进入超歌姬模式时发动，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0128"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0129"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0130"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，回复[v1]％生命，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0131"
-msgstr ""
+msgstr "进入空战模式时发动，获得[dv]秒判定缓和效果"
 
 msgid "l_dsc_0132"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内获得无敌效果且分数提升[v2]％"
 
 msgid "l_dsc_0133"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内受到的伤害减半，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0134"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0135"
-msgstr ""
+msgstr "生命值低于[tv]％时，获得[dv]秒无敌效果"
 
 msgid "l_dsc_0136"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0137"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0138"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0139"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0140"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0141"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0142"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0143"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0144"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0145"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0146"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0147"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0148"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0149"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0150"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0151"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0152"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0153"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0154"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0155"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0156"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0157"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0158"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0159"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0160"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0161"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0162"
-msgstr ""
+msgstr "进入超歌姬模式后[dv]秒内，每达到50连击，分数提升[v1]％"
 
 msgid "l_dsc_0163"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0164"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0165"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0166"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0167"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0168"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0169"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0170"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0171"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0172"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0173"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0174"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0175"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0176"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0177"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0178"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0179"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0180"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0181"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0182"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0183"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0184"
-msgstr ""
+msgstr "演出期间，短时技能的加分效果提升[v1]％"
 
 msgid "l_dsc_0185"
-msgstr ""
+msgstr "演出期间，长时技能的加分效果提升[v1]％"
 
 msgid "l_dsc_0186"
-msgstr ""
+msgstr "演出期间，连击分数加成提升[v1]％（仅加强L技能“连击加成”效果）"
 
 msgid "l_dsc_0187"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0188"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0189"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0190"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0191"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0192"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0193"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0194"
-msgstr ""
+msgstr "进入超歌姬模式时发动，到出现GREAT以下判定为止，分数提升[v1]%。仅超歌姬模式期"
+"间有效"
 
 msgid "l_dsc_0195"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0196"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0197"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0198"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0199"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0200"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0201"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0202"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0203"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0204"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0205"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0206"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0207"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0208"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0209"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0210"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0211"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0212"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0213"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0214"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0215"
-msgstr ""
+msgstr "进入超歌姬模式时发动，到出现Good以下判定为止，PERFECT音符分数提升[v1]%。仅超"
+"歌姬模式期间有效"
 
 msgid "l_dsc_0216"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0217"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0218"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv2]秒每秒减少[v1]生命，分数提升[v2]％效果"
 
 msgid "l_dsc_0219"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0220"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0221"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0222"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0223"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0224"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0225"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0226"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0227"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0228"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，获得[dv]秒判定缓和效果，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0229"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0230"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0231"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0232"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0233"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0234"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0235"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0236"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0237"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0238"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0239"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0240"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0241"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0242"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0243"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0244"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0245"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0246"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0247"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，回复[v1]％生命，[dv2]秒内分数提升[v2]％"
 
 msgid "l_dsc_0248"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0249"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0250"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0251"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0252"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0253"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0254"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0255"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0256"
-msgstr ""
+msgstr "进入空战模式时发动，[dv]秒内，Fold波量表最终值每到[v1_1]％，分数提升[v1_2]％"
+"（最高[v1_max]％）"
 
 msgid "l_dsc_0257"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内，当前队伍中的歌姬亲密度每到[v1_1]，分数提升[v1"
+"_2]％"
 
 msgid "l_dsc_0258"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0259"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0260"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0261"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0262"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0263"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0264"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0265"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0266"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0267"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0268"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0269"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0270"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0271"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0272"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0273"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0274"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0275"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0276"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0277"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0278"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0279"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0280"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0281"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0282"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0283"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0284"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0285"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0286"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0287"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv]秒内分数提升[v1]％"
 
 msgid "l_dsc_0288"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "l_dsc_0289"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0290"
-msgstr ""
+msgstr "演出开始后每过[tv]秒，获得[dv]秒分数提升[v1]％效果"
 
 msgid "l_dsc_0291"
-msgstr ""
+msgstr "演出开始[tv]秒后发动，[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "cs_nm_0001"
-msgstr ""
+msgstr "生命提升{0}%"
 
 msgid "cs_nm_0002"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_nm_0003"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_nm_0004"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_nm_0005"
-msgstr ""
+msgstr "星属性提升{0}%"
 
 msgid "cs_nm_0006"
-msgstr ""
+msgstr "爱属性提升{0}%"
 
 msgid "cs_nm_0007"
-msgstr ""
+msgstr "命属性提升{0}%"
 
 msgid "cs_nm_0008"
-msgstr ""
+msgstr "Fold波提升{0}%"
 
 msgid "cs_nm_0009"
-msgstr ""
+msgstr "辅助提升{0}％"
 
 msgid "cs_nm_0010"
-msgstr ""
+msgstr "全数值提升{0}%"
 
 msgid "cs_nm_0011"
-msgstr ""
+msgstr "TOTAL提升{0}％"
 
 msgid "cs_nm_0012"
-msgstr ""
+msgstr "歌魂、歌声提升{0}%"
 
 msgid "cs_nm_0013"
-msgstr ""
+msgstr "歌魂、歌魅提升{0}%"
 
 msgid "cs_nm_0014"
-msgstr ""
+msgstr "歌声、歌魅提升{0}%"
 
 msgid "cs_nm_0015"
-msgstr ""
+msgstr "Fold波提升{0}%"
 
 msgid "cs_nm_0016"
-msgstr ""
+msgstr "TOTAL、生命提升{0}%"
 
 msgid "cs_nm_0017"
-msgstr ""
+msgstr "TOTAL、辅助提升{0}%"
 
 msgid "cs_nm_0018"
-msgstr ""
+msgstr "歌魅、生命提升{0}%"
 
 msgid "cs_nm_0019"
-msgstr ""
+msgstr "歌声、生命提升{0}%"
 
 msgid "cs_nm_0020"
-msgstr ""
+msgstr "歌魂、生命提升{0}%"
 
 msgid "cs_nm_0021"
-msgstr ""
+msgstr "TOTAL提升{0}%"
 
 msgid "cs_nm_0022"
-msgstr ""
+msgstr "星属性提升{0}%"
 
 msgid "cs_nm_0023"
-msgstr ""
+msgstr "爱属性提升{0}%"
 
 msgid "cs_nm_0024"
-msgstr ""
+msgstr "命属性提升{0}%"
 
 msgid "cs_nm_0025"
-msgstr ""
+msgstr "TOTAL提升{0}%"
 
 msgid "cs_nm_0026"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_nm_0027"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_nm_0028"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_nm_0029"
-msgstr ""
+msgstr "星属性提升{0}%"
 
 msgid "cs_nm_0030"
-msgstr ""
+msgstr "爱属性提升{0}%"
 
 msgid "cs_nm_0031"
-msgstr ""
+msgstr "命属性提升{0}%"
 
 msgid "cs_nm_0032"
-msgstr ""
+msgstr "歌姬自身的TOTAL值提升{0}%"
 
 msgid "cs_nm_0033"
-msgstr ""
+msgstr "歌魂、歌声提升{0}%"
 
 msgid "cs_nm_0034"
-msgstr ""
+msgstr "歌魂、歌魅提升{0}%"
 
 msgid "cs_nm_0035"
-msgstr ""
+msgstr "歌声、歌魅提升{0}%"
 
 msgid "cs_nm_0036"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_nm_0037"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_nm_0038"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_nm_0039"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_nm_0040"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_nm_0041"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_dsc_0001"
-msgstr ""
+msgstr "生命提升{0}%"
 
 msgid "cs_dsc_0002"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_dsc_0003"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_dsc_0004"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_dsc_0005"
 msgstr ""
+"星属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0006"
 msgstr ""
+"爱属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0007"
 msgstr ""
+"命属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0008"
-msgstr ""
+msgstr "Fold波提升{0}%"
 
 msgid "cs_dsc_0009"
-msgstr ""
+msgstr "辅助提升{0}％"
 
 msgid "cs_dsc_0010"
-msgstr ""
+msgstr "全数值提升{0}%"
 
 msgid "cs_dsc_0011"
-msgstr ""
+msgstr "TOTAL提升{0}%"
 
 msgid "cs_dsc_0012"
-msgstr ""
+msgstr "歌魂、歌声提升{0}%"
 
 msgid "cs_dsc_0013"
-msgstr ""
+msgstr "歌魂、歌魅提升{0}%"
 
 msgid "cs_dsc_0014"
-msgstr ""
+msgstr "歌声、歌魅提升{0}%"
 
 msgid "cs_dsc_0015"
-msgstr ""
+msgstr "Fold波提升{0}%"
 
 msgid "cs_dsc_0016"
-msgstr ""
+msgstr "TOTAL、生命提升{0}%"
 
 msgid "cs_dsc_0017"
-msgstr ""
+msgstr "TOTAL、辅助提升{0}%"
 
 msgid "cs_dsc_0018"
-msgstr ""
+msgstr "歌魅、生命提升{0}%"
 
 msgid "cs_dsc_0019"
-msgstr ""
+msgstr "歌声、生命提升{0}%"
 
 msgid "cs_dsc_0020"
-msgstr ""
+msgstr "歌魂、生命提升{0}%"
 
 msgid "cs_dsc_0021"
-msgstr ""
+msgstr "TOTAL提升{0}％"
 
 msgid "cs_dsc_0022"
 msgstr ""
+"星属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0023"
 msgstr ""
+"爱属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0024"
 msgstr ""
+"命属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0025"
-msgstr ""
+msgstr "TOTAL提升{0}％"
 
 msgid "cs_dsc_0026"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_dsc_0027"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_dsc_0028"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_dsc_0029"
 msgstr ""
+"星属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0030"
 msgstr ""
+"爱属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0031"
 msgstr ""
+"命属性卡\n"
+"全数值提升{0}%"
 
 msgid "cs_dsc_0032"
-msgstr ""
+msgstr "歌姬自身的TOTAL值提升{0}%"
 
 msgid "cs_dsc_0033"
-msgstr ""
+msgstr "歌魂、歌声提升{0}%"
 
 msgid "cs_dsc_0034"
-msgstr ""
+msgstr "歌魂、歌魅提升{0}%"
 
 msgid "cs_dsc_0035"
-msgstr ""
+msgstr "歌声、歌魅提升{0}%"
 
 msgid "cs_dsc_0036"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_dsc_0037"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_dsc_0038"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "cs_dsc_0039"
-msgstr ""
+msgstr "歌魂提升{0}%"
 
 msgid "cs_dsc_0040"
-msgstr ""
+msgstr "歌声提升{0}%"
 
 msgid "cs_dsc_0041"
-msgstr ""
+msgstr "歌魅提升{0}%"
 
 msgid "el_nm_0001"
 msgstr ""
+"受到毁灭之歌的影响，演出中途生命值将会减少！\n"
+"用生命回复技能来对抗吧！"
 
 msgid "el_nm_0002"
 msgstr ""
+"受到毁灭之歌的影响，超歌姬模式下击打判定区域\n"
+"将会缩小！用判定缓和技能来对抗吧！"
 
 msgid "el_nm_0003"
 msgstr ""
+"受到毁灭之歌的影响，错过音符时受到的\n"
+"伤害将会加倍。用伤害减免技能来对抗吧！"
 
 msgid "el_nm_0004"
-msgstr ""
+msgstr "受到毁灭之歌的影响，本次演出中的敌人已被强化！尽可能提升辅助值来在空战模式中"
+"取得胜利吧！"
 
 msgid "el_nm_0005"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌魅下降10%，歌声提升10%"
 
 msgid "el_nm_0006"
 msgstr ""
+"受到毁灭之歌的影响，超歌姬模式下判定区域\n"
+"将会缩小！用判定缓和技能来对抗吧！"
 
 msgid "el_nm_0007"
 msgstr ""
+"受到毁灭之歌的影响，击打判定区域将会缩小！\n"
+"用判定缓和技能来对抗吧！1帧"
 
 msgid "el_nm_0008"
 msgstr ""
+"受到毁灭之歌的影响，空战模式下击打判定区域\n"
+"将会缩小！提升辅助值和使用判定缓和技能来对抗吧！"
 
 msgid "el_nm_0009"
 msgstr ""
+"受到毁灭之歌的影响，敌人的生命值已增加！\n"
+"提升辅助值来与之对抗吧！"
 
 msgid "ec_nm_0001"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌魅下降20%，歌声提升20%"
 
 msgid "ec_nm_0002"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌声下降30%，歌魅提升30%"
 
 msgid "ec_nm_0003"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌魅下降30%，歌魂提升30%"
 
 msgid "ec_nm_0004"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌魂下降30%，歌魅提升30%"
 
 msgid "ec_nm_0005"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌声下降30%，歌魂提升30%"
 
 msgid "ec_nm_0006"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌魅下降30%，歌声提升30%"
 
 msgid "ec_nm_0007"
 msgstr ""
+"受到毁灭之歌的影响，本次演出中\n"
+"歌魂下降30%，歌声提升30%"
 
 msgid "ec_nm_0008"
-msgstr ""
+msgstr "敌方中心技能 008"
 
 msgid "ec_nm_0009"
-msgstr ""
+msgstr "敌方中心技能 009"
 
 msgid "ec_nm_0010"
-msgstr ""
+msgstr "敌方中心技能 010"
 
 msgid "ec_nm_0011"
-msgstr ""
+msgstr "敌方中心技能 011"
 
 msgid "ec_nm_0012"
-msgstr ""
+msgstr "敌方中心技能 012"
 
 msgid "ec_nm_0013"
-msgstr ""
+msgstr "敌方中心技能 013"
 
 msgid "ec_nm_0014"
-msgstr ""
+msgstr "敌方中心技能 014"
 
 msgid "ec_nm_0015"
-msgstr ""
+msgstr "敌方中心技能 015"
 
 msgid "ec_nm_0016"
-msgstr ""
+msgstr "敌方中心技能 016"
 
 msgid "ec_nm_0017"
-msgstr ""
+msgstr "敌方中心技能 017"
 
 msgid "ec_nm_0018"
-msgstr ""
+msgstr "敌方中心技能 018"
 
 msgid "ec_nm_0019"
-msgstr ""
+msgstr "敌方中心技能 019"
 
 msgid "ec_nm_0020"
-msgstr ""
+msgstr "敌方中心技能 020"
 
 msgid "ec_nm_0021"
-msgstr ""
+msgstr "敌方中心技能 021"
 
 msgid "fc_nm_0001"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0002"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0003"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0004"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0005"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0006"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0007"
-msgstr ""
+msgstr "TOTAL提升"
 
 msgid "fc_nm_0008"
-msgstr ""
+msgstr "TOTAL+援助值提升"
 
 msgid "fc_nm_0009"
-msgstr ""
+msgstr "TOTAL+生命提升"
 
 msgid "fc_nm_0010"
-msgstr ""
+msgstr "星属性卡提升"
 
 msgid "fc_nm_0011"
-msgstr ""
+msgstr "星属性歌曲TOTAL提升"
 
 msgid "fc_nm_0012"
-msgstr ""
+msgstr "爱属性卡提升"
 
 msgid "fc_nm_0013"
 msgstr ""
