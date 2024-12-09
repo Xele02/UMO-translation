@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-06 02:38+0000\n"
+"PO-Revision-Date: 2024-12-09 11:48+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -572,7 +572,7 @@ msgid "config_text_70"
 msgstr "演出中EXCELLENT字样的显示。"
 
 msgid "config_text_71"
-msgstr "关闭后，演出中EXCELLENT效果发生时将显示为PERFECT。"
+msgstr "关闭后，演出中出现EXCELLENT判定时将显示为PERFECT。"
 
 msgid "config_text_72"
 msgstr "歌姬模式"
@@ -2347,7 +2347,7 @@ msgid "result_playlog_hint_001"
 msgstr "以进入空战模式为目标，尽量选择Fold波值较高的卡片进行搭配吧！"
 
 msgid "result_playlog_hint_002"
-msgstr "以进入歌姬和超歌姬模式为目标，尽量选择援助值较高的卡片进行搭配吧！"
+msgstr "以进入歌姬和超歌姬模式为目标，尽量选择辅助值较高的卡片进行搭配吧！"
 
 msgid "result_playlog_hint_003"
 msgstr "MISS和BAD出现较多。勤加练习提高技巧吧！"
@@ -2374,7 +2374,7 @@ msgid "result_playlog_hint_010"
 msgstr "在空战模式下保持4连击以上来对敌人造成伤害。"
 
 msgid "result_playlog_hint_011"
-msgstr "以进入超歌姬模式为目标，尽量选择援助值较高的卡片进行搭配吧！"
+msgstr "以进入超歌姬模式为目标，尽量选择辅助值较高的卡片进行搭配吧！"
 
 msgid "result_playlog_hint_012"
 msgstr "重新搭配主动技能来提高分数吧。"
@@ -2726,7 +2726,7 @@ msgid "story_diva_tilte_02"
 msgstr "“于你而言，唱歌是怎样的感觉？”"
 
 msgid "story_diva_tilte_03"
-msgstr "“在危险之中也要尽情享受！”"
+msgstr "“哪怕献上生命也要乐在其中！”"
 
 msgid "story_diva_tilte_04"
 msgstr "“无论如何也要一起唱歌！”"
@@ -2952,14 +2952,13 @@ msgstr ""
 "PERFECT变为<color=#C8087E>EXCELLENT</color>的概率+<color=#C8087E>{0}</color>%"
 "\n"
 "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{ma}</color>%\n"
-"卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{sa}</color>"
-"%"
+"卡片和歌曲属于<color=#C8087E>同系列</color>时再+<color=#C8087E>{sa}</color>%"
 
 msgid "limit_over_excellent_rate_04"
 msgstr "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_excellent_rate_05"
-msgstr "卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{0}</color>%"
+msgstr "卡片和歌曲属于<color=#C8087E>同系列</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_excellent_effect_01"
 msgstr "<color=#C8087E>EXCELLENT</color>出现时分数+<color=#C8087E>{0}</color>%"
@@ -2986,14 +2985,13 @@ msgstr ""
 "<color=#C8087E>中心演出技能音符</color>的出现概率+<color=#C8087E>{0}</color>%"
 "\n"
 "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{ma}</color>%\n"
-"卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{sa}</color>"
-"%"
+"卡片和歌曲属于<color=#C8087E>同系列</color>时再+<color=#C8087E>{sa}</color>%"
 
 msgid "limit_over_center_live_skill_04"
 msgstr "卡片和歌曲为<color=#C8087E>同属性</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_center_live_skill_05"
-msgstr "卡片和歌曲属于<color=#C8087E>同一作品</color>时再+<color=#C8087E>{0}</color>%"
+msgstr "卡片和歌曲属于<color=#C8087E>同系列</color>时再+<color=#C8087E>{0}</color>%"
 
 msgid "limit_over_unlock_01"
 msgstr "【解放条件】幸运值{0}以上"
@@ -5550,7 +5548,7 @@ msgstr ""
 "\n"
 
 msgid "pop_compatible_series_title"
-msgstr "中心技能指定作品"
+msgstr "中心技能指定系列"
 
 msgid "pop_compatible_series_desc"
 msgstr ""
@@ -6034,7 +6032,7 @@ msgstr "不适用于抽卡界面。"
 msgid "liveskillregulation_except"
 msgstr ""
 "非指定\n"
-"作品"
+"系列"
 
 msgid "liveskillregulation_popup_title"
 msgstr "演出技能指定歌曲"
@@ -6321,7 +6319,7 @@ msgid "popup_sort_item_luck"
 msgstr "幸运"
 
 msgid "popup_sort_item_support"
-msgstr "援助"
+msgstr "辅助"
 
 msgid "popup_sort_item_fold"
 msgstr "Fold波"
@@ -6336,7 +6334,7 @@ msgid "popup_sort_item_scoreup_notes"
 msgstr "高得分音符"
 
 msgid "popup_sort_item_support_notes"
-msgstr "援助音符"
+msgstr "辅助音符"
 
 msgid "popup_sort_item_fold_notes"
 msgstr "Fold波音符"
@@ -6414,7 +6412,7 @@ msgid "popup_filter_mainep_title_h2"
 msgstr "解放状况"
 
 msgid "popup_filter_series_title_h2"
-msgstr "作品"
+msgstr "歌曲系列"
 
 msgid "popup_filter_diva_val_title_h2"
 msgstr "歌姬/战机"
@@ -7197,10 +7195,10 @@ msgid "unit_unitset_dummy_name"
 msgstr "编队{0}"
 
 msgid "unit_status_skill_regulation_series_y"
-msgstr "由于作品符合条件，将不会发动此技能效果。"
+msgstr "由于歌曲系列符合条件，将不会发动此技能效果。"
 
 msgid "unit_status_skill_regulation_series_n"
-msgstr "由于作品不符合条件，将不会发动此技能效果。"
+msgstr "由于歌曲系列不符合条件，将不会发动此技能效果。"
 
 msgid "unit_status_skill_regulation_attr"
 msgstr "歌曲属性不符合条件，无法发动。"
@@ -7260,7 +7258,7 @@ msgid "unit_diva_status_leaf_attr"
 msgstr "属性相符+{0}%"
 
 msgid "unit_diva_status_leaf_series"
-msgstr "作品相符+{0}%"
+msgstr "歌曲系列相符+{0}%"
 
 msgid "unit_setpopup_text_08"
 msgstr "覆盖前"
@@ -7272,7 +7270,7 @@ msgid "popup_sort_musicselect_sortitem_title_h2"
 msgstr "排序方式"
 
 msgid "popup_sort_item_default"
-msgstr "作品"
+msgstr "歌曲系列"
 
 msgid "popup_sort_item_musiclevel"
 msgstr "歌曲等级"
@@ -7384,7 +7382,7 @@ msgstr ""
 
 msgid "music_not_exist_line6_text_01"
 msgstr ""
-"此作品下没有可以游玩的\n"
+"此系列下没有可以游玩的\n"
 "6轨道模式歌曲。"
 
 msgid "vertical_music_select_event_remain_time"
