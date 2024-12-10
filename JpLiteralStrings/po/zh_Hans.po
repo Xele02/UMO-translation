@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-11-20 03:28+0000\n"
+"PO-Revision-Date: 2024-12-10 06:37+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "StringLiteral_367"
-msgstr ""
+msgstr " "
 
 msgid "StringLiteral_1374"
 msgstr "年"
@@ -30,37 +30,37 @@ msgid "StringLiteral_5812"
 msgstr "\n"
 
 msgid "StringLiteral_8278"
-msgstr ""
+msgstr "已完成初始化进程。若要重新进行初始化，需终止运行。"
 
 msgid "StringLiteral_8280"
 msgstr "初始化失败。"
 
 msgid "StringLiteral_8676"
-msgstr ""
+msgstr "初始稀有度为★3以下的卡片，幸运草数量不为0"
 
 msgid "StringLiteral_8686"
-msgstr ""
+msgstr "无"
 
 msgid "StringLiteral_9360"
-msgstr ""
+msgstr "大厅主页"
 
 msgid "StringLiteral_9362"
-msgstr ""
+msgstr "大厅战斗记录"
 
 msgid "StringLiteral_9364"
-msgstr ""
+msgstr "战队大厅攻略"
 
 msgid "StringLiteral_9366"
-msgstr ""
+msgstr "房间聊天"
 
 msgid "StringLiteral_9368"
-msgstr ""
+msgstr "协力任务"
 
 msgid "StringLiteral_9370"
-msgstr ""
+msgstr "未知类型"
 
 msgid "StringLiteral_9477"
-msgstr ""
+msgstr "BOSS名"
 
 msgid "StringLiteral_9528"
 msgstr ""
