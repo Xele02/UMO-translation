@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-10 06:37+0000\n"
+"PO-Revision-Date: 2024-12-11 08:15+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -3634,142 +3634,168 @@ msgid "diva_s_04"
 msgstr "玛基娜"
 
 msgid "diva_s_05"
-msgstr ""
+msgstr "蕾娜"
 
 msgid "diva_s_06"
-msgstr ""
+msgstr "兰卡"
 
 msgid "diva_s_07"
-msgstr ""
+msgstr "雪莉露"
 
 msgid "diva_s_08"
-msgstr ""
+msgstr "米莲"
 
 msgid "diva_s_09"
-msgstr ""
+msgstr "巴萨拉"
 
 msgid "diva_s_10"
-msgstr ""
+msgstr "明美"
 
 msgid "cs_i_nm_0001"
-msgstr ""
+msgstr "衣装石（小）"
 
 msgid "cs_i_nm_0002"
-msgstr ""
+msgstr "衣装石（中）"
 
 msgid "cs_i_nm_0003"
-msgstr ""
+msgstr "衣装石（大）"
 
 msgid "cs_i_nm_0004"
-msgstr ""
+msgstr "卡哇哇玩偶（芙蕾雅）"
 
 msgid "cs_i_nm_0005"
-msgstr ""
+msgstr "卡哇哇玩偶（美云）"
 
 msgid "cs_i_nm_0006"
-msgstr ""
+msgstr "卡哇哇玩偶（要）"
 
 msgid "cs_i_nm_0007"
-msgstr ""
+msgstr "卡哇哇玩偶（玛基娜）"
 
 msgid "cs_i_nm_0008"
-msgstr ""
+msgstr "卡哇哇玩偶（蕾娜）"
 
 msgid "cs_i_nm_0009"
-msgstr ""
+msgstr "卡哇哇玩偶（兰卡）"
 
 msgid "cs_i_nm_0010"
-msgstr ""
+msgstr "卡哇哇玩偶（雪莉露）"
 
 msgid "cs_i_nm_0011"
-msgstr ""
+msgstr "卡哇哇玩偶（米莲）"
 
 msgid "cs_i_nm_0012"
-msgstr ""
+msgstr "卡哇哇玩偶（巴萨拉）"
 
 msgid "cs_i_nm_0013"
-msgstr ""
+msgstr "卡哇哇玩偶（明美）"
 
 msgid "cs_i_dsc_0001"
 msgstr ""
+"用于小幅度强化服装的材料。\n"
+"<color=#C8087E>※可通过战机派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0002"
 msgstr ""
+"用于强化服装的材料。\n"
+"<color=#C8087E>※可通过战机派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0003"
 msgstr ""
+"用于大幅强化服装的材料。\n"
+"<color=#C8087E>※可通过战机派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0004"
 msgstr ""
+"用于解放芙蕾雅服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过芙蕾雅的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0005"
 msgstr ""
+"用于解放美云服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过美云的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0006"
 msgstr ""
+"用于解放要服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过要的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0007"
 msgstr ""
+"用于解放玛基娜服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过玛基娜的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0008"
 msgstr ""
+"用于解放蕾娜服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过蕾娜的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0009"
 msgstr ""
+"用于解放兰卡服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过兰卡的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0010"
 msgstr ""
+"用于解放雪莉露服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过雪莉露的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0011"
 msgstr ""
+"用于解放米莲服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过米莲的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0012"
 msgstr ""
+"用于解放巴萨拉服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过巴萨拉的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_0013"
 msgstr ""
+"用于解放明美服装卡娃娃等级★4的材料。\n"
+"<color=#C8087E>※可通过明美的歌姬派遣任务等途径获取。</color>"
 
 msgid "cs_i_dsc_short_0001"
-msgstr ""
+msgstr "用于小幅度强化服装的材料。"
 
 msgid "cs_i_dsc_short_0002"
-msgstr ""
+msgstr "用于强化服装的材料。"
 
 msgid "cs_i_dsc_short_0003"
-msgstr ""
+msgstr "用于大幅强化服装的材料。"
 
 msgid "cos_0001"
-msgstr ""
+msgstr "女武神制服"
 
 msgid "cos_0002"
-msgstr ""
+msgstr "绽放之光"
 
 msgid "cos_0003"
-msgstr ""
+msgstr "小红帽"
 
 msgid "cos_0004"
-msgstr ""
+msgstr "蓝花"
 
 msgid "cos_0005"
-msgstr ""
+msgstr "和式风格"
 
 msgid "cos_0006"
-msgstr ""
+msgstr "突进"
 
 msgid "cos_0007"
-msgstr ""
+msgstr "可爱水母"
 
 msgid "cos_0008"
-msgstr ""
+msgstr "初恋"
 
 msgid "cos_0009"
-msgstr ""
+msgstr "共鸣"
 
 msgid "cos_0010"
 msgstr ""
 
 msgid "cos_0011"
-msgstr ""
+msgstr "石榴芳华"
 
 msgid "cos_0012"
 msgstr ""
@@ -7820,69 +7846,75 @@ msgstr ""
 
 msgid "cos_unlock_0001"
 msgstr ""
+"持有卡哇哇等级{0}以上的服装{1}套\n"
+"现在的持有量 ({2}/{1})"
 
 msgid "cos_unlock_0002"
 msgstr ""
+"将消耗以下道具。\n"
+"{0}×{1}"
 
 msgid "cos_unlock_0003"
 msgstr ""
+"{2}的亲密度达到{0}级\n"
+"现在的亲密度等级({1}/{0})"
 
 msgid "cos_reward_0001"
-msgstr ""
+msgstr "服装效果"
 
 msgid "cos_reward_0004"
-msgstr ""
+msgstr "获得异色版服装"
 
 msgid "cos_reward_0005"
-msgstr ""
+msgstr "数值提升"
 
 msgid "cos_reward_0006"
-msgstr ""
+msgstr "解锁支援卡片"
 
 msgid "cos_reward_status_0001"
-msgstr ""
+msgstr "歌魂"
 
 msgid "cos_reward_status_0002"
-msgstr ""
+msgstr "歌声"
 
 msgid "cos_reward_status_0003"
-msgstr ""
+msgstr "歌魅"
 
 msgid "cos_reward_status_0004"
-msgstr ""
+msgstr "生命"
 
 msgid "cos_reward_status_0005"
-msgstr ""
+msgstr "辅助"
 
 msgid "cos_reward_status_0006"
-msgstr ""
+msgstr "Fold波"
 
 msgid "cos_subplate_attr_0001"
-msgstr ""
+msgstr "星属性"
 
 msgid "cos_subplate_attr_0002"
-msgstr ""
+msgstr "爱属性"
 
 msgid "cos_subplate_attr_0003"
-msgstr ""
+msgstr "命属性"
 
 msgid "cos_subplate_status_0001"
-msgstr ""
+msgstr "歌魂"
 
 msgid "cos_subplate_status_0002"
-msgstr ""
+msgstr "歌声"
 
 msgid "cos_subplate_status_0003"
-msgstr ""
+msgstr "歌魅"
 
 msgid "vn_0001"
-msgstr ""
+msgstr "VF-31J"
 
 msgid "vn_0002"
-msgstr ""
+msgstr "VF-25F"
 
 msgid "vn_0003"
-msgstr ""
+msgstr "VF-19改"
 
 msgid "vn_0004"
 msgstr ""
@@ -7936,13 +7968,13 @@ msgid "vn_0022"
 msgstr ""
 
 msgid "vn_0024"
-msgstr ""
+msgstr "VF-11MAXL改"
 
 msgid "vn_0026"
 msgstr ""
 
 msgid "vn_0027"
-msgstr ""
+msgstr "VF-25F（歌姬）"
 
 msgid "vn_0028"
 msgstr ""
@@ -7960,7 +7992,7 @@ msgid "vn_0032"
 msgstr ""
 
 msgid "vn_0033"
-msgstr ""
+msgstr "VF-19改 S.N-01"
 
 msgid "vn_0034"
 msgstr ""
@@ -8059,187 +8091,187 @@ msgid "vn_0066"
 msgstr ""
 
 msgid "v_pn_0001"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0002"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0003"
-msgstr ""
+msgstr "火焰女武神"
 
 msgid "v_pn_0004"
-msgstr ""
+msgstr "女武神"
 
 msgid "v_pn_0005"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0006"
-msgstr ""
+msgstr "罗伊·福卡专用机"
 
 msgid "v_pn_0007"
-msgstr ""
+msgstr "女武神"
 
 msgid "v_pn_0008"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0009"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0011"
-msgstr ""
+msgstr "路西法"
 
 msgid "v_pn_0012"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0013"
-msgstr ""
+msgstr "杜兰德尔"
 
 msgid "v_pn_0014"
-msgstr ""
+msgstr "龙Ⅲ"
 
 msgid "v_pn_0015"
-msgstr ""
+msgstr "龙Ⅲ"
 
 msgid "v_pn_0017"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0018"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0019"
-msgstr ""
+msgstr "龙Ⅲ"
 
 msgid "v_pn_0020"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0021"
-msgstr ""
+msgstr "梦魇"
 
 msgid "v_pn_0022"
-msgstr ""
+msgstr "女武神"
 
 msgid "v_pn_0024"
-msgstr ""
+msgstr "米莲专用机"
 
 msgid "v_pn_0026"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0027"
-msgstr ""
+msgstr "歌姬涂装ver"
 
 msgid "v_pn_0028"
-msgstr ""
+msgstr "杜兰德尔"
 
 msgid "v_pn_0029"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0030"
-msgstr ""
+msgstr "龙Ⅲ"
 
 msgid "v_pn_0031"
-msgstr ""
+msgstr "王者之剑"
 
 msgid "v_pn_0032"
-msgstr ""
+msgstr "雨燕"
 
 msgid "v_pn_0033"
-msgstr ""
+msgstr "雪莉露FB7ver"
 
 msgid "v_pn_0034"
-msgstr ""
+msgstr "龙Ⅲ"
 
 msgid "v_pn_0035"
-msgstr ""
+msgstr "玛基娜涂装ver"
 
 msgid "v_pn_0037"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0038"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0039"
-msgstr ""
+msgstr "龙III"
 
 msgid "v_pn_0040"
-msgstr ""
+msgstr "Crossover"
 
 msgid "v_pn_0041"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0042"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0043"
-msgstr ""
+msgstr "芙蕾雅涂装ver"
 
 msgid "v_pn_0044"
-msgstr ""
+msgstr "要涂装ver"
 
 msgid "v_pn_0045"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0046"
-msgstr ""
+msgstr "王者之剑"
 
 msgid "v_pn_0047"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0048"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0049"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0050"
-msgstr ""
+msgstr "齐格飞"
 
 msgid "v_pn_0051"
-msgstr ""
+msgstr "勇专用机"
 
 msgid "v_pn_0052"
-msgstr ""
+msgstr "芙蕾雅涂装"
 
 msgid "v_pn_0053"
-msgstr ""
+msgstr "女武神"
 
 msgid "v_pn_0054"
-msgstr ""
+msgstr "梦魇"
 
 msgid "v_pn_0055"
-msgstr ""
+msgstr "路西法"
 
 msgid "v_pn_0056"
-msgstr ""
+msgstr "要涂装"
 
 msgid "v_pn_0057"
-msgstr ""
+msgstr "梦魇Plus EX"
 
 msgid "v_pn_0058"
-msgstr ""
+msgstr "Virgin Road"
 
 msgid "v_pn_0059"
-msgstr ""
+msgstr "行星Zola巡逻队样式"
 
 msgid "v_pn_0060"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0061"
-msgstr ""
+msgstr "雨燕Ⅱ"
 
 msgid "v_pn_0062"
-msgstr ""
+msgstr "弥赛亚"
 
 msgid "v_pn_0063"
-msgstr ""
+msgstr "龙Ⅲ"
 
 msgid "v_pn_0064"
-msgstr ""
+msgstr "女武神"
 
 msgid "v_pn_0065"
-msgstr ""
+msgstr "美云涂装ver"
 
 msgid "v_pn_0066"
-msgstr ""
+msgstr "卡伊洛斯Plus"
 
 msgid "v_dsc_0001"
 msgstr ""
@@ -8425,118 +8457,118 @@ msgid "v_dsc_0066"
 msgstr ""
 
 msgid "vff_nm_0001"
-msgstr ""
+msgstr "VF-31J （疾风机）"
 
 msgid "vff_nm_0002"
-msgstr ""
+msgstr "VF-25F（阿尔特机）"
 
 msgid "vff_nm_0003"
-msgstr ""
+msgstr "VF-19改 （巴萨拉机）"
 
 msgid "vff_nm_0004"
-msgstr ""
+msgstr "VF-1J（辉机）"
 
 msgid "vff_nm_0005"
-msgstr ""
+msgstr "VF-31E（查克机）"
 
 msgid "vff_nm_0006"
-msgstr ""
+msgstr "VF-1S（辉机）"
 
 msgid "vff_nm_0007"
-msgstr ""
+msgstr "VF-1J（麦克斯机）"
 
 msgid "vff_nm_0008"
-msgstr ""
+msgstr "VF-31F（梅萨机）"
 
 msgid "vff_nm_0009"
-msgstr ""
+msgstr "VF-31C（米拉洁机）"
 
 msgid "vff_nm_0011"
-msgstr ""
+msgstr "VF-27γ（布雷拉机）"
 
 msgid "vff_nm_0012"
-msgstr ""
+msgstr "VF-31S（阿拉德机）"
 
 msgid "vff_nm_0013"
-msgstr ""
+msgstr "YF-29（阿尔特机）"
 
 msgid "vff_nm_0014"
-msgstr ""
+msgstr "Sv-262Hs（基斯机）"
 
 msgid "vff_nm_0015"
-msgstr ""
+msgstr "Sv-262Ba（博格机）"
 
 msgid "vff_nm_0017"
-msgstr ""
+msgstr "RVF-25（卢卡机）"
 
 msgid "vff_nm_0018"
-msgstr ""
+msgstr "VF-25S（奥兹玛机）"
 
 msgid "vff_nm_0019"
-msgstr ""
+msgstr "Sv-262Hs（罗伊德机）"
 
 msgid "vff_nm_0020"
-msgstr ""
+msgstr "VF-25G（米歇尔机）"
 
 msgid "vff_nm_0021"
-msgstr ""
+msgstr "VF-17D（卡姆林机）"
 
 msgid "vff_nm_0022"
-msgstr ""
+msgstr "VF-1J（米莉亚机）"
 
 msgid "vff_nm_0024"
-msgstr ""
+msgstr "VF-11MAXL改（米莲机）"
 
 msgid "vff_nm_0026"
-msgstr ""
+msgstr "VF-25A（S.M.S队员机）"
 
 msgid "vff_nm_0027"
-msgstr ""
+msgstr "VF-25F（歌姫）（阿尔特机）"
 
 msgid "vff_nm_0028"
-msgstr ""
+msgstr "YF-29 SP（阿尔特机）"
 
 msgid "vff_nm_0029"
-msgstr ""
+msgstr "VF-31J 35th（疾风机）"
 
 msgid "vff_nm_0030"
-msgstr ""
+msgstr "Sv-262Ba（米拉洁机）"
 
 msgid "vff_nm_0031"
-msgstr ""
+msgstr "YF-19（勇机）"
 
 msgid "vff_nm_0032"
-msgstr ""
+msgstr "YF-21（加鲁特机）"
 
 msgid "vff_nm_0033"
-msgstr ""
+msgstr "VF-19改 S.N-01（巴萨拉机）"
 
 msgid "vff_nm_0034"
-msgstr ""
+msgstr "Sv-262Ba w/L（博格机）"
 
 msgid "vff_nm_0035"
-msgstr ""
+msgstr "VF-31C（玛基娜涂装）"
 
 msgid "vff_nm_0037"
-msgstr ""
+msgstr "VF-25G SP（米歇尔机）"
 
 msgid "vff_nm_0038"
-msgstr ""
+msgstr "VF-25F SP（阿尔特机）"
 
 msgid "vff_nm_0039"
-msgstr ""
+msgstr "Sv-262Hs w/L（基斯机）"
 
 msgid "vff_nm_0040"
-msgstr ""
+msgstr "VF-1J C.O-19（辉机）"
 
 msgid "vff_nm_0041"
-msgstr ""
+msgstr "VF-31J SP（疾风机）"
 
 msgid "vff_nm_0042"
-msgstr ""
+msgstr "VF-25S SP（奥兹玛机）"
 
 msgid "vff_nm_0043"
-msgstr ""
+msgstr "VF-31J（芙蕾雅涂装）"
 
 msgid "vff_nm_0044"
 msgstr ""
