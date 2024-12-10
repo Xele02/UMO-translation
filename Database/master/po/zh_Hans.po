@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-09 11:48+0000\n"
+"PO-Revision-Date: 2024-12-10 06:37+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -3116,442 +3116,522 @@ msgid "fc_nm_0012"
 msgstr "爱属性卡提升"
 
 msgid "fc_nm_0013"
-msgstr ""
+msgstr "爱属性歌曲TOTAL提升"
 
 msgid "fc_nm_0014"
-msgstr ""
+msgstr "命属性卡提升"
 
 msgid "fc_nm_0015"
-msgstr ""
+msgstr "命属性歌曲TOTAL提升"
 
 msgid "fc_nm_0016"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0017"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0018"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0019"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0020"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0021"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0022"
-msgstr ""
+msgstr "歌魅提升"
 
 msgid "fc_nm_0023"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0024"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0025"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0026"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0027"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0028"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0029"
-msgstr ""
+msgstr "歌魂提升"
 
 msgid "fc_nm_0030"
-msgstr ""
+msgstr "歌魂、歌魅提升"
 
 msgid "fc_nm_0031"
-msgstr ""
+msgstr "歌魂、歌声提升"
 
 msgid "fc_nm_0032"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0033"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0034"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0035"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0036"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0037"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0038"
-msgstr ""
+msgstr "歌声提升"
 
 msgid "fc_nm_0039"
-msgstr ""
+msgstr "歌声、歌魅提升"
 
 msgid "fc_nm_0040"
-msgstr ""
+msgstr "生命提升"
 
 msgid "fc_nm_0041"
-msgstr ""
+msgstr "生命提升+辅助提升"
 
 msgid "fc_nm_0042"
-msgstr ""
+msgstr "辅助提升"
 
 msgid "fc_nm_0043"
-msgstr ""
+msgstr "Fold波提升"
 
 msgid "fa_nm_0001"
-msgstr ""
+msgstr "生命回复"
 
 msgid "fa_nm_0002"
-msgstr ""
+msgstr "分数提升"
 
 msgid "fa_nm_0003"
-msgstr ""
+msgstr "无敌"
 
 msgid "fa_nm_0004"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "fa_nm_0005"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "fa_nm_0006"
-msgstr ""
+msgstr "连击持续"
 
 msgid "fa_nm_0008"
-msgstr ""
+msgstr "连击加成"
 
 msgid "fl_nm_0001"
-msgstr ""
+msgstr "分数提升"
 
 msgid "fl_nm_0002"
-msgstr ""
+msgstr "分数提升"
 
 msgid "fl_nm_0003"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "fl_nm_0004"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "fl_nm_0005"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "fl_nm_0006"
-msgstr ""
+msgstr "分数提升EX"
 
 msgid "fl_nm_0007"
-msgstr ""
+msgstr "长时加分技能强化"
 
 msgid "fl_nm_0008"
-msgstr ""
+msgstr "短时加分技能强化"
 
 msgid "fl_nm_0009"
-msgstr ""
+msgstr "超歌姬模式分数提升"
 
 msgid "fl_nm_0010"
-msgstr ""
+msgstr "Fold波分数提升"
 
 msgid "fl_nm_0011"
-msgstr ""
+msgstr "重复加分"
 
 msgid "fl_nm_0012"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "fl_nm_0013"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "fl_nm_0014"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "fl_nm_0015"
-msgstr ""
+msgstr "重复加分EX"
 
 msgid "fl_nm_0016"
-msgstr ""
+msgstr "歌姬重复加分"
 
 msgid "fl_nm_0017"
-msgstr ""
+msgstr "重复加分&生命减少"
 
 msgid "fl_nm_0018"
-msgstr ""
+msgstr "分数提升＆生命减少"
 
 msgid "fl_nm_0019"
-msgstr ""
+msgstr "歌姬分数提升&生命减少"
 
 msgid "fl_nm_0020"
-msgstr ""
+msgstr "生命回复"
 
 msgid "fl_nm_0021"
-msgstr ""
+msgstr "生命回复+分数提升"
 
 msgid "fl_nm_0022"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "fl_nm_0023"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "fl_nm_0024"
-msgstr ""
+msgstr "判定缓和"
 
 msgid "fl_nm_0025"
-msgstr ""
+msgstr "判定缓和+分数提升"
 
 msgid "fl_nm_0026"
-msgstr ""
+msgstr "判定缓和+重复加分"
 
 msgid "fl_nm_0027"
-msgstr ""
+msgstr "连击持续"
 
 msgid "fl_nm_0028"
-msgstr ""
+msgstr "连击持续"
 
 msgid "fl_nm_0029"
-msgstr ""
+msgstr "连击加成+分数提升"
 
 msgid "fl_nm_0030"
-msgstr ""
+msgstr "连击加成"
 
 msgid "fl_nm_0031"
-msgstr ""
+msgstr "无敌"
 
 msgid "fl_nm_0032"
-msgstr ""
+msgstr "无敌"
 
 msgid "fl_nm_0033"
-msgstr ""
+msgstr "无敌+分数提升"
 
 msgid "fl_nm_0034"
-msgstr ""
+msgstr "伤害减免"
 
 msgid "fl_nm_0035"
-msgstr ""
+msgstr "伤害减免+分数提升"
 
 msgid "fl_nm_0036"
-msgstr ""
+msgstr "亲密度分数提升"
 
 msgid "fl_nm_0037"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "fl_nm_0038"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "fl_nm_0039"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "fl_nm_0040"
-msgstr ""
+msgstr "分数提升&生命减少EX"
 
 msgid "gn_0001"
-msgstr ""
+msgstr "旋律之石（小）"
 
 msgid "gn_0002"
-msgstr ""
+msgstr "旋律之石（中）"
 
 msgid "gn_0003"
-msgstr ""
+msgstr "旋律之石（大）"
 
 msgid "gn_0004"
-msgstr ""
+msgstr "生命之石（小）"
 
 msgid "gn_0005"
-msgstr ""
+msgstr "生命之石（中）"
 
 msgid "gn_0006"
-msgstr ""
+msgstr "生命之石（大）"
 
 msgid "gn_0007"
-msgstr ""
+msgstr "歌魂之石（小）"
 
 msgid "gn_0008"
-msgstr ""
+msgstr "歌魂之石（中）"
 
 msgid "gn_0009"
-msgstr ""
+msgstr "歌魂之石（大）"
 
 msgid "gn_0010"
-msgstr ""
+msgstr "歌声之石（小）"
 
 msgid "gn_0011"
-msgstr ""
+msgstr "歌声之石（中）"
 
 msgid "gn_0012"
-msgstr ""
+msgstr "歌声之石（大）"
 
 msgid "gn_0013"
-msgstr ""
+msgstr "歌魅之石（小）"
 
 msgid "gn_0014"
-msgstr ""
+msgstr "歌魅之石（中）"
 
 msgid "gn_0015"
-msgstr ""
+msgstr "歌魅之石（大）"
 
 msgid "gn_0016"
-msgstr ""
+msgstr "命之结晶（小）"
 
 msgid "gn_0017"
-msgstr ""
+msgstr "命之结晶（中）"
 
 msgid "gn_0018"
-msgstr ""
+msgstr "命之结晶（大）"
 
 msgid "gn_0019"
-msgstr ""
+msgstr "爱之结晶（小）"
 
 msgid "gn_0020"
-msgstr ""
+msgstr "爱之结晶（中）"
 
 msgid "gn_0021"
-msgstr ""
+msgstr "爱之结晶（大）"
 
 msgid "gn_0022"
-msgstr ""
+msgstr "星之结晶（小）"
 
 msgid "gn_0023"
-msgstr ""
+msgstr "星之结晶（中）"
 
 msgid "gn_0024"
-msgstr ""
+msgstr "星之结晶（大）"
 
 msgid "gn_0025"
-msgstr ""
+msgstr "幸运辉石"
 
 msgid "gn_0026"
-msgstr ""
+msgstr "幸运煌石"
 
 msgid "gn_0027"
-msgstr ""
+msgstr "秘密之石"
 
 msgid "gn_dsc_0001"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许旋律之力。\n"
+"<color=#C8087E>※可通过【周日、一旋律之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0002"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着旋律之力。\n"
+"<color=#C8087E>※可通过【周日、一旋律之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0003"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的旋律之力。\n"
+"<color=#C8087E>※可通过【周日、一旋律之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0004"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许生命之力。\n"
+"<color=#C8087E>※可通过【周四、六生命之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0005"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着生命之力。\n"
+"<color=#C8087E>※可通过【周四、六生命之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0006"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的生命之力。\n"
+"<color=#C8087E>※可通过【周四、六生命之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0007"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许歌魂之力。\n"
+"<color=#C8087E>※可通过【周五、日歌魂之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0008"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着歌魂之力。\n"
+"<color=#C8087E>※可通过【周五、日歌魂之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0009"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的歌魂之力。\n"
+"<color=#C8087E>※可通过【周五、日歌魂之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0010"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许歌声之力。\n"
+"<color=#C8087E>※可通过【周三、日歌声之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0011"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着歌声之力。\n"
+"<color=#C8087E>※可通过【周三、日歌声之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0012"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的歌声之力。\n"
+"<color=#C8087E>※可通过【周三、日歌声之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0013"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许歌魅之力。\n"
+"<color=#C8087E>※可通过【周二、六歌魅之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0014"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着歌魅之力。\n"
+"<color=#C8087E>※可通过【周二、六歌魅之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0015"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的歌魅之力。\n"
+"<color=#C8087E>※可通过【周二、六歌魅之石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0016"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许命之力。\n"
+"<color=#C8087E>※可通过游玩命属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0017"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着命之力。\n"
+"<color=#C8087E>※可通过游玩命属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0018"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的命之力。\n"
+"<color=#C8087E>※可通过游玩命属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0019"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许爱之力。\n"
+"<color=#C8087E>※可通过游玩爱属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0020"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着爱之力。\n"
+"<color=#C8087E>※可通过游玩爱属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0021"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的爱之力。\n"
+"<color=#C8087E>※可通过游玩爱属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0022"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着些许星之力。\n"
+"<color=#C8087E>※可通过游玩星属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0023"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着星之力。\n"
+"<color=#C8087E>※可通过游玩星属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0024"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"其中蕴含着丰富的星之力。\n"
+"<color=#C8087E>※可通过游玩星属性歌曲等途径获取。</color>"
 
 msgid "gn_dsc_0025"
 msgstr ""
+"用于解放幸运草能力\n"
+"的稀有材料。\n"
+"<color=#8e0529>※可用于★5（稀有度提升后）卡片</color>"
 
 msgid "gn_dsc_0026"
 msgstr ""
+"用于解放幸运草能力\n"
+"的稀有材料。\n"
+"<color=#8e0529>※可用于★6、★7（稀有度提升后）卡片</color>"
 
 msgid "gn_dsc_0027"
 msgstr ""
+"用于在【能力解放】中解锁卡片秘密板块的材料\n"
+"<color=#8e0529>※可用于★5、★6（稀有度提升后）卡片</color>"
 
 msgid "diva_01"
-msgstr ""
+msgstr "芙蕾雅·薇恩"
 
 msgid "diva_02"
-msgstr ""
+msgstr "美云·金努梅尔"
 
 msgid "diva_03"
-msgstr ""
+msgstr "要·巴卡妮雅"
 
 msgid "diva_04"
-msgstr ""
+msgstr "玛基娜·中岛"
 
 msgid "diva_05"
-msgstr ""
+msgstr "蕾娜·普劳拉"
 
 msgid "diva_06"
-msgstr ""
+msgstr "兰卡·李"
 
 msgid "diva_07"
-msgstr ""
+msgstr "雪莉露·诺姆"
 
 msgid "diva_08"
-msgstr ""
+msgstr "米莲·吉纳斯"
 
 msgid "diva_09"
-msgstr ""
+msgstr "热气巴萨拉"
 
 msgid "diva_10"
-msgstr ""
+msgstr "林明美"
 
 msgid "diva_s_01"
-msgstr ""
+msgstr "芙蕾雅"
 
 msgid "diva_s_02"
-msgstr ""
+msgstr "美云"
 
 msgid "diva_s_03"
-msgstr ""
+msgstr "要"
 
 msgid "diva_s_04"
-msgstr ""
+msgstr "玛基娜"
 
 msgid "diva_s_05"
 msgstr ""
