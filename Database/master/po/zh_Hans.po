@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-11 08:15+0000\n"
+"PO-Revision-Date: 2024-12-12 02:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -3774,28 +3774,28 @@ msgid "cos_0003"
 msgstr "小红帽"
 
 msgid "cos_0004"
-msgstr "蓝花"
+msgstr ""
 
 msgid "cos_0005"
-msgstr "和式风格"
+msgstr ""
 
 msgid "cos_0006"
-msgstr "突进"
+msgstr ""
 
 msgid "cos_0007"
-msgstr "可爱水母"
+msgstr ""
 
 msgid "cos_0008"
-msgstr "初恋"
+msgstr "情窦初开"
 
 msgid "cos_0009"
-msgstr "共鸣"
+msgstr ""
 
 msgid "cos_0010"
 msgstr ""
 
 msgid "cos_0011"
-msgstr "石榴芳华"
+msgstr "榴红芳华"
 
 msgid "cos_0012"
 msgstr ""
@@ -8571,73 +8571,73 @@ msgid "vff_nm_0043"
 msgstr "VF-31J（芙蕾雅涂装）"
 
 msgid "vff_nm_0044"
-msgstr ""
+msgstr "VF-31F（要涂装）"
 
 msgid "vff_nm_0045"
-msgstr ""
+msgstr "VF-25F TP（阿尔特机）"
 
 msgid "vff_nm_0046"
-msgstr ""
+msgstr "YF-19 K-40（勇机）"
 
 msgid "vff_nm_0047"
-msgstr ""
+msgstr "VF-31C SP（米拉洁机）"
 
 msgid "vff_nm_0048"
-msgstr ""
+msgstr "VF-31S SP（阿拉德机）"
 
 msgid "vff_nm_0049"
-msgstr ""
+msgstr "VF-25G TP（米歇尔机）"
 
 msgid "vff_nm_0050"
-msgstr ""
+msgstr "VF-31E SP（查克机）"
 
 msgid "vff_nm_0051"
-msgstr ""
+msgstr "VF-19EF/A（勇机）"
 
 msgid "vff_nm_0052"
-msgstr ""
+msgstr "VF-31J F.W-02（疾风机）"
 
 msgid "vff_nm_0053"
-msgstr ""
+msgstr "VF-1D（辉机）"
 
 msgid "vff_nm_0054"
-msgstr ""
+msgstr "VF-17S（卡姆林机）"
 
 msgid "vff_nm_0055"
-msgstr ""
+msgstr "VF-27γ SP（布雷拉机）"
 
 msgid "vff_nm_0056"
-msgstr ""
+msgstr "VF-31F K.B-02（梅萨机）"
 
 msgid "vff_nm_0057"
-msgstr ""
+msgstr "VF-171EX（阿尔特机）"
 
 msgid "vff_nm_0058"
-msgstr ""
+msgstr "VF-1D（麦克斯&米莉亚机）"
 
 msgid "vff_nm_0059"
-msgstr ""
+msgstr "VF-19P（巴萨拉机）"
 
 msgid "vff_nm_0060"
-msgstr ""
+msgstr "VF-25S AP（奥兹玛机）"
 
 msgid "vff_nm_0061"
-msgstr ""
+msgstr "VF-22S（卡姆林机）"
 
 msgid "vff_nm_0062"
-msgstr ""
+msgstr "RVF-25 SP（卢卡机）"
 
 msgid "vff_nm_0063"
-msgstr ""
+msgstr "Sv-262Ba（提奥机）"
 
 msgid "vff_nm_0064"
-msgstr ""
+msgstr "VF-1A（麦克斯机）"
 
 msgid "vff_nm_0065"
-msgstr ""
+msgstr "VF-31S（美云涂装）"
 
 msgid "vff_nm_0066"
-msgstr ""
+msgstr "VF-31AX（疾风机）"
 
 msgid "vff_dsc_0001"
 msgstr ""
@@ -8823,7 +8823,7 @@ msgid "vff_dsc_0066"
 msgstr ""
 
 msgid "em_nm_0001"
-msgstr ""
+msgstr "无"
 
 msgid "em_nm_0002"
 msgstr ""
@@ -20166,292 +20166,300 @@ msgid "ep_dsc_0405"
 msgstr ""
 
 msgid "ep_i_nm_0001"
-msgstr ""
+msgstr "回忆宝珠（小）"
 
 msgid "ep_i_nm_0002"
-msgstr ""
+msgstr "回忆宝珠（中）"
 
 msgid "ep_i_nm_0003"
-msgstr ""
+msgstr "回忆宝珠（大）"
 
 msgid "ep_i_dsc_0001"
-msgstr ""
+msgstr "<size=22>用于小幅推进回忆片段解放进度的材料。</size>"
 
 msgid "ep_i_dsc_0002"
-msgstr ""
+msgstr "<size=22>用于推进回忆片段解放进度的材料。</size>"
 
 msgid "ep_i_dsc_0003"
-msgstr ""
+msgstr "<size=22>用于大幅推进回忆片段解放进度的材料。</size>"
 
 msgid "plt_nm_0001"
-msgstr ""
+msgstr "一条辉"
 
 msgid "plt_nm_0002"
 msgstr ""
 
 msgid "plt_nm_0003"
-msgstr ""
+msgstr "早乙女阿尔特"
 
 msgid "plt_nm_0004"
-msgstr ""
+msgstr "疾风·因梅尔曼"
 
 msgid "plt_nm_0005"
-msgstr ""
+msgstr "米拉洁·F·吉纳斯"
 
 msgid "plt_nm_0006"
-msgstr ""
+msgstr "梅萨·伊勒费尔德"
 
 msgid "plt_nm_0007"
-msgstr ""
+msgstr "阿拉德·梅塔斯"
 
 msgid "plt_nm_0008"
-msgstr ""
+msgstr "查克·马斯坦格"
 
 msgid "plt_nm_0009"
-msgstr ""
+msgstr "米海尔·布朗"
 
 msgid "plt_nm_0010"
-msgstr ""
+msgstr "奥兹玛·李"
 
 msgid "plt_nm_0011"
-msgstr ""
+msgstr "布雷拉·斯特恩"
 
 msgid "plt_nm_0012"
-msgstr ""
+msgstr "米莲·吉纳斯"
 
 msgid "plt_nm_0013"
-msgstr ""
+msgstr "罗伊·福卡"
 
 msgid "plt_nm_0014"
-msgstr ""
+msgstr "麦克斯米利安·吉纳斯"
 
 msgid "plt_nm_0015"
-msgstr ""
+msgstr "早乙女阿尔特"
 
 msgid "plt_nm_0016"
-msgstr ""
+msgstr "卡姆林·木崎"
 
 msgid "plt_nm_0017"
-msgstr ""
+msgstr "米莉亚·法莉娜"
 
 msgid "plt_nm_0018"
-msgstr ""
+msgstr "<size=16>基斯·耶阿罗·温德米尔</size>"
 
 msgid "plt_nm_0019"
-msgstr ""
+msgstr "罗伊德·布雷姆"
 
 msgid "plt_nm_0020"
-msgstr ""
+msgstr "博格·康瓦尔特"
 
 msgid "plt_nm_0021"
-msgstr ""
+msgstr "卢卡·安杰洛 "
 
 msgid "plt_nm_0022"
-msgstr ""
+msgstr "S.M.S队员"
 
 msgid "plt_nm_0023"
-msgstr ""
+msgstr "勇·戴逊"
 
 msgid "plt_nm_0024"
-msgstr ""
+msgstr "加鲁特·加奥·保曼"
 
 msgid "plt_nm_0025"
-msgstr ""
+msgstr "米拉洁·F·吉纳斯"
 
 msgid "plt_nm_0026"
-msgstr ""
+msgstr "山椒鱼"
 
 msgid "plt_nm_0027"
-msgstr ""
+msgstr "一条辉"
 
 msgid "plt_nm_0028"
-msgstr ""
+msgstr "勇·戴逊"
 
 msgid "plt_nm_0029"
-msgstr ""
+msgstr "一条辉"
 
 msgid "plt_nm_0030"
-msgstr ""
+msgstr "布雷拉·斯特恩"
 
 msgid "plt_nm_0031"
-msgstr ""
+msgstr "早乙女阿尔特"
 
 msgid "plt_nm_0032"
-msgstr ""
+msgstr "麦克斯&米莉亚"
 
 msgid "plt_nm_0033"
-msgstr ""
+msgstr "热气巴萨拉"
 
 msgid "plt_nm_0034"
-msgstr ""
+msgstr "卡姆林·木崎"
 
 msgid "plt_nm_0035"
-msgstr ""
+msgstr "提奥·约兹拉"
 
 msgid "plt_nm_0036"
-msgstr ""
+msgstr "扎奥·约兹拉"
 
 msgid "plt_nm_0037"
-msgstr ""
+msgstr "卡西姆·艾伯哈特"
 
 msgid "plt_nm_0038"
-msgstr ""
+msgstr "海尔曼·克罗斯"
 
 msgid "plt_nm_0039"
-msgstr ""
+msgstr "疾风·因梅尔曼"
 
 msgid "vc_0001"
-msgstr ""
+msgstr "歌晶石"
 
 msgid "vc_0002"
-msgstr ""
+msgstr "Deculture奖券"
 
 msgid "vc_0003"
-msgstr ""
+msgstr "联盟货币"
 
 msgid "vc_0004"
-msgstr ""
+msgstr "月卡补签"
 
 msgid "vc_0005"
-msgstr ""
+msgstr "背景"
 
 msgid "vc_0006"
-msgstr ""
+msgstr "角色"
 
 msgid "vc_0007"
-msgstr ""
+msgstr "短语"
 
 msgid "vc_0008"
-msgstr ""
+msgstr "表情"
 
 msgid "vc_0009"
-msgstr ""
+msgstr "飞机模型"
 
 msgid "vc_0010"
-msgstr ""
+msgstr "服装模特架"
 
 msgid "vc_dsc_0001"
 msgstr ""
+"具有抽卡、回复体力等\n"
+"用途的道具。"
 
 msgid "vc_dsc_0002"
 msgstr ""
+"可代替歌晶石进行抽卡的奖券。\n"
+"<color=#C8087E>※只能在部分卡池中使用。</color>"
 
 msgid "vc_dsc_0003"
 msgstr ""
+"具有解放卡片能力等\n"
+"用途的货币。"
 
 msgid "vc_dsc_0004"
-msgstr ""
+msgstr "可用于月卡补签的道具。"
 
 msgid "vc_dsc_0005"
-msgstr ""
+msgstr "房间模式中墙壁、地板的背景"
 
 msgid "vc_dsc_0006"
-msgstr ""
+msgstr "可在房间及聊天表情中使用的角色"
 
 msgid "vc_dsc_0007"
 msgstr ""
+"可在房间及聊天表情中使用的短语\n"
+"（{0}）"
 
 msgid "vc_dsc_0008"
-msgstr ""
+msgstr "可在聊天中使用的表情"
 
 msgid "vc_dsc_0009"
-msgstr ""
+msgstr "战机的模型。"
 
 msgid "vc_dsc_0010"
-msgstr ""
+msgstr "套上服装的模特架。"
 
 msgid "vc_uni_0000"
-msgstr ""
+msgstr "颗"
 
 msgid "vc_uni_0001"
-msgstr ""
+msgstr "颗"
 
 msgid "vc_uni_0002"
-msgstr ""
+msgstr "张"
 
 msgid "vc_uni_0003"
-msgstr ""
+msgstr "UC"
 
 msgid "vc_uni_0004"
-msgstr ""
+msgstr "天"
 
 msgid "vc_uni_0005"
-msgstr ""
+msgstr "套"
 
 msgid "vc_uni_0006"
-msgstr ""
+msgstr "个"
 
 msgid "vc_uni_0007"
-msgstr ""
+msgstr "条"
 
 msgid "vc_uni_0008"
-msgstr ""
+msgstr "个"
 
 msgid "vc_uni_0009"
-msgstr ""
+msgstr "个"
 
 msgid "vc_uni_0010"
-msgstr ""
+msgstr "个"
 
 msgid "df_00"
-msgstr ""
+msgstr "EASY"
 
 msgid "df_01"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "df_02"
-msgstr ""
+msgstr "HARD"
 
 msgid "df_03"
-msgstr ""
+msgstr "VERY HARD"
 
 msgid "df_04"
-msgstr ""
+msgstr "EXTREAM"
 
 msgid "rn_0000"
-msgstr ""
+msgstr "未定义"
 
 msgid "rn_0001"
-msgstr ""
+msgstr "SNS联络群"
 
 msgid "rn_0002"
-msgstr ""
+msgstr "所有人的聊天群"
 
 msgid "rn_0003"
-msgstr ""
+msgstr "纪念日聊天群"
 
 msgid "rn_0004"
-msgstr ""
+msgstr "芙蕾雅的聊天室"
 
 msgid "rn_0005"
-msgstr ""
+msgstr "美云的聊天室"
 
 msgid "rn_0006"
-msgstr ""
+msgstr "要的聊天室"
 
 msgid "rn_0007"
-msgstr ""
+msgstr "玛基娜的聊天室"
 
 msgid "rn_0008"
-msgstr ""
+msgstr "蕾娜的聊天室"
 
 msgid "rn_0009"
-msgstr ""
+msgstr "兰卡的聊天室"
 
 msgid "rn_0010"
-msgstr ""
+msgstr "雪莉露的聊天室"
 
 msgid "rn_0011"
-msgstr ""
+msgstr "米莲的聊天室"
 
 msgid "rn_0012"
-msgstr ""
+msgstr "巴萨拉的聊天室"
 
 msgid "rn_0013"
-msgstr ""
+msgstr "明美的聊天室"
 
 msgid "rn_0014"
-msgstr ""
+msgstr "超时空维纳斯 女武神"
 
 msgid "rn_0015"
 msgstr ""
@@ -20889,34 +20897,43 @@ msgid "rn_0159"
 msgstr ""
 
 msgid "et_nm_0001"
-msgstr ""
+msgstr "超时空LIVE门票"
 
 msgid "et_nm_0002"
-msgstr ""
+msgstr "超时空LIVE门票"
 
 msgid "et_nm_0003"
-msgstr ""
+msgstr "超时空LIVE门票"
 
 msgid "et_nm_0004"
-msgstr ""
+msgstr "应援棒"
 
 msgid "et_nm_0005"
-msgstr ""
+msgstr "应援棒"
 
 msgid "et_nm_0006"
-msgstr ""
+msgstr "应援棒"
 
 msgid "et_dsc_0001"
 msgstr ""
+"游玩活动歌曲所需的道具。\n"
+"<color=#8e0529>※将在活动结束后销毁。</color>"
 
 msgid "et_dsc_0002"
 msgstr ""
+"游玩活动歌曲所需的道具。\n"
+"<color=#8e0529>※将在活动结束后销毁。</color>"
 
 msgid "et_dsc_0003"
 msgstr ""
+"游玩活动歌曲所需的道具。\n"
+"<color=#8e0529>※将在活动结束后销毁。</color>"
 
 msgid "et_dsc_0004"
 msgstr ""
+"用于在演出中为歌姬应援的道具。\n"
+"使用后演出的热情值将会上升一段时间。\n"
+"<color=#8e0529>※将在活动结束后销毁。</color>"
 
 msgid "et_dsc_0005"
 msgstr ""
