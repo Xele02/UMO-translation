@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-12 02:28+0000\n"
+"PO-Revision-Date: 2024-12-13 03:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -3350,49 +3350,49 @@ msgid "fl_nm_0040"
 msgstr "分数提升&生命减少EX"
 
 msgid "gn_0001"
-msgstr "旋律之石（小）"
+msgstr "旋律晶石（小）"
 
 msgid "gn_0002"
-msgstr "旋律之石（中）"
+msgstr "旋律晶石（中）"
 
 msgid "gn_0003"
-msgstr "旋律之石（大）"
+msgstr "旋律晶石（大）"
 
 msgid "gn_0004"
-msgstr "生命之石（小）"
+msgstr "生命晶石（小）"
 
 msgid "gn_0005"
-msgstr "生命之石（中）"
+msgstr "生命晶石（中）"
 
 msgid "gn_0006"
-msgstr "生命之石（大）"
+msgstr "生命晶石（大）"
 
 msgid "gn_0007"
-msgstr "歌魂之石（小）"
+msgstr "歌魂晶石（小）"
 
 msgid "gn_0008"
-msgstr "歌魂之石（中）"
+msgstr "歌魂晶石（中）"
 
 msgid "gn_0009"
-msgstr "歌魂之石（大）"
+msgstr "歌魂晶石（大）"
 
 msgid "gn_0010"
-msgstr "歌声之石（小）"
+msgstr "歌声晶石（小）"
 
 msgid "gn_0011"
-msgstr "歌声之石（中）"
+msgstr "歌声晶石（中）"
 
 msgid "gn_0012"
-msgstr "歌声之石（大）"
+msgstr "歌声晶石（大）"
 
 msgid "gn_0013"
-msgstr "歌魅之石（小）"
+msgstr "歌魅晶石（小）"
 
 msgid "gn_0014"
-msgstr "歌魅之石（中）"
+msgstr "歌魅晶石（中）"
 
 msgid "gn_0015"
-msgstr "歌魅之石（大）"
+msgstr "歌魅晶石（大）"
 
 msgid "gn_0016"
 msgstr "命之结晶（小）"
@@ -3428,97 +3428,97 @@ msgid "gn_0026"
 msgstr "幸运煌石"
 
 msgid "gn_0027"
-msgstr "秘密之石"
+msgstr "秘密水晶"
 
 msgid "gn_dsc_0001"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着些许旋律之力。\n"
-"<color=#C8087E>※可通过【周日、一旋律之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周日、一旋律晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0002"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着旋律之力。\n"
-"<color=#C8087E>※可通过【周日、一旋律之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周日、一旋律晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0003"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着丰富的旋律之力。\n"
-"<color=#C8087E>※可通过【周日、一旋律之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周日、一旋律晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0004"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着些许生命之力。\n"
-"<color=#C8087E>※可通过【周四、六生命之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周四、六生命晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0005"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着生命之力。\n"
-"<color=#C8087E>※可通过【周四、六生命之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周四、六生命晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0006"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着丰富的生命之力。\n"
-"<color=#C8087E>※可通过【周四、六生命之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周四、六生命晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0007"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着些许歌魂之力。\n"
-"<color=#C8087E>※可通过【周五、日歌魂之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周五、日歌魂晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0008"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着歌魂之力。\n"
-"<color=#C8087E>※可通过【周五、日歌魂之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周五、日歌魂晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0009"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着丰富的歌魂之力。\n"
-"<color=#C8087E>※可通过【周五、日歌魂之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周五、日歌魂晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0010"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着些许歌声之力。\n"
-"<color=#C8087E>※可通过【周三、日歌声之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周三、日歌声晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0011"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着歌声之力。\n"
-"<color=#C8087E>※可通过【周三、日歌声之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周三、日歌声晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0012"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着丰富的歌声之力。\n"
-"<color=#C8087E>※可通过【周三、日歌声之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周三、日歌声晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0013"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着些许歌魅之力。\n"
-"<color=#C8087E>※可通过【周二、六歌魅之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周二、六歌魅晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0014"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着歌魅之力。\n"
-"<color=#C8087E>※可通过【周二、六歌魅之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周二、六歌魅晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0015"
 msgstr ""
 "用于解放卡片能力的材料。\n"
 "其中蕴含着丰富的歌魅之力。\n"
-"<color=#C8087E>※可通过【周二、六歌魅之石掉落活动】等途径获取。</color>"
+"<color=#C8087E>※可通过【周二、六歌魅晶石掉落活动】等途径获取。</color>"
 
 msgid "gn_dsc_0016"
 msgstr ""
@@ -3765,7 +3765,7 @@ msgid "cs_i_dsc_short_0003"
 msgstr "用于大幅强化服装的材料。"
 
 msgid "cos_0001"
-msgstr "女武神制服"
+msgstr "Walküre制服"
 
 msgid "cos_0002"
 msgstr "绽放之光"
@@ -20459,7 +20459,7 @@ msgid "rn_0013"
 msgstr "明美的聊天室"
 
 msgid "rn_0014"
-msgstr "超时空维纳斯 女武神"
+msgstr "超时空维纳斯 Walküre"
 
 msgid "rn_0015"
 msgstr ""
@@ -20933,883 +20933,1004 @@ msgid "et_dsc_0004"
 msgstr ""
 "用于在演出中为歌姬应援的道具。\n"
 "使用后演出的热情值将会上升一段时间。\n"
-"<color=#8e0529>※将在活动结束后销毁。</color>"
+"<color=#8e0529>※将在活动结束后消失。</color>"
 
 msgid "et_dsc_0005"
 msgstr ""
+"用于在演出中为歌姬应援的道具。\n"
+"使用后演出的热情值将会上升一段时间。\n"
+"<color=#8e0529>※将在活动结束后消失。</color>"
 
 msgid "et_dsc_0006"
 msgstr ""
+"用于在演出中为歌姬应援的道具。\n"
+"使用后演出的热情值将会上升一段时间。\n"
+"<color=#8e0529>※将在活动结束后消失。</color>"
 
 msgid "cmp_nm_0001"
-msgstr ""
+msgstr "晶石（小）套装"
 
 msgid "cmp_nm_0002"
-msgstr ""
+msgstr "晶石（中）套装"
 
 msgid "cmp_nm_0003"
-msgstr ""
+msgstr "晶石（大）套装"
 
 msgid "cmp_nm_0004"
-msgstr ""
+msgstr "结晶（小）套装"
 
 msgid "cmp_nm_0005"
-msgstr ""
+msgstr "结晶（中）套装"
 
 msgid "cmp_nm_0006"
-msgstr ""
+msgstr "结晶（大）套装"
 
 msgid "cmp_nm_0007"
-msgstr ""
+msgstr "成长素材套装（铜）"
 
 msgid "cmp_nm_0008"
-msgstr ""
+msgstr "成长素材套装（银）"
 
 msgid "cmp_nm_0009"
-msgstr ""
+msgstr "成长素材套装（金）"
 
 msgid "cmp_nm_0010"
-msgstr ""
+msgstr "成长素材套装（彩）"
 
 msgid "cmp_nm_0011"
-msgstr ""
+msgstr "全晶石套装"
 
 msgid "cmp_nm_0012"
-msgstr ""
+msgstr "全结晶套装"
 
 msgid "cmp_dsc_0001"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的晶石（小）。"
 
 msgid "cmp_dsc_0002"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的晶石（中）。"
 
 msgid "cmp_dsc_0003"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的晶石（大）。"
 
 msgid "cmp_dsc_0004"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的结晶（小）。"
 
 msgid "cmp_dsc_0005"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的结晶（中）。"
 
 msgid "cmp_dsc_0006"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的结晶（大）。"
 
 msgid "cmp_dsc_0007"
-msgstr ""
+msgstr "解放材料和UC的套装，可通过超时空登录奖励获取。"
 
 msgid "cmp_dsc_0008"
-msgstr ""
+msgstr "解放材料和UC的套装，可通过超时空登录奖励获取。"
 
 msgid "cmp_dsc_0009"
-msgstr ""
+msgstr "解放材料和UC的套装，可通过超时空登录奖励获取。"
 
 msgid "cmp_dsc_0010"
-msgstr ""
+msgstr "解放材料和UC的套装，可通过超时空登录奖励获取。"
 
 msgid "cmp_dsc_0011"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的晶石（小）（中）（大）。"
 
 msgid "cmp_dsc_0012"
 msgstr ""
+"用于解放卡片能力的材料。\n"
+"此套装包含所有种类的结晶（小）（中）（大）。"
 
 msgid "evn_0001"
-msgstr ""
+msgstr "记忆碎片"
 
 msgid "evn_0002"
-msgstr ""
+msgstr "遥远记忆碎片"
 
 msgid "evn_0003"
-msgstr ""
+msgstr "远古记忆碎片"
 
 msgid "evn_0004"
-msgstr ""
+msgstr "魔法歌声宝石"
 
 msgid "evn_0005"
-msgstr ""
+msgstr "闪亮的魔法歌声宝石"
 
 msgid "evn_0006"
-msgstr ""
+msgstr "耀眼的魔法歌声宝石"
 
 msgid "evn_0007"
-msgstr ""
+msgstr "被啃过的银河苹果"
 
 msgid "evn_0008"
-msgstr ""
+msgstr "普通的银河苹果"
 
 msgid "evn_0009"
-msgstr ""
+msgstr "诱人的银河苹果"
 
 msgid "evdsc_0001"
-msgstr ""
+msgstr "可兑换些许活动点数的道具。"
 
 msgid "evdsc_0002"
-msgstr ""
+msgstr "可兑换一定活动点数的道具。"
 
 msgid "evdsc_0003"
-msgstr ""
+msgstr "可兑换大量活动点数的道具。"
 
 msgid "evdsc_0004"
-msgstr ""
+msgstr "可兑换些许活动点数的道具。"
 
 msgid "evdsc_0005"
-msgstr ""
+msgstr "可兑换一定活动点数的道具。"
 
 msgid "evdsc_0006"
-msgstr ""
+msgstr "可兑换大量活动点数的道具。"
 
 msgid "evdsc_0007"
-msgstr ""
+msgstr "可兑换些许活动点数的道具。"
 
 msgid "evdsc_0008"
-msgstr ""
+msgstr "可兑换一定活动点数的道具。"
 
 msgid "evdsc_0009"
-msgstr ""
+msgstr "可兑换大量活动点数的道具。"
 
 msgid "eng_nm_0001"
-msgstr ""
+msgstr "能量以太"
 
 msgid "eng_nm_0002"
-msgstr ""
+msgstr "【当天限定】能量以太"
 
 msgid "eng_dsc_0001"
 msgstr ""
+"回复进行演出所需体力的道具。\n"
+"使用后可将体力回满。"
 
 msgid "eng_dsc_0002"
 msgstr ""
+"回复进行演出所需体力的道具。\n"
+"使用后可将体力回满。\n"
+"<color=#8e0529>※将在获得次日0点消失。</color>"
 
 msgid "mvtk_nm_0001"
-msgstr ""
+msgstr "S-LIVE代币"
 
 msgid "mvtk_dsc_0001"
 msgstr ""
+"可播放3D全息投影的设备。\n"
+"是观看模拟演出不可或缺的道具。\n"
+"<color=#C8087E>※模拟演出功能在玩家等级达到10时解锁。</color>"
 
 msgid "mdl_nm_0001"
-msgstr ""
+msgstr "魔羯座奖章"
 
 msgid "mdl_nm_0002"
-msgstr ""
+msgstr "水瓶座奖章"
 
 msgid "mdl_nm_0003"
-msgstr ""
+msgstr "双鱼座奖章"
 
 msgid "mdl_nm_0004"
-msgstr ""
+msgstr "白羊座奖章"
 
 msgid "mdl_nm_0005"
-msgstr ""
+msgstr "金牛座奖章"
 
 msgid "mdl_nm_0006"
-msgstr ""
+msgstr "双子座奖章"
 
 msgid "mdl_nm_0007"
-msgstr ""
+msgstr "巨蟹座奖章"
 
 msgid "mdl_nm_0008"
-msgstr ""
+msgstr "狮子座奖章"
 
 msgid "mdl_nm_0009"
-msgstr ""
+msgstr "处女座奖章"
 
 msgid "mdl_nm_0010"
-msgstr ""
+msgstr "天枰座奖章"
 
 msgid "mdl_nm_0011"
-msgstr ""
+msgstr "天蝎座奖章"
 
 msgid "mdl_nm_0012"
-msgstr ""
+msgstr "射手座奖章"
 
 msgid "mdl_nm_0013"
-msgstr ""
+msgstr "超时空要塞F演出纪念奖券"
 
 msgid "mdl_nm_0015"
-msgstr ""
+msgstr "纪念奖券"
 
 msgid "mdl_nm_0016"
-msgstr ""
+msgstr "超时空贺岁礼"
 
 msgid "mdl_dsc_0001"
 msgstr ""
+"刻有魔羯座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0002"
 msgstr ""
+"刻有水瓶座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0003"
 msgstr ""
+"刻有双鱼座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0004"
 msgstr ""
+"刻有白羊座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0005"
 msgstr ""
+"刻有金牛座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0006"
 msgstr ""
+"刻有双子座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0007"
 msgstr ""
+"刻有巨蟹座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0008"
 msgstr ""
+"刻有狮子白羊座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0009"
 msgstr ""
+"刻有处女座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0010"
 msgstr ""
+"刻有天秤座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0011"
 msgstr ""
+"刻有天蝎座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0012"
 msgstr ""
+"刻有射手座图案的奖章。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0013"
 msgstr ""
+"完成超时空要塞F演出纪念特别任务获得的奖券。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0015"
 msgstr ""
+"蕴藏着许多回忆的奖券。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0530>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "mdl_dsc_0016"
 msgstr ""
+"穿越时空送来的新年贺礼。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0530>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "bvc_nm_0001"
-msgstr ""
+msgstr "春日泪晶"
 
 msgid "bvc_nm_0002"
-msgstr ""
+msgstr "夏日泪晶"
 
 msgid "bvc_nm_0003"
-msgstr ""
+msgstr "秋日泪晶"
 
 msgid "bvc_nm_0004"
-msgstr ""
+msgstr "冬日泪晶"
 
 msgid "bvc_nm_0005"
-msgstr ""
+msgstr "娘娘抽奖☆奖券"
 
 msgid "bvc_nm_0006"
-msgstr ""
+msgstr "必出★5卡池奖券"
 
 msgid "bvc_nm_0007"
-msgstr ""
+msgstr "必出★5卡池奖券"
 
 msgid "bvc_nm_0008"
-msgstr ""
+msgstr "新春SP卡池奖券"
 
 msgid "bvc_nm_0009"
-msgstr ""
+msgstr "前夜祭娘娘抽奖☆奖券"
 
 msgid "bvc_nm_0010"
-msgstr ""
+msgstr "超时空贺岁礼"
 
 msgid "bvc_nm_0011"
-msgstr ""
+msgstr "7月必出★5每日免费卡池奖券"
 
 msgid "bvc_nm_0012"
-msgstr ""
+msgstr "8月必出★5每日免费卡池奖券"
 
 msgid "bvc_nm_0013"
-msgstr ""
+msgstr "9月必出★5每日免费卡池奖券"
 
 msgid "bvc_nm_0015"
-msgstr ""
+msgstr "4周年娘娘抽奖☆奖券"
 
 msgid "bvc_nm_0016"
-msgstr ""
+msgstr "超时空要塞F演出纪念奖券"
 
 msgid "bvc_nm_0017"
-msgstr ""
+msgstr "娘娘抽奖☆奖券"
 
 msgid "bvc_nm_0018"
-msgstr ""
+msgstr "服装解放卡片兑换券"
 
 msgid "bvc_dsc_0001"
 msgstr ""
+"蕴藏着春日记忆的宝石。\n"
+"可在凯厄斯商店兑换为其它道具。"
 
 msgid "bvc_dsc_0002"
 msgstr ""
+"蕴藏着夏日记忆的宝石。\n"
+"可在凯厄斯商店兑换为其它道具。"
 
 msgid "bvc_dsc_0003"
 msgstr ""
+"蕴藏着秋日记忆的宝石。\n"
+"可在凯厄斯商店兑换为其它道具。"
 
 msgid "bvc_dsc_0004"
 msgstr ""
+"蕴藏着冬日记忆的宝石。\n"
+"可在凯厄斯商店兑换为其它道具。"
 
 msgid "bvc_dsc_0005"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "bvc_dsc_0006"
 msgstr ""
+"抽取特殊卡池的专用奖券。\n"
+"可用于抽取必出★5卡池。\n"
+"<color=#8e0529>※将在必出★5卡池关闭后消失。</color>"
 
 msgid "bvc_dsc_0007"
 msgstr ""
+"抽取特殊卡池的专用奖券。\n"
+"可用于抽取必出★5卡池。\n"
+"<color=#8e0529>※将在必出★5卡池关闭后消失。</color>"
 
 msgid "bvc_dsc_0008"
 msgstr ""
+"抽取特殊卡池的专用奖券。\n"
+"可用于抽取新春SP卡池。\n"
+"<color=#8e0529>※将在新春SP卡池关闭后消失。</color>"
 
 msgid "bvc_dsc_0009"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "bvc_dsc_0010"
 msgstr ""
+"穿越时空送来的新年贺礼。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "bvc_dsc_0011"
 msgstr ""
+"抽取特殊卡池的专用奖券。\n"
+"可用于抽取7月必出★5卡池。\n"
+"<color=#8e0529>※将在必出★5卡池关闭后消失。</color>"
 
 msgid "bvc_dsc_0012"
 msgstr ""
+"抽取特殊卡池的专用奖券。\n"
+"可用于抽取8月必出★5卡池。\n"
+"<color=#8e0529>※将在必出★5卡池关闭后消失。</color>"
 
 msgid "bvc_dsc_0013"
 msgstr ""
+"抽取特殊卡池的专用奖券。\n"
+"可用于抽取9月必出★5卡池。\n"
+"<color=#8e0529>※将在必出★5卡池关闭后消失。</color>"
 
 msgid "bvc_dsc_0015"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "bvc_dsc_0016"
 msgstr ""
+"完成超时空要塞F演出纪念特别任务获得的奖券。\n"
+"可在凯厄斯商店兑换为其它道具。\n"
+"<color=#8e0529>※获取期限：YYYY/MM/DD　兑换期限：yyyy/mm/dd</color>"
 
 msgid "bvc_dsc_0017"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "bvc_dsc_0018"
 msgstr ""
+"蕴藏了服装回忆的特别兑换券。\n"
+"可用于在凯厄斯商店兑换服装解放卡片。"
 
 msgid "bvc_qt_0005"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0006"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0007"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0008"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0009"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0010"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0011"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0012"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0013"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0015"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0016"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0017"
-msgstr ""
+msgstr "张"
 
 msgid "bvc_qt_0018"
-msgstr ""
+msgstr "张"
 
 msgid "rat_name_0001"
-msgstr ""
+msgstr "训练兵★1"
 
 msgid "rat_name_0002"
-msgstr ""
+msgstr "训练兵★2"
 
 msgid "rat_name_0003"
-msgstr ""
+msgstr "训练兵★3"
 
 msgid "rat_name_0004"
-msgstr ""
+msgstr "训练兵★4"
 
 msgid "rat_name_0005"
-msgstr ""
+msgstr "训练兵★5"
 
 msgid "rat_name_0006"
-msgstr ""
+msgstr "二等兵★1"
 
 msgid "rat_name_0007"
-msgstr ""
+msgstr "二等兵★2"
 
 msgid "rat_name_0008"
-msgstr ""
+msgstr "二等兵★3"
 
 msgid "rat_name_0009"
-msgstr ""
+msgstr "二等兵★4"
 
 msgid "rat_name_0010"
-msgstr ""
+msgstr "二等兵★5"
 
 msgid "rat_name_0011"
-msgstr ""
+msgstr "一等兵★1"
 
 msgid "rat_name_0012"
-msgstr ""
+msgstr "一等兵★2"
 
 msgid "rat_name_0013"
-msgstr ""
+msgstr "一等兵★3"
 
 msgid "rat_name_0014"
-msgstr ""
+msgstr "一等兵★4"
 
 msgid "rat_name_0015"
-msgstr ""
+msgstr "一等兵★5"
 
 msgid "rat_name_0016"
-msgstr ""
+msgstr "上等兵★1"
 
 msgid "rat_name_0017"
-msgstr ""
+msgstr "上等兵★2"
 
 msgid "rat_name_0018"
-msgstr ""
+msgstr "上等兵★3"
 
 msgid "rat_name_0019"
-msgstr ""
+msgstr "上等兵★4"
 
 msgid "rat_name_0020"
-msgstr ""
+msgstr "上等兵★5"
 
 msgid "rat_name_0021"
-msgstr ""
+msgstr "伍长★1"
 
 msgid "rat_name_0022"
-msgstr ""
+msgstr "伍长★2"
 
 msgid "rat_name_0023"
-msgstr ""
+msgstr "伍长★3"
 
 msgid "rat_name_0024"
-msgstr ""
+msgstr "伍长★4"
 
 msgid "rat_name_0025"
-msgstr ""
+msgstr "伍长★5"
 
 msgid "rat_name_0026"
-msgstr ""
+msgstr "中士★1"
 
 msgid "rat_name_0027"
-msgstr ""
+msgstr "中士★2"
 
 msgid "rat_name_0028"
-msgstr ""
+msgstr "中士★3"
 
 msgid "rat_name_0029"
-msgstr ""
+msgstr "中士★4"
 
 msgid "rat_name_0030"
-msgstr ""
+msgstr "中士★5"
 
 msgid "rat_name_0031"
-msgstr ""
+msgstr "中士★6"
 
 msgid "rat_name_0032"
-msgstr ""
+msgstr "中士★7"
 
 msgid "rat_name_0033"
-msgstr ""
+msgstr "中士★8"
 
 msgid "rat_name_0034"
-msgstr ""
+msgstr "中士★9"
 
 msgid "rat_name_0035"
-msgstr ""
+msgstr "中士★10"
 
 msgid "rat_name_0036"
-msgstr ""
+msgstr "军士长★1"
 
 msgid "rat_name_0037"
-msgstr ""
+msgstr "军士长★2"
 
 msgid "rat_name_0038"
-msgstr ""
+msgstr "军士长★3"
 
 msgid "rat_name_0039"
-msgstr ""
+msgstr "军士长★4"
 
 msgid "rat_name_0040"
-msgstr ""
+msgstr "军士长★5"
 
 msgid "rat_name_0041"
-msgstr ""
+msgstr "军士长★6"
 
 msgid "rat_name_0042"
-msgstr ""
+msgstr "军士长★7"
 
 msgid "rat_name_0043"
-msgstr ""
+msgstr "军士长★8"
 
 msgid "rat_name_0044"
-msgstr ""
+msgstr "军士长★9"
 
 msgid "rat_name_0045"
-msgstr ""
+msgstr "军士长★10"
 
 msgid "rat_name_0046"
-msgstr ""
+msgstr "准尉★1"
 
 msgid "rat_name_0047"
-msgstr ""
+msgstr "准尉★2"
 
 msgid "rat_name_0048"
-msgstr ""
+msgstr "准尉★3"
 
 msgid "rat_name_0049"
-msgstr ""
+msgstr "准尉★4"
 
 msgid "rat_name_0050"
-msgstr ""
+msgstr "准尉★5"
 
 msgid "rat_name_0051"
-msgstr ""
+msgstr "准尉★6"
 
 msgid "rat_name_0052"
-msgstr ""
+msgstr "准尉★7"
 
 msgid "rat_name_0053"
-msgstr ""
+msgstr "准尉★8"
 
 msgid "rat_name_0054"
-msgstr ""
+msgstr "准尉★9"
 
 msgid "rat_name_0055"
-msgstr ""
+msgstr "准尉★10"
 
 msgid "rat_name_0056"
-msgstr ""
+msgstr "少尉★1"
 
 msgid "rat_name_0057"
-msgstr ""
+msgstr "少尉★2"
 
 msgid "rat_name_0058"
-msgstr ""
+msgstr "少尉★3"
 
 msgid "rat_name_0059"
-msgstr ""
+msgstr "少尉★4"
 
 msgid "rat_name_0060"
-msgstr ""
+msgstr "少尉★5"
 
 msgid "rat_name_0061"
-msgstr ""
+msgstr "少尉★6"
 
 msgid "rat_name_0062"
-msgstr ""
+msgstr "少尉★7"
 
 msgid "rat_name_0063"
-msgstr ""
+msgstr "少尉★8"
 
 msgid "rat_name_0064"
-msgstr ""
+msgstr "少尉★9"
 
 msgid "rat_name_0065"
-msgstr ""
+msgstr "少尉★10"
 
 msgid "rat_name_0066"
-msgstr ""
+msgstr "中尉★1"
 
 msgid "rat_name_0067"
-msgstr ""
+msgstr "中尉★2"
 
 msgid "rat_name_0068"
-msgstr ""
+msgstr "中尉★3"
 
 msgid "rat_name_0069"
-msgstr ""
+msgstr "中尉★4"
 
 msgid "rat_name_0070"
-msgstr ""
+msgstr "中尉★5"
 
 msgid "rat_name_0071"
-msgstr ""
+msgstr "中尉★6"
 
 msgid "rat_name_0072"
-msgstr ""
+msgstr "中尉★7"
 
 msgid "rat_name_0073"
-msgstr ""
+msgstr "中尉★8"
 
 msgid "rat_name_0074"
-msgstr ""
+msgstr "中尉★9"
 
 msgid "rat_name_0075"
-msgstr ""
+msgstr "中尉★10"
 
 msgid "rat_name_0076"
-msgstr ""
+msgstr "上尉★1"
 
 msgid "rat_name_0077"
-msgstr ""
+msgstr "上尉★2"
 
 msgid "rat_name_0078"
-msgstr ""
+msgstr "上尉★3"
 
 msgid "rat_name_0079"
-msgstr ""
+msgstr "上尉★4"
 
 msgid "rat_name_0080"
-msgstr ""
+msgstr "上尉★5"
 
 msgid "rat_name_0081"
-msgstr ""
+msgstr "上尉★6"
 
 msgid "rat_name_0082"
-msgstr ""
+msgstr "上尉★7"
 
 msgid "rat_name_0083"
-msgstr ""
+msgstr "上尉★8"
 
 msgid "rat_name_0084"
-msgstr ""
+msgstr "上尉★9"
 
 msgid "rat_name_0085"
-msgstr ""
+msgstr "上尉★10"
 
 msgid "rat_name_0086"
-msgstr ""
+msgstr "少校★1"
 
 msgid "rat_name_0087"
-msgstr ""
+msgstr "少校★2"
 
 msgid "rat_name_0088"
-msgstr ""
+msgstr "少校★3"
 
 msgid "rat_name_0089"
-msgstr ""
+msgstr "少校★4"
 
 msgid "rat_name_0090"
-msgstr ""
+msgstr "少校★5"
 
 msgid "rat_name_0091"
-msgstr ""
+msgstr "少校★6"
 
 msgid "rat_name_0092"
-msgstr ""
+msgstr "少校★7"
 
 msgid "rat_name_0093"
-msgstr ""
+msgstr "少校★8"
 
 msgid "rat_name_0094"
-msgstr ""
+msgstr "少校★9"
 
 msgid "rat_name_0095"
-msgstr ""
+msgstr "少校★10"
 
 msgid "rat_name_0096"
-msgstr ""
+msgstr "中校★1"
 
 msgid "rat_name_0097"
-msgstr ""
+msgstr "中校★2"
 
 msgid "rat_name_0098"
-msgstr ""
+msgstr "中校★3"
 
 msgid "rat_name_0099"
-msgstr ""
+msgstr "中校★4"
 
 msgid "rat_name_0100"
-msgstr ""
+msgstr "中校★5"
 
 msgid "rat_name_0101"
-msgstr ""
+msgstr "中校★6"
 
 msgid "rat_name_0102"
-msgstr ""
+msgstr "中校★7"
 
 msgid "rat_name_0103"
-msgstr ""
+msgstr "中校★8"
 
 msgid "rat_name_0104"
-msgstr ""
+msgstr "中校★9"
 
 msgid "rat_name_0105"
-msgstr ""
+msgstr "中校★10"
 
 msgid "rat_name_0106"
-msgstr ""
+msgstr "上校★1"
 
 msgid "rat_name_0107"
-msgstr ""
+msgstr "上校★2"
 
 msgid "rat_name_0108"
-msgstr ""
+msgstr "上校★3"
 
 msgid "rat_name_0109"
-msgstr ""
+msgstr "上校★4"
 
 msgid "rat_name_0110"
-msgstr ""
+msgstr "上校★5"
 
 msgid "rat_name_0111"
-msgstr ""
+msgstr "上校★6"
 
 msgid "rat_name_0112"
-msgstr ""
+msgstr "上校★7"
 
 msgid "rat_name_0113"
-msgstr ""
+msgstr "上校★8"
 
 msgid "rat_name_0114"
-msgstr ""
+msgstr "上校★9"
 
 msgid "rat_name_0115"
-msgstr ""
+msgstr "上校★10"
 
 msgid "rat_name_0116"
-msgstr ""
+msgstr "准将★1"
 
 msgid "rat_name_0117"
-msgstr ""
+msgstr "准将★2"
 
 msgid "rat_name_0118"
-msgstr ""
+msgstr "准将★3"
 
 msgid "rat_name_0119"
-msgstr ""
+msgstr "准将★4"
 
 msgid "rat_name_0120"
-msgstr ""
+msgstr "准将★5"
 
 msgid "rat_name_0121"
-msgstr ""
+msgstr "准将★6"
 
 msgid "rat_name_0122"
-msgstr ""
+msgstr "准将★7"
 
 msgid "rat_name_0123"
-msgstr ""
+msgstr "准将★8"
 
 msgid "rat_name_0124"
-msgstr ""
+msgstr "准将★9"
 
 msgid "rat_name_0125"
-msgstr ""
+msgstr "准将★10"
 
 msgid "rat_name_0126"
-msgstr ""
+msgstr "少将★1"
 
 msgid "rat_name_0127"
-msgstr ""
+msgstr "少将★2"
 
 msgid "rat_name_0128"
-msgstr ""
+msgstr "少将★3"
 
 msgid "rat_name_0129"
-msgstr ""
+msgstr "少将★4"
 
 msgid "rat_name_0130"
-msgstr ""
+msgstr "少将★5"
 
 msgid "rat_name_0131"
-msgstr ""
+msgstr "少将★6"
 
 msgid "rat_name_0132"
-msgstr ""
+msgstr "少将★7"
 
 msgid "rat_name_0133"
-msgstr ""
+msgstr "少将★8"
 
 msgid "rat_name_0134"
-msgstr ""
+msgstr "少将★9"
 
 msgid "rat_name_0135"
-msgstr ""
+msgstr "少将★10"
 
 msgid "rat_name_0136"
-msgstr ""
+msgstr "中将★1"
 
 msgid "rat_name_0137"
-msgstr ""
+msgstr "中将★2"
 
 msgid "rat_name_0138"
-msgstr ""
+msgstr "中将★3"
 
 msgid "rat_name_0139"
-msgstr ""
+msgstr "中将★4"
 
 msgid "rat_name_0140"
-msgstr ""
+msgstr "中将★5"
 
 msgid "rat_name_0141"
-msgstr ""
+msgstr "中将★6"
 
 msgid "rat_name_0142"
-msgstr ""
+msgstr "中将★7"
 
 msgid "rat_name_0143"
-msgstr ""
+msgstr "中将★8"
 
 msgid "rat_name_0144"
-msgstr ""
+msgstr "中将★9"
 
 msgid "rat_name_0145"
-msgstr ""
+msgstr "中将★10"
 
 msgid "rat_name_0146"
-msgstr ""
+msgstr "上将★1"
 
 msgid "rat_name_0147"
-msgstr ""
+msgstr "上将★2"
 
 msgid "rat_name_0148"
-msgstr ""
+msgstr "上将★3"
 
 msgid "rat_name_0149"
-msgstr ""
+msgstr "上将★4"
 
 msgid "rat_name_0150"
-msgstr ""
+msgstr "上将★5"
 
 msgid "rat_name_0151"
-msgstr ""
+msgstr "上将★6"
 
 msgid "rat_name_0152"
-msgstr ""
+msgstr "上将★7"
 
 msgid "rat_name_0153"
-msgstr ""
+msgstr "上将★8"
 
 msgid "rat_name_0154"
-msgstr ""
+msgstr "上将★9"
 
 msgid "rat_name_0155"
-msgstr ""
+msgstr "上将★10"
 
 msgid "rat_name_0156"
-msgstr ""
+msgstr "元帅★1"
 
 msgid "rat_name_0157"
-msgstr ""
+msgstr "元帅★2"
 
 msgid "rat_name_0158"
-msgstr ""
+msgstr "元帅★3"
 
 msgid "rat_name_0159"
-msgstr ""
+msgstr "元帅★4"
 
 msgid "rat_name_0160"
-msgstr ""
+msgstr "元帅★5"
 
 msgid "rat_name_0161"
-msgstr ""
+msgstr "元帅★6"
 
 msgid "rat_name_0162"
-msgstr ""
+msgstr "元帅★7"
 
 msgid "rat_name_0163"
-msgstr ""
+msgstr "元帅★8"
 
 msgid "rat_name_0164"
-msgstr ""
+msgstr "元帅★9"
 
 msgid "rat_name_0165"
-msgstr ""
+msgstr "元帅★10"
 
 msgid "rat_short_name_0001"
 msgstr ""
@@ -22307,208 +22428,310 @@ msgid "rat_short_name_0165"
 msgstr ""
 
 msgid "egt_nm_0001"
-msgstr ""
+msgstr "娘娘抽奖☆奖券"
 
 msgid "egt_nm_0002"
-msgstr ""
+msgstr "勋章"
 
 msgid "egt_nm_0003"
-msgstr ""
+msgstr "勋章"
 
 msgid "egt_nm_0004"
-msgstr ""
+msgstr "勋章"
 
 msgid "egt_nm_0005"
-msgstr ""
+msgstr "前夜祭娘娘抽奖☆奖券"
 
 msgid "egt_nm_0006"
-msgstr ""
+msgstr "娘娘抽奖☆奖券"
 
 msgid "egt_nm_0007"
-msgstr ""
+msgstr "4周年娘娘抽奖☆奖券"
 
 msgid "egt_dsc_0001"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "egt_dsc_0002"
 msgstr ""
+"象征荣誉的勋章\n"
+"由欧内斯特舰长授予"
 
 msgid "egt_dsc_0003"
 msgstr ""
+"象征荣誉的勋章\n"
+"由欧内斯特舰长授予"
 
 msgid "egt_dsc_0004"
 msgstr ""
+"象征荣誉的勋章\n"
+"由欧内斯特舰长授予"
 
 msgid "egt_dsc_0005"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "egt_dsc_0006"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "egt_dsc_0007"
 msgstr ""
+"印有“娘娘”图案的奖券。\n"
+"可在娘娘抽奖☆活动界面进行抽奖。\n"
+"<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "itp_nm_0001"
-msgstr ""
+msgstr "普通的摆件"
 
 msgid "itp_nm_0002"
-msgstr ""
+msgstr "漂亮的摆件"
 
 msgid "itp_nm_0003"
-msgstr ""
+msgstr "精油香薰"
 
 msgid "itp_nm_0006"
-msgstr ""
+msgstr "小点心"
 
 msgid "itp_nm_0007"
-msgstr ""
+msgstr "大点心"
 
 msgid "itp_nm_0008"
-msgstr ""
+msgstr "温德米尔苹果"
 
 msgid "itp_nm_0009"
-msgstr ""
+msgstr "上等下酒菜"
 
 msgid "itp_nm_0010"
-msgstr ""
+msgstr "生水母"
 
 msgid "itp_nm_0011"
-msgstr ""
+msgstr "热狗"
 
 msgid "itp_nm_0012"
-msgstr ""
+msgstr "披萨"
 
 msgid "itp_nm_0013"
-msgstr ""
+msgstr "超辣咖喱"
 
 msgid "itp_nm_0014"
-msgstr ""
+msgstr "娘娘拉面"
 
 msgid "itp_nm_0015"
-msgstr ""
+msgstr "点子笔记"
 
 msgid "itp_nm_0016"
-msgstr ""
+msgstr "超稀有唱片"
 
 msgid "itp_nm_0017"
-msgstr ""
+msgstr "飞机模型"
 
 msgid "itp_nm_0018"
-msgstr ""
+msgstr "丑萌周边"
 
 msgid "itp_nm_0020"
-msgstr ""
+msgstr "情人节礼物"
 
 msgid "itp_nm_0021"
-msgstr ""
+msgstr "白色情人节礼物"
 
 msgid "itp_nm_0022"
-msgstr ""
+msgstr "高级礼物"
 
 msgid "itp_dsc_0001"
 msgstr ""
+"还算说得过去的装饰品。\n"
+"摆在哪里都不会显得突兀。"
 
 msgid "itp_dsc_0002"
 msgstr ""
+"十分漂亮的装饰品。\n"
+"除了养眼之外并无特别的作用。"
 
 msgid "itp_dsc_0003"
 msgstr ""
+"最新款的香薰机。\n"
+"令人安心的设计，不必点火即可使用。"
 
 msgid "itp_dsc_0006"
 msgstr ""
+"一口就能吃下的小点心。\n"
+"用来缓解嘴馋再合适不过。"
 
 msgid "itp_dsc_0007"
 msgstr ""
+"大大的点心。\n"
+"适合和朋友一起分着吃。"
 
 msgid "itp_dsc_0008"
 msgstr ""
+"温德米尔的特产苹果。\n"
+"吃的不够干净会被芙蕾雅训斥。"
 
 msgid "itp_dsc_0009"
 msgstr ""
+"稀有的上等下酒菜。\n"
+"在喜欢喝酒的女性中颇具人气。"
 
 msgid "itp_dsc_0010"
 msgstr ""
+"从拉格纳的海里捞上来的新鲜水母。\n"
+"Q弹嫩滑的口感，令人欲罢不能。"
 
 msgid "itp_dsc_0011"
 msgstr ""
+"在路边的店铺购买的热狗。\n"
+"两个人一起吃会格外美味。"
 
 msgid "itp_dsc_0012"
 msgstr ""
+"连边边角角都十分美味的披萨。\n"
+"虽然味道很小孩子气，但就是很能勾起食欲。"
 
 msgid "itp_dsc_0013"
 msgstr ""
+"熔岩似的咖喱，辣得吓人。\n"
+"要是不小心吃上一口，估计能从嘴里喷出火来吧？"
 
 msgid "itp_dsc_0014"
 msgstr ""
+"娘娘中餐店的固定菜品。\n"
+"味道与众不同，十分受女性欢迎。"
 
 msgid "itp_dsc_0015"
 msgstr ""
+"记录着各种点子的笔记。\n"
+"遇到困难的时候不妨掏出来看看。"
 
 msgid "itp_dsc_0016"
 msgstr ""
+"装着伟大音乐家作品的唱片。\n"
+"听过的人必然会受益匪浅！"
 
 msgid "itp_dsc_0017"
 msgstr ""
+"做工精细的战机模型。\n"
+"可完美还原真实战机的三段变形。"
 
 msgid "itp_dsc_0018"
 msgstr ""
+"又丑又萌的小周边。\n"
+"仔细一看，跟某人的手机简直一模一样！"
 
 msgid "itp_dsc_0020"
 msgstr ""
+"包装得无比用心的巧克力。\n"
+"好好品尝包裹内心的浓情蜜意吧。"
 
 msgid "itp_dsc_0021"
 msgstr ""
+"用心包装过的点心盒。\n"
+"里面装着男生笨拙的心意。"
 
 msgid "itp_dsc_0022"
 msgstr ""
+"任谁收到都会很高兴的礼物。\n"
+"不过，谁知道里面装着什么呢。"
 
 msgid "itp_dsc2_0001"
 msgstr ""
+"还算说得过去的装饰品。\n"
+"摆在哪里都不会\n"
+"显得突兀。"
 
 msgid "itp_dsc2_0002"
 msgstr ""
+"十分漂亮的装饰品。\n"
+"除了养眼之外\n"
+"并无特别的作用。"
 
 msgid "itp_dsc2_0003"
 msgstr ""
+"最新款的香薰机。\n"
+"令人安心的设计，\n"
+"不必点火即可使用。"
 
 msgid "itp_dsc2_0006"
 msgstr ""
+"一口就能吃下的小点心。\n"
+"用来缓解嘴馋\n"
+"再合适不过。"
 
 msgid "itp_dsc2_0007"
 msgstr ""
+"大大的点心。\n"
+"适合和朋友\n"
+"一起分着吃。"
 
 msgid "itp_dsc2_0008"
 msgstr ""
+"温德米尔的特产苹果。\n"
+"吃的不够干净\n"
+"会被芙蕾雅训斥。"
 
 msgid "itp_dsc2_0009"
 msgstr ""
+"稀有的上等下酒菜。\n"
+"在喜欢喝酒的女性中颇具人气。"
 
 msgid "itp_dsc2_0010"
 msgstr ""
+"从拉格纳的海里捞上来的新鲜水母。\n"
+"Q弹嫩滑的口感，\n"
+"令人欲罢不能。"
 
 msgid "itp_dsc2_0011"
 msgstr ""
+"在路边的店铺购买的热狗。\n"
+"两个人一起吃\n"
+"会格外美味。"
 
 msgid "itp_dsc2_0012"
 msgstr ""
+"连边边角角都十分美味的披萨。\n"
+"虽然味道很小孩子气，\n"
+"但就是很能勾起食欲。"
 
 msgid "itp_dsc2_0013"
 msgstr ""
+"熔岩似的咖喱，辣得吓人。\n"
+"要是不小心吃上一口，\n"
+"估计能从嘴里喷出火来吧？"
 
 msgid "itp_dsc2_0014"
 msgstr ""
+"娘娘中餐店的固定菜品。\n"
+"味道与众不同，\n"
+"十分受女性欢迎。"
 
 msgid "itp_dsc2_0015"
 msgstr ""
+"记录着各种点子的笔记。\n"
+"遇到困难的时候不妨掏出来看看。"
 
 msgid "itp_dsc2_0016"
 msgstr ""
+"装着伟大音乐家作品的唱片。\n"
+"听过的人必然会\n"
+"受益匪浅！"
 
 msgid "itp_dsc2_0017"
 msgstr ""
+"做工精细的战机模型。\n"
+"可完美还原真实战机的\n"
+"三段变形。"
 
 msgid "itp_dsc2_0018"
 msgstr ""
+"又丑又萌的小周边。\n"
+"仔细一看，\n"
+"跟某人的手机简直一模一样！"
 
 msgid "itp_dsc2_0020"
 msgstr ""
