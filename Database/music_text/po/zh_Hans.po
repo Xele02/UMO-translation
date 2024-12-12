@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2024-12-09 11:48+0000\n"
+"PO-Revision-Date: 2024-12-13 03:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/music_text/zh_Hans/>\n"
@@ -1474,10 +1474,10 @@ msgid "musicName_0067_description"
 msgstr ""
 
 msgid "musicName_0068_musicname"
-msgstr "女武神永不停歇"
+msgstr "Walküre永不停歇"
 
 msgid "musicName_0068_officialName"
-msgstr "女武神永不停歇"
+msgstr "Walküre永不停歇"
 
 msgid "musicName_0068_vocalName"
 msgstr ""
@@ -1762,10 +1762,10 @@ msgid "musicName_0083_storyTitle"
 msgstr ""
 
 msgid "musicName_0084_musicname"
-msgstr "女武神永不背叛"
+msgstr "Walküre永不背叛"
 
 msgid "musicName_0084_officialName"
-msgstr "女武神永不背叛"
+msgstr "Walküre永不背叛"
 
 msgid "musicName_0084_vocalName"
 msgstr ""
@@ -1951,10 +1951,10 @@ msgid "musicName_0092_storyTitle"
 msgstr ""
 
 msgid "musicName_0093_musicname"
-msgstr "欢迎来到女武神的世界！"
+msgstr "欢迎来到Walküre的世界！"
 
 msgid "musicName_0093_officialName"
-msgstr "欢迎来到女武神的世界！"
+msgstr "欢迎来到Walküre的世界！"
 
 msgid "musicName_0093_vocalName"
 msgstr ""
@@ -2200,10 +2200,10 @@ msgid "musicName_0105_description"
 msgstr ""
 
 msgid "musicName_0106_musicname"
-msgstr "女武神的生日歌"
+msgstr "Walküre的生日歌"
 
 msgid "musicName_0106_officialName"
-msgstr "女武神的生日歌"
+msgstr "Walküre的生日歌"
 
 msgid "musicName_0106_vocalName"
 msgstr ""
