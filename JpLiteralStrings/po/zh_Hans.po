@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-10 06:37+0000\n"
+"PO-Revision-Date: 2024-12-13 11:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -60,7 +60,7 @@ msgid "StringLiteral_9370"
 msgstr "未知类型"
 
 msgid "StringLiteral_9477"
-msgstr "BOSS名"
+msgstr "BOSS名称"
 
 msgid "StringLiteral_9528"
 msgstr ""
@@ -69,37 +69,37 @@ msgid "StringLiteral_9555"
 msgstr ""
 
 msgid "StringLiteral_9630"
-msgstr ""
+msgstr "发来了新信息。"
 
 msgid "StringLiteral_9714"
-msgstr ""
+msgstr "第"
 
 msgid "StringLiteral_9715"
-msgstr ""
+msgstr "章"
 
 msgid "StringLiteral_9767"
-msgstr ""
+msgstr "超时空编队"
 
 msgid "StringLiteral_9768"
-msgstr ""
+msgstr "回忆片段奖励"
 
 msgid "StringLiteral_9769"
-msgstr ""
+msgstr "已获得回忆片段重复解放奖励！"
 
 msgid "StringLiteral_9771"
-msgstr ""
+msgstr "每日任务奖励"
 
 msgid "StringLiteral_9773"
-msgstr ""
+msgstr "SNS任务奖励"
 
 msgid "StringLiteral_9774"
-msgstr ""
+msgstr "新手任务奖励"
 
 msgid "StringLiteral_9775"
-msgstr ""
+msgstr "普通任务奖励"
 
 msgid "StringLiteral_9777"
-msgstr ""
+msgstr "活动任务奖励"
 
 msgid "StringLiteral_9787"
 msgstr ""
