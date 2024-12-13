@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-11-20 03:28+0000\n"
+"PO-Revision-Date: 2024-12-13 11:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/assets/zh_Hans/>\n"
@@ -25,3 +25,121 @@ msgstr "同意"
 
 msgid "cmn_pop01/cmn_pop01_fnt_01_09"
 msgstr "关闭"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_01"
+msgstr "个人资料"
+
+msgid "game_res_drop_02_pack/g_r_drop_txt_normal"
+msgstr "普通掉落"
+
+msgid "game_res_drop_pack/g_r_drop_getuc"
+msgstr "获得联盟货币"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_02"
+msgstr ""
+"感觉不对\n"
+"继续校正"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_49"
+msgstr "前往确认模式"
+
+msgid "cmn_enquete_pack/cmn_enq_fnt_load_02"
+msgstr "下载完毕"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_title"
+msgstr "延迟校正"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_02"
+msgstr "校正模式"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_03"
+msgstr "确认"
+
+msgid "cmn_tuto03/cmn_tuto03_window_font_01"
+msgstr "继续"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_39"
+msgstr "跳过"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_01"
+msgstr "确认模式"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_29"
+msgstr "重新校正"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_43"
+msgstr "恢复"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_10"
+msgstr "取消"
+
+msgid "gacha_main2/gacha_fnt_lot"
+msgstr "次抽卡"
+
+msgid "gacha_pop/gacha_pop_font_01"
+msgstr "持有歌晶石"
+
+msgid "gacha_main2/gacha_fnt_02"
+msgstr "出现详情"
+
+msgid "gacha_pop/gacha_pop_btn_font_01"
+msgstr "基于特定商交易法表示"
+
+msgid "gatsha_drop/gatsha_drop_btn_font_03"
+msgstr "返回"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_02"
+msgstr "年龄："
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_03"
+msgstr "生日"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_04"
+msgstr "来自："
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_05"
+msgstr "喜欢的东西："
+
+msgid "pack_sel_chara/sel_chara_btn_fnt_01"
+msgstr "语音"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_06"
+msgstr "选择歌姬"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_01"
+msgstr "重新选择"
+
+msgid "sel_quest_packtex/sel_que_challenge_fnt"
+msgstr "挑战"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_01"
+msgstr ""
+"没问题\n"
+"前往下一步"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_02"
+msgstr "选择此歌姬"
+
+msgid "sel_story_pack/sel_story_frm_fnt_01"
+msgstr "通过演出达成解放条件吧"
+
+msgid "game_res_drop_pack/g_r_drop_txt_rare"
+msgstr "稀有掉落"
+
+msgid "sel_story_pack/sel_story_frm_fnt_02"
+msgstr "要重新开始吗？"
+
+msgid "sel_story_pack/cmn_pop01_fnt_01_46"
+msgstr "演出"
+
+msgid "sel_quest_packtex/sel_que_get_fnt2"
+msgstr "已发送至礼物箱"
+
+msgid "pop_item_pack/ab_uc_fnt_01"
+msgstr "所需"
+
+msgid "sel_quest_packtex/sel_que_get_fnt"
+msgstr "已领取以下奖励"
+
+msgid "pop_item_pack/ab_uc_fnt_02"
+msgstr "持有"
