@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-13 11:28+0000\n"
+"PO-Revision-Date: 2024-12-13 13:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -102,19 +102,19 @@ msgid "StringLiteral_9777"
 msgstr "活动任务奖励"
 
 msgid "StringLiteral_9787"
-msgstr ""
+msgstr "<color=yellow>限时体力回复道具删除</color>"
 
 msgid "StringLiteral_9788"
-msgstr ""
+msgstr "<color=pink>登录天数="
 
 msgid "StringLiteral_9793"
-msgstr ""
+msgstr "体力"
 
 msgid "StringLiteral_9794"
-msgstr ""
+msgstr "体力"
 
 msgid "StringLiteral_9796"
-msgstr ""
+msgstr "继续"
 
 msgid "StringLiteral_9797"
 msgstr ""
