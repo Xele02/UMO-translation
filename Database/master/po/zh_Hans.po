@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-13 06:34+0000\n"
+"PO-Revision-Date: 2024-12-13 07:27+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -21395,7 +21395,7 @@ msgstr ""
 
 msgid "bvc_dsc_0018"
 msgstr ""
-"蕴藏了服装回忆的特别兑换券。\n"
+"蕴藏着服装回忆的特殊兑换券。\n"
 "可用于在凯厄斯商店兑换服装解放卡片。"
 
 msgid "bvc_qt_0005"
@@ -22861,7 +22861,7 @@ msgid "spitm_nm_0007"
 msgstr "超银河奖章"
 
 msgid "spitm_nm_0008"
-msgstr "装饰点数"
+msgstr "家具点数"
 
 msgid "spitm_nm_0009"
 msgstr "稀有提升星盘碎片"
@@ -22912,7 +22912,7 @@ msgstr "不使用"
 
 msgid "spitm_dsc_0006"
 msgstr ""
-"汇集了历代Macross舰长意念的大奖章。\n"
+"汇聚了历代Macross舰长意念的大奖章。\n"
 "使用后可填充Macross加农能量槽。"
 
 msgid "spitm_dsc_0007"
@@ -22923,110 +22923,119 @@ msgstr ""
 
 msgid "spitm_dsc_0008"
 msgstr ""
-"刻有装饰点数标志的代币。\n"
+"刻有家具点数标志的代币。\n"
 "可用于在凯厄斯商店兑换家具。"
 
 msgid "spitm_dsc_0009"
-msgstr ""
+msgstr "收集一定数量后，可在凯厄斯商店兑换为稀有提升星盘的道具"
 
 msgid "spitm_dsc_0010"
-msgstr ""
+msgstr "收集一定数量后，可在凯厄斯商店兑换为秘密水晶的道具"
 
 msgid "spitm_dsc_0011"
-msgstr ""
+msgstr "收集一定数量后，可在凯厄斯商店兑换为幸运辉石的道具"
 
 msgid "spitm_dsc_0012"
-msgstr ""
+msgstr "收集一定数量后，可在凯厄斯商店兑换为幸运煌石的道具"
 
 msgid "spitm_dsc_0013"
 msgstr ""
+"可跳过演出游玩部分的票券\n"
+"存在每日使用次数限制。"
 
 msgid "spitm_dsc_0014"
 msgstr ""
+"剧场版电影票的抽奖券\n"
+"剧场版电影票抽奖活动的参与证明。\n"
+"<color=#C8087E>※将在抽奖活动结束后消失。</color>"
 
 msgid "spitm_dsc_0015"
 msgstr ""
+"蕴藏着回忆的特殊兑换券。\n"
+"可用于在凯厄斯商店兑换卡片。"
 
 msgid "spitm_dsc_0016"
 msgstr ""
+"蕴藏着服装回忆的特殊兑换券。\n"
+"可用于在凯厄斯商店兑换服装解放卡片。"
 
 msgid "spitm_qt_0007"
-msgstr ""
+msgstr "枚"
 
 msgid "spitm_qt_0008"
-msgstr ""
+msgstr "DP"
 
 msgid "spitm_qt_0013"
-msgstr ""
+msgstr "张"
 
 msgid "spitm_qt_0014"
-msgstr ""
+msgstr "张"
 
 msgid "spitm_qt_0015"
-msgstr ""
+msgstr "张"
 
 msgid "spitm_qt_0016"
-msgstr ""
+msgstr "张"
 
 msgid "btla_cls_0001"
-msgstr ""
+msgstr "战斗等级 微风（1）"
 
 msgid "btla_cls_0002"
-msgstr ""
+msgstr "战斗等级 微风（2）"
 
 msgid "btla_cls_0003"
-msgstr ""
+msgstr "战斗等级 微风（3）"
 
 msgid "btla_cls_0004"
-msgstr ""
+msgstr "战斗等级 微风（4）"
 
 msgid "btla_cls_0005"
-msgstr ""
+msgstr "战斗等级 旋风（5）"
 
 msgid "btla_cls_0006"
-msgstr ""
+msgstr "战斗等级 旋风（6）"
 
 msgid "btla_cls_0007"
-msgstr ""
+msgstr "战斗等级 旋风（7）"
 
 msgid "btla_cls_0008"
-msgstr ""
+msgstr "战斗等级 旋风（8）"
 
 msgid "btla_cls_0009"
-msgstr ""
+msgstr "战斗等级 旋风（9）"
 
 msgid "btla_cls_0010"
-msgstr ""
+msgstr "战斗等级 疾风（10）"
 
 msgid "btla_cls_0011"
-msgstr ""
+msgstr "战斗等级 疾风（11）"
 
 msgid "btla_cls_0012"
-msgstr ""
+msgstr "战斗等级 疾风（12）"
 
 msgid "btla_cls_0013"
-msgstr ""
+msgstr "战斗等级 疾风（13）"
 
 msgid "btla_cls_0014"
-msgstr ""
+msgstr "战斗等级 疾风（14）"
 
 msgid "btla_cls_0015"
-msgstr ""
+msgstr "战斗等级 雄风（15）"
 
 msgid "btla_cls_0016"
-msgstr ""
+msgstr "战斗等级 雄风（16）"
 
 msgid "btla_cls_0017"
-msgstr ""
+msgstr "战斗等级 雄风（17）"
 
 msgid "btla_cls_0018"
-msgstr ""
+msgstr "战斗等级 雄风（18）"
 
 msgid "btla_cls_0019"
-msgstr ""
+msgstr "战斗等级 雄风（19）"
 
 msgid "btla_cls_0020"
-msgstr ""
+msgstr "战斗等级 暴风（20）"
 
 msgid "btla_cls_0021"
 msgstr ""
@@ -23239,43 +23248,50 @@ msgid "btlc_cls_0030"
 msgstr ""
 
 msgid "rd_i_nm_0001"
-msgstr ""
+msgstr "Fold雷达"
 
 msgid "rd_i_nm_0002"
-msgstr ""
+msgstr "行动能煤（小）"
 
 msgid "rd_i_nm_0003"
-msgstr ""
+msgstr "行动能煤（大）"
 
 msgid "rd_i_dsc_0001"
 msgstr ""
+"用于探测异常Fold波\n"
+"并发现暴走敌人的道具。\n"
+"<color=#8e0529>※将在活动结束后消失。</color>"
 
 msgid "rd_i_dsc_0002"
 msgstr ""
+"可回复参加超银河总力LIVE所需的1点AP。\n"
+"<color=#C8087E>※将在活动结束后消失。</color>"
 
 msgid "rd_i_dsc_0003"
 msgstr ""
+"可回复参加超银河总力LIVE所需的3点AP。\n"
+"<color=#C8087E>※将在活动结束后消失。</color>"
 
 msgid "adv_nm_0077"
-msgstr ""
+msgstr "第1章"
 
 msgid "adv_nm_0078"
-msgstr ""
+msgstr "第2章"
 
 msgid "adv_nm_0079"
-msgstr ""
+msgstr "第3章"
 
 msgid "adv_nm_0080"
-msgstr ""
+msgstr "第4章"
 
 msgid "adv_nm_0081"
-msgstr ""
+msgstr "第5章"
 
 msgid "adv_nm_0082"
-msgstr ""
+msgstr "第6章"
 
 msgid "adv_nm_0083"
-msgstr ""
+msgstr "第7章"
 
 msgid "adv_nm_0088"
 msgstr ""
@@ -25411,7 +25427,7 @@ msgid "obg_nm_0008"
 msgstr ""
 
 msgid "rup_nm_0001"
-msgstr ""
+msgstr "稀有提升星盘"
 
 msgid "rup_dsc_0001"
 msgstr ""
