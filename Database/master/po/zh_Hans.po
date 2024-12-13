@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-13 07:30+0000\n"
+"PO-Revision-Date: 2024-12-13 11:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -20349,7 +20349,7 @@ msgid "vc_dsc_0004"
 msgstr "可用于月卡补签的道具。"
 
 msgid "vc_dsc_0005"
-msgstr "房间模式中墙壁、地板的背景"
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "vc_dsc_0006"
 msgstr "可在房间及聊天表情中使用的角色"
@@ -20420,13 +20420,13 @@ msgid "rn_0000"
 msgstr "未定义"
 
 msgid "rn_0001"
-msgstr "SNS联络群"
+msgstr "SNS联络室"
 
 msgid "rn_0002"
-msgstr "所有人的聊天群"
+msgstr "所有人的聊天室"
 
 msgid "rn_0003"
-msgstr "纪念日聊天群"
+msgstr "纪念日聊天室"
 
 msgid "rn_0004"
 msgstr "芙蕾雅的聊天室"
@@ -25436,394 +25436,400 @@ msgstr ""
 "<color=#8e0529>※可在★4、★5（稀有度提升前）卡片中使用。</color>"
 
 msgid "lmitm_nm_0001"
-msgstr ""
+msgstr "超时空奖券"
 
 msgid "lmitm_nm_0002"
-msgstr ""
+msgstr "必出★5福利卡池奖券"
 
 msgid "lmitm_nm_0003"
-msgstr ""
+msgstr "必出★5 Bingo奖券"
 
 msgid "lmitm_dsc_0001"
 msgstr ""
+"用于在卡池进行抽卡的奖券。\n"
+"可在超时空卡池进行抽卡。"
 
 msgid "lmitm_dsc_0002"
 msgstr ""
+"用于在卡池进行抽卡的奖券。\n"
+"可在必出★5福利卡池进行抽卡。"
 
 msgid "lmitm_dsc_0003"
 msgstr ""
+"用于在卡池进行抽卡的奖券。\n"
+"可在必出★5 Bingo卡池进行抽卡。"
 
 msgid "lmitm_qt_0001"
-msgstr ""
+msgstr "张"
 
 msgid "lmitm_qt_0002"
-msgstr ""
+msgstr "张"
 
 msgid "lmitm_qt_0003"
-msgstr ""
+msgstr "张"
 
 msgid "dc_itm_nm_0001_bg"
-msgstr ""
+msgstr "初始房间"
 
 msgid "dc_itm_nm_0002_bg"
-msgstr ""
+msgstr "芙蕾雅的房间"
 
 msgid "dc_itm_nm_0003_bg"
-msgstr ""
+msgstr "凯厄斯女生寝室"
 
 msgid "dc_itm_nm_0004_bg"
-msgstr ""
+msgstr "兰卡的房间"
 
 msgid "dc_itm_nm_0005_bg"
-msgstr ""
+msgstr "巴萨拉的房间"
 
 msgid "dc_itm_nm_0006_bg"
-msgstr ""
+msgstr "明美的房间"
 
 msgid "dc_itm_nm_0007_bg"
-msgstr ""
+msgstr "伊甸星 星之岭"
 
 msgid "dc_itm_nm_0008_bg"
-msgstr ""
+msgstr "水母祭"
 
 msgid "dc_itm_nm_0009_bg"
-msgstr ""
+msgstr "露天舞台"
 
 msgid "dc_itm_nm_0010_bg"
-msgstr ""
+msgstr "Walküre节"
 
 msgid "dc_itm_nm_0012_bg"
-msgstr ""
+msgstr "超时空饭店 娘娘"
 
 msgid "dc_itm_nm_0013_bg"
-msgstr ""
+msgstr "裸喰娘娘"
 
 msgid "dc_itm_nm_0014_bg"
-msgstr ""
+msgstr "带有檐廊的和室"
 
 msgid "dc_itm_nm_0015_bg"
-msgstr ""
+msgstr "赏花公园"
 
 msgid "dc_itm_nm_0016_bg"
-msgstr ""
+msgstr "中餐店 娘娘"
 
 msgid "dc_itm_nm_0017_bg"
-msgstr ""
+msgstr "雪莉露的房间"
 
 msgid "dc_itm_nm_0018_bg"
-msgstr ""
+msgstr "拉格纳的海边"
 
 msgid "dc_itm_nm_0019_bg"
-msgstr ""
+msgstr "米拉洁的房间"
 
 msgid "dc_itm_nm_0020_bg"
-msgstr ""
+msgstr "Frontier船团军医院"
 
 msgid "dc_itm_nm_0021_bg"
-msgstr ""
+msgstr "咖啡书店Macross"
 
 msgid "dc_itm_nm_0022_bg"
-msgstr ""
+msgstr "米莲的房间"
 
 msgid "dc_itm_nm_0023_bg"
-msgstr ""
+msgstr "小教堂"
 
 msgid "dc_itm_nm_0024_bg"
-msgstr ""
+msgstr "要的房间"
 
 msgid "dc_itm_nm_0025_bg"
-msgstr ""
+msgstr "天文台"
 
 msgid "dc_itm_nm_0026_bg"
-msgstr ""
+msgstr "派对屋"
 
 msgid "dc_itm_nm_0027_bg"
-msgstr ""
+msgstr "拉格纳水族馆"
 
 msgid "dc_itm_nm_0028_bg"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间"
 
 msgid "dc_itm_nm_0029_bg"
-msgstr ""
+msgstr "红叶茶歇区"
 
 msgid "dc_itm_nm_0030_bg"
-msgstr ""
+msgstr "万圣节主题屋"
 
 msgid "dc_itm_nm_0031_bg"
-msgstr ""
+msgstr "Macross舰桥"
 
 msgid "dc_itm_nm_0032_bg"
-msgstr ""
+msgstr "冰雪裸喰娘娘"
 
 msgid "dc_itm_nm_0033_bg"
-msgstr ""
+msgstr "圣诞广场"
 
 msgid "dc_itm_nm_0034_bg"
-msgstr ""
+msgstr "北欧圣诞"
 
 msgid "dc_itm_nm_0035_bg"
-msgstr ""
+msgstr "新年和室"
 
 msgid "dc_itm_nm_0036_bg"
-msgstr ""
+msgstr "糖果屋"
 
 msgid "dc_itm_nm_0037_bg"
-msgstr ""
+msgstr "教室"
 
 msgid "dc_itm_nm_0038_bg"
-msgstr ""
+msgstr "花园聚会"
 
 msgid "dc_itm_nm_0039_bg"
-msgstr ""
+msgstr "奇异森林"
 
 msgid "dc_itm_nm_0040_bg"
-msgstr ""
+msgstr "小木屋"
 
 msgid "dc_itm_nm_0041_bg"
-msgstr ""
+msgstr "白色圣诞节"
 
 msgid "dc_itm_nm_0042_bg"
-msgstr ""
+msgstr "新年庭院"
 
 msgid "dc_itm_nm_0043_bg"
-msgstr ""
+msgstr "巧克力屋"
 
 msgid "dc_itm_nm_0044_bg"
-msgstr ""
+msgstr "糕点铺"
 
 msgid "dc_itm_nm_0045_bg"
-msgstr ""
+msgstr "复古房间"
 
 msgid "dc_itm_nm_0046_bg"
-msgstr ""
+msgstr "齿轮房间"
 
 msgid "dc_itm_nm_0047_bg"
-msgstr ""
+msgstr "花园婚礼"
 
 msgid "dc_itm_nm_0048_bg"
-msgstr ""
+msgstr "亚洲风情度假屋"
 
 msgid "dc_itm_nm_0049_bg"
-msgstr ""
+msgstr "赏月茶屋"
 
 msgid "dc_itm_nm_0050_bg"
-msgstr ""
+msgstr "万圣节派对"
 
 msgid "dc_itm_nm_0051_bg"
-msgstr ""
+msgstr "杰特拉帝商场"
 
 msgid "dc_itm_nm_0052_bg"
-msgstr ""
+msgstr "圣诞市场"
 
 msgid "dc_itm_dsc_0001_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0002_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0003_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0004_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0005_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0006_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0007_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0008_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0009_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0010_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0012_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0013_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0014_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0015_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0016_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0017_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0018_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0019_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0020_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0021_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0022_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0023_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0024_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0025_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0026_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0027_bg"
 msgstr ""
 
 msgid "dc_itm_dsc_0028_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0029_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0030_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0031_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0032_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0033_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0034_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0035_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0036_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0037_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0038_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0039_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0040_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0041_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0042_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0043_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0044_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0045_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0046_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0047_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0048_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0049_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0050_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0051_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0052_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_nm_0004_obj"
-msgstr ""
+msgstr "圆桌（简约）"
 
 msgid "dc_itm_nm_0005_obj"
-msgstr ""
+msgstr "黄色地毯"
 
 msgid "dc_itm_nm_0006_obj"
-msgstr ""
+msgstr "梳妆台（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0007_obj"
-msgstr ""
+msgstr "床（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0008_obj"
-msgstr ""
+msgstr "置物柜（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0009_obj"
-msgstr ""
+msgstr "坐垫（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0010_obj"
-msgstr ""
+msgstr "仙人掌（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0011_obj"
-msgstr ""
+msgstr "窗（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0012_obj"
-msgstr ""
+msgstr "大坐垫"
 
 msgid "dc_itm_nm_0013_obj"
-msgstr ""
+msgstr "绿色坐垫"
 
 msgid "dc_itm_nm_0014_obj"
-msgstr ""
+msgstr "小桌子（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0015_obj"
-msgstr ""
+msgstr "沙发（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0016_obj"
-msgstr ""
+msgstr "窗（兰卡的房间）"
 
 msgid "dc_itm_nm_0017_obj"
-msgstr ""
+msgstr "床（兰卡的房间）"
 
 msgid "dc_itm_nm_0018_obj"
-msgstr ""
+msgstr "台灯（兰卡的房间）"
 
 msgid "dc_itm_nm_0019_obj"
-msgstr ""
+msgstr "爱君的小窝（兰卡的房间）"
 
 msgid "dc_itm_nm_0020_obj"
-msgstr ""
+msgstr "格子地毯（兰卡的房间）"
 
 msgid "dc_itm_nm_0021_obj"
-msgstr ""
+msgstr "窗（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0022_obj"
-msgstr ""
+msgstr "桌子（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0023_obj"
 msgstr ""
