@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-13 11:28+0000\n"
+"PO-Revision-Date: 2024-12-14 15:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -1577,7 +1577,7 @@ msgid "music_event_collect_rank_counting_label"
 msgstr "最终排名"
 
 msgid "music_event_collect_rank_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "music_event_collect_rank_counting"
 msgstr "统计中"
@@ -1607,7 +1607,7 @@ msgid "music_event_battle_rank_total_counting_label"
 msgstr "累计点数最终排名"
 
 msgid "music_event_battle_rank_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "music_event_battle_bp_counting_label"
 msgstr "EX战高分记录"
@@ -1670,7 +1670,7 @@ msgid "event_battle_reward_check_ranking"
 msgstr "EX战分数排名"
 
 msgid "event_battle_reward_check_ranking_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "music_event_battle_ex_schedule_caution_01"
 msgstr "EX战的歌曲会在日期发生变动时进行切换。"
@@ -2452,10 +2452,10 @@ msgid "popup_event_reward_needpoint_unit"
 msgstr "{0}pt"
 
 msgid "popup_event_reward_currentrank_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "popup_event_reward_needrank_unit"
-msgstr "{0}名"
+msgstr "第{0}名"
 
 msgid "popup_event_reward_needrankrange_unit"
 msgstr "{0}~{1}名"
@@ -3321,7 +3321,7 @@ msgid "popup_music_rate_desc"
 msgstr "由高分记录前10名歌曲的评分累计而成。"
 
 msgid "popup_music_rate_rank_unit"
-msgstr "{0}名"
+msgstr "第{0}名"
 
 msgid "event_gacha_box_period"
 msgstr "活动时间{0}/{1}/{2} {3}:{4:D2} ~ {5}/{6}/{7} {8}:{9:D2}"
@@ -3614,7 +3614,7 @@ msgid "event_music_ranking"
 msgstr "活动歌曲排名"
 
 msgid "event_music_ranking_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "ar_common_count_text"
 msgstr "{0} / {1}"
@@ -6665,7 +6665,7 @@ msgid "godiva_even_tinfo_nest_reward"
 msgstr "下一奖励"
 
 msgid "godiva_even_tinfo_rank_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "godiva_even_tinfo_point_unit"
 msgstr "pt"
@@ -6743,7 +6743,7 @@ msgid "event_godiva_reward_check_ranking"
 msgstr "歌姬分数排名"
 
 msgid "event_godiva_reward_check_ranking_unit"
-msgstr "名"
+msgstr "位"
 
 msgid "diva_name_01"
 msgstr "芙蕾雅·薇恩"
@@ -6776,7 +6776,7 @@ msgid "diva_name_10"
 msgstr "林明美"
 
 msgid "home_diva_view_status_place_text"
-msgstr "名"
+msgstr "位"
 
 msgid "home_diva_view_status_divalevel_text"
 msgstr "歌姬Lv"
@@ -6935,7 +6935,7 @@ msgstr ""
 "解锁"
 
 msgid "gakuya_status_diva_ranking_value"
-msgstr "{0}名"
+msgstr "第{0}名"
 
 msgid "gakuya_intimacy_present_none"
 msgstr ""
