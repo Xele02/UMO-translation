@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2024-12-13 03:28+0000\n"
+"PO-Revision-Date: 2024-12-15 04:42+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/music_text/zh_Hans/>\n"
@@ -1033,10 +1033,10 @@ msgid "musicName_0044_storyTitle"
 msgstr ""
 
 msgid "musicName_0045_musicname"
-msgstr ""
+msgstr "虹色熊熊"
 
 msgid "musicName_0045_officialName"
-msgstr ""
+msgstr "虹色熊熊"
 
 msgid "musicName_0045_vocalName"
 msgstr ""
@@ -1297,10 +1297,10 @@ msgid "musicName_0058_description"
 msgstr ""
 
 msgid "musicName_0059_musicname"
-msgstr ""
+msgstr "Virgin Story"
 
 msgid "musicName_0059_officialName"
-msgstr ""
+msgstr "Virgin Story"
 
 msgid "musicName_0059_vocalName"
 msgstr ""
@@ -2605,10 +2605,10 @@ msgid "musicName_0130_description"
 msgstr ""
 
 msgid "musicName_0131_musicname"
-msgstr ""
+msgstr "Walküre永不放弃"
 
 msgid "musicName_0131_officialName"
-msgstr ""
+msgstr "Walküre永不放弃"
 
 msgid "musicName_0131_vocalName"
 msgstr ""
