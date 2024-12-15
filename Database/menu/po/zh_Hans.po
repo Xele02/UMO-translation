@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-14 15:28+0000\n"
+"PO-Revision-Date: 2024-12-15 04:42+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -4159,7 +4159,7 @@ msgid "offer_daily_offer_levelup_text"
 msgstr "每日派遣任务难度解锁"
 
 msgid "offer_diva_offer_levelup_text"
-msgstr "<size=23>解锁{0}的歌姬派遣任务难度</size>"
+msgstr "<size=23>已解锁{0}歌姬派遣任务的新难度</size>"
 
 msgid "offer_result_first_achievement_title"
 msgstr "首次完成奖励"
@@ -4548,7 +4548,7 @@ msgid "pop_score_detail_item_name_03"
 msgstr "属性加成"
 
 msgid "pop_score_detail_item_name_04"
-msgstr "中心技能"
+msgstr "C技能"
 
 msgid "pop_score_detail_item_name_05"
 msgstr "支援卡片"
@@ -6003,13 +6003,13 @@ msgid "gacha_cost_02"
 msgstr "使用此道具抽卡"
 
 msgid "gacha_cost_03"
-msgstr "早　{0}次免费"
+msgstr "早间　{0}次免费"
 
 msgid "gacha_cost_04"
-msgstr "午　{0}次免费"
+msgstr "中午　{0}次免费"
 
 msgid "gacha_cost_05"
-msgstr "晚　{0}次免费"
+msgstr "晚间　{0}次免费"
 
 msgid "config_text_98"
 msgstr "服装特效"
@@ -6903,13 +6903,13 @@ msgid "home_footer_badge_text_03"
 msgstr "新卡池！"
 
 msgid "home_footer_badge_text_04"
-msgstr "早 免费！"
+msgstr "早间免费抽卡！"
 
 msgid "home_footer_badge_text_05"
-msgstr "午 免费！"
+msgstr "中午免费抽卡！"
 
 msgid "home_footer_badge_text_06"
-msgstr "晚 免费！"
+msgstr "夜间免费抽卡！"
 
 msgid "home_footer_badge_text_07"
 msgstr "CHECK！"
