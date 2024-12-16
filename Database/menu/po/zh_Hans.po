@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-16 03:34+0000\n"
+"PO-Revision-Date: 2024-12-16 09:36+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -231,13 +231,13 @@ msgid "pbox_text_11"
 msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
-msgstr "还有{0}天"
+msgstr "剩余{0}天"
 
 msgid "pbox_text_13"
-msgstr "还有{0}小时"
+msgstr "剩余{0}小时"
 
 msgid "pbox_text_14"
-msgstr "还有{0}分钟"
+msgstr "剩余{0}分钟"
 
 msgid "pbox_win_warn01"
 msgstr "<color=#c8087e>显示最近的{0}项</color>"
@@ -1307,13 +1307,13 @@ msgid "quest_reward_none_list"
 msgstr "没有可以领取奖励的任务。"
 
 msgid "quest_timer_d"
-msgstr "还有{0}天"
+msgstr "剩余{0}天"
 
 msgid "quest_timer_h"
-msgstr "还有{0}小时"
+msgstr "剩余{0}小时"
 
 msgid "quest_timer_m"
-msgstr "还有{0}分钟"
+msgstr "剩余{0}分钟"
 
 msgid "quest_tiemr_e001"
 msgstr ""
@@ -1544,7 +1544,7 @@ msgid "music_event_period_date"
 msgstr "{0:D4}年 {1}月{2}日 {3:D2}:{4:D2}"
 
 msgid "music_event_remain_prefix"
-msgstr "还有 "
+msgstr "剩余 "
 
 msgid "music_event_remain_day"
 msgstr "{0}天"
@@ -2260,13 +2260,13 @@ msgid "event_quest_touch_screen4"
 msgstr "点击屏幕继续"
 
 msgid "event_quest_limit_time_d"
-msgstr "还有{0}天"
+msgstr "剩余{0}天"
 
 msgid "event_quest_limit_time_h"
-msgstr "还有{0}小时"
+msgstr "剩余{0}小时"
 
 msgid "event_quest_limit_time_m"
-msgstr "还有{0}分钟"
+msgstr "剩余{0}分钟"
 
 msgid "event_quest_progress_count"
 msgstr "还有{0}{1}"
@@ -3980,7 +3980,7 @@ msgid "offer_squadron_popup_title"
 msgstr "出击小队"
 
 msgid "offer_fast_completion_popup_title_01"
-msgstr "已加速"
+msgstr "加速完成"
 
 msgid "offer_fast_completion_popup_text_01_01"
 msgstr ""
@@ -6044,7 +6044,7 @@ msgid "gacha_telop_01"
 msgstr "仅限1次！"
 
 msgid "gacha_telop_02"
-msgstr "还有{0}次！"
+msgstr "剩余{0}次！"
 
 msgid "gacha_telop_03"
 msgstr "首次抽卡免费！"
@@ -6683,7 +6683,7 @@ msgid "godiva_diva_select_explain"
 msgstr "选择歌姬"
 
 msgid "godiva_music_info_bonus_remain_count"
-msgstr "还有{0}次"
+msgstr "剩余{0}次"
 
 msgid "godiva_music_info_bonus_lots_rate"
 msgstr "{0}%"
@@ -6824,7 +6824,7 @@ msgid "banner_godiva_fevertime"
 msgstr "FEVER出现中！"
 
 msgid "event_godiva_remain_time_prefix"
-msgstr "距离FEVER结束还有"
+msgstr "距离FEVER结束剩余"
 
 msgid "sel_music_godiva_exp_type_soul"
 msgstr "歌魂"
@@ -7386,13 +7386,13 @@ msgstr ""
 "6轨道模式歌曲。"
 
 msgid "vertical_music_select_event_remain_time"
-msgstr "还有：<color=#FF1576>{0}</color>"
+msgstr "剩余：<color=#FF1576>{0}</color>"
 
 msgid "vertical_music_select_event_remain_count"
 msgstr "剩余：<color=#FF1576>{0}次</color>"
 
 msgid "music_event_remain_prefix_01"
-msgstr "还有"
+msgstr "剩余"
 
 msgid "vertical_music_select_event_period"
 msgstr "活动时间：{0}年{1}月{2}日{3}:{4:D2} ~ {5}年{6}月{7}日{8}:{9:D2}"
