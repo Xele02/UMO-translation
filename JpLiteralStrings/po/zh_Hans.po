@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-16 09:38+0000\n"
-"Last-Translator: Iqoo12 <teezhirong1999@hotmail.com>\n"
+"PO-Revision-Date: 2024-12-16 11:28+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -66,7 +66,7 @@ msgid "StringLiteral_9528"
 msgstr ""
 
 msgid "StringLiteral_9555"
-msgstr "活动任务"
+msgstr ""
 
 msgid "StringLiteral_9630"
 msgstr "发来了新信息。"
@@ -105,7 +105,7 @@ msgid "StringLiteral_9787"
 msgstr "<color=yellow>限时体力回复道具删除</color>"
 
 msgid "StringLiteral_9788"
-msgstr "<color=pink>登录天数="
+msgstr ""
 
 msgid "StringLiteral_9793"
 msgstr "体力"
@@ -150,7 +150,7 @@ msgid "StringLiteral_10041"
 msgstr "收藏夹2"
 
 msgid "StringLiteral_10042"
-msgstr ""
+msgstr "收藏夹3"
 
 msgid "StringLiteral_10058"
 msgstr ""
@@ -165,103 +165,103 @@ msgid "StringLiteral_10065"
 msgstr ""
 
 msgid "StringLiteral_10089"
-msgstr ""
+msgstr "个"
 
 msgid "StringLiteral_10090"
-msgstr ""
+msgstr "张"
 
 msgid "StringLiteral_10093"
-msgstr ""
+msgstr "台"
 
 msgid "StringLiteral_10094"
-msgstr ""
+msgstr "人"
 
 msgid "StringLiteral_10095"
-msgstr ""
+msgstr "套"
 
 msgid "StringLiteral_10096"
-msgstr ""
+msgstr "个"
 
 msgid "StringLiteral_10136"
-msgstr ""
+msgstr "未定义"
 
 msgid "StringLiteral_10137"
-msgstr ""
+msgstr "歌晶石"
 
 msgid "StringLiteral_10138"
-msgstr ""
+msgstr "奖券"
 
 msgid "StringLiteral_10139"
-msgstr ""
+msgstr "回忆卡片"
 
 msgid "StringLiteral_10140"
-msgstr ""
+msgstr "服装"
 
 msgid "StringLiteral_10141"
-msgstr ""
+msgstr "战机"
 
 msgid "StringLiteral_10142"
-msgstr ""
+msgstr "解放材料"
 
 msgid "StringLiteral_10143"
-msgstr ""
+msgstr "回忆宝珠"
 
 msgid "StringLiteral_10144"
-msgstr ""
+msgstr "称号"
 
 msgid "StringLiteral_10145"
-msgstr ""
+msgstr "活动道具"
 
 msgid "StringLiteral_10146"
-msgstr ""
+msgstr "活动门票"
 
 msgid "StringLiteral_10147"
-msgstr ""
+msgstr "歌姬"
 
 msgid "StringLiteral_10148"
-msgstr ""
+msgstr "道具套装"
 
 msgid "StringLiteral_10149"
-msgstr ""
+msgstr "SNS道具"
 
 msgid "StringLiteral_10150"
-msgstr ""
+msgstr "体力回复道具"
 
 msgid "StringLiteral_10151"
-msgstr ""
+msgstr "MV票"
 
 msgid "StringLiteral_10152"
-msgstr ""
+msgstr "奖章"
 
 msgid "StringLiteral_10153"
-msgstr ""
+msgstr "附赠VC"
 
 msgid "StringLiteral_10154"
-msgstr ""
+msgstr "活动卡池奖券"
 
 msgid "StringLiteral_10155"
-msgstr ""
+msgstr "礼物"
 
 msgid "StringLiteral_10156"
-msgstr ""
+msgstr "特殊道具"
 
 msgid "StringLiteral_10157"
-msgstr ""
+msgstr "服装强化素材"
 
 msgid "StringLiteral_10158"
-msgstr ""
+msgstr "稀有度提升素材"
 
 msgid "StringLiteral_10159"
-msgstr ""
+msgstr "限时道具"
 
 msgid "StringLiteral_10160"
-msgstr ""
+msgstr "月卡补签道具"
 
 msgid "StringLiteral_10161"
-msgstr ""
+msgstr "房间背景"
 
 msgid "StringLiteral_10162"
-msgstr ""
+msgstr "家具"
 
 msgid "StringLiteral_10163"
 msgstr ""
