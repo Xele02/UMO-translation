@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-15 07:28+0000\n"
+"PO-Revision-Date: 2024-12-16 09:36+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -117,10 +117,10 @@ msgid "StringLiteral_9796"
 msgstr "继续"
 
 msgid "StringLiteral_9797"
-msgstr ""
+msgstr "VOP加速完成"
 
 msgid "StringLiteral_9798"
-msgstr ""
+msgstr "AP回复"
 
 msgid "StringLiteral_9799"
 msgstr "继续:"
@@ -132,22 +132,22 @@ msgid "StringLiteral_9807"
 msgstr "拜托了"
 
 msgid "StringLiteral_9829"
-msgstr ""
+msgstr "房间"
 
 msgid "StringLiteral_9874"
-msgstr ""
+msgstr "未获得"
 
 msgid "StringLiteral_9949"
-msgstr ""
+msgstr "必出1张★{0}卡片"
 
 msgid "StringLiteral_9950"
-msgstr ""
+msgstr "必出1张★{0}以上卡片"
 
 msgid "StringLiteral_10040"
-msgstr ""
+msgstr "收藏夹1"
 
 msgid "StringLiteral_10041"
-msgstr ""
+msgstr "收藏夹2"
 
 msgid "StringLiteral_10042"
 msgstr ""
@@ -159,7 +159,7 @@ msgid "StringLiteral_10062"
 msgstr ""
 
 msgid "StringLiteral_10064"
-msgstr "商品 "
+msgstr ""
 
 msgid "StringLiteral_10065"
 msgstr ""
