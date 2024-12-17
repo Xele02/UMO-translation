@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-17 07:28+0000\n"
+"PO-Revision-Date: 2024-12-17 09:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -170,7 +170,7 @@ msgid "pbox_title_02"
 msgstr "领取礼物"
 
 msgid "pbox_title_03"
-msgstr "全部领取"
+msgstr "一键领取"
 
 msgid "pbox_title_04"
 msgstr "持有上限"
@@ -929,7 +929,7 @@ msgid "header_desc_home301"
 msgstr "选择房间"
 
 msgid "header_desc_home302"
-msgstr "访问地一览"
+msgstr "访问目的地一览"
 
 msgid "header_desc_home303"
 msgstr "选择道具"
@@ -3958,7 +3958,7 @@ msgid "offer_formation_name_notchangedcomment_popup"
 msgstr "小队名称未更改。"
 
 msgid "offer_chenge_popup_title"
-msgstr "确认更改"
+msgstr "解散小队"
 
 msgid "offer_plantoon_chenge_popup_text_01"
 msgstr "要编至另一小队吗？"
@@ -3984,16 +3984,16 @@ msgstr "加速完成"
 
 msgid "offer_fast_completion_popup_text_01_01"
 msgstr ""
-"已消耗{0}个加速程序\n"
-"派遣任务已加速完成。"
+"消耗{0}个加速程序\n"
+"加速完成派遣任务。"
 
 msgid "offer_fast_completion_popup_text_01_02"
 msgstr "<color=#C8087E>加速程序{0}→{1}</color>"
 
 msgid "offer_fast_completion_popup_text_02_01"
 msgstr ""
-"已消耗{0}颗歌晶石\n"
-"派遣任务已加速完成。"
+"消耗{0}颗歌晶石\n"
+"加速完成派遣任务。"
 
 msgid "offer_fast_completion_popup_text_02_02"
 msgstr "<color=#C8087E>歌晶石　 {0}→{1}</color>"
@@ -4015,11 +4015,11 @@ msgid "offer_platoon_release_condition_title_text"
 msgstr "小队解锁条件"
 
 msgid "offer_platoon_release_condition_text_01"
-msgstr "已完成全部新手派遣任务"
+msgstr "完成所有新手派遣任务"
 
 msgid "offer_platoon_release_condition_text_02"
 msgstr ""
-"完成全部新手派遣任务\n"
+"完成所有新手派遣任务\n"
 "\n"
 "至少拥有{0}架战机"
 
@@ -4777,7 +4777,7 @@ msgid "pop_deco_sp_item_003"
 msgstr "等级已满。"
 
 msgid "pop_deco_sp_item_004"
-msgstr "回收物品后再进行升级。"
+msgstr "收取物品后再进行升级。"
 
 msgid "pop_deco_sp_item_levelup"
 msgstr ""
@@ -4785,7 +4785,7 @@ msgstr ""
 "已升级。"
 
 msgid "pop_deco_sp_all_receive_title"
-msgstr "全部领取"
+msgstr "一键领取"
 
 msgid "pop_deco_sp_all_receive_content"
 msgstr ""
@@ -4805,7 +4805,7 @@ msgid "pop_deco_sp_item_cannon_title"
 msgstr "Macross加农能量槽"
 
 msgid "pop_deco_sp_item_itemlist_title"
-msgstr "回收物品"
+msgstr "收取物品"
 
 msgid "pop_deco_sp_item_cannon_text001"
 msgstr "已充能。"
@@ -5513,7 +5513,7 @@ msgstr ""
 "的战队大厅。"
 
 msgid "deco_visit_gift"
-msgstr "可赠礼物数量"
+msgstr "可送礼人数"
 
 msgid "deco_visit_no_friend"
 msgstr "没有好友。"
@@ -6533,7 +6533,7 @@ msgstr "在后台套用"
 
 msgid "pop_pass_loginbonus_caution"
 msgstr ""
-"发放特殊月卡附赠奖励{0}{1}{2}。\n"
+"发放高级月卡附赠奖励{0}{1}{2}。\n"
 "<color=#8E0529>※超出持有上限的部分将消失。</color>"
 
 msgid "popup_gacha_lot_select"
