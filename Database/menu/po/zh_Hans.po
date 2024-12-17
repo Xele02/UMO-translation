@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-16 11:28+0000\n"
+"PO-Revision-Date: 2024-12-17 03:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -270,7 +270,7 @@ msgstr "此设置不适用于“公告”选项。"
 
 msgid "set_notification_text_05"
 msgstr ""
-"在体力完全恢复时\n"
+"在体力回满时\n"
 "进行提醒。"
 
 msgid "set_notification_text_06"
@@ -285,7 +285,7 @@ msgstr ""
 
 msgid "set_notification_text_08"
 msgstr ""
-"在AP完全恢复时\n"
+"在AP回满时\n"
 "进行提醒。"
 
 msgid "set_notification_text_09"
@@ -2700,7 +2700,7 @@ msgid "skill_format_004"
 msgstr "{0} <img={1}>　 Lv{2}"
 
 msgid "tuto_gacha_title"
-msgstr "特殊抽卡"
+msgstr "抽卡"
 
 msgid "tuto_gacha_desc"
 msgstr ""
@@ -5005,10 +5005,10 @@ msgid "raid_damage_result_gauge_max_text"
 msgstr "能量已达到上限，无法继续充能。"
 
 msgid "pop_raid_ap_heal_title"
-msgstr "AP回复确认"
+msgstr "AP回复"
 
 msgid "pop_raid_ap_heal_text"
-msgstr "使用道具回复AP值。"
+msgstr "将使用道具回复AP值。"
 
 msgid "pop_raid_ap_heal_item01_text01"
 msgstr "歌晶石×{0}颗"
@@ -5845,7 +5845,7 @@ msgstr "已完成全部STEP UP任务！"
 
 msgid "popup_rareup_item_warning_text"
 msgstr ""
-"稀有提升星盘碎片的持有量超过150后\n"
+"稀有提升星盘碎片的持有数超过150后\n"
 "将自动兑换为稀有提升星盘。"
 
 msgid "popup_rareup_item_convert_desc_01"
@@ -6785,7 +6785,7 @@ msgid "home_diva_view_status_intimacyl_text"
 msgstr "亲密度Lv"
 
 msgid "home_diva_view_status_havecostume_text"
-msgstr "服装持有量"
+msgstr "服装持有数"
 
 msgid "home_diva_view_status_divaranking_text"
 msgstr "歌姬排名"
