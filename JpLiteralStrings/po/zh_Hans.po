@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-17 09:28+0000\n"
+"PO-Revision-Date: 2024-12-17 11:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -1485,10 +1485,10 @@ msgid "UMO_login_38788_desc"
 msgstr "服装解放支援登陆奖励③"
 
 msgid "UMO_login_38788_prize1_msg"
-msgstr ""
+msgstr "特别登录奖励。"
 
 msgid "UMO_login_10665_name"
-msgstr ""
+msgstr "回归登录奖励 连续28天未登录"
 
 msgid "UMO_login_10665_desc"
 msgstr ""
@@ -1500,94 +1500,94 @@ msgid "UMO_login_10666_desc"
 msgstr ""
 
 msgid "UMO_login_7740_name"
-msgstr ""
+msgstr "登录奖励"
 
 msgid "UMO_login_7740_desc"
-msgstr ""
+msgstr "每天可获得1份登录奖励！"
 
 msgid "UMO_login_7740_prize1_msg"
-msgstr ""
+msgstr "每日登录奖励。\t"
 
 msgid "UMO_login_7740_prize2_msg"
-msgstr ""
+msgstr "每日登录奖励。"
 
 msgid "UMO_login_6541_name"
-msgstr ""
+msgstr "新手登录奖励"
 
 msgid "UMO_login_6541_desc"
-msgstr ""
+msgstr "新玩家游玩前7天的每日登录奖励。"
 
 msgid "UMO_login_6541_prize1_msg"
-msgstr ""
+msgstr "新手登录奖励。"
 
 msgid "UMO_achievements_normal_quest"
-msgstr ""
+msgstr "完成普通任务获得的奖励。"
 
 msgid "UMO_achievements_daily_quest"
 msgstr ""
 
 msgid "UMO_achievements_episode"
-msgstr ""
+msgstr "解放回忆片段获得的奖励。"
 
 msgid "UMO_achievements_debut_quest"
-msgstr ""
+msgstr "完成新手任务获得的奖励。"
 
 msgid "UMO_achievements_new_offer"
-msgstr ""
+msgstr "首次完成战机派遣任务获得的奖励。"
 
 msgid "UMO_achievements_costume"
-msgstr ""
+msgstr "提升服装卡哇哇等级获得的奖励。"
 
 msgid "UMO_achievements_freemusic"
 msgstr ""
 
 msgid "UMO_currency_1001_desc"
-msgstr ""
+msgstr "可在游戏内购买的虚拟货币"
 
 msgid "UMO_currency_2002_name"
-msgstr ""
+msgstr "必出★5卡池奖券A"
 
 msgid "UMO_currency_2002_desc"
-msgstr ""
+msgstr "用于抽取必出★5卡池的奖券"
 
 msgid "UMO_currency_2003_name"
-msgstr ""
+msgstr "必出★5卡池奖券B"
 
 msgid "UMO_currency_2003_desc"
-msgstr ""
+msgstr "用于抽取必出★5卡池的奖券"
 
 msgid "UMO_currency_2004_name"
-msgstr ""
+msgstr "必出★5卡池奖券C"
 
 msgid "UMO_currency_2004_desc"
-msgstr ""
+msgstr "用于抽取必出★5卡池的奖券"
 
 msgid "UMO_currency_2008_name"
-msgstr ""
+msgstr "必出★5每日免费卡池奖券 5月"
 
 msgid "UMO_currency_2008_desc"
-msgstr ""
+msgstr "用于抽取每日免费必出★5卡池的奖券"
 
 msgid "UMO_currency_2009_name"
-msgstr ""
+msgstr "必出★5每日免费卡池奖券 6月"
 
 msgid "UMO_currency_2009_desc"
-msgstr ""
+msgstr "用于抽取每日免费必出★5卡池的奖券"
 
 msgid "UMO_currency_2010_name"
-msgstr ""
+msgstr "必出★5每日免费卡池奖券 7月"
 
 msgid "UMO_currency_2010_desc"
-msgstr ""
+msgstr "用于抽取每日免费必出★5卡池的奖券"
 
 msgid "UMO_currency_2101_name"
-msgstr ""
+msgstr "抽卡奖券"
 
 msgid "UMO_currency_2101_desc"
-msgstr ""
+msgstr "用于抽卡的奖券"
 
 msgid "UMO_currency_2201_name"
-msgstr ""
+msgstr "活动卡池奖券（收集A）"
 
 msgid "UMO_currency_2201_desc"
 msgstr ""
@@ -1641,40 +1641,40 @@ msgid "UMO_currency_2209_desc"
 msgstr ""
 
 msgid "UMO_currency_3001_name"
-msgstr ""
+msgstr "春日泪晶"
 
 msgid "UMO_currency_3001_desc"
-msgstr ""
+msgstr "购买歌晶石的赠品（3/1～5/31）"
 
 msgid "UMO_currency_3002_name"
-msgstr ""
+msgstr "夏日泪晶"
 
 msgid "UMO_currency_3002_desc"
-msgstr ""
+msgstr "购买歌晶石的赠品（6/1～8/31）"
 
 msgid "UMO_currency_3003_name"
-msgstr ""
+msgstr "秋日泪晶"
 
 msgid "UMO_currency_3003_desc"
-msgstr ""
+msgstr "购买歌晶石的赠品（9/1～11/31）"
 
 msgid "UMO_currency_3004_name"
-msgstr ""
+msgstr "冬日泪晶"
 
 msgid "UMO_currency_3004_desc"
-msgstr ""
+msgstr "购买歌晶石的赠品（12/1～2/28）"
 
 msgid "UMO_currency_3005_name"
-msgstr ""
+msgstr "服装解放卡片兑换券"
 
 msgid "UMO_currency_3005_desc"
-msgstr ""
+msgstr "服装解放卡片兑换券"
 
 msgid "UMO_currency_4001_name"
-msgstr ""
+msgstr "娘娘抽奖☆奖券"
 
 msgid "UMO_currency_4001_desc"
-msgstr ""
+msgstr "用于在娘娘抽奖☆中抽奖"
 
 msgid "UMO_currency_4002_name"
 msgstr ""
@@ -1695,40 +1695,49 @@ msgid "UMO_currency_4004_desc"
 msgstr ""
 
 msgid "UMO_currency_5001_name"
-msgstr ""
+msgstr "贺岁礼"
 
 msgid "UMO_currency_5001_desc"
 msgstr ""
 
 msgid "UMO_currency_5002_name"
-msgstr ""
+msgstr "夏日奖券"
 
 msgid "UMO_currency_5002_desc"
-msgstr ""
+msgstr "夏日奖券"
 
 msgid "UMO_product_178088_name"
 msgstr ""
 
 msgid "UMO_product_178088_desc_name"
-msgstr ""
+msgstr "新手限定卡池"
 
 msgid "UMO_product_429267_name"
 msgstr ""
 
 msgid "UMO_product_429267_desc_name"
-msgstr ""
+msgstr "必出★5福利卡池"
 
 msgid "UMO_product_429267_desc_desc"
 msgstr ""
+"可消耗必出★5福利卡池奖券\n"
+"抽取★5卡片。\n"
+"※2022/3/31更新卡池阵容"
 
 msgid "UMO_product_429712_name"
 msgstr ""
 
 msgid "UMO_product_429712_desc_name"
-msgstr ""
+msgstr "福利卡池"
 
 msgid "UMO_product_429712_desc_desc"
 msgstr ""
+"\n"
+"早·中·晚\n"
+"每天可免费抽取3次的卡池。\n"
+"\n"
+"“这样的服务，一天只有3次哦！”\n"
+"　　　　　　　　　　　　　－雪莉露·诺姆－"
 
 msgid "UMO_product_429927_name"
 msgstr ""
@@ -1738,54 +1747,59 @@ msgstr ""
 
 msgid "UMO_product_429927_desc_desc"
 msgstr ""
+"可消耗超时空奖券\n"
+"抽取★1～★6卡片。\n"
+"※2022/5/1更新卡池阵容"
 
 msgid "UMO_product_429928_name"
 msgstr ""
 
 msgid "UMO_product_429928_desc_free_msg"
-msgstr ""
+msgstr "1次免费！"
 
 msgid "UMO_product_429928_desc_name"
-msgstr ""
+msgstr "必出★5以上卡池"
 
 msgid "UMO_product_429929_name"
 msgstr ""
 
 msgid "UMO_product_429929_desc_free_msg"
-msgstr ""
+msgstr "1次免费！"
 
 msgid "UMO_product_429929_desc_kakutei"
-msgstr ""
+msgstr "必出10张★5以上卡片"
 
 msgid "UMO_product_429929_desc_name"
-msgstr ""
+msgstr "必出★5以上卡池"
 
 msgid "UMO_product_429930_name"
 msgstr ""
 
 msgid "UMO_product_429930_desc_free_msg"
-msgstr ""
+msgstr "1次免费！"
 
 msgid "UMO_product_429930_desc_kakutei"
-msgstr ""
+msgstr "必出10张★5以上卡片"
 
 msgid "UMO_product_429930_desc_name"
-msgstr ""
+msgstr "必出★5以上卡池"
 
 msgid "UMO_product_430020_name"
 msgstr ""
 
 msgid "UMO_product_430020_desc_free_msg"
-msgstr ""
+msgstr "10连抽免费"
 
 msgid "UMO_product_430020_desc_free_multi_msg"
 msgstr ""
+"每天1次\n"
+"免费！"
 
 msgid "UMO_product_430020_desc_name"
-msgstr ""
+msgstr "免费10连卡池"
 
 msgid "UMO_product_67554_name"
-msgstr ""
+msgstr "继续"
 
 msgid "UMO_product_67554_desc"
 msgstr ""
