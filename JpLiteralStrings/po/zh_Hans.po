@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-16 11:28+0000\n"
+"PO-Revision-Date: 2024-12-17 03:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -105,7 +105,7 @@ msgid "StringLiteral_9787"
 msgstr "<color=yellow>限时体力回复道具删除</color>"
 
 msgid "StringLiteral_9788"
-msgstr ""
+msgstr "<color=pink>登录天数="
 
 msgid "StringLiteral_9793"
 msgstr "体力"
@@ -228,7 +228,7 @@ msgid "StringLiteral_10150"
 msgstr "体力回复道具"
 
 msgid "StringLiteral_10151"
-msgstr "MV票"
+msgstr "MV观影票"
 
 msgid "StringLiteral_10152"
 msgstr "奖章"
@@ -264,88 +264,88 @@ msgid "StringLiteral_10162"
 msgstr "家具"
 
 msgid "StringLiteral_10163"
-msgstr ""
+msgstr "房间Q版人物"
 
 msgid "StringLiteral_10164"
-msgstr ""
+msgstr "表情台词"
 
 msgid "StringLiteral_10165"
-msgstr ""
+msgstr "特殊家具"
 
 msgid "StringLiteral_10166"
-msgstr ""
+msgstr "战机强化素材"
 
 msgid "StringLiteral_10167"
 msgstr ""
 
 msgid "StringLiteral_10168"
-msgstr ""
+msgstr "房间海报"
 
 msgid "StringLiteral_10169"
-msgstr ""
+msgstr "房间海报（进化前）"
 
 msgid "StringLiteral_10170"
-msgstr ""
+msgstr "房间海报（进化后）"
 
 msgid "StringLiteral_10171"
-msgstr ""
+msgstr "协力战道具"
 
 msgid "StringLiteral_10172"
-msgstr ""
+msgstr "表情角色"
 
 msgid "StringLiteral_10173"
-msgstr ""
+msgstr "家具套装"
 
 msgid "StringLiteral_10174"
-msgstr ""
+msgstr "家具飞机模型"
 
 msgid "StringLiteral_10175"
-msgstr ""
+msgstr "家具服装模特架"
 
 msgid "StringLiteral_10176"
 msgstr ""
 
 msgid "StringLiteral_10177"
-msgstr ""
+msgstr "大厅背景"
 
 msgid "StringLiteral_10178"
 msgstr ""
 
 msgid "StringLiteral_10282"
-msgstr ""
+msgstr "AP回满"
 
 msgid "StringLiteral_10294"
-msgstr ""
+msgstr "超时空SNS"
 
 msgid "StringLiteral_10298"
-msgstr ""
+msgstr "领取登陆奖励！"
 
 msgid "StringLiteral_10299"
-msgstr ""
+msgstr "登录2天送100颗歌晶石！现在就登录吧！"
 
 msgid "StringLiteral_10303"
-msgstr ""
+msgstr "歌晶石优惠活动开启！"
 
 msgid "StringLiteral_10304"
-msgstr ""
+msgstr "歌晶石礼包限时优惠，抓紧时间购买吧！"
 
 msgid "StringLiteral_10309"
-msgstr ""
+msgstr "体力回复"
 
 msgid "StringLiteral_10310"
-msgstr ""
+msgstr "体力已回满！"
 
 msgid "StringLiteral_10314"
-msgstr ""
+msgstr "？？？"
 
 msgid "StringLiteral_10338"
-msgstr ""
+msgstr "已超过购买上限"
 
 msgid "StringLiteral_10339"
-msgstr ""
+msgstr "持有数量不足"
 
 msgid "StringLiteral_10340"
-msgstr ""
+msgstr "没有Sakasho的商品"
 
 msgid "StringLiteral_10345"
 msgstr ""
@@ -354,13 +354,13 @@ msgid "StringLiteral_10346"
 msgstr ""
 
 msgid "StringLiteral_10416"
-msgstr ""
+msgstr "<color=pink>刷新高分记录 "
 
 msgid "StringLiteral_10431"
-msgstr ""
+msgstr "新手限定卡池"
 
 msgid "StringLiteral_10443"
-msgstr ""
+msgstr "卡片"
 
 msgid "StringLiteral_11015"
 msgstr ""
@@ -390,46 +390,46 @@ msgid "StringLiteral_11069"
 msgstr "辅助"
 
 msgid "StringLiteral_11070"
-msgstr ""
+msgstr "生物F"
 
 msgid "StringLiteral_11071"
-msgstr ""
+msgstr "稀有度提升"
 
 msgid "StringLiteral_11072"
-msgstr ""
+msgstr "音符期待值"
 
 msgid "StringLiteral_11073"
-msgstr ""
+msgstr "其他1"
 
 msgid "StringLiteral_11074"
-msgstr ""
+msgstr "其他2"
 
 msgid "StringLiteral_11075"
-msgstr ""
+msgstr "其他3"
 
 msgid "StringLiteral_11076"
-msgstr ""
+msgstr "其他4"
 
 msgid "StringLiteral_11077"
-msgstr ""
+msgstr "其他5"
 
 msgid "StringLiteral_11078"
-msgstr ""
+msgstr "开始"
 
 msgid "StringLiteral_11079"
-msgstr ""
+msgstr "回忆片段"
 
 msgid "StringLiteral_11081"
-msgstr ""
+msgstr "无限"
 
 msgid "StringLiteral_11082"
-msgstr ""
+msgstr "剧情"
 
 msgid "StringLiteral_11083"
-msgstr ""
+msgstr "剩余"
 
 msgid "StringLiteral_11085"
-msgstr ""
+msgstr "MAX"
 
 msgid "StringLiteral_11086"
 msgstr ""
@@ -444,64 +444,64 @@ msgid "StringLiteral_11090"
 msgstr ""
 
 msgid "StringLiteral_11115"
-msgstr ""
+msgstr "必出1张★5卡片"
 
 msgid "StringLiteral_11117"
-msgstr ""
+msgstr "抽卡"
 
 msgid "StringLiteral_11118"
-msgstr ""
+msgstr "必出1张★4卡片"
 
 msgid "StringLiteral_11128"
-msgstr ""
+msgstr "新手"
 
 msgid "StringLiteral_11129"
-msgstr ""
+msgstr "折"
 
 msgid "StringLiteral_11130"
-msgstr ""
+msgstr "常规"
 
 msgid "StringLiteral_11136"
-msgstr ""
+msgstr "标准3D"
 
 msgid "StringLiteral_11137"
-msgstr ""
+msgstr "简化3D"
 
 msgid "StringLiteral_11139"
-msgstr ""
+msgstr "自定义"
 
 msgid "StringLiteral_11163"
 msgstr ""
 
 msgid "StringLiteral_11164"
-msgstr ""
+msgstr "FULL COMBO"
 
 msgid "StringLiteral_11165"
-msgstr ""
+msgstr "PERFECT FULL COMBO"
 
 msgid "StringLiteral_11167"
 msgstr ""
 
 msgid "StringLiteral_11168"
-msgstr ""
+msgstr "空战模式"
 
 msgid "StringLiteral_11170"
-msgstr ""
+msgstr "歌姬模式"
 
 msgid "StringLiteral_11171"
-msgstr ""
+msgstr "超歌姬模式"
 
 msgid "StringLiteral_11173"
-msgstr ""
+msgstr "未使用"
 
 msgid "StringLiteral_11174"
-msgstr ""
+msgstr "已使用"
 
 msgid "StringLiteral_11428"
-msgstr ""
+msgstr "支援攻击"
 
 msgid "StringLiteral_11429"
-msgstr ""
+msgstr "全力攻击"
 
 msgid "StringLiteral_11430"
 msgstr ""
