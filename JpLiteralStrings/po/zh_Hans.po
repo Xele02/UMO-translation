@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-17 03:28+0000\n"
+"PO-Revision-Date: 2024-12-17 05:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -504,19 +504,19 @@ msgid "StringLiteral_11429"
 msgstr "全力攻击"
 
 msgid "StringLiteral_11430"
-msgstr ""
+msgstr "Macross加农"
 
 msgid "StringLiteral_11431"
-msgstr ""
+msgstr "普通攻击"
 
 msgid "StringLiteral_11476"
-msgstr ""
+msgstr "登记"
 
 msgid "StringLiteral_11477"
-msgstr ""
+msgstr "解除"
 
 msgid "StringLiteral_11776"
-msgstr ""
+msgstr "信息"
 
 msgid "StringLiteral_11781"
 msgstr ""
@@ -552,82 +552,98 @@ msgid "StringLiteral_11865"
 msgstr ""
 
 msgid "StringLiteral_11845"
-msgstr ""
+msgstr "周二"
 
 msgid "StringLiteral_11846"
-msgstr ""
+msgstr "周三"
 
 msgid "StringLiteral_11847"
-msgstr ""
+msgstr "周四"
 
 msgid "StringLiteral_11848"
-msgstr ""
+msgstr "周五"
 
 msgid "StringLiteral_11849"
-msgstr ""
+msgstr "周六"
 
 msgid "StringLiteral_11911"
-msgstr ""
+msgstr "客户端错误"
 
 msgid "StringLiteral_11912"
-msgstr ""
+msgstr "已发送好友申请"
 
 msgid "StringLiteral_11913"
-msgstr ""
+msgstr "好友数量上限"
 
 msgid "StringLiteral_11914"
-msgstr ""
+msgstr "好友确认"
 
 msgid "StringLiteral_11915"
-msgstr ""
+msgstr "搜索失败"
 
 msgid "StringLiteral_11916"
-msgstr ""
+msgstr "绑定失败"
 
 msgid "StringLiteral_11917"
-msgstr ""
+msgstr "申请失败"
 
 msgid "StringLiteral_11918"
-msgstr ""
+msgstr "网络连接错误"
 
 msgid "StringLiteral_11920"
 msgstr ""
+"\n"
+"\n"
+"错误代码： "
 
 msgid "StringLiteral_11921"
-msgstr ""
+msgstr "数据更新"
 
 msgid "StringLiteral_11922"
-msgstr ""
+msgstr "日期变动"
 
 msgid "StringLiteral_11923"
-msgstr ""
+msgstr "日期已发生变动。"
 
 msgid "StringLiteral_11927"
-msgstr ""
+msgstr "储存空间不足"
 
 msgid "StringLiteral_11928"
 msgstr ""
+"文件下载失败。\n"
+"可能与系统存储\n"
+"空间不足有关。\n"
+"要重试吗？"
 
 msgid "StringLiteral_11929"
-msgstr ""
+msgstr "下载失败"
 
 msgid "StringLiteral_11930"
 msgstr ""
+"文件下载失败。\n"
+"请确认网络连接是否正常，\n"
+"然后重试。"
 
 msgid "StringLiteral_11955"
 msgstr ""
+"与服务器连接超时。要重试吗？\n"
+"点击取消将返回标题界面。"
 
 msgid "StringLiteral_11956"
 msgstr ""
+"连接超时。\n"
+"将返回标题界面。"
 
 msgid "StringLiteral_11962"
-msgstr ""
+msgstr "错误"
 
 msgid "StringLiteral_11972"
-msgstr ""
+msgstr "内部错误"
 
 msgid "StringLiteral_11973"
 msgstr ""
+"发生错误。\n"
+"将返回标题界面。"
 
 msgid "StringLiteral_11992"
 msgstr ""
