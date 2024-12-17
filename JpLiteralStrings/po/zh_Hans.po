@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-17 05:28+0000\n"
+"PO-Revision-Date: 2024-12-17 07:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -626,7 +626,7 @@ msgstr ""
 
 msgid "StringLiteral_11955"
 msgstr ""
-"与服务器连接超时。要重试吗？\n"
+"与服务器连接超时。是否重试？\n"
 "点击取消将返回标题界面。"
 
 msgid "StringLiteral_11956"
@@ -649,100 +649,103 @@ msgid "StringLiteral_11992"
 msgstr ""
 
 msgid "StringLiteral_12004"
-msgstr ""
+msgstr "礼物"
 
 msgid "StringLiteral_12005"
-msgstr ""
+msgstr "点击"
 
 msgid "StringLiteral_12010"
-msgstr ""
+msgstr "服装名称"
 
 msgid "StringLiteral_12037"
-msgstr ""
+msgstr "　"
 
 msgid "StringLiteral_12038"
-msgstr ""
+msgstr "…"
 
 msgid "StringLiteral_12097"
 msgstr ""
 
 msgid "StringLiteral_12139"
-msgstr ""
+msgstr "派遣任务已完成"
 
 msgid "StringLiteral_12141"
-msgstr ""
+msgstr "小队"
 
 msgid "StringLiteral_12148"
-msgstr ""
+msgstr "Ⅰ"
 
 msgid "StringLiteral_12149"
-msgstr ""
+msgstr "Ⅱ"
 
 msgid "StringLiteral_12150"
-msgstr ""
+msgstr "Ⅲ"
 
 msgid "StringLiteral_12151"
-msgstr ""
+msgstr "Ⅳ"
 
 msgid "StringLiteral_12152"
-msgstr ""
+msgstr "Ⅴ"
 
 msgid "StringLiteral_12215"
-msgstr ""
+msgstr "解锁条件"
 
 msgid "StringLiteral_12223"
 msgstr ""
 
 msgid "StringLiteral_12297"
-msgstr ""
+msgstr "上升"
 
 msgid "StringLiteral_12298"
-msgstr ""
+msgstr "获得 "
 
 msgid "StringLiteral_12300"
-msgstr ""
+msgstr "上升 "
 
 msgid "StringLiteral_12326"
-msgstr ""
+msgstr "新手礼包（有附赠）"
 
 msgid "StringLiteral_12327"
-msgstr ""
+msgstr "优惠礼包A"
 
 msgid "StringLiteral_12328"
-msgstr ""
+msgstr "优惠礼包B"
 
 msgid "StringLiteral_12329"
-msgstr ""
+msgstr "歌晶石礼包A"
 
 msgid "StringLiteral_12330"
-msgstr ""
+msgstr "歌晶石礼包B"
 
 msgid "StringLiteral_12331"
-msgstr ""
+msgstr "歌晶石礼包C"
 
 msgid "StringLiteral_12332"
-msgstr ""
+msgstr "歌晶石礼包D"
 
 msgid "StringLiteral_12333"
-msgstr ""
+msgstr "歌晶石礼包E"
 
 msgid "StringLiteral_12334"
-msgstr ""
+msgstr "歌晶石礼包F"
 
 msgid "StringLiteral_12335"
-msgstr ""
+msgstr "歌晶石礼包G"
 
 msgid "StringLiteral_12459"
-msgstr ""
+msgstr "与服务器连接超时。"
 
 msgid "StringLiteral_12462"
 msgstr ""
+"发生错误。\n"
+"\n"
+"（错误代码：{0}）"
 
 msgid "StringLiteral_12526"
-msgstr ""
+msgstr "通用"
 
 msgid "StringLiteral_12528"
-msgstr ""
+msgstr "专用"
 
 msgid "StringLiteral_12532"
 msgstr ""
@@ -769,130 +772,130 @@ msgid "StringLiteral_12619"
 msgstr ""
 
 msgid "StringLiteral_12640"
-msgstr ""
+msgstr "<color=cyan>重新创建本地存档</color>"
 
 msgid "StringLiteral_12692"
-msgstr ""
+msgstr "回满体力"
 
 msgid "StringLiteral_12693"
-msgstr ""
+msgstr "通知"
 
 msgid "StringLiteral_12695"
-msgstr ""
+msgstr "房间模式"
 
 msgid "StringLiteral_12696"
-msgstr ""
+msgstr "限时道具"
 
 msgid "StringLiteral_12839"
-msgstr ""
+msgstr "观看序章"
 
 msgid "StringLiteral_12840"
-msgstr ""
+msgstr "下载资源 0%"
 
 msgid "StringLiteral_12841"
-msgstr ""
+msgstr "下载资源 10%"
 
 msgid "StringLiteral_12842"
-msgstr ""
+msgstr "下载资源 20%"
 
 msgid "StringLiteral_12843"
-msgstr ""
+msgstr "下载资源 30%"
 
 msgid "StringLiteral_12844"
-msgstr ""
+msgstr "下载资源 40%"
 
 msgid "StringLiteral_12845"
-msgstr ""
+msgstr "下载资源 50%"
 
 msgid "StringLiteral_12846"
-msgstr ""
+msgstr "下载资源 60%"
 
 msgid "StringLiteral_12847"
-msgstr ""
+msgstr "下载资源 70%"
 
 msgid "StringLiteral_12848"
-msgstr ""
+msgstr "下载资源 80%"
 
 msgid "StringLiteral_12849"
-msgstr ""
+msgstr "下载资源 90%"
 
 msgid "StringLiteral_12850"
-msgstr ""
+msgstr "下载资源 100%"
 
 msgid "StringLiteral_12851"
-msgstr ""
+msgstr "冒险1"
 
 msgid "StringLiteral_12852"
-msgstr ""
+msgstr "延迟校正"
 
 msgid "StringLiteral_12853"
-msgstr ""
+msgstr "重新校正延迟"
 
 msgid "StringLiteral_12854"
-msgstr ""
+msgstr "第1次演出"
 
 msgid "StringLiteral_12855"
-msgstr ""
+msgstr "跳过第1次演出"
 
 msgid "StringLiteral_12856"
-msgstr ""
+msgstr "第1次演出结束"
 
 msgid "StringLiteral_12857"
-msgstr ""
+msgstr "开始冒险2"
 
 msgid "StringLiteral_12858"
-msgstr ""
+msgstr "卡池一览"
 
 msgid "StringLiteral_12859"
-msgstr ""
+msgstr "开始抽卡"
 
 msgid "StringLiteral_12860"
-msgstr ""
+msgstr "抽卡结果"
 
 msgid "StringLiteral_12861"
-msgstr ""
+msgstr "开始编队"
 
 msgid "StringLiteral_12862"
-msgstr ""
+msgstr "结束编队"
 
 msgid "StringLiteral_12863"
-msgstr ""
+msgstr "第2次演出"
 
 msgid "StringLiteral_12864"
-msgstr ""
+msgstr "跳过第2次演出"
 
 msgid "StringLiteral_12865"
-msgstr ""
+msgstr "第2次演出结束"
 
 msgid "StringLiteral_12866"
-msgstr ""
+msgstr "开始冒险3"
 
 msgid "StringLiteral_12867"
-msgstr ""
+msgstr "开始超时空SNS"
 
 msgid "StringLiteral_12868"
-msgstr ""
+msgstr "超时空SNS结束"
 
 msgid "StringLiteral_12869"
-msgstr ""
+msgstr "输入名称"
 
 msgid "StringLiteral_12870"
-msgstr ""
+msgstr "名称输入完毕"
 
 msgid "StringLiteral_12871"
-msgstr ""
+msgstr "选择歌姬"
 
 msgid "StringLiteral_12872"
-msgstr ""
+msgstr "登场歌姬"
 
 msgid "StringLiteral_12873"
-msgstr ""
+msgstr "战机登场"
 
 msgid "StringLiteral_12874"
-msgstr ""
+msgstr "主要资源下载 0%"
 
 msgid "StringLiteral_12875"
-msgstr ""
+msgstr "主要资源下载 10%"
 
 msgid "StringLiteral_12876"
 msgstr ""
@@ -922,130 +925,130 @@ msgid "StringLiteral_12884"
 msgstr ""
 
 msgid "StringLiteral_12885"
-msgstr ""
+msgstr "登录奖励"
 
 msgid "StringLiteral_12886"
-msgstr ""
+msgstr "到达大厅界面"
 
 msgid "StringLiteral_12887"
-msgstr ""
+msgstr "到达任务界面"
 
 msgid "StringLiteral_12888"
-msgstr ""
+msgstr "普通掉落"
 
 msgid "StringLiteral_12889"
-msgstr ""
+msgstr "剧情掉落"
 
 msgid "StringLiteral_12890"
-msgstr ""
+msgstr "充值"
 
 msgid "StringLiteral_12891"
-msgstr ""
+msgstr "抽卡"
 
 msgid "StringLiteral_12892"
-msgstr ""
+msgstr "演出达成"
 
 msgid "StringLiteral_12893"
-msgstr ""
+msgstr "礼物箱"
 
 msgid "StringLiteral_11202"
-msgstr ""
+msgstr "免费抽卡"
 
 msgid "StringLiteral_11203"
-msgstr ""
+msgstr "超时空奖券"
 
 msgid "StringLiteral_11216"
-msgstr ""
+msgstr "每日任务"
 
 msgid "StringLiteral_11217"
-msgstr ""
+msgstr "SNS任务"
 
 msgid "StringLiteral_11218"
-msgstr ""
+msgstr "新手任务"
 
 msgid "StringLiteral_11219"
-msgstr ""
+msgstr "普通任务"
 
 msgid "StringLiteral_11220"
-msgstr ""
+msgstr "活动任务"
 
 msgid "StringLiteral_11221"
-msgstr ""
+msgstr "Bingo任务"
 
 msgid "StringLiteral_11223"
-msgstr ""
+msgstr "申请"
 
 msgid "StringLiteral_11224"
-msgstr ""
+msgstr "通过"
 
 msgid "StringLiteral_11225"
-msgstr ""
+msgstr "删除"
 
 msgid "StringLiteral_11226"
-msgstr ""
+msgstr "拒绝好友申请"
 
 msgid "StringLiteral_11227"
-msgstr ""
+msgstr "取消申请"
 
 msgid "StringLiteral_11245"
-msgstr ""
+msgstr "歌唱石"
 
 msgid "StringLiteral_11248"
-msgstr ""
+msgstr "已回答完毕"
 
 msgid "StringLiteral_12894"
-msgstr ""
+msgstr "活动达成点数"
 
 msgid "StringLiteral_12895"
-msgstr ""
+msgstr "登录奖励"
 
 msgid "StringLiteral_12896"
-msgstr ""
+msgstr "活动登录奖励"
 
 msgid "StringLiteral_12897"
-msgstr ""
+msgstr "商店"
 
 msgid "StringLiteral_12898"
-msgstr ""
+msgstr "活动抽奖"
 
 msgid "StringLiteral_12899"
-msgstr ""
+msgstr "赠送货币自动转换"
 
 msgid "StringLiteral_12900"
-msgstr ""
+msgstr "获得AR称号"
 
 msgid "StringLiteral_12901"
-msgstr ""
+msgstr "亲密度首次奖励"
 
 msgid "StringLiteral_12902"
-msgstr ""
+msgstr "亲密度奖励"
 
 msgid "StringLiteral_12903"
-msgstr ""
+msgstr "任务活动勋章"
 
 msgid "StringLiteral_12904"
-msgstr ""
+msgstr "战斗任务等级称号"
 
 msgid "StringLiteral_12905"
-msgstr ""
+msgstr "VF派遣任务"
 
 msgid "StringLiteral_12906"
-msgstr ""
+msgstr "VF派遣任务首次奖励"
 
 msgid "StringLiteral_12907"
-msgstr ""
+msgstr "强化服装"
 
 msgid "StringLiteral_12908"
-msgstr ""
+msgstr "月卡登录奖励"
 
 msgid "StringLiteral_12909"
-msgstr ""
+msgstr "月卡续费特典"
 
 msgid "StringLiteral_12910"
-msgstr ""
+msgstr "VF派遣任务歌晶石"
 
 msgid "StringLiteral_12911"
-msgstr ""
+msgstr "战机技能强化"
 
 msgid "StringLiteral_12912"
 msgstr ""
