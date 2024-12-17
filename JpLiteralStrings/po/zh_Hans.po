@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-17 07:28+0000\n"
+"PO-Revision-Date: 2024-12-17 09:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -288,7 +288,7 @@ msgid "StringLiteral_10170"
 msgstr "房间海报（进化后）"
 
 msgid "StringLiteral_10171"
-msgstr "协力战道具"
+msgstr "团队战道具"
 
 msgid "StringLiteral_10172"
 msgstr "表情角色"
@@ -1051,115 +1051,115 @@ msgid "StringLiteral_12911"
 msgstr "战机技能强化"
 
 msgid "StringLiteral_12912"
-msgstr ""
+msgstr "已击败团战Boss"
 
 msgid "StringLiteral_12913"
-msgstr ""
+msgstr "团战Boss MVP"
 
 msgid "StringLiteral_12914"
-msgstr ""
+msgstr "团战Boss首攻"
 
 msgid "StringLiteral_12915"
-msgstr ""
+msgstr "家具商店"
 
 msgid "StringLiteral_12916"
-msgstr ""
+msgstr "奖章生成器"
 
 msgid "StringLiteral_12917"
 msgstr ""
 
 msgid "StringLiteral_12918"
-msgstr ""
+msgstr "访问房间"
 
 msgid "StringLiteral_12919"
-msgstr ""
+msgstr "团战教程"
 
 msgid "StringLiteral_12920"
-msgstr ""
+msgstr "AP回复赠送"
 
 msgid "StringLiteral_12921"
-msgstr ""
+msgstr "稀有提升星盘自动转换"
 
 msgid "StringLiteral_12922"
-msgstr ""
+msgstr "领取演出跳过券"
 
 msgid "StringLiteral_12923"
-msgstr ""
+msgstr "使用稀有提升星盘"
 
 msgid "StringLiteral_12924"
-msgstr ""
+msgstr "秘密板块扩充"
 
 msgid "StringLiteral_12925"
-msgstr ""
+msgstr "歌手等级奖励"
 
 msgid "StringLiteral_12926"
-msgstr ""
+msgstr "高级月卡登录奖励"
 
 msgid "StringLiteral_12927"
-msgstr ""
+msgstr "其他"
 
 msgid "StringLiteral_12928"
-msgstr ""
+msgstr "活动剧情"
 
 msgid "StringLiteral_12929"
-msgstr ""
+msgstr "轮播Banner"
 
 msgid "StringLiteral_12930"
-msgstr ""
+msgstr "活动主页"
 
 msgid "StringLiteral_12931"
-msgstr ""
+msgstr "活动日常"
 
 msgid "StringLiteral_12932"
 msgstr ""
 
 msgid "StringLiteral_12933"
-msgstr ""
+msgstr "活动Banner"
 
 msgid "StringLiteral_12934"
-msgstr ""
+msgstr "活动气泡"
 
 msgid "StringLiteral_12935"
-msgstr ""
+msgstr "特设活动主页"
 
 msgid "StringLiteral_12936"
-msgstr ""
+msgstr "大厅自动播放"
 
 msgid "StringLiteral_12937"
-msgstr ""
+msgstr "能力板块"
 
 msgid "StringLiteral_12943"
-msgstr ""
+msgstr "战机小队"
 
 msgid "StringLiteral_13053"
-msgstr ""
+msgstr "★[0-9]"
 
 msgid "StringLiteral_13085"
-msgstr ""
+msgstr "道具"
 
 msgid "StringLiteral_13101"
-msgstr ""
+msgstr "5分钟内"
 
 msgid "StringLiteral_13102"
-msgstr ""
+msgstr "分钟前"
 
 msgid "StringLiteral_13103"
-msgstr ""
+msgstr "小时前"
 
 msgid "StringLiteral_13104"
-msgstr ""
+msgstr "天前"
 
 msgid "StringLiteral_13105"
-msgstr ""
+msgstr "365天以上"
 
 msgid "StringLiteral_13106"
-msgstr ""
+msgstr "1小时前"
 
 msgid "StringLiteral_13238"
 msgstr ""
 
 msgid "StringLiteral_13316"
-msgstr ""
+msgstr "默认3D模式设置： "
 
 msgid "StringLiteral_13620"
 msgstr ""
@@ -1177,7 +1177,7 @@ msgid "StringLiteral_13977"
 msgstr ""
 
 msgid "StringLiteral_14007"
-msgstr ""
+msgstr "×{0}"
 
 msgid "StringLiteral_14024"
 msgstr ""
@@ -1186,16 +1186,16 @@ msgid "StringLiteral_14032"
 msgstr ""
 
 msgid "StringLiteral_14355"
-msgstr ""
+msgstr "今天内不再显示"
 
 msgid "StringLiteral_14401"
-msgstr ""
+msgstr "+按钮"
 
 msgid "StringLiteral_14529"
 msgstr ""
 
 msgid "StringLiteral_14769"
-msgstr ""
+msgstr "{0}"
 
 msgid "StringLiteral_14832"
 msgstr ""
@@ -1207,106 +1207,109 @@ msgid "StringLiteral_14845"
 msgstr ""
 
 msgid "StringLiteral_15053"
-msgstr ""
+msgstr "回忆片段“"
 
 msgid "StringLiteral_15054"
-msgstr ""
+msgstr "”"
 
 msgid "StringLiteral_15055"
-msgstr ""
+msgstr " 专用服装"
 
 msgid "StringLiteral_15265"
-msgstr ""
+msgstr "持有："
 
 msgid "StringLiteral_15475"
-msgstr ""
+msgstr "返回大厅"
 
 msgid "StringLiteral_15476"
-msgstr ""
+msgstr "访问列表"
 
 msgid "StringLiteral_15477"
-msgstr ""
+msgstr "一键收取"
 
 msgid "StringLiteral_15478"
 msgstr ""
 
 msgid "StringLiteral_15479"
-msgstr ""
+msgstr "<color=red>** 未找到家具点数兑换商店 **</color>"
 
 msgid "StringLiteral_15480"
-msgstr ""
+msgstr "兑换商店"
 
 msgid "StringLiteral_15497"
-msgstr ""
+msgstr "能量填充器"
 
 msgid "StringLiteral_15509"
-msgstr ""
+msgstr "表情一览"
 
 msgid "StringLiteral_15510"
-msgstr ""
+msgstr "制作表情"
 
 msgid "StringLiteral_15524"
-msgstr ""
+msgstr "刷新"
 
 msgid "StringLiteral_15525"
-msgstr ""
+msgstr "制作"
 
 msgid "StringLiteral_15528"
-msgstr ""
+msgstr "选择"
 
 msgid "StringLiteral_15538"
-msgstr ""
+msgstr "保存"
 
 msgid "StringLiteral_15542"
-msgstr ""
+msgstr "更改名称"
 
 msgid "StringLiteral_15546"
 msgstr ""
 
 msgid "StringLiteral_15553"
-msgstr ""
+msgstr "返回自己的房间"
 
 msgid "StringLiteral_15554"
-msgstr ""
+msgstr "从访问目的地返回访问大厅"
 
 msgid "StringLiteral_15651"
-msgstr ""
+msgstr "手动"
 
 msgid "StringLiteral_15697"
-msgstr ""
+msgstr "{0}　{1}{2}"
 
 msgid "StringLiteral_15750"
-msgstr ""
+msgstr "到下一奖励还有{0}{1}"
 
 msgid "StringLiteral_15778"
-msgstr ""
+msgstr "附加奖励"
 
 msgid "StringLiteral_15794"
-msgstr ""
+msgstr "剩余 {0} {1}"
 
 msgid "StringLiteral_15830"
-msgstr ""
+msgstr "可同时使用的道具"
 
 msgid "StringLiteral_15831"
-msgstr ""
+msgstr "个。"
 
 msgid "StringLiteral_16059"
-msgstr ""
+msgstr "最近登录："
 
 msgid "StringLiteral_16060"
-msgstr ""
+msgstr "申请："
 
 msgid "StringLiteral_16095"
 msgstr ""
 
 msgid "StringLiteral_16155"
-msgstr ""
+msgstr "点击服装列表 : {0} : {1}"
 
 msgid "StringLiteral_16162"
 msgstr ""
+"【解放条件】\n"
+"\n"
+"玩家等级达到8级。"
 
 msgid "StringLiteral_16170"
-msgstr ""
+msgstr "点击礼物列表 : {0} : {1}"
 
 msgid "StringLiteral_16338"
 msgstr ""
@@ -1315,115 +1318,120 @@ msgid "StringLiteral_16339"
 msgstr ""
 
 msgid "StringLiteral_16417"
-msgstr ""
+msgstr "首次冒险"
 
 msgid "StringLiteral_16418"
-msgstr ""
+msgstr "自己的房间"
 
 msgid "StringLiteral_16419"
 msgstr ""
+"【解放条件】\n"
+"\n"
+"玩家等级达到5级。"
 
 msgid "StringLiteral_16496"
 msgstr ""
+"无法提升\n"
+"未解锁角色的亲密度。"
 
 msgid "StringLiteral_16775"
-msgstr ""
+msgstr "配置数 {0:D2} / {1:D2}"
 
 msgid "StringLiteral_17446"
 msgstr ""
 
 msgid "StringLiteral_17754"
-msgstr ""
+msgstr "（＋{0}）"
 
 msgid "StringLiteral_17777"
-msgstr ""
+msgstr "未获得任何道具。"
 
 msgid "StringLiteral_17787"
-msgstr ""
+msgstr "%"
 
 msgid "StringLiteral_17788"
-msgstr ""
+msgstr "（UC道具已转换为{0}UC）"
 
 msgid "StringLiteral_17960"
-msgstr ""
+msgstr "{0}次"
 
 msgid "StringLiteral_18022"
-msgstr ""
+msgstr "使用技能"
 
 msgid "StringLiteral_18023"
-msgstr ""
+msgstr "{0}秒"
 
 msgid "StringLiteral_18024"
-msgstr ""
+msgstr "：{0}"
 
 msgid "StringLiteral_18054"
-msgstr ""
+msgstr "～{0}秒"
 
 msgid "StringLiteral_18067"
-msgstr ""
+msgstr "体力已回复至{0}"
 
 msgid "StringLiteral_18280"
-msgstr ""
+msgstr "棱镜"
 
 msgid "StringLiteral_18787"
-msgstr ""
+msgstr "获得联盟货币"
 
 msgid "StringLiteral_18797"
-msgstr ""
+msgstr "选择小队"
 
 msgid "StringLiteral_18843"
-msgstr ""
+msgstr "结果页"
 
 msgid "StringLiteral_18923"
-msgstr ""
+msgstr "选择条件"
 
 msgid "StringLiteral_18944"
-msgstr ""
+msgstr "选择形态"
 
 msgid "StringLiteral_18949"
-msgstr ""
+msgstr "选择战机"
 
 msgid "StringLiteral_19017"
-msgstr ""
+msgstr "生日"
 
 msgid "StringLiteral_19018"
-msgstr ""
+msgstr "{0}/{1}/{2}　{3}"
 
 msgid "StringLiteral_19422"
-msgstr ""
+msgstr "排名"
 
 msgid "StringLiteral_19427"
-msgstr ""
+msgstr "～"
 
 msgid "StringLiteral_19428"
-msgstr ""
+msgstr "位："
 
 msgid "StringLiteral_19432"
-msgstr ""
+msgstr "【{0}】"
 
 msgid "StringLiteral_19433"
-msgstr ""
+msgstr "活动歌曲稀有掉落"
 
 msgid "StringLiteral_19538"
-msgstr ""
+msgstr "伤害"
 
 msgid "StringLiteral_19639"
-msgstr ""
+msgstr "无限期"
 
 msgid "StringLiteral_19612"
-msgstr ""
+msgstr "编队组合"
 
 msgid "StringLiteral_19704"
 msgstr ""
 
 msgid "StringLiteral_20178"
-msgstr ""
+msgstr " ★"
 
 msgid "StringLiteral_20179"
 msgstr ""
 
 msgid "StringLiteral_20180"
-msgstr ""
+msgstr "然而 "
 
 msgid "StringLiteral_20181"
 msgstr ""
@@ -1435,13 +1443,13 @@ msgid "StringLiteral_20367"
 msgstr ""
 
 msgid "StringLiteral_20369"
-msgstr ""
+msgstr "±{0}"
 
 msgid "StringLiteral_20382"
-msgstr ""
+msgstr "（可使用2次）"
 
 msgid "StringLiteral_20383"
-msgstr ""
+msgstr "<color={0}>（可使用2次）</color>"
 
 msgid "StringLiteral_20406"
 msgstr ""
@@ -1462,19 +1470,19 @@ msgid "StringLiteral_20470"
 msgstr ""
 
 msgid "StringLiteral_20864"
-msgstr ""
+msgstr "自动编队"
 
 msgid "StringLiteral_20882"
-msgstr ""
+msgstr "(<color={1}>↑{0}</color>)"
 
 msgid "StringLiteral_21607"
-msgstr ""
+msgstr "???12"
 
 msgid "UMO_login_38788_name"
-msgstr ""
+msgstr "服装解放支援登陆奖励③"
 
 msgid "UMO_login_38788_desc"
-msgstr ""
+msgstr "服装解放支援登陆奖励③"
 
 msgid "UMO_login_38788_prize1_msg"
 msgstr ""
