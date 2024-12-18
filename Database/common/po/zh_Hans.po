@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-18 05:28+0000\n"
+"PO-Revision-Date: 2024-12-18 10:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/common/zh_Hans/>\n"
@@ -107,7 +107,7 @@ msgid "saka_error0027"
 msgstr "该玩家的邀请码无效。"
 
 msgid "saka_error0028"
-msgstr "没有信息。"
+msgstr "未找到信息。"
 
 msgid "saka_error0029"
 msgstr "无法绑定Facebook账号。"
@@ -119,172 +119,180 @@ msgid "saka_error0031"
 msgstr "排行榜已关闭。"
 
 msgid "saka_error0032"
-msgstr ""
+msgstr "未找到排行榜。"
 
 msgid "saka_error0033"
-msgstr ""
+msgstr "排行榜未开放。"
 
 msgid "saka_error0034"
-msgstr ""
+msgstr "结果统计中。"
 
 msgid "saka_error0035"
-msgstr ""
+msgstr "未参与排名或排名在范围之外。"
 
 msgid "saka_error0036"
-msgstr ""
+msgstr "排行榜未开放。"
 
 msgid "saka_error0037"
-msgstr ""
+msgstr "已超过领取期限，无法领取。"
 
 msgid "saka_error0038"
-msgstr ""
+msgstr "结果统计中。"
 
 msgid "saka_error0039"
-msgstr ""
+msgstr "继承码无效。"
 
 msgid "saka_error0040"
-msgstr ""
+msgstr "购买失败。"
 
 msgid "saka_error0041"
-msgstr ""
+msgstr "购买失败。请检查设置后重试。"
 
 msgid "saka_error0042"
-msgstr ""
+msgstr "发生错误。请重启游戏。"
 
 msgid "saka_error0043"
-msgstr ""
+msgstr "无效的购买信息。"
 
 msgid "saka_error0044"
-msgstr ""
+msgstr "未定义"
 
 msgid "saka_error0045"
-msgstr ""
+msgstr "无法购买。"
 
 msgid "saka_error0046"
-msgstr ""
+msgstr "已取消购买。"
 
 msgid "saka_error0047"
-msgstr ""
+msgstr "无法进行通知推送。"
 
 msgid "saka_error0048"
 msgstr ""
+"无法进行通知推送。\n"
+"请检查通知权限是否开启，然后重试。"
 
 msgid "saka_error0049"
-msgstr ""
+msgstr "不正当输入。"
 
 msgid "saka_error0050"
 msgstr ""
+"有新版本可下载。\n"
+"将跳转至应用商店。"
 
 msgid "saka_error0051"
 msgstr ""
 
 msgid "saka_error0052"
-msgstr ""
+msgstr "账号继承受限。"
 
 msgid "saka_error0053"
-msgstr ""
+msgstr "已锁定。请等待一段时间，然后重试。"
 
 msgid "saka_error0054"
-msgstr ""
+msgstr "未找到主题。"
 
 msgid "saka_error0055"
-msgstr ""
+msgstr "未找到评论。"
 
 msgid "saka_error0056"
-msgstr ""
+msgstr "没有权限。"
 
 msgid "saka_error0057"
-msgstr ""
+msgstr "无法继续发送。"
 
 msgid "saka_error0058"
-msgstr ""
+msgstr "服务器维护中。"
 
 msgid "saka_error0059"
 msgstr ""
+"此账号目前\n"
+"无法登录。\n"
+"若有疑问，\n"
+"请咨询客服。"
 
 msgid "saka_error0060"
-msgstr ""
+msgstr "此账号目前无法使用。"
 
 msgid "saka_error0061"
-msgstr ""
+msgstr "没有可以领取的排名奖励。"
 
 msgid "saka_error0062"
-msgstr ""
+msgstr "无法继续使用此功能。"
 
 msgid "saka_error0063"
-msgstr ""
+msgstr "无法购买。"
 
 msgid "saka_error0064"
-msgstr ""
+msgstr "已停止购买。"
 
 msgid "saka_error0065"
-msgstr ""
+msgstr "请登记生日。"
 
 msgid "saka_error0066"
-msgstr ""
+msgstr "未加入工会"
 
 msgid "saka_error0067"
-msgstr ""
+msgstr "此ID的工会不存在"
 
 msgid "saka_error0068"
-msgstr ""
+msgstr "工会人数已达上限。"
 
 msgid "saka_error0069"
-msgstr ""
+msgstr "无法使用此功能。"
 
 msgid "saka_error0070"
-msgstr ""
+msgstr "您所在的地区不在服务范围内，无法使用。"
 
 msgid "saka_error0071"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0072"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0073"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0074"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0075"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0076"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0077"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0078"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0079"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0080"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0081"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0082"
-msgstr ""
+msgstr "STEP UP抽卡次数已达上限。"
 
 msgid "saka_error0083"
-msgstr ""
+msgstr "绑定Twitter账号失败。"
 
 msgid "saka_error0084"
-msgstr ""
+msgstr "无法绑定Twitter账号。"
 
 msgid "saka_error0085"
-msgstr ""
+msgstr "无法绑定LINE账号。"
 
 msgid "saka_error0086"
-msgstr ""
+msgstr "绑定LINE账号失败。"
 
 msgid "saka_error0087"
-msgstr ""
+msgstr "绑定LINE账号失败。"
 
 msgid "saka_error0088"
 msgstr ""
@@ -329,7 +337,7 @@ msgid "saka_error0101"
 msgstr ""
 
 msgid "saka_error0102"
-msgstr ""
+msgstr "奖券数量不足"
 
 msgid "saka_error0103"
 msgstr ""
@@ -410,151 +418,202 @@ msgid "saka_error0128"
 msgstr ""
 
 msgid "update_error0000"
-msgstr ""
+msgstr "当前已是最新版本。"
 
 msgid "update_error0001"
 msgstr ""
+"发现新版本。\n"
+"将返回标题界面。"
 
 msgid "update_error0002"
 msgstr ""
+"有新的下载数据。\n"
+"将返回标题界面。"
 
 msgid "game_popup_pause_title"
-msgstr ""
+msgstr "已暂停"
 
 msgid "game_popup_pause_text"
 msgstr ""
+"歌曲\n"
+"{0}\n"
+"\n"
+"难度\n"
+"{1}"
 
 msgid "game_popup_continue_title"
-msgstr ""
+msgstr "继续演出"
 
 msgid "game_popup_continue_text"
 msgstr ""
+"消耗{0}颗歌晶石\n"
+"以继续演出。\n"
+"\n"
+"<color=#C8087E>歌晶石　{1}→{2}</color>"
 
 msgid "game_popup_continue_text_01"
-msgstr ""
+msgstr "确定要继续吗？"
 
 msgid "game_popup_continue_shotage_text"
 msgstr ""
+"所需歌晶石不足。\n"
+"要前往购买吗？"
 
 msgid "game_popup_continue_story_text"
 msgstr ""
+"确定要继续吗？\n"
+"<color=#C8087E>※本次不消耗歌晶石。</color>"
 
 msgid "game_popup_retire_title"
-msgstr ""
+msgstr "放弃演出"
 
 msgid "game_popup_retire_text"
 msgstr ""
+"放弃演出将无法获取任何奖励。\n"
+"\n"
+"真的要放弃吗？"
 
 msgid "game_popup_retire_text_battle"
 msgstr ""
+"放弃演出将无法获取任何奖励。\n"
+"真的要放弃吗？\n"
+"\n"
+"<color=#8e0529>※若放弃EX战演出，EX能量槽将清零。</color>"
 
 msgid "game_popup_retire_text_godiva"
 msgstr ""
+"放弃演出将无法获取任何奖励。\n"
+"真的要放弃吗？\n"
+"\n"
+"<color=#8e0529>※若放弃特别演出，\n"
+"演出加成将消失。</color>"
 
 msgid "game_popup_retire_story_text"
-msgstr ""
+msgstr "真的要放弃演出吗？"
 
 msgid "game_popup_skip_title"
-msgstr ""
+msgstr "跳过演出"
 
 msgid "game_popup_skip_story_text"
-msgstr ""
+msgstr "真的要跳过吗？"
 
 msgid "game_tutorial_skip_title"
-msgstr ""
+msgstr "跳过演出"
 
 msgid "game_tutorial_skip_text"
 msgstr ""
+"要跳过演出\n"
+"直接前往下一步吗？"
 
 msgid "mlv_unlock_00"
-msgstr ""
+msgstr "将{0}的歌姬等级升至{1}"
 
 msgid "mlv_unlock_01"
 msgstr ""
+"使用{0}\n"
+"将{1}的歌姬熟练度升至{2}"
 
 msgid "popup_inh_title_000"
-msgstr ""
+msgstr "绑定社交账号"
 
 msgid "popup_inh_sns_000"
 msgstr ""
+"可通过绑定社交账号\n"
+"来保存游玩数据。"
 
 msgid "popup_inh_sns_001"
-msgstr ""
+msgstr "※在未绑定账号的情况下卸载游戏，将会丧失游玩数据。"
 
 msgid "popup_inh_sns_002"
-msgstr ""
+msgstr "下次不再显示"
 
 msgid "popup_inh_sns_003"
-msgstr ""
+msgstr "30天内不再显示。"
 
 msgid "popup_inh_title_001"
-msgstr ""
+msgstr "输入密码"
 
 msgid "popup_inh_pass_000"
 msgstr ""
+"输入正确的玩家ID和密码，\n"
+"即可继承其它设备上的\n"
+"游玩数据。"
 
 msgid "popup_inh_pass_001"
-msgstr ""
+msgstr "密码"
 
 msgid "popup_inh_title_002"
-msgstr ""
+msgstr "设备更换步骤"
 
 msgid "popup_inh_title_003"
-msgstr ""
+msgstr "生成密码"
 
 msgid "popup_inh_pass_002"
 msgstr ""
+"将生成数据转移密码。\n"
+"请务必小心保管，\n"
+"切勿透露给第三方或将其公开。\n"
+"\n"
+"<color=#c8087e>※密码生成后，将在一周后过期。\n"
+"成功继承账号后密码将失效。</color>\n"
 
 msgid "popup_inh_pass_003"
 msgstr ""
+"在标题界面（或菜单界面）→继承账号→数据转移\n"
+"输入以下的玩家ID和密码，\n"
+"即可进行账号继承。"
 
 msgid "popup_inh_pass_004"
-msgstr ""
+msgstr "玩家ID"
 
 msgid "popup_inh_title_004"
-msgstr ""
+msgstr "账号继承成功"
 
 msgid "popup_inh_pass_success"
 msgstr ""
+"已成功继承账号。\n"
+"将返回标题界面。"
 
 msgid "popup_inh_title_005"
-msgstr ""
+msgstr "账号继承失败"
 
 msgid "popup_inh_pass_success_no"
-msgstr ""
+msgstr "玩家ID或密码错误。"
 
 msgid "popup_inh_pass_timeover"
-msgstr ""
+msgstr "密码已过期。"
 
 msgid "popup_inh_pass_countover"
-msgstr ""
+msgstr "30天内最多只能进行3次账号继承。"
 
 msgid "popup_inh_title_006"
-msgstr ""
+msgstr "没有游玩数据"
 
 msgid "popup_inh_nodata"
 msgstr ""
+"没有游玩数据\n"
+"无法生成密码。"
 
 msgid "popup_inh_procedure"
 msgstr ""
 
 msgid "popup_inh_desc001"
-msgstr ""
+msgstr "输入玩家ID"
 
 msgid "popup_inh_desc002"
-msgstr ""
+msgstr "输入密码"
 
 msgid "popup_twitter_title"
-msgstr ""
+msgstr "绑定Twitter"
 
 msgid "popup_facebook_title"
-msgstr ""
+msgstr "绑定Facebook"
 
 msgid "popup_line_title"
-msgstr ""
+msgstr "绑定LINE"
 
 msgid "popup_apple_title"
-msgstr ""
+msgstr "绑定Apple ID"
 
 msgid "popup_twitter_success"
 msgstr ""
@@ -584,22 +643,22 @@ msgid "popup_apple_cancel"
 msgstr ""
 
 msgid "popup_window_inh_title"
-msgstr ""
+msgstr "继承账号数据"
 
 msgid "unlock_episode_reward"
-msgstr ""
+msgstr "回忆片段解放{0}达成！"
 
 msgid "popup_support_title"
-msgstr ""
+msgstr "帮助"
 
 msgid "popup_maintenance_title"
-msgstr ""
+msgstr "维护"
 
 msgid "popup_ban_title"
-msgstr ""
+msgstr "警告"
 
 msgid "popup_app_update_title"
-msgstr ""
+msgstr "游戏版本更新"
 
 msgid "popup_app_update_an"
 msgstr ""
@@ -611,16 +670,18 @@ msgid "cache_clear_00"
 msgstr ""
 
 msgid "cache_clear_01"
-msgstr ""
+msgstr "已成功修复数据。"
 
 msgid "cache_clear_02"
-msgstr ""
+msgstr "数据修复"
 
 msgid "cache_clear_03"
-msgstr ""
+msgstr "数据修复成功"
 
 msgid "cache_clear_04"
 msgstr ""
+"已成功修复数据。\n"
+"将返回标题界面。"
 
 msgid "cache_clear_05"
 msgstr ""
@@ -651,18 +712,24 @@ msgstr ""
 
 msgid "popup_purchase_recover_store_server_error_an"
 msgstr ""
+"发生错误。\n"
+"\n"
+"错误代码：88"
 
 msgid "pp_mail_subject"
-msgstr ""
+msgstr "[歌之超时空要塞]账号继承密码"
 
 msgid "pp_mail_body"
 msgstr ""
+"玩家ID：{0}\n"
+"密码：{1}\n"
+"有效期：{2}\n"
 
 msgid "popup_inh_migration_desc"
-msgstr ""
+msgstr "选择数据转移方式"
 
 msgid "popup_inh_migration_title"
-msgstr ""
+msgstr "数据转移"
 
 msgid "popup_title_amount_over"
 msgstr ""
@@ -847,121 +914,148 @@ msgid "popup_datetile"
 msgstr "日期已发生变动。"
 
 msgid "popup_title_data"
-msgstr ""
+msgstr "数据更新"
 
 msgid "popup_title_data_error"
-msgstr ""
+msgstr "服务器数据错误"
 
 msgid "popup_data_error"
 msgstr ""
+"服务器数据出现异常。\n"
+"将返回标题界面。"
 
 msgid "popup_title_app_error"
-msgstr ""
+msgstr "应用错误"
 
 msgid "popup_app_error"
-msgstr ""
+msgstr "应用出现异常。"
 
 msgid "popup_app_error_stop"
 msgstr ""
+"应用出现异常。\n"
+"无法正常启动游戏。"
 
 msgid "notify_comback_title"
-msgstr ""
+msgstr "信息"
 
 msgid "notify_comback_01"
-msgstr ""
+msgstr "我一直在等你哦！"
 
 msgid "notify_comback_02"
-msgstr ""
+msgstr "是时候该爱上我的歌声了吧？"
 
 msgid "notify_comback_03"
-msgstr ""
+msgstr "你不在的日子，总感觉有点沉闷"
 
 msgid "notify_comback_04"
-msgstr ""
+msgstr "等你等了好久，快来见见我吧~！"
 
 msgid "notify_comback_05"
-msgstr ""
+msgstr "见不到你，心总像针扎似的…"
 
 msgid "notify_comback_06"
-msgstr ""
+msgstr "好久不见，来聊会儿天吧！"
 
 msgid "notify_comback_07"
-msgstr ""
+msgstr "快来见见我吧，等你好久了"
 
 msgid "notify_comback_08"
-msgstr ""
+msgstr "演出就要开始了！快来快来！"
 
 msgid "notify_comback_09"
-msgstr ""
+msgstr "快来听我的歌吧！"
 
 msgid "notify_comback_10"
-msgstr ""
+msgstr "好久不见，来和我见会面吗？"
 
 msgid "popup_ngword_error_title"
-msgstr ""
+msgstr "保存错误"
 
 msgid "popup_ngword_error_message"
 msgstr ""
+"存在无法使用的文字。\n"
+"请进行更改。"
 
 msgid "popup_kiyaku_title"
-msgstr ""
+msgstr "同意用户协议"
 
 msgid "popup_kiyaku_001"
-msgstr ""
+msgstr "要同意用户协议吗？"
 
 msgid "popup_kiyaku_002"
 msgstr ""
+"在游玩歌之超时空要塞前，\n"
+"必须先同意用户协议。"
 
 msgid "popup_not_play_title"
-msgstr ""
+msgstr "无法游玩"
 
 msgid "popup_not_play_001"
 msgstr ""
+"在游玩歌之超时空要塞前，\n"
+"必须先同意用户协议。"
 
 msgid "attention"
 msgstr ""
+"■注意■\n"
+"未成年人需在监护人同意下游玩。"
 
 msgid "popup_friend_limit_title"
-msgstr ""
+msgstr "好友已满"
 
 msgid "popup_friend_limit_01"
-msgstr ""
+msgstr "好友数量已达到上限。"
 
 msgid "popup_friend_limit_02"
 msgstr ""
+"{0}\n"
+"的好友数量已达到上限。"
 
 msgid "popup_already_send_title"
-msgstr ""
+msgstr "已发送好友申请"
 
 msgid "popup_already_send_01"
 msgstr ""
+"已向{0}\n"
+"发送过好友申请。"
 
 msgid "popup_accept_fail_title"
-msgstr ""
+msgstr "通过失败"
 
 msgid "popup_accept_fail_01"
-msgstr ""
+msgstr "好友通过失败。"
 
 msgid "popup_already_friend_title"
-msgstr ""
+msgstr "好友状态"
 
 msgid "popup_already_friend_01"
-msgstr ""
+msgstr "已与该玩家成为好友。"
 
 msgid "popup_delete_request_fail_tilte"
-msgstr ""
+msgstr "取消好友申请失败"
 
 msgid "popup_delete_request_fail_01"
 msgstr ""
+"好友申请已被通过\n"
+"或拒绝\n"
+"无法取消好友申请。"
 
 msgid "popup_present_expire_title"
-msgstr ""
+msgstr "领取失败"
 
 msgid "popup_present_expire_01"
 msgstr ""
+"即将领取的道具\n"
+"已超过领取期限。\n"
+"\n"
+"将返回标题界面。\n"
 
 msgid "popup_present_expire_02"
 msgstr ""
+"即将领取的道具中\n"
+"有超过领取期限的物品。\n"
+"\n"
+"将返回标题界面。\n"
 
 msgid "popup_purchase_limit_title"
 msgstr ""
@@ -977,12 +1071,17 @@ msgstr ""
 
 msgid "popup_gacha_expire_01"
 msgstr ""
+"该卡池目前无法抽取。\n"
+"将返回标题界面。"
 
 msgid "popup_internal_client_error_title"
-msgstr ""
+msgstr "客户端错误"
 
 msgid "popup_internal_client_error_01"
 msgstr ""
+"发生错误。\n"
+"可能与系统存储\n"
+"空间不足有关。"
 
 msgid "popup_inh_player_not_found"
 msgstr ""
@@ -1037,12 +1136,20 @@ msgstr ""
 
 msgid "popup_lb_already_received"
 msgstr ""
+"已领取登录奖励。\n"
+"请前往礼物箱确认。\n"
+"出现此提示代表\n"
+"网络连接可能不稳定。"
 
 msgid "popup_ranking_ban_01"
 msgstr ""
+"活动出现异常，\n"
+"无法参加。\n"
+"若有疑问，\n"
+"请咨询客服。"
 
 msgid "popup_ranking_ban_tilte"
-msgstr ""
+msgstr "警告"
 
 msgid "popup_inf_line_api_update_title"
 msgstr ""
@@ -1100,15 +1207,17 @@ msgstr ""
 
 msgid "popup_error_storage_size"
 msgstr ""
+"存储空间不足。\n"
+"请确保留有足够的空间。"
 
 msgid "first_present_item_name"
-msgstr ""
+msgstr "新手开始游玩奖励。"
 
 msgid "notify_comback_title_2"
-msgstr ""
+msgstr "快来领取回归奖励吧！"
 
 msgid "notify_comback_text_2"
-msgstr ""
+msgstr "回归奖励歌晶石已发放！现在就登录游戏吧！"
 
 msgid "pop_subscription_confirmation_text"
 msgstr ""
@@ -1120,16 +1229,18 @@ msgid "pop_subscription_data_confirmation_android_text"
 msgstr ""
 
 msgid "popup_s_mas_title"
-msgstr ""
+msgstr "错误"
 
 msgid "popup_s_mas_text"
-msgstr ""
+msgstr "获取服务器数据失败。"
 
 msgid "popup_internal_server_error_retry_text"
 msgstr ""
+"发生错误。要重试吗？\n"
+"点击取消将返回标题界面。"
 
 msgid "popup_costumeselect_home"
-msgstr ""
+msgstr "套用到后台"
 
 msgid "profile_diva001_description_gakuya"
 msgstr ""
@@ -1239,13 +1350,13 @@ msgid "popup_playerdata_error"
 msgstr ""
 
 msgid "popup_account_management_text001"
-msgstr ""
+msgstr "账号管理"
 
 msgid "popup_account_management_text002"
-msgstr ""
+msgstr "继承账号"
 
 msgid "popup_account_management_text003"
-msgstr ""
+msgstr "进行账号数据的继承。"
 
 msgid "popup_account_management_text004"
 msgstr ""
@@ -1254,49 +1365,51 @@ msgid "popup_account_management_text005"
 msgstr ""
 
 msgid "popup_account_management_text006"
-msgstr ""
+msgstr "删除账号"
 
 msgid "popup_account_management_text007"
-msgstr ""
+msgstr "进行账号数据的删除。"
 
 msgid "popup_account_management_text008"
 msgstr ""
+"删除此账号的游玩数据。\n"
+"<color=#C8087E>※数据删除后将无法恢复。</color>"
 
 msgid "popup_account_management_text009"
-msgstr ""
+msgstr "删除账号"
 
 msgid "popup_account_management_text010"
-msgstr ""
+msgstr "关闭"
 
 msgid "popup_account_management_text011"
-msgstr ""
+msgstr "删除账号"
 
 msgid "popup_account_management_text012"
 msgstr ""
 
 msgid "popup_account_management_text013"
-msgstr ""
+msgstr "同意以上事项。"
 
 msgid "popup_account_management_text014"
-msgstr ""
+msgstr "取消"
 
 msgid "popup_account_management_text015"
-msgstr ""
+msgstr "删除账号"
 
 msgid "popup_account_management_text016"
-msgstr ""
+msgstr "删除账号最终确认"
 
 msgid "popup_account_management_text017"
 msgstr ""
 
 msgid "popup_account_management_text018"
-msgstr ""
+msgstr "取消"
 
 msgid "popup_account_management_text019"
 msgstr ""
 
 msgid "popup_account_linkaging_text_none"
-msgstr ""
+msgstr "无"
 
 msgid "popup_account_linkaging_text_facebook"
 msgstr ""
@@ -1314,22 +1427,27 @@ msgid "popup_account_linkaging_text_separator"
 msgstr ""
 
 msgid "popup_account_remove_title"
-msgstr ""
+msgstr "删除账号"
 
 msgid "popup_account_remove_text001"
 msgstr ""
+"正在删除账号数据。\n"
+"处理完成前\n"
+"请勿退出游戏。"
 
 msgid "popup_account_remove_text002"
 msgstr ""
+"账号数据已删除。\n"
+"请退出游戏。"
 
 msgid "popup_account_remove_consent_button"
-msgstr ""
+msgstr "同意事项"
 
 msgid "popup_account_remove_pass_001"
-msgstr ""
+msgstr "无"
 
 msgid "popup_account_remove_pass_002"
-msgstr ""
+msgstr "月卡"
 
 msgid "popup_account_remove_pass_003"
-msgstr ""
+msgstr "高级月卡"
