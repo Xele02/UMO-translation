@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-18 16:22+0000\n"
+"PO-Revision-Date: 2024-12-18 18:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -6412,7 +6412,7 @@ msgid "popup_filter_mainep_title_h2"
 msgstr "解放状况"
 
 msgid "popup_filter_series_title_h2"
-msgstr "歌曲系列"
+msgstr "作品系列"
 
 msgid "popup_filter_diva_val_title_h2"
 msgstr "歌姬/战机"
@@ -7195,10 +7195,10 @@ msgid "unit_unitset_dummy_name"
 msgstr "编队{0}"
 
 msgid "unit_status_skill_regulation_series_y"
-msgstr "由于歌曲系列符合条件，将不会发动此技能效果。"
+msgstr "由于作品系列符合条件，将不会发动此技能效果。"
 
 msgid "unit_status_skill_regulation_series_n"
-msgstr "由于歌曲系列不符合条件，将不会发动此技能效果。"
+msgstr "由于作品系列不符合条件，将不会发动此技能效果。"
 
 msgid "unit_status_skill_regulation_attr"
 msgstr "歌曲属性不符合条件，无法发动。"
@@ -7258,7 +7258,7 @@ msgid "unit_diva_status_leaf_attr"
 msgstr "属性相符+{0}%"
 
 msgid "unit_diva_status_leaf_series"
-msgstr "歌曲系列相符+{0}%"
+msgstr "作品系列符合+{0}%"
 
 msgid "unit_setpopup_text_08"
 msgstr "覆盖前"
@@ -7270,7 +7270,7 @@ msgid "popup_sort_musicselect_sortitem_title_h2"
 msgstr "排序方式"
 
 msgid "popup_sort_item_default"
-msgstr "歌曲系列"
+msgstr "作品系列"
 
 msgid "popup_sort_item_musiclevel"
 msgstr "歌曲等级"
