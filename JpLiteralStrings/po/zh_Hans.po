@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-17 11:28+0000\n"
+"PO-Revision-Date: 2024-12-18 02:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -396,7 +396,7 @@ msgid "StringLiteral_11071"
 msgstr "稀有度提升"
 
 msgid "StringLiteral_11072"
-msgstr "音符期待值"
+msgstr "音符期望值"
 
 msgid "StringLiteral_11073"
 msgstr "其他1"
@@ -1802,31 +1802,31 @@ msgid "UMO_product_67554_name"
 msgstr "继续"
 
 msgid "UMO_product_67554_desc"
-msgstr ""
+msgstr "可在演出失败时继续演出。"
 
 msgid "UMO_product_67572_name"
-msgstr ""
+msgstr "体力回复"
 
 msgid "UMO_product_153192_name"
-msgstr ""
+msgstr "VOP加速完成"
 
 msgid "UMO_product_153192_desc"
-msgstr ""
+msgstr "用于进行VOP加速完成。"
 
 msgid "UMO_product_167079_name"
-msgstr ""
+msgstr "AP回复"
 
 msgid "UMO_product_222423_name"
-msgstr ""
+msgstr "AP回复2"
 
 msgid "UMO_product_222423_desc"
-msgstr ""
+msgstr "AP回复（小）"
 
 msgid "UMO_product_222424_name"
-msgstr ""
+msgstr "AP回复3"
 
 msgid "UMO_product_222424_desc"
-msgstr ""
+msgstr "AP回复（大）"
 
 msgid "UMO_product_428662_name"
 msgstr ""
@@ -1913,16 +1913,16 @@ msgid "UMO_product_428699_name"
 msgstr ""
 
 msgid "UMO_start_present_1"
-msgstr ""
+msgstr "来自歌之超时空要塞的特别礼物。"
 
 msgid "UMO_start_present_2"
-msgstr ""
+msgstr "新手开始游戏奖励。"
 
 msgid "UMO_Next"
 msgstr ""
 
 msgid "UMO_Total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "UMO_Fold"
 msgstr "Fold波"
@@ -1931,46 +1931,46 @@ msgid "UMO_Luck"
 msgstr "幸运"
 
 msgid "UMO_Status"
-msgstr ""
+msgstr "数据面板"
 
 msgid "UMO_SubStatus"
-msgstr ""
+msgstr "支援卡片效果"
 
 msgid "UMO_CenterSkill"
-msgstr ""
+msgstr "中心技能"
 
 msgid "UMO_ActiveSkill"
-msgstr ""
+msgstr "主动技能"
 
 msgid "UMO_LeafLabel"
-msgstr ""
+msgstr "幸运草效果"
 
 msgid "UMO_Excellent"
 msgstr ""
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr ""
+msgstr "中心L技能音符出现概率"
 
 msgid "UMO_Notes"
-msgstr ""
+msgstr "音符期望值"
 
 msgid "UMO_Heal"
-msgstr ""
+msgstr "回复"
 
 msgid "UMO_Score"
-msgstr ""
+msgstr "分数"
 
 msgid "UMO_Atk"
-msgstr ""
+msgstr "攻击"
 
 msgid "UMO_SupportImp"
-msgstr ""
+msgstr "支援卡片未解锁"
 
 msgid "UMO_SupportImp2"
-msgstr ""
+msgstr "解锁条件：通过强化服装解锁支援卡片槽位。"
 
 msgid "UMO_NumLeft"
-msgstr ""
+msgstr "剩余次数"
 
 msgid "UMO_PlayAttr"
 msgstr ""
