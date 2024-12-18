@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-18 03:30+0000\n"
+"PO-Revision-Date: 2024-12-18 05:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/common/zh_Hans/>\n"
@@ -15,100 +15,108 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "saka_error0000"
-msgstr ""
+msgstr "发生错误。"
 
 msgid "saka_error0001"
 msgstr ""
+"发生错误。\n"
+"请等待一段时间后重试。"
 
 msgid "saka_error0002"
 msgstr ""
+"发生连接错误。\n"
+"请确认网络连接是否正常。"
 
 msgid "saka_error0003"
 msgstr ""
+"发生连接错误。\n"
+"请确认网络连接是否正常，然后重试。点击取消将返回标题界面。"
 
 msgid "saka_error0004"
-msgstr ""
+msgstr "未找到文件。"
 
 msgid "saka_error0005"
-msgstr ""
+msgstr "未找到该公告。"
 
 msgid "saka_error0006"
-msgstr ""
+msgstr "现在无法购买。"
 
 msgid "saka_error0007"
-msgstr ""
+msgstr "无法继续购买。"
 
 msgid "saka_error0008"
-msgstr ""
+msgstr "购买失败。"
 
 msgid "saka_error0009"
-msgstr ""
+msgstr "兑换码已使用。"
 
 msgid "saka_error0010"
-msgstr ""
+msgstr "兑换码无效。"
 
 msgid "saka_error0011"
 msgstr ""
+"发生错误。\n"
+"请重启游戏。"
 
 msgid "saka_error0012"
-msgstr ""
+msgstr "存在无法使用的文字。"
 
 msgid "saka_error0013"
-msgstr ""
+msgstr "未找到玩家。"
 
 msgid "saka_error0014"
-msgstr ""
+msgstr "已领取该奖励。"
 
 msgid "saka_error0015"
-msgstr ""
+msgstr "无法领取该奖励。"
 
 msgid "saka_error0016"
-msgstr ""
+msgstr "未找到好友。"
 
 msgid "saka_error0017"
-msgstr ""
+msgstr "您已被该玩家拉黑，无法进行好友申请。"
 
 msgid "saka_error0018"
-msgstr ""
+msgstr "无法申请好友。"
 
 msgid "saka_error0019"
-msgstr ""
+msgstr "拒绝好友申请的玩家。"
 
 msgid "saka_error0020"
-msgstr ""
+msgstr "已经发送过好友申请。"
 
 msgid "saka_error0021"
-msgstr ""
+msgstr "对方的好友数量已达上限。"
 
 msgid "saka_error0022"
-msgstr ""
+msgstr "好友数量已达上限。"
 
 msgid "saka_error0023"
-msgstr ""
+msgstr "邀请码无效。"
 
 msgid "saka_error0024"
-msgstr ""
+msgstr "不能使用自己的邀请码。"
 
 msgid "saka_error0025"
-msgstr ""
+msgstr "邀请码已使用。"
 
 msgid "saka_error0026"
-msgstr ""
+msgstr "此邀请码无效。"
 
 msgid "saka_error0027"
-msgstr ""
+msgstr "该玩家的邀请码无效。"
 
 msgid "saka_error0028"
-msgstr ""
+msgstr "没有信息。"
 
 msgid "saka_error0029"
-msgstr ""
+msgstr "无法绑定Facebook账号。"
 
 msgid "saka_error0030"
-msgstr ""
+msgstr "绑定Facebook账号失败。"
 
 msgid "saka_error0031"
-msgstr ""
+msgstr "排行榜已关闭。"
 
 msgid "saka_error0032"
 msgstr ""
