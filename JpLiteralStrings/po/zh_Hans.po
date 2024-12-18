@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-18 02:28+0000\n"
+"PO-Revision-Date: 2024-12-18 03:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -30,13 +30,13 @@ msgid "StringLiteral_5812"
 msgstr "\n"
 
 msgid "StringLiteral_8278"
-msgstr "已完成初始化进程。若要重新进行初始化，需终止运行。"
+msgstr ""
 
 msgid "StringLiteral_8280"
 msgstr "初始化失败。"
 
 msgid "StringLiteral_8676"
-msgstr "初始稀有度为★3以下的卡片，幸运草数量不为0"
+msgstr ""
 
 msgid "StringLiteral_8686"
 msgstr "无"
@@ -129,7 +129,7 @@ msgid "StringLiteral_9806"
 msgstr "玩家"
 
 msgid "StringLiteral_9807"
-msgstr ""
+msgstr "请多多指教"
 
 msgid "StringLiteral_9829"
 msgstr "房间"
@@ -886,7 +886,7 @@ msgid "StringLiteral_12871"
 msgstr "选择歌姬"
 
 msgid "StringLiteral_12872"
-msgstr "登场歌姬"
+msgstr "歌姬登场"
 
 msgid "StringLiteral_12873"
 msgstr "战机登场"
@@ -1231,7 +1231,7 @@ msgid "StringLiteral_15478"
 msgstr ""
 
 msgid "StringLiteral_15479"
-msgstr "<color=red>** 未找到家具点数兑换商店 **</color>"
+msgstr "<color=red>** 未找到家具点数商店 **</color>"
 
 msgid "StringLiteral_15480"
 msgstr "兑换商店"
@@ -1285,7 +1285,7 @@ msgid "StringLiteral_15794"
 msgstr "剩余 {0} {1}"
 
 msgid "StringLiteral_15830"
-msgstr "可同时使用的道具"
+msgstr "一次可使用的道具数量为"
 
 msgid "StringLiteral_15831"
 msgstr "个。"
@@ -1644,25 +1644,25 @@ msgid "UMO_currency_3001_name"
 msgstr "春日泪晶"
 
 msgid "UMO_currency_3001_desc"
-msgstr "购买歌晶石的赠品（3/1～5/31）"
+msgstr "购买歌晶石附赠获得（3/1～5/31）"
 
 msgid "UMO_currency_3002_name"
 msgstr "夏日泪晶"
 
 msgid "UMO_currency_3002_desc"
-msgstr "购买歌晶石的赠品（6/1～8/31）"
+msgstr "购买歌晶石附赠获得（6/1～8/31）"
 
 msgid "UMO_currency_3003_name"
 msgstr "秋日泪晶"
 
 msgid "UMO_currency_3003_desc"
-msgstr "购买歌晶石的赠品（9/1～11/31）"
+msgstr "购买歌晶石附赠获得（9/1～11/31）"
 
 msgid "UMO_currency_3004_name"
 msgstr "冬日泪晶"
 
 msgid "UMO_currency_3004_desc"
-msgstr "购买歌晶石的赠品（12/1～2/28）"
+msgstr "购买歌晶石附赠获得（12/1～2/28）"
 
 msgid "UMO_currency_3005_name"
 msgstr "服装解放卡片兑换券"
@@ -1695,10 +1695,10 @@ msgid "UMO_currency_4004_desc"
 msgstr ""
 
 msgid "UMO_currency_5001_name"
-msgstr "贺岁礼"
+msgstr "年货"
 
 msgid "UMO_currency_5001_desc"
-msgstr ""
+msgstr "可用于在年货商店兑换物品"
 
 msgid "UMO_currency_5002_name"
 msgstr "夏日奖券"
@@ -1743,7 +1743,7 @@ msgid "UMO_product_429927_name"
 msgstr ""
 
 msgid "UMO_product_429927_desc_name"
-msgstr ""
+msgstr "超时空卡池"
 
 msgid "UMO_product_429927_desc_desc"
 msgstr ""
@@ -1931,7 +1931,7 @@ msgid "UMO_Luck"
 msgstr "幸运"
 
 msgid "UMO_Status"
-msgstr "数据面板"
+msgstr "数值面板"
 
 msgid "UMO_SubStatus"
 msgstr "支援卡片效果"
@@ -1973,67 +1973,67 @@ msgid "UMO_NumLeft"
 msgstr "剩余次数"
 
 msgid "UMO_PlayAttr"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "UMO_PlayAttr2"
-msgstr ""
+msgstr "优先属性"
 
 msgid "UMO_All"
 msgstr ""
 
 msgid "UMO_Attr1"
-msgstr ""
+msgstr "星"
 
 msgid "UMO_Attr2"
-msgstr ""
+msgstr "爱"
 
 msgid "UMO_Attr3"
-msgstr ""
+msgstr "命"
 
 msgid "UMO_PlayStyle"
-msgstr ""
+msgstr "优先条件"
 
 msgid "UMO_PlayStyleScore"
-msgstr ""
+msgstr "分数优先"
 
 msgid "UMO_PlayStyleLife"
-msgstr ""
+msgstr "生命优先"
 
 msgid "UMO_PlayStyleCombo"
-msgstr ""
+msgstr "连击优先"
 
 msgid "UMO_PlayStatus"
-msgstr ""
+msgstr "优先数值"
 
 msgid "UMO_DivaLevel"
-msgstr ""
+msgstr "歌姬Lv"
 
 msgid "UMO_IntimacyLevel"
-msgstr ""
+msgstr "亲密度Lv"
 
 msgid "UMO_CostumeCount"
-msgstr ""
+msgstr "服装持有数"
 
 msgid "UMO_DivaStatus"
-msgstr ""
+msgstr "歌姬数值"
 
 msgid "UMO_CostumeStatus"
-msgstr ""
+msgstr "服装强化数值"
 
 msgid "UMO_SoulTotal"
-msgstr ""
+msgstr "歌魂感召力"
 
 msgid "UMO_VoiceTotal"
-msgstr ""
+msgstr "歌声感召力"
 
 msgid "UMO_CharmTotal"
-msgstr ""
+msgstr "歌魅感召力"
 
 msgid "UMO_DivaRanking"
-msgstr ""
+msgstr "歌姬排名"
 
 msgid "UMO_DivaRankingBtn"
-msgstr ""
+msgstr "查看歌姬排名"
 
 msgid "UMO_Age"
 msgstr "年龄"
@@ -2048,40 +2048,40 @@ msgid "UMO_DivaDesc"
 msgstr "歌姬介绍"
 
 msgid "UMO_Back"
-msgstr ""
+msgstr "返回"
 
 msgid "UMO_Costume"
-msgstr ""
+msgstr "更换服装"
 
 msgid "UMO_Gift"
-msgstr ""
+msgstr "礼物"
 
 msgid "UMO_Profil"
-msgstr ""
+msgstr "个人资料"
 
 msgid "UMO_DivaCompatibility"
-msgstr ""
+msgstr "歌姬适配"
 
 msgid "UMO_SkillFilterActive"
-msgstr ""
+msgstr "设定中"
 
 msgid "UMO_SkillFilterDisableAll"
-msgstr ""
+msgstr "解除选择"
 
 msgid "UMO_SkillFilterLongNote"
-msgstr ""
+msgstr "长时·短时"
 
 msgid "UMO_SkillFilterRank"
-msgstr ""
+msgstr "技能等级"
 
 msgid "UMO_SkillFilterBRank"
-msgstr ""
+msgstr "B级"
 
 msgid "UMO_SkillFilterARank"
-msgstr ""
+msgstr "A级"
 
 msgid "UMO_SkillFilterSRank"
-msgstr ""
+msgstr "S级"
 
 msgid "UMO_SkillFilterSSRank"
 msgstr "SS级"
