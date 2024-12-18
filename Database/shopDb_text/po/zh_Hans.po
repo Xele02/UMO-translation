@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-18 03:30+0000\n"
+"PO-Revision-Date: 2024-12-18 05:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/shopdb_text/zh_Hans/>\n"
@@ -69,28 +69,28 @@ msgid "shop_0017_name"
 msgstr "UC商店"
 
 msgid "shop_0018_name"
-msgstr "超时空年货商店"
+msgstr "超时空贺岁礼商店"
 
 msgid "shop_0019_name"
-msgstr ""
+msgstr "家具点数商店"
 
 msgid "shop_0020_name"
-msgstr ""
+msgstr "超银河奖章商店"
 
 msgid "shop_0021_name"
-msgstr ""
+msgstr "MF演唱会纪念商店"
 
 msgid "shop_0022_name"
-msgstr ""
+msgstr "纪念奖券商店"
 
 msgid "shop_0023_name"
-msgstr ""
+msgstr "服装解放卡片商店"
 
 msgid "shop_0024_name"
-msgstr ""
+msgstr "★1～4回忆卡片商店"
 
 msgid "shop_0025_name"
-msgstr ""
+msgstr "★5～6回忆卡片商店"
 
 msgid "shop_0026_name"
-msgstr ""
+msgstr "服装解放卡片商店"
