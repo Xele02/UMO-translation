@@ -3,72 +3,73 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-18 03:30+0000\n"
+"Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
+"umo/database/shopdb_text/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "shop_0000_name"
-msgstr ""
+msgstr "魔羯座奖章商店"
 
 msgid "shop_0001_name"
-msgstr ""
+msgstr "水瓶座奖章商店"
 
 msgid "shop_0002_name"
-msgstr ""
+msgstr "双鱼座奖章商店"
 
 msgid "shop_0003_name"
-msgstr ""
+msgstr "白羊座奖章商店"
 
 msgid "shop_0004_name"
-msgstr ""
+msgstr "金牛座奖章商店"
 
 msgid "shop_0005_name"
-msgstr ""
+msgstr "双子座奖章商店"
 
 msgid "shop_0006_name"
-msgstr ""
+msgstr "巨蟹座奖章商店"
 
 msgid "shop_0007_name"
-msgstr ""
+msgstr "狮子座奖章商店"
 
 msgid "shop_0008_name"
-msgstr ""
+msgstr "处女座奖章商店"
 
 msgid "shop_0009_name"
-msgstr ""
+msgstr "天秤座奖章商店"
 
 msgid "shop_0010_name"
-msgstr ""
+msgstr "天蝎座奖章商店"
 
 msgid "shop_0011_name"
-msgstr ""
+msgstr "射手座奖章商店"
 
 msgid "shop_0012_name"
-msgstr ""
+msgstr "春日泪晶商店"
 
 msgid "shop_0013_name"
-msgstr ""
+msgstr "夏日泪晶商店"
 
 msgid "shop_0014_name"
-msgstr ""
+msgstr "秋日泪晶商店"
 
 msgid "shop_0015_name"
-msgstr ""
+msgstr "冬日泪晶商店"
 
 msgid "shop_0016_name"
-msgstr ""
+msgstr "道具商店"
 
 msgid "shop_0017_name"
-msgstr ""
+msgstr "UC商店"
 
 msgid "shop_0018_name"
-msgstr ""
+msgstr "超时空年货商店"
 
 msgid "shop_0019_name"
 msgstr ""
