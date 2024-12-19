@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-18 16:22+0000\n"
+"PO-Revision-Date: 2024-12-19 06:02+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/common/zh_Hans/>\n"
@@ -945,13 +945,13 @@ msgid "notify_comback_02"
 msgstr "是时候该爱上我的歌声了吧？"
 
 msgid "notify_comback_03"
-msgstr "你不在的日子，总感觉有点沉闷"
+msgstr "你不在的日子，总感觉闷闷的"
 
 msgid "notify_comback_04"
 msgstr "等你等了好久，快来见见我吧~！"
 
 msgid "notify_comback_05"
-msgstr "见不到你，心总像针扎似的…"
+msgstr "见不到你，心总是刺刺地痛…"
 
 msgid "notify_comback_06"
 msgstr "好久不见，来聊会儿天吧！"
@@ -1356,7 +1356,7 @@ msgid "popup_account_management_text002"
 msgstr "继承账号"
 
 msgid "popup_account_management_text003"
-msgstr "进行账号数据的继承。"
+msgstr "继承目前账号的数据。"
 
 msgid "popup_account_management_text004"
 msgstr ""
@@ -1368,7 +1368,7 @@ msgid "popup_account_management_text006"
 msgstr "删除账号"
 
 msgid "popup_account_management_text007"
-msgstr "进行账号数据的删除。"
+msgstr "删除目前账号的数据。"
 
 msgid "popup_account_management_text008"
 msgstr ""
