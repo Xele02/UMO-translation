@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2024-12-20 06:28+0000\n"
+"PO-Revision-Date: 2024-12-21 17:02+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/diva001/zh_Hans/>\n"
@@ -52,7 +52,7 @@ msgstr ""
 "是不是得再说得有活力一点…？"
 
 msgid "talk_login_01"
-msgstr "早呀。真~是个美丽的早晨呢~"
+msgstr "早呀。真是个美~好的早晨呢~"
 
 msgid "talk_login_02"
 msgstr "今天也要元气满满地唱歌！"
@@ -216,7 +216,7 @@ msgstr ""
 "但还是不要太勉强自己哦"
 
 msgid "touch_reaction_06"
-msgstr "哦哦~真是很棒的风呢~"
+msgstr "感受到了，真是很棒的风呢~"
 
 msgid "touch_reaction_07"
 msgstr ""
@@ -257,7 +257,7 @@ msgid "intimacy_pointup_01"
 msgstr "Rune Rune！"
 
 msgid "intimacy_pointup_02"
-msgstr "真好呀~！"
+msgstr "太好了~！"
 
 msgid "intimacy_pointup_03"
 msgstr "嘿嘿嘿"
@@ -301,7 +301,7 @@ msgstr ""
 
 msgid "present_09"
 msgstr ""
-"听说穿得时髦一点，\n"
+"听说把时髦的东西带在身上，\n"
 "人也会变得活力四射起来…\n"
 "真的假的呀？"
 
@@ -370,7 +370,7 @@ msgstr "芙蕾雅生日"
 
 msgid "talk_event_22"
 msgstr ""
-"美云小姐的生日派对…\n"
+"美云小姐的生日聚会…\n"
 "一定要办得热热闹闹的才行，\n"
 "这样才能留下美好的回忆呢！"
 
