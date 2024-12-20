@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-20 09:28+0000\n"
+"PO-Revision-Date: 2024-12-20 16:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -177,7 +177,7 @@ msgid "StringLiteral_10094"
 msgstr "人"
 
 msgid "StringLiteral_10095"
-msgstr "套"
+msgstr "件"
 
 msgid "StringLiteral_10096"
 msgstr "个"
@@ -694,13 +694,13 @@ msgid "StringLiteral_12223"
 msgstr ""
 
 msgid "StringLiteral_12297"
-msgstr "上升"
+msgstr "提升"
 
 msgid "StringLiteral_12298"
 msgstr "获得 "
 
 msgid "StringLiteral_12300"
-msgstr "上升 "
+msgstr "提升 "
 
 msgid "StringLiteral_12326"
 msgstr "新手礼包（有附赠）"
