@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2024-12-18 18:28+0000\n"
+"PO-Revision-Date: 2024-12-20 09:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -138,10 +138,10 @@ msgid "StringLiteral_9874"
 msgstr "未获得"
 
 msgid "StringLiteral_9949"
-msgstr "必出1张★{0}卡片"
+msgstr "必出1枚★{0}卡片"
 
 msgid "StringLiteral_9950"
-msgstr "必出1张★{0}以上卡片"
+msgstr "必出1枚★{0}以上卡片"
 
 msgid "StringLiteral_10040"
 msgstr "收藏夹1"
@@ -168,7 +168,7 @@ msgid "StringLiteral_10089"
 msgstr "个"
 
 msgid "StringLiteral_10090"
-msgstr ""
+msgstr "枚"
 
 msgid "StringLiteral_10093"
 msgstr "台"
@@ -444,13 +444,13 @@ msgid "StringLiteral_11090"
 msgstr ""
 
 msgid "StringLiteral_11115"
-msgstr "必出1张★5卡片"
+msgstr "必出1枚★5卡片"
 
 msgid "StringLiteral_11117"
 msgstr "抽卡"
 
 msgid "StringLiteral_11118"
-msgstr "必出1张★4卡片"
+msgstr "必出1枚★4卡片"
 
 msgid "StringLiteral_11128"
 msgstr "新手"
@@ -1767,7 +1767,7 @@ msgid "UMO_product_429929_desc_free_msg"
 msgstr "1次免费！"
 
 msgid "UMO_product_429929_desc_kakutei"
-msgstr "必出10张★5以上卡片"
+msgstr "必出10枚★5以上卡片"
 
 msgid "UMO_product_429929_desc_name"
 msgstr "必出★5以上卡池"
@@ -1779,7 +1779,7 @@ msgid "UMO_product_429930_desc_free_msg"
 msgstr "1次免费！"
 
 msgid "UMO_product_429930_desc_kakutei"
-msgstr "必出10张★5以上卡片"
+msgstr "必出10枚★5以上卡片"
 
 msgid "UMO_product_429930_desc_name"
 msgstr "必出★5以上卡池"
