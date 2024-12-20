@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-18 18:28+0000\n"
+"PO-Revision-Date: 2024-12-20 09:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -20375,7 +20375,7 @@ msgid "vc_uni_0001"
 msgstr "颗"
 
 msgid "vc_uni_0002"
-msgstr "张"
+msgstr "枚"
 
 msgid "vc_uni_0003"
 msgstr "UC"
@@ -21399,43 +21399,43 @@ msgstr ""
 "可用于在凯厄斯商店兑换服装解放卡片。"
 
 msgid "bvc_qt_0005"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0006"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0007"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0008"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0009"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0010"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0011"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0012"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0013"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0015"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0016"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0017"
-msgstr "张"
+msgstr "枚"
 
 msgid "bvc_qt_0018"
-msgstr "张"
+msgstr "枚"
 
 msgid "rat_name_0001"
 msgstr "训练兵★1"
@@ -22966,16 +22966,16 @@ msgid "spitm_qt_0008"
 msgstr "DP"
 
 msgid "spitm_qt_0013"
-msgstr "张"
+msgstr "枚"
 
 msgid "spitm_qt_0014"
-msgstr "张"
+msgstr "枚"
 
 msgid "spitm_qt_0015"
-msgstr "张"
+msgstr "枚"
 
 msgid "spitm_qt_0016"
-msgstr "张"
+msgstr "枚"
 
 msgid "btla_cls_0001"
 msgstr "战斗等级 微风（1）"
@@ -25460,13 +25460,13 @@ msgstr ""
 "可在必出★5 Bingo卡池进行抽卡。"
 
 msgid "lmitm_qt_0001"
-msgstr "张"
+msgstr "枚"
 
 msgid "lmitm_qt_0002"
-msgstr "张"
+msgstr "枚"
 
 msgid "lmitm_qt_0003"
-msgstr "张"
+msgstr "枚"
 
 msgid "dc_itm_nm_0001_bg"
 msgstr "初始房间"
