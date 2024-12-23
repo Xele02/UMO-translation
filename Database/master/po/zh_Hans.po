@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-20 16:28+0000\n"
+"PO-Revision-Date: 2024-12-24 06:28+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -13185,622 +13185,770 @@ msgid "em_dsc_0810"
 msgstr ""
 
 msgid "qd_dsc_0001"
-msgstr ""
+msgstr "完成3次演出"
 
 msgid "qd_dsc_0002"
-msgstr ""
+msgstr "以至少S评价完成演出1次"
 
 msgid "qd_dsc_0003"
-msgstr ""
+msgstr "发动主动技能并完成演出1次"
 
 msgid "qd_dsc_0004"
-msgstr ""
+msgstr "抽卡1次"
 
 msgid "qd_dsc_0005"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出1次"
 
 msgid "qd_dsc_0006"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qd_dsc_0007"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qd_dsc_0008"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qd_dsc_0009"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qd_dsc_0010"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qd_dsc_0011"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qd_dsc_0012"
-msgstr ""
+msgstr "完成所有每日任务"
 
 msgid "qn_dsc_0001"
 msgstr ""
+"在【演出】通关歌曲1次\n"
+"奖励卡片：★3“特殊处理”"
 
 msgid "qn_dsc_0002"
 msgstr ""
+"前往【记忆时空】\n"
+"解锁新歌曲"
 
 msgid "qn_dsc_0003"
 msgstr ""
+"达到玩家等级3并招募新的歌姬\n"
+"奖励卡片：★3“阿拉德队长的邀请”"
 
 msgid "qn_dsc_0004"
-msgstr ""
+msgstr "将新招募的歌姬编入队伍"
 
 msgid "qn_dsc_0005"
 msgstr ""
+"通过解放能力\n"
+"来强化卡片"
 
 msgid "qn_dsc_0006"
-msgstr ""
+msgstr "查看超时空SNS"
 
 msgid "qn_dsc_0007"
-msgstr ""
+msgstr "在礼物箱领取奖励"
 
 msgid "qn_dsc_0008"
-msgstr ""
+msgstr "在福利卡池抽卡1次"
 
 msgid "qn_dsc_0009"
-msgstr ""
+msgstr "将卡片编入队伍"
 
 msgid "qn_dsc_0010"
 msgstr ""
+"使用主动技能并完成演出\n"
+"奖励卡片：★5“Welcome to Walküre World”"
 
 msgid "qn_dsc_0011"
 msgstr ""
+"完全解放回忆片段“志在必得的选拔”\n"
+"并获取服装"
 
 msgid "qn_dsc_0012"
 msgstr ""
+"将装备服装【绽放之光】的芙蕾雅\n"
+"设为队伍中心并完成演出"
 
 msgid "qn_dsc_0013"
-msgstr ""
+msgstr "完成所有新手任务"
 
 msgid "qn_dsc_0014"
 msgstr ""
 
 msgid "qn_dsc_0015"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0016"
 msgstr ""
+"完成演出5次\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0017"
-msgstr ""
+msgstr "玩家等级达到5级"
 
 msgid "qn_dsc_0018"
-msgstr ""
+msgstr "获取10枚不同的卡片"
 
 msgid "qn_dsc_0019"
-msgstr ""
+msgstr "将一枚卡片升到10级"
 
 msgid "qn_dsc_0020"
-msgstr ""
+msgstr "累计获得5000联盟货币（UC）"
 
 msgid "qn_dsc_0021"
 msgstr ""
+"通关【超时空要塞F】\n"
+"的歌曲5次"
 
 msgid "qn_dsc_0022"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲5次"
 
 msgid "qn_dsc_0023"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲5次"
 
 msgid "qn_dsc_0024"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲5次"
 
 msgid "qn_dsc_0025"
-msgstr ""
+msgstr "以【VERY HARD】难度完成演出5次"
 
 msgid "qn_dsc_0026"
-msgstr ""
+msgstr "达成1次FULL COMBO"
 
 msgid "qn_dsc_0027"
-msgstr ""
+msgstr "以SS评价完成演出1次"
 
 msgid "qn_dsc_0028"
-msgstr ""
+msgstr "分数最高纪录达到100000以上"
 
 msgid "qn_dsc_0029"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出5次"
 
 msgid "qn_dsc_0030"
 msgstr ""
+"将芙蕾雅升到2级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0031"
 msgstr ""
+"将美云升到2级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0032"
 msgstr ""
+"将要升到2级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0033"
 msgstr ""
+"将玛基娜升到2级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0034"
 msgstr ""
+"将蕾娜升到2级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0035"
 msgstr ""
+"将兰卡升到2级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0036"
 msgstr ""
+"将雪莉露升到2级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0037"
 msgstr ""
+"将明美升到2级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0038"
-msgstr ""
+msgstr "完成10个普通任务"
 
 msgid "qn_dsc_0039"
 msgstr ""
+"完成10次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0040"
 msgstr ""
+"完成20次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0041"
 msgstr ""
+"完成30次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0042"
 msgstr ""
+"完成40次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0043"
 msgstr ""
+"完成50次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0044"
 msgstr ""
+"完成75次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0045"
 msgstr ""
+"完成100次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0046"
 msgstr ""
+"完成150次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0047"
 msgstr ""
+"完成200次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0048"
 msgstr ""
+"完成250次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0049"
 msgstr ""
+"完成300次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0050"
 msgstr ""
+"完成400次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0051"
 msgstr ""
+"完成500次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0052"
 msgstr ""
+"完成600次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0053"
 msgstr ""
+"完成700次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0054"
 msgstr ""
+"完成800次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0055"
 msgstr ""
+"完成900次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0056"
 msgstr ""
+"完成1000次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0057"
 msgstr ""
+"完成1250次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0058"
 msgstr ""
+"完成1500次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0059"
 msgstr ""
+"完成1750次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0060"
 msgstr ""
+"完成2000次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0061"
 msgstr ""
+"完成2250次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0062"
 msgstr ""
+"完成2500次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0063"
 msgstr ""
+"完成2750次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0064"
 msgstr ""
+"完成3000次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0065"
 msgstr ""
+"完成3250次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0066"
 msgstr ""
+"完成3500次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0067"
 msgstr ""
+"完成3750次演出\n"
+"在【大家的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0095"
-msgstr ""
+msgstr "绑定社交账号"
 
 msgid "qn_dsc_0096"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0097"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0098"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0099"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0100"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0101"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0102"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0103"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0104"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0105"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0106"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0107"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0108"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0109"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0110"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0111"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0112"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0113"
-msgstr ""
+msgstr "玩家等级达到6级"
 
 msgid "qn_dsc_0114"
-msgstr ""
+msgstr "玩家等级达到7级"
 
 msgid "qn_dsc_0115"
-msgstr ""
+msgstr "玩家等级达到8级"
 
 msgid "qn_dsc_0116"
-msgstr ""
+msgstr "玩家等级达到9级"
 
 msgid "qn_dsc_0117"
-msgstr ""
+msgstr "玩家等级达到10级"
 
 msgid "qn_dsc_0118"
-msgstr ""
+msgstr "玩家等级达到11级"
 
 msgid "qn_dsc_0119"
-msgstr ""
+msgstr "玩家等级达到12级"
 
 msgid "qn_dsc_0120"
-msgstr ""
+msgstr "玩家等级达到13级"
 
 msgid "qn_dsc_0121"
-msgstr ""
+msgstr "玩家等级达到14级"
 
 msgid "qn_dsc_0122"
-msgstr ""
+msgstr "玩家等级达到15级"
 
 msgid "qn_dsc_0123"
-msgstr ""
+msgstr "玩家等级达到16级"
 
 msgid "qn_dsc_0124"
-msgstr ""
+msgstr "玩家等级达到17级"
 
 msgid "qn_dsc_0125"
-msgstr ""
+msgstr "玩家等级达到18级"
 
 msgid "qn_dsc_0126"
-msgstr ""
+msgstr "玩家等级达到19级"
 
 msgid "qn_dsc_0127"
-msgstr ""
+msgstr "玩家等级达到20级"
 
 msgid "qn_dsc_0128"
-msgstr ""
+msgstr "玩家等级达到21级"
 
 msgid "qn_dsc_0129"
-msgstr ""
+msgstr "玩家等级达到22级"
 
 msgid "qn_dsc_0130"
-msgstr ""
+msgstr "玩家等级达到23级"
 
 msgid "qn_dsc_0131"
-msgstr ""
+msgstr "玩家等级达到24级"
 
 msgid "qn_dsc_0132"
-msgstr ""
+msgstr "获取20枚不同的卡片"
 
 msgid "qn_dsc_0133"
-msgstr ""
+msgstr "获取25枚不同的卡片"
 
 msgid "qn_dsc_0134"
-msgstr ""
+msgstr "获取30枚不同的卡片"
 
 msgid "qn_dsc_0135"
-msgstr ""
+msgstr "获取35枚不同的卡片"
 
 msgid "qn_dsc_0136"
-msgstr ""
+msgstr "获取40枚不同的卡片"
 
 msgid "qn_dsc_0137"
-msgstr ""
+msgstr "获取45枚不同的卡片"
 
 msgid "qn_dsc_0138"
-msgstr ""
+msgstr "获取50枚不同的卡片"
 
 msgid "qn_dsc_0139"
-msgstr ""
+msgstr "获取55枚不同的卡片"
 
 msgid "qn_dsc_0140"
-msgstr ""
+msgstr "获取60枚不同的卡片"
 
 msgid "qn_dsc_0141"
-msgstr ""
+msgstr "获取65枚不同的卡片"
 
 msgid "qn_dsc_0142"
-msgstr ""
+msgstr "获取70枚不同的卡片"
 
 msgid "qn_dsc_0143"
-msgstr ""
+msgstr "将2枚不同的卡片升到10级"
 
 msgid "qn_dsc_0144"
-msgstr ""
+msgstr "将3枚不同的卡片升到10级"
 
 msgid "qn_dsc_0145"
-msgstr ""
+msgstr "将4枚不同的卡片升到10级"
 
 msgid "qn_dsc_0146"
-msgstr ""
+msgstr "将5枚不同的卡片升到10级"
 
 msgid "qn_dsc_0147"
-msgstr ""
+msgstr "将1枚卡片升到20级"
 
 msgid "qn_dsc_0148"
-msgstr ""
+msgstr "将2枚不同的卡片升到20级"
 
 msgid "qn_dsc_0149"
-msgstr ""
+msgstr "将3枚不同的卡片升到20级"
 
 msgid "qn_dsc_0150"
-msgstr ""
+msgstr "将4枚不同的卡片升到20级"
 
 msgid "qn_dsc_0151"
-msgstr ""
+msgstr "将5枚不同的卡片升到20级"
 
 msgid "qn_dsc_0152"
-msgstr ""
+msgstr "将1枚卡片升到30级"
 
 msgid "qn_dsc_0153"
-msgstr ""
+msgstr "将2枚不同的卡片升到30级"
 
 msgid "qn_dsc_0154"
-msgstr ""
+msgstr "将3枚不同的卡片升到30级"
 
 msgid "qn_dsc_0155"
-msgstr ""
+msgstr "将4枚不同的卡片升到30级"
 
 msgid "qn_dsc_0156"
-msgstr ""
+msgstr "将5枚不同的卡片升到30级"
 
 msgid "qn_dsc_0157"
-msgstr ""
+msgstr "将1枚卡片升到50级"
 
 msgid "qn_dsc_0158"
-msgstr ""
+msgstr "将2枚不同的卡片升到50级"
 
 msgid "qn_dsc_0159"
-msgstr ""
+msgstr "将3枚不同的卡片升到50级"
 
 msgid "qn_dsc_0160"
-msgstr ""
+msgstr "将4枚不同的卡片升到50级"
 
 msgid "qn_dsc_0161"
-msgstr ""
+msgstr "将5枚不同的卡片升到50级"
 
 msgid "qn_dsc_0162"
-msgstr ""
+msgstr "将1枚卡片升到70级"
 
 msgid "qn_dsc_0163"
-msgstr ""
+msgstr "将2枚不同的卡片升到70级"
 
 msgid "qn_dsc_0164"
-msgstr ""
+msgstr "将3枚不同的卡片升到70级"
 
 msgid "qn_dsc_0165"
-msgstr ""
+msgstr "将4枚不同的卡片升到70级"
 
 msgid "qn_dsc_0166"
-msgstr ""
+msgstr "将5枚不同的卡片升到70级"
 
 msgid "qn_dsc_0167"
-msgstr ""
+msgstr "将6枚不同的卡片升到70级"
 
 msgid "qn_dsc_0168"
-msgstr ""
+msgstr "将7枚不同的卡片升到70级"
 
 msgid "qn_dsc_0169"
-msgstr ""
+msgstr "将8枚不同的卡片升到70级"
 
 msgid "qn_dsc_0170"
-msgstr ""
+msgstr "将9枚不同的卡片升到70级"
 
 msgid "qn_dsc_0171"
-msgstr ""
+msgstr "将10枚不同的卡片升到70级"
 
 msgid "qn_dsc_0172"
-msgstr ""
+msgstr "将15枚不同的卡片升到70级"
 
 msgid "qn_dsc_0173"
-msgstr ""
+msgstr "将20枚不同的卡片升到70级"
 
 msgid "qn_dsc_0174"
-msgstr ""
+msgstr "将25枚不同的卡片升到70级"
 
 msgid "qn_dsc_0175"
-msgstr ""
+msgstr "将30枚不同的卡片升到70级"
 
 msgid "qn_dsc_0176"
-msgstr ""
+msgstr "将40枚不同的卡片升到70级"
 
 msgid "qn_dsc_0178"
-msgstr ""
+msgstr "累计获得10000联盟货币（UC）"
 
 msgid "qn_dsc_0179"
-msgstr ""
+msgstr "累计获得50000联盟货币（UC）"
 
 msgid "qn_dsc_0180"
-msgstr ""
+msgstr "累计获得100000联盟货币（UC）"
 
 msgid "qn_dsc_0181"
-msgstr ""
+msgstr "累计获得500000联盟货币（UC）"
 
 msgid "qn_dsc_0182"
-msgstr ""
+msgstr "累计获得1000000联盟货币（UC）"
 
 msgid "qn_dsc_0183"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲7次"
 
 msgid "qn_dsc_0184"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲10次"
 
 msgid "qn_dsc_0185"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲15次"
 
 msgid "qn_dsc_0186"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲20次"
 
 msgid "qn_dsc_0187"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲25次"
 
 msgid "qn_dsc_0188"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲50次"
 
 msgid "qn_dsc_0189"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲100次"
 
 msgid "qn_dsc_0190"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲150次"
 
 msgid "qn_dsc_0191"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲200次"
 
 msgid "qn_dsc_0192"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲250次"
 
 msgid "qn_dsc_0193"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲7次"
 
 msgid "qn_dsc_0194"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲10次"
 
 msgid "qn_dsc_0195"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲15次"
 
 msgid "qn_dsc_0196"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲20次"
 
 msgid "qn_dsc_0197"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲25次"
 
 msgid "qn_dsc_0198"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲50次"
 
 msgid "qn_dsc_0199"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲100次"
 
 msgid "qn_dsc_0200"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲150次"
 
 msgid "qn_dsc_0201"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲200次"
 
 msgid "qn_dsc_0202"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲250次"
 
 msgid "qn_dsc_0203"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲7次"
 
 msgid "qn_dsc_0204"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲10次"
 
 msgid "qn_dsc_0205"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲15次"
 
 msgid "qn_dsc_0206"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲20次"
 
 msgid "qn_dsc_0207"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲25次"
 
 msgid "qn_dsc_0208"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲50次"
 
 msgid "qn_dsc_0209"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲100次"
 
 msgid "qn_dsc_0210"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲150次"
 
 msgid "qn_dsc_0211"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲200次"
 
 msgid "qn_dsc_0212"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲250次"
 
 msgid "qn_dsc_0213"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲7次"
 
 msgid "qn_dsc_0214"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲10次"
 
 msgid "qn_dsc_0215"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲15次"
 
 msgid "qn_dsc_0216"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲20次"
 
 msgid "qn_dsc_0217"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲25次"
 
 msgid "qn_dsc_0218"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲50次"
 
 msgid "qn_dsc_0219"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲100次"
 
 msgid "qn_dsc_0220"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲150次"
 
 msgid "qn_dsc_0221"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲200次"
 
 msgid "qn_dsc_0222"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲250次"
 
 msgid "qn_dsc_0223"
 msgstr ""
@@ -13824,562 +13972,692 @@ msgid "qn_dsc_0229"
 msgstr ""
 
 msgid "qn_dsc_0230"
-msgstr ""
+msgstr "达成5次FULL COMBO"
 
 msgid "qn_dsc_0231"
-msgstr ""
+msgstr "达成10次FULL COMBO"
 
 msgid "qn_dsc_0232"
-msgstr ""
+msgstr "达成20次FULL COMBO"
 
 msgid "qn_dsc_0233"
-msgstr ""
+msgstr "达成30次FULL COMBO"
 
 msgid "qn_dsc_0234"
-msgstr ""
+msgstr "达成40次FULL COMBO"
 
 msgid "qn_dsc_0235"
-msgstr ""
+msgstr "达成50次FULL COMBO"
 
 msgid "qn_dsc_0236"
-msgstr ""
+msgstr "达成100次FULL COMBO"
 
 msgid "qn_dsc_0237"
-msgstr ""
+msgstr "达成5次SS评价"
 
 msgid "qn_dsc_0238"
-msgstr ""
+msgstr "达成10次SS评价"
 
 msgid "qn_dsc_0239"
-msgstr ""
+msgstr "达成20次SS评价"
 
 msgid "qn_dsc_0240"
-msgstr ""
+msgstr "达成30次SS评价"
 
 msgid "qn_dsc_0241"
-msgstr ""
+msgstr "达成40次SS评价"
 
 msgid "qn_dsc_0242"
-msgstr ""
+msgstr "达成50次SS评价"
 
 msgid "qn_dsc_0243"
-msgstr ""
+msgstr "达成100次SS评价"
 
 msgid "qn_dsc_0244"
-msgstr ""
+msgstr "分数最高纪录达到150000以上"
 
 msgid "qn_dsc_0245"
-msgstr ""
+msgstr "分数最高纪录达到200000以上"
 
 msgid "qn_dsc_0246"
-msgstr ""
+msgstr "分数最高纪录达到250000以上"
 
 msgid "qn_dsc_0247"
-msgstr ""
+msgstr "分数最高纪录达到300000以上"
 
 msgid "qn_dsc_0248"
-msgstr ""
+msgstr "分数最高纪录达到350000以上"
 
 msgid "qn_dsc_0249"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出10次"
 
 msgid "qn_dsc_0250"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出20次"
 
 msgid "qn_dsc_0251"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出50次"
 
 msgid "qn_dsc_0252"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出100次"
 
 msgid "qn_dsc_0253"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出150次"
 
 msgid "qn_dsc_0254"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出200次"
 
 msgid "qn_dsc_0255"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出300次"
 
 msgid "qn_dsc_0256"
 msgstr ""
+"将芙蕾雅升到4级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0257"
-msgstr ""
+msgstr "将芙蕾雅升到10级"
 
 msgid "qn_dsc_0258"
 msgstr ""
+"将芙蕾雅升到7级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0259"
-msgstr ""
+msgstr "将芙蕾雅升到20级"
 
 msgid "qn_dsc_0260"
 msgstr ""
+"将芙蕾雅升到10级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0261"
 msgstr ""
+"将芙蕾雅升到12级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0262"
 msgstr ""
+"将芙蕾雅升到17级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0263"
 msgstr ""
+"将美云升到4级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0264"
-msgstr ""
+msgstr "将美云升到10级"
 
 msgid "qn_dsc_0265"
 msgstr ""
+"将美云升到7级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0266"
-msgstr ""
+msgstr "将美云升到20级"
 
 msgid "qn_dsc_0267"
 msgstr ""
+"将美云升到10级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0268"
 msgstr ""
+"将美云升到12级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0269"
 msgstr ""
+"将美云升到17级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0270"
 msgstr ""
+"将要升到4级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0271"
-msgstr ""
+msgstr "将要升到10级"
 
 msgid "qn_dsc_0272"
 msgstr ""
+"将要升到7级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0273"
-msgstr ""
+msgstr "将要升到20级"
 
 msgid "qn_dsc_0274"
 msgstr ""
+"将要升到10级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0275"
 msgstr ""
+"将要升到12级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0276"
 msgstr ""
+"将要升到17级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0277"
 msgstr ""
+"将玛基娜升到4级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0278"
-msgstr ""
+msgstr "将玛基娜升到10级"
 
 msgid "qn_dsc_0279"
 msgstr ""
+"将玛基娜升到7级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0280"
-msgstr ""
+msgstr "将玛基娜升到20级"
 
 msgid "qn_dsc_0281"
 msgstr ""
+"将玛基娜升到10级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0282"
 msgstr ""
+"将玛基娜升到12级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0283"
 msgstr ""
+"将玛基娜升到17级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0284"
 msgstr ""
+"将蕾娜升到4级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0285"
-msgstr ""
+msgstr "将蕾娜升到10级"
 
 msgid "qn_dsc_0286"
 msgstr ""
+"将蕾娜升到7级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0287"
-msgstr ""
+msgstr "将蕾娜升到20级"
 
 msgid "qn_dsc_0288"
 msgstr ""
+"将蕾娜升到10级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0289"
 msgstr ""
+"将蕾娜升到12级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0290"
 msgstr ""
+"将蕾娜升到17级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0291"
 msgstr ""
+"将兰卡升到4级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0292"
-msgstr ""
+msgstr "将兰卡升到10级"
 
 msgid "qn_dsc_0293"
 msgstr ""
+"将兰卡升到7级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0294"
-msgstr ""
+msgstr "将兰卡升到20级"
 
 msgid "qn_dsc_0295"
 msgstr ""
+"将兰卡升到10级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0296"
 msgstr ""
+"将兰卡升到12级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0297"
 msgstr ""
+"将兰卡升到17级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0298"
 msgstr ""
+"将雪莉露升到4级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0299"
-msgstr ""
+msgstr "将雪莉露升到10级"
 
 msgid "qn_dsc_0300"
 msgstr ""
+"将雪莉露升到7级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0301"
-msgstr ""
+msgstr "将雪莉露升到20级"
 
 msgid "qn_dsc_0302"
 msgstr ""
+"将雪莉露升到10级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0303"
 msgstr ""
+"将雪莉露升到12级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0304"
 msgstr ""
+"将雪莉露升到17级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0305"
 msgstr ""
+"将明美升到4级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0306"
-msgstr ""
+msgstr "将明美升到10级"
 
 msgid "qn_dsc_0307"
 msgstr ""
+"将明美升到7级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0308"
-msgstr ""
+msgstr "将明美升到20级"
 
 msgid "qn_dsc_0309"
 msgstr ""
+"将明美升到10级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0310"
 msgstr ""
+"将明美升到12级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0311"
 msgstr ""
+"将明美升到17级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0312"
-msgstr ""
+msgstr "完成20个普通任务"
 
 msgid "qn_dsc_0313"
-msgstr ""
+msgstr "完成30个普通任务"
 
 msgid "qn_dsc_0314"
-msgstr ""
+msgstr "完成50个普通任务"
 
 msgid "qn_dsc_0315"
-msgstr ""
+msgstr "完成100个普通任务"
 
 msgid "qn_dsc_0316"
-msgstr ""
+msgstr "完成150个普通任务"
 
 msgid "qn_dsc_0317"
-msgstr ""
+msgstr "完成200个普通任务"
 
 msgid "qn_dsc_0318"
 msgstr ""
+"将芙蕾雅升到20级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0319"
 msgstr ""
+"将美云升到20级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0320"
 msgstr ""
+"将要升到20级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0321"
 msgstr ""
+"将玛基娜升到20级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0322"
 msgstr ""
+"将蕾娜升到20级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0323"
 msgstr ""
+"将兰卡升到20级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0324"
 msgstr ""
+"将雪莉露升到20级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0325"
 msgstr ""
+"将明美升到20级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0326"
 msgstr ""
+"点击“挑战”按钮\n"
+"关注歌之超时空要塞官方Twitter账号"
 
 msgid "qn_dsc_0327"
 msgstr ""
+"点击“挑战”按钮\n"
+"将歌之超时空要塞官方LINE账号添加至好友"
 
 msgid "qn_dsc_0328"
-msgstr ""
+msgstr "更改自我介绍"
 
 msgid "qn_dsc_0329"
-msgstr ""
+msgstr "向其他玩家申请好友"
 
 msgid "qn_dsc_0330"
-msgstr ""
+msgstr "分数最高纪录达到400000以上"
 
 msgid "qn_dsc_0331"
-msgstr ""
+msgstr "分数最高纪录达到450000以上"
 
 msgid "qn_dsc_0332"
-msgstr ""
+msgstr "分数最高纪录达到500000以上"
 
 msgid "qn_dsc_0333"
-msgstr ""
+msgstr "累计获得1500000联盟货币（UC）"
 
 msgid "qn_dsc_0334"
-msgstr ""
+msgstr "累计获得2000000联盟货币（UC）"
 
 msgid "qn_dsc_0335"
-msgstr ""
+msgstr "累计获得2500000联盟货币（UC）"
 
 msgid "qn_dsc_0336"
-msgstr ""
+msgstr "累计获得3000000联盟货币（UC）"
 
 msgid "qn_dsc_0337"
-msgstr ""
+msgstr "累计获得3500000联盟货币（UC）"
 
 msgid "qn_dsc_0338"
-msgstr ""
+msgstr "累计获得4000000联盟货币（UC）"
 
 msgid "qn_dsc_0339"
-msgstr ""
+msgstr "累计获得4500000联盟货币（UC）"
 
 msgid "qn_dsc_0340"
-msgstr ""
+msgstr "累计获得5000000联盟货币（UC）"
 
 msgid "qn_dsc_0341"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲300次"
 
 msgid "qn_dsc_0342"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲350次"
 
 msgid "qn_dsc_0343"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲400次"
 
 msgid "qn_dsc_0344"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲450次"
 
 msgid "qn_dsc_0345"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲500次"
 
 msgid "qn_dsc_0346"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲600次"
 
 msgid "qn_dsc_0347"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲700次"
 
 msgid "qn_dsc_0348"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲800次"
 
 msgid "qn_dsc_0349"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲900次"
 
 msgid "qn_dsc_0350"
 msgstr ""
+"通关【超时空要塞Macross】\n"
+"的歌曲1000次"
 
 msgid "qn_dsc_0351"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲300次"
 
 msgid "qn_dsc_0352"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲350次"
 
 msgid "qn_dsc_0353"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲400次"
 
 msgid "qn_dsc_0354"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲450次"
 
 msgid "qn_dsc_0355"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲500次"
 
 msgid "qn_dsc_0356"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲600次"
 
 msgid "qn_dsc_0357"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲700次"
 
 msgid "qn_dsc_0358"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲800次"
 
 msgid "qn_dsc_0359"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲900次"
 
 msgid "qn_dsc_0360"
-msgstr ""
+msgstr "通关【超时空要塞7】的歌曲1000次"
 
 msgid "qn_dsc_0361"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲300次"
 
 msgid "qn_dsc_0362"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲350次"
 
 msgid "qn_dsc_0363"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲400次"
 
 msgid "qn_dsc_0364"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲450次"
 
 msgid "qn_dsc_0365"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲500次"
 
 msgid "qn_dsc_0366"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲600次"
 
 msgid "qn_dsc_0367"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲700次"
 
 msgid "qn_dsc_0368"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲800次"
 
 msgid "qn_dsc_0369"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲900次"
 
 msgid "qn_dsc_0370"
-msgstr ""
+msgstr "通关【超时空要塞F】的歌曲1000次"
 
 msgid "qn_dsc_0371"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲300次"
 
 msgid "qn_dsc_0372"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲350次"
 
 msgid "qn_dsc_0373"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲400次"
 
 msgid "qn_dsc_0374"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲450次"
 
 msgid "qn_dsc_0375"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲500次"
 
 msgid "qn_dsc_0376"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲600次"
 
 msgid "qn_dsc_0377"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲700次"
 
 msgid "qn_dsc_0378"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲800次"
 
 msgid "qn_dsc_0379"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲900次"
 
 msgid "qn_dsc_0380"
-msgstr ""
+msgstr "通关【超时空要塞Δ】的歌曲1000次"
 
 msgid "qn_dsc_0381"
-msgstr ""
+msgstr "达成150次FULL COMBO"
 
 msgid "qn_dsc_0382"
-msgstr ""
+msgstr "达成200次FULL COMBO"
 
 msgid "qn_dsc_0383"
-msgstr ""
+msgstr "达成300次FULL COMBO"
 
 msgid "qn_dsc_0384"
-msgstr ""
+msgstr "达成400次FULL COMBO"
 
 msgid "qn_dsc_0385"
-msgstr ""
+msgstr "达成500次FULL COMBO"
 
 msgid "qn_dsc_0386"
-msgstr ""
+msgstr "达成750次FULL COMBO"
 
 msgid "qn_dsc_0387"
-msgstr ""
+msgstr "达成1000次FULL COMBO"
 
 msgid "qn_dsc_0388"
-msgstr ""
+msgstr "达成1250次FULL COMBO"
 
 msgid "qn_dsc_0389"
-msgstr ""
+msgstr "达成1500次FULL COMBO"
 
 msgid "qn_dsc_0390"
-msgstr ""
+msgstr "达成2000次FULL COMBO"
 
 msgid "qn_dsc_0391"
-msgstr ""
+msgstr "达成2500次FULL COMBO"
 
 msgid "qn_dsc_0392"
-msgstr ""
+msgstr "达成150次SS评价"
 
 msgid "qn_dsc_0393"
-msgstr ""
+msgstr "达成200次SS评价"
 
 msgid "qn_dsc_0394"
-msgstr ""
+msgstr "达成300次SS评价"
 
 msgid "qn_dsc_0395"
-msgstr ""
+msgstr "达成400次SS评价"
 
 msgid "qn_dsc_0396"
-msgstr ""
+msgstr "达成500次SS评价"
 
 msgid "qn_dsc_0397"
-msgstr ""
+msgstr "达成750次SS评价"
 
 msgid "qn_dsc_0398"
-msgstr ""
+msgstr "达成1000次SS评价"
 
 msgid "qn_dsc_0399"
-msgstr ""
+msgstr "达成1250次SS评价"
 
 msgid "qn_dsc_0400"
-msgstr ""
+msgstr "达成1500次SS评价"
 
 msgid "qn_dsc_0401"
-msgstr ""
+msgstr "达成2000次SS评价"
 
 msgid "qn_dsc_0402"
-msgstr ""
+msgstr "达成2500次SS评价"
 
 msgid "qn_dsc_0403"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出400次"
 
 msgid "qn_dsc_0404"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出500次"
 
 msgid "qn_dsc_0405"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出750次"
 
 msgid "qn_dsc_0406"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出1000次"
 
 msgid "qn_dsc_0407"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出1250次"
 
 msgid "qn_dsc_0408"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出1500次"
 
 msgid "qn_dsc_0409"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出2000次"
 
 msgid "qn_dsc_0410"
-msgstr ""
+msgstr "进入超歌姬模式并完成演出2500次"
 
 msgid "qn_dsc_0411"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0412"
 msgstr ""
+"将芙蕾雅升到25级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0413"
 msgstr ""
+"将芙蕾雅升到30级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0414"
 msgstr ""
+"将芙蕾雅升到35级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0415"
 msgstr ""
+"将芙蕾雅升到40级\n"
+"在【芙蕾雅的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0416"
 msgstr ""
@@ -20423,7 +20701,7 @@ msgid "rn_0001"
 msgstr "SNS联络室"
 
 msgid "rn_0002"
-msgstr "所有人的聊天室"
+msgstr "大家的聊天室"
 
 msgid "rn_0003"
 msgstr "纪念日聊天室"
