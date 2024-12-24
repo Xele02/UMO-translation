@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-24 08:42+0000\n"
+"PO-Revision-Date: 2024-12-24 12:42+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -13222,7 +13222,7 @@ msgstr "完成所有每日任务"
 
 msgid "qn_dsc_0001"
 msgstr ""
-"在【演出】通关歌曲1次\n"
+"完成1次演出\n"
 "奖励卡片：★3“特殊处理”"
 
 msgid "qn_dsc_0002"
@@ -16145,6 +16145,8 @@ msgstr ""
 
 msgid "qn_dsc_0823"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0824"
 msgstr ""
@@ -16157,6 +16159,8 @@ msgstr ""
 
 msgid "qn_dsc_0827"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0828"
 msgstr ""
@@ -16187,6 +16191,8 @@ msgstr ""
 
 msgid "qn_dsc_0837"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0838"
 msgstr ""
@@ -16199,6 +16205,8 @@ msgstr ""
 
 msgid "qn_dsc_0841"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0842"
 msgstr ""
@@ -16211,6 +16219,8 @@ msgstr ""
 
 msgid "qn_dsc_0845"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0846"
 msgstr ""
@@ -16223,6 +16233,8 @@ msgstr ""
 
 msgid "qn_dsc_0849"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0850"
 msgstr ""
@@ -16235,6 +16247,8 @@ msgstr ""
 
 msgid "qn_dsc_0853"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0854"
 msgstr ""
@@ -16247,6 +16261,8 @@ msgstr ""
 
 msgid "qn_dsc_0857"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0858"
 msgstr ""
@@ -16268,6 +16284,8 @@ msgstr ""
 
 msgid "qn_dsc_0864"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0865"
 msgstr ""
@@ -16298,6 +16316,8 @@ msgstr ""
 
 msgid "qn_dsc_0874"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0875"
 msgstr ""
@@ -16310,9 +16330,13 @@ msgstr ""
 
 msgid "qn_dsc_0878"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0879"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0880"
 msgstr ""
@@ -16325,6 +16349,8 @@ msgstr ""
 
 msgid "qn_dsc_0883"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0884"
 msgstr ""
@@ -16346,6 +16372,8 @@ msgstr ""
 
 msgid "qn_dsc_0890"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0891"
 msgstr ""
@@ -16358,6 +16386,8 @@ msgstr ""
 
 msgid "qn_dsc_0894"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0895"
 msgstr ""
@@ -16379,6 +16409,8 @@ msgstr ""
 
 msgid "qn_dsc_0901"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0902"
 msgstr ""
@@ -16391,6 +16423,8 @@ msgstr ""
 
 msgid "qn_dsc_0905"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0906"
 msgstr ""
@@ -16403,492 +16437,554 @@ msgstr ""
 
 msgid "qn_dsc_0909"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0910"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0911"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0912"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0913"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0914"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0915"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0916"
 msgstr ""
+"推进【新手派遣任务】\n"
+"在【战机派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0917"
 msgstr ""
+"推进【战机派遣任务】\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0918"
 msgstr ""
+"完成1次芙蕾雅的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0919"
 msgstr ""
+"完成10次芙蕾雅的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0920"
 msgstr ""
+"完成1次美云的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0921"
 msgstr ""
+"完成10次美云的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0922"
 msgstr ""
+"完成1次要的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0923"
 msgstr ""
+"完成10次要的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0924"
 msgstr ""
+"完成1次玛基娜的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0925"
 msgstr ""
+"完成10次玛基娜的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0926"
 msgstr ""
+"完成1次蕾娜的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0927"
 msgstr ""
+"完成10次蕾娜的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0928"
 msgstr ""
+"完成1次兰卡的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0929"
 msgstr ""
+"完成10次兰卡的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0930"
 msgstr ""
+"完成1次雪莉露的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0931"
 msgstr ""
+"完成10次雪莉露的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0932"
 msgstr ""
+"完成1次米莲的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0933"
 msgstr ""
+"完成10次米莲的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0934"
 msgstr ""
+"完成1次巴萨拉的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0935"
 msgstr ""
+"完成10次巴萨拉的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0936"
 msgstr ""
+"完成1次明美的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0937"
 msgstr ""
+"完成10次明美的委托\n"
+"在【歌姬派遣任务】阅读下一则对话"
 
 msgid "qn_dsc_0938"
-msgstr ""
+msgstr "累计完成战机派遣任务10次"
 
 msgid "qn_dsc_0939"
-msgstr ""
+msgstr "累计完成战机派遣任务20次"
 
 msgid "qn_dsc_0940"
-msgstr ""
+msgstr "累计完成战机派遣任务30次"
 
 msgid "qn_dsc_0941"
-msgstr ""
+msgstr "累计完成战机派遣任务50次"
 
 msgid "qn_dsc_0942"
-msgstr ""
+msgstr "累计完成战机派遣任务75次"
 
 msgid "qn_dsc_0943"
-msgstr ""
+msgstr "累计完成战机派遣任务100次"
 
 msgid "qn_dsc_0944"
-msgstr ""
+msgstr "累计完成战机派遣任务150次"
 
 msgid "qn_dsc_0945"
-msgstr ""
+msgstr "累计完成战机派遣任务200次"
 
 msgid "qn_dsc_0946"
-msgstr ""
+msgstr "累计完成战机派遣任务250次"
 
 msgid "qn_dsc_0947"
-msgstr ""
+msgstr "累计完成战机派遣任务300次"
 
 msgid "qn_dsc_0948"
-msgstr ""
+msgstr "累计完成战机派遣任务400次"
 
 msgid "qn_dsc_0949"
-msgstr ""
+msgstr "累计完成战机派遣任务500次"
 
 msgid "qn_dsc_0950"
-msgstr ""
+msgstr "累计完成战机派遣任务750次"
 
 msgid "qn_dsc_0951"
-msgstr ""
+msgstr "累计完成战机派遣任务1000次"
 
 msgid "qn_dsc_0952"
-msgstr ""
+msgstr "累计完成战机派遣任务1250次"
 
 msgid "qn_dsc_0953"
-msgstr ""
+msgstr "累计完成战机派遣任务1500次"
 
 msgid "qn_dsc_0954"
-msgstr ""
+msgstr "累计完成战机派遣任务1750次"
 
 msgid "qn_dsc_0955"
-msgstr ""
+msgstr "累计完成战机派遣任务2000次"
 
 msgid "qn_dsc_0956"
-msgstr ""
+msgstr "累计完成战机派遣任务2250次"
 
 msgid "qn_dsc_0957"
-msgstr ""
+msgstr "累计完成战机派遣任务2500次"
 
 msgid "qn_dsc_0958"
-msgstr ""
+msgstr "累计完成战机派遣任务2750次"
 
 msgid "qn_dsc_0959"
-msgstr ""
+msgstr "累计完成战机派遣任务3000次"
 
 msgid "qn_dsc_0960"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级2次"
 
 msgid "qn_dsc_0961"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级5次"
 
 msgid "qn_dsc_0962"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级10次"
 
 msgid "qn_dsc_0963"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级15次"
 
 msgid "qn_dsc_0964"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级20次"
 
 msgid "qn_dsc_0965"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级25次"
 
 msgid "qn_dsc_0966"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级30次"
 
 msgid "qn_dsc_0967"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级40次"
 
 msgid "qn_dsc_0968"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级50次"
 
 msgid "qn_dsc_0969"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级60次"
 
 msgid "qn_dsc_0970"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级70次"
 
 msgid "qn_dsc_0971"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级80次"
 
 msgid "qn_dsc_0972"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级90次"
 
 msgid "qn_dsc_0973"
-msgstr ""
+msgstr "在【强化服装】提升服装卡哇哇等级100次"
 
 msgid "qn_dsc_0974"
 msgstr ""
+"玩家等级达到7级\n"
+"完成战机派遣任务教程"
 
 msgid "qn_dsc_0975"
 msgstr ""
+"累计完成战机派遣任务10次\n"
+"完成强化服装教程"
 
 msgid "qn_dsc_0976"
-msgstr ""
+msgstr "累计登录1天"
 
 msgid "qn_dsc_0977"
-msgstr ""
+msgstr "累计登录1天"
 
 msgid "qn_dsc_0978"
-msgstr ""
+msgstr "累计登录1天"
 
 msgid "qn_dsc_0979"
-msgstr ""
+msgstr "累计登录2天"
 
 msgid "qn_dsc_0980"
-msgstr ""
+msgstr "累计登录2天"
 
 msgid "qn_dsc_0981"
-msgstr ""
+msgstr "累计登录2天"
 
 msgid "qn_dsc_0982"
-msgstr ""
+msgstr "累计登录3天"
 
 msgid "qn_dsc_0983"
-msgstr ""
+msgstr "累计登录3天"
 
 msgid "qn_dsc_0984"
-msgstr ""
+msgstr "累计登录3天"
 
 msgid "qn_dsc_0985"
-msgstr ""
+msgstr "累计登录4天"
 
 msgid "qn_dsc_0986"
-msgstr ""
+msgstr "累计登录4天"
 
 msgid "qn_dsc_0987"
-msgstr ""
+msgstr "累计登录4天"
 
 msgid "qn_dsc_0988"
-msgstr ""
+msgstr "累计登录5天"
 
 msgid "qn_dsc_0989"
-msgstr ""
+msgstr "累计登录5天"
 
 msgid "qn_dsc_0990"
-msgstr ""
+msgstr "累计登录5天"
 
 msgid "qn_dsc_0991"
-msgstr ""
+msgstr "累计登录6天"
 
 msgid "qn_dsc_0992"
-msgstr ""
+msgstr "累计登录6天"
 
 msgid "qn_dsc_0993"
-msgstr ""
+msgstr "累计登录6天"
 
 msgid "qn_dsc_0994"
-msgstr ""
+msgstr "累计登录7天"
 
 msgid "qn_dsc_0995"
-msgstr ""
+msgstr "累计登录7天"
 
 msgid "qn_dsc_0996"
-msgstr ""
+msgstr "累计登录7天"
 
 msgid "qn_dsc_0997"
-msgstr ""
+msgstr "累计登录7天"
 
 msgid "qn_dsc_0998"
-msgstr ""
+msgstr "累计登录8天"
 
 msgid "qn_dsc_0999"
-msgstr ""
+msgstr "累计登录8天"
 
 msgid "qn_dsc_1000"
-msgstr ""
+msgstr "累计登录8天"
 
 msgid "qn_dsc_1001"
-msgstr ""
+msgstr "累计登录8天"
 
 msgid "qn_dsc_1002"
-msgstr ""
+msgstr "累计登录9天"
 
 msgid "qn_dsc_1003"
-msgstr ""
+msgstr "累计登录9天"
 
 msgid "qn_dsc_1004"
-msgstr ""
+msgstr "累计登录9天"
 
 msgid "qn_dsc_1005"
-msgstr ""
+msgstr "累计登录9天"
 
 msgid "qn_dsc_1006"
-msgstr ""
+msgstr "累计登录10天"
 
 msgid "qn_dsc_1007"
-msgstr ""
+msgstr "累计登录10天"
 
 msgid "qn_dsc_1008"
-msgstr ""
+msgstr "累计登录10天"
 
 msgid "qn_dsc_1009"
-msgstr ""
+msgstr "累计登录10天"
 
 msgid "qn_dsc_1010"
-msgstr ""
+msgstr "累计登录11天"
 
 msgid "qn_dsc_1011"
-msgstr ""
+msgstr "累计登录11天"
 
 msgid "qn_dsc_1012"
-msgstr ""
+msgstr "累计登录11天"
 
 msgid "qn_dsc_1013"
-msgstr ""
+msgstr "累计登录11天"
 
 msgid "qn_dsc_1014"
-msgstr ""
+msgstr "累计登录12天"
 
 msgid "qn_dsc_1015"
-msgstr ""
+msgstr "累计登录12天"
 
 msgid "qn_dsc_1016"
-msgstr ""
+msgstr "累计登录12天"
 
 msgid "qn_dsc_1017"
-msgstr ""
+msgstr "累计登录12天"
 
 msgid "qn_dsc_1018"
-msgstr ""
+msgstr "累计登录13天"
 
 msgid "qn_dsc_1019"
-msgstr ""
+msgstr "累计登录13天"
 
 msgid "qn_dsc_1020"
-msgstr ""
+msgstr "累计登录13天"
 
 msgid "qn_dsc_1021"
-msgstr ""
+msgstr "累计登录13天"
 
 msgid "qn_dsc_1022"
-msgstr ""
+msgstr "累计登录14天"
 
 msgid "qn_dsc_1023"
-msgstr ""
+msgstr "累计登录14天"
 
 msgid "qn_dsc_1024"
-msgstr ""
+msgstr "累计登录14天"
 
 msgid "qn_dsc_1025"
-msgstr ""
+msgstr "累计登录14天"
 
 msgid "qn_dsc_1026"
-msgstr ""
+msgstr "累计登录15天"
 
 msgid "qn_dsc_1027"
-msgstr ""
+msgstr "累计登录16天"
 
 msgid "qn_dsc_1028"
-msgstr ""
+msgstr "累计登录17天"
 
 msgid "qn_dsc_1029"
-msgstr ""
+msgstr "累计登录18天"
 
 msgid "qn_dsc_1030"
-msgstr ""
+msgstr "累计登录19天"
 
 msgid "qn_dsc_1031"
-msgstr ""
+msgstr "累计登录20天"
 
 msgid "qn_dsc_1032"
-msgstr ""
+msgstr "累计登录21天"
 
 msgid "qn_dsc_1033"
-msgstr ""
+msgstr "累计登录22天"
 
 msgid "qn_dsc_1034"
-msgstr ""
+msgstr "累计登录23天"
 
 msgid "qn_dsc_1035"
-msgstr ""
+msgstr "累计登录24天"
 
 msgid "qn_dsc_1036"
-msgstr ""
+msgstr "累计登录25天"
 
 msgid "qn_dsc_1037"
-msgstr ""
+msgstr "累计登录26天"
 
 msgid "qn_dsc_1038"
-msgstr ""
+msgstr "累计登录27天"
 
 msgid "qn_dsc_1039"
-msgstr ""
+msgstr "累计登录28天"
 
 msgid "qn_dsc_1040"
-msgstr ""
+msgstr "累计登录29天"
 
 msgid "qn_dsc_1041"
-msgstr ""
+msgstr "累计登录30天"
 
 msgid "qn_dsc_1042"
-msgstr ""
+msgstr "累计登录31天"
 
 msgid "qn_dsc_1043"
-msgstr ""
+msgstr "累计登录32天"
 
 msgid "qn_dsc_1044"
-msgstr ""
+msgstr "累计登录33天"
 
 msgid "qn_dsc_1045"
-msgstr ""
+msgstr "累计登录34天"
 
 msgid "qn_dsc_1046"
-msgstr ""
+msgstr "累计登录35天"
 
 msgid "qn_dsc_1047"
-msgstr ""
+msgstr "累计登录36天"
 
 msgid "qn_dsc_1048"
-msgstr ""
+msgstr "累计登录37天"
 
 msgid "qn_dsc_1049"
-msgstr ""
+msgstr "累计登录38天"
 
 msgid "qn_dsc_1050"
-msgstr ""
+msgstr "累计登录39天"
 
 msgid "qn_dsc_1051"
-msgstr ""
+msgstr "累计登录40天"
 
 msgid "qn_dsc_1052"
-msgstr ""
+msgstr "累计登录41天"
 
 msgid "qn_dsc_1053"
-msgstr ""
+msgstr "累计登录42天"
 
 msgid "qn_dsc_1054"
-msgstr ""
+msgstr "累计登录43天"
 
 msgid "qn_dsc_1055"
-msgstr ""
+msgstr "累计登录44天"
 
 msgid "qn_dsc_1056"
-msgstr ""
+msgstr "累计登录45天"
 
 msgid "qn_dsc_1057"
-msgstr ""
+msgstr "累计登录46天"
 
 msgid "qn_dsc_1058"
-msgstr ""
+msgstr "累计登录47天"
 
 msgid "qn_dsc_1059"
-msgstr ""
+msgstr "累计登录48天"
 
 msgid "qn_dsc_1060"
-msgstr ""
+msgstr "累计登录49天"
 
 msgid "qn_dsc_1061"
-msgstr ""
+msgstr "累计登录50天"
 
 msgid "qn_dsc_1062"
-msgstr ""
+msgstr "累计登录51天"
 
 msgid "qn_dsc_1063"
-msgstr ""
+msgstr "累计登录52天"
 
 msgid "qn_dsc_1064"
-msgstr ""
+msgstr "累计登录53天"
 
 msgid "qn_dsc_1065"
-msgstr ""
+msgstr "累计登录54天"
 
 msgid "qn_dsc_1066"
-msgstr ""
+msgstr "累计登录55天"
 
 msgid "qn_dsc_1067"
-msgstr ""
+msgstr "累计登录56天"
 
 msgid "qn_dsc_1068"
-msgstr ""
+msgstr "累计登录57天"
 
 msgid "qn_dsc_1069"
-msgstr ""
+msgstr "累计登录58天"
 
 msgid "qn_dsc_1070"
-msgstr ""
+msgstr "累计登录59天"
 
 msgid "qn_dsc_1071"
-msgstr ""
+msgstr "累计登录60天"
 
 msgid "qn_dsc_1072"
 msgstr ""
@@ -16901,6 +16997,8 @@ msgstr ""
 
 msgid "qn_dsc_1075"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1076"
 msgstr ""
@@ -16913,6 +17011,8 @@ msgstr ""
 
 msgid "qn_dsc_1079"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1080"
 msgstr ""
@@ -16934,6 +17034,8 @@ msgstr ""
 
 msgid "qn_dsc_1086"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1087"
 msgstr ""
@@ -16946,6 +17048,8 @@ msgstr ""
 
 msgid "qn_dsc_1090"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1091"
 msgstr ""
@@ -16976,6 +17080,8 @@ msgstr ""
 
 msgid "qn_dsc_1100"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1101"
 msgstr ""
@@ -17003,6 +17109,8 @@ msgstr ""
 
 msgid "qn_dsc_1110"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1111"
 msgstr ""
@@ -17015,6 +17123,8 @@ msgstr ""
 
 msgid "qn_dsc_1114"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1115"
 msgstr ""
@@ -17045,6 +17155,8 @@ msgstr ""
 
 msgid "qn_dsc_1124"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1125"
 msgstr ""
@@ -17057,6 +17169,8 @@ msgstr ""
 
 msgid "qn_dsc_1128"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1129"
 msgstr ""
@@ -17068,85 +17182,109 @@ msgid "qn_dsc_1131"
 msgstr ""
 
 msgid "qn_dsc_1132"
-msgstr ""
+msgstr "玩家等级达到5级，解锁房间模式"
 
 msgid "qn_dsc_1133"
-msgstr ""
+msgstr "在【家具点数商店】兑换家具1次"
 
 msgid "qn_dsc_1134"
-msgstr ""
+msgstr "在【家具点数商店】兑换家具5次"
 
 msgid "qn_dsc_1135"
-msgstr ""
+msgstr "在【家具点数商店】兑换家具10次"
 
 msgid "qn_dsc_1136"
-msgstr ""
+msgstr "在【家具点数商店】兑换家具15次"
 
 msgid "qn_dsc_1137"
-msgstr ""
+msgstr "在【家具点数商店】兑换家具20次"
 
 msgid "qn_dsc_1138"
-msgstr ""
+msgstr "在【家具点数商店】兑换家具30次"
 
 msgid "qn_dsc_1139"
-msgstr ""
+msgstr "累计获得家具点数15000DP"
 
 msgid "qn_dsc_1140"
-msgstr ""
+msgstr "累计获得家具点数20000DP"
 
 msgid "qn_dsc_1141"
-msgstr ""
+msgstr "累计获得家具点数30000DP"
 
 msgid "qn_dsc_1142"
-msgstr ""
+msgstr "累计获得家具点数40000DP"
 
 msgid "qn_dsc_1143"
-msgstr ""
+msgstr "累计获得家具点数50000DP"
 
 msgid "qn_dsc_1144"
-msgstr ""
+msgstr "累计获得家具点数75000DP"
 
 msgid "qn_dsc_1145"
-msgstr ""
+msgstr "累计获得家具点数100000DP"
 
 msgid "qn_dsc_1146"
-msgstr ""
+msgstr "玩家等级达到9级，解锁强化战机功能"
 
 msgid "qn_dsc_1147"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充5次"
 
 msgid "qn_dsc_1148"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充10次"
 
 msgid "qn_dsc_1149"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充20次"
 
 msgid "qn_dsc_1150"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充30次"
 
 msgid "qn_dsc_1151"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充40次"
 
 msgid "qn_dsc_1152"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充50次"
 
 msgid "qn_dsc_1153"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充60次"
 
 msgid "qn_dsc_1154"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充70次"
 
 msgid "qn_dsc_1155"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充80次"
 
 msgid "qn_dsc_1156"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充90次"
 
 msgid "qn_dsc_1157"
 msgstr ""
+"在【战机强化】\n"
+"提升战机的性能扩充100次"
 
 msgid "qn_dsc_1158"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1159"
 msgstr ""
@@ -17186,6 +17324,8 @@ msgstr ""
 
 msgid "qn_dsc_1171"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1172"
 msgstr ""
@@ -17198,6 +17338,8 @@ msgstr ""
 
 msgid "qn_dsc_1175"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1176"
 msgstr ""
@@ -17228,6 +17370,8 @@ msgstr ""
 
 msgid "qn_dsc_1185"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1186"
 msgstr ""
@@ -17249,6 +17393,8 @@ msgstr ""
 
 msgid "qn_dsc_1192"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1193"
 msgstr ""
@@ -17270,6 +17416,8 @@ msgstr ""
 
 msgid "qn_dsc_1199"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1200"
 msgstr ""
@@ -17291,6 +17439,8 @@ msgstr ""
 
 msgid "qn_dsc_1206"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1207"
 msgstr ""
@@ -17330,6 +17480,8 @@ msgstr ""
 
 msgid "qn_dsc_1219"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1220"
 msgstr ""
@@ -17351,288 +17503,478 @@ msgstr ""
 
 msgid "qn_dsc_1226"
 msgstr ""
+"歌曲评分达到2100\n"
+"歌手等级达到【中士★2】"
 
 msgid "qn_dsc_1227"
 msgstr ""
+"歌曲评分达到2300\n"
+"歌手等级达到【中士★4】"
 
 msgid "qn_dsc_1228"
 msgstr ""
+"歌曲评分达到2500\n"
+"歌手等级达到【中士★6】"
 
 msgid "qn_dsc_1229"
 msgstr ""
+"歌曲评分达到2700\n"
+"歌手等级达到【中士★8】"
 
 msgid "qn_dsc_1230"
 msgstr ""
+"歌曲评分达到2900\n"
+"歌手等级达到【中士★10】"
 
 msgid "qn_dsc_1231"
 msgstr ""
+"歌曲评分达到3100\n"
+"歌手等级达到【上士★2】"
 
 msgid "qn_dsc_1232"
 msgstr ""
+"歌曲评分达到3300\n"
+"歌手等级达到【上士★4】"
 
 msgid "qn_dsc_1233"
 msgstr ""
+"歌曲评分达到3500\n"
+"歌手等级达到【上士★6】"
 
 msgid "qn_dsc_1234"
 msgstr ""
+"歌曲评分达到3700\n"
+"歌手等级达到【上士★8】"
 
 msgid "qn_dsc_1235"
 msgstr ""
+"歌曲评分达到3900\n"
+"歌手等级达到【上士★10】"
 
 msgid "qn_dsc_1236"
 msgstr ""
+"歌曲评分达到4100\n"
+"歌手等级达到【准尉★2】"
 
 msgid "qn_dsc_1237"
 msgstr ""
+"歌曲评分达到4300\n"
+"歌手等级达到【准尉★4】"
 
 msgid "qn_dsc_1238"
 msgstr ""
+"歌曲评分达到4500\n"
+"歌手等级达到【准尉★6】"
 
 msgid "qn_dsc_1239"
 msgstr ""
+"歌曲评分达到4700\n"
+"歌手等级达到【准尉★8】"
 
 msgid "qn_dsc_1240"
 msgstr ""
+"歌曲评分达到4900\n"
+"歌手等级达到【准尉★10】"
 
 msgid "qn_dsc_1241"
 msgstr ""
+"歌曲评分达到5100\n"
+"歌手等级达到【少尉★2】"
 
 msgid "qn_dsc_1242"
 msgstr ""
+"歌曲评分达到5300\n"
+"歌手等级达到【少尉★4】"
 
 msgid "qn_dsc_1243"
 msgstr ""
+"歌曲评分达到5500\n"
+"歌手等级达到【少尉★6】"
 
 msgid "qn_dsc_1244"
 msgstr ""
+"歌曲评分达到5700\n"
+"歌手等级达到【少尉★8】"
 
 msgid "qn_dsc_1245"
 msgstr ""
+"歌曲评分达到5900\n"
+"歌手等级达到【少尉★10】"
 
 msgid "qn_dsc_1246"
 msgstr ""
+"歌曲评分达到6100\n"
+"歌手等级达到【中尉★2】"
 
 msgid "qn_dsc_1247"
 msgstr ""
+"歌曲评分达到6300\n"
+"歌手等级达到【中尉★4】"
 
 msgid "qn_dsc_1248"
 msgstr ""
+"歌曲评分达到6500\n"
+"歌手等级达到【中尉★6】"
 
 msgid "qn_dsc_1249"
 msgstr ""
+"歌曲评分达到6700\n"
+"歌手等级达到【中尉★8】"
 
 msgid "qn_dsc_1250"
 msgstr ""
+"歌曲评分达到6900\n"
+"歌手等级达到【中尉★10】"
 
 msgid "qn_dsc_1251"
 msgstr ""
+"歌曲评分达到7100\n"
+"歌手等级达到【上尉★2】"
 
 msgid "qn_dsc_1252"
 msgstr ""
+"歌曲评分达到7300\n"
+"歌手等级达到【上尉★4】"
 
 msgid "qn_dsc_1253"
 msgstr ""
+"歌曲评分达到7500\n"
+"歌手等级达到【上尉★6】"
 
 msgid "qn_dsc_1254"
 msgstr ""
+"歌曲评分达到7700\n"
+"歌手等级达到【上尉★8】"
 
 msgid "qn_dsc_1255"
 msgstr ""
+"歌曲评分达到7900\n"
+"歌手等级达到【上尉★10】"
 
 msgid "qn_dsc_1256"
 msgstr ""
+"歌曲评分达到8100\n"
+"歌手等级达到【少校★2】"
 
 msgid "qn_dsc_1257"
 msgstr ""
+"歌曲评分达到8300\n"
+"歌手等级达到【少校★4】"
 
 msgid "qn_dsc_1258"
 msgstr ""
+"歌曲评分达到8500\n"
+"歌手等级达到【少校★6】"
 
 msgid "qn_dsc_1259"
 msgstr ""
+"歌曲评分达到8700\n"
+"歌手等级达到【少校★8】"
 
 msgid "qn_dsc_1260"
 msgstr ""
+"歌曲评分达到8900\n"
+"歌手等级达到【少校★10】"
 
 msgid "qn_dsc_1261"
 msgstr ""
+"歌曲评分达到9100\n"
+"歌手等级达到【中校★2】"
 
 msgid "qn_dsc_1262"
 msgstr ""
+"歌曲评分达到9300\n"
+"歌手等级达到【中校★4】"
 
 msgid "qn_dsc_1263"
 msgstr ""
+"歌曲评分达到9500\n"
+"歌手等级达到【中校★6】"
 
 msgid "qn_dsc_1264"
 msgstr ""
+"歌曲评分达到9700\n"
+"歌手等级达到【中校★8】"
 
 msgid "qn_dsc_1265"
 msgstr ""
+"歌曲评分达到9900\n"
+"歌手等级达到【中校★10】"
 
 msgid "qn_dsc_1266"
 msgstr ""
+"歌曲评分达到10100\n"
+"歌手等级达到【上校★2】"
 
 msgid "qn_dsc_1267"
 msgstr ""
+"歌曲评分达到10300\n"
+"歌手等级达到【上校★4】"
 
 msgid "qn_dsc_1268"
 msgstr ""
+"歌曲评分达到10500\n"
+"歌手等级达到【上校★6】"
 
 msgid "qn_dsc_1269"
 msgstr ""
+"歌曲评分达到10700\n"
+"歌手等级达到【上校★8】"
 
 msgid "qn_dsc_1270"
 msgstr ""
+"歌曲评分达到10900\n"
+"歌手等级达到【上校★10】"
 
 msgid "qn_dsc_1271"
 msgstr ""
+"歌曲评分达到11000\n"
+"歌手等级达到【准将★1】"
 
 msgid "qn_dsc_1272"
 msgstr ""
+"歌曲评分达到11100\n"
+"歌手等级达到【准将★2】"
 
 msgid "qn_dsc_1273"
 msgstr ""
+"歌曲评分达到11200\n"
+"歌手等级达到【准将★3】"
 
 msgid "qn_dsc_1274"
 msgstr ""
+"歌曲评分达到11300\n"
+"歌手等级达到【准将★4】"
 
 msgid "qn_dsc_1275"
 msgstr ""
+"歌曲评分达到11400\n"
+"歌手等级达到【准将★5】"
 
 msgid "qn_dsc_1276"
 msgstr ""
+"歌曲评分达到11500\n"
+"歌手等级达到【准将★6】"
 
 msgid "qn_dsc_1277"
 msgstr ""
+"歌曲评分达到11600\n"
+"歌手等级达到【准将★7】"
 
 msgid "qn_dsc_1278"
 msgstr ""
+"歌曲评分达到11700\n"
+"歌手等级达到【准将★8】"
 
 msgid "qn_dsc_1279"
 msgstr ""
+"歌曲评分达到11800\n"
+"歌手等级达到【准将★9】"
 
 msgid "qn_dsc_1280"
 msgstr ""
+"歌曲评分达到11900\n"
+"歌手等级达到【准将★10】"
 
 msgid "qn_dsc_1281"
 msgstr ""
+"歌曲评分达到12000\n"
+"歌手等级达到【少将★1】"
 
 msgid "qn_dsc_1282"
 msgstr ""
+"歌曲评分达到12200\n"
+"歌手等级达到【少将★2】"
 
 msgid "qn_dsc_1283"
 msgstr ""
+"歌曲评分达到12400\n"
+"歌手等级达到【少将★3】"
 
 msgid "qn_dsc_1284"
 msgstr ""
+"歌曲评分达到12600\n"
+"歌手等级达到【少将★4】"
 
 msgid "qn_dsc_1285"
 msgstr ""
+"歌曲评分达到12800\n"
+"歌手等级达到【少将★5】"
 
 msgid "qn_dsc_1286"
 msgstr ""
+"歌曲评分达到13000\n"
+"歌手等级达到【少将★6】"
 
 msgid "qn_dsc_1287"
 msgstr ""
+"歌曲评分达到13200\n"
+"歌手等级达到【少将★7】"
 
 msgid "qn_dsc_1288"
 msgstr ""
+"歌曲评分达到13400\n"
+"歌手等级达到【少将★8】"
 
 msgid "qn_dsc_1289"
 msgstr ""
+"歌曲评分达到13600\n"
+"歌手等级达到【少将★9】"
 
 msgid "qn_dsc_1290"
 msgstr ""
+"歌曲评分达到13800\n"
+"歌手等级达到【少将★10】"
 
 msgid "qn_dsc_1291"
 msgstr ""
+"歌曲评分达到14000\n"
+"歌手等级达到【中将★1】"
 
 msgid "qn_dsc_1292"
 msgstr ""
+"歌曲评分达到14300\n"
+"歌手等级达到【中将★2】"
 
 msgid "qn_dsc_1293"
 msgstr ""
+"歌曲评分达到14600\n"
+"歌手等级达到【中将★3】"
 
 msgid "qn_dsc_1294"
 msgstr ""
+"歌曲评分达到14900\n"
+"歌手等级达到【中将★4】"
 
 msgid "qn_dsc_1295"
 msgstr ""
+"歌曲评分达到15200\n"
+"歌手等级达到【中将★5】"
 
 msgid "qn_dsc_1296"
 msgstr ""
+"歌曲评分达到15500\n"
+"歌手等级达到【中将★6】"
 
 msgid "qn_dsc_1297"
 msgstr ""
+"歌曲评分达到15800\n"
+"歌手等级达到【中将★7】"
 
 msgid "qn_dsc_1298"
 msgstr ""
+"歌曲评分达到16100\n"
+"歌手等级达到【中将★8】"
 
 msgid "qn_dsc_1299"
 msgstr ""
+"歌曲评分达到16400\n"
+"歌手等级达到【中将★9】"
 
 msgid "qn_dsc_1300"
 msgstr ""
+"歌曲评分达到16700\n"
+"歌手等级达到【中将★10】"
 
 msgid "qn_dsc_1301"
 msgstr ""
+"歌曲评分达到17000\n"
+"歌手等级达到【上将★1】"
 
 msgid "qn_dsc_1302"
 msgstr ""
+"歌曲评分达到17400\n"
+"歌手等级达到【上将★2】"
 
 msgid "qn_dsc_1303"
 msgstr ""
+"歌曲评分达到17800\n"
+"歌手等级达到【上将★3】"
 
 msgid "qn_dsc_1304"
 msgstr ""
+"歌曲评分达到18200\n"
+"歌手等级达到【上将★4】"
 
 msgid "qn_dsc_1305"
 msgstr ""
+"歌曲评分达到18600\n"
+"歌手等级达到【上将★5】"
 
 msgid "qn_dsc_1306"
 msgstr ""
+"歌曲评分达到19000\n"
+"歌手等级达到【上将★6】"
 
 msgid "qn_dsc_1307"
 msgstr ""
+"歌曲评分达到19400\n"
+"歌手等级达到【上将★7】"
 
 msgid "qn_dsc_1308"
 msgstr ""
+"歌曲评分达到19800\n"
+"歌手等级达到【上将★8】"
 
 msgid "qn_dsc_1309"
 msgstr ""
+"歌曲评分达到20200\n"
+"歌手等级达到【上将★9】"
 
 msgid "qn_dsc_1310"
 msgstr ""
+"歌曲评分达到20600\n"
+"歌手等级达到【上将★10】"
 
 msgid "qn_dsc_1311"
 msgstr ""
+"歌曲评分达到21000\n"
+"歌手等级达到【元帅★1】"
 
 msgid "qn_dsc_1312"
 msgstr ""
+"歌曲评分达到21500\n"
+"歌手等级达到【元帅★2】"
 
 msgid "qn_dsc_1313"
 msgstr ""
+"歌曲评分达到22000\n"
+"歌手等级达到【元帅★3】"
 
 msgid "qn_dsc_1314"
 msgstr ""
+"歌曲评分达到22500\n"
+"歌手等级达到【元帅★4】"
 
 msgid "qn_dsc_1315"
 msgstr ""
+"歌曲评分达到23000\n"
+"歌手等级达到【元帅★5】"
 
 msgid "qn_dsc_1316"
 msgstr ""
+"歌曲评分达到23500\n"
+"歌手等级达到【元帅★6】"
 
 msgid "qn_dsc_1317"
 msgstr ""
+"歌曲评分达到24000\n"
+"歌手等级达到【元帅★7】"
 
 msgid "qn_dsc_1318"
 msgstr ""
+"歌曲评分达到24500\n"
+"歌手等级达到【元帅★8】"
 
 msgid "qn_dsc_1319"
 msgstr ""
+"歌曲评分达到25000\n"
+"歌手等级达到【元帅★9】"
 
 msgid "qn_dsc_1320"
 msgstr ""
+"歌曲评分达到25500\n"
+"歌手等级达到【元帅★10】"
 
 msgid "qn_dsc_1321"
 msgstr ""
@@ -17645,6 +17987,8 @@ msgstr ""
 
 msgid "qn_dsc_1324"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1325"
 msgstr ""
@@ -17657,6 +18001,8 @@ msgstr ""
 
 msgid "qn_dsc_1328"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1329"
 msgstr ""
@@ -17687,9 +18033,13 @@ msgstr ""
 
 msgid "qn_dsc_1338"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1339"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1340"
 msgstr ""
@@ -17765,6 +18115,8 @@ msgstr ""
 
 msgid "qn_dsc_1364"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1365"
 msgstr ""
@@ -17786,6 +18138,8 @@ msgstr ""
 
 msgid "qn_dsc_1371"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1372"
 msgstr ""
@@ -17798,6 +18152,8 @@ msgstr ""
 
 msgid "qn_dsc_1375"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1376"
 msgstr ""
@@ -17819,6 +18175,8 @@ msgstr ""
 
 msgid "qn_dsc_1400"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1401"
 msgstr ""
@@ -17840,6 +18198,8 @@ msgstr ""
 
 msgid "qn_dsc_1407"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1408"
 msgstr ""
@@ -17915,81 +18275,83 @@ msgstr ""
 
 msgid "qn_dsc_1432"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1433"
-msgstr ""
+msgstr "玩家等级达到201级"
 
 msgid "qn_dsc_1434"
-msgstr ""
+msgstr "玩家等级达到202级"
 
 msgid "qn_dsc_1435"
-msgstr ""
+msgstr "玩家等级达到203级"
 
 msgid "qn_dsc_1436"
-msgstr ""
+msgstr "玩家等级达到204级"
 
 msgid "qn_dsc_1437"
-msgstr ""
+msgstr "玩家等级达到205级"
 
 msgid "qn_dsc_1438"
-msgstr ""
+msgstr "玩家等级达到206级"
 
 msgid "qn_dsc_1439"
-msgstr ""
+msgstr "玩家等级达到207级"
 
 msgid "qn_dsc_1440"
-msgstr ""
+msgstr "玩家等级达到208级"
 
 msgid "qn_dsc_1441"
-msgstr ""
+msgstr "玩家等级达到209级"
 
 msgid "qn_dsc_1442"
-msgstr ""
+msgstr "玩家等级达到210级"
 
 msgid "qn_dsc_1443"
-msgstr ""
+msgstr "玩家等级达到211级"
 
 msgid "qn_dsc_1444"
-msgstr ""
+msgstr "玩家等级达到212级"
 
 msgid "qn_dsc_1445"
-msgstr ""
+msgstr "玩家等级达到213级"
 
 msgid "qn_dsc_1446"
-msgstr ""
+msgstr "玩家等级达到214级"
 
 msgid "qn_dsc_1447"
-msgstr ""
+msgstr "玩家等级达到215级"
 
 msgid "qn_dsc_1448"
-msgstr ""
+msgstr "玩家等级达到216级"
 
 msgid "qn_dsc_1449"
-msgstr ""
+msgstr "玩家等级达到217级"
 
 msgid "qn_dsc_1450"
-msgstr ""
+msgstr "玩家等级达到218级"
 
 msgid "qn_dsc_1451"
-msgstr ""
+msgstr "玩家等级达到219级"
 
 msgid "qn_dsc_1452"
-msgstr ""
+msgstr "玩家等级达到220级"
 
 msgid "qn_dsc_1453"
-msgstr ""
+msgstr "玩家等级达到221级"
 
 msgid "qn_dsc_1454"
-msgstr ""
+msgstr "玩家等级达到222级"
 
 msgid "qn_dsc_1455"
-msgstr ""
+msgstr "玩家等级达到223级"
 
 msgid "qn_dsc_1456"
-msgstr ""
+msgstr "玩家等级达到224级"
 
 msgid "qn_dsc_1457"
-msgstr ""
+msgstr "玩家等级达到225级"
 
 msgid "qn_dsc_1458"
 msgstr ""
@@ -18011,6 +18373,8 @@ msgstr ""
 
 msgid "qn_dsc_1464"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1465"
 msgstr ""
@@ -18032,6 +18396,8 @@ msgstr ""
 
 msgid "qn_dsc_1471"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1472"
 msgstr ""
@@ -18053,6 +18419,8 @@ msgstr ""
 
 msgid "qn_dsc_1478"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1479"
 msgstr ""
@@ -18092,9 +18460,11 @@ msgstr ""
 
 msgid "qn_dsc_1491"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1492"
-msgstr ""
+msgstr "解放【记忆时空】的所有记忆"
 
 msgid "qn_dsc_1493"
 msgstr ""
@@ -18125,6 +18495,8 @@ msgstr ""
 
 msgid "qn_dsc_1502"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1503"
 msgstr ""
@@ -18146,6 +18518,8 @@ msgstr ""
 
 msgid "qn_dsc_1509"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1510"
 msgstr ""
@@ -18158,6 +18532,8 @@ msgstr ""
 
 msgid "qn_dsc_1513"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1514"
 msgstr ""
@@ -18179,6 +18555,8 @@ msgstr ""
 
 msgid "qn_dsc_1520"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1521"
 msgstr ""
@@ -18200,6 +18578,8 @@ msgstr ""
 
 msgid "qn_dsc_1527"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1528"
 msgstr ""
@@ -18221,6 +18601,8 @@ msgstr ""
 
 msgid "qn_dsc_1534"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1535"
 msgstr ""
@@ -18242,6 +18624,8 @@ msgstr ""
 
 msgid "qn_dsc_1541"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1542"
 msgstr ""
@@ -18263,6 +18647,8 @@ msgstr ""
 
 msgid "qn_dsc_1548"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1549"
 msgstr ""
@@ -18284,6 +18670,8 @@ msgstr ""
 
 msgid "qn_dsc_1555"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1556"
 msgstr ""
@@ -18305,6 +18693,8 @@ msgstr ""
 
 msgid "qn_dsc_1562"
 msgstr ""
+"解锁新歌曲\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_1563"
 msgstr ""
@@ -18361,13 +18751,13 @@ msgid "qn_dsc_1580"
 msgstr ""
 
 msgid "qn_dscb_0001"
-msgstr ""
+msgstr "完成1次演出"
 
 msgid "qn_dscb_0003"
-msgstr ""
+msgstr "达到玩家等级3并招募新的歌姬"
 
 msgid "qn_dscb_0010"
-msgstr ""
+msgstr "使用主动技能并完成演出"
 
 msgid "ep_nm_0001"
 msgstr ""
@@ -26241,7 +26631,7 @@ msgid "dc_itm_dsc_0026_bg"
 msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0027_bg"
-msgstr ""
+msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_dsc_0028_bg"
 msgstr "包含墙壁和地板的房间背景"
