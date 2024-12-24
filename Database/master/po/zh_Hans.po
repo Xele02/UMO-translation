@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-24 06:28+0000\n"
+"PO-Revision-Date: 2024-12-24 08:03+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -14661,315 +14661,371 @@ msgstr ""
 
 msgid "qn_dsc_0416"
 msgstr ""
+"将美云升到25级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0417"
 msgstr ""
+"将美云升到30级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0418"
 msgstr ""
+"将美云升到35级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0419"
 msgstr ""
+"将美云升到40级\n"
+"在【美云的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0420"
 msgstr ""
+"将要升到25级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0421"
 msgstr ""
+"将要升到30级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0422"
 msgstr ""
+"将要升到35级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0423"
 msgstr ""
+"将要升到40级\n"
+"在【要的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0424"
 msgstr ""
+"将玛基娜升到25级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0425"
 msgstr ""
+"将玛基娜升到30级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0426"
 msgstr ""
+"将玛基娜升到35级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0427"
 msgstr ""
+"将玛基娜升到40级\n"
+"在【玛基娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0428"
 msgstr ""
+"将蕾娜升到25级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0429"
 msgstr ""
+"将蕾娜升到30级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0430"
 msgstr ""
+"将蕾娜升到35级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0431"
 msgstr ""
+"将蕾娜升到40级\n"
+"在【蕾娜的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0432"
 msgstr ""
+"将兰卡升到25级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0433"
 msgstr ""
+"将兰卡升到30级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0434"
 msgstr ""
+"将兰卡升到35级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0435"
 msgstr ""
+"将兰卡升到40级\n"
+"在【兰卡的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0436"
 msgstr ""
+"将雪莉露升到25级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0437"
 msgstr ""
+"将雪莉露升到30级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0438"
 msgstr ""
+"将雪莉露升到35级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0439"
 msgstr ""
+"将雪莉露升到40级\n"
+"在【雪莉露的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0440"
 msgstr ""
+"将明美升到25级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0441"
 msgstr ""
+"将明美升到30级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0442"
 msgstr ""
+"将明美升到35级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0443"
 msgstr ""
+"将明美升到40级\n"
+"在【明美的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0444"
-msgstr ""
+msgstr "玩家等级达到25级"
 
 msgid "qn_dsc_0445"
-msgstr ""
+msgstr "玩家等级达到26级"
 
 msgid "qn_dsc_0446"
-msgstr ""
+msgstr "玩家等级达到27级"
 
 msgid "qn_dsc_0447"
-msgstr ""
+msgstr "玩家等级达到28级"
 
 msgid "qn_dsc_0448"
-msgstr ""
+msgstr "玩家等级达到29级"
 
 msgid "qn_dsc_0449"
-msgstr ""
+msgstr "玩家等级达到30级"
 
 msgid "qn_dsc_0450"
-msgstr ""
+msgstr "玩家等级达到31级"
 
 msgid "qn_dsc_0451"
-msgstr ""
+msgstr "玩家等级达到32级"
 
 msgid "qn_dsc_0452"
-msgstr ""
+msgstr "玩家等级达到33级"
 
 msgid "qn_dsc_0453"
-msgstr ""
+msgstr "玩家等级达到34级"
 
 msgid "qn_dsc_0454"
-msgstr ""
+msgstr "玩家等级达到35级"
 
 msgid "qn_dsc_0455"
-msgstr ""
+msgstr "玩家等级达到36级"
 
 msgid "qn_dsc_0456"
-msgstr ""
+msgstr "玩家等级达到37级"
 
 msgid "qn_dsc_0457"
-msgstr ""
+msgstr "玩家等级达到38级"
 
 msgid "qn_dsc_0458"
-msgstr ""
+msgstr "玩家等级达到39级"
 
 msgid "qn_dsc_0459"
-msgstr ""
+msgstr "玩家等级达到40级"
 
 msgid "qn_dsc_0460"
-msgstr ""
+msgstr "玩家等级达到41级"
 
 msgid "qn_dsc_0461"
-msgstr ""
+msgstr "玩家等级达到42级"
 
 msgid "qn_dsc_0462"
-msgstr ""
+msgstr "玩家等级达到43级"
 
 msgid "qn_dsc_0463"
-msgstr ""
+msgstr "玩家等级达到44级"
 
 msgid "qn_dsc_0464"
-msgstr ""
+msgstr "玩家等级达到45级"
 
 msgid "qn_dsc_0465"
-msgstr ""
+msgstr "玩家等级达到46级"
 
 msgid "qn_dsc_0466"
-msgstr ""
+msgstr "玩家等级达到47级"
 
 msgid "qn_dsc_0467"
-msgstr ""
+msgstr "玩家等级达到48级"
 
 msgid "qn_dsc_0468"
-msgstr ""
+msgstr "玩家等级达到49级"
 
 msgid "qn_dsc_0469"
-msgstr ""
+msgstr "玩家等级达到50级"
 
 msgid "qn_dsc_0470"
-msgstr ""
+msgstr "玩家等级达到51级"
 
 msgid "qn_dsc_0471"
-msgstr ""
+msgstr "玩家等级达到52级"
 
 msgid "qn_dsc_0472"
-msgstr ""
+msgstr "玩家等级达到53级"
 
 msgid "qn_dsc_0473"
-msgstr ""
+msgstr "玩家等级达到54级"
 
 msgid "qn_dsc_0474"
-msgstr ""
+msgstr "玩家等级达到55级"
 
 msgid "qn_dsc_0475"
-msgstr ""
+msgstr "玩家等级达到56级"
 
 msgid "qn_dsc_0476"
-msgstr ""
+msgstr "玩家等级达到57级"
 
 msgid "qn_dsc_0477"
-msgstr ""
+msgstr "玩家等级达到58级"
 
 msgid "qn_dsc_0478"
-msgstr ""
+msgstr "玩家等级达到59级"
 
 msgid "qn_dsc_0479"
-msgstr ""
+msgstr "玩家等级达到60级"
 
 msgid "qn_dsc_0480"
-msgstr ""
+msgstr "玩家等级达到61级"
 
 msgid "qn_dsc_0481"
-msgstr ""
+msgstr "玩家等级达到62级"
 
 msgid "qn_dsc_0482"
-msgstr ""
+msgstr "玩家等级达到63级"
 
 msgid "qn_dsc_0483"
-msgstr ""
+msgstr "玩家等级达到64级"
 
 msgid "qn_dsc_0484"
-msgstr ""
+msgstr "玩家等级达到65级"
 
 msgid "qn_dsc_0485"
-msgstr ""
+msgstr "玩家等级达到66级"
 
 msgid "qn_dsc_0486"
-msgstr ""
+msgstr "玩家等级达到67级"
 
 msgid "qn_dsc_0487"
-msgstr ""
+msgstr "玩家等级达到68级"
 
 msgid "qn_dsc_0488"
-msgstr ""
+msgstr "玩家等级达到69级"
 
 msgid "qn_dsc_0489"
-msgstr ""
+msgstr "玩家等级达到70级"
 
 msgid "qn_dsc_0490"
-msgstr ""
+msgstr "玩家等级达到71级"
 
 msgid "qn_dsc_0491"
-msgstr ""
+msgstr "玩家等级达到72级"
 
 msgid "qn_dsc_0492"
-msgstr ""
+msgstr "玩家等级达到73级"
 
 msgid "qn_dsc_0493"
-msgstr ""
+msgstr "玩家等级达到74级"
 
 msgid "qn_dsc_0494"
-msgstr ""
+msgstr "玩家等级达到75级"
 
 msgid "qn_dsc_0495"
-msgstr ""
+msgstr "玩家等级达到76级"
 
 msgid "qn_dsc_0496"
-msgstr ""
+msgstr "玩家等级达到77级"
 
 msgid "qn_dsc_0497"
-msgstr ""
+msgstr "玩家等级达到78级"
 
 msgid "qn_dsc_0498"
-msgstr ""
+msgstr "玩家等级达到79级"
 
 msgid "qn_dsc_0499"
-msgstr ""
+msgstr "玩家等级达到80级"
 
 msgid "qn_dsc_0500"
-msgstr ""
+msgstr "玩家等级达到81级"
 
 msgid "qn_dsc_0501"
-msgstr ""
+msgstr "玩家等级达到82级"
 
 msgid "qn_dsc_0502"
-msgstr ""
+msgstr "玩家等级达到83级"
 
 msgid "qn_dsc_0503"
-msgstr ""
+msgstr "玩家等级达到84级"
 
 msgid "qn_dsc_0504"
-msgstr ""
+msgstr "玩家等级达到85级"
 
 msgid "qn_dsc_0505"
-msgstr ""
+msgstr "玩家等级达到86级"
 
 msgid "qn_dsc_0506"
-msgstr ""
+msgstr "玩家等级达到87级"
 
 msgid "qn_dsc_0507"
-msgstr ""
+msgstr "玩家等级达到88级"
 
 msgid "qn_dsc_0508"
-msgstr ""
+msgstr "玩家等级达到89级"
 
 msgid "qn_dsc_0509"
-msgstr ""
+msgstr "玩家等级达到90级"
 
 msgid "qn_dsc_0510"
-msgstr ""
+msgstr "玩家等级达到91级"
 
 msgid "qn_dsc_0511"
-msgstr ""
+msgstr "玩家等级达到92级"
 
 msgid "qn_dsc_0512"
-msgstr ""
+msgstr "玩家等级达到93级"
 
 msgid "qn_dsc_0513"
-msgstr ""
+msgstr "玩家等级达到94级"
 
 msgid "qn_dsc_0514"
-msgstr ""
+msgstr "玩家等级达到95级"
 
 msgid "qn_dsc_0515"
-msgstr ""
+msgstr "玩家等级达到96级"
 
 msgid "qn_dsc_0516"
-msgstr ""
+msgstr "玩家等级达到97级"
 
 msgid "qn_dsc_0517"
-msgstr ""
+msgstr "玩家等级达到98级"
 
 msgid "qn_dsc_0518"
-msgstr ""
+msgstr "玩家等级达到99级"
 
 msgid "qn_dsc_0519"
-msgstr ""
+msgstr "玩家等级达到100级"
 
 msgid "qn_dsc_0521"
 msgstr ""
@@ -14981,40 +15037,40 @@ msgid "qn_dsc_0523"
 msgstr ""
 
 msgid "qn_dsc_0524"
-msgstr ""
+msgstr "分数最高纪录达到550000以上"
 
 msgid "qn_dsc_0525"
-msgstr ""
+msgstr "分数最高纪录达到600000以上"
 
 msgid "qn_dsc_0526"
-msgstr ""
+msgstr "分数最高纪录达到650000以上"
 
 msgid "qn_dsc_0527"
-msgstr ""
+msgstr "分数最高纪录达到700000以上"
 
 msgid "qn_dsc_0528"
-msgstr ""
+msgstr "分数最高纪录达到750000以上"
 
 msgid "qn_dsc_0529"
-msgstr ""
+msgstr "分数最高纪录达到800000以上"
 
 msgid "qn_dsc_0530"
-msgstr ""
+msgstr "分数最高纪录达到850000以上"
 
 msgid "qn_dsc_0531"
-msgstr ""
+msgstr "分数最高纪录达到900000以上"
 
 msgid "qn_dsc_0532"
-msgstr ""
+msgstr "分数最高纪录达到950000以上"
 
 msgid "qn_dsc_0533"
-msgstr ""
+msgstr "分数最高纪录达到1000000以上"
 
 msgid "qn_dsc_0534"
-msgstr ""
+msgstr "完成250个普通任务"
 
 msgid "qn_dsc_0535"
-msgstr ""
+msgstr "完成300个普通任务"
 
 msgid "qn_dsc_0536"
 msgstr ""
@@ -15026,82 +15082,126 @@ msgid "qn_dsc_0538"
 msgstr ""
 
 msgid "qn_dsc_0539"
-msgstr ""
+msgstr "将米莲升到10级"
 
 msgid "qn_dsc_0540"
-msgstr ""
+msgstr "将米莲升到20级"
 
 msgid "qn_dsc_0541"
-msgstr ""
+msgstr "将巴萨拉升到10级"
 
 msgid "qn_dsc_0542"
-msgstr ""
+msgstr "将巴萨拉升到20级"
 
 msgid "qn_dsc_0543"
 msgstr ""
+"将米莲升到2级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0544"
 msgstr ""
+"将米莲升到4级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0545"
 msgstr ""
+"将米莲升到7级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0546"
 msgstr ""
+"将米莲升到10级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0547"
 msgstr ""
+"将米莲升到12级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0548"
 msgstr ""
+"将米莲升到17级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0549"
 msgstr ""
+"将米莲升到20级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0550"
 msgstr ""
+"将米莲升到25级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0551"
 msgstr ""
+"将米莲升到30级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0552"
 msgstr ""
+"将米莲升到35级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0553"
 msgstr ""
+"将米莲升到40级\n"
+"在【米莲的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0554"
 msgstr ""
+"将巴萨拉升到2级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0555"
 msgstr ""
+"将巴萨拉升到4级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0556"
 msgstr ""
+"将巴萨拉升到7级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0557"
 msgstr ""
+"将巴萨拉升到10级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0558"
 msgstr ""
+"将巴萨拉升到12级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0559"
 msgstr ""
+"将巴萨拉升到17级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0560"
 msgstr ""
+"将巴萨拉升到20级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0561"
 msgstr ""
+"将巴萨拉升到25级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0562"
 msgstr ""
+"将巴萨拉升到30级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0563"
 msgstr ""
+"将巴萨拉升到35级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0564"
 msgstr ""
+"将巴萨拉升到40级\n"
+"在【巴萨拉的聊天室】阅读下一则对话"
 
 msgid "qn_dsc_0565"
 msgstr ""
@@ -15131,304 +15231,304 @@ msgid "qn_dsc_0573"
 msgstr ""
 
 msgid "qn_dsc_0574"
-msgstr ""
+msgstr "玩家等级达到101级"
 
 msgid "qn_dsc_0575"
-msgstr ""
+msgstr "玩家等级达到102级"
 
 msgid "qn_dsc_0576"
-msgstr ""
+msgstr "玩家等级达到103级"
 
 msgid "qn_dsc_0577"
-msgstr ""
+msgstr "玩家等级达到104级"
 
 msgid "qn_dsc_0578"
-msgstr ""
+msgstr "玩家等级达到105级"
 
 msgid "qn_dsc_0579"
-msgstr ""
+msgstr "玩家等级达到106级"
 
 msgid "qn_dsc_0580"
-msgstr ""
+msgstr "玩家等级达到107级"
 
 msgid "qn_dsc_0581"
-msgstr ""
+msgstr "玩家等级达到108级"
 
 msgid "qn_dsc_0582"
-msgstr ""
+msgstr "玩家等级达到109级"
 
 msgid "qn_dsc_0583"
-msgstr ""
+msgstr "玩家等级达到110级"
 
 msgid "qn_dsc_0584"
-msgstr ""
+msgstr "玩家等级达到111级"
 
 msgid "qn_dsc_0585"
-msgstr ""
+msgstr "玩家等级达到112级"
 
 msgid "qn_dsc_0586"
-msgstr ""
+msgstr "玩家等级达到113级"
 
 msgid "qn_dsc_0587"
-msgstr ""
+msgstr "玩家等级达到114级"
 
 msgid "qn_dsc_0588"
-msgstr ""
+msgstr "玩家等级达到115级"
 
 msgid "qn_dsc_0589"
-msgstr ""
+msgstr "玩家等级达到116级"
 
 msgid "qn_dsc_0590"
-msgstr ""
+msgstr "玩家等级达到117级"
 
 msgid "qn_dsc_0591"
-msgstr ""
+msgstr "玩家等级达到118级"
 
 msgid "qn_dsc_0592"
-msgstr ""
+msgstr "玩家等级达到119级"
 
 msgid "qn_dsc_0593"
-msgstr ""
+msgstr "玩家等级达到120级"
 
 msgid "qn_dsc_0594"
-msgstr ""
+msgstr "玩家等级达到121级"
 
 msgid "qn_dsc_0595"
-msgstr ""
+msgstr "玩家等级达到122级"
 
 msgid "qn_dsc_0596"
-msgstr ""
+msgstr "玩家等级达到123级"
 
 msgid "qn_dsc_0597"
-msgstr ""
+msgstr "玩家等级达到124级"
 
 msgid "qn_dsc_0598"
-msgstr ""
+msgstr "玩家等级达到125级"
 
 msgid "qn_dsc_0599"
-msgstr ""
+msgstr "玩家等级达到126级"
 
 msgid "qn_dsc_0600"
-msgstr ""
+msgstr "玩家等级达到127级"
 
 msgid "qn_dsc_0601"
-msgstr ""
+msgstr "玩家等级达到128级"
 
 msgid "qn_dsc_0602"
-msgstr ""
+msgstr "玩家等级达到129级"
 
 msgid "qn_dsc_0603"
-msgstr ""
+msgstr "玩家等级达到130级"
 
 msgid "qn_dsc_0604"
-msgstr ""
+msgstr "玩家等级达到131级"
 
 msgid "qn_dsc_0605"
-msgstr ""
+msgstr "玩家等级达到132级"
 
 msgid "qn_dsc_0606"
-msgstr ""
+msgstr "玩家等级达到133级"
 
 msgid "qn_dsc_0607"
-msgstr ""
+msgstr "玩家等级达到134级"
 
 msgid "qn_dsc_0608"
-msgstr ""
+msgstr "玩家等级达到135级"
 
 msgid "qn_dsc_0609"
-msgstr ""
+msgstr "玩家等级达到136级"
 
 msgid "qn_dsc_0610"
-msgstr ""
+msgstr "玩家等级达到137级"
 
 msgid "qn_dsc_0611"
-msgstr ""
+msgstr "玩家等级达到138级"
 
 msgid "qn_dsc_0612"
-msgstr ""
+msgstr "玩家等级达到139级"
 
 msgid "qn_dsc_0613"
-msgstr ""
+msgstr "玩家等级达到140级"
 
 msgid "qn_dsc_0614"
-msgstr ""
+msgstr "玩家等级达到141级"
 
 msgid "qn_dsc_0615"
-msgstr ""
+msgstr "玩家等级达到142级"
 
 msgid "qn_dsc_0616"
-msgstr ""
+msgstr "玩家等级达到143级"
 
 msgid "qn_dsc_0617"
-msgstr ""
+msgstr "玩家等级达到144级"
 
 msgid "qn_dsc_0618"
-msgstr ""
+msgstr "玩家等级达到145级"
 
 msgid "qn_dsc_0619"
-msgstr ""
+msgstr "玩家等级达到146级"
 
 msgid "qn_dsc_0620"
-msgstr ""
+msgstr "玩家等级达到147级"
 
 msgid "qn_dsc_0621"
-msgstr ""
+msgstr "玩家等级达到148级"
 
 msgid "qn_dsc_0622"
-msgstr ""
+msgstr "玩家等级达到149级"
 
 msgid "qn_dsc_0623"
-msgstr ""
+msgstr "玩家等级达到150级"
 
 msgid "qn_dsc_0624"
-msgstr ""
+msgstr "玩家等级达到151级"
 
 msgid "qn_dsc_0625"
-msgstr ""
+msgstr "玩家等级达到152级"
 
 msgid "qn_dsc_0626"
-msgstr ""
+msgstr "玩家等级达到153级"
 
 msgid "qn_dsc_0627"
-msgstr ""
+msgstr "玩家等级达到154级"
 
 msgid "qn_dsc_0628"
-msgstr ""
+msgstr "玩家等级达到155级"
 
 msgid "qn_dsc_0629"
-msgstr ""
+msgstr "玩家等级达到156级"
 
 msgid "qn_dsc_0630"
-msgstr ""
+msgstr "玩家等级达到157级"
 
 msgid "qn_dsc_0631"
-msgstr ""
+msgstr "玩家等级达到158级"
 
 msgid "qn_dsc_0632"
-msgstr ""
+msgstr "玩家等级达到159级"
 
 msgid "qn_dsc_0633"
-msgstr ""
+msgstr "玩家等级达到160级"
 
 msgid "qn_dsc_0634"
-msgstr ""
+msgstr "玩家等级达到161级"
 
 msgid "qn_dsc_0635"
-msgstr ""
+msgstr "玩家等级达到162级"
 
 msgid "qn_dsc_0636"
-msgstr ""
+msgstr "玩家等级达到163级"
 
 msgid "qn_dsc_0637"
-msgstr ""
+msgstr "玩家等级达到164级"
 
 msgid "qn_dsc_0638"
-msgstr ""
+msgstr "玩家等级达到165级"
 
 msgid "qn_dsc_0639"
-msgstr ""
+msgstr "玩家等级达到166级"
 
 msgid "qn_dsc_0640"
-msgstr ""
+msgstr "玩家等级达到167级"
 
 msgid "qn_dsc_0641"
-msgstr ""
+msgstr "玩家等级达到168级"
 
 msgid "qn_dsc_0642"
-msgstr ""
+msgstr "玩家等级达到169级"
 
 msgid "qn_dsc_0643"
-msgstr ""
+msgstr "玩家等级达到170级"
 
 msgid "qn_dsc_0644"
-msgstr ""
+msgstr "玩家等级达到171级"
 
 msgid "qn_dsc_0645"
-msgstr ""
+msgstr "玩家等级达到172级"
 
 msgid "qn_dsc_0646"
-msgstr ""
+msgstr "玩家等级达到173级"
 
 msgid "qn_dsc_0647"
-msgstr ""
+msgstr "玩家等级达到174级"
 
 msgid "qn_dsc_0648"
-msgstr ""
+msgstr "玩家等级达到175级"
 
 msgid "qn_dsc_0649"
-msgstr ""
+msgstr "玩家等级达到176级"
 
 msgid "qn_dsc_0650"
-msgstr ""
+msgstr "玩家等级达到177级"
 
 msgid "qn_dsc_0651"
-msgstr ""
+msgstr "玩家等级达到178级"
 
 msgid "qn_dsc_0652"
-msgstr ""
+msgstr "玩家等级达到179级"
 
 msgid "qn_dsc_0653"
-msgstr ""
+msgstr "玩家等级达到180级"
 
 msgid "qn_dsc_0654"
-msgstr ""
+msgstr "玩家等级达到181级"
 
 msgid "qn_dsc_0655"
-msgstr ""
+msgstr "玩家等级达到182级"
 
 msgid "qn_dsc_0656"
-msgstr ""
+msgstr "玩家等级达到183级"
 
 msgid "qn_dsc_0657"
-msgstr ""
+msgstr "玩家等级达到184级"
 
 msgid "qn_dsc_0658"
-msgstr ""
+msgstr "玩家等级达到185级"
 
 msgid "qn_dsc_0659"
-msgstr ""
+msgstr "玩家等级达到186级"
 
 msgid "qn_dsc_0660"
-msgstr ""
+msgstr "玩家等级达到187级"
 
 msgid "qn_dsc_0661"
-msgstr ""
+msgstr "玩家等级达到188级"
 
 msgid "qn_dsc_0662"
-msgstr ""
+msgstr "玩家等级达到189级"
 
 msgid "qn_dsc_0663"
-msgstr ""
+msgstr "玩家等级达到190级"
 
 msgid "qn_dsc_0664"
-msgstr ""
+msgstr "玩家等级达到191级"
 
 msgid "qn_dsc_0665"
-msgstr ""
+msgstr "玩家等级达到192级"
 
 msgid "qn_dsc_0666"
-msgstr ""
+msgstr "玩家等级达到193级"
 
 msgid "qn_dsc_0667"
-msgstr ""
+msgstr "玩家等级达到194级"
 
 msgid "qn_dsc_0668"
-msgstr ""
+msgstr "玩家等级达到195级"
 
 msgid "qn_dsc_0669"
-msgstr ""
+msgstr "玩家等级达到196级"
 
 msgid "qn_dsc_0670"
-msgstr ""
+msgstr "玩家等级达到197级"
 
 msgid "qn_dsc_0671"
-msgstr ""
+msgstr "玩家等级达到198级"
 
 msgid "qn_dsc_0672"
-msgstr ""
+msgstr "玩家等级达到199级"
 
 msgid "qn_dsc_0673"
-msgstr ""
+msgstr "玩家等级达到200级"
 
 msgid "qn_dsc_0674"
 msgstr ""
@@ -15450,12 +15550,18 @@ msgstr ""
 
 msgid "qn_dsc_0680"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0681"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0682"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0683"
 msgstr ""
@@ -15468,6 +15574,8 @@ msgstr ""
 
 msgid "qn_dsc_0686"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0687"
 msgstr ""
@@ -15489,6 +15597,8 @@ msgstr ""
 
 msgid "qn_dsc_0693"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0694"
 msgstr ""
@@ -15501,6 +15611,8 @@ msgstr ""
 
 msgid "qn_dsc_0697"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0698"
 msgstr ""
@@ -15513,105 +15625,107 @@ msgstr ""
 
 msgid "qn_dsc_0701"
 msgstr ""
+"玩家等级达到10级\n"
+"解锁模拟演出功能"
 
 msgid "qn_dsc_0702"
-msgstr ""
+msgstr "游玩模拟演出"
 
 msgid "qn_dsc_0703"
-msgstr ""
+msgstr "在凯厄斯商店兑换道具"
 
 msgid "qn_dsc_0704"
-msgstr ""
+msgstr "累计获得1000枚十二星座奖章"
 
 msgid "qn_dsc_0705"
-msgstr ""
+msgstr "累计获得2000枚十二星座奖章"
 
 msgid "qn_dsc_0706"
-msgstr ""
+msgstr "累计获得3000枚十二星座奖章"
 
 msgid "qn_dsc_0707"
-msgstr ""
+msgstr "累计获得4000枚十二星座奖章"
 
 msgid "qn_dsc_0708"
-msgstr ""
+msgstr "累计获得5000枚十二星座奖章"
 
 msgid "qn_dsc_0709"
-msgstr ""
+msgstr "累计获得7500枚十二星座奖章"
 
 msgid "qn_dsc_0710"
-msgstr ""
+msgstr "累计获得10000枚十二星座奖章"
 
 msgid "qn_dsc_0711"
-msgstr ""
+msgstr "累计获得15000枚十二星座奖章"
 
 msgid "qn_dsc_0712"
-msgstr ""
+msgstr "累计获得20000枚十二星座奖章"
 
 msgid "qn_dsc_0713"
-msgstr ""
+msgstr "累计获得25000枚十二星座奖章"
 
 msgid "qn_dsc_0714"
-msgstr ""
+msgstr "累计获得30000枚十二星座奖章"
 
 msgid "qn_dsc_0715"
-msgstr ""
+msgstr "累计获得35000枚十二星座奖章"
 
 msgid "qn_dsc_0716"
-msgstr ""
+msgstr "累计获得40000枚十二星座奖章"
 
 msgid "qn_dsc_0717"
-msgstr ""
+msgstr "累计获得45000枚十二星座奖章"
 
 msgid "qn_dsc_0718"
-msgstr ""
+msgstr "累计获得50000枚十二星座奖章"
 
 msgid "qn_dsc_0719"
-msgstr ""
+msgstr "累计获得55000枚十二星座奖章"
 
 msgid "qn_dsc_0720"
-msgstr ""
+msgstr "累计获得60000枚十二星座奖章"
 
 msgid "qn_dsc_0721"
-msgstr ""
+msgstr "累计获得65000枚十二星座奖章"
 
 msgid "qn_dsc_0722"
-msgstr ""
+msgstr "累计获得70000枚十二星座奖章"
 
 msgid "qn_dsc_0723"
-msgstr ""
+msgstr "累计获得75000枚十二星座奖章"
 
 msgid "qn_dsc_0724"
-msgstr ""
+msgstr "累计获得80000枚十二星座奖章"
 
 msgid "qn_dsc_0725"
-msgstr ""
+msgstr "累计获得85000枚十二星座奖章"
 
 msgid "qn_dsc_0726"
-msgstr ""
+msgstr "累计获得90000枚十二星座奖章"
 
 msgid "qn_dsc_0727"
-msgstr ""
+msgstr "累计获得95000枚十二星座奖章"
 
 msgid "qn_dsc_0728"
-msgstr ""
+msgstr "累计获得100000枚十二星座奖章"
 
 msgid "qn_dsc_0729"
-msgstr ""
+msgstr "累计获得110000枚十二星座奖章"
 
 msgid "qn_dsc_0730"
-msgstr ""
+msgstr "累计获得120000枚十二星座奖章"
 
 msgid "qn_dsc_0731"
-msgstr ""
+msgstr "累计获得130000枚十二星座奖章"
 
 msgid "qn_dsc_0732"
-msgstr ""
+msgstr "累计获得140000枚十二星座奖章"
 
 msgid "qn_dsc_0733"
-msgstr ""
+msgstr "累计获得150000枚十二星座奖章"
 
 msgid "qn_dsc_0734"
-msgstr ""
+msgstr "累计获得160000枚十二星座奖章"
 
 msgid "qn_dsc_0735"
 msgstr ""
@@ -15624,6 +15738,8 @@ msgstr ""
 
 msgid "qn_dsc_0738"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0739"
 msgstr ""
@@ -15636,228 +15752,378 @@ msgstr ""
 
 msgid "qn_dsc_0742"
 msgstr ""
+"推进【记忆时空】\n"
+"在【SNS联络室】阅读下一则对话"
 
 msgid "qn_dsc_0743"
 msgstr ""
+"歌曲评分达到50\n"
+"歌手等级达到【训练兵★2】"
 
 msgid "qn_dsc_0744"
 msgstr ""
+"歌曲评分达到100\n"
+"歌手等级达到【训练兵★3】"
 
 msgid "qn_dsc_0745"
 msgstr ""
+"歌曲评分达到150\n"
+"歌手等级达到【训练兵★4】"
 
 msgid "qn_dsc_0746"
 msgstr ""
+"歌曲评分达到200\n"
+"歌手等级达到【训练兵★5】"
 
 msgid "qn_dsc_0747"
 msgstr ""
+"歌曲评分达到250\n"
+"歌手等级达到【二等兵★1】"
 
 msgid "qn_dsc_0748"
 msgstr ""
+"歌曲评分达到300\n"
+"歌手等级达到【二等兵★2】"
 
 msgid "qn_dsc_0749"
 msgstr ""
+"歌曲评分达到350\n"
+"歌手等级达到【二等兵★3】"
 
 msgid "qn_dsc_0750"
 msgstr ""
+"歌曲评分达到400\n"
+"歌手等级达到【二等兵★4】"
 
 msgid "qn_dsc_0751"
 msgstr ""
+"歌曲评分达到450\n"
+"歌手等级达到【二等兵★5】"
 
 msgid "qn_dsc_0752"
 msgstr ""
+"歌曲评分达到500\n"
+"歌手等级达到【一等兵★1】"
 
 msgid "qn_dsc_0753"
 msgstr ""
+"歌曲评分达到600\n"
+"歌手等级达到【一等兵★2】"
 
 msgid "qn_dsc_0754"
 msgstr ""
+"歌曲评分达到700\n"
+"歌手等级达到【一等兵★3】"
 
 msgid "qn_dsc_0755"
 msgstr ""
+"歌曲评分达到800\n"
+"歌手等级达到【一等兵★4】"
 
 msgid "qn_dsc_0756"
 msgstr ""
+"歌曲评分达到900\n"
+"歌手等级达到【一等兵★5】"
 
 msgid "qn_dsc_0757"
 msgstr ""
+"歌曲评分达到1000\n"
+"歌手等级达到【上等兵★1】"
 
 msgid "qn_dsc_0758"
 msgstr ""
+"歌曲评分达到1100\n"
+"歌手等级达到【上等兵★2】"
 
 msgid "qn_dsc_0759"
 msgstr ""
+"歌曲评分达到1200\n"
+"歌手等级达到【上等兵★3】"
 
 msgid "qn_dsc_0760"
 msgstr ""
+"歌曲评分达到1300\n"
+"歌手等级达到【上等兵★4】"
 
 msgid "qn_dsc_0761"
 msgstr ""
+"歌曲评分达到1400\n"
+"歌手等级达到【上等兵★5】"
 
 msgid "qn_dsc_0762"
 msgstr ""
+"歌曲评分达到1500\n"
+"歌手等级达到【伍长★1】"
 
 msgid "qn_dsc_0763"
 msgstr ""
+"歌曲评分达到1600\n"
+"歌手等级达到【伍长★2】"
 
 msgid "qn_dsc_0764"
 msgstr ""
+"歌曲评分达到1700\n"
+"歌手等级达到【伍长★3】"
 
 msgid "qn_dsc_0765"
 msgstr ""
+"歌曲评分达到1800\n"
+"歌手等级达到【伍长★4】"
 
 msgid "qn_dsc_0766"
 msgstr ""
+"歌曲评分达到1900\n"
+"歌手等级达到【伍长★5】"
 
 msgid "qn_dsc_0767"
 msgstr ""
+"歌曲评分达到2000\n"
+"歌手等级达到【中士★1】"
 
 msgid "qn_dsc_0768"
 msgstr ""
+"歌曲评分达到2200\n"
+"歌手等级达到【中士★3】"
 
 msgid "qn_dsc_0769"
 msgstr ""
+"歌曲评分达到2400\n"
+"歌手等级达到【中士★5】"
 
 msgid "qn_dsc_0770"
 msgstr ""
+"歌曲评分达到2600\n"
+"歌手等级达到【中士★7】"
 
 msgid "qn_dsc_0771"
 msgstr ""
+"歌曲评分达到2800\n"
+"歌手等级达到【中士★9】"
 
 msgid "qn_dsc_0772"
 msgstr ""
+"歌曲评分达到3000\n"
+"歌手等级达到【军士长★1】"
 
 msgid "qn_dsc_0773"
 msgstr ""
+"歌曲评分达到3200\n"
+"歌手等级达到【军士长★3】"
 
 msgid "qn_dsc_0774"
 msgstr ""
+"歌曲评分达到3400\n"
+"歌手等级达到【军士长★5】"
 
 msgid "qn_dsc_0775"
 msgstr ""
+"歌曲评分达到3600\n"
+"歌手等级达到【军士长★7】"
 
 msgid "qn_dsc_0776"
 msgstr ""
+"歌曲评分达到3800\n"
+"歌手等级达到【军士长★9】"
 
 msgid "qn_dsc_0777"
 msgstr ""
+"歌曲评分达到4000\n"
+"歌手等级达到【准尉★1】"
 
 msgid "qn_dsc_0778"
 msgstr ""
+"歌曲评分达到4200\n"
+"歌手等级达到【准尉★3】"
 
 msgid "qn_dsc_0779"
 msgstr ""
+"歌曲评分达到4400\n"
+"歌手等级达到【准尉★5】"
 
 msgid "qn_dsc_0780"
 msgstr ""
+"歌曲评分达到4600\n"
+"歌手等级达到【准尉★7】"
 
 msgid "qn_dsc_0781"
 msgstr ""
+"歌曲评分达到4800\n"
+"歌手等级达到【准尉★9】"
 
 msgid "qn_dsc_0782"
 msgstr ""
+"歌曲评分达到5000\n"
+"歌手等级达到【少尉★1】"
 
 msgid "qn_dsc_0783"
 msgstr ""
+"歌曲评分达到5200\n"
+"歌手等级达到【少尉★3】"
 
 msgid "qn_dsc_0784"
 msgstr ""
+"歌曲评分达到5400\n"
+"歌手等级达到【少尉★5】"
 
 msgid "qn_dsc_0785"
 msgstr ""
+"歌曲评分达到5600\n"
+"歌手等级达到【少尉★7】"
 
 msgid "qn_dsc_0786"
 msgstr ""
+"歌曲评分达到5800\n"
+"歌手等级达到【少尉★9】"
 
 msgid "qn_dsc_0787"
 msgstr ""
+"歌曲评分达到6000\n"
+"歌手等级达到【中尉★1】"
 
 msgid "qn_dsc_0788"
 msgstr ""
+"歌曲评分达到6200\n"
+"歌手等级达到【中尉★3】"
 
 msgid "qn_dsc_0789"
 msgstr ""
+"歌曲评分达到6400\n"
+"歌手等级达到【中尉★5】"
 
 msgid "qn_dsc_0790"
 msgstr ""
+"歌曲评分达到6600\n"
+"歌手等级达到【中尉★7】"
 
 msgid "qn_dsc_0791"
 msgstr ""
+"歌曲评分达到6800\n"
+"歌手等级达到【中尉★9】"
 
 msgid "qn_dsc_0792"
 msgstr ""
+"歌曲评分达到7000\n"
+"歌手等级达到【上尉★1】"
 
 msgid "qn_dsc_0793"
 msgstr ""
+"歌曲评分达到7200\n"
+"歌手等级达到【上尉★3】"
 
 msgid "qn_dsc_0794"
 msgstr ""
+"歌曲评分达到7400\n"
+"歌手等级达到【上尉★5】"
 
 msgid "qn_dsc_0795"
 msgstr ""
+"歌曲评分达到7600\n"
+"歌手等级达到【上尉★7】"
 
 msgid "qn_dsc_0796"
 msgstr ""
+"歌曲评分达到7800\n"
+"歌手等级达到【上尉★9】"
 
 msgid "qn_dsc_0797"
 msgstr ""
+"歌曲评分达到8000\n"
+"歌手等级达到【少校★1】"
 
 msgid "qn_dsc_0798"
 msgstr ""
+"歌曲评分达到8200\n"
+"歌手等级达到【少校★3】"
 
 msgid "qn_dsc_0799"
 msgstr ""
+"歌曲评分达到8400\n"
+"歌手等级达到【少校★5】"
 
 msgid "qn_dsc_0800"
 msgstr ""
+"歌曲评分达到8600\n"
+"歌手等级达到【少校★7】"
 
 msgid "qn_dsc_0801"
 msgstr ""
+"歌曲评分达到8800\n"
+"歌手等级达到【少校★9】"
 
 msgid "qn_dsc_0802"
 msgstr ""
+"歌曲评分达到9000\n"
+"歌手等级达到【中校★1】"
 
 msgid "qn_dsc_0803"
 msgstr ""
+"歌曲评分达到9200\n"
+"歌手等级达到【中校★3】"
 
 msgid "qn_dsc_0804"
 msgstr ""
+"歌曲评分达到9400\n"
+"歌手等级达到【中校★5】"
 
 msgid "qn_dsc_0805"
 msgstr ""
+"歌曲评分达到9600\n"
+"歌手等级达到【中校★7】"
 
 msgid "qn_dsc_0806"
 msgstr ""
+"歌曲评分达到9800\n"
+"歌手等级达到【中校★9】"
 
 msgid "qn_dsc_0807"
 msgstr ""
+"歌曲评分达到10000\n"
+"歌手等级达到【上校★1】"
 
 msgid "qn_dsc_0808"
 msgstr ""
+"歌曲评分达到10200\n"
+"歌手等级达到【上校★3】"
 
 msgid "qn_dsc_0809"
 msgstr ""
+"歌曲评分达到10400\n"
+"歌手等级达到【上校★5】"
 
 msgid "qn_dsc_0810"
 msgstr ""
+"歌曲评分达到10600\n"
+"歌手等级达到【上校★7】"
 
 msgid "qn_dsc_0811"
 msgstr ""
+"歌曲评分达到10800\n"
+"歌手等级达到【上校★9】"
 
 msgid "qn_dsc_0812"
 msgstr ""
+"歌曲评分达到250\n"
+"歌手等级从【训练兵】变为【二等兵】"
 
 msgid "qn_dsc_0813"
 msgstr ""
+"歌曲评分达到500\n"
+"歌手等级从【二等兵】变为【一等兵】"
 
 msgid "qn_dsc_0814"
 msgstr ""
+"歌曲评分达到1000\n"
+"歌手等级从【一等兵】变为【上等兵】"
 
 msgid "qn_dsc_0815"
 msgstr ""
+"歌曲评分达到1500\n"
+"歌手等级从【上等兵】变为【伍长】"
 
 msgid "qn_dsc_0816"
 msgstr ""
+"歌曲评分达到2000\n"
+"歌手等级从【伍长】变为【中士】"
 
 msgid "qn_dsc_0817"
 msgstr ""
