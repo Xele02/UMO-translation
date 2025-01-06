@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-01-03 13:31+0000\n"
+"PO-Revision-Date: 2025-01-07 01:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/diva005/zh_Hans/>\n"
@@ -117,7 +117,7 @@ msgstr ""
 msgid "talk_event_06"
 msgstr ""
 "我不会再去乱黑别人的设备了。\n"
-"…当然是骗你的"
+"…骗你的，当然不可能"
 
 msgid "talk_event_07"
 msgstr ""
@@ -126,233 +126,337 @@ msgstr ""
 
 msgid "talk_event_08"
 msgstr ""
-"…想象了下玛基娜穿婚纱的样子，\n"
-"眼泪不由自主地掉了下来"
+"…想象一下玛基娜穿婚纱的样子，\n"
+"简直太催泪了"
 
 msgid "talk_event_09"
 msgstr ""
+"发现芙蕾雅写的纸条…！\n"
+"嚯嚯，原来如此…！"
 
 msgid "talk_event_10"
 msgstr ""
+"夏天，和玛基娜一起在\n"
+"房间里乘凉…很不错"
 
 msgid "talk_event_11"
 msgstr ""
+"想去祭典逛逛。\n"
+"把每个摊子都吃个遍…！"
 
 msgid "talk_event_12"
 msgstr ""
+"我带了望远镜。\n"
+"一起来找玉兔吧"
 
 msgid "talk_event_13"
 msgstr ""
+"调戏美云，大成功。\n"
+"美云的惨叫，最可爱！"
 
 msgid "talk_event_14"
 msgstr ""
+"文化节的现场，\n"
+"肯定有卖水母的地方。\n"
+"我去找找"
 
 msgid "talk_event_15"
 msgstr ""
+"圣诞玛基娜的礼物，\n"
+"今年也好期待…！"
 
 msgid "talk_event_16"
 msgstr ""
+"新的一年也会充实且快乐。\n"
+"…一起努力实现它吧"
 
 msgid "talk_event_17"
 msgstr ""
+"下载量突破50万…\n"
+"干得好"
 
 msgid "talk_event_18"
 msgstr ""
+"竟然突破了百万下载…\n"
+"谢谢大家"
 
 msgid "talk_event_19"
 msgstr ""
+"200万下载了…\n"
+"还要再接再厉"
 
 msgid "talk_event_20"
-msgstr ""
+msgstr "1周年到了…心里一股刺刺的感觉"
 
 msgid "touch_reaction_01"
-msgstr ""
+msgstr "…怎么，了吗？"
 
 msgid "touch_reaction_02"
 msgstr ""
+"对我不理不睬的，\n"
+"这样做很开心？"
 
 msgid "touch_reaction_03"
 msgstr ""
+"这么碰有点越界了…\n"
+"劝你适可而止"
 
 msgid "touch_reaction_04"
 msgstr ""
+"该休息时就要好好休息…\n"
+"我躺~…"
 
 msgid "touch_reaction_05"
 msgstr ""
+"既然有猫咖\n"
+"那应该也有海猫咖吧"
 
 msgid "touch_reaction_06"
 msgstr ""
+"水母就得生吃。\n"
+"不要煮熟"
 
 msgid "touch_reaction_07"
 msgstr ""
+"不要以为\n"
+"可以随便戏弄我"
 
 msgid "touch_reaction_08"
 msgstr ""
+"…被抚摸的感觉，\n"
+"如此奇妙"
 
 msgid "login_reaction_01"
-msgstr ""
+msgstr "给你…当然是免费的"
 
 msgid "login_reaction_02"
-msgstr ""
+msgstr "尽情使用吧"
 
 msgid "simulation_result_01"
 msgstr ""
+"超出预期的\n"
+"模拟结果。\n"
+"顺带收集了不少数据"
 
 msgid "go_diva_result_01"
-msgstr ""
+msgstr "…感觉不错"
 
 msgid "go_diva_result_02"
-msgstr ""
+msgstr "还有许多成长空间"
 
 msgid "go_diva_result_03"
 msgstr ""
+"是高规格的通知…！\n"
+"心怦怦跳！"
 
 msgid "intimacy_pointup_01"
-msgstr ""
+msgstr "很好"
 
 msgid "intimacy_pointup_02"
-msgstr ""
+msgstr "很棒"
 
 msgid "intimacy_pointup_03"
-msgstr ""
+msgstr "完美"
 
 msgid "present_01"
-msgstr ""
+msgstr "感谢"
 
 msgid "present_02"
-msgstr ""
+msgstr "饿了…"
 
 msgid "present_03"
 msgstr ""
+"生水母，一口吞。\n"
+"满脑子都是水母的画面…"
 
 msgid "present_04"
 msgstr ""
+"忙活了一天。\n"
+"是时候吃饭了"
 
 msgid "present_05"
 msgstr ""
+"想做些…\n"
+"能让心里感到刺激的事情"
 
 msgid "present_06"
-msgstr ""
+msgstr "好无聊，急需一点刺激"
 
 msgid "present_07"
 msgstr ""
+"想换换心情…\n"
+"果然还是当会黑客吧？"
 
 msgid "present_08"
 msgstr ""
+"想要卡哇哇的东西。\n"
+"我好送给玛基娜"
 
 msgid "present_09"
 msgstr ""
+"时髦什么的…兴趣不大。\n"
+"但你的建议，倒也不是不能考虑"
 
 msgid "present_10"
 msgstr ""
+"平静的日常，\n"
+"偶尔也需要一点波澜"
 
 msgid "present_11"
-msgstr ""
+msgstr "很棒"
 
 msgid "cs_touch_reaction_01"
-msgstr ""
+msgstr "…？什么事？"
 
 msgid "cs_touch_reaction_02"
-msgstr ""
+msgstr "我可没有被你吓到"
 
 msgid "cs_touch_reaction_03"
 msgstr ""
+"我不是好欺负的女人。\n"
+"对我态度不好，我也不会忍气吞声"
 
 msgid "cs_touch_reaction_04"
-msgstr ""
+msgstr "难不成…你在等我主动搭话？"
 
 msgid "cs_touch_reaction_05"
-msgstr ""
+msgstr "啊！玛基娜在到处找我！"
 
 msgid "cs_touch_reaction_06"
-msgstr ""
+msgstr "今天的衣服，也很可爱"
 
 msgid "cs_touch_reaction_07"
-msgstr ""
+msgstr "偶尔也得换换发型…"
 
 msgid "cs_touch_reaction_08"
 msgstr ""
+"大家的歌声，\n"
+"听着感觉刺刺的，很舒服。\n"
+"我也不能落后！"
 
 msgid "cs_touch_reaction_09"
 msgstr ""
+"有空的话，\n"
+"来配合我的恶作剧吧"
 
 msgid "cs_touch_reaction_10"
 msgstr ""
+"要学会去享受生活。\n"
+"这样才能成为人生赢家"
 
 msgid "talk_event_21"
 msgstr ""
+"疾风跟踪行动，开始。\n"
+"他究竟会给芙蕾雅\n"
+"准备什么样的生日礼物呢…！"
 
 msgid "talk_event_22"
 msgstr ""
+"我给美云准备的生日礼物是——\n"
+"打开就有惊喜的，神秘宝箱…！"
 
 msgid "talk_event_23"
 msgstr ""
+"要姐，生日快乐。\n"
+"…一直以来，谢谢你"
 
 msgid "talk_event_24"
 msgstr ""
+"生日快乐，玛基娜。\n"
+"你是我心目中最重要的人，\n"
+"最喜欢你了"
 
 msgid "talk_event_25"
-msgstr ""
+msgstr "蕾娜"
 
 msgid "talk_event_26"
 msgstr ""
+"生日快乐兰卡。\n"
+"我准备了丑萌丑萌的生日礼物"
 
 msgid "talk_event_27"
 msgstr ""
+"今天的雪莉露特别有孩子气。\n"
+"又发现了新的魅力！"
 
 msgid "talk_event_28"
 msgstr ""
+"情报显示，今天的库巴巴\n"
+"似乎会比往常更黏米莲。\n"
+"卡哇哇"
 
 msgid "talk_event_29"
 msgstr ""
+"今天虽然是巴萨拉的生日，\n"
+"但他似乎还是跟往常一样，\n"
+"从早到晚都在房间里唱歌…"
 
 msgid "talk_event_30"
 msgstr ""
+"明美的生日聚会，会场似乎选在了\n"
+"娘娘总店。好想偷偷潜入进去…"
 
 msgid "talk_event_31"
-msgstr ""
+msgstr "疾风"
 
 msgid "talk_event_32"
-msgstr ""
+msgstr "米拉洁"
 
 msgid "talk_event_33"
-msgstr ""
+msgstr "梅萨"
 
 msgid "talk_event_34"
-msgstr ""
+msgstr "阿拉德"
 
 msgid "talk_event_35"
 msgstr ""
+"我正在和玛丽安娜他们一起，\n"
+"策划查克的生日惊喜派对…\n"
+"换言之，是绝密任务…！"
 
 msgid "talk_event_36"
-msgstr ""
+msgstr "阿尔特"
 
 msgid "talk_event_37"
-msgstr ""
+msgstr "奥兹玛"
 
 msgid "talk_event_38"
 msgstr ""
+"今天似乎是雷伊的生日。\n"
+"因为我们的名字很像，\n"
+"所以我对他有一种莫名的亲近感…"
 
 msgid "talk_event_39"
-msgstr ""
+msgstr "辉"
 
 msgid "talk_event_40"
-msgstr ""
+msgstr "卡姆林"
 
 msgid "talk_event_41"
-msgstr ""
+msgstr "未沙"
 
 msgid "talk_event_42"
 msgstr ""
+"我们的电影好像上映了。\n"
+"好紧张，好期待…"
 
 msgid "talk_event_43"
 msgstr ""
+"和你度过的每一天，充满了刺激。\n"
+"忘不了，也不想忘…\n"
+"这份回忆，永远不会过期"
 
 msgid "talk_event_44"
 msgstr ""
+"哼哼哼…唱歌、水母，\n"
+"还有数不清的话想和你聊。\n"
+"再多陪陪我吧"
 
 msgid "talk_event_45"
 msgstr ""
+"和兰卡聊丑丑的萌物，\n"
+"和雪莉露聊甜甜的八卦…\n"
+"以后有机会，还想再和她们聊聊天。"
 
 msgid "talk_event_46"
 msgstr ""
