@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-01-02 12:16+0000\n"
+"PO-Revision-Date: 2025-01-10 02:40+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -26445,7 +26445,7 @@ msgid "dc_itm_nm_0015_bg"
 msgstr "赏花公园"
 
 msgid "dc_itm_nm_0016_bg"
-msgstr "中餐店 娘娘"
+msgstr "娘娘中餐馆"
 
 msgid "dc_itm_nm_0017_bg"
 msgstr "雪莉露的房间"
@@ -31122,22 +31122,26 @@ msgid "dc_set_dsc_0052"
 msgstr ""
 
 msgid "sk_nm_0001"
-msgstr ""
+msgstr "演出跳过券"
 
 msgid "sk_nm_0002"
-msgstr ""
+msgstr "演出跳过券（限时）"
 
 msgid "sk_dsc_0001"
 msgstr ""
+"可跳过演出游玩部分的票券\n"
+"存在每日使用次数限制。"
 
 msgid "sk_dsc_0002"
 msgstr ""
+"可跳过演出游玩部分的限时票券\n"
+"存在每日使用次数限制。"
 
 msgid "sk_qt_0001"
-msgstr ""
+msgstr "枚"
 
 msgid "sk_qt_0002"
-msgstr ""
+msgstr "枚"
 
 msgid "gc_lm_nm_0001"
 msgstr ""
@@ -31170,7 +31174,7 @@ msgid "gc_lm_nm_0010"
 msgstr ""
 
 msgid "vc_gt_0101"
-msgstr ""
+msgstr "抽卡奖券"
 
 msgid "vc_gt_0201"
 msgstr ""
@@ -31201,6 +31205,8 @@ msgstr ""
 
 msgid "vc_gt_dsc_0101"
 msgstr ""
+"可代替歌晶石进行抽卡的奖券。\n"
+"<color=#C8087E>※只能在部分卡池中使用。</color>"
 
 msgid "vc_gt_dsc_0201"
 msgstr ""
@@ -31260,52 +31266,52 @@ msgid "vc_gt_uni_0209"
 msgstr ""
 
 msgid "hm_bg_nm_0003"
-msgstr ""
+msgstr "东京天空树联动"
 
 msgid "hm_bg_nm_0004"
-msgstr ""
+msgstr "年初BGM切换"
 
 msgid "hm_bg_nm_0005"
-msgstr ""
+msgstr "娘娘祭~泳装卡池关闭"
 
 msgid "hm_bg_nm_0006"
-msgstr ""
+msgstr "2018-2019 年末年初娘娘祭"
 
 msgid "hm_bg_nm_0007"
-msgstr ""
+msgstr "娘娘祭"
 
 msgid "hm_bg_nm_0008"
-msgstr ""
+msgstr "2019-2020 年末年初娘娘祭"
 
 msgid "hm_bg_nm_0009"
-msgstr ""
+msgstr "3周年娘娘祭"
 
 msgid "hm_bg_nm_0010"
-msgstr ""
+msgstr "2020-2021 年末年初娘娘祭"
 
 msgid "hm_bg_nm_0011"
-msgstr ""
+msgstr "作战室"
 
 msgid "hm_bg_nm_0012"
-msgstr ""
+msgstr "格里菲斯公园"
 
 msgid "hm_bg_nm_0013"
-msgstr ""
+msgstr "废地公寓"
 
 msgid "hm_bg_nm_0014"
-msgstr ""
+msgstr "娘娘中餐馆"
 
 msgid "hm_bg_nm_0015"
-msgstr ""
+msgstr "4周年娘娘祭"
 
 msgid "hm_bg_nm_0016"
-msgstr ""
+msgstr "Walküre演出现场"
 
 msgid "hm_bg_nm_0017"
-msgstr ""
+msgstr "深层・秋叶原"
 
 msgid "hm_bg_nm_0018"
-msgstr ""
+msgstr "瓦鸠拉母星"
 
 msgid "hm_bg_nm_0019"
-msgstr ""
+msgstr "Bomber乐园"
