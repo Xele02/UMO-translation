@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-13 03:28+0000\n"
+"PO-Revision-Date: 2025-01-10 02:40+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/homebgdb_text/zh_Hans/>\n"
@@ -24,25 +24,25 @@ msgid "homebg_0002_name"
 msgstr "东京塔联动"
 
 msgid "homebg_0003_name"
-msgstr "切换年初BGM"
+msgstr "年初BGM切换"
 
 msgid "homebg_0004_name"
-msgstr "娘娘祭~泳装卡池已关闭"
+msgstr "娘娘祭~泳装卡池关闭"
 
 msgid "homebg_0005_name"
-msgstr "2018-2019 元旦娘娘祭"
+msgstr "2018-2019 年末年初娘娘祭"
 
 msgid "homebg_0006_name"
 msgstr "娘娘祭"
 
 msgid "homebg_0007_name"
-msgstr "2019-2020 元旦娘娘祭"
+msgstr "2019-2020 年末年初娘娘祭"
 
 msgid "homebg_0008_name"
 msgstr "3周年娘娘祭"
 
 msgid "homebg_0009_name"
-msgstr "2021-2022 元旦娘娘祭"
+msgstr "2021-2022 年末年初娘娘祭"
 
 msgid "homebg_0010_name"
 msgstr "作战室"
