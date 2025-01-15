@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-01-14 12:05+0000\n"
+"PO-Revision-Date: 2025-01-15 15:26+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -318,22 +318,22 @@ msgid "StringLiteral_10294"
 msgstr "超时空SNS"
 
 msgid "StringLiteral_10298"
-msgstr "领取登陆奖励！"
+msgstr "登录送歌晶石！"
 
 msgid "StringLiteral_10299"
-msgstr "登录2天送100颗歌晶石！现在就登录游戏吧！"
+msgstr "连续登录2天送100歌晶石！快来上线吧！"
 
 msgid "StringLiteral_10303"
-msgstr "歌晶石优惠活动开启！"
+msgstr "限时优惠开启！"
 
 msgid "StringLiteral_10304"
-msgstr "歌晶石礼包限时优惠，抓紧时间购买吧！"
+msgstr "歌晶石限时优惠现已开启，快来购买吧！"
 
 msgid "StringLiteral_10309"
-msgstr "体力回复"
+msgstr "体力回复完成"
 
 msgid "StringLiteral_10310"
-msgstr "体力已回满！"
+msgstr "您的体力已回满！"
 
 msgid "StringLiteral_10314"
 msgstr "？？？"
