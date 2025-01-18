@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-15 04:42+0000\n"
+"PO-Revision-Date: 2025-01-19 03:23+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/snsdb_text/zh_Hans/>\n"
@@ -15,46 +15,46 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "room_name_0001_txt"
-msgstr ""
+msgstr "SNS联络室"
 
 msgid "room_name_0002_txt"
-msgstr ""
+msgstr "大家的聊天室"
 
 msgid "room_name_0003_txt"
-msgstr ""
+msgstr "纪念日聊天室"
 
 msgid "room_name_0004_txt"
-msgstr ""
+msgstr "芙蕾雅的聊天室"
 
 msgid "room_name_0005_txt"
-msgstr ""
+msgstr "美云的聊天室"
 
 msgid "room_name_0006_txt"
-msgstr ""
+msgstr "要的聊天室"
 
 msgid "room_name_0007_txt"
-msgstr ""
+msgstr "玛基娜的聊天室"
 
 msgid "room_name_0008_txt"
-msgstr ""
+msgstr "蕾娜的聊天室"
 
 msgid "room_name_0009_txt"
-msgstr ""
+msgstr "兰卡的聊天室"
 
 msgid "room_name_0010_txt"
-msgstr ""
+msgstr "雪莉露的聊天室"
 
 msgid "room_name_0011_txt"
-msgstr ""
+msgstr "米莲的聊天室"
 
 msgid "room_name_0012_txt"
-msgstr ""
+msgstr "巴萨拉的聊天室"
 
 msgid "room_name_0013_txt"
-msgstr ""
+msgstr "明美的聊天室"
 
 msgid "room_name_0014_txt"
-msgstr ""
+msgstr "超时空维纳斯 Walküre"
 
 msgid "room_name_0015_txt"
 msgstr ""
