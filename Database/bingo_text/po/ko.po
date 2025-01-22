@@ -3,162 +3,228 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-22 15:31+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
+"bingo_text/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "bingo_0001_0001_0001_desc"
 msgstr ""
+"플레이어 랭크\n"
+"8로 올리기"
 
 msgid "bingo_0001_0001_0001_cond"
-msgstr ""
+msgstr "플레이어 랭크 8로 올리기"
 
 msgid "bingo_0001_0001_0002_desc"
 msgstr ""
+"A스킬\n"
+"'생명력 회복'\n"
+"를 발동하여 클리어"
 
 msgid "bingo_0001_0001_0002_cond"
-msgstr ""
+msgstr "액티브 스킬 '생명력 회복'을 발동하고 클리어"
 
 msgid "bingo_0001_0001_0003_desc"
 msgstr ""
+"A스킬\n"
+"'스코어 증가'\n"
+"를 발동하고 클리어"
 
 msgid "bingo_0001_0001_0003_cond"
-msgstr ""
+msgstr "액티브 스킬 '스코어 증가'를 발동하고 클리어"
 
 msgid "bingo_0001_0001_0004_desc"
 msgstr ""
+"NORMAL 이상\n"
+"으로 3회 클리어"
 
 msgid "bingo_0001_0001_0004_cond"
-msgstr ""
+msgstr "난이도 NORMAL 이상으로 3회 클리어"
 
 msgid "bingo_0001_0001_0005_desc"
 msgstr ""
+"요일 이벤트\n"
+"1회 클리어"
 
 msgid "bingo_0001_0001_0005_cond"
-msgstr ""
+msgstr "요일 이벤트 1회 클리어"
 
 msgid "bingo_0001_0001_0006_desc"
 msgstr ""
+"노래 레이트\n"
+"100 이상"
 
 msgid "bingo_0001_0001_0006_cond"
-msgstr ""
+msgstr "노래 레이트 100 이상"
 
 msgid "bingo_0001_0001_0007_desc"
 msgstr ""
+"스코어 10만\n"
+"이상 달성"
 
 msgid "bingo_0001_0001_0007_cond"
-msgstr ""
+msgstr "스코어 100000 이상 달성"
 
 msgid "bingo_0001_0001_0008_desc"
 msgstr ""
+"초가희 모드로\n"
+"돌입하여\n"
+"3회 클리어"
 
 msgid "bingo_0001_0001_0008_cond"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 3회 클리어"
 
 msgid "bingo_0001_0001_0009_desc"
 msgstr ""
+"가희 레벨\n"
+"4로 올리기"
 
 msgid "bingo_0001_0001_0009_cond"
-msgstr ""
+msgstr "가희 중 하나를 레벨 4로 만들기"
 
 msgid "bingo_0001_0001_0010_desc"
 msgstr ""
+"플레이어 랭크\n"
+"12 달성"
 
 msgid "bingo_0001_0001_0010_cond"
-msgstr ""
+msgstr "플레이어 랭크 12 달성"
 
 msgid "bingo_0001_0001_0011_desc"
 msgstr ""
+"NORMAL 이상\n"
+"스코어 랭크 S\n"
+"10회 달성"
 
 msgid "bingo_0001_0001_0011_cond"
 msgstr ""
+"난이도 NORMAL 이상\n"
+"스코어 랭크 S 10회 달성"
 
 msgid "bingo_0001_0001_0012_desc"
 msgstr ""
+"L스킬\n"
+"'스코어 증가'\n"
+"발동하고 클리어"
 
 msgid "bingo_0001_0001_0012_cond"
-msgstr ""
+msgstr "라이브 스킬 '스코어 증가'를 발동하고 클리어"
 
 msgid "bingo_0001_0001_0013_desc"
 msgstr ""
+"가희 레벨\n"
+"8로 올리기"
 
 msgid "bingo_0001_0001_0013_cond"
-msgstr ""
+msgstr "가희 중 한 명의 레벨을 8로 올리기"
 
 msgid "bingo_0001_0001_0014_desc"
 msgstr ""
+"스코어 랭크 SS\n"
+"1회 달성"
 
 msgid "bingo_0001_0001_0014_cond"
-msgstr ""
+msgstr "스코어 랭크 SS 1회 달성"
 
 msgid "bingo_0001_0001_0015_desc"
 msgstr ""
+"가희에게\n"
+"선물하기"
 
 msgid "bingo_0001_0001_0015_cond"
-msgstr ""
+msgstr "가희 중 한 명에게 선물하기"
 
 msgid "bingo_0001_0001_0016_desc"
 msgstr ""
+"스코어 30만\n"
+"이상 달성"
 
 msgid "bingo_0001_0001_0016_cond"
-msgstr ""
+msgstr "스코어 300000 이상 달성"
 
 msgid "bingo_0001_0001_0017_desc"
 msgstr ""
+"가희\n"
+"오퍼레이션\n"
+"파워업"
 
 msgid "bingo_0001_0001_0017_cond"
-msgstr ""
+msgstr "가희 오퍼레이션 중 하나를 파워업하기"
 
 msgid "bingo_0001_0001_0018_desc"
 msgstr ""
+"가희\n"
+"오퍼레이션\n"
+"출현"
 
 msgid "bingo_0001_0001_0018_cond"
 msgstr ""
+"악곡을 클리어해서 가희 중 하나의\n"
+"오퍼레이션을 출현시킴"
 
 msgid "bingo_0001_0001_0019_desc"
 msgstr ""
+"플레이어 랭크\n"
+"20 달성"
 
 msgid "bingo_0001_0001_0019_cond"
-msgstr ""
+msgstr "플레이어 랭크 20 달성"
 
 msgid "bingo_0001_0001_0020_desc"
 msgstr ""
+"플레이트 한 종류\n"
+"레벨 70 달성"
 
 msgid "bingo_0001_0001_0020_cond"
-msgstr ""
+msgstr "에피소드 플레이트 한 종류 레벨 70 달성"
 
 msgid "bingo_0001_0001_0021_desc"
 msgstr ""
+"의상 강화에서\n"
+"캬와와 랭크\n"
+"2 달성"
 
 msgid "bingo_0001_0001_0021_cond"
 msgstr ""
+"의상 강화에서 의상 중 하나의\n"
+"캬와와 랭크 2 달성"
 
 msgid "bingo_0001_0001_0022_desc"
 msgstr ""
+"시크릿 보드\n"
+"해방하기"
 
 msgid "bingo_0001_0001_0022_cond"
-msgstr ""
+msgstr "시크릿 보드 해방하기"
 
 msgid "bingo_0001_0001_0023_desc"
 msgstr ""
+"우타 마크로스에 누적\n"
+"7일 로그인하기"
 
 msgid "bingo_0001_0001_0023_cond"
-msgstr ""
+msgstr "우타 마크로스에 누적 7일 로그인하기"
 
 msgid "bingo_0001_0001_0024_desc"
 msgstr ""
+"가희의\n"
+"친밀도 레벨\n"
+"10 달성"
 
 msgid "bingo_0001_0001_0024_cond"
-msgstr ""
+msgstr "가희 중 하나의 친밀도 레벨 10 이상 달성"
 
 msgid "bingo_0001_0001_0025_desc"
 msgstr ""
+"노래 등급\n"
+"일등병 ★1 달성"
 
 msgid "bingo_0001_0001_0025_cond"
 msgstr ""
