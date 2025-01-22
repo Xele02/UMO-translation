@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-22 13:31+0000\n"
+"PO-Revision-Date: 2025-01-22 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -712,331 +712,334 @@ msgid "StringLiteral_12326"
 msgstr "추가 초보자 세트"
 
 msgid "StringLiteral_12327"
-msgstr ""
+msgstr "실속 세트 A"
 
 msgid "StringLiteral_12328"
-msgstr ""
+msgstr "실속 세트 B"
 
 msgid "StringLiteral_12329"
-msgstr ""
+msgstr "가정석 세트 A"
 
 msgid "StringLiteral_12330"
-msgstr ""
+msgstr "가정석 세트 B"
 
 msgid "StringLiteral_12331"
-msgstr ""
+msgstr "가정석 세트 C"
 
 msgid "StringLiteral_12332"
-msgstr ""
+msgstr "가정석 세트 D"
 
 msgid "StringLiteral_12333"
-msgstr ""
+msgstr "가정석 세트 E"
 
 msgid "StringLiteral_12334"
-msgstr ""
+msgstr "가정석 세트 F"
 
 msgid "StringLiteral_12335"
-msgstr ""
+msgstr "가정석 세트 G"
 
 msgid "StringLiteral_12459"
-msgstr ""
+msgstr "통신 시간이 초과되었습니다."
 
 msgid "StringLiteral_12462"
 msgstr ""
+"에러가 발생했습니다.\n"
+"\n"
+"(에러 코드 : {0})"
 
 msgid "StringLiteral_12526"
-msgstr ""
+msgstr "범용"
 
 msgid "StringLiteral_12528"
-msgstr ""
+msgstr "전용"
 
 msgid "StringLiteral_12532"
-msgstr ""
+msgstr "GPGS 로그인 버튼 표시"
 
 msgid "StringLiteral_12533"
-msgstr ""
+msgstr "GPGS 로그인 버튼을 표시하지 않음"
 
 msgid "StringLiteral_12534"
-msgstr ""
+msgstr "GPGS 저장 데이터가 존재하지 않음"
 
 msgid "StringLiteral_12540"
-msgstr ""
+msgstr "로그인 지속"
 
 msgid "StringLiteral_12541"
-msgstr ""
+msgstr "로그아웃됨"
 
 msgid "StringLiteral_12573"
-msgstr ""
+msgstr "GPGS 로그인 성공"
 
 msgid "StringLiteral_12574"
-msgstr ""
+msgstr "GPGS 로그인 실패"
 
 msgid "StringLiteral_12619"
-msgstr ""
+msgstr "no data"
 
 msgid "StringLiteral_12640"
-msgstr ""
+msgstr "<color=cyan>로컬 저장 데이터 재작성</color>"
 
 msgid "StringLiteral_12692"
-msgstr ""
+msgstr "에너지 완전 회복"
 
 msgid "StringLiteral_12693"
-msgstr ""
+msgstr "공지"
 
 msgid "StringLiteral_12695"
-msgstr ""
+msgstr "데코르챠 모드"
 
 msgid "StringLiteral_12696"
-msgstr ""
+msgstr "기한이 있는 아이템"
 
 msgid "StringLiteral_12839"
-msgstr ""
+msgstr "프롤로그 시작"
 
 msgid "StringLiteral_12840"
-msgstr ""
+msgstr "에셋 DL 0%"
 
 msgid "StringLiteral_12841"
-msgstr ""
+msgstr "에셋 DL 10%"
 
 msgid "StringLiteral_12842"
-msgstr ""
+msgstr "에셋 DL 20%"
 
 msgid "StringLiteral_12843"
-msgstr ""
+msgstr "에셋 DL 30%"
 
 msgid "StringLiteral_12844"
-msgstr ""
+msgstr "에셋 DL 40%"
 
 msgid "StringLiteral_12845"
-msgstr ""
+msgstr "에셋 DL 50%"
 
 msgid "StringLiteral_12846"
-msgstr ""
+msgstr "에셋 DL 60%"
 
 msgid "StringLiteral_12847"
-msgstr ""
+msgstr "에셋 DL 70%"
 
 msgid "StringLiteral_12848"
-msgstr ""
+msgstr "에셋 DL 80%"
 
 msgid "StringLiteral_12849"
-msgstr ""
+msgstr "에셋 DL 90%"
 
 msgid "StringLiteral_12850"
-msgstr ""
+msgstr "에셋 DL 100%"
 
 msgid "StringLiteral_12851"
-msgstr ""
+msgstr "어드벤처 1"
 
 msgid "StringLiteral_12852"
-msgstr ""
+msgstr "타이밍 조정"
 
 msgid "StringLiteral_12853"
-msgstr ""
+msgstr "타이밍 조정 재시도"
 
 msgid "StringLiteral_12854"
-msgstr ""
+msgstr "라이브 1회차"
 
 msgid "StringLiteral_12855"
-msgstr ""
+msgstr "라이브 1회차 스킵"
 
 msgid "StringLiteral_12856"
-msgstr ""
+msgstr "라이브 1회차 종료"
 
 msgid "StringLiteral_12857"
-msgstr ""
+msgstr "어드벤처 2 시작"
 
 msgid "StringLiteral_12858"
-msgstr ""
+msgstr "가챠 목록"
 
 msgid "StringLiteral_12859"
-msgstr ""
+msgstr "가챠 시작"
 
 msgid "StringLiteral_12860"
-msgstr ""
+msgstr "가챠 배출"
 
 msgid "StringLiteral_12861"
-msgstr ""
+msgstr "유닛 편성 시작"
 
 msgid "StringLiteral_12862"
-msgstr ""
+msgstr "유닛 편성 완료"
 
 msgid "StringLiteral_12863"
-msgstr ""
+msgstr "라이브 2회차"
 
 msgid "StringLiteral_12864"
-msgstr ""
+msgstr "라이브 2회차 스킵"
 
 msgid "StringLiteral_12865"
-msgstr ""
+msgstr "라이브 2회차 종료"
 
 msgid "StringLiteral_12866"
-msgstr ""
+msgstr "어드벤처 3 시작"
 
 msgid "StringLiteral_12867"
-msgstr ""
+msgstr "초시공 SNS 시작"
 
 msgid "StringLiteral_12868"
-msgstr ""
+msgstr "초시공 SNS 종료"
 
 msgid "StringLiteral_12869"
-msgstr ""
+msgstr "이름 입력"
 
 msgid "StringLiteral_12870"
-msgstr ""
+msgstr "이름 입력 완료"
 
 msgid "StringLiteral_12871"
-msgstr ""
+msgstr "가희 선택"
 
 msgid "StringLiteral_12872"
-msgstr ""
+msgstr "가희 등장"
 
 msgid "StringLiteral_12873"
-msgstr ""
+msgstr "발키리 등장"
 
 msgid "StringLiteral_12874"
-msgstr ""
+msgstr "메인 에셋 DL 0%"
 
 msgid "StringLiteral_12875"
-msgstr ""
+msgstr "메인 에셋 DL 10%"
 
 msgid "StringLiteral_12876"
-msgstr ""
+msgstr "메인 에셋 DL 20%"
 
 msgid "StringLiteral_12877"
-msgstr ""
+msgstr "메인 에셋 DL 30%"
 
 msgid "StringLiteral_12878"
-msgstr ""
+msgstr "메인 에셋 DL 40%"
 
 msgid "StringLiteral_12879"
-msgstr ""
+msgstr "메인 에셋 DL 50%"
 
 msgid "StringLiteral_12880"
-msgstr ""
+msgstr "메인 에셋 DL 60%"
 
 msgid "StringLiteral_12881"
-msgstr ""
+msgstr "메인 에셋 DL 70%"
 
 msgid "StringLiteral_12882"
-msgstr ""
+msgstr "메인 에셋 DL 80%"
 
 msgid "StringLiteral_12883"
-msgstr ""
+msgstr "메인 에셋 DL 90%"
 
 msgid "StringLiteral_12884"
-msgstr ""
+msgstr "메인 에셋 DL 100%"
 
 msgid "StringLiteral_12885"
-msgstr ""
+msgstr "로그인 보너스"
 
 msgid "StringLiteral_12886"
-msgstr ""
+msgstr "홈 화면 화면 도달"
 
 msgid "StringLiteral_12887"
-msgstr ""
+msgstr "미션 화면 도달"
 
 msgid "StringLiteral_12888"
-msgstr ""
+msgstr "일반 드롭"
 
 msgid "StringLiteral_12889"
-msgstr ""
+msgstr "스토리 드롭"
 
 msgid "StringLiteral_12890"
-msgstr ""
+msgstr "결제"
 
 msgid "StringLiteral_12891"
-msgstr ""
+msgstr "가챠"
 
 msgid "StringLiteral_12892"
-msgstr ""
+msgstr "라이브 달성"
 
 msgid "StringLiteral_12893"
-msgstr ""
+msgstr "선물상자"
 
 msgid "StringLiteral_11202"
-msgstr ""
+msgstr "무료 가챠"
 
 msgid "StringLiteral_11203"
-msgstr ""
+msgstr "초시공 가챠 티켓"
 
 msgid "StringLiteral_11216"
-msgstr ""
+msgstr "데일리 미션"
 
 msgid "StringLiteral_11217"
-msgstr ""
+msgstr "SNS 미션"
 
 msgid "StringLiteral_11218"
-msgstr ""
+msgstr "데뷔 미션"
 
 msgid "StringLiteral_11219"
-msgstr ""
+msgstr "노멀 미션"
 
 msgid "StringLiteral_11220"
-msgstr ""
+msgstr "이벤트 미션"
 
 msgid "StringLiteral_11221"
-msgstr ""
+msgstr "빙고 미션"
 
 msgid "StringLiteral_11223"
-msgstr ""
+msgstr "신청"
 
 msgid "StringLiteral_11224"
-msgstr ""
+msgstr "승인"
 
 msgid "StringLiteral_11225"
-msgstr ""
+msgstr "삭제"
 
 msgid "StringLiteral_11226"
-msgstr ""
+msgstr "신청 거부"
 
 msgid "StringLiteral_11227"
-msgstr ""
+msgstr "신청 취소"
 
 msgid "StringLiteral_11245"
-msgstr ""
+msgstr "가정석"
 
 msgid "StringLiteral_11248"
-msgstr ""
+msgstr "이미 답변됨"
 
 msgid "StringLiteral_12894"
-msgstr ""
+msgstr "이벤트 달성 pt"
 
 msgid "StringLiteral_12895"
-msgstr ""
+msgstr "로그인 보너스"
 
 msgid "StringLiteral_12896"
-msgstr ""
+msgstr "이벤트 로그인 보너스"
 
 msgid "StringLiteral_12897"
-msgstr ""
+msgstr "상점"
 
 msgid "StringLiteral_12898"
-msgstr ""
+msgstr "이벤트 박스 가챠"
 
 msgid "StringLiteral_12899"
-msgstr ""
+msgstr "추가 통화 자동 변환"
 
 msgid "StringLiteral_12900"
-msgstr ""
+msgstr "AR 칭호 획득"
 
 msgid "StringLiteral_12901"
-msgstr ""
+msgstr "친밀도 최초 선물"
 
 msgid "StringLiteral_12902"
-msgstr ""
+msgstr "친밀도 보상"
 
 msgid "StringLiteral_12903"
-msgstr ""
+msgstr "미션 이벤트 훈장"
 
 msgid "StringLiteral_12904"
-msgstr ""
+msgstr "배틀 이벤트의 클래스 칭호"
 
 msgid "StringLiteral_12905"
-msgstr ""
+msgstr "VF 오퍼레이션"
 
 msgid "StringLiteral_12906"
-msgstr ""
+msgstr "VF 오퍼레이션 최초 보상"
 
 msgid "StringLiteral_12907"
 msgstr ""
