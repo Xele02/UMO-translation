@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-22 15:31+0000\n"
+"PO-Revision-Date: 2025-01-22 23:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -267,7 +267,7 @@ msgid "StringLiteral_10163"
 msgstr "데코 아이템 치비 캐릭터"
 
 msgid "StringLiteral_10164"
-msgstr ""
+msgstr "스탬프 아이템 대사"
 
 msgid "StringLiteral_10165"
 msgstr "데코 아이템 특수 오브제"
@@ -426,7 +426,7 @@ msgid "StringLiteral_11082"
 msgstr "스토리"
 
 msgid "StringLiteral_11083"
-msgstr ""
+msgstr "뒤"
 
 msgid "StringLiteral_11085"
 msgstr "MAX"
@@ -1042,136 +1042,138 @@ msgid "StringLiteral_12906"
 msgstr "VF 오퍼레이션 최초 보상"
 
 msgid "StringLiteral_12907"
-msgstr ""
+msgstr "의상 강화"
 
 msgid "StringLiteral_12908"
-msgstr ""
+msgstr "월간 패스 로그인 보너스"
 
 msgid "StringLiteral_12909"
-msgstr ""
+msgstr "월간 패스 지속 특전"
 
 msgid "StringLiteral_12910"
-msgstr ""
+msgstr "VF 오퍼레이션 가정석"
 
 msgid "StringLiteral_12911"
-msgstr ""
+msgstr "발키리 스킬 강화"
 
 msgid "StringLiteral_12912"
-msgstr ""
+msgstr "레이드 보스 격파"
 
 msgid "StringLiteral_12913"
-msgstr ""
+msgstr "레이드 보스 MVP"
 
 msgid "StringLiteral_12914"
-msgstr ""
+msgstr "레이드 보스 퍼스트"
 
 msgid "StringLiteral_12915"
-msgstr ""
+msgstr "데코 상점"
 
 msgid "StringLiteral_12916"
-msgstr ""
+msgstr "메달 생성기"
 
 msgid "StringLiteral_12917"
-msgstr ""
+msgstr "트레저 박스"
 
 msgid "StringLiteral_12918"
-msgstr ""
+msgstr "룸 방문"
 
 msgid "StringLiteral_12919"
-msgstr ""
+msgstr "레이드 튜토리얼"
 
 msgid "StringLiteral_12920"
-msgstr ""
+msgstr "AP 회복 덤"
 
 msgid "StringLiteral_12921"
-msgstr ""
+msgstr "레어업 스타 자동 변환"
 
 msgid "StringLiteral_12922"
-msgstr ""
+msgstr "라이브 스킬 티켓 받기"
 
 msgid "StringLiteral_12923"
-msgstr ""
+msgstr "레어업 스타 사용"
 
 msgid "StringLiteral_12924"
-msgstr ""
+msgstr "시크릿 보드 확장"
 
 msgid "StringLiteral_12925"
-msgstr ""
+msgstr "노래 등급 도달 보상"
 
 msgid "StringLiteral_12926"
-msgstr ""
+msgstr "월간 스페셜 패스 로그인 보너스"
 
 msgid "StringLiteral_12927"
-msgstr ""
+msgstr "기타"
 
 msgid "StringLiteral_12928"
-msgstr ""
+msgstr "이벤트 스토리"
 
 msgid "StringLiteral_12929"
-msgstr ""
+msgstr "슬라이드 배너"
 
 msgid "StringLiteral_12930"
-msgstr ""
+msgstr "이벤트 홈 화면"
 
 msgid "StringLiteral_12931"
-msgstr ""
+msgstr "이벤트 데일리"
 
 msgid "StringLiteral_12932"
-msgstr ""
+msgstr "설정 버튼"
 
 msgid "StringLiteral_12933"
-msgstr ""
+msgstr "이벤트 배너"
 
 msgid "StringLiteral_12934"
-msgstr ""
+msgstr "이벤트 벌룬"
 
 msgid "StringLiteral_12935"
-msgstr ""
+msgstr "특설 이벤트 홈"
 
 msgid "StringLiteral_12936"
-msgstr ""
+msgstr "홈 자동 재생"
 
 msgid "StringLiteral_12937"
-msgstr ""
+msgstr "능력 보드"
 
 msgid "StringLiteral_12943"
-msgstr ""
+msgstr "발키리 소대"
 
 msgid "StringLiteral_13053"
-msgstr ""
+msgstr "★[0-9]"
 
 msgid "StringLiteral_13085"
-msgstr ""
+msgstr "아이템"
 
 msgid "StringLiteral_13101"
-msgstr ""
+msgstr "5분 이내"
 
 msgid "StringLiteral_13102"
-msgstr ""
+msgstr "분 전"
 
 msgid "StringLiteral_13103"
-msgstr ""
+msgstr "시간 전"
 
 msgid "StringLiteral_13104"
-msgstr ""
+msgstr "일 전"
 
 msgid "StringLiteral_13105"
-msgstr ""
+msgstr "365일 이상"
 
 msgid "StringLiteral_13106"
-msgstr ""
+msgstr "1시간 전"
 
 msgid "StringLiteral_13238"
-msgstr ""
+msgstr "<color=red>화살표 레이아웃이 NULL입니다.</color>"
 
 msgid "StringLiteral_13316"
-msgstr ""
+msgstr "디폴트 3D 모드 설정 : "
 
 msgid "StringLiteral_13620"
 msgstr ""
+" - 지원되지 않는 모양이 전달되었습니다.\n"
+"   {0}"
 
 msgid "StringLiteral_13959"
-msgstr ""
+msgstr "★"
 
 msgid "StringLiteral_13975"
 msgstr ""
