@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-22 13:31+0000\n"
+"PO-Revision-Date: 2025-01-22 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -24,13 +24,13 @@ msgid "popup_title_02"
 msgstr "변경 확인"
 
 msgid "popup_title_03"
-msgstr ""
+msgstr "변경 확인"
 
 msgid "popup_title_04"
-msgstr ""
+msgstr "발키리 상세"
 
 msgid "popup_title_05"
-msgstr ""
+msgstr "의상 상세"
 
 msgid "unit_popup_title_00"
 msgstr ""
@@ -5964,13 +5964,13 @@ msgid "unit_diva_status_titla_total"
 msgstr ""
 
 msgid "unit_diva_status_titla_music_exp"
-msgstr ""
+msgstr "숙련도"
 
 msgid "popup_unit_disp_type_scene"
-msgstr ""
+msgstr "플레이트"
 
 msgid "popup_unit_disp_type_diva"
-msgstr ""
+msgstr "가희"
 
 msgid "unit_playbutton_en"
 msgstr ""
@@ -5985,7 +5985,7 @@ msgid "popup_unit_status_attr_reg"
 msgstr ""
 
 msgid "popup_set_prizm_title"
-msgstr ""
+msgstr "변경 확인"
 
 msgid "popup_set_prizm_choice"
 msgstr ""
@@ -6015,10 +6015,10 @@ msgid "popup_sort_musicselect_sortitem_title_h2"
 msgstr ""
 
 msgid "popup_sort_item_default"
-msgstr ""
+msgstr "시리즈"
 
 msgid "popup_sort_item_musiclevel"
-msgstr ""
+msgstr "악곡 레벨"
 
 msgid "popup_sort_item_highscore"
 msgstr ""
