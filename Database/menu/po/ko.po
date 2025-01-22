@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-22 15:31+0000\n"
+"PO-Revision-Date: 2025-01-22 23:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -33,187 +33,208 @@ msgid "popup_title_05"
 msgstr "의상 상세"
 
 msgid "unit_popup_title_00"
-msgstr ""
+msgstr "유닛 세트 저장 및 불러오기"
 
 msgid "unit_popup_title_01"
-msgstr ""
+msgstr "저장 확인"
 
 msgid "unit_popup_title_02"
-msgstr ""
+msgstr "덮어쓰기 확인"
 
 msgid "unit_popup_title_03"
-msgstr ""
+msgstr "불러오기 확인"
 
 msgid "unit_setpopup_text_00"
-msgstr ""
+msgstr "유닛 세트 {0}"
 
 msgid "unit_setpopup_text_01"
-msgstr ""
+msgstr "불러오기 전"
 
 msgid "unit_setpopup_text_02"
-msgstr ""
+msgstr "불러오기 후"
 
 msgid "unit_setpopup_text_03"
-msgstr ""
+msgstr "저장 전"
 
 msgid "unit_setpopup_text_04"
-msgstr ""
+msgstr "저장 후"
 
 msgid "unit_setpopup_text_05"
-msgstr ""
+msgstr "이 유닛을 저장해도 될까요?"
 
 msgid "unit_setpopup_text_06"
-msgstr ""
+msgstr "이 유닛을 덮어써도 될까요?"
 
 msgid "unit_setpopup_text_07"
-msgstr ""
+msgstr "이 유닛을 불러오기 해도 될까요?"
 
 msgid "popup_text_00"
 msgstr ""
+"유닛 이름을 입력해 주세요.\n"
+"({0}글자까지)"
 
 msgid "popup_text_02"
-msgstr ""
+msgstr "센터에 있는 가희를 해제할 수 없습니다."
 
 msgid "popup_text_03"
-msgstr ""
+msgstr "센터에 있는 가희를 해제할 수 없습니다."
 
 msgid "popup_text_08"
-msgstr ""
+msgstr "가희 스테이터스"
 
 msgid "popup_text_09"
-msgstr ""
+msgstr "소비 아이템 확인"
 
 msgid "popup_text_10"
-msgstr ""
+msgstr "소지 아이템 목록"
 
 msgid "popup_text_11"
-msgstr ""
+msgstr "능력 해방 확인"
 
 msgid "popup_text_12"
-msgstr ""
+msgstr "에피소드 플레이트 전체 해제"
 
 msgid "popup_text_14"
-msgstr ""
+msgstr "에피소드 플레이트 자동 편성"
 
 msgid "popup_text_15"
-msgstr ""
+msgstr "확인"
 
 msgid "popup_text_16"
-msgstr ""
+msgstr "스킬 설명"
 
 msgid "popup_text_17"
-msgstr ""
+msgstr "지원 플레이트 확인"
 
 msgid "popup_sort_text_00"
-msgstr ""
+msgstr "선택 중인 가희와 상성이 일치하는 플레이트만 표시하기"
 
 msgid "popup_sort_title"
-msgstr ""
+msgstr "표시 순서 변경"
 
 msgid "popup_sort_title_unit"
-msgstr ""
+msgstr "표시 정보 변경"
 
 msgid "popup_comparison_00"
-msgstr ""
+msgstr "노트 기대치"
 
 msgid "popup_music_select_00"
-msgstr ""
+msgstr "악곡 정보"
 
 msgid "popup_music_select_01"
-msgstr ""
+msgstr "악곡 클리어 보상(임시)"
 
 msgid "popup_music_select_02"
-msgstr ""
+msgstr "달성 보상"
 
 msgid "popup_music_select_03"
-msgstr ""
+msgstr "최초 클리어 상세(임시)"
 
 msgid "popup_music_select_04"
-msgstr ""
+msgstr "악곡 클리어 상세(임시)"
 
 msgid "popup_music_select_05"
-msgstr ""
+msgstr "미션 클리어 상세(임시)"
 
 msgid "popup_music_select_06"
-msgstr ""
+msgstr "숙련도"
 
 msgid "popup_music_select_07"
-msgstr ""
+msgstr "적 정보"
 
 msgid "popup_stamina_title_00"
-msgstr ""
+msgstr "확인 화면"
 
 msgid "popup_stamina_text_00"
-msgstr ""
+msgstr "에너지가 부족합니다."
 
 msgid "popup_ap_title_00"
-msgstr ""
+msgstr "확인 화면"
 
 msgid "popup_ap_text_00"
-msgstr ""
+msgstr "AP가 부족합니다."
 
 msgid "item_popup_text_00"
-msgstr ""
+msgstr "소지:{0,4}"
 
 msgid "item_detail_popup_title_00"
-msgstr ""
+msgstr "아이템 상세"
 
 msgid "pbox_title_00"
-msgstr ""
+msgstr "수령 확인"
 
 msgid "pbox_title_01"
-msgstr ""
+msgstr "수령 실패"
 
 msgid "pbox_title_02"
-msgstr ""
+msgstr "선물 수령"
 
 msgid "pbox_title_03"
-msgstr ""
+msgstr "일괄 수령 확인"
 
 msgid "pbox_title_04"
-msgstr ""
+msgstr "소지 한도"
 
 msgid "pbox_text_01"
 msgstr ""
+"<color=#C8087E>{0}</color>\n"
+"을(를) 수령합니다.\n"
+"\n"
+"괜찮습니까?"
 
 msgid "pbox_text_02"
 msgstr ""
+"수령하려는 아이템이\n"
+"소지 한도를 초과했습니다."
 
 msgid "pbox_text_03"
 msgstr ""
+"<color=#C8087E>{0}</color>\n"
+"\n"
+"을(를) 수령했습니다."
 
 msgid "pbox_text_04"
 msgstr ""
+"{0}\n"
+"\n"
+"을(를) 수령하여 LUCK을 추가하였습니다.\n"
+"{1} 의 LUCK이 {2} 상승하였습니다."
 
 msgid "pbox_text_05"
 msgstr ""
+"{0}\n"
+"\n"
+"{1} 의 LUCK은 한도에 도달했기 때문에,\n"
+"{2} (으)로 변환되었습니다."
 
 msgid "pbox_text_06"
 msgstr ""
 
 msgid "pbox_text_07"
 msgstr ""
+"수령하려는 아이템 중\n"
+"소지 한도를 초과하는 물품이 있었습니다."
 
 msgid "pbox_text_08"
-msgstr ""
+msgstr "선물 {0} 건을 수령하였습니다."
 
 msgid "pbox_text_09"
-msgstr ""
+msgstr "수령 가능한 선물이 없습니다."
 
 msgid "pbox_text_10"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_11"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
-msgstr ""
+msgstr "앞으로 {0}일"
 
 msgid "pbox_text_13"
-msgstr ""
+msgstr "앞으로 {0}시간"
 
 msgid "pbox_text_14"
-msgstr ""
+msgstr "앞으로 {0}분"
 
 msgid "pbox_win_warn01"
 msgstr ""
@@ -225,7 +246,7 @@ msgid "pbox_win_none01"
 msgstr ""
 
 msgid "pbox_win_none02"
-msgstr ""
+msgstr "수령 이력이 없습니다."
 
 msgid "set_notification_text_00"
 msgstr ""
@@ -600,10 +621,10 @@ msgid "growth_popup_title_text04"
 msgstr ""
 
 msgid "growth_popup_title_text05"
-msgstr ""
+msgstr "해방 한도 확인"
 
 msgid "growth_popup_title_text06"
-msgstr ""
+msgstr "해방 한도 확인"
 
 msgid "growth_popup_text01"
 msgstr ""
@@ -753,7 +774,7 @@ msgid "header_desc_home009"
 msgstr ""
 
 msgid "header_desc_home010"
-msgstr ""
+msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_vop000"
 msgstr ""
@@ -789,25 +810,25 @@ msgid "header_desc_home110"
 msgstr ""
 
 msgid "header_desc_home130"
-msgstr ""
+msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_home201"
-msgstr ""
+msgstr "어시스트를 선택해 주세요"
 
 msgid "header_desc_home202"
-msgstr ""
+msgstr "유닛을 편성해 주세요"
 
 msgid "header_desc_home203"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_home204"
-msgstr ""
+msgstr "악곡별 성장을 확인할 수 있습니다"
 
 msgid "header_desc_home205"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_home206"
-msgstr ""
+msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_home207"
 msgstr ""
@@ -840,19 +861,19 @@ msgid "header_desc_home302"
 msgstr ""
 
 msgid "header_desc_home303"
-msgstr ""
+msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_setting000"
 msgstr ""
 
 msgid "header_desc_setting001"
-msgstr ""
+msgstr "유닛을 편성해 주세요"
 
 msgid "header_desc_setting002"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_setting003"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_setting004"
 msgstr ""
@@ -864,25 +885,25 @@ msgid "header_desc_setting006"
 msgstr ""
 
 msgid "header_desc_setting007"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_setting008"
 msgstr ""
 
 msgid "header_desc_setting009"
-msgstr ""
+msgstr "악곡별 성장을 확인할 수 있습니다"
 
 msgid "header_desc_setting010"
-msgstr ""
+msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_setting011"
-msgstr ""
+msgstr "에피소드를 선택해 주세요"
 
 msgid "header_desc_setting012"
-msgstr ""
+msgstr "해방 상황을 확인할 수 있습니다"
 
 msgid "header_desc_setting013"
-msgstr ""
+msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_setting030"
 msgstr ""
@@ -897,22 +918,22 @@ msgid "header_desc_story000"
 msgstr ""
 
 msgid "header_desc_story001"
-msgstr ""
+msgstr "어시스트를 선택해 주세요"
 
 msgid "header_desc_story002"
-msgstr ""
+msgstr "유닛을 편성해 주세요"
 
 msgid "header_desc_story003"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_story004"
-msgstr ""
+msgstr "악곡별 성장을 확인할 수 있습니다"
 
 msgid "header_desc_story005"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_story006"
-msgstr ""
+msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_story007"
 msgstr ""
@@ -933,22 +954,22 @@ msgid "header_desc_free000"
 msgstr ""
 
 msgid "header_desc_free001"
-msgstr ""
+msgstr "어시스트를 선택해 주세요"
 
 msgid "header_desc_free002"
-msgstr ""
+msgstr "유닛을 편성해 주세요"
 
 msgid "header_desc_free003"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_free004"
-msgstr ""
+msgstr "악곡별 성장을 확인할 수 있습니다"
 
 msgid "header_desc_free005"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_free006"
-msgstr ""
+msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_free007"
 msgstr ""
@@ -975,7 +996,7 @@ msgid "header_desc_free120"
 msgstr ""
 
 msgid "header_desc_free130"
-msgstr ""
+msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_free030"
 msgstr ""
@@ -984,22 +1005,22 @@ msgid "header_desc_free031"
 msgstr ""
 
 msgid "header_desc_free201"
-msgstr ""
+msgstr "어시스트를 선택해 주세요"
 
 msgid "header_desc_free202"
-msgstr ""
+msgstr "유닛을 편성해 주세요"
 
 msgid "header_desc_free203"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_free204"
-msgstr ""
+msgstr "악곡별 성장을 확인할 수 있습니다"
 
 msgid "header_desc_free205"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_free206"
-msgstr ""
+msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_free207"
 msgstr ""
@@ -1026,19 +1047,19 @@ msgid "header_desc_free240"
 msgstr ""
 
 msgid "header_desc_free303"
-msgstr ""
+msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_gacha000"
-msgstr ""
+msgstr "가챠를 선택해 주세요"
 
 msgid "header_desc_gacha001"
-msgstr ""
+msgstr "가챠에 대해서 확인할 수 있습니다"
 
 msgid "header_desc_quest000"
-msgstr ""
+msgstr "미션 목록입니다"
 
 msgid "header_desc_quest001"
-msgstr ""
+msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_quest002"
 msgstr ""
@@ -1068,7 +1089,7 @@ msgid "header_desc_option006"
 msgstr ""
 
 msgid "header_desc_option007"
-msgstr ""
+msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_option008"
 msgstr ""
@@ -1077,22 +1098,22 @@ msgid "header_desc_option009"
 msgstr ""
 
 msgid "header_desc_evquest001"
-msgstr ""
+msgstr "어시스트를 선택해 주세요"
 
 msgid "header_desc_evquest002"
-msgstr ""
+msgstr "유닛을 편성해 주세요"
 
 msgid "header_desc_evquest003"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_evquest004"
-msgstr ""
+msgstr "악곡별 성장을 확인할 수 있습니다"
 
 msgid "header_desc_evquest005"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_evquest006"
-msgstr ""
+msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_evquest007"
 msgstr ""
@@ -1116,7 +1137,7 @@ msgid "header_desc_evquest120"
 msgstr ""
 
 msgid "header_desc_evquest130"
-msgstr ""
+msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_evquest030"
 msgstr ""
@@ -1203,13 +1224,13 @@ msgid "quest_reward_none_list"
 msgstr ""
 
 msgid "quest_timer_d"
-msgstr ""
+msgstr "앞으로 {0}일"
 
 msgid "quest_timer_h"
-msgstr ""
+msgstr "앞으로 {0}시간"
 
 msgid "quest_timer_m"
-msgstr ""
+msgstr "앞으로 {0}분"
 
 msgid "quest_tiemr_e001"
 msgstr ""
@@ -1375,6 +1396,9 @@ msgstr ""
 
 msgid "music_week_play_count_limit"
 msgstr ""
+"플레이 가능 횟수 제한에\n"
+"도달하여 오늘은 더 이상\n"
+"플레이할 수 없습니다."
 
 msgid "music_event_end_week"
 msgstr ""
@@ -1570,6 +1594,8 @@ msgstr ""
 
 msgid "gacha_main_ep_caution02"
 msgstr ""
+"획득 가능한 에피소드 포인트의 한도는,\n"
+"　플레이트에 따라 다릅니다."
 
 msgid "gacha_main_ep_diva_costume"
 msgstr ""
@@ -1671,7 +1697,7 @@ msgid "popup_gacha_rate_ep_caution01"
 msgstr ""
 
 msgid "popup_gacha_rate_ep_caution02"
-msgstr ""
+msgstr "획득 가능한 에피소드 포인트의 한도는, 플레이트에 따라 다릅니다."
 
 msgid "popup_gacha_rate_ep_episode_sub"
 msgstr ""
@@ -1767,7 +1793,7 @@ msgid "popup_gacha_reject_ticket_timeout_msg"
 msgstr ""
 
 msgid "popup_myid_copy_title"
-msgstr ""
+msgstr "복사 완료"
 
 msgid "popup_myid_copy_msg"
 msgstr ""
@@ -1806,10 +1832,12 @@ msgid "popup_title_profil_08"
 msgstr ""
 
 msgid "popup_title_profil_09"
-msgstr ""
+msgstr "소개글 변경"
 
 msgid "popup_title_profil_10"
 msgstr ""
+"소개글을 입력해주세요.\n"
+"(최대 25자 이내)"
 
 msgid "popup_title_profil_11"
 msgstr ""
@@ -1845,7 +1873,7 @@ msgid "popup_text_notchangedcomment"
 msgstr ""
 
 msgid "popup_title_stamina_01"
-msgstr ""
+msgstr "에너지 회복"
 
 msgid "popup_text_stamina_01"
 msgstr ""
@@ -1884,55 +1912,69 @@ msgid "diva_musiclevel_nocleartext"
 msgstr ""
 
 msgid "popup_event_quest_change_diff_title"
-msgstr ""
+msgstr "난이도 선택"
 
 msgid "popup_event_quest_change_diff_text"
-msgstr ""
+msgstr "난이도 {0}의 미션을 플레이할 수 있습니다."
 
 msgid "popup_event_quest_reset"
 msgstr ""
+"{1} UC를 소비하고\n"
+"미션을 다시 선택할 수 있습니다.\n"
+"재설정하시겠습니까?\n"
+"\n"
+"<color={0}> 소지 UC {2}→{3}</color>"
 
 msgid "popup_event_quest_reset_failed"
 msgstr ""
+"{1} UC를 소비하고\n"
+"미션을 다시 선택할 수 있습니다.\n"
+"\n"
+"<color={0}>UC가 부족합니다.\n"
+"보유 UC {2}</color>"
 
 msgid "popup_event_quest_last_spurt_title"
-msgstr ""
+msgstr "럭키 카드 대량 발생"
 
 msgid "popup_event_quest_last_spurt_text"
 msgstr ""
+"보너스 미션의 출현 확률이\n"
+"2배로 증가했습니다!"
 
 msgid "popup_event_quest_select_lucky"
 msgstr ""
+"<color={0}> 럭키 미션 카드를 선택했습니다! </color>\n"
+"미션 달성 시 획득할 수 있는 포인트가 2배로 증가합니다."
 
 msgid "event_quest_progress"
-msgstr ""
+msgstr "미션 달성까지 앞으로 {0}{1}"
 
 msgid "event_quest_touch_screen"
-msgstr ""
+msgstr "START 버튼을 눌러 미션 시작"
 
 msgid "event_quest_touch_screen2"
-msgstr ""
+msgstr "화면을 탭하여 셔플 시작"
 
 msgid "event_quest_touch_screen3"
-msgstr ""
+msgstr "카드 1장 선택"
 
 msgid "event_quest_touch_screen4"
-msgstr ""
+msgstr "화면을 탭하여 진행"
 
 msgid "event_quest_limit_time_d"
-msgstr ""
+msgstr "앞으로 {0}일"
 
 msgid "event_quest_limit_time_h"
-msgstr ""
+msgstr "앞으로 {0}시간"
 
 msgid "event_quest_limit_time_m"
-msgstr ""
+msgstr "앞으로 {0}분"
 
 msgid "event_quest_progress_count"
-msgstr ""
+msgstr "앞으로 {0}{1}"
 
 msgid "popup_event_quest_unreceived_reward_title"
-msgstr ""
+msgstr "수령하지 않은 보상이 있습니다"
 
 msgid "popup_event_quest_unreceived_reward_text"
 msgstr ""
@@ -2640,7 +2682,7 @@ msgid "item_popup_shop_text_04"
 msgstr ""
 
 msgid "item_popup_shop_text_05"
-msgstr ""
+msgstr "아이템 수령"
 
 msgid "item_popup_shop_text_06"
 msgstr ""
@@ -2667,7 +2709,7 @@ msgid "item_shop_caution"
 msgstr ""
 
 msgid "item_shop_caution_max"
-msgstr ""
+msgstr "아이템 소지 한도에 도달하여 교환할 수 없습니다."
 
 msgid "item_shop_closed"
 msgstr ""
@@ -2704,6 +2746,9 @@ msgstr ""
 
 msgid "event_mission_changemusic_desc_002"
 msgstr ""
+"요일 이벤트 악곡이\n"
+"플레이 가능 횟수 제한에 도달하여\n"
+"악곡을 다시 선택했습니다."
 
 msgid "event_mission_changemusic_desc_003"
 msgstr ""
@@ -2841,7 +2886,7 @@ msgid "popup_ar_marker_emblem_title"
 msgstr ""
 
 msgid "popup_ar_marker_emblem_text_01"
-msgstr ""
+msgstr "다음 보상을 수령하였습니다."
 
 msgid "pupup_music_select_periodover_text_001"
 msgstr ""
@@ -3586,9 +3631,13 @@ msgstr ""
 
 msgid "pop_pass_loginbonus_rarityup_get"
 msgstr ""
+"앞으로 {0}회 수령으로\n"
+"GET!"
 
 msgid "pop_pass_loginbonus_desc"
 msgstr ""
+"※GOAL까지 도달하면 START부터 시작합니다.\n"
+"※소지 한도를 초과하는 아이템은 사라집니다."
 
 msgid "pop_pass_loginbonus_title"
 msgstr ""
@@ -3984,7 +4033,7 @@ msgid "pop_deco_gift_success_title"
 msgstr ""
 
 msgid "pop_deco_gift_failed_title"
-msgstr ""
+msgstr "선물 가능 한도"
 
 msgid "pop_deco_gift_multi_message"
 msgstr ""
@@ -4239,10 +4288,14 @@ msgid "customstamp_sort_title"
 msgstr ""
 
 msgid "pop_customstamp_createlimit_title"
-msgstr ""
+msgstr "스탬프 제작 한도"
 
 msgid "pop_customstamp_createlimit_desc"
 msgstr ""
+"신규로 생성할 수 있는 스탬프의 상한에 도달했습니다.\n"
+"\n"
+"저장되어 있는 스탬프를 삭제하면\n"
+"새로 만들 수 있습니다."
 
 msgid "pop_customstamp_sort_save_title"
 msgstr ""
@@ -4266,7 +4319,7 @@ msgid "pop_deco_get_title"
 msgstr ""
 
 msgid "pop_deco_get_desc"
-msgstr ""
+msgstr "데코룸에서 배치할 수 있는 {0}을(를) 수령하였습니다."
 
 msgid "pop_deco_get_limit"
 msgstr ""
@@ -4389,10 +4442,10 @@ msgid "pop_lobby_member_fanregister_desc"
 msgstr ""
 
 msgid "pop_lobby_member_fan_capacityover_title"
-msgstr ""
+msgstr "팬 한도"
 
 msgid "pop_lobby_member_capacityover_desc"
-msgstr ""
+msgstr "팬의 수가 한도에 다다랐습니다."
 
 msgid "pop_lobby_member_fan_unregister_title"
 msgstr ""
@@ -4465,6 +4518,9 @@ msgstr ""
 
 msgid "popup_raid_ap_recovery_failed_msg"
 msgstr ""
+"한도를 초과하여 AP를 회복할 수 없습니다.\n"
+"\n"
+"※가정석, 아이템은 소모되지 않습니다."
 
 msgid "popup_raid_formation_bonus_costume"
 msgstr ""
@@ -4488,13 +4544,21 @@ msgid "bulletin_board_limit_input_text"
 msgstr ""
 
 msgid "pop_deco_set_max_title"
-msgstr ""
+msgstr "배치 한도"
 
 msgid "pop_deco_item_set_max_desc"
 msgstr ""
+"데코 아이템의 배치 개수 한도에 도달했습니다.\n"
+"\n"
+"데코 아이템을 선택하고 '수납'하여\n"
+"아이템을 보관할 수 있습니다."
 
 msgid "pop_deco_chara_set_max_desc"
 msgstr ""
+"캐릭터 배치 수 제한에 도달했습니다.\n"
+"\n"
+"캐릭터를 선택하고 '수납'하여\n"
+"아이템을 보관할 수 있습니다."
 
 msgid "shop_no_product_desc"
 msgstr ""
@@ -4575,10 +4639,12 @@ msgid "pop_block_done_desc"
 msgstr ""
 
 msgid "pop_block_limit_title"
-msgstr ""
+msgstr "차단 한도"
 
 msgid "pop_block_limit_desc"
 msgstr ""
+"차단할 수 있는 인원이\n"
+"한도({0}명)에 도달했습니다."
 
 msgid "pop_block_remove_ask_title"
 msgstr ""
@@ -4777,6 +4843,8 @@ msgstr ""
 
 msgid "popup_rareup_item_convert_desc_01"
 msgstr ""
+"레어업 스타 조각이 소지 한도를 초과하여\n"
+"레어업 스타로 교환됩니다."
 
 msgid "popup_rareup_item_convert_desc_02"
 msgstr ""
@@ -4786,6 +4854,8 @@ msgstr ""
 
 msgid "popup_get_liveskip_ticket_desc"
 msgstr ""
+"※매일 {0}장씩 배포됩니다.\n"
+"※소지 한도를 초과한 분량은 소멸됩니다."
 
 msgid "popup_get_liveskip_ticket_count"
 msgstr ""
@@ -5037,37 +5107,37 @@ msgid "assist_friend_select_caution_01"
 msgstr ""
 
 msgid "header_desc_home401"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_home402"
 msgstr ""
 
 msgid "header_desc_setting040"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_setting041"
 msgstr ""
 
 msgid "header_desc_setting042"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_story040"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_story041"
-msgstr ""
+msgstr "칭호를 선택해 주세요"
 
 msgid "header_desc_story042"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_free400"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_free401"
 msgstr ""
 
 msgid "header_desc_option010"
-msgstr ""
+msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_option011"
 msgstr ""
@@ -5091,10 +5161,12 @@ msgid "quest_receive_all_desc"
 msgstr ""
 
 msgid "popup_quest_receive_limit_title"
-msgstr ""
+msgstr "소지 한도"
 
 msgid "popup_quest_receive_limit_desc"
 msgstr ""
+"수령하려고 하는 아이템 중 소지 한도를 초과하는 아이템이 있습니다.\n"
+"이 미션의 보상을 수령하시겠습니까?"
 
 msgid "popup_quest_receive_get"
 msgstr ""
@@ -5484,7 +5556,7 @@ msgid "godiva_diva_select_not_have"
 msgstr ""
 
 msgid "godiva_diva_select_explain"
-msgstr ""
+msgstr "가희를 선택해 주세요"
 
 msgid "godiva_music_info_bonus_remain_count"
 msgstr ""
@@ -5955,7 +6027,7 @@ msgid "unit_status_skill_regulation_attr"
 msgstr ""
 
 msgid "popup_sort_item_music_exp"
-msgstr ""
+msgstr "숙련도"
 
 msgid "unit_diva_status_titla_level"
 msgstr ""
@@ -6021,10 +6093,10 @@ msgid "popup_sort_item_musiclevel"
 msgstr "악곡 레벨"
 
 msgid "popup_sort_item_highscore"
-msgstr ""
+msgstr "하이스코어"
 
 msgid "popup_sort_item_utarate"
-msgstr ""
+msgstr "노래 레이트"
 
 msgid "popup_sort_item_clearnum"
 msgstr ""
