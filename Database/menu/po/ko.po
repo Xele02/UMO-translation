@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-23 09:31+0000\n"
+"PO-Revision-Date: 2025-01-23 16:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -209,6 +209,9 @@ msgstr ""
 
 msgid "pbox_text_06"
 msgstr ""
+"선물을 일괄 수령합니다.\n"
+"\n"
+"괜찮으시겠습니까?"
 
 msgid "pbox_text_07"
 msgstr ""
@@ -639,7 +642,7 @@ msgid "growth_popup_text04"
 msgstr ""
 
 msgid "growth_popup_text05"
-msgstr ""
+msgstr "아이템이 부족합니다."
 
 msgid "growth_popup_text06"
 msgstr ""
@@ -1465,10 +1468,10 @@ msgid "music_event_collect_next_point_label"
 msgstr ""
 
 msgid "music_event_collect_point_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "music_event_collect_rank_label"
-msgstr ""
+msgstr "현재 순위"
 
 msgid "music_event_collect_rank_counting_label"
 msgstr "최종 순위"
@@ -2168,19 +2171,19 @@ msgid "popup_event_reward_check_pt"
 msgstr ""
 
 msgid "popup_event_reward_currentpoint_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "popup_event_reward_needpoint_unit"
-msgstr ""
+msgstr "{0}pt"
 
 msgid "popup_event_reward_currentrank_unit"
-msgstr ""
+msgstr "위"
 
 msgid "popup_event_reward_needrank_unit"
-msgstr ""
+msgstr "{0}위"
 
 msgid "popup_event_reward_needrankrange_unit"
-msgstr ""
+msgstr "{0}～{1}위"
 
 msgid "popup_event_reward_sns_itemtitle"
 msgstr ""
@@ -2189,13 +2192,13 @@ msgid "popup_event_reward_emblemtitle"
 msgstr ""
 
 msgid "popup_event_reward_platetitle"
-msgstr ""
+msgstr "★{0} {1}"
 
 msgid "event_reward_check_have_pt"
-msgstr ""
+msgstr "현재 포인트"
 
 msgid "event_reward_check_rank"
-msgstr ""
+msgstr "현재 순위"
 
 msgid "rhythm_adjust_set"
 msgstr ""
@@ -2237,7 +2240,7 @@ msgid "popup_denom_check_birthday_text"
 msgstr ""
 
 msgid "popup_denom_title"
-msgstr ""
+msgstr "가정석 구입"
 
 msgid "denom_item_rest"
 msgstr ""
@@ -2270,10 +2273,10 @@ msgid "profil_text_02"
 msgstr ""
 
 msgid "profil_text_03"
-msgstr ""
+msgstr "없음"
 
 msgid "profil_text_04"
-msgstr ""
+msgstr "RANK "
 
 msgid "profil_text_05"
 msgstr ""
