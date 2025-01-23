@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-01-23 07:51+0000\n"
+"PO-Revision-Date: 2025-01-23 09:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tipsdb_text/zh_Hans/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "tips_0000_title"
-msgstr "【技能】分数提升是什么？"
+msgstr "【技能】什么是分数提升？"
 
 msgid "tips_0000_msg"
 msgstr ""
@@ -23,15 +23,15 @@ msgstr ""
 "发动时要尽全力击打音符哦"
 
 msgid "tips_0001_title"
-msgstr "【技能】生命回复是什么？"
+msgstr "【技能】什么是生命回复？"
 
 msgid "tips_0001_msg"
 msgstr ""
 "能够回复生命的技能。\n"
-"是危机时刻的救命法宝"
+"是危急时刻的救命法宝"
 
 msgid "tips_0002_title"
-msgstr "【技能】伤害减免是什么？"
+msgstr "【技能】什么是伤害减免？"
 
 msgid "tips_0002_msg"
 msgstr ""
@@ -39,7 +39,7 @@ msgstr ""
 "是确保演出顺利完成的关键技能"
 
 msgid "tips_0003_title"
-msgstr "【技能】判定缓和是什么？"
+msgstr "【技能】什么是判定缓和？"
 
 msgid "tips_0003_msg"
 msgstr ""
@@ -47,7 +47,7 @@ msgstr ""
 "手忙脚乱的时候，可以用它度过难关！"
 
 msgid "tips_0004_title"
-msgstr "【技能】连击持续是什么？"
+msgstr "【技能】什么是连击持续？"
 
 msgid "tips_0004_msg"
 msgstr ""
@@ -60,10 +60,10 @@ msgstr "卡哇哇相册"
 msgid "tips_0005_msg"
 msgstr ""
 "这是兰兰生日会上拍的最棒的一张照片！\n"
-"不要太可爱~！"
+"简直不要太可爱~！"
 
 msgid "tips_0006_title"
-msgstr "超歌姬模式是什么？"
+msgstr "什么是超歌姬模式？"
 
 msgid "tips_0006_msg"
 msgstr ""
@@ -71,7 +71,7 @@ msgstr ""
 "才会开启的特别演出哦！"
 
 msgid "tips_0007_title"
-msgstr "编队组合是什么？"
+msgstr "什么是编队组合？"
 
 msgid "tips_0007_msg"
 msgstr ""
@@ -79,43 +79,55 @@ msgstr ""
 "以便随时调用的功能"
 
 msgid "tips_0008_title"
-msgstr "鸟人是什么？"
+msgstr "什么是鸟人？"
 
 msgid "tips_0008_msg"
 msgstr ""
+"普罗多文明遗留下来的巨型兵器。\n"
+"是能够摧毁记忆的可怕存在"
 
 msgid "tips_0009_title"
-msgstr ""
+msgstr "FULL COMBO小技巧"
 
 msgid "tips_0009_msg"
 msgstr ""
+"灵活使用判定缓和技能，\n"
+"即便是高难度歌曲也能达成FULL COMBO"
 
 msgid "tips_0010_title"
-msgstr ""
+msgstr "什么是超时空SNS？"
 
 msgid "tips_0010_msg"
 msgstr ""
+"可以实现超时空通信，\n"
+"是一款相当厉害的社交软件"
 
 msgid "tips_0011_title"
-msgstr ""
+msgstr "什么是判定延迟校正？"
 
 msgid "tips_0011_msg"
 msgstr ""
+"感觉音符的击打时机与歌曲节奏对不上的时候，\n"
+"可以尝试对判定延迟进行校正"
 
 msgid "tips_0012_title"
-msgstr ""
+msgstr "什么是能力解放？"
 
 msgid "tips_0012_msg"
 msgstr ""
+"可以通过能力解放\n"
+"强化回忆卡片哦！"
 
 msgid "tips_0013_title"
-msgstr ""
+msgstr "什么是回忆卡片？"
 
 msgid "tips_0013_msg"
 msgstr ""
+"存在于这个世界中的记忆片段，\n"
+"因此会呈现出不同的样貌"
 
 msgid "tips_0014_title"
-msgstr ""
+msgstr "什么是自动编队？"
 
 msgid "tips_0014_msg"
 msgstr ""
