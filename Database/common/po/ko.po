@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-22 15:31+0000\n"
+"PO-Revision-Date: 2025-01-23 05:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "common/ko/>\n"
@@ -47,43 +47,45 @@ msgid "saka_error0007"
 msgstr "더 이상 구매할 수 없습니다."
 
 msgid "saka_error0008"
-msgstr ""
+msgstr "구매에 실패했습니다."
 
 msgid "saka_error0009"
-msgstr ""
+msgstr "이미 사용한 코드입니다."
 
 msgid "saka_error0010"
-msgstr ""
+msgstr "사용할 수 없는 코드입니다."
 
 msgid "saka_error0011"
 msgstr ""
+"에러가 발생했습니다.\n"
+"앱을 다시 시작해 주세요."
 
 msgid "saka_error0012"
-msgstr ""
+msgstr "사용할 수 없는 단어가 포함되어 있습니다."
 
 msgid "saka_error0013"
-msgstr ""
+msgstr "플레이어를 찾을 수 없습니다."
 
 msgid "saka_error0014"
-msgstr ""
+msgstr "이미 수령했습니다."
 
 msgid "saka_error0015"
-msgstr ""
+msgstr "수령에 실패했습니다."
 
 msgid "saka_error0016"
-msgstr ""
+msgstr "친구를 찾을 수 없습니다."
 
 msgid "saka_error0017"
-msgstr ""
+msgstr "차단 목록에 등록되어 있어 친구 신청이 거부되었습니다."
 
 msgid "saka_error0018"
-msgstr ""
+msgstr "친구 신청을 할 수 없습니다."
 
 msgid "saka_error0019"
-msgstr ""
+msgstr "친구를 거부하는 플레이어입니다."
 
 msgid "saka_error0020"
-msgstr ""
+msgstr "이미 친구 신청을 했습니다."
 
 msgid "saka_error0021"
 msgstr ""
@@ -125,37 +127,37 @@ msgid "saka_error0033"
 msgstr ""
 
 msgid "saka_error0034"
-msgstr ""
+msgstr "현재 집계 중입니다."
 
 msgid "saka_error0035"
-msgstr ""
+msgstr "랭킹에 참여하지 않았거나 순위권에 들지 못했습니다."
 
 msgid "saka_error0036"
-msgstr ""
+msgstr "랭킹이 개최되지 않았습니다."
 
 msgid "saka_error0037"
-msgstr ""
+msgstr "기간이 지나서 받지 못했습니다."
 
 msgid "saka_error0038"
-msgstr ""
+msgstr "집계 중입니다."
 
 msgid "saka_error0039"
-msgstr ""
+msgstr "이 인계 코드는 사용할 수 없습니다."
 
 msgid "saka_error0040"
-msgstr ""
+msgstr "구매 절차에 실패했습니다."
 
 msgid "saka_error0041"
-msgstr ""
+msgstr "구매에 실패했습니다.설정을 확인한 후 다시 시도해 주세요."
 
 msgid "saka_error0042"
-msgstr ""
+msgstr "에러가 발생했습니다. 게임을 다시 시작해 주세요."
 
 msgid "saka_error0043"
-msgstr ""
+msgstr "구매 정보가 유효하지 않습니다."
 
 msgid "saka_error0044"
-msgstr ""
+msgstr "미정의"
 
 msgid "saka_error0045"
 msgstr ""
