@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-23 16:31+0000\n"
+"PO-Revision-Date: 2025-01-24 01:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -775,7 +775,7 @@ msgid "header_desc_home002"
 msgstr "선물 목록입니다"
 
 msgid "header_desc_home003"
-msgstr "친구에 대해서 확인할 수 있습니다"
+msgstr "친구에 대하여 확인할 수 있습니다"
 
 msgid "header_desc_home004"
 msgstr "친구 신청 중 목록입니다"
@@ -1075,7 +1075,7 @@ msgid "header_desc_gacha000"
 msgstr "가챠를 선택해 주세요"
 
 msgid "header_desc_gacha001"
-msgstr "가챠에 대해서 확인할 수 있습니다"
+msgstr "가챠에 대하여 확인할 수 있습니다"
 
 msgid "header_desc_quest000"
 msgstr "미션 목록입니다"
@@ -1447,19 +1447,19 @@ msgid "music_event_remain_prefix"
 msgstr ""
 
 msgid "music_event_remain_day"
-msgstr ""
+msgstr "{0}일"
 
 msgid "music_event_remain_hour"
-msgstr ""
+msgstr "{0}시간"
 
 msgid "music_event_remain_minute"
-msgstr ""
+msgstr "{0}분"
 
 msgid "music_event_remain_second"
-msgstr ""
+msgstr "{0}초"
 
 msgid "music_event_collect_ticket_label"
-msgstr ""
+msgstr "소지 티켓"
 
 msgid "music_event_collect_current_point_label"
 msgstr ""
@@ -4375,13 +4375,13 @@ msgid "pop_deco_release_desc"
 msgstr ""
 
 msgid "deco_name_poster"
-msgstr ""
+msgstr "포스터"
 
 msgid "deco_name_torso"
-msgstr ""
+msgstr "의상 토르소"
 
 msgid "deco_name_figure"
-msgstr ""
+msgstr "발키리 피규어"
 
 msgid "missionevent_bonus_popup_title"
 msgstr ""
@@ -4399,19 +4399,19 @@ msgid "missionevent_bonus_target_format"
 msgstr ""
 
 msgid "missionevent_bonus_music_attribute001"
-msgstr ""
+msgstr "별 속성"
 
 msgid "missionevent_bonus_music_attribute002"
-msgstr ""
+msgstr "사랑 속성"
 
 msgid "missionevent_bonus_music_attribute003"
-msgstr ""
+msgstr "생명 속성"
 
 msgid "missionevent_bonus_music_attribute004"
-msgstr ""
+msgstr "전 속성"
 
 msgid "missionevent_bonus_series_attribute001"
-msgstr ""
+msgstr "마크로스Δ 시리즈"
 
 msgid "missionevent_bonus_series_attribute002"
 msgstr ""
@@ -5055,7 +5055,7 @@ msgid "centerskillregulation_popup_title"
 msgstr ""
 
 msgid "gacha_telop_01"
-msgstr ""
+msgstr "1회 한정!"
 
 msgid "gacha_telop_02"
 msgstr ""
@@ -5097,19 +5097,19 @@ msgid "gacha_set_sale_desc_03"
 msgstr ""
 
 msgid "gacha_ticket_name"
-msgstr ""
+msgstr "소지 티켓"
 
 msgid "assistselect_attribute_other"
 msgstr ""
 
 msgid "assistselect_attribute_yellow"
-msgstr ""
+msgstr "별 속성"
 
 msgid "assistselect_attribute_red"
-msgstr ""
+msgstr "사랑 속성"
 
 msgid "assistselect_attribute_blue"
-msgstr ""
+msgstr "생명 속성"
 
 msgid "assistselect_caution_01"
 msgstr ""
@@ -5133,7 +5133,7 @@ msgid "assistselect_name_ngword"
 msgstr ""
 
 msgid "event_story_text_015"
-msgstr ""
+msgstr "스토리 칸을 해방하면 볼 수 있습니다."
 
 msgid "event_story_text_016"
 msgstr ""
@@ -5143,6 +5143,8 @@ msgstr ""
 
 msgid "event_story_text_018"
 msgstr ""
+"{0}\n"
+"의 스토리 칸 해방으로 확인할 수 있습니다."
 
 msgid "event_story_text_019"
 msgstr ""
@@ -5234,16 +5236,16 @@ msgid "popup_gacha_rbreak2_rate_warning"
 msgstr ""
 
 msgid "growth_popup_text20"
-msgstr ""
+msgstr "다음 아이템과 UC를 소모하여 능력 칸을 모두 해방합니다."
 
 msgid "growth_popup_text21"
-msgstr ""
+msgstr "다음 아이템과 UC를 소비하여 에피소드 칸을 모두 해방합니다."
 
 msgid "growth_popup_text22"
 msgstr ""
 
 msgid "growth_popup_text23"
-msgstr ""
+msgstr "다음 아이템과 UC를 소모하여 필요한 능력 칸을 모두 해방합니다."
 
 msgid "popup_sort_filter_reset"
 msgstr ""
@@ -5462,7 +5464,7 @@ msgid "popup_filter_rarity_07"
 msgstr ""
 
 msgid "deco_name_decomascot"
-msgstr ""
+msgstr "데코 마스코트"
 
 msgid "popup_bunchinstall_error_storage_title"
 msgstr ""
