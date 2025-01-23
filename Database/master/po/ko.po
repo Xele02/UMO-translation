@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
+"master/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "e_nm_0001"
 msgstr ""
@@ -20243,19 +20244,19 @@ msgid "df_04"
 msgstr ""
 
 msgid "rn_0000"
-msgstr ""
+msgstr "미정의"
 
 msgid "rn_0001"
-msgstr ""
+msgstr "SNS 연락방"
 
 msgid "rn_0002"
-msgstr ""
+msgstr "다함께 수다방"
 
 msgid "rn_0003"
-msgstr ""
+msgstr "축☆기념일 방"
 
 msgid "rn_0004"
-msgstr ""
+msgstr "프레이아의 방"
 
 msgid "rn_0005"
 msgstr ""
@@ -20270,19 +20271,19 @@ msgid "rn_0008"
 msgstr ""
 
 msgid "rn_0009"
-msgstr ""
+msgstr "란카의 방"
 
 msgid "rn_0010"
-msgstr ""
+msgstr "셰릴의 방"
 
 msgid "rn_0011"
-msgstr ""
+msgstr "밀레느의 방"
 
 msgid "rn_0012"
-msgstr ""
+msgstr "바사라의 방"
 
 msgid "rn_0013"
-msgstr ""
+msgstr "민메이의 방"
 
 msgid "rn_0014"
 msgstr ""
@@ -25019,19 +25020,19 @@ msgid "dc_itm_nm_0001_bg"
 msgstr ""
 
 msgid "dc_itm_nm_0002_bg"
-msgstr ""
+msgstr "프레이아의 방"
 
 msgid "dc_itm_nm_0003_bg"
-msgstr ""
+msgstr "케이오스 여자 기숙사"
 
 msgid "dc_itm_nm_0004_bg"
-msgstr ""
+msgstr "란카의 방"
 
 msgid "dc_itm_nm_0005_bg"
-msgstr ""
+msgstr "바사라의 방"
 
 msgid "dc_itm_nm_0006_bg"
-msgstr ""
+msgstr "민메이의 방"
 
 msgid "dc_itm_nm_0007_bg"
 msgstr ""
@@ -25061,22 +25062,22 @@ msgid "dc_itm_nm_0016_bg"
 msgstr ""
 
 msgid "dc_itm_nm_0017_bg"
-msgstr ""
+msgstr "셰릴의 방"
 
 msgid "dc_itm_nm_0018_bg"
-msgstr ""
+msgstr "라그나 해변"
 
 msgid "dc_itm_nm_0019_bg"
-msgstr ""
+msgstr "미라쥬의 방"
 
 msgid "dc_itm_nm_0020_bg"
-msgstr ""
+msgstr "프론티어 선단 군 병원"
 
 msgid "dc_itm_nm_0021_bg"
-msgstr ""
+msgstr "북카페 MACROSS"
 
 msgid "dc_itm_nm_0022_bg"
-msgstr ""
+msgstr "밀레느의 방"
 
 msgid "dc_itm_nm_0023_bg"
 msgstr ""
@@ -29435,19 +29436,19 @@ msgid "dcpt_dsc_0001"
 msgstr ""
 
 msgid "dc_set_nm_0002"
-msgstr ""
+msgstr "프레이아의 방"
 
 msgid "dc_set_nm_0003"
-msgstr ""
+msgstr "케이오스 여자 기숙사"
 
 msgid "dc_set_nm_0004"
-msgstr ""
+msgstr "란카의 방"
 
 msgid "dc_set_nm_0005"
-msgstr ""
+msgstr "바사라의 방"
 
 msgid "dc_set_nm_0006"
-msgstr ""
+msgstr "민메이의 방"
 
 msgid "dc_set_nm_0007"
 msgstr ""
@@ -29477,22 +29478,22 @@ msgid "dc_set_nm_0016"
 msgstr ""
 
 msgid "dc_set_nm_0017"
-msgstr ""
+msgstr "셰릴의 방"
 
 msgid "dc_set_nm_0018"
-msgstr ""
+msgstr "라그나 해변"
 
 msgid "dc_set_nm_0019"
-msgstr ""
+msgstr "미라쥬의 방"
 
 msgid "dc_set_nm_0020"
-msgstr ""
+msgstr "프론티어 선단 군 병원"
 
 msgid "dc_set_nm_0021"
-msgstr ""
+msgstr "북카페 MACROSS"
 
 msgid "dc_set_nm_0022"
-msgstr ""
+msgstr "밀레느의 방"
 
 msgid "dc_set_nm_0023"
 msgstr ""
