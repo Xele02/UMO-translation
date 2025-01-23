@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-01-23 07:51+0000\n"
+"PO-Revision-Date: 2025-01-23 09:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -66,10 +66,10 @@ msgid "category_0055_name"
 msgstr "演出"
 
 msgid "help_0000_0000_name"
-msgstr "演出玩法"
+msgstr "关于演出"
 
 msgid "help_0000_0001_name"
-msgstr "演出基本操作"
+msgstr "基本操作"
 
 msgid "help_0000_0002_name"
 msgstr "演出失败"
@@ -111,7 +111,7 @@ msgid "help_0000_0014_name"
 msgstr "达成奖励"
 
 msgid "help_0000_0015_name"
-msgstr "演出跳过"
+msgstr "跳过演出"
 
 msgid "help_0000_0016_name"
 msgstr "6轨道模式"
@@ -123,7 +123,7 @@ msgid "wiki_0000_0000_name"
 msgstr "歌曲解锁条件"
 
 msgid "wiki_0000_0001_name"
-msgstr "如何挑选助战卡片"
+msgstr "如何选择助战卡片"
 
 msgid "wiki_0000_0002_name"
 msgstr "如何有效率地收集素材"
@@ -141,7 +141,7 @@ msgid "help_0001_0001_name"
 msgstr "各项数据"
 
 msgid "help_0001_0002_name"
-msgstr "技能"
+msgstr "演出技能"
 
 msgid "help_0001_0003_name"
 msgstr "歌曲属性"
@@ -165,7 +165,7 @@ msgid "help_0001_0009_name"
 msgstr "分数预测量表"
 
 msgid "wiki_0001_0000_name"
-msgstr "角色编队技巧"
+msgstr "编队技巧"
 
 msgid "wiki_0001_0001_name"
 msgstr "技能一览"
@@ -177,7 +177,7 @@ msgid "wiki_0001_0003_name"
 msgstr "战机一览"
 
 msgid "help_0002_0000_name"
-msgstr "歌曲解锁"
+msgstr "解锁歌曲"
 
 msgid "help_0002_0001_name"
 msgstr "歌姬解锁"
@@ -189,7 +189,7 @@ msgid "help_0003_0000_name"
 msgstr "各种任务"
 
 msgid "help_0004_0000_name"
-msgstr "回忆片段"
+msgstr "关于回忆片段"
 
 msgid "help_0004_0001_name"
 msgstr "解放回忆片段"
@@ -213,10 +213,10 @@ msgid "help_0005_0004_name"
 msgstr "幸运草"
 
 msgid "help_0005_0005_name"
-msgstr "幸运草加成"
+msgstr "幸运草效果加成"
 
 msgid "help_0005_0006_name"
-msgstr "一键解放能力"
+msgstr "一键解放"
 
 msgid "wiki_0005_0000_name"
 msgstr "回忆卡片"
@@ -306,7 +306,7 @@ msgid "wiki_0008_0003_name"
 msgstr "服装一览"
 
 msgid "help_0009_0000_name"
-msgstr "战机派遣任务"
+msgstr "关于战机派遣任务"
 
 msgid "help_0009_0001_name"
 msgstr "解锁战机派遣任务"
@@ -315,7 +315,7 @@ msgid "help_0009_0002_name"
 msgstr "歌姬派遣任务"
 
 msgid "help_0010_0000_name"
-msgstr "抽卡"
+msgstr "关于抽卡"
 
 msgid "help_0010_0001_name"
 msgstr "福利卡池"
@@ -333,7 +333,7 @@ msgid "help_0012_0002_name"
 msgstr "碎片素材"
 
 msgid "help_0012_0003_name"
-msgstr "四季泪晶"
+msgstr "季节泪晶"
 
 msgid "help_0012_0004_name"
 msgstr "通知推送设置"
@@ -351,7 +351,7 @@ msgid "wiki_0012_0002_name"
 msgstr "公告栏"
 
 msgid "help_0013_0000_name"
-msgstr "房间模式"
+msgstr "关于房间模式"
 
 msgid "help_0013_0001_name"
 msgstr "Extra物品"
@@ -366,7 +366,7 @@ msgid "help_0014_0000_name"
 msgstr "总力LIVE事前准备"
 
 msgid "help_0014_0001_name"
-msgstr "战队大厅"
+msgstr "关于战队大厅"
 
 msgid "help_0014_0002_name"
 msgstr "表情功能"
@@ -381,7 +381,7 @@ msgid "help_0015_0000_name"
 msgstr "总力LIVE事前准备"
 
 msgid "help_0015_0001_name"
-msgstr "战队大厅"
+msgstr "关于战队大厅"
 
 msgid "help_0015_0002_name"
 msgstr "表情功能"
@@ -393,901 +393,901 @@ msgid "help_0015_0004_name"
 msgstr "更换聊天头像"
 
 msgid "help_0016_0000_name"
-msgstr "演出玩法"
+msgstr "关于演出"
 
 msgid "help_0016_0001_name"
-msgstr ""
+msgstr "基本操作"
 
 msgid "help_0016_0002_name"
-msgstr ""
+msgstr "演出失败"
 
 msgid "help_0016_0003_name"
-msgstr ""
+msgstr "空战模式"
 
 msgid "help_0016_0004_name"
-msgstr ""
+msgstr "歌姬模式"
 
 msgid "help_0016_0005_name"
-msgstr ""
+msgstr "物品掉落"
 
 msgid "help_0016_0006_name"
-msgstr ""
+msgstr "助战卡片"
 
 msgid "help_0016_0007_name"
-msgstr ""
+msgstr "游玩记录"
 
 msgid "help_0016_0008_name"
-msgstr ""
+msgstr "每日活动"
 
 msgid "help_0016_0009_name"
-msgstr ""
+msgstr "模拟演出"
 
 msgid "help_0016_0010_name"
-msgstr ""
+msgstr "模拟演出设置"
 
 msgid "help_0016_0011_name"
-msgstr ""
+msgstr "十二星座奖章"
 
 msgid "help_0016_0012_name"
-msgstr ""
+msgstr "歌曲评分"
 
 msgid "help_0016_0013_name"
-msgstr ""
+msgstr "达成奖励"
 
 msgid "wiki_0016_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "wiki_0016_0001_name"
-msgstr ""
+msgstr "如何选择助战卡片"
 
 msgid "wiki_0016_0002_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "wiki_0016_0003_name"
-msgstr ""
+msgstr "如何阅读游玩记录"
 
 msgid "wiki_0016_0004_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0017_0000_name"
-msgstr ""
+msgstr "能力解放"
 
 msgid "help_0017_0001_name"
-msgstr ""
+msgstr "秘密板块"
 
 msgid "help_0017_0002_name"
-msgstr ""
+msgstr "提升卡片稀有度"
 
 msgid "wiki_0017_0000_name"
-msgstr ""
+msgstr "回忆卡片"
 
 msgid "help_0018_0000_name"
-msgstr ""
+msgstr "解锁歌曲"
 
 msgid "help_0018_0001_name"
-msgstr ""
+msgstr "歌姬解锁"
 
 msgid "wiki_0018_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "help_0019_0000_name"
-msgstr ""
+msgstr "关于演出"
 
 msgid "help_0019_0001_name"
-msgstr ""
+msgstr "每日活动"
 
 msgid "help_0019_0002_name"
-msgstr ""
+msgstr "多人演出"
 
 msgid "help_0019_0003_name"
-msgstr ""
+msgstr "跳过演出"
 
 msgid "help_0019_0004_name"
-msgstr ""
+msgstr "模拟演出"
 
 msgid "help_0019_0005_name"
-msgstr ""
+msgstr "6轨道模式"
 
 msgid "help_0019_0006_name"
-msgstr ""
+msgstr "6轨道模式操作"
 
 msgid "wiki_0019_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "wiki_0019_0001_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "wiki_0019_0002_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0020_0000_name"
-msgstr ""
+msgstr "助战卡片"
 
 msgid "wiki_0020_0000_name"
-msgstr ""
+msgstr "如何选择助战卡片"
 
 msgid "help_0021_0000_name"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "help_0021_0001_name"
-msgstr ""
+msgstr "各项数据"
 
 msgid "help_0021_0002_name"
-msgstr ""
+msgstr "演出技能"
 
 msgid "help_0021_0003_name"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "help_0021_0004_name"
-msgstr ""
+msgstr "编队组合"
 
 msgid "help_0021_0005_name"
-msgstr ""
+msgstr "超时空棱镜"
 
 msgid "help_0021_0006_name"
 msgstr "支援卡片"
 
 msgid "help_0021_0007_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0021_0008_name"
-msgstr ""
+msgstr "幸运草效果加成"
 
 msgid "help_0021_0009_name"
-msgstr ""
+msgstr "分数预测量表"
 
 msgid "help_0021_0010_name"
-msgstr ""
+msgstr "助战设置"
 
 msgid "wiki_0021_0000_name"
-msgstr ""
+msgstr "编队技巧"
 
 msgid "wiki_0021_0001_name"
-msgstr ""
+msgstr "技能一览"
 
 msgid "wiki_0021_0002_name"
-msgstr ""
+msgstr "卡片一览"
 
 msgid "help_0022_0000_name"
-msgstr ""
+msgstr "战机编队"
 
 msgid "wiki_0022_0000_name"
-msgstr ""
+msgstr "战机一览"
 
 msgid "help_0023_0000_name"
-msgstr ""
+msgstr "玩家等级"
 
 msgid "help_0023_0001_name"
-msgstr ""
+msgstr "游玩记录"
 
 msgid "help_0023_0002_name"
-msgstr ""
+msgstr "达成奖励"
 
 msgid "help_0023_0003_name"
-msgstr ""
+msgstr "熟练度"
 
 msgid "help_0023_0004_name"
-msgstr ""
+msgstr "物品掉落"
 
 msgid "help_0023_0005_name"
-msgstr ""
+msgstr "十二星座奖章"
 
 msgid "help_0023_0006_name"
-msgstr ""
+msgstr "歌手等级"
 
 msgid "wiki_0023_0000_name"
-msgstr ""
+msgstr "如何提升玩家等级"
 
 msgid "wiki_0023_0001_name"
-msgstr ""
+msgstr "如何阅读游玩记录"
 
 msgid "wiki_0023_0002_name"
-msgstr ""
+msgstr "如何快速提升歌姬等级"
 
 msgid "wiki_0023_0003_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "help_0024_0000_name"
-msgstr ""
+msgstr "能力解放"
 
 msgid "help_0024_0001_name"
-msgstr ""
+msgstr "秘密板块"
 
 msgid "help_0024_0002_name"
-msgstr ""
+msgstr "提升卡片稀有度"
 
 msgid "help_0024_0003_name"
-msgstr ""
+msgstr "稀有提升星盘"
 
 msgid "help_0024_0004_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0024_0005_name"
-msgstr ""
+msgstr "幸运草效果加成"
 
 msgid "help_0024_0006_name"
-msgstr ""
+msgstr "一键解放"
 
 msgid "help_0025_0000_name"
-msgstr ""
+msgstr "服装"
 
 msgid "help_0025_0001_name"
-msgstr ""
+msgstr "异色服装"
 
 msgid "wiki_0025_0000_name"
-msgstr ""
+msgstr "服装一览"
 
 msgid "help_0026_0000_name"
-msgstr ""
+msgstr "关于回忆片段"
 
 msgid "wiki_0026_0000_name"
-msgstr ""
+msgstr "回忆片段一览"
 
 msgid "wiki_0026_0001_name"
-msgstr ""
+msgstr "回忆卡片"
 
 msgid "help_0027_0000_name"
-msgstr ""
+msgstr "模拟演出设置"
 
 msgid "help_0028_0000_name"
-msgstr ""
+msgstr "关于战机派遣任务"
 
 msgid "help_0028_0001_name"
-msgstr ""
+msgstr "解锁战机派遣任务"
 
 msgid "help_0028_0002_name"
-msgstr ""
+msgstr "歌姬派遣任务"
 
 msgid "help_0029_0000_name"
-msgstr ""
+msgstr "强化服装"
 
 msgid "help_0029_0001_name"
-msgstr ""
+msgstr "异色服装"
 
 msgid "help_0029_0002_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0030_0000_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0030_0001_name"
-msgstr ""
+msgstr "幸运草效果加成"
 
 msgid "help_0031_0000_name"
-msgstr ""
+msgstr "Bingo任务奖励"
 
 msgid "help_0032_0000_name"
-msgstr ""
+msgstr "银河新年☆娘娘祭"
 
 msgid "help_0033_0000_name"
-msgstr ""
+msgstr "娘娘祭 上半场"
 
 msgid "help_0033_0001_name"
-msgstr ""
+msgstr "娘娘祭 下半场"
 
 msgid "help_0034_0000_name"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "help_0034_0001_name"
-msgstr ""
+msgstr "各项数据"
 
 msgid "help_0034_0002_name"
-msgstr ""
+msgstr "演出技能"
 
 msgid "help_0034_0003_name"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "help_0034_0004_name"
-msgstr ""
+msgstr "编队组合"
 
 msgid "help_0034_0005_name"
-msgstr ""
+msgstr "超时空棱镜"
 
 msgid "help_0034_0006_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0034_0007_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0034_0008_name"
-msgstr ""
+msgstr "幸运草效果加成"
 
 msgid "wiki_0034_0000_name"
-msgstr ""
+msgstr "编队技巧"
 
 msgid "wiki_0034_0001_name"
-msgstr ""
+msgstr "技能一览"
 
 msgid "wiki_0034_0002_name"
-msgstr ""
+msgstr "卡片一览"
 
 msgid "help_0035_0000_name"
-msgstr ""
+msgstr "如何进行Bingo任务"
 
 msgid "help_0036_0000_name"
-msgstr ""
+msgstr "歌手等级"
 
 msgid "help_0037_0000_name"
-msgstr ""
+msgstr "强化战机"
 
 msgid "help_0038_0000_name"
-msgstr ""
+msgstr "强化战机"
 
 msgid "help_0039_0000_name"
-msgstr ""
+msgstr "总力LIVE事前准备"
 
 msgid "help_0039_0001_name"
-msgstr ""
+msgstr "战队一览"
 
 msgid "help_0039_0002_name"
-msgstr ""
+msgstr "表情"
 
 msgid "help_0039_0003_name"
-msgstr ""
+msgstr "笔记功能"
 
 msgid "help_0039_0004_name"
-msgstr ""
+msgstr "更换聊天头像"
 
 msgid "help_0039_0005_name"
-msgstr ""
+msgstr "通知推送设置"
 
 msgid "help_0040_0000_name"
-msgstr ""
+msgstr "总力LIVE事前准备"
 
 msgid "help_0040_0001_name"
-msgstr ""
+msgstr "关于战队大厅"
 
 msgid "help_0040_0002_name"
-msgstr ""
+msgstr "表情功能"
 
 msgid "help_0040_0003_name"
-msgstr ""
+msgstr "笔记功能"
 
 msgid "help_0040_0004_name"
-msgstr ""
+msgstr "更换聊天头像"
 
 msgid "help_0041_0000_name"
-msgstr ""
+msgstr "战队一览"
 
 msgid "help_0042_0000_name"
-msgstr ""
+msgstr "关于房间模式"
 
 msgid "help_0042_0001_name"
-msgstr ""
+msgstr "Extra物品"
 
 msgid "help_0042_0002_name"
-msgstr ""
+msgstr "角色放置"
 
 msgid "help_0042_0003_name"
-msgstr ""
+msgstr "玩家黑名单"
 
 msgid "help_0043_0000_name"
-msgstr ""
+msgstr "超银河总力LIVE"
 
 msgid "help_0043_0001_name"
-msgstr ""
+msgstr "选择行动"
 
 msgid "help_0043_0002_name"
-msgstr ""
+msgstr "Macross加农"
 
 msgid "help_0043_0003_name"
-msgstr ""
+msgstr "救援信号"
 
 msgid "help_0044_0000_name"
-msgstr ""
+msgstr "聊天功能"
 
 msgid "help_0044_0001_name"
-msgstr ""
+msgstr "表情"
 
 msgid "help_0045_0000_name"
-msgstr ""
+msgstr "超银河总力LIVE"
 
 msgid "help_0045_0001_name"
-msgstr ""
+msgstr "选择行动"
 
 msgid "help_0045_0002_name"
-msgstr ""
+msgstr "Macross加农"
 
 msgid "help_0045_0003_name"
-msgstr ""
+msgstr "救援信号"
 
 msgid "help_0046_0000_name"
-msgstr ""
+msgstr "大厅歌姬服装选择"
 
 msgid "wiki_0046_0000_name"
-msgstr ""
+msgstr "服装一览"
 
 msgid "help_0047_0000_name"
-msgstr ""
+msgstr "关于演出"
 
 msgid "help_0047_0001_name"
-msgstr ""
+msgstr "每日活动"
 
 msgid "help_0047_0002_name"
-msgstr ""
+msgstr "模拟演出"
 
 msgid "wiki_0047_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "wiki_0047_0001_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "wiki_0047_0002_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0048_0000_name"
-msgstr ""
+msgstr "能力解放"
 
 msgid "help_0048_0001_name"
-msgstr ""
+msgstr "秘密板块"
 
 msgid "help_0048_0002_name"
-msgstr ""
+msgstr "提升卡片稀有度"
 
 msgid "help_0049_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0049_0001_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0049_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0049_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0050_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0050_0001_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0050_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0050_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0051_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0051_0001_name"
-msgstr ""
+msgstr "EX战分数最高纪录"
 
 msgid "help_0051_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0051_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0052_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0052_0001_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0052_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0052_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0053_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0053_0001_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0053_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0053_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0054_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0054_0001_name"
-msgstr ""
+msgstr "EX战分数最高纪录"
 
 msgid "help_0054_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0054_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0055_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0055_0001_name"
-msgstr ""
+msgstr "多人演出"
 
 msgid "help_0055_0002_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0055_0003_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0055_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0056_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0056_0001_name"
-msgstr ""
+msgstr "多人演出"
 
 msgid "help_0056_0002_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0056_0003_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0056_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0057_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0057_0001_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0057_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0057_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0058_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0058_0001_name"
-msgstr ""
+msgstr "EX战分数最高纪录"
 
 msgid "help_0058_0002_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0058_0003_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0058_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0059_0000_name"
-msgstr ""
+msgstr "欧内斯特舰长的奖励"
 
 msgid "help_0060_0000_name"
-msgstr ""
+msgstr "娘娘抽奖☆"
 
 msgid "help_0061_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0061_0001_name"
-msgstr ""
+msgstr "BOOST功能"
 
 msgid "help_0061_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "wiki_0061_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0062_0000_name"
-msgstr ""
+msgstr "娘娘抽奖☆"
 
 msgid "help_0063_0000_name"
-msgstr ""
+msgstr "银河新年☆娘娘祭"
 
 msgid "help_0064_0000_name"
-msgstr ""
+msgstr "4周年纪念 前夜祭"
 
 msgid "help_0065_0000_name"
-msgstr ""
+msgstr "4周年纪念 娘娘祭"
 
 msgid "help_0066_0000_name"
-msgstr ""
+msgstr "娘娘抽奖☆"
 
 msgid "help_0067_0000_name"
-msgstr ""
+msgstr "娘娘抽奖☆"
 
 msgid "help_0068_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0068_0001_name"
-msgstr ""
+msgstr "助阵值"
 
 msgid "help_0068_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "help_0068_0003_name"
-msgstr ""
+msgstr "如何提升演出热情值"
 
 msgid "wiki_0068_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0069_0000_name"
-msgstr ""
+msgstr "活动规则"
 
 msgid "help_0069_0001_name"
-msgstr ""
+msgstr "助阵值"
 
 msgid "help_0069_0002_name"
-msgstr ""
+msgstr "回忆卡片加成"
 
 msgid "help_0069_0003_name"
-msgstr ""
+msgstr "如何提升演出热情值"
 
 msgid "wiki_0069_0000_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0070_0000_name"
-msgstr ""
+msgstr "关于演出"
 
 msgid "help_0070_0001_name"
-msgstr ""
+msgstr "基本操作"
 
 msgid "help_0070_0002_name"
-msgstr ""
+msgstr "演出失败"
 
 msgid "help_0070_0003_name"
-msgstr ""
+msgstr "空战模式"
 
 msgid "help_0070_0004_name"
-msgstr ""
+msgstr "歌姬模式"
 
 msgid "help_0070_0005_name"
-msgstr ""
+msgstr "物品掉落"
 
 msgid "help_0070_0006_name"
-msgstr ""
+msgstr "助战卡片"
 
 msgid "help_0070_0007_name"
-msgstr ""
+msgstr "游玩记录"
 
 msgid "help_0070_0008_name"
-msgstr ""
+msgstr "每日活动"
 
 msgid "help_0070_0009_name"
-msgstr ""
+msgstr "模拟演出"
 
 msgid "help_0070_0010_name"
-msgstr ""
+msgstr "模拟演出设置"
 
 msgid "help_0070_0011_name"
-msgstr ""
+msgstr "多人演出"
 
 msgid "help_0070_0012_name"
-msgstr ""
+msgstr "十二星座奖章"
 
 msgid "help_0070_0013_name"
-msgstr ""
+msgstr "歌手等级"
 
 msgid "help_0070_0014_name"
-msgstr ""
+msgstr "达成奖励"
 
 msgid "help_0070_0015_name"
-msgstr ""
+msgstr "跳过演出"
 
 msgid "help_0070_0016_name"
-msgstr ""
+msgstr "6轨道模式"
 
 msgid "help_0070_0017_name"
-msgstr ""
+msgstr "6轨道模式操作"
 
 msgid "help_0070_0018_name"
-msgstr ""
+msgstr "收藏夹"
 
 msgid "wiki_0070_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "wiki_0070_0001_name"
-msgstr ""
+msgstr "如何选择助战卡片"
 
 msgid "wiki_0070_0002_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "wiki_0070_0003_name"
-msgstr ""
+msgstr "如何阅读游玩记录"
 
 msgid "wiki_0070_0004_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0071_0000_name"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "help_0071_0001_name"
-msgstr ""
+msgstr "各项数据"
 
 msgid "help_0071_0002_name"
-msgstr ""
+msgstr "演出技能"
 
 msgid "help_0071_0003_name"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "help_0071_0004_name"
-msgstr ""
+msgstr "战机编队"
 
 msgid "help_0071_0005_name"
-msgstr ""
+msgstr "编队组合"
 
 msgid "help_0071_0006_name"
-msgstr ""
+msgstr "超时空棱镜"
 
 msgid "help_0071_0007_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0071_0008_name"
-msgstr ""
+msgstr "分数预测量表"
 
 msgid "wiki_0071_0000_name"
-msgstr ""
+msgstr "编队技巧"
 
 msgid "wiki_0071_0001_name"
-msgstr ""
+msgstr "技能一览"
 
 msgid "wiki_0071_0002_name"
-msgstr ""
+msgstr "卡片一览"
 
 msgid "wiki_0071_0003_name"
-msgstr ""
+msgstr "战机一览"
 
 msgid "help_0072_0000_name"
-msgstr ""
+msgstr "熟练度"
 
 msgid "help_0072_0001_name"
-msgstr ""
+msgstr "服装"
 
 msgid "help_0072_0002_name"
-msgstr ""
+msgstr "亲密度"
 
 msgid "help_0072_0003_name"
-msgstr ""
+msgstr "礼物"
 
 msgid "help_0072_0004_name"
-msgstr ""
+msgstr "强化服装"
 
 msgid "help_0072_0005_name"
-msgstr ""
+msgstr "异色服装"
 
 msgid "help_0072_0006_name"
-msgstr ""
+msgstr "强化战机"
 
 msgid "wiki_0072_0000_name"
-msgstr ""
+msgstr "如何快速提升歌姬等级"
 
 msgid "wiki_0072_0001_name"
-msgstr ""
+msgstr "服装一览"
 
 msgid "help_0073_0000_name"
-msgstr ""
+msgstr "关于演出"
 
 msgid "help_0073_0001_name"
-msgstr ""
+msgstr "每日活动"
 
 msgid "help_0073_0002_name"
-msgstr ""
+msgstr "多人演出"
 
 msgid "help_0073_0003_name"
-msgstr ""
+msgstr "跳过演出"
 
 msgid "help_0073_0004_name"
-msgstr ""
+msgstr "模拟演出"
 
 msgid "help_0073_0005_name"
-msgstr ""
+msgstr "6轨道模式"
 
 msgid "help_0073_0006_name"
-msgstr ""
+msgstr "6轨道模式操作"
 
 msgid "help_0073_0007_name"
-msgstr ""
+msgstr "收藏夹"
 
 msgid "wiki_0073_0000_name"
-msgstr ""
+msgstr "歌曲解锁条件"
 
 msgid "wiki_0073_0001_name"
-msgstr ""
+msgstr "如何有效率地收集素材"
 
 msgid "wiki_0073_0002_name"
-msgstr ""
+msgstr "活动信息"
 
 msgid "help_0074_0000_name"
-msgstr ""
+msgstr "助战卡片"
 
 msgid "help_0074_0001_name"
-msgstr ""
+msgstr "编辑助战"
 
 msgid "wiki_0074_0000_name"
-msgstr ""
+msgstr "如何选择助战卡片"
 
 msgid "help_0075_0000_name"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "help_0075_0001_name"
-msgstr ""
+msgstr "各项数据"
 
 msgid "help_0075_0002_name"
-msgstr ""
+msgstr "演出技能"
 
 msgid "help_0075_0003_name"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "help_0075_0004_name"
-msgstr ""
+msgstr "编队组合"
 
 msgid "help_0075_0005_name"
-msgstr ""
+msgstr "超时空棱镜"
 
 msgid "help_0075_0006_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0075_0007_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0075_0008_name"
-msgstr ""
+msgstr "幸运草效果加成"
 
 msgid "help_0075_0009_name"
-msgstr ""
+msgstr "分数预测量表"
 
 msgid "help_0075_0010_name"
-msgstr ""
+msgstr "自动编队"
 
 msgid "wiki_0075_0000_name"
-msgstr ""
+msgstr "编队技巧"
 
 msgid "wiki_0075_0001_name"
-msgstr ""
+msgstr "技能一览"
 
 msgid "wiki_0075_0002_name"
-msgstr ""
+msgstr "卡片一览"
 
 msgid "help_0076_0000_name"
-msgstr ""
+msgstr "模拟演出设置"
 
 msgid "help_0076_0001_name"
-msgstr ""
+msgstr "自动编队"
 
 msgid "help_0077_0000_name"
-msgstr ""
+msgstr "强化服装"
 
 msgid "help_0077_0001_name"
-msgstr ""
+msgstr "异色服装"
 
 msgid "help_0077_0002_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0078_0000_name"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "help_0078_0001_name"
-msgstr ""
+msgstr "各项数据"
 
 msgid "help_0078_0002_name"
-msgstr ""
+msgstr "演出技能"
 
 msgid "help_0078_0003_name"
-msgstr ""
+msgstr "歌曲属性"
 
 msgid "help_0078_0004_name"
-msgstr ""
+msgstr "编队组合"
 
 msgid "help_0078_0005_name"
-msgstr ""
+msgstr "超时空棱镜"
 
 msgid "help_0078_0006_name"
-msgstr ""
+msgstr "支援卡片"
 
 msgid "help_0078_0007_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0078_0008_name"
-msgstr ""
+msgstr "幸运草效果加成"
 
 msgid "wiki_0078_0000_name"
-msgstr ""
+msgstr "编队技巧"
 
 msgid "wiki_0078_0001_name"
-msgstr ""
+msgstr "技能一览"
 
 msgid "wiki_0078_0002_name"
-msgstr ""
+msgstr "卡片一览"
