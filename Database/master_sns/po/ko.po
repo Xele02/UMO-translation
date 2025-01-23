@@ -3,243 +3,244 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-23 16:31+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
+"master_sns/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "sns_dsc_0001"
-msgstr ""
+msgstr "프레이아가 로그인했습니다"
 
 msgid "sns_dsc_0002"
-msgstr ""
+msgstr "기억의 시공에서 악곡 1개 해방"
 
 msgid "sns_dsc_0003"
-msgstr ""
+msgstr "기억의 시공에서 악곡 2개 해방"
 
 msgid "sns_dsc_0004"
-msgstr ""
+msgstr "기억의 시공에서 악곡 3개 해방"
 
 msgid "sns_dsc_0005"
-msgstr ""
+msgstr "기억의 시공에서 악곡 4개 해방"
 
 msgid "sns_dsc_0006"
-msgstr ""
+msgstr "기억의 시공에서 악곡 5개 해방"
 
 msgid "sns_dsc_0007"
-msgstr ""
+msgstr "기억의 시공에서 악곡 6개 해방"
 
 msgid "sns_dsc_0008"
-msgstr ""
+msgstr "기억의 시공에서 악곡 7개 해방"
 
 msgid "sns_dsc_0009"
-msgstr ""
+msgstr "기억의 시공에서 악곡 8개 해방"
 
 msgid "sns_dsc_0010"
-msgstr ""
+msgstr "기억의 시공에서 악곡 9개 해방"
 
 msgid "sns_dsc_0011"
-msgstr ""
+msgstr "기억의 시공에서 악곡 10개 해방"
 
 msgid "sns_dsc_0012"
-msgstr ""
+msgstr "기억의 시공에서 악곡 11개 해방"
 
 msgid "sns_dsc_0013"
-msgstr ""
+msgstr "기억의 시공에서 악곡 12개 해방"
 
 msgid "sns_dsc_0014"
-msgstr ""
+msgstr "기억의 시공에서 악곡 13개 해방"
 
 msgid "sns_dsc_0015"
-msgstr ""
+msgstr "기억의 시공에서 악곡 14개 해방"
 
 msgid "sns_dsc_0016"
-msgstr ""
+msgstr "기억의 시공에서 악곡 15개 해방"
 
 msgid "sns_dsc_0017"
-msgstr ""
+msgstr "기억의 시공에서 악곡 16개 해방"
 
 msgid "sns_dsc_0018"
-msgstr ""
+msgstr "기억의 시공에서 악곡 17개 해방"
 
 msgid "sns_dsc_0019"
-msgstr ""
+msgstr "기억의 시공에서 악곡 18개 해방"
 
 msgid "sns_dsc_0020"
-msgstr ""
+msgstr "기억의 시공에서 악곡 19개 해방"
 
 msgid "sns_dsc_0021"
-msgstr ""
+msgstr "기억의 시공에서 악곡 20개 해방"
 
 msgid "sns_dsc_0022"
-msgstr ""
+msgstr "기억의 시공에서 악곡 21개 해방"
 
 msgid "sns_dsc_0023"
-msgstr ""
+msgstr "기억의 시공에서 악곡 22개 해방"
 
 msgid "sns_dsc_0024"
-msgstr ""
+msgstr "기억의 시공에서 악곡 23개 해방"
 
 msgid "sns_dsc_0025"
-msgstr ""
+msgstr "기억의 시공에서 악곡 24개 해방"
 
 msgid "sns_dsc_0026"
-msgstr ""
+msgstr "기억의 시공에서 악곡 25개 해방"
 
 msgid "sns_dsc_0027"
-msgstr ""
+msgstr "기억의 시공에서 악곡 26개 해방"
 
 msgid "sns_dsc_0028"
-msgstr ""
+msgstr "기억의 시공에서 악곡 27개 해방"
 
 msgid "sns_dsc_0029"
-msgstr ""
+msgstr "기억의 시공에서 악곡 28개 해방"
 
 msgid "sns_dsc_0030"
-msgstr ""
+msgstr "기억의 시공에서 악곡 29개 해방"
 
 msgid "sns_dsc_0031"
-msgstr ""
+msgstr "기억의 시공에서 악곡 30개 해방"
 
 msgid "sns_dsc_0032"
-msgstr ""
+msgstr "기억의 시공에서 악곡 31개 해방"
 
 msgid "sns_dsc_0033"
-msgstr ""
+msgstr "기억의 시공에서 악곡 32개 해방"
 
 msgid "sns_dsc_0034"
-msgstr ""
+msgstr "기억의 시공에서 악곡 33개 해방"
 
 msgid "sns_dsc_0035"
-msgstr ""
+msgstr "기억의 시공에서 악곡 34개 해방"
 
 msgid "sns_dsc_0036"
-msgstr ""
+msgstr "기억의 시공에서 악곡 35개 해방"
 
 msgid "sns_dsc_0038"
-msgstr ""
+msgstr "기억의 시공에서 악곡 36개 해방"
 
 msgid "sns_dsc_0039"
-msgstr ""
+msgstr "기억의 시공에서 악곡 37개 해방"
 
 msgid "sns_dsc_0040"
-msgstr ""
+msgstr "기억의 시공에서 악곡 38개 해방"
 
 msgid "sns_dsc_0041"
-msgstr ""
+msgstr "기억의 시공에서 악곡 39개 해방"
 
 msgid "sns_dsc_0042"
-msgstr ""
+msgstr "기억의 시공에서 악곡 40개 해방"
 
 msgid "sns_dsc_0043"
-msgstr ""
+msgstr "기억의 시공에서 악곡 41개 해방"
 
 msgid "sns_dsc_0044"
-msgstr ""
+msgstr "기억의 시공에서 악곡 42개 해방"
 
 msgid "sns_dsc_0045"
-msgstr ""
+msgstr "기억의 시공에서 악곡 43개 해방"
 
 msgid "sns_dsc_0046"
-msgstr ""
+msgstr "기억의 시공에서 악곡 44개 해방"
 
 msgid "sns_dsc_0047"
-msgstr ""
+msgstr "기억의 시공에서 악곡 45개 해방"
 
 msgid "sns_dsc_0048"
-msgstr ""
+msgstr "기억의 시공에서 악곡 46개 해방"
 
 msgid "sns_dsc_0049"
-msgstr ""
+msgstr "기억의 시공에서 악곡 47개 해방"
 
 msgid "sns_dsc_0050"
-msgstr ""
+msgstr "기억의 시공에서 악곡 48개 해방"
 
 msgid "sns_dsc_0051"
-msgstr ""
+msgstr "기억의 시공에서 악곡 49개 해방"
 
 msgid "sns_dsc_0052"
-msgstr ""
+msgstr "기억의 시공에서 악곡 50개 해방"
 
 msgid "sns_dsc_0053"
-msgstr ""
+msgstr "기억의 시공에서 악곡 51개 해방"
 
 msgid "sns_dsc_0054"
-msgstr ""
+msgstr "기억의 시공에서 악곡 52개 해방"
 
 msgid "sns_dsc_0055"
-msgstr ""
+msgstr "기억의 시공에서 악곡 53개 해방"
 
 msgid "sns_dsc_0056"
-msgstr ""
+msgstr "기억의 시공에서 악곡 54개 해방"
 
 msgid "sns_dsc_0057"
-msgstr ""
+msgstr "기억의 시공에서 악곡 55개 해방"
 
 msgid "sns_dsc_0058"
-msgstr ""
+msgstr "기억의 시공에서 악곡 56개 해방"
 
 msgid "sns_dsc_0059"
-msgstr ""
+msgstr "기억의 시공에서 악곡 57개 해방"
 
 msgid "sns_dsc_0060"
-msgstr ""
+msgstr "기억의 시공에서 악곡 58개 해방"
 
 msgid "sns_dsc_0061"
-msgstr ""
+msgstr "기억의 시공에서 악곡 59개 해방"
 
 msgid "sns_dsc_0062"
-msgstr ""
+msgstr "기억의 시공에서 악곡 60개 해방"
 
 msgid "sns_dsc_0063"
-msgstr ""
+msgstr "기억의 시공에서 악곡 61개 해방"
 
 msgid "sns_dsc_0064"
-msgstr ""
+msgstr "기억의 시공에서 악곡 62개 해방"
 
 msgid "sns_dsc_0065"
-msgstr ""
+msgstr "기억의 시공에서 악곡 63개 해방"
 
 msgid "sns_dsc_0066"
-msgstr ""
+msgstr "기억의 시공에서 악곡 64개 해방"
 
 msgid "sns_dsc_0067"
-msgstr ""
+msgstr "기억의 시공에서 악곡 65개 해방"
 
 msgid "sns_dsc_0068"
-msgstr ""
+msgstr "기억의 시공에서 악곡 66개 해방"
 
 msgid "sns_dsc_0069"
-msgstr ""
+msgstr "기억의 시공에서 악곡 67개 해방"
 
 msgid "sns_dsc_0070"
-msgstr ""
+msgstr "기억의 시공에서 악곡 68개 해방"
 
 msgid "sns_dsc_0071"
-msgstr ""
+msgstr "기억의 시공에서 악곡 69개 해방"
 
 msgid "sns_dsc_0072"
-msgstr ""
+msgstr "기억의 시공에서 악곡 70개 해방"
 
 msgid "sns_dsc_0073"
-msgstr ""
+msgstr "기억의 시공에서 악곡 71개 해방"
 
 msgid "sns_dsc_0074"
-msgstr ""
+msgstr "기억의 시공에서 악곡 72개 해방"
 
 msgid "sns_dsc_0075"
-msgstr ""
+msgstr "기억의 시공에서 악곡 73개 해방"
 
 msgid "sns_dsc_0076"
-msgstr ""
+msgstr "기억의 시공에서 악곡 74개 해방"
 
 msgid "sns_dsc_0077"
-msgstr ""
+msgstr "기억의 시공에서 악곡 75개 해방"
 
 msgid "sns_dsc_0078"
 msgstr ""
