@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-23 09:31+0000\n"
+"PO-Revision-Date: 2025-01-23 16:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1197,52 +1197,52 @@ msgid "StringLiteral_14355"
 msgstr "오늘은 표시하지 않음"
 
 msgid "StringLiteral_14401"
-msgstr ""
+msgstr "+버튼"
 
 msgid "StringLiteral_14529"
-msgstr ""
+msgstr "ーーー"
 
 msgid "StringLiteral_14769"
-msgstr ""
+msgstr "{0} 님"
 
 msgid "StringLiteral_14832"
 msgstr ""
 
 msgid "StringLiteral_14844"
-msgstr ""
+msgstr "★[０-９]"
 
 msgid "StringLiteral_14845"
-msgstr ""
+msgstr "[０-９]"
 
 msgid "StringLiteral_15053"
-msgstr ""
+msgstr "에피소드 \""
 
 msgid "StringLiteral_15054"
-msgstr ""
+msgstr "\""
 
 msgid "StringLiteral_15055"
-msgstr ""
+msgstr " 전용 의상"
 
 msgid "StringLiteral_15265"
-msgstr ""
+msgstr "소지："
 
 msgid "StringLiteral_15475"
-msgstr ""
+msgstr "홈으로 돌아가기"
 
 msgid "StringLiteral_15476"
-msgstr ""
+msgstr "방문 리스트"
 
 msgid "StringLiteral_15477"
-msgstr ""
+msgstr "일괄 회수"
 
 msgid "StringLiteral_15478"
-msgstr ""
+msgstr "거점 이름 변경"
 
 msgid "StringLiteral_15479"
-msgstr ""
+msgstr "<color=red>** 데코 포인트 교환소를 찾을 수 없음 **</color>"
 
 msgid "StringLiteral_15480"
-msgstr ""
+msgstr "교환소"
 
 msgid "StringLiteral_15497"
 msgstr "에너지 충전기"
@@ -1290,40 +1290,43 @@ msgid "StringLiteral_15778"
 msgstr "추가 보상"
 
 msgid "StringLiteral_15794"
-msgstr ""
+msgstr "앞으로 {0} {1}"
 
 msgid "StringLiteral_15830"
-msgstr ""
+msgstr "한 번에 사용할 수 있는 아이템은"
 
 msgid "StringLiteral_15831"
-msgstr ""
+msgstr "개까지입니다."
 
 msgid "StringLiteral_16059"
-msgstr ""
+msgstr "최종 로그인:"
 
 msgid "StringLiteral_16060"
-msgstr ""
+msgstr "신청:"
 
 msgid "StringLiteral_16095"
-msgstr ""
+msgstr "타인의 데코룸: 친구 목록을 통해"
 
 msgid "StringLiteral_16155"
-msgstr ""
+msgstr "의상 목록 클릭 : {0} : {1}"
 
 msgid "StringLiteral_16162"
 msgstr ""
+"【해방 조건】\n"
+"\n"
+"플레이어 랭크 8 달성"
 
 msgid "StringLiteral_16170"
-msgstr ""
+msgstr "선물 목록 클릭 : {0} : {1}"
 
 msgid "StringLiteral_16338"
-msgstr ""
+msgstr "유저 리스트 실패"
 
 msgid "StringLiteral_16339"
-msgstr ""
+msgstr "유저 친구 리스트 성공 "
 
 msgid "StringLiteral_16417"
-msgstr ""
+msgstr "최초 어드벤처"
 
 msgid "StringLiteral_16418"
 msgstr ""
