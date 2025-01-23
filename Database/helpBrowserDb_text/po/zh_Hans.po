@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2024-12-18 02:28+0000\n"
+"PO-Revision-Date: 2025-01-23 07:51+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -66,7 +66,7 @@ msgid "category_0055_name"
 msgstr "演出"
 
 msgid "help_0000_0000_name"
-msgstr "关于演出"
+msgstr "演出玩法"
 
 msgid "help_0000_0001_name"
 msgstr "演出基本操作"
@@ -186,214 +186,214 @@ msgid "wiki_0002_0000_name"
 msgstr "歌曲解锁条件"
 
 msgid "help_0003_0000_name"
-msgstr ""
+msgstr "各种任务"
 
 msgid "help_0004_0000_name"
-msgstr ""
+msgstr "回忆片段"
 
 msgid "help_0004_0001_name"
-msgstr ""
+msgstr "解放回忆片段"
 
 msgid "wiki_0004_0000_name"
-msgstr ""
+msgstr "回忆片段一览"
 
 msgid "help_0005_0000_name"
-msgstr ""
+msgstr "能力解放"
 
 msgid "help_0005_0001_name"
-msgstr ""
+msgstr "秘密板块"
 
 msgid "help_0005_0002_name"
-msgstr ""
+msgstr "提升卡片稀有度"
 
 msgid "help_0005_0003_name"
-msgstr ""
+msgstr "稀有提升星盘"
 
 msgid "help_0005_0004_name"
-msgstr ""
+msgstr "幸运草"
 
 msgid "help_0005_0005_name"
-msgstr ""
+msgstr "幸运草加成"
 
 msgid "help_0005_0006_name"
-msgstr ""
+msgstr "一键解放能力"
 
 msgid "wiki_0005_0000_name"
-msgstr ""
+msgstr "回忆卡片"
 
 msgid "help_0006_0000_name"
-msgstr ""
+msgstr "熟练度"
 
 msgid "help_0006_0001_name"
-msgstr ""
+msgstr "服装"
 
 msgid "help_0006_0002_name"
-msgstr ""
+msgstr "亲密度"
 
 msgid "help_0006_0003_name"
-msgstr ""
+msgstr "礼物"
 
 msgid "help_0006_0004_name"
-msgstr ""
+msgstr "强化服装"
 
 msgid "help_0006_0005_name"
-msgstr ""
+msgstr "异色服装"
 
 msgid "help_0006_0006_name"
-msgstr ""
+msgstr "强化战机"
 
 msgid "wiki_0006_0000_name"
-msgstr ""
+msgstr "如何快速提升歌姬等级"
 
 msgid "wiki_0006_0001_name"
-msgstr ""
+msgstr "服装一览"
 
 msgid "help_0007_0000_name"
-msgstr ""
+msgstr "熟练度"
 
 msgid "help_0007_0001_name"
-msgstr ""
+msgstr "服装"
 
 msgid "help_0007_0002_name"
-msgstr ""
+msgstr "亲密度"
 
 msgid "help_0007_0003_name"
-msgstr ""
+msgstr "礼物"
 
 msgid "help_0007_0004_name"
-msgstr ""
+msgstr "强化服装"
 
 msgid "help_0007_0005_name"
-msgstr ""
+msgstr "异色服装"
 
 msgid "help_0007_0006_name"
-msgstr ""
+msgstr "强化战机"
 
 msgid "wiki_0007_0000_name"
-msgstr ""
+msgstr "如何快速提升歌姬等级"
 
 msgid "wiki_0007_0001_name"
-msgstr ""
+msgstr "服装一览"
 
 msgid "help_0008_0000_name"
-msgstr ""
+msgstr "礼物箱"
 
 msgid "help_0008_0001_name"
-msgstr ""
+msgstr "好友"
 
 msgid "help_0008_0002_name"
-msgstr ""
+msgstr "玩家等级"
 
 msgid "help_0008_0003_name"
-msgstr ""
+msgstr "超时空SNS"
 
 msgid "help_0008_0004_name"
-msgstr ""
+msgstr "大厅歌姬服装选择"
 
 msgid "help_0008_0005_name"
-msgstr ""
+msgstr "更换大厅背景"
 
 msgid "wiki_0008_0000_name"
-msgstr ""
+msgstr "如何添加好友"
 
 msgid "wiki_0008_0001_name"
-msgstr ""
+msgstr "如何提升玩家等级"
 
 msgid "wiki_0008_0002_name"
-msgstr ""
+msgstr "超时空SNS解锁条件"
 
 msgid "wiki_0008_0003_name"
-msgstr ""
+msgstr "服装一览"
 
 msgid "help_0009_0000_name"
-msgstr ""
+msgstr "战机派遣任务"
 
 msgid "help_0009_0001_name"
-msgstr ""
+msgstr "解锁战机派遣任务"
 
 msgid "help_0009_0002_name"
-msgstr ""
+msgstr "歌姬派遣任务"
 
 msgid "help_0010_0000_name"
-msgstr ""
+msgstr "抽卡"
 
 msgid "help_0010_0001_name"
-msgstr ""
+msgstr "福利卡池"
 
 msgid "wiki_0010_0000_name"
-msgstr ""
+msgstr "最新卡池消息"
 
 msgid "help_0012_0000_name"
-msgstr ""
+msgstr "个人资料"
 
 msgid "help_0012_0001_name"
-msgstr ""
+msgstr "凯厄斯商店"
 
 msgid "help_0012_0002_name"
-msgstr ""
+msgstr "碎片素材"
 
 msgid "help_0012_0003_name"
-msgstr ""
+msgstr "四季泪晶"
 
 msgid "help_0012_0004_name"
-msgstr ""
+msgstr "通知推送设置"
 
 msgid "help_0012_0005_name"
-msgstr ""
+msgstr "歌姬排名"
 
 msgid "wiki_0012_0000_name"
-msgstr ""
+msgstr "新手指引"
 
 msgid "wiki_0012_0001_name"
-msgstr ""
+msgstr "账号继承"
 
 msgid "wiki_0012_0002_name"
-msgstr ""
+msgstr "公告栏"
 
 msgid "help_0013_0000_name"
-msgstr ""
+msgstr "房间模式"
 
 msgid "help_0013_0001_name"
-msgstr ""
+msgstr "Extra物品"
 
 msgid "help_0013_0002_name"
-msgstr ""
+msgstr "角色放置"
 
 msgid "help_0013_0003_name"
-msgstr ""
+msgstr "玩家黑名单"
 
 msgid "help_0014_0000_name"
-msgstr ""
+msgstr "总力LIVE事前准备"
 
 msgid "help_0014_0001_name"
-msgstr ""
+msgstr "战队大厅"
 
 msgid "help_0014_0002_name"
-msgstr ""
+msgstr "表情功能"
 
 msgid "help_0014_0003_name"
-msgstr ""
+msgstr "笔记功能"
 
 msgid "help_0014_0004_name"
-msgstr ""
+msgstr "更换聊天头像"
 
 msgid "help_0015_0000_name"
-msgstr ""
+msgstr "总力LIVE事前准备"
 
 msgid "help_0015_0001_name"
-msgstr ""
+msgstr "战队大厅"
 
 msgid "help_0015_0002_name"
-msgstr ""
+msgstr "表情功能"
 
 msgid "help_0015_0003_name"
-msgstr ""
+msgstr "笔记功能"
 
 msgid "help_0015_0004_name"
-msgstr ""
+msgstr "更换聊天头像"
 
 msgid "help_0016_0000_name"
-msgstr ""
+msgstr "演出玩法"
 
 msgid "help_0016_0001_name"
 msgstr ""
