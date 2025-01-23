@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
+"master_scene/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "sn_0001"
 msgstr ""
@@ -152,61 +153,61 @@ msgid "sn_0046"
 msgstr ""
 
 msgid "sn_0047"
-msgstr ""
+msgstr "민메이의 방"
 
 msgid "sn_0048"
-msgstr ""
+msgstr "글로벌 함장의 모자"
 
 msgid "sn_0049"
-msgstr ""
+msgstr "잠입 수사"
 
 msgid "sn_0050"
-msgstr ""
+msgstr "네가 보고 있는 나는 진짜일까?"
 
 msgid "sn_0051"
-msgstr ""
+msgstr "프레이어 고양이 얼굴"
 
 msgid "sn_0052"
-msgstr ""
+msgstr "마키나 고양이"
 
 msgid "sn_0053"
-msgstr ""
+msgstr "미식가 프레이아"
 
 msgid "sn_0054"
-msgstr ""
+msgstr "단독 행동 퀸"
 
 msgid "sn_0055"
-msgstr ""
+msgstr "고양이 귀 멧서"
 
 msgid "sn_0056"
-msgstr ""
+msgstr "레이레이 캬와와♪"
 
 msgid "sn_0057"
-msgstr ""
+msgstr "슬픈 색"
 
 msgid "sn_0058"
-msgstr ""
+msgstr "고양이 알레르기"
 
 msgid "sn_0059"
-msgstr ""
+msgstr "칼라일의 검은 폭풍"
 
 msgid "sn_0060"
-msgstr ""
+msgstr "섞지 마 위험"
 
 msgid "sn_0061"
-msgstr ""
+msgstr "열리지 않는 문은 없어"
 
 msgid "sn_0062"
-msgstr ""
+msgstr "노래는 사랑"
 
 msgid "sn_0063"
-msgstr ""
+msgstr "「S」「O」「S」 ―레이나―"
 
 msgid "sn_0064"
-msgstr ""
+msgstr "혼자가 아니야!"
 
 msgid "sn_0065"
-msgstr ""
+msgstr "레이나의 도장"
 
 msgid "sn_0066"
 msgstr ""
@@ -233,13 +234,13 @@ msgid "sn_0073"
 msgstr ""
 
 msgid "sn_0074"
-msgstr ""
+msgstr "노래는 희망"
 
 msgid "sn_0075"
-msgstr ""
+msgstr "「S」「O」「S」 ―마키나―"
 
 msgid "sn_0076"
-msgstr ""
+msgstr "여기는 마키마키~♪"
 
 msgid "sn_0077"
 msgstr ""
