@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-22 23:31+0000\n"
+"PO-Revision-Date: 2025-01-23 05:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1179,22 +1179,22 @@ msgid "StringLiteral_13975"
 msgstr ""
 
 msgid "StringLiteral_13976"
-msgstr ""
+msgstr ", EX 스코어 효과 ="
 
 msgid "StringLiteral_13977"
-msgstr ""
+msgstr ", CL 스킬 ="
 
 msgid "StringLiteral_14007"
-msgstr ""
+msgstr "×{0}"
 
 msgid "StringLiteral_14024"
-msgstr ""
+msgstr "\n"
 
 msgid "StringLiteral_14032"
-msgstr ""
+msgstr "애니메이션 테이블 수 이상의 키 프레임 번호가 지정되었습니다."
 
 msgid "StringLiteral_14355"
-msgstr ""
+msgstr "오늘은 표시하지 않음"
 
 msgid "StringLiteral_14401"
 msgstr ""
