@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-22 23:31+0000\n"
+"PO-Revision-Date: 2025-01-23 05:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -1404,16 +1404,16 @@ msgid "music_event_end_week"
 msgstr ""
 
 msgid "music_event_end_score_rank"
-msgstr ""
+msgstr "집계 중"
 
 msgid "music_event_end_attain"
-msgstr ""
+msgstr "집계 중"
 
 msgid "music_event_end_attain_banner"
-msgstr ""
+msgstr "집계 중"
 
 msgid "music_event_end_attain_popup"
-msgstr ""
+msgstr "집계 중"
 
 msgid "music_event_period"
 msgstr ""
@@ -1452,13 +1452,13 @@ msgid "music_event_collect_rank_label"
 msgstr ""
 
 msgid "music_event_collect_rank_counting_label"
-msgstr ""
+msgstr "최종 순위"
 
 msgid "music_event_collect_rank_unit"
 msgstr ""
 
 msgid "music_event_collect_rank_counting"
-msgstr ""
+msgstr "집계 중"
 
 msgid "music_event_collect_reward_label"
 msgstr ""
@@ -1491,7 +1491,7 @@ msgid "music_event_battle_bp_counting_label"
 msgstr ""
 
 msgid "music_event_battle_rank_counting"
-msgstr ""
+msgstr "집계 중"
 
 msgid "music_event_battle_reward_label"
 msgstr ""
@@ -1730,16 +1730,16 @@ msgid "popup_home_ngword_rename_msg"
 msgstr ""
 
 msgid "home_pickup_checkbox"
-msgstr ""
+msgstr "오늘은 표시하지 않음"
 
 msgid "home_event_end_attain"
-msgstr ""
+msgstr "집계 중"
 
 msgid "home_event_epilogue"
 msgstr ""
 
 msgid "home_banner_event_end_attain"
-msgstr ""
+msgstr "집계 중"
 
 msgid "popup_scene_autocombine_title"
 msgstr ""
@@ -1796,7 +1796,7 @@ msgid "popup_myid_copy_title"
 msgstr "복사 완료"
 
 msgid "popup_myid_copy_msg"
-msgstr ""
+msgstr "플레이어 ID를 복사했습니다."
 
 msgid "popup_title_degree_01"
 msgstr ""
@@ -1852,40 +1852,53 @@ msgid "popup_title_profil_14"
 msgstr ""
 
 msgid "popup_title_profil_15"
-msgstr ""
+msgstr "플레이어 ID를 복사했습니다."
 
 msgid "popup_title_playernameentry"
-msgstr ""
+msgstr "플레이어 이름 입력"
 
 msgid "popup_text_playernameentry_desc"
 msgstr ""
+"플레이어 이름을 입력하세요.\n"
+"( {0}자까지)"
 
 msgid "popup_text_playernameentry_notes"
-msgstr ""
+msgstr "<color={0}>※플레이어 이름은 나중에 변경할 수 있습니다.</color>"
 
 msgid "popup_text_playernameconfirm"
 msgstr ""
+"{0}\n"
+"로 하시겠습니까?\n"
+"<color={1}>※플레이어 이름은 나중에 변경할 수 있습니다.</color>"
 
 msgid "popup_text_notchangedplayername"
-msgstr ""
+msgstr "플레이어 이름이 변경되지 않았습니다."
 
 msgid "popup_text_notchangedcomment"
-msgstr ""
+msgstr "소개글이 변경되지 않았습니다."
 
 msgid "popup_title_stamina_01"
 msgstr "에너지 회복"
 
 msgid "popup_text_stamina_01"
 msgstr ""
+"가정석 {0}개를 소모하여\n"
+"에너지를 {1} 회복합니다.\n"
+"\n"
+"<color=#C8087E>가정석 {2}→{3}</color>"
 
 msgid "popup_text_stamina_02"
 msgstr ""
+"가정석 {0}개를 소모하여\n"
+"에너지를 {1} 회복합니다.\n"
+"\n"
+"<color=#C8087E>가정석이 부족합니다.</color>"
 
 msgid "popup_text_stamina_03"
-msgstr ""
+msgstr "에너지가 {0}(으)로 회복되었습니다."
 
 msgid "popup_text_stamina_04"
-msgstr ""
+msgstr "더 이상 에너지를 회복할 수 없습니다."
 
 msgid "popup_text_stamina_05"
 msgstr ""
@@ -2071,9 +2084,12 @@ msgstr ""
 
 msgid "result_playlog_graph_detail"
 msgstr ""
+"상세 내용을 확인하고 싶은\n"
+"그래프 부분을\n"
+"탭하세요."
 
 msgid "popup_valkyrie_select_title"
-msgstr ""
+msgstr "변경 확인"
 
 msgid "popup_event_reward_result_pt_title"
 msgstr ""
@@ -2088,37 +2104,37 @@ msgid "popup_event_reward_ranking_type002"
 msgstr ""
 
 msgid "popup_event_reward_ranking_type003"
-msgstr ""
+msgstr "가희 스코어 랭킹"
 
 msgid "event_reward_result_present_box"
-msgstr ""
+msgstr "<color=#C8087E>가정석은 선물상자로 보내드립니다.</color>"
 
 msgid "event_reward_result_present_box2"
-msgstr ""
+msgstr "<color=#C8087E>보상은 선물상자로 보내드립니다.</color>"
 
 msgid "event_reward_result_total"
-msgstr ""
+msgstr "획득 보상 합계"
 
 msgid "event_reward_result_get_pt"
-msgstr ""
+msgstr "총 획득 포인트"
 
 msgid "event_reward_result_win"
-msgstr ""
+msgstr "WIN"
 
 msgid "event_reward_result_lose"
-msgstr ""
+msgstr "LOSE"
 
 msgid "event_reward_result_wincountbonus_unit"
-msgstr ""
+msgstr "{0}연승"
 
 msgid "event_reward_result_episodebonus_unit"
-msgstr ""
+msgstr "{0} 에피소드"
 
 msgid "event_reward_result_last_rank"
-msgstr ""
+msgstr "최종 순위"
 
 msgid "event_reward_result_dash_bonus"
-msgstr ""
+msgstr "소비 보너스 {0}배"
 
 msgid "popup_event_reward_check_pt_title"
 msgstr ""
@@ -3063,10 +3079,10 @@ msgid "event_result_episode"
 msgstr ""
 
 msgid "event_result_bonus"
-msgstr ""
+msgstr "소비 보너스 {0}배"
 
 msgid "event_hi_score"
-msgstr ""
+msgstr "이벤트 하이스코어"
 
 msgid "event_music_ranking"
 msgstr ""
@@ -3276,7 +3292,7 @@ msgid "event_sp_daily_adv_all_title"
 msgstr ""
 
 msgid "event_sp_end_attain"
-msgstr ""
+msgstr "집계 중"
 
 msgid "event_sp_epilogue"
 msgstr ""
@@ -3318,19 +3334,23 @@ msgid "offer_formation_name_notchangedcomment_popup"
 msgstr ""
 
 msgid "offer_chenge_popup_title"
-msgstr ""
+msgstr "변경 확인"
 
 msgid "offer_plantoon_chenge_popup_text_01"
-msgstr ""
+msgstr "소속 소대를 변경하시겠습니까?"
 
 msgid "offer_no_leader_popup_text"
 msgstr ""
+"리더기가 편성되지 않아\n"
+"소대를 결정할 수 없습니다."
 
 msgid "offer_Dissolution_popup_text"
-msgstr ""
+msgstr "소대를 해산하시겠습니까?"
 
 msgid "offer__cant_orders_popup_text"
 msgstr ""
+"현재 이 오퍼레이션은\n"
+"주문할 수 없습니다."
 
 msgid "offer_squadron_popup_title"
 msgstr ""
@@ -3487,57 +3507,62 @@ msgstr ""
 
 msgid "offer_select_operation_ended_pop_text"
 msgstr ""
+"현재 이 오퍼레이션은\n"
+"주문할 수 없습니다."
 
 msgid "offer_fast_done_limit_count_text"
-msgstr ""
+msgstr "오늘 {0}회 남음"
 
 msgid "offer_operation_badge_text"
-msgstr ""
+msgstr "{0}건 완료!"
 
 msgid "offer_notification_return_vfp_title"
-msgstr ""
+msgstr "오퍼레이션 완료"
 
 msgid "offer_notification_return_vfp_1"
-msgstr ""
+msgstr "레이나 \"소대Ⅰ 작전 완료. 확인 부탁해\""
 
 msgid "offer_notification_return_vfp_2"
-msgstr ""
+msgstr "레이나 \"소대Ⅱ가 돌아왔다... 좋은 느낌\""
 
 msgid "offer_notification_return_vfp_3"
-msgstr ""
+msgstr "레이나 \"소대Ⅲ가 돌아온다. 모두 무사\""
 
 msgid "offer_notification_return_vfp_4"
-msgstr ""
+msgstr "레이나 \"소대 IV, 귀환. 결과를 확인할 것\""
 
 msgid "offer_notification_return_vfp_5"
-msgstr ""
+msgstr "레이나 \"소대Ⅴ가 돌아온다. 반갑게 맞이하자\""
 
 msgid "offer_cannot_cancel_text"
 msgstr ""
+"오퍼레이션이 완료되었습니다.\n"
+"주문을 해제할 수 없습니다."
 
 msgid "item_use_caution_1"
-msgstr ""
+msgstr "사용기한이 지나면 이 아이템은 사라집니다."
 
 msgid "item_use_caution_2"
-msgstr ""
+msgstr "아이템을 여러 개 소지하고 있는 경우, 사용기한이 가장 빠른 아이템이 "
+"표시됩니다."
 
 msgid "item_use_period"
-msgstr ""
+msgstr "사용기한: {0}/{1}/{2} {3}:{4:D2}까지"
 
 msgid "item_use_period_title"
-msgstr ""
+msgstr "{0} 사용 기한"
 
 msgid "item_use_period_text_1"
-msgstr ""
+msgstr "사용 기한"
 
 msgid "item_use_period_text_2"
 msgstr ""
 
 msgid "item_use_period_date"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2}"
 
 msgid "rarityup_item_use_title"
-msgstr ""
+msgstr "레어리티 상승 확인"
 
 msgid "rarityup_item_use_desc_1"
 msgstr ""
@@ -5547,13 +5572,13 @@ msgid "godiva_even_tinfo_point_unit"
 msgstr ""
 
 msgid "godiva_even_tinfo_final_rank"
-msgstr ""
+msgstr "최종 순위"
 
 msgid "godiva_even_tinfo_rank_collecting"
-msgstr ""
+msgstr "집계 중"
 
 msgid "godiva_diva_select_not_have"
-msgstr ""
+msgstr "미참가"
 
 msgid "godiva_diva_select_explain"
 msgstr "가희를 선택해 주세요"
@@ -5613,10 +5638,10 @@ msgid "popup_comeback_mission_count"
 msgstr ""
 
 msgid "event_godiva_reward_check_hi_score"
-msgstr ""
+msgstr "이벤트 하이스코어"
 
 msgid "event_godiva_reward_check_ranking"
-msgstr ""
+msgstr "가희 스코어 랭킹"
 
 msgid "event_godiva_reward_check_ranking_unit"
 msgstr ""
