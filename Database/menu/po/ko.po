@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"PO-Revision-Date: 2025-01-23 09:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -651,121 +651,140 @@ msgid "growth_popup_text08"
 msgstr ""
 
 msgid "growth_popup_text09"
-msgstr ""
+msgstr "아이템과 UC가 부족합니다."
 
 msgid "growth_popup_text10"
 msgstr ""
+"레어리티가 상승했습니다.\n"
+"능력 보드가 확장되었습니다."
 
 msgid "growth_popup_text11"
-msgstr ""
+msgstr "시크릿 보드가 추가되었습니다."
 
 msgid "growth_popup_text12"
-msgstr ""
+msgstr "시크릿 보드가 확장되었습니다."
 
 msgid "growth_popup_text13"
 msgstr ""
+"현재 해방할 수 있는 특별 에피소드 해제 칸은 {0}회분입니다.\n"
+"몇 회 분량을 해방할 것인지 선택해 주세요."
 
 msgid "growth_popup_text14"
-msgstr ""
+msgstr "이 칸에서 한 번에 해제할 수 있는 에피소드 해방치는 {0}까지입니다."
 
 msgid "growth_popup_text15"
-msgstr ""
+msgstr "이 이상 해방하면 한 번에 방출할 수 있는 에피소드 값을 초과하게 됩니다."
 
 msgid "growth_popup_text16"
-msgstr ""
+msgstr "아이템이 부족하여 더 이상 해방할 수 없습니다."
 
 msgid "growth_popup_text17"
-msgstr ""
+msgstr "UC가 부족하여 더 이상 해방할 수 없습니다."
 
 msgid "growth_popup_text18"
-msgstr ""
+msgstr "아이템과 UC가 부족하여 더 이상 해방할 수 없습니다."
 
 msgid "growth_popup_text19"
 msgstr ""
+"{0}개의 능력을 해방합니다. 괜찮으시겠습니까?\n"
+"<color={1}>※이 에피소드의 전체 해제 보상은 이미 획득했습니다. </color>"
 
 msgid "growth_addreward_text"
-msgstr ""
+msgstr "추가 보상"
 
 msgid "story_unlock_01"
-msgstr ""
+msgstr "<size=25>【해방 조건】</size>"
 
 msgid "story_unlock_02"
-msgstr ""
+msgstr "<size=20>다음 조건 충족 시 해방.</size>"
 
 msgid "story_unlock_03"
-msgstr ""
+msgstr "<size=20>다음 조건 중 하나 충족 시 해방.</size>"
 
 msgid "story_unlock_04"
-msgstr ""
+msgstr "・플레이어 랭크 {0} 달성"
 
 msgid "story_unlock_05"
 msgstr ""
+"・라이브에서 다음 악곡을 {0} 이상으로 클리어\n"
+"　{1}"
 
 msgid "story_unlock_06"
 msgstr ""
+"・라이브에서 다음 악곡 {0}을(를)\n"
+"스코어 랭크 {1} 이상으로 클리어\n"
+"「{2}」"
 
 msgid "story_unlock_07"
-msgstr ""
+msgstr "・이전 영역을 먼저 클리어"
 
 msgid "story_unlock_08"
-msgstr ""
+msgstr "잠금 중"
 
 msgid "story_unlock_09"
-msgstr ""
+msgstr "먼저 한 개 앞의 영역을 해방해 주세요."
 
 msgid "story_unlock_10"
-msgstr ""
+msgstr "<size=20>다음 조건을 충족하면 참가할 수 있습니다.</size>"
 
 msgid "story_unlock_11"
-msgstr ""
+msgstr "<size=20>다음 중 한 가지를 충족하면 참가할 수 있습니다.</size>"
 
 msgid "music_not_exist_text_00"
 msgstr ""
+"이 카테고리에는 현재 플레이할 수 있는 악곡이 없습니다.\n"
+"<color=#C8087E>※기억의 시공에서 노래의 기억을 해방하면 악곡이 추가됩니다. "
+"</color>"
 
 msgid "music_not_exist_line6_text_00"
 msgstr ""
+"이 카테고리에는 현재 플레이할 수 있는 6레인용 악곡이 없습니다.\n"
+"<color=#C8087E>※6레인용 악곡이 해방되면 추가됩니다. </color>"
 
 msgid "reward_all_clear_text_00"
-msgstr ""
+msgstr "전체 달성 보상"
 
 msgid "unit_auto_popup_text_00"
-msgstr ""
+msgstr "센터 스킬을 변경하지 않고 자동 편성하기"
 
 msgid "unit_auto_popup_text_01"
-msgstr ""
+msgstr "가희와 상성이 일치하는 에피소드 플레이트를 우선시한다"
 
 msgid "unit_clearplate_confirm_text"
 msgstr ""
+"유닛 내와 유닛 외의 모든 가희가 장착 중인\n"
+"에피소드 플레이트를 모두 해제합니다.\n"
+"괜찮으십니까?"
 
 msgid "unit_save_text"
-msgstr ""
+msgstr "유닛을 보관했습니다."
 
 msgid "unit_load_text"
-msgstr ""
+msgstr "유닛을 불러왔습니다."
 
 msgid "header_desc_home000"
-msgstr ""
+msgstr "플레이할 항목을 선택해 주세요"
 
 msgid "header_desc_home001"
-msgstr ""
+msgstr "친구 목록입니다"
 
 msgid "header_desc_home002"
-msgstr ""
+msgstr "선물 목록입니다"
 
 msgid "header_desc_home003"
-msgstr ""
+msgstr "친구에 대해서 확인할 수 있습니다"
 
 msgid "header_desc_home004"
-msgstr ""
+msgstr "친구 신청 중 목록입니다"
 
 msgid "header_desc_home005"
-msgstr ""
+msgstr "친구 신청을 승낙해 주세요"
 
 msgid "header_desc_home006"
-msgstr ""
+msgstr "ID로 다른 플레이어를 검색할 수 있습니다"
 
 msgid "header_desc_home007"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_home008"
 msgstr ""
@@ -3565,10 +3584,10 @@ msgid "rarityup_item_use_title"
 msgstr "레어리티 상승 확인"
 
 msgid "rarityup_item_use_desc_1"
-msgstr ""
+msgstr "다음 아이템을 소비하여 플레이트 레어리티를 상승시킵니다."
 
 msgid "rarityup_item_use_desc_2"
-msgstr ""
+msgstr "레어리티 상승에 필요한 아이템이 부족합니다."
 
 msgid "rarityup_item_get_desc_1"
 msgstr ""
