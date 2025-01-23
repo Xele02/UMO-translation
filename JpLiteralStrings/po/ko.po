@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"PO-Revision-Date: 2025-01-23 09:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1245,49 +1245,49 @@ msgid "StringLiteral_15480"
 msgstr ""
 
 msgid "StringLiteral_15497"
-msgstr ""
+msgstr "에너지 충전기"
 
 msgid "StringLiteral_15509"
-msgstr ""
+msgstr "스탬프 목록"
 
 msgid "StringLiteral_15510"
-msgstr ""
+msgstr "스탬프 제작"
 
 msgid "StringLiteral_15524"
-msgstr ""
+msgstr "갱신"
 
 msgid "StringLiteral_15525"
-msgstr ""
+msgstr "제작"
 
 msgid "StringLiteral_15528"
-msgstr ""
+msgstr "선택"
 
 msgid "StringLiteral_15538"
-msgstr ""
+msgstr "저장"
 
 msgid "StringLiteral_15542"
-msgstr ""
+msgstr "이름 변경"
 
 msgid "StringLiteral_15546"
-msgstr ""
+msgstr "타인의 데코룸: 방문 목록을 통해"
 
 msgid "StringLiteral_15553"
-msgstr ""
+msgstr "내 데코룸으로 돌아가기"
 
 msgid "StringLiteral_15554"
-msgstr ""
+msgstr "방문 데코룸에서 로비로 돌아가기"
 
 msgid "StringLiteral_15651"
-msgstr ""
+msgstr "수동"
 
 msgid "StringLiteral_15697"
-msgstr ""
+msgstr "{0}　{1}{2}"
 
 msgid "StringLiteral_15750"
-msgstr ""
+msgstr "다음 보상까지 {0} {1}"
 
 msgid "StringLiteral_15778"
-msgstr ""
+msgstr "추가 보상"
 
 msgid "StringLiteral_15794"
 msgstr ""
