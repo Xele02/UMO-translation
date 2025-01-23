@@ -3,27 +3,28 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
+"snsdb_text/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "room_name_0001_txt"
-msgstr ""
+msgstr "SNS 연락방"
 
 msgid "room_name_0002_txt"
-msgstr ""
+msgstr "다함께 수다방"
 
 msgid "room_name_0003_txt"
-msgstr ""
+msgstr "축☆기념일 방"
 
 msgid "room_name_0004_txt"
-msgstr ""
+msgstr "프레이아의 방"
 
 msgid "room_name_0005_txt"
 msgstr ""
@@ -38,19 +39,19 @@ msgid "room_name_0008_txt"
 msgstr ""
 
 msgid "room_name_0009_txt"
-msgstr ""
+msgstr "란카의 방"
 
 msgid "room_name_0010_txt"
-msgstr ""
+msgstr "셰릴의 방"
 
 msgid "room_name_0011_txt"
-msgstr ""
+msgstr "밀레느의 방"
 
 msgid "room_name_0012_txt"
-msgstr ""
+msgstr "바사라의 방"
 
 msgid "room_name_0013_txt"
-msgstr ""
+msgstr "민메이의 방"
 
 msgid "room_name_0014_txt"
 msgstr ""
