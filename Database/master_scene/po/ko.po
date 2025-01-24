@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"PO-Revision-Date: 2025-01-24 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_scene/ko/>\n"
@@ -306,7 +306,7 @@ msgid "sn_0097"
 msgstr ""
 
 msgid "sn_0098"
-msgstr ""
+msgstr "사오토메 알토"
 
 msgid "sn_0099"
 msgstr ""
@@ -321,7 +321,7 @@ msgid "sn_0102"
 msgstr ""
 
 msgid "sn_0103"
-msgstr ""
+msgstr "셰릴 씨!!"
 
 msgid "sn_0104"
 msgstr ""
@@ -450,7 +450,7 @@ msgid "sn_0145"
 msgstr ""
 
 msgid "sn_0147"
-msgstr ""
+msgstr "넥키 바사라"
 
 msgid "sn_0148"
 msgstr ""
@@ -2793,7 +2793,7 @@ msgid "sn_1033"
 msgstr ""
 
 msgid "sn_1034"
-msgstr ""
+msgstr "밀레느 지너스"
 
 msgid "sn_1035"
 msgstr ""
@@ -2814,7 +2814,7 @@ msgid "sn_1046"
 msgstr ""
 
 msgid "sn_1047"
-msgstr ""
+msgstr "이치죠 히카루"
 
 msgid "sn_1048"
 msgstr ""
