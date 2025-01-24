@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-22 15:31+0000\n"
+"PO-Revision-Date: 2025-01-24 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "room_text/ko/>\n"
@@ -2867,7 +2867,7 @@ msgid "message_0942_txt"
 msgstr ""
 
 msgid "message_0943_txt"
-msgstr ""
+msgstr "하야테!"
 
 msgid "message_0944_txt"
 msgstr ""
@@ -9122,7 +9122,7 @@ msgid "message_3027_txt"
 msgstr ""
 
 msgid "message_3028_txt"
-msgstr ""
+msgstr "고마워요, 민메이 씨!"
 
 msgid "message_3029_txt"
 msgstr ""
@@ -9155,13 +9155,13 @@ msgid "message_3038_txt"
 msgstr ""
 
 msgid "message_3039_txt"
-msgstr ""
+msgstr "그건 그렇지만…"
 
 msgid "message_3040_txt"
 msgstr ""
 
 msgid "message_3041_txt"
-msgstr ""
+msgstr "...알았어, 민메이"
 
 msgid "message_3042_txt"
 msgstr ""
@@ -9191,7 +9191,7 @@ msgid "message_3050_txt"
 msgstr ""
 
 msgid "message_3051_txt"
-msgstr ""
+msgstr "레이레이가??"
 
 msgid "message_3052_txt"
 msgstr ""
@@ -9203,7 +9203,7 @@ msgid "message_3054_txt"
 msgstr ""
 
 msgid "message_3055_txt"
-msgstr ""
+msgstr "...승부??"
 
 msgid "message_3056_txt"
 msgstr ""
@@ -9224,7 +9224,7 @@ msgid "message_3061_txt"
 msgstr ""
 
 msgid "message_3062_txt"
-msgstr ""
+msgstr "레이나!"
 
 msgid "message_3063_txt"
 msgstr ""
@@ -9272,13 +9272,13 @@ msgid "message_3077_txt"
 msgstr ""
 
 msgid "message_3078_txt"
-msgstr ""
+msgstr "셰릴 씨!!"
 
 msgid "message_3079_txt"
 msgstr ""
 
 msgid "message_3080_txt"
-msgstr ""
+msgstr "마키나?"
 
 msgid "message_3081_txt"
 msgstr ""
