@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
 "PO-Revision-Date: 2025-01-25 14:32+0000\n"
-"Last-Translator: meimei <meiyou0815@gmail.com>\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
 "Language: ko\n"
@@ -39,10 +39,10 @@ msgid "e_nm_0008"
 msgstr ""
 
 msgid "e_nm_0009"
-msgstr ""
+msgstr "적009"
 
 msgid "e_nm_0010"
-msgstr ""
+msgstr "적009"
 
 msgid "e_nm_0011"
 msgstr "누자델 거"
@@ -126,7 +126,7 @@ msgid "e_nm_0037"
 msgstr ""
 
 msgid "e_nm_0038"
-msgstr ""
+msgstr "구바바"
 
 msgid "e_nm_0039"
 msgstr ""
@@ -141,7 +141,7 @@ msgid "e_nm_0042"
 msgstr "VF-171"
 
 msgid "e_nm_0043"
-msgstr ""
+msgstr "Sv-303"
 
 msgid "e_nm_0044"
 msgstr "누자델 거"
@@ -169,75 +169,84 @@ msgstr ""
 
 msgid "e_dsc_0006"
 msgstr ""
+"공중기사단의 에이스, 키스의 탑승기.\n"
+"역대 VF의 기체와는 다르게 진한 파란색에\n"
+"금색 라인이 들어간 컬러링으로 되어 있다."
 
 msgid "e_dsc_0007"
 msgstr ""
+"갤럭시 함대의 파일럿, 브레라의 탑승기.\n"
+"사이보그 병사 전용기이면서\n"
+"출력을 더욱 높일 수 있도록 조정되어 있다."
 
 msgid "e_dsc_0008"
 msgstr ""
 
 msgid "e_dsc_0009"
-msgstr ""
+msgstr "설명009"
 
 msgid "e_dsc_0010"
-msgstr ""
+msgstr "설명009"
 
 msgid "e_dsc_0011"
-msgstr ""
+msgstr "젠트라디 군이 운용하는 대형 파워슈트."
 
 msgid "e_dsc_0012"
 msgstr ""
 
 msgid "e_dsc_0013"
-msgstr ""
+msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0014"
 msgstr ""
 
 msgid "e_dsc_0015"
-msgstr ""
+msgstr "젠트라디 군이 운용하는 대형 파워슈트."
 
 msgid "e_dsc_0016"
 msgstr ""
 
 msgid "e_dsc_0017"
-msgstr ""
+msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0018"
 msgstr ""
+"공중기사단의 에이스, 키스의 탑승기.\n"
+"역대 VF의 기체와는 다르게 진한 파란색에\n"
+"금색 라인이 들어간 컬러링으로 되어 있다."
 
 msgid "e_dsc_0019"
-msgstr ""
+msgstr "젠트라디 군이 운용하는 대형 파워슈트."
 
 msgid "e_dsc_0020"
 msgstr ""
 
 msgid "e_dsc_0021"
-msgstr ""
+msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0022"
 msgstr ""
 
 msgid "e_dsc_0023"
-msgstr ""
+msgstr "젠트라디 군이 운용하는 대형 파워슈트."
 
 msgid "e_dsc_0024"
 msgstr ""
 
 msgid "e_dsc_0025"
-msgstr ""
+msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0026"
 msgstr ""
 
 msgid "e_dsc_0027"
-msgstr ""
+msgstr "젠트라디 군이 운용하는 대형 파워슈트."
 
 msgid "e_dsc_0028"
 msgstr ""
 
 msgid "e_dsc_0029"
-msgstr ""
+msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0030"
 msgstr ""
@@ -23154,25 +23163,25 @@ msgid "adv_nm_0380"
 msgstr ""
 
 msgid "adv_nm_0389"
-msgstr ""
+msgstr "에필로그"
 
 msgid "adv_nm_0390"
-msgstr ""
+msgstr "Finale"
 
 msgid "oda_nm_0001"
 msgstr ""
 
 msgid "oda_nm_0002"
-msgstr ""
+msgstr "파이어 스크램블"
 
 msgid "oda_nm_0003"
-msgstr ""
+msgstr "항구도시 발레타 시티 디펜스"
 
 msgid "oda_nm_0004"
-msgstr ""
+msgstr "행방불명된 아이 군"
 
 msgid "oda_nm_0005"
-msgstr ""
+msgstr "응원! 초시공 비너스"
 
 msgid "oda_nm_0006"
 msgstr ""
