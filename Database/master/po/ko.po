@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-24 01:31+0000\n"
+"PO-Revision-Date: 2025-01-24 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -15,25 +15,25 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "e_nm_0001"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0002"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0003"
 msgstr ""
 
 msgid "e_nm_0004"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0005"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0006"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "e_nm_0007"
-msgstr ""
+msgstr "VF-27γ"
 
 msgid "e_nm_0008"
 msgstr ""
@@ -45,73 +45,73 @@ msgid "e_nm_0010"
 msgstr ""
 
 msgid "e_nm_0011"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0012"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0013"
 msgstr ""
 
 msgid "e_nm_0014"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0015"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0016"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0017"
 msgstr ""
 
 msgid "e_nm_0018"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "e_nm_0019"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0020"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0021"
 msgstr ""
 
 msgid "e_nm_0022"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0023"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0024"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0025"
 msgstr ""
 
 msgid "e_nm_0026"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0027"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0028"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_nm_0029"
 msgstr ""
 
 msgid "e_nm_0030"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0031"
-msgstr ""
+msgstr "VF-31C"
 
 msgid "e_nm_0032"
-msgstr ""
+msgstr "고스트 X-9"
 
 msgid "e_nm_0033"
-msgstr ""
+msgstr "이사무 다이슨"
 
 msgid "e_nm_0034"
 msgstr ""
@@ -120,7 +120,7 @@ msgid "e_nm_0035"
 msgstr ""
 
 msgid "e_nm_0036"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0037"
 msgstr ""
@@ -135,22 +135,22 @@ msgid "e_nm_0040"
 msgstr ""
 
 msgid "e_nm_0041"
-msgstr ""
+msgstr "고스트 X-9"
 
 msgid "e_nm_0042"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0043"
 msgstr ""
 
 msgid "e_nm_0044"
-msgstr ""
+msgstr "누자델 거"
 
 msgid "e_nm_0045"
-msgstr ""
+msgstr "VF-171"
 
 msgid "e_nm_0046"
-msgstr ""
+msgstr "Fz-109A"
 
 msgid "e_dsc_0001"
 msgstr ""
@@ -3480,10 +3480,10 @@ msgid "diva_07"
 msgstr ""
 
 msgid "diva_08"
-msgstr ""
+msgstr "밀레느 지너스"
 
 msgid "diva_09"
-msgstr ""
+msgstr "넥키 바사라"
 
 msgid "diva_10"
 msgstr ""
@@ -7707,22 +7707,22 @@ msgid "cos_reward_0006"
 msgstr ""
 
 msgid "cos_reward_status_0001"
-msgstr ""
+msgstr "소울"
 
 msgid "cos_reward_status_0002"
-msgstr ""
+msgstr "보이스"
 
 msgid "cos_reward_status_0003"
-msgstr ""
+msgstr "챰"
 
 msgid "cos_reward_status_0004"
-msgstr ""
+msgstr "라이프"
 
 msgid "cos_reward_status_0005"
-msgstr ""
+msgstr "서포트"
 
 msgid "cos_reward_status_0006"
-msgstr ""
+msgstr "폴드파"
 
 msgid "cos_subplate_attr_0001"
 msgstr "별 속성"
@@ -7752,34 +7752,34 @@ msgid "vn_0003"
 msgstr ""
 
 msgid "vn_0004"
-msgstr ""
+msgstr "VF-1J"
 
 msgid "vn_0005"
-msgstr ""
+msgstr "VF-31E"
 
 msgid "vn_0006"
-msgstr ""
+msgstr "VF-1S"
 
 msgid "vn_0007"
-msgstr ""
+msgstr "VF-1J"
 
 msgid "vn_0008"
-msgstr ""
+msgstr "VF-31F"
 
 msgid "vn_0009"
-msgstr ""
+msgstr "VF-31C"
 
 msgid "vn_0011"
-msgstr ""
+msgstr "VF-27γ"
 
 msgid "vn_0012"
-msgstr ""
+msgstr "VF-31S"
 
 msgid "vn_0013"
-msgstr ""
+msgstr "YF-29"
 
 msgid "vn_0014"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "vn_0015"
 msgstr ""
@@ -7791,16 +7791,16 @@ msgid "vn_0018"
 msgstr ""
 
 msgid "vn_0019"
-msgstr ""
+msgstr "Sv-262Hs"
 
 msgid "vn_0020"
-msgstr ""
+msgstr "VF-25G"
 
 msgid "vn_0021"
-msgstr ""
+msgstr "VF-17D"
 
 msgid "vn_0022"
-msgstr ""
+msgstr "VF-1J"
 
 msgid "vn_0024"
 msgstr ""
@@ -20019,13 +20019,13 @@ msgid "ep_i_dsc_0003"
 msgstr ""
 
 msgid "plt_nm_0001"
-msgstr ""
+msgstr "이치죠 히카루"
 
 msgid "plt_nm_0002"
-msgstr ""
+msgstr "넥키 바사라"
 
 msgid "plt_nm_0003"
-msgstr ""
+msgstr "사오토메 알토"
 
 msgid "plt_nm_0004"
 msgstr ""
@@ -20052,7 +20052,7 @@ msgid "plt_nm_0011"
 msgstr ""
 
 msgid "plt_nm_0012"
-msgstr ""
+msgstr "밀레느 지너스"
 
 msgid "plt_nm_0013"
 msgstr ""
@@ -20061,7 +20061,7 @@ msgid "plt_nm_0014"
 msgstr ""
 
 msgid "plt_nm_0015"
-msgstr ""
+msgstr "사오토메 알토"
 
 msgid "plt_nm_0016"
 msgstr ""
@@ -20085,7 +20085,7 @@ msgid "plt_nm_0022"
 msgstr ""
 
 msgid "plt_nm_0023"
-msgstr ""
+msgstr "이사무 다이슨"
 
 msgid "plt_nm_0024"
 msgstr ""
@@ -20097,25 +20097,25 @@ msgid "plt_nm_0026"
 msgstr ""
 
 msgid "plt_nm_0027"
-msgstr ""
+msgstr "이치죠 히카루"
 
 msgid "plt_nm_0028"
-msgstr ""
+msgstr "이사무 다이슨"
 
 msgid "plt_nm_0029"
-msgstr ""
+msgstr "이치죠 히카루"
 
 msgid "plt_nm_0030"
 msgstr ""
 
 msgid "plt_nm_0031"
-msgstr ""
+msgstr "사오토메 알토"
 
 msgid "plt_nm_0032"
 msgstr ""
 
 msgid "plt_nm_0033"
-msgstr ""
+msgstr "넥키 바사라"
 
 msgid "plt_nm_0034"
 msgstr ""
@@ -28140,10 +28140,10 @@ msgid "dc_itm_nm_0007_chr"
 msgstr ""
 
 msgid "dc_itm_nm_0008_chr"
-msgstr ""
+msgstr "밀레느 지너스"
 
 msgid "dc_itm_nm_0009_chr"
-msgstr ""
+msgstr "넥키 바사라"
 
 msgid "dc_itm_nm_0010_chr"
 msgstr ""
