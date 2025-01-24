@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-24 01:31+0000\n"
+"PO-Revision-Date: 2025-01-24 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "common/ko/>\n"
@@ -586,37 +586,50 @@ msgid "popup_apple_cancel"
 msgstr ""
 
 msgid "popup_window_inh_title"
-msgstr ""
+msgstr "데이터 인계"
 
 msgid "unlock_episode_reward"
 msgstr ""
 
 msgid "popup_support_title"
-msgstr ""
+msgstr "서포트"
 
 msgid "popup_maintenance_title"
-msgstr ""
+msgstr "점검"
 
 msgid "popup_ban_title"
 msgstr ""
 
 msgid "popup_app_update_title"
-msgstr ""
+msgstr "앱 업데이트"
 
 msgid "popup_app_update_an"
 msgstr ""
+"새로운 앱 버전이 있습니다.\n"
+"Google Play 스토어에서\n"
+"업데이트를 진행해주세요.\n"
+"업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
 
 msgid "popup_app_update_ios"
 msgstr ""
+"새로운 앱 버전이 있습니다.\n"
+"App Store에서\n"
+"업데이트를 진행해주세요.\n"
+"업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
 
 msgid "cache_clear_00"
 msgstr ""
+"게임 데이터를 삭제하고 데이터 복구를 수행합니다.\n"
+"게임이 잘 실행되지 않는 경우 등에 시도해 보세요.\n"
+"데이터 복구를 하시겠습니까?\n"
+"\n"
+"<color=#c8087e>※플레이 데이터는 삭제되지 않습니다.</color>"
 
 msgid "cache_clear_01"
-msgstr ""
+msgstr "데이터 복구가 완료되었습니다."
 
 msgid "cache_clear_02"
-msgstr ""
+msgstr "데이터 복구"
 
 msgid "cache_clear_03"
 msgstr ""
@@ -1173,19 +1186,21 @@ msgid "popup_account_management_text001"
 msgstr ""
 
 msgid "popup_account_management_text002"
-msgstr ""
+msgstr "데이터 인계"
 
 msgid "popup_account_management_text003"
-msgstr ""
+msgstr "플레이 데이터 인계 준비를 합니다."
 
 msgid "popup_account_management_text004"
 msgstr ""
+"단말기 분실 등 불의의 사태가 발생했을 때\n"
+"플레이 데이터가 인계될 수 있도록 준비합니다."
 
 msgid "popup_account_management_text005"
-msgstr ""
+msgstr "인계 준비"
 
 msgid "popup_account_management_text006"
-msgstr ""
+msgstr "계정 삭제"
 
 msgid "popup_account_management_text007"
 msgstr ""
@@ -1194,13 +1209,13 @@ msgid "popup_account_management_text008"
 msgstr ""
 
 msgid "popup_account_management_text009"
-msgstr ""
+msgstr "계정 삭제"
 
 msgid "popup_account_management_text010"
 msgstr ""
 
 msgid "popup_account_management_text011"
-msgstr ""
+msgstr "계정 삭제"
 
 msgid "popup_account_management_text012"
 msgstr ""
@@ -1209,10 +1224,10 @@ msgid "popup_account_management_text013"
 msgstr ""
 
 msgid "popup_account_management_text014"
-msgstr ""
+msgstr "취소"
 
 msgid "popup_account_management_text015"
-msgstr ""
+msgstr "계정 삭제"
 
 msgid "popup_account_management_text016"
 msgstr ""
@@ -1221,10 +1236,10 @@ msgid "popup_account_management_text017"
 msgstr ""
 
 msgid "popup_account_management_text018"
-msgstr ""
+msgstr "취소"
 
 msgid "popup_account_management_text019"
-msgstr ""
+msgstr "OK"
 
 msgid "popup_account_linkaging_text_none"
 msgstr ""
@@ -1245,10 +1260,13 @@ msgid "popup_account_linkaging_text_separator"
 msgstr ""
 
 msgid "popup_account_remove_title"
-msgstr ""
+msgstr "계정 삭제"
 
 msgid "popup_account_remove_text001"
 msgstr ""
+"계정 삭제를 실행합니다.\n"
+"처리가 완료될 때까지\n"
+"우타 마크로스를 종료하지 마십시오."
 
 msgid "popup_account_remove_text002"
 msgstr ""
