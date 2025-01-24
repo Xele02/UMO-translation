@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-24 07:31+0000\n"
+"PO-Revision-Date: 2025-01-24 12:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1529,178 +1529,187 @@ msgid "UMO_login_6541_prize1_msg"
 msgstr "스타트 대시 로그인 보너스입니다."
 
 msgid "UMO_achievements_normal_quest"
-msgstr ""
+msgstr "노멀 미션 달성 보상입니다."
 
 msgid "UMO_achievements_daily_quest"
-msgstr ""
+msgstr "데일리 퀘스트 리워드"
 
 msgid "UMO_achievements_episode"
-msgstr ""
+msgstr "에피소드 해방 보상입니다."
 
 msgid "UMO_achievements_debut_quest"
-msgstr ""
+msgstr "데일리 미션 달성 보상입니다."
 
 msgid "UMO_achievements_new_offer"
-msgstr ""
+msgstr "발키리 오퍼레이션 최초 달성 보상입니다."
 
 msgid "UMO_achievements_costume"
-msgstr ""
+msgstr "의상 강화 캬와와 랭크업 보상입니다."
 
 msgid "UMO_achievements_freemusic"
-msgstr ""
+msgstr "Reward from free music"
 
 msgid "UMO_currency_1001_desc"
-msgstr ""
+msgstr "게임 내에서 구입할 수 있는 가상 통화"
 
 msgid "UMO_currency_2002_name"
-msgstr ""
+msgstr "★5 확정 가챠 티켓 A"
 
 msgid "UMO_currency_2002_desc"
-msgstr ""
+msgstr "★5 확정 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2003_name"
 msgstr "★5 확정 가챠 티켓 B"
 
 msgid "UMO_currency_2003_desc"
-msgstr ""
+msgstr "★5 확정 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2004_name"
-msgstr ""
+msgstr "★5 확정 가챠 티켓 C"
 
+#, fuzzy
 msgid "UMO_currency_2004_desc"
-msgstr ""
+msgstr "★5 확정 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2008_name"
-msgstr ""
+msgstr "★5 확정 로그인 보너스 가챠 티켓　5월"
 
 msgid "UMO_currency_2008_desc"
-msgstr ""
+msgstr "로그인 보너스 용 ★5 확정 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2009_name"
-msgstr ""
+msgstr "★5 확정 로그인 보너스 가챠 티켓　6월"
 
 msgid "UMO_currency_2009_desc"
-msgstr ""
+msgstr "로그인 보너스 용 ★5 확정 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2010_name"
-msgstr ""
+msgstr "★5 확정 로그인 보너스 가챠 티켓　7월"
 
 msgid "UMO_currency_2010_desc"
-msgstr ""
+msgstr "로그인 보너스 용 ★5 확정 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2101_name"
-msgstr ""
+msgstr "데카르 가챠 티켓"
 
 msgid "UMO_currency_2101_desc"
-msgstr ""
+msgstr "데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2201_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (수집 A)"
 
 msgid "UMO_currency_2201_desc"
-msgstr ""
+msgstr "수집 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2202_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (수집 B)"
 
 msgid "UMO_currency_2202_desc"
-msgstr ""
+msgstr "수집 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2203_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (수집 C)"
 
+#, fuzzy
 msgid "UMO_currency_2203_desc"
-msgstr ""
+msgstr "수집 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2204_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (미션 A)"
 
 msgid "UMO_currency_2204_desc"
-msgstr ""
+msgstr "미션 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2205_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (미션 B)"
 
+#, fuzzy
 msgid "UMO_currency_2205_desc"
-msgstr ""
+msgstr "미션 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2206_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (미션 C)"
 
+#, fuzzy
 msgid "UMO_currency_2206_desc"
-msgstr ""
+msgstr "미션 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2207_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (가희-배틀 A)"
 
 msgid "UMO_currency_2207_desc"
-msgstr ""
+msgstr "배틀 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2208_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (가희-배틀 B)"
 
+#, fuzzy
 msgid "UMO_currency_2208_desc"
-msgstr ""
+msgstr "배틀 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_2209_name"
-msgstr ""
+msgstr "이벤트 가챠 티켓 (가희-배틀 C)"
 
+#, fuzzy
 msgid "UMO_currency_2209_desc"
-msgstr ""
+msgstr "배틀 이벤트 보상용, 데카르 가챠를 뽑기 위한 티켓"
 
 msgid "UMO_currency_3001_name"
-msgstr ""
+msgstr "스프링 스피어"
 
 msgid "UMO_currency_3001_desc"
-msgstr ""
+msgstr "가정석 구입 덤 (3/1～5/31)"
 
 msgid "UMO_currency_3002_name"
-msgstr ""
+msgstr "섬머 스피어"
 
 msgid "UMO_currency_3002_desc"
-msgstr ""
+msgstr "가정석 구입 덤 (6/1～8/31)"
 
 msgid "UMO_currency_3003_name"
-msgstr ""
+msgstr "오텀 스피어"
 
 msgid "UMO_currency_3003_desc"
-msgstr ""
+msgstr "가정석 구입 덤 (9/1～11/30)"
 
 msgid "UMO_currency_3004_name"
-msgstr ""
+msgstr "윈터 스피어"
 
 msgid "UMO_currency_3004_desc"
-msgstr ""
+msgstr "가정석 구입 덤 (12/1～2/28)"
 
 msgid "UMO_currency_3005_name"
-msgstr ""
+msgstr "의상 해방 플레이트 교환권"
 
+#, fuzzy
 msgid "UMO_currency_3005_desc"
-msgstr ""
+msgstr "의상 해방 플레이트 교환권"
 
 msgid "UMO_currency_4001_name"
-msgstr ""
+msgstr "냥쿠지☆선택권"
 
 msgid "UMO_currency_4001_desc"
-msgstr ""
+msgstr "냥쿠지☆선택용"
 
 msgid "UMO_currency_4002_name"
-msgstr ""
+msgstr "냥쿠지☆선택권 B"
 
+#, fuzzy
 msgid "UMO_currency_4002_desc"
-msgstr ""
+msgstr "냥쿠지☆선택용"
 
 msgid "UMO_currency_4003_name"
-msgstr ""
+msgstr "냥쿠지☆선택권 C"
 
+#, fuzzy
 msgid "UMO_currency_4003_desc"
-msgstr ""
+msgstr "냥쿠지☆선택용"
 
 msgid "UMO_currency_4004_name"
-msgstr ""
+msgstr "냥쿠지☆선택권 D"
 
 msgid "UMO_currency_4004_desc"
-msgstr ""
+msgstr "냥쿠지☆선택용"
 
 msgid "UMO_currency_5001_name"
 msgstr ""
