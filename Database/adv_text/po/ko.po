@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-24 01:31+0000\n"
+"PO-Revision-Date: 2025-01-24 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/ko/>\n"
@@ -53,7 +53,7 @@ msgid "adv_000001_0013_msg"
 msgstr ""
 
 msgid "adv_000002_0002_msg"
-msgstr ""
+msgstr "프레이아, 하야테 군, 괜찮아?"
 
 msgid "adv_000002_0003_msg"
 msgstr ""
@@ -92,7 +92,7 @@ msgid "adv_000003_0003_msg"
 msgstr ""
 
 msgid "adv_000003_0004_msg"
-msgstr ""
+msgstr "맡겨줘, 하야테!"
 
 msgid "adv_000003_0005_msg"
 msgstr ""
@@ -131,7 +131,7 @@ msgid "adv_000004_0010_msg"
 msgstr ""
 
 msgid "adv_000004_0011_msg"
-msgstr ""
+msgstr "초시공...SNS?"
 
 msgid "adv_000004_0012_msg"
 msgstr ""
@@ -176,7 +176,7 @@ msgid "adv_000005_0007_msg"
 msgstr ""
 
 msgid "adv_000006_0002_msg"
-msgstr ""
+msgstr "이걸로 준비는 완료되었습니다"
 
 msgid "adv_000006_0003_msg"
 msgstr ""
@@ -203,19 +203,19 @@ msgid "adv_100101_0004_msg"
 msgstr ""
 
 msgid "adv_100101_0006_msg"
-msgstr ""
+msgstr "Its show time!"
 
 msgid "adv_100101_0007_msg"
 msgstr ""
 
 msgid "adv_100101_0009_msg"
-msgstr ""
+msgstr "초시공 비너스, 왈큐레!"
 
 msgid "adv_100101_0011_msg"
 msgstr ""
 
 msgid "adv_100101_0012_msg"
-msgstr ""
+msgstr "미, 미쿠모 씨!"
 
 msgid "adv_100101_0013_msg"
 msgstr ""
@@ -236,7 +236,7 @@ msgid "adv_100101_0018_msg"
 msgstr ""
 
 msgid "adv_100101_0019_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_100101_0020_msg"
 msgstr ""
@@ -1660,7 +1660,7 @@ msgid "adv_300301_0027_msg"
 msgstr ""
 
 msgid "adv_300301_0028_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_300301_0029_msg"
 msgstr ""
@@ -6724,7 +6724,7 @@ msgid "adv_101403_0010_msg"
 msgstr ""
 
 msgid "adv_101403_0013_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_101403_0014_msg"
 msgstr ""
@@ -7567,7 +7567,7 @@ msgid "adv_101409_0050_msg"
 msgstr ""
 
 msgid "adv_101409_0051_msg"
-msgstr ""
+msgstr "레이레이?"
 
 msgid "adv_101409_0052_msg"
 msgstr ""
@@ -10837,7 +10837,7 @@ msgid "adv_102001_0009_msg"
 msgstr ""
 
 msgid "adv_102001_0010_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_102001_0011_msg"
 msgstr ""
@@ -12145,7 +12145,7 @@ msgid "adv_301901_0009_msg"
 msgstr ""
 
 msgid "adv_301901_0010_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_301901_0011_msg"
 msgstr ""
@@ -13774,7 +13774,7 @@ msgid "adv_102701_0010_msg"
 msgstr ""
 
 msgid "adv_102701_0013_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_102701_0014_msg"
 msgstr ""
@@ -17389,7 +17389,7 @@ msgid "adv_303202_0029_msg"
 msgstr ""
 
 msgid "adv_303202_0030_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_303202_0031_msg"
 msgstr ""
@@ -19003,7 +19003,7 @@ msgid "adv_303501_0020_msg"
 msgstr ""
 
 msgid "adv_303501_0021_msg"
-msgstr ""
+msgstr "레이레이?"
 
 msgid "adv_303501_0022_msg"
 msgstr ""
@@ -21304,7 +21304,7 @@ msgid "adv_104601_0016_msg"
 msgstr ""
 
 msgid "adv_104601_0017_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_104601_0018_msg"
 msgstr ""
@@ -21331,7 +21331,7 @@ msgid "adv_104601_0025_msg"
 msgstr ""
 
 msgid "adv_104601_0026_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_104601_0027_msg"
 msgstr ""
@@ -22030,7 +22030,7 @@ msgid "adv_104802_0012_msg"
 msgstr ""
 
 msgid "adv_104802_0013_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_104802_0014_msg"
 msgstr ""
@@ -22237,7 +22237,7 @@ msgid "adv_1400602_0023_msg"
 msgstr ""
 
 msgid "adv_1400602_0024_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400602_0025_msg"
 msgstr ""
@@ -22393,7 +22393,7 @@ msgid "adv_104902_0025_msg"
 msgstr ""
 
 msgid "adv_104902_0026_msg"
-msgstr ""
+msgstr "마키나?"
 
 msgid "adv_104902_0027_msg"
 msgstr ""
@@ -22795,7 +22795,7 @@ msgid "adv_1400701_0008_msg"
 msgstr ""
 
 msgid "adv_1400701_0009_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400701_0010_msg"
 msgstr ""
@@ -22810,7 +22810,7 @@ msgid "adv_1400701_0013_msg"
 msgstr ""
 
 msgid "adv_1400701_0014_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400701_0016_msg"
 msgstr ""
@@ -22834,7 +22834,7 @@ msgid "adv_1400701_0024_msg"
 msgstr ""
 
 msgid "adv_1400701_0025_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400701_0026_msg"
 msgstr ""
@@ -22855,7 +22855,7 @@ msgid "adv_1400702_0011_msg"
 msgstr ""
 
 msgid "adv_1400702_0012_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400702_0013_msg"
 msgstr ""
@@ -23134,10 +23134,10 @@ msgid "adv_304101_0020_msg"
 msgstr ""
 
 msgid "adv_304101_0021_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_304101_0022_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_304101_0023_msg"
 msgstr ""
@@ -23281,7 +23281,7 @@ msgid "adv_105202_0012_msg"
 msgstr ""
 
 msgid "adv_105202_0013_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_105202_0014_msg"
 msgstr ""
@@ -23473,7 +23473,7 @@ msgid "adv_1400802_0013_msg"
 msgstr ""
 
 msgid "adv_1400802_0014_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400802_0015_msg"
 msgstr ""
@@ -23509,13 +23509,13 @@ msgid "adv_105301_0008_msg"
 msgstr ""
 
 msgid "adv_105301_0010_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_105301_0012_msg"
 msgstr ""
 
 msgid "adv_105301_0014_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_105301_0016_msg"
 msgstr ""
@@ -23557,7 +23557,7 @@ msgid "adv_105301_0028_msg"
 msgstr ""
 
 msgid "adv_105301_0029_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_105301_0030_msg"
 msgstr ""
@@ -23965,7 +23965,7 @@ msgid "adv_100465701_0009_msg"
 msgstr ""
 
 msgid "adv_100465702_0003_msg"
-msgstr ""
+msgstr "저기, 바사라! 봐바 봐바!"
 
 msgid "adv_100465702_0004_msg"
 msgstr ""
@@ -23974,37 +23974,45 @@ msgid "adv_100465702_0005_msg"
 msgstr ""
 
 msgid "adv_100465702_0006_msg"
-msgstr ""
+msgstr "아아"
 
 msgid "adv_100465702_0007_msg"
 msgstr ""
 
 msgid "adv_100465702_0008_msg"
-msgstr ""
+msgstr "잘됐네"
 
 msgid "adv_100465702_0009_msg"
 msgstr ""
 
 msgid "adv_100466901_0003_msg"
 msgstr ""
+"원 투 쓰리 포,\n"
+"원 투 쓰리 포…"
 
 msgid "adv_100466901_0004_msg"
-msgstr ""
+msgstr "어라? 카나메 씨, 그거 제 노래의 안무예요?"
 
 msgid "adv_100466901_0005_msg"
 msgstr ""
+"미, 민메이 씨!\n"
+"죄송해요, 보고 있는 줄 몰랐어요…"
 
 msgid "adv_100466901_0006_msg"
-msgstr ""
+msgstr "아뇨, 아주 잘 추시고 있어요!"
 
 msgid "adv_100466901_0007_msg"
 msgstr ""
+"정말인가요!? 사실은 민메이 씨와 함께 노래하고 싶어서\n"
+"계속 연습하고 있었어요"
 
 msgid "adv_100466901_0008_msg"
 msgstr ""
+"와, 그럼 지금 여기서 함께 해보는 건 어때요?\n"
+"둘이서 함께 무대에 선다는 생각으로!"
 
 msgid "adv_100466901_0009_msg"
-msgstr ""
+msgstr "네! 잘 부탁드립니다!"
 
 msgid "adv_100466902_0003_msg"
 msgstr ""
@@ -24034,7 +24042,7 @@ msgid "adv_1400901_0008_msg"
 msgstr ""
 
 msgid "adv_1400901_0009_msg"
-msgstr ""
+msgstr "네, 셰릴 씨!"
 
 msgid "adv_1400901_0010_msg"
 msgstr ""
@@ -24067,7 +24075,7 @@ msgid "adv_1400901_0019_msg"
 msgstr ""
 
 msgid "adv_1400901_0020_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_1400901_0021_msg"
 msgstr ""
@@ -24184,10 +24192,10 @@ msgid "adv_105501_0025_msg"
 msgstr ""
 
 msgid "adv_105501_0026_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_105501_0027_msg"
-msgstr ""
+msgstr "레이레이?"
 
 msgid "adv_105501_0028_msg"
 msgstr ""
@@ -24295,7 +24303,7 @@ msgid "adv_100475301_0005_msg"
 msgstr ""
 
 msgid "adv_100475301_0006_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_100475301_0007_msg"
 msgstr ""
@@ -24430,10 +24438,10 @@ msgid "adv_1401002_0021_msg"
 msgstr ""
 
 msgid "adv_105601_0008_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_105601_0009_msg"
-msgstr ""
+msgstr "마키나?"
 
 msgid "adv_105601_0010_msg"
 msgstr ""
@@ -25090,7 +25098,7 @@ msgid "adv_105802_0014_msg"
 msgstr ""
 
 msgid "adv_105802_0015_msg"
-msgstr ""
+msgstr "레이레이?"
 
 msgid "adv_105802_0016_msg"
 msgstr ""
@@ -25258,7 +25266,7 @@ msgid "adv_1401101_0027_msg"
 msgstr ""
 
 msgid "adv_1401102_0008_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_1401102_0009_msg"
 msgstr ""
@@ -25624,7 +25632,7 @@ msgid "adv_304502_0020_msg"
 msgstr ""
 
 msgid "adv_304502_0021_msg"
-msgstr ""
+msgstr "네! 잘 부탁드립니다!"
 
 msgid "adv_106101_0003_msg"
 msgstr ""
@@ -25666,7 +25674,7 @@ msgid "adv_106101_0015_msg"
 msgstr ""
 
 msgid "adv_106101_0016_msg"
-msgstr ""
+msgstr "…………"
 
 msgid "adv_106101_0017_msg"
 msgstr ""
@@ -25705,7 +25713,7 @@ msgid "adv_106102_0005_msg"
 msgstr ""
 
 msgid "adv_106102_0006_msg"
-msgstr ""
+msgstr "레이레이?"
 
 msgid "adv_106102_0007_msg"
 msgstr ""
@@ -25780,7 +25788,7 @@ msgid "adv_206301_0023_msg"
 msgstr ""
 
 msgid "adv_206301_0024_msg"
-msgstr ""
+msgstr "레이나!"
 
 msgid "adv_206301_0025_msg"
 msgstr ""
@@ -25795,7 +25803,7 @@ msgid "adv_206302_0004_msg"
 msgstr ""
 
 msgid "adv_206302_0005_msg"
-msgstr ""
+msgstr "하야테!"
 
 msgid "adv_206302_0006_msg"
 msgstr ""
