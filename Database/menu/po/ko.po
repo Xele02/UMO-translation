@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-24 01:31+0000\n"
+"PO-Revision-Date: 2025-01-24 15:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -309,7 +309,7 @@ msgid "config_text_02"
 msgstr ""
 
 msgid "config_text_03"
-msgstr ""
+msgstr "보이스"
 
 msgid "config_text_04"
 msgstr ""
@@ -1357,16 +1357,16 @@ msgid "friend_accept_not_found"
 msgstr ""
 
 msgid "friend_list_not_found"
-msgstr ""
+msgstr "친구가 없습니다."
 
 msgid "friend_request_not_found"
-msgstr ""
+msgstr "당신이 친구 신청을 한 플레이어가 없습니다."
 
 msgid "friend_search_ready"
-msgstr ""
+msgstr "ID 검색을 한 플레이어가 표시됩니다."
 
 msgid "friend_search_not_found"
-msgstr ""
+msgstr "플레이어를 찾을 수 없습니다."
 
 msgid "friend_caution_request"
 msgstr ""
@@ -1782,28 +1782,32 @@ msgid "popup_gacha_lot_paid_few_msg"
 msgstr ""
 
 msgid "popup_gacha_lot_paid_count"
-msgstr ""
+msgstr "{0}개"
 
 msgid "popup_gacha_lot_free_msg"
-msgstr ""
+msgstr "무료로 가챠를 {0}번 뽑으시겠습니까?"
 
 msgid "popup_gacha_lot_ticket_msg"
 msgstr ""
+"{0}을 {1}장 사용하여\n"
+"가챠를 {2}번 뽑으시겠습니까?"
 
 msgid "popup_gacha_lot_ticket_few_msg"
-msgstr ""
+msgstr "{0}이 부족합니다."
 
 msgid "popup_gacha_lot_ticket_few_caution_01"
-msgstr ""
+msgstr "{0}은 가정석 덤으로 획득할 수 있습니다."
 
 msgid "popup_gacha_lot_ticket_few_caution_02"
-msgstr ""
+msgstr "{0} 포함 가정석은 판매가 종료되었습니다."
 
 msgid "popup_gacha_lot_ticket_few_caution_03"
 msgstr ""
+"※{0}은 월간 이용권 구매 시 제공되는\n"
+"초시공 로그인 보너스를 통해 얻을 수 있습니다."
 
 msgid "popup_gacha_lot_ticket_count"
-msgstr ""
+msgstr "{0}장"
 
 msgid "popup_gacha_reject_title"
 msgstr ""
@@ -2597,52 +2601,61 @@ msgid "popup_limit_over_list_title"
 msgstr ""
 
 msgid "popup_limit_over_list_count"
-msgstr ""
+msgstr "{0}장"
 
 msgid "popup_limit_over_list_none_desc"
-msgstr ""
+msgstr "표시할 수 있는 플레이트가 없습니다."
 
 msgid "popup_dash_ticket_title"
-msgstr ""
+msgstr "티켓 소비 장수 선택"
 
 msgid "popup_dash_energy_title"
-msgstr ""
+msgstr "에너지 소비량 선택"
 
 msgid "popup_dash_button"
-msgstr ""
+msgstr "{0}배"
 
 msgid "popup_dash_cost_energy"
-msgstr ""
+msgstr "에너지 소비량 {0}"
 
 msgid "popup_dash_own_energy"
-msgstr ""
+msgstr "현재 에너지 {0}"
 
 msgid "popup_dash_cost_ticket"
-msgstr ""
+msgstr "소비 티켓 수 {0}"
 
 msgid "popup_dash_own_ticket"
-msgstr ""
+msgstr "소지 티켓 수 {0}"
 
 msgid "popup_dash_caution"
-msgstr ""
+msgstr "선택한 배율에 따라 획득할 수 있는 이벤트 포인트도 늘어납니다."
 
 msgid "popup_dash_caution_skip"
-msgstr ""
+msgstr "스킵 기능은 1배 소비만 사용할 수 있습니다."
 
 msgid "popup_dash_cost_over_energy"
-msgstr ""
+msgstr "<color=#8e0529>필요한 소비량까지 에너지를 회복할 수 없기 때문에 선택할 수 "
+"없습니다.</color>"
 
 msgid "popup_dash_cost_over_ticket"
-msgstr ""
+msgstr "<color=#8e0529>티켓이 부족하여 선택할 수 없습니다.</color>"
 
 msgid "popup_rcmd_app_update_title"
-msgstr ""
+msgstr "앱 업데이트"
 
 msgid "popup_rcmd_app_update_an"
 msgstr ""
+"새로운 앱 버전이 있습니다.\n"
+"Google Play 스토어에서\n"
+"업데이트를 진행해주세요.\n"
+"업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
 
 msgid "popup_rcmd_app_update_ios"
 msgstr ""
+"새로운 앱 버전이 있습니다.\n"
+"App Store에서\n"
+"업데이트를 진행해주세요.\n"
+"업데이트에 실패할 경우, 단말기를 재부팅해 주시기 바랍니다."
 
 msgid "game_popup_mvpause_title"
 msgstr ""
@@ -3299,10 +3312,10 @@ msgid "ar_sel_popup_shutdown_message"
 msgstr ""
 
 msgid "ar_sel_popup_shutdown_button_l"
-msgstr ""
+msgstr "취소"
 
 msgid "ar_sel_popup_shutdown_button_r"
-msgstr ""
+msgstr "OK"
 
 msgid "android_backbutton_disable"
 msgstr ""
@@ -3335,19 +3348,23 @@ msgid "episode_reward_text002"
 msgstr ""
 
 msgid "episode_reward_text003"
-msgstr ""
+msgstr "EP"
 
 msgid "popup_unlock_6line_music_text"
-msgstr ""
+msgstr "6레인 게임이 추가되었습니다."
 
 msgid "offer_formation_name_chenge_popup_title"
-msgstr ""
+msgstr "소대 이름 변경"
 
 msgid "offer_formation_name_chenge_popup_text_01"
 msgstr ""
+"소대 이름을 입력해 주세요.\n"
+"(15자 이내)"
 
 msgid "offer_formation_name_chenge_popup_text_02"
 msgstr ""
+"・일부 사용할 수 없는 기호, 문자가 있습니다.\n"
+"・변경 반영에 시간이 걸릴 수 있습니다."
 
 msgid "offer_formation_name_chenge_popup_text_03"
 msgstr ""
@@ -3852,10 +3869,10 @@ msgid "pop_score_detail_item_name_06"
 msgstr ""
 
 msgid "pop_score_detail_item_name_07"
-msgstr ""
+msgstr "A스킬"
 
 msgid "pop_score_detail_item_name_08"
-msgstr ""
+msgstr "콤보"
 
 msgid "pop_score_detail_item_name_09"
 msgstr ""
@@ -4006,15 +4023,17 @@ msgstr ""
 
 msgid "pop_deco_name_change_notes"
 msgstr ""
+"・일부 사용할 수 없는 기호, 문자가 있습니다.\n"
+"・변경 반영에 시간이 걸릴 수 있습니다."
 
 msgid "pop_deco_name_change_cancel"
-msgstr ""
+msgstr "데코룸 이름이 변경되지 않았습니다."
 
 msgid "pop_deco_item_title"
-msgstr ""
+msgstr "데코 아이템 소지 수"
 
 msgid "pop_deco_item_count"
-msgstr ""
+msgstr "{0}개"
 
 msgid "pop_deco_item_content"
 msgstr ""
@@ -4626,22 +4645,26 @@ msgid "lobby_viewing_system_text"
 msgstr ""
 
 msgid "popup_profile_visit_title"
-msgstr ""
+msgstr "방문 확인"
 
 msgid "popup_profile_visit_msg"
 msgstr ""
+"{0} 님의\n"
+"데코룸으로 이동합니다."
 
 msgid "popup_profile_lobby_title"
-msgstr ""
+msgstr "열람 확인"
 
 msgid "popup_profile_lobby_msg"
 msgstr ""
+"{0}님의\n"
+"마크로스 로비로 이동합니다."
 
 msgid "deco_visit_gift"
-msgstr ""
+msgstr "선물 가능 개수"
 
 msgid "deco_visit_no_friend"
-msgstr ""
+msgstr "친구가 없습니다."
 
 msgid "deco_visit_no_fun"
 msgstr ""
@@ -4662,7 +4685,7 @@ msgid "lobby_raid_befor_today_text"
 msgstr ""
 
 msgid "pop_compatible_music_title"
-msgstr ""
+msgstr "라이브 스킬 발동 대상 악곡"
 
 msgid "pop_compatible_music_desc"
 msgstr ""
@@ -4950,43 +4973,47 @@ msgid "pop_raid_enemy_requested_text"
 msgstr ""
 
 msgid "utaraterank_over_ranking"
-msgstr ""
+msgstr "----"
 
 msgid "utaraterank_over_login"
-msgstr ""
+msgstr "----"
 
 msgid "utaraterank_none"
-msgstr ""
+msgstr "미등록"
 
 msgid "popup_episodebonus_max"
-msgstr ""
+msgstr "최대 {0}%"
 
 msgid "unorganized"
-msgstr ""
+msgstr "미편성"
 
 msgid "skill_attr_regulation"
-msgstr ""
+msgstr "속성 제한 있음"
 
 msgid "episode_assist"
-msgstr ""
+msgstr "ASSIST(적용중)"
 
 msgid "episode_available"
-msgstr ""
+msgstr "적용중"
 
 msgid "pop_raid_help_defeated_text"
 msgstr ""
+"선택한 폭주 에너미는 무력화되었습니다.\n"
+"목록을 업데이트합니다."
 
 msgid "pop_raid_help_result_defeated_text"
-msgstr ""
+msgstr "선택한 폭주 에너미는 무력화되었습니다."
 
 msgid "pop_raid_help_player_count_limit_over_text"
 msgstr ""
+"최대 인원수까지 구조 요청을 보내고 있습니다.\n"
+"더 이상 구조 요청을 보낼 수 없습니다."
 
 msgid "pop_limited_item_warning_text_1"
 msgstr ""
 
 msgid "pop_limited_item_warning_title"
-msgstr ""
+msgstr "유효기간이 있는 아이템"
 
 msgid "notification_rareup_star_limit_title"
 msgstr ""
@@ -5013,10 +5040,10 @@ msgid "gacha_period"
 msgstr ""
 
 msgid "gacha_cost_01"
-msgstr ""
+msgstr "소비"
 
 msgid "gacha_cost_02"
-msgstr ""
+msgstr "을(를) 사용하여 뽑기"
 
 msgid "gacha_cost_03"
 msgstr ""
@@ -5037,19 +5064,21 @@ msgid "config_text_100"
 msgstr ""
 
 msgid "config_text_101"
-msgstr ""
+msgstr "플레이트 애니메이션 설정"
 
 msgid "config_text_102"
-msgstr ""
+msgstr "애니메이션이 재생되는 플레이트에만 적용됩니다."
 
 msgid "config_text_103"
-msgstr ""
+msgstr "가챠 화면은 플레이트 애니메이션 설정 대상에서 제외됩니다."
 
 msgid "liveskillregulation_except"
 msgstr ""
+"대상 시리즈\n"
+"이외"
 
 msgid "liveskillregulation_popup_title"
-msgstr ""
+msgstr "라이브 스킬 발동 대상 악곡"
 
 msgid "centerskillregulation_popup_title"
 msgstr ""
@@ -5260,13 +5289,13 @@ msgid "popup_sort_item_total"
 msgstr ""
 
 msgid "popup_sort_item_soul"
-msgstr ""
+msgstr "소울"
 
 msgid "popup_sort_item_voice"
-msgstr ""
+msgstr "보이스"
 
 msgid "popup_sort_item_charm"
-msgstr ""
+msgstr "챰"
 
 msgid "popup_sort_item_get"
 msgstr ""
@@ -5278,46 +5307,46 @@ msgid "popup_sort_item_level"
 msgstr ""
 
 msgid "popup_sort_item_life"
-msgstr ""
+msgstr "라이프"
 
 msgid "popup_sort_item_luck"
-msgstr ""
+msgstr "LUCK"
 
 msgid "popup_sort_item_support"
-msgstr ""
+msgstr "서포트"
 
 msgid "popup_sort_item_fold"
-msgstr ""
+msgstr "폴드파"
 
 msgid "popup_sort_item_recovery_notes"
-msgstr ""
+msgstr "회복 노트"
 
 msgid "popup_sort_item_item_notes"
-msgstr ""
+msgstr "아이템 노트"
 
 msgid "popup_sort_item_scoreup_notes"
-msgstr ""
+msgstr "고득점 노트"
 
 msgid "popup_sort_item_support_notes"
-msgstr ""
+msgstr "서포트 노트"
 
 msgid "popup_sort_item_fold_notes"
-msgstr ""
+msgstr "폴드파 노트"
 
 msgid "popup_sort_item_last_playdate"
-msgstr ""
+msgstr "최종 로그인"
 
 msgid "popup_sort_item_player_runk"
-msgstr ""
+msgstr "랭크"
 
 msgid "popup_sort_item_request"
-msgstr ""
+msgstr "신청 날짜"
 
 msgid "popup_sort_item_skill"
-msgstr ""
+msgstr "스킬"
 
 msgid "popup_sort_item_active_skill"
-msgstr ""
+msgstr "A스킬"
 
 msgid "popup_sort_item_live_skill"
 msgstr ""
@@ -5395,43 +5424,48 @@ msgid "popup_option_data_title"
 msgstr ""
 
 msgid "popup_option_cacheclear_title"
-msgstr ""
+msgstr "데이터 복구"
 
 msgid "popup_option_cacheclear_desc1"
-msgstr ""
+msgstr "게임 데이터를 삭제하고 데이터 복구를 수행합니다."
 
 msgid "popup_option_cacheclear_desc2"
 msgstr ""
+"게임이 잘 실행되지 않는 경우 등에 시도해 보세요.\n"
+"<color=#C8087E>※플레이 데이터는 삭제되지 않습니다.</color>"
 
 msgid "popup_option_bunchinstall_title"
-msgstr ""
+msgstr "일괄 다운로드"
 
 msgid "popup_option_bunchinstall_desc1"
-msgstr ""
+msgstr "게임 플레이에 필요한 데이터를 일괄적으로 다운로드합니다."
 
 msgid "popup_option_bunchinstall_desc2"
 msgstr ""
+"통신을 줄이고 편안하게 플레이할 수 있습니다.\n"
+"<color=#C8087E>※다운로드가 완료될 때까지 다른 작업을 할 수 없습니다.\n"
+"※Wi-Fi 환경에서의 다운로드를 권장합니다.</color>"
 
 msgid "episode_sort_filter_empty"
-msgstr ""
+msgstr "해당 에피소드가 없습니다."
 
 msgid "popup_homebg_title"
-msgstr ""
+msgstr "배경 선택"
 
 msgid "popup_homebg_scene_select"
-msgstr ""
+msgstr "선택한 플레이트를 배경으로 설정하시겠습니까?"
 
 msgid "popup_homebg_default_scene"
-msgstr ""
+msgstr "배경을 기본값으로 설정하시겠습니까?"
 
 msgid "popup_homebg_default_scene_name"
-msgstr ""
+msgstr "기본 배경"
 
 msgid "header_desc_home040"
-msgstr ""
+msgstr "배경을 선택해 주세요"
 
 msgid "popup_quest_receive_vc_caution"
-msgstr ""
+msgstr "※가정석은 선물상자로 보내드립니다."
 
 msgid "homebgselect_title"
 msgstr ""
@@ -5626,13 +5660,13 @@ msgid "popup_filter_godiva_music_exp_title_h2"
 msgstr ""
 
 msgid "popup_filter_godiva_music_exp_item_soul"
-msgstr ""
+msgstr "소울"
 
 msgid "popup_filter_godiva_music_exp_item_voice"
-msgstr ""
+msgstr "보이스"
 
 msgid "popup_filter_godiva_music_exp_item_charm"
-msgstr ""
+msgstr "챰"
 
 msgid "popup_godiva_status_title"
 msgstr ""
@@ -5692,10 +5726,10 @@ msgid "diva_name_07"
 msgstr ""
 
 msgid "diva_name_08"
-msgstr ""
+msgstr "밀레느 지너스"
 
 msgid "diva_name_09"
-msgstr ""
+msgstr "넥키 바사라"
 
 msgid "diva_name_10"
 msgstr ""
@@ -5752,13 +5786,13 @@ msgid "event_godiva_remain_time_prefix"
 msgstr ""
 
 msgid "sel_music_godiva_exp_type_soul"
-msgstr ""
+msgstr "소울"
 
 msgid "sel_music_godiva_exp_type_voice"
-msgstr ""
+msgstr "보이스"
 
 msgid "sel_music_godiva_exp_type_charm"
-msgstr ""
+msgstr "챰"
 
 msgid "sel_music_godiva_exp_type_all"
 msgstr ""
@@ -5779,16 +5813,20 @@ msgid "popup_godiva_filter_title"
 msgstr ""
 
 msgid "popup_vop_all_receive_vc_caution"
-msgstr ""
+msgstr "※가정석은 선물상자로 보내드립니다."
 
 msgid "popup_vop_all_receive_title"
-msgstr ""
+msgstr "오퍼레이션 보상 수령"
 
 msgid "popup_vop_all_receive_item_over"
-msgstr ""
+msgstr "※소지 한도를 초과하여 일부 보상을 받지 못했습니다."
 
 msgid "popup_story_complete_stage"
 msgstr ""
+"【기억의 시공】에서 현재 발견된\n"
+"모든 기억을 해방했습니다.\n"
+"향후 신규 악곡은\n"
+"악곡 선택 화면에 추가됩니다."
 
 msgid "popup_story_mission_guidance"
 msgstr ""
@@ -5965,46 +6003,56 @@ msgid "popup_filter_music_attribute_004"
 msgstr ""
 
 msgid "popup_filter_combo_title_h2"
-msgstr ""
+msgstr "콤보"
 
 msgid "popup_filter_fullcombo"
 msgstr ""
+"풀 콤보\n"
+"미달성"
 
 msgid "popup_filter_prefect_fullcombo"
 msgstr ""
+"퍼펙트 풀 콤보\n"
+"미달성"
 
 msgid "popup_filter_unit_title_h2"
-msgstr ""
+msgstr "유닛 라이브"
 
 msgid "popup_filter_reward_title_h2"
-msgstr ""
+msgstr "달성 보상"
 
 msgid "popup_filter_reward_score"
 msgstr ""
+"SCORE SS \n"
+"미달성"
 
 msgid "popup_filter_reward_combo"
 msgstr ""
+"COMBO SS \n"
+"미달성"
 
 msgid "popup_filter_reward_clear"
 msgstr ""
+"CLEAR 보상 \n"
+"미달성"
 
 msgid "popup_filter_music_level_title_h2"
-msgstr ""
+msgstr "악곡 레벨"
 
 msgid "popup_filter_bonus_title_h2"
-msgstr ""
+msgstr "보너스"
 
 msgid "popup_filter_bonus_ok"
-msgstr ""
+msgstr "있음"
 
 msgid "popup_filter_bonus_not_ok"
-msgstr ""
+msgstr "없음"
 
 msgid "music_not_exist_filter_text"
-msgstr ""
+msgstr "현재 필터 설정에서 해당되는 악곡이 없습니다."
 
 msgid "pop_gacha_period_warning_title"
-msgstr ""
+msgstr "유효기간이 있는 아이템"
 
 msgid "pop_gacha_period_warning_text_1"
 msgstr ""
