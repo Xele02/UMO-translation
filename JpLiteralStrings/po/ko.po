@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-24 04:31+0000\n"
+"PO-Revision-Date: 2025-01-24 07:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1445,7 +1445,7 @@ msgid "StringLiteral_20181"
 msgstr "밖에 칸이 없음."
 
 msgid "StringLiteral_20290"
-msgstr ""
+msgstr "l×{0}"
 
 msgid "StringLiteral_20367"
 msgstr "ー"
@@ -1481,52 +1481,52 @@ msgid "StringLiteral_20864"
 msgstr "자동 편성"
 
 msgid "StringLiteral_20882"
-msgstr ""
+msgstr "(<color={1}>↑{0}</color>)"
 
 msgid "StringLiteral_21607"
-msgstr ""
+msgstr "???12"
 
 msgid "UMO_login_38788_name"
-msgstr ""
+msgstr "의상 해방 응원 로그인 보너스③"
 
 msgid "UMO_login_38788_desc"
-msgstr ""
+msgstr "의상 해방 응원 로그인 보너스③"
 
 msgid "UMO_login_38788_prize1_msg"
-msgstr ""
+msgstr "특별 로그인 보너스 선물입니다."
 
 msgid "UMO_login_10665_name"
-msgstr ""
+msgstr "컴백 로그인 보너스 28일간 비로그인"
 
 msgid "UMO_login_10665_desc"
-msgstr ""
+msgstr "컴백 로그인 보너스 28일간 비로그인\n"
 
 msgid "UMO_login_10666_name"
-msgstr ""
+msgstr "컴백 로그인 보너스 28일간 비로그인　가정석"
 
 msgid "UMO_login_10666_desc"
-msgstr ""
+msgstr "컴백 로그인 보너스 28일간 비로그인　가정석"
 
 msgid "UMO_login_7740_name"
-msgstr ""
+msgstr "로그인 보너스"
 
 msgid "UMO_login_7740_desc"
-msgstr ""
+msgstr "매일 1회 로그인 시 한 번씩 선물을 받을 수 있어!"
 
 msgid "UMO_login_7740_prize1_msg"
-msgstr ""
+msgstr "로그인 보너스 선물입니다.\t"
 
 msgid "UMO_login_7740_prize2_msg"
-msgstr ""
+msgstr "로그인 보너스 선물입니다."
 
 msgid "UMO_login_6541_name"
-msgstr ""
+msgstr "스타트 대시 로그인 보너스"
 
 msgid "UMO_login_6541_desc"
-msgstr ""
+msgstr "게임 시작 후 7일째까지 받을 수 있는 로그인 보너스입니다."
 
 msgid "UMO_login_6541_prize1_msg"
-msgstr ""
+msgstr "스타트 대시 로그인 보너스입니다."
 
 msgid "UMO_achievements_normal_quest"
 msgstr ""
@@ -1559,7 +1559,7 @@ msgid "UMO_currency_2002_desc"
 msgstr ""
 
 msgid "UMO_currency_2003_name"
-msgstr ""
+msgstr "★5 확정 가챠 티켓 B"
 
 msgid "UMO_currency_2003_desc"
 msgstr ""
