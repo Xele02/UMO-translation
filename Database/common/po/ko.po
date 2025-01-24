@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-23 05:31+0000\n"
+"PO-Revision-Date: 2025-01-24 01:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "common/ko/>\n"
@@ -88,43 +88,43 @@ msgid "saka_error0020"
 msgstr "이미 친구 신청을 했습니다."
 
 msgid "saka_error0021"
-msgstr ""
+msgstr "상대방의 친구 수가 상한선에 도달했습니다."
 
 msgid "saka_error0022"
-msgstr ""
+msgstr "친구 수가 상한선에 도달했습니다."
 
 msgid "saka_error0023"
-msgstr ""
+msgstr "초대 코드는 사용할 수 없습니다."
 
 msgid "saka_error0024"
-msgstr ""
+msgstr "자신의 초대 코드는 사용할 수 없습니다."
 
 msgid "saka_error0025"
-msgstr ""
+msgstr "이미 초대 코드를 사용하고 있습니다."
 
 msgid "saka_error0026"
-msgstr ""
+msgstr "이 초대 코드는 사용할 수 없습니다."
 
 msgid "saka_error0027"
-msgstr ""
+msgstr "이 플레이어의 초대 코드는 사용할 수 없습니다."
 
 msgid "saka_error0028"
-msgstr ""
+msgstr "메시지를 찾을 수 없습니다."
 
 msgid "saka_error0029"
-msgstr ""
+msgstr "페이스북 연동이 불가능합니다."
 
 msgid "saka_error0030"
-msgstr ""
+msgstr "페이스북 연동 절차에 실패했습니다."
 
 msgid "saka_error0031"
-msgstr ""
+msgstr "이미 종료된 랭킹입니다."
 
 msgid "saka_error0032"
-msgstr ""
+msgstr "랭킹을 찾을 수 없습니다."
 
 msgid "saka_error0033"
-msgstr ""
+msgstr "랭킹이 아직 시작되지 않았습니다."
 
 msgid "saka_error0034"
 msgstr "현재 집계 중입니다."
