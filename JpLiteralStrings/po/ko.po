@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-23 16:31+0000\n"
+"PO-Revision-Date: 2025-01-24 01:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1176,7 +1176,7 @@ msgid "StringLiteral_13959"
 msgstr "★"
 
 msgid "StringLiteral_13975"
-msgstr ""
+msgstr "EX 레이트 ="
 
 msgid "StringLiteral_13976"
 msgstr ", EX 스코어 효과 ="
@@ -1329,115 +1329,120 @@ msgid "StringLiteral_16417"
 msgstr "최초 어드벤처"
 
 msgid "StringLiteral_16418"
-msgstr ""
+msgstr "자신의 데코룸"
 
 msgid "StringLiteral_16419"
 msgstr ""
+"【해방 조건】\n"
+"\n"
+"플레이어 랭크 5 달성."
 
 msgid "StringLiteral_16496"
 msgstr ""
+"해방하지 않은 캐릭터로는\n"
+"친밀도를 높일 수 없습니다."
 
 msgid "StringLiteral_16775"
-msgstr ""
+msgstr "배치 수 {0:D2} / {1:D2}"
 
 msgid "StringLiteral_17446"
-msgstr ""
+msgstr "사시스세소"
 
 msgid "StringLiteral_17754"
-msgstr ""
+msgstr "(+{0})"
 
 msgid "StringLiteral_17777"
-msgstr ""
+msgstr "획득한 아이템은 없습니다."
 
 msgid "StringLiteral_17787"
-msgstr ""
+msgstr "%"
 
 msgid "StringLiteral_17788"
-msgstr ""
+msgstr "(UC 아이템은 {0}UC로 변환되었습니다)"
 
 msgid "StringLiteral_17960"
-msgstr ""
+msgstr "{0}회"
 
 msgid "StringLiteral_18022"
-msgstr ""
+msgstr "사용 스킬"
 
 msgid "StringLiteral_18023"
-msgstr ""
+msgstr "{0}초"
 
 msgid "StringLiteral_18024"
-msgstr ""
+msgstr ":{0}"
 
 msgid "StringLiteral_18054"
-msgstr ""
+msgstr "~{0}초"
 
 msgid "StringLiteral_18067"
-msgstr ""
+msgstr "에너지가 {0}(으)로 회복되었습니다"
 
 msgid "StringLiteral_18280"
-msgstr ""
+msgstr "프리즘"
 
 msgid "StringLiteral_18787"
-msgstr ""
+msgstr "획득 유니온 크레딧"
 
 msgid "StringLiteral_18797"
-msgstr ""
+msgstr "소대 선택"
 
 msgid "StringLiteral_18843"
-msgstr ""
+msgstr "결과 화면"
 
 msgid "StringLiteral_18923"
-msgstr ""
+msgstr "오퍼 선택"
 
 msgid "StringLiteral_18944"
-msgstr ""
+msgstr "형태 선택"
 
 msgid "StringLiteral_18949"
-msgstr ""
+msgstr "발키리 선택"
 
 msgid "StringLiteral_19017"
-msgstr ""
+msgstr "생일"
 
 msgid "StringLiteral_19018"
-msgstr ""
+msgstr "{0}/{1}/{2}　{3}"
 
 msgid "StringLiteral_19422"
-msgstr ""
+msgstr "랭킹"
 
 msgid "StringLiteral_19427"
-msgstr ""
+msgstr "~"
 
 msgid "StringLiteral_19428"
-msgstr ""
+msgstr "위:"
 
 msgid "StringLiteral_19432"
-msgstr ""
+msgstr "【{0}】"
 
 msgid "StringLiteral_19433"
-msgstr ""
+msgstr "이벤트 악곡의 레어 드롭"
 
 msgid "StringLiteral_19538"
-msgstr ""
+msgstr "임팩트"
 
 msgid "StringLiteral_19639"
-msgstr ""
+msgstr "무기한"
 
 msgid "StringLiteral_19612"
-msgstr ""
+msgstr "유닛 세트"
 
 msgid "StringLiteral_19704"
-msgstr ""
+msgstr "타인의 데코룸: 프로필을 통해"
 
 msgid "StringLiteral_20178"
-msgstr ""
+msgstr " ★"
 
 msgid "StringLiteral_20179"
-msgstr ""
+msgstr "의 최대 칸 수="
 
 msgid "StringLiteral_20180"
 msgstr ""
 
 msgid "StringLiteral_20181"
-msgstr ""
+msgstr "밖에 칸이 없음."
 
 msgid "StringLiteral_20290"
 msgstr ""
