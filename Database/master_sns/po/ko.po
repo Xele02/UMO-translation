@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-23 16:31+0000\n"
+"PO-Revision-Date: 2025-01-24 01:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_sns/ko/>\n"
@@ -702,7 +702,7 @@ msgid "sns_dsc_0402"
 msgstr ""
 
 msgid "sns_dsc_0403"
-msgstr ""
+msgstr "2021 크리스마스"
 
 msgid "sns_dsc_0404"
 msgstr ""
@@ -1005,7 +1005,7 @@ msgid "sns_dsc_0650"
 msgstr ""
 
 msgid "sns_dsc_0651"
-msgstr ""
+msgstr "2019 크리스마스"
 
 msgid "sns_dsc_0652"
 msgstr ""
@@ -1083,7 +1083,7 @@ msgid "sns_dsc_0676"
 msgstr ""
 
 msgid "sns_dsc_0677"
-msgstr ""
+msgstr "2020 크리스마스"
 
 msgid "sns_dsc_0678"
 msgstr ""
@@ -1755,7 +1755,7 @@ msgid "sns_dsc_0901"
 msgstr ""
 
 msgid "sns_dsc_0902"
-msgstr ""
+msgstr "크리스마스 (2017)"
 
 msgid "sns_dsc_0903"
 msgstr ""
@@ -3114,7 +3114,7 @@ msgid "sns_dsc2_0402"
 msgstr ""
 
 msgid "sns_dsc2_0403"
-msgstr ""
+msgstr "2021 크리스마스"
 
 msgid "sns_dsc2_0404"
 msgstr ""
@@ -3417,7 +3417,7 @@ msgid "sns_dsc2_0650"
 msgstr ""
 
 msgid "sns_dsc2_0651"
-msgstr ""
+msgstr "2019 크리스마스"
 
 msgid "sns_dsc2_0652"
 msgstr ""
@@ -3495,7 +3495,7 @@ msgid "sns_dsc2_0676"
 msgstr ""
 
 msgid "sns_dsc2_0677"
-msgstr ""
+msgstr "2020 크리스마스"
 
 msgid "sns_dsc2_0678"
 msgstr ""
@@ -4167,7 +4167,7 @@ msgid "sns_dsc2_0901"
 msgstr ""
 
 msgid "sns_dsc2_0902"
-msgstr ""
+msgstr "크리스마스 (2017)"
 
 msgid "sns_dsc2_0903"
 msgstr ""
