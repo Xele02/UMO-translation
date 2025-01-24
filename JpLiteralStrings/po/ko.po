@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-24 01:31+0000\n"
+"PO-Revision-Date: 2025-01-24 04:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -1448,37 +1448,37 @@ msgid "StringLiteral_20290"
 msgstr ""
 
 msgid "StringLiteral_20367"
-msgstr ""
+msgstr "ー"
 
 msgid "StringLiteral_20369"
-msgstr ""
+msgstr "±{0}"
 
 msgid "StringLiteral_20382"
-msgstr ""
+msgstr "(2회 사용 가능)"
 
 msgid "StringLiteral_20383"
-msgstr ""
+msgstr "<color={0}>(2회 사용 가능)</color>"
 
 msgid "StringLiteral_20406"
-msgstr ""
+msgstr "필터 버튼이 눌려졌습니다"
 
 msgid "StringLiteral_20448"
-msgstr ""
+msgstr "모션이 지정되지 않았거나 모션 수를 초과했습니다.[ "
 
 msgid "StringLiteral_20457"
-msgstr ""
+msgstr "심플 모델에는 가희 ID가 설정되어 있지 않습니다."
 
 msgid "StringLiteral_20458"
-msgstr ""
+msgstr "심플 모델에는 의상 모델 ID가 설정되어 있지 않습니다."
 
 msgid "StringLiteral_20469"
-msgstr ""
+msgstr "심플 모델에서 설정할 수 있는 모션 수를 초과하였습니다.[ "
 
 msgid "StringLiteral_20470"
-msgstr ""
+msgstr "심플 모델에서 설정할 수 있는 루프 모션 수를 초과했습니다.[ "
 
 msgid "StringLiteral_20864"
-msgstr ""
+msgstr "자동 편성"
 
 msgid "StringLiteral_20882"
 msgstr ""
