@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-01-25 15:57+0000\n"
+"PO-Revision-Date: 2025-01-26 01:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -2148,3 +2148,15 @@ msgstr "暗"
 
 msgid "UMO_BgBrightness"
 msgstr "背景亮度"
+
+msgid "UMO_Detail"
+msgstr "详细"
+
+msgid "UMO_Prism"
+msgstr "超时空棱镜"
+
+msgid "UMO_Group"
+msgstr "角色编队"
+
+msgid "UMO_DisplaySwitch"
+msgstr "变更显示"
