@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-24 15:31+0000\n"
+"PO-Revision-Date: 2025-01-25 14:32+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "common/ko/>\n"
@@ -160,34 +160,38 @@ msgid "saka_error0044"
 msgstr "미정의"
 
 msgid "saka_error0045"
-msgstr ""
+msgstr "구매할 수 없습니다."
 
 msgid "saka_error0046"
-msgstr ""
+msgstr "구매가 취소되었습니다."
 
 msgid "saka_error0047"
-msgstr ""
+msgstr "푸시 알림을 사용할 수 없습니다."
 
 msgid "saka_error0048"
 msgstr ""
+"푸시 알림을 사용할 수 없습니다.\n"
+"푸시 알림 설정을 확인한 후 다시 시도해 보세요."
 
 msgid "saka_error0049"
-msgstr ""
+msgstr "잘못된 입력입니다."
 
 msgid "saka_error0050"
 msgstr ""
+"새로운 버전의 앱이 스토어에서 제공되고 있습니다.\n"
+"앱을 업데이트하기 위해 스토어를 엽니다."
 
 msgid "saka_error0051"
-msgstr ""
+msgstr "이미 게임 정보가 존재합니다."
 
 msgid "saka_error0052"
-msgstr ""
+msgstr "인계가 제한되어 있습니다."
 
 msgid "saka_error0053"
-msgstr ""
+msgstr "잠겨 있습니다. 잠시 후 다시 시도해 보세요."
 
 msgid "saka_error0054"
-msgstr ""
+msgstr "스레드를 찾을 수 없습니다."
 
 msgid "saka_error0055"
 msgstr ""
@@ -916,13 +920,15 @@ msgid "popup_ngword_error_message"
 msgstr ""
 
 msgid "popup_kiyaku_title"
-msgstr ""
+msgstr "약관 확인"
 
 msgid "popup_kiyaku_001"
-msgstr ""
+msgstr "이용약관에 동의하십니까?"
 
 msgid "popup_kiyaku_002"
 msgstr ""
+"우타 마크로스 스마트폰 De카르챠를 이용하기 위해서는\n"
+"이용약관에 동의하셔야 합니다."
 
 msgid "popup_not_play_title"
 msgstr ""
