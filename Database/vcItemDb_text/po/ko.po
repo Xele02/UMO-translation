@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-01-23 07:51+0000\n"
+"PO-Revision-Date: 2025-01-25 14:32+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "vcitemdb_text/ko/>\n"
@@ -285,22 +285,22 @@ msgid "vcitem_0044_desc"
 msgstr ""
 
 msgid "vcitem_0045_title"
-msgstr ""
+msgstr "가정석　세뱃돈 세트 A"
 
 msgid "vcitem_0045_desc"
-msgstr ""
+msgstr "가정석 300개의 저렴한 팩입니다. (덤으로 윈터 스피어 300개 + 세뱃돈 15개)"
 
 msgid "vcitem_0046_title"
-msgstr ""
+msgstr "가정석　세뱃돈 세트 B"
 
 msgid "vcitem_0046_desc"
-msgstr ""
+msgstr "가정석 1000개의 저렴한 팩입니다.(덤으로 윈터 스피어 1000개 + 세뱃돈 45개)"
 
 msgid "vcitem_0047_title"
-msgstr ""
+msgstr "가정석　세뱃돈 세트 C"
 
 msgid "vcitem_0047_desc"
-msgstr ""
+msgstr "가정석 2200개의 저렴한 팩입니다.(덤으로 윈터스피어 2200개 + 세뱃돈100개)"
 
 msgid "vcitem_0048_title"
 msgstr ""
