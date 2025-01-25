@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-24 15:31+0000\n"
+"PO-Revision-Date: 2025-01-25 14:32+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -259,6 +259,8 @@ msgstr ""
 
 msgid "set_notification_text_02"
 msgstr ""
+"이벤트, 캠페인 등 공지사항을\n"
+"푸시 알림으로 알려드립니다."
 
 msgid "set_notification_text_03"
 msgstr ""
@@ -268,24 +270,36 @@ msgstr ""
 
 msgid "set_notification_text_05"
 msgstr ""
+"에너지가 완전히 회복되면\n"
+"푸시 알림을 보내드립니다."
 
 msgid "set_notification_text_06"
 msgstr ""
+"초시공 SNS에서 대화가 발신될 때\n"
+"푸시 알림을 보내드립니다."
 
 msgid "set_notification_text_07"
 msgstr ""
+"발키리 오퍼레이션이 완료되면\n"
+"푸시 알림을 보내드립니다."
 
 msgid "set_notification_text_08"
 msgstr ""
+"AP가 완전히 회복되면\n"
+"푸시 알림을 보내드립니다."
 
 msgid "set_notification_text_09"
 msgstr ""
+"EX 폭주 에너미 출현 시\n"
+"푸시 알림을 보내드립니다."
 
 msgid "set_notification_text_10"
 msgstr ""
 
 msgid "set_notification_text_11"
 msgstr ""
+"데코룸에서 회수할 수 있는 물건이\n"
+"가득 차면 푸시 알림을 보내드립니다."
 
 msgid "set_battle_event_text_01"
 msgstr ""
@@ -1372,25 +1386,25 @@ msgid "friend_caution_request"
 msgstr ""
 
 msgid "popup_friend_search_title"
-msgstr ""
+msgstr "ID 검색"
 
 msgid "popup_friend_search_placeholder"
-msgstr ""
+msgstr "플레이어 ID를 입력해 주세요."
 
 msgid "popup_friend_search_myself_title"
-msgstr ""
+msgstr "검색 실패"
 
 msgid "popup_friend_search_myself_msg"
 msgstr ""
 
 msgid "popup_friend_search_not_found_title"
-msgstr ""
+msgstr "검색 실패"
 
 msgid "popup_friend_search_not_found_msg"
-msgstr ""
+msgstr "플레이어 ID가 잘못되었습니다."
 
 msgid "ranking_message"
-msgstr ""
+msgstr "전 난이도 공통 랭킹입니다."
 
 msgid "ranking_no_entry"
 msgstr ""
@@ -1408,13 +1422,13 @@ msgid "ranking_ev_range_not_found"
 msgstr ""
 
 msgid "popup_rank_range_title"
-msgstr ""
+msgstr "표시 순위"
 
 msgid "popup_rank_range_myself"
-msgstr ""
+msgstr "자신의 순위"
 
 msgid "popup_rank_range_place"
-msgstr ""
+msgstr "{0}위～"
 
 msgid "music_week_play_count_limit"
 msgstr ""
@@ -2514,7 +2528,7 @@ msgid "popup_unlock_desc_title"
 msgstr ""
 
 msgid "popup_episodebonus_platelist_title"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_episodebonus_nothingplate"
 msgstr ""
@@ -2691,13 +2705,13 @@ msgid "mvmode_setting_popup_text_000_000"
 msgstr ""
 
 msgid "mvmode_setting_popup_text_000_001"
-msgstr ""
+msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_000"
 msgstr ""
 
 msgid "mvmode_setting_popup_text_001_001"
-msgstr ""
+msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_002"
 msgstr ""
@@ -2707,9 +2721,11 @@ msgstr ""
 
 msgid "mvmode_setting_popup_text_002_001"
 msgstr ""
+"{0} {1}\n"
+"{2}"
 
 msgid "mvmode_check_popup_title"
-msgstr ""
+msgstr "아이템 소비"
 
 msgid "mvmode_check_popup_text"
 msgstr ""
@@ -2748,7 +2764,7 @@ msgid "item_popup_shop_text_09"
 msgstr ""
 
 msgid "item_episode_plate"
-msgstr ""
+msgstr "에피소드 플레이트"
 
 msgid "item_shop_medal_period"
 msgstr ""
@@ -2778,10 +2794,10 @@ msgid "item_shop_limit_period"
 msgstr ""
 
 msgid "event_mission_message_000"
-msgstr ""
+msgstr "+{0}%"
 
 msgid "event_mission_message_001"
-msgstr ""
+msgstr "도전할 미션을 선택하자"
 
 msgid "music_select_event_bonus"
 msgstr ""
@@ -2811,22 +2827,22 @@ msgid "event_mission_changemusic_caution2"
 msgstr ""
 
 msgid "event_mission_changemusic_format"
-msgstr ""
+msgstr "{0}{1}{2}"
 
 msgid "event_mission_setting_title"
-msgstr ""
+msgstr "미션 설정"
 
 msgid "event_mission_setting_desc_001"
-msgstr ""
+msgstr "악곡 선택 설정"
 
 msgid "event_mission_setting_desc_002"
-msgstr ""
+msgstr "미션 결정 후 자동으로 선택되는 악곡에 대해 설정합니다."
 
 msgid "event_mission_setting_desc_003"
-msgstr ""
+msgstr "악곡은 임의로 다시 선택할 수 있습니다."
 
 msgid "event_mission_setting_desc_004"
-msgstr ""
+msgstr "보너스 악곡 중 랜덤으로 선택"
 
 msgid "event_mission_setting_desc_005"
 msgstr ""
@@ -2853,10 +2869,10 @@ msgid "popup_music_grade_title"
 msgstr ""
 
 msgid "popup_music_rate_total"
-msgstr ""
+msgstr "합계"
 
 msgid "popup_music_rate_up"
-msgstr ""
+msgstr "↑"
 
 msgid "popup_music_rate_not_found"
 msgstr ""
@@ -2883,7 +2899,7 @@ msgid "popup_music_rate_desc"
 msgstr ""
 
 msgid "popup_music_rate_rank_unit"
-msgstr ""
+msgstr "{0}위"
 
 msgid "event_gacha_box_period"
 msgstr ""
@@ -2979,10 +2995,10 @@ msgid "diva_intimacy_basara_tips"
 msgstr ""
 
 msgid "event_story_text_001"
-msgstr ""
+msgstr "프롤로그"
 
 msgid "event_story_text_002"
-msgstr ""
+msgstr "에필로그"
 
 msgid "event_story_text_003"
 msgstr ""
@@ -3018,7 +3034,7 @@ msgid "event_story_text_013"
 msgstr ""
 
 msgid "event_story_text_014"
-msgstr ""
+msgstr "아이템 소비"
 
 msgid "event_story_list_period"
 msgstr ""
@@ -4240,7 +4256,7 @@ msgid "pop_raid_ap_heal_item01_text03"
 msgstr ""
 
 msgid "pop_raid_ap_heal_item02_text01"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_raid_ap_heal_item02_text02"
 msgstr ""
@@ -4249,7 +4265,7 @@ msgid "pop_raid_ap_heal_item02_text03"
 msgstr ""
 
 msgid "pop_raid_ap_heal_item03_text01"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_raid_ap_heal_item03_text02"
 msgstr ""
@@ -4273,10 +4289,10 @@ msgid "pop_raid_heal_item_cannon_text005"
 msgstr ""
 
 msgid "raid_mvp_notes_text"
-msgstr ""
+msgstr "전 난이도 공통 랭킹입니다."
 
 msgid "raid_mvp_desc_text"
-msgstr ""
+msgstr "누적 임팩트 수에는 적에게 가한 임팩트 수가 그대로 합산됩니다"
 
 msgid "raid_mvp_cell_text01"
 msgstr ""
@@ -5023,6 +5039,8 @@ msgstr ""
 
 msgid "set_notification_text_12"
 msgstr ""
+"기한이 만료된 아이템의 유효기간이\n"
+"다가오면 푸시 알림을 보내드립니다."
 
 msgid "pop_limited_item_warning_text_2"
 msgstr ""
@@ -5681,10 +5699,10 @@ msgid "popup_godiva_status_name_charm"
 msgstr ""
 
 msgid "popup_godiva_status_level"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_godiva_status_status"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_godiva_status_up_status"
 msgstr ""
@@ -5880,7 +5898,7 @@ msgid "gakuya_gift_unlock_rank"
 msgstr ""
 
 msgid "gakuya_status_diva_ranking_value"
-msgstr ""
+msgstr "{0}위"
 
 msgid "gakuya_intimacy_present_none"
 msgstr ""
@@ -5889,7 +5907,7 @@ msgid "gakuya_gift_stock_count"
 msgstr ""
 
 msgid "pop_gakuya_present_ask_title"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_gakuya_present_ask"
 msgstr ""
