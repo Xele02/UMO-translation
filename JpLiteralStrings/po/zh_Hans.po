@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-01-23 07:51+0000\n"
+"PO-Revision-Date: 2025-01-25 15:57+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -2085,3 +2085,66 @@ msgstr "S级"
 
 msgid "UMO_SkillFilterSSRank"
 msgstr "SS级"
+
+msgid "UMO_Filter"
+msgstr "筛选"
+
+msgid "UMO_Preview"
+msgstr "预览"
+
+msgid "UMO_Ok"
+msgstr "OK"
+
+msgid "UMO_Cancel"
+msgstr "取消"
+
+msgid "UMO_FilterFavorite"
+msgstr "收藏夹"
+
+msgid "UMO_Attribute"
+msgstr "属性"
+
+msgid "UMO_AchievedReward"
+msgstr "达成奖励"
+
+msgid "UMO_UnlockStatus"
+msgstr "歌曲解锁状况"
+
+msgid "UMO_SongTime"
+msgstr "歌曲长短"
+
+msgid "UMO_UnitNumber"
+msgstr "多人演出"
+
+msgid "UMO_Display"
+msgstr "显示"
+
+msgid "UMO_NoDisplay"
+msgstr "不显示"
+
+msgid "UMO_ModelDisplay"
+msgstr "歌姬显示"
+
+msgid "UMO_BgIllust"
+msgstr "场景"
+
+msgid "UMO_BgPlate"
+msgstr "卡片"
+
+msgid "UMO_BgLight"
+msgstr "亮"
+
+msgid "UMO_SortDisplayOrder"
+msgstr "排序方式"
+
+msgid "UMO_Combo"
+msgstr "连击"
+
+msgid "UMO_BgDisplay"
+msgstr "背景显示"
+
+msgid "UMO_BgDark"
+msgstr "暗"
+
+msgid "UMO_BgBrightness"
+msgstr "背景亮度"
