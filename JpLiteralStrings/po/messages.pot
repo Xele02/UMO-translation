@@ -2098,3 +2098,15 @@ msgstr ""
 msgid "UMO_Cancel"
 msgstr ""
 
+msgid "UMO_Detail"
+msgstr ""
+
+msgid "UMO_DisplaySwitch"
+msgstr ""
+
+msgid "UMO_Prism"
+msgstr ""
+
+msgid "UMO_Group"
+msgstr ""
+

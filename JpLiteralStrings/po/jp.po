@@ -2098,3 +2098,15 @@ msgstr "OK"
 msgid "UMO_Cancel"
 msgstr "キャンセル"
 
+msgid "UMO_Detail"
+msgstr "詳細"
+
+msgid "UMO_DisplaySwitch"
+msgstr "表示切替"
+
+msgid "UMO_Prism"
+msgstr "超時空プリズム"
+
+msgid "UMO_Group"
+msgstr "ユニット編成"
+
