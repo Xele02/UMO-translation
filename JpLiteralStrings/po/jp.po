@@ -1159,6 +1159,9 @@ msgstr "今日は表示しない"
 msgid "StringLiteral_14401"
 msgstr "+ボタン"
 
+msgid "StringLiteral_14411"
+msgstr "画像をシェアするアプリを選択してください。"
+
 msgid "StringLiteral_14529"
 msgstr "ーーー"
 
@@ -2031,4 +2034,67 @@ msgstr "S級"
 
 msgid "UMO_SkillFilterSSRank"
 msgstr "SS級"
+
+msgid "UMO_SortDisplayOrder"
+msgstr "表示順"
+
+msgid "UMO_FilterFavorite"
+msgstr "お気に入り"
+
+msgid "UMO_Attribute"
+msgstr "属性"
+
+msgid "UMO_Combo"
+msgstr "コンボ"
+
+msgid "UMO_AchievedReward"
+msgstr "達成報酬"
+
+msgid "UMO_UnlockStatus"
+msgstr "楽曲解放状況"
+
+msgid "UMO_SongTime"
+msgstr "楽曲時間"
+
+msgid "UMO_UnitNumber"
+msgstr "ユニットライブ"
+
+msgid "UMO_Display"
+msgstr "表示する"
+
+msgid "UMO_NoDisplay"
+msgstr "表示しない"
+
+msgid "UMO_ModelDisplay"
+msgstr "モデルの表示設定"
+
+msgid "UMO_BgIllust"
+msgstr "イラスト"
+
+msgid "UMO_BgPlate"
+msgstr "プレート"
+
+msgid "UMO_BgDisplay"
+msgstr "背景の表示設定"
+
+msgid "UMO_BgLight"
+msgstr "明るい"
+
+msgid "UMO_BgDark"
+msgstr "暗い"
+
+msgid "UMO_BgBrightness"
+msgstr "背景の明度"
+
+msgid "UMO_Filter"
+msgstr "フィルター"
+
+msgid "UMO_Preview"
+msgstr "プレビュー"
+
+msgid "UMO_Ok"
+msgstr "OK"
+
+msgid "UMO_Cancel"
+msgstr "キャンセル"
 

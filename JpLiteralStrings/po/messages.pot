@@ -1159,6 +1159,9 @@ msgstr ""
 msgid "StringLiteral_14401"
 msgstr ""
 
+msgid "StringLiteral_14411"
+msgstr ""
+
 msgid "StringLiteral_14529"
 msgstr ""
 
@@ -2030,5 +2033,68 @@ msgid "UMO_SkillFilterSRank"
 msgstr ""
 
 msgid "UMO_SkillFilterSSRank"
+msgstr ""
+
+msgid "UMO_SortDisplayOrder"
+msgstr ""
+
+msgid "UMO_FilterFavorite"
+msgstr ""
+
+msgid "UMO_Attribute"
+msgstr ""
+
+msgid "UMO_Combo"
+msgstr ""
+
+msgid "UMO_AchievedReward"
+msgstr ""
+
+msgid "UMO_UnlockStatus"
+msgstr ""
+
+msgid "UMO_SongTime"
+msgstr ""
+
+msgid "UMO_UnitNumber"
+msgstr ""
+
+msgid "UMO_Display"
+msgstr ""
+
+msgid "UMO_NoDisplay"
+msgstr ""
+
+msgid "UMO_ModelDisplay"
+msgstr ""
+
+msgid "UMO_BgIllust"
+msgstr ""
+
+msgid "UMO_BgPlate"
+msgstr ""
+
+msgid "UMO_BgDisplay"
+msgstr ""
+
+msgid "UMO_BgLight"
+msgstr ""
+
+msgid "UMO_BgDark"
+msgstr ""
+
+msgid "UMO_BgBrightness"
+msgstr ""
+
+msgid "UMO_Filter"
+msgstr ""
+
+msgid "UMO_Preview"
+msgstr ""
+
+msgid "UMO_Ok"
+msgstr ""
+
+msgid "UMO_Cancel"
 msgstr ""
 
