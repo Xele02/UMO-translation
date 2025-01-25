@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2024-08-31 15:28+0000\n"
+"PO-Revision-Date: 2025-01-25 14:46+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -2061,3 +2061,69 @@ msgstr "S"
 
 msgid "UMO_SkillFilterSSRank"
 msgstr "SS"
+
+msgid "UMO_Cancel"
+msgstr "Annuler"
+
+msgid "UMO_Ok"
+msgstr "OK"
+
+msgid "UMO_Preview"
+msgstr "Preview"
+
+msgid "UMO_Filter"
+msgstr "Filtres"
+
+msgid "UMO_BgBrightness"
+msgstr "Luminositée"
+
+msgid "UMO_BgDark"
+msgstr "Sombre"
+
+msgid "UMO_BgLight"
+msgstr "Clair"
+
+msgid "UMO_BgPlate"
+msgstr "Plaque"
+
+msgid "UMO_BgIllust"
+msgstr "Illustration"
+
+msgid "UMO_ModelDisplay"
+msgstr "Affichage du model"
+
+msgid "UMO_NoDisplay"
+msgstr "Non affiché"
+
+msgid "UMO_Display"
+msgstr "Affiché"
+
+msgid "UMO_UnitNumber"
+msgstr "Groupe"
+
+msgid "UMO_SongTime"
+msgstr "Durée de chanson"
+
+msgid "UMO_UnlockStatus"
+msgstr "Déblocage"
+
+msgid "UMO_AchievedReward"
+msgstr "Complétion"
+
+msgid "UMO_Combo"
+msgstr "Combo"
+
+msgid "UMO_Attribute"
+msgstr "Propriété"
+
+msgid "UMO_SortDisplayOrder"
+msgstr "Ordre de tri"
+
+msgid "UMO_BgDisplay"
+msgstr "Type d'affichage"
+
+msgid "UMO_FilterFavorite"
+msgstr "Favori"
+
+msgid "StringLiteral_14411"
+msgstr "Choix de l'application pour le partage."
