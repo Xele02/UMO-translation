@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-01-22 15:31+0000\n"
+"PO-Revision-Date: 2025-01-26 09:21+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/ko/>\n"
@@ -231,9 +231,11 @@ msgstr ""
 
 msgid "bingo_0001_0001_0026_desc"
 msgstr ""
+"VOP\n"
+"10회 달성"
 
 msgid "bingo_0001_0001_0026_cond"
-msgstr ""
+msgstr "발키리 오퍼레이션 10회 달성하기"
 
 msgid "bingo_0001_0001_0027_desc"
 msgstr ""
@@ -243,9 +245,11 @@ msgstr ""
 
 msgid "bingo_0002_0002_0001_desc"
 msgstr ""
+"플레이어 랭크\n"
+"8로 올리기"
 
 msgid "bingo_0002_0002_0001_cond"
-msgstr ""
+msgstr "플레이어 랭크 8로 올리기"
 
 msgid "bingo_0002_0002_0002_desc"
 msgstr ""
@@ -347,7 +351,7 @@ msgid "bingo_0002_0002_0018_desc"
 msgstr ""
 
 msgid "bingo_0002_0002_0018_cond"
-msgstr ""
+msgstr "발키리 오퍼레이션 10회 달성하기"
 
 msgid "bingo_0002_0002_0019_desc"
 msgstr ""
@@ -837,9 +841,11 @@ msgstr ""
 
 msgid "bingo_0004_0004_0001_desc"
 msgstr ""
+"플레이어 랭크\n"
+"8로 올리기"
 
 msgid "bingo_0004_0004_0001_cond"
-msgstr ""
+msgstr "플레이어 랭크 8로 올리기"
 
 msgid "bingo_0004_0004_0002_desc"
 msgstr ""
@@ -995,10 +1001,12 @@ msgid "bingo_0004_0004_0027_desc"
 msgstr ""
 
 msgid "bingo_0004_0004_0027_cond"
-msgstr ""
+msgstr "발키리 오퍼레이션 10회 달성하기"
 
 msgid "bingo_0005_0005_0001_desc"
 msgstr ""
+"플레이어 랭크\n"
+"8로 올리기"
 
 msgid "bingo_0005_0005_0001_cond"
 msgstr ""
