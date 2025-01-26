@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-26 09:46+0000\n"
+"PO-Revision-Date: 2025-01-26 12:23+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -13032,7 +13032,7 @@ msgid "qd_dsc_0001"
 msgstr ""
 
 msgid "qd_dsc_0002"
-msgstr ""
+msgstr "스코어 랭크 S 이상 1회 달성"
 
 msgid "qd_dsc_0003"
 msgstr ""
@@ -13142,13 +13142,13 @@ msgid "qn_dsc_0025"
 msgstr ""
 
 msgid "qn_dsc_0026"
-msgstr ""
+msgstr "풀콤보 1회 달성"
 
 msgid "qn_dsc_0027"
-msgstr ""
+msgstr "스코어 랭크 SS 1회 달성"
 
 msgid "qn_dsc_0028"
-msgstr ""
+msgstr "하이스코어 100000점 이상 달성"
 
 msgid "qn_dsc_0029"
 msgstr ""
@@ -13970,13 +13970,13 @@ msgid "qn_dsc_0329"
 msgstr ""
 
 msgid "qn_dsc_0330"
-msgstr ""
+msgstr "하이스코어 400000점 이상 달성"
 
 msgid "qn_dsc_0331"
-msgstr ""
+msgstr "하이스코어 450000점 이상 달성"
 
 msgid "qn_dsc_0332"
-msgstr ""
+msgstr "하이스코어 500000점 이상 달성"
 
 msgid "qn_dsc_0333"
 msgstr ""
@@ -14123,70 +14123,70 @@ msgid "qn_dsc_0380"
 msgstr ""
 
 msgid "qn_dsc_0381"
-msgstr ""
+msgstr "풀콤보 150회 달성"
 
 msgid "qn_dsc_0382"
-msgstr ""
+msgstr "풀콤보 200회 달성"
 
 msgid "qn_dsc_0383"
-msgstr ""
+msgstr "풀콤보 300회 달성"
 
 msgid "qn_dsc_0384"
-msgstr ""
+msgstr "풀콤보 400회 달성"
 
 msgid "qn_dsc_0385"
-msgstr ""
+msgstr "풀콤보 500회 달성"
 
 msgid "qn_dsc_0386"
-msgstr ""
+msgstr "풀콤보 750회 달성"
 
 msgid "qn_dsc_0387"
-msgstr ""
+msgstr "풀콤보 1000회 달성"
 
 msgid "qn_dsc_0388"
-msgstr ""
+msgstr "풀콤보 1250회 달성"
 
 msgid "qn_dsc_0389"
-msgstr ""
+msgstr "풀콤보 1500회 달성"
 
 msgid "qn_dsc_0390"
-msgstr ""
+msgstr "풀콤보 2000회 달성"
 
 msgid "qn_dsc_0391"
-msgstr ""
+msgstr "풀콤보 2500회 달성"
 
 msgid "qn_dsc_0392"
-msgstr ""
+msgstr "스코어 랭크 SS 150회 달성"
 
 msgid "qn_dsc_0393"
-msgstr ""
+msgstr "스코어 랭크 SS 200회 달성"
 
 msgid "qn_dsc_0394"
-msgstr ""
+msgstr "스코어 랭크 SS 300회 달성"
 
 msgid "qn_dsc_0395"
-msgstr ""
+msgstr "스코어 랭크 SS 400회 달성"
 
 msgid "qn_dsc_0396"
-msgstr ""
+msgstr "스코어 랭크 SS 500회 달성"
 
 msgid "qn_dsc_0397"
-msgstr ""
+msgstr "스코어 랭크 SS 750회 달성"
 
 msgid "qn_dsc_0398"
-msgstr ""
+msgstr "스코어 랭크 SS 1000회 달성"
 
 msgid "qn_dsc_0399"
-msgstr ""
+msgstr "스코어 랭크 1250회 달성"
 
 msgid "qn_dsc_0400"
-msgstr ""
+msgstr "스코어 랭크 SS 1500회 달성"
 
 msgid "qn_dsc_0401"
-msgstr ""
+msgstr "스코어 랭크 SS 2000회 달성"
 
 msgid "qn_dsc_0402"
-msgstr ""
+msgstr "스코어 랭크 SS 2500회 달성"
 
 msgid "qn_dsc_0403"
 msgstr ""
@@ -14549,34 +14549,34 @@ msgid "qn_dsc_0523"
 msgstr ""
 
 msgid "qn_dsc_0524"
-msgstr ""
+msgstr "하이스코어 550000점 이상 달성"
 
 msgid "qn_dsc_0525"
-msgstr ""
+msgstr "하이스코어 600000점 이상 달성"
 
 msgid "qn_dsc_0526"
-msgstr ""
+msgstr "하이스코어 650000점 이상 달성"
 
 msgid "qn_dsc_0527"
-msgstr ""
+msgstr "하이스코어 700000점 이상 달성"
 
 msgid "qn_dsc_0528"
-msgstr ""
+msgstr "하이스코어 750000점 이상 달성"
 
 msgid "qn_dsc_0529"
-msgstr ""
+msgstr "하이스코어 800000점 이상 달성"
 
 msgid "qn_dsc_0530"
-msgstr ""
+msgstr "하이스코어 850000점 이상 달성"
 
 msgid "qn_dsc_0531"
-msgstr ""
+msgstr "하이스코어 900000점 이상 달성"
 
 msgid "qn_dsc_0532"
-msgstr ""
+msgstr "하이스코어 950000점 이상 달성"
 
 msgid "qn_dsc_0533"
-msgstr ""
+msgstr "하이스코어 1000000점 이상 달성"
 
 msgid "qn_dsc_0534"
 msgstr ""
@@ -15732,129 +15732,169 @@ msgstr ""
 
 msgid "qn_dsc_0918"
 msgstr ""
+"프레이아의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0919"
 msgstr ""
+"프레이아의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0920"
 msgstr ""
+"미쿠모의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0921"
 msgstr ""
+"미쿠모의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0922"
 msgstr ""
+"카나메의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0923"
 msgstr ""
+"카나메의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0924"
 msgstr ""
+"마키나의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0925"
 msgstr ""
+"마키나의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0926"
 msgstr ""
+"레이나의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0927"
 msgstr ""
+"레이나의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0928"
 msgstr ""
+"란카의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0929"
 msgstr ""
+"란카의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0930"
 msgstr ""
+"셰릴의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0931"
 msgstr ""
+"셰릴의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0932"
 msgstr ""
+"밀레느의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0933"
 msgstr ""
+"밀레느의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0934"
 msgstr ""
+"바사라의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0935"
 msgstr ""
+"바사라의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0936"
 msgstr ""
+"민메이의 의뢰를 1회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0937"
 msgstr ""
+"민메이의 의뢰를 10회 달성하고\n"
+"【가희 오퍼레이션】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0938"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 10회 달성"
 
 msgid "qn_dsc_0939"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 20회 달성"
 
 msgid "qn_dsc_0940"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 30회 달성"
 
 msgid "qn_dsc_0941"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 50회 달성"
 
 msgid "qn_dsc_0942"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 75회 달성"
 
 msgid "qn_dsc_0943"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 100회 달성"
 
 msgid "qn_dsc_0944"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 150회 달성"
 
 msgid "qn_dsc_0945"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 200회 달성"
 
 msgid "qn_dsc_0946"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 250회 달성"
 
 msgid "qn_dsc_0947"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 300회 달성"
 
 msgid "qn_dsc_0948"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 400회 달성"
 
 msgid "qn_dsc_0949"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 500회 달성"
 
 msgid "qn_dsc_0950"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 750회 달성"
 
 msgid "qn_dsc_0951"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 1000회 달성"
 
 msgid "qn_dsc_0952"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 1250회 달성"
 
 msgid "qn_dsc_0953"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 1500회 달성"
 
 msgid "qn_dsc_0954"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 1750회 달성"
 
 msgid "qn_dsc_0955"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 2000회 달성"
 
 msgid "qn_dsc_0956"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 2250회 달성"
 
 msgid "qn_dsc_0957"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 2500회 달성"
 
 msgid "qn_dsc_0958"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 2750회 달성"
 
 msgid "qn_dsc_0959"
-msgstr ""
+msgstr "발키리 오퍼레이션 누적 3000회 달성"
 
 msgid "qn_dsc_0960"
 msgstr ""
@@ -15903,6 +15943,8 @@ msgstr ""
 
 msgid "qn_dsc_0975"
 msgstr ""
+"발키리 오퍼레이션 누적 10회 달성 및\n"
+"의상 강화 튜토리얼 완료"
 
 msgid "qn_dsc_0976"
 msgstr ""
