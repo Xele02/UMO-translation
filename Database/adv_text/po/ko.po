@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-24 15:31+0000\n"
+"PO-Revision-Date: 2025-01-26 07:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/ko/>\n"
@@ -4243,7 +4243,7 @@ msgid "adv_101002_0032_msg"
 msgstr ""
 
 msgid "adv_101002_0033_msg"
-msgstr ""
+msgstr "네, 넵!"
 
 msgid "adv_200901_0008_msg"
 msgstr ""
@@ -7900,7 +7900,7 @@ msgid "adv_301201_0026_msg"
 msgstr ""
 
 msgid "adv_301201_0027_msg"
-msgstr ""
+msgstr "네, 넵!"
 
 msgid "adv_301201_0028_msg"
 msgstr ""
@@ -11677,7 +11677,7 @@ msgid "adv_301801_0009_msg"
 msgstr ""
 
 msgid "adv_301801_0010_msg"
-msgstr ""
+msgstr "네, 넵!"
 
 msgid "adv_301801_0011_msg"
 msgstr ""
@@ -11704,7 +11704,7 @@ msgid "adv_301801_0018_msg"
 msgstr ""
 
 msgid "adv_301801_0019_msg"
-msgstr ""
+msgstr "란카…"
 
 msgid "adv_301801_0020_msg"
 msgstr ""
@@ -11716,7 +11716,7 @@ msgid "adv_301801_0023_msg"
 msgstr ""
 
 msgid "adv_301801_0027_msg"
-msgstr ""
+msgstr "프레이아 비온"
 
 msgid "adv_301801_0028_msg"
 msgstr ""
@@ -22807,7 +22807,7 @@ msgid "adv_1400701_0012_msg"
 msgstr ""
 
 msgid "adv_1400701_0013_msg"
-msgstr ""
+msgstr "네, 넵!"
 
 msgid "adv_1400701_0014_msg"
 msgstr "…………"
