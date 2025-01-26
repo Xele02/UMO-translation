@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-01-26 09:21+0000\n"
+"PO-Revision-Date: 2025-01-26 09:47+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/ko/>\n"
@@ -271,9 +271,11 @@ msgstr ""
 
 msgid "bingo_0002_0002_0005_desc"
 msgstr ""
+"스코어 50만점\n"
+"이상 달성"
 
 msgid "bingo_0002_0002_0005_cond"
-msgstr ""
+msgstr "점수 50만점 이상 달성"
 
 msgid "bingo_0002_0002_0006_desc"
 msgstr ""
@@ -285,7 +287,7 @@ msgid "bingo_0002_0002_0007_desc"
 msgstr ""
 
 msgid "bingo_0002_0002_0007_cond"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 10회 클리어"
 
 msgid "bingo_0002_0002_0008_desc"
 msgstr ""
@@ -298,6 +300,8 @@ msgstr ""
 
 msgid "bingo_0002_0002_0009_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간 로그인하기"
 
 msgid "bingo_0002_0002_0010_desc"
 msgstr ""
@@ -331,15 +335,19 @@ msgstr ""
 
 msgid "bingo_0002_0002_0015_desc"
 msgstr ""
+"스코어 80만점\n"
+"이상 달성"
 
 msgid "bingo_0002_0002_0015_cond"
-msgstr ""
+msgstr "스코어 80만점 이상 달성"
 
 msgid "bingo_0002_0002_0016_desc"
 msgstr ""
 
 msgid "bingo_0002_0002_0016_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간 로그인하기"
 
 msgid "bingo_0002_0002_0017_desc"
 msgstr ""
@@ -349,6 +357,9 @@ msgstr ""
 
 msgid "bingo_0002_0002_0018_desc"
 msgstr ""
+"발키리\n"
+"오퍼레이션\n"
+"10회 달성"
 
 msgid "bingo_0002_0002_0018_cond"
 msgstr "발키리 오퍼레이션 10회 달성하기"
@@ -367,9 +378,11 @@ msgstr ""
 
 msgid "bingo_0002_0002_0021_desc"
 msgstr ""
+"풀콤보\n"
+"10회 달성"
 
 msgid "bingo_0002_0002_0021_cond"
-msgstr ""
+msgstr "풀콤보 10회 달성"
 
 msgid "bingo_0002_0002_0022_desc"
 msgstr ""
@@ -382,12 +395,16 @@ msgstr ""
 
 msgid "bingo_0002_0002_0023_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간 로그인하기"
 
 msgid "bingo_0002_0002_0024_desc"
 msgstr ""
+"스코어 100만점\n"
+"이상 달성"
 
 msgid "bingo_0002_0002_0024_cond"
-msgstr ""
+msgstr "스코어 100만점 이상 달성"
 
 msgid "bingo_0002_0002_0025_desc"
 msgstr ""
@@ -403,9 +420,12 @@ msgstr ""
 
 msgid "bingo_0002_0002_0027_desc"
 msgstr ""
+"발키리\n"
+"오퍼레이션\n"
+"20회 달성"
 
 msgid "bingo_0002_0002_0027_cond"
-msgstr ""
+msgstr "발키리 오퍼레이션 20회 달성하기"
 
 msgid "bingo_0003_0003_0001_desc"
 msgstr ""
@@ -867,9 +887,11 @@ msgstr ""
 
 msgid "bingo_0004_0004_0005_desc"
 msgstr ""
+"스코어 30만점\n"
+"이상 달성"
 
 msgid "bingo_0004_0004_0005_cond"
-msgstr ""
+msgstr "스코어 30만점 이상 달성"
 
 msgid "bingo_0004_0004_0006_desc"
 msgstr ""
@@ -879,6 +901,9 @@ msgstr ""
 
 msgid "bingo_0004_0004_0007_desc"
 msgstr ""
+"초가희 모드에\n"
+"돌입하여\n"
+"1회 클리어"
 
 msgid "bingo_0004_0004_0007_cond"
 msgstr ""
@@ -927,6 +952,8 @@ msgstr ""
 
 msgid "bingo_0004_0004_0015_desc"
 msgstr ""
+"스코어 60만점\n"
+"이상 달성"
 
 msgid "bingo_0004_0004_0015_cond"
 msgstr ""
@@ -936,6 +963,8 @@ msgstr ""
 
 msgid "bingo_0004_0004_0016_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간 로그인하기"
 
 msgid "bingo_0004_0004_0017_desc"
 msgstr ""
@@ -978,12 +1007,16 @@ msgstr ""
 
 msgid "bingo_0004_0004_0023_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간 로그인하기"
 
 msgid "bingo_0004_0004_0024_desc"
 msgstr ""
+"스코어 100만점\n"
+"이상 달성"
 
 msgid "bingo_0004_0004_0024_cond"
-msgstr ""
+msgstr "스코어 100만점 이상 달성"
 
 msgid "bingo_0004_0004_0025_desc"
 msgstr ""
@@ -999,6 +1032,9 @@ msgstr ""
 
 msgid "bingo_0004_0004_0027_desc"
 msgstr ""
+"발키리\n"
+"오퍼레이션\n"
+"10회 달성"
 
 msgid "bingo_0004_0004_0027_cond"
 msgstr "발키리 오퍼레이션 10회 달성하기"
@@ -1009,19 +1045,23 @@ msgstr ""
 "8로 올리기"
 
 msgid "bingo_0005_0005_0001_cond"
-msgstr ""
+msgstr "플레이어 랭크 8로 올리기"
 
 msgid "bingo_0005_0005_0002_desc"
 msgstr ""
+"이벤트에서 악곡\n"
+"1회 플레이"
 
 msgid "bingo_0005_0005_0002_cond"
-msgstr ""
+msgstr "이벤트에서 악곡 1회 플레이하기"
 
 msgid "bingo_0005_0005_0003_desc"
 msgstr ""
+"요일 악곡\n"
+"3회 클리어"
 
 msgid "bingo_0005_0005_0003_cond"
-msgstr ""
+msgstr "요일 악곡 3회 클리어하기"
 
 msgid "bingo_0005_0005_0004_desc"
 msgstr ""
@@ -1031,18 +1071,25 @@ msgstr ""
 
 msgid "bingo_0005_0005_0005_desc"
 msgstr ""
+"스코어 50만점\n"
+"이상 달성"
 
 msgid "bingo_0005_0005_0005_cond"
-msgstr ""
+msgstr "스코어 50만점 이상 달성하기"
 
 msgid "bingo_0005_0005_0006_desc"
 msgstr ""
+"스코어 랭크 SS\n"
+"1회 달성"
 
 msgid "bingo_0005_0005_0006_cond"
-msgstr ""
+msgstr "스코어 랭크 SS 1회 달성하기"
 
 msgid "bingo_0005_0005_0007_desc"
 msgstr ""
+"초가희 모드에\n"
+"돌입하여\n"
+"1회 클리어"
 
 msgid "bingo_0005_0005_0007_cond"
 msgstr ""
@@ -1085,15 +1132,22 @@ msgstr ""
 
 msgid "bingo_0005_0005_0014_desc"
 msgstr ""
+"스코어 80만점\n"
+"이상 달성"
 
 msgid "bingo_0005_0005_0014_cond"
-msgstr ""
+msgstr "스코어 80만점 이상 달성하기"
 
 msgid "bingo_0005_0005_0015_desc"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간\n"
+"로그인"
 
 msgid "bingo_0005_0005_0015_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 3일간 로그인하기"
 
 msgid "bingo_0005_0005_0016_desc"
 msgstr ""
@@ -1145,24 +1199,32 @@ msgstr ""
 
 msgid "bingo_0005_0005_0024_desc"
 msgstr ""
+"스코어 100만점\n"
+"이상 달성"
 
 msgid "bingo_0005_0005_0024_cond"
-msgstr ""
+msgstr "스코어 100만점 이상 달성하기"
 
 msgid "bingo_0005_0005_0025_desc"
 msgstr ""
+"스코어 랭크 SS\n"
+"10회 달성"
 
 msgid "bingo_0005_0005_0025_cond"
-msgstr ""
+msgstr "스코어 랭크 SS 10회 달성하기"
 
 msgid "bingo_0005_0005_0026_desc"
 msgstr ""
+"가희 중 한 명의 레벨\n"
+"5로 올리기"
 
 msgid "bingo_0005_0005_0026_cond"
-msgstr ""
+msgstr "가희 중 한 명의 레벨 5로 올리기"
 
 msgid "bingo_0005_0005_0027_desc"
 msgstr ""
+"요일 악곡\n"
+"5회 클리어"
 
 msgid "bingo_0005_0005_0027_cond"
-msgstr ""
+msgstr "요일 악곡 5회 클리어하기"
