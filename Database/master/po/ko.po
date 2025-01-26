@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-26 12:23+0000\n"
+"PO-Revision-Date: 2025-01-26 12:34+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -549,7 +549,7 @@ msgid "c_nm_0083"
 msgstr ""
 
 msgid "c_dsc_0001"
-msgstr ""
+msgstr "유닛의 토탈치가 [v1]% 증가"
 
 msgid "c_dsc_0002"
 msgstr ""
@@ -561,13 +561,13 @@ msgid "c_dsc_0004"
 msgstr ""
 
 msgid "c_dsc_0005"
-msgstr ""
+msgstr "유닛의 소울이 [v1]% 증가"
 
 msgid "c_dsc_0006"
-msgstr ""
+msgstr "유닛의 보이스가 [v1]% 증가"
 
 msgid "c_dsc_0007"
-msgstr ""
+msgstr "유닛의 챰이 [v1]% 증가"
 
 msgid "c_dsc_0008"
 msgstr ""
@@ -579,7 +579,7 @@ msgid "c_dsc_0010"
 msgstr ""
 
 msgid "c_dsc_0011"
-msgstr ""
+msgstr "유닛의 토탈치가 [v1]% 증가"
 
 msgid "c_dsc_0012"
 msgstr ""
@@ -594,13 +594,13 @@ msgid "c_dsc_0015"
 msgstr ""
 
 msgid "c_dsc_0016"
-msgstr ""
+msgstr "유닛의 소울이 [v1]% 증가"
 
 msgid "c_dsc_0017"
-msgstr ""
+msgstr "유닛의 보이스가 [v1]% 증가"
 
 msgid "c_dsc_0018"
-msgstr ""
+msgstr "유닛의 챰이 [v1]% 증가"
 
 msgid "c_dsc_0019"
 msgstr ""
@@ -609,7 +609,7 @@ msgid "c_dsc_0020"
 msgstr ""
 
 msgid "c_dsc_0021"
-msgstr ""
+msgstr "유닛의 토탈치가 [v1]% 증가"
 
 msgid "c_dsc_0022"
 msgstr ""
@@ -621,13 +621,13 @@ msgid "c_dsc_0024"
 msgstr ""
 
 msgid "c_dsc_0025"
-msgstr ""
+msgstr "유닛의 소울이 [v1]% 증가"
 
 msgid "c_dsc_0026"
-msgstr ""
+msgstr "유닛의 보이스가 [v1]% 증가"
 
 msgid "c_dsc_0027"
-msgstr ""
+msgstr "유닛의 챰이 [v1]% 증가"
 
 msgid "c_dsc_0028"
 msgstr ""
