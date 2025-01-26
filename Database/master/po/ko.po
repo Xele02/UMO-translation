@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-25 14:32+0000\n"
+"PO-Revision-Date: 2025-01-26 07:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -3468,19 +3468,19 @@ msgid "gn_dsc_0027"
 msgstr ""
 
 msgid "diva_01"
-msgstr ""
+msgstr "프레이아 비온"
 
 msgid "diva_02"
-msgstr ""
+msgstr "미쿠모 기느메르"
 
 msgid "diva_03"
-msgstr ""
+msgstr "카나메 버캐니어"
 
 msgid "diva_04"
-msgstr ""
+msgstr "마키나 나카지마"
 
 msgid "diva_05"
-msgstr ""
+msgstr "레이나 프라울러"
 
 msgid "diva_06"
 msgstr ""
@@ -28128,19 +28128,19 @@ msgid "dc_itm_dsc_0513_obj"
 msgstr ""
 
 msgid "dc_itm_nm_0001_chr"
-msgstr ""
+msgstr "프레이아 비온"
 
 msgid "dc_itm_nm_0002_chr"
-msgstr ""
+msgstr "미쿠모 기느메르"
 
 msgid "dc_itm_nm_0003_chr"
-msgstr ""
+msgstr "카나메 버캐니어"
 
 msgid "dc_itm_nm_0004_chr"
-msgstr ""
+msgstr "마키나 나카지마"
 
 msgid "dc_itm_nm_0005_chr"
-msgstr ""
+msgstr "레이나 프라울러"
 
 msgid "dc_itm_nm_0006_chr"
 msgstr ""
