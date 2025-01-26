@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-01-26 10:18+0000\n"
+"PO-Revision-Date: 2025-01-26 12:23+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/ko/>\n"
@@ -1156,9 +1156,11 @@ msgstr ""
 
 msgid "bingo_0005_0005_0016_desc"
 msgstr ""
+"스코어 랭크 SS\n"
+"5회 달성"
 
 msgid "bingo_0005_0005_0016_cond"
-msgstr ""
+msgstr "스코어 랭크 SS 5회 달성하기"
 
 msgid "bingo_0005_0005_0017_desc"
 msgstr ""
@@ -1186,9 +1188,11 @@ msgstr ""
 
 msgid "bingo_0005_0005_0021_desc"
 msgstr ""
+"풀콤보\n"
+"5회 달성"
 
 msgid "bingo_0005_0005_0021_cond"
-msgstr ""
+msgstr "풀콤보 5회 달성하기"
 
 msgid "bingo_0005_0005_0022_desc"
 msgstr ""
@@ -1198,9 +1202,11 @@ msgstr ""
 
 msgid "bingo_0005_0005_0023_desc"
 msgstr ""
+"스코어 200만점\n"
+"이상 달성"
 
 msgid "bingo_0005_0005_0023_cond"
-msgstr ""
+msgstr "스코어 200만점 이상 달성하기"
 
 msgid "bingo_0005_0005_0024_desc"
 msgstr ""
