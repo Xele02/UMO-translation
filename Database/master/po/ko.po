@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-26 09:21+0000\n"
+"PO-Revision-Date: 2025-01-26 09:46+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -13670,64 +13670,64 @@ msgid "qn_dsc_0229"
 msgstr ""
 
 msgid "qn_dsc_0230"
-msgstr ""
+msgstr "풀콤보 5회 달성"
 
 msgid "qn_dsc_0231"
-msgstr ""
+msgstr "풀콤보 10회 달성"
 
 msgid "qn_dsc_0232"
-msgstr ""
+msgstr "풀콤보 20회 달성"
 
 msgid "qn_dsc_0233"
-msgstr ""
+msgstr "풀콤보 30회 달성"
 
 msgid "qn_dsc_0234"
-msgstr ""
+msgstr "풀콤보 40회 달성"
 
 msgid "qn_dsc_0235"
-msgstr ""
+msgstr "풀콤보 50회 달성"
 
 msgid "qn_dsc_0236"
-msgstr ""
+msgstr "풀콤보 100회 달성"
 
 msgid "qn_dsc_0237"
-msgstr ""
+msgstr "스코어 랭크 SS 5회 달성"
 
 msgid "qn_dsc_0238"
-msgstr ""
+msgstr "스코어 랭크 SS 10회 달성"
 
 msgid "qn_dsc_0239"
-msgstr ""
+msgstr "스코어 랭크 SS 20회 달성"
 
 msgid "qn_dsc_0240"
-msgstr ""
+msgstr "스코어 랭크 SS 30회 달성"
 
 msgid "qn_dsc_0241"
-msgstr ""
+msgstr "스코어 랭크 SS 40회 달성"
 
 msgid "qn_dsc_0242"
-msgstr ""
+msgstr "스코어 랭크 SS 50회 달성"
 
 msgid "qn_dsc_0243"
-msgstr ""
+msgstr "스코어 랭크 SS 100회 달성"
 
 msgid "qn_dsc_0244"
-msgstr ""
+msgstr "하이스코어 150000점 이상 달성"
 
 msgid "qn_dsc_0245"
-msgstr ""
+msgstr "하이스코어 200000점 이상 달성"
 
 msgid "qn_dsc_0246"
-msgstr ""
+msgstr "하이스코어 250000점 이상 달성"
 
 msgid "qn_dsc_0247"
-msgstr ""
+msgstr "하이스코어 300000점 이상 달성"
 
 msgid "qn_dsc_0248"
-msgstr ""
+msgstr "하이스코어 350000점 이상 달성"
 
 msgid "qn_dsc_0249"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 10회 클리어"
 
 msgid "qn_dsc_0250"
 msgstr ""
