@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-01-26 12:23+0000\n"
+"PO-Revision-Date: 2025-01-26 12:34+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/ko/>\n"
@@ -456,6 +456,9 @@ msgstr ""
 
 msgid "tutopict_0049_0001_msg"
 msgstr ""
+"【지원 플레이트】에 설정된 플레이트의\n"
+"능력의 일부가 유닛에 추가되서\n"
+"하이스코어를 노리기 쉬워져!"
 
 msgid "tutopict_0050_0000_title"
 msgstr ""
@@ -537,6 +540,9 @@ msgstr ""
 
 msgid "tutopict_0057_0000_msg"
 msgstr ""
+"현재 설정으로 플레이했을 때의 점수 예측\n"
+"게이지가 표시돼.\n"
+"참고하면서 유닛을 구성해 보자."
 
 msgid "tutopict_0058_0000_title"
 msgstr ""
@@ -708,6 +714,8 @@ msgstr ""
 
 msgid "tutopict_0075_0002_msg"
 msgstr ""
+"새로운 플레이트를 획득했다면, 반드시 유닛 편성으로\n"
+"세팅하고 이벤트를 플레이해 보도록 하자."
 
 msgid "tutopict_0075_0003_msg"
 msgstr ""
@@ -729,6 +737,8 @@ msgstr ""
 
 msgid "tutopict_0078_0000_msg"
 msgstr ""
+"홈 화면의 가희 의상만 변경할 수 있어.\n"
+"유닛 의상은 가희 스테이터스에서 선택해 줘!"
 
 msgid "tutopict_0079_0000_title"
 msgstr "능력 칸 일괄 해방에 대하여"
@@ -802,10 +812,12 @@ msgid "tutopict_0085_0005_msg"
 msgstr ""
 
 msgid "tutopict_0086_0000_title"
-msgstr ""
+msgstr "유닛 편성에 대하여"
 
 msgid "tutopict_0086_0000_msg"
 msgstr ""
+"최대 3명의 가희가 유닛에 참여할 수 있어!\n"
+"라이브에 등장시키고 싶은 가희를 센터로 설정해."
 
 msgid "tutopict_0087_0000_title"
 msgstr ""
@@ -942,10 +954,12 @@ msgid "tutopict_0101_0000_msg"
 msgstr ""
 
 msgid "tutopict_0102_0000_title"
-msgstr ""
+msgstr "유닛 편성에 대하여"
 
 msgid "tutopict_0102_0000_msg"
 msgstr ""
+"최대 3명의 가희가 유닛에 참여할 수 있어!\n"
+"라이브에 등장시키고 싶은 가희를 센터로 설정해."
 
 msgid "tutopict_0103_0000_title"
 msgstr ""
@@ -2461,6 +2475,8 @@ msgstr ""
 
 msgid "tutopict_0216_0000_msg"
 msgstr ""
+"최대 3명의 가희가 유닛에 참여할 수 있어!\n"
+"라이브에 등장시키고 싶은 가희를 센터로 설정해."
 
 msgid "tutopict_0217_0000_title"
 msgstr ""
@@ -2556,10 +2572,12 @@ msgid "tutopict_0229_0000_msg"
 msgstr ""
 
 msgid "tutopict_0230_0000_title"
-msgstr ""
+msgstr "유닛 편성에 대하여"
 
 msgid "tutopict_0230_0000_msg"
 msgstr ""
+"최대 3명의 가희가 유닛에 참여할 수 있어!\n"
+"라이브에 등장시키고 싶은 가희를 센터로 설정해."
 
 msgid "tutopict_0231_0000_title"
 msgstr ""
