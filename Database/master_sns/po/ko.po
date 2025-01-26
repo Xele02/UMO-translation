@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-24 01:31+0000\n"
+"PO-Revision-Date: 2025-01-26 10:18+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_sns/ko/>\n"
@@ -747,91 +747,91 @@ msgid "sns_dsc_0417"
 msgstr ""
 
 msgid "sns_dsc_0532"
-msgstr ""
+msgstr "데뷔 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0533"
-msgstr ""
+msgstr "데뷔 오퍼레이션 2회 달성"
 
 msgid "sns_dsc_0534"
-msgstr ""
+msgstr "데뷔 오퍼레이션 3회 달성"
 
 msgid "sns_dsc_0535"
-msgstr ""
+msgstr "데뷔 오퍼레이션 4회 달성"
 
 msgid "sns_dsc_0536"
-msgstr ""
+msgstr "데뷔 오퍼레이션 5회 달성"
 
 msgid "sns_dsc_0537"
-msgstr ""
+msgstr "데뷔 오퍼레이션 6회 달성"
 
 msgid "sns_dsc_0538"
-msgstr ""
+msgstr "데뷔 오퍼레이션 7회 달성"
 
 msgid "sns_dsc_0539"
-msgstr ""
+msgstr "데뷔 오퍼레이션 8회 달성"
 
 msgid "sns_dsc_0540"
 msgstr ""
 
 msgid "sns_dsc_0541"
-msgstr ""
+msgstr "프레이아 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0542"
-msgstr ""
+msgstr "프레이아 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0543"
-msgstr ""
+msgstr "미쿠모 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0544"
-msgstr ""
+msgstr "미쿠모 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0545"
-msgstr ""
+msgstr "카나메 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0546"
-msgstr ""
+msgstr "카나메 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0547"
-msgstr ""
+msgstr "마키나 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0548"
-msgstr ""
+msgstr "마키나 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0549"
-msgstr ""
+msgstr "레이나 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0550"
-msgstr ""
+msgstr "레이나 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0551"
-msgstr ""
+msgstr "란카 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0552"
-msgstr ""
+msgstr "란카 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0553"
-msgstr ""
+msgstr "셰릴 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0554"
-msgstr ""
+msgstr "셰릴 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0555"
-msgstr ""
+msgstr "밀레느 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0556"
-msgstr ""
+msgstr "밀레느 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0557"
-msgstr ""
+msgstr "바사라 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0558"
-msgstr ""
+msgstr "바사라 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0559"
-msgstr ""
+msgstr "민메이 가희 오퍼레이션 1회 달성"
 
 msgid "sns_dsc_0560"
-msgstr ""
+msgstr "민메이 가희 오퍼레이션 10회 달성"
 
 msgid "sns_dsc_0561"
 msgstr ""
@@ -3159,91 +3159,91 @@ msgid "sns_dsc2_0417"
 msgstr ""
 
 msgid "sns_dsc2_0532"
-msgstr ""
+msgstr "데뷔 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0533"
-msgstr ""
+msgstr "데뷔 오퍼레이션 2회 달성으로 해방"
 
 msgid "sns_dsc2_0534"
-msgstr ""
+msgstr "데뷔 오퍼레이션 3회 달성으로 해방"
 
 msgid "sns_dsc2_0535"
-msgstr ""
+msgstr "데뷔 오퍼레이션 4회 달성으로 해방"
 
 msgid "sns_dsc2_0536"
-msgstr ""
+msgstr "데뷔 오퍼레이션 5회 달성으로 해방"
 
 msgid "sns_dsc2_0537"
-msgstr ""
+msgstr "데뷔 오퍼레이션 6회 달성으로 해방"
 
 msgid "sns_dsc2_0538"
-msgstr ""
+msgstr "데뷔 오퍼레이션 7회 달성으로 해방"
 
 msgid "sns_dsc2_0539"
-msgstr ""
+msgstr "데뷔 오퍼레이션 8회 달성으로 해방"
 
 msgid "sns_dsc2_0540"
 msgstr ""
 
 msgid "sns_dsc2_0541"
-msgstr ""
+msgstr "프레이아 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0542"
-msgstr ""
+msgstr "프레이아 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0543"
-msgstr ""
+msgstr "미쿠모 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0544"
-msgstr ""
+msgstr "미쿠모 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0545"
-msgstr ""
+msgstr "카나메 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0546"
-msgstr ""
+msgstr "카나메 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0547"
-msgstr ""
+msgstr "마키나 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0548"
-msgstr ""
+msgstr "마키나 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0549"
-msgstr ""
+msgstr "레이나 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0550"
-msgstr ""
+msgstr "레이나 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0551"
-msgstr ""
+msgstr "란카 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0552"
-msgstr ""
+msgstr "란카 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0553"
-msgstr ""
+msgstr "셰릴 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0554"
-msgstr ""
+msgstr "셰릴 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0555"
-msgstr ""
+msgstr "밀레느 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0556"
-msgstr ""
+msgstr "밀레느 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0557"
-msgstr ""
+msgstr "바사라 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0558"
-msgstr ""
+msgstr "바사라 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0559"
-msgstr ""
+msgstr "민메이 가희 오퍼레이션 1회 달성으로 해방"
 
 msgid "sns_dsc2_0560"
-msgstr ""
+msgstr "민메이 가희 오퍼레이션 10회 달성으로 해방"
 
 msgid "sns_dsc2_0561"
 msgstr ""
