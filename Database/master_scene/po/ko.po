@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-24 15:31+0000\n"
+"PO-Revision-Date: 2025-01-26 08:16+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_scene/ko/>\n"
@@ -30,7 +30,7 @@ msgid "sn_0005"
 msgstr ""
 
 msgid "sn_0006"
-msgstr ""
+msgstr "특별한 조치"
 
 msgid "sn_0007"
 msgstr ""
@@ -11257,6 +11257,8 @@ msgstr ""
 
 msgid "sn_dsc_0372"
 msgstr ""
+"무수한 바주라들 사이에서 군림하는 여왕, 바즈라 퀸.\n"
+"마크로스급 전함에 버금가는 거대한 몸집을 자랑한다."
 
 msgid "sn_dsc_0373"
 msgstr ""
@@ -11272,6 +11274,8 @@ msgstr ""
 
 msgid "sn_dsc_0377"
 msgstr ""
+"바주라 퀸과 맞서는 알토와 브레라.\n"
+"격렬한 공격을 뚫고 눈앞으로 다가온다."
 
 msgid "sn_dsc_0378"
 msgstr ""
@@ -11632,12 +11636,16 @@ msgstr ""
 
 msgid "sn_dsc_0514"
 msgstr ""
+"마침내 바즈라 퀸의 눈앞에 다가온 알토는 저격소총으로 조준한다.\n"
+"오랜 싸움, 다양한 인연 그리고 음모. 이제 그 모든 것이 막을 내린다."
 
 msgid "sn_dsc_0515"
 msgstr ""
 
 msgid "sn_dsc_0516"
 msgstr ""
+"드디어 바즈라 퀸과 융합을 이룬 그레이스.그 막강한 힘으로\n"
+"은하계를 지배하기 위해 우선 눈앞의 인간들을 걷어차 버리려 한다."
 
 msgid "sn_dsc_0517"
 msgstr ""
@@ -13075,6 +13083,8 @@ msgstr ""
 
 msgid "sn_dsc_1067"
 msgstr ""
+"갤럭시 함대에 점령당한 바즈라 여왕의 모습. 그 강력한 네트워크는\n"
+"전 우주의 바즈라를 팔다리로 삼아 은하계 전역의 행성을 공격했다."
 
 msgid "sn_dsc_1068"
 msgstr ""
