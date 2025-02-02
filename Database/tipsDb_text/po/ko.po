@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:30+0000\n"
-"PO-Revision-Date: 2025-01-26 12:23+0000\n"
+"PO-Revision-Date: 2025-02-03 03:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/ko/>\n"
@@ -15,46 +15,60 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "tips_0000_title"
-msgstr ""
+msgstr "【스킬】스코어 상승이 뭐야?"
 
 msgid "tips_0000_msg"
 msgstr ""
+"발동하면 획득 점수가 올라가\r\n"
+"집중해서 노트를 탭해보자"
 
 msgid "tips_0001_title"
-msgstr ""
+msgstr "【스킬】라이프 회복이 뭐야?"
 
 msgid "tips_0001_msg"
 msgstr ""
+"발동하면 라이프가 회복돼\r\n"
+"곤경에 처했을 때 구해줄 수 있는 스킬이지"
 
 msgid "tips_0002_title"
-msgstr ""
+msgstr "【스킬】대미지 감소가 뭐야?"
 
 msgid "tips_0002_msg"
 msgstr ""
+"발동하면 대미지가 감소해\r\n"
+"계속 노래하기 위해 중요한 스킬이지"
 
 msgid "tips_0003_title"
-msgstr ""
+msgstr "【스킬】판정 완화가 뭐야?"
 
 msgid "tips_0003_msg"
 msgstr ""
+"발동하면 탭 판정이 완화돼\r\n"
+"탭이 잘 안 될 때는 이거야!"
 
 msgid "tips_0004_title"
-msgstr ""
+msgstr "【스킬】콤보 지속이 뭐야?"
 
 msgid "tips_0004_msg"
 msgstr ""
+"발동하면 콤보가 끊어지지 않게 돼\r\n"
+"스코어 상승에 도움이 되는 스킬이지"
 
 msgid "tips_0005_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0005_msg"
 msgstr ""
+"란란 생일 베스트 샷 사진이야!\n"
+"란란 너무 귀여워~!"
 
 msgid "tips_0006_title"
-msgstr ""
+msgstr "초가희 모드가 뭐야?"
 
 msgid "tips_0006_msg"
 msgstr ""
+"발키리로 전투 중, 추격 모드에서 적을\n"
+"격퇴하면 발생하는 특별한 라이브야!"
 
 msgid "tips_0007_title"
 msgstr "유닛 세트가 뭐야?"
@@ -65,43 +79,55 @@ msgstr ""
 "그 유닛을 저장해둘 수 있어"
 
 msgid "tips_0008_title"
-msgstr ""
+msgstr "새인간이 뭐야?"
 
 msgid "tips_0008_msg"
 msgstr ""
+"프로토 컬쳐가 남긴 거대 병기야\n"
+"기억을 망가뜨리는 무시무시한 존재야"
 
 msgid "tips_0009_title"
-msgstr ""
+msgstr "풀콤보 요령"
 
 msgid "tips_0009_msg"
 msgstr ""
+"판정 완화 스킬을 사용하면 어려운 악곡도\n"
+"풀콤보가 가능해질 수도 있어"
 
 msgid "tips_0010_title"
-msgstr ""
+msgstr "초시공 SNS가 뭐야?"
 
 msgid "tips_0010_msg"
 msgstr ""
+"시공을 초월한 소통이 가능한\r\n"
+"매우 굉장한 SNS 앱"
 
 msgid "tips_0011_title"
-msgstr ""
+msgstr "타이밍 조정이 뭐야?"
 
 msgid "tips_0011_msg"
 msgstr ""
+"음표와 악곡의 타이밍이 어긋난다....\r\n"
+"이럴 때는 타이밍 조정을 시도해 보자"
 
 msgid "tips_0012_title"
-msgstr ""
+msgstr "능력 해방이 뭐야?"
 
 msgid "tips_0012_msg"
 msgstr ""
+"능력 해방으로 에피소드\n"
+"플레이트를 강화하자!"
 
 msgid "tips_0013_title"
-msgstr ""
+msgstr "에피소드 플레이트가 뭐야?"
 
 msgid "tips_0013_msg"
 msgstr ""
+"이 세상의 기억의 파편 같은 것?\n"
+"그래서 다양한 이미지가 존재하는 거야"
 
 msgid "tips_0014_title"
-msgstr ""
+msgstr "자동 편성이 뭐야?"
 
 msgid "tips_0014_msg"
 msgstr ""
@@ -109,91 +135,117 @@ msgstr ""
 "적합한 유닛을 자동으로 편성해줘"
 
 msgid "tips_0015_title"
-msgstr ""
+msgstr "에피소드가 뭐야?"
 
 msgid "tips_0015_msg"
 msgstr ""
+"에피소드를 해방해가는 과정에서,\n"
+"의상과 발키리를 얻을 수 있어"
 
 msgid "tips_0016_title"
-msgstr ""
+msgstr "의상이 뭐야?"
 
 msgid "tips_0016_msg"
 msgstr ""
+"의상에 따라 스테이터스가 달라져\r\n"
+"다양한 의상을 입고 라이브를 즐기자!"
 
 msgid "tips_0017_title"
-msgstr ""
+msgstr "프레이아의 비밀"
 
 msgid "tips_0017_msg"
 msgstr ""
+"머리에 있는 이건 '룬'이라고 불러!\r\n"
+"반짝반짝 빛나서 굉장하지?"
 
 msgid "tips_0018_title"
-msgstr ""
+msgstr "미쿠모의 비밀"
 
 msgid "tips_0018_msg"
 msgstr ""
+"유감스럽게도 내 비밀은\r\n"
+"그렇게 쉽게 알려줄 수 없어"
 
 msgid "tips_0019_title"
-msgstr ""
+msgstr "카나메의 비밀"
 
 msgid "tips_0019_msg"
 msgstr ""
+"솔로로 활동하던 시절이 있었어\r\n"
+"지금은 왈큐레 외에는 생각할 수 없지만"
 
 msgid "tips_0020_title"
-msgstr ""
+msgstr "마키나의 비밀"
 
 msgid "tips_0020_msg"
 msgstr ""
+"우리 할아버지는 정비공이셨어\r\n"
+"나도 메카메카 너무 좋아해~♪"
 
 msgid "tips_0021_title"
-msgstr ""
+msgstr "레이나의 비밀"
 
 msgid "tips_0021_msg"
-msgstr ""
+msgstr "해파리는 날 것을 통으로 꿀꺽"
 
 msgid "tips_0022_title"
-msgstr ""
+msgstr "란카의 비밀"
 
 msgid "tips_0022_msg"
 msgstr ""
+"실은, 미스 마크로스 프론티어는\r\n"
+"오빠 몰래 응모해 버렸어!"
 
 msgid "tips_0023_title"
-msgstr ""
+msgstr "셰릴의 비밀"
 
 msgid "tips_0023_msg"
 msgstr ""
+"갤럭시에는 많은 추억이 있어\n"
+"더 이상 말할 수 없을 정도로"
 
 msgid "tips_0024_title"
-msgstr ""
+msgstr "밀레느의 비밀"
 
 msgid "tips_0024_msg"
 msgstr ""
+"우리 집에는 언니가 6명이나 있어.\r\n"
+"막내딸이라고 해서 어린애 취급하지 말아줘!"
 
 msgid "tips_0025_title"
-msgstr ""
+msgstr "바사라의 비밀"
 
 msgid "tips_0025_msg"
 msgstr ""
+"비밀로 하고 있는 건 아무것도 없어.\r\n"
+"나는 언제든 내 노래를 부를 뿐이다!"
 
 msgid "tips_0026_title"
-msgstr ""
+msgstr "민메이의 비밀"
 
 msgid "tips_0026_msg"
 msgstr ""
+"사실 레슨 중에 잠깐씩 빠져나와서\n"
+"시내에 나갈 때도 있어!"
 
 msgid "tips_0027_title"
-msgstr ""
+msgstr "발키리가 뭐야?"
 
 msgid "tips_0027_msg"
 msgstr ""
+"3단 변형이 가능한 전투기야\n"
+"기체마다 성능이나 특성이 달라"
 
 msgid "tips_0028_title"
-msgstr ""
+msgstr "기억의 시공이 뭐야?"
 
 msgid "tips_0028_msg"
 msgstr ""
+"전 세계 사람들의 기억이 존재하는 곳이야\r\n"
+"우리의 노래로 그 기억을 복원할 수 있어"
 
 msgid "tips_0029_title"
-msgstr ""
+msgstr "라이브의 비밀"
 
 msgid "tips_0029_msg"
 msgstr ""
@@ -201,157 +253,207 @@ msgstr ""
 "연출이 달라지는 경우가 있는 것 같아"
 
 msgid "tips_0030_title"
-msgstr ""
+msgstr "서비스 가챠가 뭐야?"
 
 msgid "tips_0030_msg"
 msgstr ""
+"하루에 3번까지 뽑을 수 있는 가챠야\r\n"
+"아침, 점심, 저녁에 한 번씩, 잊지 마"
 
 msgid "tips_0031_title"
-msgstr ""
+msgstr "미션이 뭐야?"
 
 msgid "tips_0031_msg"
 msgstr ""
+"클리어하면 보상을 받을 수 있어\r\n"
+"열심히 도전해 보자!"
 
 msgid "tips_0032_title"
-msgstr ""
+msgstr "칭호가 뭐야?"
 
 msgid "tips_0032_msg"
 msgstr ""
+"이벤트에서 열심히 하면 받을 수 있어\r\n"
+"그 외에도 다양한 방법으로 얻을 수 있어"
 
 msgid "tips_0033_title"
-msgstr ""
+msgstr "데이터 인계가 뭐야?"
 
 msgid "tips_0033_msg"
 msgstr ""
+"기종 변경을 할 때에는,\n"
+"데이터 인계를 잊지 마!"
 
 msgid "tips_0034_title"
-msgstr ""
+msgstr "악곡 레벨이 뭐야?"
 
 msgid "tips_0034_msg"
 msgstr ""
+"같은 난이도라도 악곡마다 레벨이 있어\r\n"
+"난이도가 높은 악곡일수록 더 어려워"
 
 msgid "tips_0035_title"
-msgstr ""
+msgstr "액티브 스킬이 뭐야?"
 
 msgid "tips_0035_msg"
 msgstr ""
+"임의의 타이밍에 발동할 수 있는 스킬이야\n"
+"필요할 때 사용해 보자"
 
 msgid "tips_0036_title"
-msgstr ""
+msgstr "생체 폴드파가 뭐야?"
 
 msgid "tips_0036_msg"
 msgstr ""
+"우리의 노래의 힘, 그 자체야\r\n"
+"새인간에 대항할 수 있는 유일한 수단이야"
 
 msgid "tips_0037_title"
-msgstr ""
+msgstr "레어리티가 뭐야?"
 
 msgid "tips_0037_msg"
 msgstr ""
+"레어도가 높은 에피소드 플레이트일수록\r\n"
+"강력한 스킬을 발동할 수 있어"
 
 msgid "tips_0038_title"
-msgstr ""
+msgstr "컨티뉴가 뭐야?"
 
 msgid "tips_0038_msg"
 msgstr ""
+"라이브에 실패했을 때, 가정석을 이용해\r\n"
+"다시 도전할 수 있어"
 
 msgid "tips_0039_title"
-msgstr ""
+msgstr "EXTREAM이 뭐야?"
 
 msgid "tips_0039_msg"
 msgstr ""
+"매우 어려운 악곡 난이도야\n"
+"실력에 자신이 있다면 도전해 봐"
 
 msgid "tips_0040_title"
-msgstr ""
+msgstr "발키리 모드가 뭐야?"
 
 msgid "tips_0040_msg"
 msgstr ""
+"생체 폴드파를 높이면 발동돼\r\n"
+"노래의 힘으로 파일럿을 응원해 줘"
 
 msgid "tips_0041_title"
-msgstr ""
+msgstr "아이템 노트가 뭐야?"
 
 msgid "tips_0041_msg"
 msgstr ""
+"탭하면 아이템을 획득할 수 있어\r\n"
+"무엇을 얻을 수 있을지 기대되네!"
 
 msgid "tips_0042_title"
-msgstr ""
+msgstr "레어 아이템 노트가 뭐야?"
 
 msgid "tips_0042_msg"
 msgstr ""
+"보다 호화로운 아이템을 획득할 수 있어\r\n"
+"놓치지 말고 탭해보자!"
 
 msgid "tips_0043_title"
-msgstr ""
+msgstr "LUCK이 뭐야?"
 
 msgid "tips_0043_msg"
 msgstr ""
+"LUCK이 높을 수록 레어 아이템 노트가\n"
+"더 많이 출현하게 돼"
 
 msgid "tips_0044_title"
-msgstr ""
+msgstr "레어리티 상승이 뭐야?"
 
 msgid "tips_0044_msg"
 msgstr ""
+"같은 에피소드 플레이트 2장으로\r\n"
+"레어리티를 하나 올릴 수 있어"
 
 msgid "tips_0045_title"
-msgstr ""
+msgstr "시크릿 보드가 뭐야?"
 
 msgid "tips_0045_msg"
 msgstr ""
+"같은 에피소드 플레이트 3개가 있으면\n"
+"더 많은 능력을 해방할 수 있어"
 
 msgid "tips_0046_title"
-msgstr ""
+msgstr "View(가희)가 뭐야?"
 
 msgid "tips_0046_msg"
 msgstr ""
+"우리 모습을 자세히 볼 수 있어\n"
+"부끄러우니까 너무 많이 보진 말아줘"
 
 msgid "tips_0047_title"
-msgstr ""
+msgstr "View(발키리)가 뭐야?"
 
 msgid "tips_0047_msg"
 msgstr ""
+"캬와와~한 발키리쨩을\r\n"
+"구석구석 자세히 관찰할 수 있어♪"
 
 msgid "tips_0048_title"
-msgstr ""
+msgstr "탈의실이 뭐야?"
 
 msgid "tips_0048_msg"
 msgstr ""
+"가희와 의상을 갈아입을 수 있어\n"
+"어떤게 가장 마음에 들어?"
 
 msgid "tips_0049_title"
-msgstr ""
+msgstr "플릭 노트가 뭐야?"
 
 msgid "tips_0049_msg"
 msgstr ""
+"라이브 중에 나타나면,\r\n"
+"노트가 뾰족한 방향으로 플릭해"
 
 msgid "tips_0050_title"
-msgstr ""
+msgstr "데카르 가챠가 뭐야?"
 
 msgid "tips_0050_msg"
 msgstr ""
+"가정석으로 뽑을 수 있는 뽑기야\r\n"
+"어떤게 나올지 기대되네"
 
 msgid "tips_0051_title"
-msgstr ""
+msgstr "라이브 클리어 요령"
 
 msgid "tips_0051_msg"
 msgstr ""
+"라이브가 어려워서 클리어할 수 없을 때는,\r\n"
+"라이프를 강화해보는 것을 추천할게"
 
 msgid "tips_0052_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0052_msg"
 msgstr ""
+"란란의 생일 베스트샷 사진이야!\r\n"
+"란란의 발랄한 모습도 귀엽고 멋지네♪"
 
 msgid "tips_0053_title"
-msgstr ""
+msgstr "노트 스피드 설정이 뭐야?"
 
 msgid "tips_0053_msg"
 msgstr ""
+"노트의 스피드는, 라이브 시작 전\r\n"
+"'게임 설정' 화면에서 설정할 수 있어"
 
 msgid "tips_0054_title"
-msgstr ""
+msgstr "TOTAL을 더 올리자!"
 
 msgid "tips_0054_msg"
 msgstr ""
+"TOTAL이 낮아서 고민이야?\r\n"
+"그렇다면 플레이트를 강화해 봐"
 
 msgid "tips_0055_title"
-msgstr ""
+msgstr "더 많은 콤보를 연결해 보자!"
 
 msgid "tips_0055_msg"
 msgstr ""
@@ -453,157 +555,157 @@ msgid "tips_0071_msg"
 msgstr ""
 
 msgid "tips_0072_title"
-msgstr ""
+msgstr "바즈라가 뭐야?"
 
 msgid "tips_0072_msg"
 msgstr ""
 
 msgid "tips_0073_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0073_msg"
 msgstr ""
 
 msgid "tips_0074_title"
-msgstr ""
+msgstr "의상 강화가 뭐야?"
 
 msgid "tips_0074_msg"
 msgstr ""
 
 msgid "tips_0075_title"
-msgstr ""
+msgstr "오퍼레이션이 뭐야?"
 
 msgid "tips_0075_msg"
 msgstr ""
 
 msgid "tips_0076_title"
-msgstr ""
+msgstr "가희 오퍼레이션이 뭐야?"
 
 msgid "tips_0076_msg"
 msgstr ""
 
 msgid "tips_0077_title"
-msgstr ""
+msgstr "슬라이트 노트가 뭐야?"
 
 msgid "tips_0077_msg"
 msgstr ""
 
 msgid "tips_0078_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0078_msg"
 msgstr ""
 
 msgid "tips_0079_title"
-msgstr ""
+msgstr "스코어 상승 요령 -1-"
 
 msgid "tips_0079_msg"
 msgstr ""
 
 msgid "tips_0080_title"
-msgstr ""
+msgstr "데코룸이 뭐야?"
 
 msgid "tips_0080_msg"
 msgstr ""
 
 msgid "tips_0081_title"
-msgstr ""
+msgstr "발키리 강화가 뭐야?"
 
 msgid "tips_0081_msg"
 msgstr ""
 
 msgid "tips_0082_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0082_msg"
 msgstr ""
 
 msgid "tips_0083_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0083_msg"
 msgstr ""
 
 msgid "tips_0084_title"
-msgstr ""
+msgstr "가희 이벤트 ~스페셜 라이브~"
 
 msgid "tips_0084_msg"
 msgstr ""
 
 msgid "tips_0085_title"
-msgstr ""
+msgstr "가희 이벤트 ~옐~"
 
 msgid "tips_0085_msg"
 msgstr ""
 
 msgid "tips_0086_title"
-msgstr ""
+msgstr "가희 이벤트 ~어필~"
 
 msgid "tips_0086_msg"
 msgstr ""
 
 msgid "tips_0087_title"
-msgstr ""
+msgstr "가희 이벤트 ~볼티지~"
 
 msgid "tips_0087_msg"
 msgstr ""
 
 msgid "tips_0088_title"
-msgstr ""
+msgstr "【스킬】모드 스코어 상승이 뭐야?"
 
 msgid "tips_0088_msg"
 msgstr ""
 
 msgid "tips_0089_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0089_msg"
 msgstr ""
 
 msgid "tips_0090_title"
-msgstr ""
+msgstr "【스킬】스코어 리피트&대미지가 뭐야?"
 
 msgid "tips_0090_msg"
 msgstr ""
 
 msgid "tips_0091_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0091_msg"
 msgstr ""
 
 msgid "tips_0092_title"
-msgstr ""
+msgstr "애니메이션 플레이트의 비밀 -1-"
 
 msgid "tips_0092_msg"
 msgstr ""
 
 msgid "tips_0093_title"
-msgstr ""
+msgstr "가희 랭킹이 뭐야?"
 
 msgid "tips_0093_msg"
 msgstr ""
 
 msgid "tips_0094_title"
-msgstr ""
+msgstr "【의상 효과】가희 스테이터스 상승이 뭐야?"
 
 msgid "tips_0094_msg"
 msgstr ""
 
 msgid "tips_0095_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0095_msg"
 msgstr ""
 
 msgid "tips_0096_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0096_msg"
 msgstr ""
 
 msgid "tips_0097_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0097_msg"
 msgstr ""
@@ -611,307 +713,311 @@ msgstr ""
 "마키나의 수영복...최고...!"
 
 msgid "tips_0098_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0098_msg"
 msgstr ""
 
 msgid "tips_0099_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0099_msg"
 msgstr ""
 
 msgid "tips_0100_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0100_msg"
 msgstr ""
 
 msgid "tips_0101_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0101_msg"
 msgstr ""
 
 msgid "tips_0102_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0102_msg"
 msgstr ""
 
 msgid "tips_0103_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0103_msg"
 msgstr ""
 
 msgid "tips_0104_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0104_msg"
 msgstr ""
 
 msgid "tips_0105_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0105_msg"
 msgstr ""
 
 msgid "tips_0106_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0106_msg"
 msgstr ""
 
 msgid "tips_0107_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0107_msg"
 msgstr ""
 
 msgid "tips_0108_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0108_msg"
 msgstr ""
 
 msgid "tips_0109_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0109_msg"
 msgstr ""
 
 msgid "tips_0110_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0110_msg"
 msgstr ""
 
 msgid "tips_0111_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0111_msg"
 msgstr ""
 
 msgid "tips_0112_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0112_msg"
 msgstr ""
 
 msgid "tips_0113_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0113_msg"
 msgstr ""
 
 msgid "tips_0114_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0114_msg"
 msgstr ""
 
 msgid "tips_0115_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0115_msg"
 msgstr ""
 
 msgid "tips_0116_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0116_msg"
 msgstr ""
 
 msgid "tips_0117_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0117_msg"
 msgstr ""
 
 msgid "tips_0118_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0118_msg"
 msgstr ""
 
 msgid "tips_0119_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0119_msg"
 msgstr ""
 
 msgid "tips_0120_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0120_msg"
 msgstr ""
 
 msgid "tips_0121_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0121_msg"
 msgstr ""
 
 msgid "tips_0122_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0122_msg"
 msgstr ""
 
 msgid "tips_0123_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0123_msg"
 msgstr ""
 
 msgid "tips_0124_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0124_msg"
 msgstr ""
 
 msgid "tips_0125_title"
-msgstr ""
+msgstr "배경 변경이 뭐야?"
 
 msgid "tips_0125_msg"
 msgstr ""
 
 msgid "tips_0126_title"
-msgstr ""
+msgstr "이벤트 가챠 티켓이 뭐야?"
 
 msgid "tips_0126_msg"
 msgstr ""
 
 msgid "tips_0127_title"
-msgstr ""
+msgstr "【스킬】Fld파 스코어 상승이 뭐야?"
 
 msgid "tips_0127_msg"
 msgstr ""
+"폴드파의 크기에 의해\n"
+"발동 시의 효과치가 변화하는 스킬이야"
 
 msgid "tips_0128_title"
-msgstr ""
+msgstr "【스킬】Fld파 스코어 상승이 뭐야?"
 
 msgid "tips_0128_msg"
 msgstr ""
+"폴드파의 크기에 의해\n"
+"발동 시의 효과치가 변화하는 스킬이야"
 
 msgid "tips_0129_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0129_msg"
 msgstr ""
 
 msgid "tips_0130_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0130_msg"
 msgstr ""
 
 msgid "tips_0131_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0131_msg"
 msgstr ""
 
 msgid "tips_0132_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0132_msg"
 msgstr ""
 
 msgid "tips_0133_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0133_msg"
 msgstr ""
 
 msgid "tips_0134_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0134_msg"
 msgstr ""
 
 msgid "tips_0135_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0135_msg"
 msgstr ""
 
 msgid "tips_0136_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0136_msg"
 msgstr ""
 
 msgid "tips_0137_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0137_msg"
 msgstr ""
 
 msgid "tips_0138_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0138_msg"
 msgstr ""
 
 msgid "tips_0139_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0139_msg"
 msgstr ""
 
 msgid "tips_0140_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0140_msg"
 msgstr ""
 
 msgid "tips_0141_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0141_msg"
 msgstr ""
 
 msgid "tips_0142_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0142_msg"
 msgstr ""
 
 msgid "tips_0143_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0143_msg"
 msgstr ""
 
 msgid "tips_0144_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0144_msg"
 msgstr ""
 
 msgid "tips_0145_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0145_msg"
 msgstr ""
 
 msgid "tips_0146_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0146_msg"
 msgstr ""
 
 msgid "tips_0147_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0147_msg"
 msgstr ""
 
 msgid "tips_0148_title"
-msgstr ""
+msgstr "캬와와 갤러리"
 
 msgid "tips_0148_msg"
 msgstr ""
@@ -929,43 +1035,43 @@ msgid "tips_0150_msg"
 msgstr ""
 
 msgid "tips_0151_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0151_msg"
 msgstr ""
 
 msgid "tips_0152_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0152_msg"
 msgstr ""
 
 msgid "tips_0153_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0153_msg"
 msgstr ""
 
 msgid "tips_0154_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0154_msg"
 msgstr ""
 
 msgid "tips_0155_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0155_msg"
 msgstr ""
 
 msgid "tips_0156_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0156_msg"
 msgstr ""
 
 msgid "tips_0157_title"
-msgstr ""
+msgstr "낫토의 비밀"
 
 msgid "tips_0157_msg"
 msgstr ""
