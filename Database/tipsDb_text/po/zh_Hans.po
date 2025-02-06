@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-02-06 01:31+0000\n"
+"PO-Revision-Date: 2025-02-06 23:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tipsdb_text/zh_Hans/>\n"
@@ -20,7 +20,7 @@ msgstr "【技能】什么是分数提升？"
 msgid "tips_0000_msg"
 msgstr ""
 "能在一段时间内提升分数的技能，\n"
-"在此期间全力击打音符吧"
+"在此期间尽可能地击打音符吧"
 
 msgid "tips_0001_title"
 msgstr "【技能】什么是生命回复？"
@@ -59,7 +59,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0005_msg"
 msgstr ""
-"这是兰兰生日会上拍的最棒的一张照片！\n"
+"这是兰兰在生日会上留下的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0006_title"
@@ -75,7 +75,7 @@ msgstr "什么是编队组合？"
 
 msgid "tips_0007_msg"
 msgstr ""
-"可将编辑好的队伍保存为编队组合，\n"
+"可将编辑好的队伍保存下来，\n"
 "以便随时调用"
 
 msgid "tips_0008_title"
@@ -87,7 +87,7 @@ msgstr ""
 "拥有可怕的力量，甚至能够摧毁记忆"
 
 msgid "tips_0009_title"
-msgstr "FULL COMBO小技巧"
+msgstr "FULL COMBO技巧"
 
 msgid "tips_0009_msg"
 msgstr ""
@@ -132,7 +132,7 @@ msgstr "什么是自动编队？"
 msgid "tips_0014_msg"
 msgstr ""
 "手动编队太困难？不妨试试这个功能！\n"
-"点击就能自动根据当前状况组建合适的编队哦"
+"点击就能根据当前状况自动组建合适的编队哦"
 
 msgid "tips_0015_title"
 msgstr "什么是回忆片段？"
@@ -179,14 +179,14 @@ msgstr "玛基娜的秘密"
 
 msgid "tips_0020_msg"
 msgstr ""
-"我爷爷是修理飞机的技术员，\n"
-"我的爱好就是他遗传下来的~♪"
+"我爷爷是飞机维修员，\n"
+"我的爱好就是他遗传下来的哦~♪"
 
 msgid "tips_0021_title"
 msgstr "蕾娜的秘密"
 
 msgid "tips_0021_msg"
-msgstr "吃水母，就得生吞"
+msgstr "水母要生吞才好吃"
 
 msgid "tips_0022_title"
 msgstr "兰卡的秘密"
@@ -201,246 +201,328 @@ msgstr "雪莉露的秘密"
 
 msgid "tips_0023_msg"
 msgstr ""
+"Galaxy船团，承载了太多美好的回忆。\n"
+"真要聊起来，感觉花上一整天都不够"
 
 msgid "tips_0024_title"
-msgstr ""
+msgstr "米莲的秘密"
 
 msgid "tips_0024_msg"
 msgstr ""
+"我是家里年龄最小的，上面还有六个姐姐。\n"
+"但不要以为这样就可以把我当小孩看！"
 
 msgid "tips_0025_title"
-msgstr ""
+msgstr "巴萨拉的秘密"
 
 msgid "tips_0025_msg"
 msgstr ""
+"我没有什么秘密啊？\n"
+"我心里装着的，从来只有唱歌而已！"
 
 msgid "tips_0026_title"
-msgstr ""
+msgstr "明美的秘密"
 
 msgid "tips_0026_msg"
 msgstr ""
+"其实我有时会趁着训练的间隙，\n"
+"偷偷溜到大街上透气哦！"
 
 msgid "tips_0027_title"
-msgstr ""
+msgstr "什么是女武神战机？"
 
 msgid "tips_0027_msg"
 msgstr ""
+"可以进行三段变形的战机，\n"
+"每架战机都有其独特的性能和长处"
 
 msgid "tips_0028_title"
-msgstr ""
+msgstr "什么是记忆时空？"
 
 msgid "tips_0028_msg"
 msgstr ""
+"汇集了世上所有记忆的地方。\n"
+"我们的任务就是用歌声修复其中损坏的记忆"
 
 msgid "tips_0029_title"
-msgstr ""
+msgstr "关于演出的秘密"
 
 msgid "tips_0029_msg"
 msgstr ""
+"以特定的编队进入演出，\n"
+"似乎能看到不一样的表演"
 
 msgid "tips_0030_title"
-msgstr ""
+msgstr "什么是免费抽卡？"
 
 msgid "tips_0030_msg"
 msgstr ""
+"一天之内可以免费抽取3次的卡池。\n"
+"早中晚各一次，不要忘记了哦"
 
 msgid "tips_0031_title"
-msgstr ""
+msgstr "什么是任务？"
 
 msgid "tips_0031_msg"
 msgstr ""
+"每项任务都会提供相应的报酬，\n"
+"尽可能地去完成它们吧！"
 
 msgid "tips_0032_title"
-msgstr ""
+msgstr "什么是称号？"
 
 msgid "tips_0032_msg"
 msgstr ""
+"称号的获取方式五花八门，\n"
+"大部分可通过积极参与活动获取"
 
 msgid "tips_0033_title"
-msgstr ""
+msgstr "什么是账号继承？"
 
 msgid "tips_0033_msg"
 msgstr ""
+"更换设备时必须进行账号继承，\n"
+"否则将丢失游玩进度！"
 
 msgid "tips_0034_title"
-msgstr ""
+msgstr "什么是歌曲等级？"
 
 msgid "tips_0034_msg"
 msgstr ""
+"同一难度下的歌曲也存在等级划分，\n"
+"等级越高，挑战越大"
 
 msgid "tips_0035_title"
-msgstr ""
+msgstr "什么是主动技能？"
 
 msgid "tips_0035_msg"
 msgstr ""
+"可以随时发动的技能，\n"
+"务必等到恰当的时机再使用哦"
 
 msgid "tips_0036_title"
-msgstr ""
+msgstr "什么是生物Fold波？"
 
 msgid "tips_0036_msg"
 msgstr ""
+"是我们歌声的力量所在，\n"
+"也是对抗鸟人的唯一手段"
 
 msgid "tips_0037_title"
-msgstr ""
+msgstr "什么是卡片稀有度？"
 
 msgid "tips_0037_msg"
 msgstr ""
+"卡片的稀有度越高，\n"
+"其技能就越强力"
 
 msgid "tips_0038_title"
-msgstr ""
+msgstr "什么是继续演出？"
 
 msgid "tips_0038_msg"
 msgstr ""
+"演出失败时，可消耗歌晶石\n"
+"从当前节点继续挑战"
 
 msgid "tips_0039_title"
-msgstr ""
+msgstr "什么是EXTREME难度？"
 
 msgid "tips_0039_msg"
 msgstr ""
+"堪称顶尖的演出难度，\n"
+"足够自信的话，可以去挑战试试看"
 
 msgid "tips_0040_title"
-msgstr ""
+msgstr "什么是空战模式？"
 
 msgid "tips_0040_msg"
 msgstr ""
+"生物Fold波累积到一定程度便会进入空战，\n"
+"用歌声为飞行员提供支援吧"
 
 msgid "tips_0041_title"
-msgstr ""
+msgstr "什么是道具音符？"
 
 msgid "tips_0041_msg"
 msgstr ""
+"成功击打可获得道具，\n"
+"具体是什么道具，只有演出结束才知道！"
 
 msgid "tips_0042_title"
-msgstr ""
+msgstr "什么是稀有道具音符？"
 
 msgid "tips_0042_msg"
 msgstr ""
+"成功击打可获得更为稀有的道具，\n"
+"可千万不要漏掉了！"
 
 msgid "tips_0043_title"
-msgstr ""
+msgstr "什么是幸运值？"
 
 msgid "tips_0043_msg"
 msgstr ""
+"幸运值越高，\n"
+"出现稀有道具音符的概率就越高"
 
 msgid "tips_0044_title"
-msgstr ""
+msgstr "什么是稀有度提升？"
 
 msgid "tips_0044_msg"
 msgstr ""
+"同一回忆卡片凑齐2张，\n"
+"即可提升一个星级的稀有度"
 
 msgid "tips_0045_title"
-msgstr ""
+msgstr "什么是秘密板块？"
 
 msgid "tips_0045_msg"
 msgstr ""
+"同一回忆卡片凑齐3张，\n"
+"即可解锁秘密板块以获得额外能力"
 
 msgid "tips_0046_title"
-msgstr ""
+msgstr "什么是歌姬观察功能？"
 
 msgid "tips_0046_msg"
 msgstr ""
+"能够近距离观察我们全身的功能。\n"
+"不过别看太久哦，挺难为情的"
 
 msgid "tips_0047_title"
-msgstr ""
+msgstr "什么是战机观察功能？"
 
 msgid "tips_0047_msg"
 msgstr ""
+"是能够全方位无死角地观察\n"
+"卡哇哇~的战机们的功能哦♪"
 
 msgid "tips_0048_title"
-msgstr ""
+msgstr "什么是后台？"
 
 msgid "tips_0048_msg"
 msgstr ""
+"可以更换大厅歌姬及其服装的地方。\n"
+"哪位歌姬是你的最爱呢？"
 
 msgid "tips_0049_title"
-msgstr ""
+msgstr "什么是Flick音符？"
 
 msgid "tips_0049_msg"
 msgstr ""
+"击打时，需要按其箭头所示方向\n"
+"滑动手指的音符"
 
 msgid "tips_0050_title"
-msgstr ""
+msgstr "什么是普通抽卡？"
 
 msgid "tips_0050_msg"
 msgstr ""
+"可消耗歌晶石进行抽卡的卡池，\n"
+"究竟会抽到什么样的卡片呢？"
 
 msgid "tips_0051_title"
-msgstr ""
+msgstr "如何确保演出顺利完成"
 
 msgid "tips_0051_msg"
 msgstr ""
+"若是无法完成有难度的演出，\n"
+"不妨试试强化自身的生命值吧"
 
 msgid "tips_0052_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0052_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"认真的兰兰也很卡哇哇呢~好飒♪"
 
 msgid "tips_0053_title"
-msgstr ""
+msgstr "什么是音符速度？"
 
 msgid "tips_0053_msg"
 msgstr ""
+"演出开始前，可前往“游戏设置”\n"
+"对音符下落速度进行调整"
 
 msgid "tips_0054_title"
-msgstr ""
+msgstr "不断提升TOTAL值吧！"
 
 msgid "tips_0054_msg"
 msgstr ""
+"TOTAL值太低怎么办？\n"
+"不妨去强化回忆卡片吧"
 
 msgid "tips_0055_title"
-msgstr ""
+msgstr "尽可能地保持连击吧！"
 
 msgid "tips_0055_msg"
 msgstr ""
+"“连击持续”和“判定缓和”技能\n"
+"能帮助你减少演奏的失误"
 
 msgid "tips_0056_title"
-msgstr ""
+msgstr "向高难度歌曲发起挑战吧！"
 
 msgid "tips_0056_msg"
 msgstr ""
+"尝试挑战更高的难度吧，\n"
+"顺利通关的话能获得更高的分数哦"
 
 msgid "tips_0057_title"
-msgstr ""
+msgstr "使用分数提升技能吧！"
 
 msgid "tips_0057_msg"
 msgstr ""
+"与其他玩家战力相近却无法胜出时，\n"
+"使用分数提升技能可帮助你挽回局势"
 
 msgid "tips_0058_title"
-msgstr ""
+msgstr "什么是幸运草？"
 
 msgid "tips_0058_msg"
 msgstr ""
+"解放卡片的幸运草后，\n"
+"演出中途可能会有好事发生哦"
 
 msgid "tips_0059_title"
-msgstr ""
+msgstr "什么是音符样式？"
 
 msgid "tips_0059_msg"
 msgstr ""
+"若想更改音符的外观，\n"
+"可前往“游戏设置”中进行设置"
 
 msgid "tips_0060_title"
-msgstr ""
+msgstr "什么是凯厄斯商店？"
 
 msgid "tips_0060_msg"
 msgstr ""
+"可兑换各种物品的商店，\n"
+"要留意限时物品的出现哦"
 
 msgid "tips_0061_title"
-msgstr ""
+msgstr "什么是超时空棱镜？"
 
 msgid "tips_0061_msg"
 msgstr ""
+"可对演出中显示的歌姬和服装\n"
+"进行自定义的强大功能"
 
 msgid "tips_0062_title"
-msgstr ""
+msgstr "什么是模拟演出？"
 
 msgid "tips_0062_msg"
 msgstr ""
+"使用S-LIVE代币，\n"
+"就可以直接观赏我们的演出啦"
 
 msgid "tips_0063_title"
-msgstr ""
+msgstr "什么是活动剧情？"
 
 msgid "tips_0063_msg"
 msgstr ""
+"错过的活动SNS剧情\n"
+"可使用SNS密钥进行回顾"
 
 msgid "tips_0064_title"
 msgstr ""
