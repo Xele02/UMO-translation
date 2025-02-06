@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-01-27 09:31+0000\n"
+"PO-Revision-Date: 2025-02-06 23:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -237,7 +237,7 @@ msgid "StringLiteral_10153"
 msgstr "附赠VC"
 
 msgid "StringLiteral_10154"
-msgstr "活动卡池奖券"
+msgstr "活动奖券"
 
 msgid "StringLiteral_10155"
 msgstr "礼物"
@@ -444,13 +444,13 @@ msgid "StringLiteral_11090"
 msgstr ""
 
 msgid "StringLiteral_11115"
-msgstr "必出1枚★5卡片"
+msgstr "必出★5卡片"
 
 msgid "StringLiteral_11117"
-msgstr "抽卡"
+msgstr "普通抽卡"
 
 msgid "StringLiteral_11118"
-msgstr "必出1枚★4卡片"
+msgstr "必出★4卡片"
 
 msgid "StringLiteral_11128"
 msgstr "新手"
@@ -1581,13 +1581,13 @@ msgid "UMO_currency_2010_desc"
 msgstr "用于抽取每日免费必出★5卡池的奖券"
 
 msgid "UMO_currency_2101_name"
-msgstr "抽卡奖券"
+msgstr "普通奖券"
 
 msgid "UMO_currency_2101_desc"
-msgstr "用于抽卡的奖券"
+msgstr "可在“普通抽卡”中使用的奖券"
 
 msgid "UMO_currency_2201_name"
-msgstr "活动卡池奖券（收集A）"
+msgstr "活动奖券（收集A）"
 
 msgid "UMO_currency_2201_desc"
 msgstr ""
@@ -1716,11 +1716,11 @@ msgid "UMO_product_429267_name"
 msgstr ""
 
 msgid "UMO_product_429267_desc_name"
-msgstr "必出★5福利卡池"
+msgstr "必出★5免费抽卡"
 
 msgid "UMO_product_429267_desc_desc"
 msgstr ""
-"可消耗必出★5福利卡池奖券\n"
+"可消耗必出★5免费奖券\n"
 "抽取★5卡片。\n"
 "※2022/3/31更新卡池阵容"
 
@@ -1728,7 +1728,7 @@ msgid "UMO_product_429712_name"
 msgstr ""
 
 msgid "UMO_product_429712_desc_name"
-msgstr "福利卡池"
+msgstr "免费抽卡"
 
 msgid "UMO_product_429712_desc_desc"
 msgstr ""
