@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-02-06 23:30+0000\n"
+"PO-Revision-Date: 2025-02-07 06:37+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tipsdb_text/zh_Hans/>\n"
@@ -434,7 +434,7 @@ msgstr "卡哇哇相册"
 msgid "tips_0052_msg"
 msgstr ""
 "这是兰兰在生日会上留下的精彩瞬间！\n"
-"认真的兰兰也很卡哇哇呢~好飒♪"
+"认真的兰兰也好卡哇哇~酷酷的♪"
 
 msgid "tips_0053_title"
 msgstr "什么是音符速度？"
@@ -522,91 +522,117 @@ msgstr "什么是活动剧情？"
 msgid "tips_0063_msg"
 msgstr ""
 "错过的活动SNS剧情\n"
-"可使用SNS密钥进行回顾"
+"可消耗SNS密钥进行解锁并回顾"
 
 msgid "tips_0064_title"
-msgstr ""
+msgstr "什么是“爹卡路恰”？"
 
 msgid "tips_0064_msg"
 msgstr ""
+"杰特拉帝语中，\n"
+"用来表达惊讶与感动的词汇"
 
 msgid "tips_0065_title"
-msgstr ""
+msgstr "什么是丘露露？"
 
 msgid "tips_0065_msg"
 msgstr ""
+"是我们养的海猫，\n"
+"它身上有条纹的部分其实是衣服哦"
 
 msgid "tips_0066_title"
-msgstr ""
+msgstr "什么是山椒鱼先生？"
 
 msgid "tips_0066_msg"
 msgstr ""
+"就是我的手机啦！\n"
+"看起来跟真的山椒鱼一样，可爱吧？"
 
 msgid "tips_0067_title"
-msgstr ""
+msgstr "什么是空中骑士团？"
 
 msgid "tips_0067_msg"
 msgstr ""
+"温德米尔王国的空军小队，\n"
+"圣骑士团长叫罗伊德"
 
 msgid "tips_0068_title"
-msgstr ""
+msgstr "什么是Delta小队？"
 
 msgid "tips_0068_msg"
 msgstr ""
+"负责保卫Walküre的战机小队，\n"
+"在演出时负责飞行表演部分"
 
 msgid "tips_0069_title"
-msgstr ""
+msgstr "什么是S.M.S？"
 
 msgid "tips_0069_msg"
 msgstr ""
+"私营军事组织，\n"
+"据说也负责新型战斗机的试验工作"
 
 msgid "tips_0070_title"
-msgstr ""
+msgstr "什么是娘娘？"
 
 msgid "tips_0070_msg"
 msgstr ""
+"是我爷爷开的中餐店，\n"
+"里面的每道菜都特别好吃！"
 
 msgid "tips_0071_title"
-msgstr ""
+msgstr "什么是杰特拉帝人？"
 
 msgid "tips_0071_msg"
 msgstr ""
+"身形庞大，肉体强韧的巨人族。\n"
+"目前与人类处于和平共处的状态"
 
 msgid "tips_0072_title"
-msgstr ""
+msgstr "什么是瓦鸠拉？"
 
 msgid "tips_0072_msg"
 msgstr ""
+"外形酷似虫子的外星生物，\n"
+"会成群结队地袭击目标"
 
 msgid "tips_0073_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0073_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"整个人像在闪闪发光一样，好美~！"
 
 msgid "tips_0074_title"
-msgstr ""
+msgstr "什么是服装强化？"
 
 msgid "tips_0074_msg"
 msgstr ""
+"是可以强化已有服装的功能哦，\n"
+"还可以解锁卡哇哇~的异色版本呢"
 
 msgid "tips_0075_title"
-msgstr ""
+msgstr "什么是派遣行动？"
 
 msgid "tips_0075_msg"
 msgstr ""
+"可以给战机小队指派任务的功能，\n"
+"派遣后坐等结果就好啦"
 
 msgid "tips_0076_title"
-msgstr ""
+msgstr "什么是歌姬派遣行动？"
 
 msgid "tips_0076_msg"
-msgstr ""
+msgstr "来自歌姬的个人任务请求"
 
 msgid "tips_0077_title"
-msgstr ""
+msgstr "什么是Slide音符？"
 
 msgid "tips_0077_msg"
 msgstr ""
+"横跨轨道的长音符，\n"
+"击打时只需长按即可"
 
 msgid "tips_0078_title"
 msgstr ""
