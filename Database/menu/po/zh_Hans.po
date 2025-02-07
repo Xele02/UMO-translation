@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-02-07 06:37+0000\n"
+"PO-Revision-Date: 2025-02-08 06:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -80,7 +80,7 @@ msgid "popup_text_03"
 msgstr "无法卸下中心位歌姬。"
 
 msgid "popup_text_08"
-msgstr "歌姬数值"
+msgstr "歌姬能力值"
 
 msgid "popup_text_09"
 msgstr "消耗道具"
@@ -1235,7 +1235,7 @@ msgid "popup_unlock_desc_001"
 msgstr "在记忆时空解放歌曲的记忆。"
 
 msgid "popup_unlock_desc_002"
-msgstr "歌姬数值"
+msgstr "歌姬能力值"
 
 msgid "popup_loginbonus_001"
 msgstr "累计登录奖励"
@@ -6576,13 +6576,13 @@ msgid "pop_pass_update_popup_title"
 msgstr ""
 
 msgid "pop_godiva_bonus_open_target_status"
-msgstr "获得助阵值"
+msgstr "获得喝彩值"
 
 msgid "pop_godiva_bonus_open_bonus_2"
 msgstr "<color=#C8087E>{0:#.#}</color><color=#062E49>倍</color>"
 
 msgid "pop_godiva_bonus_open_explain"
-msgstr "游玩特别演出可获得更多助阵点数。"
+msgstr "游玩特别演出可获得更多喝彩点数。"
 
 msgid "pop_godiva_bonus_close_title"
 msgstr "特别演出"
@@ -6689,16 +6689,16 @@ msgid "godiva_music_info_bonus_lots_rate"
 msgstr "{0}%"
 
 msgid "godiva_music_info_exp_bonus"
-msgstr "获得{0:#.#}倍助阵值！"
+msgstr "{0:#.#}倍喝彩值！"
 
 msgid "godiva_music_select_exp_bonus"
-msgstr "获得{0:#.#}倍助阵值"
+msgstr "{0:#.#}倍喝彩值"
 
 msgid "godiva_result_bonus"
 msgstr "演出加成{0}倍"
 
 msgid "popup_filter_godiva_music_exp_title_h2"
-msgstr "助阵值"
+msgstr "喝彩值"
 
 msgid "popup_filter_godiva_music_exp_item_soul"
 msgstr "歌魂"
@@ -7147,7 +7147,7 @@ msgstr ""
 
 msgid "popup_diva_change_text"
 msgstr ""
-"第4、5名歌姬的数值\n"
+"第4、5名歌姬的能力值\n"
 "不会反应到编队中。"
 
 msgid "unit_diva_limit_message"
