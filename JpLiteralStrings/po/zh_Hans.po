@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-02-06 23:30+0000\n"
+"PO-Revision-Date: 2025-02-07 06:37+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -667,7 +667,7 @@ msgid "StringLiteral_12097"
 msgstr ""
 
 msgid "StringLiteral_12139"
-msgstr "派遣任务已完成"
+msgstr "派遣行动已完成"
 
 msgid "StringLiteral_12141"
 msgstr "小队"
@@ -1030,10 +1030,10 @@ msgid "StringLiteral_12904"
 msgstr "战斗任务等级称号"
 
 msgid "StringLiteral_12905"
-msgstr "VF派遣任务"
+msgstr "VF派遣行动"
 
 msgid "StringLiteral_12906"
-msgstr "VF派遣任务首次奖励"
+msgstr "VF派遣行动首次奖励"
 
 msgid "StringLiteral_12907"
 msgstr "强化服装"
@@ -1045,7 +1045,7 @@ msgid "StringLiteral_12909"
 msgstr "月卡续费特典"
 
 msgid "StringLiteral_12910"
-msgstr "VF派遣任务歌晶石"
+msgstr "VF派遣行动歌晶石"
 
 msgid "StringLiteral_12911"
 msgstr "战机技能强化"
@@ -1533,7 +1533,7 @@ msgid "UMO_achievements_debut_quest"
 msgstr "完成新手任务获得的奖励。"
 
 msgid "UMO_achievements_new_offer"
-msgstr "首次完成战机派遣任务获得的奖励。"
+msgstr "首次完成战机派遣行动获得的奖励。"
 
 msgid "UMO_achievements_costume"
 msgstr "提升服装卡哇哇等级获得的奖励。"
