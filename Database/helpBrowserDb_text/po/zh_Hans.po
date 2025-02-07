@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-06 23:30+0000\n"
+"PO-Revision-Date: 2025-02-07 06:37+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -45,7 +45,7 @@ msgid "category_0012_name"
 msgstr "大厅"
 
 msgid "category_0013_name"
-msgstr "战机派遣任务"
+msgstr "战机派遣行动"
 
 msgid "category_0014_name"
 msgstr "房间模式"
@@ -306,13 +306,13 @@ msgid "wiki_0008_0003_name"
 msgstr "服装一览"
 
 msgid "help_0009_0000_name"
-msgstr "关于战机派遣任务"
+msgstr "关于战机派遣行动"
 
 msgid "help_0009_0001_name"
-msgstr "解锁战机派遣任务"
+msgstr "解锁战机派遣行动"
 
 msgid "help_0009_0002_name"
-msgstr "歌姬派遣任务"
+msgstr "歌姬派遣行动"
 
 msgid "help_0010_0000_name"
 msgstr "普通抽卡"
@@ -630,13 +630,13 @@ msgid "help_0027_0000_name"
 msgstr "模拟演出设置"
 
 msgid "help_0028_0000_name"
-msgstr "关于战机派遣任务"
+msgstr "关于战机派遣行动"
 
 msgid "help_0028_0001_name"
-msgstr "解锁战机派遣任务"
+msgstr "解锁战机派遣行动"
 
 msgid "help_0028_0002_name"
-msgstr "歌姬派遣任务"
+msgstr "歌姬派遣行动"
 
 msgid "help_0029_0000_name"
 msgstr "强化服装"
