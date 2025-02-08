@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-02-07 06:37+0000\n"
+"PO-Revision-Date: 2025-02-08 06:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tipsdb_text/zh_Hans/>\n"
@@ -92,7 +92,7 @@ msgstr "FULL COMBO技巧"
 msgid "tips_0009_msg"
 msgstr ""
 "灵活使用判定缓和技能，\n"
-"即便是高难歌曲也能从容应对"
+"即便是高难度歌曲也能从容应对"
 
 msgid "tips_0010_title"
 msgstr "什么是超时空SNS？"
@@ -179,14 +179,14 @@ msgstr "玛基娜的秘密"
 
 msgid "tips_0020_msg"
 msgstr ""
-"我爷爷是飞机维修员，\n"
-"我的爱好就是他遗传下来的哦~♪"
+"我爷爷曾经是飞机维修员，\n"
+"我也跟爷爷一样对机器情有独钟哦~♪"
 
 msgid "tips_0021_title"
 msgstr "蕾娜的秘密"
 
 msgid "tips_0021_msg"
-msgstr "水母要生吞才好吃"
+msgstr "生吞水母，最棒"
 
 msgid "tips_0022_title"
 msgstr "兰卡的秘密"
@@ -201,7 +201,7 @@ msgstr "雪莉露的秘密"
 
 msgid "tips_0023_msg"
 msgstr ""
-"Galaxy船团，承载了太多美好的回忆。\n"
+"Galaxy船团承载了太多美好的回忆。\n"
 "真要聊起来，感觉花上一整天都不够"
 
 msgid "tips_0024_title"
@@ -234,7 +234,7 @@ msgstr "什么是女武神战机？"
 msgid "tips_0027_msg"
 msgstr ""
 "可以进行三段变形的战机，\n"
-"每架战机都有其独特的性能和长处"
+"每架战机都有其突出的性能和特性"
 
 msgid "tips_0028_title"
 msgstr "什么是记忆时空？"
@@ -305,8 +305,8 @@ msgstr "什么是生物Fold波？"
 
 msgid "tips_0036_msg"
 msgstr ""
-"是我们歌声的力量所在，\n"
-"也是对抗鸟人的唯一手段"
+"是歌声的力量所在，\n"
+"也是我们对抗鸟人的唯一手段"
 
 msgid "tips_0037_title"
 msgstr "什么是卡片稀有度？"
@@ -353,8 +353,8 @@ msgstr "什么是稀有道具音符？"
 
 msgid "tips_0042_msg"
 msgstr ""
-"成功击打可获得更为稀有的道具，\n"
-"可千万不要漏掉了！"
+"成功击打可获得更为稀有的道具。\n"
+"集中精神，不要漏掉任何一个！"
 
 msgid "tips_0043_title"
 msgstr "什么是幸运值？"
@@ -386,7 +386,7 @@ msgstr "什么是歌姬观察功能？"
 msgid "tips_0046_msg"
 msgstr ""
 "能够近距离观察我们全身的功能。\n"
-"不过别看太久哦，挺难为情的"
+"不过挺难为情的，别看太久哦"
 
 msgid "tips_0047_title"
 msgstr "什么是战机观察功能？"
@@ -434,7 +434,7 @@ msgstr "卡哇哇相册"
 msgid "tips_0052_msg"
 msgstr ""
 "这是兰兰在生日会上留下的精彩瞬间！\n"
-"认真的兰兰也好卡哇哇~酷酷的♪"
+"认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0053_title"
 msgstr "什么是音符速度？"
@@ -457,7 +457,7 @@ msgstr "尽可能地保持连击吧！"
 
 msgid "tips_0055_msg"
 msgstr ""
-"“连击持续”和“判定缓和”技能\n"
+"灵活运用“连击持续”和“判定缓和”技能，\n"
 "能帮助你减少演奏的失误"
 
 msgid "tips_0056_title"
@@ -474,7 +474,7 @@ msgstr "使用分数提升技能吧！"
 msgid "tips_0057_msg"
 msgstr ""
 "与其他玩家战力相近却无法胜出时，\n"
-"使用分数提升技能可帮助你挽回局势"
+"使用分数提升技能可助你挽回局势"
 
 msgid "tips_0058_title"
 msgstr "什么是幸运草？"
@@ -635,286 +635,340 @@ msgstr ""
 "击打时只需长按即可"
 
 msgid "tips_0078_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0078_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"简直不要太卡哇哇~！"
 
 msgid "tips_0079_title"
-msgstr ""
+msgstr "如何有效使用分数提升技能 －1－"
 
 msgid "tips_0079_msg"
 msgstr ""
+"此类技能的使用效果与歌曲时长挂钩，\n"
+"使用时要注意区分歌曲长短哦！"
 
 msgid "tips_0080_title"
-msgstr ""
+msgstr "什么是房间模式？"
 
 msgid "tips_0080_msg"
 msgstr ""
+"可以自由摆放家具，\n"
+"打造自己独一无二的房间"
 
 msgid "tips_0081_title"
-msgstr ""
+msgstr "什么是战机强化？"
 
 msgid "tips_0081_msg"
 msgstr ""
+"可以强化战机\n"
+"并解锁新特性的功能"
 
 msgid "tips_0082_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0082_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0083_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0083_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"简直不要太卡哇哇~！"
 
 msgid "tips_0084_title"
-msgstr ""
+msgstr "关于歌姬养成活动：特别演出"
 
 msgid "tips_0084_msg"
 msgstr ""
+"可以获得额外喝彩点数的特别演出！\n"
+"写着“X倍喝彩值”的就是啦"
 
 msgid "tips_0085_title"
-msgstr ""
+msgstr "关于歌姬养成活动：喝彩值"
 
 msgid "tips_0085_msg"
 msgstr ""
+"即演出中获得的喝彩量。\n"
+"游玩歌曲可获得相应属性的喝彩值"
 
 msgid "tips_0086_title"
-msgstr ""
+msgstr "关于歌姬养成活动：感召力"
 
 msgid "tips_0086_msg"
 msgstr ""
+"累积的喝彩值越多，歌姬的能力越强\n"
+"尽可能去提升你喜欢的歌姬吧！"
 
 msgid "tips_0087_title"
-msgstr ""
+msgstr "歌姬养成活动：热情值"
 
 msgid "tips_0087_msg"
 msgstr ""
+"演出时观众的热情指数，\n"
+"热情值越高，出现特别演出的概率越高"
 
 msgid "tips_0088_title"
-msgstr ""
+msgstr "【技能】什么是超歌姬分数提升？"
 
 msgid "tips_0088_msg"
 msgstr ""
+"超歌姬模式的时间越长，\n"
+"越能发挥出不俗效果的技能"
 
 msgid "tips_0089_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0089_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0090_title"
-msgstr ""
+msgstr "【技能】什么是重复加分&生命减少？"
 
 msgid "tips_0090_msg"
 msgstr ""
+"比“重复加分”更为强力的技能，\n"
+"但使用时会持续减少生命"
 
 msgid "tips_0091_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0091_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"整个人像在闪闪发光一样，好美~！"
 
 msgid "tips_0092_title"
-msgstr ""
+msgstr "关于动态卡片的秘密 -1-"
 
 msgid "tips_0092_msg"
 msgstr ""
+"中心技能在卡片稀有度为★6时即可升至满级，\n"
+"因此仅需一张卡片便能发挥出不俗的实力"
 
 msgid "tips_0093_title"
-msgstr ""
+msgstr "什么是歌姬排名？"
 
 msgid "tips_0093_msg"
 msgstr ""
+"每位歌姬的TOTAL值排名。\n"
+"努力培养喜爱的歌姬，让ta获得更高的排名吧"
 
 msgid "tips_0094_title"
-msgstr ""
+msgstr "【服装效果】什么是歌姬数值提升？"
 
 msgid "tips_0094_msg"
 msgstr ""
+"可提升歌姬能力值的技能，\n"
+"歌姬的养成度越高，技能效果越明显"
 
 msgid "tips_0095_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0095_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"简直不要太卡哇哇~！"
 
 msgid "tips_0096_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0096_msg"
 msgstr ""
+"心被芙蕾芙蕾的眨眼击中了~！\n"
+"身后的云云也是一样的卡哇哇♪"
 
 msgid "tips_0097_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0097_msg"
 msgstr ""
+"这是我和玛基娜一起表演的画面\n"
+"穿泳装的玛基娜…最棒…！"
 
 msgid "tips_0098_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0098_msg"
 msgstr ""
+"在海边凹造型的云云！\n"
+"云云穿泳装的样子，好撩人呢！"
 
 msgid "tips_0099_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0099_msg"
 msgstr ""
+"被发光水母包围的要要…\n"
+"好梦幻呀"
 
 msgid "tips_0100_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0100_msg"
 msgstr ""
+"是穿着护士服的玛基娜！\n"
+"好性感…是心动的感觉…"
 
 msgid "tips_0101_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0101_msg"
 msgstr ""
+"这是蕾蕾独自上台表演的画面！\n"
+"认真唱歌的蕾蕾太美啦！"
 
 msgid "tips_0102_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0102_msg"
 msgstr ""
+"穿着睡衣的兰兰~\n"
+"暖洋洋的笑容，真是卡哇哇！"
 
 msgid "tips_0103_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0103_msg"
 msgstr ""
+"雪雪的演出现场照！\n"
+"好飒，好心动！"
 
 msgid "tips_0104_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0104_msg"
 msgstr ""
 
 msgid "tips_0105_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0105_msg"
 msgstr ""
 
 msgid "tips_0106_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0106_msg"
 msgstr ""
 
 msgid "tips_0107_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0107_msg"
 msgstr ""
 
 msgid "tips_0108_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0108_msg"
 msgstr ""
 
 msgid "tips_0109_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0109_msg"
 msgstr ""
 
 msgid "tips_0110_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0110_msg"
 msgstr ""
 
 msgid "tips_0111_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0111_msg"
 msgstr ""
 
 msgid "tips_0112_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0112_msg"
 msgstr ""
 
 msgid "tips_0113_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0113_msg"
 msgstr ""
 
 msgid "tips_0114_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0114_msg"
 msgstr ""
 
 msgid "tips_0115_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0115_msg"
 msgstr ""
 
 msgid "tips_0116_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0116_msg"
 msgstr ""
 
 msgid "tips_0117_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0117_msg"
 msgstr ""
 
 msgid "tips_0118_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0118_msg"
 msgstr ""
 
 msgid "tips_0119_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0119_msg"
 msgstr ""
 
 msgid "tips_0120_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0120_msg"
 msgstr ""
 
 msgid "tips_0121_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0121_msg"
 msgstr ""
 
 msgid "tips_0122_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0122_msg"
 msgstr ""
 
 msgid "tips_0123_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0123_msg"
 msgstr ""
 
 msgid "tips_0124_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0124_msg"
 msgstr ""
+"这是兰兰在生日会上留下的精彩瞬间！\n"
+"认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0125_title"
 msgstr ""
@@ -941,121 +995,121 @@ msgid "tips_0128_msg"
 msgstr ""
 
 msgid "tips_0129_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0129_msg"
 msgstr ""
 
 msgid "tips_0130_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0130_msg"
 msgstr ""
 
 msgid "tips_0131_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0131_msg"
 msgstr ""
 
 msgid "tips_0132_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0132_msg"
 msgstr ""
 
 msgid "tips_0133_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0133_msg"
 msgstr ""
 
 msgid "tips_0134_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0134_msg"
 msgstr ""
 
 msgid "tips_0135_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0135_msg"
 msgstr ""
 
 msgid "tips_0136_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0136_msg"
 msgstr ""
 
 msgid "tips_0137_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0137_msg"
 msgstr ""
 
 msgid "tips_0138_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0138_msg"
 msgstr ""
 
 msgid "tips_0139_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0139_msg"
 msgstr ""
 
 msgid "tips_0140_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0140_msg"
 msgstr ""
 
 msgid "tips_0141_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0141_msg"
 msgstr ""
 
 msgid "tips_0142_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0142_msg"
 msgstr ""
 
 msgid "tips_0143_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0143_msg"
 msgstr ""
 
 msgid "tips_0144_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0144_msg"
 msgstr ""
 
 msgid "tips_0145_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0145_msg"
 msgstr ""
 
 msgid "tips_0146_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0146_msg"
 msgstr ""
 
 msgid "tips_0147_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0147_msg"
 msgstr ""
 
 msgid "tips_0148_title"
-msgstr ""
+msgstr "卡哇哇相册"
 
 msgid "tips_0148_msg"
 msgstr ""
