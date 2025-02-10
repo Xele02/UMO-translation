@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-02-08 11:46+0000\n"
+"PO-Revision-Date: 2025-02-10 11:02+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tipsdb_text/zh_Hans/>\n"
@@ -59,7 +59,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0005_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0006_title"
@@ -433,7 +433,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0052_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0053_title"
@@ -601,7 +601,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0073_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "整个人像在闪闪发光一样，好美~！"
 
 msgid "tips_0074_title"
@@ -639,7 +639,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0078_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0079_title"
@@ -671,7 +671,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0082_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0083_title"
@@ -679,7 +679,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0083_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0084_title"
@@ -727,7 +727,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0089_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0090_title"
@@ -743,7 +743,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0091_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "整个人像在闪闪发光一样，好美~！"
 
 msgid "tips_0092_title"
@@ -775,7 +775,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0095_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0096_title"
@@ -839,7 +839,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0103_msg"
 msgstr ""
-"雪雪的演出现场照！\n"
+"雪雪演出的精彩现场！\n"
 "好飒，好心动！"
 
 msgid "tips_0104_title"
@@ -855,42 +855,56 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0105_msg"
 msgstr ""
+"穿着Crossover服装表演的莲莲。\n"
+"成熟自信的样子，卡哇哇♪"
 
 msgid "tips_0106_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0106_msg"
 msgstr ""
+"穿背心的莲莲，充满了夏日气息！\n"
+"弹贝斯的样子，卡哇哇~♪"
 
 msgid "tips_0107_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0107_msg"
 msgstr ""
+"巴萨拉先生的姿势好帅！\n"
+"火焰女武神酱也卡哇哇~！"
 
 msgid "tips_0108_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0108_msg"
 msgstr ""
+"巴萨拉先生高高跳起的一刻！\n"
+"真是身姿矫健呢～"
 
 msgid "tips_0109_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0109_msg"
 msgstr ""
+"蔚蓝的天空、辽阔的草原！\n"
+"再配上卡哇哇~的美美，真是太绝啦♪"
 
 msgid "tips_0110_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0110_msg"
 msgstr ""
+"和兰卡姐姐合唱经典的《星间飞行》了！\n"
+"能和偶像一起唱歌，真的好幸福呀"
 
 msgid "tips_0111_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0111_msg"
 msgstr ""
+"这是我和芙蕾雅、要一起跳舞的画面。\n"
+"感受到我们的激情了吗？"
 
 msgid "tips_0112_title"
 msgstr "卡哇哇相册"
@@ -969,7 +983,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0124_msg"
 msgstr ""
-"这是兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰在生日会上留下的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0125_title"
