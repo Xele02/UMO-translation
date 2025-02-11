@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-02-10 11:02+0000\n"
+"PO-Revision-Date: 2025-02-11 06:01+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tipsdb_text/zh_Hans/>\n"
@@ -28,7 +28,7 @@ msgstr "【技能】什么是生命回复？"
 msgid "tips_0001_msg"
 msgstr ""
 "发动时能够回复生命的技能，\n"
-"是危急关头的救命法宝"
+"在危急时刻可力挽狂澜"
 
 msgid "tips_0002_title"
 msgstr "【技能】什么是伤害减免？"
@@ -59,7 +59,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0005_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0006_title"
@@ -433,7 +433,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0052_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0053_title"
@@ -601,7 +601,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0073_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "整个人像在闪闪发光一样，好美~！"
 
 msgid "tips_0074_title"
@@ -639,7 +639,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0078_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0079_title"
@@ -671,7 +671,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0082_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0083_title"
@@ -679,7 +679,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0083_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0084_title"
@@ -727,7 +727,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0089_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0090_title"
@@ -743,7 +743,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0091_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "整个人像在闪闪发光一样，好美~！"
 
 msgid "tips_0092_title"
@@ -775,7 +775,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0095_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "简直不要太卡哇哇~！"
 
 msgid "tips_0096_title"
@@ -903,38 +903,48 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0111_msg"
 msgstr ""
-"这是我和芙蕾雅、要一起跳舞的画面。\n"
-"感受到我们的激情了吗？"
+"我和芙蕾雅、要三个人一起跳舞的画面。\n"
+"感受得到我们的激情吗？"
 
 msgid "tips_0112_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0112_msg"
 msgstr ""
+"这是我们穿校服跳舞的画面！\n"
+"和好朋友一起去上学，应该就是这样的感觉吧？"
 
 msgid "tips_0113_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0113_msg"
 msgstr ""
+"致敬了巴萨拉的经典造型，\n"
+"如此劲爆的演出，可遇不可求哦？"
 
 msgid "tips_0114_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0114_msg"
 msgstr ""
+"美美生日那天留下的精彩照片！\n"
+"太卡哇哇啦♪"
 
 msgid "tips_0115_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0115_msg"
 msgstr ""
+"美美生日那天留下的精彩照片！\n"
+"平静安详的样子，好美~"
 
 msgid "tips_0116_title"
 msgstr "卡哇哇相册"
 
 msgid "tips_0116_msg"
 msgstr ""
+"美美生日那天留下的精彩照片！\n"
+"酷酷的样子，好喜欢！"
 
 msgid "tips_0117_title"
 msgstr "卡哇哇相册"
@@ -983,7 +993,7 @@ msgstr "卡哇哇相册"
 
 msgid "tips_0124_msg"
 msgstr ""
-"兰兰在生日会上留下的精彩瞬间！\n"
+"兰兰生日那天的的精彩瞬间！\n"
 "认真的兰兰也特别卡哇哇~好酷♪"
 
 msgid "tips_0125_title"
