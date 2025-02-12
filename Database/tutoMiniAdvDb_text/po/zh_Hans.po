@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-02-06 23:30+0000\n"
+"PO-Revision-Date: 2025-02-12 04:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tutominiadvdb_text/zh_Hans/>\n"
@@ -100,27 +100,35 @@ msgstr ""
 
 msgid "tuto_miniadv_0011_0000_msg"
 msgstr ""
+"在这里，你可以和我们以及全银河的人\n"
+"进行跨时空的交流。"
 
 msgid "tuto_miniadv_0011_0001_msg"
-msgstr ""
+msgstr "跨时空？"
 
 msgid "tuto_miniadv_0011_0002_msg"
-msgstr ""
+msgstr "解释起来比较复杂，我们还是马上来实操一下吧。"
 
 msgid "tuto_miniadv_0011_0003_msg"
 msgstr ""
+"第一步，选择聊天室。\n"
+"我们先选择“SNS联络室”试试看吧。"
 
 msgid "tuto_miniadv_0012_0000_msg"
-msgstr ""
+msgstr "这样子点进去嘛？"
 
 msgid "tuto_miniadv_0012_0001_msg"
-msgstr ""
+msgstr "没错，就是这样。"
 
 msgid "tuto_miniadv_0013_0000_msg"
 msgstr ""
+"哇，美云、玛基娜，还有蕾娜都在耶！\n"
+"Walküre全员都到齐啦！"
 
 msgid "tuto_miniadv_0013_0001_msg"
 msgstr ""
+"她们都已经事先注册好了。\n"
+"事不宜迟，马上来发消息试试看吧！"
 
 msgid "tuto_miniadv_0014_0000_msg"
 msgstr ""
