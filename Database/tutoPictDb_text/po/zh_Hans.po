@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-13 09:31+0000\n"
+"PO-Revision-Date: 2025-02-14 10:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tutopictdb_text/zh_Hans/>\n"
@@ -19,7 +19,7 @@ msgstr "关于记忆时空与歌曲记忆"
 
 msgid "tutopict_0000_0000_msg"
 msgstr ""
-"要解锁歌曲或歌姬的记忆，\n"
+"要想解锁歌曲或歌姬的记忆，\n"
 "需要先达成与其相关的\n"
 "特定条件。"
 
@@ -33,8 +33,8 @@ msgstr "关于歌姬记忆"
 
 msgid "tutopict_0001_0000_msg"
 msgstr ""
-"和歌曲记忆一样，\n"
-"一旦发现新的歌姬记忆，\n"
+"与歌曲记忆相同，\n"
+"发现新的歌姬记忆时，\n"
 "请务必第一时间查看解锁条件。"
 
 msgid "tutopict_0002_0000_title"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgid "tutopict_0002_0001_msg"
 msgstr ""
-"进行游玩前，还可将演出背景设置为2D模式。\n"
+"游玩歌曲前，还可将演出背景设置为2D模式。\n"
 "可前往选项→游戏设置→画质\n"
 "进行设置。"
 
@@ -56,42 +56,60 @@ msgstr "关于助战卡片"
 
 msgid "tutopict_0003_0000_msg"
 msgstr ""
+"助战卡片可增强当前队伍的\n"
+"各项属性和中心技能。"
 
 msgid "tutopict_0004_0000_title"
-msgstr ""
+msgstr "关于编队组合"
 
 msgid "tutopict_0004_0000_msg"
 msgstr ""
+"针对各种状况，\n"
+"可设置多个编队组合！"
 
 msgid "tutopict_0004_0001_msg"
 msgstr ""
+"设置不同的组合时，可分别在歌曲属性、分数、\n"
+"生命等方面进行侧重，这样会更加方便哦。"
 
 msgid "tutopict_0005_0000_title"
-msgstr ""
+msgstr "关于游玩记录"
 
 msgid "tutopict_0005_0000_msg"
 msgstr ""
+"演出中出现的各种情况和信息，\n"
+"包括出现失误的地方、发动技能的时机等，\n"
+"都可通过演出记录进行查看。"
 
 msgid "tutopict_0006_0000_title"
-msgstr ""
+msgstr "关于玩家等级"
 
 msgid "tutopict_0006_0000_msg"
 msgstr ""
+"要想提升玩家等级，\n"
+"须通过游玩歌曲积攒足够的经验值。"
 
 msgid "tutopict_0007_0000_title"
-msgstr ""
+msgstr "关于好友申请"
 
 msgid "tutopict_0007_0000_msg"
 msgstr ""
+"互帮互助才能走得更远，\n"
+"通过好友申请去结识更多志同道合的伙伴吧。"
 
 msgid "tutopict_0008_0000_title"
-msgstr ""
+msgstr "关于技能"
 
 msgid "tutopict_0008_0000_msg"
 msgstr ""
+"中心技能、主动技能和演出技能，\n"
+"三者各有不同。"
 
 msgid "tutopict_0008_0001_msg"
 msgstr ""
+"编队的中心卡片可发动主动技能和中心技能，\n"
+"其余的卡片则只能发动演出技能。\n"
+"合理搭配这三种技能，即可在演出中取得高分！"
 
 msgid "tutopict_0008_0002_msg"
 msgstr ""
