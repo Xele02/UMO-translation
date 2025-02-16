@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-02-16 12:07+0000\n"
+"PO-Revision-Date: 2025-02-16 16:31+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -867,40 +867,40 @@ msgid "header_desc_home206"
 msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_home207"
-msgstr ""
+msgstr "저장한 유닛을 확인할 수 있습니다"
 
 msgid "header_desc_home208"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_home209"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_home210"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_home211"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_home230"
-msgstr ""
+msgstr "강화할 의상을 선택해 주세요"
 
 msgid "header_desc_home231"
-msgstr ""
+msgstr "아이템을 선택해 주세요　　　　　"
 
 msgid "header_desc_home240"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_home301"
-msgstr ""
+msgstr "데코룸을 선택해 주세요"
 
 msgid "header_desc_home302"
-msgstr ""
+msgstr "방문지 목록입니다"
 
 msgid "header_desc_home303"
 msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_setting000"
-msgstr ""
+msgstr "라이브를 준비하자"
 
 msgid "header_desc_setting001"
 msgstr "유닛을 편성해 주세요"
@@ -912,19 +912,19 @@ msgid "header_desc_setting003"
 msgstr "플레이트를 선택해 주세요"
 
 msgid "header_desc_setting004"
-msgstr ""
+msgstr "저장한 유닛을 확인할 수 있습니다"
 
 msgid "header_desc_setting005"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_setting006"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_setting007"
 msgstr "가희를 선택해 주세요"
 
 msgid "header_desc_setting008"
-msgstr ""
+msgstr "플레이트 목록입니다"
 
 msgid "header_desc_setting009"
 msgstr "악곡별 성장을 확인할 수 있습니다"
@@ -942,16 +942,16 @@ msgid "header_desc_setting013"
 msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_setting030"
-msgstr ""
+msgstr "강화할 의상을 선택해 주세요"
 
 msgid "header_desc_setting031"
-msgstr ""
+msgstr "아이템을 선택해 주세요　　　　　"
 
 msgid "header_desc_setting032"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_story000"
-msgstr ""
+msgstr "영역을 선택해 주세요"
 
 msgid "header_desc_story001"
 msgstr "어시스트를 선택해 주세요"
@@ -972,22 +972,22 @@ msgid "header_desc_story006"
 msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_story007"
-msgstr ""
+msgstr "저장한 유닛을 확인할 수 있습니다"
 
 msgid "header_desc_story008"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_story009"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_story030"
-msgstr ""
+msgstr "강화할 의상을 선택해 주세요"
 
 msgid "header_desc_story031"
-msgstr ""
+msgstr "아이템을 선택해 주세요　　　　　"
 
 msgid "header_desc_free000"
-msgstr ""
+msgstr "악곡을 선택해 주세요"
 
 msgid "header_desc_free001"
 msgstr "어시스트를 선택해 주세요"
@@ -1008,37 +1008,37 @@ msgid "header_desc_free006"
 msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_free007"
-msgstr ""
+msgstr "저장한 유닛을 확인할 수 있습니다"
 
 msgid "header_desc_free008"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_free009"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_free010"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_free011"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_free020"
-msgstr ""
+msgstr "라이브 설정을 확인해 주세요"
 
 msgid "header_desc_free110"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_free120"
-msgstr ""
+msgstr "이벤트 스토리를 확인할 수 있습니다"
 
 msgid "header_desc_free130"
 msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_free030"
-msgstr ""
+msgstr "강화할 의상을 선택해 주세요"
 
 msgid "header_desc_free031"
-msgstr ""
+msgstr "아이템을 선택해 주세요　　　　　"
 
 msgid "header_desc_free201"
 msgstr "어시스트를 선택해 주세요"
@@ -1059,28 +1059,28 @@ msgid "header_desc_free206"
 msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_free207"
-msgstr ""
+msgstr "저장한 유닛을 확인할 수 있습니다"
 
 msgid "header_desc_free208"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_free209"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_free210"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_free211"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_free230"
-msgstr ""
+msgstr "강화할 의상을 선택해 주세요"
 
 msgid "header_desc_free231"
-msgstr ""
+msgstr "아이템을 선택해 주세요　　　　　"
 
 msgid "header_desc_free240"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_free303"
 msgstr "아이템을 선택해 주세요"
@@ -1098,40 +1098,40 @@ msgid "header_desc_quest001"
 msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_quest002"
-msgstr ""
+msgstr "보상을 선택해 주세요"
 
 msgid "header_desc_quest003"
-msgstr ""
+msgstr "빙고 미션에 도전할 수 있습니다"
 
 msgid "header_desc_option000"
-msgstr ""
+msgstr "항목을 선택해 주세요"
 
 msgid "header_desc_option001"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_option002"
-msgstr ""
+msgstr "칭호를 선택해 주세요"
 
 msgid "header_desc_option003"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_option004"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_option005"
-msgstr ""
+msgstr "항목을 선택해 주세요"
 
 msgid "header_desc_option006"
-msgstr ""
+msgstr "교환소를 선택해 주세요"
 
 msgid "header_desc_option007"
 msgstr "아이템을 선택해 주세요"
 
 msgid "header_desc_option008"
-msgstr ""
+msgstr "이벤트 스토리를 확인할 수 있습니다"
 
 msgid "header_desc_option009"
-msgstr ""
+msgstr "차단한 유저 목록입니다"
 
 msgid "header_desc_evquest001"
 msgstr "어시스트를 선택해 주세요"
@@ -1152,112 +1152,124 @@ msgid "header_desc_evquest006"
 msgstr "플레이트의 능력을 해방할 수 있습니다"
 
 msgid "header_desc_evquest007"
-msgstr ""
+msgstr "저장한 유닛을 확인할 수 있습니다"
 
 msgid "header_desc_evquest008"
-msgstr ""
+msgstr "발키리를 선택해 주세요"
 
 msgid "header_desc_evquest009"
-msgstr ""
+msgstr "의상을 선택해 주세요"
 
 msgid "header_desc_evquest010"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_evquest011"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_evquest110"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_evquest120"
-msgstr ""
+msgstr "이벤트 스토리를 확인할 수 있습니다"
 
 msgid "header_desc_evquest130"
 msgstr "이벤트 미션 목록입니다"
 
 msgid "header_desc_evquest030"
-msgstr ""
+msgstr "강화할 의상을 선택해 주세요"
 
 msgid "header_desc_evquest031"
-msgstr ""
+msgstr "아이템을 선택해 주세요　　　　　"
 
 msgid "header_desc_result211"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "header_desc_result240"
-msgstr ""
+msgstr "랭킹을 확인할 수 있습니다"
 
 msgid "header_desc_musicrate000"
-msgstr ""
+msgstr "노래 레이트를 확인할 수 있습니다"
 
 msgid "header_desc_musicrate001"
-msgstr ""
+msgstr "프로필을 확인할 수 있습니다"
 
 msgid "popup_unlock_desc_000"
-msgstr ""
+msgstr "라이브에 악곡이 추가되었습니다!"
 
 msgid "popup_unlock_desc_001"
-msgstr ""
+msgstr "기억의 시공에서 노래의 기억을 해방할 수 있습니다."
 
 msgid "popup_unlock_desc_002"
-msgstr ""
+msgstr "가희 스테이터스"
 
 msgid "popup_loginbonus_001"
-msgstr ""
+msgstr "누적 로그인 보너스"
 
 msgid "popup_loginbonus_002"
-msgstr ""
+msgstr "아이템은 선물상자로 보내집니다."
 
 msgid "popup_loginbonus_comeback_pack_001"
-msgstr ""
+msgstr "어서오세요 팩"
 
 msgid "popup_review_000"
-msgstr ""
+msgstr "프레이아의 리뷰 요청"
 
 msgid "popup_review_001"
 msgstr ""
+"우타 마크로스 스마트폰 De카르챠를\r\n"
+"즐겨줘서 고마워!\r\n"
+"플레이해보니 어땠어?"
 
 msgid "popup_review_002"
-msgstr ""
+msgstr "별을 탭하여 평가해 주세요"
 
 msgid "popup_review_003"
 msgstr ""
+"혹시 괜찮다면 감상을\r\n"
+"들려주면 좋을 것 같은데...\r\n"
+"\r\n"
+"살짝 말해줄 수 있겠어?"
 
 msgid "popup_review_004"
 msgstr ""
+"혹시 괜찮다면 의견을\r\n"
+"들려줄 수 있을까?\r\n"
+"\r\n"
+"우타 마크로스 스마트폰 De카르챠를\r\n"
+"더 재밌게 만들어 갈 수 있도록 할게!"
 
 msgid "popup_reward_detail_001"
-msgstr ""
+msgstr "{0}회 이상 클리어"
 
 msgid "popup_reward_detail_002"
-msgstr ""
+msgstr "스코어 {0} 이상"
 
 msgid "popup_reward_detail_003"
-msgstr ""
+msgstr "{0} 콤보 이상"
 
 msgid "popup_reward_detail_004"
-msgstr ""
+msgstr "{0}UC"
 
 msgid "popup_reward_detail_005"
-msgstr ""
+msgstr "{0}×{1}"
 
 msgid "popup_reward_detail_title"
-msgstr ""
+msgstr "획득 보상"
 
 msgid "pupup_app_exit_title"
-msgstr ""
+msgstr "앱 종료 확인"
 
 msgid "popup_app_exit"
-msgstr ""
+msgstr "앱을 종료해도 괜찮습니까?"
 
 msgid "popup_quest_reward_title"
 msgstr "미션 달성"
 
 msgid "quest_event_none_list"
-msgstr ""
+msgstr "현재 도전할 수 있는 미션은 없습니다."
 
 msgid "quest_reward_none_list"
-msgstr ""
+msgstr "보상을 받을 수 있는 미션은 없습니다."
 
 msgid "quest_timer_d"
 msgstr "앞으로 {0}일"
