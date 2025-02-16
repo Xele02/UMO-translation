@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-26 12:34+0000\n"
+"PO-Revision-Date: 2025-02-16 12:07+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -252,7 +252,7 @@ msgid "pbox_win_none02"
 msgstr "수령 이력이 없습니다."
 
 msgid "set_notification_text_00"
-msgstr ""
+msgstr "푸시 설정"
 
 msgid "set_notification_text_01"
 msgstr ""
@@ -314,19 +314,19 @@ msgid "set_battle_event_text_04"
 msgstr ""
 
 msgid "config_text_00"
-msgstr ""
+msgstr "음량 설정"
 
 msgid "config_text_01"
-msgstr ""
+msgstr "BGM"
 
 msgid "config_text_02"
-msgstr ""
+msgstr "효과음"
 
 msgid "config_text_03"
 msgstr "보이스"
 
 msgid "config_text_04"
-msgstr ""
+msgstr "화면 표시 설정"
 
 msgid "config_text_05"
 msgstr ""
@@ -338,7 +338,7 @@ msgid "config_text_05_android"
 msgstr ""
 
 msgid "config_text_06"
-msgstr ""
+msgstr "자동"
 
 msgid "config_text_07"
 msgstr ""
@@ -347,13 +347,13 @@ msgid "config_text_08"
 msgstr ""
 
 msgid "config_text_09"
-msgstr ""
+msgstr "표시 설정"
 
 msgid "config_text_10"
 msgstr ""
 
 msgid "config_text_11"
-msgstr ""
+msgstr "커스텀 설정"
 
 msgid "config_text_12"
 msgstr ""
@@ -362,7 +362,7 @@ msgid "config_text_13"
 msgstr ""
 
 msgid "config_text_14"
-msgstr ""
+msgstr "동작 설정"
 
 msgid "config_text_15"
 msgstr ""
@@ -377,16 +377,16 @@ msgid "config_text_18"
 msgstr ""
 
 msgid "config_text_19"
-msgstr ""
+msgstr "타이밍 설정"
 
 msgid "config_text_20"
 msgstr ""
 
 msgid "config_text_21"
-msgstr ""
+msgstr "라이브 설정"
 
 msgid "config_text_22"
-msgstr ""
+msgstr "확인"
 
 msgid "config_text_23"
 msgstr ""
@@ -404,7 +404,7 @@ msgid "config_text_27"
 msgstr ""
 
 msgid "config_text_28"
-msgstr ""
+msgstr "메뉴 설정"
 
 msgid "config_text_29"
 msgstr ""
@@ -518,7 +518,7 @@ msgid "config_text_64"
 msgstr ""
 
 msgid "config_text_65"
-msgstr ""
+msgstr "다음부터 표시하지 않음"
 
 msgid "config_text_66"
 msgstr ""
@@ -3052,7 +3052,7 @@ msgid "event_story_list_period"
 msgstr ""
 
 msgid "present_item_rank_postfix"
-msgstr ""
+msgstr "<color=#C8087E>※선물은 랭크 {0}에 해방됩니다.</color>"
 
 msgid "present_intimacy_limit_01"
 msgstr ""
@@ -3136,7 +3136,7 @@ msgid "popup_campaign_result_title"
 msgstr ""
 
 msgid "home_pickup_checkbox_next"
-msgstr ""
+msgstr "다음부터 표시하지 않음"
 
 msgid "event_result_episode"
 msgstr ""
@@ -3280,7 +3280,7 @@ msgid "ar_net_error_title"
 msgstr ""
 
 msgid "badge_label_quest_achieved"
-msgstr "{0} 達成！"
+msgstr "{0} 달성!"
 
 msgid "badge_label_gacha_oneday"
 msgstr ""
@@ -4148,6 +4148,8 @@ msgstr ""
 
 msgid "pop_deco_gift_item_message"
 msgstr ""
+"{0}\n"
+"{1}{2} 획득"
 
 msgid "pop_deco_option_title"
 msgstr ""
@@ -4386,7 +4388,7 @@ msgid "pop_valyrietuneup_needitemdesc"
 msgstr ""
 
 msgid "customstamp_createt_itle"
-msgstr ""
+msgstr "스탬프 목록"
 
 msgid "customstamp_longtap_desc"
 msgstr ""
@@ -4420,10 +4422,10 @@ msgid "pop_customstamp_deletecheck_title"
 msgstr ""
 
 msgid "valkyrie_tuneup_skill_not"
-msgstr ""
+msgstr "미해방"
 
 msgid "pop_deco_get_title"
-msgstr ""
+msgstr "{0} 획득"
 
 msgid "pop_deco_get_desc"
 msgstr "데코룸에서 배치할 수 있는 {0}을(를) 수령하였습니다."
@@ -4450,13 +4452,13 @@ msgid "missionevent_bonus_popup_desc"
 msgstr ""
 
 msgid "missionevent_bonus_date_format"
-msgstr ""
+msgstr "yyyy/M/d H:mm"
 
 msgid "missionevent_bonus_limit_format"
-msgstr ""
+msgstr "{0} ~ {1}"
 
 msgid "missionevent_bonus_target_format"
-msgstr ""
+msgstr "{0}의 악곡"
 
 msgid "missionevent_bonus_music_attribute001"
 msgstr "별 속성"
@@ -4474,19 +4476,19 @@ msgid "missionevent_bonus_series_attribute001"
 msgstr "마크로스Δ 시리즈"
 
 msgid "missionevent_bonus_series_attribute002"
-msgstr ""
+msgstr "마크로스F 시리즈"
 
 msgid "missionevent_bonus_series_attribute003"
-msgstr ""
+msgstr "마크로스7 시리즈"
 
 msgid "missionevent_bonus_series_attribute004"
-msgstr ""
+msgstr "초시공요새 마크로스 시리즈"
 
 msgid "missionevent_bonus_series_attribute005"
-msgstr ""
+msgstr "마크로스 플러스 시리즈"
 
 msgid "missionevent_bonus_all"
-msgstr ""
+msgstr "전부"
 
 msgid "lobby_corps_belongs_conf_text"
 msgstr ""
@@ -4495,13 +4497,13 @@ msgid "lobby_corps_belongs_note_text"
 msgstr ""
 
 msgid "lobby_room_name_format"
-msgstr ""
+msgstr "부대명 : {0}"
 
 msgid "lobby_room_num_format"
-msgstr ""
+msgstr "제{0}소대"
 
 msgid "valkyrie_name_text_format_001"
-msgstr ""
+msgstr "{0} {1}"
 
 msgid "storage_select_text"
 msgstr ""
@@ -4543,7 +4545,7 @@ msgid "pop_lobby_group_not_searchplayer"
 msgstr ""
 
 msgid "pop_lobby_member_fanregister_title"
-msgstr ""
+msgstr "팬 등록"
 
 msgid "pop_lobby_member_fanregister_desc"
 msgstr ""
@@ -4561,7 +4563,7 @@ msgid "pop_lobby_member_fan_unregister_desc"
 msgstr ""
 
 msgid "pop_deco_bg_eff_span"
-msgstr ""
+msgstr "yyyy년 M월 d일 H:mm"
 
 msgid "pop_deco_bg_eff_initial_setting_title"
 msgstr ""
@@ -4893,7 +4895,7 @@ msgid "unit_skip_ticket_count_text"
 msgstr ""
 
 msgid "unit_skip_ticket_lack_title"
-msgstr ""
+msgstr "라이브 스킵 티켓"
 
 msgid "unit_skip_ticket_lack_text"
 msgstr ""
@@ -4926,13 +4928,13 @@ msgid "use_item_description_04"
 msgstr ""
 
 msgid "boost_skip_ticket_title"
-msgstr ""
+msgstr "라이브 스킵 티켓"
 
 msgid "boost_skip_ticket_text"
 msgstr ""
 
 msgid "boost_skip_battle_ex_title"
-msgstr ""
+msgstr "라이브 스킵 티켓"
 
 msgid "boost_skip_battle_ex_text"
 msgstr ""
@@ -4961,7 +4963,7 @@ msgid "popup_rareup_item_convert_desc_02"
 msgstr ""
 
 msgid "popup_get_liveskip_ticket_title"
-msgstr ""
+msgstr "{0} 획득"
 
 msgid "popup_get_liveskip_ticket_desc"
 msgstr ""
@@ -4969,13 +4971,13 @@ msgstr ""
 "※소지 한도를 초과한 분량은 소멸됩니다."
 
 msgid "popup_get_liveskip_ticket_count"
-msgstr ""
+msgstr "현재 소지수"
 
 msgid "popup_get_liveskip_ticket_checkbox"
-msgstr ""
+msgstr "다음부터 표시하지 않음"
 
 msgid "popup_get_liveskip_ticket_confirm_title"
-msgstr ""
+msgstr "확인"
 
 msgid "popup_get_liveskip_ticket_confirm_desc"
 msgstr ""
@@ -5884,73 +5886,82 @@ msgid "use_item_description_05"
 msgstr ""
 
 msgid "popup_godiva_bonus_remind_title"
-msgstr ""
+msgstr "악곡 선택"
 
 msgid "popup_godiva_bonus_remind_text"
 msgstr ""
 
 msgid "home_footer_badge_text_02"
-msgstr ""
+msgstr "NEW!"
 
 msgid "home_footer_badge_text_03"
-msgstr ""
+msgstr "가챠 갱신!"
 
 msgid "home_footer_badge_text_04"
-msgstr ""
+msgstr "아침 무료!"
 
 msgid "home_footer_badge_text_05"
-msgstr ""
+msgstr "점심 무료!"
 
 msgid "home_footer_badge_text_06"
-msgstr ""
+msgstr "저녁 무료!"
 
 msgid "home_footer_badge_text_07"
-msgstr ""
+msgstr "CHECK!"
 
 msgid "home_footer_badge_text_08"
-msgstr ""
+msgstr "신기능 추가!"
 
 msgid "home_footer_badge_text_09"
-msgstr ""
+msgstr "수신 메시지 있음"
 
 msgid "home_banner_period"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2}까지"
 
 msgid "home_event_banner_period"
-msgstr ""
+msgstr "{0}/{1}/{2}:{3:D2}～{4}/{5}/{6}:{7:D2}"
 
 msgid "home_unlock_rank"
-msgstr ""
+msgstr "RANK{0}에 해방"
 
 msgid "gakuya_gift_unlock_rank"
 msgstr ""
+"RANK{0}\n"
+"에 해방"
 
 msgid "gakuya_status_diva_ranking_value"
 msgstr "{0}위"
 
 msgid "gakuya_intimacy_present_none"
 msgstr ""
+"선물을 가지고 있지 않아\r\n"
+"선물을 줄 수 없습니다."
 
 msgid "gakuya_gift_stock_count"
-msgstr ""
+msgstr "소지수 : {0}"
 
 msgid "pop_gakuya_present_ask_title"
 msgstr "{0}"
 
 msgid "pop_gakuya_present_ask"
 msgstr ""
+"{0}\n"
+"\n"
+"이 아이템을 사용하시겠습니까?"
 
 msgid "pop_gakuya_present_lv_max"
 msgstr ""
+"친밀도 레벨이 최대이기 때문에\n"
+"선물을 줄 수 없습니다."
 
 msgid "pop_gakuya_present_limit_title"
-msgstr ""
+msgstr "사용 상한"
 
 msgid "pop_gakuya_present_limit"
-msgstr ""
+msgstr "오늘은 이 이상 선물을 줄 수 없습니다."
 
 msgid "popup_sp_transition_bingo_error_title"
-msgstr ""
+msgstr "빙고 미개방"
 
 msgid "popup_sp_bingo_debutmission_notclear_text"
 msgstr ""
@@ -5958,34 +5969,38 @@ msgstr ""
 "도전할 수 있습니다.\n"
 
 msgid "home_event_started"
-msgstr ""
+msgstr "이벤트 개최중!"
 
 msgid "home_event_counting"
-msgstr ""
+msgstr "이벤트 집계중!"
 
 msgid "home_event_reward_recieved"
-msgstr ""
+msgstr "에필로그 공개중!"
 
 msgid "home_story_release_diva"
 msgstr ""
+"{0}의 기억을\n"
+"해방하자!"
 
 msgid "home_story_release_music"
 msgstr ""
+"새로운 노래의 기억을\n"
+"해방하자!"
 
 msgid "home_bg_limit_period"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2}까지"
 
 msgid "home_banner_raid_lobby_open"
-msgstr ""
+msgstr "마크로스 로비 오픈!"
 
 msgid "home_banner_raid_end"
-msgstr ""
+msgstr "이벤트 종료"
 
 msgid "home_pass_button_purchase"
-msgstr ""
+msgstr "　구입 가능!"
 
 msgid "home_pass_button_rare_up_item"
-msgstr ""
+msgstr "까지 앞으로 {0}회"
 
 msgid "popup_minigame001_pause_title"
 msgstr ""
@@ -6009,46 +6024,46 @@ msgid "popup_filter_unspecified"
 msgstr ""
 
 msgid "popup_filter_difficulty_title_h2"
-msgstr ""
+msgstr "난이도"
 
 msgid "popup_filter_difficulty_easy"
-msgstr ""
+msgstr "EASY"
 
 msgid "popup_filter_difficulty_normal"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "popup_filter_difficulty_hard"
-msgstr ""
+msgstr "HARD"
 
 msgid "popup_filter_difficulty_veryhard"
-msgstr ""
+msgstr "VERY HARD"
 
 msgid "popup_filter_difficulty_extreme"
-msgstr ""
+msgstr "EXTREME"
 
 msgid "popup_filter_difficulty_6line_hard"
-msgstr ""
+msgstr "HARD+"
 
 msgid "popup_filter_difficulty_6line_veryhard"
-msgstr ""
+msgstr "VERY HARD+"
 
 msgid "popup_filter_difficulty_6line_extreme"
-msgstr ""
+msgstr "EXTREME+"
 
 msgid "popup_filter_music_attribute_title_h2"
-msgstr ""
+msgstr "속성"
 
 msgid "popup_filter_music_attribute_001"
-msgstr ""
+msgstr "별"
 
 msgid "popup_filter_music_attribute_002"
-msgstr ""
+msgstr "사랑"
 
 msgid "popup_filter_music_attribute_003"
-msgstr ""
+msgstr "생명"
 
 msgid "popup_filter_music_attribute_004"
-msgstr ""
+msgstr "전"
 
 msgid "popup_filter_combo_title_h2"
 msgstr "콤보"
@@ -6115,7 +6130,7 @@ msgid "event_mission_setting_desc_006"
 msgstr ""
 
 msgid "unit_skip_story_title"
-msgstr ""
+msgstr "라이브 스킵 티켓"
 
 msgid "unit_skip_story_text"
 msgstr ""
@@ -6127,10 +6142,10 @@ msgid "unit_diva_limit_message"
 msgstr ""
 
 msgid "unit_head_prism_btton_on"
-msgstr ""
+msgstr "ON"
 
 msgid "unit_head_prism_btton_off"
-msgstr ""
+msgstr "OFF"
 
 msgid "unit_save_button_save"
 msgstr ""
@@ -6142,25 +6157,25 @@ msgid "unit_mv_mode_description"
 msgstr ""
 
 msgid "unit_prism_switch_button_on"
-msgstr ""
+msgstr "ON"
 
 msgid "unit_prism_switch_button_off"
-msgstr ""
+msgstr "OFF"
 
 msgid "unit_mv_mode_switch_button_on"
-msgstr ""
+msgstr "ON"
 
 msgid "unit_mv_mode_switch_button_off"
-msgstr ""
+msgstr "OFF"
 
 msgid "unit_unitset_description"
 msgstr ""
 
 msgid "unit_unitset_page"
-msgstr ""
+msgstr "{0}/{1}"
 
 msgid "unit_unitset_dummy_name"
-msgstr ""
+msgstr "유닛 {0}"
 
 msgid "unit_status_skill_regulation_series_y"
 msgstr ""
@@ -6175,10 +6190,10 @@ msgid "popup_sort_item_music_exp"
 msgstr "숙련도"
 
 msgid "unit_diva_status_titla_level"
-msgstr ""
+msgstr "가희 Lv"
 
 msgid "unit_diva_status_titla_total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "unit_diva_status_titla_music_exp"
 msgstr "숙련도"
