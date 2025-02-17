@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-08 06:30+0000\n"
+"PO-Revision-Date: 2025-02-17 11:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -147,7 +147,7 @@ msgid "help_0001_0003_name"
 msgstr "歌曲属性"
 
 msgid "help_0001_0004_name"
-msgstr "战机编队"
+msgstr "选择战机"
 
 msgid "help_0001_0005_name"
 msgstr "助战设置"
@@ -180,7 +180,7 @@ msgid "help_0002_0000_name"
 msgstr "解锁歌曲"
 
 msgid "help_0002_0001_name"
-msgstr "歌姬解锁"
+msgstr "解锁歌姬"
 
 msgid "wiki_0002_0000_name"
 msgstr "歌曲解锁条件"
@@ -465,7 +465,7 @@ msgid "help_0018_0000_name"
 msgstr "解锁歌曲"
 
 msgid "help_0018_0001_name"
-msgstr "歌姬解锁"
+msgstr "解锁歌姬"
 
 msgid "wiki_0018_0000_name"
 msgstr "歌曲解锁条件"
@@ -549,7 +549,7 @@ msgid "wiki_0021_0002_name"
 msgstr "卡片一览"
 
 msgid "help_0022_0000_name"
-msgstr "战机编队"
+msgstr "选择战机"
 
 msgid "wiki_0022_0000_name"
 msgstr "战机一览"
@@ -1104,7 +1104,7 @@ msgid "help_0071_0003_name"
 msgstr "歌曲属性"
 
 msgid "help_0071_0004_name"
-msgstr "战机编队"
+msgstr "选择战机"
 
 msgid "help_0071_0005_name"
 msgstr "编队组合"
