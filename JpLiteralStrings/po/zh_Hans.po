@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-02-08 06:30+0000\n"
+"PO-Revision-Date: 2025-02-17 03:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -138,10 +138,10 @@ msgid "StringLiteral_9874"
 msgstr "未获得"
 
 msgid "StringLiteral_9949"
-msgstr "必出1枚★{0}卡片"
+msgstr "必得1枚★{0}卡片"
 
 msgid "StringLiteral_9950"
-msgstr "必出1枚★{0}以上卡片"
+msgstr "必得1枚★{0}以上卡片"
 
 msgid "StringLiteral_10040"
 msgstr "收藏夹1"
@@ -444,13 +444,13 @@ msgid "StringLiteral_11090"
 msgstr ""
 
 msgid "StringLiteral_11115"
-msgstr "必出★5卡片"
+msgstr "必得★5卡片"
 
 msgid "StringLiteral_11117"
 msgstr "普通抽卡"
 
 msgid "StringLiteral_11118"
-msgstr "必出★4卡片"
+msgstr "必得★4卡片"
 
 msgid "StringLiteral_11128"
 msgstr "新手"
@@ -1545,40 +1545,40 @@ msgid "UMO_currency_1001_desc"
 msgstr "可在游戏内购买的虚拟货币"
 
 msgid "UMO_currency_2002_name"
-msgstr "必出★5卡池奖券A"
+msgstr "必得★5卡池奖券A"
 
 msgid "UMO_currency_2002_desc"
-msgstr "用于抽取必出★5卡池的奖券"
+msgstr "用于抽取必得★5卡池的奖券"
 
 msgid "UMO_currency_2003_name"
-msgstr "必出★5卡池奖券B"
+msgstr "必得★5卡池奖券B"
 
 msgid "UMO_currency_2003_desc"
-msgstr "用于抽取必出★5卡池的奖券"
+msgstr "用于抽取必得★5卡池的奖券"
 
 msgid "UMO_currency_2004_name"
-msgstr "必出★5卡池奖券C"
+msgstr "必得★5卡池奖券C"
 
 msgid "UMO_currency_2004_desc"
-msgstr "用于抽取必出★5卡池的奖券"
+msgstr "用于抽取必得★5卡池的奖券"
 
 msgid "UMO_currency_2008_name"
-msgstr "必出★5每日免费卡池奖券 5月"
+msgstr "必得★5每日免费卡池奖券 5月"
 
 msgid "UMO_currency_2008_desc"
-msgstr "用于抽取每日免费必出★5卡池的奖券"
+msgstr "用于抽取每日免费必得★5卡池的奖券"
 
 msgid "UMO_currency_2009_name"
-msgstr "必出★5每日免费卡池奖券 6月"
+msgstr "必得★5每日免费卡池奖券 6月"
 
 msgid "UMO_currency_2009_desc"
-msgstr "用于抽取每日免费必出★5卡池的奖券"
+msgstr "用于抽取每日免费必得★5卡池的奖券"
 
 msgid "UMO_currency_2010_name"
-msgstr "必出★5每日免费卡池奖券 7月"
+msgstr "必得★5每日免费卡池奖券 7月"
 
 msgid "UMO_currency_2010_desc"
-msgstr "用于抽取每日免费必出★5卡池的奖券"
+msgstr "用于抽取每日免费必得★5卡池的奖券"
 
 msgid "UMO_currency_2101_name"
 msgstr "普通奖券"
@@ -1716,11 +1716,11 @@ msgid "UMO_product_429267_name"
 msgstr ""
 
 msgid "UMO_product_429267_desc_name"
-msgstr "必出★5免费抽卡"
+msgstr "必得★5免费抽卡"
 
 msgid "UMO_product_429267_desc_desc"
 msgstr ""
-"可消耗必出★5免费奖券\n"
+"可消耗必得★5免费奖券\n"
 "抽取★5卡片。\n"
 "※2022/3/31更新卡池阵容"
 
@@ -1758,7 +1758,7 @@ msgid "UMO_product_429928_desc_free_msg"
 msgstr "1次免费！"
 
 msgid "UMO_product_429928_desc_name"
-msgstr "必出★5以上卡池"
+msgstr "必得★5以上卡池"
 
 msgid "UMO_product_429929_name"
 msgstr ""
@@ -1767,10 +1767,10 @@ msgid "UMO_product_429929_desc_free_msg"
 msgstr "1次免费！"
 
 msgid "UMO_product_429929_desc_kakutei"
-msgstr "必出10枚★5以上卡片"
+msgstr "必得10枚★5以上卡片"
 
 msgid "UMO_product_429929_desc_name"
-msgstr "必出★5以上卡池"
+msgstr "必得★5以上卡池"
 
 msgid "UMO_product_429930_name"
 msgstr ""
@@ -1779,10 +1779,10 @@ msgid "UMO_product_429930_desc_free_msg"
 msgstr "1次免费！"
 
 msgid "UMO_product_429930_desc_kakutei"
-msgstr "必出10枚★5以上卡片"
+msgstr "必得10枚★5以上卡片"
 
 msgid "UMO_product_429930_desc_name"
-msgstr "必出★5以上卡池"
+msgstr "必得★5以上卡池"
 
 msgid "UMO_product_430020_name"
 msgstr ""
