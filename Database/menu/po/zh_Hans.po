@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-02-14 10:31+0000\n"
+"PO-Revision-Date: 2025-02-17 11:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -769,13 +769,13 @@ msgstr ""
 "“{2}”"
 
 msgid "story_unlock_07"
-msgstr "・先完成上一个领域"
+msgstr "・请先完成上一个时空领域"
 
 msgid "story_unlock_08"
 msgstr "锁定中"
 
 msgid "story_unlock_09"
-msgstr "请先解锁上一个领域。"
+msgstr "请先解锁上一个时空领域。"
 
 msgid "story_unlock_10"
 msgstr "<size=20>满足以下条件即可参加。</size>"
@@ -827,10 +827,10 @@ msgid "header_desc_home003"
 msgstr "查看好友信息"
 
 msgid "header_desc_home004"
-msgstr "好友申请一览"
+msgstr "已发送的好友申请"
 
 msgid "header_desc_home005"
-msgstr "查看好友申请"
+msgstr "待通过的好友申请"
 
 msgid "header_desc_home006"
 msgstr "搜索其他玩家的ID"
