@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-17 03:31+0000\n"
+"PO-Revision-Date: 2025-02-17 11:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tutopictdb_text/zh_Hans/>\n"
@@ -135,7 +135,7 @@ msgstr "关于礼物箱"
 
 msgid "tutopict_0010_0000_msg"
 msgstr ""
-"新获得的道具都会被储存到礼物箱中，\n"
+"新获得的道具会被储存到礼物箱中，\n"
 "别忘了及时领取哦。"
 
 msgid "tutopict_0011_0000_title"
@@ -152,7 +152,7 @@ msgstr "关于歌姬编队"
 
 msgid "tutopict_0012_0000_msg"
 msgstr ""
-"新获得的歌姬可以编入到队伍中了，\n"
+"可以将新获得的歌姬编入到队伍中了，\n"
 "通过“角色编队”功能进行操作吧！"
 
 msgid "tutopict_0013_0000_title"
@@ -160,108 +160,156 @@ msgstr "关于熟练度"
 
 msgid "tutopict_0013_0000_msg"
 msgstr ""
+"获取歌曲熟练度的同时，歌姬也将积攒一定的经验值。\n"
+"每首歌曲的熟练度都是独立计算的，\n"
+"建议多去游玩不同的歌曲哦。"
 
 msgid "tutopict_0013_0001_msg"
 msgstr ""
+"努力获取经验来提升歌姬等级吧。\n"
+"我们的成长之路才正要开始呢。"
 
 msgid "tutopict_0014_0000_title"
-msgstr ""
+msgstr "关于个人资料"
 
 msgid "tutopict_0014_0000_msg"
 msgstr ""
+"可在个人资料界面查看自己的账号信息。\n"
+"支持更改昵称、自我介绍以及对外展示的称号。\n"
+"除此之外，还可查看当前队伍的中心卡片等信息。"
 
 msgid "tutopict_0014_0001_msg"
 msgstr ""
+"活动参与记录可在“Macross报告”页面查看。\n"
+"积极参加活动来丰富你的记录吧！"
 
 msgid "tutopict_0015_0000_title"
-msgstr ""
+msgstr "关于等待通过列表"
 
 msgid "tutopict_0015_0000_msg"
 msgstr ""
+"来自其它玩家的好友申请，\n"
+"可在“新的好友”中进行查看\n"
+"并通过。"
 
 msgid "tutopict_0016_0000_title"
-msgstr ""
+msgstr "关于解放回忆片段"
 
 msgid "tutopict_0016_0000_msg"
 msgstr ""
+"获得回忆卡片时，\n"
+"将同时开放相应的回忆片段。"
 
 msgid "tutopict_0016_0001_msg"
 msgstr ""
+"回忆片段在累积足够的点数后便会完全解放，\n"
+"此时便可获得服装或战机作为最终奖励。\n"
+"累积点数期间，每达到一定进度还可获得进度奖励。"
 
 msgid "tutopict_0016_0002_msg"
 msgstr ""
+"卡片的稀有度越高，\n"
+"可获得的回忆点数就越多。"
 
 msgid "tutopict_0017_0000_title"
-msgstr ""
+msgstr "关于物品掉落"
 
 msgid "tutopict_0017_0000_msg"
 msgstr ""
+"演出中掉落的物品，只有在成功通关时才能真正获取。\n"
+"要全力坚持到最后哦。"
 
 msgid "tutopict_0018_0000_title"
-msgstr ""
+msgstr "关于提升稀有度"
 
 msgid "tutopict_0018_0000_msg"
 msgstr ""
+"重复获取同一张卡片即可提升其稀有度。\n"
+"稀有度提升后，还可进一步\n"
+"对卡片进行强化。"
 
 msgid "tutopict_0019_0000_title"
-msgstr ""
+msgstr "关于选择战机"
 
 msgid "tutopict_0019_0000_msg"
 msgstr ""
 
 msgid "tutopict_0020_0000_title"
-msgstr ""
+msgstr "关于选择战机"
 
 msgid "tutopict_0020_0000_msg"
 msgstr ""
+"可在战机选择界面\n"
+"选择即将出击的战机\n"
+"并查看其详细信息。"
 
 msgid "tutopict_0021_0000_title"
-msgstr ""
+msgstr "关于秘密板块"
 
 msgid "tutopict_0021_0000_msg"
 msgstr ""
+"卡片的秘密板块可在获得3张相同卡片\n"
+"或使用秘密水晶后解锁。"
 
 msgid "tutopict_0021_0001_msg"
 msgstr ""
+"卡片的“幸运”属性越高，\n"
+"稀有道具音符出现的概率就越大。"
 
 msgid "tutopict_0021_0002_msg"
 msgstr ""
+"★5~★7的卡片在解锁秘密板块后\n"
+"还会增加新的能力项。\n"
+"尽可能地升级卡片，在演出中获得更高的分数吧。"
 
 msgid "tutopict_0022_0000_title"
-msgstr ""
+msgstr "关于歌曲属性"
 
 msgid "tutopict_0022_0000_msg"
 msgstr ""
+"已装备的卡片和歌曲为同一属性时，\n"
+"将会获得属性加成。"
 
 msgid "tutopict_0022_0001_msg"
 msgstr ""
+"想要获得某属性的结晶时，可游玩相应属性的歌曲。\n"
+"例如，游玩爱属性歌曲将大概率获得爱之结晶。"
 
 msgid "tutopict_0023_0000_title"
-msgstr ""
+msgstr "关于免费抽卡"
 
 msgid "tutopict_0023_0000_msg"
 msgstr ""
+"每天可在早、午、晚三个时段\n"
+"各进行一次免费抽卡的卡池。\n"
+"这样的服务，可不是人人都能享受的哦！"
 
 msgid "tutopict_0024_0000_title"
-msgstr ""
+msgstr "关于回忆片段"
 
 msgid "tutopict_0024_0000_msg"
 msgstr ""
+"获得回忆卡片时，\n"
+"将同时开放相应的回忆片段。"
 
 msgid "tutopict_0024_0001_msg"
 msgstr ""
+"新开放的回忆片段\n"
+"可在回忆片段一览中进行查看。"
 
 msgid "tutopict_0025_0000_title"
-msgstr ""
+msgstr "关于每日活动歌曲"
 
 msgid "tutopict_0025_0000_msg"
 msgstr ""
+"每天的活动歌曲各不相同，\n"
+"要留意周一到周日的奖励变动哦！"
 
 msgid "tutopict_0026_0000_title"
-msgstr ""
+msgstr "关于超歌姬模式"
 
 msgid "tutopict_0026_0001_title"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "tutopict_0026_0000_msg"
 msgstr ""
