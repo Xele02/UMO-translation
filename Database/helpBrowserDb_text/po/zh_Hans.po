@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-17 11:31+0000\n"
+"PO-Revision-Date: 2025-02-18 08:58+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -831,7 +831,7 @@ msgid "help_0049_0001_name"
 msgstr "BOOST功能"
 
 msgid "help_0049_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0049_0000_name"
 msgstr "活动信息"
@@ -843,7 +843,7 @@ msgid "help_0050_0001_name"
 msgstr "BOOST功能"
 
 msgid "help_0050_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0050_0000_name"
 msgstr "活动信息"
@@ -855,7 +855,7 @@ msgid "help_0051_0001_name"
 msgstr "EX战分数最高纪录"
 
 msgid "help_0051_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0051_0000_name"
 msgstr "活动信息"
@@ -867,7 +867,7 @@ msgid "help_0052_0001_name"
 msgstr "BOOST功能"
 
 msgid "help_0052_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0052_0000_name"
 msgstr "活动信息"
@@ -879,7 +879,7 @@ msgid "help_0053_0001_name"
 msgstr "BOOST功能"
 
 msgid "help_0053_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0053_0000_name"
 msgstr "活动信息"
@@ -891,7 +891,7 @@ msgid "help_0054_0001_name"
 msgstr "EX战分数最高纪录"
 
 msgid "help_0054_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0054_0000_name"
 msgstr "活动信息"
@@ -906,7 +906,7 @@ msgid "help_0055_0002_name"
 msgstr "BOOST功能"
 
 msgid "help_0055_0003_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0055_0000_name"
 msgstr "活动信息"
@@ -921,7 +921,7 @@ msgid "help_0056_0002_name"
 msgstr "BOOST功能"
 
 msgid "help_0056_0003_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0056_0000_name"
 msgstr "活动信息"
@@ -933,7 +933,7 @@ msgid "help_0057_0001_name"
 msgstr "BOOST功能"
 
 msgid "help_0057_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0057_0000_name"
 msgstr "活动信息"
@@ -948,7 +948,7 @@ msgid "help_0058_0002_name"
 msgstr "BOOST功能"
 
 msgid "help_0058_0003_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0058_0000_name"
 msgstr "活动信息"
@@ -966,7 +966,7 @@ msgid "help_0061_0001_name"
 msgstr "BOOST功能"
 
 msgid "help_0061_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "wiki_0061_0000_name"
 msgstr "活动信息"
@@ -996,7 +996,7 @@ msgid "help_0068_0001_name"
 msgstr "喝彩值"
 
 msgid "help_0068_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "help_0068_0003_name"
 msgstr "如何提升演出热情值"
@@ -1011,7 +1011,7 @@ msgid "help_0069_0001_name"
 msgstr "喝彩值"
 
 msgid "help_0069_0002_name"
-msgstr "回忆卡片加成"
+msgstr "活动加成卡片"
 
 msgid "help_0069_0003_name"
 msgstr "如何提升演出热情值"
