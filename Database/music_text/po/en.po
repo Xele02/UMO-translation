@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-01-15 00:48+0000\n"
+"PO-Revision-Date: 2025-02-19 01:23+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/en/>\n"
@@ -429,18 +429,24 @@ msgstr "Sheryl Nome starring May'n"
 
 msgid "musicName_0015_description"
 msgstr ""
+"From: Macross Frontier - The False Songstress -\n"
+"\n"
+"Artist: Sheryl Nome starring May'n\n"
+"\n"
+"Lyrics: Shihori, PA-NON, Gabriela Robin\n"
+"Music: Yoko Kanno"
 
 msgid "musicName_0015_storyDesc"
 msgstr ""
 
 msgid "musicName_0015_storyTitle"
-msgstr ""
+msgstr "\"Grace, I Am Sheryl\""
 
 msgid "musicName_0016_musicname"
-msgstr "Triangler (Fight on Stage)"
+msgstr "triangler (fight on stage)"
 
 msgid "musicName_0016_officialName"
-msgstr "Triangler (Fight on Stage)"
+msgstr "triangler (fight on stage)"
 
 msgid "musicName_0016_vocalName"
 msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
@@ -1091,10 +1097,10 @@ msgid "musicName_0048_officialName"
 msgstr ""
 
 msgid "musicName_0048_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
 
 msgid "musicName_0048_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
 
 msgid "musicName_0048_description"
 msgstr ""
@@ -2669,10 +2675,10 @@ msgid "musicName_0134_officialName"
 msgstr ""
 
 msgid "musicName_0134_vocalName"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
 
 msgid "musicName_0134_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee = Megumi Nakajima, Sheryl Nome starring May'n"
 
 msgid "musicName_0134_description"
 msgstr ""
