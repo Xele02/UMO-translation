@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-18 08:58+0000\n"
+"PO-Revision-Date: 2025-02-19 01:23+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tutopictdb_text/zh_Hans/>\n"
@@ -64,8 +64,8 @@ msgstr "关于编队组合"
 
 msgid "tutopict_0004_0000_msg"
 msgstr ""
-"针对各种状况，\n"
-"可设置多个编队组合！"
+"可针对各种状况，\n"
+"配置多个编队组合！"
 
 msgid "tutopict_0004_0001_msg"
 msgstr ""
@@ -216,7 +216,7 @@ msgstr "关于物品掉落"
 
 msgid "tutopict_0017_0000_msg"
 msgstr ""
-"演出中掉落的物品，只有在成功通关时才能真正获取。\n"
+"演出中掉落的物品，只有在完成演出后才能真正获取。\n"
 "要全力坚持到最后哦。"
 
 msgid "tutopict_0018_0000_title"
@@ -272,8 +272,8 @@ msgstr ""
 
 msgid "tutopict_0022_0001_msg"
 msgstr ""
-"想要获得某属性的结晶时，可游玩相应属性的歌曲。\n"
-"例如，游玩爱属性歌曲将大概率获得爱之结晶。"
+"获得结晶素材最有效率的方法是游玩对应属性的歌曲。\n"
+"例如爱之结晶会在爱属性歌曲中大量产出，以此类推。"
 
 msgid "tutopict_0023_0000_title"
 msgstr "关于免费抽卡"
@@ -282,7 +282,7 @@ msgid "tutopict_0023_0000_msg"
 msgstr ""
 "每天可在早、午、晚三个时段\n"
 "各进行一次免费抽卡的卡池。\n"
-"这样的服务，可不是人人都能享受的哦！"
+"这样的服务，可不是人人都能享受得到！"
 
 msgid "tutopict_0024_0000_title"
 msgstr "关于回忆片段"
@@ -314,13 +314,13 @@ msgstr "关于角色编队"
 msgid "tutopict_0026_0000_msg"
 msgstr ""
 "空战模式下清空敌人的血量将进入追击模式。\n"
-"此时再对敌人造成大量伤害就能进入\n"
+"此时再进一步重创敌人就能进入\n"
 "超歌姬模式了！"
 
 msgid "tutopict_0026_0001_msg"
 msgstr ""
-"超歌姬模式下会出现大量道具音符！\n"
-"想获得素材的话，要集中精神应对哦。"
+"超歌姬模式下会不断出现道具音符！\n"
+"想获得大量素材的话，要集中精神应对哦。"
 
 msgid "tutopict_0027_0000_title"
 msgstr "如何在演出中取得高分"
@@ -328,7 +328,7 @@ msgstr "如何在演出中取得高分"
 msgid "tutopict_0027_0000_msg"
 msgstr ""
 "每个队伍最多可容纳3位歌姬！\n"
-"想让某位歌姬在演出动画中登场的话，就将ta安排在中心位置吧。"
+"想让某位歌姬在演出动画中登场的话，就将ta安排在队伍中心吧。"
 
 msgid "tutopict_0028_0000_title"
 msgstr "如何在演出中取得高分"
@@ -344,7 +344,7 @@ msgstr "如何快速积攒生物Fold波能量"
 
 msgid "tutopict_0029_0000_msg"
 msgstr ""
-"队伍的“Fold波”值越高，\n"
+"队伍的“Fold波”属性值越高，\n"
 "积攒生物Fold波能量时就越有效率。"
 
 msgid "tutopict_0030_0000_title"
@@ -361,8 +361,8 @@ msgstr "关于活动加成卡片"
 
 msgid "tutopict_0031_0000_msg"
 msgstr ""
-"在编队时，\n"
-"可在选项中筛选出\n"
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
 "当前活动的加成卡片。"
 
 msgid "tutopict_0032_0000_title"
@@ -395,7 +395,7 @@ msgstr ""
 msgid "tutopict_0032_0004_msg"
 msgstr ""
 "高阶化后的卡片会呈现出五彩斑斓的外观。\n"
-"把它们装饰在房间中\n"
+"把它们作为海报张贴在房间内\n"
 "向大家炫耀吧！"
 
 msgid "tutopict_0033_0000_title"
@@ -741,12 +741,20 @@ msgstr ""
 
 msgid "tutopict_0070_0000_msg"
 msgstr ""
+"★5~★7的卡片在解锁秘密板块后\n"
+"还会增加新的能力项。\n"
+"尽可能地升级卡片，在演出中获得更高的分数吧。"
 
 msgid "tutopict_0070_0001_msg"
 msgstr ""
+"卡片的秘密板块可在获得3张相同卡片\n"
+"或使用秘密水晶后解锁。"
 
 msgid "tutopict_0070_0002_msg"
 msgstr ""
+"高阶化后的卡片会呈现出五彩斑斓的外观。\n"
+"把它们作为海报张贴在房间内\n"
+"向大家炫耀吧！"
 
 msgid "tutopict_0071_0000_title"
 msgstr ""
@@ -761,7 +769,7 @@ msgid "tutopict_0071_0002_msg"
 msgstr ""
 
 msgid "tutopict_0072_0000_title"
-msgstr ""
+msgstr "关于幸运草"
 
 msgid "tutopict_0072_0000_msg"
 msgstr ""
@@ -884,10 +892,12 @@ msgid "tutopict_0085_0005_msg"
 msgstr ""
 
 msgid "tutopict_0086_0000_title"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "tutopict_0086_0000_msg"
 msgstr ""
+"每个队伍最多可容纳3位歌姬！\n"
+"想让某位歌姬在演出动画中登场的话，就将ta安排在队伍中心吧。"
 
 msgid "tutopict_0087_0000_title"
 msgstr ""
@@ -932,19 +942,27 @@ msgid "tutopict_0091_0000_msg"
 msgstr ""
 
 msgid "tutopict_0092_0000_title"
-msgstr ""
+msgstr "关于免费抽卡"
 
 msgid "tutopict_0092_0000_msg"
 msgstr ""
+"每天可在早、午、晚三个时段\n"
+"各进行一次免费抽卡的卡池。\n"
+"这样的服务，可不是人人都能享受得到！"
 
 msgid "tutopict_0093_0000_title"
-msgstr ""
+msgstr "关于歌曲"
 
 msgid "tutopict_0093_0000_msg"
 msgstr ""
+"各大系列的歌曲可在演出界面进行游玩。\n"
+"之后还将通过更新源源不断地添加新的歌曲哦。"
 
 msgid "tutopict_0093_0001_msg"
 msgstr ""
+"游玩歌曲前，还可将演出背景设置为2D模式。\n"
+"可前往选项→游戏设置→画质\n"
+"进行设置。"
 
 msgid "tutopict_0094_0000_title"
 msgstr ""
@@ -999,42 +1017,61 @@ msgstr ""
 
 msgid "tutopict_0098_0001_msg"
 msgstr ""
+"空战模式下清空敌人的血量将进入追击模式。\n"
+"此时再进一步重创敌人就能进入\n"
+"超歌姬模式了！"
 
 msgid "tutopict_0098_0002_msg"
 msgstr ""
+"超歌姬模式下会不断出现道具音符！\n"
+"想获得大量素材的话，要集中精神应对哦。"
 
 msgid "tutopict_0099_0000_title"
-msgstr ""
+msgstr "关于物品掉落"
 
 msgid "tutopict_0099_0000_msg"
 msgstr ""
+"演出中掉落的物品，只有在完成演出后才能真正获取。\n"
+"要全力坚持到最后哦。"
 
 msgid "tutopict_0100_0000_title"
-msgstr ""
+msgstr "关于助战卡片"
 
 msgid "tutopict_0100_0000_msg"
 msgstr ""
+"助战卡片可增强当前队伍的\n"
+"各项属性和中心技能。"
 
 msgid "tutopict_0101_0000_title"
 msgstr ""
 
 msgid "tutopict_0101_0000_msg"
 msgstr ""
+"演出中出现的各种情况和信息，\n"
+"包括出现失误的地方、发动技能的时机等，\n"
+"都可通过演出记录进行查看。"
 
 msgid "tutopict_0102_0000_title"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "tutopict_0102_0000_msg"
 msgstr ""
+"每个队伍最多可容纳3位歌姬！\n"
+"想让某位歌姬在演出动画中登场的话，就将ta安排在队伍中心吧。"
 
 msgid "tutopict_0103_0000_title"
 msgstr ""
 
 msgid "tutopict_0103_0000_msg"
 msgstr ""
+"队伍的TOTAL值为“歌魂”、“歌魅”、“歌声”三项属性\n"
+"的数值总和。想在演出中取得高分的话，\n"
+"就尽可能地提升TOTAL值吧。"
 
 msgid "tutopict_0103_0001_msg"
 msgstr ""
+"队伍的“Fold波”属性值越高，\n"
+"积攒生物Fold波能量时就越有效率。"
 
 msgid "tutopict_0103_0002_msg"
 msgstr ""
@@ -1043,157 +1080,230 @@ msgid "tutopict_0103_0003_msg"
 msgstr ""
 
 msgid "tutopict_0104_0000_title"
-msgstr ""
+msgstr "关于技能"
 
 msgid "tutopict_0104_0000_msg"
 msgstr ""
+"技能按其用法共分为三种：\n"
+"分别为中心技能、主动技能和演出技能。"
 
 msgid "tutopict_0104_0001_msg"
 msgstr ""
+"主动技能和中心技能只有编队的中心卡片才可发动，\n"
+"其余的卡片则只能发动演出技能。\n"
+"合理搭配三种技能，在演出中取得高分吧！"
 
 msgid "tutopict_0104_0002_msg"
 msgstr ""
+"演出技能只有在回忆卡片\n"
+"与歌姬相适配的情况下才会生效。\n"
+"此时将会出现上图所示的蓝色图标。"
 
 msgid "tutopict_0105_0000_title"
-msgstr ""
+msgstr "关于歌曲属性"
 
 msgid "tutopict_0105_0000_msg"
 msgstr ""
+"已装备的卡片和歌曲为同一属性时，\n"
+"将会获得属性加成。"
 
 msgid "tutopict_0105_0001_msg"
 msgstr ""
+"获得结晶素材最有效率的方法是游玩对应属性的歌曲。\n"
+"例如爱之结晶会在爱属性歌曲中大量产出，以此类推。"
 
 msgid "tutopict_0106_0000_title"
-msgstr ""
+msgstr "关于选择战机"
 
 msgid "tutopict_0106_0000_msg"
 msgstr ""
+"可在战机选择界面\n"
+"选择即将出击的战机\n"
+"并查看其详细信息。"
 
 msgid "tutopict_0107_0000_title"
-msgstr ""
+msgstr "关于编队组合"
 
 msgid "tutopict_0107_0000_msg"
 msgstr ""
+"可针对各种状况，\n"
+"配置多个编队组合！"
 
 msgid "tutopict_0107_0001_msg"
 msgstr ""
+"设置不同的组合时，可分别在歌曲属性、分数、\n"
+"生命等方面进行侧重，这样会更加方便哦。"
 
 msgid "tutopict_0108_0000_title"
-msgstr ""
+msgstr "关于记忆时空与歌曲记忆"
 
 msgid "tutopict_0108_0000_msg"
 msgstr ""
+"要想解锁歌曲或歌姬的记忆，\n"
+"需要先达成与其相关的\n"
+"特定条件。"
 
 msgid "tutopict_0108_0001_msg"
 msgstr ""
+"完成解锁的歌曲，\n"
+"将在首次游玩后自动添加至演出列表中。"
 
 msgid "tutopict_0109_0000_title"
-msgstr ""
+msgstr "关于歌姬记忆"
 
 msgid "tutopict_0109_0000_msg"
 msgstr ""
+"与歌曲记忆相同，\n"
+"发现新的歌姬记忆时，\n"
+"请务必第一时间查看解锁条件。"
 
 msgid "tutopict_0110_0000_title"
-msgstr ""
+msgstr "关于回忆片段"
 
 msgid "tutopict_0110_0000_msg"
 msgstr ""
+"获得回忆卡片时，\n"
+"将同时开放相应的回忆片段。"
 
 msgid "tutopict_0110_0001_msg"
 msgstr ""
+"新开放的回忆片段\n"
+"可在回忆片段一览中进行查看。"
 
 msgid "tutopict_0111_0000_title"
-msgstr ""
+msgstr "关于能力解放"
 
 msgid "tutopict_0111_0000_msg"
 msgstr ""
+"可在“能力解放”中对回忆卡片进行强化，\n"
+"以逐步发掘其中蕴藏的力量。"
 
 msgid "tutopict_0111_0001_msg"
 msgstr ""
+"解放能力所需的道具和联盟货币（UC）\n"
+"可通过游玩演出或完成任务获取。"
 
 msgid "tutopict_0112_0000_title"
-msgstr ""
+msgstr "关于秘密板块"
 
 msgid "tutopict_0112_0000_msg"
 msgstr ""
+"卡片的秘密板块可在获得3张相同卡片\n"
+"或使用秘密水晶后解锁。"
 
 msgid "tutopict_0112_0001_msg"
 msgstr ""
+"卡片的“幸运”属性越高，\n"
+"稀有道具音符出现的概率就越大。"
 
 msgid "tutopict_0112_0002_msg"
 msgstr ""
+"★5~★7的卡片在解锁秘密板块后\n"
+"还会增加新的能力项。\n"
+"尽可能地升级卡片，在演出中获得更高的分数吧。"
 
 msgid "tutopict_0113_0000_title"
-msgstr ""
+msgstr "关于提升稀有度"
 
 msgid "tutopict_0113_0000_msg"
 msgstr ""
+"重复获取同一张卡片即可提升其稀有度。\n"
+"稀有度提升后，\n"
+"还将解锁更多的卡片能力项。"
 
 msgid "tutopict_0114_0000_title"
-msgstr ""
+msgstr "关于熟练度"
 
 msgid "tutopict_0114_0000_msg"
 msgstr ""
+"获取歌曲熟练度的同时，歌姬也将积攒一定的经验值。\n"
+"每首歌曲的熟练度都是独立计算的，\n"
+"建议多去游玩不同的歌曲哦。"
 
 msgid "tutopict_0114_0001_msg"
 msgstr ""
+"努力获取经验来提升歌姬等级吧。\n"
+"我们的成长之路才正要开始呢。"
 
 msgid "tutopict_0115_0000_title"
-msgstr ""
+msgstr "关于服装"
 
 msgid "tutopict_0115_0000_msg"
 msgstr ""
+"获得新服装时，不妨换上试试看吧！\n"
+"点击“选择服装”即可进行更换，\n"
+"要留意每套服装附带的独特效果哦。"
 
 msgid "tutopict_0116_0000_title"
-msgstr ""
+msgstr "关于礼物箱"
 
 msgid "tutopict_0116_0000_msg"
 msgstr ""
 
 msgid "tutopict_0117_0000_title"
-msgstr ""
+msgstr "关于玩家等级"
 
 msgid "tutopict_0117_0000_msg"
 msgstr ""
+"要想提升玩家等级，\n"
+"须通过游玩歌曲积攒足够的经验值。"
 
 msgid "tutopict_0118_0000_title"
 msgstr ""
 
 msgid "tutopict_0118_0000_msg"
 msgstr ""
+"来自其它玩家的好友申请，\n"
+"可在“新的好友”中进行查看\n"
+"并通过。"
 
 msgid "tutopict_0118_0001_msg"
 msgstr ""
 
 msgid "tutopict_0119_0000_title"
-msgstr ""
+msgstr "关于个人资料"
 
 msgid "tutopict_0119_0000_msg"
 msgstr ""
+"可在个人资料界面查看自己的账号信息。\n"
+"支持更改昵称、自我介绍以及对外展示的称号。\n"
+"除此之外，还可查看当前队伍的中心卡片等信息。"
 
 msgid "tutopict_0119_0001_msg"
 msgstr ""
+"活动参与记录可在“Macross报告”页面查看。\n"
+"积极参加活动来丰富你的记录吧！"
 
 msgid "tutopict_0120_0000_title"
-msgstr ""
+msgstr "关于免费抽卡"
 
 msgid "tutopict_0120_0000_msg"
 msgstr ""
+"每天可在早、午、晚三个时段\n"
+"各进行一次免费抽卡的卡池。\n"
+"这样的服务，可不是人人都能享受得到！"
 
 msgid "tutopict_0121_0000_title"
 msgstr ""
 
 msgid "tutopict_0121_0000_msg"
 msgstr ""
+"每天的活动歌曲各不相同，\n"
+"要留意周一到周日的奖励变动哦！"
 
 msgid "tutopict_0122_0000_title"
-msgstr ""
+msgstr "关于解放回忆片段"
 
 msgid "tutopict_0122_0000_msg"
 msgstr ""
+"回忆片段在累积足够的点数后即可完全解放，\n"
+"此时便能获得服装或战机作为最终奖励。\n"
+"累积点数期间，每达到一定进度还可获得进度奖励。"
 
 msgid "tutopict_0122_0001_msg"
 msgstr ""
+"卡片的稀有度越高，\n"
+"可获得的回忆点数就越多。"
 
 msgid "tutopict_0123_0000_title"
 msgstr ""
@@ -1223,16 +1333,18 @@ msgid "tutopict_0126_0001_msg"
 msgstr ""
 
 msgid "tutopict_0127_0000_title"
-msgstr ""
+msgstr "关于模拟演出"
 
 msgid "tutopict_0127_0000_msg"
 msgstr ""
 
 msgid "tutopict_0127_0001_msg"
 msgstr ""
+"点击画面右下角的S-LIVE按钮\n"
+"就可以进入模拟演出了。"
 
 msgid "tutopict_0128_0000_title"
-msgstr ""
+msgstr "关于超时空棱镜"
 
 msgid "tutopict_0128_0000_msg"
 msgstr ""
@@ -1487,22 +1599,37 @@ msgid "tutopict_0151_0002_msg"
 msgstr ""
 
 msgid "tutopict_0152_0000_title"
-msgstr ""
+msgstr "关于幸运草"
 
 msgid "tutopict_0152_0000_msg"
 msgstr ""
+"幸运草会在卡片的幸运值达到一定程度时出现。\n"
+"编队时选择已解放幸运草的卡片，\n"
+"可在演出中享受多种特殊效果的加成。"
 
 msgid "tutopict_0152_0001_msg"
 msgstr ""
+"只有稀有度提升后为★5、★6、★7的卡片可以解放幸运草。\n"
+"随着卡片幸运值的提升，\n"
+"可解放的幸运草瓣数也会不断增加。"
 
 msgid "tutopict_0152_0002_msg"
 msgstr ""
+"解放幸运草需要消耗“幸运辉石”和“幸运煌石”。\n"
+"这两项道具均可通过\n"
+"参与活动或完成任务获得。"
 
 msgid "tutopict_0152_0003_msg"
 msgstr ""
+"幸运草的瓣数越多，\n"
+"其能力的效果就越强。\n"
+"灵活运用它的能力来取得高分吧！"
 
 msgid "tutopict_0152_0004_msg"
 msgstr ""
+"高阶化后的卡片会呈现出五彩斑斓的外观。\n"
+"把它们作为海报张贴在房间内\n"
+"向大家炫耀吧！"
 
 msgid "tutopict_0152_0005_msg"
 msgstr ""
@@ -1652,22 +1779,28 @@ msgid "tutopict_0161_0006_msg"
 msgstr ""
 
 msgid "tutopict_0162_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0162_0000_msg"
 msgstr ""
 
 msgid "tutopict_0162_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0163_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0163_0000_msg"
 msgstr ""
 
 msgid "tutopict_0163_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0164_0000_title"
 msgstr ""
@@ -1775,22 +1908,28 @@ msgid "tutopict_0167_0006_msg"
 msgstr ""
 
 msgid "tutopict_0168_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0168_0000_msg"
 msgstr ""
 
 msgid "tutopict_0168_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0169_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0169_0000_msg"
 msgstr ""
 
 msgid "tutopict_0169_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0170_0000_title"
 msgstr ""
@@ -1898,22 +2037,28 @@ msgid "tutopict_0174_0006_msg"
 msgstr ""
 
 msgid "tutopict_0175_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0175_0000_msg"
 msgstr ""
 
 msgid "tutopict_0175_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0176_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0176_0000_msg"
 msgstr ""
 
 msgid "tutopict_0176_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0177_0000_title"
 msgstr ""
@@ -2039,22 +2184,28 @@ msgid "tutopict_0181_0006_msg"
 msgstr ""
 
 msgid "tutopict_0182_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0182_0000_msg"
 msgstr ""
 
 msgid "tutopict_0182_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0183_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0183_0000_msg"
 msgstr ""
 
 msgid "tutopict_0183_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0184_0000_title"
 msgstr ""
@@ -2354,13 +2505,16 @@ msgid "tutopict_0208_0006_msg"
 msgstr ""
 
 msgid "tutopict_0209_0000_title"
-msgstr ""
+msgstr "关于活动加成卡片"
 
 msgid "tutopict_0209_0000_msg"
 msgstr ""
 
 msgid "tutopict_0209_0001_msg"
 msgstr ""
+"进行编队时，\n"
+"可通过筛选功能筛选出\n"
+"当前活动的加成卡片。"
 
 msgid "tutopict_0210_0000_title"
 msgstr ""
@@ -2369,79 +2523,112 @@ msgid "tutopict_0210_0000_msg"
 msgstr ""
 
 msgid "tutopict_0211_0000_title"
-msgstr ""
+msgstr "关于助战卡片"
 
 msgid "tutopict_0211_0000_msg"
 msgstr ""
+"助战卡片可增强当前队伍的\n"
+"各项属性和中心技能。"
 
 msgid "tutopict_0212_0000_title"
-msgstr ""
+msgstr "关于编队组合"
 
 msgid "tutopict_0212_0000_msg"
 msgstr ""
+"可针对各种状况，\n"
+"配置多个编队组合！"
 
 msgid "tutopict_0212_0001_msg"
 msgstr ""
+"设置不同的组合时，可分别在歌曲属性、分数、\n"
+"生命等方面进行侧重，这样会更加方便哦。"
 
 msgid "tutopict_0213_0000_title"
-msgstr ""
+msgstr "关于技能"
 
 msgid "tutopict_0213_0000_msg"
 msgstr ""
+"技能按其用法共分为三种：\n"
+"分别为中心技能、主动技能和演出技能。"
 
 msgid "tutopict_0213_0001_msg"
 msgstr ""
+"主动技能和中心技能只有编队的中心卡片才可发动，\n"
+"其余的卡片则只能发动演出技能。\n"
+"合理搭配三种技能，在演出中取得高分吧！"
 
 msgid "tutopict_0213_0002_msg"
 msgstr ""
+"演出技能只有在回忆卡片\n"
+"与歌姬相适配的情况下才会生效。\n"
+"此时将会出现上图所示的蓝色图标。"
 
 msgid "tutopict_0214_0000_title"
-msgstr ""
+msgstr "关于歌姬编队"
 
 msgid "tutopict_0214_0000_msg"
 msgstr ""
+"可以将新获得的歌姬编入到队伍中了，\n"
+"通过“角色编队”功能进行操作吧！"
 
 msgid "tutopict_0215_0000_title"
-msgstr ""
+msgstr "关于歌曲属性"
 
 msgid "tutopict_0215_0000_msg"
 msgstr ""
+"已装备的卡片和歌曲为同一属性时，\n"
+"将会获得属性加成。"
 
 msgid "tutopict_0215_0001_msg"
 msgstr ""
+"获得结晶素材最有效率的方法是游玩对应属性的歌曲。\n"
+"例如爱之结晶会在爱属性歌曲中大量产出，以此类推。"
 
 msgid "tutopict_0216_0000_title"
-msgstr ""
+msgstr "如何在演出中取得高分"
 
 msgid "tutopict_0216_0000_msg"
 msgstr ""
+"每个队伍最多可容纳3位歌姬！\n"
+"想让某位歌姬在演出动画中登场的话，就将ta安排在队伍中心吧。"
 
 msgid "tutopict_0217_0000_title"
-msgstr ""
+msgstr "如何快速积攒生物Fold波能量"
 
 msgid "tutopict_0217_0000_msg"
 msgstr ""
+"队伍的“Fold波”属性值越高，\n"
+"积攒生物Fold波能量时就越有效率。"
 
 msgid "tutopict_0218_0000_title"
-msgstr ""
+msgstr "如何在空战模式中击败敌人"
 
 msgid "tutopict_0218_0000_msg"
 msgstr ""
+"歌姬和飞行员是协力同心的搭档。\n"
+"因此队伍的“辅助”值越高，飞行员的作战能力越强，\n"
+"在面对敌人时就越显得游刃有余。"
 
 msgid "tutopict_0219_0000_title"
-msgstr ""
+msgstr "如何游玩模拟演出"
 
 msgid "tutopict_0219_0000_msg"
 msgstr ""
+"开始前，可对当前演出中登场的\n"
+"歌姬、服装、战机进行配置。"
 
 msgid "tutopict_0219_0001_msg"
 msgstr ""
+"演出期间会根据当前难度的谱面播放打击音效，\n"
+"可藉此熟悉打出PERFECT判定的时机。"
 
 msgid "tutopict_0220_0000_title"
-msgstr ""
+msgstr "关于超时空棱镜"
 
 msgid "tutopict_0220_0000_msg"
 msgstr ""
+"可以使用超时空棱镜功能了！\n"
+"使用此功能可以自定义演出中的外观显示哦。"
 
 msgid "tutopict_0221_0000_title"
 msgstr ""
@@ -2504,25 +2691,34 @@ msgid "tutopict_0228_0000_msg"
 msgstr ""
 
 msgid "tutopict_0229_0000_title"
-msgstr ""
+msgstr "关于助战卡片"
 
 msgid "tutopict_0229_0000_msg"
 msgstr ""
+"助战卡片可增强当前队伍的\n"
+"各项属性和中心技能。"
 
 msgid "tutopict_0230_0000_title"
-msgstr ""
+msgstr "关于角色编队"
 
 msgid "tutopict_0230_0000_msg"
 msgstr ""
+"每个队伍最多可容纳3位歌姬！\n"
+"想让某位歌姬在演出动画中登场的话，就将ta安排在队伍中心吧。"
 
 msgid "tutopict_0231_0000_title"
 msgstr ""
 
 msgid "tutopict_0231_0000_msg"
 msgstr ""
+"队伍的TOTAL值为“歌魂”、“歌魅”、“歌声”三项属性\n"
+"的数值总和。想在演出中取得高分的话，\n"
+"就尽可能地提升TOTAL值吧。"
 
 msgid "tutopict_0231_0001_msg"
 msgstr ""
+"队伍的“Fold波”属性值越高，\n"
+"积攒生物Fold波能量时就越有效率。"
 
 msgid "tutopict_0231_0002_msg"
 msgstr ""
@@ -2531,37 +2727,53 @@ msgid "tutopict_0231_0003_msg"
 msgstr ""
 
 msgid "tutopict_0232_0000_title"
-msgstr ""
+msgstr "关于技能"
 
 msgid "tutopict_0232_0000_msg"
 msgstr ""
+"技能按其用法共分为三种：\n"
+"分别为中心技能、主动技能和演出技能。"
 
 msgid "tutopict_0232_0001_msg"
 msgstr ""
+"主动技能和中心技能只有编队的中心卡片才可发动，\n"
+"其余的卡片则只能发动演出技能。\n"
+"合理搭配三种技能，在演出中取得高分吧！"
 
 msgid "tutopict_0232_0002_msg"
 msgstr ""
+"演出技能只有在回忆卡片\n"
+"与歌姬相适配的情况下才会生效。\n"
+"此时将会出现上图所示的蓝色图标。"
 
 msgid "tutopict_0233_0000_title"
-msgstr ""
+msgstr "关于歌曲属性"
 
 msgid "tutopict_0233_0000_msg"
 msgstr ""
+"已装备的卡片和歌曲为同一属性时，\n"
+"将会获得属性加成。"
 
 msgid "tutopict_0233_0001_msg"
 msgstr ""
+"获得结晶素材最有效率的方法是游玩对应属性的歌曲。\n"
+"例如爱之结晶会在爱属性歌曲中大量产出，以此类推。"
 
 msgid "tutopict_0234_0000_title"
-msgstr ""
+msgstr "关于编队组合"
 
 msgid "tutopict_0234_0000_msg"
 msgstr ""
+"可针对各种状况，\n"
+"配置多个编队组合！"
 
 msgid "tutopict_0234_0001_msg"
 msgstr ""
+"设置不同的组合时，可分别在歌曲属性、分数、\n"
+"生命等方面进行侧重，这样会更加方便哦。"
 
 msgid "tutopict_0235_0000_title"
-msgstr ""
+msgstr "关于超时空棱镜"
 
 msgid "tutopict_0235_0000_msg"
 msgstr ""
