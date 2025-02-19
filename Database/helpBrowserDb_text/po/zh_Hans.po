@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-18 08:58+0000\n"
+"PO-Revision-Date: 2025-02-19 11:11+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -138,7 +138,7 @@ msgid "help_0001_0000_name"
 msgstr "关于角色编队"
 
 msgid "help_0001_0001_name"
-msgstr "各项数据"
+msgstr "各项数值"
 
 msgid "help_0001_0002_name"
 msgstr "演出技能"
@@ -510,7 +510,7 @@ msgid "help_0021_0000_name"
 msgstr "关于角色编队"
 
 msgid "help_0021_0001_name"
-msgstr "各项数据"
+msgstr "各项数值"
 
 msgid "help_0021_0002_name"
 msgstr "演出技能"
@@ -669,7 +669,7 @@ msgid "help_0034_0000_name"
 msgstr "关于角色编队"
 
 msgid "help_0034_0001_name"
-msgstr "各项数据"
+msgstr "各项数值"
 
 msgid "help_0034_0002_name"
 msgstr "演出技能"
@@ -1095,7 +1095,7 @@ msgid "help_0071_0000_name"
 msgstr "关于角色编队"
 
 msgid "help_0071_0001_name"
-msgstr "各项数据"
+msgstr "各项数值"
 
 msgid "help_0071_0002_name"
 msgstr "演出技能"
@@ -1203,7 +1203,7 @@ msgid "help_0075_0000_name"
 msgstr "关于角色编队"
 
 msgid "help_0075_0001_name"
-msgstr "各项数据"
+msgstr "各项数值"
 
 msgid "help_0075_0002_name"
 msgstr "演出技能"
@@ -1260,7 +1260,7 @@ msgid "help_0078_0000_name"
 msgstr "关于角色编队"
 
 msgid "help_0078_0001_name"
-msgstr "各项数据"
+msgstr "各项数值"
 
 msgid "help_0078_0002_name"
 msgstr "演出技能"
