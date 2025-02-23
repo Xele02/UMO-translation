@@ -2110,3 +2110,18 @@ msgstr ""
 msgid "UMO_Group"
 msgstr ""
 
+msgid "UMO_PrismOn"
+msgstr ""
+
+msgid "UMO_ValkOn"
+msgstr ""
+
+msgid "UMO_NotesOn"
+msgstr ""
+
+msgid "UMO_DivaSpOn"
+msgstr ""
+
+msgid "UMO_OriginSetting"
+msgstr ""
+

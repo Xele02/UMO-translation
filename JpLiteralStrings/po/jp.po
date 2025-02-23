@@ -2110,3 +2110,18 @@ msgstr "超時空プリズム"
 msgid "UMO_Group"
 msgstr "ユニット編成"
 
+msgid "UMO_PrismOn"
+msgstr "超時空プリズム ON"
+
+msgid "UMO_ValkOn"
+msgstr "バルキリーモード ON"
+
+msgid "UMO_NotesOn"
+msgstr "ノーツ表示 ON"
+
+msgid "UMO_DivaSpOn"
+msgstr "超歌姫モード ON"
+
+msgid "UMO_OriginSetting"
+msgstr "スタンダード編成"
+
