@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2025-01-25 16:05+0000\n"
+"PO-Revision-Date: 2025-02-23 15:25+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -2139,3 +2139,18 @@ msgstr "Prismes"
 
 msgid "UMO_Group"
 msgstr "Organisation du groupe"
+
+msgid "UMO_OriginSetting"
+msgstr "Organisation standard"
+
+msgid "UMO_DivaSpOn"
+msgstr "Super diva mode ON"
+
+msgid "UMO_NotesOn"
+msgstr "Affichage notes ON"
+
+msgid "UMO_ValkOn"
+msgstr "Valkyrie mode ON"
+
+msgid "UMO_PrismOn"
+msgstr "Prismes ON"
