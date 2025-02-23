@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-02-17 11:31+0000\n"
+"PO-Revision-Date: 2025-02-25 12:52+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -2163,3 +2163,18 @@ msgstr "变更显示"
 
 msgid "StringLiteral_14411"
 msgstr "请选择要进行分享的应用。"
+
+msgid "UMO_PrismOn"
+msgstr "开启超时空棱镜"
+
+msgid "UMO_NotesOn"
+msgstr "显示音符"
+
+msgid "UMO_OriginSetting"
+msgstr "标准配置"
+
+msgid "UMO_ValkOn"
+msgstr "显示空战模式画面"
+
+msgid "UMO_DivaSpOn"
+msgstr "显示超歌姬模式画面"
