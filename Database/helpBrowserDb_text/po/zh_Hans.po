@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-02-28 15:29+0000\n"
+"PO-Revision-Date: 2025-03-07 05:58+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -213,10 +213,10 @@ msgid "help_0005_0004_name"
 msgstr "幸运草"
 
 msgid "help_0005_0005_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "help_0005_0006_name"
-msgstr "一键解放"
+msgstr "能力一键解放"
 
 msgid "wiki_0005_0000_name"
 msgstr "回忆卡片"
@@ -288,7 +288,7 @@ msgid "help_0008_0003_name"
 msgstr "超时空SNS"
 
 msgid "help_0008_0004_name"
-msgstr "大厅歌姬服装选择"
+msgstr "大厅歌姬服装"
 
 msgid "help_0008_0005_name"
 msgstr "更换大厅背景"
@@ -330,13 +330,13 @@ msgid "help_0012_0001_name"
 msgstr "凯厄斯商店"
 
 msgid "help_0012_0002_name"
-msgstr "碎片素材"
+msgstr "道具碎片"
 
 msgid "help_0012_0003_name"
 msgstr "季节泪晶"
 
 msgid "help_0012_0004_name"
-msgstr "通知推送设置"
+msgstr "通知推送"
 
 msgid "help_0012_0005_name"
 msgstr "歌姬排名"
@@ -354,13 +354,13 @@ msgid "help_0013_0000_name"
 msgstr "关于房间模式"
 
 msgid "help_0013_0001_name"
-msgstr "Extra物品"
+msgstr "额外物品"
 
 msgid "help_0013_0002_name"
 msgstr "角色放置"
 
 msgid "help_0013_0003_name"
-msgstr "玩家黑名单"
+msgstr "黑名单"
 
 msgid "help_0014_0000_name"
 msgstr "总力LIVE事前准备"
@@ -531,7 +531,7 @@ msgid "help_0021_0007_name"
 msgstr "幸运草"
 
 msgid "help_0021_0008_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "help_0021_0009_name"
 msgstr "分数预测量表"
@@ -603,10 +603,10 @@ msgid "help_0024_0004_name"
 msgstr "幸运草"
 
 msgid "help_0024_0005_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "help_0024_0006_name"
-msgstr "一键解放"
+msgstr "能力一键解放"
 
 msgid "help_0025_0000_name"
 msgstr "服装"
@@ -651,7 +651,7 @@ msgid "help_0030_0000_name"
 msgstr "幸运草"
 
 msgid "help_0030_0001_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "help_0031_0000_name"
 msgstr "Bingo任务奖励"
@@ -690,7 +690,7 @@ msgid "help_0034_0007_name"
 msgstr "幸运草"
 
 msgid "help_0034_0008_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "wiki_0034_0000_name"
 msgstr "编队技巧"
@@ -729,7 +729,7 @@ msgid "help_0039_0004_name"
 msgstr "更换聊天头像"
 
 msgid "help_0039_0005_name"
-msgstr "通知推送设置"
+msgstr "通知推送"
 
 msgid "help_0040_0000_name"
 msgstr "总力LIVE事前准备"
@@ -753,13 +753,13 @@ msgid "help_0042_0000_name"
 msgstr "关于房间模式"
 
 msgid "help_0042_0001_name"
-msgstr "Extra物品"
+msgstr "额外物品"
 
 msgid "help_0042_0002_name"
 msgstr "角色放置"
 
 msgid "help_0042_0003_name"
-msgstr "玩家黑名单"
+msgstr "黑名单"
 
 msgid "help_0043_0000_name"
 msgstr "超银河总力LIVE"
@@ -792,7 +792,7 @@ msgid "help_0045_0003_name"
 msgstr "救援信号"
 
 msgid "help_0046_0000_name"
-msgstr "大厅歌姬服装选择"
+msgstr "大厅歌姬服装"
 
 msgid "wiki_0046_0000_name"
 msgstr "服装一览"
@@ -1224,13 +1224,13 @@ msgid "help_0075_0007_name"
 msgstr "幸运草"
 
 msgid "help_0075_0008_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "help_0075_0009_name"
 msgstr "分数预测量表"
 
 msgid "help_0075_0010_name"
-msgstr "一键编队"
+msgstr "原版搭配"
 
 msgid "wiki_0075_0000_name"
 msgstr "编队技巧"
@@ -1245,7 +1245,7 @@ msgid "help_0076_0000_name"
 msgstr "模拟演出设置"
 
 msgid "help_0076_0001_name"
-msgstr "一键编队"
+msgstr "原版搭配"
 
 msgid "help_0077_0000_name"
 msgstr "强化服装"
@@ -1281,7 +1281,7 @@ msgid "help_0078_0007_name"
 msgstr "幸运草"
 
 msgid "help_0078_0008_name"
-msgstr "幸运草效果加成"
+msgstr "幸运草加成效果"
 
 msgid "wiki_0078_0000_name"
 msgstr "编队技巧"
