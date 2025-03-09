@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-01-19 03:23+0000\n"
+"PO-Revision-Date: 2025-03-09 04:41+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/snsdb_text/zh_Hans/>\n"
@@ -492,115 +492,115 @@ msgid "room_name_0159_txt"
 msgstr ""
 
 msgid "chara_name_0000_txt"
-msgstr ""
+msgstr "芙蕾雅"
 
 msgid "chara_name_0001_txt"
-msgstr ""
+msgstr "美云"
 
 msgid "chara_name_0002_txt"
-msgstr ""
+msgstr "要"
 
 msgid "chara_name_0003_txt"
-msgstr ""
+msgstr "玛基娜"
 
 msgid "chara_name_0004_txt"
-msgstr ""
+msgstr "蕾娜"
 
 msgid "chara_name_0005_txt"
-msgstr ""
+msgstr "兰卡"
 
 msgid "chara_name_0006_txt"
-msgstr ""
+msgstr "雪莉露"
 
 msgid "chara_name_0007_txt"
-msgstr ""
+msgstr "米莲"
 
 msgid "chara_name_0008_txt"
-msgstr ""
+msgstr "巴萨拉"
 
 msgid "chara_name_0009_txt"
-msgstr ""
+msgstr "明美"
 
 msgid "chara_name_0010_txt"
-msgstr ""
+msgstr "疾风"
 
 msgid "chara_name_0011_txt"
-msgstr ""
+msgstr "米拉洁"
 
 msgid "chara_name_0012_txt"
-msgstr ""
+msgstr "梅萨"
 
 msgid "chara_name_0013_txt"
-msgstr ""
+msgstr "阿拉德"
 
 msgid "chara_name_0014_txt"
-msgstr ""
+msgstr "查克"
 
 msgid "chara_name_0015_txt"
-msgstr ""
+msgstr "阿尔特"
 
 msgid "chara_name_0016_txt"
-msgstr ""
+msgstr "米歇尔"
 
 msgid "chara_name_0017_txt"
-msgstr ""
+msgstr "奥兹玛"
 
 msgid "chara_name_0018_txt"
-msgstr ""
+msgstr "卢卡"
 
 msgid "chara_name_0019_txt"
-msgstr ""
+msgstr "布雷拉"
 
 msgid "chara_name_0020_txt"
-msgstr ""
+msgstr "雷伊"
 
 msgid "chara_name_0021_txt"
-msgstr ""
+msgstr "比希达"
 
 msgid "chara_name_0022_txt"
-msgstr ""
+msgstr "辉"
 
 msgid "chara_name_0023_txt"
-msgstr ""
+msgstr "福卡"
 
 msgid "chara_name_0024_txt"
-msgstr ""
+msgstr "麦克斯"
 
 msgid "chara_name_0025_txt"
-msgstr ""
+msgstr "米莉亚"
 
 msgid "chara_name_0026_txt"
-msgstr ""
+msgstr "基斯"
 
 msgid "chara_name_0027_txt"
-msgstr ""
+msgstr "罗伊德"
 
 msgid "chara_name_0028_txt"
-msgstr ""
+msgstr "博格"
 
 msgid "chara_name_0029_txt"
-msgstr ""
+msgstr "库兰"
 
 msgid "chara_name_0030_txt"
-msgstr ""
+msgstr "七濑"
 
 msgid "chara_name_0031_txt"
-msgstr ""
+msgstr "卡姆林"
 
 msgid "chara_name_0032_txt"
-msgstr ""
+msgstr "秋子"
 
 msgid "chara_name_0033_txt"
-msgstr ""
+msgstr "未沙"
 
 msgid "chara_name_0034_txt"
-msgstr ""
+msgstr "克劳迪娅"
 
 msgid "chara_name_0035_txt"
-msgstr ""
+msgstr "勇"
 
 msgid "chara_name_0036_txt"
-msgstr ""
+msgstr "加鲁特"
 
 msgid "chara_name_0037_txt"
-msgstr ""
+msgstr "所有人"
