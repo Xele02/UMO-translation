@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-09 04:19+0000\n"
+"PO-Revision-Date: 2025-03-09 04:24+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -87,7 +87,7 @@ msgid "help_0000_0006_name"
 msgstr "助战卡片"
 
 msgid "help_0000_0007_name"
-msgstr "游玩记录"
+msgstr "演出记录"
 
 msgid "help_0000_0008_name"
 msgstr "每日活动"
@@ -129,7 +129,7 @@ msgid "wiki_0000_0002_name"
 msgstr "如何有效率地收集素材"
 
 msgid "wiki_0000_0003_name"
-msgstr "如何阅读游玩记录"
+msgstr "如何阅读演出记录"
 
 msgid "wiki_0000_0004_name"
 msgstr "活动信息"
@@ -414,7 +414,7 @@ msgid "help_0016_0006_name"
 msgstr "助战卡片"
 
 msgid "help_0016_0007_name"
-msgstr "游玩记录"
+msgstr "演出记录"
 
 msgid "help_0016_0008_name"
 msgstr "每日活动"
@@ -444,7 +444,7 @@ msgid "wiki_0016_0002_name"
 msgstr "如何有效率地收集素材"
 
 msgid "wiki_0016_0003_name"
-msgstr "如何阅读游玩记录"
+msgstr "如何阅读演出记录"
 
 msgid "wiki_0016_0004_name"
 msgstr "活动信息"
@@ -558,7 +558,7 @@ msgid "help_0023_0000_name"
 msgstr "玩家等级"
 
 msgid "help_0023_0001_name"
-msgstr "游玩记录"
+msgstr "演出记录"
 
 msgid "help_0023_0002_name"
 msgstr "达成奖励"
@@ -579,7 +579,7 @@ msgid "wiki_0023_0000_name"
 msgstr "如何提升玩家等级"
 
 msgid "wiki_0023_0001_name"
-msgstr "如何阅读游玩记录"
+msgstr "如何阅读演出记录"
 
 msgid "wiki_0023_0002_name"
 msgstr "如何快速提升歌姬等级"
@@ -1041,7 +1041,7 @@ msgid "help_0070_0006_name"
 msgstr "助战卡片"
 
 msgid "help_0070_0007_name"
-msgstr "游玩记录"
+msgstr "演出记录"
 
 msgid "help_0070_0008_name"
 msgstr "每日活动"
@@ -1086,7 +1086,7 @@ msgid "wiki_0070_0002_name"
 msgstr "如何有效率地收集素材"
 
 msgid "wiki_0070_0003_name"
-msgstr "如何阅读游玩记录"
+msgstr "如何阅读演出记录"
 
 msgid "wiki_0070_0004_name"
 msgstr "活动信息"
