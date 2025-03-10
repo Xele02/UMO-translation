@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:51+0000\n"
-"PO-Revision-Date: 2025-03-07 17:10+0000\n"
+"PO-Revision-Date: 2025-03-11 06:56+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/adv_text/zh_Hans/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 msgid "adv_000001_0003_msg"
 msgstr ""
-"嗯嗯！\n"
+"准备好了！\n"
 "我会加油的！"
 
 msgid "adv_000001_0004_msg"
@@ -48,7 +48,7 @@ msgstr ""
 msgid "adv_000001_0009_msg"
 msgstr ""
 "而且…现在能够与之对抗的，\n"
-"就只有能用歌声释放\n"
+"就只有能用歌声发出\n"
 "生物Fold波的我们了。"
 
 msgid "adv_000001_0010_msg"
@@ -70,11 +70,11 @@ msgstr ""
 "那就快去准备吧，马上出发了。"
 
 msgid "adv_000002_0002_msg"
-msgstr "芙蕾雅，疾风，还顺利吗？"
+msgstr "芙蕾雅，疾风，刚才还顺利吗？"
 
 msgid "adv_000002_0003_msg"
 msgstr ""
-"嗯，很顺利。\n"
+"嗯，顺利的很。\n"
 "差不多快把它们消灭干净了。"
 
 msgid "adv_000002_0004_msg"
@@ -95,7 +95,7 @@ msgstr "具体该怎么做？"
 
 msgid "adv_000002_0008_msg"
 msgstr ""
-"具体来说，就是增强我们释放的生物Fold波，\n"
+"具体来说，就是增强我们发出的生物Fold波，\n"
 "让疾风能够更清晰地听到我们的歌声。"
 
 msgid "adv_000002_0009_msg"
@@ -182,7 +182,7 @@ msgstr "超时空…SNS？"
 msgid "adv_000004_0012_msg"
 msgstr ""
 "对呀。\n"
-"这是你们的设备，接下来跟我学习怎样操作吧。"
+"拿好你们的设备，接下来跟我学习怎么操作吧。"
 
 msgid "adv_000004_0015_msg"
 msgstr ""
@@ -3347,7 +3347,7 @@ msgid "adv_300601_0033_msg"
 msgstr ""
 
 msgid "adv_300601_0034_msg"
-msgstr ""
+msgstr "芙蕾雅"
 
 msgid "adv_300601_0035_msg"
 msgstr ""
@@ -10245,114 +10245,153 @@ msgstr ""
 
 msgid "adv_000130_0003_msg"
 msgstr ""
+"大家~！看过来看过来！\n"
+"我们有重要的事要宣布！"
 
 msgid "adv_000130_0004_msg"
-msgstr ""
+msgstr "快来快来。"
 
 msgid "adv_000130_0005_msg"
-msgstr ""
+msgstr "诶！？"
 
 msgid "adv_000130_0007_msg"
-msgstr ""
+msgstr "来啦！"
 
 msgid "adv_000130_0009_msg"
-msgstr ""
+msgstr "…这次会是什么大事呢。"
 
 msgid "adv_000130_0010_msg"
 msgstr ""
+"…那我开始啦。其实我和蕾蕾一直觉得，\n"
+"这段时间，大家的日常生活好像还缺了点什么。"
 
 msgid "adv_000130_0012_msg"
-msgstr ""
+msgstr "缺了点什么…？"
 
 msgid "adv_000130_0013_msg"
 msgstr ""
+"对呀，最近蕾蕾不是利用超时空网络\n"
+"发明了很多东西吗？\n"
+"超时空SNS、超时空团体演出什么的…"
 
 msgid "adv_000130_0014_msg"
 msgstr ""
+"虽然得益于这些发明，我们现在已经可以和其它时空的人们进行交流了。\n"
+"可我们总感觉好像还差了点什么呢…"
 
 msgid "adv_000130_0015_msg"
-msgstr ""
+msgstr "差了点什么…唔…想不出来。"
 
 msgid "adv_000130_0017_msg"
 msgstr ""
+"大家现在可以随心所欲地畅聊了，\n"
+"这样不是已经足够完美了吗？"
 
 msgid "adv_000130_0019_msg"
-msgstr ""
+msgstr "…我也不是很能领会到呢。"
 
 msgid "adv_000130_0020_msg"
-msgstr ""
+msgstr "没关系，我们已经替大家想到啦！"
 
 msgid "adv_000130_0022_msg"
-msgstr ""
+msgstr "哇！！是什么呀？"
 
 msgid "adv_000130_0023_msg"
-msgstr ""
+msgstr "是卡哇哇的程度还不够！"
 
 msgid "adv_000130_0024_msg"
-msgstr ""
+msgstr "…哦哦？"
 
 msgid "adv_000130_0025_msg"
 msgstr ""
+"所以我就按照自己的喜好，\n"
+"让蕾蕾在超时空网络上建造了一个卡哇哇~的交流空间！"
 
 msgid "adv_000130_0026_msg"
-msgstr ""
+msgstr "诶！？已经做好了吗？"
 
 msgid "adv_000130_0028_msg"
-msgstr ""
+msgstr "名字就叫“超时空房间”。"
 
 msgid "adv_000130_0029_msg"
-msgstr ""
+msgstr "超时空房间？？"
 
 msgid "adv_000130_0030_msg"
 msgstr ""
+"超时空团体演出会对超时空网络造成很大的负担。\n"
+"如果在多地同时开展的话，有可能会出现网络不堪重负的情况…"
 
 msgid "adv_000130_0031_msg"
 msgstr ""
+"这种条件下，大家还怎么能安心地\n"
+"在一块举办聚会和活动呢？"
 
 msgid "adv_000130_0032_msg"
 msgstr ""
+"所以我就想，不如直接在网络上建造一个\n"
+"方便大家聚会的房间吧！\n"
+"而且既然是房间，那自然也有可以把它装饰得漂漂亮亮的功能咯！"
 
 msgid "adv_000130_0033_msg"
 msgstr ""
+"不仅如此，待在房间里的时候，还可以像超时空团体演出那样，\n"
+"跟来自其它时空的朋友面对面聊天哦！"
 
 msgid "adv_000130_0034_msg"
-msgstr ""
+msgstr "面对面聊天！？"
 
 msgid "adv_000130_0035_msg"
 msgstr ""
+"对呀，自己装饰得漂漂亮亮的房间，\n"
+"肯定会忍不住把朋友邀请进来聊天的呀！"
 
 msgid "adv_000130_0036_msg"
-msgstr ""
+msgstr "说的没错。"
 
 msgid "adv_000130_0037_msg"
 msgstr ""
+"还有，在超时空房间里，\n"
+"还可以使用聊天系统和现实世界的人沟通哦。"
 
 msgid "adv_000130_0039_msg"
-msgstr ""
+msgstr "确实很厉害呢…"
 
 msgid "adv_000130_0040_msg"
 msgstr ""
+"可以尽情地布置房间、和朋友聊天…\n"
+"生活一下子又多出许多乐趣了呢。"
 
 msgid "adv_000130_0041_msg"
 msgstr ""
+"毕竟大家好不容易才跨越时空聚在一起！\n"
+"希望这个功能可以帮助大家熟络起来，成为彼此的好朋友…"
 
 msgid "adv_000130_0043_msg"
-msgstr ""
+msgstr "原来是这样…"
 
 msgid "adv_000130_0044_msg"
 msgstr ""
+"哈哈，真是只有贴心的玛基娜才能想出来的点子！\n"
+"大家更深入地了解彼此，在合作的时候就会更加默契，\n"
+"想想都觉得特别踏实呢。"
 
 msgid "adv_000130_0045_msg"
 msgstr ""
+"脑海里已经出现大家\n"
+"同生死，共患难的画面了…"
 
 msgid "adv_000130_0046_msg"
 msgstr ""
+"可是超时空网络上的房间会是什么样子呢？\n"
+"有点想象不出来…"
 
 msgid "adv_000130_0048_msg"
 msgstr ""
+"没关系芙蕾芙蕾！等我带你看看就知道啦！\n"
+"大家跟我来，一探究竟！"
 
 msgid "adv_000130_0049_msg"
-msgstr ""
+msgstr "好耶！"
 
 msgid "adv_000140_0003_msg"
 msgstr ""
