@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-09 05:21+0000\n"
+"PO-Revision-Date: 2025-03-11 06:56+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -8097,10 +8097,10 @@ msgid "v_pn_0002"
 msgstr "弥赛亚"
 
 msgid "v_pn_0003"
-msgstr "火焰女武神"
+msgstr "火焰瓦尔基里"
 
 msgid "v_pn_0004"
-msgstr "女武神"
+msgstr "瓦尔基里"
 
 msgid "v_pn_0005"
 msgstr "齐格飞"
@@ -8109,7 +8109,7 @@ msgid "v_pn_0006"
 msgstr "罗伊·福卡专用机"
 
 msgid "v_pn_0007"
-msgstr "女武神"
+msgstr "瓦尔基里"
 
 msgid "v_pn_0008"
 msgstr "齐格飞"
@@ -8148,7 +8148,7 @@ msgid "v_pn_0021"
 msgstr "梦魇"
 
 msgid "v_pn_0022"
-msgstr "女武神"
+msgstr "瓦尔基里"
 
 msgid "v_pn_0024"
 msgstr "米莲专用机"
@@ -8232,7 +8232,7 @@ msgid "v_pn_0052"
 msgstr "芙蕾雅涂装"
 
 msgid "v_pn_0053"
-msgstr "女武神"
+msgstr "瓦尔基里"
 
 msgid "v_pn_0054"
 msgstr "梦魇"
@@ -8265,7 +8265,7 @@ msgid "v_pn_0063"
 msgstr "龙Ⅲ"
 
 msgid "v_pn_0064"
-msgstr "女武神"
+msgstr "瓦尔基里"
 
 msgid "v_pn_0065"
 msgstr "美云涂装ver"
@@ -13253,7 +13253,7 @@ msgid "qn_dsc_0008"
 msgstr "进行1次免费抽卡"
 
 msgid "qn_dsc_0009"
-msgstr "将卡片编入队伍"
+msgstr "在编队界面装备卡片"
 
 msgid "qn_dsc_0010"
 msgstr ""
@@ -17182,7 +17182,7 @@ msgid "qn_dsc_1131"
 msgstr ""
 
 msgid "qn_dsc_1132"
-msgstr "玩家等级达到5级，解锁房间模式"
+msgstr "玩家等级达到5级，解锁超时空房间"
 
 msgid "qn_dsc_1133"
 msgstr "在【家具点数商店】兑换家具1次"
@@ -30714,7 +30714,7 @@ msgid "val_itm_nm_0004"
 msgstr "碧空齿轮"
 
 msgid "val_itm_nm_0005"
-msgstr "女武神齿轮"
+msgstr "瓦尔基里齿轮"
 
 msgid "val_itm_dsc_0001"
 msgstr ""
