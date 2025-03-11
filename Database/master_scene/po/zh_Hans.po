@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-11 08:48+0000\n"
+"PO-Revision-Date: 2025-03-11 12:54+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -15,19 +15,19 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "sn_0001"
-msgstr ""
+msgstr "Welcome to Walküre World"
 
 msgid "sn_0002"
-msgstr ""
+msgstr "乘风之人的宿命"
 
 msgid "sn_0003"
-msgstr ""
+msgstr "从今天起你就是Walküre的一员了"
 
 msgid "sn_0004"
 msgstr ""
 
 msgid "sn_0005"
-msgstr ""
+msgstr "不要直勾勾地盯着看啦！"
 
 msgid "sn_0006"
 msgstr "特殊对待"
