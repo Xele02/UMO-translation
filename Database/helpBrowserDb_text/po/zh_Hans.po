@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-09 05:21+0000\n"
+"PO-Revision-Date: 2025-03-11 06:56+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -48,7 +48,7 @@ msgid "category_0013_name"
 msgstr "战机派遣行动"
 
 msgid "category_0014_name"
-msgstr "房间模式"
+msgstr "超时空房间"
 
 msgid "category_0015_name"
 msgstr "抽卡"
@@ -99,7 +99,7 @@ msgid "help_0000_0010_name"
 msgstr "模拟演出设置"
 
 msgid "help_0000_0011_name"
-msgstr "多人演出"
+msgstr "团体演出"
 
 msgid "help_0000_0012_name"
 msgstr "十二星座奖章"
@@ -351,7 +351,7 @@ msgid "wiki_0012_0002_name"
 msgstr "公告栏"
 
 msgid "help_0013_0000_name"
-msgstr "关于房间模式"
+msgstr "关于超时空房间"
 
 msgid "help_0013_0001_name"
 msgstr "特殊家具"
@@ -477,7 +477,7 @@ msgid "help_0019_0001_name"
 msgstr "每日活动"
 
 msgid "help_0019_0002_name"
-msgstr "多人演出"
+msgstr "团体演出"
 
 msgid "help_0019_0003_name"
 msgstr "跳过演出"
@@ -750,7 +750,7 @@ msgid "help_0041_0000_name"
 msgstr "战队一览"
 
 msgid "help_0042_0000_name"
-msgstr "关于房间模式"
+msgstr "关于超时空房间"
 
 msgid "help_0042_0001_name"
 msgstr "特殊家具"
@@ -900,7 +900,7 @@ msgid "help_0055_0000_name"
 msgstr "活动规则"
 
 msgid "help_0055_0001_name"
-msgstr "多人演出"
+msgstr "团体演出"
 
 msgid "help_0055_0002_name"
 msgstr "BOOST功能"
@@ -915,7 +915,7 @@ msgid "help_0056_0000_name"
 msgstr "活动规则"
 
 msgid "help_0056_0001_name"
-msgstr "多人演出"
+msgstr "团体演出"
 
 msgid "help_0056_0002_name"
 msgstr "BOOST功能"
@@ -1053,7 +1053,7 @@ msgid "help_0070_0010_name"
 msgstr "模拟演出设置"
 
 msgid "help_0070_0011_name"
-msgstr "多人演出"
+msgstr "团体演出"
 
 msgid "help_0070_0012_name"
 msgstr "十二星座奖章"
@@ -1164,7 +1164,7 @@ msgid "help_0073_0001_name"
 msgstr "每日活动"
 
 msgid "help_0073_0002_name"
-msgstr "多人演出"
+msgstr "团体演出"
 
 msgid "help_0073_0003_name"
 msgstr "跳过演出"
