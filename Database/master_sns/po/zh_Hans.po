@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-11 08:48+0000\n"
+"PO-Revision-Date: 2025-03-11 09:42+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_sns/zh_Hans/>\n"
@@ -771,67 +771,67 @@ msgid "sns_dsc_0539"
 msgstr "累计完成8个新手派遣任务"
 
 msgid "sns_dsc_0540"
-msgstr ""
+msgstr "解锁歌姬派遣任务"
 
 msgid "sns_dsc_0541"
-msgstr ""
+msgstr "累计完成1个芙蕾雅的歌姬派遣任务"
 
 msgid "sns_dsc_0542"
-msgstr ""
+msgstr "累计完成10个芙蕾雅的歌姬派遣任务"
 
 msgid "sns_dsc_0543"
-msgstr ""
+msgstr "累计完成1个美云的歌姬派遣任务"
 
 msgid "sns_dsc_0544"
-msgstr ""
+msgstr "累计完成10个美云的歌姬派遣任务"
 
 msgid "sns_dsc_0545"
-msgstr ""
+msgstr "累计完成1个要的歌姬派遣任务"
 
 msgid "sns_dsc_0546"
-msgstr ""
+msgstr "累计完成10个要的歌姬派遣任务"
 
 msgid "sns_dsc_0547"
-msgstr ""
+msgstr "累计完成1个玛基娜的歌姬派遣任务"
 
 msgid "sns_dsc_0548"
-msgstr ""
+msgstr "累计完成10个玛基娜的歌姬派遣任务"
 
 msgid "sns_dsc_0549"
-msgstr ""
+msgstr "累计完成1个蕾娜的歌姬派遣任务"
 
 msgid "sns_dsc_0550"
-msgstr ""
+msgstr "累计完成10个蕾娜的歌姬派遣任务"
 
 msgid "sns_dsc_0551"
-msgstr ""
+msgstr "累计完成1个兰卡的歌姬派遣任务"
 
 msgid "sns_dsc_0552"
-msgstr ""
+msgstr "累计完成10个兰卡的歌姬派遣任务"
 
 msgid "sns_dsc_0553"
-msgstr ""
+msgstr "累计完成1个雪莉露的歌姬派遣任务"
 
 msgid "sns_dsc_0554"
-msgstr ""
+msgstr "累计完成10个雪莉露的歌姬派遣任务"
 
 msgid "sns_dsc_0555"
-msgstr ""
+msgstr "累计完成1个米莲的歌姬派遣任务"
 
 msgid "sns_dsc_0556"
-msgstr ""
+msgstr "累计完成10个米莲的歌姬派遣任务"
 
 msgid "sns_dsc_0557"
-msgstr ""
+msgstr "累计完成1个巴萨拉的歌姬派遣任务"
 
 msgid "sns_dsc_0558"
-msgstr ""
+msgstr "累计完成10个巴萨拉的歌姬派遣任务"
 
 msgid "sns_dsc_0559"
-msgstr ""
+msgstr "累计完成1个明美的歌姬派遣任务"
 
 msgid "sns_dsc_0560"
-msgstr ""
+msgstr "累计完成10个明美的歌姬派遣任务"
 
 msgid "sns_dsc_0561"
 msgstr ""
@@ -1629,40 +1629,40 @@ msgid "sns_dsc_0858"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc_0860"
-msgstr ""
+msgstr "累计获得1000pt点数"
 
 msgid "sns_dsc_0861"
-msgstr ""
+msgstr "累计获得10000pt点数"
 
 msgid "sns_dsc_0862"
-msgstr ""
+msgstr "累计获得20000pt点数"
 
 msgid "sns_dsc_0863"
-msgstr ""
+msgstr "累计获得1300pt点数"
 
 msgid "sns_dsc_0864"
-msgstr ""
+msgstr "累计获得14000pt点数"
 
 msgid "sns_dsc_0865"
-msgstr ""
+msgstr "累计获得24000pt点数"
 
 msgid "sns_dsc_0866"
-msgstr ""
+msgstr "累计获得1000pt点数"
 
 msgid "sns_dsc_0867"
-msgstr ""
+msgstr "累计获得6400pt点数"
 
 msgid "sns_dsc_0868"
-msgstr ""
+msgstr "累计获得14500pt点数"
 
 msgid "sns_dsc_0869"
-msgstr ""
+msgstr "累计获得1300pt点数"
 
 msgid "sns_dsc_0870"
-msgstr ""
+msgstr "累计获得14000pt点数"
 
 msgid "sns_dsc_0871"
-msgstr ""
+msgstr "累计获得24000pt点数"
 
 msgid "sns_dsc_0872"
 msgstr "推进活动解锁"
@@ -1785,16 +1785,16 @@ msgid "sns_dsc_0911"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc_0912"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc_0913"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc_0914"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc_0915"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc_0916"
 msgstr "推进活动解锁"
@@ -1824,7 +1824,7 @@ msgid "sns_dsc_0924"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc_0925"
-msgstr ""
+msgstr "剧场版联动活动"
 
 msgid "sns_dsc_0926"
 msgstr "推进活动解锁"
@@ -1875,7 +1875,7 @@ msgid "sns_dsc_0941"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc_0942"
-msgstr ""
+msgstr "愚人节活动"
 
 msgid "sns_dsc_0943"
 msgstr "推进活动解锁"
@@ -2427,232 +2427,232 @@ msgid "sns_dsc_1125"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc2_0001"
-msgstr ""
+msgstr "芙蕾雅加入队伍"
 
 msgid "sns_dsc2_0002"
-msgstr ""
+msgstr "在记忆时空累计解锁1首歌曲"
 
 msgid "sns_dsc2_0003"
-msgstr ""
+msgstr "在记忆时空累计解锁2首歌曲"
 
 msgid "sns_dsc2_0004"
-msgstr ""
+msgstr "在记忆时空累计解锁3首歌曲"
 
 msgid "sns_dsc2_0005"
-msgstr ""
+msgstr "在记忆时空累计解锁4首歌曲"
 
 msgid "sns_dsc2_0006"
-msgstr ""
+msgstr "在记忆时空累计解锁5首歌曲"
 
 msgid "sns_dsc2_0007"
-msgstr ""
+msgstr "在记忆时空累计解锁6首歌曲"
 
 msgid "sns_dsc2_0008"
-msgstr ""
+msgstr "在记忆时空累计解锁7首歌曲"
 
 msgid "sns_dsc2_0009"
-msgstr ""
+msgstr "在记忆时空累计解锁8首歌曲"
 
 msgid "sns_dsc2_0010"
-msgstr ""
+msgstr "在记忆时空累计解锁9首歌曲"
 
 msgid "sns_dsc2_0011"
-msgstr ""
+msgstr "在记忆时空累计解锁10首歌曲"
 
 msgid "sns_dsc2_0012"
-msgstr ""
+msgstr "在记忆时空累计解锁11首歌曲"
 
 msgid "sns_dsc2_0013"
-msgstr ""
+msgstr "在记忆时空累计解锁12首歌曲"
 
 msgid "sns_dsc2_0014"
-msgstr ""
+msgstr "在记忆时空累计解锁13首歌曲"
 
 msgid "sns_dsc2_0015"
-msgstr ""
+msgstr "在记忆时空累计解锁14首歌曲"
 
 msgid "sns_dsc2_0016"
-msgstr ""
+msgstr "在记忆时空累计解锁15首歌曲"
 
 msgid "sns_dsc2_0017"
-msgstr ""
+msgstr "在记忆时空累计解锁16首歌曲"
 
 msgid "sns_dsc2_0018"
-msgstr ""
+msgstr "在记忆时空累计解锁17首歌曲"
 
 msgid "sns_dsc2_0019"
-msgstr ""
+msgstr "在记忆时空累计解锁18首歌曲"
 
 msgid "sns_dsc2_0020"
-msgstr ""
+msgstr "在记忆时空累计解锁19首歌曲"
 
 msgid "sns_dsc2_0021"
-msgstr ""
+msgstr "在记忆时空累计解锁20首歌曲"
 
 msgid "sns_dsc2_0022"
-msgstr ""
+msgstr "在记忆时空累计解锁21首歌曲"
 
 msgid "sns_dsc2_0023"
-msgstr ""
+msgstr "在记忆时空累计解锁22首歌曲"
 
 msgid "sns_dsc2_0024"
-msgstr ""
+msgstr "在记忆时空累计解锁23首歌曲"
 
 msgid "sns_dsc2_0025"
-msgstr ""
+msgstr "在记忆时空累计解锁24首歌曲"
 
 msgid "sns_dsc2_0026"
-msgstr ""
+msgstr "在记忆时空累计解锁25首歌曲"
 
 msgid "sns_dsc2_0027"
-msgstr ""
+msgstr "在记忆时空累计解锁26首歌曲"
 
 msgid "sns_dsc2_0028"
-msgstr ""
+msgstr "在记忆时空累计解锁27首歌曲"
 
 msgid "sns_dsc2_0029"
-msgstr ""
+msgstr "在记忆时空累计解锁28首歌曲"
 
 msgid "sns_dsc2_0030"
-msgstr ""
+msgstr "在记忆时空累计解锁29首歌曲"
 
 msgid "sns_dsc2_0031"
-msgstr ""
+msgstr "在记忆时空累计解锁30首歌曲"
 
 msgid "sns_dsc2_0032"
-msgstr ""
+msgstr "在记忆时空累计解锁31首歌曲"
 
 msgid "sns_dsc2_0033"
-msgstr ""
+msgstr "在记忆时空累计解锁32首歌曲"
 
 msgid "sns_dsc2_0034"
-msgstr ""
+msgstr "在记忆时空累计解锁33首歌曲"
 
 msgid "sns_dsc2_0035"
-msgstr ""
+msgstr "在记忆时空累计解锁34首歌曲"
 
 msgid "sns_dsc2_0036"
-msgstr ""
+msgstr "在记忆时空累计解锁35首歌曲"
 
 msgid "sns_dsc2_0038"
-msgstr ""
+msgstr "在记忆时空累计解锁36首歌曲"
 
 msgid "sns_dsc2_0039"
-msgstr ""
+msgstr "在记忆时空累计解锁37首歌曲"
 
 msgid "sns_dsc2_0040"
-msgstr ""
+msgstr "在记忆时空累计解锁38首歌曲"
 
 msgid "sns_dsc2_0041"
-msgstr ""
+msgstr "在记忆时空累计解锁39首歌曲"
 
 msgid "sns_dsc2_0042"
-msgstr ""
+msgstr "在记忆时空累计解锁40首歌曲"
 
 msgid "sns_dsc2_0043"
-msgstr ""
+msgstr "在记忆时空累计解锁41首歌曲"
 
 msgid "sns_dsc2_0044"
-msgstr ""
+msgstr "在记忆时空累计解锁42首歌曲"
 
 msgid "sns_dsc2_0045"
-msgstr ""
+msgstr "在记忆时空累计解锁43首歌曲"
 
 msgid "sns_dsc2_0046"
-msgstr ""
+msgstr "在记忆时空累计解锁44首歌曲"
 
 msgid "sns_dsc2_0047"
-msgstr ""
+msgstr "在记忆时空累计解锁45首歌曲"
 
 msgid "sns_dsc2_0048"
-msgstr ""
+msgstr "在记忆时空累计解锁46首歌曲"
 
 msgid "sns_dsc2_0049"
-msgstr ""
+msgstr "在记忆时空累计解锁47首歌曲"
 
 msgid "sns_dsc2_0050"
-msgstr ""
+msgstr "在记忆时空累计解锁48首歌曲"
 
 msgid "sns_dsc2_0051"
-msgstr ""
+msgstr "在记忆时空累计解锁49首歌曲"
 
 msgid "sns_dsc2_0052"
-msgstr ""
+msgstr "在记忆时空累计解锁50首歌曲"
 
 msgid "sns_dsc2_0053"
-msgstr ""
+msgstr "在记忆时空累计解锁51首歌曲"
 
 msgid "sns_dsc2_0054"
-msgstr ""
+msgstr "在记忆时空累计解锁52首歌曲"
 
 msgid "sns_dsc2_0055"
-msgstr ""
+msgstr "在记忆时空累计解锁53首歌曲"
 
 msgid "sns_dsc2_0056"
-msgstr ""
+msgstr "在记忆时空累计解锁54首歌曲"
 
 msgid "sns_dsc2_0057"
-msgstr ""
+msgstr "在记忆时空累计解锁55首歌曲"
 
 msgid "sns_dsc2_0058"
-msgstr ""
+msgstr "在记忆时空累计解锁56首歌曲"
 
 msgid "sns_dsc2_0059"
-msgstr ""
+msgstr "在记忆时空累计解锁57首歌曲"
 
 msgid "sns_dsc2_0060"
-msgstr ""
+msgstr "在记忆时空累计解锁58首歌曲"
 
 msgid "sns_dsc2_0061"
-msgstr ""
+msgstr "在记忆时空累计解锁59首歌曲"
 
 msgid "sns_dsc2_0062"
-msgstr ""
+msgstr "在记忆时空累计解锁60首歌曲"
 
 msgid "sns_dsc2_0063"
-msgstr ""
+msgstr "在记忆时空累计解锁61首歌曲"
 
 msgid "sns_dsc2_0064"
-msgstr ""
+msgstr "在记忆时空累计解锁62首歌曲"
 
 msgid "sns_dsc2_0065"
-msgstr ""
+msgstr "在记忆时空累计解锁63首歌曲"
 
 msgid "sns_dsc2_0066"
-msgstr ""
+msgstr "在记忆时空累计解锁64首歌曲"
 
 msgid "sns_dsc2_0067"
-msgstr ""
+msgstr "在记忆时空累计解锁65首歌曲"
 
 msgid "sns_dsc2_0068"
-msgstr ""
+msgstr "在记忆时空累计解锁66首歌曲"
 
 msgid "sns_dsc2_0069"
-msgstr ""
+msgstr "在记忆时空累计解锁67首歌曲"
 
 msgid "sns_dsc2_0070"
-msgstr ""
+msgstr "在记忆时空累计解锁68首歌曲"
 
 msgid "sns_dsc2_0071"
-msgstr ""
+msgstr "在记忆时空累计解锁69首歌曲"
 
 msgid "sns_dsc2_0072"
-msgstr ""
+msgstr "在记忆时空累计解锁70首歌曲"
 
 msgid "sns_dsc2_0073"
-msgstr ""
+msgstr "在记忆时空累计解锁71首歌曲"
 
 msgid "sns_dsc2_0074"
-msgstr ""
+msgstr "在记忆时空累计解锁72首歌曲"
 
 msgid "sns_dsc2_0075"
-msgstr ""
+msgstr "在记忆时空累计解锁73首歌曲"
 
 msgid "sns_dsc2_0076"
-msgstr ""
+msgstr "在记忆时空累计解锁74首歌曲"
 
 msgid "sns_dsc2_0077"
-msgstr ""
+msgstr "在记忆时空累计解锁75首歌曲"
 
 msgid "sns_dsc2_0078"
 msgstr "解锁歌曲《绝对零度θ Novatic Another ver.》"
@@ -2685,424 +2685,424 @@ msgid "sns_dsc2_0087"
 msgstr "解锁歌曲《遗世之人》"
 
 msgid "sns_dsc2_0101"
-msgstr ""
+msgstr "芙蕾雅达到等级2时解锁"
 
 msgid "sns_dsc2_0102"
-msgstr ""
+msgstr "芙蕾雅达到等级4时解锁"
 
 msgid "sns_dsc2_0103"
-msgstr ""
+msgstr "芙蕾雅达到等级7时解锁"
 
 msgid "sns_dsc2_0104"
-msgstr ""
+msgstr "芙蕾雅达到等级10时解锁"
 
 msgid "sns_dsc2_0105"
-msgstr ""
+msgstr "芙蕾雅达到等级12时解锁"
 
 msgid "sns_dsc2_0106"
-msgstr ""
+msgstr "芙蕾雅达到等级17时解锁"
 
 msgid "sns_dsc2_0107"
-msgstr ""
+msgstr "芙蕾雅达到等级20时解锁"
 
 msgid "sns_dsc2_0108"
-msgstr ""
+msgstr "芙蕾雅达到等级25时解锁"
 
 msgid "sns_dsc2_0109"
-msgstr ""
+msgstr "芙蕾雅达到等级30时解锁"
 
 msgid "sns_dsc2_0110"
-msgstr ""
+msgstr "芙蕾雅达到等级35时解锁"
 
 msgid "sns_dsc2_0111"
-msgstr ""
+msgstr "芙蕾雅达到等级40时解锁"
 
 msgid "sns_dsc2_0114"
-msgstr ""
+msgstr "美云达到等级2时解锁"
 
 msgid "sns_dsc2_0115"
-msgstr ""
+msgstr "美云达到等级4时解锁"
 
 msgid "sns_dsc2_0116"
-msgstr ""
+msgstr "美云达到等级7时解锁"
 
 msgid "sns_dsc2_0117"
-msgstr ""
+msgstr "美云达到等级10时解锁"
 
 msgid "sns_dsc2_0118"
-msgstr ""
+msgstr "美云达到等级12时解锁"
 
 msgid "sns_dsc2_0119"
-msgstr ""
+msgstr "美云达到等级17时解锁"
 
 msgid "sns_dsc2_0120"
-msgstr ""
+msgstr "美云达到等级20时解锁"
 
 msgid "sns_dsc2_0121"
-msgstr ""
+msgstr "美云达到等级25时解锁"
 
 msgid "sns_dsc2_0122"
-msgstr ""
+msgstr "美云达到等级30时解锁"
 
 msgid "sns_dsc2_0123"
-msgstr ""
+msgstr "美云达到等级35时解锁"
 
 msgid "sns_dsc2_0124"
-msgstr ""
+msgstr "美云达到等级40时解锁"
 
 msgid "sns_dsc2_0127"
-msgstr ""
+msgstr "要达到等级2时解锁"
 
 msgid "sns_dsc2_0128"
-msgstr ""
+msgstr "要达到等级4时解锁"
 
 msgid "sns_dsc2_0129"
-msgstr ""
+msgstr "要达到等级7时解锁"
 
 msgid "sns_dsc2_0130"
-msgstr ""
+msgstr "要达到等级10时解锁"
 
 msgid "sns_dsc2_0131"
-msgstr ""
+msgstr "要达到等级12时解锁"
 
 msgid "sns_dsc2_0132"
-msgstr ""
+msgstr "要达到等级17时解锁"
 
 msgid "sns_dsc2_0133"
-msgstr ""
+msgstr "要达到等级20时解锁"
 
 msgid "sns_dsc2_0134"
-msgstr ""
+msgstr "要达到等级25时解锁"
 
 msgid "sns_dsc2_0135"
-msgstr ""
+msgstr "要达到等级30时解锁"
 
 msgid "sns_dsc2_0136"
-msgstr ""
+msgstr "要达到等级35时解锁"
 
 msgid "sns_dsc2_0137"
-msgstr ""
+msgstr "要达到等级40时解锁"
 
 msgid "sns_dsc2_0140"
-msgstr ""
+msgstr "玛基娜达到等级2时解锁"
 
 msgid "sns_dsc2_0141"
-msgstr ""
+msgstr "玛基娜达到等级4时解锁"
 
 msgid "sns_dsc2_0142"
-msgstr ""
+msgstr "玛基娜达到等级7时解锁"
 
 msgid "sns_dsc2_0143"
-msgstr ""
+msgstr "玛基娜达到等级10时解锁"
 
 msgid "sns_dsc2_0144"
-msgstr ""
+msgstr "玛基娜达到等级12时解锁"
 
 msgid "sns_dsc2_0145"
-msgstr ""
+msgstr "玛基娜达到等级17时解锁"
 
 msgid "sns_dsc2_0146"
-msgstr ""
+msgstr "玛基娜达到等级20时解锁"
 
 msgid "sns_dsc2_0147"
-msgstr ""
+msgstr "玛基娜达到等级25时解锁"
 
 msgid "sns_dsc2_0148"
-msgstr ""
+msgstr "玛基娜达到等级30时解锁"
 
 msgid "sns_dsc2_0149"
-msgstr ""
+msgstr "玛基娜达到等级35时解锁"
 
 msgid "sns_dsc2_0150"
-msgstr ""
+msgstr "玛基娜达到等级40时解锁"
 
 msgid "sns_dsc2_0153"
-msgstr ""
+msgstr "蕾娜达到等级2时解锁"
 
 msgid "sns_dsc2_0154"
-msgstr ""
+msgstr "蕾娜达到等级4时解锁"
 
 msgid "sns_dsc2_0155"
-msgstr ""
+msgstr "蕾娜达到等级7时解锁"
 
 msgid "sns_dsc2_0156"
-msgstr ""
+msgstr "蕾娜达到等级10时解锁"
 
 msgid "sns_dsc2_0157"
-msgstr ""
+msgstr "蕾娜达到等级12时解锁"
 
 msgid "sns_dsc2_0158"
-msgstr ""
+msgstr "蕾娜达到等级17时解锁"
 
 msgid "sns_dsc2_0159"
-msgstr ""
+msgstr "蕾娜达到等级20时解锁"
 
 msgid "sns_dsc2_0160"
-msgstr ""
+msgstr "蕾娜达到等级25时解锁"
 
 msgid "sns_dsc2_0161"
-msgstr ""
+msgstr "蕾娜达到等级30时解锁"
 
 msgid "sns_dsc2_0162"
-msgstr ""
+msgstr "蕾娜达到等级35时解锁"
 
 msgid "sns_dsc2_0163"
-msgstr ""
+msgstr "蕾娜达到等级40时解锁"
 
 msgid "sns_dsc2_0166"
-msgstr ""
+msgstr "兰卡达到等级2时解锁"
 
 msgid "sns_dsc2_0167"
-msgstr ""
+msgstr "兰卡达到等级4时解锁"
 
 msgid "sns_dsc2_0168"
-msgstr ""
+msgstr "兰卡达到等级7时解锁"
 
 msgid "sns_dsc2_0169"
-msgstr ""
+msgstr "兰卡达到等级10时解锁"
 
 msgid "sns_dsc2_0170"
-msgstr ""
+msgstr "兰卡达到等级12时解锁"
 
 msgid "sns_dsc2_0171"
-msgstr ""
+msgstr "兰卡达到等级17时解锁"
 
 msgid "sns_dsc2_0172"
-msgstr ""
+msgstr "兰卡达到等级20时解锁"
 
 msgid "sns_dsc2_0173"
-msgstr ""
+msgstr "兰卡达到等级25时解锁"
 
 msgid "sns_dsc2_0174"
-msgstr ""
+msgstr "兰卡达到等级30时解锁"
 
 msgid "sns_dsc2_0175"
-msgstr ""
+msgstr "兰卡达到等级35时解锁"
 
 msgid "sns_dsc2_0176"
-msgstr ""
+msgstr "兰卡达到等级40时解锁"
 
 msgid "sns_dsc2_0179"
-msgstr ""
+msgstr "雪莉露达到等级2时解锁"
 
 msgid "sns_dsc2_0180"
-msgstr ""
+msgstr "雪莉露达到等级4时解锁"
 
 msgid "sns_dsc2_0181"
-msgstr ""
+msgstr "雪莉露达到等级7时解锁"
 
 msgid "sns_dsc2_0182"
-msgstr ""
+msgstr "雪莉露达到等级10时解锁"
 
 msgid "sns_dsc2_0183"
-msgstr ""
+msgstr "雪莉露达到等级12时解锁"
 
 msgid "sns_dsc2_0184"
-msgstr ""
+msgstr "雪莉露达到等级17时解锁"
 
 msgid "sns_dsc2_0185"
-msgstr ""
+msgstr "雪莉露达到等级20时解锁"
 
 msgid "sns_dsc2_0186"
-msgstr ""
+msgstr "雪莉露达到等级25时解锁"
 
 msgid "sns_dsc2_0187"
-msgstr ""
+msgstr "雪莉露达到等级30时解锁"
 
 msgid "sns_dsc2_0188"
-msgstr ""
+msgstr "雪莉露达到等级35时解锁"
 
 msgid "sns_dsc2_0189"
-msgstr ""
+msgstr "雪莉露达到等级40时解锁"
 
 msgid "sns_dsc2_0192"
-msgstr ""
+msgstr "米莲达到等级2时解锁"
 
 msgid "sns_dsc2_0193"
-msgstr ""
+msgstr "米莲达到等级4时解锁"
 
 msgid "sns_dsc2_0194"
-msgstr ""
+msgstr "米莲达到等级7时解锁"
 
 msgid "sns_dsc2_0195"
-msgstr ""
+msgstr "米莲达到等级10时解锁"
 
 msgid "sns_dsc2_0196"
-msgstr ""
+msgstr "米莲达到等级12时解锁"
 
 msgid "sns_dsc2_0197"
-msgstr ""
+msgstr "米莲达到等级17时解锁"
 
 msgid "sns_dsc2_0198"
-msgstr ""
+msgstr "米莲达到等级20时解锁"
 
 msgid "sns_dsc2_0199"
-msgstr ""
+msgstr "米莲达到等级25时解锁"
 
 msgid "sns_dsc2_0200"
-msgstr ""
+msgstr "米莲达到等级30时解锁"
 
 msgid "sns_dsc2_0201"
-msgstr ""
+msgstr "米莲达到等级35时解锁"
 
 msgid "sns_dsc2_0202"
-msgstr ""
+msgstr "米莲达到等级40时解锁"
 
 msgid "sns_dsc2_0205"
-msgstr ""
+msgstr "巴萨拉达到等级2时解锁"
 
 msgid "sns_dsc2_0206"
-msgstr ""
+msgstr "巴萨拉达到等级4时解锁"
 
 msgid "sns_dsc2_0207"
-msgstr ""
+msgstr "巴萨拉达到等级7时解锁"
 
 msgid "sns_dsc2_0208"
-msgstr ""
+msgstr "巴萨拉达到等级10时解锁"
 
 msgid "sns_dsc2_0209"
-msgstr ""
+msgstr "巴萨拉达到等级12时解锁"
 
 msgid "sns_dsc2_0210"
-msgstr ""
+msgstr "巴萨拉达到等级17时解锁"
 
 msgid "sns_dsc2_0211"
-msgstr ""
+msgstr "巴萨拉达到等级20时解锁"
 
 msgid "sns_dsc2_0212"
-msgstr ""
+msgstr "巴萨拉达到等级25时解锁"
 
 msgid "sns_dsc2_0213"
-msgstr ""
+msgstr "巴萨拉达到等级30时解锁"
 
 msgid "sns_dsc2_0214"
-msgstr ""
+msgstr "巴萨拉达到等级35时解锁"
 
 msgid "sns_dsc2_0215"
-msgstr ""
+msgstr "巴萨拉达到等级40时解锁"
 
 msgid "sns_dsc2_0218"
-msgstr ""
+msgstr "明美达到等级2时解锁"
 
 msgid "sns_dsc2_0219"
-msgstr ""
+msgstr "明美达到等级4时解锁"
 
 msgid "sns_dsc2_0220"
-msgstr ""
+msgstr "明美达到等级7时解锁"
 
 msgid "sns_dsc2_0221"
-msgstr ""
+msgstr "明美达到等级10时解锁"
 
 msgid "sns_dsc2_0222"
-msgstr ""
+msgstr "明美达到等级12时解锁"
 
 msgid "sns_dsc2_0223"
-msgstr ""
+msgstr "明美达到等级17时解锁"
 
 msgid "sns_dsc2_0224"
-msgstr ""
+msgstr "明美达到等级20时解锁"
 
 msgid "sns_dsc2_0225"
-msgstr ""
+msgstr "明美达到等级25时解锁"
 
 msgid "sns_dsc2_0226"
-msgstr ""
+msgstr "明美达到等级30时解锁"
 
 msgid "sns_dsc2_0227"
-msgstr ""
+msgstr "明美达到等级35时解锁"
 
 msgid "sns_dsc2_0228"
-msgstr ""
+msgstr "明美达到等级40时解锁"
 
 msgid "sns_dsc2_0231"
-msgstr ""
+msgstr "总计完成5次演出时解锁"
 
 msgid "sns_dsc2_0232"
-msgstr ""
+msgstr "总计完成10次演出时解锁"
 
 msgid "sns_dsc2_0233"
-msgstr ""
+msgstr "总计完成20次演出时解锁"
 
 msgid "sns_dsc2_0234"
-msgstr ""
+msgstr "总计完成30次演出时解锁"
 
 msgid "sns_dsc2_0235"
-msgstr ""
+msgstr "总计完成40次演出时解锁"
 
 msgid "sns_dsc2_0236"
-msgstr ""
+msgstr "总计完成50次演出时解锁"
 
 msgid "sns_dsc2_0237"
-msgstr ""
+msgstr "总计完成75次演出时解锁"
 
 msgid "sns_dsc2_0238"
-msgstr ""
+msgstr "总计完成100次演出时解锁"
 
 msgid "sns_dsc2_0239"
-msgstr ""
+msgstr "总计完成150次演出时解锁"
 
 msgid "sns_dsc2_0240"
-msgstr ""
+msgstr "总计完成200次演出时解锁"
 
 msgid "sns_dsc2_0241"
-msgstr ""
+msgstr "总计完成250次演出时解锁"
 
 msgid "sns_dsc2_0242"
-msgstr ""
+msgstr "总计完成300次演出时解锁"
 
 msgid "sns_dsc2_0243"
-msgstr ""
+msgstr "总计完成400次演出时解锁"
 
 msgid "sns_dsc2_0244"
-msgstr ""
+msgstr "总计完成500次演出时解锁"
 
 msgid "sns_dsc2_0245"
-msgstr ""
+msgstr "总计完成600次演出时解锁"
 
 msgid "sns_dsc2_0246"
-msgstr ""
+msgstr "总计完成700次演出时解锁"
 
 msgid "sns_dsc2_0247"
-msgstr ""
+msgstr "总计完成800次演出时解锁"
 
 msgid "sns_dsc2_0248"
-msgstr ""
+msgstr "总计完成900次演出时解锁"
 
 msgid "sns_dsc2_0249"
-msgstr ""
+msgstr "总计完成1000次演出时解锁"
 
 msgid "sns_dsc2_0250"
-msgstr ""
+msgstr "总计完成1250次演出时解锁"
 
 msgid "sns_dsc2_0251"
-msgstr ""
+msgstr "总计完成1500次演出时解锁"
 
 msgid "sns_dsc2_0252"
-msgstr ""
+msgstr "总计完成1750次演出时解锁"
 
 msgid "sns_dsc2_0253"
-msgstr ""
+msgstr "总计完成2000次演出时解锁"
 
 msgid "sns_dsc2_0254"
-msgstr ""
+msgstr "总计完成2250次演出时解锁"
 
 msgid "sns_dsc2_0255"
-msgstr ""
+msgstr "总计完成2500次演出时解锁"
 
 msgid "sns_dsc2_0256"
-msgstr ""
+msgstr "总计完成2750次演出时解锁"
 
 msgid "sns_dsc2_0257"
-msgstr ""
+msgstr "总计完成3000次演出时解锁"
 
 msgid "sns_dsc2_0258"
-msgstr ""
+msgstr "总计完成3250次演出时解锁"
 
 msgid "sns_dsc2_0259"
-msgstr ""
+msgstr "总计完成3500次演出时解锁"
 
 msgid "sns_dsc2_0260"
-msgstr ""
+msgstr "总计完成3750次演出时解锁"
 
 msgid "sns_dsc2_0400"
 msgstr "芙蕾雅的生日"
@@ -3183,67 +3183,67 @@ msgid "sns_dsc2_0539"
 msgstr "累计完成8个新手派遣任务时解锁"
 
 msgid "sns_dsc2_0540"
-msgstr ""
+msgstr "累计完成10个战机派遣任务"
 
 msgid "sns_dsc2_0541"
-msgstr ""
+msgstr "累计完成1个芙蕾雅的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0542"
-msgstr ""
+msgstr "累计完成10个芙蕾雅的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0543"
-msgstr ""
+msgstr "累计完成1个美云的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0544"
-msgstr ""
+msgstr "累计完成10个美云的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0545"
-msgstr ""
+msgstr "累计完成1个要的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0546"
-msgstr ""
+msgstr "累计完成10个要的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0547"
-msgstr ""
+msgstr "累计完成1个玛基娜的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0548"
-msgstr ""
+msgstr "累计完成10个玛基娜的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0549"
-msgstr ""
+msgstr "累计完成1个蕾娜的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0550"
-msgstr ""
+msgstr "累计完成10个蕾娜的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0551"
-msgstr ""
+msgstr "累计完成1个兰卡的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0552"
-msgstr ""
+msgstr "累计完成10个兰卡的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0553"
-msgstr ""
+msgstr "累计完成1个雪莉露的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0554"
-msgstr ""
+msgstr "累计完成10个雪莉露的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0555"
-msgstr ""
+msgstr "累计完成1个米莲的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0556"
-msgstr ""
+msgstr "累计完成10个米莲的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0557"
-msgstr ""
+msgstr "累计完成1个巴萨拉的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0558"
-msgstr ""
+msgstr "累计完成10个巴萨拉的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0559"
-msgstr ""
+msgstr "累计完成1个明美的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0560"
-msgstr ""
+msgstr "累计完成10个明美的歌姬派遣任务时解锁"
 
 msgid "sns_dsc2_0561"
 msgstr ""
@@ -4041,40 +4041,40 @@ msgid "sns_dsc2_0858"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc2_0860"
-msgstr ""
+msgstr "累计获得1000pt点数"
 
 msgid "sns_dsc2_0861"
-msgstr ""
+msgstr "累计获得10000pt点数"
 
 msgid "sns_dsc2_0862"
-msgstr ""
+msgstr "累计获得20000pt点数"
 
 msgid "sns_dsc2_0863"
-msgstr ""
+msgstr "累计获得1300pt点数"
 
 msgid "sns_dsc2_0864"
-msgstr ""
+msgstr "累计获得14000pt点数"
 
 msgid "sns_dsc2_0865"
-msgstr ""
+msgstr "累计获得24000pt点数"
 
 msgid "sns_dsc2_0866"
-msgstr ""
+msgstr "累计获得1000pt点数"
 
 msgid "sns_dsc2_0867"
-msgstr ""
+msgstr "累计获得6400pt点数"
 
 msgid "sns_dsc2_0868"
-msgstr ""
+msgstr "累计获得14500pt点数"
 
 msgid "sns_dsc2_0869"
-msgstr ""
+msgstr "累计获得1300pt点数"
 
 msgid "sns_dsc2_0870"
-msgstr ""
+msgstr "累计获得14000pt点数"
 
 msgid "sns_dsc2_0871"
-msgstr ""
+msgstr "累计获得24000pt点数"
 
 msgid "sns_dsc2_0872"
 msgstr "推进活动解锁"
@@ -4197,16 +4197,16 @@ msgid "sns_dsc2_0911"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc2_0912"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc2_0913"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc2_0914"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc2_0915"
-msgstr ""
+msgstr "天空树联动活动"
 
 msgid "sns_dsc2_0916"
 msgstr "推进活动解锁"
@@ -4236,7 +4236,7 @@ msgid "sns_dsc2_0924"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc2_0925"
-msgstr ""
+msgstr "剧场版联动活动"
 
 msgid "sns_dsc2_0926"
 msgstr "推进活动解锁"
@@ -4842,67 +4842,67 @@ msgid "sns_nm_0001"
 msgstr "欢迎来到超时空SNS！"
 
 msgid "sns_nm_0002"
-msgstr ""
+msgstr "共鸣的毁灭之歌"
 
 msgid "sns_nm_0003"
-msgstr ""
+msgstr "传奇歌姬与战术音乐组合"
 
 msgid "sns_nm_0004"
-msgstr ""
+msgstr "听我的歌吧！"
 
 msgid "sns_nm_0005"
-msgstr ""
+msgstr "听我们的歌吧！"
 
 msgid "sns_nm_0006"
-msgstr ""
+msgstr "在战场上高歌"
 
 msgid "sns_nm_0007"
-msgstr ""
+msgstr "伟大的歌手"
 
 msgid "sns_nm_0008"
-msgstr ""
+msgstr "可以请你签个名吗？"
 
 msgid "sns_nm_0009"
-msgstr ""
+msgstr "战机所乘之风"
 
 msgid "sns_nm_0010"
 msgstr "记忆时空"
 
 msgid "sns_nm_0011"
-msgstr ""
+msgstr "禁欲系的美云"
 
 msgid "sns_nm_0012"
-msgstr ""
+msgstr "吉纳斯家的姨侄"
 
 msgid "sns_nm_0013"
-msgstr ""
+msgstr "阿尔特的照片"
 
 msgid "sns_nm_0014"
-msgstr ""
+msgstr "用吉他操控的战机"
 
 msgid "sns_nm_0015"
-msgstr ""
+msgstr "演出开始前的歌姬们"
 
 msgid "sns_nm_0016"
 msgstr ""
 
 msgid "sns_nm_0017"
-msgstr ""
+msgstr "团结一心的歌姬们"
 
 msgid "sns_nm_0018"
-msgstr ""
+msgstr "和好的建议"
 
 msgid "sns_nm_0019"
-msgstr ""
+msgstr "一起谈天说地吧！"
 
 msgid "sns_nm_0020"
-msgstr ""
+msgstr "空中骑士团的变故"
 
 msgid "sns_nm_0021"
-msgstr ""
+msgstr "歌姬与飞行员的记忆"
 
 msgid "sns_nm_0022"
-msgstr ""
+msgstr "只要是为了姨妈"
 
 msgid "sns_nm_0023"
 msgstr ""
@@ -4914,13 +4914,13 @@ msgid "sns_nm_0025"
 msgstr ""
 
 msgid "sns_nm_0026"
-msgstr ""
+msgstr "与米拉洁谈话"
 
 msgid "sns_nm_0027"
-msgstr ""
+msgstr "与蕾娜面谈"
 
 msgid "sns_nm_0028"
-msgstr ""
+msgstr "毁灭之歌"
 
 msgid "sns_nm_0029"
 msgstr ""
