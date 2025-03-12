@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-11 12:54+0000\n"
+"PO-Revision-Date: 2025-03-13 01:07+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -24,7 +24,7 @@ msgid "sn_0003"
 msgstr "从今天起你就是Walküre的一员了"
 
 msgid "sn_0004"
-msgstr ""
+msgstr "虽说和我的预期有些出入"
 
 msgid "sn_0005"
 msgstr "不要直勾勾地盯着看啦！"
@@ -33,379 +33,379 @@ msgid "sn_0006"
 msgstr "特殊对待"
 
 msgid "sn_0007"
-msgstr ""
+msgstr "我要驾驶它翱翔天际"
 
 msgid "sn_0008"
-msgstr ""
+msgstr "阿拉德队长的邀请"
 
 msgid "sn_0009"
-msgstr ""
+msgstr "甲板上的VF-31"
 
 msgid "sn_0010"
-msgstr ""
+msgstr "Macross Elysion"
 
 msgid "sn_0011"
-msgstr ""
+msgstr "海猫们"
 
 msgid "sn_0012"
-msgstr ""
+msgstr "绑定完毕"
 
 msgid "sn_0013"
-msgstr ""
+msgstr "我绝对不要回去"
 
 msgid "sn_0014"
-msgstr ""
+msgstr "歌是活力"
 
 msgid "sn_0015"
-msgstr ""
+msgstr "光天化日下的逃亡"
 
 msgid "sn_0016"
-msgstr ""
+msgstr "不许动！你个变态！"
 
 msgid "sn_0017"
-msgstr ""
+msgstr "咱家的耿直姑娘"
 
 msgid "sn_0018"
-msgstr ""
+msgstr "总是偷懒的疾风"
 
 msgid "sn_0019"
-msgstr ""
+msgstr "因为我喜欢唱歌！"
 
 msgid "sn_0020"
-msgstr ""
+msgstr "好的！"
 
 msgid "sn_0021"
-msgstr ""
+msgstr "翩翩起舞的Workroid"
 
 msgid "sn_0022"
-msgstr ""
+msgstr "芙蕾雅的随身听"
 
 msgid "sn_0023"
-msgstr ""
+msgstr "瓦尔症候群"
 
 msgid "sn_0024"
-msgstr ""
+msgstr "行星Al Shahal"
 
 msgid "sn_0025"
-msgstr ""
+msgstr "空中营救"
 
 msgid "sn_0026"
-msgstr ""
+msgstr "你也来参军吧"
 
 msgid "sn_0027"
-msgstr ""
+msgstr "这不过是外星人丢弃的废铁！"
 
 msgid "sn_0028"
-msgstr ""
+msgstr "是小命重要，还是发型重要？"
 
 msgid "sn_0029"
-msgstr ""
+msgstr "那就出发吧"
 
 msgid "sn_0030"
-msgstr ""
+msgstr "你没受伤吧？"
 
 msgid "sn_0031"
-msgstr ""
+msgstr "我们中计了？"
 
 msgid "sn_0032"
-msgstr ""
+msgstr "战争又要开始了吗"
 
 msgid "sn_0033"
-msgstr ""
+msgstr "Macross主炮发射"
 
 msgid "sn_0034"
-msgstr ""
+msgstr "罗伊·福卡机"
 
 msgid "sn_0035"
-msgstr ""
+msgstr "南亚塔利亚岛"
 
 msgid "sn_0036"
-msgstr ""
+msgstr "巨人来袭"
 
 msgid "sn_0037"
-msgstr ""
+msgstr "娘娘的看板娘"
 
 msgid "sn_0038"
-msgstr ""
+msgstr "真的不打算参军吗？"
 
 msgid "sn_0039"
-msgstr ""
+msgstr "你…有梦想吗？"
 
 msgid "sn_0040"
-msgstr ""
+msgstr "我们只是朋友"
 
 msgid "sn_0041"
-msgstr ""
+msgstr "今天正式开业啦"
 
 msgid "sn_0042"
-msgstr ""
+msgstr "仅仅只是朋友吗…"
 
 msgid "sn_0043"
-msgstr ""
+msgstr "真是个打不死的小强"
 
 msgid "sn_0044"
-msgstr ""
+msgstr "这样才对嘛！"
 
 msgid "sn_0045"
-msgstr ""
+msgstr "瓦尔基里可以带你去任何地方"
 
 msgid "sn_0046"
-msgstr ""
+msgstr "战机变形"
 
 msgid "sn_0047"
-msgstr ""
+msgstr "明美的房间"
 
 msgid "sn_0048"
-msgstr ""
+msgstr "格罗巴尔舰长的帽子"
 
 msgid "sn_0049"
-msgstr ""
+msgstr "潜入调查"
 
 msgid "sn_0050"
-msgstr ""
+msgstr "你们现在所看到的，是我的真实面目吗？"
 
 msgid "sn_0051"
-msgstr ""
+msgstr "猫猫脸芙蕾雅"
 
 msgid "sn_0052"
-msgstr ""
+msgstr "猫猫玛基娜"
 
 msgid "sn_0053"
-msgstr ""
+msgstr "沉迷美食的芙蕾雅"
 
 msgid "sn_0054"
-msgstr ""
+msgstr "一“云”成军"
 
 msgid "sn_0055"
-msgstr ""
+msgstr "猫耳梅萨"
 
 msgid "sn_0056"
-msgstr ""
+msgstr "蕾蕾卡哇哇♪"
 
 msgid "sn_0057"
-msgstr ""
+msgstr "悲伤的颜色"
 
 msgid "sn_0058"
-msgstr ""
+msgstr "对猫过敏的疾风"
 
 msgid "sn_0059"
-msgstr ""
+msgstr "卡莱尔的黑风暴"
 
 msgid "sn_0060"
-msgstr ""
+msgstr "危险，请勿混合"
 
 msgid "sn_0061"
-msgstr ""
+msgstr "没有我打不开的门"
 
 msgid "sn_0062"
-msgstr ""
+msgstr "歌是爱"
 
 msgid "sn_0063"
-msgstr ""
+msgstr "“S” “O” “S” 蕾娜"
 
 msgid "sn_0064"
-msgstr ""
+msgstr "我们二人同心！"
 
 msgid "sn_0065"
-msgstr ""
+msgstr "蕾娜的盖章"
 
 msgid "sn_0066"
-msgstr ""
+msgstr "白白的，嫩嫩的，滑滑的"
 
 msgid "sn_0067"
-msgstr ""
+msgstr "生吃才最正宗"
 
 msgid "sn_0068"
-msgstr ""
+msgstr "将军"
 
 msgid "sn_0069"
-msgstr ""
+msgstr "正所谓有备无患"
 
 msgid "sn_0070"
-msgstr ""
+msgstr "蕾蕾病毒"
 
 msgid "sn_0071"
-msgstr ""
+msgstr "蕾娜的手机"
 
 msgid "sn_0072"
-msgstr ""
+msgstr "电脑世界"
 
 msgid "sn_0073"
-msgstr ""
+msgstr "蕾蕾＆Makimaki"
 
 msgid "sn_0074"
-msgstr ""
+msgstr "歌是希望"
 
 msgid "sn_0075"
-msgstr ""
+msgstr "“S” “O” “S” 玛基娜"
 
 msgid "sn_0076"
-msgstr ""
+msgstr "这里是Makimaki～♪"
 
 msgid "sn_0077"
-msgstr ""
+msgstr "总得有人来照料可爱的小齐格飞们"
 
 msgid "sn_0078"
-msgstr ""
+msgstr "水火不容"
 
 msgid "sn_0079"
-msgstr ""
+msgstr "风卷残云的玛基娜"
 
 msgid "sn_0080"
-msgstr ""
+msgstr "玛基娜的战术目镜"
 
 msgid "sn_0081"
-msgstr ""
+msgstr "Q版玛基娜"
 
 msgid "sn_0082"
-msgstr ""
+msgstr "Walküre的无数身影"
 
 msgid "sn_0083"
-msgstr ""
+msgstr "Aether号空母"
 
 msgid "sn_0084"
-msgstr ""
+msgstr "104式Regult酱"
 
 msgid "sn_0085"
-msgstr ""
+msgstr "What 'bout my star?"
 
 msgid "sn_0086"
-msgstr ""
+msgstr "我刚刚…真的好怕"
 
 msgid "sn_0087"
-msgstr ""
+msgstr "你不是吉列姆，你是谁？"
 
 msgid "sn_0088"
-msgstr ""
+msgstr "终于…轮到兰卡上场了！"
 
 msgid "sn_0089"
-msgstr ""
+msgstr "正在搭讪的米歇尔"
 
 msgid "sn_0090"
-msgstr ""
+msgstr "快逃啊门外汉！"
 
 msgid "sn_0091"
-msgstr ""
+msgstr "可怕的宇宙空间"
 
 msgid "sn_0092"
-msgstr ""
+msgstr "全民偶像雪莉露·诺姆"
 
 msgid "sn_0093"
-msgstr ""
+msgstr "近距离格斗"
 
 msgid "sn_0094"
-msgstr ""
+msgstr "拼死抵抗"
 
 msgid "sn_0095"
-msgstr ""
+msgstr "演唱会的消息"
 
 msgid "sn_0096"
-msgstr ""
+msgstr "不共戴天之仇"
 
 msgid "sn_0097"
-msgstr ""
+msgstr "展望公园的偶遇"
 
 msgid "sn_0098"
-msgstr ""
+msgstr "早乙女阿尔特"
 
 msgid "sn_0099"
-msgstr ""
+msgstr "找不到，找不到了！？"
 
 msgid "sn_0100"
-msgstr ""
+msgstr "真想成为那样的人哪"
 
 msgid "sn_0101"
-msgstr ""
+msgstr "狙击手米歇尔"
 
 msgid "sn_0102"
-msgstr ""
+msgstr "让我驾驶瓦尔基里吧！"
 
 msgid "sn_0103"
-msgstr ""
+msgstr "雪莉露小姐！！"
 
 msgid "sn_0104"
-msgstr ""
+msgstr "你个死变态！！"
 
 msgid "sn_0105"
-msgstr ""
+msgstr "抱歉~格蕾丝"
 
 msgid "sn_0106"
-msgstr ""
+msgstr "娘娘的招牌金枪鱼包子！"
 
 msgid "sn_0107"
-msgstr ""
+msgstr "美星学院"
 
 msgid "sn_0108"
-msgstr ""
+msgstr "瓦鸠拉再次来袭"
 
 msgid "sn_0109"
-msgstr ""
+msgstr "星间婚礼"
 
 msgid "sn_0110"
-msgstr ""
+msgstr "王牌夫妇"
 
 msgid "sn_0111"
-msgstr ""
+msgstr "好…好可爱…"
 
 msgid "sn_0112"
-msgstr ""
+msgstr "天伦之乐"
 
 msgid "sn_0113"
-msgstr ""
+msgstr "好美…"
 
 msgid "sn_0114"
-msgstr ""
+msgstr "米莉亚·法莉娜"
 
 msgid "sn_0115"
-msgstr ""
+msgstr "麦克斯米利安·吉纳斯"
 
 msgid "sn_0116"
-msgstr ""
+msgstr "天才夫妇"
 
 msgid "sn_0117"
-msgstr ""
+msgstr "发现敌机"
 
 msgid "sn_0118"
-msgstr ""
+msgstr "一同出击的Queadluun-Rau"
 
 msgid "sn_0119"
-msgstr ""
+msgstr "波多尔扎司令"
 
 msgid "sn_0120"
-msgstr ""
+msgstr "Yack Deculture"
 
 msgid "sn_0121"
-msgstr ""
+msgstr "It's show time！"
 
 msgid "sn_0122"
-msgstr ""
+msgstr "歌是神秘"
 
 msgid "sn_0123"
-msgstr ""
+msgstr "还有我们！"
 
 msgid "sn_0124"
-msgstr ""
+msgstr "Rune亮起来了！"
 
 msgid "sn_0125"
-msgstr ""
+msgstr "前任与现任主唱"
 
 msgid "sn_0126"
-msgstr ""
+msgstr "情深似海的两人"
 
 msgid "sn_0127"
-msgstr ""
+msgstr "响彻战场的生命之歌"
 
 msgid "sn_0128"
-msgstr ""
+msgstr "闪闪发光的Rune"
 
 msgid "sn_0129"
-msgstr ""
+msgstr "超越极限"
 
 msgid "sn_0130"
-msgstr ""
+msgstr "Delta小队"
 
 msgid "sn_0131"
-msgstr ""
+msgstr "陷入火海的城市"
 
 msgid "sn_0132"
 msgstr ""
