@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-13 01:07+0000\n"
+"PO-Revision-Date: 2025-03-13 14:00+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -171,7 +171,7 @@ msgid "sn_0052"
 msgstr "猫猫玛基娜"
 
 msgid "sn_0053"
-msgstr "沉迷美食的芙蕾雅"
+msgstr "被美食俘获的芙蕾雅"
 
 msgid "sn_0054"
 msgstr "一“云”成军"
@@ -201,7 +201,7 @@ msgid "sn_0062"
 msgstr "歌是爱"
 
 msgid "sn_0063"
-msgstr "“S” “O” “S” 蕾娜"
+msgstr "“S” “O” “S” ―蕾娜―"
 
 msgid "sn_0064"
 msgstr "我们二人同心！"
@@ -237,7 +237,7 @@ msgid "sn_0074"
 msgstr "歌是希望"
 
 msgid "sn_0075"
-msgstr "“S” “O” “S” 玛基娜"
+msgstr "“S” “O” “S” ―玛基娜―"
 
 msgid "sn_0076"
 msgstr "这里是Makimaki～♪"
@@ -387,7 +387,7 @@ msgid "sn_0124"
 msgstr "Rune亮起来了！"
 
 msgid "sn_0125"
-msgstr "前任与现任主唱"
+msgstr "两任主唱的同台"
 
 msgid "sn_0126"
 msgstr "情深似海的两人"
@@ -408,637 +408,637 @@ msgid "sn_0131"
 msgstr "陷入火海的城市"
 
 msgid "sn_0132"
-msgstr ""
+msgstr "这是警告！"
 
 msgid "sn_0133"
-msgstr ""
+msgstr "Kira☆"
 
 msgid "sn_0134"
-msgstr ""
+msgstr "你好娘"
 
 msgid "sn_0135"
-msgstr ""
+msgstr "生日快乐，阿尔特！"
 
 msgid "sn_0136"
-msgstr ""
+msgstr "我把你的生日礼物带来了！"
 
 msgid "sn_0137"
-msgstr ""
+msgstr "还以为看不到她的演出了"
 
 msgid "sn_0138"
-msgstr ""
+msgstr "您没听说过她吗？"
 
 msgid "sn_0139"
-msgstr ""
+msgstr "为你撑起一片天"
 
 msgid "sn_0140"
-msgstr ""
+msgstr "最棒的生日礼物"
 
 msgid "sn_0141"
-msgstr ""
+msgstr "格罗巴尔号战舰遗骸"
 
 msgid "sn_0142"
-msgstr ""
+msgstr "Queadluun，启动"
 
 msgid "sn_0143"
-msgstr ""
+msgstr "绿油油的朋友"
 
 msgid "sn_0144"
-msgstr ""
+msgstr "全体行注目礼！"
 
 msgid "sn_0145"
-msgstr ""
+msgstr "Fire Bomber登场"
 
 msgid "sn_0147"
-msgstr ""
+msgstr "热气巴萨拉"
 
 msgid "sn_0148"
-msgstr ""
+msgstr "我等这一刻很久了！"
 
 msgid "sn_0149"
-msgstr ""
+msgstr "鼓手 ―比希达―"
 
 msgid "sn_0150"
-msgstr ""
+msgstr "主唱·吉他手 ―巴萨拉―"
 
 msgid "sn_0151"
-msgstr ""
+msgstr "主唱·贝斯手 ―米莲―"
 
 msgid "sn_0152"
-msgstr ""
+msgstr "键盘手 ―雷伊―"
 
 msgid "sn_0153"
-msgstr ""
+msgstr "Elgersoln"
 
 msgid "sn_0154"
-msgstr ""
+msgstr "VF-17 梦魇"
 
 msgid "sn_0155"
-msgstr ""
+msgstr "Battle级7号战舰 “Battle 7”"
 
 msgid "sn_0156"
-msgstr ""
+msgstr "移民居住舰 “City 7”"
 
 msgid "sn_0157"
-msgstr ""
+msgstr "真是太任性了！"
 
 msgid "sn_0159"
-msgstr ""
+msgstr "搞不懂有什么好听的"
 
 msgid "sn_0160"
-msgstr ""
+msgstr "现在可以放开我了"
 
 msgid "sn_0161"
-msgstr ""
+msgstr "送花少女"
 
 msgid "sn_0162"
-msgstr ""
+msgstr "巴萨拉，倒挂在明月之中"
 
 msgid "sn_0163"
-msgstr ""
+msgstr "在战场上高歌的人"
 
 msgid "sn_0164"
-msgstr ""
+msgstr "这是哪来的蠢货！"
 
 msgid "sn_0165"
-msgstr ""
+msgstr "麦克斯与参谋"
 
 msgid "sn_0166"
-msgstr ""
+msgstr "巴萨拉的吉他"
 
 msgid "sn_0167"
-msgstr ""
+msgstr "狂热的粉丝们"
 
 msgid "sn_0168"
-msgstr ""
+msgstr "角落公园"
 
 msgid "sn_0169"
-msgstr ""
+msgstr "银河妖精"
 
 msgid "sn_0170"
-msgstr ""
+msgstr "EP 【妖精来访】"
 
 msgid "sn_0171"
-msgstr ""
+msgstr "天呐，好美"
 
 msgid "sn_0172"
-msgstr ""
+msgstr "向往已久的海洋"
 
 msgid "sn_0173"
-msgstr ""
+msgstr "笨到无可救药"
 
 msgid "sn_0174"
-msgstr ""
+msgstr "我可是雪莉露"
 
 msgid "sn_0175"
-msgstr ""
+msgstr "连生气的样子也那么美"
 
 msgid "sn_0176"
-msgstr ""
+msgstr "下次争取拿第一吧"
 
 msgid "sn_0177"
-msgstr ""
+msgstr "Battroid ―变形―"
 
 msgid "sn_0178"
-msgstr ""
+msgstr "VF-25F 弥赛亚"
 
 msgid "sn_0179"
-msgstr ""
+msgstr "步步紧逼的敌人"
 
 msgid "sn_0180"
-msgstr ""
+msgstr "瓦鸠拉来袭"
 
 msgid "sn_0182"
-msgstr ""
+msgstr "米海尔·布朗"
 
 msgid "sn_0184"
-msgstr ""
+msgstr "青梅竹马的两人"
 
 msgid "sn_0185"
-msgstr ""
+msgstr "要迟到了！"
 
 msgid "sn_0186"
-msgstr ""
+msgstr "用反应弹把它们轰成渣！"
 
 msgid "sn_0188"
-msgstr ""
+msgstr "能把他找出来吧？"
 
 msgid "sn_0189"
-msgstr ""
+msgstr "万弹齐发"
 
 msgid "sn_0190"
-msgstr ""
+msgstr "还用你说！"
 
 msgid "sn_0191"
-msgstr ""
+msgstr "山椒鱼手机"
 
 msgid "sn_0192"
-msgstr ""
+msgstr "放凉了就不好吃了！"
 
 msgid "sn_0193"
-msgstr ""
+msgstr "Clap♪Clap♪"
 
 msgid "sn_0195"
-msgstr ""
+msgstr "注意听我指挥"
 
 msgid "sn_0196"
-msgstr ""
+msgstr "风之歌者"
 
 msgid "sn_0197"
-msgstr ""
+msgstr "我会拼命加油的"
 
 msgid "sn_0198"
-msgstr ""
+msgstr "好歹看看场合啊"
 
 msgid "sn_0199"
-msgstr ""
+msgstr "兄长大人！"
 
 msgid "sn_0200"
-msgstr ""
+msgstr "别这样，我已经不再是大师了"
 
 msgid "sn_0201"
-msgstr ""
+msgstr "Go！Walküre！！"
 
 msgid "sn_0202"
-msgstr ""
+msgstr "与风之歌同在"
 
 msgid "sn_0203"
-msgstr ""
+msgstr "芙蕾雅大欢迎会"
 
 msgid "sn_0204"
-msgstr ""
+msgstr "边陲之地温德米尔"
 
 msgid "sn_0205"
-msgstr ""
+msgstr "最佳搭档"
 
 msgid "sn_0206"
-msgstr ""
+msgstr "歌是生命"
 
 msgid "sn_0207"
-msgstr ""
+msgstr "我的字典里不存在规则二字"
 
 msgid "sn_0208"
-msgstr ""
+msgstr "只要能让芙蕾雅的歌声…"
 
 msgid "sn_0209"
-msgstr ""
+msgstr "水母祭的精彩一刻"
 
 msgid "sn_0210"
-msgstr ""
+msgstr "怎么都是情侣？"
 
 msgid "sn_0211"
-msgstr ""
+msgstr "不必麻烦了"
 
 msgid "sn_0212"
-msgstr ""
+msgstr "芙蕾雅，小有名气了"
 
 msgid "sn_0213"
-msgstr ""
+msgstr "今天的风似乎格外喧嚣"
 
 msgid "sn_0214"
-msgstr ""
+msgstr "响应歌声的古代遗迹"
 
 msgid "sn_0215"
-msgstr ""
+msgstr "裸喰娘娘招牌水母包"
 
 msgid "sn_0216"
-msgstr ""
+msgstr "香蕉酒与下酒菜"
 
 msgid "sn_0217"
-msgstr ""
+msgstr "白骑士与死神，命运的交锋"
 
 msgid "sn_0218"
-msgstr ""
+msgstr "梅萨·伊勒费尔德"
 
 msgid "sn_0219"
-msgstr ""
+msgstr "“S” “O” “S” ―美云―"
 
 msgid "sn_0220"
-msgstr ""
+msgstr "场子终于热起来了"
 
 msgid "sn_0221"
-msgstr ""
+msgstr "我有苦衷的！"
 
 msgid "sn_0222"
-msgstr ""
+msgstr "想要投诉的话请找宣传部"
 
 msgid "sn_0223"
-msgstr ""
+msgstr "传入耳中的歌声"
 
 msgid "sn_0224"
-msgstr ""
+msgstr "首次飞翔"
 
 msgid "sn_0225"
-msgstr ""
+msgstr "因发病而狂暴的士兵"
 
 msgid "sn_0226"
-msgstr ""
+msgstr "准备换上眼镜的罗伊德"
 
 msgid "sn_0227"
-msgstr ""
+msgstr "战场上的演出"
 
 msgid "sn_0228"
-msgstr ""
+msgstr "Walküre登场"
 
 msgid "sn_0229"
-msgstr ""
+msgstr "飘然降临的海滩女神"
 
 msgid "sn_0230"
-msgstr ""
+msgstr "令人心动的海边风光"
 
 msgid "sn_0231"
-msgstr ""
+msgstr "藏在心底的感情"
 
 msgid "sn_0232"
-msgstr ""
+msgstr "大人的魅力"
 
 msgid "sn_0233"
-msgstr ""
+msgstr "又没抓到"
 
 msgid "sn_0234"
-msgstr ""
+msgstr "是因为快乐才选择飞翔吗？"
 
 msgid "sn_0235"
-msgstr ""
+msgstr "被夕阳染红的侧脸"
 
 msgid "sn_0236"
-msgstr ""
+msgstr "等候米莲的卡姆林"
 
 msgid "sn_0237"
-msgstr ""
+msgstr "海边的咖啡店"
 
 msgid "sn_0238"
-msgstr ""
+msgstr "海边的美人"
 
 msgid "sn_0239"
-msgstr ""
+msgstr "悠然自在的海鸥"
 
 msgid "sn_0240"
-msgstr ""
+msgstr "是大海啊~！！"
 
 msgid "sn_0241"
-msgstr ""
+msgstr "难得的闲暇时光"
 
 msgid "sn_0242"
-msgstr ""
+msgstr "米拉洁·F·吉纳斯"
 
 msgid "sn_0243"
-msgstr ""
+msgstr "当飞行员，很辛苦吧？"
 
 msgid "sn_0244"
-msgstr ""
+msgstr "尽情玩耍吧！"
 
 msgid "sn_0245"
-msgstr ""
+msgstr "永不褪色的美丽"
 
 msgid "sn_0246"
-msgstr ""
+msgstr "等很久了吗？"
 
 msgid "sn_0247"
-msgstr ""
+msgstr "噗啊！"
 
 msgid "sn_0248"
-msgstr ""
+msgstr "到了海边也不忘打鼓"
 
 msgid "sn_0249"
-msgstr ""
+msgstr "与兰卡形影不离的小爱"
 
 msgid "sn_0250"
-msgstr ""
+msgstr "穿上它，你也能成为拉格纳人"
 
 msgid "sn_0251"
-msgstr ""
+msgstr "度假船Riviera"
 
 msgid "sn_0252"
-msgstr ""
+msgstr "重返地球"
 
 msgid "sn_0253"
-msgstr ""
+msgstr "激情澎湃的表演"
 
 msgid "sn_0254"
-msgstr ""
+msgstr "Flame once again"
 
 msgid "sn_0255"
-msgstr ""
+msgstr "巴萨拉与古拉汉姆"
 
 msgid "sn_0256"
-msgstr ""
+msgstr "上车吧！"
 
 msgid "sn_0257"
-msgstr ""
+msgstr "不完整的演出"
 
 msgid "sn_0258"
-msgstr ""
+msgstr "肆虐的细菌"
 
 msgid "sn_0259"
-msgstr ""
+msgstr "流浪之旅"
 
 msgid "sn_0260"
-msgstr ""
+msgstr "不喜欢吗？"
 
 msgid "sn_0261"
-msgstr ""
+msgstr "边陲行星Zola"
 
 msgid "sn_0262"
-msgstr ""
+msgstr "古拉汉姆的捕鲸服"
 
 msgid "sn_0263"
-msgstr ""
+msgstr "宇宙鲸鱼"
 
 msgid "sn_0264"
-msgstr ""
+msgstr "壮观的壁画"
 
 msgid "sn_0265"
-msgstr ""
+msgstr "闪耀一夏"
 
 msgid "sn_0267"
-msgstr ""
+msgstr "这身泳衣好看吗？"
 
 msgid "sn_0268"
-msgstr ""
+msgstr "正在冲浪的杰弗里舰长"
 
 msgid "sn_0269"
-msgstr ""
+msgstr "等待兰卡的阿尔特"
 
 msgid "sn_0270"
-msgstr ""
+msgstr "它们真的没有心吗？"
 
 msgid "sn_0271"
-msgstr ""
+msgstr "静静看戏的二人"
 
 msgid "sn_0272"
-msgstr ""
+msgstr "你个憨憨！"
 
 msgid "sn_0273"
-msgstr ""
+msgstr "蓝天与碧海"
 
 msgid "sn_0274"
-msgstr ""
+msgstr "兴奋到忘乎所以了！"
 
 msgid "sn_0275"
-msgstr ""
+msgstr "解渴的冰沙"
 
 msgid "sn_0276"
-msgstr ""
+msgstr "就地取材，空罐作鼓"
 
 msgid "sn_0277"
-msgstr ""
+msgstr "抵达银河尽头的心声"
 
 msgid "sn_0279"
-msgstr ""
+msgstr "阿尔特，我喜欢你"
 
 msgid "sn_0280"
-msgstr ""
+msgstr "总有一天会再见的"
 
 msgid "sn_0281"
-msgstr ""
+msgstr "我居然会产生感情？"
 
 msgid "sn_0282"
-msgstr ""
+msgstr "瓦鸠拉的痛楚"
 
 msgid "sn_0283"
-msgstr ""
+msgstr "灰姑娘的歌喉"
 
 msgid "sn_0284"
-msgstr ""
+msgstr "战斗少女的光辉"
 
 msgid "sn_0285"
-msgstr ""
+msgstr "我把你的爱机开来了！"
 
 msgid "sn_0286"
-msgstr ""
+msgstr "小可爱，我们上！"
 
 msgid "sn_0287"
-msgstr ""
+msgstr "把Implant弹破坏掉"
 
 msgid "sn_0288"
-msgstr ""
+msgstr "我们来支援你们了"
 
 msgid "sn_0289"
-msgstr ""
+msgstr "用我们的歌声赋予你翅膀"
 
 msgid "sn_0291"
-msgstr ""
+msgstr "雪莉露…我对你"
 
 msgid "sn_0292"
-msgstr ""
+msgstr "妖精小队"
 
 msgid "sn_0293"
-msgstr ""
+msgstr "简直像在台上起舞一样！"
 
 msgid "sn_0294"
-msgstr ""
+msgstr "让我最后再听一次吧"
 
 msgid "sn_0295"
-msgstr ""
+msgstr "雪莉露的歌喉"
 
 msgid "sn_0296"
-msgstr ""
+msgstr "战斗少女的心愿"
 
 msgid "sn_0297"
-msgstr ""
+msgstr "金色的光芒"
 
 msgid "sn_0298"
-msgstr ""
+msgstr "我们不是敌人"
 
 msgid "sn_0299"
-msgstr ""
+msgstr "Macross加农齐射"
 
 msgid "sn_0300"
-msgstr ""
+msgstr "开始冲浪吧！"
 
 msgid "sn_0313"
-msgstr ""
+msgstr "令人心驰神往 ―要―"
 
 msgid "sn_0315"
-msgstr ""
+msgstr "要和美云"
 
 msgid "sn_0316"
-msgstr ""
+msgstr "总是那样冷淡"
 
 msgid "sn_0317"
-msgstr ""
+msgstr "用生命去享受吧"
 
 msgid "sn_0318"
-msgstr ""
+msgstr "Walküre领队"
 
 msgid "sn_0319"
-msgstr ""
+msgstr "连我也不清楚呢"
 
 msgid "sn_0320"
-msgstr ""
+msgstr "本次招募无人合格"
 
 msgid "sn_0321"
-msgstr ""
+msgstr "疫苗演出的通知"
 
 msgid "sn_0322"
-msgstr ""
+msgstr "是Walküre…"
 
 msgid "sn_0323"
-msgstr ""
+msgstr "最顶级的水母干"
 
 msgid "sn_0324"
-msgstr ""
+msgstr "要的房间"
 
 msgid "sn_0325"
-msgstr ""
+msgstr "明美攻击"
 
 msgid "sn_0327"
-msgstr ""
+msgstr "历史上第一位Macross小姐"
 
 msgid "sn_0328"
-msgstr ""
+msgstr "通往梦想的入口"
 
 msgid "sn_0329"
-msgstr ""
+msgstr "林明美作战"
 
 msgid "sn_0330"
-msgstr ""
+msgstr "不置可否"
 
 msgid "sn_0331"
-msgstr ""
+msgstr "真会乱来…"
 
 msgid "sn_0332"
-msgstr ""
+msgstr "还有两个就到明美了！"
 
 msgid "sn_0333"
-msgstr ""
+msgstr "关键时刻，搞什么！？"
 
 msgid "sn_0334"
-msgstr ""
+msgstr "穿成这样，能行吗…"
 
 msgid "sn_0335"
-msgstr ""
+msgstr "感受到了某种刺激"
 
 msgid "sn_0336"
-msgstr ""
+msgstr "摄影师们"
 
 msgid "sn_0337"
-msgstr ""
+msgstr "为了所有人"
 
 msgid "sn_0338"
-msgstr ""
+msgstr "EP【坚定不移的决心】"
 
 msgid "sn_0339"
-msgstr ""
+msgstr "我们上，米拉洁！"
 
 msgid "sn_0340"
-msgstr ""
+msgstr "竟然在随风起舞！？"
 
 msgid "sn_0341"
-msgstr ""
+msgstr "还是能稍微读懂一点风的嘛！"
 
 msgid "sn_0342"
-msgstr ""
+msgstr "这改变不了你迟早完蛋的事实"
 
 msgid "sn_0343"
-msgstr ""
+msgstr "达成默契的二人 ―米拉洁―"
 
 msgid "sn_0344"
-msgstr ""
+msgstr "达成默契的二人 ―疾风―"
 
 msgid "sn_0345"
-msgstr ""
+msgstr "华丽的匕首处决"
 
 msgid "sn_0346"
-msgstr ""
+msgstr "今天人好多呀"
 
 msgid "sn_0347"
-msgstr ""
+msgstr "次元炸弹的爆炸中心"
 
 msgid "sn_0348"
-msgstr ""
+msgstr "最先进的装备"
 
 msgid "sn_0349"
-msgstr ""
+msgstr "潜入！Macross小姐选拔"
 
 msgid "sn_0351"
-msgstr ""
+msgstr "该我们上场了"
 
 msgid "sn_0352"
-msgstr ""
+msgstr "7号选手上场"
 
 msgid "sn_0353"
-msgstr ""
+msgstr "心不在焉的兰卡"
 
 msgid "sn_0354"
-msgstr ""
+msgstr "对奥兹玛绝对保密"
 
 msgid "sn_0355"
-msgstr ""
+msgstr "千斤的惩罚"
 
 msgid "sn_0356"
-msgstr ""
+msgstr "一记头槌"
 
 msgid "sn_0357"
-msgstr ""
+msgstr "早乙女家族之子"
 
 msgid "sn_0358"
-msgstr ""
+msgstr "姿态如画的男子"
 
 msgid "sn_0359"
-msgstr ""
+msgstr "鼓励的短信"
 
 msgid "sn_0360"
-msgstr ""
+msgstr "7000年前的记忆"
 
 msgid "sn_0361"
-msgstr ""
+msgstr "点缀新春的灰姑娘"
 
 msgid "sn_0362"
-msgstr ""
+msgstr "EP【新春之风】"
 
 msgid "sn_0363"
-msgstr ""
+msgstr "新春的天空格外蓝"
 
 msgid "sn_0364"
-msgstr ""
+msgstr "新年约会"
 
 msgid "sn_0365"
-msgstr ""
+msgstr "以好友的遗志"
 
 msgid "sn_0366"
-msgstr ""
+msgstr "给我力量吧！"
 
 msgid "sn_0367"
 msgstr ""
@@ -5520,10 +5520,10 @@ msgid "sn_2146"
 msgstr ""
 
 msgid "sn_2147"
-msgstr ""
+msgstr "EP【坚定不移的决心】"
 
 msgid "sn_2148"
-msgstr ""
+msgstr "EP【坚定不移的决心】"
 
 msgid "sn_2149"
 msgstr ""
