@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2024-09-23 07:28+0000\n"
+"PO-Revision-Date: 2025-03-14 01:57+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -552,43 +552,43 @@ msgid "StringLiteral_11865"
 msgstr ""
 
 msgid "StringLiteral_11845"
-msgstr ""
+msgstr "Tue."
 
 msgid "StringLiteral_11846"
-msgstr ""
+msgstr "Wed."
 
 msgid "StringLiteral_11847"
-msgstr ""
+msgstr "Thu."
 
 msgid "StringLiteral_11848"
-msgstr ""
+msgstr "Fri."
 
 msgid "StringLiteral_11849"
-msgstr ""
+msgstr "Sat."
 
 msgid "StringLiteral_11911"
 msgstr "Client Error"
 
 msgid "StringLiteral_11912"
-msgstr ""
+msgstr "Friend Request Sent"
 
 msgid "StringLiteral_11913"
-msgstr ""
+msgstr "Friend Limit"
 
 msgid "StringLiteral_11914"
-msgstr ""
+msgstr "Friend List"
 
 msgid "StringLiteral_11915"
-msgstr ""
+msgstr "Search Failed"
 
 msgid "StringLiteral_11916"
-msgstr ""
+msgstr "Linking Failed"
 
 msgid "StringLiteral_11917"
-msgstr ""
+msgstr "Request Failed"
 
 msgid "StringLiteral_11918"
-msgstr ""
+msgstr "Network Error"
 
 msgid "StringLiteral_11920"
 msgstr ""
@@ -597,43 +597,56 @@ msgstr ""
 "Error Code: "
 
 msgid "StringLiteral_11921"
-msgstr ""
+msgstr "Data Update"
 
 msgid "StringLiteral_11922"
-msgstr ""
+msgstr "Date Change"
 
 msgid "StringLiteral_11923"
-msgstr ""
+msgstr "The date has changed."
 
 msgid "StringLiteral_11927"
 msgstr "Storage Error"
 
 msgid "StringLiteral_11928"
 msgstr ""
+"File download failed.\n"
+"If you are seeing this message, it's possible\n"
+"you don't have enough storage space.\n"
+"Try again?"
 
 msgid "StringLiteral_11929"
 msgstr "Download Error"
 
 msgid "StringLiteral_11930"
 msgstr ""
+"File download failed.\n"
+"Check your network connection\n"
+"and Wi-Fi signal, then try again."
 
 msgid "StringLiteral_11955"
 msgstr ""
+"Connection timed out. Try again?\n"
+"Cancelling will take you to the title screen."
 
 msgid "StringLiteral_11956"
 msgstr ""
+"Connection timed out.\n"
+"Returning to the title screen."
 
 msgid "StringLiteral_11962"
 msgstr "Error"
 
 msgid "StringLiteral_11972"
-msgstr ""
+msgstr "Internal Error"
 
 msgid "StringLiteral_11973"
 msgstr ""
+"An error has occurred.\n"
+"Returning to the title screen."
 
 msgid "StringLiteral_11992"
-msgstr ""
+msgstr "Patch Installer / Install Module Creation Failed"
 
 msgid "StringLiteral_12004"
 msgstr "Present"
@@ -648,7 +661,7 @@ msgid "StringLiteral_12037"
 msgstr " "
 
 msgid "StringLiteral_12038"
-msgstr ""
+msgstr "…"
 
 msgid "StringLiteral_12097"
 msgstr " (Uta Macross"
@@ -660,43 +673,43 @@ msgid "StringLiteral_12141"
 msgstr "Flight"
 
 msgid "StringLiteral_12148"
-msgstr ""
+msgstr "I"
 
 msgid "StringLiteral_12149"
-msgstr ""
+msgstr "II"
 
 msgid "StringLiteral_12150"
-msgstr ""
+msgstr "III"
 
 msgid "StringLiteral_12151"
-msgstr ""
+msgstr "IV"
 
 msgid "StringLiteral_12152"
-msgstr ""
+msgstr "V"
 
 msgid "StringLiteral_12215"
-msgstr ""
+msgstr "Unlock Conditions"
 
 msgid "StringLiteral_12223"
-msgstr ""
+msgstr "<color=red>Song Deletion="
 
 msgid "StringLiteral_12297"
 msgstr "Up"
 
 msgid "StringLiteral_12298"
-msgstr ""
+msgstr "Get "
 
 msgid "StringLiteral_12300"
 msgstr "Up "
 
 msgid "StringLiteral_12326"
-msgstr ""
+msgstr "Beginner Set with Bonus"
 
 msgid "StringLiteral_12327"
-msgstr ""
+msgstr "Value Set A"
 
 msgid "StringLiteral_12328"
-msgstr ""
+msgstr "Value Set B"
 
 msgid "StringLiteral_12329"
 msgstr "Song Gem Set A"
@@ -720,58 +733,61 @@ msgid "StringLiteral_12335"
 msgstr "Song Gem Set G"
 
 msgid "StringLiteral_12459"
-msgstr ""
+msgstr "Connection timed out."
 
 msgid "StringLiteral_12462"
 msgstr ""
+"An error has occurred.\n"
+"\n"
+"(Error Code: {0})"
 
 msgid "StringLiteral_12526"
-msgstr ""
+msgstr "Generic"
 
 msgid "StringLiteral_12528"
-msgstr ""
+msgstr "Special"
 
 msgid "StringLiteral_12532"
-msgstr ""
+msgstr "Show GPGS Login Button"
 
 msgid "StringLiteral_12533"
-msgstr ""
+msgstr "Don't Show GPGS Login Button"
 
 msgid "StringLiteral_12534"
-msgstr ""
+msgstr "No GPGS Save Data Present"
 
 msgid "StringLiteral_12540"
-msgstr ""
+msgstr "Continue Login"
 
 msgid "StringLiteral_12541"
-msgstr ""
+msgstr "Logged Out"
 
 msgid "StringLiteral_12573"
-msgstr ""
+msgstr "GPGS Login Successful"
 
 msgid "StringLiteral_12574"
-msgstr ""
+msgstr "GPGS Login Failed"
 
 msgid "StringLiteral_12619"
-msgstr ""
+msgstr "No Data"
 
 msgid "StringLiteral_12640"
-msgstr ""
+msgstr "<color=cyan>Local Save Data Recreation</color>"
 
 msgid "StringLiteral_12692"
-msgstr ""
+msgstr "Energy Fully Restored"
 
 msgid "StringLiteral_12693"
-msgstr ""
+msgstr "Notices"
 
 msgid "StringLiteral_12695"
 msgstr "Decorture Mode"
 
 msgid "StringLiteral_12696"
-msgstr ""
+msgstr "Time-Limited Item"
 
 msgid "StringLiteral_12839"
-msgstr ""
+msgstr "Start Prologue"
 
 msgid "StringLiteral_12840"
 msgstr "Asset Download 0%"
@@ -810,70 +826,70 @@ msgid "StringLiteral_12851"
 msgstr "Adventure 1"
 
 msgid "StringLiteral_12852"
-msgstr ""
+msgstr "Timing Calibration"
 
 msgid "StringLiteral_12853"
-msgstr ""
+msgstr "Redo Timing Calibration"
 
 msgid "StringLiteral_12854"
-msgstr ""
+msgstr "1st Live"
 
 msgid "StringLiteral_12855"
-msgstr ""
+msgstr "Skip 1st Live"
 
 msgid "StringLiteral_12856"
-msgstr ""
+msgstr "Quit 1st Live"
 
 msgid "StringLiteral_12857"
-msgstr ""
+msgstr "Start Adventure 2"
 
 msgid "StringLiteral_12858"
-msgstr ""
+msgstr "Gachas"
 
 msgid "StringLiteral_12859"
-msgstr ""
+msgstr "Play Gacha"
 
 msgid "StringLiteral_12860"
-msgstr ""
+msgstr "Gacha Drops"
 
 msgid "StringLiteral_12861"
-msgstr ""
+msgstr "Start Forming Teams"
 
 msgid "StringLiteral_12862"
-msgstr ""
+msgstr "Quit Forming Teams"
 
 msgid "StringLiteral_12863"
-msgstr ""
+msgstr "2nd Live"
 
 msgid "StringLiteral_12864"
-msgstr ""
+msgstr "Skip 2nd Live"
 
 msgid "StringLiteral_12865"
-msgstr ""
+msgstr "Quit 2nd Live"
 
 msgid "StringLiteral_12866"
-msgstr ""
+msgstr "Start Adventure 3"
 
 msgid "StringLiteral_12867"
-msgstr ""
+msgstr "Start SDN"
 
 msgid "StringLiteral_12868"
-msgstr ""
+msgstr "Quit SDN"
 
 msgid "StringLiteral_12869"
-msgstr ""
+msgstr "Name Entry"
 
 msgid "StringLiteral_12870"
-msgstr ""
+msgstr "Quit Name Entry"
 
 msgid "StringLiteral_12871"
-msgstr ""
+msgstr "Diva Selection"
 
 msgid "StringLiteral_12872"
-msgstr ""
+msgstr "New Diva"
 
 msgid "StringLiteral_12873"
-msgstr ""
+msgstr "New Valkyrie"
 
 msgid "StringLiteral_12874"
 msgstr "Main Asset Download 0%"
@@ -912,25 +928,25 @@ msgid "StringLiteral_12885"
 msgstr "Login Bonus"
 
 msgid "StringLiteral_12886"
-msgstr ""
+msgstr "Home Screen"
 
 msgid "StringLiteral_12887"
-msgstr ""
+msgstr "Missions Screen"
 
 msgid "StringLiteral_12888"
-msgstr ""
+msgstr "Normal Drop"
 
 msgid "StringLiteral_12889"
 msgstr "Story Drop"
 
 msgid "StringLiteral_12890"
-msgstr ""
+msgstr "Paid"
 
 msgid "StringLiteral_12891"
 msgstr "Gacha"
 
 msgid "StringLiteral_12892"
-msgstr ""
+msgstr "Live Clear"
 
 msgid "StringLiteral_12893"
 msgstr "Present Box"
@@ -960,28 +976,28 @@ msgid "StringLiteral_11221"
 msgstr "Bingo Missions"
 
 msgid "StringLiteral_11223"
-msgstr ""
+msgstr "Request"
 
 msgid "StringLiteral_11224"
-msgstr ""
+msgstr "Approve"
 
 msgid "StringLiteral_11225"
-msgstr ""
+msgstr "Delete"
 
 msgid "StringLiteral_11226"
-msgstr ""
+msgstr "Deny Request"
 
 msgid "StringLiteral_11227"
-msgstr ""
+msgstr "Cancel Request"
 
 msgid "StringLiteral_11245"
-msgstr ""
+msgstr "Song Gems"
 
 msgid "StringLiteral_11248"
-msgstr ""
+msgstr "Already answered"
 
 msgid "StringLiteral_12894"
-msgstr ""
+msgstr "Event Clear pts"
 
 msgid "StringLiteral_12895"
 msgstr "Login Bonus"
@@ -996,40 +1012,40 @@ msgid "StringLiteral_12898"
 msgstr "Event Box Gacha"
 
 msgid "StringLiteral_12899"
-msgstr ""
+msgstr "Bonus Currency Auto Conversion"
 
 msgid "StringLiteral_12900"
-msgstr ""
+msgstr "AR Title Acquisition"
 
 msgid "StringLiteral_12901"
-msgstr ""
+msgstr "Bond 1st Present"
 
 msgid "StringLiteral_12902"
-msgstr ""
+msgstr "Bond Rewards"
 
 msgid "StringLiteral_12903"
-msgstr ""
+msgstr "Mission Event Medals"
 
 msgid "StringLiteral_12904"
-msgstr ""
+msgstr "Battle Event Class Title"
 
 msgid "StringLiteral_12905"
-msgstr ""
+msgstr "VF Operations"
 
 msgid "StringLiteral_12906"
-msgstr ""
+msgstr "1st VF Operation Rewards"
 
 msgid "StringLiteral_12907"
-msgstr ""
+msgstr "Upgrade Costumes"
 
 msgid "StringLiteral_12908"
-msgstr ""
+msgstr "Monthly Pass Login Bonuses"
 
 msgid "StringLiteral_12909"
-msgstr ""
+msgstr "Monthly Pass Continue Bonuses"
 
 msgid "StringLiteral_12910"
-msgstr ""
+msgstr "VF Operation Song Gems"
 
 msgid "StringLiteral_12911"
 msgstr "Valkyrie Skill Upgrade"
@@ -1047,31 +1063,31 @@ msgid "StringLiteral_12915"
 msgstr "Deco Shop"
 
 msgid "StringLiteral_12916"
-msgstr ""
+msgstr "Medal Generator"
 
 msgid "StringLiteral_12917"
 msgstr "Treasure Box"
 
 msgid "StringLiteral_12918"
-msgstr ""
+msgstr "Room Visits"
 
 msgid "StringLiteral_12919"
 msgstr "Raid Tutorial"
 
 msgid "StringLiteral_12920"
-msgstr ""
+msgstr "AP Restore Bonus"
 
 msgid "StringLiteral_12921"
-msgstr ""
+msgstr "Rare Up Star Auto Conversion"
 
 msgid "StringLiteral_12922"
-msgstr ""
+msgstr "Get Live Skip Tickets"
 
 msgid "StringLiteral_12923"
-msgstr ""
+msgstr "Using Rare Up Stars"
 
 msgid "StringLiteral_12924"
-msgstr ""
+msgstr "Expand Secret Board"
 
 msgid "StringLiteral_12925"
 msgstr ""
@@ -1974,7 +1990,7 @@ msgid "UMO_IntimacyLevel"
 msgstr "Bond Lv."
 
 msgid "UMO_CostumeCount"
-msgstr "Costumes Owned"
+msgstr "Costumes"
 
 msgid "UMO_DivaStatus"
 msgstr "Diva Status"
