@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-01-26 12:23+0000\n"
-"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"PO-Revision-Date: 2025-03-13 14:00+0000\n"
+"Last-Translator: ttirae <rmsghdortus@gmail.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
 "Language: ko\n"
@@ -1724,208 +1724,222 @@ msgid "UMO_currency_5002_desc"
 msgstr ""
 
 msgid "UMO_product_178088_name"
-msgstr ""
+msgstr "★5확정데뷔가챠22 10연속"
 
 msgid "UMO_product_178088_desc_name"
-msgstr ""
+msgstr "데뷔가챠"
 
 msgid "UMO_product_429267_name"
-msgstr ""
+msgstr "★5확정서비스가챠8"
 
 msgid "UMO_product_429267_desc_name"
-msgstr ""
+msgstr "★5확정서비스가챠"
 
 msgid "UMO_product_429267_desc_desc"
 msgstr ""
+"★5확정서비스가챠 사용시\n"
+"★5 플레이트가 입수가능\n"
+"※2022/3/31 라인업 갱신"
 
 msgid "UMO_product_429712_name"
-msgstr ""
+msgstr "서비스가챠317"
 
 msgid "UMO_product_429712_desc_name"
-msgstr ""
+msgstr "서비스가챠"
 
 msgid "UMO_product_429712_desc_desc"
 msgstr ""
+"\n"
+"아침・낮・저녁\n"
+"1일에 3회 가정석 소모없이 뽑을 수 있는 가챠\n"
+"\n"
+"「이런 서비스 1일에 3회밖에 안 한다니까?」\n"
+"　　　　　　　　　　　　　－셰릴 놈－"
 
 msgid "UMO_product_429927_name"
-msgstr ""
+msgstr "초시공가챠45"
 
 msgid "UMO_product_429927_desc_name"
-msgstr ""
+msgstr "초시공가챠"
 
 msgid "UMO_product_429927_desc_desc"
 msgstr ""
+"초시공가챠티켓을 소비하여\n"
+"★1～★6의 플레이트를 입수 가능.\n"
+"※2022/5/1 라인업 갱신"
 
 msgid "UMO_product_429928_name"
-msgstr ""
+msgstr "픽업가챠159"
 
 msgid "UMO_product_429928_desc_free_msg"
-msgstr ""
+msgstr "1회 무료!"
 
 msgid "UMO_product_429928_desc_name"
-msgstr ""
+msgstr "★5이상 확정 가챠"
 
 msgid "UMO_product_429929_name"
-msgstr ""
+msgstr "픽업가챠159 10연속"
 
 msgid "UMO_product_429929_desc_free_msg"
-msgstr ""
+msgstr "1회 무료!"
 
 msgid "UMO_product_429929_desc_kakutei"
-msgstr ""
+msgstr "★5이상 10장 확정"
 
 msgid "UMO_product_429929_desc_name"
-msgstr ""
+msgstr "★5이상 확정 가챠"
 
 msgid "UMO_product_429930_name"
-msgstr ""
+msgstr "픽업가챠159 10연속 초회"
 
 msgid "UMO_product_429930_desc_free_msg"
-msgstr ""
+msgstr "1회 무료!"
 
 msgid "UMO_product_429930_desc_kakutei"
-msgstr ""
+msgstr "★5이상 10장 확정"
 
 msgid "UMO_product_429930_desc_name"
-msgstr ""
+msgstr "★5이상 확정 가챠"
 
 msgid "UMO_product_430020_name"
 msgstr ""
 
 msgid "UMO_product_430020_desc_free_msg"
-msgstr ""
+msgstr "10연속 무료"
 
 msgid "UMO_product_430020_desc_free_multi_msg"
 msgstr ""
+"1일1회\n"
+"무료!"
 
 msgid "UMO_product_430020_desc_name"
-msgstr ""
+msgstr "무료 10연속 가챠"
 
 msgid "UMO_product_67554_name"
-msgstr ""
+msgstr "이어하기"
 
 msgid "UMO_product_67554_desc"
-msgstr ""
+msgstr "게임 중 이어하기가 가능합니다."
 
 msgid "UMO_product_67572_name"
-msgstr ""
+msgstr "스태미너 회복"
 
 msgid "UMO_product_153192_name"
-msgstr ""
+msgstr "VOP 고속완료"
 
 msgid "UMO_product_153192_desc"
-msgstr ""
+msgstr "VOP 고속완료 실행에 사용합니다."
 
 msgid "UMO_product_167079_name"
-msgstr ""
+msgstr "AP회복"
 
 msgid "UMO_product_222423_name"
-msgstr ""
+msgstr "AP회복2"
 
 msgid "UMO_product_222423_desc"
-msgstr ""
+msgstr "AP회복(소)"
 
 msgid "UMO_product_222424_name"
-msgstr ""
+msgstr "AP회복3"
 
 msgid "UMO_product_222424_desc"
-msgstr ""
+msgstr "AP회복(대)"
 
 msgid "UMO_product_428662_name"
-msgstr ""
+msgstr "2022년 봄 5월:봄스피어:행운의황석x1 (구입제한있음&5월)"
 
 msgid "UMO_product_428665_name"
-msgstr ""
+msgstr "2022년 봄 5월:봄스피어:행운의휘석x1 (구입제한있음&5월)"
 
 msgid "UMO_product_428666_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：별의결정(소)×5"
 
 msgid "UMO_product_428667_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：별의결정(중)×5"
 
 msgid "UMO_product_428668_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：별의결정(대)×5"
 
 msgid "UMO_product_428669_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：사랑의결정(소)×5"
 
 msgid "UMO_product_428670_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：사랑의결정(중)×5"
 
 msgid "UMO_product_428671_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：사랑의결정(대)×5"
 
 msgid "UMO_product_428672_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：생명의결정(소)×5"
 
 msgid "UMO_product_428673_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：생명의결정(중)×5"
 
 msgid "UMO_product_428674_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：생명의결정(대)×5"
 
 msgid "UMO_product_428675_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：멜로디 스톤(소)×20"
 
 msgid "UMO_product_428676_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：멜로디 스톤(중)×20"
 
 msgid "UMO_product_428677_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：멜로디 스톤(대)×20"
 
 msgid "UMO_product_428678_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：소울 스톤(소)×20"
 
 msgid "UMO_product_428679_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：소울 스톤(중)×20"
 
 msgid "UMO_product_428680_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：소울 스톤(대)×20"
 
 msgid "UMO_product_428681_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：보이스 스톤(소)×20"
 
 msgid "UMO_product_428682_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：보이스 스톤(중)×20"
 
 msgid "UMO_product_428683_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：보이스 스톤(대)×20"
 
 msgid "UMO_product_428684_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：챰 스톤(소)×20"
 
 msgid "UMO_product_428685_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：챰 스톤(중)×20"
 
 msgid "UMO_product_428686_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：챰 스톤(대)×20"
 
 msgid "UMO_product_428687_name"
-msgstr ""
+msgstr "2022년봄 2월 : 봄 스피어：UC×2000"
 
 msgid "UMO_product_428690_name"
-msgstr ""
+msgstr "2022년봄 5월 : 봄 스피어：★5확정가챠티켓x1 (구입제한있음&5월)"
 
 msgid "UMO_product_428693_name"
-msgstr ""
+msgstr "2022년봄 5월 : 봄 스피어：초시공가챠티켓x1 (구입제한있음&5월)"
 
 msgid "UMO_product_428696_name"
-msgstr ""
+msgstr "2022년봄 5월 : 봄 스피어：시크릿 스톤x1 (구입제한있음&5월)"
 
 msgid "UMO_product_428699_name"
-msgstr ""
+msgstr "2022년봄 5월 : 봄 스피어：에피소드 오브(대)x1 (구입제한있음&5월)"
 
 msgid "UMO_start_present_1"
-msgstr ""
+msgstr "우타 마크로스 특별 선물 입니다."
 
 msgid "UMO_start_present_2"
-msgstr ""
+msgstr "우타 마크로스 플레이 개시기념 선물 입니다."
 
 msgid "UMO_Next"
-msgstr ""
+msgstr "Next"
 
 msgid "UMO_Total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "UMO_Fold"
 msgstr "폴드파"
@@ -1934,160 +1948,241 @@ msgid "UMO_Luck"
 msgstr "LUCK"
 
 msgid "UMO_Status"
-msgstr ""
+msgstr "스테이터스"
 
 msgid "UMO_SubStatus"
-msgstr ""
+msgstr "지원 플레이트 효과"
 
 msgid "UMO_CenterSkill"
-msgstr ""
+msgstr "센터 스킬"
 
 msgid "UMO_ActiveSkill"
-msgstr ""
+msgstr "엑티브 스킬"
 
 msgid "UMO_LeafLabel"
 msgstr ""
 
 msgid "UMO_Excellent"
-msgstr ""
+msgstr "EXCELLENT"
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr ""
+msgstr "센터 L스킬 노트 확률"
 
 msgid "UMO_Notes"
-msgstr ""
+msgstr "노트 기대치"
 
 msgid "UMO_Heal"
-msgstr ""
+msgstr "회복"
 
 msgid "UMO_Score"
-msgstr ""
+msgstr "스코어"
 
 msgid "UMO_Atk"
-msgstr ""
+msgstr "공격"
 
 msgid "UMO_SupportImp"
-msgstr ""
+msgstr "지원 플레이트 미해방"
 
 msgid "UMO_SupportImp2"
-msgstr ""
+msgstr "해금조건 : 의상강화로 지원플레이트 해금을 획득하기."
 
 msgid "UMO_NumLeft"
-msgstr ""
+msgstr "남은 횟수"
 
 msgid "UMO_PlayAttr"
-msgstr ""
+msgstr "플레이 할 악곡 속성"
 
 msgid "UMO_PlayAttr2"
-msgstr ""
+msgstr "우선할 속성"
 
 msgid "UMO_All"
-msgstr ""
+msgstr "ALL"
 
 msgid "UMO_Attr1"
-msgstr ""
+msgstr "별"
 
 msgid "UMO_Attr2"
-msgstr ""
+msgstr "사랑"
 
 msgid "UMO_Attr3"
-msgstr ""
+msgstr "생명"
 
 msgid "UMO_PlayStyle"
-msgstr ""
+msgstr "우선할 조건"
 
 msgid "UMO_PlayStyleScore"
-msgstr ""
+msgstr "스코어 우선"
 
 msgid "UMO_PlayStyleLife"
-msgstr ""
+msgstr "라이프 우선"
 
 msgid "UMO_PlayStyleCombo"
-msgstr ""
+msgstr "콤보 우선"
 
 msgid "UMO_PlayStatus"
-msgstr ""
+msgstr "우선할 스테이터스"
 
 msgid "UMO_DivaLevel"
-msgstr ""
+msgstr "가희Lv"
 
 msgid "UMO_IntimacyLevel"
-msgstr ""
+msgstr "친밀도Lv"
 
 msgid "UMO_CostumeCount"
-msgstr ""
+msgstr "의상소지수"
 
 msgid "UMO_DivaStatus"
-msgstr ""
+msgstr "가희 스테이터스"
 
 msgid "UMO_CostumeStatus"
-msgstr ""
+msgstr "의상강화 스테이터스"
 
 msgid "UMO_SoulTotal"
-msgstr ""
+msgstr "소울 어필"
 
 msgid "UMO_VoiceTotal"
-msgstr ""
+msgstr "보이스 어필"
 
 msgid "UMO_CharmTotal"
-msgstr ""
+msgstr "챰 어필"
 
 msgid "UMO_DivaRanking"
-msgstr ""
+msgstr "가희 랭킹"
 
 msgid "UMO_DivaRankingBtn"
-msgstr ""
+msgstr "가희 랭킹 확인"
 
 msgid "UMO_Age"
-msgstr ""
+msgstr "연령"
 
 msgid "UMO_Birthplace"
-msgstr ""
+msgstr "출신지"
 
 msgid "UMO_Favorite"
-msgstr ""
+msgstr "좋아하는것"
 
 msgid "UMO_DivaDesc"
-msgstr ""
+msgstr "가희 소개"
 
 msgid "UMO_Back"
-msgstr ""
+msgstr "돌아가기"
 
 msgid "UMO_Costume"
-msgstr ""
+msgstr "의상변경"
 
 msgid "UMO_Gift"
-msgstr ""
+msgstr "선물"
 
 msgid "UMO_Profil"
-msgstr ""
+msgstr "프로필"
 
 msgid "UMO_DivaCompatibility"
-msgstr ""
+msgstr "가희 상성"
 
 msgid "UMO_SkillFilterActive"
-msgstr ""
+msgstr "설정중"
 
 msgid "UMO_SkillFilterDisableAll"
-msgstr ""
+msgstr "선택해제"
 
 msgid "UMO_SkillFilterLongNote"
-msgstr ""
+msgstr "롱・숏"
 
 msgid "UMO_SkillFilterRank"
-msgstr ""
+msgstr "스킬 랭크"
 
 msgid "UMO_SkillFilterBRank"
-msgstr ""
+msgstr "B급"
 
 msgid "UMO_SkillFilterARank"
-msgstr ""
+msgstr "A급"
 
 msgid "UMO_SkillFilterSRank"
-msgstr ""
+msgstr "S급"
 
 msgid "UMO_SkillFilterSSRank"
-msgstr ""
+msgstr "SS급"
 
 msgid "UMO_AchievedReward"
 msgstr "달성 보상"
+
+msgid "UMO_SortDisplayOrder"
+msgstr "표시순"
+
+msgid "UMO_FilterFavorite"
+msgstr "즐겨찾기"
+
+msgid "UMO_Attribute"
+msgstr "속성"
+
+msgid "UMO_Combo"
+msgstr "콤보"
+
+msgid "UMO_SongTime"
+msgstr "악곡 시간"
+
+msgid "UMO_UnitNumber"
+msgstr "유닛 라이브"
+
+msgid "UMO_Display"
+msgstr "표시한다"
+
+msgid "UMO_NoDisplay"
+msgstr "표시 하지 않음"
+
+msgid "UMO_ModelDisplay"
+msgstr "모델의 표시설정"
+
+msgid "UMO_BgIllust"
+msgstr "일러스트"
+
+msgid "UMO_BgPlate"
+msgstr "플레이트"
+
+msgid "UMO_BgDisplay"
+msgstr "배경 표시설정"
+
+msgid "UMO_BgLight"
+msgstr "밝게"
+
+msgid "UMO_BgDark"
+msgstr "어둡게"
+
+msgid "UMO_BgBrightness"
+msgstr "배경의 명도"
+
+msgid "UMO_Preview"
+msgstr "프리뷰"
+
+msgid "UMO_Ok"
+msgstr "OK"
+
+msgid "UMO_Cancel"
+msgstr "캔슬"
+
+msgid "UMO_Detail"
+msgstr "상세"
+
+msgid "UMO_DisplaySwitch"
+msgstr "표시 전환"
+
+msgid "UMO_Prism"
+msgstr "초시공 프리즘"
+
+msgid "UMO_Group"
+msgstr "유닛 편성"
+
+msgid "UMO_PrismOn"
+msgstr "초시공 프리즘 ON"
+
+msgid "UMO_ValkOn"
+msgstr "발키리모드 ON"
+
+msgid "StringLiteral_14411"
+msgstr "이미지를 공유할 어플을 선택해주세요."
+
+msgid "UMO_Filter"
+msgstr "필터"
+
+msgid "UMO_UnlockStatus"
+msgstr "악곡 해금 상황"
