@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-11 08:48+0000\n"
+"PO-Revision-Date: 2025-03-13 14:00+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -21121,7 +21121,7 @@ msgid "plt_nm_0001"
 msgstr "一条辉"
 
 msgid "plt_nm_0002"
-msgstr ""
+msgstr "热气巴萨拉"
 
 msgid "plt_nm_0003"
 msgstr "早乙女阿尔特"
@@ -29505,43 +29505,43 @@ msgid "dc_itm_dsc_0513_obj"
 msgstr ""
 
 msgid "dc_itm_nm_0001_chr"
-msgstr ""
+msgstr "芙蕾雅·薇恩"
 
 msgid "dc_itm_nm_0002_chr"
-msgstr ""
+msgstr "美云·金努梅尔"
 
 msgid "dc_itm_nm_0003_chr"
-msgstr ""
+msgstr "要·巴卡妮雅"
 
 msgid "dc_itm_nm_0004_chr"
-msgstr ""
+msgstr "玛基娜·中岛"
 
 msgid "dc_itm_nm_0005_chr"
-msgstr ""
+msgstr "蕾娜·普劳拉"
 
 msgid "dc_itm_nm_0006_chr"
-msgstr ""
+msgstr "兰卡·李"
 
 msgid "dc_itm_nm_0007_chr"
-msgstr ""
+msgstr "雪莉露·诺姆"
 
 msgid "dc_itm_nm_0008_chr"
-msgstr ""
+msgstr "米莲·吉纳斯"
 
 msgid "dc_itm_nm_0009_chr"
-msgstr ""
+msgstr "热气巴萨拉"
 
 msgid "dc_itm_nm_0010_chr"
-msgstr ""
+msgstr "林明美"
 
 msgid "dc_itm_nm_0001_sp"
-msgstr ""
+msgstr "能量生成器"
 
 msgid "dc_itm_nm_0002_sp"
-msgstr ""
+msgstr "奖章生成器"
 
 msgid "dc_itm_nm_0003_sp"
-msgstr ""
+msgstr "家具点数生成器"
 
 msgid "dc_itm_nm_0004_sp"
 msgstr ""
