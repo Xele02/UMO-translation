@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-14 01:57+0000\n"
+"PO-Revision-Date: 2025-03-15 17:55+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -1068,7 +1068,7 @@ msgid "sn_0375"
 msgstr "承载回忆的歌"
 
 msgid "sn_0376"
-msgstr "蓄势布局之人"
+msgstr "暗中布局之人"
 
 msgid "sn_0377"
 msgstr "正因我们是孤身一人"
@@ -1080,394 +1080,394 @@ msgid "sn_0385"
 msgstr "生日惊喜"
 
 msgid "sn_0386"
-msgstr ""
+msgstr "从今天起你就是少尉了"
 
 msgid "sn_0387"
-msgstr ""
+msgstr "这是我送你的礼物！"
 
 msgid "sn_0388"
-msgstr ""
+msgstr "哟，这身也太美了！"
 
 msgid "sn_0389"
-msgstr ""
+msgstr "辉，这身怎么样？"
 
 msgid "sn_0390"
-msgstr ""
+msgstr "我也不知道呢~"
 
 msgid "sn_0391"
-msgstr ""
+msgstr "她是队长的这个吗？"
 
 msgid "sn_0392"
-msgstr ""
+msgstr "不错！挺会来事的嘛！"
 
 msgid "sn_0393"
-msgstr ""
+msgstr "怎么回事，你这人！"
 
 msgid "sn_0394"
-msgstr ""
+msgstr "严重超载"
 
 msgid "sn_0395"
-msgstr ""
+msgstr "等等我啊"
 
 msgid "sn_0396"
-msgstr ""
+msgstr "已打烊"
 
 msgid "sn_0397"
-msgstr ""
+msgstr "Let's！Halloween Live☆"
 
 msgid "sn_0398"
-msgstr ""
+msgstr "The Grim Reaper"
 
 msgid "sn_0399"
-msgstr ""
+msgstr "欢迎来到奇妙之夜"
 
 msgid "sn_0400"
-msgstr ""
+msgstr "今宵共赴魔界之宴"
 
 msgid "sn_0401"
-msgstr ""
+msgstr "收到…"
 
 msgid "sn_0402"
-msgstr ""
+msgstr "骚动的教室"
 
 msgid "sn_0403"
-msgstr ""
+msgstr "对我的策略有意见吗"
 
 msgid "sn_0404"
-msgstr ""
+msgstr "意味深长的微笑"
 
 msgid "sn_0405"
-msgstr ""
+msgstr "敌人正在接近"
 
 msgid "sn_0406"
-msgstr ""
+msgstr "蹦迪是什么？"
 
 msgid "sn_0407"
-msgstr ""
+msgstr "这个叫做糖果"
 
 msgid "sn_0408"
-msgstr ""
+msgstr "是军服！"
 
 msgid "sn_0409"
-msgstr ""
+msgstr "Halloween Candy★Night"
 
 msgid "sn_0411"
-msgstr ""
+msgstr "月下米莲"
 
 msgid "sn_0412"
-msgstr ""
+msgstr "娇羞的万圣黑猫"
 
 msgid "sn_0413"
-msgstr ""
+msgstr "落入敌手的美云"
 
 msgid "sn_0414"
-msgstr ""
+msgstr "我们的目的远不止于此"
 
 msgid "sn_0415"
-msgstr ""
+msgstr "只要杀了她"
 
 msgid "sn_0416"
-msgstr ""
+msgstr "可是，拉普拉米兹司令"
 
 msgid "sn_0417"
-msgstr ""
+msgstr "属下有一言相劝"
 
 msgid "sn_0418"
-msgstr ""
+msgstr "金正驾到"
 
 msgid "sn_0419"
-msgstr ""
+msgstr "连老子都能忍住"
 
 msgid "sn_0420"
-msgstr ""
+msgstr "走！蹦迪去"
 
 msgid "sn_0421"
-msgstr ""
+msgstr "凯厄斯拉格纳支部"
 
 msgid "sn_0422"
-msgstr ""
+msgstr "阿拉德·梅塔斯"
 
 msgid "sn_0423"
-msgstr ""
+msgstr "COSMIC DANCE♪"
 
 msgid "sn_0424"
-msgstr ""
+msgstr "COSMIC RHYTHM♪"
 
 msgid "sn_0425"
-msgstr ""
+msgstr "起飞出击"
 
 msgid "sn_0426"
-msgstr ""
+msgstr "以伟大的风之名"
 
 msgid "sn_0427"
-msgstr ""
+msgstr "心乱如狂"
 
 msgid "sn_0433"
-msgstr ""
+msgstr "站上舞台是为了什么"
 
 msgid "sn_0434"
-msgstr ""
+msgstr "美云 繁星之子☆"
 
 msgid "sn_0435"
-msgstr ""
+msgstr "博格与基斯"
 
 msgid "sn_0436"
-msgstr ""
+msgstr "罗伊德·布雷姆宰相"
 
 msgid "sn_0437"
-msgstr ""
+msgstr "好的，马上！"
 
 msgid "sn_0438"
-msgstr ""
+msgstr "梅萨的飞行方式"
 
 msgid "sn_0439"
-msgstr ""
+msgstr "同病相怜的二人"
 
 msgid "sn_0440"
-msgstr ""
+msgstr "共鸣率不断下降"
 
 msgid "sn_0441"
-msgstr ""
+msgstr "消沉的芙蕾雅"
 
 msgid "sn_0442"
-msgstr ""
+msgstr "Delta小队出击"
 
 msgid "sn_0443"
-msgstr ""
+msgstr "夜幕下的Macross Elysion"
 
 msgid "sn_0444"
-msgstr ""
+msgstr "行星Voldor的遗迹"
 
 msgid "sn_0445"
-msgstr ""
+msgstr "驱散阴霾的歌声"
 
 msgid "sn_0447"
-msgstr ""
+msgstr "从容不迫的键盘手"
 
 msgid "sn_0448"
-msgstr ""
+msgstr "沉默寡言的鼓手"
 
 msgid "sn_0449"
-msgstr ""
+msgstr "是这样没错吧？"
 
 msgid "sn_0450"
-msgstr ""
+msgstr "大家一起！"
 
 msgid "sn_0451"
-msgstr ""
+msgstr "重新演出"
 
 msgid "sn_0452"
-msgstr ""
+msgstr "林明美的歌声"
 
 msgid "sn_0453"
-msgstr ""
+msgstr "灵魂精神源能量等级飙升"
 
 msgid "sn_0454"
-msgstr ""
+msgstr "你说什么？"
 
 msgid "sn_0455"
-msgstr ""
+msgstr "maj7战术队形"
 
 msgid "sn_0456"
-msgstr ""
+msgstr "大战时期的怪兽"
 
 msgid "sn_0457"
-msgstr ""
+msgstr "背靠背，心连心"
 
 msgid "sn_0459"
-msgstr ""
+msgstr "一本正经的王牌"
 
 msgid "sn_0460"
-msgstr ""
+msgstr "送花少女的微笑"
 
 msgid "sn_0461"
-msgstr ""
+msgstr "醒醒啊巴萨拉！"
 
 msgid "sn_0462"
-msgstr ""
+msgstr "照亮绝望的歌声"
 
 msgid "sn_0463"
-msgstr ""
+msgstr "歌声代表着你的心"
 
 msgid "sn_0464"
-msgstr ""
+msgstr "芙蕾雅歌声的力量"
 
 msgid "sn_0465"
-msgstr ""
+msgstr "这是我特意准备的礼物"
 
 msgid "sn_0466"
-msgstr ""
+msgstr "岿然不动的山"
 
 msgid "sn_0467"
-msgstr ""
+msgstr "音力推进器"
 
 msgid "sn_0468"
-msgstr ""
+msgstr "原始恶魔"
 
 msgid "sn_0469"
-msgstr ""
+msgstr "冷冽而温暖的礼物"
 
 msgid "sn_0470"
-msgstr ""
+msgstr "徒有其表的活力"
 
 msgid "sn_0471"
-msgstr ""
+msgstr "稀客光临"
 
 msgid "sn_0472"
-msgstr ""
+msgstr "来得及做完吗？"
 
 msgid "sn_0473"
-msgstr ""
+msgstr "芙蕾雅，生日快乐"
 
 msgid "sn_0474"
-msgstr ""
+msgstr "愿好运永远眷顾你"
 
 msgid "sn_0475"
-msgstr ""
+msgstr "无比温柔的人"
 
 msgid "sn_0476"
-msgstr ""
+msgstr "这是我第一次见到雪！"
 
 msgid "sn_0477"
-msgstr ""
+msgstr "祝你生日快乐！"
 
 msgid "sn_0478"
-msgstr ""
+msgstr "特制蛋糕"
 
 msgid "sn_0479"
-msgstr ""
+msgstr "来自大家的礼物"
 
 msgid "sn_0480"
-msgstr ""
+msgstr "布置派对现场"
 
 msgid "sn_0481"
-msgstr ""
+msgstr "月光女神"
 
 msgid "sn_0483"
-msgstr ""
+msgstr "这是我们的特别演出！"
 
 msgid "sn_0484"
-msgstr ""
+msgstr "我可不是便宜的女人"
 
 msgid "sn_0485"
-msgstr ""
+msgstr "利用银河网络"
 
 msgid "sn_0486"
-msgstr ""
+msgstr "我们不会善罢甘休"
 
 msgid "sn_0487"
-msgstr ""
+msgstr "侵蚀率100%！"
 
 msgid "sn_0488"
-msgstr ""
+msgstr "梦幻般的光"
 
 msgid "sn_0489"
-msgstr ""
+msgstr "研究敌人？"
 
 msgid "sn_0490"
-msgstr ""
+msgstr "怎样才能关掉！？"
 
 msgid "sn_0491"
-msgstr ""
+msgstr "爱心的世界"
 
 msgid "sn_0492"
-msgstr ""
+msgstr "疯狂氪金！"
 
 msgid "sn_0493"
-msgstr ""
+msgstr "淘气女孩☆芙蕾雅"
 
 msgid "sn_0495"
-msgstr ""
+msgstr "明明差点就抓到了"
 
 msgid "sn_0496"
-msgstr ""
+msgstr "还能继续唱吧？"
 
 msgid "sn_0497"
-msgstr ""
+msgstr "今天一定要抓到你！"
 
 msgid "sn_0498"
-msgstr ""
+msgstr "是水母之神！"
 
 msgid "sn_0499"
-msgstr ""
+msgstr "共同眺望夕阳"
 
 msgid "sn_0500"
-msgstr ""
+msgstr "真受不了~"
 
 msgid "sn_0501"
-msgstr ""
+msgstr "发生什么事了？"
 
 msgid "sn_0502"
-msgstr ""
+msgstr "身穿泳衣的波比"
 
 msgid "sn_0503"
-msgstr ""
+msgstr "清澈的大海"
 
 msgid "sn_0504"
-msgstr ""
+msgstr "水汽氤氲的玻璃杯"
 
 msgid "sn_0505"
-msgstr ""
+msgstr "彰显成熟的淑女装扮"
 
 msgid "sn_0507"
-msgstr ""
+msgstr "猜不透的新年愿望"
 
 msgid "sn_0508"
-msgstr ""
+msgstr "欢天喜地迎新年！"
 
 msgid "sn_0509"
-msgstr ""
+msgstr "怎么才回来，奥兹玛"
 
 msgid "sn_0510"
-msgstr ""
+msgstr "稍微有点公事要处理"
 
 msgid "sn_0511"
-msgstr ""
+msgstr "向歌姬敬礼"
 
 msgid "sn_0512"
-msgstr ""
+msgstr "以歌声送别"
 
 msgid "sn_0513"
-msgstr ""
+msgstr "背靠背战斗"
 
 msgid "sn_0514"
-msgstr ""
+msgstr "最后一击"
 
 msgid "sn_0515"
-msgstr ""
+msgstr "轰开突破口"
 
 msgid "sn_0516"
-msgstr ""
+msgstr "被操控的瓦鸠拉"
 
 msgid "sn_0517"
-msgstr ""
+msgstr "心声化作双翼"
 
 msgid "sn_0518"
-msgstr ""
+msgstr "早乙女阿尔特 YF-29"
 
 msgid "sn_0519"
-msgstr ""
+msgstr "对蓝天的向往"
 
 msgid "sn_0520"
-msgstr ""
+msgstr "爱你的哥哥们"
 
 msgid "sn_0521"
-msgstr ""
+msgstr "带着她们的歌声飞过去！"
 
 msgid "sn_0523"
-msgstr ""
+msgstr "真正的舞蹈"
 
 msgid "sn_0529"
-msgstr ""
+msgstr "Holy night"
 
 msgid "sn_0531"
-msgstr ""
+msgstr "圣诞老人翩翩而至"
 
 msgid "sn_0532"
-msgstr ""
+msgstr "踏雪而来的倩影"
 
 msgid "sn_0533"
-msgstr ""
+msgstr "如此充实的假期"
 
 msgid "sn_0534"
 msgstr ""
