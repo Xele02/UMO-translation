@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-13 14:00+0000\n"
+"PO-Revision-Date: 2025-03-14 01:57+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -1023,61 +1023,61 @@ msgid "sn_0360"
 msgstr "7000年前的记忆"
 
 msgid "sn_0361"
-msgstr "点缀新春的灰姑娘"
+msgstr "新春绚彩灰姑娘"
 
 msgid "sn_0362"
 msgstr "EP【新春之风】"
 
 msgid "sn_0363"
-msgstr "新春的天空格外蓝"
+msgstr "新春晴空碧如洗"
 
 msgid "sn_0364"
 msgstr "新年约会"
 
 msgid "sn_0365"
-msgstr "以好友的遗志"
+msgstr "继承好友的遗志"
 
 msgid "sn_0366"
-msgstr "给我力量吧！"
+msgstr "给我力量吧米歇尔！"
 
 msgid "sn_0367"
-msgstr ""
+msgstr "我一定会守护好你"
 
 msgid "sn_0368"
-msgstr ""
+msgstr "什么都别说"
 
 msgid "sn_0369"
-msgstr ""
+msgstr "我们回来了"
 
 msgid "sn_0370"
-msgstr ""
+msgstr "稳操胜券的笑容"
 
 msgid "sn_0371"
-msgstr ""
+msgstr "临时换乘"
 
 msgid "sn_0372"
-msgstr ""
+msgstr "统领大军的瓦鸠拉女王"
 
 msgid "sn_0373"
-msgstr ""
+msgstr "新春华彩初绽放"
 
 msgid "sn_0374"
-msgstr ""
+msgstr "布雷拉·斯特恩"
 
 msgid "sn_0375"
-msgstr ""
+msgstr "承载回忆的歌"
 
 msgid "sn_0376"
-msgstr ""
+msgstr "蓄势布局之人"
 
 msgid "sn_0377"
-msgstr ""
+msgstr "正因我们是孤身一人"
 
 msgid "sn_0378"
-msgstr ""
+msgstr "才能去爱其他人啊！"
 
 msgid "sn_0385"
-msgstr ""
+msgstr "生日惊喜"
 
 msgid "sn_0386"
 msgstr ""
