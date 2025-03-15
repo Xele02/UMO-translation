@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
 "PO-Revision-Date: 2025-03-15 17:55+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
 "Language: fr\n"
@@ -1361,7 +1361,7 @@ msgid "StringLiteral_18280"
 msgstr ""
 
 msgid "StringLiteral_18787"
-msgstr "Crédits d'union gagnés"
+msgstr "United Credits gagnés"
 
 msgid "StringLiteral_18797"
 msgstr ""
@@ -1520,7 +1520,7 @@ msgid "UMO_achievements_debut_quest"
 msgstr "Récompense de mission de débutant."
 
 msgid "UMO_achievements_new_offer"
-msgstr "Récomp. pour 1ère complétion d'une op. Valkyrie."
+msgstr "Récomp. pour 1ère complétion d'une mission."
 
 msgid "UMO_achievements_costume"
 msgstr "Récompense pour amélioration de costume."
@@ -2075,7 +2075,7 @@ msgid "UMO_Filter"
 msgstr "Filtres"
 
 msgid "UMO_BgBrightness"
-msgstr "Luminositée"
+msgstr "Luminosité"
 
 msgid "UMO_BgDark"
 msgstr "Sombre"
@@ -2090,7 +2090,7 @@ msgid "UMO_BgIllust"
 msgstr "Illustration"
 
 msgid "UMO_ModelDisplay"
-msgstr "Model 3D"
+msgstr "Modèle 3D"
 
 msgid "UMO_NoDisplay"
 msgstr "Non affiché"
@@ -2129,7 +2129,7 @@ msgid "StringLiteral_14411"
 msgstr "Choix de l'application pour le partage."
 
 msgid "UMO_Detail"
-msgstr "Detail"
+msgstr "Détail"
 
 msgid "UMO_DisplaySwitch"
 msgstr "Switch"
@@ -2138,19 +2138,19 @@ msgid "UMO_Prism"
 msgstr "Prismes"
 
 msgid "UMO_Group"
-msgstr "Organisation du groupe"
+msgstr "Gestion du groupe"
 
 msgid "UMO_OriginSetting"
 msgstr "Organisation standard"
 
 msgid "UMO_DivaSpOn"
-msgstr "Super diva mode ON"
+msgstr "Mode Super diva ON"
 
 msgid "UMO_NotesOn"
 msgstr "Affichage notes ON"
 
 msgid "UMO_ValkOn"
-msgstr "Valkyrie mode ON"
+msgstr "Mode Valkyrie ON"
 
 msgid "UMO_PrismOn"
 msgstr "Prismes ON"
