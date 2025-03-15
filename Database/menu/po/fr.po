@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2024-10-20 14:28+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-15 17:55+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
 "Language: fr\n"
@@ -24,7 +24,7 @@ msgid "popup_title_02"
 msgstr "Confirmation du changement"
 
 msgid "popup_title_03"
-msgstr ""
+msgstr "Confirmation du changement"
 
 msgid "popup_title_04"
 msgstr "Détail de la Valkyre"
@@ -33,7 +33,7 @@ msgid "popup_title_05"
 msgstr "Détail du costume"
 
 msgid "unit_popup_title_00"
-msgstr ""
+msgstr "Sauvegarde et restauration de groupe"
 
 msgid "unit_popup_title_01"
 msgstr "Confirmation de sauvegarde"
@@ -74,19 +74,19 @@ msgstr ""
 "(Jusque {0} caractères)"
 
 msgid "popup_text_02"
-msgstr ""
+msgstr "La diva centrale ne peut pas être retirée."
 
 msgid "popup_text_03"
-msgstr ""
+msgstr "La diva centrale ne peut pas être retirée."
 
 msgid "popup_text_08"
-msgstr "Status de la diva"
+msgstr "Statut de la diva"
 
 msgid "popup_text_09"
 msgstr "Confirmation des articles consommés"
 
 msgid "popup_text_10"
-msgstr "Objets possedés"
+msgstr "Objets possédés"
 
 msgid "popup_text_11"
 msgstr "Confirmation du déblocage des capacités"
@@ -98,16 +98,16 @@ msgid "popup_text_14"
 msgstr "Organisation automatique des plaques"
 
 msgid "popup_text_15"
-msgstr ""
+msgstr "Confirmation"
 
 msgid "popup_text_16"
-msgstr "Déscription de compétence"
+msgstr "Description de compétence"
 
 msgid "popup_text_17"
 msgstr "Plaques de support"
 
 msgid "popup_sort_text_00"
-msgstr ""
+msgstr "Afficher uniquement les plaques compatibles avec la diva"
 
 msgid "popup_sort_title"
 msgstr "Ordre de tri"
@@ -123,7 +123,7 @@ msgid "popup_music_select_00"
 msgstr "Information de chanson"
 
 msgid "popup_music_select_01"
-msgstr ""
+msgstr "Récompense (provisoire) de fin de concert"
 
 msgid "popup_music_select_02"
 msgstr "Récompense de réussite"
@@ -144,16 +144,16 @@ msgid "popup_music_select_07"
 msgstr "Information d'ennemi"
 
 msgid "popup_stamina_title_00"
-msgstr ""
+msgstr "Écran de confirmation"
 
 msgid "popup_stamina_text_00"
-msgstr ""
+msgstr "Énergie insuffisante."
 
 msgid "popup_ap_title_00"
-msgstr ""
+msgstr "Écran de confirmation"
 
 msgid "popup_ap_text_00"
-msgstr ""
+msgstr "AP insuffisants."
 
 msgid "item_popup_text_00"
 msgstr "Possédé : {0,4}"
@@ -162,45 +162,55 @@ msgid "item_detail_popup_title_00"
 msgstr "Détails de l'objet"
 
 msgid "pbox_title_00"
-msgstr "Confirmation de réception"
+msgstr "Confirmation de récupération"
 
 msgid "pbox_title_01"
-msgstr ""
+msgstr "Échec de la récupération"
 
 msgid "pbox_title_02"
-msgstr "Reception de cadeaux"
+msgstr "Récupération de cadeaux"
 
 msgid "pbox_title_03"
-msgstr "Confirmation de réception en masse"
+msgstr "Confirmation de récupération en masse"
 
 msgid "pbox_title_04"
-msgstr ""
+msgstr "Montant max."
 
 msgid "pbox_text_01"
 msgstr ""
-"Recevoir \n"
+"Récupérer \n"
 "<color=#C8087E>{0}</color>.\n"
 "\n"
 "Confirmer ?"
 
 msgid "pbox_text_02"
 msgstr ""
+"Les objets que vous essayez de récupérer\n"
+"dépasse votre capacité maximale."
 
 msgid "pbox_text_03"
 msgstr ""
 "<color=#C8087E>{0}</color>\n"
 "\n"
-"reçu."
+"récupéré(s)."
 
 msgid "pbox_text_04"
 msgstr ""
+"{0}\n"
+"\n"
+"reçus et CHANCE augmenté.\n"
+"La CHANCE de {1} augmente de {2}."
 
 msgid "pbox_text_05"
 msgstr ""
+"{0}\n"
+"\n"
+"La CHANCE de {1} a atteint\n"
+"sa limite ({2})."
 
 msgid "pbox_text_06"
 msgstr ""
-"Réception des objets en masses.\n"
+"Récupération des objets en masse.\n"
 "\n"
 "Confirmer ?"
 
@@ -212,6 +222,7 @@ msgstr "{0} {0:plural:cadeau reçu|cadeaux reçus}."
 
 msgid "pbox_text_09"
 msgstr ""
+"Les objets que vous essayez de récupérer dépasse votre capacité maximale."
 
 msgid "pbox_text_10"
 msgstr "{0}/{1}/{2} {3}:{4}"
@@ -220,19 +231,19 @@ msgid "pbox_text_11"
 msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
-msgstr ""
+msgstr "{0} jours restants"
 
 msgid "pbox_text_13"
-msgstr ""
+msgstr "{0} heures restants"
 
 msgid "pbox_text_14"
-msgstr ""
+msgstr "{0} min. restantes"
 
 msgid "pbox_win_warn01"
-msgstr "<color=#c8087e>Seul les derniers {0} sont affichés</color>"
+msgstr "<color=#c8087e>Seul les derniers {0} sont affichés.</color>"
 
 msgid "pbox_win_warn02"
-msgstr "<color=#c8087e>Seul les derniers {0} sont affichés</color>"
+msgstr "<color=#c8087e>Seul les derniers {0} sont affichés.</color>"
 
 msgid "pbox_win_none01"
 msgstr "Il n'y a pas de cadeaux."
