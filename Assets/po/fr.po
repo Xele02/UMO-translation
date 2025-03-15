@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:07+0000\n"
-"PO-Revision-Date: 2024-08-23 16:56+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-15 17:55+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/assets/fr/"
 ">\n"
 "Language: fr\n"
@@ -16,3 +16,193 @@ msgstr ""
 
 msgid "pack_sel_chara/sel_chara_pop_fnt_06"
 msgstr "Sélectionne une diva"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_48"
+msgstr "Refuser"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_47"
+msgstr "Accepter"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_02"
+msgstr "Après de trop nombreuses guerres,"
+
+#, fuzzy
+msgid "cmn_pop01/cmn_pop01_fnt_01_09"
+msgstr "Fermer"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_09"
+msgstr ""
+"Des divas qui font battre le cœur des vivants avec leur chanson, \n"
+"ainsi que ceux qui les protègent."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_11"
+msgstr ""
+"Bien qu'existant à travers des trames temporelles et spatiales différentes, "
+"\n"
+"ils formèrent un réseau interdimensionnel isolé du pouvoir des hommes-"
+"oiseaux."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_13"
+msgstr "Divas d'une même scène galactique,"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_01"
+msgstr ""
+"Pas de problème.\n"
+"Passons à la suite."
+
+#, fuzzy
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_01"
+msgstr "Vérification"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_29"
+msgstr "Ré-ajustement"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_08"
+msgstr "Mais certains se levèrent face à cette destruction."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_12"
+msgstr ""
+"Par le pouvoir de la musique, ils promirent de sauver un monde\n"
+"sur le point de disparaître."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_14"
+msgstr "ils débutèrent la bataille pour restaurer la mémoire du monde."
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_l_02"
+msgstr ""
+"Vérifier et \n"
+"ajuster la tempo"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_title"
+msgstr "Ajustement de la tempo"
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_03"
+msgstr "Validation"
+
+msgid "cmn_tuto03/cmn_tuto03_window_font_01"
+msgstr "Suivant"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_43"
+msgstr "Redémarrer"
+
+msgid "gacha_main2/gacha_fnt_lot"
+msgstr "tirage"
+
+msgid "gacha_main2/gacha_fnt_02"
+msgstr "Proba."
+
+msgid "gacha_pop/gacha_pop_btn_font_01"
+msgstr "Conditions commerciales"
+
+msgid "gatsha_drop/gatsha_drop_btn_font_03"
+msgstr "Retour"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_02"
+msgstr "Âge :"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_03"
+msgstr "Anniversaire :"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_04"
+msgstr "Lieu de naissance :"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_05"
+msgstr "Aime :"
+
+msgid "pack_sel_chara/sel_chara_btn_fnt_01"
+msgstr "Voix"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_02"
+msgstr "Je le/la prends !"
+
+msgid "cmn_enquete_pack/cmn_enq_fnt_load_02"
+msgstr "Téléchargement terminé"
+
+msgid "sel_story_pack/sel_story_frm_fnt_01"
+msgstr "Parviens à terminer le concert."
+
+msgid "sel_story_pack/cmn_pop01_fnt_01_46"
+msgstr "Concert"
+
+msgid "sel_quest_packtex/sel_que_get_fnt2"
+msgstr "Envoyé dans la boîte à cadeaux."
+
+msgid "pop_item_pack/ab_uc_fnt_01"
+msgstr "Nécessaire"
+
+msgid "sel_quest_packtex/sel_que_get_fnt"
+msgstr "Les récompenses suivantes seront reçues."
+
+msgid "pop_item_pack/ab_uc_fnt_02"
+msgstr "Possédé"
+
+msgid "contract_pack/contract_font_01"
+msgstr "CGU"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_03"
+msgstr ""
+"les hommes-oiseaux, un dispositif abandonné par\n"
+"l'antique civilisation protoculturienne, se sont éveillés..."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_04"
+msgstr ""
+"Les hommes-oiseaux ont pris pour cible toutes les cultures \n"
+"à travers l'univers et on commençait à résonner à travers l'espace-temps."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_05"
+msgstr ""
+"Leur pouvoir infini ont atteint l'espace-temps mémoriel, \n"
+"un réservoir de souvenirs de vie isolé."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_07"
+msgstr ""
+"Les personnes dont les souvenirs furent détruits disparurent les unes après "
+"les autres,\n"
+"et de nombreuses civilisations disparurent dans le silence de l'espace."
+
+msgid "sel_note_adjust/sel_note_adjust_fnt_btn_02"
+msgstr "Ajustement"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_49"
+msgstr "Aller à la confirmation"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_39"
+msgstr "Passer"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_10"
+msgstr "Annuler"
+
+msgid "gacha_pop/gacha_pop_font_01"
+msgstr "Orbes sonores disponibles"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_01"
+msgstr "Profil"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_01"
+msgstr "Choisir à nouveau"
+
+msgid "sel_quest_packtex/sel_que_challenge_fnt"
+msgstr "Défi"
+
+msgid "game_res_drop_pack/g_r_drop_txt_rare"
+msgstr "Tirage rare"
+
+msgid "game_res_drop_02_pack/g_r_drop_txt_normal"
+msgstr "Tirage régulier"
+
+msgid "game_res_drop_pack/g_r_drop_getuc"
+msgstr "Union Credits gagnés"
+
+msgid "sel_story_pack/sel_story_frm_fnt_02"
+msgstr "Veux-tu jouer un concert ?"
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_01"
+msgstr "Dans un futur lointain,une civilisation intergalactique est née."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_06"
+msgstr "Ils commencèrent ainsi à détruire les souvenirs du monde."
+
+msgid "cmn_tuto02/cmn_tuto02_fnt_10"
+msgstr ""
+"Ces divas furent épargnés de l'amnésie\n"
+"grâce à leurs puissantes ondes bio-fold,"
