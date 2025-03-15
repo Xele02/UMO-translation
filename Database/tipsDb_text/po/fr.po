@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2024-11-19 06:24+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-16 07:24+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
 "Language: fr\n"
@@ -746,7 +746,7 @@ msgid "tips_0095_msg"
 msgstr ""
 
 msgid "tips_0096_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0096_msg"
 msgstr ""
@@ -754,7 +754,7 @@ msgstr ""
 "Kumo à l'arrière est aussi jolie♪"
 
 msgid "tips_0097_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0097_msg"
 msgstr ""
@@ -762,7 +762,7 @@ msgstr ""
 "Makina... le meilleur... !"
 
 msgid "tips_0098_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0098_msg"
 msgstr ""
@@ -770,7 +770,7 @@ msgstr ""
 "Kumo en maillot de bain est très sexy !"
 
 msgid "tips_0099_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0099_msg"
 msgstr ""
@@ -778,7 +778,7 @@ msgstr ""
 "lumineuses... C'est fantastique"
 
 msgid "tips_0100_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0100_msg"
 msgstr ""
@@ -786,7 +786,7 @@ msgstr ""
 "Makina sexy... ça me rend nerveuse…"
 
 msgid "tips_0101_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0101_msg"
 msgstr ""
@@ -794,7 +794,7 @@ msgstr ""
 "Reirei est belle quand elle chante  !"
 
 msgid "tips_0102_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0102_msg"
 msgstr ""
@@ -802,7 +802,7 @@ msgstr ""
 "Si mignonne avec son sourire !"
 
 msgid "tips_0103_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0103_msg"
 msgstr ""
@@ -810,7 +810,7 @@ msgstr ""
 "C'est tellement cool et excitant !"
 
 msgid "tips_0104_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0104_msg"
 msgstr ""
@@ -818,7 +818,7 @@ msgstr ""
 "Le macross a l'arrière est aussi joli !"
 
 msgid "tips_0105_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0105_msg"
 msgstr ""
@@ -826,7 +826,7 @@ msgstr ""
 "Mylène adulte est aussi mignonne♪"
 
 msgid "tips_0106_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0106_msg"
 msgstr ""
@@ -834,7 +834,7 @@ msgstr ""
 "l'air si mignonne jouant de la basse♪"
 
 msgid "tips_0107_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0107_msg"
 msgstr ""
@@ -842,7 +842,7 @@ msgstr ""
 "décisive ! Fire Valkyrie... si mignonne !"
 
 msgid "tips_0108_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0108_msg"
 msgstr ""
@@ -850,7 +850,7 @@ msgstr ""
 "saute ! Basara a l'air athlétique～"
 
 msgid "tips_0109_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0109_msg"
 msgstr ""
@@ -858,7 +858,7 @@ msgstr ""
 "C'est parfait pour l'adorable Min-Min♪"
 
 msgid "tips_0110_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0110_msg"
 msgstr ""
@@ -866,7 +866,7 @@ msgstr ""
 "suis heureuse de chanter avec elle"
 
 msgid "tips_0111_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0111_msg"
 msgstr ""
@@ -874,7 +874,7 @@ msgstr ""
 "danser, tu peux ressentir nos pensées ?"
 
 msgid "tips_0112_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0112_msg"
 msgstr ""
@@ -882,7 +882,7 @@ msgstr ""
 "si on allait à l'école ensemble ?"
 
 msgid "tips_0113_title"
-msgstr "Gallerie de costume"
+msgstr "Galerie de costume"
 
 msgid "tips_0113_msg"
 msgstr ""
