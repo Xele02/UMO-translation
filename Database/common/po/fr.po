@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:35+0000\n"
-"PO-Revision-Date: 2025-01-25 16:05+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-15 17:55+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "common/fr/>\n"
 "Language: fr\n"
@@ -15,82 +15,91 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "saka_error0000"
-msgstr ""
+msgstr "Une erreur a eu lieu."
 
 msgid "saka_error0001"
 msgstr ""
+"Une erreur a eu lieu.\n"
+"Merci de réessayer plus tard."
 
 msgid "saka_error0002"
 msgstr ""
+"Une erreur de réseau a eu lieu.\n"
+"Merci de vérifier votre connexion."
 
 msgid "saka_error0003"
 msgstr ""
+"Une erreur de réseau a eu lieu.\n"
+"Merci de vérifier votre connexion. Si vous annulez, vous retournerez à "
+"l'écran titre."
 
 msgid "saka_error0004"
-msgstr ""
+msgstr "Fichier non trouvé."
 
 msgid "saka_error0005"
-msgstr ""
+msgstr "Aucune information pertinente ne peut être trouvée."
 
 msgid "saka_error0006"
-msgstr ""
+msgstr "Indisponible à l'achat."
 
 msgid "saka_error0007"
-msgstr ""
+msgstr "Impossible d'en acheter d'autres."
 
 msgid "saka_error0008"
-msgstr ""
+msgstr "Échec de l'achat."
 
 msgid "saka_error0009"
-msgstr ""
+msgstr "Ce code a déjà été utilisé."
 
 msgid "saka_error0010"
-msgstr ""
+msgstr "Ce code n'est pas disponible."
 
 msgid "saka_error0011"
 msgstr ""
+"Une erreur a eu lieu.\n"
+"Merci de redémarrer l'application."
 
 msgid "saka_error0012"
-msgstr ""
+msgstr "Contient des mots interdits."
 
 msgid "saka_error0013"
-msgstr ""
+msgstr "Joueur non trouvé."
 
 msgid "saka_error0014"
-msgstr ""
+msgstr "Déjà reçu."
 
 msgid "saka_error0015"
-msgstr ""
+msgstr "Non reçu."
 
 msgid "saka_error0016"
-msgstr ""
+msgstr "Ami non trouvé."
 
 msgid "saka_error0017"
-msgstr ""
+msgstr "Demande d'ami rejeté car vous êtes sur sa liste noire."
 
 msgid "saka_error0018"
-msgstr ""
+msgstr "Échec de la demande d'ami."
 
 msgid "saka_error0019"
-msgstr ""
+msgstr "Le joueur a refusé d'être votre ami."
 
 msgid "saka_error0020"
-msgstr ""
+msgstr "Demande d'ami déjà émise."
 
 msgid "saka_error0021"
-msgstr ""
+msgstr "Le nombre maximal d'amis de l'autre joueur est déjà dépassé."
 
 msgid "saka_error0022"
-msgstr ""
+msgstr "Nombre maximal d'amis atteint."
 
 msgid "saka_error0023"
-msgstr ""
+msgstr "Code d'invitation indisponible."
 
 msgid "saka_error0024"
-msgstr ""
+msgstr "Vous ne pouvez pas utiliser votre propre code."
 
 msgid "saka_error0025"
-msgstr ""
+msgstr "Vous avez déjà utiliser ce code."
 
 msgid "saka_error0026"
 msgstr ""
@@ -454,9 +463,19 @@ msgstr ""
 
 msgid "game_popup_retire_text_battle"
 msgstr ""
+"Si vous abandonnez, vous ne collecterez aucune récompense.\n"
+"Êtes-vous certain.e ?\n"
+"\n"
+"<color=#8e0529>※Pour les batailles EX, la jauge EX sera remise à "
+"zéro.</color>"
 
 msgid "game_popup_retire_text_godiva"
 msgstr ""
+"Si vous abandonnez, vous ne collecterez aucune récompense.\n"
+"Êtes-vous certain.e ?\n"
+"\n"
+"<color=#8e0529>※Pour les concerts spéciaux,\n"
+" les bonus de concert seront perdus.</color>"
 
 msgid "game_popup_retire_story_text"
 msgstr "Veux-tu quitter ?"
@@ -476,7 +495,7 @@ msgstr ""
 "aller à la suite ?"
 
 msgid "mlv_unlock_00"
-msgstr ""
+msgstr "{0} monte au niveau {1}."
 
 msgid "mlv_unlock_01"
 msgstr ""
@@ -501,19 +520,22 @@ msgid "popup_inh_sns_003"
 msgstr "Réapparaîtra après 30 jours."
 
 msgid "popup_inh_title_001"
-msgstr ""
+msgstr "Entrer le mot de passe."
 
 msgid "popup_inh_pass_000"
 msgstr ""
+"En entrant un login et un mot de passe, \n"
+"vous pouvez récupérer les données \n"
+"d'un autre appareil."
 
 msgid "popup_inh_pass_001"
-msgstr ""
+msgstr "Mot de passe"
 
 msgid "popup_inh_title_002"
-msgstr ""
+msgstr "Procédure de changement de téléphone"
 
 msgid "popup_inh_title_003"
-msgstr ""
+msgstr "Mot de passe oublié"
 
 msgid "popup_inh_pass_002"
 msgstr ""
