@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-03-13 14:00+0000\n"
-"Last-Translator: ttirae <rmsghdortus@gmail.com>\n"
+"PO-Revision-Date: 2025-03-16 13:48+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
 "Language: ko\n"
@@ -1724,28 +1724,28 @@ msgid "UMO_currency_5002_desc"
 msgstr ""
 
 msgid "UMO_product_178088_name"
-msgstr "★5확정데뷔가챠22 10연속"
+msgstr "★5 확정 데뷔 가챠 22 10연속"
 
 msgid "UMO_product_178088_desc_name"
-msgstr "데뷔가챠"
+msgstr "데뷔 가챠"
 
 msgid "UMO_product_429267_name"
-msgstr "★5확정서비스가챠8"
+msgstr "★5 확정 서비스 가챠 8"
 
 msgid "UMO_product_429267_desc_name"
-msgstr "★5확정서비스가챠"
+msgstr "★5 확정 서비스 가챠"
 
 msgid "UMO_product_429267_desc_desc"
 msgstr ""
-"★5확정서비스가챠 사용시\n"
-"★5 플레이트가 입수가능\n"
+"★5 확정 서비스 가챠 사용 시\n"
+"★5 플레이트 획득 가능\n"
 "※2022/3/31 라인업 갱신"
 
 msgid "UMO_product_429712_name"
-msgstr "서비스가챠317"
+msgstr "서비스 가챠 317"
 
 msgid "UMO_product_429712_desc_name"
-msgstr "서비스가챠"
+msgstr "서비스 가챠"
 
 msgid "UMO_product_429712_desc_desc"
 msgstr ""
@@ -1757,49 +1757,49 @@ msgstr ""
 "　　　　　　　　　　　　　－셰릴 놈－"
 
 msgid "UMO_product_429927_name"
-msgstr "초시공가챠45"
+msgstr "초시공 가챠 45"
 
 msgid "UMO_product_429927_desc_name"
-msgstr "초시공가챠"
+msgstr "초시공 가챠"
 
 msgid "UMO_product_429927_desc_desc"
 msgstr ""
-"초시공가챠티켓을 소비하여\n"
-"★1～★6의 플레이트를 입수 가능.\n"
+"초시공 가챠 티켓을 소비하여\n"
+"★1～★6의 플레이트를 획득 가능.\n"
 "※2022/5/1 라인업 갱신"
 
 msgid "UMO_product_429928_name"
-msgstr "픽업가챠159"
+msgstr "픽업 가챠 159"
 
 msgid "UMO_product_429928_desc_free_msg"
 msgstr "1회 무료!"
 
 msgid "UMO_product_429928_desc_name"
-msgstr "★5이상 확정 가챠"
+msgstr "★5 이상 확정 가챠"
 
 msgid "UMO_product_429929_name"
-msgstr "픽업가챠159 10연속"
+msgstr "픽업 가챠 159 10연속"
 
 msgid "UMO_product_429929_desc_free_msg"
 msgstr "1회 무료!"
 
 msgid "UMO_product_429929_desc_kakutei"
-msgstr "★5이상 10장 확정"
+msgstr "★5 이상 10장 확정"
 
 msgid "UMO_product_429929_desc_name"
-msgstr "★5이상 확정 가챠"
+msgstr "★5 이상 확정 가챠"
 
 msgid "UMO_product_429930_name"
-msgstr "픽업가챠159 10연속 초회"
+msgstr "픽업 가챠 159 10연속 최초"
 
 msgid "UMO_product_429930_desc_free_msg"
 msgstr "1회 무료!"
 
 msgid "UMO_product_429930_desc_kakutei"
-msgstr "★5이상 10장 확정"
+msgstr "★5 이상 10장 확정"
 
 msgid "UMO_product_429930_desc_name"
-msgstr "★5이상 확정 가챠"
+msgstr "★5 이상 확정 가챠"
 
 msgid "UMO_product_430020_name"
 msgstr ""
@@ -1809,7 +1809,7 @@ msgstr "10연속 무료"
 
 msgid "UMO_product_430020_desc_free_multi_msg"
 msgstr ""
-"1일1회\n"
+"1일 1회\n"
 "무료!"
 
 msgid "UMO_product_430020_desc_name"
@@ -1825,115 +1825,115 @@ msgid "UMO_product_67572_name"
 msgstr "스태미너 회복"
 
 msgid "UMO_product_153192_name"
-msgstr "VOP 고속완료"
+msgstr "VOP 고속 완료"
 
 msgid "UMO_product_153192_desc"
-msgstr "VOP 고속완료 실행에 사용합니다."
+msgstr "VOP 고속 완료 실행에 사용합니다."
 
 msgid "UMO_product_167079_name"
-msgstr "AP회복"
+msgstr "AP 회복"
 
 msgid "UMO_product_222423_name"
-msgstr "AP회복2"
+msgstr "AP 회복 2"
 
 msgid "UMO_product_222423_desc"
-msgstr "AP회복(소)"
+msgstr "AP 회복(소)"
 
 msgid "UMO_product_222424_name"
-msgstr "AP회복3"
+msgstr "AP 회복 3"
 
 msgid "UMO_product_222424_desc"
-msgstr "AP회복(대)"
+msgstr "AP 회복(대)"
 
 msgid "UMO_product_428662_name"
-msgstr "2022년 봄 5월:봄스피어:행운의황석x1 (구입제한있음&5월)"
+msgstr "2022년 봄 5월 : 봄 스피어 : 행운의 황석x1 (구입 제한 있음&5월)"
 
 msgid "UMO_product_428665_name"
-msgstr "2022년 봄 5월:봄스피어:행운의휘석x1 (구입제한있음&5월)"
+msgstr "2022년 봄 5월 : 봄스피어 : 행운의 휘석x1 (구입 제한 있음&5월)"
 
 msgid "UMO_product_428666_name"
-msgstr "2022년봄 2월 : 봄 스피어：별의결정(소)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 별의 결정(소)×5"
 
 msgid "UMO_product_428667_name"
-msgstr "2022년봄 2월 : 봄 스피어：별의결정(중)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 별의 결정(중)×5"
 
 msgid "UMO_product_428668_name"
-msgstr "2022년봄 2월 : 봄 스피어：별의결정(대)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 별의 결정(대)×5"
 
 msgid "UMO_product_428669_name"
-msgstr "2022년봄 2월 : 봄 스피어：사랑의결정(소)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 사랑의 결정(소)×5"
 
 msgid "UMO_product_428670_name"
-msgstr "2022년봄 2월 : 봄 스피어：사랑의결정(중)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 사랑의 결정(중)×5"
 
 msgid "UMO_product_428671_name"
-msgstr "2022년봄 2월 : 봄 스피어：사랑의결정(대)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 사랑의 결정(대)×5"
 
 msgid "UMO_product_428672_name"
-msgstr "2022년봄 2월 : 봄 스피어：생명의결정(소)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 생명의 결정(소)×5"
 
 msgid "UMO_product_428673_name"
-msgstr "2022년봄 2월 : 봄 스피어：생명의결정(중)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 생명의 결정(중)×5"
 
 msgid "UMO_product_428674_name"
-msgstr "2022년봄 2월 : 봄 스피어：생명의결정(대)×5"
+msgstr "2022년 봄 2월 : 봄 스피어 : 생명의 결정(대)×5"
 
 msgid "UMO_product_428675_name"
-msgstr "2022년봄 2월 : 봄 스피어：멜로디 스톤(소)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 멜로디 스톤(소)×20"
 
 msgid "UMO_product_428676_name"
-msgstr "2022년봄 2월 : 봄 스피어：멜로디 스톤(중)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 멜로디 스톤(중)×20"
 
 msgid "UMO_product_428677_name"
-msgstr "2022년봄 2월 : 봄 스피어：멜로디 스톤(대)×20"
+msgstr "2022년봄 2월 : 봄 스피어 : 멜로디 스톤(대)×20"
 
 msgid "UMO_product_428678_name"
-msgstr "2022년봄 2월 : 봄 스피어：소울 스톤(소)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 소울 스톤(소)×20"
 
 msgid "UMO_product_428679_name"
-msgstr "2022년봄 2월 : 봄 스피어：소울 스톤(중)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 소울 스톤(중)×20"
 
 msgid "UMO_product_428680_name"
-msgstr "2022년봄 2월 : 봄 스피어：소울 스톤(대)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 소울 스톤(대)×20"
 
 msgid "UMO_product_428681_name"
-msgstr "2022년봄 2월 : 봄 스피어：보이스 스톤(소)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 보이스 스톤(소)×20"
 
 msgid "UMO_product_428682_name"
-msgstr "2022년봄 2월 : 봄 스피어：보이스 스톤(중)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 보이스 스톤(중)×20"
 
 msgid "UMO_product_428683_name"
-msgstr "2022년봄 2월 : 봄 스피어：보이스 스톤(대)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 보이스 스톤(대)×20"
 
 msgid "UMO_product_428684_name"
-msgstr "2022년봄 2월 : 봄 스피어：챰 스톤(소)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 챰 스톤(소)×20"
 
 msgid "UMO_product_428685_name"
-msgstr "2022년봄 2월 : 봄 스피어：챰 스톤(중)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 챰 스톤(중)×20"
 
 msgid "UMO_product_428686_name"
-msgstr "2022년봄 2월 : 봄 스피어：챰 스톤(대)×20"
+msgstr "2022년 봄 2월 : 봄 스피어 : 챰 스톤(대)×20"
 
 msgid "UMO_product_428687_name"
-msgstr "2022년봄 2월 : 봄 스피어：UC×2000"
+msgstr "2022년 봄 2월 : 봄 스피어 : UC×2000"
 
 msgid "UMO_product_428690_name"
-msgstr "2022년봄 5월 : 봄 스피어：★5확정가챠티켓x1 (구입제한있음&5월)"
+msgstr "2022년 봄 5월 : 봄 스피어 : ★5 확정 가챠 티켓x1 (구입 제한 있음&5월)"
 
 msgid "UMO_product_428693_name"
-msgstr "2022년봄 5월 : 봄 스피어：초시공가챠티켓x1 (구입제한있음&5월)"
+msgstr "2022년 봄 5월 : 봄 스피어 : 초시공 가챠 티켓x1 (구입 제한 있음&5월)"
 
 msgid "UMO_product_428696_name"
-msgstr "2022년봄 5월 : 봄 스피어：시크릿 스톤x1 (구입제한있음&5월)"
+msgstr "2022년 봄 5월 : 봄 스피어 : 시크릿 스톤x1 (구입 제한 있음&5월)"
 
 msgid "UMO_product_428699_name"
-msgstr "2022년봄 5월 : 봄 스피어：에피소드 오브(대)x1 (구입제한있음&5월)"
+msgstr "2022년 봄 5월 : 봄 스피어 : 에피소드 오브(대)x1 (구입 제한 있음&5월)"
 
 msgid "UMO_start_present_1"
-msgstr "우타 마크로스 특별 선물 입니다."
+msgstr "우타 마크로스 특별 선물입니다."
 
 msgid "UMO_start_present_2"
-msgstr "우타 마크로스 플레이 개시기념 선물 입니다."
+msgstr "우타 마크로스 플레이 시작 기념 선물입니다."
 
 msgid "UMO_Next"
 msgstr "Next"
@@ -1984,13 +1984,13 @@ msgid "UMO_SupportImp"
 msgstr "지원 플레이트 미해방"
 
 msgid "UMO_SupportImp2"
-msgstr "해금조건 : 의상강화로 지원플레이트 해금을 획득하기."
+msgstr "해방 조건: 의상 강화로 지원 플레이트 해방 획득하기."
 
 msgid "UMO_NumLeft"
 msgstr "남은 횟수"
 
 msgid "UMO_PlayAttr"
-msgstr "플레이 할 악곡 속성"
+msgstr "플레이할 악곡 속성"
 
 msgid "UMO_PlayAttr2"
 msgstr "우선할 속성"
@@ -2029,13 +2029,13 @@ msgid "UMO_IntimacyLevel"
 msgstr "친밀도Lv"
 
 msgid "UMO_CostumeCount"
-msgstr "의상소지수"
+msgstr "의상 보유 수"
 
 msgid "UMO_DivaStatus"
 msgstr "가희 스테이터스"
 
 msgid "UMO_CostumeStatus"
-msgstr "의상강화 스테이터스"
+msgstr "의상 강화 스테이터스"
 
 msgid "UMO_SoulTotal"
 msgstr "소울 어필"
@@ -2053,13 +2053,13 @@ msgid "UMO_DivaRankingBtn"
 msgstr "가희 랭킹 확인"
 
 msgid "UMO_Age"
-msgstr "연령"
+msgstr "나이"
 
 msgid "UMO_Birthplace"
 msgstr "출신지"
 
 msgid "UMO_Favorite"
-msgstr "좋아하는것"
+msgstr "좋아하는 것"
 
 msgid "UMO_DivaDesc"
 msgstr "가희 소개"
@@ -2068,7 +2068,7 @@ msgid "UMO_Back"
 msgstr "돌아가기"
 
 msgid "UMO_Costume"
-msgstr "의상변경"
+msgstr "의상 변경"
 
 msgid "UMO_Gift"
 msgstr "선물"
@@ -2083,7 +2083,7 @@ msgid "UMO_SkillFilterActive"
 msgstr "설정중"
 
 msgid "UMO_SkillFilterDisableAll"
-msgstr "선택해제"
+msgstr "선택 해제"
 
 msgid "UMO_SkillFilterLongNote"
 msgstr "롱・숏"
@@ -2125,10 +2125,10 @@ msgid "UMO_UnitNumber"
 msgstr "유닛 라이브"
 
 msgid "UMO_Display"
-msgstr "표시한다"
+msgstr "표시함"
 
 msgid "UMO_NoDisplay"
-msgstr "표시 하지 않음"
+msgstr "표시하지 않음"
 
 msgid "UMO_ModelDisplay"
 msgstr "모델의 표시설정"
@@ -2158,7 +2158,7 @@ msgid "UMO_Ok"
 msgstr "OK"
 
 msgid "UMO_Cancel"
-msgstr "캔슬"
+msgstr "취소"
 
 msgid "UMO_Detail"
 msgstr "상세"
@@ -2176,13 +2176,13 @@ msgid "UMO_PrismOn"
 msgstr "초시공 프리즘 ON"
 
 msgid "UMO_ValkOn"
-msgstr "발키리모드 ON"
+msgstr "발키리 모드 ON"
 
 msgid "StringLiteral_14411"
-msgstr "이미지를 공유할 어플을 선택해주세요."
+msgstr "이미지를 공유할 어플을 선택해 주세요."
 
 msgid "UMO_Filter"
 msgstr "필터"
 
 msgid "UMO_UnlockStatus"
-msgstr "악곡 해금 상황"
+msgstr "악곡 해방 상황"
