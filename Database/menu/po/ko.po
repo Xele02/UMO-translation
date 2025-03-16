@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-16 13:49+0000\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -180,7 +180,7 @@ msgstr ""
 "<color=#C8087E>{0}</color>\n"
 "을(를) 수령합니다.\n"
 "\n"
-"괜찮습니까?"
+"괜찮으시겠습니까?"
 
 msgid "pbox_text_02"
 msgstr ""
@@ -240,10 +240,10 @@ msgid "pbox_text_14"
 msgstr "앞으로 {0}분"
 
 msgid "pbox_win_warn01"
-msgstr ""
+msgstr "<color=#c8087e>최신 {0}건이 표시됩니다. </color>"
 
 msgid "pbox_win_warn02"
-msgstr ""
+msgstr "<color=#c8087e>최신 {0}건이 표시됩니다. </color>"
 
 msgid "pbox_win_none01"
 msgstr "선물이 없습니다."
@@ -2903,19 +2903,19 @@ msgid "popup_music_rate_up"
 msgstr "↑"
 
 msgid "popup_music_rate_not_found"
-msgstr ""
+msgstr "노래 레이트 기록이 없습니다."
 
 msgid "popup_music_rate_ranking_not_found"
 msgstr ""
 
 msgid "popup_music_rate_next_01"
-msgstr ""
+msgstr "앞으로"
 
 msgid "popup_music_rate_next_02"
 msgstr ""
 
 msgid "popup_music_rate_must"
-msgstr ""
+msgstr "필요 노래 레이트"
 
 msgid "popup_music_rate_get_reward_desc_01"
 msgstr ""
@@ -2924,7 +2924,7 @@ msgid "popup_music_rate_get_reward_desc_02"
 msgstr ""
 
 msgid "popup_music_rate_desc"
-msgstr ""
+msgstr "노래 등급은 하이 스코어 상위 10곡의 노래 레이트의 총합으로 결정됩니다."
 
 msgid "popup_music_rate_rank_unit"
 msgstr "{0}위"
@@ -3777,10 +3777,12 @@ msgid "popup_update_operation_text"
 msgstr ""
 
 msgid "popup_dateline_error_title"
-msgstr ""
+msgstr "날짜 변경"
 
 msgid "popup_dateline_error_text"
 msgstr ""
+"날짜 변경 처리에 실패했습니다.\n"
+"타이틀 화면으로 돌아갑니다."
 
 msgid "pop_pass_goto_home_2"
 msgstr ""
@@ -4290,7 +4292,7 @@ msgid "pop_raid_ap_heal_text"
 msgstr ""
 
 msgid "pop_raid_ap_heal_item01_text01"
-msgstr ""
+msgstr "가정석x{0}개"
 
 msgid "pop_raid_ap_heal_item01_text02"
 msgstr ""
@@ -4633,10 +4635,10 @@ msgid "popup_raid_ap_recovery_title"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg"
-msgstr ""
+msgstr "가정석을 {0}개 소모하여 AP를 {1} 회복하시겠습니까?"
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg02"
-msgstr ""
+msgstr "가정석을 {0}개 소모하여 AP를 {1} 회복하시겠습니까?"
 
 msgid "popup_raid_ap_recovery_use_item_check_msg"
 msgstr ""
@@ -6363,6 +6365,8 @@ msgstr ""
 
 msgid "music_not_exist_line6_text_01"
 msgstr ""
+"현재 시리즈에서 플레이할 수 있는\n"
+"6레인용 악곡이 없습니다."
 
 msgid "vertical_music_select_event_remain_time"
 msgstr ""
@@ -6371,7 +6375,7 @@ msgid "vertical_music_select_event_remain_count"
 msgstr ""
 
 msgid "music_event_remain_prefix_01"
-msgstr ""
+msgstr "앞으로"
 
 msgid "vertical_music_select_event_period"
 msgstr ""
