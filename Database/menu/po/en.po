@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-03-14 01:57+0000\n"
+"PO-Revision-Date: 2025-03-16 13:48+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "popup_title_00"
-msgstr "Notice"
+msgstr "Notices"
 
 msgid "popup_title_01"
-msgstr "Edit Unit Name"
+msgstr "Edit Team Name"
 
 msgid "popup_title_02"
 msgstr "Change Confirmation"
@@ -33,16 +33,16 @@ msgid "popup_title_05"
 msgstr "Costume Details"
 
 msgid "unit_popup_title_00"
-msgstr "Unit Setting Save And Recall"
+msgstr "Team Save & Recall"
 
 msgid "unit_popup_title_01"
 msgstr "Save Confirmation"
 
 msgid "unit_popup_title_02"
-msgstr "Confirm Overwriting"
+msgstr "Overwrite Confirmation"
 
 msgid "unit_popup_title_03"
-msgstr "Call Acknowledgement"
+msgstr "Recall Confirmation"
 
 msgid "unit_setpopup_text_00"
 msgstr "Unit Set {0}"
@@ -627,7 +627,7 @@ msgid "growth_popup_title_text02"
 msgstr ""
 
 msgid "growth_popup_title_text03"
-msgstr "Expand Secret Board"
+msgstr "Expanding Secret Boards"
 
 msgid "growth_popup_title_text04"
 msgstr ""
@@ -3176,7 +3176,7 @@ msgid "cmn_profil_emblem_none"
 msgstr ""
 
 msgid "pop_eve_story_title"
-msgstr ""
+msgstr "Event Story"
 
 msgid "ar_net_error_01"
 msgstr ""
@@ -3896,7 +3896,7 @@ msgid "pop_deco_storage_delete_comp_desc"
 msgstr ""
 
 msgid "pop_deco_storage_overwrite_title"
-msgstr ""
+msgstr "Overwrite Confirmation"
 
 msgid "pop_deco_storage_overwrite_desc"
 msgstr ""
@@ -4283,7 +4283,7 @@ msgid "pop_customstamp_createlimit_desc"
 msgstr ""
 
 msgid "pop_customstamp_sort_save_title"
-msgstr ""
+msgstr "Save Confirmation"
 
 msgid "pop_customstamp_sort_save_desc"
 msgstr ""
@@ -4709,7 +4709,7 @@ msgid "popup_raid_ap_recovery_success_bonus_text"
 msgstr ""
 
 msgid "popup_deco_save_confirm_title"
-msgstr ""
+msgstr "Save Confirmation"
 
 msgid "popup_deco_save_confirm_desc"
 msgstr ""
