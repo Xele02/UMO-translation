@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-14 01:57+0000\n"
+"PO-Revision-Date: 2025-03-16 13:48+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -1081,22 +1081,22 @@ msgid "StringLiteral_12921"
 msgstr "Rare Up Star Auto Conversion"
 
 msgid "StringLiteral_12922"
-msgstr "Get Live Skip Tickets"
+msgstr "Getting Live Skip Tickets"
 
 msgid "StringLiteral_12923"
 msgstr "Using Rare Up Stars"
 
 msgid "StringLiteral_12924"
-msgstr "Expand Secret Board"
+msgstr "Expanding Secret Boards"
 
 msgid "StringLiteral_12925"
-msgstr ""
+msgstr "Song Grade Clear Rewards"
 
 msgid "StringLiteral_12926"
-msgstr ""
+msgstr "Monthly Special Pass Login Bonuses"
 
 msgid "StringLiteral_12927"
-msgstr ""
+msgstr "Other"
 
 msgid "StringLiteral_12928"
 msgstr "Event Story"
@@ -1105,13 +1105,13 @@ msgid "StringLiteral_12929"
 msgstr "Carousel Banner"
 
 msgid "StringLiteral_12930"
-msgstr ""
+msgstr "Event Home Screen"
 
 msgid "StringLiteral_12931"
 msgstr "Event Daily"
 
 msgid "StringLiteral_12932"
-msgstr ""
+msgstr "Specials Button"
 
 msgid "StringLiteral_12933"
 msgstr "Event Banner"
@@ -1120,49 +1120,51 @@ msgid "StringLiteral_12934"
 msgstr "Event Balloon"
 
 msgid "StringLiteral_12935"
-msgstr ""
+msgstr "Special Event Home"
 
 msgid "StringLiteral_12936"
-msgstr ""
+msgstr "Home Auto Play"
 
 msgid "StringLiteral_12937"
-msgstr ""
+msgstr "Ability Board"
 
 msgid "StringLiteral_12943"
 msgstr "Valkyrie Flight"
 
 msgid "StringLiteral_13053"
-msgstr ""
+msgstr "★[0-9]"
 
 msgid "StringLiteral_13085"
 msgstr "Item"
 
 msgid "StringLiteral_13101"
-msgstr ""
+msgstr "Under 5 mins."
 
 msgid "StringLiteral_13102"
-msgstr ""
+msgstr "mins. ago"
 
 msgid "StringLiteral_13103"
-msgstr ""
+msgstr "hrs. ago"
 
 msgid "StringLiteral_13104"
-msgstr ""
+msgstr "days ago"
 
 msgid "StringLiteral_13105"
-msgstr ""
+msgstr "365 days+"
 
 msgid "StringLiteral_13106"
-msgstr ""
+msgstr "1hr. ago"
 
 msgid "StringLiteral_13238"
-msgstr ""
+msgstr "<color=red>The arrow layout is NULL.</color>"
 
 msgid "StringLiteral_13316"
-msgstr ""
+msgstr "Default 3D mode setting: "
 
 msgid "StringLiteral_13620"
 msgstr ""
+" - Unsupported values given\n"
+"   {0}"
 
 msgid "StringLiteral_13959"
 msgstr "★"
@@ -1171,10 +1173,10 @@ msgid "StringLiteral_13975"
 msgstr "EX Rate="
 
 msgid "StringLiteral_13976"
-msgstr ""
+msgstr ",EX Score effect="
 
 msgid "StringLiteral_13977"
-msgstr ""
+msgstr ",CL Skill="
 
 msgid "StringLiteral_14007"
 msgstr "×{0}"
