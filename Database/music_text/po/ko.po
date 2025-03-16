@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-13 14:00+0000\n"
-"Last-Translator: ttirae <rmsghdortus@gmail.com>\n"
+"PO-Revision-Date: 2025-03-16 13:48+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/ko/>\n"
 "Language: ko\n"
@@ -555,8 +555,8 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 
 msgid "musicName_0020_vocalNameLF"
 msgstr ""
-"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노,\n"
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0020_description"
 msgstr ""
@@ -610,8 +610,8 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 
 msgid "musicName_0022_vocalNameLF"
 msgstr ""
-"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, \n"
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0022_description"
 msgstr ""
@@ -643,8 +643,8 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 
 msgid "musicName_0023_vocalNameLF"
 msgstr ""
-"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노,\n"
-" 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0023_description"
 msgstr ""
@@ -670,8 +670,8 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 
 msgid "musicName_0024_vocalNameLF"
 msgstr ""
-"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, \n"
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0024_description"
 msgstr ""
@@ -703,8 +703,8 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 
 msgid "musicName_0025_vocalNameLF"
 msgstr ""
-"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노,\n"
-" 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0025_description"
 msgstr ""
