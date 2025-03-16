@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:44+0000\n"
-"PO-Revision-Date: 2024-08-17 14:11+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "snsdb_text/fr/>\n"
 "Language: fr\n"
@@ -18,187 +18,188 @@ msgid "room_name_0001_txt"
 msgstr "Espace de contact SNS"
 
 msgid "room_name_0002_txt"
-msgstr ""
+msgstr "Salon de discussion"
 
 msgid "room_name_0003_txt"
-msgstr ""
+msgstr "Célébration ☆ Salle d'anniversaire"
 
 msgid "room_name_0004_txt"
-msgstr ""
+msgstr "Chambre de Freyja"
 
 msgid "room_name_0005_txt"
-msgstr ""
+msgstr "Chambre de Mikumo"
 
 msgid "room_name_0006_txt"
-msgstr ""
+msgstr "Chambre de Kaname"
 
 msgid "room_name_0007_txt"
-msgstr ""
+msgstr "Chambre de Makina"
 
 msgid "room_name_0008_txt"
-msgstr ""
+msgstr "Chambre de Reina"
 
 msgid "room_name_0009_txt"
-msgstr ""
+msgstr "Chambre de Ranka"
 
 msgid "room_name_0010_txt"
-msgstr ""
+msgstr "Chambre de Sheryl"
 
 msgid "room_name_0011_txt"
-msgstr ""
+msgstr "Chambre de Mylène"
 
 msgid "room_name_0012_txt"
-msgstr ""
+msgstr "Chambre de Basara"
 
 msgid "room_name_0013_txt"
-msgstr ""
+msgstr "Chambre de Minmay"
 
 msgid "room_name_0014_txt"
-msgstr ""
+msgstr "Super Dimensional Venus Walküre"
 
 msgid "room_name_0015_txt"
-msgstr ""
+msgstr "Flash of AXIA"
 
 msgid "room_name_0016_txt"
-msgstr ""
+msgstr "It's summer! It's the beach! Swimsuit De Show!"
 
 msgid "room_name_0017_txt"
-msgstr ""
+msgstr "PASTEL♡SUMMER"
 
 msgid "room_name_0018_txt"
-msgstr ""
+msgstr "Vous avez attendu assez longtemps, voici les Fire Bomber !"
 
 msgid "room_name_0019_txt"
-msgstr ""
+msgstr "Fée galactique"
 
 msgid "room_name_0020_txt"
-msgstr ""
+msgstr "Anniversaire de Minmay"
 
 msgid "room_name_0021_txt"
-msgstr ""
+msgstr "Happy Hacking Halloween"
 
 msgid "room_name_0022_txt"
-msgstr ""
+msgstr "Un début de concert choquant"
 
 msgid "room_name_0023_txt"
-msgstr ""
+msgstr "Dynamite 7"
 
 msgid "room_name_0024_txt"
-msgstr ""
+msgstr "Surcharge décisionnelle"
 
 msgid "room_name_0025_txt"
-msgstr ""
+msgstr "Sayonara no Tsubasa"
 
 msgid "room_name_0026_txt"
-msgstr ""
+msgstr "Crossover LIVE (section FB)"
 
 msgid "room_name_0027_txt"
-msgstr ""
+msgstr "Hésitation de Noël"
 
 msgid "room_name_0028_txt"
-msgstr ""
+msgstr "Happy Merry Xmas ～2017～"
 
 msgid "room_name_0029_txt"
-msgstr ""
+msgstr "Compte à rebours : Concert Super-dimensionnel 2017"
 
 msgid "room_name_0030_txt"
-msgstr ""
+msgstr "<size=20>Happy New Year 2018</size>"
 
 msgid "room_name_0031_txt"
-msgstr ""
+msgstr "<size=20>Objectif ! Miss Macross～La Grande Infiltration～</size>"
 
 msgid "room_name_0032_txt"
-msgstr ""
+msgstr "Tokyo Sky Tree"
 
 msgid "room_name_0033_txt"
-msgstr ""
+msgstr "Sexy Monsoon"
 
 msgid "room_name_0034_txt"
-msgstr ""
+msgstr "<size=18>Anniversaire commémoratif ~Dear Mylène~</size>"
 
 msgid "room_name_0035_txt"
-msgstr ""
+msgstr "Girly☆Valentine"
 
 msgid "room_name_0036_txt"
-msgstr ""
+msgstr "Allons au cinéma !"
 
 msgid "room_name_0037_txt"
-msgstr ""
+msgstr "Can't Stop! Walküre LIVE"
 
 msgid "room_name_0038_txt"
-msgstr ""
+msgstr "Bienvenue au Live !"
 
 msgid "room_name_0039_txt"
-msgstr ""
+msgstr "Ourson aux couleurs de l'arc-en-ciel"
 
 msgid "room_name_0040_txt"
-msgstr ""
+msgstr "0-G Love"
 
 msgid "room_name_0041_txt"
-msgstr ""
+msgstr "d Shootin' Star b"
 
 msgid "room_name_0042_txt"
-msgstr ""
+msgstr "Absolute Zero Degrees Novatic"
 
 msgid "room_name_0043_txt"
-msgstr ""
+msgstr "Un poisson d'avril en pleine effervescence"
 
 msgid "room_name_0044_txt"
-msgstr ""
+msgstr "Adieu à la tendresse"
 
 msgid "room_name_0045_txt"
-msgstr ""
+msgstr "À ton faux monde"
 
 msgid "room_name_0046_txt"
-msgstr ""
+msgstr "Combat sur scène ~Les 2 divas~"
 
 msgid "room_name_0047_txt"
-msgstr ""
+msgstr "SUBMARINE MEMORY"
 
 msgid "room_name_0048_txt"
-msgstr ""
+msgstr "Light-speed Climax Stage"
 
 msgid "room_name_0049_txt"
-msgstr ""
+msgstr "Un mariage émouvant"
 
 msgid "room_name_0050_txt"
-msgstr ""
+msgstr "Élixir de tentation"
 
 msgid "room_name_0051_txt"
-msgstr ""
+msgstr "L'amour au péril de la vie"
 
 msgid "room_name_0052_txt"
-msgstr ""
+msgstr "SEVENTH MOON NIGHT"
 
 msgid "room_name_0053_txt"
-msgstr ""
+msgstr "Envole-toi ! Super Dimension Fortress Macross"
 
 msgid "room_name_0054_txt"
 msgstr ""
+"<size=20>Chant pour la galaxie ! ~Le lion qui transcende le temps~</size>"
 
 msgid "room_name_0055_txt"
-msgstr ""
+msgstr "C'est l'été ! Vive les maillots de bain ! Waru Ura Fes !"
 
 msgid "room_name_0056_txt"
-msgstr ""
+msgstr "SUNSET RESORT"
 
 msgid "room_name_0057_txt"
-msgstr ""
+msgstr "Amourette d'été !"
 
 msgid "room_name_0058_txt"
-msgstr ""
+msgstr "Opération Valkyrie"
 
 msgid "room_name_0059_txt"
-msgstr ""
+msgstr "Opération Diva"
 
 msgid "room_name_0060_txt"
-msgstr ""
+msgstr "Nouvelle chanson ~Le 1er tir~"
 
 msgid "room_name_0061_txt"
-msgstr ""
+msgstr "Nouvelle chanson ~Le 2e tir~"
 
 msgid "room_name_0062_txt"
-msgstr ""
+msgstr "Nouvelle chanson ~Le 3e tir~"
 
 msgid "room_name_0063_txt"
 msgstr ""
