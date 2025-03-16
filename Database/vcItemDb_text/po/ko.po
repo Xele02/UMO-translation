@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-01-25 14:32+0000\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "vcitemdb_text/ko/>\n"
@@ -18,94 +18,100 @@ msgid "vcitem_0000_title"
 msgstr "가정석　데뷔 A 세트"
 
 msgid "vcitem_0000_desc"
-msgstr ""
+msgstr "가정석 300개의 실속형 팩입니다."
 
 msgid "vcitem_0001_title"
-msgstr ""
+msgstr "가정석　데뷔 B 세트"
 
 msgid "vcitem_0001_desc"
-msgstr ""
+msgstr "가정석 1000개의 실속형 팩입니다."
 
 msgid "vcitem_0002_title"
-msgstr ""
+msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0002_desc"
-msgstr ""
+msgstr "가정석 500개의 실속형 팩입니다."
 
 msgid "vcitem_0003_title"
-msgstr ""
+msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0003_desc"
-msgstr ""
+msgstr "가정석 1000개의 실속형 팩입니다."
 
 msgid "vcitem_0004_title"
-msgstr ""
+msgstr "가정석　특가 닭 세트 A"
 
 msgid "vcitem_0004_desc"
-msgstr ""
+msgstr "가정석 390개의 실속형 팩입니다. (덤 윈터 스피어 390개 + 냥쿠지☆추첨권 25장)"
 
 msgid "vcitem_0005_title"
-msgstr ""
+msgstr "가정석 특가 닭 세트 B"
 
 msgid "vcitem_0005_desc"
-msgstr ""
+msgstr "가정석 1100개의 실속형 팩입니다. (덤 윈터 스피어 1100개 + 냥쿠지☆추첨권 75장)"
 
 msgid "vcitem_0006_title"
-msgstr ""
+msgstr "가정석 특가 닭 세트 C"
 
 msgid "vcitem_0006_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 윈터 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0007_title"
-msgstr ""
+msgstr "가정석 특가 개 세트 A"
 
 msgid "vcitem_0007_desc"
-msgstr ""
+msgstr "가정석 390개의 실속형 팩입니다. (덤 윈터 스피어 390개 + 냥쿠지☆추첨권 25장)"
 
 msgid "vcitem_0008_title"
-msgstr ""
+msgstr "가정석 특가 개 세트 B"
 
 msgid "vcitem_0008_desc"
-msgstr ""
+msgstr "가정석 1100개의 실속형 팩입니다. (덤 윈터 스피어 1100개 + 냥쿠지☆추첨권 75장)"
 
 msgid "vcitem_0009_title"
-msgstr ""
+msgstr "가정석 특가 개 세트 C"
 
 msgid "vcitem_0009_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 윈터 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0010_title"
-msgstr ""
+msgstr "가정석 특가 A 세트 ①"
 
 msgid "vcitem_0010_desc"
 msgstr ""
+"가정석 500개로 구성된 실속형 팩입니다.\n"
+"(덤 윈터 스피어 500개)"
 
 msgid "vcitem_0011_title"
-msgstr ""
+msgstr "가정석 특가 B 세트 ①"
 
 msgid "vcitem_0011_desc"
 msgstr ""
+"가정석 1000개의 실속형 팩입니다.\n"
+"(덤 윈터 스피어 1000개)"
 
 msgid "vcitem_0012_title"
-msgstr ""
+msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0012_desc"
 msgstr ""
 
 msgid "vcitem_0013_title"
-msgstr ""
+msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0013_desc"
 msgstr ""
 
 msgid "vcitem_0014_title"
-msgstr ""
+msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0014_desc"
 msgstr ""
 
 msgid "vcitem_0015_title"
-msgstr ""
+msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0015_desc"
 msgstr ""
@@ -123,10 +129,11 @@ msgid "vcitem_0017_desc"
 msgstr ""
 
 msgid "vcitem_0018_title"
-msgstr ""
+msgstr "가정석 1주년 특가 세트 C"
 
 msgid "vcitem_0018_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 섬머 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0019_title"
 msgstr ""
@@ -144,7 +151,8 @@ msgid "vcitem_0021_title"
 msgstr ""
 
 msgid "vcitem_0021_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 섬머 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0022_title"
 msgstr ""
@@ -153,13 +161,13 @@ msgid "vcitem_0022_desc"
 msgstr ""
 
 msgid "vcitem_0023_title"
-msgstr ""
+msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0023_desc"
 msgstr ""
 
 msgid "vcitem_0024_title"
-msgstr ""
+msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0024_desc"
 msgstr ""
@@ -171,10 +179,10 @@ msgid "vcitem_0025_desc"
 msgstr ""
 
 msgid "vcitem_0026_title"
-msgstr ""
+msgstr "제1회 가정석 냥쿠지 포함 세트 A"
 
 msgid "vcitem_0026_desc"
-msgstr ""
+msgstr "가정석 390개의 실속형 팩입니다. (덤 윈터 스피어 390개 + 냥쿠지☆추첨권 25장)"
 
 msgid "vcitem_0027_title"
 msgstr ""
@@ -192,7 +200,7 @@ msgid "vcitem_0029_title"
 msgstr ""
 
 msgid "vcitem_0029_desc"
-msgstr ""
+msgstr "가정석 390개의 실속형 팩입니다. (덤 윈터 스피어 390개 + 냥쿠지☆추첨권 25장)"
 
 msgid "vcitem_0030_title"
 msgstr ""
@@ -228,7 +236,8 @@ msgid "vcitem_0035_title"
 msgstr ""
 
 msgid "vcitem_0035_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 섬머 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0036_title"
 msgstr ""
@@ -246,7 +255,8 @@ msgid "vcitem_0038_title"
 msgstr ""
 
 msgid "vcitem_0038_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 섬머 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0039_title"
 msgstr ""
@@ -307,9 +317,11 @@ msgstr ""
 
 msgid "vcitem_0048_desc"
 msgstr ""
+"가정석 2900개의 실속형 팩입니다.\n"
+"(덤 윈터 스피어 2900개)"
 
 msgid "vcitem_0049_title"
-msgstr ""
+msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0049_desc"
 msgstr ""
@@ -330,22 +342,24 @@ msgid "vcitem_0052_title"
 msgstr ""
 
 msgid "vcitem_0052_desc"
-msgstr ""
+msgstr "가정석 2400개의 실속형 팩입니다. (덤 섬머 스피어 2400개 + 냥쿠지☆추첨권 "
+"160장)"
 
 msgid "vcitem_0053_title"
-msgstr ""
+msgstr "가정석 4주년 기념 세트"
 
 msgid "vcitem_0053_desc"
-msgstr ""
+msgstr "가정석 3300개의 실속형 팩입니다. (덤 섬머 스피어 3300개 + 4주년 냥쿠지☆"
+"추첨권 250장)"
 
 msgid "vcitem_0054_title"
-msgstr ""
+msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0054_desc"
 msgstr ""
 
 msgid "vcitem_0055_title"
-msgstr ""
+msgstr "제1회 가정석 냥쿠지 포함 세트 A"
 
 msgid "vcitem_0055_desc"
 msgstr ""
@@ -384,10 +398,10 @@ msgid "vcitem_0061_title"
 msgstr ""
 
 msgid "vcitem_0061_desc"
-msgstr ""
+msgstr "가정석 390개의 실속형 팩입니다. (덤 윈터 스피어 390개 + 냥쿠지☆추첨권 25장)"
 
 msgid "vcitem_0062_title"
-msgstr ""
+msgstr "제3회 가정석 냥쿠지 포함 세트 B"
 
 msgid "vcitem_0062_desc"
 msgstr ""
@@ -453,7 +467,7 @@ msgid "vcitem_0072_desc"
 msgstr ""
 
 msgid "vcitem_0073_title"
-msgstr ""
+msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0073_desc"
 msgstr ""
@@ -487,24 +501,28 @@ msgstr ""
 
 msgid "vcitem_0078_desc"
 msgstr ""
+"가정석 2900개의 실속형 팩입니다.\n"
+"(덤 윈터 스피어 2900개)"
 
 msgid "vcitem_0079_title"
-msgstr ""
+msgstr "가정석　특가 A 세트"
 
 msgid "vcitem_0079_desc"
 msgstr ""
 
 msgid "vcitem_0080_title"
-msgstr ""
+msgstr "가정석　특가 B 세트"
 
 msgid "vcitem_0080_desc"
 msgstr ""
 
 msgid "vcitem_0081_title"
-msgstr ""
+msgstr "가정석 특가 C 세트"
 
 msgid "vcitem_0081_desc"
 msgstr ""
+"가정석 2900개의 실속형 팩입니다.\n"
+"(덤 윈터 스피어 2900개)"
 
 msgid "vcitem_0082_title"
 msgstr ""
