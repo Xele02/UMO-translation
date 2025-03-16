@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-16 13:48+0000\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -1185,10 +1185,10 @@ msgid "StringLiteral_14024"
 msgstr ""
 
 msgid "StringLiteral_14032"
-msgstr ""
+msgstr "More keyframe numbers were specified than there are animation tables."
 
 msgid "StringLiteral_14355"
-msgstr ""
+msgstr "Don't show today"
 
 msgid "StringLiteral_14401"
 msgstr "+Button"
@@ -1197,262 +1197,270 @@ msgid "StringLiteral_14529"
 msgstr "———"
 
 msgid "StringLiteral_14769"
-msgstr "{0}-san"
+msgstr "{0}"
 
 msgid "StringLiteral_14832"
-msgstr ""
+msgstr "Cap"
 
 msgid "StringLiteral_14844"
-msgstr ""
+msgstr "★[0 - 9]"
 
 msgid "StringLiteral_14845"
-msgstr ""
+msgstr "[0 - 9]"
 
 msgid "StringLiteral_15053"
-msgstr "Episode「"
+msgstr "Episode \""
 
 msgid "StringLiteral_15054"
-msgstr "」"
+msgstr "\""
 
 msgid "StringLiteral_15055"
-msgstr " Exclusive Costume"
+msgstr " Exclusive Costumes"
 
 msgid "StringLiteral_15265"
-msgstr ""
+msgstr "Owned:"
 
 msgid "StringLiteral_15475"
-msgstr ""
+msgstr "Home screen"
 
 msgid "StringLiteral_15476"
 msgstr ""
 
 msgid "StringLiteral_15477"
-msgstr ""
+msgstr "Collect all"
 
 msgid "StringLiteral_15478"
-msgstr ""
+msgstr "Change HQ name"
 
 msgid "StringLiteral_15479"
-msgstr ""
+msgstr "<color=red>** Deco Point Trade Store not found **</color>"
 
 msgid "StringLiteral_15480"
-msgstr ""
+msgstr "Trade Store"
 
 msgid "StringLiteral_15497"
-msgstr ""
+msgstr "Energy Charger"
 
 msgid "StringLiteral_15509"
-msgstr ""
+msgstr "Stickers"
 
 msgid "StringLiteral_15510"
-msgstr ""
+msgstr "Make Stickers"
 
 msgid "StringLiteral_15524"
-msgstr ""
+msgstr "Update"
 
 msgid "StringLiteral_15525"
-msgstr ""
+msgstr "Make"
 
 msgid "StringLiteral_15528"
-msgstr ""
+msgstr "Select"
 
 msgid "StringLiteral_15538"
-msgstr ""
+msgstr "Save"
 
 msgid "StringLiteral_15542"
-msgstr ""
+msgstr "Change Name"
 
 msgid "StringLiteral_15546"
-msgstr ""
+msgstr "Others' Deco Rooms: Via Visit List"
 
 msgid "StringLiteral_15553"
-msgstr ""
+msgstr "Back to Your Deco Room"
 
 msgid "StringLiteral_15554"
-msgstr ""
+msgstr "Back to Lobby from Visiting Deco Room"
 
 msgid "StringLiteral_15651"
-msgstr ""
+msgstr "Manual"
 
 msgid "StringLiteral_15697"
-msgstr ""
+msgstr "{0}　{1}{2}"
 
 msgid "StringLiteral_15750"
 msgstr "{0} {1} until next reward"
 
 msgid "StringLiteral_15778"
-msgstr ""
+msgstr "Extra Rewards"
 
 msgid "StringLiteral_15794"
-msgstr ""
+msgstr "{0} {1} left"
 
 msgid "StringLiteral_15830"
-msgstr ""
+msgstr "Items usable in one go"
 
 msgid "StringLiteral_15831"
-msgstr ""
+msgstr "Up to"
 
 msgid "StringLiteral_16059"
-msgstr ""
+msgstr "Last login:"
 
 msgid "StringLiteral_16060"
-msgstr ""
+msgstr "Requests:"
 
 msgid "StringLiteral_16095"
-msgstr ""
+msgstr "Others' Deco Rooms: Via Friend List"
 
 msgid "StringLiteral_16155"
-msgstr ""
+msgstr "Tap Costume List : {0} : {1}"
 
 msgid "StringLiteral_16162"
 msgstr ""
+"Unlock Condition:\n"
+"\n"
+"Reach Player Rank 8."
 
 msgid "StringLiteral_16170"
-msgstr ""
+msgstr "Tap Gift List : {0} : {1}"
 
 msgid "StringLiteral_16338"
-msgstr ""
+msgstr "User List Failed"
 
 msgid "StringLiteral_16339"
-msgstr ""
+msgstr "User Friend List Success "
 
 msgid "StringLiteral_16417"
-msgstr ""
+msgstr "1st Adventure"
 
 msgid "StringLiteral_16418"
-msgstr ""
+msgstr "My Deco Room"
 
 msgid "StringLiteral_16419"
 msgstr ""
+"Unlock Condition:\n"
+"\n"
+"Reach Player Rank 5."
 
 msgid "StringLiteral_16496"
 msgstr ""
+"You can't raise Bond Levels for\n"
+"characters you don't have yet."
 
 msgid "StringLiteral_16775"
-msgstr ""
+msgstr "Distributed {0:D2} / {1:D2}"
 
 msgid "StringLiteral_17446"
-msgstr ""
+msgstr "sa shi su se so"
 
 msgid "StringLiteral_17754"
-msgstr ""
+msgstr "(+{0})"
 
 msgid "StringLiteral_17777"
-msgstr ""
+msgstr "No items received."
 
 msgid "StringLiteral_17787"
-msgstr ""
+msgstr "%"
 
 msgid "StringLiteral_17788"
-msgstr ""
+msgstr "(Traded {0}UC for UC items)"
 
 msgid "StringLiteral_17960"
 msgstr "{0} times"
 
 msgid "StringLiteral_18022"
-msgstr ""
+msgstr "Use Skill"
 
 msgid "StringLiteral_18023"
-msgstr ""
+msgstr "{0}s"
 
 msgid "StringLiteral_18024"
-msgstr ""
+msgstr ":{0}"
 
 msgid "StringLiteral_18054"
 msgstr "Up to {0}s"
 
 msgid "StringLiteral_18067"
-msgstr "Recovered {0} Energy"
+msgstr "{0} Energy recovered"
 
 msgid "StringLiteral_18280"
 msgstr "Prism"
 
 msgid "StringLiteral_18787"
-msgstr ""
+msgstr "Union Credits received"
 
 msgid "StringLiteral_18797"
-msgstr ""
+msgstr "Squadron"
 
 msgid "StringLiteral_18843"
-msgstr ""
+msgstr "Results Screen"
 
 msgid "StringLiteral_18923"
-msgstr ""
+msgstr "Offer"
 
 msgid "StringLiteral_18944"
-msgstr ""
+msgstr "Mode"
 
 msgid "StringLiteral_18949"
-msgstr ""
+msgstr "Valkyrie"
 
 msgid "StringLiteral_19017"
-msgstr ""
+msgstr "Birth Date"
 
 msgid "StringLiteral_19018"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}"
 
 msgid "StringLiteral_19422"
 msgstr "Ranking"
 
 msgid "StringLiteral_19427"
-msgstr ""
+msgstr "-"
 
 msgid "StringLiteral_19428"
-msgstr ""
+msgstr "#"
 
 msgid "StringLiteral_19432"
-msgstr ""
+msgstr "[{0}]"
 
 msgid "StringLiteral_19433"
-msgstr ""
+msgstr "Event Song Rare Drops"
 
 msgid "StringLiteral_19538"
 msgstr "Impact"
 
 msgid "StringLiteral_19639"
-msgstr ""
+msgstr "No time limit"
 
 msgid "StringLiteral_19612"
-msgstr "Set Unit"
+msgstr "Set Team"
 
 msgid "StringLiteral_19704"
-msgstr ""
+msgstr "Others' Deco Rooms: Via Profile"
 
 msgid "StringLiteral_20178"
-msgstr ""
+msgstr " ★"
 
 msgid "StringLiteral_20179"
-msgstr ""
+msgstr "max spaces="
 
 msgid "StringLiteral_20180"
-msgstr ""
+msgstr "however, "
 
 msgid "StringLiteral_20181"
-msgstr ""
+msgstr "you only have ."
 
 msgid "StringLiteral_20290"
-msgstr ""
+msgstr "l×{0}"
 
 msgid "StringLiteral_20367"
-msgstr ""
+msgstr "—"
 
 msgid "StringLiteral_20369"
 msgstr "±{0}"
 
 msgid "StringLiteral_20382"
-msgstr ""
+msgstr "(Usable 2 times)"
 
 msgid "StringLiteral_20383"
-msgstr ""
+msgstr "<color={0}>(Usable 2 times)</color>"
 
 msgid "StringLiteral_20406"
-msgstr ""
+msgstr "Filter button pressed"
 
 msgid "StringLiteral_20448"
-msgstr ""
+msgstr "Motion unspecified, or motion number exceeded.[ "
 
 msgid "StringLiteral_20457"
-msgstr ""
+msgstr "No Diva ID set to simple model."
 
 msgid "StringLiteral_20458"
 msgstr ""
@@ -2065,3 +2073,6 @@ msgstr "S Rank"
 
 msgid "UMO_SkillFilterSSRank"
 msgstr "SS Rank"
+
+msgid "StringLiteral_14411"
+msgstr "Please select an image sharing app."
