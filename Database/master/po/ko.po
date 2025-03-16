@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-16 07:24+0000\n"
+"PO-Revision-Date: 2025-03-16 13:48+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -8892,49 +8892,49 @@ msgid "vff_dsc_0066"
 msgstr ""
 
 msgid "em_nm_0001"
-msgstr ""
+msgstr "없음"
 
 msgid "em_nm_0002"
-msgstr ""
+msgstr "초시공 가희"
 
 msgid "em_nm_0003"
-msgstr ""
+msgstr "대우주의 가희"
 
 msgid "em_nm_0004"
-msgstr ""
+msgstr "은하의 가희"
 
 msgid "em_nm_0005"
-msgstr ""
+msgstr "별의 가희"
 
 msgid "em_nm_0006"
-msgstr ""
+msgstr "선단의 가희"
 
 msgid "em_nm_0007"
-msgstr ""
+msgstr "프로 가희"
 
 msgid "em_nm_0008"
-msgstr ""
+msgstr "신인 가희"
 
 msgid "em_nm_0009"
-msgstr ""
+msgstr "시티의 가희"
 
 msgid "em_nm_0010"
-msgstr ""
+msgstr "초시공 비너스 왈큐레 - 금"
 
 msgid "em_nm_0011"
-msgstr ""
+msgstr "초시공 비너스 왈큐레 - 은"
 
 msgid "em_nm_0012"
-msgstr ""
+msgstr "섬광의 AXIA - 금"
 
 msgid "em_nm_0013"
-msgstr ""
+msgstr "섬광의 AXIA - 은"
 
 msgid "em_nm_0014"
-msgstr ""
+msgstr "여름이다! 바다다! 수영복De Show! 금"
 
 msgid "em_nm_0015"
-msgstr ""
+msgstr "여름이다! 바다다! 수영복De Show! 은"
 
 msgid "em_nm_0016"
 msgstr ""
@@ -8979,10 +8979,10 @@ msgid "em_nm_0029"
 msgstr ""
 
 msgid "em_nm_0030"
-msgstr ""
+msgstr "결단 오버로드 - 금"
 
 msgid "em_nm_0031"
-msgstr ""
+msgstr "결단 오버로드 - 은"
 
 msgid "em_nm_0032"
 msgstr ""
@@ -9978,10 +9978,10 @@ msgid "em_nm_0443"
 msgstr ""
 
 msgid "em_nm_0444"
-msgstr ""
+msgstr "(복각) 섬광의 AXIA - 금"
 
 msgid "em_nm_0445"
-msgstr ""
+msgstr "(복각) 섬광의 AXIA - 은"
 
 msgid "em_nm_0446"
 msgstr ""
@@ -10401,10 +10401,10 @@ msgid "em_nm_0584"
 msgstr ""
 
 msgid "em_nm_0585"
-msgstr ""
+msgstr "(복각) 결단 오버로드 - 금"
 
 msgid "em_nm_0586"
-msgstr ""
+msgstr "(복각) 결단 오버로드 - 은"
 
 msgid "em_nm_0587"
 msgstr ""
@@ -10887,25 +10887,25 @@ msgid "em_nm_0748"
 msgstr ""
 
 msgid "em_nm_0749"
-msgstr ""
+msgstr "Glow in the dark - 금"
 
 msgid "em_nm_0750"
-msgstr ""
+msgstr "Glow in the dark - 은"
 
 msgid "em_nm_0751"
-msgstr ""
+msgstr "♪Glow in the dark - 채"
 
 msgid "em_nm_0752"
-msgstr ""
+msgstr "♪Glow in the dark - 금"
 
 msgid "em_nm_0753"
-msgstr ""
+msgstr "♪Glow in the dark - 은"
 
 msgid "em_nm_0754"
-msgstr ""
+msgstr "♪Glow in the dark - 동"
 
 msgid "em_nm_0755"
-msgstr ""
+msgstr "♪Glow in the dark - 백"
 
 msgid "em_nm_0756"
 msgstr ""
@@ -11013,10 +11013,10 @@ msgid "em_nm_0790"
 msgstr ""
 
 msgid "em_nm_0791"
-msgstr ""
+msgstr "(복각) 초시공 비너스 왈큐레 - 금"
 
 msgid "em_nm_0792"
-msgstr ""
+msgstr "(복각) 초시공 비너스 왈큐레 - 은"
 
 msgid "em_nm_0793"
 msgstr ""
@@ -11101,21 +11101,33 @@ msgstr ""
 
 msgid "em_dsc_0010"
 msgstr ""
+"「초시공 비너스 왈큐레」에서\n"
+"랭킹 최상위에 입상한 증거"
 
 msgid "em_dsc_0011"
 msgstr ""
+"「초시공 비너스 왈큐레」에서\n"
+"노력한 증거"
 
 msgid "em_dsc_0012"
 msgstr ""
+"「섬광의 AXIA」에서\n"
+"랭킹 최상위에 입상한 증거"
 
 msgid "em_dsc_0013"
 msgstr ""
+"「섬광의 AXIA」에서\n"
+"노력한 증거"
 
 msgid "em_dsc_0014"
 msgstr ""
+"「여름이다! 바다다! 수영복De Show!」에서\n"
+"랭킹 최상위에 입상한 증거"
 
 msgid "em_dsc_0015"
 msgstr ""
+"「여름이다! 바다다! 수영복De Show!」에서\n"
+"노력한 증거"
 
 msgid "em_dsc_0016"
 msgstr ""
@@ -11161,9 +11173,13 @@ msgstr ""
 
 msgid "em_dsc_0030"
 msgstr ""
+"「결단 오버로드」에서\n"
+"랭킹 최상위에 입상한 증거"
 
 msgid "em_dsc_0031"
 msgstr ""
+"「결단 오버로드」에서\n"
+"노력한 증거"
 
 msgid "em_dsc_0032"
 msgstr ""
@@ -11220,19 +11236,27 @@ msgid "em_dsc_0049"
 msgstr ""
 
 msgid "em_dsc_0050"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0051"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0052"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0053"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0054"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0055"
 msgstr ""
@@ -11253,19 +11277,27 @@ msgid "em_dsc_0060"
 msgstr ""
 
 msgid "em_dsc_0061"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0062"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0063"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0064"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0065"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0066"
 msgstr ""
@@ -11286,19 +11318,27 @@ msgid "em_dsc_0071"
 msgstr ""
 
 msgid "em_dsc_0072"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0073"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0074"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0075"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0076"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0077"
 msgstr ""
@@ -11319,19 +11359,27 @@ msgid "em_dsc_0082"
 msgstr ""
 
 msgid "em_dsc_0083"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0084"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0085"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0086"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0087"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0088"
 msgstr ""
@@ -11352,19 +11400,27 @@ msgid "em_dsc_0093"
 msgstr ""
 
 msgid "em_dsc_0094"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0095"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0096"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0097"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0098"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0099"
 msgstr ""
@@ -11739,19 +11795,27 @@ msgid "em_dsc_0303"
 msgstr ""
 
 msgid "em_dsc_0304"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0305"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0306"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0307"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0308"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0309"
 msgstr ""
@@ -11772,19 +11836,27 @@ msgid "em_dsc_0314"
 msgstr ""
 
 msgid "em_dsc_0315"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0316"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0317"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0318"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0319"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0320"
 msgstr ""
@@ -11805,19 +11877,27 @@ msgid "em_dsc_0325"
 msgstr ""
 
 msgid "em_dsc_0326"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0327"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0328"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0329"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0330"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0331"
 msgstr ""
@@ -11838,19 +11918,27 @@ msgid "em_dsc_0336"
 msgstr ""
 
 msgid "em_dsc_0337"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0338"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0339"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0340"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0341"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0342"
 msgstr ""
@@ -11871,19 +11959,27 @@ msgid "em_dsc_0347"
 msgstr ""
 
 msgid "em_dsc_0348"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0349"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0350"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0351"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0352"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0353"
 msgstr ""
@@ -11904,19 +12000,27 @@ msgid "em_dsc_0358"
 msgstr ""
 
 msgid "em_dsc_0359"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0360"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0361"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0362"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0363"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0364"
 msgstr ""
@@ -11937,19 +12041,27 @@ msgid "em_dsc_0369"
 msgstr ""
 
 msgid "em_dsc_0370"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0371"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0372"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0373"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0374"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0375"
 msgstr ""
@@ -11958,19 +12070,27 @@ msgid "em_dsc_0376"
 msgstr ""
 
 msgid "em_dsc_0377"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0378"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0379"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0380"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0381"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0382"
 msgstr ""
@@ -11991,19 +12111,27 @@ msgid "em_dsc_0387"
 msgstr ""
 
 msgid "em_dsc_0388"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0389"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0390"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0391"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0392"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0393"
 msgstr ""
@@ -12024,19 +12152,27 @@ msgid "em_dsc_0398"
 msgstr ""
 
 msgid "em_dsc_0399"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0400"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0401"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0402"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0403"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0404"
 msgstr ""
@@ -12057,19 +12193,27 @@ msgid "em_dsc_0409"
 msgstr ""
 
 msgid "em_dsc_0410"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0411"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0412"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0413"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0414"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0415"
 msgstr ""
@@ -12090,19 +12234,27 @@ msgid "em_dsc_0420"
 msgstr ""
 
 msgid "em_dsc_0421"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0422"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0423"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0424"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0425"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0426"
 msgstr ""
@@ -12117,19 +12269,27 @@ msgid "em_dsc_0429"
 msgstr ""
 
 msgid "em_dsc_0430"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0431"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0432"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0433"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0434"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0435"
 msgstr ""
@@ -12144,25 +12304,37 @@ msgid "em_dsc_0438"
 msgstr ""
 
 msgid "em_dsc_0439"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0440"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0441"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0442"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0443"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0444"
 msgstr ""
+"「(복각) 섬광의 AXIA」의\n"
+"어네스트 함장으로부터의 보상으로 얻은 칭호"
 
 msgid "em_dsc_0445"
 msgstr ""
+"「(복각) 섬광의 AXIA」에서\n"
+"노력한 증거"
 
 msgid "em_dsc_0446"
 msgstr ""
@@ -12177,19 +12349,27 @@ msgid "em_dsc_0449"
 msgstr ""
 
 msgid "em_dsc_0450"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0451"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0452"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0453"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0454"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0455"
 msgstr ""
@@ -12210,19 +12390,27 @@ msgid "em_dsc_0460"
 msgstr ""
 
 msgid "em_dsc_0461"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0462"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0463"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0464"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0465"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0466"
 msgstr ""
@@ -12243,19 +12431,27 @@ msgid "em_dsc_0471"
 msgstr ""
 
 msgid "em_dsc_0472"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0473"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0474"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0475"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0476"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0477"
 msgstr ""
@@ -12276,19 +12472,27 @@ msgid "em_dsc_0482"
 msgstr ""
 
 msgid "em_dsc_0483"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0484"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0485"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0486"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0487"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0488"
 msgstr ""
@@ -12309,19 +12513,27 @@ msgid "em_dsc_0493"
 msgstr ""
 
 msgid "em_dsc_0494"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0495"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0496"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0497"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0498"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0499"
 msgstr ""
@@ -12342,19 +12554,27 @@ msgid "em_dsc_0504"
 msgstr ""
 
 msgid "em_dsc_0505"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0506"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0507"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0508"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0509"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0510"
 msgstr ""
@@ -12375,19 +12595,27 @@ msgid "em_dsc_0515"
 msgstr ""
 
 msgid "em_dsc_0516"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0517"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0518"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0519"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0520"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0521"
 msgstr ""
@@ -12408,19 +12636,27 @@ msgid "em_dsc_0526"
 msgstr ""
 
 msgid "em_dsc_0527"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0528"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0529"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0530"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0531"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0532"
 msgstr ""
@@ -12441,19 +12677,27 @@ msgid "em_dsc_0537"
 msgstr ""
 
 msgid "em_dsc_0538"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0539"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0540"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0541"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0542"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0543"
 msgstr ""
@@ -12474,19 +12718,27 @@ msgid "em_dsc_0548"
 msgstr ""
 
 msgid "em_dsc_0549"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0550"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0551"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0552"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0553"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0554"
 msgstr ""
@@ -12507,19 +12759,27 @@ msgid "em_dsc_0559"
 msgstr ""
 
 msgid "em_dsc_0560"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0561"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0562"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0563"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0564"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0565"
 msgstr ""
@@ -12540,19 +12800,27 @@ msgid "em_dsc_0570"
 msgstr ""
 
 msgid "em_dsc_0571"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0572"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0573"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0574"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0575"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0576"
 msgstr ""
@@ -12567,25 +12835,37 @@ msgid "em_dsc_0579"
 msgstr ""
 
 msgid "em_dsc_0580"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0581"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0582"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0583"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0584"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0585"
 msgstr ""
+"<size=18>「(복각) 결단 오버로드」의\n"
+"어네스트 함장으로부터의 보상으로 얻은 칭호</size>"
 
 msgid "em_dsc_0586"
 msgstr ""
+"<size=18>「(복각) 결단 오버로드」에서\n"
+"노력한 증거</size>"
 
 msgid "em_dsc_0587"
 msgstr ""
@@ -12600,19 +12880,27 @@ msgid "em_dsc_0590"
 msgstr ""
 
 msgid "em_dsc_0591"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0592"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0593"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0594"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0595"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0596"
 msgstr ""
@@ -12627,19 +12915,27 @@ msgid "em_dsc_0599"
 msgstr ""
 
 msgid "em_dsc_0600"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0601"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0602"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0603"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0604"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0605"
 msgstr ""
@@ -12660,19 +12956,27 @@ msgid "em_dsc_0610"
 msgstr ""
 
 msgid "em_dsc_0611"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0612"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0613"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0614"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0615"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0616"
 msgstr ""
@@ -12687,19 +12991,27 @@ msgid "em_dsc_0621"
 msgstr ""
 
 msgid "em_dsc_0622"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0623"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0624"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0625"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0626"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0627"
 msgstr ""
@@ -12720,19 +13032,27 @@ msgid "em_dsc_0632"
 msgstr ""
 
 msgid "em_dsc_0633"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0634"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0635"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0636"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0637"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0638"
 msgstr ""
@@ -12747,19 +13067,27 @@ msgid "em_dsc_0641"
 msgstr ""
 
 msgid "em_dsc_0642"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0643"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0644"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0645"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0646"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0647"
 msgstr ""
@@ -12780,19 +13108,27 @@ msgid "em_dsc_0652"
 msgstr ""
 
 msgid "em_dsc_0653"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0654"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0655"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0656"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0657"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0658"
 msgstr ""
@@ -12807,19 +13143,27 @@ msgid "em_dsc_0661"
 msgstr ""
 
 msgid "em_dsc_0662"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0663"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0664"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0665"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0666"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0667"
 msgstr ""
@@ -12840,19 +13184,27 @@ msgid "em_dsc_0672"
 msgstr ""
 
 msgid "em_dsc_0673"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0674"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0675"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0676"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0677"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0678"
 msgstr ""
@@ -12867,19 +13219,27 @@ msgid "em_dsc_0681"
 msgstr ""
 
 msgid "em_dsc_0682"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0683"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0684"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0685"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0686"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0687"
 msgstr ""
@@ -12900,19 +13260,27 @@ msgid "em_dsc_0692"
 msgstr ""
 
 msgid "em_dsc_0693"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0694"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0695"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0696"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0697"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0698"
 msgstr ""
@@ -12927,19 +13295,27 @@ msgid "em_dsc_0701"
 msgstr ""
 
 msgid "em_dsc_0702"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0703"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0704"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0705"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0706"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0707"
 msgstr ""
@@ -12960,19 +13336,27 @@ msgid "em_dsc_0712"
 msgstr ""
 
 msgid "em_dsc_0713"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0714"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0715"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0716"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0717"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0718"
 msgstr ""
@@ -12987,19 +13371,27 @@ msgid "em_dsc_0721"
 msgstr ""
 
 msgid "em_dsc_0722"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0723"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0724"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0725"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0726"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0727"
 msgstr ""
@@ -13020,19 +13412,27 @@ msgid "em_dsc_0732"
 msgstr ""
 
 msgid "em_dsc_0733"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0734"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0735"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0736"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0737"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0738"
 msgstr ""
@@ -13047,19 +13447,27 @@ msgid "em_dsc_0741"
 msgstr ""
 
 msgid "em_dsc_0742"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0743"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0744"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0745"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0746"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0747"
 msgstr ""
@@ -13069,24 +13477,36 @@ msgstr ""
 
 msgid "em_dsc_0749"
 msgstr ""
+"<size=18>「Glow in the dark」에서\n"
+"랭킹 최상위에 입상한 증거</size>"
 
 msgid "em_dsc_0750"
 msgstr ""
+"<size=18>「Glow in the dark」에서\n"
+"노력한 증거</size>"
 
 msgid "em_dsc_0751"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0752"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0753"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0754"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0755"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0756"
 msgstr ""
@@ -13107,19 +13527,27 @@ msgid "em_dsc_0761"
 msgstr ""
 
 msgid "em_dsc_0762"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0763"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0764"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0765"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0766"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0767"
 msgstr ""
@@ -13140,19 +13568,27 @@ msgid "em_dsc_0772"
 msgstr ""
 
 msgid "em_dsc_0773"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0774"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0775"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0776"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0777"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0778"
 msgstr ""
@@ -13167,19 +13603,27 @@ msgid "em_dsc_0781"
 msgstr ""
 
 msgid "em_dsc_0782"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0783"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0784"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0785"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0786"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0787"
 msgstr ""
@@ -13195,24 +13639,36 @@ msgstr ""
 
 msgid "em_dsc_0791"
 msgstr ""
+"<size=18>「(복각) 초시공 비너스 왈큐레」에서\n"
+"랭킹 최상위에 입상한 증거</size>"
 
 msgid "em_dsc_0792"
 msgstr ""
+"<size=18>「(복각) 초시공 비너스 왈큐레」에서\n"
+"노력한 증거</size>"
 
 msgid "em_dsc_0793"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0794"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0795"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0796"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0797"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0798"
 msgstr ""
@@ -13227,19 +13683,27 @@ msgid "em_dsc_0801"
 msgstr ""
 
 msgid "em_dsc_0802"
-msgstr ""
+msgstr "악곡 랭킹에서 우승한 증거"
 
 msgid "em_dsc_0803"
 msgstr ""
+"악곡 랭킹\n"
+"2위~10위 입상의 증거"
 
 msgid "em_dsc_0804"
 msgstr ""
+"악곡 랭킹\n"
+"11위~100위 입상의 증거"
 
 msgid "em_dsc_0805"
 msgstr ""
+"악곡 랭킹\n"
+"101위~1000위 입상의 증거"
 
 msgid "em_dsc_0806"
 msgstr ""
+"악곡 랭킹\n"
+"1001위~5000위 입상의 증거"
 
 msgid "em_dsc_0807"
 msgstr ""
@@ -13254,7 +13718,7 @@ msgid "em_dsc_0810"
 msgstr ""
 
 msgid "qd_dsc_0001"
-msgstr "음악을 3번 클리어"
+msgstr "악곡 3번 클리어"
 
 msgid "qd_dsc_0002"
 msgstr "스코어 랭크 S 이상 1회 달성"
@@ -13263,7 +13727,7 @@ msgid "qd_dsc_0003"
 msgstr "액티브 스킬을 발동하여 1회 클리어"
 
 msgid "qd_dsc_0004"
-msgstr ""
+msgstr "가챠 1회 뽑기"
 
 msgid "qd_dsc_0005"
 msgstr "초가희 모드에 돌입하여 1회 클리어"
@@ -13296,33 +13760,37 @@ msgstr ""
 
 msgid "qn_dsc_0002"
 msgstr ""
+"【기억의 시공】을 클리어하고\n"
+"새로운 악곡을 해방하자"
 
 msgid "qn_dsc_0003"
 msgstr ""
 
 msgid "qn_dsc_0004"
-msgstr ""
+msgstr "새로운 가희를 유닛에 편성하자"
 
 msgid "qn_dsc_0005"
 msgstr ""
 
 msgid "qn_dsc_0006"
-msgstr ""
+msgstr "초시공 SNS을 보자"
 
 msgid "qn_dsc_0007"
-msgstr ""
+msgstr "선물 BOX에서 선물을 받자"
 
 msgid "qn_dsc_0008"
-msgstr ""
+msgstr "서비스 가챠를 1회 뽑아보자"
 
 msgid "qn_dsc_0009"
-msgstr ""
+msgstr "에피소드 플레이트를 가희에게 편성하자"
 
 msgid "qn_dsc_0010"
 msgstr ""
 
 msgid "qn_dsc_0011"
 msgstr ""
+"【각오의 오디션】에피소드를\n"
+"완전 해방하고 의상을 획득하자"
 
 msgid "qn_dsc_0012"
 msgstr ""
@@ -13337,21 +13805,25 @@ msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0015"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0016"
 msgstr ""
+"【라이브】에서 악곡을 5회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0017"
 msgstr "플레이어 랭크 5 달성"
 
 msgid "qn_dsc_0018"
-msgstr ""
+msgstr "에피소드 플레이트 10종 획득"
 
 msgid "qn_dsc_0019"
-msgstr ""
+msgstr "에피소드 플레이트 1종류의 레벨 10 달성"
 
 msgid "qn_dsc_0020"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 5000 획득"
 
 msgid "qn_dsc_0021"
 msgstr ""
@@ -13380,34 +13852,50 @@ msgid "qn_dsc_0028"
 msgstr "하이스코어 100000점 이상 달성"
 
 msgid "qn_dsc_0029"
-msgstr ""
+msgstr "초가희 모드에 돌입해서 5회 클리어"
 
 msgid "qn_dsc_0030"
 msgstr ""
+"프레이아 레벨 2를 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0031"
 msgstr ""
+"미쿠모 레벨 2를 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0032"
 msgstr ""
+"카나메 레벨 2를 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0033"
 msgstr ""
+"마키나 레벨 2를 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0034"
 msgstr ""
+"레이나 레벨 2를 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0035"
 msgstr ""
+"란카 레벨 2를 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0036"
 msgstr ""
+"셰릴 레벨 2를 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0037"
 msgstr ""
+"민메이 레벨 2를 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0038"
-msgstr ""
+msgstr "노멀 미션을 누적 10개 클리어"
 
 msgid "qn_dsc_0039"
 msgstr ""
@@ -13555,91 +14043,91 @@ msgstr ""
 "【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0095"
-msgstr ""
+msgstr "SNS 연동하기"
 
 msgid "qn_dsc_0096"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0097"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0098"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0099"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0100"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0101"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0102"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0103"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0104"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0105"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0106"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0107"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0108"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0109"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0110"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0111"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0112"
 msgstr ""
-"【기억의 시공】을 진행하여\n"
+"【기억의 시공】을 진행하고\n"
 "【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0113"
@@ -13733,241 +14221,321 @@ msgid "qn_dsc_0142"
 msgstr "에피소드 플레이트 70종류 수집"
 
 msgid "qn_dsc_0143"
-msgstr ""
+msgstr "에피소드 플레이트 2종류의 레벨 10 달성"
 
 msgid "qn_dsc_0144"
-msgstr ""
+msgstr "에피소드 플레이트 3종류의 레벨 10 달성"
 
 msgid "qn_dsc_0145"
-msgstr ""
+msgstr "에피소드 플레이트 4종류의 레벨 10 달성"
 
 msgid "qn_dsc_0146"
-msgstr ""
+msgstr "에피소드 플레이트 5종류의 레벨 10 달성"
 
 msgid "qn_dsc_0147"
-msgstr ""
+msgstr "에피소드 플레이트 1종류의 레벨 20 달성"
 
 msgid "qn_dsc_0148"
-msgstr ""
+msgstr "에피소드 플레이트 2종류의 레벨 20 달성"
 
 msgid "qn_dsc_0149"
-msgstr ""
+msgstr "에피소드 플레이트 3종류의 레벨 20 달성"
 
 msgid "qn_dsc_0150"
-msgstr ""
+msgstr "에피소드 플레이트 4종류의 레벨 20 달성"
 
 msgid "qn_dsc_0151"
-msgstr ""
+msgstr "에피소드 플레이트 5종류의 레벨 20 달성"
 
 msgid "qn_dsc_0152"
-msgstr ""
+msgstr "에피소드 플레이트 1종류의 레벨 30 달성"
 
 msgid "qn_dsc_0153"
-msgstr ""
+msgstr "에피소드 플레이트 2종류의 레벨 30 달성"
 
 msgid "qn_dsc_0154"
-msgstr ""
+msgstr "에피소드 플레이트 3종류의 레벨 30 달성"
 
 msgid "qn_dsc_0155"
-msgstr ""
+msgstr "에피소드 플레이트 4종류의 레벨 30 달성"
 
 msgid "qn_dsc_0156"
-msgstr ""
+msgstr "에피소드 플레이트 5종류의 레벨 30 달성"
 
 msgid "qn_dsc_0157"
-msgstr ""
+msgstr "에피소드 플레이트 1종류의 레벨 50 달성"
 
 msgid "qn_dsc_0158"
-msgstr ""
+msgstr "에피소드 플레이트 2종류의 레벨 50 달성"
 
 msgid "qn_dsc_0159"
-msgstr ""
+msgstr "에피소드 플레이트 3종류의 레벨 50 달성"
 
 msgid "qn_dsc_0160"
-msgstr ""
+msgstr "에피소드 플레이트 4종류의 레벨 50 달성"
 
 msgid "qn_dsc_0161"
-msgstr ""
+msgstr "에피소드 플레이트 5종류의 레벨 50 달성"
 
 msgid "qn_dsc_0162"
-msgstr ""
+msgstr "에피소드 플레이트 1종류의 레벨 70 달성"
 
 msgid "qn_dsc_0163"
-msgstr ""
+msgstr "에피소드 플레이트 2종류의 레벨 70 달성"
 
 msgid "qn_dsc_0164"
-msgstr ""
+msgstr "에피소드 플레이트 3종류의 레벨 70 달성"
 
 msgid "qn_dsc_0165"
-msgstr ""
+msgstr "에피소드 플레이트 4종류의 레벨 70 달성"
 
 msgid "qn_dsc_0166"
-msgstr ""
+msgstr "에피소드 플레이트 5종류의 레벨 70 달성"
 
 msgid "qn_dsc_0167"
-msgstr ""
+msgstr "에피소드 플레이트 6종류의 레벨 70 달성"
 
 msgid "qn_dsc_0168"
-msgstr ""
+msgstr "에피소드 플레이트 7종류의 레벨 70 달성"
 
 msgid "qn_dsc_0169"
-msgstr ""
+msgstr "에피소드 플레이트 8종류의 레벨 70 달성"
 
 msgid "qn_dsc_0170"
-msgstr ""
+msgstr "에피소드 플레이트 9종류의 레벨 70 달성"
 
 msgid "qn_dsc_0171"
-msgstr ""
+msgstr "에피소드 플레이트 10종류의 레벨 70 달성"
 
 msgid "qn_dsc_0172"
-msgstr ""
+msgstr "에피소드 플레이트 15종류의 레벨 70 달성"
 
 msgid "qn_dsc_0173"
-msgstr ""
+msgstr "에피소드 플레이트 20종류의 레벨 70 달성"
 
 msgid "qn_dsc_0174"
-msgstr ""
+msgstr "에피소드 플레이트 25종류의 레벨 70 달성"
 
 msgid "qn_dsc_0175"
-msgstr ""
+msgstr "에피소드 플레이트 30종류의 레벨 70 달성"
 
 msgid "qn_dsc_0176"
-msgstr ""
+msgstr "에피소드 플레이트 40종류의 레벨 70 달성"
 
 msgid "qn_dsc_0178"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 10000 획득"
 
 msgid "qn_dsc_0179"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 50000 획득"
 
 msgid "qn_dsc_0180"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 100000 획득"
 
 msgid "qn_dsc_0181"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 500000 획득"
 
 msgid "qn_dsc_0182"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 1000000 획득"
 
 msgid "qn_dsc_0183"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 7회 클리어"
 
 msgid "qn_dsc_0184"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 10회 클리어"
 
 msgid "qn_dsc_0185"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 15회 클리어"
 
 msgid "qn_dsc_0186"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 20회 클리어"
 
 msgid "qn_dsc_0187"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 25회 클리어"
 
 msgid "qn_dsc_0188"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 50회 클리어"
 
 msgid "qn_dsc_0189"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 100회 클리어"
 
 msgid "qn_dsc_0190"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 150회 클리어"
 
 msgid "qn_dsc_0191"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 200회 클리어"
 
 msgid "qn_dsc_0192"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡 250회 클리어"
 
 msgid "qn_dsc_0193"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 7회 클리어"
 
 msgid "qn_dsc_0194"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 10회 클리어"
 
 msgid "qn_dsc_0195"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 15회 클리어"
 
 msgid "qn_dsc_0196"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 20회 클리어"
 
 msgid "qn_dsc_0197"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 25회 클리어"
 
 msgid "qn_dsc_0198"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 50회 클리어"
 
 msgid "qn_dsc_0199"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 100회 클리어"
 
 msgid "qn_dsc_0200"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 150회 클리어"
 
 msgid "qn_dsc_0201"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 200회 클리어"
 
 msgid "qn_dsc_0202"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스7】의 악곡 250회 클리어"
 
 msgid "qn_dsc_0203"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 7회 클리어"
 
 msgid "qn_dsc_0204"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 10회 클리어"
 
 msgid "qn_dsc_0205"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 15회 클리어"
 
 msgid "qn_dsc_0206"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 20회 클리어"
 
 msgid "qn_dsc_0207"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 25회 클리어"
 
 msgid "qn_dsc_0208"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 50회 클리어"
 
 msgid "qn_dsc_0209"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 100회 클리어"
 
 msgid "qn_dsc_0210"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 150회 클리어"
 
 msgid "qn_dsc_0211"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 200회 클리어"
 
 msgid "qn_dsc_0212"
 msgstr ""
+"【라이브】에서\n"
+"【마크로스F】의 악곡 250회 클리어"
 
 msgid "qn_dsc_0213"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 7회 클리어"
 
 msgid "qn_dsc_0214"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 10회 클리어"
 
 msgid "qn_dsc_0215"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 15회 클리어"
 
 msgid "qn_dsc_0216"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 20회 클리어"
 
 msgid "qn_dsc_0217"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 25회 클리어"
 
 msgid "qn_dsc_0218"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 50회 클리어"
 
 msgid "qn_dsc_0219"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 100회 클리어"
 
 msgid "qn_dsc_0220"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 150회 클리어"
 
 msgid "qn_dsc_0221"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 200회 클리어"
 
 msgid "qn_dsc_0222"
 msgstr ""
+"【라이브】에서\n"
+"【マクロスΔ】의 악곡 250회 클리어"
 
 msgid "qn_dsc_0223"
 msgstr "미설정 (표시되면 버그임)"
@@ -14317,22 +14885,22 @@ msgstr ""
 "【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0312"
-msgstr ""
+msgstr "노멀 미션 누적 20개 클리어"
 
 msgid "qn_dsc_0313"
-msgstr ""
+msgstr "노멀 미션 누적 30개 클리어"
 
 msgid "qn_dsc_0314"
-msgstr ""
+msgstr "노멀 미션 누적 50개 클리어"
 
 msgid "qn_dsc_0315"
-msgstr ""
+msgstr "노멀 미션 누적 100개 클리어"
 
 msgid "qn_dsc_0316"
-msgstr ""
+msgstr "노멀 미션 누적 150개 클리어"
 
 msgid "qn_dsc_0317"
-msgstr ""
+msgstr "노멀 미션 누적 200개 클리어"
 
 msgid "qn_dsc_0318"
 msgstr ""
@@ -14360,15 +14928,19 @@ msgstr ""
 
 msgid "qn_dsc_0326"
 msgstr ""
+"「도전하기」버튼을 눌러 X의\n"
+"【우타 마크로스】 공식 계정을 친구 추가하기"
 
 msgid "qn_dsc_0327"
 msgstr ""
+"「도전하기」버튼을 눌러 LINE의\n"
+"【우타 마크로스】 공식 계정을 친구 추가하기"
 
 msgid "qn_dsc_0328"
-msgstr ""
+msgstr "소개글 변경하기"
 
 msgid "qn_dsc_0329"
-msgstr ""
+msgstr "친구 신청하기"
 
 msgid "qn_dsc_0330"
 msgstr "하이스코어 400000점 이상 달성"
@@ -14380,28 +14952,28 @@ msgid "qn_dsc_0332"
 msgstr "하이스코어 500000점 이상 달성"
 
 msgid "qn_dsc_0333"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 1500000 획득"
 
 msgid "qn_dsc_0334"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 2000000 획득"
 
 msgid "qn_dsc_0335"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 2500000 획득"
 
 msgid "qn_dsc_0336"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 3000000 획득"
 
 msgid "qn_dsc_0337"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 3500000 획득"
 
 msgid "qn_dsc_0338"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 4000000 획득"
 
 msgid "qn_dsc_0339"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 4500000 획득"
 
 msgid "qn_dsc_0340"
-msgstr ""
+msgstr "유니온 크레딧(UC) 누적 5000000 획득"
 
 msgid "qn_dsc_0341"
 msgstr ""
@@ -14610,31 +15182,33 @@ msgid "qn_dsc_0402"
 msgstr "스코어 랭크 SS 2500회 달성"
 
 msgid "qn_dsc_0403"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 400회 클리어"
 
 msgid "qn_dsc_0404"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 500회 클리어"
 
 msgid "qn_dsc_0405"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 750회 클리어"
 
 msgid "qn_dsc_0406"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 1000회 클리어"
 
 msgid "qn_dsc_0407"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 1200회 클리어"
 
 msgid "qn_dsc_0408"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 1500회 클리어"
 
 msgid "qn_dsc_0409"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 2000회 클리어"
 
 msgid "qn_dsc_0410"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 2500회 클리어"
 
 msgid "qn_dsc_0411"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0412"
 msgstr ""
@@ -15064,31 +15638,37 @@ msgid "qn_dsc_0533"
 msgstr "하이스코어 1000000점 이상 달성"
 
 msgid "qn_dsc_0534"
-msgstr "노멀 미션 합계 250개 클리어"
+msgstr "노멀 미션 누적 250개 클리어"
 
 msgid "qn_dsc_0535"
-msgstr "노멀 미션 합계 300개 클리어"
+msgstr "노멀 미션 누적 300개 클리어"
 
 msgid "qn_dsc_0536"
 msgstr ""
+"이벤트를 진행하고\n"
+"【섬광의 AXIA】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0537"
 msgstr ""
+"이벤트를 진행하고\n"
+"【섬광의 AXIA】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0538"
 msgstr ""
+"이벤트를 진행하고\n"
+"【섬광의 AXIA】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0539"
-msgstr ""
+msgstr "밀레느 레벨 10 달성"
 
 msgid "qn_dsc_0540"
-msgstr ""
+msgstr "밀레느 레벨 20 달성"
 
 msgid "qn_dsc_0541"
-msgstr ""
+msgstr "바사라 레벨 10 달성"
 
 msgid "qn_dsc_0542"
-msgstr ""
+msgstr "바사라 레벨 20 달성"
 
 msgid "qn_dsc_0543"
 msgstr ""
@@ -15158,12 +15738,18 @@ msgstr ""
 
 msgid "qn_dsc_0565"
 msgstr ""
+"이벤트를 진행하고\n"
+"【여름이다! 바다다! 수영복De Show!】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0566"
 msgstr ""
+"이벤트를 진행하고\n"
+"【여름이다! 바다다! 수영복De Show!】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0567"
 msgstr ""
+"이벤트를 진행하고\n"
+"【여름이다! 바다다! 수영복De Show!】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0568"
 msgstr ""
@@ -15490,72 +16076,118 @@ msgstr ""
 
 msgid "qn_dsc_0675"
 msgstr ""
+"이벤트를 진행하고\n"
+"【은하의 요정】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0676"
 msgstr ""
+"이벤트를 진행하고\n"
+"【은하의 요정】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0677"
 msgstr ""
+"이벤트를 진행하고\n"
+"【민메이 버스데이】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0678"
 msgstr ""
+"이벤트를 진행하고\n"
+"【민메이 버스데이】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0679"
 msgstr ""
+"이벤트를 진행하고\n"
+"【민메이 버스데이】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0680"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0681"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0682"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0683"
 msgstr ""
+"이벤트를 진행하고\n"
+"【Happy Hacking Halloween】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0684"
 msgstr ""
+"이벤트를 진행하고\n"
+"【Happy Hacking Halloween】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0685"
 msgstr ""
+"이벤트를 진행하고\n"
+"【Happy Hacking Halloween】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0686"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0687"
 msgstr ""
+"이벤트를 진행하고\n"
+"【충격 데뷔 스테이지】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0688"
 msgstr ""
+"이벤트를 진행하고\n"
+"【충격 데뷔 스테이지】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0689"
 msgstr ""
+"이벤트를 진행하고\n"
+"【충격 데뷔 스테이지】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0690"
 msgstr ""
+"이벤트를 진행하고\n"
+"【다이너마이트7】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0691"
 msgstr ""
+"이벤트를 진행하고\n"
+"【다이너마이트7】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0692"
 msgstr ""
+"이벤트를 진행하고\n"
+"【다이너마이트7】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0693"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0694"
 msgstr ""
+"이벤트를 진행하고\n"
+"【결단 오버로드】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0695"
 msgstr ""
+"이벤트를 진행하고\n"
+"【결단 오버로드】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0696"
 msgstr ""
+"이벤트를 진행하고\n"
+"【결단 오버로드】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0697"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0698"
 msgstr ""
@@ -15575,100 +16207,100 @@ msgid "qn_dsc_0702"
 msgstr "시뮬레이션 라이브 플레이"
 
 msgid "qn_dsc_0703"
-msgstr ""
+msgstr "케이오스 교환소에서 아이템 교환"
 
 msgid "qn_dsc_0704"
-msgstr ""
+msgstr "열두 별자리 메달 누적 1000개 획득"
 
 msgid "qn_dsc_0705"
-msgstr ""
+msgstr "열두 별자리 메달 누적 2000개 획득"
 
 msgid "qn_dsc_0706"
-msgstr ""
+msgstr "열두 별자리 메달 누적 3000개 획득"
 
 msgid "qn_dsc_0707"
-msgstr ""
+msgstr "열두 별자리 메달 누적 4000개 획득"
 
 msgid "qn_dsc_0708"
-msgstr ""
+msgstr "열두 별자리 메달 누적 5000개 획득"
 
 msgid "qn_dsc_0709"
-msgstr ""
+msgstr "열두 별자리 메달 누적 7500개 획득"
 
 msgid "qn_dsc_0710"
-msgstr ""
+msgstr "열두 별자리 메달 누적 10000개 획득"
 
 msgid "qn_dsc_0711"
-msgstr ""
+msgstr "열두 별자리 메달 누적 15000개 획득"
 
 msgid "qn_dsc_0712"
-msgstr ""
+msgstr "열두 별자리 메달 누적 20000개 획득"
 
 msgid "qn_dsc_0713"
-msgstr ""
+msgstr "열두 별자리 메달 누적 25000개 획득"
 
 msgid "qn_dsc_0714"
-msgstr ""
+msgstr "열두 별자리 메달 누적 30000개 획득"
 
 msgid "qn_dsc_0715"
-msgstr ""
+msgstr "열두 별자리 메달 누적 35000개 획득"
 
 msgid "qn_dsc_0716"
-msgstr ""
+msgstr "열두 별자리 메달 누적 40000개 획득"
 
 msgid "qn_dsc_0717"
-msgstr ""
+msgstr "열두 별자리 메달 누적 45000개 획득"
 
 msgid "qn_dsc_0718"
-msgstr ""
+msgstr "열두 별자리 메달 누적 50000개 획득"
 
 msgid "qn_dsc_0719"
-msgstr ""
+msgstr "열두 별자리 메달 누적 55000개 획득"
 
 msgid "qn_dsc_0720"
-msgstr ""
+msgstr "열두 별자리 메달 누적 60000개 획득"
 
 msgid "qn_dsc_0721"
-msgstr ""
+msgstr "열두 별자리 메달 누적 65000개 획득"
 
 msgid "qn_dsc_0722"
-msgstr ""
+msgstr "열두 별자리 메달 누적 70000개 획득"
 
 msgid "qn_dsc_0723"
-msgstr ""
+msgstr "열두 별자리 메달 누적 75000개 획득"
 
 msgid "qn_dsc_0724"
-msgstr ""
+msgstr "열두 별자리 메달 누적 80000개 획득"
 
 msgid "qn_dsc_0725"
-msgstr ""
+msgstr "열두 별자리 메달 누적 85000개 획득"
 
 msgid "qn_dsc_0726"
-msgstr ""
+msgstr "열두 별자리 메달 누적 90000개 획득"
 
 msgid "qn_dsc_0727"
-msgstr ""
+msgstr "열두 별자리 메달 누적 95000개 획득"
 
 msgid "qn_dsc_0728"
-msgstr ""
+msgstr "열두 별자리 메달 누적 100000개 획득"
 
 msgid "qn_dsc_0729"
-msgstr ""
+msgstr "열두 별자리 메달 누적 110000개 획득"
 
 msgid "qn_dsc_0730"
-msgstr ""
+msgstr "열두 별자리 메달 누적 120000개 획득"
 
 msgid "qn_dsc_0731"
-msgstr ""
+msgstr "열두 별자리 메달 누적 130000개 획득"
 
 msgid "qn_dsc_0732"
-msgstr ""
+msgstr "열두 별자리 메달 누적 140000개 획득"
 
 msgid "qn_dsc_0733"
-msgstr ""
+msgstr "열두 별자리 메달 누적 150000개 획득"
 
 msgid "qn_dsc_0734"
-msgstr ""
+msgstr "열두 별자리 메달 누적 160000개 획득"
 
 msgid "qn_dsc_0735"
 msgstr ""
@@ -15681,6 +16313,8 @@ msgstr ""
 
 msgid "qn_dsc_0738"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0739"
 msgstr ""
@@ -15693,228 +16327,378 @@ msgstr ""
 
 msgid "qn_dsc_0742"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0743"
 msgstr ""
+"노래 레이트 50을 달성하고\n"
+"노래 그레이드 【훈련병★2】 달성"
 
 msgid "qn_dsc_0744"
 msgstr ""
+"노래 레이트 100을 달성하고\n"
+"노래 그레이드 【훈련병★3】 달성"
 
 msgid "qn_dsc_0745"
 msgstr ""
+"노래 레이트 150을 달성하고\n"
+"노래 그레이드 【훈련병★4】 달성"
 
 msgid "qn_dsc_0746"
 msgstr ""
+"노래 레이트 200을 달성하고\n"
+"노래 그레이드 【훈련병★5】 달성"
 
 msgid "qn_dsc_0747"
 msgstr ""
+"노래 레이트 250을 달성하고\n"
+"노래 그레이드 【이등병★1】 달성"
 
 msgid "qn_dsc_0748"
 msgstr ""
+"노래 레이트 300을 달성하고\n"
+"노래 그레이드 【이등병★2】 달성"
 
 msgid "qn_dsc_0749"
 msgstr ""
+"노래 레이트 350을 달성하고\n"
+"노래 그레이드 【이등병★3】 달성"
 
 msgid "qn_dsc_0750"
 msgstr ""
+"노래 레이트 400을 달성하고\n"
+"노래 그레이드 【이등병★4】 달성"
 
 msgid "qn_dsc_0751"
 msgstr ""
+"노래 레이트 50을 달성하고\n"
+"노래 그레이드 【훈련병★5】 달성"
 
 msgid "qn_dsc_0752"
 msgstr ""
+"노래 레이트 500을 달성하고\n"
+"노래 그레이드 【일등병★1】 달성"
 
 msgid "qn_dsc_0753"
 msgstr ""
+"노래 레이트 600을 달성하고\n"
+"노래 그레이드 【일등병★2】 달성"
 
 msgid "qn_dsc_0754"
 msgstr ""
+"노래 레이트 700을 달성하고\n"
+"노래 그레이드 【일등병★3】 달성"
 
 msgid "qn_dsc_0755"
 msgstr ""
+"노래 레이트 800을 달성하고\n"
+"노래 그레이드 【일등병★4】 달성"
 
 msgid "qn_dsc_0756"
 msgstr ""
+"노래 레이트 900을 달성하고\n"
+"노래 그레이드 【일등병★5】 달성"
 
 msgid "qn_dsc_0757"
 msgstr ""
+"노래 레이트 1000을 달성하고\n"
+"노래 그레이드 【상등병★1】 달성"
 
 msgid "qn_dsc_0758"
 msgstr ""
+"노래 레이트 1100을 달성하고\n"
+"노래 그레이드 【상등병★2】 달성"
 
 msgid "qn_dsc_0759"
 msgstr ""
+"노래 레이트 1200을 달성하고\n"
+"노래 그레이드 【상등병★3】 달성"
 
 msgid "qn_dsc_0760"
 msgstr ""
+"노래 레이트 1300을 달성하고\n"
+"노래 그레이드 【상등병★4】 달성"
 
 msgid "qn_dsc_0761"
 msgstr ""
+"노래 레이트 1400을 달성하고\n"
+"노래 그레이드 【상등병★5】 달성"
 
 msgid "qn_dsc_0762"
 msgstr ""
+"노래 레이트 1500을 달성하고\n"
+"노래 그레이드 【오장★1】 달성"
 
 msgid "qn_dsc_0763"
 msgstr ""
+"노래 레이트 1600을 달성하고\n"
+"노래 그레이드 【오장★2】 달성"
 
 msgid "qn_dsc_0764"
 msgstr ""
+"노래 레이트 1700을 달성하고\n"
+"노래 그레이드 【오장★3】 달성"
 
 msgid "qn_dsc_0765"
 msgstr ""
+"노래 레이트 1800을 달성하고\n"
+"노래 그레이드 【오장★4】 달성"
 
 msgid "qn_dsc_0766"
 msgstr ""
+"노래 레이트 1900을 달성하고\n"
+"노래 그레이드 【오장★5】 달성"
 
 msgid "qn_dsc_0767"
 msgstr ""
+"노래 레이트 2000을 달성하고\n"
+"노래 그레이드 【군조★1】 달성"
 
 msgid "qn_dsc_0768"
 msgstr ""
+"노래 레이트 2200을 달성하고\n"
+"노래 그레이드 【군조★3】 달성"
 
 msgid "qn_dsc_0769"
 msgstr ""
+"노래 레이트 2400을 달성하고\n"
+"노래 그레이드 【군조★5】 달성"
 
 msgid "qn_dsc_0770"
 msgstr ""
+"노래 레이트 2600을 달성하고\n"
+"노래 그레이드 【군조★7】 달성"
 
 msgid "qn_dsc_0771"
 msgstr ""
+"노래 레이트 2800을 달성하고\n"
+"노래 그레이드 【군조★9】 달성"
 
 msgid "qn_dsc_0772"
 msgstr ""
+"노래 레이트 3000을 달성하고\n"
+"노래 그레이드 【조장★1】 달성"
 
 msgid "qn_dsc_0773"
 msgstr ""
+"노래 레이트 3200을 달성하고\n"
+"노래 그레이드 【조장★3】 달성"
 
 msgid "qn_dsc_0774"
 msgstr ""
+"노래 레이트 3400을 달성하고\n"
+"노래 그레이드 【조장★5】 달성"
 
 msgid "qn_dsc_0775"
 msgstr ""
+"노래 레이트 3600을 달성하고\n"
+"노래 그레이드 【조장★7】 달성"
 
 msgid "qn_dsc_0776"
 msgstr ""
+"노래 레이트 3800을 달성하고\n"
+"노래 그레이드 【조장★9】 달성"
 
 msgid "qn_dsc_0777"
 msgstr ""
+"노래 레이트 4000을 달성하고\n"
+"노래 그레이드 【준위★1】 달성"
 
 msgid "qn_dsc_0778"
 msgstr ""
+"노래 레이트 4200을 달성하고\n"
+"노래 그레이드 【준위★3】 달성"
 
 msgid "qn_dsc_0779"
 msgstr ""
+"노래 레이트 4400을 달성하고\n"
+"노래 그레이드 【준위★5】 달성"
 
 msgid "qn_dsc_0780"
 msgstr ""
+"노래 레이트 4600을 달성하고\n"
+"노래 그레이드 【준위★7】 달성"
 
 msgid "qn_dsc_0781"
 msgstr ""
+"노래 레이트 4800을 달성하고\n"
+"노래 그레이드 【준위★9】 달성"
 
 msgid "qn_dsc_0782"
 msgstr ""
+"노래 레이트 5000을 달성하고\n"
+"노래 그레이드 【소위★1】 달성"
 
 msgid "qn_dsc_0783"
 msgstr ""
+"노래 레이트 5200을 달성하고\n"
+"노래 그레이드 【소위★3】 달성"
 
 msgid "qn_dsc_0784"
 msgstr ""
+"노래 레이트 5400을 달성하고\n"
+"노래 그레이드 【소위★5】 달성"
 
 msgid "qn_dsc_0785"
 msgstr ""
+"노래 레이트 5600을 달성하고\n"
+"노래 그레이드 【소위★7】 달성"
 
 msgid "qn_dsc_0786"
 msgstr ""
+"노래 레이트 5800을 달성하고\n"
+"노래 그레이드 【소위★9】 달성"
 
 msgid "qn_dsc_0787"
 msgstr ""
+"노래 레이트 6000을 달성하고\n"
+"노래 그레이드 【중위★1】 달성"
 
 msgid "qn_dsc_0788"
 msgstr ""
+"노래 레이트 6200을 달성하고\n"
+"노래 그레이드 【중위★3】 달성"
 
 msgid "qn_dsc_0789"
 msgstr ""
+"노래 레이트 6400을 달성하고\n"
+"노래 그레이드 【중위★5】 달성"
 
 msgid "qn_dsc_0790"
 msgstr ""
+"노래 레이트 6600을 달성하고\n"
+"노래 그레이드 【중위★7】 달성"
 
 msgid "qn_dsc_0791"
 msgstr ""
+"노래 레이트 6800을 달성하고\n"
+"노래 그레이드 【중위★9】 달성"
 
 msgid "qn_dsc_0792"
 msgstr ""
+"노래 레이트 7000을 달성하고\n"
+"노래 그레이드 【대위★1】 달성"
 
 msgid "qn_dsc_0793"
 msgstr ""
+"노래 레이트 7200을 달성하고\n"
+"노래 그레이드 【대위★3】 달성"
 
 msgid "qn_dsc_0794"
 msgstr ""
+"노래 레이트 7400을 달성하고\n"
+"노래 그레이드 【대위★5】 달성"
 
 msgid "qn_dsc_0795"
 msgstr ""
+"노래 레이트 7600을 달성하고\n"
+"노래 그레이드 【대위★7】 달성"
 
 msgid "qn_dsc_0796"
 msgstr ""
+"노래 레이트 7800을 달성하고\n"
+"노래 그레이드 【대위★9】 달성"
 
 msgid "qn_dsc_0797"
 msgstr ""
+"노래 레이트 8000을 달성하고\n"
+"노래 그레이드 【소령★1】 달성"
 
 msgid "qn_dsc_0798"
 msgstr ""
+"노래 레이트 8200을 달성하고\n"
+"노래 그레이드 【소령★3】 달성"
 
 msgid "qn_dsc_0799"
 msgstr ""
+"노래 레이트 8400을 달성하고\n"
+"노래 그레이드 【소령★5】 달성"
 
 msgid "qn_dsc_0800"
 msgstr ""
+"노래 레이트 8600을 달성하고\n"
+"노래 그레이드 【소령★7】 달성"
 
 msgid "qn_dsc_0801"
 msgstr ""
+"노래 레이트 8800을 달성하고\n"
+"노래 그레이드 【소령★9】 달성"
 
 msgid "qn_dsc_0802"
 msgstr ""
+"노래 레이트 9000을 달성하고\n"
+"노래 그레이드 【중령★1】 달성"
 
 msgid "qn_dsc_0803"
 msgstr ""
+"노래 레이트 9200을 달성하고\n"
+"노래 그레이드 【중령★3】 달성"
 
 msgid "qn_dsc_0804"
 msgstr ""
+"노래 레이트 9400을 달성하고\n"
+"노래 그레이드 【중령★5】 달성"
 
 msgid "qn_dsc_0805"
 msgstr ""
+"노래 레이트 9600을 달성하고\n"
+"노래 그레이드 【중령★7】 달성"
 
 msgid "qn_dsc_0806"
 msgstr ""
+"노래 레이트 9800을 달성하고\n"
+"노래 그레이드 【중령★9】 달성"
 
 msgid "qn_dsc_0807"
 msgstr ""
+"노래 레이트 10000을 달성하고\n"
+"노래 그레이드 【대령★1】 달성"
 
 msgid "qn_dsc_0808"
 msgstr ""
+"노래 레이트 10200을 달성하고\n"
+"노래 그레이드 【대령★3】 달성"
 
 msgid "qn_dsc_0809"
 msgstr ""
+"노래 레이트 10400을 달성하고\n"
+"노래 그레이드 【대령★5】 달성"
 
 msgid "qn_dsc_0810"
 msgstr ""
+"노래 레이트 10600을 달성하고\n"
+"노래 그레이드 【대령★7】 달성"
 
 msgid "qn_dsc_0811"
 msgstr ""
+"노래 레이트 10800을 달성하고\n"
+"노래 그레이드 【대령★9】 달성"
 
 msgid "qn_dsc_0812"
 msgstr ""
+"노래 레이트 250을 달성하고\n"
+"노래 그레이드가 【훈련병】에서 【이등병】이 됨"
 
 msgid "qn_dsc_0813"
 msgstr ""
+"노래 레이트 500을 달성하고\n"
+"노래 그레이드가 【이등병】에서 【일등병】이 됨"
 
 msgid "qn_dsc_0814"
 msgstr ""
+"노래 레이트 1000을 달성하고\n"
+"노래 그레이드가 【일등병】에서 【상등병】이 됨"
 
 msgid "qn_dsc_0815"
 msgstr ""
+"노래 레이트 1500을 달성하고\n"
+"노래 그레이드가 【상등병】에서 【오장】이 됨"
 
 msgid "qn_dsc_0816"
 msgstr ""
+"노래 레이트 2000을 달성하고\n"
+"노래 그레이드가 【오장】에서 【군조】가 됨"
 
 msgid "qn_dsc_0817"
 msgstr ""
@@ -15936,6 +16720,8 @@ msgstr ""
 
 msgid "qn_dsc_0823"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0824"
 msgstr ""
@@ -15948,6 +16734,8 @@ msgstr ""
 
 msgid "qn_dsc_0827"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0828"
 msgstr ""
@@ -15978,6 +16766,8 @@ msgstr ""
 
 msgid "qn_dsc_0837"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0838"
 msgstr ""
@@ -15990,6 +16780,8 @@ msgstr ""
 
 msgid "qn_dsc_0841"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0842"
 msgstr ""
@@ -16002,6 +16794,8 @@ msgstr ""
 
 msgid "qn_dsc_0845"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0846"
 msgstr ""
@@ -16014,6 +16808,8 @@ msgstr ""
 
 msgid "qn_dsc_0849"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0850"
 msgstr ""
@@ -16026,6 +16822,8 @@ msgstr ""
 
 msgid "qn_dsc_0853"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0854"
 msgstr ""
@@ -16038,6 +16836,8 @@ msgstr ""
 
 msgid "qn_dsc_0857"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0858"
 msgstr ""
@@ -16059,6 +16859,8 @@ msgstr ""
 
 msgid "qn_dsc_0864"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0865"
 msgstr ""
@@ -16089,6 +16891,8 @@ msgstr ""
 
 msgid "qn_dsc_0874"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0875"
 msgstr ""
@@ -16101,9 +16905,13 @@ msgstr ""
 
 msgid "qn_dsc_0878"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0879"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0880"
 msgstr ""
@@ -16116,6 +16924,8 @@ msgstr ""
 
 msgid "qn_dsc_0883"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0884"
 msgstr ""
@@ -16137,6 +16947,8 @@ msgstr ""
 
 msgid "qn_dsc_0890"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0891"
 msgstr ""
@@ -16149,6 +16961,8 @@ msgstr ""
 
 msgid "qn_dsc_0894"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0895"
 msgstr ""
@@ -16170,6 +16984,8 @@ msgstr ""
 
 msgid "qn_dsc_0901"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0902"
 msgstr ""
@@ -16182,6 +16998,8 @@ msgstr ""
 
 msgid "qn_dsc_0905"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0906"
 msgstr ""
@@ -16386,46 +17204,46 @@ msgid "qn_dsc_0959"
 msgstr "발키리 오퍼레이션 누적 3000회 달성"
 
 msgid "qn_dsc_0960"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 2회 상승"
 
 msgid "qn_dsc_0961"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 5회 상승"
 
 msgid "qn_dsc_0962"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 10회 상승"
 
 msgid "qn_dsc_0963"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 15회 상승"
 
 msgid "qn_dsc_0964"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 20회 상승"
 
 msgid "qn_dsc_0965"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 25회 상승"
 
 msgid "qn_dsc_0966"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 30회 상승"
 
 msgid "qn_dsc_0967"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 40회 상승"
 
 msgid "qn_dsc_0968"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 50회 상승"
 
 msgid "qn_dsc_0969"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 60회 상승"
 
 msgid "qn_dsc_0970"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 70회 상승"
 
 msgid "qn_dsc_0971"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 80회 상승"
 
 msgid "qn_dsc_0972"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 90회 상승"
 
 msgid "qn_dsc_0973"
-msgstr ""
+msgstr "【의상 강화】에서 의상의 캬와와 랭크를 100회 상승"
 
 msgid "qn_dsc_0974"
 msgstr ""
@@ -16438,292 +17256,292 @@ msgstr ""
 "의상 강화 튜토리얼 완료"
 
 msgid "qn_dsc_0976"
-msgstr ""
+msgstr "우타 마크로스에 누적 1일 로그인하기"
 
 msgid "qn_dsc_0977"
-msgstr ""
+msgstr "우타 마크로스에 누적 1일 로그인하기"
 
 msgid "qn_dsc_0978"
-msgstr ""
+msgstr "우타 마크로스에 누적 1일 로그인하기"
 
 msgid "qn_dsc_0979"
-msgstr ""
+msgstr "우타 마크로스에 누적 2일 로그인하기"
 
 msgid "qn_dsc_0980"
-msgstr ""
+msgstr "우타 마크로스에 누적 2일 로그인하기"
 
 msgid "qn_dsc_0981"
-msgstr ""
+msgstr "우타 마크로스에 누적 2일 로그인하기"
 
 msgid "qn_dsc_0982"
-msgstr ""
+msgstr "우타 마크로스에 누적 3일 로그인하기"
 
 msgid "qn_dsc_0983"
-msgstr ""
+msgstr "우타 마크로스에 누적 3일 로그인하기"
 
 msgid "qn_dsc_0984"
-msgstr ""
+msgstr "우타 마크로스에 누적 3일 로그인하기"
 
 msgid "qn_dsc_0985"
-msgstr ""
+msgstr "우타 마크로스에 누적 4일 로그인하기"
 
 msgid "qn_dsc_0986"
-msgstr ""
+msgstr "우타 마크로스에 누적 4일 로그인하기"
 
 msgid "qn_dsc_0987"
-msgstr ""
+msgstr "우타 마크로스에 누적 4일 로그인하기"
 
 msgid "qn_dsc_0988"
-msgstr ""
+msgstr "우타 마크로스에 누적 5일 로그인하기"
 
 msgid "qn_dsc_0989"
-msgstr ""
+msgstr "우타 마크로스에 누적 5일 로그인하기"
 
 msgid "qn_dsc_0990"
-msgstr ""
+msgstr "우타 마크로스에 누적 5일 로그인하기"
 
 msgid "qn_dsc_0991"
-msgstr ""
+msgstr "우타 마크로스에 누적 6일 로그인하기"
 
 msgid "qn_dsc_0992"
-msgstr ""
+msgstr "우타 마크로스에 누적 6일 로그인하기"
 
 msgid "qn_dsc_0993"
-msgstr ""
+msgstr "우타 마크로스에 누적 6일 로그인하기"
 
 msgid "qn_dsc_0994"
-msgstr ""
+msgstr "우타 마크로스에 누적 7일 로그인하기"
 
 msgid "qn_dsc_0995"
-msgstr ""
+msgstr "우타 마크로스에 누적 7일 로그인하기"
 
 msgid "qn_dsc_0996"
-msgstr ""
+msgstr "우타 마크로스에 누적 7일 로그인하기"
 
 msgid "qn_dsc_0997"
-msgstr ""
+msgstr "우타 마크로스에 누적 7일 로그인하기"
 
 msgid "qn_dsc_0998"
-msgstr ""
+msgstr "우타 마크로스에 누적 8일 로그인하기"
 
 msgid "qn_dsc_0999"
-msgstr ""
+msgstr "우타 마크로스에 누적 8일 로그인하기"
 
 msgid "qn_dsc_1000"
-msgstr ""
+msgstr "우타 마크로스에 누적 8일 로그인하기"
 
 msgid "qn_dsc_1001"
-msgstr ""
+msgstr "우타 마크로스에 누적 8일 로그인하기"
 
 msgid "qn_dsc_1002"
-msgstr ""
+msgstr "우타 마크로스에 누적 9일 로그인하기"
 
 msgid "qn_dsc_1003"
-msgstr ""
+msgstr "우타 마크로스에 누적 9일 로그인하기"
 
 msgid "qn_dsc_1004"
-msgstr ""
+msgstr "우타 마크로스에 누적 9일 로그인하기"
 
 msgid "qn_dsc_1005"
-msgstr ""
+msgstr "우타 마크로스에 누적 9일 로그인하기"
 
 msgid "qn_dsc_1006"
-msgstr ""
+msgstr "우타 마크로스에 누적 10일 로그인하기"
 
 msgid "qn_dsc_1007"
-msgstr ""
+msgstr "우타 마크로스에 누적 10일 로그인하기"
 
 msgid "qn_dsc_1008"
-msgstr ""
+msgstr "우타 마크로스에 누적 10일 로그인하기"
 
 msgid "qn_dsc_1009"
-msgstr ""
+msgstr "우타 마크로스에 누적 10일 로그인하기"
 
 msgid "qn_dsc_1010"
-msgstr ""
+msgstr "우타 마크로스에 누적 11일 로그인하기"
 
 msgid "qn_dsc_1011"
-msgstr ""
+msgstr "우타 마크로스에 누적 11일 로그인하기"
 
 msgid "qn_dsc_1012"
-msgstr ""
+msgstr "우타 마크로스에 누적 11일 로그인하기"
 
 msgid "qn_dsc_1013"
-msgstr ""
+msgstr "우타 마크로스에 누적 11일 로그인하기"
 
 msgid "qn_dsc_1014"
-msgstr ""
+msgstr "우타 마크로스에 누적 12일 로그인하기"
 
 msgid "qn_dsc_1015"
-msgstr ""
+msgstr "우타 마크로스에 누적 12일 로그인하기"
 
 msgid "qn_dsc_1016"
-msgstr ""
+msgstr "우타 마크로스에 누적 12일 로그인하기"
 
 msgid "qn_dsc_1017"
-msgstr ""
+msgstr "우타 마크로스에 누적 12일 로그인하기"
 
 msgid "qn_dsc_1018"
-msgstr ""
+msgstr "우타 마크로스에 누적 13일 로그인하기"
 
 msgid "qn_dsc_1019"
-msgstr ""
+msgstr "우타 마크로스에 누적 13일 로그인하기"
 
 msgid "qn_dsc_1020"
-msgstr ""
+msgstr "우타 마크로스에 누적 13일 로그인하기"
 
 msgid "qn_dsc_1021"
-msgstr ""
+msgstr "우타 마크로스에 누적 13일 로그인하기"
 
 msgid "qn_dsc_1022"
-msgstr ""
+msgstr "우타 마크로스에 누적 14일 로그인하기"
 
 msgid "qn_dsc_1023"
-msgstr ""
+msgstr "우타 마크로스에 누적 14일 로그인하기"
 
 msgid "qn_dsc_1024"
-msgstr ""
+msgstr "우타 마크로스에 누적 14일 로그인하기"
 
 msgid "qn_dsc_1025"
-msgstr ""
+msgstr "우타 마크로스에 누적 14일 로그인하기"
 
 msgid "qn_dsc_1026"
-msgstr ""
+msgstr "우타 마크로스에 누적 15일 로그인하기"
 
 msgid "qn_dsc_1027"
-msgstr ""
+msgstr "우타 마크로스에 누적 16일 로그인하기"
 
 msgid "qn_dsc_1028"
-msgstr ""
+msgstr "우타 마크로스에 누적 17일 로그인하기"
 
 msgid "qn_dsc_1029"
-msgstr ""
+msgstr "우타 마크로스에 누적 18일 로그인하기"
 
 msgid "qn_dsc_1030"
-msgstr ""
+msgstr "우타 마크로스에 누적 19일 로그인하기"
 
 msgid "qn_dsc_1031"
-msgstr ""
+msgstr "우타 마크로스에 누적 20일 로그인하기"
 
 msgid "qn_dsc_1032"
-msgstr ""
+msgstr "우타 마크로스에 누적 21일 로그인하기"
 
 msgid "qn_dsc_1033"
-msgstr ""
+msgstr "우타 마크로스에 누적 22일 로그인하기"
 
 msgid "qn_dsc_1034"
-msgstr ""
+msgstr "우타 마크로스에 누적 23일 로그인하기"
 
 msgid "qn_dsc_1035"
-msgstr ""
+msgstr "우타 마크로스에 누적 24일 로그인하기"
 
 msgid "qn_dsc_1036"
-msgstr ""
+msgstr "우타 마크로스에 누적 25일 로그인하기"
 
 msgid "qn_dsc_1037"
-msgstr ""
+msgstr "우타 마크로스에 누적 26일 로그인하기"
 
 msgid "qn_dsc_1038"
-msgstr ""
+msgstr "우타 마크로스에 누적 27일 로그인하기"
 
 msgid "qn_dsc_1039"
-msgstr ""
+msgstr "우타 마크로스에 누적 28일 로그인하기"
 
 msgid "qn_dsc_1040"
-msgstr ""
+msgstr "우타 마크로스에 누적 29일 로그인하기"
 
 msgid "qn_dsc_1041"
-msgstr ""
+msgstr "우타 마크로스에 누적 30일 로그인하기"
 
 msgid "qn_dsc_1042"
-msgstr ""
+msgstr "우타 마크로스에 누적 31일 로그인하기"
 
 msgid "qn_dsc_1043"
-msgstr ""
+msgstr "우타 마크로스에 누적 32일 로그인하기"
 
 msgid "qn_dsc_1044"
-msgstr ""
+msgstr "우타 마크로스에 누적 33일 로그인하기"
 
 msgid "qn_dsc_1045"
-msgstr ""
+msgstr "우타 마크로스에 누적 34일 로그인하기"
 
 msgid "qn_dsc_1046"
-msgstr ""
+msgstr "우타 마크로스에 누적 35일 로그인하기"
 
 msgid "qn_dsc_1047"
-msgstr ""
+msgstr "우타 마크로스에 누적 36일 로그인하기"
 
 msgid "qn_dsc_1048"
-msgstr ""
+msgstr "우타 마크로스에 누적 37일 로그인하기"
 
 msgid "qn_dsc_1049"
-msgstr ""
+msgstr "우타 마크로스에 누적 38일 로그인하기"
 
 msgid "qn_dsc_1050"
-msgstr ""
+msgstr "우타 마크로스에 누적 39일 로그인하기"
 
 msgid "qn_dsc_1051"
-msgstr ""
+msgstr "우타 마크로스에 누적 40일 로그인하기"
 
 msgid "qn_dsc_1052"
-msgstr ""
+msgstr "우타 마크로스에 누적 41일 로그인하기"
 
 msgid "qn_dsc_1053"
-msgstr ""
+msgstr "우타 마크로스에 누적 42일 로그인하기"
 
 msgid "qn_dsc_1054"
-msgstr ""
+msgstr "우타 마크로스에 누적 43일 로그인하기"
 
 msgid "qn_dsc_1055"
-msgstr ""
+msgstr "우타 마크로스에 누적 44일 로그인하기"
 
 msgid "qn_dsc_1056"
-msgstr ""
+msgstr "우타 마크로스에 누적 45일 로그인하기"
 
 msgid "qn_dsc_1057"
-msgstr ""
+msgstr "우타 마크로스에 누적 46일 로그인하기"
 
 msgid "qn_dsc_1058"
-msgstr ""
+msgstr "우타 마크로스에 누적 47일 로그인하기"
 
 msgid "qn_dsc_1059"
-msgstr ""
+msgstr "우타 마크로스에 누적 48일 로그인하기"
 
 msgid "qn_dsc_1060"
-msgstr ""
+msgstr "우타 마크로스에 누적 49일 로그인하기"
 
 msgid "qn_dsc_1061"
-msgstr ""
+msgstr "우타 마크로스에 누적 50일 로그인하기"
 
 msgid "qn_dsc_1062"
-msgstr ""
+msgstr "우타 마크로스에 누적 51일 로그인하기"
 
 msgid "qn_dsc_1063"
-msgstr ""
+msgstr "우타 마크로스에 누적 52일 로그인하기"
 
 msgid "qn_dsc_1064"
-msgstr ""
+msgstr "우타 마크로스에 누적 53일 로그인하기"
 
 msgid "qn_dsc_1065"
-msgstr ""
+msgstr "우타 마크로스에 누적 54일 로그인하기"
 
 msgid "qn_dsc_1066"
-msgstr ""
+msgstr "우타 마크로스에 누적 55일 로그인하기"
 
 msgid "qn_dsc_1067"
-msgstr ""
+msgstr "우타 마크로스에 누적 56일 로그인하기"
 
 msgid "qn_dsc_1068"
-msgstr ""
+msgstr "우타 마크로스에 누적 57일 로그인하기"
 
 msgid "qn_dsc_1069"
-msgstr ""
+msgstr "우타 마크로스에 누적 58일 로그인하기"
 
 msgid "qn_dsc_1070"
-msgstr ""
+msgstr "우타 마크로스에 누적 59일 로그인하기"
 
 msgid "qn_dsc_1071"
-msgstr ""
+msgstr "우타 마크로스에 누적 60일 로그인하기"
 
 msgid "qn_dsc_1072"
 msgstr ""
@@ -16736,6 +17554,8 @@ msgstr ""
 
 msgid "qn_dsc_1075"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1076"
 msgstr ""
@@ -16748,6 +17568,8 @@ msgstr ""
 
 msgid "qn_dsc_1079"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1080"
 msgstr ""
@@ -16769,6 +17591,8 @@ msgstr ""
 
 msgid "qn_dsc_1086"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1087"
 msgstr ""
@@ -16781,6 +17605,8 @@ msgstr ""
 
 msgid "qn_dsc_1090"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1091"
 msgstr ""
@@ -16811,12 +17637,14 @@ msgstr ""
 
 msgid "qn_dsc_1100"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1101"
-msgstr ""
+msgstr "X 연동하기"
 
 msgid "qn_dsc_1102"
-msgstr ""
+msgstr "LINE 연동하기"
 
 msgid "qn_dsc_1104"
 msgstr ""
@@ -16838,6 +17666,8 @@ msgstr ""
 
 msgid "qn_dsc_1110"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1111"
 msgstr ""
@@ -16850,6 +17680,8 @@ msgstr ""
 
 msgid "qn_dsc_1114"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1115"
 msgstr ""
@@ -16880,6 +17712,8 @@ msgstr ""
 
 msgid "qn_dsc_1124"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1125"
 msgstr ""
@@ -16892,6 +17726,8 @@ msgstr ""
 
 msgid "qn_dsc_1128"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1129"
 msgstr ""
@@ -16906,82 +17742,106 @@ msgid "qn_dsc_1132"
 msgstr "플레이어 랭크 5를 달성하고 데코르챠 모드를 해방"
 
 msgid "qn_dsc_1133"
-msgstr ""
+msgstr "【데코 포인트 교환소】에서 데코 아이템 1회 교환하기"
 
 msgid "qn_dsc_1134"
-msgstr ""
+msgstr "【데코 포인트 교환소】에서 데코 아이템 5회 교환하기"
 
 msgid "qn_dsc_1135"
-msgstr ""
+msgstr "【데코 포인트 교환소】에서 데코 아이템 10회 교환하기"
 
 msgid "qn_dsc_1136"
-msgstr ""
+msgstr "【데코 포인트 교환소】에서 데코 아이템 15회 교환하기"
 
 msgid "qn_dsc_1137"
-msgstr ""
+msgstr "【데코 포인트 교환소】에서 데코 아이템 20회 교환하기"
 
 msgid "qn_dsc_1138"
-msgstr ""
+msgstr "【데코 포인트 교환소】에서 데코 아이템 30회 교환하기"
 
 msgid "qn_dsc_1139"
-msgstr ""
+msgstr "데코 포인트 누적 15000DP 획득하기"
 
 msgid "qn_dsc_1140"
-msgstr ""
+msgstr "데코 포인트 누적 20000DP 획득하기"
 
 msgid "qn_dsc_1141"
-msgstr ""
+msgstr "데코 포인트 누적 30000DP 획득하기"
 
 msgid "qn_dsc_1142"
-msgstr ""
+msgstr "데코 포인트 누적 40000DP 획득하기"
 
 msgid "qn_dsc_1143"
-msgstr ""
+msgstr "데코 포인트 누적 50000DP 획득하기"
 
 msgid "qn_dsc_1144"
-msgstr ""
+msgstr "데코 포인트 누적 75000DP 획득하기"
 
 msgid "qn_dsc_1145"
-msgstr ""
+msgstr "데코 포인트 누적 100000DP 획득하기"
 
 msgid "qn_dsc_1146"
 msgstr "플레이어 랭크 9를 달성하고 발키리 강화를 해방"
 
 msgid "qn_dsc_1147"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 5회 상승"
 
 msgid "qn_dsc_1148"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 10회 상승"
 
 msgid "qn_dsc_1149"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 20회 상승"
 
 msgid "qn_dsc_1150"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 30회 상승"
 
 msgid "qn_dsc_1151"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 40회 상승"
 
 msgid "qn_dsc_1152"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 50회 상승"
 
 msgid "qn_dsc_1153"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 60회 상승"
 
 msgid "qn_dsc_1154"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 70회 상승"
 
 msgid "qn_dsc_1155"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 80회 상승"
 
 msgid "qn_dsc_1156"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 90회 상승"
 
 msgid "qn_dsc_1157"
 msgstr ""
+"【발키리 강화】에서\n"
+"발키리 확장 기능 100회 상승"
 
 msgid "qn_dsc_1158"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1159"
 msgstr ""
@@ -17021,6 +17881,8 @@ msgstr ""
 
 msgid "qn_dsc_1171"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1172"
 msgstr ""
@@ -17033,6 +17895,8 @@ msgstr ""
 
 msgid "qn_dsc_1175"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1176"
 msgstr ""
@@ -17063,6 +17927,8 @@ msgstr ""
 
 msgid "qn_dsc_1185"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1186"
 msgstr ""
@@ -17084,6 +17950,8 @@ msgstr ""
 
 msgid "qn_dsc_1192"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1193"
 msgstr ""
@@ -17105,6 +17973,8 @@ msgstr ""
 
 msgid "qn_dsc_1199"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1200"
 msgstr ""
@@ -17126,6 +17996,8 @@ msgstr ""
 
 msgid "qn_dsc_1206"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1207"
 msgstr ""
@@ -17165,6 +18037,8 @@ msgstr ""
 
 msgid "qn_dsc_1219"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1220"
 msgstr ""
@@ -17480,6 +18354,8 @@ msgstr ""
 
 msgid "qn_dsc_1324"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1325"
 msgstr ""
@@ -17492,6 +18368,8 @@ msgstr ""
 
 msgid "qn_dsc_1328"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1329"
 msgstr ""
@@ -17522,9 +18400,13 @@ msgstr ""
 
 msgid "qn_dsc_1338"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1339"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1340"
 msgstr ""
@@ -17600,6 +18482,8 @@ msgstr ""
 
 msgid "qn_dsc_1364"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1365"
 msgstr ""
@@ -17621,6 +18505,8 @@ msgstr ""
 
 msgid "qn_dsc_1371"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1372"
 msgstr ""
@@ -17633,6 +18519,8 @@ msgstr ""
 
 msgid "qn_dsc_1375"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1376"
 msgstr ""
@@ -17654,6 +18542,8 @@ msgstr ""
 
 msgid "qn_dsc_1400"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1401"
 msgstr ""
@@ -17675,6 +18565,8 @@ msgstr ""
 
 msgid "qn_dsc_1407"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1408"
 msgstr ""
@@ -17750,6 +18642,8 @@ msgstr ""
 
 msgid "qn_dsc_1432"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1433"
 msgstr "플레이어 랭크 201 달성"
@@ -17846,6 +18740,8 @@ msgstr ""
 
 msgid "qn_dsc_1464"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1465"
 msgstr ""
@@ -17867,6 +18763,8 @@ msgstr ""
 
 msgid "qn_dsc_1471"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1472"
 msgstr ""
@@ -17888,6 +18786,8 @@ msgstr ""
 
 msgid "qn_dsc_1478"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1479"
 msgstr ""
@@ -17927,9 +18827,11 @@ msgstr ""
 
 msgid "qn_dsc_1491"
 msgstr ""
+"【기억의 시공】을 진행하고\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_1492"
-msgstr ""
+msgstr "【기억의 시공】을 모두 해방하기"
 
 msgid "qn_dsc_1493"
 msgstr ""
@@ -18253,7 +19155,7 @@ msgid "ep_nm_0017"
 msgstr ""
 
 msgid "ep_nm_0018"
-msgstr ""
+msgstr "섬광의 AXIA"
 
 msgid "ep_nm_0019"
 msgstr ""
@@ -20689,7 +21591,7 @@ msgid "vc_0003"
 msgstr "유니온 크레짓"
 
 msgid "vc_0004"
-msgstr ""
+msgstr "우타마크 패스 특별 보충"
 
 msgid "vc_0005"
 msgstr "배경"
@@ -20711,12 +21613,18 @@ msgstr "의상 토르소"
 
 msgid "vc_dsc_0001"
 msgstr ""
+"가챠, 에너지 회복 등\n"
+"다양한 용도로 사용할 수 있는 아이템."
 
 msgid "vc_dsc_0002"
 msgstr ""
+"가정석 대신 가챠를 뽑을 수 있는 티켓.\n"
+"<color=#C8087E>※데카르 가챠 등 일부 가챠에서 사용할 수 있습니다. </color>"
 
 msgid "vc_dsc_0003"
 msgstr ""
+"에피소드 플레이트의 능력 해방 등,\r\n"
+"다양한 용도로 사용할 수 있는 화폐."
 
 msgid "vc_dsc_0004"
 msgstr ""
@@ -20734,10 +21642,10 @@ msgid "vc_dsc_0008"
 msgstr ""
 
 msgid "vc_dsc_0009"
-msgstr ""
+msgstr "발키리 피규어."
 
 msgid "vc_dsc_0010"
-msgstr ""
+msgstr "의상을 입힌 토르소."
 
 msgid "vc_uni_0000"
 msgstr "개"
@@ -20830,13 +21738,13 @@ msgid "rn_0013"
 msgstr "민메이의 방"
 
 msgid "rn_0014"
-msgstr ""
+msgstr "초시공 비너스 왈큐레"
 
 msgid "rn_0015"
-msgstr ""
+msgstr "섬광의 AXIA"
 
 msgid "rn_0016"
-msgstr ""
+msgstr "여름이다! 바다다! 수영복De Show!"
 
 msgid "rn_0017"
 msgstr ""
@@ -20860,7 +21768,7 @@ msgid "rn_0023"
 msgstr ""
 
 msgid "rn_0024"
-msgstr ""
+msgstr "결단 오버로드"
 
 msgid "rn_0025"
 msgstr ""
@@ -21235,7 +22143,7 @@ msgid "rn_0148"
 msgstr ""
 
 msgid "rn_0149"
-msgstr ""
+msgstr "Glow in the dark"
 
 msgid "rn_0150"
 msgstr ""
@@ -21268,22 +22176,22 @@ msgid "rn_0159"
 msgstr ""
 
 msgid "et_nm_0001"
-msgstr ""
+msgstr "초시공 LIVE 티켓"
 
 msgid "et_nm_0002"
-msgstr ""
+msgstr "초시공 LIVE 티켓"
 
 msgid "et_nm_0003"
-msgstr ""
+msgstr "초시공 LIVE 티켓"
 
 msgid "et_nm_0004"
-msgstr ""
+msgstr "펜라이트"
 
 msgid "et_nm_0005"
-msgstr ""
+msgstr "펜라이트"
 
 msgid "et_nm_0006"
-msgstr ""
+msgstr "펜라이트"
 
 msgid "et_dsc_0001"
 msgstr ""
@@ -21341,42 +22249,58 @@ msgstr ""
 
 msgid "cmp_dsc_0001"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 스톤(소)가 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0002"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 스톤(중)이 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0003"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 스톤(대)가 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0004"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 결정(소)가 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0005"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 결정(중)이 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0006"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 결정(대)가 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0007"
-msgstr ""
+msgstr "초시공 로그인 보너스로 얻을 수 있는 해방 아이템과 UC 세트."
 
 msgid "cmp_dsc_0008"
-msgstr ""
+msgstr "초시공 로그인 보너스로 얻을 수 있는 해방 아이템과 UC 세트."
 
 msgid "cmp_dsc_0009"
-msgstr ""
+msgstr "초시공 로그인 보너스로 얻을 수 있는 해방 아이템과 UC 세트."
 
 msgid "cmp_dsc_0010"
-msgstr ""
+msgstr "초시공 로그인 보너스로 얻을 수 있는 해방 아이템과 UC 세트."
 
 msgid "cmp_dsc_0011"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 스톤(소)(중)(대)가 세트로 구성되어 있다."
 
 msgid "cmp_dsc_0012"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"모든 종류의 결정(소)(중)(대)가 세트로 구성되어 있다."
 
 msgid "evn_0001"
-msgstr ""
+msgstr "기억의 조각"
 
 msgid "evn_0002"
 msgstr ""
@@ -21430,10 +22354,10 @@ msgid "evdsc_0009"
 msgstr ""
 
 msgid "eng_nm_0001"
-msgstr ""
+msgstr "에너지 에텔"
 
 msgid "eng_nm_0002"
-msgstr ""
+msgstr "【당일 한정】에너지 에텔"
 
 msgid "eng_dsc_0001"
 msgstr ""
@@ -21442,7 +22366,7 @@ msgid "eng_dsc_0002"
 msgstr ""
 
 msgid "mvtk_nm_0001"
-msgstr ""
+msgstr "S-LIVE 토큰"
 
 msgid "mvtk_dsc_0001"
 msgstr ""
@@ -29149,13 +30073,13 @@ msgid "dc_itm_nm_0021_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0022_srf"
-msgstr ""
+msgstr "It's show time! "
 
 msgid "dc_itm_nm_0023_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0024_srf"
-msgstr ""
+msgstr "...고마워"
 
 msgid "dc_itm_nm_0025_srf"
 msgstr ""
@@ -29299,7 +30223,7 @@ msgid "dc_itm_nm_0071_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0072_srf"
-msgstr ""
+msgstr "하나, 둘!"
 
 msgid "dc_itm_nm_0073_srf"
 msgstr ""
@@ -29311,7 +30235,7 @@ msgid "dc_itm_nm_0075_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0076_srf"
-msgstr ""
+msgstr "거짓말이지~!?"
 
 msgid "dc_itm_nm_0077_srf"
 msgstr ""
@@ -29326,7 +30250,7 @@ msgid "dc_itm_nm_0080_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0081_srf"
-msgstr ""
+msgstr "헬로-"
 
 msgid "dc_itm_nm_0082_srf"
 msgstr ""
@@ -29605,7 +30529,7 @@ msgid "dc_itm_nm_0173_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0174_srf"
-msgstr ""
+msgstr "파이어!"
 
 msgid "dc_itm_nm_0175_srf"
 msgstr ""
@@ -29686,7 +30610,7 @@ msgid "dc_itm_nm_0200_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0201_srf"
-msgstr ""
+msgstr "잘 부탁해!"
 
 msgid "dc_itm_nm_0202_srf"
 msgstr ""
@@ -29698,46 +30622,46 @@ msgid "dc_itm_nm_0204_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0205_srf"
-msgstr ""
+msgstr "바이바이"
 
 msgid "dc_itm_nm_0206_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0207_srf"
-msgstr ""
+msgstr "OK"
 
 msgid "dc_itm_nm_0208_srf"
-msgstr ""
+msgstr "NO!"
 
 msgid "dc_itm_nm_0209_srf"
-msgstr ""
+msgstr "찬스!"
 
 msgid "dc_itm_nm_0210_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0211_srf"
-msgstr ""
+msgstr "준비 완료!"
 
 msgid "dc_itm_nm_0212_srf"
 msgstr ""
 
 msgid "dc_itm_nm_0213_srf"
-msgstr ""
+msgstr "고마워!"
 
 msgid "dc_itm_nm_0214_srf"
-msgstr ""
+msgstr "미안…"
 
 msgid "dc_itm_nm_0215_srf"
-msgstr ""
+msgstr "굉장해"
 
 msgid "dc_itm_nm_0216_srf"
-msgstr ""
+msgstr "축하해!"
 
 msgid "dc_itm_nm_0217_srf"
-msgstr ""
+msgstr "데카르챠-!"
 
 msgid "dc_itm_nm_0218_srf"
-msgstr ""
+msgstr "야크 데카르챠-...!"
 
 msgid "dc_itm_nm_0219_srf"
 msgstr ""
@@ -29866,40 +30790,50 @@ msgid "dc_itm_nm_0314_srf"
 msgstr ""
 
 msgid "val_itm_nm_0001"
-msgstr ""
+msgstr "메카닉 툴"
 
 msgid "val_itm_nm_0002"
-msgstr ""
+msgstr "브레이즈 기어"
 
 msgid "val_itm_nm_0003"
-msgstr ""
+msgstr "윈드 기어"
 
 msgid "val_itm_nm_0004"
-msgstr ""
+msgstr "블루 스카이 기어"
 
 msgid "val_itm_nm_0005"
-msgstr ""
+msgstr "발키리 기어"
 
 msgid "val_itm_dsc_0001"
 msgstr ""
+"발키리의 확장 성능 해방에 사용되는 아이템.\r\n"
+"특수한 재료를 가공하기 위한 도구."
 
 msgid "val_itm_dsc_0002"
 msgstr ""
+"발키리의 확장 레벨을 해방하는 데 사용되는 아이템.\n"
+"발키리의 성능을 끌어올리는 화염의 힘을 지닌 소재."
 
 msgid "val_itm_dsc_0003"
 msgstr ""
+"발키리의 확장 레벨을 해방하는 데 사용되는 아이템.\n"
+"발키리의 성능을 끌어올리는 바람의 힘을 지닌 소재."
 
 msgid "val_itm_dsc_0004"
 msgstr ""
+"발키리의 확장 레벨을 해방하는 데 사용되는 아이템.\n"
+"발키리의 성능을 끌어올리는 하늘의 힘을 지닌 소재."
 
 msgid "val_itm_dsc_0005"
 msgstr ""
+"발키리의 확장 성능 해방에 사용되는 아이템.\r\n"
+"발키리의 성능을 끌어올리는 매우 귀중한 소재."
 
 msgid "val_skill_nm_0001"
-msgstr ""
+msgstr "라이브"
 
 msgid "val_skill_nm_0002"
-msgstr ""
+msgstr "VOP"
 
 msgid "val_skill_dsc_0001"
 msgstr ""
@@ -29980,10 +30914,12 @@ msgid "val_skill_dsc_0026"
 msgstr ""
 
 msgid "dcpt_nm_0001"
-msgstr ""
+msgstr "데코 포인트"
 
 msgid "dcpt_dsc_0001"
 msgstr ""
+"데코 포인트 심볼이 새겨진 코인.\n"
+"케이오스 교환소에서 데코 아이템으로 교환할 수 있다."
 
 msgid "dc_set_nm_0002"
 msgstr "프레이아의 방"
@@ -30004,19 +30940,19 @@ msgid "dc_set_nm_0007"
 msgstr ""
 
 msgid "dc_set_nm_0008"
-msgstr ""
+msgstr "해파리 축제"
 
 msgid "dc_set_nm_0009"
-msgstr ""
+msgstr "야외 라이브 스테이지"
 
 msgid "dc_set_nm_0010"
-msgstr ""
+msgstr "왈큐레 페스"
 
 msgid "dc_set_nm_0012"
-msgstr ""
+msgstr "초시공 반점 냥냥"
 
 msgid "dc_set_nm_0013"
-msgstr ""
+msgstr "라그냥냥"
 
 msgid "dc_set_nm_0014"
 msgstr ""
@@ -30025,7 +30961,7 @@ msgid "dc_set_nm_0015"
 msgstr ""
 
 msgid "dc_set_nm_0016"
-msgstr ""
+msgstr "중화요리점 냥냥"
 
 msgid "dc_set_nm_0017"
 msgstr "셰릴의 방"
@@ -30049,34 +30985,34 @@ msgid "dc_set_nm_0023"
 msgstr ""
 
 msgid "dc_set_nm_0024"
-msgstr ""
+msgstr "카나메의 방"
 
 msgid "dc_set_nm_0025"
-msgstr ""
+msgstr "플라네타리움"
 
 msgid "dc_set_nm_0026"
-msgstr ""
+msgstr "파티룸"
 
 msgid "dc_set_nm_0027"
-msgstr ""
+msgstr "라그나 수족관"
 
 msgid "dc_set_nm_0028"
-msgstr ""
+msgstr "마키나와 레이나의 방"
 
 msgid "dc_set_nm_0029"
 msgstr ""
 
 msgid "dc_set_nm_0030"
-msgstr ""
+msgstr "할로윈 룸"
 
 msgid "dc_set_nm_0031"
-msgstr ""
+msgstr "마크로스 브릿지"
 
 msgid "dc_set_nm_0032"
 msgstr ""
 
 msgid "dc_set_nm_0033"
-msgstr ""
+msgstr "크리스마스 광장"
 
 msgid "dc_set_nm_0034"
 msgstr ""
@@ -30100,7 +31036,7 @@ msgid "dc_set_nm_0040"
 msgstr ""
 
 msgid "dc_set_nm_0041"
-msgstr ""
+msgstr "화이트 크리스마스"
 
 msgid "dc_set_nm_0042"
 msgstr ""
@@ -30127,13 +31063,13 @@ msgid "dc_set_nm_0049"
 msgstr ""
 
 msgid "dc_set_nm_0050"
-msgstr ""
+msgstr "할로윈 파티"
 
 msgid "dc_set_nm_0051"
 msgstr ""
 
 msgid "dc_set_nm_0052"
-msgstr ""
+msgstr "크리스마스 마켓"
 
 msgid "dc_set_dsc_0002"
 msgstr "데코룸의 벽과 바닥의 배경입니다"
