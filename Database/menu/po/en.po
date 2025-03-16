@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-03-16 13:48+0000\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -696,7 +696,7 @@ msgid "growth_popup_text19"
 msgstr ""
 
 msgid "growth_addreward_text"
-msgstr ""
+msgstr "Extra Rewards"
 
 msgid "story_unlock_01"
 msgstr ""
@@ -1443,7 +1443,7 @@ msgid "music_event_remain_minute"
 msgstr ""
 
 msgid "music_event_remain_second"
-msgstr ""
+msgstr "{0}s"
 
 msgid "music_event_collect_ticket_label"
 msgstr ""
@@ -1737,7 +1737,7 @@ msgid "popup_home_ngword_rename_msg"
 msgstr ""
 
 msgid "home_pickup_checkbox"
-msgstr ""
+msgstr "Don't show today"
 
 msgid "home_event_end_attain"
 msgstr ""
@@ -2346,7 +2346,7 @@ msgid "tuto_gacha_desc"
 msgstr ""
 
 msgid "tuto_divaselect_popup_001"
-msgstr ""
+msgstr "[{0}]"
 
 msgid "tuto_divaselect_popup_002"
 msgstr ""
@@ -3389,7 +3389,7 @@ msgid "costume_upgrade_cmn_rankup_attention_text"
 msgstr ""
 
 msgid "costume_upgrade_next_release_point_text"
-msgstr ""
+msgstr "{0} {1} until next reward"
 
 msgid "costume_upgrade_use_item_limit_text"
 msgstr ""
@@ -4142,7 +4142,7 @@ msgid "raid_act_fullpower_desc_text"
 msgstr ""
 
 msgid "raid_damage_result_text"
-msgstr ""
+msgstr "Impact"
 
 msgid "raid_damage_result_gauge_max_text"
 msgstr ""
@@ -4268,7 +4268,7 @@ msgid "pop_valyrietuneup_needitemdesc"
 msgstr ""
 
 msgid "customstamp_createt_itle"
-msgstr ""
+msgstr "Stickers"
 
 msgid "customstamp_longtap_desc"
 msgstr ""
@@ -5954,10 +5954,10 @@ msgid "unit_head_prism_btton_off"
 msgstr ""
 
 msgid "unit_save_button_save"
-msgstr ""
+msgstr "Save"
 
 msgid "unit_save_button_overwrite"
-msgstr ""
+msgstr "Overwrite"
 
 msgid "unit_mv_mode_description"
 msgstr ""
