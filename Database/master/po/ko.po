@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-01-26 13:58+0000\n"
+"PO-Revision-Date: 2025-03-16 07:24+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -114,7 +114,7 @@ msgid "e_nm_0033"
 msgstr "이사무 다이슨"
 
 msgid "e_nm_0034"
-msgstr ""
+msgstr "걸드 고어 보먼"
 
 msgid "e_nm_0035"
 msgstr "대형 바즈라"
@@ -123,13 +123,13 @@ msgid "e_nm_0036"
 msgstr "VF-171"
 
 msgid "e_nm_0037"
-msgstr ""
+msgstr "도롱뇽씨"
 
 msgid "e_nm_0038"
 msgstr "구바바"
 
 msgid "e_nm_0039"
-msgstr ""
+msgstr "밀렵단 모함"
 
 msgid "e_nm_0040"
 msgstr "대형 바즈라"
@@ -154,18 +154,33 @@ msgstr "Fz-109A"
 
 msgid "e_dsc_0001"
 msgstr ""
+"젠트라디 군이 운용하는 대형 파워드 슈트.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0002"
 msgstr ""
+"바로타 군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0003"
 msgstr ""
+"프론티어 함대를 습격한 초시공 생명체.\r\n"
+"이 개체에게 특별한 능력은 없으며, 평상시처럼\r\n"
+"스킬을 발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0004"
 msgstr ""
+"신통합군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0005"
 msgstr ""
+"신통합군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0006"
 msgstr ""
@@ -181,6 +196,9 @@ msgstr ""
 
 msgid "e_dsc_0008"
 msgstr ""
+"무수한 바즈라를 통솔하는 중심이 되는 개체.\r\n"
+"마크로스급 전함에 버금가는 거대함을 자랑하며,\r\n"
+"그 화력도 다른 바즈라와는 차원이 다르다."
 
 msgid "e_dsc_0009"
 msgstr "설명009"
@@ -189,22 +207,22 @@ msgid "e_dsc_0010"
 msgstr "설명009"
 
 msgid "e_dsc_0011"
-msgstr "젠트라디 군이 운용하는 대형 파워슈트."
+msgstr "젠트라디 군이 운용하는 대형 파워드 슈트."
 
 msgid "e_dsc_0012"
-msgstr ""
+msgstr "바로타 군의 주력 가변형 전투기."
 
 msgid "e_dsc_0013"
 msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0014"
-msgstr ""
+msgstr "신통합군의 주력 가변형 전투기."
 
 msgid "e_dsc_0015"
-msgstr "젠트라디 군이 운용하는 대형 파워슈트."
+msgstr "젠트라디 군이 운용하는 대형 파워드 슈트."
 
 msgid "e_dsc_0016"
-msgstr ""
+msgstr "바로타 군의 주력 가변형 전투기."
 
 msgid "e_dsc_0017"
 msgstr "프론티어 함대를 습격한 초시공 생명체."
@@ -216,40 +234,40 @@ msgstr ""
 "금색 라인이 들어간 컬러링으로 되어 있다."
 
 msgid "e_dsc_0019"
-msgstr "젠트라디 군이 운용하는 대형 파워슈트."
+msgstr "젠트라디 군이 운용하는 대형 파워드 슈트."
 
 msgid "e_dsc_0020"
-msgstr ""
+msgstr "바로타 군의 주력 가변형 전투기."
 
 msgid "e_dsc_0021"
 msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0022"
-msgstr ""
+msgstr "신통합군의 주력 가변형 전투기."
 
 msgid "e_dsc_0023"
-msgstr "젠트라디 군이 운용하는 대형 파워슈트."
+msgstr "젠트라디 군이 운용하는 대형 파워드 슈트."
 
 msgid "e_dsc_0024"
-msgstr ""
+msgstr "바로타 군의 주력 가변형 전투기."
 
 msgid "e_dsc_0025"
 msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0026"
-msgstr ""
+msgstr "신통합군의 주력 가변형 전투기."
 
 msgid "e_dsc_0027"
-msgstr "젠트라디 군이 운용하는 대형 파워슈트."
+msgstr "젠트라디 군이 운용하는 대형 파워드 슈트."
 
 msgid "e_dsc_0028"
-msgstr ""
+msgstr "바로타 군의 주력 가변형 전투기."
 
 msgid "e_dsc_0029"
 msgstr "프론티어 함대를 습격한 초시공 생명체."
 
 msgid "e_dsc_0030"
-msgstr ""
+msgstr "신통합군의 주력 가변형 전투기."
 
 msgid "e_dsc_0031"
 msgstr ""
@@ -298,267 +316,270 @@ msgstr ""
 
 msgid "e_dsc_0046"
 msgstr ""
+"바로타 군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "c_nm_0001"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0002"
-msgstr ""
+msgstr "별 플레이트 상승"
 
 msgid "c_nm_0003"
-msgstr ""
+msgstr "사랑 플레이트 상승"
 
 msgid "c_nm_0004"
-msgstr ""
+msgstr "생명 플레이트 상승"
 
 msgid "c_nm_0005"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0006"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0007"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0008"
-msgstr ""
+msgstr "라이프 상승"
 
 msgid "c_nm_0009"
-msgstr ""
+msgstr "서포트 상승"
 
 msgid "c_nm_0010"
-msgstr ""
+msgstr "폴드 상승"
 
 msgid "c_nm_0011"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0012"
-msgstr ""
+msgstr "라이프 상승"
 
 msgid "c_nm_0013"
-msgstr ""
+msgstr "별 플레이트 상승"
 
 msgid "c_nm_0014"
-msgstr ""
+msgstr "사랑 플레이트 상승"
 
 msgid "c_nm_0015"
-msgstr ""
+msgstr "생명 플레이트 상승"
 
 msgid "c_nm_0016"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0017"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0018"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0019"
-msgstr ""
+msgstr "서포트 상승"
 
 msgid "c_nm_0020"
-msgstr ""
+msgstr "폴드 상승"
 
 msgid "c_nm_0021"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0022"
-msgstr ""
+msgstr "별 플레이트 상승"
 
 msgid "c_nm_0023"
-msgstr ""
+msgstr "사랑 플레이트 상승"
 
 msgid "c_nm_0024"
-msgstr ""
+msgstr "생명 플레이트 상승"
 
 msgid "c_nm_0025"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0026"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0027"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0028"
-msgstr ""
+msgstr "라이프 상승"
 
 msgid "c_nm_0029"
-msgstr ""
+msgstr "서포트 상승"
 
 msgid "c_nm_0030"
-msgstr ""
+msgstr "폴드 상승"
 
 msgid "c_nm_0031"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0032"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0033"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_nm_0034"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0035"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0036"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_nm_0037"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0038"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0039"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_nm_0040"
-msgstr ""
+msgstr "숙련도 포인트 상승"
 
 msgid "c_nm_0041"
-msgstr ""
+msgstr "소울챰 상승"
 
 msgid "c_nm_0042"
-msgstr ""
+msgstr "보이스챰 상승"
 
 msgid "c_nm_0043"
-msgstr ""
+msgstr "소울보이스 상승"
 
 msgid "c_nm_0044"
-msgstr ""
+msgstr "토탈A+서포트B"
 
 msgid "c_nm_0045"
-msgstr ""
+msgstr "토탈B+서포트B"
 
 msgid "c_nm_0046"
-msgstr ""
+msgstr "토탈A+라이프A"
 
 msgid "c_nm_0047"
-msgstr ""
+msgstr "라이프A+서포트A"
 
 msgid "c_nm_0048"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0049"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0050"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0051"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0052"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0053"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "c_nm_0054"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0055"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0056"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0057"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0058"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0059"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0060"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0061"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0062"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0063"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0064"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0065"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0066"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0067"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0068"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0069"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "c_nm_0070"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "c_nm_0071"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "c_nm_0072"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0073"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0074"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_nm_0075"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0076"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0077"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_nm_0078"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0079"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0080"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_nm_0081"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "c_nm_0082"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "c_nm_0083"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "c_dsc_0001"
 msgstr "유닛의 토탈치가 [v1]% 증가"
 
 msgid "c_dsc_0002"
-msgstr ""
+msgstr "별 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0003"
-msgstr ""
+msgstr "사랑 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0004"
-msgstr ""
+msgstr "생명 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0005"
 msgstr "유닛의 소울이 [v1]% 증가"
@@ -585,13 +606,13 @@ msgid "c_dsc_0012"
 msgstr "유닛의 라이프가 [v1]% 증가"
 
 msgid "c_dsc_0013"
-msgstr ""
+msgstr "별 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0014"
-msgstr ""
+msgstr "사랑 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0015"
-msgstr ""
+msgstr "생명 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0016"
 msgstr "유닛의 소울이 [v1]% 증가"
@@ -612,13 +633,13 @@ msgid "c_dsc_0021"
 msgstr "유닛의 토탈치가 [v1]% 증가"
 
 msgid "c_dsc_0022"
-msgstr ""
+msgstr "별 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0023"
-msgstr ""
+msgstr "사랑 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0024"
-msgstr ""
+msgstr "생명 속성 플레이트의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0025"
 msgstr "유닛의 소울이 [v1]% 증가"
@@ -639,2833 +660,3011 @@ msgid "c_dsc_0030"
 msgstr "유닛의 폴드파 [v1]% 증가"
 
 msgid "c_dsc_0031"
-msgstr ""
+msgstr "별 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0032"
-msgstr ""
+msgstr "사랑 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0033"
-msgstr ""
+msgstr "생명 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0034"
-msgstr ""
+msgstr "별 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0035"
-msgstr ""
+msgstr "사랑 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0036"
-msgstr ""
+msgstr "생명 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0037"
-msgstr ""
+msgstr "별 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0038"
-msgstr ""
+msgstr "사랑 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0039"
-msgstr ""
+msgstr "생명 속성 악곡 시 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0040"
-msgstr ""
+msgstr "가희가 획득하는 숙련도 포인트가 [v1]% 상승"
 
 msgid "c_dsc_0041"
-msgstr ""
+msgstr "유닛의 소울과 챰이 [v1]% 상승"
 
 msgid "c_dsc_0042"
-msgstr ""
+msgstr "유닛의 보이스와 챰이 [v1]% 상승"
 
 msgid "c_dsc_0043"
-msgstr ""
+msgstr "유닛의 소울과 보이스가 [v1]% 상승"
 
 msgid "c_dsc_0044"
-msgstr ""
+msgstr "유닛의 토탈치와 서포트치가 [v1]% 상승"
 
 msgid "c_dsc_0045"
-msgstr ""
+msgstr "유닛의 토탈치와 서포트치가 [v1]% 상승"
 
 msgid "c_dsc_0046"
-msgstr ""
+msgstr "유닛의 토탈치와 라이프치가 [v1]% 상승"
 
 msgid "c_dsc_0047"
-msgstr ""
+msgstr "유닛의 라이프치와 서포트치가 [v1]% 상승"
 
 msgid "c_dsc_0048"
-msgstr ""
+msgstr "지정 시리즈의 악곡에서 유닛의 토탈치가 [v1]% 상승"
 
 msgid "c_dsc_0049"
-msgstr ""
+msgstr "마크로스Δ 악곡에서 유닛의 토탈치가 [v1]％ 상승 (시리즈 대상 시)"
 
 msgid "c_dsc_0050"
-msgstr ""
+msgstr "마크로스F 악곡에서 유닛의 토탈치가 [v1]％ 상승 (시리즈 대상 시)"
 
 msgid "c_dsc_0051"
-msgstr ""
+msgstr "마크로스7 악곡에서 유닛의 토탈치가 [v1]％ 상승 (시리즈 대상 시)"
 
 msgid "c_dsc_0052"
-msgstr ""
+msgstr "초시공요새 마크로스 악곡에서 유닛의 토탈치가 [v1]％ 상승 (시리즈 대상 시)"
 
 msgid "c_dsc_0053"
-msgstr ""
+msgstr "OTHERS 악곡에서 유닛의 토탈치가 [v1]％ 상승 (시리즈 대상 시)"
 
 msgid "c_dsc_0054"
-msgstr ""
+msgstr "지정 시리즈의 악곡에서 유닛의 소울이 [v1]％ 상승"
 
 msgid "c_dsc_0055"
-msgstr ""
+msgstr "지정 시리즈의 악곡에서 유닛의 보이스가 [v1]％ 상승"
 
 msgid "c_dsc_0056"
-msgstr ""
+msgstr "지정 시리즈의 악곡에서 유닛의 챰이 [v1]％ 상승"
 
 msgid "c_dsc_0057"
-msgstr ""
+msgstr "마크로스Δ 악곡에서 유닛의 소울이 [v1]％ 상승"
 
 msgid "c_dsc_0058"
-msgstr ""
+msgstr "마크로스Δ 악곡에서 유닛의 보이스가 [v1]％ 상승"
 
 msgid "c_dsc_0059"
-msgstr ""
+msgstr "마크로스Δ 악곡에서 유닛의 챰이 [v1]％ 상승"
 
 msgid "c_dsc_0060"
-msgstr ""
+msgstr "마크로스F 악곡에서 유닛의 소울이 [v1]％ 상승"
 
 msgid "c_dsc_0061"
-msgstr ""
+msgstr "마크로스F 악곡에서 유닛의 보이스가 [v1]％ 상승"
 
 msgid "c_dsc_0062"
-msgstr ""
+msgstr "마크로스F 악곡에서 유닛의 챰이 [v1]％ 상승"
 
 msgid "c_dsc_0063"
-msgstr ""
+msgstr "마크로스7 악곡에서 유닛의 소울이 [v1]％ 상승"
 
 msgid "c_dsc_0064"
-msgstr ""
+msgstr "마크로스7 악곡에서 유닛의 보이스가 [v1]％ 상승"
 
 msgid "c_dsc_0065"
-msgstr ""
+msgstr "마크로스7 악곡에서 유닛의 챰이 [v1]％ 상승"
 
 msgid "c_dsc_0066"
-msgstr ""
+msgstr "초시공요새 마크로스 악곡에서 유닛의 소울이 [v1]％ 상승"
 
 msgid "c_dsc_0067"
-msgstr ""
+msgstr "초시공요새 마크로스 악곡에서 유닛의 보이스가 [v1]％ 상승"
 
 msgid "c_dsc_0068"
-msgstr ""
+msgstr "초시공요새 마크로스 악곡에서 유닛의 챰이 [v1]％ 상승"
 
 msgid "c_dsc_0069"
-msgstr ""
+msgstr "OTHERS의 악곡에서 유닛의 소울이 [v1]％ 상승"
 
 msgid "c_dsc_0070"
-msgstr ""
+msgstr "OTHERS의 악곡에서 유닛의 보이스가 [v1]％ 상승"
 
 msgid "c_dsc_0071"
-msgstr ""
+msgstr "OTHERS의 악곡에서 유닛의 챰이 [v1]％ 상승"
 
 msgid "c_dsc_0072"
-msgstr ""
+msgstr "마크로스F 별 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0073"
-msgstr ""
+msgstr "마크로스F 사랑 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0074"
-msgstr ""
+msgstr "마크로스F 생명 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0075"
-msgstr ""
+msgstr "마크로스Δ 별 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0076"
-msgstr ""
+msgstr "마크로스Δ 사랑 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0077"
-msgstr ""
+msgstr "마크로스Δ 생명 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0078"
-msgstr ""
+msgstr "초시공요새 마크로스 별 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0079"
-msgstr ""
+msgstr "초시공요새 마크로스 사랑 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0080"
-msgstr ""
+msgstr "초시공요새 마크로스 생명 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0081"
-msgstr ""
+msgstr "마크로스7 별 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0082"
-msgstr ""
+msgstr "마크로스7 사랑 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "c_dsc_0083"
-msgstr ""
+msgstr "마크로스7 생명 속성 악곡일 때 유닛의 토탈치가 [v1]％ 상승"
 
 msgid "a_nm_0001"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "a_nm_0002"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "a_nm_0003"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "a_nm_0004"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "a_nm_0005"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "a_nm_0006"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "a_nm_0007"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "a_nm_0008"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "a_nm_0009"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "a_nm_0010"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "a_nm_0011"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "a_nm_0012"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "a_nm_0013"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "a_nm_0014"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "a_nm_0015"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "a_nm_0016"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "a_nm_0017"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "a_nm_0018"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "a_nm_0019"
-msgstr ""
+msgstr "아이템 100%"
 
 msgid "a_nm_0020"
-msgstr ""
+msgstr "테스트용 퍼펙트"
 
 msgid "a_nm_0021"
-msgstr ""
+msgstr "판정 감소 스코어 상승"
 
 msgid "a_nm_0022"
-msgstr ""
+msgstr "콤보 보너스"
 
 msgid "a_nm_0023"
-msgstr ""
+msgstr "스코어&대미지"
 
 msgid "a_nm_0024"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "a_nm_0025"
-msgstr ""
+msgstr "콤보 보너스"
 
 msgid "a_nm_0026"
-msgstr ""
+msgstr "콤보 보너스"
 
 msgid "a_dsc_0001"
-msgstr ""
+msgstr "라이프를 [v1]% 회복"
 
 msgid "a_dsc_0002"
-msgstr ""
+msgstr "라이프를 [v1]% 회복"
 
 msgid "a_dsc_0003"
-msgstr ""
+msgstr "라이프를 [v1]% 회복"
 
 msgid "a_dsc_0004"
-msgstr ""
+msgstr "[dv]초간 스코어가 [v1]% 상승"
 
 msgid "a_dsc_0005"
-msgstr ""
+msgstr "[dv]초간 스코어가 [v1]% 상승"
 
 msgid "a_dsc_0006"
-msgstr ""
+msgstr "[dv]초간 스코어가 [v1]% 상승"
 
 msgid "a_dsc_0007"
-msgstr ""
+msgstr "[dv]초간 스코어가 [v1]% 상승"
 
 msgid "a_dsc_0008"
-msgstr ""
+msgstr "[dv]초간 스코어가 [v1]% 상승"
 
 msgid "a_dsc_0009"
-msgstr ""
+msgstr "[dv]초간 대미지를 받지 않음"
 
 msgid "a_dsc_0010"
-msgstr ""
+msgstr "[dv]초간 대미지가 절반으로 감소함"
 
 msgid "a_dsc_0011"
-msgstr ""
+msgstr "[dv]초간 대미지가 절반으로 감소함"
 
 msgid "a_dsc_0012"
-msgstr ""
+msgstr "[dv]초간 대미지가 절반으로 감소함"
 
 msgid "a_dsc_0013"
-msgstr ""
+msgstr "[dv]초간 판정이 완화됨"
 
 msgid "a_dsc_0014"
-msgstr ""
+msgstr "[dv]초간 판정이 완화됨"
 
 msgid "a_dsc_0015"
-msgstr ""
+msgstr "[dv]초간 판정이 완화됨"
 
 msgid "a_dsc_0016"
-msgstr ""
+msgstr "[dv]초간 콤보가 끊기지 않음"
 
 msgid "a_dsc_0017"
-msgstr ""
+msgstr "[dv]초간 콤보가 끊기지 않음"
 
 msgid "a_dsc_0018"
-msgstr ""
+msgstr "[dv]초간 콤보가 끊기지 않음"
 
 msgid "a_dsc_0019"
-msgstr ""
+msgstr "[dv]초간 노트가 전부 아이템 노트가 됨"
 
 msgid "a_dsc_0020"
-msgstr ""
+msgstr "[dv]초간 노트 판정을 전부 PERFECT로"
 
 msgid "a_dsc_0021"
-msgstr ""
+msgstr "[dv]초간 노트 판정이 축소되지만 스코어가 [v2]% 상승"
 
 msgid "a_dsc_0022"
-msgstr ""
+msgstr "[dv]초간 노트 탭 시 콤보 수 50당 [v1]% 스코어 상승"
 
 msgid "a_dsc_0023"
 msgstr ""
 
 msgid "a_dsc_0024"
-msgstr ""
+msgstr "[dv]초간 스코어가 [v1]% 상승 (2회 사용 가능)"
 
 msgid "a_dsc_0025"
-msgstr ""
+msgstr "[dv]초간 노트 탭 시 콤보 수 50당 [v1]% 스코어 상승"
 
 msgid "a_dsc_0026"
-msgstr ""
+msgstr "[dv]초간 노트 탭 시 콤보 수 50당 [v1]% 스코어 상승 (2회 사용 가능)"
 
 msgid "l_nm_0001"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0002"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0003"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0004"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0005"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0006"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0007"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0008"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0009"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0010"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0011"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0012"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0013"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0014"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0015"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0016"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0017"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0018"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0019"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0020"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0021"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0022"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0023"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0024"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0025"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0026"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0027"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0028"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0029"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0030"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0031"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0032"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0033"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0034"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0035"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0036"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0037"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0038"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0039"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0040"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0041"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0042"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0043"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0044"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0045"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0046"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0047"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0048"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0049"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0050"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0051"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0052"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0053"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0054"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0055"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0056"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0057"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0058"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0059"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0060"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0061"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0062"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0063"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0064"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0065"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0066"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0067"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0068"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0069"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0070"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0071"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0072"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0073"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0074"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0075"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0076"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0077"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0078"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0079"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0080"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0081"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0082"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0083"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0084"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0085"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0086"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0087"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0088"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0089"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0090"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0091"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0092"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0093"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0094"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0095"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0096"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0097"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0098"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0099"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0100"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0101"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0102"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0103"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0104"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0105"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0106"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0107"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0108"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0109"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0110"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0111"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0112"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "l_nm_0113"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0114"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "l_nm_0115"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0116"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0117"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "l_nm_0118"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0119"
-msgstr ""
+msgstr "판정 완화B+스코어B"
 
 msgid "l_nm_0120"
-msgstr ""
+msgstr "회복B+스코어B"
 
 msgid "l_nm_0121"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "l_nm_0122"
-msgstr ""
+msgstr "판정 완화A+스코어A"
 
 msgid "l_nm_0123"
-msgstr ""
+msgstr "판정 완화A+스코어A"
 
 msgid "l_nm_0124"
-msgstr ""
+msgstr "콤보A+스코어A"
 
 msgid "l_nm_0125"
-msgstr ""
+msgstr "판정 완화B+스코어B"
 
 msgid "l_nm_0126"
-msgstr ""
+msgstr "스코어 리피트"
 
 msgid "l_nm_0127"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0128"
-msgstr ""
+msgstr "스코어 리피트"
 
 msgid "l_nm_0129"
-msgstr ""
+msgstr "판정 완화A+스코어A"
 
 msgid "l_nm_0130"
-msgstr ""
+msgstr "회복B+스코어B"
 
 msgid "l_nm_0131"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "l_nm_0132"
-msgstr ""
+msgstr "노 대미지A+스코어A"
 
 msgid "l_nm_0133"
-msgstr ""
+msgstr "대미지 감소A+스코어A"
 
 msgid "l_nm_0134"
-msgstr ""
+msgstr "스코어&대미지"
 
 msgid "l_nm_0135"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "l_nm_0136"
-msgstr ""
+msgstr "스코어&대미지"
 
 msgid "l_nm_0137"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0138"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0139"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0140"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0141"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0142"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0143"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0144"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0145"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0146"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0147"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0148"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0149"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0150"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0151"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0152"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0153"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0154"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0155"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0156"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0157"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0158"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0159"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0160"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0161"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0162"
-msgstr ""
+msgstr "콤보 보너스"
 
 msgid "l_nm_0163"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0164"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0165"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0166"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0167"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0168"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0169"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0170"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0171"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0172"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0173"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0174"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0175"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0176"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0177"
-msgstr ""
+msgstr "판정S+스코어 리피트S"
 
 msgid "l_nm_0178"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0179"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0180"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0181"
-msgstr ""
+msgstr "스코어&대미지"
 
 msgid "l_nm_0182"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0183"
-msgstr ""
+msgstr "판정 완화S+스코어S"
 
 msgid "l_nm_0184"
-msgstr ""
+msgstr "숏 스코어 강화"
 
 msgid "l_nm_0185"
-msgstr ""
+msgstr "롱 스코어 강화"
 
 msgid "l_nm_0186"
-msgstr ""
+msgstr "콤보 보너스 강화"
 
 msgid "l_nm_0187"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0188"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0189"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0190"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0191"
-msgstr ""
+msgstr "판정 완화S+스코어S"
 
 msgid "l_nm_0192"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0193"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0194"
-msgstr ""
+msgstr "모드 스코어 상승 (구)"
 
 msgid "l_nm_0195"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0196"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0197"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0198"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0199"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0200"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0201"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0202"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0203"
-msgstr ""
+msgstr "가희 스코어 리피트"
 
 msgid "l_nm_0204"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0205"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0206"
-msgstr ""
+msgstr "판정 완화S+스코어S"
 
 msgid "l_nm_0207"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0208"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0209"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0210"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0211"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0212"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0213"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0214"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0215"
-msgstr ""
+msgstr "모드 스코어 상승"
 
 msgid "l_nm_0216"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0217"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0218"
-msgstr ""
+msgstr "스코어 리피트&대미지"
 
 msgid "l_nm_0219"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0220"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0221"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0222"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0223"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0224"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0225"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0226"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0227"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0228"
-msgstr ""
+msgstr "판정 완화 S+스코어 S"
 
 msgid "l_nm_0229"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0230"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0231"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0232"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0233"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0234"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0235"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0236"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0237"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0238"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0239"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0240"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0241"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0242"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0243"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0244"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0245"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0246"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0247"
-msgstr ""
+msgstr "회복S+스코어S"
 
 msgid "l_nm_0248"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0249"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0250"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0251"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0252"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0253"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0254"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0255"
-msgstr ""
+msgstr "가희 스코어&대미지"
 
 msgid "l_nm_0256"
-msgstr ""
+msgstr "Fld파 스코어 상승"
 
 msgid "l_nm_0257"
-msgstr ""
+msgstr "친밀도 스코어 상승"
 
 msgid "l_nm_0258"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0259"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0260"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0261"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0262"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0263"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0264"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0265"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0266"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0267"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0268"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0269"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0270"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0271"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0272"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0273"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "l_nm_0274"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0275"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0276"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0277"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "l_nm_0278"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0279"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0280"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "l_nm_0281"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0282"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0283"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0284"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "l_nm_0285"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0286"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0287"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "l_nm_0288"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "l_nm_0289"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0290"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "l_nm_0291"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "l_dsc_0001"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0002"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0003"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0004"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0005"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0006"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0007"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0008"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0009"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0010"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0011"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0012"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0013"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0014"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0015"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0016"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0017"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0018"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0019"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0020"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0021"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0022"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0023"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0024"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0025"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0026"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0027"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0028"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0029"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0030"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0031"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0032"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0033"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0034"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0035"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0036"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0037"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0038"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0039"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0040"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0041"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0042"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0043"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0044"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0045"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0046"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0047"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0048"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0049"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0050"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0051"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0052"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0053"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0054"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0055"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0056"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0057"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0058"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0059"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0060"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0061"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0062"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0063"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0064"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0065"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0066"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0067"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 30% 감소"
 
 msgid "l_dsc_0068"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 30% 감소"
 
 msgid "l_dsc_0069"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 30% 감소"
 
 msgid "l_dsc_0070"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 30% 감소"
 
 msgid "l_dsc_0071"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 30% 감소"
 
 msgid "l_dsc_0072"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0073"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0074"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0075"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0076"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0077"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0078"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0079"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0080"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0081"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0082"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0083"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0084"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0085"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0086"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0087"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0088"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0089"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0090"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0091"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0092"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0093"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0094"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0095"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0096"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0097"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0098"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0099"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0100"
-msgstr ""
+msgstr "[tv] 콤보 시에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0101"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0102"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0103"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0104"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0105"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0106"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0107"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0108"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0109"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0110"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0111"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0112"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0113"
-msgstr ""
+msgstr "발키리 모드 시작 시에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0114"
-msgstr ""
+msgstr "발키리 모드 시작 시에 발동하여 [dv]초간 콤보가 끊기지 않음"
 
 msgid "l_dsc_0115"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0116"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0117"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 라이프를 [v1]% 회복"
 
 msgid "l_dsc_0118"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 발동하여 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0119"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0120"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 라이프를 [v1]% 회복하고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0121"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 [dv]초간 대미지 절반 감소"
 
 msgid "l_dsc_0122"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0123"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0124"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 콤보가 끊기지 않고 [dv2]초간 스코어가 [v2]"
+"% 상승"
 
 msgid "l_dsc_0125"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0126"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0127"
-msgstr ""
+msgstr "초가희 모드 시작 시에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0128"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0129"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0130"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 라이프를 [v1]% 회복하고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0131"
-msgstr ""
+msgstr "발키리 모드 시작 시에 발동하여 [dv]초간 판정이 완화됨"
 
 msgid "l_dsc_0132"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지를 받지 않고 스코어가 [v2]% 상승"
 
 msgid "l_dsc_0133"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 대미지 절반 감소 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0134"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0135"
-msgstr ""
+msgstr "라이프가 [tv]% 이하가 되면 발동하여 [dv]초간 대미지를 받지 않음"
 
 msgid "l_dsc_0136"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0137"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0138"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0139"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0140"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0141"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0142"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0143"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0144"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0145"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0146"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0147"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0148"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0149"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0150"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0151"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0152"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0153"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0154"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0155"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0156"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0157"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0158"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0159"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0160"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0161"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0162"
-msgstr ""
+msgstr "초가희 모드 시작 후 [dv]초간 노트마다 콤보 50당 [v1]% 스코어 상승"
 
 msgid "l_dsc_0163"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0164"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0165"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0166"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0167"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0168"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0169"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0170"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0171"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0172"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0173"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0174"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0175"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0176"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0177"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% 상승"
 
 msgid "l_dsc_0178"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0179"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0180"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0181"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0182"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0183"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0184"
-msgstr ""
+msgstr "라이브 중 숏 마크가 표시되어 있는 스킬의 스코어 상승 효과가 [v1]% 상승"
 
 msgid "l_dsc_0185"
-msgstr ""
+msgstr "라이브 중 롱 마크가 표시되어있는 스킬의 스코어 상승 효과가 [v1]% 상승"
 
 msgid "l_dsc_0186"
-msgstr ""
+msgstr "라이프 중 콤보 보너스 스코어 상승 효과가 [v1]% 상승 (일반 콤보 보너스의 "
+"L스킬만 해당)"
 
 msgid "l_dsc_0187"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0188"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0189"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0190"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0191"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0192"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0193"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0194"
-msgstr ""
+msgstr "초가희 모드 시작 시에 발동하여 GREAT 이하를 낼 때까지 스코어가 [v1]% 상승. "
+"효과는 모드 중에만 유효"
 
 msgid "l_dsc_0195"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0196"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0197"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0198"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0199"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0200"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0201"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0202"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0203"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0204"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0205"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0206"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0207"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0208"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0209"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0210"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0211"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0212"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0213"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0214"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0215"
 msgstr ""
+"초가희 모드 시작 시 발동하여 Good 이하를 낼 때까지 효과 지속, Perfect "
+"이상이면 점수가 [v1]% 상승. 효과는 모드 중에만 유효"
 
 msgid "l_dsc_0216"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0217"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0218"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% 상승"
 
 msgid "l_dsc_0219"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0220"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0221"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0222"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0223"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0224"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0225"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0226"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0227"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0228"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 판정이 완화되고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0229"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0230"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0231"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0232"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0233"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0234"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0235"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0236"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0237"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0238"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0239"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0240"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0241"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0242"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0243"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0244"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0245"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0246"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0247"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 라이프를 [v1]% 회복하고 [dv2]초간 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0248"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0249"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0250"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0251"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0252"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0253"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0254"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0255"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0256"
 msgstr ""
+"발키리 모드 시작 시에 발동하여 Fld파의 최종치가 [v1_1]%마다 [v1_2]% [dv]초간 "
+"스코어 상승 (최대 [v1_max]%까지)"
 
 msgid "l_dsc_0257"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 플레이트를 셋하고 있는 가희의 친밀도 "
+"[v1_1]당 스코어가 [v1_2]% 상승"
 
 msgid "l_dsc_0258"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0259"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0260"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0261"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0262"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0263"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0264"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0265"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0266"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0267"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0268"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0269"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0270"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0271"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0272"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0273"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0274"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0275"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0276"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0277"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0278"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0279"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0280"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0281"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0282"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0283"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0284"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0285"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0286"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0287"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동하여 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0288"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "l_dsc_0289"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0290"
-msgstr ""
+msgstr "시작 후 [tv]초마다 [dv]초간 스코어가 [v1]% 상승"
 
 msgid "l_dsc_0291"
-msgstr ""
+msgstr "시작 [tv]초 후에 발동, [dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% "
+"상승"
 
 msgid "cs_nm_0001"
-msgstr ""
+msgstr "라이프 {0}% 상승"
 
 msgid "cs_nm_0002"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_nm_0003"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_nm_0004"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_nm_0005"
-msgstr ""
+msgstr "별 속성 {0}% 상승"
 
 msgid "cs_nm_0006"
-msgstr ""
+msgstr "사랑 속성 {0}% 상승"
 
 msgid "cs_nm_0007"
-msgstr ""
+msgstr "생명 속성 {0}% 상승"
 
 msgid "cs_nm_0008"
-msgstr ""
+msgstr "폴드파 {0}% 상승"
 
 msgid "cs_nm_0009"
-msgstr ""
+msgstr "서포트 {0}% 상승"
 
 msgid "cs_nm_0010"
-msgstr ""
+msgstr "모든 스테이터스 {0}% 상승"
 
 msgid "cs_nm_0011"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_nm_0012"
-msgstr ""
+msgstr "소울보이스 {0}% 상승"
 
 msgid "cs_nm_0013"
-msgstr ""
+msgstr "소울챰 {0}% 상승"
 
 msgid "cs_nm_0014"
-msgstr ""
+msgstr "보이스챰 {0}% 상승"
 
 msgid "cs_nm_0015"
-msgstr ""
+msgstr "폴드파 {0}% 상승"
 
 msgid "cs_nm_0016"
-msgstr ""
+msgstr "토탈&라이프 {0}% 상승"
 
 msgid "cs_nm_0017"
-msgstr ""
+msgstr "토탈&서포트 {0}% 상승"
 
 msgid "cs_nm_0018"
-msgstr ""
+msgstr "챰&라이프 {0}% 상승"
 
 msgid "cs_nm_0019"
-msgstr ""
+msgstr "보이스&라이프 {0}% 상승"
 
 msgid "cs_nm_0020"
-msgstr ""
+msgstr "소울&라이프 {0}% 상승"
 
 msgid "cs_nm_0021"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_nm_0022"
-msgstr ""
+msgstr "별 속성 {0}% 상승"
 
 msgid "cs_nm_0023"
-msgstr ""
+msgstr "사랑 속성 {0}% 상승"
 
 msgid "cs_nm_0024"
-msgstr ""
+msgstr "생명 속성 {0}% 상승"
 
 msgid "cs_nm_0025"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_nm_0026"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_nm_0027"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_nm_0028"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_nm_0029"
-msgstr ""
+msgstr "별 속성 {0}% 상승"
 
 msgid "cs_nm_0030"
-msgstr ""
+msgstr "사랑 속성 {0}% 상승"
 
 msgid "cs_nm_0031"
-msgstr ""
+msgstr "생명 속성 {0}% 상승"
 
 msgid "cs_nm_0032"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_nm_0033"
-msgstr ""
+msgstr "소울보이스 {0}% 상승"
 
 msgid "cs_nm_0034"
-msgstr ""
+msgstr "소울챰 {0}% 상승"
 
 msgid "cs_nm_0035"
-msgstr ""
+msgstr "보이스챰 {0}% 상승"
 
 msgid "cs_nm_0036"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_nm_0037"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_nm_0038"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_nm_0039"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_nm_0040"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_nm_0041"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_dsc_0001"
-msgstr ""
+msgstr "라이프 {0}% 상승"
 
 msgid "cs_dsc_0002"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_dsc_0003"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_dsc_0004"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_dsc_0005"
 msgstr ""
+"별 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0006"
 msgstr ""
+"사랑 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0007"
 msgstr ""
+"생명 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0008"
-msgstr ""
+msgstr "폴드파 {0}% 상승"
 
 msgid "cs_dsc_0009"
-msgstr ""
+msgstr "서포트 {0}% 상승"
 
 msgid "cs_dsc_0010"
-msgstr ""
+msgstr "모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0011"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_dsc_0012"
-msgstr ""
+msgstr "소울보이스 {0}% 상승"
 
 msgid "cs_dsc_0013"
-msgstr ""
+msgstr "소울챰 {0}% 상승"
 
 msgid "cs_dsc_0014"
-msgstr ""
+msgstr "보이스챰 {0}% 상승"
 
 msgid "cs_dsc_0015"
-msgstr ""
+msgstr "폴드파 {0}% 상승"
 
 msgid "cs_dsc_0016"
-msgstr ""
+msgstr "토탈&라이프 {0}% 상승"
 
 msgid "cs_dsc_0017"
-msgstr ""
+msgstr "토탈&서포트 {0}% 상승"
 
 msgid "cs_dsc_0018"
-msgstr ""
+msgstr "챰&라이프 {0}% 상승"
 
 msgid "cs_dsc_0019"
-msgstr ""
+msgstr "보이스&라이프 {0}% 상승"
 
 msgid "cs_dsc_0020"
-msgstr ""
+msgstr "소울&라이프 {0}% 상승"
 
 msgid "cs_dsc_0021"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_dsc_0022"
 msgstr ""
+"별 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0023"
 msgstr ""
+"사랑 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0024"
 msgstr ""
+"생명 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0025"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_dsc_0026"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_dsc_0027"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_dsc_0028"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_dsc_0029"
 msgstr ""
+"별 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0030"
 msgstr ""
+"사랑 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0031"
 msgstr ""
+"생명 속성 플레이트의\n"
+"모든 스테이터스 {0}% 상승"
 
 msgid "cs_dsc_0032"
-msgstr ""
+msgstr "토탈 {0}% 상승"
 
 msgid "cs_dsc_0033"
-msgstr ""
+msgstr "소울보이스 {0}% 상승"
 
 msgid "cs_dsc_0034"
-msgstr ""
+msgstr "소울챰 {0}% 상승"
 
 msgid "cs_dsc_0035"
-msgstr ""
+msgstr "보이스챰 {0}% 상승"
 
 msgid "cs_dsc_0036"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_dsc_0037"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_dsc_0038"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "cs_dsc_0039"
-msgstr ""
+msgstr "소울 {0}% 상승"
 
 msgid "cs_dsc_0040"
-msgstr ""
+msgstr "보이스 {0}% 상승"
 
 msgid "cs_dsc_0041"
-msgstr ""
+msgstr "챰 {0}% 상승"
 
 msgid "el_nm_0001"
 msgstr ""
+"멸망의 노래의 영향으로 라이브 중 라이프가 감소한다!\r\n"
+"라이프 회복 스킬로 대응하자!"
 
 msgid "el_nm_0002"
 msgstr ""
+"멸망의 노래의 영향으로 초가희 모드에서는 노트 판정이\n"
+"축소되어 버린다! 판정 완화 스킬로 대응하자!"
 
 msgid "el_nm_0003"
 msgstr ""
+"멸망의 노래의 영향으로 노트 탭을 실패했을 때의\n"
+"대미지가 2배로 증가한다. 대미지 감소 스킬로 대응하자!"
 
 msgid "el_nm_0004"
-msgstr ""
+msgstr "이 라이브에서는 멸망의 노래의 영향으로 적들이 강화되어 있다! 서포트 수치를 "
+"높여 발키리 모드에 도전해 보자!"
 
 msgid "el_nm_0005"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"챰 수치가 10% 감소하고 보이스 수치가 10% 증가한다."
 
 msgid "el_nm_0006"
 msgstr ""
+"멸망의 노래의 영향으로 초가희 모드에서는 노트 판정이\n"
+"축소되어 버린다! 판정 완화 스킬로 대응하자!"
 
 msgid "el_nm_0007"
 msgstr ""
+"멸망의 노래의 영향으로 노트 판정이 축소되어 버린다!\n"
+"판정 완화 스킬로 대응하자! 1프레"
 
 msgid "el_nm_0008"
 msgstr ""
+"멸망의 노래의 영향으로 발키리 모드에서는 노트 판정이\n"
+"축소! 서포트 값을 높이거나 판정 완화로 대응하자!"
 
 msgid "el_nm_0009"
 msgstr ""
+"멸망의 노래의 영향으로 적의 생명력이 증가하고 있다!\r\n"
+"서포트 값을 올려 적에게 대항하자!"
 
 msgid "ec_nm_0001"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"챰 수치가 20% 감소하고 보이스 수치가 20% 증가한다."
 
 msgid "ec_nm_0002"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"보이스 수치가 30% 감소하고 챰 수치가 30% 증가한다."
 
 msgid "ec_nm_0003"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"챰 수치가 30% 감소하고 소울 수치가 30% 증가한다."
 
 msgid "ec_nm_0004"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"소울 수치가 30% 감소하고 챰 수치가 30% 증가한다."
 
 msgid "ec_nm_0005"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"보이스 수치가 30% 감소하고 소울 수치가 30% 증가한다."
 
 msgid "ec_nm_0006"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"챰 수치가 30% 감소하고 보이스 수치가 30% 증가한다."
 
 msgid "ec_nm_0007"
 msgstr ""
+"이 라이브에서는 멸망의 노래의 영향으로\n"
+"소울 수치가 30% 감소하고 보이스 수치가 30% 증가한다."
 
 msgid "ec_nm_0008"
-msgstr ""
+msgstr "적 센터 스킬 008"
 
 msgid "ec_nm_0009"
-msgstr ""
+msgstr "적 센터 스킬 009"
 
 msgid "ec_nm_0010"
-msgstr ""
+msgstr "적 센터 스킬 010"
 
 msgid "ec_nm_0011"
-msgstr ""
+msgstr "적 센터 스킬 011"
 
 msgid "ec_nm_0012"
-msgstr ""
+msgstr "적 센터 스킬 012"
 
 msgid "ec_nm_0013"
-msgstr ""
+msgstr "적 센터 스킬 013"
 
 msgid "ec_nm_0014"
-msgstr ""
+msgstr "적 센터 스킬 014"
 
 msgid "ec_nm_0015"
-msgstr ""
+msgstr "적 센터 스킬 015"
 
 msgid "ec_nm_0016"
-msgstr ""
+msgstr "적 센터 스킬 016"
 
 msgid "ec_nm_0017"
-msgstr ""
+msgstr "적 센터 스킬 017"
 
 msgid "ec_nm_0018"
-msgstr ""
+msgstr "적 센터 스킬 018"
 
 msgid "ec_nm_0019"
-msgstr ""
+msgstr "적 센터 스킬 019"
 
 msgid "ec_nm_0020"
-msgstr ""
+msgstr "적 센터 스킬 020"
 
 msgid "ec_nm_0021"
-msgstr ""
+msgstr "적 센터 스킬 021"
 
 msgid "fc_nm_0001"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0002"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0003"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0004"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0005"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0006"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0007"
-msgstr ""
+msgstr "토탈 상승"
 
 msgid "fc_nm_0008"
-msgstr ""
+msgstr "토탈+서포트"
 
 msgid "fc_nm_0009"
-msgstr ""
+msgstr "토탈+라이프"
 
 msgid "fc_nm_0010"
-msgstr ""
+msgstr "별 플레이트 상승"
 
 msgid "fc_nm_0011"
-msgstr ""
+msgstr "별 악곡 토탈 상승"
 
 msgid "fc_nm_0012"
-msgstr ""
+msgstr "사랑 플레이트 상승"
 
 msgid "fc_nm_0013"
-msgstr ""
+msgstr "사랑 악곡 토탈 상승"
 
 msgid "fc_nm_0014"
-msgstr ""
+msgstr "생명 플레이트 상승"
 
 msgid "fc_nm_0015"
-msgstr ""
+msgstr "생명 악곡 토탈 상승"
 
 msgid "fc_nm_0016"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0017"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0018"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0019"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0020"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0021"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0022"
-msgstr ""
+msgstr "챰 상승"
 
 msgid "fc_nm_0023"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0024"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0025"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0026"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0027"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0028"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0029"
-msgstr ""
+msgstr "소울 상승"
 
 msgid "fc_nm_0030"
-msgstr ""
+msgstr "소울챰 상승"
 
 msgid "fc_nm_0031"
-msgstr ""
+msgstr "소울보이스 상승"
 
 msgid "fc_nm_0032"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0033"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0034"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0035"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0036"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0037"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0038"
-msgstr ""
+msgstr "보이스 상승"
 
 msgid "fc_nm_0039"
-msgstr ""
+msgstr "보이스챰 상승"
 
 msgid "fc_nm_0040"
-msgstr ""
+msgstr "라이프 상승"
 
 msgid "fc_nm_0041"
-msgstr ""
+msgstr "라이프+서포트"
 
 msgid "fc_nm_0042"
-msgstr ""
+msgstr "서포트 상승"
 
 msgid "fc_nm_0043"
-msgstr ""
+msgstr "폴드 상승"
 
 msgid "fa_nm_0001"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "fa_nm_0002"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "fa_nm_0003"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "fa_nm_0004"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "fa_nm_0005"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "fa_nm_0006"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "fa_nm_0008"
-msgstr ""
+msgstr "콤보 보너스"
 
 msgid "fl_nm_0001"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "fl_nm_0002"
-msgstr ""
+msgstr "스코어 상승"
 
 msgid "fl_nm_0003"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "fl_nm_0004"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "fl_nm_0005"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "fl_nm_0006"
-msgstr ""
+msgstr "스코어 상승EX"
 
 msgid "fl_nm_0007"
-msgstr ""
+msgstr "롱 스코어 강화"
 
 msgid "fl_nm_0008"
-msgstr ""
+msgstr "숏 스코어 강화"
 
 msgid "fl_nm_0009"
-msgstr ""
+msgstr "모드 스코어 상승"
 
 msgid "fl_nm_0010"
-msgstr ""
+msgstr "Fld파 스코어 상승"
 
 msgid "fl_nm_0011"
-msgstr ""
+msgstr "스코어 리피트"
 
 msgid "fl_nm_0012"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "fl_nm_0013"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "fl_nm_0014"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "fl_nm_0015"
-msgstr ""
+msgstr "스코어 리피트EX"
 
 msgid "fl_nm_0016"
-msgstr ""
+msgstr "가희 스코어 리피트"
 
 msgid "fl_nm_0017"
-msgstr ""
+msgstr "스코어 리피트&대미지"
 
 msgid "fl_nm_0018"
-msgstr ""
+msgstr "스코어&대미지"
 
 msgid "fl_nm_0019"
-msgstr ""
+msgstr "가희 스코어&대미지"
 
 msgid "fl_nm_0020"
-msgstr ""
+msgstr "라이프 회복"
 
 msgid "fl_nm_0021"
-msgstr ""
+msgstr "회복+스코어"
 
 msgid "fl_nm_0022"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "fl_nm_0023"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "fl_nm_0024"
-msgstr ""
+msgstr "판정 완화"
 
 msgid "fl_nm_0025"
-msgstr ""
+msgstr "판정 완화+스코어"
 
 msgid "fl_nm_0026"
-msgstr ""
+msgstr "판정+스코어 리피트"
 
 msgid "fl_nm_0027"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "fl_nm_0028"
-msgstr ""
+msgstr "콤보 지속"
 
 msgid "fl_nm_0029"
-msgstr ""
+msgstr "콤보+스코어"
 
 msgid "fl_nm_0030"
-msgstr ""
+msgstr "콤보 보너스"
 
 msgid "fl_nm_0031"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "fl_nm_0032"
-msgstr ""
+msgstr "노 대미지"
 
 msgid "fl_nm_0033"
-msgstr ""
+msgstr "노 대미지+스코어"
 
 msgid "fl_nm_0034"
-msgstr ""
+msgstr "대미지 감소"
 
 msgid "fl_nm_0035"
-msgstr ""
+msgstr "대미지 감소+스코어"
 
 msgid "fl_nm_0036"
-msgstr ""
+msgstr "친밀도 스코어 상승"
 
 msgid "fl_nm_0037"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "fl_nm_0038"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "fl_nm_0039"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "fl_nm_0040"
-msgstr ""
+msgstr "스코어&대미지EX"
 
 msgid "gn_0001"
-msgstr ""
+msgstr "멜로디 스톤(소)"
 
 msgid "gn_0002"
-msgstr ""
+msgstr "멜로디 스톤(중)"
 
 msgid "gn_0003"
-msgstr ""
+msgstr "멜로디 스톤(대)"
 
 msgid "gn_0004"
-msgstr ""
+msgstr "라이프 스톤(소)"
 
 msgid "gn_0005"
-msgstr ""
+msgstr "라이프 스톤(중)"
 
 msgid "gn_0006"
-msgstr ""
+msgstr "라이프 스톤(대)"
 
 msgid "gn_0007"
-msgstr ""
+msgstr "소울 스톤(소)"
 
 msgid "gn_0008"
-msgstr ""
+msgstr "소울 스톤(중)"
 
 msgid "gn_0009"
-msgstr ""
+msgstr "소울 스톤(대)"
 
 msgid "gn_0010"
-msgstr ""
+msgstr "보이스 스톤(소)"
 
 msgid "gn_0011"
-msgstr ""
+msgstr "보이스 스톤(중)"
 
 msgid "gn_0012"
-msgstr ""
+msgstr "보이스 스톤(대)"
 
 msgid "gn_0013"
-msgstr ""
+msgstr "챰 스톤(소)"
 
 msgid "gn_0014"
-msgstr ""
+msgstr "챰 스톤(중)"
 
 msgid "gn_0015"
-msgstr ""
+msgstr "챰 스톤(대)"
 
 msgid "gn_0016"
-msgstr ""
+msgstr "생명의 결정(소)"
 
 msgid "gn_0017"
-msgstr ""
+msgstr "생명의 결정(중)"
 
 msgid "gn_0018"
-msgstr ""
+msgstr "생명의 결정(대)"
 
 msgid "gn_0019"
-msgstr ""
+msgstr "사랑의 결정(소)"
 
 msgid "gn_0020"
-msgstr ""
+msgstr "사랑의 결정(중)"
 
 msgid "gn_0021"
-msgstr ""
+msgstr "사랑의 결정(대)"
 
 msgid "gn_0022"
-msgstr ""
+msgstr "별의 결정(소)"
 
 msgid "gn_0023"
-msgstr ""
+msgstr "별의 결정(중)"
 
 msgid "gn_0024"
-msgstr ""
+msgstr "별의 결정(대)"
 
 msgid "gn_0025"
-msgstr ""
+msgstr "행운의 광석"
 
 msgid "gn_0026"
-msgstr ""
+msgstr "행운의 황석"
 
 msgid "gn_0027"
-msgstr ""
+msgstr "시크릿 스톤"
 
 msgid "gn_dsc_0001"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"멜로디의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※【월&일요일 한정 이벤트 멜로디】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0002"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"멜로디의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※【월&일요일 한정 이벤트 멜로디】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0003"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"멜로디의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※【월&일요일 한정 이벤트 멜로디】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0004"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"라이프의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※【목&토요일 한정 이벤트 라이프】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0005"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"라이프의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※【목&토요일 한정 이벤트 라이프】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0006"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"라이프의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※【목&토요일 한정 이벤트 라이프】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0007"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"소울의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※【금&일요일 한정 이벤트 소울】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0008"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"소울의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※【금&일요일 한정 이벤트 소울】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0009"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"소울의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※【금&일요일 한정 이벤트 소울】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0010"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"보이스의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※【수&일요일 한정 이벤트 보이스】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0011"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"보이스의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※【수&일요일 한정 이벤트 보이스】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0012"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"보이스의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※【수&일요일 한정 이벤트 보이스】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0013"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"챰의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※【화&토요일 한정 이벤트 챰】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0014"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"챰의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※【화&토요일 한정 이벤트 챰】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0015"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"챰의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※【화&토요일 한정 이벤트 챰】 등에서 획득할 수 있습니다. "
+"</color>"
 
 msgid "gn_dsc_0016"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"생명의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※생명 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0017"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"생명의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※생명 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0018"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"생명의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※생명 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0019"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"사랑의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※사랑 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0020"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"사랑의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※사랑 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0021"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"사랑의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※사랑 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0022"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"별의 힘이 조금 숨겨져 있다.\n"
+"<color=#C8087E>※별 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0023"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"별의 힘이 숨겨져 있다.\n"
+"<color=#C8087E>※별 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0024"
 msgstr ""
+"에피소드 플레이트의 능력을 해방하는 데 사용되는 아이템.\n"
+"별의 힘이 더 많이 숨겨져 있다.\n"
+"<color=#C8087E>※별 속성의 악곡 등에서 획득할 수 있습니다. </color>"
 
 msgid "gn_dsc_0025"
 msgstr ""
+"럭키 리프의 능력을 해제하기 위해\r\n"
+"사용되는 희귀 아이템.\r\n"
+"<color=#8e0529>※레어리티 상승 후 레어리티가 ★5인 플레이트에 사용할 수 "
+"있습니다.</color>"
 
 msgid "gn_dsc_0026"
 msgstr ""
+"럭키 리프의 능력을 해제하기 위해\n"
+"사용되는 희귀 아이템.\n"
+"<color=#8e0529>※레어리티 상승 후 레어리티가 ★6, 7인 플레이트에 사용할 수 "
+"있습니다.</color>"
 
 msgid "gn_dsc_0027"
 msgstr ""
+"【능력 해방】으로 시크릿 보드를 해방할 수 있다\n"
+"<color=#8e0529>※레어리티 상승 후 레어리티가 ★5, 6인 플레이트에 사용할 수 "
+"있습니다.</color>"
 
 msgid "diva_01"
 msgstr "프레이아 비온"
@@ -3498,133 +3697,159 @@ msgid "diva_10"
 msgstr "린 민메이"
 
 msgid "diva_s_01"
-msgstr ""
+msgstr "프레이아"
 
 msgid "diva_s_02"
-msgstr ""
+msgstr "미쿠모"
 
 msgid "diva_s_03"
-msgstr ""
+msgstr "카나메"
 
 msgid "diva_s_04"
-msgstr ""
+msgstr "마키나"
 
 msgid "diva_s_05"
-msgstr ""
+msgstr "레이나"
 
 msgid "diva_s_06"
-msgstr ""
+msgstr "란카"
 
 msgid "diva_s_07"
-msgstr ""
+msgstr "셰릴"
 
 msgid "diva_s_08"
-msgstr ""
+msgstr "밀레느"
 
 msgid "diva_s_09"
-msgstr ""
+msgstr "바사라"
 
 msgid "diva_s_10"
-msgstr ""
+msgstr "민메이"
 
 msgid "cs_i_nm_0001"
-msgstr ""
+msgstr "크로스 스톤(소)"
 
 msgid "cs_i_nm_0002"
-msgstr ""
+msgstr "크로스 스톤(중)"
 
 msgid "cs_i_nm_0003"
-msgstr ""
+msgstr "크로스 스톤(대)"
 
 msgid "cs_i_nm_0004"
-msgstr ""
+msgstr "캬와와 인형(프레이아)"
 
 msgid "cs_i_nm_0005"
-msgstr ""
+msgstr "캬와와 인형(미쿠모)"
 
 msgid "cs_i_nm_0006"
-msgstr ""
+msgstr "캬와와 인형(카나메)"
 
 msgid "cs_i_nm_0007"
-msgstr ""
+msgstr "캬와와 인형(마키나)"
 
 msgid "cs_i_nm_0008"
-msgstr ""
+msgstr "캬와와 인형(레이나)"
 
 msgid "cs_i_nm_0009"
-msgstr ""
+msgstr "캬와와 인형(란카)"
 
 msgid "cs_i_nm_0010"
-msgstr ""
+msgstr "캬와와 인형(셰릴)"
 
 msgid "cs_i_nm_0011"
-msgstr ""
+msgstr "캬와와 인형(밀레느)"
 
 msgid "cs_i_nm_0012"
-msgstr ""
+msgstr "캬와와 인형(바사라)"
 
 msgid "cs_i_nm_0013"
-msgstr ""
+msgstr "캬와와 인형(민메이)"
 
 msgid "cs_i_dsc_0001"
 msgstr ""
+"의상을 조금 강화할 수 있는 아이템.\r\n"
+"<color=#C8087E>※발키리 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0002"
 msgstr ""
+"의상을 강화할 수 있는 아이템.\n"
+"<color=#C8087E>※발키리 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0003"
 msgstr ""
+"의상을 대폭 강화할 수 있는 아이템.\n"
+"<color=#C8087E>※발키리 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0004"
 msgstr ""
+"프레이아 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※프레이아의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0005"
 msgstr ""
+"미쿠모 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※미쿠모의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0006"
 msgstr ""
+"카나메 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※카나메의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0007"
 msgstr ""
+"마키나 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※마키나의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0008"
 msgstr ""
+"레이나 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※레이나의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0009"
 msgstr ""
+"란카 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※란카의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0010"
 msgstr ""
+"셰릴 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※셰릴의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0011"
 msgstr ""
+"밀레느 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※밀레느의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0012"
 msgstr ""
+"바사라 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※바사라의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_0013"
 msgstr ""
+"민메이 의상의 캬와와 랭크 ★4를 해방할 수 있는 아이템.\n"
+"<color=#C8087E>※민메이의 가희 오퍼레이션 등에서 얻을 수 있습니다.</color>"
 
 msgid "cs_i_dsc_short_0001"
-msgstr ""
+msgstr "의상을 조금 강화할 수 있는 아이템."
 
 msgid "cs_i_dsc_short_0002"
-msgstr ""
+msgstr "의상을 강화할 수 있는 아이템."
 
 msgid "cs_i_dsc_short_0003"
-msgstr ""
+msgstr "의상을 대폭 강화할 수 있는 아이템."
 
 msgid "cos_0001"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0002"
-msgstr ""
+msgstr "슈트랄"
 
 msgid "cos_0003"
-msgstr ""
+msgstr "로트 케이프헨"
 
 msgid "cos_0004"
-msgstr ""
+msgstr "블라우 블루메"
 
 msgid "cos_0005"
 msgstr ""
@@ -3675,10 +3900,10 @@ msgid "cos_0020"
 msgstr ""
 
 msgid "cos_0021"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0022"
-msgstr ""
+msgstr "슈트랄"
 
 msgid "cos_0023"
 msgstr ""
@@ -3735,13 +3960,13 @@ msgid "cos_0040"
 msgstr ""
 
 msgid "cos_0041"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0042"
-msgstr ""
+msgstr "슈트랄"
 
 msgid "cos_0043"
-msgstr ""
+msgstr "블라우 블루메"
 
 msgid "cos_0044"
 msgstr ""
@@ -3795,10 +4020,10 @@ msgid "cos_0060"
 msgstr ""
 
 msgid "cos_0061"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0062"
-msgstr ""
+msgstr "슈트랄"
 
 msgid "cos_0063"
 msgstr ""
@@ -3828,7 +4053,7 @@ msgid "cos_0071"
 msgstr ""
 
 msgid "cos_0072"
-msgstr ""
+msgstr "블라우 블루메"
 
 msgid "cos_0073"
 msgstr ""
@@ -3855,10 +4080,10 @@ msgid "cos_0080"
 msgstr ""
 
 msgid "cos_0081"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0082"
-msgstr ""
+msgstr "슈트랄"
 
 msgid "cos_0083"
 msgstr ""
@@ -3882,7 +4107,7 @@ msgid "cos_0089"
 msgstr ""
 
 msgid "cos_0090"
-msgstr ""
+msgstr "블라우 블루메"
 
 msgid "cos_0091"
 msgstr ""
@@ -4314,7 +4539,7 @@ msgid "cos_0245"
 msgstr ""
 
 msgid "cos_0246"
-msgstr ""
+msgstr "블라우 블루메"
 
 msgid "cos_0247"
 msgstr ""
@@ -4515,7 +4740,7 @@ msgid "cos_0314"
 msgstr ""
 
 msgid "cos_0315"
-msgstr ""
+msgstr "할로윈 바니"
 
 msgid "cos_0316"
 msgstr ""
@@ -4539,7 +4764,7 @@ msgid "cos_0327"
 msgstr ""
 
 msgid "cos_0328"
-msgstr ""
+msgstr "아이스 플라워"
 
 msgid "cos_0329"
 msgstr ""
@@ -4554,7 +4779,7 @@ msgid "cos_0333"
 msgstr ""
 
 msgid "cos_0334"
-msgstr ""
+msgstr "아이스 플라워"
 
 msgid "cos_0341"
 msgstr ""
@@ -4566,7 +4791,7 @@ msgid "cos_0344"
 msgstr ""
 
 msgid "cos_0345"
-msgstr ""
+msgstr "아이스 플라워"
 
 msgid "cos_0346"
 msgstr ""
@@ -4581,7 +4806,7 @@ msgid "cos_0354"
 msgstr ""
 
 msgid "cos_0355"
-msgstr ""
+msgstr "아이스 플라워"
 
 msgid "cos_0356"
 msgstr ""
@@ -4593,7 +4818,7 @@ msgid "cos_0362"
 msgstr ""
 
 msgid "cos_0363"
-msgstr ""
+msgstr "아이스 플라워"
 
 msgid "cos_0371"
 msgstr ""
@@ -4626,7 +4851,7 @@ msgid "cos_0392"
 msgstr ""
 
 msgid "cos_0393"
-msgstr ""
+msgstr "크로스오버 비트"
 
 msgid "cos_0395"
 msgstr ""
@@ -4635,13 +4860,13 @@ msgid "cos_0396"
 msgstr ""
 
 msgid "cos_0001_01"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0002_01"
-msgstr ""
+msgstr "네오 슈트랄"
 
 msgid "cos_0003_01"
-msgstr ""
+msgstr "로트 케이프헨"
 
 msgid "cos_0004_01"
 msgstr ""
@@ -4695,10 +4920,10 @@ msgid "cos_0020_01"
 msgstr ""
 
 msgid "cos_0021_01"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0022_01"
-msgstr ""
+msgstr "네오 슈트랄"
 
 msgid "cos_0023_01"
 msgstr ""
@@ -4755,10 +4980,10 @@ msgid "cos_0040_01"
 msgstr ""
 
 msgid "cos_0041_01"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0042_01"
-msgstr ""
+msgstr "네오 슈트랄"
 
 msgid "cos_0043_01"
 msgstr ""
@@ -4815,10 +5040,10 @@ msgid "cos_0060_01"
 msgstr ""
 
 msgid "cos_0061_01"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0062_01"
-msgstr ""
+msgstr "네오 슈트랄"
 
 msgid "cos_0063_01"
 msgstr ""
@@ -4875,10 +5100,10 @@ msgid "cos_0080_01"
 msgstr ""
 
 msgid "cos_0081_01"
-msgstr ""
+msgstr "왈큐레 유니폼"
 
 msgid "cos_0082_01"
-msgstr ""
+msgstr "네오 슈트랄"
 
 msgid "cos_0083_01"
 msgstr ""
@@ -5655,16 +5880,16 @@ msgid "cos_0396_01"
 msgstr ""
 
 msgid "trs_nm_0001"
-msgstr ""
+msgstr "왈큐레 유니폼(프레이아)"
 
 msgid "trs_nm_0002"
-msgstr ""
+msgstr "슈트랄(프레이아)"
 
 msgid "trs_nm_0003"
-msgstr ""
+msgstr "로트 케이프헨(프레이아)"
 
 msgid "trs_nm_0004"
-msgstr ""
+msgstr "블라우 블루메(프레이아)"
 
 msgid "trs_nm_0005"
 msgstr ""
@@ -5715,10 +5940,10 @@ msgid "trs_nm_0020"
 msgstr ""
 
 msgid "trs_nm_0021"
-msgstr ""
+msgstr "왈큐레 유니폼(미쿠모)"
 
 msgid "trs_nm_0022"
-msgstr ""
+msgstr "슈트랄(미쿠모)"
 
 msgid "trs_nm_0023"
 msgstr ""
@@ -5775,13 +6000,13 @@ msgid "trs_nm_0040"
 msgstr ""
 
 msgid "trs_nm_0041"
-msgstr ""
+msgstr "왈큐레 유니폼(카나메)"
 
 msgid "trs_nm_0042"
-msgstr ""
+msgstr "슈트랄(카나메)"
 
 msgid "trs_nm_0043"
-msgstr ""
+msgstr "블라우 블루메(카나메)"
 
 msgid "trs_nm_0044"
 msgstr ""
@@ -5835,10 +6060,10 @@ msgid "trs_nm_0060"
 msgstr ""
 
 msgid "trs_nm_0061"
-msgstr ""
+msgstr "왈큐레 유니폼(마키나)"
 
 msgid "trs_nm_0062"
-msgstr ""
+msgstr "슈트랄(마키나)"
 
 msgid "trs_nm_0063"
 msgstr ""
@@ -5868,7 +6093,7 @@ msgid "trs_nm_0071"
 msgstr ""
 
 msgid "trs_nm_0072"
-msgstr ""
+msgstr "블라우 블루메(마키나)"
 
 msgid "trs_nm_0073"
 msgstr ""
@@ -5895,10 +6120,10 @@ msgid "trs_nm_0080"
 msgstr ""
 
 msgid "trs_nm_0081"
-msgstr ""
+msgstr "왈큐레 유니폼(레이나)"
 
 msgid "trs_nm_0082"
-msgstr ""
+msgstr "슈트랄(레이나)"
 
 msgid "trs_nm_0083"
 msgstr ""
@@ -5922,7 +6147,7 @@ msgid "trs_nm_0089"
 msgstr ""
 
 msgid "trs_nm_0090"
-msgstr ""
+msgstr "블라우 블루메(레이나)"
 
 msgid "trs_nm_0091"
 msgstr ""
@@ -6354,7 +6579,7 @@ msgid "trs_nm_0245"
 msgstr ""
 
 msgid "trs_nm_0246"
-msgstr ""
+msgstr "블라우 블루메(미쿠모)"
 
 msgid "trs_nm_0247"
 msgstr ""
@@ -6555,7 +6780,7 @@ msgid "trs_nm_0314"
 msgstr ""
 
 msgid "trs_nm_0315"
-msgstr ""
+msgstr "할로윈 바니(밀레느)"
 
 msgid "trs_nm_0316"
 msgstr ""
@@ -6579,7 +6804,7 @@ msgid "trs_nm_0327"
 msgstr ""
 
 msgid "trs_nm_0328"
-msgstr ""
+msgstr "아이스 플라워(프레이아)"
 
 msgid "trs_nm_0329"
 msgstr ""
@@ -6594,7 +6819,7 @@ msgid "trs_nm_0333"
 msgstr ""
 
 msgid "trs_nm_0334"
-msgstr ""
+msgstr "아이스 플라워(미쿠모)"
 
 msgid "trs_nm_0341"
 msgstr ""
@@ -6606,7 +6831,7 @@ msgid "trs_nm_0344"
 msgstr ""
 
 msgid "trs_nm_0345"
-msgstr ""
+msgstr "아이스 플라워(카나메)"
 
 msgid "trs_nm_0346"
 msgstr ""
@@ -6621,7 +6846,7 @@ msgid "trs_nm_0354"
 msgstr ""
 
 msgid "trs_nm_0355"
-msgstr ""
+msgstr "아이스 플라워(마키나)"
 
 msgid "trs_nm_0356"
 msgstr ""
@@ -6633,7 +6858,7 @@ msgid "trs_nm_0362"
 msgstr ""
 
 msgid "trs_nm_0363"
-msgstr ""
+msgstr "아이스 플라워(레이나)"
 
 msgid "trs_nm_0371"
 msgstr ""
@@ -6666,7 +6891,7 @@ msgid "trs_nm_0392"
 msgstr ""
 
 msgid "trs_nm_0393"
-msgstr ""
+msgstr "크로스오버 비트(바사라)"
 
 msgid "trs_nm_0395"
 msgstr ""
@@ -6675,16 +6900,16 @@ msgid "trs_nm_0396"
 msgstr ""
 
 msgid "trs_dsc_0001"
-msgstr ""
+msgstr "왈큐레 유니폼 의상을 입은 토르소"
 
 msgid "trs_dsc_0002"
-msgstr ""
+msgstr "슈트랄 의상을 입은 토르소"
 
 msgid "trs_dsc_0003"
-msgstr ""
+msgstr "로트 케이프헨 의상을 입은 토르소"
 
 msgid "trs_dsc_0004"
-msgstr ""
+msgstr "블라우 블루메 의상을 입은 토르소"
 
 msgid "trs_dsc_0005"
 msgstr ""
@@ -6735,10 +6960,10 @@ msgid "trs_dsc_0020"
 msgstr ""
 
 msgid "trs_dsc_0021"
-msgstr ""
+msgstr "왈큐레 유니폼 의상을 입은 토르소"
 
 msgid "trs_dsc_0022"
-msgstr ""
+msgstr "슈트랄 의상을 입은 토르소"
 
 msgid "trs_dsc_0023"
 msgstr ""
@@ -6795,13 +7020,13 @@ msgid "trs_dsc_0040"
 msgstr ""
 
 msgid "trs_dsc_0041"
-msgstr ""
+msgstr "왈큐레 유니폼 의상을 입은 토르소"
 
 msgid "trs_dsc_0042"
-msgstr ""
+msgstr "슈트랄 의상을 입은 토르소"
 
 msgid "trs_dsc_0043"
-msgstr ""
+msgstr "블라우 블루메 의상을 입은 토르소"
 
 msgid "trs_dsc_0044"
 msgstr ""
@@ -6855,10 +7080,10 @@ msgid "trs_dsc_0060"
 msgstr ""
 
 msgid "trs_dsc_0061"
-msgstr ""
+msgstr "왈큐레 유니폼 의상을 입은 토르소"
 
 msgid "trs_dsc_0062"
-msgstr ""
+msgstr "슈트랄 의상을 입은 토르소"
 
 msgid "trs_dsc_0063"
 msgstr ""
@@ -6888,7 +7113,7 @@ msgid "trs_dsc_0071"
 msgstr ""
 
 msgid "trs_dsc_0072"
-msgstr ""
+msgstr "블라우 블루메 의상을 입은 토르소"
 
 msgid "trs_dsc_0073"
 msgstr ""
@@ -6915,10 +7140,10 @@ msgid "trs_dsc_0080"
 msgstr ""
 
 msgid "trs_dsc_0081"
-msgstr ""
+msgstr "왈큐레 유니폼 의상을 입은 토르소"
 
 msgid "trs_dsc_0082"
-msgstr ""
+msgstr "슈트랄 의상을 입은 토르소"
 
 msgid "trs_dsc_0083"
 msgstr ""
@@ -6942,7 +7167,7 @@ msgid "trs_dsc_0089"
 msgstr ""
 
 msgid "trs_dsc_0090"
-msgstr ""
+msgstr "블라우 블루메 의상을 입은 토르소"
 
 msgid "trs_dsc_0091"
 msgstr ""
@@ -7374,7 +7599,7 @@ msgid "trs_dsc_0245"
 msgstr ""
 
 msgid "trs_dsc_0246"
-msgstr ""
+msgstr "블라우 블루메 의상을 입은 토르소"
 
 msgid "trs_dsc_0247"
 msgstr ""
@@ -7599,7 +7824,7 @@ msgid "trs_dsc_0327"
 msgstr ""
 
 msgid "trs_dsc_0328"
-msgstr ""
+msgstr "아이스 플라워 의상을 입은 토르소"
 
 msgid "trs_dsc_0329"
 msgstr ""
@@ -7614,7 +7839,7 @@ msgid "trs_dsc_0333"
 msgstr ""
 
 msgid "trs_dsc_0334"
-msgstr ""
+msgstr "아이스 플라워 의상을 입은 토르소"
 
 msgid "trs_dsc_0341"
 msgstr ""
@@ -7626,7 +7851,7 @@ msgid "trs_dsc_0344"
 msgstr ""
 
 msgid "trs_dsc_0345"
-msgstr ""
+msgstr "아이스 플라워 의상을 입은 토르소"
 
 msgid "trs_dsc_0346"
 msgstr ""
@@ -7641,7 +7866,7 @@ msgid "trs_dsc_0354"
 msgstr ""
 
 msgid "trs_dsc_0355"
-msgstr ""
+msgstr "아이스 플라워 의상을 입은 토르소"
 
 msgid "trs_dsc_0356"
 msgstr ""
@@ -7653,7 +7878,7 @@ msgid "trs_dsc_0362"
 msgstr ""
 
 msgid "trs_dsc_0363"
-msgstr ""
+msgstr "아이스 플라워 의상을 입은 토르소"
 
 msgid "trs_dsc_0371"
 msgstr ""
@@ -7686,7 +7911,7 @@ msgid "trs_dsc_0392"
 msgstr ""
 
 msgid "trs_dsc_0393"
-msgstr ""
+msgstr "크로스오버 비트 의상을 입은 토르소"
 
 msgid "trs_dsc_0395"
 msgstr ""
@@ -7704,16 +7929,16 @@ msgid "cos_unlock_0003"
 msgstr ""
 
 msgid "cos_reward_0001"
-msgstr ""
+msgstr "의상 효과"
 
 msgid "cos_reward_0004"
-msgstr ""
+msgstr "팔레트 체인지 의상 획득"
 
 msgid "cos_reward_0005"
-msgstr ""
+msgstr "스테이터스 상승"
 
 msgid "cos_reward_0006"
-msgstr ""
+msgstr "지원 플레이트 해방"
 
 msgid "cos_reward_status_0001"
 msgstr "소울"
@@ -13029,40 +13254,40 @@ msgid "em_dsc_0810"
 msgstr ""
 
 msgid "qd_dsc_0001"
-msgstr ""
+msgstr "음악을 3번 클리어"
 
 msgid "qd_dsc_0002"
 msgstr "스코어 랭크 S 이상 1회 달성"
 
 msgid "qd_dsc_0003"
-msgstr ""
+msgstr "액티브 스킬을 발동하여 1회 클리어"
 
 msgid "qd_dsc_0004"
 msgstr ""
 
 msgid "qd_dsc_0005"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 1회 클리어"
 
 msgid "qd_dsc_0006"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qd_dsc_0007"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qd_dsc_0008"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qd_dsc_0009"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qd_dsc_0010"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qd_dsc_0011"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qd_dsc_0012"
-msgstr ""
+msgstr "데일리 미션을 전부 클리어"
 
 msgid "qn_dsc_0001"
 msgstr ""
@@ -13101,12 +13326,14 @@ msgstr ""
 
 msgid "qn_dsc_0012"
 msgstr ""
+"의상 【슈트랄】을 입은 프레이아를\n"
+"센터로 설정하고 【라이브】를 클리어하자"
 
 msgid "qn_dsc_0013"
-msgstr ""
+msgstr "데뷔 미션을 모두 클리어하자"
 
 msgid "qn_dsc_0014"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0015"
 msgstr ""
@@ -13115,7 +13342,7 @@ msgid "qn_dsc_0016"
 msgstr ""
 
 msgid "qn_dsc_0017"
-msgstr ""
+msgstr "플레이어 랭크 5 달성"
 
 msgid "qn_dsc_0018"
 msgstr ""
@@ -13128,18 +13355,20 @@ msgstr ""
 
 msgid "qn_dsc_0021"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 5회 클리어"
 
 msgid "qn_dsc_0022"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 5회 클리어"
 
 msgid "qn_dsc_0023"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 5회 클리어"
 
 msgid "qn_dsc_0024"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 5회 클리어"
 
 msgid "qn_dsc_0025"
-msgstr ""
+msgstr "난이도 【VERY HARD】를 5회 클리어"
 
 msgid "qn_dsc_0026"
 msgstr "풀콤보 1회 달성"
@@ -13182,234 +13411,326 @@ msgstr ""
 
 msgid "qn_dsc_0039"
 msgstr ""
+"【라이브】에서 악곡을 10회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0040"
 msgstr ""
+"【라이브】에서 악곡을 20회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0041"
 msgstr ""
+"【라이브】에서 악곡을 30회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0042"
 msgstr ""
+"【라이브】에서 악곡을 40회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0043"
 msgstr ""
+"【라이브】에서 악곡을 50회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0044"
 msgstr ""
+"【라이브】에서 악곡을 75회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0045"
 msgstr ""
+"【라이브】에서 악곡을 100회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0046"
 msgstr ""
+"【라이브】에서 악곡을 150회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0047"
 msgstr ""
+"【라이브】에서 악곡을 200회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0048"
 msgstr ""
+"【라이브】에서 악곡을 250회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0049"
 msgstr ""
+"【라이브】에서 악곡을 300회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0050"
 msgstr ""
+"【라이브】에서 악곡을 400회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0051"
 msgstr ""
+"【라이브】에서 악곡을 500회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0052"
 msgstr ""
+"【라이브】에서 악곡을 600회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0053"
 msgstr ""
+"【라이브】에서 악곡을 700회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0054"
 msgstr ""
+"【라이브】에서 악곡을 800회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0055"
 msgstr ""
+"【라이브】에서 악곡을 900회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0056"
 msgstr ""
+"【라이브】에서 악곡을 1000회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0057"
 msgstr ""
+"【라이브】에서 악곡을 1250회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0058"
 msgstr ""
+"【라이브】에서 악곡을 1500회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0059"
 msgstr ""
+"【라이브】에서 악곡을 1750회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0060"
 msgstr ""
+"【라이브】에서 악곡을 2000회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0061"
 msgstr ""
+"【라이브】에서 악곡을 2250회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0062"
 msgstr ""
+"【라이브】에서 악곡을 2500회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0063"
 msgstr ""
+"【라이브】에서 악곡을 2750회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0064"
 msgstr ""
+"【라이브】에서 악곡을 3000회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0065"
 msgstr ""
+"【라이브】에서 악곡을 3250회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0066"
 msgstr ""
+"【라이브】에서 악곡을 3500회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0067"
 msgstr ""
+"【라이브】에서 악곡을 3750회 클리어하고\n"
+"【다함께 잡담방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0095"
 msgstr ""
 
 msgid "qn_dsc_0096"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0097"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0098"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0099"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0100"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0101"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0102"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0103"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0104"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0105"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0106"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0107"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0108"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0109"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0110"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0111"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0112"
 msgstr ""
+"【기억의 시공】을 진행하여\n"
+"【SNS 연락방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0113"
-msgstr ""
+msgstr "플레이어 랭크 6 달성"
 
 msgid "qn_dsc_0114"
-msgstr ""
+msgstr "플레이어 랭크 7 달성"
 
 msgid "qn_dsc_0115"
-msgstr "플레이어 랭크 8로 올리기"
+msgstr "플레이어 랭크 8 달성"
 
 msgid "qn_dsc_0116"
-msgstr ""
+msgstr "플레이어 랭크 9 달성"
 
 msgid "qn_dsc_0117"
-msgstr ""
+msgstr "플레이어 랭크 10 달성"
 
 msgid "qn_dsc_0118"
-msgstr ""
+msgstr "플레이어 랭크 11 달성"
 
 msgid "qn_dsc_0119"
-msgstr ""
+msgstr "플레이어 랭크 12 달성"
 
 msgid "qn_dsc_0120"
-msgstr ""
+msgstr "플레이어 랭크 13 달성"
 
 msgid "qn_dsc_0121"
-msgstr ""
+msgstr "플레이어 랭크 14 달성"
 
 msgid "qn_dsc_0122"
-msgstr ""
+msgstr "플레이어 랭크 15 달성"
 
 msgid "qn_dsc_0123"
-msgstr ""
+msgstr "플레이어 랭크 16 달성"
 
 msgid "qn_dsc_0124"
-msgstr ""
+msgstr "플레이어 랭크 17 달성"
 
 msgid "qn_dsc_0125"
-msgstr ""
+msgstr "플레이어 랭크 18 달성"
 
 msgid "qn_dsc_0126"
-msgstr ""
+msgstr "플레이어 랭크 19 달성"
 
 msgid "qn_dsc_0127"
-msgstr ""
+msgstr "플레이어 랭크 20 달성"
 
 msgid "qn_dsc_0128"
-msgstr ""
+msgstr "플레이어 랭크 21 달성"
 
 msgid "qn_dsc_0129"
-msgstr ""
+msgstr "플레이어 랭크 22 달성"
 
 msgid "qn_dsc_0130"
-msgstr ""
+msgstr "플레이어 랭크 23 달성"
 
 msgid "qn_dsc_0131"
-msgstr ""
+msgstr "플레이어 랭크 24 달성"
 
 msgid "qn_dsc_0132"
-msgstr ""
+msgstr "에피소드 플레이트 20종류 수집"
 
 msgid "qn_dsc_0133"
-msgstr ""
+msgstr "에피소드 플레이트 25종류 수집"
 
 msgid "qn_dsc_0134"
-msgstr ""
+msgstr "에피소드 플레이트 30종류 수집"
 
 msgid "qn_dsc_0135"
-msgstr ""
+msgstr "에피소드 플레이트 35종류 수집"
 
 msgid "qn_dsc_0136"
-msgstr ""
+msgstr "에피소드 플레이트 40종류 수집"
 
 msgid "qn_dsc_0137"
-msgstr ""
+msgstr "에피소드 플레이트 45종류 수집"
 
 msgid "qn_dsc_0138"
-msgstr ""
+msgstr "에피소드 플레이트 50종류 수집"
 
 msgid "qn_dsc_0139"
-msgstr ""
+msgstr "에피소드 플레이트 55종류 수집"
 
 msgid "qn_dsc_0140"
-msgstr ""
+msgstr "에피소드 플레이트 60종류 수집"
 
 msgid "qn_dsc_0141"
-msgstr ""
+msgstr "에피소드 플레이트 65종류 수집"
 
 msgid "qn_dsc_0142"
-msgstr ""
+msgstr "에피소드 플레이트 70종류 수집"
 
 msgid "qn_dsc_0143"
 msgstr ""
@@ -13649,25 +13970,25 @@ msgid "qn_dsc_0222"
 msgstr ""
 
 msgid "qn_dsc_0223"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0224"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0225"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0226"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0227"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0228"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0229"
-msgstr ""
+msgstr "미설정 (표시되면 버그임)"
 
 msgid "qn_dsc_0230"
 msgstr "풀콤보 5회 달성"
@@ -13730,190 +14051,270 @@ msgid "qn_dsc_0249"
 msgstr "초가희 모드에 돌입하여 10회 클리어"
 
 msgid "qn_dsc_0250"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 20회 클리어"
 
 msgid "qn_dsc_0251"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 50회 클리어"
 
 msgid "qn_dsc_0252"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 100회 클리어"
 
 msgid "qn_dsc_0253"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 150회 클리어"
 
 msgid "qn_dsc_0254"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 200회 클리어"
 
 msgid "qn_dsc_0255"
-msgstr ""
+msgstr "초가희 모드에 돌입하여 300회 클리어"
 
 msgid "qn_dsc_0256"
 msgstr ""
+"프레이아 레벨 4를 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0257"
-msgstr ""
+msgstr "프레이아 레벨 10 달성"
 
 msgid "qn_dsc_0258"
 msgstr ""
+"프레이아 레벨 7을 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0259"
-msgstr ""
+msgstr "프레이아 레벨 20 달성"
 
 msgid "qn_dsc_0260"
 msgstr ""
+"프레이아 레벨 10을 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0261"
 msgstr ""
+"프레이아 레벨 12를 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0262"
 msgstr ""
+"프레이아 레벨 17을 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0263"
 msgstr ""
+"미쿠모 레벨 4를 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0264"
-msgstr ""
+msgstr "미쿠모 레벨 10 달성"
 
 msgid "qn_dsc_0265"
 msgstr ""
+"미쿠모 레벨 7을 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0266"
-msgstr ""
+msgstr "미쿠모 레벨 20 달성"
 
 msgid "qn_dsc_0267"
 msgstr ""
+"미쿠모 레벨 10을 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0268"
 msgstr ""
+"미쿠모 레벨 12를 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0269"
 msgstr ""
+"미쿠모 레벨 17을 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0270"
 msgstr ""
+"카나메 레벨 4를 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0271"
-msgstr ""
+msgstr "카나메 레벨 10 달성"
 
 msgid "qn_dsc_0272"
 msgstr ""
+"카나메 레벨 7을 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0273"
-msgstr ""
+msgstr "카나메 레벨 20 달성"
 
 msgid "qn_dsc_0274"
 msgstr ""
+"카나메 레벨 10을 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0275"
 msgstr ""
+"카나메 레벨 12를 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0276"
 msgstr ""
+"카나메 레벨 17을 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0277"
 msgstr ""
+"마키나 레벨 4를 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0278"
-msgstr ""
+msgstr "마키나 레벨 10 달성"
 
 msgid "qn_dsc_0279"
 msgstr ""
+"마키나 레벨 7을 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0280"
-msgstr ""
+msgstr "마키나 레벨 20 달성"
 
 msgid "qn_dsc_0281"
 msgstr ""
+"마키나 레벨 10을 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0282"
 msgstr ""
+"마키나 레벨 12를 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0283"
 msgstr ""
+"마키나 레벨 17을 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0284"
 msgstr ""
+"레이나 레벨 4를 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0285"
-msgstr ""
+msgstr "레이나 레벨 10 달성"
 
 msgid "qn_dsc_0286"
 msgstr ""
+"레이나 레벨 7을 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0287"
-msgstr ""
+msgstr "레이나 레벨 20 달성"
 
 msgid "qn_dsc_0288"
 msgstr ""
+"레이나 레벨 10을 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0289"
 msgstr ""
+"레이나 레벨 12를 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0290"
 msgstr ""
+"레이나 레벨 17을 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0291"
 msgstr ""
+"란카 레벨 4를 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0292"
-msgstr ""
+msgstr "란카 레벨 10 달성"
 
 msgid "qn_dsc_0293"
 msgstr ""
+"란카 레벨 7을 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0294"
-msgstr ""
+msgstr "란카 레벨 20 달성"
 
 msgid "qn_dsc_0295"
 msgstr ""
+"란카 레벨 10을 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0296"
 msgstr ""
+"란카 레벨 12를 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0297"
 msgstr ""
+"란카 레벨 17을 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0298"
 msgstr ""
+"셰릴 레벨 4를 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0299"
-msgstr ""
+msgstr "셰릴 레벨 10 달성"
 
 msgid "qn_dsc_0300"
 msgstr ""
+"셰릴 레벨 7을 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0301"
-msgstr ""
+msgstr "셰릴 레벨 20 달성"
 
 msgid "qn_dsc_0302"
 msgstr ""
+"셰릴 레벨 10을 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0303"
 msgstr ""
+"셰릴 레벨 12를 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0304"
 msgstr ""
+"셰릴 레벨 17을 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0305"
 msgstr ""
+"민메이 레벨 4를 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0306"
-msgstr ""
+msgstr "민메이 레벨 10 달성"
 
 msgid "qn_dsc_0307"
 msgstr ""
+"민메이 레벨 7을 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0308"
-msgstr ""
+msgstr "민메이 레벨 20 달성"
 
 msgid "qn_dsc_0309"
 msgstr ""
+"민메이 레벨 10을 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0310"
 msgstr ""
+"민메이 레벨 12를 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0311"
 msgstr ""
+"민메이 레벨 17을 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0312"
 msgstr ""
@@ -14004,123 +14405,143 @@ msgstr ""
 
 msgid "qn_dsc_0341"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 300회 클리어"
 
 msgid "qn_dsc_0342"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 350회 클리어"
 
 msgid "qn_dsc_0343"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 400회 클리어"
 
 msgid "qn_dsc_0344"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 450회 클리어"
 
 msgid "qn_dsc_0345"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 500회 클리어"
 
 msgid "qn_dsc_0346"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 600회 클리어"
 
 msgid "qn_dsc_0347"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 700회 클리어"
 
 msgid "qn_dsc_0348"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 800회 클리어"
 
 msgid "qn_dsc_0349"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 900회 클리어"
 
 msgid "qn_dsc_0350"
 msgstr ""
+"【라이브】에서\n"
+"【초시공요새 마크로스】의 악곡을 1000회 클리어"
 
 msgid "qn_dsc_0351"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 300회 클리어"
 
 msgid "qn_dsc_0352"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 350회 클리어"
 
 msgid "qn_dsc_0353"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 400회 클리어"
 
 msgid "qn_dsc_0354"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 450회 클리어"
 
 msgid "qn_dsc_0355"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 500회 클리어"
 
 msgid "qn_dsc_0356"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 600회 클리어"
 
 msgid "qn_dsc_0357"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 700회 클리어"
 
 msgid "qn_dsc_0358"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 800회 클리어"
 
 msgid "qn_dsc_0359"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 900회 클리어"
 
 msgid "qn_dsc_0360"
-msgstr ""
+msgstr "【라이브】에서 【마크로스7】의 악곡을 1000회 클리어"
 
 msgid "qn_dsc_0361"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 300회 클리어"
 
 msgid "qn_dsc_0362"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 350회 클리어"
 
 msgid "qn_dsc_0363"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 400회 클리어"
 
 msgid "qn_dsc_0364"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 450회 클리어"
 
 msgid "qn_dsc_0365"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 500회 클리어"
 
 msgid "qn_dsc_0366"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 600회 클리어"
 
 msgid "qn_dsc_0367"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 700회 클리어"
 
 msgid "qn_dsc_0368"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 800회 클리어"
 
 msgid "qn_dsc_0369"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 900회 클리어"
 
 msgid "qn_dsc_0370"
-msgstr ""
+msgstr "【라이브】에서 【마크로스F】의 악곡을 1000회 클리어"
 
 msgid "qn_dsc_0371"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 300회 클리어"
 
 msgid "qn_dsc_0372"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 350회 클리어"
 
 msgid "qn_dsc_0373"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 400회 클리어"
 
 msgid "qn_dsc_0374"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 450회 클리어"
 
 msgid "qn_dsc_0375"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 500회 클리어"
 
 msgid "qn_dsc_0376"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 600회 클리어"
 
 msgid "qn_dsc_0377"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 700회 클리어"
 
 msgid "qn_dsc_0378"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 800회 클리어"
 
 msgid "qn_dsc_0379"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 900회 클리어"
 
 msgid "qn_dsc_0380"
-msgstr ""
+msgstr "【라이브】에서 【마크로스Δ】의 악곡을 1000회 클리어"
 
 msgid "qn_dsc_0381"
 msgstr "풀콤보 150회 달성"
@@ -14217,327 +14638,391 @@ msgstr ""
 
 msgid "qn_dsc_0412"
 msgstr ""
+"프레이아 레벨 25를 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0413"
 msgstr ""
+"프레이아 레벨 30을 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0414"
 msgstr ""
+"프레이아 레벨 35를 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0415"
 msgstr ""
+"프레이아 레벨 40을 달성하고\n"
+"【프레이아의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0416"
 msgstr ""
+"미쿠모 레벨 25를 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0417"
 msgstr ""
+"미쿠모 레벨 30을 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0418"
 msgstr ""
+"미쿠모 레벨 35를 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0419"
 msgstr ""
+"미쿠모 레벨 40을 달성하고\n"
+"【미쿠모의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0420"
 msgstr ""
+"카나메 레벨 25를 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0421"
 msgstr ""
+"카나메 레벨 30을 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0422"
 msgstr ""
+"카나메 레벨 35를 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0423"
 msgstr ""
+"카나메 레벨 40을 달성하고\n"
+"【카나메의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0424"
 msgstr ""
+"마키나 레벨 25를 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0425"
 msgstr ""
+"마키나 레벨 30을 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0426"
 msgstr ""
+"마키나 레벨 35를 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0427"
 msgstr ""
+"마키나 레벨 40을 달성하고\n"
+"【마키나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0428"
 msgstr ""
+"레이나 레벨 25를 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0429"
 msgstr ""
+"레이나 레벨 30을 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0430"
 msgstr ""
+"레이나 레벨 35를 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0431"
 msgstr ""
+"레이나 레벨 40을 달성하고\n"
+"【레이나의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0432"
 msgstr ""
+"란카 레벨 25를 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0433"
 msgstr ""
+"란카 레벨 30을 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0434"
 msgstr ""
+"란카 레벨 35를 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0435"
 msgstr ""
+"란카 레벨 40을 달성하고\n"
+"【란카의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0436"
 msgstr ""
+"셰릴 레벨 25를 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0437"
 msgstr ""
+"셰릴 레벨 30을 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0438"
 msgstr ""
+"셰릴 레벨 35를 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0439"
 msgstr ""
+"셰릴 레벨 40을 달성하고\n"
+"【셰릴의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0440"
 msgstr ""
+"민메이 레벨 25를 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0441"
 msgstr ""
+"민메이 레벨 30을 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0442"
 msgstr ""
+"민메이 레벨 35를 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0443"
 msgstr ""
+"민메이 레벨 40을 달성하고\n"
+"【민메이의 방】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0444"
-msgstr ""
+msgstr "플레이어 랭크 25 달성"
 
 msgid "qn_dsc_0445"
-msgstr ""
+msgstr "플레이어 랭크 26 달성"
 
 msgid "qn_dsc_0446"
-msgstr ""
+msgstr "플레이어 랭크 27 달성"
 
 msgid "qn_dsc_0447"
-msgstr ""
+msgstr "플레이어 랭크 28 달성"
 
 msgid "qn_dsc_0448"
-msgstr ""
+msgstr "플레이어 랭크 29 달성"
 
 msgid "qn_dsc_0449"
-msgstr ""
+msgstr "플레이어 랭크 30 달성"
 
 msgid "qn_dsc_0450"
-msgstr ""
+msgstr "플레이어 랭크 31 달성"
 
 msgid "qn_dsc_0451"
-msgstr ""
+msgstr "플레이어 랭크 32 달성"
 
 msgid "qn_dsc_0452"
-msgstr ""
+msgstr "플레이어 랭크 33 달성"
 
 msgid "qn_dsc_0453"
-msgstr ""
+msgstr "플레이어 랭크 34 달성"
 
 msgid "qn_dsc_0454"
-msgstr ""
+msgstr "플레이어 랭크 35 달성"
 
 msgid "qn_dsc_0455"
-msgstr ""
+msgstr "플레이어 랭크 36 달성"
 
 msgid "qn_dsc_0456"
-msgstr ""
+msgstr "플레이어 랭크 37 달성"
 
 msgid "qn_dsc_0457"
-msgstr ""
+msgstr "플레이어 랭크 38 달성"
 
 msgid "qn_dsc_0458"
-msgstr ""
+msgstr "플레이어 랭크 39 달성"
 
 msgid "qn_dsc_0459"
-msgstr ""
+msgstr "플레이어 랭크 40 달성"
 
 msgid "qn_dsc_0460"
-msgstr ""
+msgstr "플레이어 랭크 41 달성"
 
 msgid "qn_dsc_0461"
-msgstr ""
+msgstr "플레이어 랭크 42 달성"
 
 msgid "qn_dsc_0462"
-msgstr ""
+msgstr "플레이어 랭크 43 달성"
 
 msgid "qn_dsc_0463"
-msgstr ""
+msgstr "플레이어 랭크 44 달성"
 
 msgid "qn_dsc_0464"
-msgstr ""
+msgstr "플레이어 랭크 45 달성"
 
 msgid "qn_dsc_0465"
-msgstr ""
+msgstr "플레이어 랭크 46 달성"
 
 msgid "qn_dsc_0466"
-msgstr ""
+msgstr "플레이어 랭크 47 달성"
 
 msgid "qn_dsc_0467"
-msgstr ""
+msgstr "플레이어 랭크 48 달성"
 
 msgid "qn_dsc_0468"
-msgstr ""
+msgstr "플레이어 랭크 49 달성"
 
 msgid "qn_dsc_0469"
-msgstr ""
+msgstr "플레이어 랭크 50 달성"
 
 msgid "qn_dsc_0470"
-msgstr ""
+msgstr "플레이어 랭크 51 달성"
 
 msgid "qn_dsc_0471"
-msgstr ""
+msgstr "플레이어 랭크 52 달성"
 
 msgid "qn_dsc_0472"
-msgstr ""
+msgstr "플레이어 랭크 53 달성"
 
 msgid "qn_dsc_0473"
-msgstr ""
+msgstr "플레이어 랭크 54 달성"
 
 msgid "qn_dsc_0474"
-msgstr ""
+msgstr "플레이어 랭크 55 달성"
 
 msgid "qn_dsc_0475"
-msgstr ""
+msgstr "플레이어 랭크 56 달성"
 
 msgid "qn_dsc_0476"
-msgstr ""
+msgstr "플레이어 랭크 57 달성"
 
 msgid "qn_dsc_0477"
-msgstr ""
+msgstr "플레이어 랭크 58 달성"
 
 msgid "qn_dsc_0478"
-msgstr ""
+msgstr "플레이어 랭크 59 달성"
 
 msgid "qn_dsc_0479"
-msgstr ""
+msgstr "플레이어 랭크 60 달성"
 
 msgid "qn_dsc_0480"
-msgstr ""
+msgstr "플레이어 랭크 61 달성"
 
 msgid "qn_dsc_0481"
-msgstr ""
+msgstr "플레이어 랭크 62 달성"
 
 msgid "qn_dsc_0482"
-msgstr ""
+msgstr "플레이어 랭크 63 달성"
 
 msgid "qn_dsc_0483"
-msgstr ""
+msgstr "플레이어 랭크 64 달성"
 
 msgid "qn_dsc_0484"
-msgstr ""
+msgstr "플레이어 랭크 65 달성"
 
 msgid "qn_dsc_0485"
-msgstr ""
+msgstr "플레이어 랭크 66 달성"
 
 msgid "qn_dsc_0486"
-msgstr ""
+msgstr "플레이어 랭크 67 달성"
 
 msgid "qn_dsc_0487"
-msgstr ""
+msgstr "플레이어 랭크 68 달성"
 
 msgid "qn_dsc_0488"
-msgstr ""
+msgstr "플레이어 랭크 69 달성"
 
 msgid "qn_dsc_0489"
-msgstr ""
+msgstr "플레이어 랭크 70 달성"
 
 msgid "qn_dsc_0490"
-msgstr ""
+msgstr "플레이어 랭크 71 달성"
 
 msgid "qn_dsc_0491"
-msgstr ""
+msgstr "플레이어 랭크 72 달성"
 
 msgid "qn_dsc_0492"
-msgstr ""
+msgstr "플레이어 랭크 73 달성"
 
 msgid "qn_dsc_0493"
-msgstr ""
+msgstr "플레이어 랭크 74 달성"
 
 msgid "qn_dsc_0494"
-msgstr ""
+msgstr "플레이어 랭크 75 달성"
 
 msgid "qn_dsc_0495"
-msgstr ""
+msgstr "플레이어 랭크 76 달성"
 
 msgid "qn_dsc_0496"
-msgstr ""
+msgstr "플레이어 랭크 77 달성"
 
 msgid "qn_dsc_0497"
-msgstr ""
+msgstr "플레이어 랭크 78 달성"
 
 msgid "qn_dsc_0498"
-msgstr ""
+msgstr "플레이어 랭크 79 달성"
 
 msgid "qn_dsc_0499"
-msgstr ""
+msgstr "플레이어 랭크 80 달성"
 
 msgid "qn_dsc_0500"
-msgstr ""
+msgstr "플레이어 랭크 81 달성"
 
 msgid "qn_dsc_0501"
-msgstr ""
+msgstr "플레이어 랭크 82 달성"
 
 msgid "qn_dsc_0502"
-msgstr ""
+msgstr "플레이어 랭크 83 달성"
 
 msgid "qn_dsc_0503"
-msgstr ""
+msgstr "플레이어 랭크 84 달성"
 
 msgid "qn_dsc_0504"
-msgstr ""
+msgstr "플레이어 랭크 85 달성"
 
 msgid "qn_dsc_0505"
-msgstr ""
+msgstr "플레이어 랭크 86 달성"
 
 msgid "qn_dsc_0506"
-msgstr ""
+msgstr "플레이어 랭크 87 달성"
 
 msgid "qn_dsc_0507"
-msgstr ""
+msgstr "플레이어 랭크 88 달성"
 
 msgid "qn_dsc_0508"
-msgstr ""
+msgstr "플레이어 랭크 89 달성"
 
 msgid "qn_dsc_0509"
-msgstr ""
+msgstr "플레이어 랭크 90 달성"
 
 msgid "qn_dsc_0510"
-msgstr ""
+msgstr "플레이어 랭크 91 달성"
 
 msgid "qn_dsc_0511"
-msgstr ""
+msgstr "플레이어 랭크 92 달성"
 
 msgid "qn_dsc_0512"
-msgstr ""
+msgstr "플레이어 랭크 93 달성"
 
 msgid "qn_dsc_0513"
-msgstr ""
+msgstr "플레이어 랭크 94 달성"
 
 msgid "qn_dsc_0514"
-msgstr ""
+msgstr "플레이어 랭크 95 달성"
 
 msgid "qn_dsc_0515"
-msgstr ""
+msgstr "플레이어 랭크 96 달성"
 
 msgid "qn_dsc_0516"
-msgstr ""
+msgstr "플레이어 랭크 97 달성"
 
 msgid "qn_dsc_0517"
-msgstr ""
+msgstr "플레이어 랭크 98 달성"
 
 msgid "qn_dsc_0518"
-msgstr ""
+msgstr "플레이어 랭크 99 달성"
 
 msgid "qn_dsc_0519"
-msgstr ""
+msgstr "플레이어 랭크 100 달성"
 
 msgid "qn_dsc_0521"
 msgstr ""
@@ -14579,10 +15064,10 @@ msgid "qn_dsc_0533"
 msgstr "하이스코어 1000000점 이상 달성"
 
 msgid "qn_dsc_0534"
-msgstr ""
+msgstr "노멀 미션 합계 250개 클리어"
 
 msgid "qn_dsc_0535"
-msgstr ""
+msgstr "노멀 미션 합계 300개 클리어"
 
 msgid "qn_dsc_0536"
 msgstr ""
@@ -14699,307 +15184,309 @@ msgid "qn_dsc_0573"
 msgstr ""
 
 msgid "qn_dsc_0574"
-msgstr ""
+msgstr "플레이어 랭크 101 달성"
 
 msgid "qn_dsc_0575"
-msgstr ""
+msgstr "플레이어 랭크 102 달성"
 
 msgid "qn_dsc_0576"
-msgstr ""
+msgstr "플레이어 랭크 103 달성"
 
 msgid "qn_dsc_0577"
-msgstr ""
+msgstr "플레이어 랭크 104 달성"
 
 msgid "qn_dsc_0578"
-msgstr ""
+msgstr "플레이어 랭크 105 달성"
 
 msgid "qn_dsc_0579"
-msgstr ""
+msgstr "플레이어 랭크 106 달성"
 
 msgid "qn_dsc_0580"
-msgstr ""
+msgstr "플레이어 랭크 107 달성"
 
 msgid "qn_dsc_0581"
-msgstr ""
+msgstr "플레이어 랭크 108 달성"
 
 msgid "qn_dsc_0582"
-msgstr ""
+msgstr "플레이어 랭크 109 달성"
 
 msgid "qn_dsc_0583"
-msgstr ""
+msgstr "플레이어 랭크 110 달성"
 
 msgid "qn_dsc_0584"
-msgstr ""
+msgstr "플레이어 랭크 111 달성"
 
 msgid "qn_dsc_0585"
-msgstr ""
+msgstr "플레이어 랭크 112 달성"
 
 msgid "qn_dsc_0586"
-msgstr ""
+msgstr "플레이어 랭크 113 달성"
 
 msgid "qn_dsc_0587"
-msgstr ""
+msgstr "플레이어 랭크 114 달성"
 
 msgid "qn_dsc_0588"
-msgstr ""
+msgstr "플레이어 랭크 115 달성"
 
 msgid "qn_dsc_0589"
-msgstr ""
+msgstr "플레이어 랭크 116 달성"
 
 msgid "qn_dsc_0590"
-msgstr ""
+msgstr "플레이어 랭크 117 달성"
 
 msgid "qn_dsc_0591"
-msgstr ""
+msgstr "플레이어 랭크 118 달성"
 
 msgid "qn_dsc_0592"
-msgstr ""
+msgstr "플레이어 랭크 119 달성"
 
 msgid "qn_dsc_0593"
-msgstr ""
+msgstr "플레이어 랭크 120 달성"
 
 msgid "qn_dsc_0594"
-msgstr ""
+msgstr "플레이어 랭크 121 달성"
 
 msgid "qn_dsc_0595"
-msgstr ""
+msgstr "플레이어 랭크 122 달성"
 
 msgid "qn_dsc_0596"
-msgstr ""
+msgstr "플레이어 랭크 123 달성"
 
 msgid "qn_dsc_0597"
-msgstr ""
+msgstr "플레이어 랭크 124 달성"
 
 msgid "qn_dsc_0598"
-msgstr ""
+msgstr "플레이어 랭크 125 달성"
 
 msgid "qn_dsc_0599"
-msgstr ""
+msgstr "플레이어 랭크 126 달성"
 
 msgid "qn_dsc_0600"
-msgstr ""
+msgstr "플레이어 랭크 127 달성"
 
 msgid "qn_dsc_0601"
-msgstr ""
+msgstr "플레이어 랭크 128 달성"
 
 msgid "qn_dsc_0602"
-msgstr ""
+msgstr "플레이어 랭크 129 달성"
 
 msgid "qn_dsc_0603"
-msgstr ""
+msgstr "플레이어 랭크 130 달성"
 
 msgid "qn_dsc_0604"
-msgstr ""
+msgstr "플레이어 랭크 131 달성"
 
 msgid "qn_dsc_0605"
-msgstr ""
+msgstr "플레이어 랭크 132 달성"
 
 msgid "qn_dsc_0606"
-msgstr ""
+msgstr "플레이어 랭크 133 달성"
 
 msgid "qn_dsc_0607"
-msgstr ""
+msgstr "플레이어 랭크 134 달성"
 
 msgid "qn_dsc_0608"
-msgstr ""
+msgstr "플레이어 랭크 135 달성"
 
 msgid "qn_dsc_0609"
-msgstr ""
+msgstr "플레이어 랭크 136 달성"
 
 msgid "qn_dsc_0610"
-msgstr ""
+msgstr "플레이어 랭크 137 달성"
 
 msgid "qn_dsc_0611"
-msgstr ""
+msgstr "플레이어 랭크 138 달성"
 
 msgid "qn_dsc_0612"
-msgstr ""
+msgstr "플레이어 랭크 139 달성"
 
 msgid "qn_dsc_0613"
-msgstr ""
+msgstr "플레이어 랭크 140 달성"
 
 msgid "qn_dsc_0614"
-msgstr ""
+msgstr "플레이어 랭크 141 달성"
 
 msgid "qn_dsc_0615"
-msgstr ""
+msgstr "플레이어 랭크 142 달성"
 
 msgid "qn_dsc_0616"
-msgstr ""
+msgstr "플레이어 랭크 143 달성"
 
 msgid "qn_dsc_0617"
-msgstr ""
+msgstr "플레이어 랭크 144 달성"
 
 msgid "qn_dsc_0618"
-msgstr ""
+msgstr "플레이어 랭크 145 달성"
 
 msgid "qn_dsc_0619"
-msgstr ""
+msgstr "플레이어 랭크 146 달성"
 
 msgid "qn_dsc_0620"
-msgstr ""
+msgstr "플레이어 랭크 147 달성"
 
 msgid "qn_dsc_0621"
-msgstr ""
+msgstr "플레이어 랭크 148 달성"
 
 msgid "qn_dsc_0622"
-msgstr ""
+msgstr "플레이어 랭크 149 달성"
 
 msgid "qn_dsc_0623"
-msgstr ""
+msgstr "플레이어 랭크 150 달성"
 
 msgid "qn_dsc_0624"
-msgstr ""
+msgstr "플레이어 랭크 151 달성"
 
 msgid "qn_dsc_0625"
-msgstr ""
+msgstr "플레이어 랭크 152 달성"
 
 msgid "qn_dsc_0626"
-msgstr ""
+msgstr "플레이어 랭크 153 달성"
 
 msgid "qn_dsc_0627"
-msgstr ""
+msgstr "플레이어 랭크 154 달성"
 
 msgid "qn_dsc_0628"
-msgstr ""
+msgstr "플레이어 랭크 155 달성"
 
 msgid "qn_dsc_0629"
-msgstr ""
+msgstr "플레이어 랭크 156 달성"
 
 msgid "qn_dsc_0630"
-msgstr ""
+msgstr "플레이어 랭크 157 달성"
 
 msgid "qn_dsc_0631"
-msgstr ""
+msgstr "플레이어 랭크 158 달성"
 
 msgid "qn_dsc_0632"
-msgstr ""
+msgstr "플레이어 랭크 159 달성"
 
 msgid "qn_dsc_0633"
-msgstr ""
+msgstr "플레이어 랭크 160 달성"
 
 msgid "qn_dsc_0634"
-msgstr ""
+msgstr "플레이어 랭크 161 달성"
 
 msgid "qn_dsc_0635"
-msgstr ""
+msgstr "플레이어 랭크 162 달성"
 
 msgid "qn_dsc_0636"
-msgstr ""
+msgstr "플레이어 랭크 163 달성"
 
 msgid "qn_dsc_0637"
-msgstr ""
+msgstr "플레이어 랭크 164 달성"
 
 msgid "qn_dsc_0638"
-msgstr ""
+msgstr "플레이어 랭크 165 달성"
 
 msgid "qn_dsc_0639"
-msgstr ""
+msgstr "플레이어 랭크 166 달성"
 
 msgid "qn_dsc_0640"
-msgstr ""
+msgstr "플레이어 랭크 167 달성"
 
 msgid "qn_dsc_0641"
-msgstr ""
+msgstr "플레이어 랭크 168 달성"
 
 msgid "qn_dsc_0642"
-msgstr ""
+msgstr "플레이어 랭크 169 달성"
 
 msgid "qn_dsc_0643"
-msgstr ""
+msgstr "플레이어 랭크 170 달성"
 
 msgid "qn_dsc_0644"
-msgstr ""
+msgstr "플레이어 랭크 171 달성"
 
 msgid "qn_dsc_0645"
-msgstr ""
+msgstr "플레이어 랭크 172 달성"
 
 msgid "qn_dsc_0646"
-msgstr ""
+msgstr "플레이어 랭크 173 달성"
 
 msgid "qn_dsc_0647"
-msgstr ""
+msgstr "플레이어 랭크 174 달성"
 
 msgid "qn_dsc_0648"
-msgstr ""
+msgstr "플레이어 랭크 175 달성"
 
 msgid "qn_dsc_0649"
-msgstr ""
+msgstr "플레이어 랭크 176 달성"
 
 msgid "qn_dsc_0650"
-msgstr ""
+msgstr "플레이어 랭크 177 달성"
 
 msgid "qn_dsc_0651"
-msgstr ""
+msgstr "플레이어 랭크 178 달성"
 
 msgid "qn_dsc_0652"
-msgstr ""
+msgstr "플레이어 랭크 179 달성"
 
 msgid "qn_dsc_0653"
-msgstr ""
+msgstr "플레이어 랭크 180 달성"
 
 msgid "qn_dsc_0654"
-msgstr ""
+msgstr "플레이어 랭크 181 달성"
 
 msgid "qn_dsc_0655"
-msgstr ""
+msgstr "플레이어 랭크 182 달성"
 
 msgid "qn_dsc_0656"
-msgstr ""
+msgstr "플레이어 랭크 183 달성"
 
 msgid "qn_dsc_0657"
-msgstr ""
+msgstr "플레이어 랭크 184 달성"
 
 msgid "qn_dsc_0658"
-msgstr ""
+msgstr "플레이어 랭크 185 달성"
 
 msgid "qn_dsc_0659"
-msgstr ""
+msgstr "플레이어 랭크 186 달성"
 
 msgid "qn_dsc_0660"
-msgstr ""
+msgstr "플레이어 랭크 187 달성"
 
 msgid "qn_dsc_0661"
-msgstr ""
+msgstr "플레이어 랭크 188 달성"
 
 msgid "qn_dsc_0662"
-msgstr ""
+msgstr "플레이어 랭크 189 달성"
 
 msgid "qn_dsc_0663"
-msgstr ""
+msgstr "플레이어 랭크 190 달성"
 
 msgid "qn_dsc_0664"
-msgstr ""
+msgstr "플레이어 랭크 191 달성"
 
 msgid "qn_dsc_0665"
-msgstr ""
+msgstr "플레이어 랭크 192 달성"
 
 msgid "qn_dsc_0666"
-msgstr ""
+msgstr "플레이어 랭크 193 달성"
 
 msgid "qn_dsc_0667"
-msgstr ""
+msgstr "플레이어 랭크 194 달성"
 
 msgid "qn_dsc_0668"
-msgstr ""
+msgstr "플레이어 랭크 195 달성"
 
 msgid "qn_dsc_0669"
-msgstr ""
+msgstr "플레이어 랭크 196 달성"
 
 msgid "qn_dsc_0670"
-msgstr ""
+msgstr "플레이어 랭크 197 달성"
 
 msgid "qn_dsc_0671"
-msgstr ""
+msgstr "플레이어 랭크 198 달성"
 
 msgid "qn_dsc_0672"
-msgstr ""
+msgstr "플레이어 랭크 199 달성"
 
 msgid "qn_dsc_0673"
-msgstr ""
+msgstr "플레이어 랭크 200 달성"
 
 msgid "qn_dsc_0674"
 msgstr ""
+"이벤트를 진행하고\n"
+"【은하의 요정】에서 다음 토크 읽기"
 
 msgid "qn_dsc_0675"
 msgstr ""
@@ -15081,9 +15568,11 @@ msgstr ""
 
 msgid "qn_dsc_0701"
 msgstr ""
+"플레이어 랭크 10을 달성하고\n"
+"시뮬레이션 라이브 해방"
 
 msgid "qn_dsc_0702"
-msgstr ""
+msgstr "시뮬레이션 라이브 플레이"
 
 msgid "qn_dsc_0703"
 msgstr ""
@@ -15940,6 +16429,8 @@ msgstr ""
 
 msgid "qn_dsc_0974"
 msgstr ""
+"플레이어 랭크 7을 달성하고\n"
+"발키리 오퍼레이션의 튜토리얼을 완료"
 
 msgid "qn_dsc_0975"
 msgstr ""
@@ -16412,7 +16903,7 @@ msgid "qn_dsc_1131"
 msgstr ""
 
 msgid "qn_dsc_1132"
-msgstr ""
+msgstr "플레이어 랭크 5를 달성하고 데코르챠 모드를 해방"
 
 msgid "qn_dsc_1133"
 msgstr ""
@@ -16454,7 +16945,7 @@ msgid "qn_dsc_1145"
 msgstr ""
 
 msgid "qn_dsc_1146"
-msgstr ""
+msgstr "플레이어 랭크 9를 달성하고 발키리 강화를 해방"
 
 msgid "qn_dsc_1147"
 msgstr ""
@@ -17261,79 +17752,79 @@ msgid "qn_dsc_1432"
 msgstr ""
 
 msgid "qn_dsc_1433"
-msgstr ""
+msgstr "플레이어 랭크 201 달성"
 
 msgid "qn_dsc_1434"
-msgstr ""
+msgstr "플레이어 랭크 202 달성"
 
 msgid "qn_dsc_1435"
-msgstr ""
+msgstr "플레이어 랭크 203 달성"
 
 msgid "qn_dsc_1436"
-msgstr ""
+msgstr "플레이어 랭크 204 달성"
 
 msgid "qn_dsc_1437"
-msgstr ""
+msgstr "플레이어 랭크 205 달성"
 
 msgid "qn_dsc_1438"
-msgstr ""
+msgstr "플레이어 랭크 206 달성"
 
 msgid "qn_dsc_1439"
-msgstr ""
+msgstr "플레이어 랭크 207 달성"
 
 msgid "qn_dsc_1440"
-msgstr ""
+msgstr "플레이어 랭크 208 달성"
 
 msgid "qn_dsc_1441"
-msgstr ""
+msgstr "플레이어 랭크 209 달성"
 
 msgid "qn_dsc_1442"
-msgstr ""
+msgstr "플레이어 랭크 210 달성"
 
 msgid "qn_dsc_1443"
-msgstr ""
+msgstr "플레이어 랭크 211 달성"
 
 msgid "qn_dsc_1444"
-msgstr ""
+msgstr "플레이어 랭크 212 달성"
 
 msgid "qn_dsc_1445"
-msgstr ""
+msgstr "플레이어 랭크 213 달성"
 
 msgid "qn_dsc_1446"
-msgstr ""
+msgstr "플레이어 랭크 214 달성"
 
 msgid "qn_dsc_1447"
-msgstr ""
+msgstr "플레이어 랭크 215 달성"
 
 msgid "qn_dsc_1448"
-msgstr ""
+msgstr "플레이어 랭크 216 달성"
 
 msgid "qn_dsc_1449"
-msgstr ""
+msgstr "플레이어 랭크 217 달성"
 
 msgid "qn_dsc_1450"
-msgstr ""
+msgstr "플레이어 랭크 218 달성"
 
 msgid "qn_dsc_1451"
-msgstr ""
+msgstr "플레이어 랭크 219 달성"
 
 msgid "qn_dsc_1452"
-msgstr ""
+msgstr "플레이어 랭크 220 달성"
 
 msgid "qn_dsc_1453"
-msgstr ""
+msgstr "플레이어 랭크 221 달성"
 
 msgid "qn_dsc_1454"
-msgstr ""
+msgstr "플레이어 랭크 222 달성"
 
 msgid "qn_dsc_1455"
-msgstr ""
+msgstr "플레이어 랭크 223 달성"
 
 msgid "qn_dsc_1456"
-msgstr ""
+msgstr "플레이어 랭크 224 달성"
 
 msgid "qn_dsc_1457"
-msgstr ""
+msgstr "플레이어 랭크 225 달성"
 
 msgid "qn_dsc_1458"
 msgstr ""
@@ -17744,7 +18235,7 @@ msgid "ep_nm_0010"
 msgstr ""
 
 msgid "ep_nm_0011"
-msgstr ""
+msgstr "It's show time!"
 
 msgid "ep_nm_0012"
 msgstr ""
@@ -17879,7 +18370,7 @@ msgid "ep_nm_0057"
 msgstr ""
 
 msgid "ep_nm_0059"
-msgstr ""
+msgstr "꿈꾸는 소녀"
 
 msgid "ep_nm_0060"
 msgstr ""
@@ -17918,7 +18409,7 @@ msgid "ep_nm_0075"
 msgstr ""
 
 msgid "ep_nm_0076"
-msgstr ""
+msgstr "인 더 록"
 
 msgid "ep_nm_0077"
 msgstr ""
@@ -18194,7 +18685,7 @@ msgid "ep_nm_0167"
 msgstr ""
 
 msgid "ep_nm_0168"
-msgstr ""
+msgstr "노래로 물들여지는 날개들"
 
 msgid "ep_nm_0177"
 msgstr ""
@@ -18242,7 +18733,7 @@ msgid "ep_nm_0191"
 msgstr ""
 
 msgid "ep_nm_0192"
-msgstr ""
+msgstr "Prison Stream"
 
 msgid "ep_nm_0193"
 msgstr ""
@@ -20054,13 +20545,13 @@ msgid "ep_dsc_0405"
 msgstr ""
 
 msgid "ep_i_nm_0001"
-msgstr ""
+msgstr "에피소드 오브(소)"
 
 msgid "ep_i_nm_0002"
-msgstr ""
+msgstr "에피소드 오브(중)"
 
 msgid "ep_i_nm_0003"
-msgstr ""
+msgstr "에피소드 오브(대)"
 
 msgid "ep_i_dsc_0001"
 msgstr ""
@@ -20081,58 +20572,58 @@ msgid "plt_nm_0003"
 msgstr "사오토메 알토"
 
 msgid "plt_nm_0004"
-msgstr ""
+msgstr "하야테 임멜만"
 
 msgid "plt_nm_0005"
-msgstr ""
+msgstr "미라쥬 F 지너스"
 
 msgid "plt_nm_0006"
-msgstr ""
+msgstr "멧서 일레펠트"
 
 msgid "plt_nm_0007"
-msgstr ""
+msgstr "아라드 묄더스"
 
 msgid "plt_nm_0008"
-msgstr ""
+msgstr "척 머스탱"
 
 msgid "plt_nm_0009"
-msgstr ""
+msgstr "미하엘 블랑"
 
 msgid "plt_nm_0010"
-msgstr ""
+msgstr "오즈마 리"
 
 msgid "plt_nm_0011"
-msgstr ""
+msgstr "브레라 스턴"
 
 msgid "plt_nm_0012"
 msgstr "밀레느 지너스"
 
 msgid "plt_nm_0013"
-msgstr ""
+msgstr "로이 포커"
 
 msgid "plt_nm_0014"
-msgstr ""
+msgstr "맥시밀리언 지너스"
 
 msgid "plt_nm_0015"
 msgstr "사오토메 알토"
 
 msgid "plt_nm_0016"
-msgstr ""
+msgstr "감린 키자키"
 
 msgid "plt_nm_0017"
-msgstr ""
+msgstr "밀리아 파리나"
 
 msgid "plt_nm_0018"
-msgstr ""
+msgstr "<size=16>키스 에어로 윈더미어</size>"
 
 msgid "plt_nm_0019"
-msgstr ""
+msgstr "로이드 브렘"
 
 msgid "plt_nm_0020"
-msgstr ""
+msgstr "보그 콘 바르트"
 
 msgid "plt_nm_0021"
-msgstr ""
+msgstr "루카 안젤로니 "
 
 msgid "plt_nm_0022"
 msgstr ""
@@ -20141,10 +20632,10 @@ msgid "plt_nm_0023"
 msgstr "이사무 다이슨"
 
 msgid "plt_nm_0024"
-msgstr ""
+msgstr "걸드 고어 보먼"
 
 msgid "plt_nm_0025"
-msgstr ""
+msgstr "미라쥬 F 지너스"
 
 msgid "plt_nm_0026"
 msgstr ""
@@ -20159,64 +20650,64 @@ msgid "plt_nm_0029"
 msgstr "이치죠 히카루"
 
 msgid "plt_nm_0030"
-msgstr ""
+msgstr "브레라 스턴"
 
 msgid "plt_nm_0031"
 msgstr "사오토메 알토"
 
 msgid "plt_nm_0032"
-msgstr ""
+msgstr "맥스&밀리아"
 
 msgid "plt_nm_0033"
 msgstr "넥키 바사라"
 
 msgid "plt_nm_0034"
-msgstr ""
+msgstr "감린 키자키"
 
 msgid "plt_nm_0035"
-msgstr ""
+msgstr "테오 유실라"
 
 msgid "plt_nm_0036"
-msgstr ""
+msgstr "자오 유실라"
 
 msgid "plt_nm_0037"
-msgstr ""
+msgstr "카심 에벨하르트"
 
 msgid "plt_nm_0038"
-msgstr ""
+msgstr "헤르만 크로스"
 
 msgid "plt_nm_0039"
-msgstr ""
+msgstr "하야테 임멜만"
 
 msgid "vc_0001"
-msgstr ""
+msgstr "가정석"
 
 msgid "vc_0002"
-msgstr ""
+msgstr "데카르 가챠 티켓"
 
 msgid "vc_0003"
-msgstr ""
+msgstr "유니온 크레짓"
 
 msgid "vc_0004"
 msgstr ""
 
 msgid "vc_0005"
-msgstr ""
+msgstr "배경"
 
 msgid "vc_0006"
-msgstr ""
+msgstr "캐릭터"
 
 msgid "vc_0007"
 msgstr ""
 
 msgid "vc_0008"
-msgstr ""
+msgstr "스탬프"
 
 msgid "vc_0009"
-msgstr ""
+msgstr "발키리 피규어"
 
 msgid "vc_0010"
-msgstr ""
+msgstr "의상 토르소"
 
 msgid "vc_dsc_0001"
 msgstr ""
@@ -20249,52 +20740,52 @@ msgid "vc_dsc_0010"
 msgstr ""
 
 msgid "vc_uni_0000"
-msgstr ""
+msgstr "개"
 
 msgid "vc_uni_0001"
-msgstr ""
+msgstr "개"
 
 msgid "vc_uni_0002"
-msgstr ""
+msgstr "장"
 
 msgid "vc_uni_0003"
-msgstr ""
+msgstr "UC"
 
 msgid "vc_uni_0004"
-msgstr ""
+msgstr "일분"
 
 msgid "vc_uni_0005"
-msgstr ""
+msgstr "세트"
 
 msgid "vc_uni_0006"
-msgstr ""
+msgstr "체"
 
 msgid "vc_uni_0007"
-msgstr ""
+msgstr "개"
 
 msgid "vc_uni_0008"
-msgstr ""
+msgstr "개"
 
 msgid "vc_uni_0009"
-msgstr ""
+msgstr "개"
 
 msgid "vc_uni_0010"
-msgstr ""
+msgstr "체"
 
 msgid "df_00"
-msgstr ""
+msgstr "EASY"
 
 msgid "df_01"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "df_02"
-msgstr ""
+msgstr "HARD"
 
 msgid "df_03"
-msgstr ""
+msgstr "VERY HARD"
 
 msgid "df_04"
-msgstr ""
+msgstr "EXTREAM"
 
 msgid "rn_0000"
 msgstr "미정의"
@@ -20303,7 +20794,7 @@ msgid "rn_0001"
 msgstr "SNS 연락방"
 
 msgid "rn_0002"
-msgstr "다함께 수다방"
+msgstr "다함께 잡담방"
 
 msgid "rn_0003"
 msgstr "축☆기념일 방"
@@ -20312,16 +20803,16 @@ msgid "rn_0004"
 msgstr "프레이아의 방"
 
 msgid "rn_0005"
-msgstr ""
+msgstr "미쿠모의 방"
 
 msgid "rn_0006"
-msgstr ""
+msgstr "카나메의 방"
 
 msgid "rn_0007"
-msgstr ""
+msgstr "마키나의 방"
 
 msgid "rn_0008"
-msgstr ""
+msgstr "레이나의 방"
 
 msgid "rn_0009"
 msgstr "란카의 방"
@@ -21683,499 +22174,499 @@ msgid "rat_name_0165"
 msgstr ""
 
 msgid "rat_short_name_0001"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0002"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0003"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0004"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0005"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0006"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0007"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0008"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0009"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0010"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0011"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0012"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0013"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0014"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0015"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0016"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0017"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0018"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0019"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0020"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0021"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0022"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0023"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0024"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0025"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0026"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0027"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0028"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0029"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0030"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0031"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0032"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0033"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0034"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0035"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0036"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0037"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0038"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0039"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0040"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0041"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0042"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0043"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0044"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0045"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0046"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0047"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0048"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0049"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0050"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0051"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0052"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0053"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0054"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0055"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0056"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0057"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0058"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0059"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0060"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0061"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0062"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0063"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0064"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0065"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0066"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0067"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0068"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0069"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0070"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0071"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0072"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0073"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0074"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0075"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0076"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0077"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0078"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0079"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0080"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0081"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0082"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0083"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0084"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0085"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0086"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0087"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0088"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0089"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0090"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0091"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0092"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0093"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0094"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0095"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0096"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0097"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0098"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0099"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0100"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0101"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0102"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0103"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0104"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0105"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0106"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0107"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0108"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0109"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0110"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0111"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0112"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0113"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0114"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0115"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0116"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0117"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0118"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0119"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0120"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0121"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0122"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0123"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0124"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0125"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0126"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0127"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0128"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0129"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0130"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0131"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0132"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0133"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0134"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0135"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0136"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0137"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0138"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0139"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0140"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0141"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0142"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0143"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0144"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0145"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0146"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0147"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0148"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0149"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0150"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0151"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0152"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0153"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0154"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0155"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0156"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0157"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0158"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0159"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0160"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0161"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0162"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0163"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0164"
-msgstr ""
+msgstr "NONE"
 
 msgid "rat_short_name_0165"
-msgstr ""
+msgstr "NONE"
 
 msgid "egt_nm_0001"
 msgstr ""
@@ -22226,16 +22717,16 @@ msgid "itp_nm_0002"
 msgstr ""
 
 msgid "itp_nm_0003"
-msgstr ""
+msgstr "아로마 굿즈"
 
 msgid "itp_nm_0006"
-msgstr ""
+msgstr "작은 과자"
 
 msgid "itp_nm_0007"
-msgstr ""
+msgstr "큰 과자"
 
 msgid "itp_nm_0008"
-msgstr ""
+msgstr "윈더미어 사과"
 
 msgid "itp_nm_0009"
 msgstr ""
@@ -22244,37 +22735,37 @@ msgid "itp_nm_0010"
 msgstr ""
 
 msgid "itp_nm_0011"
-msgstr ""
+msgstr "핫도그"
 
 msgid "itp_nm_0012"
-msgstr ""
+msgstr "피자"
 
 msgid "itp_nm_0013"
 msgstr ""
 
 msgid "itp_nm_0014"
-msgstr ""
+msgstr "냥냥 라멘"
 
 msgid "itp_nm_0015"
-msgstr ""
+msgstr "아이디어 노트"
 
 msgid "itp_nm_0016"
 msgstr ""
 
 msgid "itp_nm_0017"
-msgstr ""
+msgstr "발키리 피규어"
 
 msgid "itp_nm_0018"
 msgstr ""
 
 msgid "itp_nm_0020"
-msgstr ""
+msgstr "발렌타인데이 기프트"
 
 msgid "itp_nm_0021"
-msgstr ""
+msgstr "화이트데이 기프트"
 
 msgid "itp_nm_0022"
-msgstr ""
+msgstr "프리미엄 기프트"
 
 msgid "itp_dsc_0001"
 msgstr ""
@@ -22484,10 +22975,10 @@ msgid "spitm_nm_0001"
 msgstr ""
 
 msgid "spitm_nm_0002"
-msgstr ""
+msgstr "고속 프로그램"
 
 msgid "spitm_nm_0003"
-msgstr ""
+msgstr "라이브 에텔"
 
 msgid "spitm_nm_0004"
 msgstr ""
@@ -22496,13 +22987,13 @@ msgid "spitm_nm_0005"
 msgstr ""
 
 msgid "spitm_nm_0006"
-msgstr ""
+msgstr "캡틴 메달리온"
 
 msgid "spitm_nm_0007"
-msgstr ""
+msgstr "초은하 메달"
 
 msgid "spitm_nm_0008"
-msgstr ""
+msgstr "데코 포인트"
 
 msgid "spitm_nm_0009"
 msgstr ""
@@ -22517,16 +23008,16 @@ msgid "spitm_nm_0012"
 msgstr ""
 
 msgid "spitm_nm_0013"
-msgstr ""
+msgstr "라이브 스킵 티켓"
 
 msgid "spitm_nm_0014"
-msgstr ""
+msgstr "극장판 티켓 추첨권"
 
 msgid "spitm_nm_0015"
-msgstr ""
+msgstr "에피소드 플레이트 교환권"
 
 msgid "spitm_nm_0016"
-msgstr ""
+msgstr "의상 해방 플레이트 교환권"
 
 msgid "spitm_dsc_0001"
 msgstr ""
@@ -22577,22 +23068,22 @@ msgid "spitm_dsc_0016"
 msgstr ""
 
 msgid "spitm_qt_0007"
-msgstr ""
+msgstr "장"
 
 msgid "spitm_qt_0008"
-msgstr ""
+msgstr "DP"
 
 msgid "spitm_qt_0013"
-msgstr ""
+msgstr "장"
 
 msgid "spitm_qt_0014"
-msgstr ""
+msgstr "장"
 
 msgid "spitm_qt_0015"
-msgstr ""
+msgstr "장"
 
 msgid "spitm_qt_0016"
-msgstr ""
+msgstr "장"
 
 msgid "btla_cls_0001"
 msgstr ""
@@ -22883,325 +23374,325 @@ msgid "rd_i_dsc_0003"
 msgstr ""
 
 msgid "adv_nm_0077"
-msgstr ""
+msgstr "제1화"
 
 msgid "adv_nm_0078"
-msgstr ""
+msgstr "제2화"
 
 msgid "adv_nm_0079"
-msgstr ""
+msgstr "제3화"
 
 msgid "adv_nm_0080"
-msgstr ""
+msgstr "제4화"
 
 msgid "adv_nm_0081"
-msgstr ""
+msgstr "제5화"
 
 msgid "adv_nm_0082"
-msgstr ""
+msgstr "제6화"
 
 msgid "adv_nm_0083"
-msgstr ""
+msgstr "제7화"
 
 msgid "adv_nm_0088"
-msgstr ""
+msgstr "오프닝 (VOP)"
 
 msgid "adv_nm_0109"
-msgstr ""
+msgstr "오프닝 (발키리 강화)"
 
 msgid "adv_nm_0110"
-msgstr ""
+msgstr "오프닝 (데코르챠 모드)"
 
 msgid "adv_nm_0111"
-msgstr ""
+msgstr "오프닝 (초은하 총력 LIVE)"
 
 msgid "adv_nm_0172"
-msgstr ""
+msgstr "오프닝 (신규 레어리티 플레이트)"
 
 msgid "adv_nm_0173"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0174"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0175"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0178"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0185"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0186"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0187"
-msgstr ""
+msgstr "오프닝 (만우절)"
 
 msgid "adv_nm_0192"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0193"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0198"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0199"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0204"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0205"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0210"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0211"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0212"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0213"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0216"
-msgstr ""
+msgstr "오프닝 (가희 이벤트)"
 
 msgid "adv_nm_0219"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0220"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0225"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0226"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0227"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0228"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0233"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0234"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0239"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0240"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0245"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0246"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0247"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0248"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0253"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0254"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0259"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0260"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0261"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0262"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0267"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0268"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0269"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0270"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0275"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0276"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0277"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0278"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0283"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0284"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0285"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0286"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0287"
-msgstr ""
+msgstr "오프닝 (만우절)"
 
 msgid "adv_nm_0292"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0293"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0298"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0299"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0304"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0305"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0306"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0307"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0312"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0313"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0314"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0315"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0320"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0321"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0322"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0323"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0328"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0329"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0330"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0331"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0336"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0337"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0338"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0339"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0344"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0345"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0346"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0347"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0352"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0353"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0354"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0355"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0360"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0361"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0362"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0363"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0368"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0369"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0370"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0371"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0376"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0377"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0378"
-msgstr ""
+msgstr "풀보이스 스토리 1"
 
 msgid "adv_nm_0379"
-msgstr ""
+msgstr "풀보이스 스토리 2"
 
 msgid "adv_nm_0380"
 msgstr ""
@@ -23546,22 +24037,22 @@ msgid "oda_nm_0111"
 msgstr ""
 
 msgid "oda_nm_0112"
-msgstr ""
+msgstr "데카르챠 오퍼레이션"
 
 msgid "oda_nm_0113"
-msgstr ""
+msgstr "데카르챠 오퍼레이션"
 
 msgid "oda_nm_0114"
-msgstr ""
+msgstr "데카르챠 오퍼레이션"
 
 msgid "oda_nm_0115"
-msgstr ""
+msgstr "데카르챠 오퍼레이션"
 
 msgid "oda_nm_0116"
-msgstr ""
+msgstr "데카르챠 오퍼레이션"
 
 msgid "oda_nm_0117"
-msgstr ""
+msgstr "데카르챠 오퍼레이션"
 
 msgid "oda_nm_0118"
 msgstr ""
@@ -23654,955 +24145,955 @@ msgid "oda_nm_0147"
 msgstr ""
 
 msgid "oda_nm_0152"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0153"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0154"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0155"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0156"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0157"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0158"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0159"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0160"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0161"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0162"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0163"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0164"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0165"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0166"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0167"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0168"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0169"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0170"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0171"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0172"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0173"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0174"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0175"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0176"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0177"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0178"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0179"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0180"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0181"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0182"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0183"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0184"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0185"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0186"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0187"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0188"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0189"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0190"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0191"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0192"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0193"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0194"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0195"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0196"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0197"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0198"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0199"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0200"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0201"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0202"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0203"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0204"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0205"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0206"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0207"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0208"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0209"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0210"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0211"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0212"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0213"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0214"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0215"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0216"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0217"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0218"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0219"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0220"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0221"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0222"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0223"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0224"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0225"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0226"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0227"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0228"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0229"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0230"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0231"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0232"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0233"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0234"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0235"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0236"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0237"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0238"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0239"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0240"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0241"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0242"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0243"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0244"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0245"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0246"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0247"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0248"
-msgstr ""
+msgstr "스페셜 오퍼레이션"
 
 msgid "oda_nm_0249"
-msgstr ""
+msgstr "스페셜 오퍼레이션"
 
 msgid "oda_nm_0250"
-msgstr ""
+msgstr "스페셜 오퍼레이션"
 
 msgid "oda_nm_0251"
-msgstr ""
+msgstr "스페셜 오퍼레이션"
 
 msgid "oda_nm_0252"
-msgstr ""
+msgstr "스페셜 오퍼레이션"
 
 msgid "oda_nm_0253"
-msgstr ""
+msgstr "스페셜 오퍼레이션"
 
 msgid "oda_nm_0254"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0255"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0256"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0257"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0258"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0259"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0260"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0261"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0262"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0263"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0264"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0265"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0266"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0267"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0268"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0269"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0270"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0271"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0272"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0273"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0274"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0275"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0276"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0277"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0278"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0279"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0280"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0281"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0282"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0283"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0284"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0285"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0286"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0287"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0288"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0289"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0290"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0291"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0292"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0293"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0294"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0295"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0296"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0297"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0298"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0299"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0300"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0301"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0302"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0303"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0304"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0305"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0306"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0307"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0308"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0309"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0310"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0311"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0312"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0313"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0314"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0315"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0316"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0317"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0318"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0319"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0320"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0321"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0322"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0323"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0324"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0325"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0326"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0327"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0328"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0329"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0330"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0331"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0332"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0333"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0334"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0335"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0336"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0337"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0338"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0339"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0340"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0341"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0342"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0343"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0344"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0345"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0346"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0347"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0348"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0349"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0350"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0351"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0352"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0353"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0354"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0355"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0356"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0357"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0358"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0359"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0360"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0361"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0362"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0363"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0364"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0365"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0366"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0367"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0368"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0369"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0370"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0371"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0372"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0373"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0374"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0375"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0376"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0377"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0378"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0379"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0380"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0381"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0382"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0383"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0384"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0385"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0386"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0387"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0388"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0389"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0390"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0391"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0392"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0393"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0394"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0395"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0396"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0397"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0398"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0399"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0400"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0401"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0402"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0403"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0404"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0405"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0406"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0407"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0408"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0409"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0410"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0411"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0412"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0413"
-msgstr ""
+msgstr "초은하 오퍼레이션"
 
 msgid "oda_nm_0414"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0415"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0416"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0417"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0418"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0419"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0420"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0421"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0422"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0423"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0424"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0425"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0426"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0427"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0428"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0429"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0430"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0431"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0432"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0433"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0434"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0435"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0436"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0437"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0438"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0439"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0440"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0441"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0442"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0443"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0444"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0445"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0446"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0447"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0448"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0449"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0450"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0451"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0452"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0453"
-msgstr ""
+msgstr "초은하 오퍼레이션7"
 
 msgid "oda_nm_0454"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0455"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0456"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0457"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0458"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0459"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0460"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0461"
-msgstr ""
+msgstr "초은하 오퍼레이션F"
 
 msgid "oda_nm_0462"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0463"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0464"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0465"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0466"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0467"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "oda_nm_0468"
-msgstr ""
+msgstr "초은하 오퍼레이션Δ"
 
 msgid "owk_nm_0001"
 msgstr ""
@@ -28220,10 +28711,10 @@ msgid "dc_itm_nm_0006_sp"
 msgstr ""
 
 msgid "dc_itm_nm_0007_sp"
-msgstr ""
+msgstr "마키나(아이스 플라워)"
 
 msgid "dc_itm_nm_0008_sp"
-msgstr ""
+msgstr "레이나(아이스 플라워)"
 
 msgid "dc_itm_nm_0009_sp"
 msgstr ""
@@ -28337,7 +28828,7 @@ msgid "dc_itm_nm_0045_sp"
 msgstr ""
 
 msgid "dc_itm_nm_0046_sp"
-msgstr ""
+msgstr "바사라 (크로스오버 비트)"
 
 msgid "dc_itm_nm_0047_sp"
 msgstr ""
@@ -28371,9 +28862,13 @@ msgstr ""
 
 msgid "dc_itm_dsc_0007_sp"
 msgstr ""
+"아이스 플라워 의상을 입은\n"
+"마키나의 커다란 마스코트 인형"
 
 msgid "dc_itm_dsc_0008_sp"
 msgstr ""
+"아이스 플라워 의상을 입은\n"
+"레이나의 커다란 마스코트 인형"
 
 msgid "dc_itm_dsc_0009_sp"
 msgstr ""
@@ -28485,6 +28980,8 @@ msgstr ""
 
 msgid "dc_itm_dsc_0046_sp"
 msgstr ""
+"크로스오버 비트 의상을 입은\n"
+"바사라의 커다란 마스코트 인형"
 
 msgid "dc_itm_dsc_0047_sp"
 msgstr ""
@@ -29639,160 +30136,160 @@ msgid "dc_set_nm_0052"
 msgstr ""
 
 msgid "dc_set_dsc_0002"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0003"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0004"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0005"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0006"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0007"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0008"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0009"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0010"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0012"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0013"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0014"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0015"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0016"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0017"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0018"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0019"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0020"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0021"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0022"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0023"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0024"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0025"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0026"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0027"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0028"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0029"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0030"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0031"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0032"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0033"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0034"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0035"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0036"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0037"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0038"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0039"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0040"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0041"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0042"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0043"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0044"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0045"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0046"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0047"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0048"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0049"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0050"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0051"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "dc_set_dsc_0052"
-msgstr ""
+msgstr "데코룸의 벽과 바닥의 배경입니다"
 
 msgid "sk_nm_0001"
-msgstr ""
+msgstr "라이브 스킵 티켓"
 
 msgid "sk_nm_0002"
-msgstr ""
+msgstr "기간 한정 라이브 스킵 티켓"
 
 msgid "sk_dsc_0001"
 msgstr ""
@@ -29801,10 +30298,10 @@ msgid "sk_dsc_0002"
 msgstr ""
 
 msgid "sk_qt_0001"
-msgstr ""
+msgstr "장"
 
 msgid "sk_qt_0002"
-msgstr ""
+msgstr "장"
 
 msgid "gc_lm_nm_0001"
 msgstr ""
@@ -29897,37 +30394,37 @@ msgid "vc_gt_dsc_0209"
 msgstr ""
 
 msgid "vc_gt_uni_0101"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0201"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0202"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0203"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0204"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0205"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0206"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0207"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0208"
-msgstr ""
+msgstr "장"
 
 msgid "vc_gt_uni_0209"
-msgstr ""
+msgstr "장"
 
 msgid "hm_bg_nm_0003"
-msgstr ""
+msgstr "도쿄 스카이트리 콜라보"
 
 msgid "hm_bg_nm_0004"
 msgstr ""
@@ -29936,34 +30433,34 @@ msgid "hm_bg_nm_0005"
 msgstr ""
 
 msgid "hm_bg_nm_0006"
-msgstr ""
+msgstr "2018-2019 연말연시 냥냥제"
 
 msgid "hm_bg_nm_0007"
-msgstr ""
+msgstr "냥냥제"
 
 msgid "hm_bg_nm_0008"
-msgstr ""
+msgstr "2019-2020 연말연시 냥냥제"
 
 msgid "hm_bg_nm_0009"
-msgstr ""
+msgstr "3주년 냥냥제"
 
 msgid "hm_bg_nm_0010"
-msgstr ""
+msgstr "2020-2021 연말연시 냥냥제"
 
 msgid "hm_bg_nm_0011"
 msgstr ""
 
 msgid "hm_bg_nm_0012"
-msgstr ""
+msgstr "그리피스 파크"
 
 msgid "hm_bg_nm_0013"
-msgstr ""
+msgstr "악쇼의 아파트"
 
 msgid "hm_bg_nm_0014"
-msgstr ""
+msgstr "중화요리점 냥냥"
 
 msgid "hm_bg_nm_0015"
-msgstr ""
+msgstr "4주년 냥냥제"
 
 msgid "hm_bg_nm_0016"
 msgstr "왈큐레 라이브"
