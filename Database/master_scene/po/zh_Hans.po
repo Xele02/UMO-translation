@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-15 17:55+0000\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -1467,397 +1467,397 @@ msgid "sn_0532"
 msgstr "踏雪而来的倩影"
 
 msgid "sn_0533"
-msgstr "如此充实的假期"
+msgstr "充实的假期"
 
 msgid "sn_0534"
-msgstr ""
+msgstr "虽然以前也有被约出来过…"
 
 msgid "sn_0535"
-msgstr ""
+msgstr "因为好奇才来参加的"
 
 msgid "sn_0536"
-msgstr ""
+msgstr "眼泪背后的深意"
 
 msgid "sn_0537"
-msgstr ""
+msgstr "毫无防备的睡颜"
 
 msgid "sn_0538"
-msgstr ""
+msgstr "歌声将苦难吹散"
 
 msgid "sn_0539"
-msgstr ""
+msgstr "拉响礼炮"
 
 msgid "sn_0540"
-msgstr ""
+msgstr "寻找生日礼物"
 
 msgid "sn_0541"
-msgstr ""
+msgstr "触动心弦的时刻"
 
 msgid "sn_0543"
-msgstr ""
+msgstr "灯火通明的城市"
 
 msgid "sn_0544"
-msgstr ""
+msgstr "栏杆要坏掉了"
 
 msgid "sn_0545"
-msgstr ""
+msgstr "一点都不可喜可贺…"
 
 msgid "sn_0546"
-msgstr ""
+msgstr "要是我能活着回来"
 
 msgid "sn_0547"
-msgstr ""
+msgstr "别这样哭丧着脸"
 
 msgid "sn_0548"
-msgstr ""
+msgstr "只有你可以唱这样的歌"
 
 msgid "sn_0549"
-msgstr ""
+msgstr "观星者行动"
 
 msgid "sn_0550"
-msgstr ""
+msgstr "孤独的练习"
 
 msgid "sn_0551"
-msgstr ""
+msgstr "亲手做的邀请函"
 
 msgid "sn_0552"
-msgstr ""
+msgstr "临行前的演出"
 
 msgid "sn_0553"
-msgstr ""
+msgstr "年轻时的父母"
 
 msgid "sn_0554"
-msgstr ""
+msgstr "米莉亚 VF-1J"
 
 msgid "sn_0555"
-msgstr ""
+msgstr "我一定要去！"
 
 msgid "sn_0556"
-msgstr ""
+msgstr "不能没有他们"
 
 msgid "sn_0559"
-msgstr ""
+msgstr "重返战场的王牌"
 
 msgid "sn_0560"
-msgstr ""
+msgstr "勇敢的心"
 
 msgid "sn_0565"
-msgstr ""
+msgstr "Happy Valentine's Day"
 
 msgid "sn_0566"
-msgstr ""
+msgstr "知道今天是什么日子吗？"
 
 msgid "sn_0567"
-msgstr ""
+msgstr "新鲜出炉的菠萝曲奇"
 
 msgid "sn_0568"
-msgstr ""
+msgstr "有话想对你说"
 
 msgid "sn_0569"
-msgstr ""
+msgstr "小鹿乱撞少女心"
 
 msgid "sn_0570"
-msgstr ""
+msgstr "含糊其辞的芙蕾雅"
 
 msgid "sn_0571"
-msgstr ""
+msgstr "要调查就要直接接触！"
 
 msgid "sn_0572"
-msgstr ""
+msgstr "Makimaki福利大放送"
 
 msgid "sn_0573"
-msgstr ""
+msgstr "观察Walküre"
 
 msgid "sn_0574"
-msgstr ""
+msgstr "Aether号，出动！"
 
 msgid "sn_0575"
-msgstr ""
+msgstr "种类繁多的眼镜"
 
 msgid "sn_0576"
-msgstr ""
+msgstr "扩充战力"
 
 msgid "sn_0577"
-msgstr ""
+msgstr "Bitter & Sweet"
 
 msgid "sn_0579"
-msgstr ""
+msgstr "要吃巧克力吗？"
 
 msgid "sn_0580"
-msgstr ""
+msgstr "我可没有在等你哦！"
 
 msgid "sn_0581"
-msgstr ""
+msgstr "刺激的早晨"
 
 msgid "sn_0582"
-msgstr ""
+msgstr "女神的卧姿"
 
 msgid "sn_0583"
-msgstr ""
+msgstr "突如其来的慰问"
 
 msgid "sn_0584"
-msgstr ""
+msgstr "真相大白"
 
 msgid "sn_0585"
-msgstr ""
+msgstr "拉拉扎巴尔上尉"
 
 msgid "sn_0586"
-msgstr ""
+msgstr "若有所思的背影"
 
 msgid "sn_0587"
-msgstr ""
+msgstr "莱特·因梅尔曼"
 
 msgid "sn_0588"
-msgstr ""
+msgstr "让风之歌响彻银河"
 
 msgid "sn_0589"
-msgstr ""
+msgstr "妖精的魅惑"
 
 msgid "sn_0590"
-msgstr ""
+msgstr "你怎么会唱Aimo？"
 
 msgid "sn_0591"
-msgstr ""
+msgstr "击中你的心"
 
 msgid "sn_0592"
-msgstr ""
+msgstr "三角爱恋"
 
 msgid "sn_0593"
-msgstr ""
+msgstr "太卑鄙了！"
 
 msgid "sn_0594"
-msgstr ""
+msgstr "妖精的一拳"
 
 msgid "sn_0595"
-msgstr ""
+msgstr "烦恼的兰卡"
 
 msgid "sn_0596"
-msgstr ""
+msgstr "少做那不切实际的梦了！"
 
 msgid "sn_0597"
-msgstr ""
+msgstr "S.M.S的欢迎仪式"
 
 msgid "sn_0598"
-msgstr ""
+msgstr "诡局之影"
 
 msgid "sn_0599"
-msgstr ""
+msgstr "平静的湖畔"
 
 msgid "sn_0600"
-msgstr ""
+msgstr "瓦鸠拉的秘密"
 
 msgid "sn_0601"
-msgstr ""
+msgstr "永不止步 蕾娜"
 
 msgid "sn_0603"
-msgstr ""
+msgstr "我们是Walküre"
 
 msgid "sn_0604"
-msgstr ""
+msgstr "回答我，美云！"
 
 msgid "sn_0605"
-msgstr ""
+msgstr "歌声起效之日"
 
 msgid "sn_0606"
-msgstr ""
+msgstr "就穿这个上场了！"
 
 msgid "sn_0607"
-msgstr ""
+msgstr "与梅萨的初遇"
 
 msgid "sn_0608"
-msgstr ""
+msgstr "直击心灵的歌声"
 
 msgid "sn_0609"
-msgstr ""
+msgstr "战机与歌姬"
 
 msgid "sn_0610"
-msgstr ""
+msgstr "刀光一闪"
 
 msgid "sn_0611"
-msgstr ""
+msgstr "组建特别小队"
 
 msgid "sn_0612"
-msgstr ""
+msgstr "星之歌者"
 
 msgid "sn_0613"
-msgstr ""
+msgstr "出乎意料的人是谁？"
 
 msgid "sn_0615"
-msgstr ""
+msgstr "命运的相遇"
 
 msgid "sn_0616"
-msgstr ""
+msgstr "只因没有注意脚下"
 
 msgid "sn_0617"
-msgstr ""
+msgstr "因为我年纪最小"
 
 msgid "sn_0618"
-msgstr ""
+msgstr "英勇的Voldor战士们"
 
 msgid "sn_0619"
-msgstr ""
+msgstr "命运的指引"
 
 msgid "sn_0620"
-msgstr ""
+msgstr "唤醒心灵的呼喊"
 
 msgid "sn_0621"
-msgstr ""
+msgstr "心中的空缺"
 
 msgid "sn_0622"
-msgstr ""
+msgstr "主唱换代之日"
 
 msgid "sn_0623"
-msgstr ""
+msgstr "错乱的狂风"
 
 msgid "sn_0624"
-msgstr ""
+msgstr "Elysion出击"
 
 msgid "sn_0625"
-msgstr ""
+msgstr "永不止步 芙蕾雅"
 
 msgid "sn_0626"
-msgstr ""
+msgstr "直至燃尽生命"
 
 msgid "sn_0627"
-msgstr ""
+msgstr "严苛的训练"
 
 msgid "sn_0628"
-msgstr ""
+msgstr "关键时刻才显身手"
 
 msgid "sn_0629"
-msgstr ""
+msgstr "相信自己的歌声吧"
 
 msgid "sn_0630"
-msgstr ""
+msgstr "交叉骨战术队形"
 
 msgid "sn_0631"
-msgstr ""
+msgstr "绝招，水母出嫁！"
 
 msgid "sn_0632"
-msgstr ""
+msgstr "拼上性命的呼唤"
 
 msgid "sn_0633"
-msgstr ""
+msgstr "光芒熄灭之刻"
 
 msgid "sn_0634"
-msgstr ""
+msgstr "坠落的翅膀"
 
 msgid "sn_0635"
-msgstr ""
+msgstr "追击"
 
 msgid "sn_0636"
-msgstr ""
+msgstr "真正的风"
 
 msgid "sn_0637"
-msgstr ""
+msgstr "高贵而美丽的白骑士"
 
 msgid "sn_0638"
-msgstr ""
+msgstr "基斯·耶罗·温德米尔"
 
 msgid "sn_0639"
-msgstr ""
+msgstr "骑士团的传统"
 
 msgid "sn_0640"
-msgstr ""
+msgstr "歌者的宿命"
 
 msgid "sn_0641"
-msgstr ""
+msgstr "伟大的进化"
 
 msgid "sn_0644"
-msgstr ""
+msgstr "骑士之剑"
 
 msgid "sn_0649"
-msgstr ""
+msgstr "打开心门的钥匙"
 
 msgid "sn_0651"
-msgstr ""
+msgstr "妖精兰卡"
 
 msgid "sn_0652"
-msgstr ""
+msgstr "送你可爱熊熊"
 
 msgid "sn_0653"
-msgstr ""
+msgstr "数量也太多了…！"
 
 msgid "sn_0654"
-msgstr ""
+msgstr "我可是飞行员啊！"
 
 msgid "sn_0655"
-msgstr ""
+msgstr "拍拍手施展魔法"
 
 msgid "sn_0656"
-msgstr ""
+msgstr "分身兰卡"
 
 msgid "sn_0657"
-msgstr ""
+msgstr "新型瓦鸠拉的威胁"
 
 msgid "sn_0658"
-msgstr ""
+msgstr "击穿要塞"
 
 msgid "sn_0659"
-msgstr ""
+msgstr "严阵以待"
 
 msgid "sn_0660"
-msgstr ""
+msgstr "雨点般的反应弹"
 
 msgid "sn_0661"
-msgstr ""
+msgstr "比…！比赛？！"
 
 msgid "sn_0662"
-msgstr ""
+msgstr "请唱歌吧，要小姐"
 
 msgid "sn_0663"
-msgstr ""
+msgstr "感受这似火的热情吧！"
 
 msgid "sn_0664"
-msgstr ""
+msgstr "你这是什么态度！"
 
 msgid "sn_0665"
-msgstr ""
+msgstr "三人的新年参拜"
 
 msgid "sn_0666"
-msgstr ""
+msgstr "师徒二人"
 
 msgid "sn_0667"
-msgstr ""
+msgstr "对战场一无所知"
 
 msgid "sn_0668"
-msgstr ""
+msgstr "市长现在正在休息"
 
 msgid "sn_0669"
-msgstr ""
+msgstr "废墟上飘落的雪"
 
 msgid "sn_0670"
-msgstr ""
+msgstr "逛服装店的女船员们"
 
 msgid "sn_0671"
-msgstr ""
+msgstr "喜欢我的礼物吗？"
 
 msgid "sn_0672"
-msgstr ""
+msgstr "白衣天使 Makimaki"
 
 msgid "sn_0673"
-msgstr ""
+msgstr "朝思暮想的偶像"
 
 msgid "sn_0674"
-msgstr ""
+msgstr "别管了，就这样飞吧！"
 
 msgid "sn_0675"
-msgstr ""
+msgstr "抓稳了！"
 
 msgid "sn_0676"
-msgstr ""
+msgstr "两位歌姬的共鸣"
 
 msgid "sn_0677"
-msgstr ""
+msgstr "冷静点听我说！"
 
 msgid "sn_0678"
-msgstr ""
+msgstr "针锋相对的歌声"
 
 msgid "sn_0679"
-msgstr ""
+msgstr "紧张刺激！娃娃机大作战"
 
 msgid "sn_0680"
-msgstr ""
+msgstr "自然洋溢的笑容"
 
 msgid "sn_0681"
 msgstr ""
