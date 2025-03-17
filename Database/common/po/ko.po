@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-02-16 12:07+0000\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "common/ko/>\n"
@@ -197,286 +197,328 @@ msgid "saka_error0055"
 msgstr ""
 
 msgid "saka_error0056"
-msgstr ""
+msgstr "권한이 없습니다."
 
 msgid "saka_error0057"
-msgstr ""
+msgstr "더 이상 게시할 수 없습니다."
 
 msgid "saka_error0058"
-msgstr ""
+msgstr "현재 점검 중입니다."
 
 msgid "saka_error0059"
 msgstr ""
+"현재 이 계정으로는\n"
+"로그인할 수 없습니다.\n"
+"이유를 알 수 없는 경우\n"
+"문의 부탁드립니다."
 
 msgid "saka_error0060"
-msgstr ""
+msgstr "현재 이 계정으로는 사용할 수 없습니다."
 
 msgid "saka_error0061"
-msgstr ""
+msgstr "받을 수 있는 랭킹 보상이 없습니다."
 
 msgid "saka_error0062"
-msgstr ""
+msgstr "더 이상 이용할 수 없습니다."
 
 msgid "saka_error0063"
-msgstr ""
+msgstr "구입할 수 없습니다."
 
 msgid "saka_error0064"
-msgstr ""
+msgstr "구매가 정지된 상태입니다."
 
 msgid "saka_error0065"
-msgstr ""
+msgstr "생일을 등록해 주세요."
 
 msgid "saka_error0066"
-msgstr ""
+msgstr "길드에 속하지 않음"
 
 msgid "saka_error0067"
-msgstr ""
+msgstr "지정된 ID의 길드가 존재하지 않음"
 
 msgid "saka_error0068"
-msgstr ""
+msgstr "길드원이 상한에 도달했습니다."
 
 msgid "saka_error0069"
-msgstr ""
+msgstr "이용할 수 없습니다."
 
 msgid "saka_error0070"
-msgstr ""
+msgstr "서비스 대상 외 지역에서 액세스를 하였으므로 이용하실 수 없습니다."
 
 msgid "saka_error0071"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0072"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0073"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0074"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0075"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0076"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0077"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0078"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0079"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0080"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0081"
-msgstr ""
+msgstr "에러가 발생했습니다."
 
 msgid "saka_error0082"
-msgstr ""
+msgstr "더 이상 스텝 업 가챠를 할 수 없습니다."
 
 msgid "saka_error0083"
-msgstr ""
+msgstr "X 연동 절차에 실패했습니다."
 
 msgid "saka_error0084"
-msgstr ""
+msgstr "X 연동이 불가능합니다."
 
 msgid "saka_error0085"
-msgstr ""
+msgstr "LINE 연동이 불가능합니다."
 
 msgid "saka_error0086"
-msgstr ""
+msgstr "LINE 연동 절차에 실패했습니다."
 
 msgid "saka_error0087"
-msgstr ""
+msgstr "LINE 연동 절차에 실패했습니다."
 
 msgid "saka_error0088"
-msgstr ""
+msgstr "이벤트 랭킹 BAN(임시)"
 
 msgid "saka_error0089"
 msgstr ""
+"게스트 플레이어가 없거나 종료 플래그가 설정되지 않은 레이드 보스가 존재하기 "
+"때문에 다음 멀티 배틀을 시작할 수 없는 상태입니다."
 
 msgid "saka_error0090"
-msgstr ""
+msgstr "%s은(는) 이미 조우했습니다."
 
 msgid "saka_error0091"
-msgstr ""
+msgstr "%s와 조우할 수 없었습니다."
 
 msgid "saka_error0092"
-msgstr ""
+msgstr "%s과 조우할 수 있는 기간이 지났습니다."
 
 msgid "saka_error0093"
-msgstr ""
+msgstr "%s의 %s이 너무 낮습니다."
 
 msgid "saka_error0094"
-msgstr ""
+msgstr "플레이어 취소, Google 측 서버 문제, Google API 설정 오류 등으로 로그인에 "
+"실패했습니다"
 
 msgid "saka_error0095"
-msgstr ""
+msgstr "GameCenter 계정 정보 확인에 오류가 발생했습니다"
 
 msgid "saka_error0096"
-msgstr ""
+msgstr "다른 GameCenter 계정과 연결됨"
 
 msgid "saka_error0097"
-msgstr ""
+msgstr "GameCenter 계정이 현재 플레이어 이외의 플레이어와 연결됨"
 
 msgid "saka_error0098"
-msgstr ""
+msgstr "기기의 GameCenter 기능이 사용 중지되었습니다"
 
 msgid "saka_error0099"
-msgstr ""
+msgstr "GameCenter 기능으로 시스템 오류가 발생했습니다"
 
 msgid "saka_error0100"
-msgstr ""
+msgstr "플레이어가 GameCenter 연동을 하지 않음"
 
 msgid "saka_error0101"
-msgstr ""
+msgstr "JWT ID 토큰 verify 실패"
 
 msgid "saka_error0102"
-msgstr ""
+msgstr "티켓 수가 부족함"
 
 msgid "saka_error0103"
-msgstr ""
+msgstr "해당 플레이어 데이터가 존재하지 않음"
 
 msgid "saka_error0104"
-msgstr ""
+msgstr "GMTool에서 Crow 전용 설정이 설정되지 않음"
 
 msgid "saka_error0105"
-msgstr ""
+msgstr "현재 플레이어에 지정된 UDKEY, GDKEY와 다른 UDKEY, GDKEY가 연결되어 있음"
 
 msgid "saka_error0106"
-msgstr ""
+msgstr "이미 다른 플레이어에게 지정된 UDKEY, GDKEY가 연결되어 있음"
 
 msgid "saka_error0107"
-msgstr ""
+msgstr "iOS, Android의 최소 작동 버전이 설정되지 않음"
 
 msgid "saka_error0108"
-msgstr ""
+msgstr "Crow의 API 서버에서 오류가 반환됨"
 
 msgid "saka_error0109"
-msgstr ""
+msgstr "지정된 UDKEY가 잘못됨"
 
 msgid "saka_error0110"
-msgstr ""
+msgstr "지정된 GDKEY가 잘못됨"
 
 msgid "saka_error0111"
 msgstr ""
+"사용중인 iOS는 Sign in with Apple과 호환되지 않습니다.\n"
+"iOS13 이상으로 업데이트하여 사용해 보세요."
 
 msgid "saka_error0112"
-msgstr ""
+msgstr "Apple ID 확인에 오류가 발생했습니다."
 
 msgid "saka_error0113"
-msgstr ""
+msgstr "다른 Apple ID로 연동되어 있습니다."
 
 msgid "saka_error0114"
-msgstr ""
+msgstr "Apple ID가 다른 플레이어와 연동되어 있습니다."
 
 msgid "saka_error0115"
-msgstr ""
+msgstr "Sign in with Apple에서 시스템 오류가 발생했습니다."
 
 msgid "saka_error0116"
-msgstr ""
+msgstr "Sign in with Apple을 통한 Apple ID 연동을 하지 않았습니다."
 
 msgid "saka_error0117"
-msgstr ""
+msgstr "지정한 고유 키의 다중 가상 통화 스텝 업 가챠가 존재하지 않음"
 
 msgid "saka_error0118"
-msgstr ""
+msgstr "지정한 가상화폐 ID의 가상화폐가 존재하지 않음"
 
 msgid "saka_error0119"
-msgstr ""
+msgstr "다중 가상화폐 스텝 업 가챠의 총 실행 횟수 제한에 도달했음"
 
 msgid "saka_error0120"
-msgstr ""
+msgstr "지정된 가상화폐 ID가 고유하고 30건을 초과함"
 
 msgid "saka_error0121"
-msgstr ""
+msgstr "지정한 고유키가 30건을 초과함"
 
 msgid "saka_error0122"
-msgstr ""
+msgstr "지정한 고유키의 일일 업적이 존재하지 않음"
 
 msgid "saka_error0123"
-msgstr ""
+msgstr "수령 횟수가 수령 한도 횟수를 초과하는 일일 업적이 지정됨"
 
 msgid "saka_error0124"
-msgstr ""
+msgstr "난입 가능한 레이드 보스가 존재하지 않았다."
 
 msgid "saka_error0125"
-msgstr ""
+msgstr "지정된 상품 ID가 고유하고 30건을 초과함"
 
 msgid "saka_error0126"
-msgstr ""
+msgstr "보류중인 거래가 발생, 결제는 아직 완료되지 않음"
 
 msgid "saka_error0127"
-msgstr ""
+msgstr "보류 중인 거래가 있고, 아직 결제가 완료되지 않음"
 
 msgid "saka_error0128"
-msgstr ""
+msgstr "잘못된 상품 ID(ID 중복)가 지정되었음"
 
 msgid "update_error0000"
-msgstr ""
+msgstr "데이터는 최신 상태입니다."
 
 msgid "update_error0001"
 msgstr ""
+"새로운 데이터를 찾았습니다.\n"
+"타이틀 화면으로 돌아갑니다."
 
 msgid "update_error0002"
 msgstr ""
+"새로운 다운로드 데이터를 찾았습니다.\n"
+"타이틀 화면으로 돌아갑니다."
 
 msgid "game_popup_pause_title"
-msgstr ""
+msgstr "일시정지 중"
 
 msgid "game_popup_pause_text"
 msgstr ""
+"악곡 이름\n"
+"{0}\n"
+"\n"
+"난이도\n"
+"{1}"
 
 msgid "game_popup_continue_title"
-msgstr ""
+msgstr "이어하기 확인"
 
 msgid "game_popup_continue_text"
 msgstr ""
+"가정석을 {0}개 소모하여\n"
+"이어서 플레이합니다.\n"
+"\n"
+"<color=#C8087E>가정석 {1}→{2}</color>"
 
 msgid "game_popup_continue_text_01"
-msgstr ""
+msgstr "이어서 하시겠습니까?"
 
 msgid "game_popup_continue_shotage_text"
 msgstr ""
+"이어하기를 진행하기 위한 가정석이 부족합니다.\n"
+"가정석을 구매하시겠습니까?"
 
 msgid "game_popup_continue_story_text"
 msgstr ""
+"이어서 하시겠습니까?\n"
+"<color=#C8087E>※가정석은 소모되지 않습니다. </color>"
 
 msgid "game_popup_retire_title"
-msgstr ""
+msgstr "리타이어 확인"
 
 msgid "game_popup_retire_text"
 msgstr ""
+"리타이어하면 보상을 받을 수 없습니다.\n"
+"\n"
+"괜찮으시겠습니까?"
 
 msgid "game_popup_retire_text_battle"
 msgstr ""
+"리타이어하면 보상을 받을 수 없습니다.\n"
+"괜찮으시겠습니까?\n"
+"\n"
+"<color=#8e0529>※EX 배틀의 경우 EX 게이지가 초기화됩니다. </color>"
 
 msgid "game_popup_retire_text_godiva"
 msgstr ""
+"리타이어하면 보상을 받을 수 없습니다.\n"
+"괜찮으시겠습니까?\n"
+"\n"
+"<color=#8e0529>※스페셜 라이브의 경우\n"
+"라이브 보너스는 사라집니다. </color>"
 
 msgid "game_popup_retire_story_text"
-msgstr ""
+msgstr "리타이어하시겠습니까?"
 
 msgid "game_popup_skip_title"
-msgstr ""
+msgstr "스킵 확인"
 
 msgid "game_popup_skip_story_text"
-msgstr ""
+msgstr "스킵하시겠습니까?"
 
 msgid "game_tutorial_skip_title"
-msgstr ""
+msgstr "스킵 확인"
 
 msgid "game_tutorial_skip_text"
 msgstr ""
+"라이브를 스킵하고\n"
+"다음 단계로 넘어가시겠습니까?"
 
 msgid "mlv_unlock_00"
-msgstr ""
+msgstr "{0}의 가희 Lv {1} 달성"
 
 msgid "mlv_unlock_01"
 msgstr ""
+"{0}로\n"
+"{1}의 가희 숙련도 {2} 달성"
 
 msgid "popup_inh_title_000"
 msgstr "SNS 연동 설정"
@@ -496,19 +538,22 @@ msgid "popup_inh_sns_003"
 msgstr "30일 후에 다시 표시됩니다."
 
 msgid "popup_inh_title_001"
-msgstr ""
+msgstr "비밀번호 입력"
 
 msgid "popup_inh_pass_000"
 msgstr ""
+"플레이어 ID와 비밀번호를 입력하면\n"
+"다른 기기에서 플레이하던 플레이 데이터를\n"
+"이어받을 수 있습니다."
 
 msgid "popup_inh_pass_001"
-msgstr ""
+msgstr "비밀번호"
 
 msgid "popup_inh_title_002"
-msgstr ""
+msgstr "기종 변경 절차"
 
 msgid "popup_inh_title_003"
-msgstr ""
+msgstr "비밀번호 생성"
 
 msgid "popup_inh_pass_002"
 msgstr ""
@@ -537,61 +582,77 @@ msgid "popup_inh_pass_timeover"
 msgstr ""
 
 msgid "popup_inh_pass_countover"
-msgstr ""
+msgstr "30일 이내에 3회 이상 인계를 할 수 없습니다."
 
 msgid "popup_inh_title_006"
-msgstr ""
+msgstr "플레이 데이터가 없습니다"
 
 msgid "popup_inh_nodata"
 msgstr ""
+"플레이 데이터가 없기 때문에\n"
+"비밀번호를 발급할 수 없습니다."
 
 msgid "popup_inh_procedure"
 msgstr ""
 
 msgid "popup_inh_desc001"
-msgstr ""
+msgstr "플레이어 ID를 입력해 주세요"
 
 msgid "popup_inh_desc002"
-msgstr ""
+msgstr "비밀번호를 입력해 주세요"
 
 msgid "popup_twitter_title"
-msgstr ""
+msgstr "X 연동"
 
 msgid "popup_facebook_title"
-msgstr ""
+msgstr "Facebook 연동"
 
 msgid "popup_line_title"
-msgstr ""
+msgstr "LINE 연동"
 
 msgid "popup_apple_title"
-msgstr ""
+msgstr "Apple ID 연동"
 
 msgid "popup_twitter_success"
 msgstr ""
+"X 연동을 실시했습니다.\n"
+"다른 기기에서 플레이할 경우, 인계를 해주시기 바랍니다.\n"
+"\n"
+"<color=#c8087e>※X 측에서 우타 마크로스와의 「앱 연동」을\n"
+"해제할 경우, 우타 마크로스 앱 상에\n"
+"즉시 반영되지 않을 수 있습니다.\n"
+"15분 이상 기다렸다가 확인하시기 바랍니다. </color> </color> </color> </"
+"color> </color> </color"
 
 msgid "popup_facebook_success"
 msgstr ""
+"페이스북 연동이 완료되었습니다.\n"
+"다른 기기에서 플레이할 경우 인계를 해주시기 바랍니다."
 
 msgid "popup_line_success"
 msgstr ""
+"LINE 연동이 완료되었습니다.\n"
+"다른 기기에서 플레이할 경우 인계를 해주시기 바랍니다."
 
 msgid "popup_apple_success"
 msgstr ""
+"Apple ID 연동이 완료되었습니다.\n"
+"다른 기기에서 플레이할 경우 인계를 해주시기 바랍니다."
 
 msgid "popup_twitter_success_no"
-msgstr ""
+msgstr "X와의 연동이 실패했습니다."
 
 msgid "popup_facebook_success_no"
-msgstr ""
+msgstr "Facebook과의 연동이 실패했습니다."
 
 msgid "popup_line_success_no"
-msgstr ""
+msgstr "LINE과의 연동이 실패했습니다."
 
 msgid "popup_apple_success_no"
-msgstr ""
+msgstr "Apple ID와의 연동이 실패했습니다."
 
 msgid "popup_apple_cancel"
-msgstr ""
+msgstr "Apple ID와의 연동이 취소되었습니다."
 
 msgid "popup_window_inh_title"
 msgstr "데이터 인계"
@@ -606,7 +667,7 @@ msgid "popup_maintenance_title"
 msgstr "점검"
 
 msgid "popup_ban_title"
-msgstr ""
+msgstr "경고"
 
 msgid "popup_app_update_title"
 msgstr "앱 업데이트"
@@ -640,16 +701,18 @@ msgid "cache_clear_02"
 msgstr "데이터 복구"
 
 msgid "cache_clear_03"
-msgstr ""
+msgstr "데이터 복구 완료"
 
 msgid "cache_clear_04"
 msgstr ""
+"데이터 복구가 완료되었습니다.\n"
+"타이틀 화면으로 돌아갑니다."
 
 msgid "cache_clear_05"
 msgstr ""
 
 msgid "popup_purchase_recover_title"
-msgstr ""
+msgstr "구매 프로세스 실행"
 
 msgid "popup_purchase_recover"
 msgstr ""
@@ -777,19 +840,22 @@ msgid "profile_diva005_description"
 msgstr ""
 
 msgid "profile_diva006_age"
-msgstr ""
+msgstr "15세"
 
 msgid "profile_diva006_birthday"
-msgstr ""
+msgstr "4월 29일"
 
 msgid "profile_diva006_birthplace"
-msgstr ""
+msgstr "제117차 조사선단"
 
 msgid "profile_diva006_favorite"
-msgstr ""
+msgstr "노래, 요리, 음악 감상"
 
 msgid "profile_diva006_description"
 msgstr ""
+"우연한 계기로 데뷔해 단숨에 인기 아이돌이 된 '초시공 신데렐라'. 마음씨 "
+"착하고 성실한 성격. 어렸을 때부터 노래하는 것을 좋아하고, 셰릴을 동경하는 "
+"마음을 품고 있다."
 
 msgid "profile_diva007_age"
 msgstr ""
@@ -807,16 +873,16 @@ msgid "profile_diva007_description"
 msgstr ""
 
 msgid "profile_diva008_age"
-msgstr ""
+msgstr "14세"
 
 msgid "profile_diva008_birthday"
-msgstr ""
+msgstr "2월 2일"
 
 msgid "profile_diva008_birthplace"
-msgstr ""
+msgstr "우주공모 레드문"
 
 msgid "profile_diva008_favorite"
-msgstr ""
+msgstr "은하 드라이브, 가츠동, 피자"
 
 msgid "profile_diva008_description"
 msgstr ""
@@ -861,7 +927,7 @@ msgid "popup_title_neterror"
 msgstr "통신 에러"
 
 msgid "popup_title_dateline"
-msgstr ""
+msgstr "날짜 변경"
 
 msgid "popup_datetile"
 msgstr ""
@@ -1067,55 +1133,79 @@ msgid "popup_ranking_ban_tilte"
 msgstr ""
 
 msgid "popup_inf_line_api_update_title"
-msgstr ""
+msgstr "LINE 연동 재설정 요청"
 
 msgid "popup_inf_line_api_update_content"
 msgstr ""
+"<size=20>LINE 연동 재설정이 필요한 고객에게 표시되는 메시지입니다.\n"
+"LINE사의 사양 변경으로 인해,\n"
+"2018/4/1 이후 현재 고객님들의 LINE 연동 설정은 무효화됩니다.\n"
+"데이터 인계를 위해 LINE 연동 재설정을 부탁드립니다.\n"
+"※자세한 내용은 아래 공지사항을 확인하시기 바랍니다.\n"
+"「【중요】LINE 연동 재설정 안내」</size>"
 
 msgid "popup_twitter_release_check_title"
-msgstr ""
+msgstr "X 연동 해제 확인"
 
 msgid "popup_facebook_release_check_title"
 msgstr ""
 
 msgid "popup_line_release_check_title"
-msgstr ""
+msgstr "LINE 연동 해제 확인"
 
 msgid "popup_apple_release_check_title"
 msgstr ""
 
 msgid "popup_twitter_release_check"
 msgstr ""
+"어떤 SNS와도 연동되지 않은 상태에서\n"
+"우타 마크로스 앱을 삭제하면\n"
+"플레이 데이터가 사라집니다.\n"
+"\n"
+"X와의 연동을 해제하시겠습니까?"
 
 msgid "popup_facebook_release_check"
 msgstr ""
 
 msgid "popup_line_release_check"
 msgstr ""
+"어떤 SNS와도 연동되지 않은 상태에서\n"
+"우타 마크로스 앱을 삭제하면\n"
+"플레이 데이터가 사라집니다.\n"
+"\n"
+"LINE과의 연동을 해제하시겠습니까?"
 
 msgid "popup_apple_release_ckeck"
 msgstr ""
 
 msgid "popup_twitter_release_success_title"
-msgstr ""
+msgstr "X 연동 해제 완료"
 
 msgid "popup_facebook_release_success_title"
 msgstr ""
 
 msgid "popup_line_release_success_title"
-msgstr ""
+msgstr "LINE 연동 해제 완료"
 
 msgid "popup_apple_release_success_title"
 msgstr ""
 
 msgid "popup_twitter_release_success"
 msgstr ""
+"X와의 연동이 해제되었습니다.\n"
+"단말기 분실, 단말기 고장 등 불의의 사태가 발생했을 때에도\n"
+"플레이 데이터를 이어받을 수 있도록\n"
+"사전 절차를 밟아 주시기 바랍니다."
 
 msgid "popup_facebook_release_success"
 msgstr ""
 
 msgid "popup_line_release_success"
 msgstr ""
+"LINE과의 연동이 해제되었습니다.\n"
+"단말기 분실, 단말기 고장 등 불의의 사태가 발생했을 때에도\n"
+"플레이 데이터를 이어받을 수 있도록\n"
+"사전 절차를 밟아 주시기 바랍니다."
 
 msgid "popup_apple_release_success"
 msgstr ""
@@ -1222,7 +1312,7 @@ msgid "popup_account_management_text009"
 msgstr "계정 삭제"
 
 msgid "popup_account_management_text010"
-msgstr ""
+msgstr "닫기"
 
 msgid "popup_account_management_text011"
 msgstr "계정 삭제"
@@ -1231,7 +1321,7 @@ msgid "popup_account_management_text012"
 msgstr ""
 
 msgid "popup_account_management_text013"
-msgstr ""
+msgstr "위의 내용에 동의합니다."
 
 msgid "popup_account_management_text014"
 msgstr "취소"
@@ -1240,7 +1330,7 @@ msgid "popup_account_management_text015"
 msgstr "계정 삭제"
 
 msgid "popup_account_management_text016"
-msgstr ""
+msgstr "최종 확인"
 
 msgid "popup_account_management_text017"
 msgstr ""
@@ -1252,22 +1342,22 @@ msgid "popup_account_management_text019"
 msgstr "OK"
 
 msgid "popup_account_linkaging_text_none"
-msgstr ""
+msgstr "없음"
 
 msgid "popup_account_linkaging_text_facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "popup_account_linkaging_text_twitter"
-msgstr ""
+msgstr "X"
 
 msgid "popup_account_linkaging_text_line"
-msgstr ""
+msgstr "LINE"
 
 msgid "popup_account_linkaging_text_apple"
-msgstr ""
+msgstr "Sign in with Apple"
 
 msgid "popup_account_linkaging_text_separator"
-msgstr ""
+msgstr ","
 
 msgid "popup_account_remove_title"
 msgstr "계정 삭제"
@@ -1280,15 +1370,17 @@ msgstr ""
 
 msgid "popup_account_remove_text002"
 msgstr ""
+"계정 삭제가 완료되었습니다.\n"
+"우타 마크로스를 종료해 주세요."
 
 msgid "popup_account_remove_consent_button"
-msgstr ""
+msgstr "동의사항"
 
 msgid "popup_account_remove_pass_001"
-msgstr ""
+msgstr "없음"
 
 msgid "popup_account_remove_pass_002"
-msgstr ""
+msgstr "우타마크 패스"
 
 msgid "popup_account_remove_pass_003"
-msgstr ""
+msgstr "스페셜 패스"
