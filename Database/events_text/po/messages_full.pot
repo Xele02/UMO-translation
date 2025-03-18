@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0001"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0002"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0002"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0003"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0003"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0004"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0004"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0005"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0005"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0006"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0006"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0007"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0007"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0008"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0008"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0009"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0009"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0010"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0010"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0011"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0011"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0012"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0012"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0013"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0013"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0014"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0014"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0015"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0015"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0016"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0016"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0017"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0017"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0018"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0018"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0019"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0019"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0020"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0020"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0021"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0021"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0022"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0022"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0023"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0023"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0024"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0024"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0025"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0025"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0026"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0026"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0027"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0027"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0028"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0028"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0029"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0029"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0030"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0030"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0031"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0031"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0032"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0032"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0033"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0033"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0034"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0034"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0035"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0035"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0036"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0036"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0037"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0037"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0038"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0038"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0039"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0039"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0040"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0040"
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0041"
+msgstr ""
+
+msgid "mission_desc2_event_battle_a_0041"
+msgstr ""
+
+msgid "event_banner_event_battle_a"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0001"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0002"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0002"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0003"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0003"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0004"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0004"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0005"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0005"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0006"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0006"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0007"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0007"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0008"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0008"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0009"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0009"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0010"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0010"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0011"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0011"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0012"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0012"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0013"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0013"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0014"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0014"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0015"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0015"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0016"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0016"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0017"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0017"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0018"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0018"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0019"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0019"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0020"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0020"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0021"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0021"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0022"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0022"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0023"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0023"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0024"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0024"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0025"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0025"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0026"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0026"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0027"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0027"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0028"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0028"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0029"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0029"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0030"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0030"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0031"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0031"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0032"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0032"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0033"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0033"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0034"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0034"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0035"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0035"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0036"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0036"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0037"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0037"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0038"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0038"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0039"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0039"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0040"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0040"
+msgstr ""
+
+msgid "mission_desc_event_battle_b_0041"
+msgstr ""
+
+msgid "mission_desc2_event_battle_b_0041"
+msgstr ""
+
+msgid "event_banner_event_battle_b"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0001"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0002"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0002"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0003"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0003"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0004"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0004"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0005"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0005"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0006"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0006"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0007"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0007"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0008"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0008"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0009"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0009"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0010"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0010"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0011"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0011"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0012"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0012"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0013"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0013"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0014"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0014"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0015"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0015"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0016"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0016"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0017"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0017"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0018"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0018"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0019"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0019"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0020"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0020"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0021"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0021"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0022"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0022"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0023"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0023"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0024"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0024"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0025"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0025"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0026"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0026"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0027"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0027"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0028"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0028"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0029"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0029"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0030"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0030"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0031"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0031"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0032"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0032"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0033"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0033"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0034"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0034"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0035"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0035"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0036"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0036"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0037"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0037"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0038"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0038"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0039"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0039"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0040"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0040"
+msgstr ""
+
+msgid "mission_desc_event_battle_c_0041"
+msgstr ""
+
+msgid "mission_desc2_event_battle_c_0041"
+msgstr ""
+
+msgid "event_banner_event_battle_c"
+msgstr ""
+

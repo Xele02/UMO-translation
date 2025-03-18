@@ -58,6 +58,9 @@ msgstr ""
 msgid "StringLiteral_9630"
 msgstr ""
 
+msgid "StringLiteral_9635"
+msgstr ""
+
 msgid "StringLiteral_9714"
 msgstr ""
 
@@ -347,6 +350,63 @@ msgid "StringLiteral_10431"
 msgstr ""
 
 msgid "StringLiteral_10443"
+msgstr ""
+
+msgid "StringLiteral_10882"
+msgstr ""
+
+msgid "StringLiteral_10890"
+msgstr ""
+
+msgid "StringLiteral_10891"
+msgstr ""
+
+msgid "StringLiteral_10892"
+msgstr ""
+
+msgid "StringLiteral_10893"
+msgstr ""
+
+msgid "StringLiteral_10912"
+msgstr ""
+
+msgid "StringLiteral_10913"
+msgstr ""
+
+msgid "StringLiteral_10915"
+msgstr ""
+
+msgid "StringLiteral_10916"
+msgstr ""
+
+msgid "StringLiteral_10918"
+msgstr ""
+
+msgid "StringLiteral_10920"
+msgstr ""
+
+msgid "StringLiteral_10921"
+msgstr ""
+
+msgid "StringLiteral_10923"
+msgstr ""
+
+msgid "StringLiteral_10924"
+msgstr ""
+
+msgid "StringLiteral_10930"
+msgstr ""
+
+msgid "StringLiteral_10931"
+msgstr ""
+
+msgid "StringLiteral_10932"
+msgstr ""
+
+msgid "StringLiteral_10933"
+msgstr ""
+
+msgid "StringLiteral_10935"
 msgstr ""
 
 msgid "StringLiteral_11015"
@@ -1300,6 +1360,9 @@ msgstr ""
 msgid "StringLiteral_16775"
 msgstr ""
 
+msgid "StringLiteral_17240"
+msgstr ""
+
 msgid "StringLiteral_17446"
 msgstr ""
 
@@ -2123,5 +2186,8 @@ msgid "UMO_DivaSpOn"
 msgstr ""
 
 msgid "UMO_OriginSetting"
+msgstr ""
+
+msgid "UMO_EpisodeBonus"
 msgstr ""
 

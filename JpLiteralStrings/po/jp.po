@@ -58,6 +58,9 @@ msgstr "event_quest"
 msgid "StringLiteral_9630"
 msgstr "から新しいメッセージがあります。"
 
+msgid "StringLiteral_9635"
+msgstr "ダミー"
+
 msgid "StringLiteral_9714"
 msgstr "第"
 
@@ -348,6 +351,63 @@ msgstr "デビューガチャ"
 
 msgid "StringLiteral_10443"
 msgstr "プレート"
+
+msgid "StringLiteral_10882"
+msgstr "<color=red>EXライバル数のオーバーフロー："
+
+msgid "StringLiteral_10890"
+msgstr "<color=cyan>ダミーマッチング イベント楽曲="
+
+msgid "StringLiteral_10891"
+msgstr "～ "
+
+msgid "StringLiteral_10892"
+msgstr "<color=cyan>ダミー検索範囲スコア "
+
+msgid "StringLiteral_10893"
+msgstr "<color=red>！！！対象楽曲／クラスにマッチするライバルがいない！！！</color>"
+
+msgid "StringLiteral_10912"
+msgstr "<color=cyan>勝利</color>"
+
+msgid "StringLiteral_10913"
+msgstr "<color=cyan>敗北</color>"
+
+msgid "StringLiteral_10915"
+msgstr "<color=cyan>スコア = "
+
+msgid "StringLiteral_10916"
+msgstr " ボーナス "
+
+msgid "StringLiteral_10918"
+msgstr "<color=cyan>エピソード数 = "
+
+msgid "StringLiteral_10920"
+msgstr "<color=cyan>連勝 = "
+
+msgid "StringLiteral_10921"
+msgstr "<color=cyan>ポイント = "
+
+msgid "StringLiteral_10923"
+msgstr "<color=cyan>EXゲージポイント = "
+
+msgid "StringLiteral_10924"
+msgstr "<color=magenta>EXライバル出現中！</color>"
+
+msgid "StringLiteral_10930"
+msgstr "<color=cyan>ゲーム数 : "
+
+msgid "StringLiteral_10931"
+msgstr "<color=cyan>連勝数   : "
+
+msgid "StringLiteral_10932"
+msgstr "ウォームアップ中"
+
+msgid "StringLiteral_10933"
+msgstr "<color=cyan>対戦相手検索</color>"
+
+msgid "StringLiteral_10935"
+msgstr "人見つかりました</color>"
 
 msgid "StringLiteral_11015"
 msgstr "master_gacha_ticket.xlsxにデカルガチャチケットの設定がありません"
@@ -1300,6 +1360,9 @@ msgstr "解放していないキャラで\n親密度を上げることはでき�
 msgid "StringLiteral_16775"
 msgstr "配置数 {0:D2} / {1:D2}"
 
+msgid "StringLiteral_17240"
+msgstr "music_event_battle_ｔarｇeｔ_score"
+
 msgid "StringLiteral_17446"
 msgstr "さしすせそ"
 
@@ -2124,4 +2187,7 @@ msgstr "超歌姫モード ON"
 
 msgid "UMO_OriginSetting"
 msgstr "スタンダード編成"
+
+msgid "UMO_EpisodeBonus"
+msgstr "エピソードボーナス"
 

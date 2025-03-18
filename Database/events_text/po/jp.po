@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+
+msgid "mission_desc_event_battle_a_0001"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0002"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0003"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0004"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0005"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0006"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0007"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0008"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0009"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_a_0010"
+msgstr "イベント楽曲「オベリスク」\nを5回クリア"
+
+msgid "mission_desc_event_battle_a_0011"
+msgstr "イベント楽曲「オベリスク」\nを10回クリア"
+
+msgid "mission_desc_event_battle_a_0012"
+msgstr "Sライバルと勝負をして3回勝利"
+
+msgid "mission_desc_event_battle_a_0013"
+msgstr "Sライバルと勝負をして10回勝利"
+
+msgid "mission_desc_event_battle_a_0014"
+msgstr "イベント楽曲「Absolute 5」\nを5回クリア"
+
+msgid "mission_desc_event_battle_a_0015"
+msgstr "イベント楽曲「HOLY LONELY LIGHT [Duet Version]」\nを5回クリア"
+
+msgid "mission_desc_event_battle_a_0016"
+msgstr "イベント楽曲「オベリスク」\nをスコア50万以上でクリア"
+
+msgid "mission_desc_event_battle_a_0017"
+msgstr "イベント楽曲「オベリスク」\nをスコア60万以上でクリア"
+
+msgid "mission_desc_event_battle_a_0018"
+msgstr "イベント楽曲「オベリスク」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_battle_a_0019"
+msgstr "イベント楽曲「オベリスク」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_battle_a_0020"
+msgstr "イベント楽曲「オベリスク」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_battle_a_0021"
+msgstr "イベント楽曲「オベリスク」\nをスコア120万以上でクリア"
+
+msgid "mission_desc_event_battle_a_0022"
+msgstr "イベント楽曲「オベリスク」の\n難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_a_0023"
+msgstr "イベント楽曲「オベリスク」の\n難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_a_0024"
+msgstr "イベント楽曲「オベリスク」の\n難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_a_0025"
+msgstr "イベント楽曲「オベリスク」の\n難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_a_0026"
+msgstr "イベント楽曲「オベリスク」の\n難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_battle_a_0027"
+msgstr "ライバルと勝負をして楽曲を10回クリア"
+
+msgid "mission_desc_event_battle_a_0028"
+msgstr "ライバルと勝負をして楽曲を15回クリア"
+
+msgid "mission_desc_event_battle_a_0029"
+msgstr "ライバルと勝負をして楽曲を20回クリア"
+
+msgid "mission_desc_event_battle_a_0030"
+msgstr "ライバルと勝負をして楽曲を25回クリア"
+
+msgid "mission_desc_event_battle_a_0031"
+msgstr "ライバルと勝負をして楽曲を30回クリア"
+
+msgid "mission_desc_event_battle_a_0032"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0033"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0034"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0035"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0036"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0037"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0038"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0039"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0040"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_a_0041"
+msgstr "イベント「超時空ファイナルLive ～Act.3～」\nのミッションを20個クリア"
+
+msgid "event_banner_event_battle_a"
+msgstr "イベントに参加してエピソードプレート交換券をGET！"
+
+msgid "mission_desc_event_battle_b_0001"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0002"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0003"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0004"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0005"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0006"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0007"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0008"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0009"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_b_0010"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0011"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0012"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0013"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0014"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0015"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0016"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0017"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0018"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_b_0019"
+msgstr "イベント楽曲「会えないとき」\nを5回クリア"
+
+msgid "mission_desc_event_battle_b_0020"
+msgstr "イベント楽曲「会えないとき」\nを10回クリア"
+
+msgid "mission_desc_event_battle_b_0021"
+msgstr "Sライバルと勝負をして3回勝利"
+
+msgid "mission_desc_event_battle_b_0022"
+msgstr "Sライバルと勝負をして10回勝利"
+
+msgid "mission_desc_event_battle_b_0023"
+msgstr "イベント楽曲「オベリスク」\nを5回クリア"
+
+msgid "mission_desc_event_battle_b_0024"
+msgstr "イベント楽曲「インフィニティ」\nを5回クリア"
+
+msgid "mission_desc_event_battle_b_0025"
+msgstr "イベント楽曲「会えないとき」\nをスコア50万以上でクリア"
+
+msgid "mission_desc_event_battle_b_0026"
+msgstr "イベント楽曲「会えないとき」\nをスコア60万以上でクリア"
+
+msgid "mission_desc_event_battle_b_0027"
+msgstr "イベント楽曲「会えないとき」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_battle_b_0028"
+msgstr "イベント楽曲「会えないとき」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_battle_b_0029"
+msgstr "イベント楽曲「会えないとき」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_battle_b_0030"
+msgstr "イベント楽曲「会えないとき」\nをスコア120万以上でクリア"
+
+msgid "mission_desc_event_battle_b_0031"
+msgstr "イベント楽曲「会えないとき」の\n難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_b_0032"
+msgstr "イベント楽曲「会えないとき」の\n難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_b_0033"
+msgstr "イベント楽曲「会えないとき」の\n難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_b_0034"
+msgstr "イベント楽曲「会えないとき」の\n難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_b_0035"
+msgstr "イベント楽曲「会えないとき」の\n難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_battle_b_0036"
+msgstr "ライバルと勝負をして楽曲を10回クリア"
+
+msgid "mission_desc_event_battle_b_0037"
+msgstr "ライバルと勝負をして楽曲を15回クリア"
+
+msgid "mission_desc_event_battle_b_0038"
+msgstr "ライバルと勝負をして楽曲を20回クリア"
+
+msgid "mission_desc_event_battle_b_0039"
+msgstr "ライバルと勝負をして楽曲を25回クリア"
+
+msgid "mission_desc_event_battle_b_0040"
+msgstr "ライバルと勝負をして楽曲を30回クリア"
+
+msgid "mission_desc_event_battle_b_0041"
+msgstr "イベント「会えないときのValentine」\nのミッションを20個クリア"
+
+msgid "event_banner_event_battle_b"
+msgstr "イベントに参加してデカルガチャを10回引こう！"
+
+msgid "mission_desc_event_battle_c_0001"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0002"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0003"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0004"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0005"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0006"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0007"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0008"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0009"
+msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
+
+msgid "mission_desc_event_battle_c_0010"
+msgstr "イベント楽曲「NEVER SAY DIE」\nを5回クリア"
+
+msgid "mission_desc_event_battle_c_0011"
+msgstr "イベント楽曲「NEVER SAY DIE」\nを10回クリア"
+
+msgid "mission_desc_event_battle_c_0012"
+msgstr "Sライバルと勝負をして3回勝利"
+
+msgid "mission_desc_event_battle_c_0013"
+msgstr "Sライバルと勝負をして10回勝利"
+
+msgid "mission_desc_event_battle_c_0014"
+msgstr "イベント楽曲「SEVENTH MOON」\nを5回クリア"
+
+msgid "mission_desc_event_battle_c_0015"
+msgstr "イベント楽曲「…だけどベイビー!! 」\nを5回クリア"
+
+msgid "mission_desc_event_battle_c_0016"
+msgstr "イベント楽曲「NEVER SAY DIE」\nをスコア50万以上でクリア"
+
+msgid "mission_desc_event_battle_c_0017"
+msgstr "イベント楽曲「NEVER SAY DIE」\nをスコア60万以上でクリア"
+
+msgid "mission_desc_event_battle_c_0018"
+msgstr "イベント楽曲「NEVER SAY DIE」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_battle_c_0019"
+msgstr "イベント楽曲「NEVER SAY DIE」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_battle_c_0020"
+msgstr "イベント楽曲「NEVER SAY DIE」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_battle_c_0021"
+msgstr "イベント楽曲「NEVER SAY DIE」\nをスコア120万以上でクリア"
+
+msgid "mission_desc_event_battle_c_0022"
+msgstr "イベント楽曲「NEVER SAY DIE」の\n難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_c_0023"
+msgstr "イベント楽曲「NEVER SAY DIE」の\n難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_c_0024"
+msgstr "イベント楽曲「NEVER SAY DIE」の\n難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_c_0025"
+msgstr "イベント楽曲「NEVER SAY DIE」の\n難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_battle_c_0026"
+msgstr "イベント楽曲「NEVER SAY DIE」の\n難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_battle_c_0027"
+msgstr "ライバルと勝負をして楽曲を10回クリア"
+
+msgid "mission_desc_event_battle_c_0028"
+msgstr "ライバルと勝負をして楽曲を15回クリア"
+
+msgid "mission_desc_event_battle_c_0029"
+msgstr "ライバルと勝負をして楽曲を20回クリア"
+
+msgid "mission_desc_event_battle_c_0030"
+msgstr "ライバルと勝負をして楽曲を25回クリア"
+
+msgid "mission_desc_event_battle_c_0031"
+msgstr "ライバルと勝負をして楽曲を30回クリア"
+
+msgid "mission_desc_event_battle_c_0032"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0033"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0034"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0035"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0036"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0037"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0038"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0039"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0040"
+msgstr "【デイリー】EXライバルに勝利"
+
+msgid "mission_desc_event_battle_c_0041"
+msgstr "イベント「吹き抜ける風 ～NEVER SAY DIE～」\nのミッションを20個クリア"
+
+msgid "event_banner_event_battle_c"
+msgstr "イベントに参加してデカルガチャを10回引こう！"
+
