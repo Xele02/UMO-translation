@@ -3,390 +3,573 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 18:44+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-18 19:08+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"events_text/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "mission_desc_event_battle_a_0001"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0002"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0003"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0004"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0005"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0006"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0007"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0008"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0009"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_a_0010"
 msgstr ""
+"Finir la chanson d'événement\n"
+"「オベリスク」5 fois"
 
 msgid "mission_desc_event_battle_a_0011"
 msgstr ""
+"Finir la chanson d'événement\n"
+"「オベリスク」10 fois"
 
 msgid "mission_desc_event_battle_a_0012"
-msgstr ""
+msgstr "Gagner 3 fois contre des adversaires S"
 
 msgid "mission_desc_event_battle_a_0013"
-msgstr ""
+msgstr "Gagner 10 fois contre des adversaires S"
 
 msgid "mission_desc_event_battle_a_0014"
 msgstr ""
+"Finir la chanson d'événement\n"
+"「Absolute 5」5 fois"
 
 msgid "mission_desc_event_battle_a_0015"
 msgstr ""
+"Finir la chanson d'événement「HOLY LONELY \n"
+"LIGHT [Duet Version]」5 fois"
 
 msgid "mission_desc_event_battle_a_0016"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"avec un score de 500 000 ou plus"
 
 msgid "mission_desc_event_battle_a_0017"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"avec un score de 600 000 ou plus"
 
 msgid "mission_desc_event_battle_a_0018"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"avec un score de 700 000 ou plus"
 
 msgid "mission_desc_event_battle_a_0019"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"avec un score de 850 000 ou plus"
 
 msgid "mission_desc_event_battle_a_0020"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"avec un score de 1 000 000 ou plus"
 
 msgid "mission_desc_event_battle_a_0021"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"avec un score de 1 200 000 ou plus"
 
 msgid "mission_desc_event_battle_a_0022"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"en facile et full combo"
 
 msgid "mission_desc_event_battle_a_0023"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"en normal et full combo"
 
 msgid "mission_desc_event_battle_a_0024"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"en difficile et full combo"
 
 msgid "mission_desc_event_battle_a_0025"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"en très difficile et full combo"
 
 msgid "mission_desc_event_battle_a_0026"
 msgstr ""
+"Finir la chanson d'événement「オベリスク」\n"
+"en extrême et full combo"
 
 msgid "mission_desc_event_battle_a_0027"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 10x"
 
 msgid "mission_desc_event_battle_a_0028"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 15x"
 
 msgid "mission_desc_event_battle_a_0029"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 20x"
 
 msgid "mission_desc_event_battle_a_0030"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 25x"
 
 msgid "mission_desc_event_battle_a_0031"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 30x"
 
 msgid "mission_desc_event_battle_a_0032"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0033"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0034"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0035"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0036"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0037"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0038"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0039"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0040"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_a_0041"
 msgstr ""
+"Finir 20 missions de l'évenement \n"
+"「超時空ファイナルLive ～Act.3～」"
 
 msgid "event_banner_event_battle_a"
 msgstr ""
+"Participer à l'événement et gagner un ticket \n"
+"d'échange de plaque"
 
 msgid "mission_desc_event_battle_b_0001"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0002"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0003"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0004"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0005"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0006"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0007"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0008"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0009"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_b_0010"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0011"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0012"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0013"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0014"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0015"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0016"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0017"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0018"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_b_0019"
 msgstr ""
+"Finir la chanson d'événement \n"
+"「会えないとき」 5 fois"
 
 msgid "mission_desc_event_battle_b_0020"
 msgstr ""
+"Finir la chanson d'événement \n"
+"「会えないとき」 10 fois"
 
 msgid "mission_desc_event_battle_b_0021"
-msgstr ""
+msgstr "Gagner 3 fois contre des adversaires S"
 
 msgid "mission_desc_event_battle_b_0022"
-msgstr ""
+msgstr "Gagner 10 fois contre des adversaires S"
 
 msgid "mission_desc_event_battle_b_0023"
 msgstr ""
+"Finir la chanson d'événement\n"
+"「オベリスク」5 fois"
 
 msgid "mission_desc_event_battle_b_0024"
 msgstr ""
+"Finir la chanson d'événement \n"
+"「インフィニティ」 5 fois"
 
 msgid "mission_desc_event_battle_b_0025"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"avec un score de 500 000 ou plus"
 
 msgid "mission_desc_event_battle_b_0026"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"avec un score de 600 000 ou plus"
 
 msgid "mission_desc_event_battle_b_0027"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"avec un score de 700 000 ou plus"
 
 msgid "mission_desc_event_battle_b_0028"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"avec un score de 850 000 ou plus"
 
 msgid "mission_desc_event_battle_b_0029"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"avec un score de 1 000 000 ou plus"
 
 msgid "mission_desc_event_battle_b_0030"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"avec un score de 1 200 000 ou plus"
 
 msgid "mission_desc_event_battle_b_0031"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"en facile et full combo"
 
 msgid "mission_desc_event_battle_b_0032"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"en normal et full combo"
 
 msgid "mission_desc_event_battle_b_0033"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"en difficile et full combo"
 
 msgid "mission_desc_event_battle_b_0034"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"en très difficile et full combo"
 
 msgid "mission_desc_event_battle_b_0035"
 msgstr ""
+"Finir la chanson d'événement「会えないとき」\n"
+"en extrême et full combo"
 
 msgid "mission_desc_event_battle_b_0036"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 10x"
 
 msgid "mission_desc_event_battle_b_0037"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 15x"
 
 msgid "mission_desc_event_battle_b_0038"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 20x"
 
 msgid "mission_desc_event_battle_b_0039"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 25x"
 
 msgid "mission_desc_event_battle_b_0040"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 30x"
 
 msgid "mission_desc_event_battle_b_0041"
 msgstr ""
+"Finir 20 mission de l'événement\n"
+"「会えないときのValentine」"
 
 msgid "event_banner_event_battle_b"
-msgstr ""
+msgstr "Participe à l'événement et tire la loterie 10x !"
 
 msgid "mission_desc_event_battle_c_0001"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0002"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0003"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0004"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0005"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0006"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0007"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0008"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0009"
 msgstr ""
+"【Journalier】Combattre un adversaire\n"
+"et finir une chanson"
 
 msgid "mission_desc_event_battle_c_0010"
 msgstr ""
+"Finir la chanson de l'événement\n"
+"「NEVER SAY DIE」5 fois"
 
 msgid "mission_desc_event_battle_c_0011"
 msgstr ""
+"Finir la chanson de l'événement\n"
+"「NEVER SAY DIE」10 fois"
 
 msgid "mission_desc_event_battle_c_0012"
-msgstr ""
+msgstr "Gagner 3 fois contre des adversaires S"
 
 msgid "mission_desc_event_battle_c_0013"
-msgstr ""
+msgstr "Gagner 10 fois contre des adversaires S"
 
 msgid "mission_desc_event_battle_c_0014"
 msgstr ""
+"Finir la chanson de l'événement\n"
+"「SEVENTH MOON」5 fois"
 
 msgid "mission_desc_event_battle_c_0015"
 msgstr ""
+"Finir la chanson de l'événement\n"
+"「…だけどベイビー!! 」5 fois"
 
 msgid "mission_desc_event_battle_c_0016"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"avec un score de 500 000 ou plus"
 
 msgid "mission_desc_event_battle_c_0017"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"avec un score de 600 000 ou plus"
 
 msgid "mission_desc_event_battle_c_0018"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"avec un score de 700 000 ou plus"
 
 msgid "mission_desc_event_battle_c_0019"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"avec un score de 850 000 ou plus"
 
 msgid "mission_desc_event_battle_c_0020"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"avec un score de 1 000 000 ou plus"
 
 msgid "mission_desc_event_battle_c_0021"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"avec un score de 1 200 000 ou plus"
 
 msgid "mission_desc_event_battle_c_0022"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"en facile et full combo"
 
 msgid "mission_desc_event_battle_c_0023"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"en normal et full combo"
 
 msgid "mission_desc_event_battle_c_0024"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"en difficile et full combo"
 
 msgid "mission_desc_event_battle_c_0025"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"en très difficile et full combo"
 
 msgid "mission_desc_event_battle_c_0026"
 msgstr ""
+"Finir la chanson de l'événement「NEVER SAY DIE」\n"
+"en extrême et full combo"
 
 msgid "mission_desc_event_battle_c_0027"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 10x"
 
 msgid "mission_desc_event_battle_c_0028"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 15x"
 
 msgid "mission_desc_event_battle_c_0029"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 20x"
 
 msgid "mission_desc_event_battle_c_0030"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 25x"
 
 msgid "mission_desc_event_battle_c_0031"
 msgstr ""
+"Combattre un adversaire\n"
+"et finir une chanson 30x"
 
 msgid "mission_desc_event_battle_c_0032"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0033"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0034"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0035"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0036"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0037"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0038"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0039"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0040"
-msgstr ""
+msgstr "【Journalier】Battre un adversaire EX"
 
 msgid "mission_desc_event_battle_c_0041"
 msgstr ""
+"Finir 20 missions de l'événement \n"
+"「吹き抜ける風 ～NEVER SAY DIE～」"
 
 msgid "event_banner_event_battle_c"
-msgstr ""
+msgstr "Participe à l'événement et tire la loterie 10x !"
