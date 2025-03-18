@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-03-16 07:24+0000\n"
-"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
+"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
 "Language: fr\n"
@@ -303,16 +303,16 @@ msgstr ""
 "de la chambre déco sont pleins."
 
 msgid "set_battle_event_text_01"
-msgstr ""
+msgstr "Changement de rang"
 
 msgid "set_battle_event_text_02"
-msgstr ""
+msgstr "※Changer de rang réinitialise la jauge EX."
 
 msgid "set_battle_event_text_03"
-msgstr ""
+msgstr "Affichage de la progression de la bataille"
 
 msgid "set_battle_event_text_04"
-msgstr ""
+msgstr "※Off : les icônes de progression n’apparaîtrons pas en jeu."
 
 msgid "config_text_00"
 msgstr "Volume"
@@ -1045,13 +1045,13 @@ msgid "header_desc_free020"
 msgstr "Vérifie les param. de concert"
 
 msgid "header_desc_free110"
-msgstr ""
+msgstr "Vérifie les classements"
 
 msgid "header_desc_free120"
-msgstr ""
+msgstr "Regarde les histoires d'évènements"
 
 msgid "header_desc_free130"
-msgstr ""
+msgstr "Liste des missions d'événement"
 
 msgid "header_desc_free030"
 msgstr "Choisi un costume"
@@ -1291,6 +1291,8 @@ msgstr ""
 
 msgid "quest_tiemr_e001"
 msgstr ""
+"Période de l'événement :\n"
+"{0}～{1}"
 
 msgid "quest_tiemr_e002"
 msgstr ""
@@ -1518,70 +1520,79 @@ msgid "music_event_collect_reward_label"
 msgstr ""
 
 msgid "music_event_battle_current_point_label"
-msgstr ""
+msgstr "Points cumulés"
 
 msgid "music_event_battle_next_point_label"
-msgstr ""
+msgstr "Proch. récomp."
 
 msgid "music_event_battle_point_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "music_event_battle_rank_hiscore_label"
-msgstr ""
+msgstr "Classement EX"
 
 msgid "music_event_battle_rank_hiscore_counting_label"
-msgstr ""
+msgstr "Classement final EX"
 
 msgid "music_event_battle_rank_total_label"
-msgstr ""
+msgstr "Classement points"
 
 msgid "music_event_battle_rank_total_counting_label"
-msgstr ""
+msgstr "Classement points final"
 
 msgid "music_event_battle_rank_unit"
-msgstr ""
+msgstr "{0:plural:er|ème}"
 
 msgid "music_event_battle_bp_counting_label"
-msgstr ""
+msgstr "Highscore EX"
 
 msgid "music_event_battle_rank_counting"
 msgstr ""
 
 msgid "music_event_battle_reward_label"
-msgstr ""
+msgstr "Récomp. suiv."
 
 msgid "music_event_battle_class"
-msgstr ""
+msgstr "Rang {0}"
 
 msgid "music_event_battle_ｔarｇeｔ_score"
-msgstr ""
+msgstr "Score cible"
 
 msgid "music_event_battle_class_lvup"
 msgstr ""
+"Si tu gagnes dans le nouveau rang,\n"
+"tu gagneras plus de point.\n"
+"Veux-tu essayer le nouveau rang ?"
 
 msgid "music_event_battle_class_get_emblem_01"
-msgstr ""
+msgstr "Emblème de rang de combat {0} obtenu."
 
 msgid "music_event_battle_class_get_emblem_02"
-msgstr ""
+msgstr "Emblèmes de rang de combat jusque {0} obtenus."
 
 msgid "music_event_battle_class_next_01"
-msgstr ""
+msgstr "Gagne une bataille EX en rang {0} ou"
 
 msgid "music_event_battle_class_next_02"
-msgstr ""
+msgstr "obtient un score EX de {0} ou plus"
 
 msgid "music_event_battle_class_caution"
 msgstr ""
+"Choisis un rang pour combattre.\n"
+"Plus il est haut, plus tu recevras de points."
 
 msgid "music_event_battle_class_reselect_01"
-msgstr ""
+msgstr "Confirmation de changement de rang"
 
 msgid "music_event_battle_class_reselect_02"
 msgstr ""
+"Tu vas changer de rang, \n"
+"continuer ?\n"
 
 msgid "music_event_battle_class_reselect_03"
 msgstr ""
+"<color=#8e0529>※La jauge EX sera réinitialisée.\n"
+"※De nouveaux adversaires seront cherché.</color>"
 
 msgid "ex_battle_non_record"
 msgstr ""
@@ -2244,6 +2255,7 @@ msgstr ""
 
 msgid "event_reward_result_present_box"
 msgstr ""
+"<color=#C8087E>Les orbes sonores sont envoyés dans la boîte à cadeaux</color>"
 
 msgid "event_reward_result_present_box2"
 msgstr ""
@@ -2255,16 +2267,16 @@ msgid "event_reward_result_get_pt"
 msgstr ""
 
 msgid "event_reward_result_win"
-msgstr ""
+msgstr "Victoire"
 
 msgid "event_reward_result_lose"
-msgstr ""
+msgstr "Défaite"
 
 msgid "event_reward_result_wincountbonus_unit"
 msgstr ""
 
 msgid "event_reward_result_episodebonus_unit"
-msgstr ""
+msgstr "{0} {0:plural:épisode|épisodes}"
 
 msgid "event_reward_result_last_rank"
 msgstr ""
@@ -2273,25 +2285,25 @@ msgid "event_reward_result_dash_bonus"
 msgstr ""
 
 msgid "popup_event_reward_check_pt_title"
-msgstr ""
+msgstr "Récompenses de points cumulés"
 
 msgid "popup_event_reward_check_rank_title"
-msgstr ""
+msgstr "Récompenses de classement"
 
 msgid "popup_event_reward_check_plate_info_title"
-msgstr ""
+msgstr "Information des plaques"
 
 msgid "popup_event_reward_check_pt"
-msgstr ""
+msgstr "【Points cumulés】"
 
 msgid "popup_event_reward_currentpoint_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "popup_event_reward_needpoint_unit"
-msgstr ""
+msgstr "{0}pt"
 
 msgid "popup_event_reward_currentrank_unit"
-msgstr ""
+msgstr "{0:plural:er|ème}"
 
 msgid "popup_event_reward_needrank_unit"
 msgstr ""
@@ -2651,7 +2663,7 @@ msgid "popup_unlock_desc_title"
 msgstr "Déblocage de mémoire de chanson"
 
 msgid "popup_episodebonus_platelist_title"
-msgstr ""
+msgstr "{0}"
 
 msgid "popup_episodebonus_nothingplate"
 msgstr ""
@@ -3126,7 +3138,7 @@ msgid "popup_event_gacha_box_text_13"
 msgstr ""
 
 msgid "popup_ar_marker_emblem_title"
-msgstr ""
+msgstr "Titre obtenu"
 
 msgid "popup_ar_marker_emblem_text_01"
 msgstr ""
@@ -3189,10 +3201,10 @@ msgid "event_story_text_002"
 msgstr "Epilogue"
 
 msgid "event_story_text_003"
-msgstr ""
+msgstr "Avance dans l'événement pour débloquer"
 
 msgid "event_story_text_004"
-msgstr ""
+msgstr "Débloqué le {0}/{1}/{2}　{3}:{4:D2}"
 
 msgid "event_story_text_005"
 msgstr "？？？"
@@ -5329,22 +5341,22 @@ msgid "popup_episodebonus_note_01"
 msgstr ""
 
 msgid "popup_episodebonus_note_02"
-msgstr ""
+msgstr "※Seule 1 plaque par épisode par bonus est utilisée."
 
 msgid "popup_episodebonus_evo_bonus"
 msgstr ""
 
 msgid "not_possessed"
-msgstr ""
+msgstr "Non possédé"
 
 msgid "popup_gachatransition_title"
-msgstr ""
+msgstr "Confirmation de loterie"
 
 msgid "popup_gachatransition"
 msgstr ""
 
 msgid "popup_not_gachatransition"
-msgstr ""
+msgstr "Il n'y a pas de loterie correspondante."
 
 msgid "pop_raid_enemy_requested_title"
 msgstr ""
@@ -5362,10 +5374,10 @@ msgid "utaraterank_none"
 msgstr "N/A"
 
 msgid "popup_episodebonus_max"
-msgstr ""
+msgstr "Max {0}％"
 
 msgid "unorganized"
-msgstr ""
+msgstr "Non utilisé"
 
 msgid "skill_attr_regulation"
 msgstr ""
