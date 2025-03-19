@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-19 08:10+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -1806,7 +1806,7 @@ msgid "sn_0662"
 msgstr "请唱歌吧，要小姐"
 
 msgid "sn_0663"
-msgstr "感受这似火的热情吧！"
+msgstr "感受这似火的激情吧！"
 
 msgid "sn_0664"
 msgstr "你这是什么态度！"
@@ -1830,7 +1830,7 @@ msgid "sn_0670"
 msgstr "逛服装店的女船员们"
 
 msgid "sn_0671"
-msgstr "喜欢我的礼物吗？"
+msgstr "喜欢这个礼物吗？"
 
 msgid "sn_0672"
 msgstr "白衣天使 Makimaki"
@@ -1860,157 +1860,157 @@ msgid "sn_0680"
 msgstr "自然洋溢的笑容"
 
 msgid "sn_0681"
-msgstr ""
+msgstr "仰望天空，心意相通"
 
 msgid "sn_0682"
-msgstr ""
+msgstr "魅惑天使"
 
 msgid "sn_0683"
-msgstr ""
+msgstr "我会带着梅萨的遗志飞下去"
 
 msgid "sn_0684"
-msgstr ""
+msgstr "充满信念的歌声"
 
 msgid "sn_0685"
-msgstr ""
+msgstr "奇妙魔法☆米莲"
 
 msgid "sn_0687"
-msgstr ""
+msgstr "那种男人，少接触为妙"
 
 msgid "sn_0688"
-msgstr ""
+msgstr "鼓起勇气吧"
 
 msgid "sn_0689"
-msgstr ""
+msgstr "冲上去干掉他们！"
 
 msgid "sn_0690"
-msgstr ""
+msgstr "洞悉弱点的视线"
 
 msgid "sn_0691"
-msgstr ""
+msgstr "一起唱歌吧"
 
 msgid "sn_0692"
-msgstr ""
+msgstr "乘着蒲公英的妖精"
 
 msgid "sn_0693"
-msgstr ""
+msgstr "布雷拉的视角"
 
 msgid "sn_0694"
-msgstr ""
+msgstr "灰心少女"
 
 msgid "sn_0695"
-msgstr ""
+msgstr "无数的小生命"
 
 msgid "sn_0696"
-msgstr ""
+msgstr "晴空万里"
 
 msgid "sn_0697"
-msgstr ""
+msgstr "心神不定的二人"
 
 msgid "sn_0698"
-msgstr ""
+msgstr "奥兹玛·李"
 
 msgid "sn_0699"
-msgstr ""
+msgstr "阿尔特是我的奴隶哟"
 
 msgid "sn_0700"
-msgstr ""
+msgstr "心心念念的约会"
 
 msgid "sn_0702"
-msgstr ""
+msgstr "你要把同伴丢下不管吗"
 
 msgid "sn_0704"
-msgstr ""
+msgstr "魔法熊熊"
 
 msgid "sn_0709"
-msgstr ""
+msgstr "不用躲了，我都知道了"
 
 msgid "sn_0710"
-msgstr ""
+msgstr "出发，前往度假胜地！"
 
 msgid "sn_0711"
-msgstr ""
+msgstr "Mind of Truth"
 
 msgid "sn_0712"
-msgstr ""
+msgstr "Aces"
 
 msgid "sn_0713"
-msgstr ""
+msgstr "Eternity Sky"
 
 msgid "sn_0714"
-msgstr ""
+msgstr "你不是孤身一人"
 
 msgid "sn_0715"
-msgstr ""
+msgstr "惊人的防御力"
 
 msgid "sn_0716"
-msgstr ""
+msgstr "这次就先来软的吧"
 
 msgid "sn_0717"
-msgstr ""
+msgstr "辉煌璀璨梦蝴蝶"
 
 msgid "sn_0718"
-msgstr ""
+msgstr "连系银河的希望"
 
 msgid "sn_0719"
-msgstr ""
+msgstr "爱、勇气、生命之光"
 
 msgid "sn_0720"
-msgstr ""
+msgstr "点亮星辰的歌者"
 
 msgid "sn_0721"
-msgstr ""
+msgstr "带你前往魅力世界"
 
 msgid "sn_0723"
-msgstr ""
+msgstr "我会用歌声震撼银河！"
 
 msgid "sn_0724"
-msgstr ""
+msgstr "尘埃落定之刻"
 
 msgid "sn_0725"
-msgstr ""
+msgstr "联系过去的歌"
 
 msgid "sn_0726"
-msgstr ""
+msgstr "虚伪的歌姬"
 
 msgid "sn_0727"
-msgstr ""
+msgstr "年少成名阿尔特"
 
 msgid "sn_0728"
-msgstr ""
+msgstr "徘徊于梦境之中"
 
 msgid "sn_0729"
-msgstr ""
+msgstr "极限空战"
 
 msgid "sn_0730"
-msgstr ""
+msgstr "希望仍然存在"
 
 msgid "sn_0731"
-msgstr ""
+msgstr "人气热狗店"
 
 msgid "sn_0732"
-msgstr ""
+msgstr "Frontier的夕阳"
 
 msgid "sn_0733"
-msgstr ""
+msgstr "划破夜空的流星"
 
 msgid "sn_0735"
-msgstr ""
+msgstr "我不会再喊你公主了"
 
 msgid "sn_0736"
-msgstr ""
+msgstr "天空不再遥远"
 
 msgid "sn_0737"
-msgstr ""
+msgstr "怎么才来，库兰"
 
 msgid "sn_0738"
-msgstr ""
+msgstr "库兰的泪水"
 
 msgid "sn_0739"
-msgstr ""
+msgstr "一声令下"
 
 msgid "sn_0740"
-msgstr ""
+msgstr "为何心事重重？"
 
 msgid "sn_0741"
 msgstr ""
