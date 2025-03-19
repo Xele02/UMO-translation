@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
-"Last-Translator: ttirae <rmsghdortus@gmail.com>\n"
+"PO-Revision-Date: 2025-03-19 12:59+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
 "Language: ko\n"
@@ -1206,7 +1206,7 @@ msgid "StringLiteral_14769"
 msgstr "{0} 님"
 
 msgid "StringLiteral_14832"
-msgstr ""
+msgstr "뚜껑"
 
 msgid "StringLiteral_14844"
 msgstr "★[０-９]"
@@ -1439,7 +1439,7 @@ msgid "StringLiteral_20179"
 msgstr "의 최대 칸 수="
 
 msgid "StringLiteral_20180"
-msgstr ""
+msgstr "그런데도 "
 
 msgid "StringLiteral_20181"
 msgstr "밖에 칸이 없음."
@@ -2186,3 +2186,63 @@ msgstr "초가희 모드 ON"
 
 msgid "UMO_OriginSetting"
 msgstr "스탠다드 편집"
+
+msgid "StringLiteral_10890"
+msgstr "<color=cyan>더미 매칭 이벤트 악곡="
+
+msgid "StringLiteral_10891"
+msgstr "~ "
+
+msgid "StringLiteral_10892"
+msgstr "<color=cyan>더미 검색 범위 점수 "
+
+msgid "StringLiteral_10912"
+msgstr "<color=cyan>승리</color>"
+
+msgid "StringLiteral_10913"
+msgstr "<color=cyan>패배</color>"
+
+msgid "StringLiteral_10915"
+msgstr "<color=cyan>스코어= "
+
+msgid "StringLiteral_10916"
+msgstr " 보너스 "
+
+msgid "StringLiteral_10918"
+msgstr "<color=cyan>에피소드 수 = "
+
+msgid "StringLiteral_10920"
+msgstr "<color=cyan>연승= "
+
+msgid "StringLiteral_10921"
+msgstr "<color=cyan>포인트 = "
+
+msgid "StringLiteral_10923"
+msgstr "<color=cyan>EX 게이지 포인트 = "
+
+msgid "StringLiteral_10930"
+msgstr "<color=cyan>게임 수 : "
+
+msgid "StringLiteral_10931"
+msgstr "<color=cyan>연승 수   : "
+
+msgid "StringLiteral_10932"
+msgstr "워밍업 중"
+
+msgid "StringLiteral_10933"
+msgstr "<color=cyan>대전 상대 검색</color>"
+
+msgid "StringLiteral_10935"
+msgstr "사람 찾았습니다</color>"
+
+msgid "StringLiteral_10882"
+msgstr "<color=red>EX 라이벌 수 오버플로:"
+
+msgid "StringLiteral_9635"
+msgstr "더미"
+
+msgid "StringLiteral_10893"
+msgstr "<color=red>!!!대상 악곡/클래스에 매치되는 라이벌이 없음!!!</color>"
+
+msgid "StringLiteral_10924"
+msgstr "<color=magenta>EX 라이벌 출현중!</color>"
