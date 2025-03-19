@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-03-19 12:46+0000\n"
+"PO-Revision-Date: 2025-03-19 12:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -469,63 +469,75 @@ msgstr ""
 
 msgid "mission_desc_event_battle_c_0022"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"난이도 EASY 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0023"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"난이도 NORMAL 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0024"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"난이도 HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0025"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"난이도 VERY HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0026"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"난이도 EXTREME 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_c_0027"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 10회 클리어"
 
 msgid "mission_desc_event_battle_c_0028"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 15회 클리어"
 
 msgid "mission_desc_event_battle_c_0029"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 20회 클리어"
 
 msgid "mission_desc_event_battle_c_0030"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 25회 클리어"
 
 msgid "mission_desc_event_battle_c_0031"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 30회 클리어"
 
 msgid "mission_desc_event_battle_c_0032"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0033"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0034"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0035"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0036"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0037"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0038"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0039"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0040"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_c_0041"
 msgstr ""
+"이벤트 「불어오는 바람 ~NEVER SAY DIE~」\n"
+"미션 20개 클리어"
 
 msgid "event_banner_event_battle_c"
-msgstr ""
+msgstr "이벤트에 참여하여 데카르 가챠를 10회 뽑자!"
