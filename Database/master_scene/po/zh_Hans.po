@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-19 08:54+0000\n"
+"PO-Revision-Date: 2025-03-19 10:11+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -2013,28 +2013,28 @@ msgid "sn_0740"
 msgstr "为何心事重重？"
 
 msgid "sn_0741"
-msgstr "只需折叠几次"
+msgstr "折叠过后的白纸"
 
 msgid "sn_0742"
 msgstr "YF-25 普洛菲斯"
 
 msgid "sn_0743"
-msgstr ""
+msgstr "天台上的不期而遇"
 
 msgid "sn_0744"
-msgstr ""
+msgstr "充电中…"
 
 msgid "sn_0745"
-msgstr ""
+msgstr "翱翔天际的果敢之翼"
 
 msgid "sn_0746"
-msgstr ""
+msgstr "翱翔天际的自由之翼"
 
 msgid "sn_0747"
-msgstr ""
+msgstr "翱翔天际的和平之翼"
 
 msgid "sn_0748"
-msgstr ""
+msgstr "翱翔天际的矫健之翼"
 
 msgid "sn_0749"
 msgstr ""
