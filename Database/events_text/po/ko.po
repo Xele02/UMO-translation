@@ -3,330 +3,469 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-19 12:46+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
+"Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
+"events_text/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "mission_desc_event_battle_a_0001"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0002"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0003"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0004"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0005"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0006"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0007"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0008"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0009"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_a_0010"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_a_0011"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"10회 클리어"
 
 msgid "mission_desc_event_battle_a_0012"
-msgstr ""
+msgstr "S 라이벌과 대결하여 3번 승리"
 
 msgid "mission_desc_event_battle_a_0013"
-msgstr ""
+msgstr "S 라이벌과 대결하여 10번 승리"
 
 msgid "mission_desc_event_battle_a_0014"
 msgstr ""
+"이벤트 악곡 「Absolute 5」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_a_0015"
 msgstr ""
+"이벤트 악곡 「HOLY LONELY LIGHT [Duet Version]」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_a_0016"
 msgstr ""
+"이벤트 악곡「오벨리스크」\n"
+"스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0017"
 msgstr ""
+"이벤트 악곡「오벨리스크」\n"
+"스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0018"
 msgstr ""
+"이벤트 악곡「오벨리스크」\n"
+"스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0019"
 msgstr ""
+"이벤트 악곡「오벨리스크」\n"
+"스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0020"
 msgstr ""
+"이벤트 악곡「오벨리스크」\n"
+"스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0021"
 msgstr ""
+"이벤트 악곡「오벨리스크」\n"
+"스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_a_0022"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"난이도 EASY 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0023"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"난이도 NORMAL 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0024"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"난이도 HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0025"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"난이도 VERY HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0026"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"난이도 EXTREME 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_a_0027"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 10회 클리어"
 
 msgid "mission_desc_event_battle_a_0028"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 15회 클리어"
 
 msgid "mission_desc_event_battle_a_0029"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 20회 클리어"
 
 msgid "mission_desc_event_battle_a_0030"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 25회 클리어"
 
 msgid "mission_desc_event_battle_a_0031"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 30회 클리어"
 
 msgid "mission_desc_event_battle_a_0032"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0033"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0034"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0035"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0036"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0037"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0038"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0039"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0040"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_a_0041"
 msgstr ""
+"이벤트 「초시공 파이널 Live ~Act.3~」\n"
+"미션 20개 클리어"
 
 msgid "event_banner_event_battle_a"
-msgstr ""
+msgstr "이벤트에 참여하여 에피소드 플레이트 교환권을 GET!"
 
 msgid "mission_desc_event_battle_b_0001"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0002"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0003"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0004"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0005"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0006"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0007"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0008"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0009"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_b_0010"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0011"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0012"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0013"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0014"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0015"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0016"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0017"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0018"
-msgstr ""
+msgstr "【데일리】EX 라이벌에게 승리"
 
 msgid "mission_desc_event_battle_b_0019"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_b_0020"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"10회 클리어"
 
 msgid "mission_desc_event_battle_b_0021"
-msgstr ""
+msgstr "S 라이벌과 대결하여 3번 승리"
 
 msgid "mission_desc_event_battle_b_0022"
-msgstr ""
+msgstr "S 라이벌과 대결하여 10번 승리"
 
 msgid "mission_desc_event_battle_b_0023"
 msgstr ""
+"이벤트 악곡 「오벨리스크」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_b_0024"
 msgstr ""
+"이벤트 악곡 「인피니티」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_b_0025"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0026"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"스코어 60만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0027"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"스코어 70만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0028"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"스코어 85만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0029"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"스코어 100만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0030"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"스코어 120만점 이상으로 클리어"
 
 msgid "mission_desc_event_battle_b_0031"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"난이도 EASY 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0032"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"난이도 NORMAL 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0033"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"난이도 HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0034"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"난이도 VERY HARD 이상 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0035"
 msgstr ""
+"이벤트 악곡 「만날 수 없을 때」\n"
+"난이도 EXTREME 풀콤보로 클리어"
 
 msgid "mission_desc_event_battle_b_0036"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 10회 클리어"
 
 msgid "mission_desc_event_battle_b_0037"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 15회 클리어"
 
 msgid "mission_desc_event_battle_b_0038"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 20회 클리어"
 
 msgid "mission_desc_event_battle_b_0039"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 25회 클리어"
 
 msgid "mission_desc_event_battle_b_0040"
-msgstr ""
+msgstr "라이벌과 대결하여 악곡 30회 클리어"
 
 msgid "mission_desc_event_battle_b_0041"
 msgstr ""
+"이벤트 「만날 수 없을 때의 Valentine」\n"
+"미션 20개 클리어"
 
 msgid "event_banner_event_battle_b"
-msgstr ""
+msgstr "이벤트에 참여하여 데카르 가챠를 10회 뽑자!"
 
 msgid "mission_desc_event_battle_c_0001"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0002"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0003"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0004"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0005"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0006"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0007"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0008"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0009"
 msgstr ""
+"【데일리】라이벌과 대결하여\n"
+"악곡 클리어"
 
 msgid "mission_desc_event_battle_c_0010"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_c_0011"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"10회 클리어"
 
 msgid "mission_desc_event_battle_c_0012"
-msgstr ""
+msgstr "S 라이벌과 대결하여 3번 승리"
 
 msgid "mission_desc_event_battle_c_0013"
-msgstr ""
+msgstr "S 라이벌과 대결하여 10번 승리"
 
 msgid "mission_desc_event_battle_c_0014"
 msgstr ""
+"이벤트 악곡 「SEVENTH MOON」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_c_0015"
 msgstr ""
+"이벤트 악곡 「…하지만 베이비!!」\n"
+"5회 클리어"
 
 msgid "mission_desc_event_battle_c_0016"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"스코어 50만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0017"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"스코어 60만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0018"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"스코어 70만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0019"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"스코어 85만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0020"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"스코어 100만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0021"
 msgstr ""
+"이벤트 악곡 「NEVER SAY DIE」\n"
+"스코어 120만 이상으로 클리어"
 
 msgid "mission_desc_event_battle_c_0022"
 msgstr ""
