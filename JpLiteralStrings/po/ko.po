@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-03-19 12:59+0000\n"
-"Last-Translator: ttirae <rmsghdortus@gmail.com>\n"
+"PO-Revision-Date: 2025-03-22 08:46+0000\n"
+"Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
 "Language: ko\n"
@@ -1793,7 +1793,7 @@ msgid "UMO_product_429930_desc_name"
 msgstr "★5 이상 확정 가챠"
 
 msgid "UMO_product_430020_name"
-msgstr "혜택 가챠31096 10연속"
+msgstr "혜택 가챠 31096 10연속"
 
 msgid "UMO_product_430020_desc_free_msg"
 msgstr "10연속 무료"
@@ -2246,3 +2246,6 @@ msgstr "<color=red>!!!대상 악곡/클래스에 매치되는 라이벌이 없�
 
 msgid "StringLiteral_10924"
 msgstr "<color=magenta>EX 라이벌 출현중!</color>"
+
+msgid "UMO_EpisodeBonus"
+msgstr "에피소드 보너스"
