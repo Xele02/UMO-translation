@@ -5395,7 +5395,7 @@ msgid "episode_assist"
 msgstr ""
 
 msgid "episode_available"
-msgstr "Équipé"
+msgstr "Appliqué"
 
 msgid "pop_raid_help_defeated_text"
 msgstr ""
