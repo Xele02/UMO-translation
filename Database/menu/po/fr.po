@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-03-19 11:38+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-22 08:46+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
 "Language: fr\n"
@@ -835,7 +835,7 @@ msgid "header_desc_vop000"
 msgstr "Sélectionne une opération"
 
 msgid "header_desc_vop001"
-msgstr "Selectionne une section"
+msgstr "Sélectionne un escadron"
 
 msgid "header_desc_vop002"
 msgstr "Selectionne une Valkyrie"
@@ -3614,11 +3614,11 @@ msgid "popup_unlock_6line_music_text"
 msgstr "Version 6 pistes débloqué."
 
 msgid "offer_formation_name_chenge_popup_title"
-msgstr "Changement du nom de section"
+msgstr "Renommage d'escadron"
 
 msgid "offer_formation_name_chenge_popup_text_01"
 msgstr ""
-"Entrer le nom de la section\n"
+"Entrer le nom de l'escadron\n"
 "(15 caractères maximum)"
 
 msgid "offer_formation_name_chenge_popup_text_02"
@@ -3642,13 +3642,13 @@ msgid "offer_no_leader_popup_text"
 msgstr ""
 
 msgid "offer_Dissolution_popup_text"
-msgstr "Voulez-vous dissoudre la section ?"
+msgstr "Voulez-vous dissoudre l'escadron ?"
 
 msgid "offer__cant_orders_popup_text"
 msgstr ""
 
 msgid "offer_squadron_popup_title"
-msgstr "Section en sortie"
+msgstr "Escadron en opération"
 
 msgid "offer_fast_completion_popup_title_01"
 msgstr "Completion rapide"
@@ -3856,7 +3856,7 @@ msgstr ""
 msgid "offer_all_platoon_sortie_pop_text"
 msgstr ""
 "L'opération ne peut pas être lancée \n"
-"car toutes les sections sont de sortie."
+"car tous les escadrons sont de sortie."
 
 msgid "offer_select_operation_ended_pop_text"
 msgstr ""
@@ -3871,19 +3871,19 @@ msgid "offer_notification_return_vfp_title"
 msgstr "Opération réussie"
 
 msgid "offer_notification_return_vfp_1"
-msgstr "Reina 「Opération de la section I terminée.」"
+msgstr "Reina 「Opération de l'escadron I terminée.」"
 
 msgid "offer_notification_return_vfp_2"
-msgstr "Reina 「Section II est de retour... tout semble ok」"
+msgstr "Reina 「L'escadron II est de retour... Tout semble ok.」"
 
 msgid "offer_notification_return_vfp_3"
-msgstr "Reina「Retour de la section III. Tous sont en sécurité」"
+msgstr "Reina「Retour de l'escadron III. Tous sont en sécurité.」"
 
 msgid "offer_notification_return_vfp_4"
-msgstr "Reina「Retour de la section IV. Vérifie le résultat」"
+msgstr "Reina「Retour de l'escadron IV. En attente de débriefing.」"
 
 msgid "offer_notification_return_vfp_5"
-msgstr "Reina「Retour de la section V. Allons les voir」"
+msgstr "Reina「Retour de l'escadron V. Allons les voir.」"
 
 msgid "offer_cannot_cancel_text"
 msgstr ""
