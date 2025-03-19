@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-03-19 08:10+0000\n"
+"PO-Revision-Date: 2025-03-19 08:54+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -1298,7 +1298,7 @@ msgid "quest_tiemr_e002"
 msgstr ""
 
 msgid "quest_tiemr_e003"
-msgstr ""
+msgstr "{0:D4}/ {1}/{2} {3:D2}:{4:D2}"
 
 msgid "popup_quest_detail_001"
 msgstr ""
@@ -1329,6 +1329,8 @@ msgstr ""
 
 msgid "sns_item_description"
 msgstr ""
+"Tu peux voir「Discussion：{1}」\n"
+"dans la pièce SNS 「{0}」."
 
 msgid "popup_friend_request_title"
 msgstr ""
@@ -2314,13 +2316,13 @@ msgid "popup_event_reward_needrankrange_unit"
 msgstr ""
 
 msgid "popup_event_reward_sns_itemtitle"
-msgstr ""
+msgstr "Discussion : {0}"
 
 msgid "popup_event_reward_emblemtitle"
-msgstr ""
+msgstr "Titre : {0}"
 
 msgid "popup_event_reward_platetitle"
-msgstr ""
+msgstr "★{0} {1}"
 
 msgid "event_reward_check_have_pt"
 msgstr ""
