@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-19 10:11+0000\n"
+"PO-Revision-Date: 2025-03-22 08:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -201,7 +201,7 @@ msgid "sn_0062"
 msgstr "歌是爱"
 
 msgid "sn_0063"
-msgstr "“S” “O” “S” ―蕾娜―"
+msgstr "S O S ―蕾娜―"
 
 msgid "sn_0064"
 msgstr "我们二人同心！"
@@ -237,7 +237,7 @@ msgid "sn_0074"
 msgstr "歌是希望"
 
 msgid "sn_0075"
-msgstr "“S” “O” “S” ―玛基娜―"
+msgstr "S O S ―玛基娜―"
 
 msgid "sn_0076"
 msgstr "这里是Makimaki～♪"
@@ -285,7 +285,7 @@ msgid "sn_0090"
 msgstr "快逃啊门外汉！"
 
 msgid "sn_0091"
-msgstr "可怕的宇宙空间"
+msgstr "致命的宇宙空间"
 
 msgid "sn_0092"
 msgstr "全民偶像雪莉露·诺姆"
@@ -390,7 +390,7 @@ msgid "sn_0125"
 msgstr "两任主唱的同台"
 
 msgid "sn_0126"
-msgstr "情深似海的两人"
+msgstr "情深似海的二人"
 
 msgid "sn_0127"
 msgstr "响彻战场的生命之歌"
@@ -435,10 +435,10 @@ msgid "sn_0140"
 msgstr "最棒的生日礼物"
 
 msgid "sn_0141"
-msgstr "格罗巴尔号战舰遗骸"
+msgstr "格罗巴尔号的记忆"
 
 msgid "sn_0142"
-msgstr "Queadluun，启动"
+msgstr "Queadluun启动"
 
 msgid "sn_0143"
 msgstr "绿油油的朋友"
@@ -519,7 +519,7 @@ msgid "sn_0170"
 msgstr "EP 【妖精来访】"
 
 msgid "sn_0171"
-msgstr "天呐，好美"
+msgstr "惊鸿一瞥"
 
 msgid "sn_0172"
 msgstr "向往已久的海洋"
@@ -552,7 +552,7 @@ msgid "sn_0182"
 msgstr "米海尔·布朗"
 
 msgid "sn_0184"
-msgstr "青梅竹马的两人"
+msgstr "青梅竹马的二人"
 
 msgid "sn_0185"
 msgstr "要迟到了！"
@@ -651,7 +651,7 @@ msgid "sn_0218"
 msgstr "梅萨·伊勒费尔德"
 
 msgid "sn_0219"
-msgstr "“S” “O” “S” ―美云―"
+msgstr "S O S ―美云―"
 
 msgid "sn_0220"
 msgstr "场子终于热起来了"
@@ -924,7 +924,7 @@ msgid "sn_0325"
 msgstr "明美攻击"
 
 msgid "sn_0327"
-msgstr "历史上第一位Macross小姐"
+msgstr "第一届Macross小姐"
 
 msgid "sn_0328"
 msgstr "通往梦想的入口"
@@ -1479,7 +1479,7 @@ msgid "sn_0536"
 msgstr "眼泪背后的深意"
 
 msgid "sn_0537"
-msgstr "毫无防备的睡颜"
+msgstr "毫无防备的睡相"
 
 msgid "sn_0538"
 msgstr "歌声将苦难吹散"
@@ -2013,7 +2013,7 @@ msgid "sn_0740"
 msgstr "为何心事重重？"
 
 msgid "sn_0741"
-msgstr "折叠过后的白纸"
+msgstr "经过折叠就能飞翔"
 
 msgid "sn_0742"
 msgstr "YF-25 普洛菲斯"
@@ -2037,148 +2037,148 @@ msgid "sn_0748"
 msgstr "翱翔天际的矫健之翼"
 
 msgid "sn_0749"
-msgstr ""
+msgstr "翱翔天际的不战之翼"
 
 msgid "sn_0750"
-msgstr ""
+msgstr "翱翔天际的开朗之翼"
 
 msgid "sn_0751"
-msgstr ""
+msgstr "翱翔天际的指引之翼"
 
 msgid "sn_0752"
-msgstr ""
+msgstr "翱翔天际的绚丽之翼"
 
 msgid "sn_0753"
-msgstr ""
+msgstr "翱翔天际？特异之翼"
 
 msgid "sn_0754"
-msgstr ""
+msgstr "翱翔天际的柔和之翼"
 
 msgid "sn_0756"
-msgstr ""
+msgstr "Brand New Year's"
 
 msgid "sn_0757"
-msgstr ""
+msgstr "瞬间坠入爱河"
 
 msgid "sn_0759"
-msgstr ""
+msgstr "可以给我签个名吗？"
 
 msgid "sn_0760"
-msgstr ""
+msgstr "无重力的恐怖"
 
 msgid "sn_0761"
-msgstr ""
+msgstr "别高兴得太早！"
 
 msgid "sn_0762"
-msgstr ""
+msgstr "安稳入睡"
 
 msgid "sn_0763"
-msgstr ""
+msgstr "说你爱我"
 
 msgid "sn_0764"
-msgstr ""
+msgstr "装什么糊涂呀！"
 
 msgid "sn_0765"
-msgstr ""
+msgstr "违反命令"
 
 msgid "sn_0766"
-msgstr ""
+msgstr "装甲瓦尔基里"
 
 msgid "sn_0767"
-msgstr ""
+msgstr "微型人？"
 
 msgid "sn_0768"
-msgstr ""
+msgstr "头版绯闻"
 
 msgid "sn_0769"
-msgstr ""
+msgstr "VF-17D 梦魇"
 
 msgid "sn_0771"
-msgstr ""
+msgstr "逐渐互相理解"
 
 msgid "sn_0772"
-msgstr ""
+msgstr "爱着对方的爸爸妈妈"
 
 msgid "sn_0773"
-msgstr ""
+msgstr "居然要我来唱歌！"
 
 msgid "sn_0774"
-msgstr ""
+msgstr "重回战场的天才"
 
 msgid "sn_0775"
-msgstr ""
+msgstr "说了没办法了！"
 
 msgid "sn_0776"
-msgstr ""
+msgstr "我相信巴萨拉的歌声！"
 
 msgid "sn_0777"
-msgstr ""
+msgstr "也许再也看不到的夜景"
 
 msgid "sn_0778"
-msgstr ""
+msgstr "打完最后的招呼了吗？"
 
 msgid "sn_0779"
-msgstr ""
+msgstr "等候已久的原始恶魔"
 
 msgid "sn_0780"
-msgstr ""
+msgstr "开始进攻"
 
 msgid "sn_0781"
-msgstr ""
+msgstr "东京天空树欢迎你！"
 
 msgid "sn_0783"
-msgstr ""
+msgstr "竟敢迟到！"
 
 msgid "sn_0784"
-msgstr ""
+msgstr "哎呀，来早了！"
 
 msgid "sn_0785"
-msgstr ""
+msgstr "这里是我的战场"
 
 msgid "sn_0786"
-msgstr ""
+msgstr "愿神明保佑"
 
 msgid "sn_0789"
-msgstr ""
+msgstr "The half century"
 
 msgid "sn_0790"
-msgstr ""
+msgstr "2nd Anniversary"
 
 msgid "sn_0791"
-msgstr ""
+msgstr "久等了♪"
 
 msgid "sn_0792"
-msgstr ""
+msgstr "哎呀，真伤脑筋"
 
 msgid "sn_0794"
-msgstr ""
+msgstr "1st Anniversary"
 
 msgid "sn_0795"
-msgstr ""
+msgstr "宇宙回忆"
 
 msgid "sn_0796"
-msgstr ""
+msgstr "美好心愿"
 
 msgid "sn_0797"
-msgstr ""
+msgstr "闪亮挚友"
 
 msgid "sn_0798"
-msgstr ""
+msgstr "纯真眼眸"
 
 msgid "sn_0799"
-msgstr ""
+msgstr "突破节奏"
 
 msgid "sn_0800"
-msgstr ""
+msgstr "爱洒银河"
 
 msgid "sn_0801"
-msgstr ""
+msgstr "I can't wait！"
 
 msgid "sn_0802"
-msgstr ""
+msgstr "只有歌声才能证明我活着"
 
 msgid "sn_0803"
-msgstr ""
+msgstr "怎么现在才发觉！"
 
 msgid "sn_0804"
 msgstr ""
