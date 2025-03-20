@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:48+0000\n"
-"PO-Revision-Date: 2025-03-16 07:24+0000\n"
+"PO-Revision-Date: 2025-03-22 08:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/code/stringliterals/zh_Hans/>\n"
@@ -1512,31 +1512,31 @@ msgid "UMO_login_7740_prize2_msg"
 msgstr "每日登录奖励。"
 
 msgid "UMO_login_6541_name"
-msgstr "新手登录奖励"
+msgstr "新手登录活动奖励"
 
 msgid "UMO_login_6541_desc"
 msgstr "新玩家游玩前7天的每日登录奖励。"
 
 msgid "UMO_login_6541_prize1_msg"
-msgstr "新手登录奖励。"
+msgstr "新手登录活动奖励。"
 
 msgid "UMO_achievements_normal_quest"
-msgstr "完成普通任务获得的奖励。"
+msgstr "普通任务奖励。"
 
 msgid "UMO_achievements_daily_quest"
 msgstr ""
 
 msgid "UMO_achievements_episode"
-msgstr "解放回忆片段获得的奖励。"
+msgstr "回忆片段解放奖励。"
 
 msgid "UMO_achievements_debut_quest"
-msgstr "完成新手任务获得的奖励。"
+msgstr "新手任务奖励。"
 
 msgid "UMO_achievements_new_offer"
-msgstr "首次完成战机派遣行动获得的奖励。"
+msgstr "战机派遣行动首次完成奖励。"
 
 msgid "UMO_achievements_costume"
-msgstr "提升服装卡哇哇等级获得的奖励。"
+msgstr "服装卡哇哇等级提升奖励。"
 
 msgid "UMO_achievements_freemusic"
 msgstr ""
@@ -1916,7 +1916,7 @@ msgid "UMO_start_present_1"
 msgstr "来自歌之超时空要塞的特别礼物。"
 
 msgid "UMO_start_present_2"
-msgstr "新手开始游玩奖励。"
+msgstr "新手游玩奖励。"
 
 msgid "UMO_Next"
 msgstr ""
