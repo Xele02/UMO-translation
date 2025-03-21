@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:30+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-22 08:46+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutominiadvdb_text/ko/>\n"
@@ -16,30 +16,47 @@ msgstr ""
 
 msgid "tuto_miniadv_0000_0000_msg"
 msgstr ""
+"출격 전에 노트 타이밍이\n"
+"어긋나지는 않았는지 확인할게."
 
 msgid "tuto_miniadv_0000_0001_msg"
 msgstr ""
+"들려오는 소리에 맞춰\n"
+"리듬 버튼을 눌러봐."
 
 msgid "tuto_miniadv_0001_0000_msg"
 msgstr ""
+"이제 준비 OK.\n"
+"출격하자!"
 
 msgid "tuto_miniadv_0002_0000_msg"
 msgstr ""
+"이번을 위해 매뉴얼을 만들었어.\n"
+"함께 살펴보자."
 
 msgid "tuto_miniadv_0002_0001_msg"
 msgstr ""
+"역시 카나메 씨!\n"
+"이 매뉴얼만 보면 된다는 거네요!"
 
 msgid "tuto_miniadv_0003_0000_msg"
 msgstr ""
+"...우리 노래가 효과가 없다고?\n"
+"프레이아, 더 이상은 위험해.\n"
+"일단 돌아와!"
 
 msgid "tuto_miniadv_0004_0000_msg"
 msgstr ""
+"【에피소드 플레이트】는 우리들의 노래로 복원된\n"
+"기억을 개념화하여 전자 정보로 기록한 거야."
 
 msgid "tuto_miniadv_0005_0000_msg"
 msgstr ""
+"【에피소드 플레이트】는 다양한 방법으로\n"
+"획득할 수 있어."
 
 msgid "tuto_miniadv_0005_0001_msg"
-msgstr ""
+msgstr "이번에는 【가챠】를 뽑아서 획득해 보자!"
 
 msgid "tuto_miniadv_0005_0002_msg"
 msgstr ""
@@ -48,12 +65,19 @@ msgstr ""
 
 msgid "tuto_miniadv_0006_0000_msg"
 msgstr ""
+"이건...\n"
+"내가 오디션에 합격한 날?"
 
 msgid "tuto_miniadv_0006_0001_msg"
 msgstr ""
+"【에피소드 플레이트】에 떠오르는 것은\n"
+"우리와 관련된 기억의 이미지라는 것 같아."
 
 msgid "tuto_miniadv_0007_0000_msg"
 msgstr ""
+"【에피소드 플레이트】의 힘은 우리같은 가희들이\n"
+"착용해야만 그 힘을 발휘할 수 있어.\n"
+"방법을 설명해 줄게."
 
 msgid "tuto_miniadv_0008_0000_msg"
 msgstr "먼저 【유닛 편성】을 선택해 봐."
@@ -65,48 +89,69 @@ msgstr ""
 
 msgid "tuto_miniadv_0009_0001_msg"
 msgstr ""
+"자, 입수한 에피소드 플레이트로\n"
+"바로 강화해 보자."
 
 msgid "tuto_miniadv_0010_0000_msg"
 msgstr ""
+"에피소드 플레이트로 노래의 힘이 더 강해졌어!\n"
+"지금이라면 보다 강력한 생체 폴드파를\n"
+"발생시킬 수 있을 것 같네."
 
 msgid "tuto_miniadv_0011_0000_msg"
 msgstr ""
+"여기에서는 우리 왈큐레를 포함한 모든 은하의 사람들과\n"
+"시공을 초월하여 통신을 할 수 있어."
 
 msgid "tuto_miniadv_0011_0001_msg"
-msgstr ""
+msgstr "시공을 초월한다?"
 
 msgid "tuto_miniadv_0011_0002_msg"
-msgstr ""
+msgstr "그건 직접 눈으로 확인하는 게 더 빠를 것 같네."
 
 msgid "tuto_miniadv_0011_0003_msg"
 msgstr ""
+"자, 먼저 방을 선택하자.\n"
+"이번에는 【SNS 연락방】을 선택해봐."
 
 msgid "tuto_miniadv_0012_0000_msg"
-msgstr ""
+msgstr "이러면 될까요?"
 
 msgid "tuto_miniadv_0012_0001_msg"
-msgstr ""
+msgstr "응, 잘했어."
 
 msgid "tuto_miniadv_0013_0000_msg"
 msgstr ""
+"오오, 미쿠모 씨, 마키나 씨랑 레이나 씨!\n"
+"왈큐레 멤버들이 전부 있네!"
 
 msgid "tuto_miniadv_0013_0001_msg"
 msgstr ""
+"다른 멤버들은 먼저 등록했거든.\n"
+"자, 그럼 바로 대화를 시작해보자!"
 
 msgid "tuto_miniadv_0014_0000_msg"
 msgstr ""
+"이 데이터베이스에는 현재 새인간의 위협에\n"
+"맞서고 있는 가희들이 등록되어 있습니다."
 
 msgid "tuto_miniadv_0014_0001_msg"
 msgstr ""
+"새인간의 위협에 대항하기 위해서는,\n"
+"가희 여러분이 가진 노래의 힘과 당신의 협력이\n"
+"반드시 필요합니다."
 
 msgid "tuto_miniadv_0014_0002_msg"
-msgstr ""
+msgstr "먼저 함께 싸울 가희를 선택해 주시겠습니까?"
 
 msgid "tuto_miniadv_0014_0003_msg"
 msgstr ""
+"다만 밀레느 씨와 바사라 씨는 시공이\n"
+"안정되지 않았기 때문에\n"
+"아직은 함께 싸울 수 없습니다."
 
 msgid "tuto_miniadv_0014_0004_msg"
-msgstr ""
+msgstr "하지만 언젠가는 함께 싸울 수 있을 겁니다."
 
 msgid "tuto_miniadv_0015_0000_msg"
 msgstr ""
