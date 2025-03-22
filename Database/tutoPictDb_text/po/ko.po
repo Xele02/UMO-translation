@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-03-22 08:46+0000\n"
+"PO-Revision-Date: 2025-03-22 16:27+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/ko/>\n"
@@ -45,6 +45,9 @@ msgstr ""
 
 msgid "tutopict_0002_0001_msg"
 msgstr ""
+"라이브는 2D 모드에서도 플레이할 수 있어.\n"
+"변경하려면 【메뉴】의 【게임 설정】에서\n"
+"【동작 설정】을 선택하면 돼."
 
 msgid "tutopict_0003_0000_title"
 msgstr ""
@@ -68,7 +71,7 @@ msgstr ""
 "라이프 중심 등 목적별로 저장해두면 편리해."
 
 msgid "tutopict_0005_0000_title"
-msgstr ""
+msgstr "플레이로그에 대하여"
 
 msgid "tutopict_0005_0000_msg"
 msgstr ""
@@ -119,10 +122,13 @@ msgid "tutopict_0010_0000_msg"
 msgstr ""
 
 msgid "tutopict_0011_0000_title"
-msgstr ""
+msgstr "의상에 대하여"
 
 msgid "tutopict_0011_0000_msg"
 msgstr ""
+"의상을 준비했으면 이제 옷을 갈아입어보자!\n"
+"【의상 선택】에서 선택할 수 있어.\n"
+"의상에는 약간의 효과도 있어."
 
 msgid "tutopict_0012_0000_title"
 msgstr ""
@@ -180,10 +186,12 @@ msgstr ""
 "획득할 수 있는 에피소드 포인트도 높아져."
 
 msgid "tutopict_0017_0000_title"
-msgstr ""
+msgstr "드롭 아이템에 대하여"
 
 msgid "tutopict_0017_0000_msg"
 msgstr ""
+"라이브 중에 탭한 아이템은 라이브가 성공하면\n"
+"획득할 수 있으니 마지막까지 긴장을 늦추면 안돼."
 
 msgid "tutopict_0018_0000_title"
 msgstr "레어리티 상승에 대하여"
@@ -219,13 +227,17 @@ msgstr ""
 "플레이트를 성장시켜서 하이스코어를 노려보자."
 
 msgid "tutopict_0022_0000_title"
-msgstr ""
+msgstr "악곡의 속성에 대하여"
 
 msgid "tutopict_0022_0000_msg"
 msgstr ""
+"에피소드 플레이트와 곡의 속성이 같으면\n"
+"속성 보너스가 발생해."
 
 msgid "tutopict_0022_0001_msg"
 msgstr ""
+"목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\n"
+"예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
 
 msgid "tutopict_0023_0000_title"
 msgstr ""
@@ -265,7 +277,7 @@ msgid "tutopict_0026_0001_msg"
 msgstr ""
 
 msgid "tutopict_0027_0000_title"
-msgstr ""
+msgstr "하이스코어를 얻으려면"
 
 msgid "tutopict_0027_0000_msg"
 msgstr ""
@@ -273,7 +285,7 @@ msgstr ""
 "라이브에 등장시키고 싶은 가희를 센터로 설정해."
 
 msgid "tutopict_0028_0000_title"
-msgstr ""
+msgstr "하이스코어를 얻으려면"
 
 msgid "tutopict_0028_0000_msg"
 msgstr ""
@@ -299,22 +311,37 @@ msgid "tutopict_0031_0000_msg"
 msgstr ""
 
 msgid "tutopict_0032_0000_title"
-msgstr ""
+msgstr "럭키 리프에 대하여"
 
 msgid "tutopict_0032_0000_msg"
 msgstr ""
+"플레이트의 LUCK을 높이면 럭키 리프가\n"
+"등장해. 이게 해방된 플레이트를 편성하면\n"
+"라이브 중 다양한 특수 효과를 얻을 수 있어."
 
 msgid "tutopict_0032_0001_msg"
 msgstr ""
+"럭키 리프를 해방할 수 있는 것은, 레어리티 상승 후\n"
+"★5, ★6, ★7 플레이트 뿐이야. 대상 플레이트의 LUCK에\n"
+"따라 해방할 수 있는 럭키 리프의 개수가 늘어나."
 
 msgid "tutopict_0032_0002_msg"
 msgstr ""
+"럭키 리프를 해방하려면 【행운의 휘석】과\n"
+"【행운의 황석】이 필요해! 이벤트 보상이나\n"
+"미션 등을 통해 획득할 수 있어."
 
 msgid "tutopict_0032_0003_msg"
 msgstr ""
+"해방한 리프의 수에 따라\n"
+"럭키 리프의 효과가 강해져.\n"
+"이를 이용해 하이스코어를 노려보자!"
 
 msgid "tutopict_0032_0004_msg"
 msgstr ""
+"프리미어화하면 플레이트가 무지갯빛으로 빛나.\n"
+"데코르챠 룸에 포스터로 붙여서\n"
+"모두에게 자랑하자!"
 
 msgid "tutopict_0033_0000_title"
 msgstr ""
@@ -432,15 +459,23 @@ msgstr "달성 보상에 대하여"
 
 msgid "tutopict_0046_0000_msg"
 msgstr ""
+"라이브에서 받을 수 있는 보상은 악곡별, 난이도별로\n"
+"준비되어 있으니 모두 획득하는 것을\n"
+"목표로 해보자!"
 
 msgid "tutopict_0047_0000_title"
 msgstr ""
 
 msgid "tutopict_0047_0000_msg"
 msgstr ""
+"특정 의상을 획득한 후,\n"
+"그 의상을 더욱 강화할 수 있게 되었어!"
 
 msgid "tutopict_0047_0001_msg"
 msgstr ""
+"오퍼레이션에서 얻을 수 있는 【크로스 스톤】을 사용해\n"
+"【해방치】를 올리면 의상의 【카와와 랭크】가 상승!\n"
+"랭크를 점점 올려서 보상을 획득해 보자!"
 
 msgid "tutopict_0047_0002_msg"
 msgstr ""
@@ -455,10 +490,13 @@ msgid "tutopict_0048_0000_msg"
 msgstr ""
 
 msgid "tutopict_0049_0000_title"
-msgstr ""
+msgstr "지원 플레이트에 대하여"
 
 msgid "tutopict_0049_0000_msg"
 msgstr ""
+"【지원 플레이트】에는 편성하지 않은 플레이트\n"
+"중에서 가장 효과가 좋은 플레이트가 자동으로 설정돼.\n"
+"다양한 플레이트를 육성해 보자!"
 
 msgid "tutopict_0049_0001_msg"
 msgstr ""
@@ -542,7 +580,7 @@ msgid "tutopict_0056_0000_msg"
 msgstr ""
 
 msgid "tutopict_0057_0000_title"
-msgstr ""
+msgstr "스코어 예측 게이지에 대하여"
 
 msgid "tutopict_0057_0000_msg"
 msgstr ""
@@ -584,7 +622,7 @@ msgid "tutopict_0059_0004_msg"
 msgstr ""
 
 msgid "tutopict_0060_0000_title"
-msgstr ""
+msgstr "행동 선택에 대하여"
 
 msgid "tutopict_0060_0000_msg"
 msgstr ""
@@ -675,6 +713,9 @@ msgstr ""
 
 msgid "tutopict_0070_0002_msg"
 msgstr ""
+"프리미어화하면 플레이트가 무지갯빛으로 빛나.\n"
+"데코르챠 룸에 포스터로 붙여서\n"
+"모두에게 자랑하자!"
 
 msgid "tutopict_0071_0000_title"
 msgstr ""
@@ -693,9 +734,12 @@ msgstr ""
 
 msgid "tutopict_0072_0000_msg"
 msgstr ""
+"럭키 리프 목록 버튼을 누르면 럭키 리프가\n"
+"해방할 수 있는 플레이트를 확인할 수 있어.\n"
+"해방할 수 있는 플레이트가 있으면 계속 해방하자."
 
 msgid "tutopict_0073_0000_title"
-msgstr ""
+msgstr "행동 선택에 대하여"
 
 msgid "tutopict_0073_0000_msg"
 msgstr ""
@@ -727,7 +771,7 @@ msgid "tutopict_0075_0003_msg"
 msgstr ""
 
 msgid "tutopict_0076_0000_title"
-msgstr ""
+msgstr "어시스트 설정에 대하여"
 
 msgid "tutopict_0076_0000_msg"
 msgstr ""
@@ -847,13 +891,13 @@ msgid "tutopict_0088_0002_msg"
 msgstr ""
 
 msgid "tutopict_0089_0000_title"
-msgstr ""
+msgstr "초시공 SNS에 대하여"
 
 msgid "tutopict_0089_0000_msg"
 msgstr ""
 
 msgid "tutopict_0090_0000_title"
-msgstr ""
+msgstr "초시공 SNS에 대하여"
 
 msgid "tutopict_0090_0000_msg"
 msgstr ""
@@ -883,6 +927,9 @@ msgstr ""
 
 msgid "tutopict_0093_0001_msg"
 msgstr ""
+"라이브는 2D 모드에서도 플레이할 수 있어.\n"
+"변경하려면 【메뉴】의 【게임 설정】에서\n"
+"【동작 설정】을 선택하면 돼."
 
 msgid "tutopict_0094_0000_title"
 msgstr ""
@@ -942,10 +989,12 @@ msgid "tutopict_0098_0002_msg"
 msgstr ""
 
 msgid "tutopict_0099_0000_title"
-msgstr ""
+msgstr "드롭 아이템에 대하여"
 
 msgid "tutopict_0099_0000_msg"
 msgstr ""
+"라이브 중에 탭한 아이템은 라이브가 성공하면\n"
+"획득할 수 있으니 마지막까지 긴장을 늦추면 안돼."
 
 msgid "tutopict_0100_0000_title"
 msgstr ""
@@ -954,7 +1003,7 @@ msgid "tutopict_0100_0000_msg"
 msgstr ""
 
 msgid "tutopict_0101_0000_title"
-msgstr ""
+msgstr "플레이로그에 대하여"
 
 msgid "tutopict_0101_0000_msg"
 msgstr ""
@@ -995,13 +1044,17 @@ msgid "tutopict_0104_0002_msg"
 msgstr ""
 
 msgid "tutopict_0105_0000_title"
-msgstr ""
+msgstr "악곡의 속성에 대하여"
 
 msgid "tutopict_0105_0000_msg"
 msgstr ""
+"에피소드 플레이트와 곡의 속성이 같으면\n"
+"속성 보너스가 발생해."
 
 msgid "tutopict_0105_0001_msg"
 msgstr ""
+"목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\n"
+"예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
 
 msgid "tutopict_0106_0000_title"
 msgstr ""
@@ -1099,10 +1152,13 @@ msgid "tutopict_0114_0001_msg"
 msgstr ""
 
 msgid "tutopict_0115_0000_title"
-msgstr ""
+msgstr "의상에 대하여"
 
 msgid "tutopict_0115_0000_msg"
 msgstr ""
+"의상을 준비했으면 이제 옷을 갈아입어보자!\n"
+"【의상 선택】에서 선택할 수 있어.\n"
+"의상에는 약간의 효과도 있어."
 
 msgid "tutopict_0116_0000_title"
 msgstr "선물상자에 대하여"
@@ -1189,6 +1245,9 @@ msgstr "달성 보상에 대하여"
 
 msgid "tutopict_0125_0000_msg"
 msgstr ""
+"라이브에서 받을 수 있는 보상은 악곡별, 난이도별로\n"
+"준비되어 있으니 모두 획득하는 것을\n"
+"목표로 해보자!"
 
 msgid "tutopict_0126_0000_title"
 msgstr ""
@@ -1461,7 +1520,7 @@ msgid "tutopict_0150_0002_msg"
 msgstr ""
 
 msgid "tutopict_0151_0000_title"
-msgstr ""
+msgstr "노래 등급에 대하여"
 
 msgid "tutopict_0151_0000_msg"
 msgstr ""
@@ -1477,24 +1536,42 @@ msgstr ""
 
 msgid "tutopict_0152_0000_msg"
 msgstr ""
+"플레이트의 LUCK을 높이면 럭키 리프가\n"
+"등장해. 이게 해방된 플레이트를 편성하면\n"
+"라이브 중 다양한 특수 효과를 얻을 수 있어."
 
 msgid "tutopict_0152_0001_msg"
 msgstr ""
+"럭키 리프를 해방할 수 있는 것은, 레어리티 상승 후\n"
+"★5, ★6, ★7 플레이트 뿐이야. 대상 플레이트의 LUCK에\n"
+"따라 해방할 수 있는 럭키 리프의 개수가 늘어나."
 
 msgid "tutopict_0152_0002_msg"
 msgstr ""
+"럭키 리프를 해방하려면 【행운의 휘석】과\n"
+"【행운의 황석】이 필요해! 이벤트 보상이나\n"
+"미션 등을 통해 획득할 수 있어."
 
 msgid "tutopict_0152_0003_msg"
 msgstr ""
+"해방한 리프의 수에 따라\n"
+"럭키 리프의 효과가 강해져.\n"
+"이를 이용해 하이스코어를 노려보자!"
 
 msgid "tutopict_0152_0004_msg"
 msgstr ""
+"프리미어화하면 플레이트가 무지갯빛으로 빛나.\n"
+"데코르챠 룸에 포스터로 붙여서\n"
+"모두에게 자랑하자!"
 
 msgid "tutopict_0152_0005_msg"
 msgstr ""
+"럭키 리프 목록 버튼을 누르면 럭키 리프가\n"
+"해방할 수 있는 플레이트를 확인할 수 있어.\n"
+"해방할 수 있는 플레이트가 있으면 계속 해방하자."
 
 msgid "tutopict_0153_0000_title"
-msgstr ""
+msgstr "어시스트 설정에 대하여"
 
 msgid "tutopict_0153_0000_msg"
 msgstr ""
@@ -1860,6 +1937,9 @@ msgstr ""
 
 msgid "tutopict_0172_0004_msg"
 msgstr ""
+"EX 배틀 악곡의 스코어 합산으로 랭킹이 결정돼.\n"
+"강적에게 승리하여 하이스코어를 목표로 하자!\n"
+"또한, 멸망의 노래의 영향을 받기 때문에 주의가 필요해."
 
 msgid "tutopict_0172_0005_msg"
 msgstr ""
@@ -1896,6 +1976,9 @@ msgstr ""
 
 msgid "tutopict_0173_0004_msg"
 msgstr ""
+"EX 배틀 악곡의 스코어 합산으로 랭킹이 결정돼.\n"
+"강적에게 승리하여 하이스코어를 목표로 하자!\n"
+"또한, 멸망의 노래의 영향을 받기 때문에 주의가 필요해."
 
 msgid "tutopict_0173_0005_msg"
 msgstr ""
@@ -1926,6 +2009,9 @@ msgstr ""
 
 msgid "tutopict_0174_0003_msg"
 msgstr ""
+"EX 배틀 악곡의 스코어 합산으로 랭킹이 결정돼.\n"
+"강적에게 승리하여 하이스코어를 목표로 하자!\n"
+"또한, 멸망의 노래의 영향을 받기 때문에 주의가 필요해."
 
 msgid "tutopict_0174_0004_msg"
 msgstr ""
@@ -2144,7 +2230,7 @@ msgstr ""
 "있을 것 같은 조건을 선택하는 것도 하나의 방법이지."
 
 msgid "tutopict_0186_0000_title"
-msgstr ""
+msgstr "행동 선택에 대하여"
 
 msgid "tutopict_0186_0000_msg"
 msgstr ""
@@ -2471,16 +2557,20 @@ msgid "tutopict_0214_0000_msg"
 msgstr ""
 
 msgid "tutopict_0215_0000_title"
-msgstr ""
+msgstr "악곡의 속성에 대하여"
 
 msgid "tutopict_0215_0000_msg"
 msgstr ""
+"에피소드 플레이트와 곡의 속성이 같으면\n"
+"속성 보너스가 발생해."
 
 msgid "tutopict_0215_0001_msg"
 msgstr ""
+"목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\n"
+"예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
 
 msgid "tutopict_0216_0000_title"
-msgstr ""
+msgstr "하이스코어를 얻으려면"
 
 msgid "tutopict_0216_0000_msg"
 msgstr ""
@@ -2527,31 +2617,48 @@ msgid "tutopict_0222_0000_msg"
 msgstr ""
 
 msgid "tutopict_0223_0000_title"
-msgstr ""
+msgstr "의상 강화에 대하여"
 
 msgid "tutopict_0223_0000_msg"
 msgstr ""
+"특정 의상을 획득한 후,\n"
+"그 의상을 더욱 강화할 수 있게 되었어!"
 
 msgid "tutopict_0223_0001_msg"
 msgstr ""
+"오퍼레이션에서 얻을 수 있는 【크로스 스톤】을 사용해\n"
+"【해방치】를 올리면 의상의 【카와와 랭크】가 상승!\n"
+"랭크를 점점 올려서 보상을 획득해 보자!"
 
 msgid "tutopict_0223_0002_msg"
 msgstr ""
+"보상으로는【지원 플레이트 슬롯】과 가희의 스테이터스\n"
+"상승이 있어. 유닛에 추가로 플레이트를 장착할 수 있는\n"
+"【지원 플레이트 슬롯】은 유닛을 더욱 강화할 수 있어!"
 
 msgid "tutopict_0224_0000_title"
-msgstr ""
+msgstr "지원 플레이트에 대하여"
 
 msgid "tutopict_0224_0000_msg"
 msgstr ""
+"【지원 플레이트】에는 편성하지 않은 플레이트\n"
+"중에서 가장 효과가 좋은 플레이트가 자동으로 설정돼.\n"
+"다양한 플레이트를 육성해 보자!"
 
 msgid "tutopict_0224_0001_msg"
 msgstr ""
+"【지원 플레이트】에 설정된 플레이트의\n"
+"능력의 일부가 유닛에 추가되서\n"
+"하이스코어를 노리기 쉬워져!"
 
 msgid "tutopict_0225_0000_title"
-msgstr ""
+msgstr "스코어 예측 게이지에 대하여"
 
 msgid "tutopict_0225_0000_msg"
 msgstr ""
+"현재 설정으로 플레이했을 때의 점수 예측\n"
+"게이지가 표시돼.\n"
+"참고하면서 유닛을 구성해 보자."
 
 msgid "tutopict_0226_0000_title"
 msgstr ""
@@ -2616,13 +2723,17 @@ msgid "tutopict_0232_0002_msg"
 msgstr ""
 
 msgid "tutopict_0233_0000_title"
-msgstr ""
+msgstr "악곡의 속성에 대하여"
 
 msgid "tutopict_0233_0000_msg"
 msgstr ""
+"에피소드 플레이트와 곡의 속성이 같으면\n"
+"속성 보너스가 발생해."
 
 msgid "tutopict_0233_0001_msg"
 msgstr ""
+"목표로 하는 결정이 있을 때는 악곡의 속성을 의식해봐.\n"
+"예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
 
 msgid "tutopict_0234_0000_title"
 msgstr ""
