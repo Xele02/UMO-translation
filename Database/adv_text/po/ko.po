@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-01-26 12:23+0000\n"
+"PO-Revision-Date: 2025-03-22 16:27+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/ko/>\n"
@@ -9310,7 +9310,7 @@ msgid "adv_301402_0027_msg"
 msgstr ""
 
 msgid "adv_301402_0031_msg"
-msgstr ""
+msgstr "카나메"
 
 msgid "adv_301402_0032_msg"
 msgstr ""
@@ -9709,7 +9709,7 @@ msgid "adv_201602_0025_msg"
 msgstr ""
 
 msgid "adv_201602_0027_msg"
-msgstr ""
+msgstr "카나메"
 
 msgid "adv_201602_0028_msg"
 msgstr ""
@@ -20959,7 +20959,7 @@ msgid "adv_104501_0042_msg"
 msgstr ""
 
 msgid "adv_104502_0008_msg"
-msgstr ""
+msgstr "카나메"
 
 msgid "adv_104502_0009_msg"
 msgstr ""
@@ -23848,7 +23848,7 @@ msgid "adv_105401_0015_msg"
 msgstr ""
 
 msgid "adv_105401_0016_msg"
-msgstr ""
+msgstr "카나메"
 
 msgid "adv_105401_0017_msg"
 msgstr ""
@@ -25752,7 +25752,7 @@ msgid "adv_206301_0008_msg"
 msgstr ""
 
 msgid "adv_206301_0009_msg"
-msgstr ""
+msgstr "카나메"
 
 msgid "adv_206301_0010_msg"
 msgstr ""
@@ -25773,7 +25773,7 @@ msgid "adv_206301_0017_msg"
 msgstr ""
 
 msgid "adv_206301_0018_msg"
-msgstr ""
+msgstr "셰릴도?"
 
 msgid "adv_206301_0019_msg"
 msgstr ""
@@ -25785,7 +25785,7 @@ msgid "adv_206301_0021_msg"
 msgstr ""
 
 msgid "adv_206301_0023_msg"
-msgstr ""
+msgstr "밀레느, 란카"
 
 msgid "adv_206301_0024_msg"
 msgstr "레이나!"
