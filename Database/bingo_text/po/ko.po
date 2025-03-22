@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-22 16:27+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/ko/>\n"
@@ -355,9 +355,12 @@ msgstr ""
 
 msgid "bingo_0002_0002_0013_desc"
 msgstr ""
+"이벤트 악곡\n"
+"총 20회 이상\n"
+"플레이"
 
 msgid "bingo_0002_0002_0013_cond"
-msgstr ""
+msgstr "이벤트 악곡 총 20회 이상 플레이"
 
 msgid "bingo_0002_0002_0014_desc"
 msgstr ""
@@ -405,13 +408,16 @@ msgid "bingo_0002_0002_0019_desc"
 msgstr ""
 
 msgid "bingo_0002_0002_0019_cond"
-msgstr ""
+msgstr "노래 레이트 1000 달성"
 
 msgid "bingo_0002_0002_0020_desc"
 msgstr ""
+"이벤트 악곡\n"
+"총 50회 이상\n"
+"플레이"
 
 msgid "bingo_0002_0002_0020_cond"
-msgstr ""
+msgstr "이벤트 악곡 총 50회 이상 플레이"
 
 msgid "bingo_0002_0002_0021_desc"
 msgstr ""
@@ -453,15 +459,23 @@ msgstr "스코어 100만점 이상 달성"
 
 msgid "bingo_0002_0002_0025_desc"
 msgstr ""
+"의상의\n"
+"캬와와 랭크\n"
+"3 달성"
 
 msgid "bingo_0002_0002_0025_cond"
 msgstr ""
+"의상의 캬와와 랭크\n"
+"3 달성"
 
 msgid "bingo_0002_0002_0026_desc"
 msgstr ""
+"가희 오퍼레이션\n"
+"10회\n"
+"발생시키기"
 
 msgid "bingo_0002_0002_0026_cond"
-msgstr ""
+msgstr "가희 오퍼레이션 10회 발생시키기"
 
 msgid "bingo_0002_0002_0027_desc"
 msgstr ""
@@ -968,9 +982,14 @@ msgstr "플레이트 30장 획득하기"
 
 msgid "bingo_0004_0004_0009_desc"
 msgstr ""
+"우타 마크로스에\n"
+"총 2일\n"
+"로그인하기"
 
 msgid "bingo_0004_0004_0009_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 2일 로그인하기"
 
 msgid "bingo_0004_0004_0010_desc"
 msgstr ""
@@ -1006,9 +1025,11 @@ msgstr "이벤트 악곡 총 10회 이상 플레이"
 
 msgid "bingo_0004_0004_0014_desc"
 msgstr ""
+"별자리 메달 교환소\n"
+"에서 1회 교환하기"
 
 msgid "bingo_0004_0004_0014_cond"
-msgstr ""
+msgstr "별자리 메달 교환소에서 1회 교환하기"
 
 msgid "bingo_0004_0004_0015_desc"
 msgstr ""
@@ -1052,9 +1073,12 @@ msgstr ""
 
 msgid "bingo_0004_0004_0020_desc"
 msgstr ""
+"이벤트 악곡\n"
+"총 20회 이상\n"
+"플레이"
 
 msgid "bingo_0004_0004_0020_cond"
-msgstr ""
+msgstr "이벤트 악곡 총 20회 이상 플레이"
 
 msgid "bingo_0004_0004_0021_desc"
 msgstr ""
@@ -1096,9 +1120,14 @@ msgstr "스코어 100만점 이상 달성"
 
 msgid "bingo_0004_0004_0025_desc"
 msgstr ""
+"의상의\n"
+"캬와와 랭크\n"
+"3 달성"
 
 msgid "bingo_0004_0004_0025_cond"
 msgstr ""
+"의상의 캬와와 랭크\n"
+"3 달성"
 
 msgid "bingo_0004_0004_0026_desc"
 msgstr ""
@@ -1181,9 +1210,14 @@ msgstr ""
 
 msgid "bingo_0005_0005_0009_cond"
 msgstr ""
+"우타 마크로스에\n"
+"총 2일 로그인하기"
 
 msgid "bingo_0005_0005_0010_desc"
 msgstr ""
+"EP 플레이트\n"
+"【신춘의 단란】\n"
+"Lv70 달성"
 
 msgid "bingo_0005_0005_0010_cond"
 msgstr ""
