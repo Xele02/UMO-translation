@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-22 16:26+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -219,7 +219,7 @@ msgstr ""
 "보유 한도를 초과하는 물품이 있었습니다."
 
 msgid "pbox_text_08"
-msgstr "선물 {0} 건을 수령하였습니다."
+msgstr "선물 {0}건을 수령하였습니다."
 
 msgid "pbox_text_09"
 msgstr "수령 가능한 선물이 없습니다."
@@ -431,19 +431,19 @@ msgid "config_text_36"
 msgstr ""
 
 msgid "config_text_37_rhythm"
-msgstr ""
+msgstr "현재 난이도"
 
 msgid "config_text_37_option"
 msgstr ""
 
 msgid "config_text_38"
-msgstr ""
+msgstr "노트 스피드는 난이도별로 설정됩니다."
 
 msgid "config_text_39"
-msgstr ""
+msgstr "라이브 중의 노트 스피드를 조절할 수 있습니다."
 
 msgid "config_text_40"
-msgstr ""
+msgstr "노트 스피드 설정"
 
 msgid "config_text_41"
 msgstr ""
@@ -510,21 +510,26 @@ msgstr ""
 
 msgid "config_text_62"
 msgstr ""
+"노트 스피드를 초기 설정으로 되돌립니다.\n"
+"괜찮으시겠습니까?\n"
+"<color=#C8087E>※모든 난이도의 설정값이 변경됩니다. </color>"
 
 msgid "config_text_63"
-msgstr ""
+msgstr "모든 난이도에서 동일한 설정으로 반영하기"
 
 msgid "config_text_64"
-msgstr ""
+msgstr "체크하지 않으면 노트 스피드는 난이도별로 설정됩니다."
 
 msgid "config_text_65"
 msgstr "다음부터 표시하지 않음"
 
 msgid "config_text_66"
-msgstr ""
+msgstr "노트 스피드는 게임 설정에서 언제든지 변경할 수 있습니다."
 
 msgid "config_text_67"
 msgstr ""
+"노트 스피드 설정이 완료되었습니다.\n"
+"게임 설정에서 언제든지 변경할 수 있습니다."
 
 msgid "config_text_68"
 msgstr ""
@@ -1297,28 +1302,28 @@ msgid "popup_quest_detail_001"
 msgstr ""
 
 msgid "popup_quest_detail_002"
-msgstr ""
+msgstr "{0}×{1}"
 
 msgid "popup_title_episode_01"
-msgstr ""
+msgstr "에피소드 해방 보상"
 
 msgid "popup_title_episode_02"
-msgstr ""
+msgstr "에피소드 아이템"
 
 msgid "popup_title_episode_03"
-msgstr ""
+msgstr "에피소드 해방"
 
 msgid "popup_title_episode_04"
-msgstr ""
+msgstr "에피소드 보상"
 
 msgid "episode_item_select_01"
-msgstr ""
+msgstr "아이템을 보유하고 있지 않습니다."
 
 msgid "popup_title_sns_01"
-msgstr ""
+msgstr "초시공 SNS룸"
 
 msgid "sns_text_01"
-msgstr ""
+msgstr "새로운 메시지가 있습니다."
 
 msgid "sns_item_description"
 msgstr ""
@@ -2116,7 +2121,8 @@ msgid "result_playlog_hint_003"
 msgstr ""
 
 msgid "result_playlog_hint_004"
-msgstr ""
+msgstr "아직 능력을 해방할 수 있는 플레이트가 더 있는 것 같아. 플레이트의 능력을 "
+"해방하여 스테이터스를 강화하자."
 
 msgid "result_playlog_hint_005"
 msgstr ""
@@ -2128,7 +2134,8 @@ msgid "result_playlog_hint_007"
 msgstr ""
 
 msgid "result_playlog_hint_008"
-msgstr ""
+msgstr "가희와 플레이트의 상성을 맞춰보자. 라이브 스킬이 발동하여 콤보 지속과 "
+"하이스코어를 기대할 수 있어."
 
 msgid "result_playlog_hint_009"
 msgstr ""
@@ -2144,8 +2151,8 @@ msgstr ""
 
 msgid "result_playlog_graph_detail"
 msgstr ""
-"상세 내용을 확인하고 싶은\n"
-"그래프 부분을\n"
+"상세 내용을 확인하고\n"
+"싶은 그래프 부분을\n"
 "탭하세요."
 
 msgid "popup_valkyrie_select_title"
@@ -2269,7 +2276,7 @@ msgid "popup_rhythm_adjust_tutorial_title"
 msgstr ""
 
 msgid "popup_result_playlog_detail_title"
-msgstr ""
+msgstr "플레이로그 상세"
 
 msgid "popup_denom_check_birthday_title"
 msgstr ""
@@ -2377,16 +2384,16 @@ msgid "popup_add_episode_02"
 msgstr ""
 
 msgid "popup_add_episode_03"
-msgstr ""
+msgstr "의상은 에피소드를 모두 해방하면 획득할 수 있습니다."
 
 msgid "popup_add_episode_04"
 msgstr ""
 
 msgid "popup_release_ep_diva_costume"
-msgstr ""
+msgstr "{0}의상"
 
 msgid "popup_release_episode_01"
-msgstr ""
+msgstr "에피소드 목록에서 의상을 해방하자!"
 
 msgid "popup_release_episode_02"
 msgstr ""
@@ -2507,9 +2514,13 @@ msgstr ""
 
 msgid "unlock_costume_not_have_diva"
 msgstr ""
+"이 의상을 사용할 수 있는 가희가 없습니다.\n"
+"기억의 시공에서 가희의 기억을 해방합시다."
 
 msgid "unlock_costume_not_have_basara"
 msgstr ""
+"바사라가 없어 이 의상을 사용할 수 없습니다.\n"
+"기억의 시공으로 바사라의 기억을 해방합시다."
 
 msgid "scenelist_not_listed_up"
 msgstr ""
@@ -2700,21 +2711,28 @@ msgstr ""
 
 msgid "game_popup_mvpause_text"
 msgstr ""
+"악곡 이름\n"
+"{0}\n"
+"\n"
+"난이도\n"
+"{1}"
 
 msgid "game_mvmode_endtitle_text"
-msgstr ""
+msgstr "종료 확인"
 
 msgid "game_mvmode_end_text"
 msgstr ""
+"시뮬레이션 라이브를 종료합니다.\n"
+"괜찮으시겠습니까?"
 
 msgid "mvmode_setting_popuptitle_000"
-msgstr ""
+msgstr "가희 선택"
 
 msgid "mvmode_setting_popuptitle_001"
-msgstr ""
+msgstr "의상 선택"
 
 msgid "mvmode_setting_popuptitle_002"
-msgstr ""
+msgstr "발키리 선택"
 
 msgid "mvmode_setting_menu_000"
 msgstr ""
@@ -2732,13 +2750,13 @@ msgid "mvmode_setting_popup_text_000_001"
 msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_000"
-msgstr ""
+msgstr "가희에게 SET 중인 의상"
 
 msgid "mvmode_setting_popup_text_001_001"
 msgstr "{0}"
 
 msgid "mvmode_setting_popup_text_001_002"
-msgstr ""
+msgstr "바사라에게 SET 중인 의상"
 
 msgid "mvmode_setting_popup_text_002_000"
 msgstr ""
@@ -2758,10 +2776,10 @@ msgid "prism_caution"
 msgstr ""
 
 msgid "item_popup_shop_text_00"
-msgstr ""
+msgstr "아이템 교환"
 
 msgid "item_popup_shop_text_01"
-msgstr ""
+msgstr "보유:"
 
 msgid "item_popup_shop_text_02"
 msgstr ""
@@ -2894,7 +2912,7 @@ msgid "popup_music_rate_title"
 msgstr ""
 
 msgid "popup_music_grade_title"
-msgstr ""
+msgstr "노래 등급 목록"
 
 msgid "popup_music_rate_total"
 msgstr "합계"
@@ -2918,13 +2936,13 @@ msgid "popup_music_rate_must"
 msgstr "필요 노래 레이트"
 
 msgid "popup_music_rate_get_reward_desc_01"
-msgstr ""
+msgstr "노래 등급이 상승하여 보상으로 아이템을 획득했습니다."
 
 msgid "popup_music_rate_get_reward_desc_02"
 msgstr ""
 
 msgid "popup_music_rate_desc"
-msgstr "노래 등급은 하이 스코어 상위 10곡의 노래 레이트의 총합으로 결정됩니다."
+msgstr "노래 등급은 하이스코어 상위 10곡의 노래 레이트의 총합으로 결정됩니다."
 
 msgid "popup_music_rate_rank_unit"
 msgstr "{0}위"
@@ -3318,6 +3336,11 @@ msgstr ""
 
 msgid "unit_multi_dance_popup_03"
 msgstr ""
+"이 유닛 라이브를 플레이하려면\n"
+"{0}명 이상의 가희가 필요합니다.\n"
+"\n"
+"<color=#C8087E>※기억의 시공을 진행하면 새로운 가희가\n"
+"유닛에 참가할 수 있게 됩니다. </color>"
 
 msgid "unit_multi_dance_lock_text"
 msgstr ""
@@ -3341,7 +3364,7 @@ msgid "episode_appeal_text_002"
 msgstr ""
 
 msgid "episode_appeal_text_003"
-msgstr ""
+msgstr "{0} 전용 : 새로운 의상 등장!"
 
 msgid "add_unit_multi_dance_popup_01"
 msgstr ""
@@ -3436,10 +3459,10 @@ msgstr ""
 "주문할 수 없습니다."
 
 msgid "offer_squadron_popup_title"
-msgstr ""
+msgstr "출격 소대"
 
 msgid "offer_fast_completion_popup_title_01"
-msgstr ""
+msgstr "고속 완료"
 
 msgid "offer_fast_completion_popup_text_01_01"
 msgstr ""
@@ -3475,22 +3498,24 @@ msgstr ""
 "발키리 {0}대 이상 보유하기"
 
 msgid "costume_upgrade_diva_select_title_text"
-msgstr ""
+msgstr "가희 선택"
 
 msgid "costume_upgrade_comp_title_text"
-msgstr ""
+msgstr "의상 해방"
 
 msgid "costume_upgrade_detail_item_title_text"
-msgstr ""
+msgstr "보상 상세"
 
 msgid "costume_upgrade_item_select_makina_serif"
 msgstr ""
+"이 의상을 강화할 거야~\n"
+"강화 아이템을 선택해줘!"
 
 msgid "costume_upgrade_item_select_makina_serif2"
 msgstr ""
 
 msgid "costume_upgrade_item_use_title_text"
-msgstr ""
+msgstr "소비 아이템 확인"
 
 msgid "costume_upgrade_achievement_title_text"
 msgstr ""
@@ -3509,15 +3534,23 @@ msgstr ""
 
 msgid "costume_upgrade_diva_select_warning_text"
 msgstr ""
+"해방되지 않은 가희가 선택되어 있습니다.\n"
+"강화 가능한 의상이 없습니다."
 
 msgid "costume_upgrade_item_detail_costume_skillup"
 msgstr ""
+"의상에 새로운 효과를 부여한다.\n"
+"획득 효과 『{0}』"
 
 msgid "costume_upgrade_item_detail_costume_skillget"
 msgstr ""
+"의상의 효과를 1단계 강화한다.\n"
+"강화 후 스탯 『{0}』"
 
 msgid "costume_upgrade_item_detail_costume_color"
 msgstr ""
+"{0}\n"
+"{1}의 팔레트 체인지 의상을 해방한다."
 
 msgid "costume_upgrade_item_detail_diva_status_up"
 msgstr ""
@@ -3529,7 +3562,7 @@ msgid "costume_upgrade_item_detail_sub_plate"
 msgstr ""
 
 msgid "costume_upgrade_rank_up_unlock_condition_text"
-msgstr ""
+msgstr "해방 조건"
 
 msgid "costume_upgrade_lock_text"
 msgstr ""
@@ -3544,6 +3577,10 @@ msgstr ""
 
 msgid "subplate_lock_text"
 msgstr ""
+"【해방 조건】\n"
+"・의상 강화로 지원 플레이트 해방을 획득한다.\n"
+"\n"
+"<color=#C8087E>※의상 강화는 게임을 진행하면 해방됩니다. </color>"
 
 msgid "offer_infomation_text_01"
 msgstr ""
@@ -3592,6 +3629,8 @@ msgstr ""
 
 msgid "offer_spitem_detail_text"
 msgstr ""
+"레어 드랍으로 출현할 가능성이 있는 아이템.\n"
+"<color=#C8087E>※임무 대성공의 경우 1개 출현합니다. </color>"
 
 msgid "offer_all_platoon_sortie_pop_text"
 msgstr ""
@@ -3701,7 +3740,7 @@ msgid "popup_sel_cos_terms_text_color01"
 msgstr ""
 
 msgid "popup_sel_cos_terms_text_color02"
-msgstr ""
+msgstr "「의상 강화」를 해방하고"
 
 msgid "popup_sel_cos_terms_text_color03"
 msgstr ""
@@ -3878,16 +3917,16 @@ msgid "bingo_reward_select_conf_text"
 msgstr ""
 
 msgid "bingo_reward_select_conf_title"
-msgstr ""
+msgstr "보상 선택"
 
 msgid "bingo_mission_reward_pop_title"
-msgstr ""
+msgstr "미션 보상"
 
 msgid "bingo_reward_pop_title"
-msgstr ""
+msgstr "빙고 보상"
 
 msgid "bingo_mission_reward_get_pop_title"
-msgstr ""
+msgstr "보상 획득"
 
 msgid "bingo_mission_change__bingo_text"
 msgstr ""
@@ -3896,31 +3935,31 @@ msgid "bingo_mission_end_pop_text"
 msgstr ""
 
 msgid "pop_score_detail_title"
-msgstr ""
+msgstr "스코어 예측 게이지 상세"
 
 msgid "pop_score_detail_caution_01"
-msgstr ""
+msgstr "멸망의 노래의 영향도 예측에 포함되어 있습니다."
 
 msgid "pop_score_detail_caution_02"
-msgstr ""
+msgstr "플레이트의 능력과 스킬에 따른 예측일 뿐, 실제 플레이 결과가 아닙니다."
 
 msgid "pop_score_detail_item_name_01"
-msgstr ""
+msgstr "기본값"
 
 msgid "pop_score_detail_item_name_02"
-msgstr ""
+msgstr "의상"
 
 msgid "pop_score_detail_item_name_03"
-msgstr ""
+msgstr "속성 보너스"
 
 msgid "pop_score_detail_item_name_04"
-msgstr ""
+msgstr "C스킬"
 
 msgid "pop_score_detail_item_name_05"
-msgstr ""
+msgstr "지원 플레이트"
 
 msgid "pop_score_detail_item_name_06"
-msgstr ""
+msgstr "L스킬"
 
 msgid "pop_score_detail_item_name_07"
 msgstr "A스킬"
@@ -3929,55 +3968,57 @@ msgid "pop_score_detail_item_name_08"
 msgstr "콤보"
 
 msgid "pop_score_detail_item_name_09"
-msgstr ""
+msgstr "스코어 노트"
 
 msgid "pop_score_detail_item_name_10"
-msgstr ""
+msgstr "럭키 리프"
 
 msgid "pop_score_detail_item_name_11"
-msgstr ""
+msgstr "발키리"
 
 msgid "pop_score_detail_item_desc_01"
-msgstr ""
+msgstr "가희와 플레이트의 스테이터스만으로 획득할 수 있는 스코어 예측"
 
 msgid "pop_score_detail_item_desc_02"
-msgstr ""
+msgstr "착용한 의상의 스테이터스에 따라 상승하는 예측"
 
 msgid "pop_score_detail_item_desc_03"
-msgstr ""
+msgstr "악곡과 플레이트의 속성 일치에 따른 보너스에 의해 상승하는 예측"
 
 msgid "pop_score_detail_item_desc_04"
-msgstr ""
+msgstr "센터 스킬에 의해 상승하는 스코어 예측"
 
 msgid "pop_score_detail_item_desc_05"
-msgstr ""
+msgstr "지원 플레이트에 의해 상승하는 스코어 예측"
 
 msgid "pop_score_detail_item_desc_06"
-msgstr ""
+msgstr "라이브 스킬에 의해 상승하는 스코어의 예측의 합계"
 
 msgid "pop_score_detail_item_desc_07"
-msgstr ""
+msgstr "액티브 스킬에 의해 상승하는 스코어의 예측"
 
 msgid "pop_score_detail_item_desc_08"
-msgstr ""
+msgstr "곡의 90%까지 계속되는 콤보 보너스의 예측"
 
 msgid "pop_score_detail_item_desc_09"
-msgstr ""
+msgstr "출현하는 스코어 노트를 전부 탭한 경우의 예측"
 
 msgid "pop_score_detail_item_desc_10"
-msgstr ""
+msgstr "해방 상태의 럭키 리프에 의해 상승하는 스코어의 예측"
 
 msgid "pop_score_detail_item_desc_11"
-msgstr ""
+msgstr "선택한 발키리에 의해 상승하는 스코어의 예측"
 
 msgid "bingo_reward_select_scene_detail_text"
 msgstr ""
+"【{0}】의\n"
+"EP를 크게 올릴 수 있는 플레이트."
 
 msgid "bingo_normal_bingo_start_text"
 msgstr ""
 
 msgid "bingo_mission_conditions_text"
-msgstr ""
+msgstr "【획득 조건】"
 
 msgid "offer_not_received_item_title"
 msgstr ""
@@ -3986,7 +4027,7 @@ msgid "offer_not_received_item_text"
 msgstr ""
 
 msgid "pop_valyrietuneup_title"
-msgstr ""
+msgstr "소비 아이템 확인"
 
 msgid "pop_valkyrietuneup_desc"
 msgstr ""
@@ -4010,10 +4051,10 @@ msgid "deco_no_have_text"
 msgstr ""
 
 msgid "deco_bast_storage_title"
-msgstr ""
+msgstr "데코룸 목록"
 
 msgid "pop_deco_storage_delete_title"
-msgstr ""
+msgstr "삭제 확인"
 
 msgid "pop_deco_storage_delete_desc"
 msgstr ""
@@ -4120,13 +4161,13 @@ msgid "pop_deco_sp_item_time_format"
 msgstr ""
 
 msgid "pop_deco_sp_item_cannon_suffix"
-msgstr ""
+msgstr "%"
 
 msgid "pop_deco_sp_item_cannon_title"
-msgstr ""
+msgstr "마크로스 캐논 게이지"
 
 msgid "pop_deco_sp_item_itemlist_title"
-msgstr ""
+msgstr "회수 아이템"
 
 msgid "pop_deco_sp_item_cannon_text001"
 msgstr ""
@@ -4603,15 +4644,21 @@ msgstr ""
 
 msgid "popup_event_reward_raid_info_mvp"
 msgstr ""
+"MVP 보상은 초은하 메달을 획득할 수 있습니다.\n"
+"획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다."
 
 msgid "popup_event_reward_raid_info_attack1st"
 msgstr ""
+"1st 어택 보상은 초은하 메달을 획득할 수 있습니다.\n"
+"획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다."
 
 msgid "popup_event_reward_raid_info_disempowerment"
 msgstr ""
+"획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다.\n"
+"참가 보상 내용은 참가 보상 내역 탭에서 확인할 수 있습니다."
 
 msgid "popup_event_reward_raid_info_lotcount"
-msgstr ""
+msgstr "획득할 수 있는 개수는 노래 등급과 에너미 랭크에 따라 달라집니다."
 
 msgid "pop_raid_helprequest_completion_title"
 msgstr ""
@@ -4632,7 +4679,7 @@ msgid "pop_fan_unregister_failure_desc"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_title"
-msgstr ""
+msgstr "AP 회복"
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg"
 msgstr "가정석을 {0}개 소모하여 AP를 {1} 회복하시겠습니까?"
@@ -4752,7 +4799,7 @@ msgid "pop_compatible_music_desc"
 msgstr ""
 
 msgid "pop_compatible_series_title"
-msgstr ""
+msgstr "센터 스킬 발동 대상 시리즈"
 
 msgid "pop_compatible_series_desc"
 msgstr ""
@@ -4796,7 +4843,7 @@ msgid "pop_blocked_text"
 msgstr ""
 
 msgid "pop_not_belong_lobby_transition_title"
-msgstr ""
+msgstr "부대 소속"
 
 msgid "pop_not_belong_lobby_transition_desc"
 msgstr ""
@@ -4823,7 +4870,7 @@ msgid "pop_exchange_need_item"
 msgstr ""
 
 msgid "popup_deco_all_back_title"
-msgstr ""
+msgstr "편집 종료"
 
 msgid "popup_deco_all_back_desc"
 msgstr ""
@@ -4838,7 +4885,7 @@ msgid "popup_deco_set_item_detaile_title"
 msgstr ""
 
 msgid "deco_set_item_list_text"
-msgstr ""
+msgstr "{0}×{1}"
 
 msgid "popup_deco_set_item_detaile_list"
 msgstr ""
@@ -4853,7 +4900,7 @@ msgid "pop_raid_result_error_text"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_success_title"
-msgstr ""
+msgstr "AP 회복"
 
 msgid "popup_raid_ap_recovery_success_text"
 msgstr ""
@@ -4862,7 +4909,7 @@ msgid "popup_raid_ap_recovery_max_text"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_success_bonus_title"
-msgstr ""
+msgstr "AP 회복"
 
 msgid "popup_raid_ap_recovery_success_bonus_text"
 msgstr ""
@@ -4874,7 +4921,7 @@ msgid "popup_deco_save_confirm_desc"
 msgstr ""
 
 msgid "popup_tutorial_guidetohome_title"
-msgstr ""
+msgstr "튜토리얼"
 
 msgid "popup_tutorial_guidetohome_text"
 msgstr ""
@@ -4889,7 +4936,7 @@ msgid "pop_deco_shop_sort_title"
 msgstr ""
 
 msgid "popup_raid_login_reward_title"
-msgstr ""
+msgstr "이벤트 참여 보상"
 
 msgid "raid_new_announce_text"
 msgstr ""
@@ -4901,7 +4948,7 @@ msgid "unit_select_skip_limit"
 msgstr ""
 
 msgid "unit_skip_condition_title"
-msgstr ""
+msgstr "해방 조건"
 
 msgid "unit_skip_condition_text"
 msgstr ""
@@ -4919,19 +4966,19 @@ msgid "unit_skip_ticket_lack_text"
 msgstr ""
 
 msgid "use_ticket_popup_title"
-msgstr ""
+msgstr "라이브 스킵"
 
 msgid "use_ticket_popup_havecount"
-msgstr ""
+msgstr "보유:"
 
 msgid "use_ticket_consume_format"
-msgstr ""
+msgstr "{0} :"
 
 msgid "use_ticket_consume_item_001"
-msgstr ""
+msgstr "에너지"
 
 msgid "use_ticket_consume_item_002"
-msgstr ""
+msgstr "AP"
 
 msgid "use_item_description_01"
 msgstr ""
@@ -6187,7 +6234,7 @@ msgid "unit_mv_mode_switch_button_off"
 msgstr "OFF"
 
 msgid "unit_unitset_description"
-msgstr ""
+msgstr "조작할 유닛 세트를 목록에서 선택해 주세요."
 
 msgid "unit_unitset_page"
 msgstr "{0}/{1}"
@@ -6196,13 +6243,13 @@ msgid "unit_unitset_dummy_name"
 msgstr "유닛 {0}"
 
 msgid "unit_status_skill_regulation_series_y"
-msgstr ""
+msgstr "시리즈가 일치하여 이 스킬 효과는 발동되지 않습니다."
 
 msgid "unit_status_skill_regulation_series_n"
-msgstr ""
+msgstr "시리즈가 일치하지 않아 이 스킬 효과는 발동되지 않습니다."
 
 msgid "unit_status_skill_regulation_attr"
-msgstr ""
+msgstr "대상 속성 악곡이 아니므로 발동되지 않습니다."
 
 msgid "popup_sort_item_music_exp"
 msgstr "숙련도"
@@ -6226,7 +6273,7 @@ msgid "unit_playbutton_en"
 msgstr ""
 
 msgid "unit_playbutton_ap"
-msgstr ""
+msgstr "소비 AP"
 
 msgid "popup_prism_unlock_text"
 msgstr ""
@@ -6250,7 +6297,7 @@ msgid "popup_filter_diva_val_title_h3"
 msgstr ""
 
 msgid "unit_diva_status_leaf_attr"
-msgstr ""
+msgstr "속성 일치 +{0}%"
 
 msgid "unit_diva_status_leaf_series"
 msgstr ""
@@ -6283,52 +6330,52 @@ msgid "popup_sort_item_notesnum"
 msgstr ""
 
 msgid "popup_sort_item_musiclength"
-msgstr ""
+msgstr "곡 길이"
 
 msgid "popup_sort_item_smallorder"
-msgstr ""
+msgstr "오름차순"
 
 msgid "popup_sort_item_bigorder"
-msgstr ""
+msgstr "내림차순"
 
 msgid "popup_sort_order_title_h2"
-msgstr ""
+msgstr "오름차순/내림차순"
 
 msgid "popup_sort_filter_bookmark_h2"
-msgstr ""
+msgstr "즐겨찾기"
 
 msgid "popup_sort_filter_bookmark_00"
-msgstr ""
+msgstr "설정 없음"
 
 msgid "popup_sort_filter_musiclock_h2"
-msgstr ""
+msgstr "악곡 해방 상황"
 
 msgid "popup_sort_filter_musiclock"
-msgstr ""
+msgstr "미해방 악곡"
 
 msgid "popup_sort_filter_musicunlock"
-msgstr ""
+msgstr "해방 완료 악곡"
 
 msgid "popup_sort_filter_range_h2"
-msgstr ""
+msgstr "악곡 시간"
 
 msgid "popup_sort_filter_range_long"
-msgstr ""
+msgstr "롱"
 
 msgid "popup_sort_filter_range_short"
-msgstr ""
+msgstr "숏"
 
 msgid "popup_music_bookmark_title"
-msgstr ""
+msgstr "즐겨찾기 등록"
 
 msgid "popup_music_unlock_title"
-msgstr ""
+msgstr "해방 조건"
 
 msgid "popup_music_unlock_text01"
 msgstr ""
 
 msgid "popup_music_unlock_text02"
-msgstr ""
+msgstr "・플레이어 랭크 {0} 달성."
 
 msgid "popup_music_unlock_text03"
 msgstr ""
@@ -6337,7 +6384,7 @@ msgid "popup_music_unlock_text04"
 msgstr ""
 
 msgid "popup_music_unlock_text05"
-msgstr ""
+msgstr "플레이어 랭크 {0} 달성."
 
 msgid "popup_music_unlock_text06"
 msgstr ""
