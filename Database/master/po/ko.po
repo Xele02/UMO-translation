@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-22 16:27+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -8070,172 +8070,172 @@ msgid "vn_0035"
 msgstr ""
 
 msgid "vn_0037"
-msgstr ""
+msgstr "VF-25G SP"
 
 msgid "vn_0038"
-msgstr ""
+msgstr "VF-25F SP"
 
 msgid "vn_0039"
-msgstr ""
+msgstr "Sv-262Hs w/L"
 
 msgid "vn_0040"
-msgstr ""
+msgstr "VF-1J C.O-19"
 
 msgid "vn_0041"
-msgstr ""
+msgstr "VF-31J SP"
 
 msgid "vn_0042"
-msgstr ""
+msgstr "VF-25S SP"
 
 msgid "vn_0043"
-msgstr ""
+msgstr "VF-31J F.W-01"
 
 msgid "vn_0044"
-msgstr ""
+msgstr "VF-31F K.B-01"
 
 msgid "vn_0045"
-msgstr ""
+msgstr "VF-25F TP"
 
 msgid "vn_0046"
-msgstr ""
+msgstr "YF-19 K-40"
 
 msgid "vn_0047"
-msgstr ""
+msgstr "VF-31C SP"
 
 msgid "vn_0048"
-msgstr ""
+msgstr "VF-31S SP"
 
 msgid "vn_0049"
-msgstr ""
+msgstr "VF-25G TP"
 
 msgid "vn_0050"
-msgstr ""
+msgstr "VF-31E SP"
 
 msgid "vn_0051"
-msgstr ""
+msgstr "VF-19EF/A"
 
 msgid "vn_0052"
-msgstr ""
+msgstr "VF-31J F.W-02"
 
 msgid "vn_0053"
-msgstr ""
+msgstr "VF-1D"
 
 msgid "vn_0054"
-msgstr ""
+msgstr "VF-17S"
 
 msgid "vn_0055"
-msgstr ""
+msgstr "VF-27γ SP"
 
 msgid "vn_0056"
-msgstr ""
+msgstr "VF-31F K.B-02"
 
 msgid "vn_0057"
-msgstr ""
+msgstr "VF-171EX"
 
 msgid "vn_0058"
-msgstr ""
+msgstr "VF-1D"
 
 msgid "vn_0059"
-msgstr ""
+msgstr "VF-19P"
 
 msgid "vn_0060"
-msgstr ""
+msgstr "VF-25S AP"
 
 msgid "vn_0061"
-msgstr ""
+msgstr "VF-22S"
 
 msgid "vn_0062"
-msgstr ""
+msgstr "RVF-25 SP"
 
 msgid "vn_0063"
-msgstr ""
+msgstr "Sv-262Ba"
 
 msgid "vn_0064"
-msgstr ""
+msgstr "VF-1A"
 
 msgid "vn_0065"
-msgstr ""
+msgstr "VF-31S M.G-01"
 
 msgid "vn_0066"
-msgstr ""
+msgstr "VF-31AX"
 
 msgid "v_pn_0001"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0002"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0003"
-msgstr ""
+msgstr "파이어 발키리"
 
 msgid "v_pn_0004"
-msgstr ""
+msgstr "발키리"
 
 msgid "v_pn_0005"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0006"
-msgstr ""
+msgstr "로이 포커 스페셜"
 
 msgid "v_pn_0007"
-msgstr ""
+msgstr "발키리"
 
 msgid "v_pn_0008"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0009"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0011"
-msgstr ""
+msgstr "루시퍼"
 
 msgid "v_pn_0012"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0013"
-msgstr ""
+msgstr "듀란달"
 
 msgid "v_pn_0014"
-msgstr ""
+msgstr "드라켄Ⅲ"
 
 msgid "v_pn_0015"
-msgstr ""
+msgstr "드라켄Ⅲ"
 
 msgid "v_pn_0017"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0018"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0019"
-msgstr ""
+msgstr "드라켄Ⅲ"
 
 msgid "v_pn_0020"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0021"
-msgstr ""
+msgstr "나이트메어"
 
 msgid "v_pn_0022"
-msgstr ""
+msgstr "발키리"
 
 msgid "v_pn_0024"
-msgstr ""
+msgstr "밀레느 발키리"
 
 msgid "v_pn_0026"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0027"
-msgstr ""
+msgstr "가희 페인트 ver"
 
 msgid "v_pn_0028"
-msgstr ""
+msgstr "듀란달"
 
 msgid "v_pn_0029"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0030"
-msgstr ""
+msgstr "드라켄Ⅲ"
 
 msgid "v_pn_0031"
 msgstr ""
@@ -8244,19 +8244,19 @@ msgid "v_pn_0032"
 msgstr ""
 
 msgid "v_pn_0033"
-msgstr ""
+msgstr "셰릴 FB7 ver"
 
 msgid "v_pn_0034"
-msgstr ""
+msgstr "드라켄Ⅲ"
 
 msgid "v_pn_0035"
-msgstr ""
+msgstr "마키나 컬러 ver"
 
 msgid "v_pn_0037"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0038"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0039"
 msgstr ""
@@ -8265,55 +8265,55 @@ msgid "v_pn_0040"
 msgstr ""
 
 msgid "v_pn_0041"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0042"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0043"
-msgstr ""
+msgstr "프레이아 컬러 ver"
 
 msgid "v_pn_0044"
-msgstr ""
+msgstr "카나메 컬러 ver"
 
 msgid "v_pn_0045"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0046"
 msgstr ""
 
 msgid "v_pn_0047"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0048"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0049"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0050"
-msgstr ""
+msgstr "지크프리드"
 
 msgid "v_pn_0051"
-msgstr ""
+msgstr "이사무 스페셜"
 
 msgid "v_pn_0052"
 msgstr ""
 
 msgid "v_pn_0053"
-msgstr ""
+msgstr "발키리"
 
 msgid "v_pn_0054"
-msgstr ""
+msgstr "나이트메어"
 
 msgid "v_pn_0055"
-msgstr ""
+msgstr "루시퍼"
 
 msgid "v_pn_0056"
-msgstr ""
+msgstr "카나메 페인트"
 
 msgid "v_pn_0057"
-msgstr ""
+msgstr "나이트메어 플러스 EX"
 
 msgid "v_pn_0058"
 msgstr ""
@@ -8322,25 +8322,25 @@ msgid "v_pn_0059"
 msgstr ""
 
 msgid "v_pn_0060"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0061"
 msgstr ""
 
 msgid "v_pn_0062"
-msgstr ""
+msgstr "메사이어"
 
 msgid "v_pn_0063"
-msgstr ""
+msgstr "드라켄Ⅲ"
 
 msgid "v_pn_0064"
-msgstr ""
+msgstr "발키리"
 
 msgid "v_pn_0065"
-msgstr ""
+msgstr "미쿠모 컬러 ver"
 
 msgid "v_pn_0066"
-msgstr ""
+msgstr "카이로스 플러스"
 
 msgid "v_dsc_0001"
 msgstr ""
@@ -22361,9 +22361,14 @@ msgstr "【당일 한정】에너지 에텔"
 
 msgid "eng_dsc_0001"
 msgstr ""
+"초시공 LIVE 개최에 필요한 에너지를 회복할 수 있는 아이템.\n"
+"사용 시 에너지가 전부 회복된다."
 
 msgid "eng_dsc_0002"
 msgstr ""
+"초시공 LIVE 개최에 필요한 에너지를 회복할 수 있는 아이템.\n"
+"사용 시 에너지가 전부 회복된다.\n"
+"<color=#8e0529>※ 획득한 당일 24시에 파기됩니다. </color>"
 
 msgid "mvtk_nm_0001"
 msgstr "S-LIVE 토큰"
