@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-04 15:57+0000\n"
-"PO-Revision-Date: 2024-08-10 11:28+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/fr/>\n"
 "Language: fr\n"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgid "bingo_0001_0001_0004_desc"
 msgstr ""
-"Reussir 3x en \n"
+"Réussir 3x en \n"
 "NORMAL ou\n"
 "plus"
 
@@ -305,7 +305,7 @@ msgstr ""
 
 msgid "bingo_0002_0002_0004_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0002_0002_0005_desc"
@@ -384,7 +384,7 @@ msgstr ""
 
 msgid "bingo_0002_0002_0012_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0002_0002_0013_desc"
@@ -478,7 +478,7 @@ msgstr ""
 
 msgid "bingo_0002_0002_0022_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0002_0002_0023_desc"
@@ -1256,7 +1256,7 @@ msgstr ""
 
 msgid "bingo_0004_0004_0004_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0004_0004_0005_desc"
@@ -1332,7 +1332,7 @@ msgstr ""
 
 msgid "bingo_0004_0004_0012_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0004_0004_0013_desc"
@@ -1426,7 +1426,7 @@ msgstr ""
 
 msgid "bingo_0004_0004_0022_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0004_0004_0023_desc"
@@ -1513,7 +1513,7 @@ msgstr ""
 
 msgid "bingo_0005_0005_0004_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0005_0005_0005_desc"
@@ -1591,7 +1591,7 @@ msgstr ""
 
 msgid "bingo_0005_0005_0012_cond"
 msgstr ""
-"Faire 5 tirages de lotterie. ※ Les tirages de \n"
+"Faire 5 tirages de loterie. ※ Les tirages de \n"
 "10 comptent pour 1"
 
 msgid "bingo_0005_0005_0013_desc"
