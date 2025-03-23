@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:59+0000\n"
-"PO-Revision-Date: 2025-03-22 16:26+0000\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
 "Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/fr/>\n"
@@ -55,7 +55,7 @@ msgstr ""
 "combo. Utile pour augmenter ton score."
 
 msgid "tips_0005_title"
-msgstr "Galerie de choses mignonnes"
+msgstr "Galerie de costumes"
 
 msgid "tips_0005_msg"
 msgstr ""
@@ -153,7 +153,7 @@ msgstr ""
 "tumes, les stats change en fonction !"
 
 msgid "tips_0017_title"
-msgstr "Secret de Freyja"
+msgstr "Le secret de Freyja"
 
 msgid "tips_0017_msg"
 msgstr ""
@@ -161,7 +161,7 @@ msgstr ""
 "「Rune」 ! Elle brille ! Incroyable, non ?"
 
 msgid "tips_0018_title"
-msgstr "Secret de Mikumo"
+msgstr "Le secret de Mikumo"
 
 msgid "tips_0018_msg"
 msgstr ""
@@ -169,7 +169,7 @@ msgstr ""
 "révéler mon secret aussi facilement."
 
 msgid "tips_0019_title"
-msgstr "Secret de Kaname"
+msgstr "Le secret de Kaname"
 
 msgid "tips_0019_msg"
 msgstr ""
@@ -177,7 +177,7 @@ msgstr ""
 "aujourd'hui, je ne vis que pour Walküre."
 
 msgid "tips_0020_title"
-msgstr "Secret de Makina"
+msgstr "Le secret de Makina"
 
 msgid "tips_0020_msg"
 msgstr ""
@@ -185,13 +185,13 @@ msgstr ""
 "et j'aime aussi les méchas～♪"
 
 msgid "tips_0021_title"
-msgstr "Secret de Reina"
+msgstr "Le secret de Reina"
 
 msgid "tips_0021_msg"
 msgstr "Méduses avalées entières et crues."
 
 msgid "tips_0022_title"
-msgstr "Secret de Ranka"
+msgstr "Le secret de Ranka"
 
 msgid "tips_0022_msg"
 msgstr ""
@@ -199,7 +199,7 @@ msgstr ""
 "Frontier sans le dire à mon frère !"
 
 msgid "tips_0023_title"
-msgstr "Secret de Sheryl"
+msgstr "Le secret de Sheryl"
 
 msgid "tips_0023_msg"
 msgstr ""
@@ -207,7 +207,7 @@ msgstr ""
 "que je ne sais pas par où commencer."
 
 msgid "tips_0024_title"
-msgstr "Secret de Mylène"
+msgstr "Le secret de Mylène"
 
 msgid "tips_0024_msg"
 msgstr ""
@@ -215,7 +215,7 @@ msgstr ""
 "Ne me traiter pas d'enfant pour autant !"
 
 msgid "tips_0025_title"
-msgstr "Secret de Basara"
+msgstr "Le secret de Basara"
 
 msgid "tips_0025_msg"
 msgstr ""
@@ -223,7 +223,7 @@ msgstr ""
 "mes chansons tout le temps !"
 
 msgid "tips_0026_title"
-msgstr "Secret de Minmay"
+msgstr "Le secret de Minmay"
 
 msgid "tips_0026_msg"
 msgstr ""
@@ -247,7 +247,7 @@ msgstr ""
 "pouvoir de nos chants les restaureront !"
 
 msgid "tips_0029_title"
-msgstr "Secret des concerts"
+msgstr "Le secret des concerts"
 
 msgid "tips_0029_msg"
 msgstr ""
@@ -431,7 +431,7 @@ msgstr ""
 "augmente les PVs de ton groupe !"
 
 msgid "tips_0052_title"
-msgstr "Galerie de choses mignonnes"
+msgstr "Galerie de costumes"
 
 msgid "tips_0052_msg"
 msgstr ""
@@ -604,7 +604,7 @@ msgstr ""
 "en essaim."
 
 msgid "tips_0073_title"
-msgstr "Galeries de choses mignonnes"
+msgstr "Galerie de costumes"
 
 msgid "tips_0073_msg"
 msgstr ""
@@ -642,7 +642,7 @@ msgstr ""
 "pistes. Déplace ton doigt avec la note."
 
 msgid "tips_0078_title"
-msgstr "Galeries de choses mignonnes"
+msgstr "Galerie de costumes"
 
 msgid "tips_0078_msg"
 msgstr ""
@@ -674,7 +674,7 @@ msgstr ""
 "débloquer de nouvelles capacités."
 
 msgid "tips_0082_title"
-msgstr "Galeries de choses mignonnes"
+msgstr "Galerie de costumes"
 
 msgid "tips_0082_msg"
 msgstr ""
@@ -682,7 +682,7 @@ msgstr ""
 "Run-Run ! Elle est trop cool ♪"
 
 msgid "tips_0083_title"
-msgstr "Galerie de curiosités"
+msgstr "Galerie de costumes"
 
 msgid "tips_0083_msg"
 msgstr ""
@@ -722,7 +722,7 @@ msgstr ""
 "ont une longue durée en super diva."
 
 msgid "tips_0089_title"
-msgstr "Galerie de curiosités"
+msgstr "Galerie de costumes"
 
 msgid "tips_0089_msg"
 msgstr ""
@@ -738,7 +738,7 @@ msgstr ""
 "inflige des dégâts, alors sois prudent.e."
 
 msgid "tips_0091_title"
-msgstr "Galerie de curiosités"
+msgstr "Galerie de costumes"
 
 msgid "tips_0091_msg"
 msgstr ""
@@ -770,7 +770,7 @@ msgstr ""
 "la compétence est efficace."
 
 msgid "tips_0095_title"
-msgstr "Galerie de curiosités"
+msgstr "Galerie de costumes"
 
 msgid "tips_0095_msg"
 msgstr ""
@@ -778,7 +778,7 @@ msgstr ""
 "Run-Run ! Run-Run est trop mignonne !"
 
 msgid "tips_0096_title"
-msgstr "Galerie de costume"
+msgstr "Galerie de costumes"
 
 msgid "tips_0096_msg"
 msgstr ""
@@ -786,7 +786,7 @@ msgstr ""
 "Kumo à l'arrière est aussi très jolie. ♪"
 
 msgid "tips_0097_title"
-msgstr "Galerie de costume"
+msgstr "Galerie de costumes"
 
 msgid "tips_0097_msg"
 msgstr ""
@@ -794,7 +794,7 @@ msgstr ""
 "Makina... le meilleur... !"
 
 msgid "tips_0098_title"
-msgstr "Galerie de costume"
+msgstr "Galerie de costumes"
 
 msgid "tips_0098_msg"
 msgstr ""
@@ -802,7 +802,7 @@ msgstr ""
 "Kumo en maillot de bain est très sexy !"
 
 msgid "tips_0099_title"
-msgstr "Galerie de costume"
+msgstr "Galerie de costumes"
 
 msgid "tips_0099_msg"
 msgstr ""
@@ -934,57 +934,75 @@ msgstr "Galeries de choses mignonnes"
 
 msgid "tips_0115_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"J'aime son air calme et reposé~"
 
 msgid "tips_0116_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0116_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Elle est cool et belle à la fois !"
 
 msgid "tips_0117_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0117_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Elle brille de beauté !"
 
 msgid "tips_0118_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0118_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Elle est cool et belle à la fois !"
 
 msgid "tips_0119_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0119_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Minmin est si mignonne. ♪"
 
 msgid "tips_0120_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0120_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"J'aime son air calme et reposé~"
 
 msgid "tips_0121_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0121_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Elle est cool et belle à la fois !"
 
 msgid "tips_0122_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0122_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Elle brille de beauté !"
 
 msgid "tips_0123_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0123_msg"
 msgstr ""
+"Une photo de l'anniversaire de Minmin !\n"
+"Elle est cool et belle à la fois !"
 
 msgid "tips_0124_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0124_msg"
 msgstr ""
@@ -1008,10 +1026,12 @@ msgstr ""
 "peux les utiliser à la loterie."
 
 msgid "tips_0127_title"
-msgstr ""
+msgstr "[Comp.] Augm. score bio-fold"
 
 msgid "tips_0127_msg"
 msgstr ""
+"Augmente le score en fonction\n"
+" de la valeur de l'onde bio-fold."
 
 msgid "tips_0128_title"
 msgstr "[Comp.] C'est quoi Bio-Fold & Score+ ?"
@@ -1022,130 +1042,172 @@ msgstr ""
 "fonction de ta valeur de Bio-fold."
 
 msgid "tips_0129_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0129_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est trop cool !"
 
 msgid "tips_0130_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0130_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est si mignonne～♪"
 
 msgid "tips_0131_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0131_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"On dirait une véritable fée !"
 
 msgid "tips_0132_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0132_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est trop cool !"
 
 msgid "tips_0133_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0133_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est si sexy !"
 
 msgid "tips_0134_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0134_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est trop cool !"
 
 msgid "tips_0135_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0135_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est si mignonne~♪"
 
 msgid "tips_0136_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0136_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"On dirait une véritable fée !"
 
 msgid "tips_0137_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0137_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est trop cool !"
 
 msgid "tips_0138_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0138_msg"
 msgstr ""
+"Une photo de l'anniversaire de Sheriri ! \n"
+"Elle est si sexy !"
 
 msgid "tips_0139_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0139_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Elle est trop cool~"
 
 msgid "tips_0140_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0140_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Elle est si mignonne~♪"
 
 msgid "tips_0141_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0141_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Je l'adore~"
 
 msgid "tips_0142_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0142_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Energétique et adorable. ♪"
 
 msgid "tips_0143_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0143_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Elle est si mignonne~♪"
 
 msgid "tips_0144_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0144_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Elle est trop cool~"
 
 msgid "tips_0145_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0145_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Elle est si mignonne~♪"
 
 msgid "tips_0146_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0146_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Je l'adore~"
 
 msgid "tips_0147_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0147_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Energétique et adorable. ♪"
 
 msgid "tips_0148_title"
-msgstr ""
+msgstr "Galerie de costumes"
 
 msgid "tips_0148_msg"
 msgstr ""
+"Une photo de l'anniversaire de \n"
+"Freyfrey ! Elle est si mignonne~♪"
 
 msgid "tips_0149_title"
-msgstr ""
+msgstr "[Comp.] C'est quoi l'affection score+ ?"
 
 msgid "tips_0149_msg"
 msgstr ""
+"Plus ton affection avec la diva est\n"
+"grande, plus la compétence est forte."
 
 msgid "tips_0150_title"
 msgstr "[Comp.] C'est quoi l'affection score+ ?"
@@ -1153,46 +1215,60 @@ msgstr "[Comp.] C'est quoi l'affection score+ ?"
 msgid "tips_0150_msg"
 msgstr ""
 "Plus ton affection avec la diva est\n"
-"grande, plus la compétence est puissante."
+"grande, plus la compétence est forte."
 
 msgid "tips_0151_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0151_msg"
 msgstr ""
+"Natto, germes de soja, edamame...\n"
+"Tout vient de la fève de soja !"
 
 msgid "tips_0152_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0152_msg"
 msgstr ""
+"Le natto contient les cinq\n"
+"macronutriments essentiels !"
 
 msgid "tips_0153_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0153_msg"
 msgstr ""
+"Le natto est composé d'acide gluta\n"
+"-mique et de fractane, un type de sucre."
 
 msgid "tips_0154_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0154_msg"
 msgstr ""
+"L'enzyme du Natto, la Nattokinase, \n"
+"est sensible à la chaleur."
 
 msgid "tips_0155_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0155_msg"
 msgstr ""
+"Le Natto est collant et a un goût \n"
+"délicieux. Remuez-le souvent !"
 
 msgid "tips_0156_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0156_msg"
 msgstr ""
+"Contrairement à la putréfaction,  la\n"
+"fermentation est bonne pour la santé !"
 
 msgid "tips_0157_title"
-msgstr ""
+msgstr "Le secret du natto"
 
 msgid "tips_0157_msg"
 msgstr ""
+"Il ne faut pas confodnre « natto » et\n"
+"« ama-natto », des aliments différents !"
