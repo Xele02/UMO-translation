@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-03-22 16:27+0000\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_scene/ko/>\n"
@@ -18,28 +18,28 @@ msgid "sn_0001"
 msgstr "Welcome to Walküre World"
 
 msgid "sn_0002"
-msgstr ""
+msgstr "바람을 느낀 자의 숙명"
 
 msgid "sn_0003"
 msgstr "오늘부터 너도 왈큐레"
 
 msgid "sn_0004"
-msgstr ""
+msgstr "기대엔 조금 못 미쳤지만"
 
 msgid "sn_0005"
-msgstr ""
+msgstr "뭘 그렇게 빤히 들여다봐!"
 
 msgid "sn_0006"
 msgstr "특별한 조치"
 
 msgid "sn_0007"
-msgstr ""
+msgstr "난 이걸로 하늘을 날 거야"
 
 msgid "sn_0008"
-msgstr ""
+msgstr "아라드 대장의 초대"
 
 msgid "sn_0009"
-msgstr ""
+msgstr "갑판 위의 VF-31"
 
 msgid "sn_0010"
 msgstr "마크로스 엘리시온"
@@ -51,91 +51,91 @@ msgid "sn_0012"
 msgstr "계약 완료"
 
 msgid "sn_0013"
-msgstr ""
+msgstr "절대로 안 가"
 
 msgid "sn_0014"
-msgstr ""
+msgstr "노래는 기운"
 
 msgid "sn_0015"
-msgstr ""
+msgstr "대낮의 도주극"
 
 msgid "sn_0016"
-msgstr ""
+msgstr "꼼짝 마! 이... 변태!"
 
 msgid "sn_0017"
-msgstr ""
+msgstr "우리 바른생활 소녀"
 
 msgid "sn_0018"
-msgstr ""
+msgstr "농땡이꾼 하야테"
 
 msgid "sn_0019"
-msgstr ""
+msgstr "노래가 좋으니까!"
 
 msgid "sn_0020"
-msgstr ""
+msgstr "알겠어요!"
 
 msgid "sn_0021"
-msgstr ""
+msgstr "춤추는 워크로이드"
 
 msgid "sn_0022"
-msgstr ""
+msgstr "프레이아의 음악 플레이어"
 
 msgid "sn_0023"
-msgstr ""
+msgstr "바르 증후군"
 
 msgid "sn_0024"
-msgstr ""
+msgstr "행성 알 샤할"
 
 msgid "sn_0025"
-msgstr ""
+msgstr "공중 구조극"
 
 msgid "sn_0026"
-msgstr ""
+msgstr "너 군인이 되라"
 
 msgid "sn_0027"
-msgstr ""
+msgstr "주운 것을 사용하기 때문입니다!"
 
 msgid "sn_0028"
-msgstr ""
+msgstr "목숨과 머리카락 중 뭐가 더 중요해?"
 
 msgid "sn_0029"
-msgstr ""
+msgstr "갈까"
 
 msgid "sn_0030"
-msgstr ""
+msgstr "다친 곳은 없으신가요?"
 
 msgid "sn_0031"
-msgstr ""
+msgstr "부비트랩?"
 
 msgid "sn_0032"
-msgstr ""
+msgstr "또 전쟁인가"
 
 msgid "sn_0033"
-msgstr ""
+msgstr "마크로스 주포 발사"
 
 msgid "sn_0034"
-msgstr ""
+msgstr "로이 포커 스페셜"
 
 msgid "sn_0035"
-msgstr ""
+msgstr "남아타리아 섬"
 
 msgid "sn_0036"
-msgstr ""
+msgstr "습격하는 거인"
 
 msgid "sn_0037"
-msgstr ""
+msgstr "냥냥의 간판녀"
 
 msgid "sn_0038"
-msgstr ""
+msgstr "당신은 군대에 안 들어가나요?"
 
 msgid "sn_0039"
-msgstr ""
+msgstr "당신은... 꿈을 가지고 있나요?"
 
 msgid "sn_0040"
-msgstr ""
+msgstr "그냥 친구야"
 
 msgid "sn_0041"
-msgstr ""
+msgstr "오늘 개점이야"
 
 msgid "sn_0042"
 msgstr ""
@@ -165,7 +165,7 @@ msgid "sn_0050"
 msgstr "네가 보고 있는 나는 진짜일까?"
 
 msgid "sn_0051"
-msgstr "프레이어 고양이 얼굴"
+msgstr "프레이아 고양이 얼굴"
 
 msgid "sn_0052"
 msgstr "마키나 고양이"
@@ -891,7 +891,7 @@ msgid "sn_0313"
 msgstr ""
 
 msgid "sn_0315"
-msgstr ""
+msgstr "카나메와 미쿠모"
 
 msgid "sn_0316"
 msgstr ""
@@ -918,7 +918,7 @@ msgid "sn_0323"
 msgstr ""
 
 msgid "sn_0324"
-msgstr ""
+msgstr "카나메의 방"
 
 msgid "sn_0325"
 msgstr ""
@@ -2544,7 +2544,7 @@ msgid "sn_0940"
 msgstr ""
 
 msgid "sn_0941"
-msgstr ""
+msgstr "왈큐레의 과거 ~카나메~"
 
 msgid "sn_0942"
 msgstr ""
@@ -3645,7 +3645,7 @@ msgid "sn_1359"
 msgstr ""
 
 msgid "sn_1360"
-msgstr ""
+msgstr "창립 멤버 카나메"
 
 msgid "sn_1361"
 msgstr ""
