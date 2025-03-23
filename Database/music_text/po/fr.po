@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:33+0000\n"
-"PO-Revision-Date: 2024-08-25 13:33+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/fr/>\n"
 "Language: fr\n"
@@ -14,93 +14,165 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 5.6\n"
 
+#, fuzzy
 msgid "musicName_0000_musicname"
-msgstr ""
+msgstr "なし"
 
+#, fuzzy
 msgid "musicName_0000_officialName"
-msgstr ""
+msgstr "なし"
 
+#, fuzzy
 msgid "musicName_0000_description"
-msgstr ""
+msgstr "楽曲詳細 000"
 
+#, fuzzy
 msgid "musicName_0001_musicname"
-msgstr ""
+msgstr "天使の絵の具"
 
+#, fuzzy
 msgid "musicName_0001_officialName"
-msgstr ""
+msgstr "天使の絵の具"
 
+#, fuzzy
 msgid "musicName_0001_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0001_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0001_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross 愛・おぼえていますか\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：Mari Iijima\n"
+"Compositeur：Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0001_storyDesc"
 msgstr ""
+"激しい戦争と恋に思い悩みながらも、その歌声で無事に\n"
+"戦いを終結へと導いたミンメイ。\n"
+"\n"
+"すべてが終わったあと、溢れんばかりの歓声の中にいる\n"
+"彼女はChanteurとしての誇りに満ちた表情でステージに\n"
+"立っていた。そして、ゆっくりと歌を口ずさむ…"
 
+#, fuzzy
 msgid "musicName_0001_storyTitle"
-msgstr ""
+msgstr "「ワン、トゥー、スリー、フォー…」"
 
+#, fuzzy
 msgid "musicName_0002_musicname"
-msgstr ""
+msgstr "PLANET DANCE"
 
+#, fuzzy
 msgid "musicName_0002_officialName"
-msgstr ""
+msgstr "PLANET DANCE"
 
+#, fuzzy
 msgid "musicName_0002_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0002_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0002_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：須藤英樹"
 
+#, fuzzy
 msgid "musicName_0002_storyDesc"
 msgstr ""
+"Macross7船団の片隅で人気を博し始めているバンド、\n"
+"Fire Bomber。メンバー全員が高い技術を持っている。\n"
+"\n"
+"しかし、メインボーカルの熱気バサラという男が曲者\n"
+"だった。この日もバサラはライブに遅刻したばかりか、\n"
+"なんとはるか上空からステージ上に降り立ってみせた。"
 
+#, fuzzy
 msgid "musicName_0002_storyTitle"
-msgstr ""
+msgstr "「待たせたな！」"
 
+#, fuzzy
 msgid "musicName_0003_musicname"
-msgstr ""
+msgstr "MY SOUL FOR YOU"
 
+#, fuzzy
 msgid "musicName_0003_officialName"
-msgstr ""
+msgstr "MY SOUL FOR YOU"
 
+#, fuzzy
 msgid "musicName_0003_vocalName"
-msgstr ""
+msgstr "Fire Bomber featuring BASARA NEKKI"
 
+#, fuzzy
 msgid "musicName_0003_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber featuring BASARA NEKKI"
 
+#, fuzzy
 msgid "musicName_0003_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber featuring BASARA NEKKI\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：福山芳樹"
 
+#, fuzzy
 msgid "musicName_0003_storyDesc"
 msgstr ""
+"一度は戦場で歌ってみせ、敵に歌を聞かせようとした\n"
+"バサラであったが、その試みはうまくいかなかった。\n"
+"\n"
+"だが、たとえ周囲の人間になんと言われようとも、\n"
+"熱気バサラという男は簡単に諦めたりはしない。\n"
+"今日もまた、新しい楽曲の制作に打ち込んでいた。"
 
+#, fuzzy
 msgid "musicName_0003_storyTitle"
-msgstr ""
+msgstr "「この次はやってみせるぜ」"
 
+#, fuzzy
 msgid "musicName_0004_musicname"
 msgstr "Seikan Hikou"
 
+#, fuzzy
 msgid "musicName_0004_officialName"
-msgstr ""
+msgstr "星間飛行"
 
+#, fuzzy
 msgid "musicName_0004_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0004_vocalNameLF"
 msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0004_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：松本隆\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0004_storyDesc"
 msgstr ""
 "La veille de son premier spectacle, la planète \n"
@@ -111,2694 +183,5230 @@ msgstr ""
 "Cinderella\", atteindra-t-elle le cœur des soldats \n"
 "assoiffés de combat... ?"
 
+#, fuzzy
 msgid "musicName_0004_storyTitle"
 msgstr ""
 "<size=18>「Tout le monde s'embrasse, jusqu'au bout de la galaxie !」</size>"
 
+#, fuzzy
 msgid "musicName_0005_musicname"
-msgstr ""
+msgstr "私の彼はパイロット"
 
+#, fuzzy
 msgid "musicName_0005_officialName"
-msgstr ""
+msgstr "私の彼はパイロット"
 
+#, fuzzy
 msgid "musicName_0005_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0005_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0005_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0005_storyDesc"
 msgstr ""
+"ミス・Macross・フロンティアの舞台上で、\n"
+"自分の出番を待ちながら緊張を隠せずにいるランカ。\n"
+"\n"
+"しかし自分の夢のため、歌が好きだという想いをこめ、\n"
+"かのリン・ミンメイの名曲を歌い始めた。\n"
+"ここから彼女のシンデレラストーリーが始まる！"
 
+#, fuzzy
 msgid "musicName_0005_storyTitle"
-msgstr ""
+msgstr "「ランカ・リーです、よろしくお願いします！」"
 
+#, fuzzy
 msgid "musicName_0006_musicname"
-msgstr ""
+msgstr "ニンジーン Loves you yeah!"
 
+#, fuzzy
 msgid "musicName_0006_officialName"
-msgstr ""
+msgstr "ニンジーン Loves you yeah!"
 
+#, fuzzy
 msgid "musicName_0006_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0006_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0006_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0006_storyDesc"
 msgstr ""
+"大好きな歌を歌うため、憧れのシェリルに近づくために\n"
+"デビューしたてのランカはさまざまな仕事をこなす。しかし\n"
+"その仕事は夢に見たものとは程遠いものばかりだった。\n"
+"\n"
+"とあるショッピングモールの片隅でニンジンの被り物を\n"
+"被ったランカは、一生懸命、CMソングを歌う。"
 
+#, fuzzy
 msgid "musicName_0006_storyTitle"
-msgstr ""
+msgstr "「7種のビタミン大集合！」"
 
+#, fuzzy
 msgid "musicName_0007_musicname"
-msgstr ""
+msgstr "射手座☆午後九時Don't be late"
 
+#, fuzzy
 msgid "musicName_0007_officialName"
-msgstr ""
+msgstr "射手座☆午後九時Don't be late"
 
+#, fuzzy
 msgid "musicName_0007_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0007_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0007_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：佐藤大、hal、Gabriela Robin、マイクスギヤマ\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0007_storyDesc"
 msgstr ""
+"フロンティア船団での最後のライブに励むシェリルは\n"
+"心配してくれたファンへの想いを静かに語り始めた。\n"
+"\n"
+"そしていつもの決め台詞とともに、この曲を\n"
+"歌い出す。ファンの気持ちを裏切らないシェリルの\n"
+"歌に、会場のボルテージは最高潮に達する。"
 
+#, fuzzy
 msgid "musicName_0007_storyTitle"
-msgstr ""
+msgstr "「わたしの歌を聴けぇ！」"
 
+#, fuzzy
 msgid "musicName_0008_musicname"
-msgstr ""
+msgstr "ダイアモンド クレバス"
 
+#, fuzzy
 msgid "musicName_0008_officialName"
-msgstr ""
+msgstr "ダイアモンド クレバス"
 
+#, fuzzy
 msgid "musicName_0008_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0008_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0008_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：hal\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0009_musicname"
-msgstr ""
+msgstr "What 'bout my star?"
 
+#, fuzzy
 msgid "musicName_0009_officialName"
-msgstr ""
+msgstr "What 'bout my star?"
 
+#, fuzzy
 msgid "musicName_0009_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0009_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0009_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：hal\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0009_storyDesc"
 msgstr ""
+"ライブのためにMacross・フロンティア船団を訪れた\n"
+"「銀河の妖精」シェリル・ノーム。\n"
+"\n"
+"イヤリングの行方を追って、アルトと再会した彼女は、\n"
+"ライブでは見られない無邪気な表情でアルトの手を引き\n"
+"フロンティアの街を満喫する。\n"
 
+#, fuzzy
 msgid "musicName_0009_storyTitle"
-msgstr ""
+msgstr "「結構いいところね、フロンティアって」"
 
+#, fuzzy
 msgid "musicName_0010_musicname"
-msgstr ""
+msgstr "インフィニティ"
 
+#, fuzzy
 msgid "musicName_0010_officialName"
-msgstr ""
+msgstr "インフィニティ"
 
+#, fuzzy
 msgid "musicName_0010_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0010_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0010_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：岩里祐穂\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0010_storyDesc"
 msgstr ""
+"シェリルのフロンティア船団ラストライブの最中、\n"
+"船外ではバジュラとの壮絶な戦闘が勃発していた。\n"
+"\n"
+"ライブの最後を飾る楽曲を前に、シェリルは\n"
+"特別な想いをこめて歌うことを宣言する。\n"
+"彼女の祈りは、宇宙で戦う彼らに届くのか…？"
 
+#, fuzzy
 msgid "musicName_0010_storyTitle"
-msgstr ""
+msgstr "「ちょっとわがまま言わせてもらってもいいかな？」"
 
+#, fuzzy
 msgid "musicName_0011_musicname"
-msgstr ""
+msgstr "愛・おぼえていますか"
 
+#, fuzzy
 msgid "musicName_0011_officialName"
-msgstr ""
+msgstr "愛・おぼえていますか"
 
+#, fuzzy
 msgid "musicName_0011_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0011_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0011_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross 愛・おぼえていますか\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：安井かずみ\n"
+"Compositeur：加藤和彦"
 
+#, fuzzy
 msgid "musicName_0011_storyDesc"
 msgstr ""
+"最終決戦の最中、輝からミンメイへ託されたのは、\n"
+"古い記録に残されていた楽曲だった。\n"
+"\n"
+"輝の言葉によって迷いを振り切ったミンメイは、\n"
+"戦場にその身をさらして静かに歌い始める。\n"
+"遥か昔、誰かが歌った色あせることのないラブソングを。"
 
+#, fuzzy
 msgid "musicName_0011_storyTitle"
-msgstr ""
+msgstr "「わたし、歌うわ。思いっきり！」"
 
+#, fuzzy
 msgid "musicName_0012_musicname"
-msgstr ""
+msgstr "小白竜"
 
+#, fuzzy
 msgid "musicName_0012_officialName"
-msgstr ""
+msgstr "小白竜"
 
+#, fuzzy
 msgid "musicName_0012_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0012_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0012_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0012_storyDesc"
 msgstr ""
+"異星人による宇宙戦争の戦禍に巻き込まれ、\n"
+"地球への長い旅路を進む宇宙戦艦Macross。\n"
+"\n"
+"そんな中、リン・ミンメイの初コンサートが開催された。\n"
+"ファンの歓声と眩しいスポットライトの中でミンメイが\n"
+"歌い始めると、突然、艦内に警報が鳴り響いた。"
 
+#, fuzzy
 msgid "musicName_0012_storyTitle"
-msgstr ""
+msgstr "「みなさんこんばんは、リン・ミンメイです」"
 
+#, fuzzy
 msgid "musicName_0013_musicname"
-msgstr ""
+msgstr "Welcome To My FanClub's Night!"
 
+#, fuzzy
 msgid "musicName_0013_officialName"
-msgstr ""
+msgstr "Welcome To My FanClub's Night!"
 
+#, fuzzy
 msgid "musicName_0013_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0013_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0013_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：hal\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0013_storyDesc"
 msgstr ""
+"歓声で湧き立つライブの最中、シェリルは突如として\n"
+"ステージの上から飛び降りてしまう。\n"
+"\n"
+"落下していくシェリルを慌てて救助したアルトは、\n"
+"彼女の大胆な行動と発想に目を見開く。\n"
+"混乱の中、ライブは無事に成功するのだろうか…？"
 
+#, fuzzy
 msgid "musicName_0013_storyTitle"
-msgstr ""
+msgstr "「いいから、このまま飛んで！」"
 
+#, fuzzy
 msgid "musicName_0014_musicname"
-msgstr ""
+msgstr "TRY AGAIN"
 
+#, fuzzy
 msgid "musicName_0014_officialName"
-msgstr ""
+msgstr "TRY AGAIN"
 
+#, fuzzy
 msgid "musicName_0014_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0014_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0014_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO、福山恭子\n"
+"Compositeur：福山芳樹"
 
+#, fuzzy
 msgid "musicName_0014_storyDesc"
 msgstr ""
+"Fire Bomberのボーカル、熱気バサラの歌声には、\n"
+"サウンドエナジーと呼ばれる力が特に強く宿っていた。\n"
+"\n"
+"ファイヤーバルキリーを駆り、戦場で歌い続けるバサラ。\n"
+"戦いを嫌い、異星人とさえ歌によって通じ合えると信じる\n"
+"男の歌声は、熾烈な争いを終わらせる鍵となるか…？"
 
+#, fuzzy
 msgid "musicName_0014_storyTitle"
-msgstr ""
+msgstr "「山よ！銀河よ！俺の歌を聞けぇっ！！」"
 
+#, fuzzy
 msgid "musicName_0015_musicname"
-msgstr ""
+msgstr "ユニバーサル・バニー"
 
+#, fuzzy
 msgid "musicName_0015_officialName"
-msgstr ""
+msgstr "ユニバーサル・バニー"
 
+#, fuzzy
 msgid "musicName_0015_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0015_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0015_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：しほり、PA-NON、Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0015_storyDesc"
 msgstr ""
+"Macross・フロンティア船団を訪れたシェリル・ノーム。\n"
+"\n"
+"絢爛豪華なライブステージに立つ彼女にフロンティア\n"
+"船団のファンは歓喜に包まれる。その会場には、偶然にも\n"
+"これから関わることとなるランカとアルトの姿もあった。\n"
+"シェリルの魅力たっぷりのステージが今、始まる！"
 
+#, fuzzy
 msgid "musicName_0015_storyTitle"
-msgstr ""
+msgstr "「グレイス、わたしはシェリルよ」"
 
+#, fuzzy
 msgid "musicName_0016_musicname"
-msgstr ""
+msgstr "トライアングラー（fight on stage）"
 
+#, fuzzy
 msgid "musicName_0016_officialName"
-msgstr ""
+msgstr "トライアングラー（fight on stage）"
 
+#, fuzzy
 msgid "musicName_0016_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0016_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0016_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima、\n"
+"   Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0016_storyDesc"
 msgstr ""
+"大小数千隻の宇宙船で構成されているフロンティア船団。\n"
+"そこで偶然にも出会ってしまった早乙女アルト、\n"
+"シェリル・ノーム、ランカ・リー。\n"
+"\n"
+"超時空生命体バジュラとの戦闘、そして恋に翻弄され\n"
+"ながらも、3人の出会いが船団の運命を大きく変える。"
 
+#, fuzzy
 msgid "musicName_0016_storyTitle"
-msgstr ""
+msgstr "「俺を、バルキリーに乗せろ！」"
 
+#, fuzzy
 msgid "musicName_0017_musicname"
-msgstr ""
+msgstr "突撃ラブハート [Duet Version]"
 
+#, fuzzy
 msgid "musicName_0017_officialName"
-msgstr ""
+msgstr "突撃ラブハート [Duet Version]"
 
+#, fuzzy
 msgid "musicName_0017_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0017_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0017_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：河内淳貴"
 
+#, fuzzy
 msgid "musicName_0017_storyDesc"
 msgstr ""
+"移民先を求めて銀河を航行していたMacross7船団だが、\n"
+"突如として凶悪な兵器を使用する敵の襲撃をうける。\n"
+"\n"
+"戦火が拡大していく最中、1人の男が戦場に飛び出した。\n"
+"その男は無謀にも、敵を目の前にして歌を歌い出す。\n"
+"赤いバルキリーを駆るこの男、その名は熱気バサラ。"
 
+#, fuzzy
 msgid "musicName_0017_storyTitle"
-msgstr ""
+msgstr "「ついにこのときが来たぜ！」"
 
+#, fuzzy
 msgid "musicName_0018_musicname"
-msgstr ""
+msgstr "ノーザンクロス"
 
+#, fuzzy
 msgid "musicName_0018_officialName"
-msgstr ""
+msgstr "ノーザンクロス"
 
+#, fuzzy
 msgid "musicName_0018_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0018_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0018_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：岩里祐穂、Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0018_storyDesc"
 msgstr ""
+"バジュラの襲撃にさらされるフロンティア船団。\n"
+"終わりの見えない恐怖に人々の心は弱まる一方だった。\n"
+"\n"
+"絶望に暮れる人々。希望の象徴として扱われるランカ。\n"
+"そんな中、シェリルは、自分の歌で絶望を照らしてみせると\n"
+"決意する。彼女の歌声は、戦場に何をもたらすのか…？"
 
+#, fuzzy
 msgid "musicName_0018_storyTitle"
-msgstr ""
+msgstr "「今あるのは音楽と、そしてわたし」"
 
+#, fuzzy
 msgid "musicName_0019_musicname"
-msgstr ""
+msgstr "私の彼はパイロット（PartⅠ）"
 
+#, fuzzy
 msgid "musicName_0019_officialName"
-msgstr ""
+msgstr "私の彼はパイロット（PartⅠ）"
 
+#, fuzzy
 msgid "musicName_0019_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0019_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0019_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0019_storyDesc"
 msgstr ""
+"ゼントラーディとの戦争で傷ついた故郷。\n"
+"そのあまりの惨状に涙を流すミンメイ。\n"
+"\n"
+"そんなミンメイに対して、考えがあると告げる輝。\n"
+"その考えというのが、後に「ミンメイ・アタック」の\n"
+"名で語られることとなる伝説的な作戦だった。"
 
+#, fuzzy
 msgid "musicName_0019_storyTitle"
-msgstr ""
+msgstr "「歌ってくれないか？みんなのために」"
 
+#, fuzzy
 msgid "musicName_0020_musicname"
-msgstr ""
+msgstr "いけないボーダーライン"
 
+#, fuzzy
 msgid "musicName_0020_officialName"
-msgstr ""
+msgstr "いけないボーダーライン"
 
+#, fuzzy
 msgid "musicName_0020_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0020_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0020_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0020_storyDesc"
 msgstr ""
+"惑星アル・シャハルでのヴァール鎮圧ライブの最中、\n"
+"正体不明の戦闘機部隊がWalküreを襲う。\n"
+"\n"
+"敵の猛攻に対しても毅然と歌い続けるWalküre。\n"
+"それに触発されたかのように、辺境の惑星から\n"
+"飛び出してきた少女は戦場へと駆け出していく。"
 
+#, fuzzy
 msgid "musicName_0020_storyTitle"
-msgstr ""
+msgstr "「ルンルン、ルンルン、ルンピカー！」"
 
+#, fuzzy
 msgid "musicName_0021_musicname"
-msgstr ""
+msgstr "ライオン"
 
+#, fuzzy
 msgid "musicName_0021_officialName"
-msgstr ""
+msgstr "ライオン"
 
+#, fuzzy
 msgid "musicName_0021_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0021_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0021_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0022_musicname"
-msgstr "Ichi Do Dake No Koi Nara"
+msgstr "一度だけの恋なら"
 
+#, fuzzy
 msgid "musicName_0022_officialName"
-msgstr ""
+msgstr "一度だけの恋なら"
 
+#, fuzzy
 msgid "musicName_0022_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0022_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0022_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：唐沢美帆、加藤裕介\n"
+"Compositeur：加藤裕介"
 
+#, fuzzy
 msgid "musicName_0022_storyDesc"
 msgstr ""
+"Walküreに憧れて、故郷を飛び出したフレイア。\n"
+"\n"
+"見事に夢を叶え、Walküreのメンバーとして\n"
+"ヴァール症候群から多くの人を救う立場となった少女は、\n"
+"ただ歌うことが好きだからという気持ちだけではなく、\n"
+"いつしか歌うことの意味を考え始める。"
 
+#, fuzzy
 msgid "musicName_0022_storyTitle"
-msgstr ""
+msgstr "「私は、好きな歌を歌いたい！」"
 
+#, fuzzy
 msgid "musicName_0023_musicname"
-msgstr ""
+msgstr "ルンがピカッと光ったら"
 
+#, fuzzy
 msgid "musicName_0023_officialName"
-msgstr ""
+msgstr "ルンがピカッと光ったら"
 
+#, fuzzy
 msgid "musicName_0023_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0023_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0023_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0024_musicname"
-msgstr ""
+msgstr "不確定性☆COSMIC MOVEMENT"
 
+#, fuzzy
 msgid "musicName_0024_officialName"
-msgstr ""
+msgstr "不確定性☆COSMIC MOVEMENT"
 
+#, fuzzy
 msgid "musicName_0024_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0024_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0024_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：深川琴美、六ツ見純代、渡邊亜希子、姉田ウ夢ヤ\n"
+"Compositeur：姉田ウ夢ヤ"
 
+#, fuzzy
 msgid "musicName_0024_storyDesc"
 msgstr ""
+"惑星ランドールでのワクチンライブ。\n"
+"\n"
+"フレイアは、憧れだったWalküreのメンバーとして\n"
+"迎える初めてのライブに緊張を隠すことができない。\n"
+"一方のハヤテも、これが入隊してから初めてのライブ。\n"
+"2人の衝撃デビューステージは一体どうなるのか…？"
 
+#, fuzzy
 msgid "musicName_0024_storyTitle"
-msgstr ""
+msgstr "「リンゴ大好き、フレイア・ヴィオン14歳！」"
 
+#, fuzzy
 msgid "musicName_0025_musicname"
-msgstr ""
+msgstr "恋! ハレイション THE WAR"
 
+#, fuzzy
 msgid "musicName_0025_officialName"
-msgstr ""
+msgstr "恋! ハレイション THE WAR"
 
+#, fuzzy
 msgid "musicName_0025_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0025_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0025_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：深川琴美、姉田ウ夢ヤ\n"
+"Compositeur：姉田ウ夢ヤ"
 
+#, fuzzy
 msgid "musicName_0025_storyDesc"
 msgstr ""
+"ヴァール症候群の脅威に毅然と立ち向かう\n"
+"戦術音楽ユニット、Walküre。\n"
+"\n"
+"惑星アル・シャハルでフレイアとハヤテが目撃したのは\n"
+"戦場で歌う彼女たちとデルタ小隊の姿だった。彼女たちの\n"
+"歌はヴァール症候群を鎮めることができるのだろうか…？"
 
+#, fuzzy
 msgid "musicName_0025_storyTitle"
-msgstr ""
+msgstr "「聴かせてあげる、女神の歌を！」"
 
+#, fuzzy
 msgid "musicName_0026_musicname"
-msgstr ""
+msgstr "アナタノオト"
 
+#, fuzzy
 msgid "musicName_0026_officialName"
-msgstr ""
+msgstr "アナタノオト"
 
+#, fuzzy
 msgid "musicName_0026_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0026_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0026_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：真名杏樹\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0027_musicname"
-msgstr ""
+msgstr "アイモ"
 
+#, fuzzy
 msgid "musicName_0027_officialName"
-msgstr ""
+msgstr "アイモ"
 
+#, fuzzy
 msgid "musicName_0027_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0027_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0027_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0027_storyDesc"
 msgstr ""
+"みんなに自分の歌を届けたいと語ったランカは、\n"
+"遠まわしながらも励ましてくれたアルトに、\n"
+"自分の歌を聴いてほしいと告げる。\n"
+"\n"
+"不安の解けたランカの歌声は、穏やかな風と共に\n"
+"アルトの心を包み込む。"
 
+#, fuzzy
 msgid "musicName_0027_storyTitle"
-msgstr ""
+msgstr "「私、みんなに伝えたいの！」"
 
+#, fuzzy
 msgid "musicName_0028_musicname"
-msgstr ""
+msgstr "ねこ日記"
 
+#, fuzzy
 msgid "musicName_0028_officialName"
-msgstr ""
+msgstr "ねこ日記"
 
+#, fuzzy
 msgid "musicName_0028_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0028_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0028_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0028_storyDesc"
 msgstr ""
+"惑星ガリア4でのサプライズライブを終え、\n"
+"夕焼けの空を静かに飛ぶアルトとランカ。\n"
+"\n"
+"ランカが命の危険も顧みずアルトに伝えたかったこと、\n"
+"それは誕生日を祝う言葉だった。恥ずかしそうに\n"
+"笑いあったあと、ランカは想いをこめて歌いだす…"
 
+#, fuzzy
 msgid "musicName_0028_storyTitle"
-msgstr ""
+msgstr "「このまま、どこまでも飛んでいきたい気分」"
 
+#, fuzzy
 msgid "musicName_0029_musicname"
-msgstr ""
+msgstr "ジリティック♡BEGINNER"
 
+#, fuzzy
 msgid "musicName_0029_officialName"
-msgstr ""
+msgstr "ジリティック♡BEGINNER"
 
+#, fuzzy
 msgid "musicName_0029_vocalName"
-msgstr ""
+msgstr "Walküre ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0029_vocalNameLF"
-msgstr ""
+msgstr "Walküre ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0029_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   ReinaΔNao Tōyama MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：深川琴美\n"
+"Compositeur：姉田ウ夢ヤ"
 
+#, fuzzy
 msgid "musicName_0029_storyDesc"
 msgstr ""
+"Walküre加入当初は、あまりの仲の悪さに\n"
+"「水と油」に例えられていたマキナとレイナ。\n"
+"\n"
+"それが今では自他ともに認める仲良しコンビになり、\n"
+"抜群のコミュニケーションで披露されるデュエット曲は、\n"
+"Walküreのライブを語る上で外せないものとなった。"
 
+#, fuzzy
 msgid "musicName_0029_storyTitle"
-msgstr ""
+msgstr "「水と油、混ぜるな危険」"
 
+#, fuzzy
 msgid "musicName_0030_musicname"
-msgstr ""
+msgstr "放課後オーバーフロウ"
 
+#, fuzzy
 msgid "musicName_0030_officialName"
-msgstr ""
+msgstr "放課後オーバーフロウ"
 
+#, fuzzy
 msgid "musicName_0030_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0030_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0030_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0030_storyDesc"
 msgstr ""
+"バジュラ本星を独占しようとするフロンティア軍に対し、\n"
+"単独で決戦を挑むMacross・クォーターとS.M.S。\n"
+"\n"
+"ランカはバジュラと対話するため戦場に歌を響かせる。\n"
+"歌う新曲は彼女が初めてParolierをさせてもらった曲で、\n"
+"大切な人への想いが込められた曲だった。"
 
+#, fuzzy
 msgid "musicName_0030_storyTitle"
-msgstr ""
+msgstr "「私…アルト君が好きです！」"
 
+#, fuzzy
 msgid "musicName_0031_musicname"
-msgstr ""
+msgstr "AXIA～ダイスキでダイキライ～"
 
+#, fuzzy
 msgid "musicName_0031_officialName"
-msgstr ""
+msgstr "AXIA～ダイスキでダイキライ～"
 
+#, fuzzy
 msgid "musicName_0031_vocalName"
-msgstr ""
+msgstr "Walküre KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0031_vocalNameLF"
 msgstr ""
+"Walküre KanameΔKiyono Yasuno\n"
+"ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0031_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：六ツ見純代\n"
+"Compositeur：松本良喜"
 
+#, fuzzy
 msgid "musicName_0031_storyDesc"
 msgstr ""
+"フレイアと美雲が倒れてしまい、さらに空中騎士団の\n"
+"襲撃を受けて絶体絶命の状況に陥るWalküre。\n"
+"\n"
+"そのとき、部隊を離れたはずのメッサーが救援に現れる。\n"
+"ヴァール化に抗いながら戦うメッサーを支えるため、\n"
+"他の誰でもないカナメ自身が歌うことを決意するのだった。"
 
+#, fuzzy
 msgid "musicName_0031_storyTitle"
-msgstr ""
+msgstr "「わかったわ、メッサー君！」"
 
+#, fuzzy
 msgid "musicName_0032_musicname"
-msgstr ""
+msgstr "POWER TO THE DREAM"
 
+#, fuzzy
 msgid "musicName_0032_officialName"
-msgstr ""
+msgstr "POWER TO THE DREAM"
 
+#, fuzzy
 msgid "musicName_0032_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0032_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0032_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：福山芳樹"
 
+#, fuzzy
 msgid "musicName_0032_storyDesc"
 msgstr ""
+"バサラの歌に宿るサウンドエナジー。\n"
+"その力は、敵味方問わず多くの者の心を変えていった。\n"
+"\n"
+"大勢の敵に襲われて窮地に陥るバサラたち。そのとき、\n"
+"敵であったはずのギギルがバサラの歌を歌い始めた。\n"
+"その歌声は、拙くも熱い心を感じさせるものだった。"
 
+#, fuzzy
 msgid "musicName_0032_storyTitle"
-msgstr ""
+msgstr "「俺の歌を、俺より先に歌い出すとは…」"
 
+#, fuzzy
 msgid "musicName_0033_musicname"
-msgstr ""
+msgstr "サヨナラノツバサ 〜 the end of triangle"
 
+#, fuzzy
 msgid "musicName_0033_officialName"
-msgstr ""
+msgstr "サヨナラノツバサ 〜 the end of triangle"
 
+#, fuzzy
 msgid "musicName_0033_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0033_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0033_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin、河森正治\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0033_storyDesc"
 msgstr ""
+"ランカとシェリル。2人の歌姫は、それぞれの運命に\n"
+"立ち向かい、最後まで歌い続けることを決意した。\n"
+"\n"
+"バジュラに心を伝えるため。歌で銀河を震わせるため。\n"
+"そして何より、誰よりも大切な人のため。\n"
+"彼女たちの歌声は、この空をはばたくツバサとなった。"
 
+#, fuzzy
 msgid "musicName_0033_storyTitle"
-msgstr ""
+msgstr "「翼に風を！」「銀河に歌を！」"
 
+#, fuzzy
 msgid "musicName_0034_musicname"
-msgstr ""
+msgstr "僕らの戦場"
 
+#, fuzzy
 msgid "musicName_0034_officialName"
-msgstr ""
+msgstr "僕らの戦場"
 
+#, fuzzy
 msgid "musicName_0034_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0034_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0034_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：唐沢美帆、加藤裕介\n"
+"Compositeur：加藤裕介"
 
+#, fuzzy
 msgid "musicName_0034_storyDesc"
 msgstr ""
+"デルタ小隊への正式入隊がかかった最終試験の日。\n"
+"ハヤテはミラージュとの模擬戦に苦しんでいた。\n"
+"\n"
+"その時、窮地に陥っていたハヤテに向かって歌い出す\n"
+"フレイア。すると、まるでその力に後押しされるように\n"
+"ハヤテの機体は力強く空へと舞い上がった。"
 
+#, fuzzy
 msgid "musicName_0034_storyTitle"
-msgstr ""
+msgstr "「まだ試験は終わってないぜ、教官殿！」"
 
+#, fuzzy
 msgid "musicName_0035_musicname"
-msgstr ""
+msgstr "DYNAMITE EXPLOSION"
 
+#, fuzzy
 msgid "musicName_0035_officialName"
-msgstr ""
+msgstr "DYNAMITE EXPLOSION"
 
+#, fuzzy
 msgid "musicName_0035_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0035_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0035_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：古屋敏之\n"
+"Compositeur：福山芳樹"
 
+#, fuzzy
 msgid "musicName_0035_storyDesc"
 msgstr ""
+"メンバーに黙ってMacross7船団を去り、\n"
+"あてもない銀河放浪の旅に出ていたバサラ。\n"
+"\n"
+"惑星ゾラの地で出会った「銀河クジラ」と、それを\n"
+"取り巻くゾラ人たち。銀河の辺境で様々なアクシデントに\n"
+"見舞われながらも、バサラはいつもどおり歌い始める。"
 
+#, fuzzy
 msgid "musicName_0035_storyTitle"
-msgstr ""
+msgstr "「クジラか…いい音させやがるぜ！」"
 
+#, fuzzy
 msgid "musicName_0036_musicname"
-msgstr ""
+msgstr "シルバームーン・レッドムーン"
 
+#, fuzzy
 msgid "musicName_0036_officialName"
-msgstr ""
+msgstr "シルバームーン・レッドムーン"
 
+#, fuzzy
 msgid "musicName_0036_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0036_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0036_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0036_storyDesc"
 msgstr ""
+"度重なる戦闘と、長く苦しい旅路の果てに、\n"
+"遂にMacrossは地球への帰還を果たす。\n"
+"\n"
+"失ったものの多さに悲しむ乗員たち。それに寄り添う\n"
+"ように流れるのは、ミンメイの歌だった。\n"
+"姿は見えずとも、彼女の歌声は常に傍にある。"
 
+#, fuzzy
 msgid "musicName_0036_storyTitle"
-msgstr ""
+msgstr "「まるで、生きてるみたいね」"
 
+#, fuzzy
 msgid "musicName_0037_musicname"
-msgstr ""
+msgstr "ギラギラサマー (^ω^)ノ"
 
+#, fuzzy
 msgid "musicName_0037_officialName"
-msgstr ""
+msgstr "ギラギラサマー (^ω^)ノ"
 
+#, fuzzy
 msgid "musicName_0037_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0037_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0037_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin、富永恵介\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0037_storyDesc"
 msgstr ""
+"慰安旅行のためマヤン島を訪れたS.M.Sのメンバー。\n"
+"みな水着に着替え、戦いを忘れてリゾートを満喫していた。\n"
+"\n"
+"空も海も風も、気候はまさに夏真っ盛り。\n"
+"街頭ではシェリルのCMが大々的に放映されていて、\n"
+"照りつける太陽に負けない存在感を放っていた。"
 
+#, fuzzy
 msgid "musicName_0037_storyTitle"
-msgstr ""
+msgstr "「わたしの肌を守りなさい！」"
 
+#, fuzzy
 msgid "musicName_0038_musicname"
-msgstr ""
+msgstr "ファミリーマート・コスモス"
 
+#, fuzzy
 msgid "musicName_0038_officialName"
-msgstr ""
+msgstr "ファミリーマート・コスモス"
 
+#, fuzzy
 msgid "musicName_0038_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0038_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0038_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0039_musicname"
-msgstr ""
+msgstr "Walküre Attack!"
 
+#, fuzzy
 msgid "musicName_0039_officialName"
-msgstr ""
+msgstr "Walküre Attack!"
 
+#, fuzzy
 msgid "musicName_0039_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0039_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0039_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：UiNA\n"
+"Compositeur：小高光太郎、UiNA"
 
+#, fuzzy
 msgid "musicName_0039_storyDesc"
 msgstr ""
+"新統合政府に対して宣戦布告したウィンダミア。\n"
+"戦いの炎とヴァールの脅威は瞬く間に広がっていく。\n"
+"\n"
+"それに最前線で立ち向かうのがWalküre、\n"
+"そして彼女たちを守るデルタ小隊のメンバーたちだ。\n"
+"行方の見えない戦争の末に待つものは、果たして…"
 
+#, fuzzy
 msgid "musicName_0039_storyTitle"
-msgstr ""
+msgstr "「超時空ヴィーナス、Walküre！」"
 
+#, fuzzy
 msgid "musicName_0040_musicname"
-msgstr ""
+msgstr "0-G Love"
 
+#, fuzzy
 msgid "musicName_0040_officialName"
-msgstr ""
+msgstr "0-G Love"
 
+#, fuzzy
 msgid "musicName_0040_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0040_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0040_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0040_storyDesc"
 msgstr ""
+"ゼントラーディ軍との戦闘が始まり、その混乱の中で\n"
+"輝とミンメイの2人は閉鎖区画に閉じ込められてしまう。\n"
+"\n"
+"救助を待ちながらしばし生活を共にする2人。\n"
+"初めはただのファンとChanteurであった2人だが、お互いの\n"
+"ことを知ってその仲は少しずつ縮まっていくのだった。"
 
+#, fuzzy
 msgid "musicName_0040_storyTitle"
-msgstr ""
+msgstr "「嬉しい。わたしの歌、聴いてくれてるの？」"
 
+#, fuzzy
 msgid "musicName_0041_musicname"
-msgstr ""
+msgstr "Silent Hacker"
 
+#, fuzzy
 msgid "musicName_0041_officialName"
-msgstr ""
+msgstr "Silent Hacker"
 
+#, fuzzy
 msgid "musicName_0041_vocalName"
 msgstr ""
+"Walküre ReinaΔNao Tōyama MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono "
+"Yasuno MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0041_vocalNameLF"
 msgstr ""
+"Walküre ReinaΔNao Tōyama MikumoΔJUNNA\n"
+"FreyjaΔMinori Suzuki KanameΔKiyono Yasuno\n"
+"MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0041_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   ReinaΔNao Tōyama MikumoΔJUNNA\n"
+"   FreyjaΔMinori Suzuki KanameΔKiyono Yasuno\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：鈴木さえ子、TOMISIRO\n"
+"Compositeur：鈴木さえ子、TOMISIRO"
 
+#, fuzzy
 msgid "musicName_0041_storyDesc"
 msgstr ""
+"ウィンダミア軍に占領された惑星ヴォルドールで、\n"
+"Walküreの潜入ミッションが開始される。\n"
+"\n"
+"多数の艦船による防衛網に対して、レイナによる\n"
+"ハッキングが開始された。高度な軍事システムが\n"
+"相手でも、レイナは余裕の笑みを浮かべて見せた。"
 
+#, fuzzy
 msgid "musicName_0041_storyTitle"
-msgstr ""
+msgstr "「相手にとって不足なし」"
 
+#, fuzzy
 msgid "musicName_0042_musicname"
-msgstr ""
+msgstr "God Bless You"
 
+#, fuzzy
 msgid "musicName_0042_officialName"
-msgstr ""
+msgstr "God Bless You"
 
+#, fuzzy
 msgid "musicName_0042_vocalName"
 msgstr ""
+"Walküre FreyjaΔMinori Suzuki MikumoΔJUNNA KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0042_vocalNameLF"
 msgstr ""
+"Walküre FreyjaΔMinori Suzuki MikumoΔJUNNA\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0042_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   FreyjaΔMinori Suzuki MikumoΔJUNNA\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：北川勝利\n"
+"Compositeur：北川勝利"
 
+#, fuzzy
 msgid "musicName_0042_storyDesc"
 msgstr ""
+"ウィンダミアとの戦争は拡大の一途を辿り、\n"
+"フレイアの心境にも少なからず影響を及ぼしていた。\n"
+"\n"
+"そんなフレイアを励ますべく、誕生日のサプライズを\n"
+"企画する一同。それぞれが思い思いのプレゼントを準備\n"
+"するなか、ハヤテは何やら特別な装置を用意して…？"
 
+#, fuzzy
 msgid "musicName_0042_storyTitle"
-msgstr ""
+msgstr "「もしかしてこの雪、ハヤテが降らせて…」"
 
+#, fuzzy
 msgid "musicName_0043_musicname"
-msgstr ""
+msgstr "HOLY LONELY LIGHT [Duet Version]"
 
+#, fuzzy
 msgid "musicName_0043_officialName"
-msgstr ""
+msgstr "HOLY LONELY LIGHT [Duet Version]"
 
+#, fuzzy
 msgid "musicName_0043_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0043_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0043_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：須藤英樹"
 
+#, fuzzy
 msgid "musicName_0043_storyDesc"
 msgstr ""
+"戦闘の影響か、突然声が出なくなってしまい、\n"
+"一切歌うことができなくなってしまったバサラ。\n"
+"\n"
+"そんな状況で強大なプロトデビルンの襲撃が発生し、\n"
+"船団は窮地に陥ってしまう。そんななか、必死に\n"
+"歌おうとするバサラのためにミレーヌは奮闘する。"
 
+#, fuzzy
 msgid "musicName_0043_storyTitle"
-msgstr ""
+msgstr "「あたしの歌をどうしてもバサラに届けたいの！」"
 
+#, fuzzy
 msgid "musicName_0044_musicname"
-msgstr ""
+msgstr "pink monsoon"
 
+#, fuzzy
 msgid "musicName_0044_officialName"
-msgstr ""
+msgstr "pink monsoon"
 
+#, fuzzy
 msgid "musicName_0044_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0044_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0044_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0044_storyDesc"
 msgstr ""
+"フロンティア船団でつかの間の休息を満喫する\n"
+"シェリル…と、それに付き合わされるアルト。\n"
+"\n"
+"「銀河の妖精」としては見せることのない、\n"
+"シェリルの自然な魅力にあてられる。だが\n"
+"それすらも、彼女が持つ多くの武器の1つに過ぎない。"
 
+#, fuzzy
 msgid "musicName_0044_storyTitle"
-msgstr ""
+msgstr "「わたしは違うわ。ぜーんぶ生まれたままよ」"
 
+#, fuzzy
 msgid "musicName_0045_musicname"
-msgstr ""
+msgstr "虹いろ・クマクマ"
 
+#, fuzzy
 msgid "musicName_0045_officialName"
-msgstr ""
+msgstr "虹いろ・クマクマ"
 
+#, fuzzy
 msgid "musicName_0045_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0045_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0045_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0045_storyDesc"
 msgstr ""
+"ずっと夢見ていたChanteurとしてデビューしたランカ。\n"
+"ついに、ファーストライブの開催が決定した。\n"
+"\n"
+"憧れのシェリルに招待状を手渡し、ライブの当日を\n"
+"迎える。まるで魔法のように派手な演出がステージを\n"
+"彩ると、歌と観客が一体となって会場を揺らした。"
 
+#, fuzzy
 msgid "musicName_0045_storyTitle"
-msgstr ""
+msgstr "「来週末、私のファーストライブの招待状です！」"
 
+#, fuzzy
 msgid "musicName_0046_musicname"
-msgstr ""
+msgstr "SEVENTH MOON"
 
+#, fuzzy
 msgid "musicName_0046_officialName"
-msgstr ""
+msgstr "SEVENTH MOON"
 
+#, fuzzy
 msgid "musicName_0046_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0046_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0046_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：河内淳貴"
 
+#, fuzzy
 msgid "musicName_0047_musicname"
-msgstr ""
+msgstr "Hear The Universe"
 
+#, fuzzy
 msgid "musicName_0047_officialName"
-msgstr ""
+msgstr "Hear The Universe"
 
+#, fuzzy
 msgid "musicName_0047_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0047_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0047_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：岩里祐穂\n"
+"Compositeur：Rasmus Faber"
 
+#, fuzzy
 msgid "musicName_0047_storyDesc"
 msgstr ""
+"星団全体にウィンダミアの支配が広がり、\n"
+"ワクチンライブを行えなくなってしまったWalküre。\n"
+"\n"
+"そこでWalküreがとった作戦は、ライブの映像を\n"
+"配信することだった。特殊なコンピュータウィルスが\n"
+"含まれた映像データは瞬く間に銀河中へと広がっていく。"
 
+#, fuzzy
 msgid "musicName_0047_storyTitle"
-msgstr ""
+msgstr "「クラゲを隠すならクラゲの群れってやつだ」"
 
+#, fuzzy
 msgid "musicName_0048_musicname"
-msgstr ""
+msgstr "星間イヴ（星間飛行 christmas ver.）"
 
+#, fuzzy
 msgid "musicName_0048_officialName"
-msgstr ""
+msgstr "星間イヴ（星間飛行 christmas ver.）"
 
+#, fuzzy
 msgid "musicName_0048_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0048_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0048_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima、\n"
+"   Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：松本隆\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0049_musicname"
-msgstr ""
+msgstr "dシュディスタb"
 
+#, fuzzy
 msgid "musicName_0049_officialName"
-msgstr ""
+msgstr "dシュディスタb"
 
+#, fuzzy
 msgid "musicName_0049_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0049_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0049_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：hal\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0049_storyDesc"
 msgstr ""
+"才能を秘めながらChanteurに憧れる少女ランカと、\n"
+"トップシンガーとして常に輝き続けてきたシェリル。\n"
+"\n"
+"数奇な運命から出会いを果たした2人は、それぞれの\n"
+"想いを胸に歌い、踊り、観客を魅了してきた。そして\n"
+"今、2人の歌声は1つのステージ上で交わり始める。"
 
+#, fuzzy
 msgid "musicName_0049_storyTitle"
-msgstr ""
+msgstr "「いくわよ、ランカちゃん！」「はい！」"
 
+#, fuzzy
 msgid "musicName_0050_musicname"
-msgstr ""
+msgstr "絶対零度θノヴァティック"
 
+#, fuzzy
 msgid "musicName_0050_officialName"
-msgstr ""
+msgstr "絶対零度θノヴァティック"
 
+#, fuzzy
 msgid "musicName_0050_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0050_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0050_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：図司純子<Eidy>、河嶋晃一<Eidy>\n"
+"Compositeur：図司純子<Eidy>、河嶋晃一<Eidy>、\n"
+"   Mitsunori Ikeda"
 
+#, fuzzy
 msgid "musicName_0050_storyDesc"
 msgstr ""
+"星の歌い手として覚醒した美雲は、\n"
+"ロイドに操られるがままに仲間たちへと牙をむく。\n"
+"\n"
+"残されたWalküreの面々は、美雲の心を呼び覚ます\n"
+"ために全力で歌い続けた。戦火が更に激しさを\n"
+"増しても、Walküreの絆が途切れることはない。"
 
+#, fuzzy
 msgid "musicName_0050_storyTitle"
-msgstr ""
+msgstr "「美雲さんは何故、どんな想いで歌うんですか？」"
 
+#, fuzzy
 msgid "musicName_0051_musicname"
-msgstr ""
+msgstr "やさしさSAYONARA"
 
+#, fuzzy
 msgid "musicName_0051_officialName"
-msgstr ""
+msgstr "やさしさSAYONARA"
 
+#, fuzzy
 msgid "musicName_0051_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0051_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0051_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0051_storyDesc"
 msgstr ""
+"戦争は終結したものの、異星人や外宇宙の存在を知った\n"
+"人類は、遥かな宇宙移民の旅へ出発しようとしていた。\n"
+"\n"
+"過去への執着をやめ、もう一度自分の歌と一緒に\n"
+"生きていくことを決めたミンメイ。輝、そして未沙へ\n"
+"別れを告げて、彼女はまだ見ぬどこかへと歩き始めた。"
 
+#, fuzzy
 msgid "musicName_0051_storyTitle"
-msgstr ""
+msgstr "「もう、歌をやめるなんて言わない」"
 
+#, fuzzy
 msgid "musicName_0052_musicname"
-msgstr ""
+msgstr "そうだよ。"
 
+#, fuzzy
 msgid "musicName_0052_officialName"
-msgstr ""
+msgstr "そうだよ。"
 
+#, fuzzy
 msgid "musicName_0052_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0052_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0052_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：坂本真綾、Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0052_storyDesc"
 msgstr ""
+"S.M.Sの奮闘によって、フロンティア船団は\n"
+"襲来したバジュラを撃退することに成功した。\n"
+"\n"
+"激しい戦闘のあとに訪れる、つかの間の平穏。\n"
+"船内では、戦いに疲れた人々の心と犠牲になった者たちの\n"
+"魂を癒やすように、偽りの雪が優しく降り注いでいた。"
 
+#, fuzzy
 msgid "musicName_0052_storyTitle"
-msgstr ""
+msgstr "「うわぁ、雪だ！」"
 
+#, fuzzy
 msgid "musicName_0053_musicname"
-msgstr ""
+msgstr "おにゃの子☆girl"
 
+#, fuzzy
 msgid "musicName_0053_officialName"
-msgstr ""
+msgstr "おにゃの子☆girl"
 
+#, fuzzy
 msgid "musicName_0053_vocalName"
 msgstr ""
+"Walküre MakinaΔNozomi Nishida FreyjaΔMinori Suzuki KanameΔKiyono Yasuno "
+"ReinaΔNao Tōyama"
 
+#, fuzzy
 msgid "musicName_0053_vocalNameLF"
 msgstr ""
+"Walküre MakinaΔNozomi Nishida FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama"
 
+#, fuzzy
 msgid "musicName_0053_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MakinaΔNozomi Nishida FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"\n"
+"Parolier：かせきさいだぁ\n"
+"Compositeur：TeddyLoid"
 
+#, fuzzy
 msgid "musicName_0053_storyDesc"
 msgstr ""
+"銀河ネットワークに配信されたWalküreのライブ\n"
+"映像…と、販売目的の映像コンテンツ（有料）。\n"
+"\n"
+"商売上手なアラドの策略はさておき、その魅力で\n"
+"ファンを魅了するマキナ。乙女チックな演出に彩られた\n"
+"ソロライブは、男女問わず人気を博している。"
 
+#, fuzzy
 msgid "musicName_0053_storyTitle"
-msgstr ""
+msgstr "「これはマキマキからのプレゼント！」"
 
+#, fuzzy
 msgid "musicName_0054_musicname"
-msgstr ""
+msgstr "GIRAFFE BLUES"
 
+#, fuzzy
 msgid "musicName_0054_officialName"
-msgstr ""
+msgstr "GIRAFFE BLUES"
 
+#, fuzzy
 msgid "musicName_0054_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0054_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0054_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：菜穂\n"
+"Compositeur：h-wonder"
 
+#, fuzzy
 msgid "musicName_0055_musicname"
-msgstr ""
+msgstr "Get it on ～光速クライmax"
 
+#, fuzzy
 msgid "musicName_0055_officialName"
-msgstr ""
+msgstr "Get it on ～光速クライmax"
 
+#, fuzzy
 msgid "musicName_0055_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0055_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0055_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin、Tim Jensen\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0055_storyDesc"
 msgstr ""
+"スパイ容疑で監獄に囚われてしまったシェリル。\n"
+"S.M.Sは極秘の救出作戦を決行する。\n"
+"\n"
+"そしてついに、ステージへの帰還を果たした。\n"
+"ランカと対面すると少しだけ迷った素振りを見せたが、\n"
+"マイクを受け取れば、そこにはいつもの彼女がいた。"
 
+#, fuzzy
 msgid "musicName_0055_storyTitle"
-msgstr ""
+msgstr "「みんな、脱出するわよ！」"
 
+#, fuzzy
 msgid "musicName_0056_musicname"
-msgstr ""
+msgstr "シンデレラ"
 
+#, fuzzy
 msgid "musicName_0056_officialName"
-msgstr ""
+msgstr "シンデレラ"
 
+#, fuzzy
 msgid "musicName_0056_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0056_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0056_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：Mari Iijima\n"
+"Compositeur：Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0057_musicname"
-msgstr ""
+msgstr "NEO STREAM"
 
+#, fuzzy
 msgid "musicName_0057_officialName"
-msgstr ""
+msgstr "NEO STREAM"
 
+#, fuzzy
 msgid "musicName_0057_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0057_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0057_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西田恵美\n"
+"Compositeur：渡辺未来"
 
+#, fuzzy
 msgid "musicName_0057_storyDesc"
 msgstr ""
+"避難民を乗せたアイランド船の動力にトラブルが発生。\n"
+"不安に怯える人々のため、Walküreが立ち上がる。\n"
+"\n"
+"外壁を損傷し船内の空気が減少する中、アーネストは\n"
+"やむ負えずMacross・エリシオンの緊急ドッキングを\n"
+"敢行、果たしてアイランド船の修復は間に合うのか？"
 
+#, fuzzy
 msgid "musicName_0057_storyTitle"
-msgstr ""
+msgstr "「Macross・エリシオン、緊急ドッキング！」"
 
+#, fuzzy
 msgid "musicName_0058_musicname"
-msgstr ""
+msgstr "オベリスク"
 
+#, fuzzy
 msgid "musicName_0058_officialName"
-msgstr ""
+msgstr "オベリスク"
 
+#, fuzzy
 msgid "musicName_0058_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0058_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0058_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0059_musicname"
-msgstr ""
+msgstr "ヴァージンストーリー"
 
+#, fuzzy
 msgid "musicName_0059_officialName"
-msgstr ""
+msgstr "ヴァージンストーリー"
 
+#, fuzzy
 msgid "musicName_0059_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0059_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0059_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：COZZI"
 
+#, fuzzy
 msgid "musicName_0059_storyDesc"
 msgstr ""
+"かつてプロトデビルンを撃退し、Macross7船団を\n"
+"救った伝説のロックバンド、Fire Bomber。その後の\n"
+"活動は不明な点が多く、幻の存在とさえ噂されていた。\n"
+"\n"
+"そんな中、Fire Bomberの新曲がリリースされたという\n"
+"衝撃のニュースが銀河ネットワークを駆け巡ったのだ。"
 
+#, fuzzy
 msgid "musicName_0059_storyTitle"
-msgstr ""
+msgstr "「Fire Bomberはちゃんとここにいる！」"
 
+#, fuzzy
 msgid "musicName_0060_musicname"
-msgstr ""
+msgstr "LOVE! THUNDER GLOW"
 
+#, fuzzy
 msgid "musicName_0060_officialName"
-msgstr ""
+msgstr "LOVE! THUNDER GLOW"
 
+#, fuzzy
 msgid "musicName_0060_vocalName"
-msgstr ""
+msgstr "Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki"
 
+#, fuzzy
 msgid "musicName_0060_vocalNameLF"
-msgstr ""
+msgstr "Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki"
 
+#, fuzzy
 msgid "musicName_0060_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"\n"
+"Parolier：サエキけんぞう\n"
+"Compositeur：SiZK、Stephen McNair"
 
+#, fuzzy
 msgid "musicName_0060_storyDesc"
 msgstr ""
+"遺跡のシステムを破壊し人々を救出するため、再び\n"
+"ヴォルドールへ潜入したデルタ小隊とWalküre。\n"
+"\n"
+"異常な波形で歌うフレイアと共鳴し暴走するハヤテ。\n"
+"遺跡のシステムが起動し、周囲が混乱に包まれる中、\n"
+"美雲の脳裏には恐怖の記憶と遥か昔の光景が甦り…"
 
+#, fuzzy
 msgid "musicName_0060_storyTitle"
-msgstr ""
+msgstr "「怖れている？この私が……？」"
 
+#, fuzzy
 msgid "musicName_0061_musicname"
-msgstr ""
+msgstr "Macross"
 
+#, fuzzy
 msgid "musicName_0061_officialName"
-msgstr ""
+msgstr "Macross"
 
+#, fuzzy
 msgid "musicName_0061_vocalName"
-msgstr ""
+msgstr "藤原誠"
 
+#, fuzzy
 msgid "musicName_0061_vocalNameLF"
-msgstr ""
+msgstr "藤原誠"
 
+#, fuzzy
 msgid "musicName_0061_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：藤原誠\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0061_storyDesc"
 msgstr ""
+"ゼントラーディ軍との星間戦争に巻き込まれた\n"
+"Macross。約5万人の民間人を乗せた艦は広い宇宙の\n"
+"彼方に投げ出されてしまう。\n"
+"\n"
+"民間人だった一条輝は軍隊に抵抗を感じながらも、\n"
+"ミンメイを守るために軍への入隊を決意したのだった。"
 
+#, fuzzy
 msgid "musicName_0061_storyTitle"
-msgstr ""
+msgstr "「バルキリー・スカル大隊発進！」"
 
+#, fuzzy
 msgid "musicName_0062_musicname"
-msgstr ""
+msgstr "禁断のエリクシア"
 
+#, fuzzy
 msgid "musicName_0062_officialName"
-msgstr ""
+msgstr "禁断のエリクシア"
 
+#, fuzzy
 msgid "musicName_0062_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0062_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0062_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0062_storyDesc"
 msgstr ""
+"バジュラの襲撃から3か月の時が経ったフロンティア\n"
+"では、シェリルのライブが開催されようとしていた。\n"
+"\n"
+"無残に破壊されていた街並みも復興し、その一角に\n"
+"設けられた特別ステージに人々が集まっていた。\n"
+"まるでこのひと時は、戦いの傷跡を忘れるかのように。"
 
+#, fuzzy
 msgid "musicName_0062_storyTitle"
-msgstr ""
+msgstr "「歌は命だと思ってた」"
 
+#, fuzzy
 msgid "musicName_0063_musicname"
-msgstr ""
+msgstr "風は予告なく吹く"
 
+#, fuzzy
 msgid "musicName_0063_officialName"
-msgstr ""
+msgstr "風は予告なく吹く"
 
+#, fuzzy
 msgid "musicName_0063_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0063_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0063_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：坂本真綾\n"
+"Compositeur：北川勝利"
 
+#, fuzzy
 msgid "musicName_0063_storyDesc"
 msgstr ""
+"ハヤテの病室の前で佇むフレイアとミラージュ。\n"
+"お互い言葉は交わさずとも胸に抱く想いは同じだった。\n"
+"\n"
+"そこにベルガーが現れ、あの暴走したヴォルドールを\n"
+"見ていたと語る。そして自身の仮説を確信したとして、\n"
+"歌こそ究極の兵器ではないのかと説き始めたのだった。"
 
+#, fuzzy
 msgid "musicName_0063_storyTitle"
-msgstr ""
+msgstr "「歌は兵器なんかじゃない！」"
 
+#, fuzzy
 msgid "musicName_0064_musicname"
-msgstr ""
+msgstr "恋はドッグファイト （FIRST LIVE in アトランティスドーム）"
 
+#, fuzzy
 msgid "musicName_0064_officialName"
-msgstr ""
+msgstr "恋はドッグファイト （FIRST LIVE in アトランティスドーム）"
 
+#, fuzzy
 msgid "musicName_0064_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0064_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0064_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：黒河影次\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0065_musicname"
-msgstr ""
+msgstr "REMEMBER 16"
 
+#, fuzzy
 msgid "musicName_0065_officialName"
-msgstr ""
+msgstr "REMEMBER 16"
 
+#, fuzzy
 msgid "musicName_0065_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0065_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0065_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：河内淳貴"
 
+#, fuzzy
 msgid "musicName_0065_storyDesc"
 msgstr ""
+"作り掛けの曲を完成させる切っ掛けを閃いたバサラ。\n"
+"救援部隊をシビルが襲撃したため一旦は中断するも、\n"
+"シティ7の夕陽を前に再び曲作りを開始するのだった。\n"
+"\n"
+"一方、夕陽の公園でフィジカの妻と子供の姿を見つけた\n"
+"ガムリンは、愕然とする光景を目の当たりにしていた。"
 
+#, fuzzy
 msgid "musicName_0065_storyTitle"
-msgstr ""
+msgstr "「このまま、二度と子供や妻に会えなかったら…」"
 
+#, fuzzy
 msgid "musicName_0066_musicname"
-msgstr ""
+msgstr "SUBMARINE STREET"
 
+#, fuzzy
 msgid "musicName_0066_officialName"
-msgstr ""
+msgstr "SUBMARINE STREET"
 
+#, fuzzy
 msgid "musicName_0066_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0066_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0066_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：福田俊哉"
 
+#, fuzzy
 msgid "musicName_0066_storyDesc"
 msgstr ""
+"バサラとの接触により、プロトデビルンのシビルは\n"
+"エネルギーを失い、植物プラントの中で眠りについた。\n"
+"\n"
+"彼女を目覚めさせるために、バサラは歌い続けた。\n"
+"何度も何度も、夜な夜な植物プラントへと足を運び、\n"
+"周りの者に不審がられようとも、歌い続けたのだった。"
 
+#, fuzzy
 msgid "musicName_0066_storyTitle"
-msgstr ""
+msgstr "「今日こそ絶対目覚めさせてやるぜ！」"
 
+#, fuzzy
 msgid "musicName_0067_musicname"
-msgstr ""
+msgstr "蒼のエーテル"
 
+#, fuzzy
 msgid "musicName_0067_officialName"
-msgstr ""
+msgstr "蒼のエーテル"
 
+#, fuzzy
 msgid "musicName_0067_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0067_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0067_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：坂本真綾\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0068_musicname"
-msgstr ""
+msgstr "Walküreがとまらない"
 
+#, fuzzy
 msgid "musicName_0068_officialName"
-msgstr ""
+msgstr "Walküreがとまらない"
 
+#, fuzzy
 msgid "musicName_0068_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0068_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0068_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：唐沢美帆、加藤裕介\n"
+"Compositeur：加藤裕介"
 
+#, fuzzy
 msgid "musicName_0068_storyDesc"
 msgstr ""
+"戦術音楽ユニットとして結成されて以来、多くの試練を\n"
+"乗り越えて活動を続けてきたWalküre。\n"
+"\n"
+"たくさんの人の想いを背負って歌っている彼女たち。\n"
+"日々成長を続け、とどまることを知らないその歌声は、\n"
+"今日も銀河中の人々の心に響き続けている。"
 
+#, fuzzy
 msgid "musicName_0068_storyTitle"
-msgstr ""
+msgstr "「Walküreを最高にいいグループにしてやろうって」"
 
+#, fuzzy
 msgid "musicName_0069_musicname"
-msgstr ""
+msgstr "涙目爆発音"
 
+#, fuzzy
 msgid "musicName_0069_officialName"
-msgstr ""
+msgstr "涙目爆発音"
 
+#, fuzzy
 msgid "musicName_0069_vocalName"
-msgstr ""
+msgstr "Walküre KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0069_vocalNameLF"
 msgstr ""
+"Walküre KanameΔKiyono Yasuno\n"
+"ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0069_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：堂島孝平\n"
+"Compositeur：堂島孝平"
 
+#, fuzzy
 msgid "musicName_0069_storyDesc"
 msgstr ""
+"カナメとレイナの2人に第1回オーディションを通った\n"
+"マキナを含む3人が加わり始動したWalküre。\n"
+"\n"
+"彼女たちは何度も戦場に出向いたが、初めは\n"
+"力を発揮できず失敗続きだった。それでも彼女たち\n"
+"は歌い続け、やがて唯一無二の存在に成長していく。"
 
+#, fuzzy
 msgid "musicName_0069_storyTitle"
-msgstr ""
+msgstr "「私たちの歌は、届かなかった」"
 
+#, fuzzy
 msgid "musicName_0070_musicname"
-msgstr ""
+msgstr "愛・おぼえていますか〜bless the little queen"
 
+#, fuzzy
 msgid "musicName_0070_officialName"
-msgstr ""
+msgstr "愛・おぼえていますか〜bless the little queen"
 
+#, fuzzy
 msgid "musicName_0070_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0070_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0070_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：安井かずみ\n"
+"Compositeur：加藤和彦"
 
+#, fuzzy
 msgid "musicName_0070_storyDesc"
 msgstr ""
+"バジュラ本星への降下を開始したフロンティア船団。\n"
+"全てが上手くいくと思われたその時、宙域にランカの\n"
+"歌声が響き渡り、バジュラは連携を取り戻していく。\n"
+"\n"
+"バジュラの猛攻によって劣勢を強いられる新統合軍\n"
+"と移民船団。ランカは本当に人類の敵となったのか…？"
 
+#, fuzzy
 msgid "musicName_0070_storyTitle"
-msgstr ""
+msgstr "「惑星の守り手に、これ以上相応しい歌は無いわね」"
 
+#, fuzzy
 msgid "musicName_0071_musicname"
-msgstr ""
+msgstr "What 'bout my star?@Formo"
 
+#, fuzzy
 msgid "musicName_0071_officialName"
-msgstr ""
+msgstr "What 'bout my star?@Formo"
 
+#, fuzzy
 msgid "musicName_0071_description"
-msgstr ""
+msgstr "楽曲詳細 071"
 
+#, fuzzy
 msgid "musicName_0072_musicname"
-msgstr ""
+msgstr "妖精"
 
+#, fuzzy
 msgid "musicName_0072_officialName"
-msgstr ""
+msgstr "妖精"
 
+#, fuzzy
 msgid "musicName_0072_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0072_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0072_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：真名杏樹\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0073_musicname"
-msgstr ""
+msgstr "破滅の純情"
 
+#, fuzzy
 msgid "musicName_0073_officialName"
-msgstr ""
+msgstr "破滅の純情"
 
+#, fuzzy
 msgid "musicName_0073_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0073_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0073_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0073_storyDesc"
 msgstr ""
+"惑星ヴォルドールにて古代システム破壊のため行った\n"
+"戦術ライブだが、システムの暴走と異常な共鳴反応を\n"
+"起こすフレイアとハヤテのため、強制的に中断された。\n"
+"\n"
+"しかし、遺跡との共鳴で覚醒した美雲は再び歌い始め、\n"
+"より共鳴を強めていく。そして、限界を超えた遺跡は…"
 
+#, fuzzy
 msgid "musicName_0073_storyTitle"
-msgstr ""
+msgstr "「システムが…暴走してる！」"
 
+#, fuzzy
 msgid "musicName_0074_musicname"
-msgstr ""
+msgstr "永遠"
 
+#, fuzzy
 msgid "musicName_0074_officialName"
-msgstr ""
+msgstr "永遠"
 
+#, fuzzy
 msgid "musicName_0074_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0074_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0074_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0075_musicname"
-msgstr ""
+msgstr "ホシキラ"
 
+#, fuzzy
 msgid "musicName_0075_officialName"
-msgstr ""
+msgstr "ホシキラ"
 
+#, fuzzy
 msgid "musicName_0075_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0075_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0075_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜サヨナラノツバサ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0075_storyDesc"
 msgstr ""
+"バジュラが星を後にしてからひと月、人々は残された\n"
+"大地を踏みしめ、新しい生活を始めようとしていた。\n"
+"\n"
+"ランカはアルトが無事に帰ってくること、そして命を\n"
+"燃やして歌い、長い眠りについたシェリルが再び目を\n"
+"覚ますことを信じ、残されたこの星と共に歌い続ける。"
 
+#, fuzzy
 msgid "musicName_0075_storyTitle"
-msgstr ""
+msgstr "「──だけど、私は信じている」"
 
+#, fuzzy
 msgid "musicName_0076_musicname"
-msgstr ""
+msgstr "Absolute 5"
 
+#, fuzzy
 msgid "musicName_0076_officialName"
-msgstr ""
+msgstr "Absolute 5"
 
+#, fuzzy
 msgid "musicName_0076_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0076_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0076_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：喜介\n"
+"Compositeur：渡辺拓也"
 
+#, fuzzy
 msgid "musicName_0076_storyDesc"
 msgstr ""
+"美雲を囚われ、メンバーを欠いたWalküre。\n"
+"それでもプロトカルチャーのシステムを破壊するため、\n"
+"4人での戦術ライブを強行する。\n"
+"\n"
+"敵の激しい抵抗の中、Walküreは歌声を響かせる。\n"
+"気配を隠し、静かに狙いを定める存在にも気付かずに…"
 
+#, fuzzy
 msgid "musicName_0076_storyTitle"
-msgstr ""
+msgstr "「大丈夫、私たちならできる！」"
 
+#, fuzzy
 msgid "musicName_0077_musicname"
-msgstr ""
+msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
 
+#, fuzzy
 msgid "musicName_0077_officialName"
-msgstr ""
+msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
 
+#, fuzzy
 msgid "musicName_0077_vocalName"
-msgstr ""
+msgstr "Walküre KanameΔKiyono Yasuno MikumoΔJUNNA FreyjaΔMinori Suzuki"
 
+#, fuzzy
 msgid "musicName_0077_vocalNameLF"
 msgstr ""
+"Walküre KanameΔKiyono Yasuno\n"
+"MikumoΔJUNNA FreyjaΔMinori Suzuki"
 
+#, fuzzy
 msgid "musicName_0077_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   KanameΔKiyono Yasuno MikumoΔJUNNA\n"
+"   FreyjaΔMinori Suzuki\n"
+"\n"
+"Parolier：菜穂\n"
+"Compositeur：h-wonder"
 
+#, fuzzy
 msgid "musicName_0077_storyDesc"
 msgstr ""
+"メッサーの魂が海に還り、光クラゲになれるよう\n"
+"クラゲ送りを行うケイオスのメンバーとWalküre。\n"
+"\n"
+"メッサーの機体から見つかったという端末には、\n"
+"デルタ小隊のフライトログが残されていたという。\n"
+"そこには最後まで仲間を想い続ける彼の姿があった。"
 
+#, fuzzy
 msgid "musicName_0077_storyTitle"
-msgstr ""
+msgstr "「私の歌を、大切に思ってくれる人がいる」"
 
+#, fuzzy
 msgid "musicName_0078_musicname"
-msgstr ""
+msgstr "宇宙兄弟船"
 
+#, fuzzy
 msgid "musicName_0078_officialName"
-msgstr ""
+msgstr "宇宙兄弟船"
 
+#, fuzzy
 msgid "musicName_0078_description"
-msgstr ""
+msgstr "楽曲詳細 078"
 
+#, fuzzy
 msgid "musicName_0079_musicname"
-msgstr ""
+msgstr "イゾラド"
 
+#, fuzzy
 msgid "musicName_0079_officialName"
-msgstr ""
+msgstr "イゾラド"
 
+#, fuzzy
 msgid "musicName_0079_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0079_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0079_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：山田稔明\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0080_musicname"
-msgstr ""
+msgstr "ルンがピカッと光ったら"
 
+#, fuzzy
 msgid "musicName_0080_officialName"
-msgstr ""
+msgstr "ルンがピカッと光ったら"
 
+#, fuzzy
 msgid "musicName_0080_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0080_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0080_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0081_musicname"
-msgstr ""
+msgstr "ランナー -リンミンメイ･バージョン-"
 
+#, fuzzy
 msgid "musicName_0081_officialName"
-msgstr ""
+msgstr "ランナー -リンミンメイ･バージョン-"
 
+#, fuzzy
 msgid "musicName_0081_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0081_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0081_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0081_storyDesc"
 msgstr ""
+"最初は偶然の出会いだった輝とミンメイ。ともに\n"
+"窮地を乗り越えた2人は徐々に交友を深めていく。\n"
+"\n"
+"そして、軍へ入隊した輝と、芸能界に入ったミンメイ。\n"
+"いつしか疎遠となっていく2人の関係だが、かつての\n"
+"青春と思い出は、時を経た今でも色褪せることはない。"
 
+#, fuzzy
 msgid "musicName_0081_storyTitle"
-msgstr ""
+msgstr "「ありがとう、ミンメイ」"
 
+#, fuzzy
 msgid "musicName_0082_musicname"
-msgstr ""
+msgstr "愛は流れる"
 
+#, fuzzy
 msgid "musicName_0082_officialName"
-msgstr ""
+msgstr "愛は流れる"
 
+#, fuzzy
 msgid "musicName_0082_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0082_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0082_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0082_storyDesc"
 msgstr ""
+"戦闘中被弾した輝は地球に降下、そのまま取り残され\n"
+"ていた未沙の救出へと向かった。戦場ではミンメイの\n"
+"歌と共に、Macrossが敵旗艦への最後の突撃に挑む。\n"
+"\n"
+"生き残った輝と未沙は地上でミンメイの歌を耳にし、\n"
+"無事地球へ帰還するMacrossの姿を目にしたのだった。"
 
+#, fuzzy
 msgid "musicName_0082_storyTitle"
-msgstr ""
+msgstr "「1人ぼっちじゃないんだから」"
 
+#, fuzzy
 msgid "musicName_0083_musicname"
-msgstr ""
+msgstr "SUNSET BEACH"
 
+#, fuzzy
 msgid "musicName_0083_officialName"
-msgstr ""
+msgstr "SUNSET BEACH"
 
+#, fuzzy
 msgid "musicName_0083_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0083_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0083_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0083_storyDesc"
 msgstr ""
+"プロのChanteurであるミンメイも、プライベートでは\n"
+"年頃の女の子。スキャンダルに落ち込みもするし、\n"
+"無邪気に遊びまわりたい気持ちもある。\n"
+"\n"
+"そんなミンメイを想う輝は、彼女の願いを叶えるために\n"
+"バルキリーで宇宙へと連れ出したのであった。"
 
+#, fuzzy
 msgid "musicName_0083_storyTitle"
-msgstr ""
+msgstr "「いいものを見せてあげようか」"
 
+#, fuzzy
 msgid "musicName_0084_musicname"
-msgstr ""
+msgstr "Walküreは裏切らない"
 
+#, fuzzy
 msgid "musicName_0084_officialName"
-msgstr ""
+msgstr "Walküreは裏切らない"
 
+#, fuzzy
 msgid "musicName_0084_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0084_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0084_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ激情のWalküre\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：喜介\n"
+"Compositeur：渡辺拓也"
 
+#, fuzzy
 msgid "musicName_0084_storyDesc"
 msgstr ""
+"ウィンダミアとの最終決戦。ロイド達の攻撃により\n"
+"意識を失うハヤテ達に歌を届けに空へ飛びこんでいく。\n"
+"\n"
+"たとえ、どんなに絶望的な状況でも、決して希望を\n"
+"諦めずに歌い続ける。それが彼女達の強さであり、\n"
+"力なのだろう。"
 
+#, fuzzy
 msgid "musicName_0084_storyTitle"
-msgstr ""
+msgstr "「届けなきゃ…私の歌……届けなきゃ！」"
 
+#, fuzzy
 msgid "musicName_0085_musicname"
-msgstr ""
+msgstr "シェリルの宇宙兄弟船"
 
+#, fuzzy
 msgid "musicName_0085_officialName"
-msgstr ""
+msgstr "シェリルの宇宙兄弟船"
 
+#, fuzzy
 msgid "musicName_0085_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0085_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0085_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0085_storyDesc"
 msgstr ""
+"早乙女矢三郎。アルトにとって兄弟子にあたる人物で、\n"
+"彼が「兄さん」と呼ぶ早乙女一門の歌舞伎役者である。\n"
+"\n"
+"矢三郎はアルトに役者として戻ってくることを望んだ。\n"
+"それは精進をしても得られない役者としての血筋と、\n"
+"自身を超えるアルトの才能を惜しんでのことであった。"
 
+#, fuzzy
 msgid "musicName_0085_storyTitle"
-msgstr ""
+msgstr "「あなたは演じることをやめられない」"
 
+#, fuzzy
 msgid "musicName_0086_musicname"
-msgstr ""
+msgstr "ゴ～～ジャス"
 
+#, fuzzy
 msgid "musicName_0086_officialName"
-msgstr ""
+msgstr "ゴ～～ジャス"
 
+#, fuzzy
 msgid "musicName_0086_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0086_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0086_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：ROBIN ROBINSON\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0086_storyDesc"
 msgstr ""
+"異国の地でエキゾチックな衣装に身を包んだシェリル。\n"
+"美しく妖艶なその姿は、見る者すべてを誘惑していく。\n"
+"\n"
+"舞台という魔物にとらわれ、虜となった彼女の情熱と\n"
+"欲求はとどまることを知らない。いつかその身が果てる\n"
+"その瞬間まで、彼女は輝き続けるのだろう。"
 
+#, fuzzy
 msgid "musicName_0086_storyTitle"
-msgstr ""
+msgstr "「私はステージ…舞台っていう魔物にとらわれた虜…」"
 
+#, fuzzy
 msgid "musicName_0087_musicname"
-msgstr ""
+msgstr "ランカと Brand New Peach"
 
+#, fuzzy
 msgid "musicName_0087_officialName"
-msgstr ""
+msgstr "ランカと Brand New Peach"
 
+#, fuzzy
 msgid "musicName_0087_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0087_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0087_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：ROBIN ROBINSON\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0087_storyDesc"
 msgstr ""
+"今や売れっ子として忙しい日々を過ごすランカ。\n"
+"こうして憧れのステージに立てたのも、アルトが\n"
+"背中を押してくれたおかげだとランカは感じていた。\n"
+"\n"
+"そして、ランカの心の中で芽生える甘く切ない感情。\n"
+"ランカがそれを理解するのは、もう少しだけ後の話…"
 
+#, fuzzy
 msgid "musicName_0087_storyTitle"
-msgstr ""
+msgstr "「アルト君がいてくれたから…」"
 
+#, fuzzy
 msgid "musicName_0088_musicname"
-msgstr ""
+msgstr "Good job！"
 
+#, fuzzy
 msgid "musicName_0088_officialName"
-msgstr ""
+msgstr "Good job！"
 
+#, fuzzy
 msgid "musicName_0088_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0088_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0088_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：ROBIN ROBINSON\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0088_storyDesc"
 msgstr ""
+"シェリル・ノームとランカ・リー。\n"
+"今を時めく歌姫である彼女たちは\n"
+"今宵もスペシャルなライブを用意してくれた。\n"
+"\n"
+"日々進化を続ける彼女たちの挑戦は、\n"
+"終わることなく次のステージへと羽ばたいていく。"
 
+#, fuzzy
 msgid "musicName_0088_storyTitle"
-msgstr ""
+msgstr "「私たちの歌を聴けー！！」"
 
+#, fuzzy
 msgid "musicName_0089_musicname"
-msgstr ""
+msgstr "チェンジ!!!!!"
 
+#, fuzzy
 msgid "musicName_0089_officialName"
-msgstr ""
+msgstr "チェンジ!!!!!"
 
+#, fuzzy
 msgid "musicName_0089_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0089_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0089_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ激情のWalküre\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：岩里祐穂\n"
+"Compositeur：Rasmus Faber"
 
+#, fuzzy
 msgid "musicName_0089_storyDesc"
 msgstr ""
+"初ライブの直前、美雲の厳しい言葉に真剣な顔を見せる\n"
+"フレイア。未だ成果を出せていないフレイアだったが…\n"
+"\n"
+"ハヤテたちデルタ小隊が見守る中、眩惑的なステージが\n"
+"始まる。レッスンの時とはうって変わり、ステージ上で\n"
+"輝きを放つフレイアの姿にハヤテは目を離せずにいた。"
 
+#, fuzzy
 msgid "musicName_0089_storyTitle"
-msgstr ""
+msgstr "「駄目ならクビよ？」"
 
+#, fuzzy
 msgid "musicName_0090_musicname"
-msgstr ""
+msgstr "MY FRIENDS"
 
+#, fuzzy
 msgid "musicName_0090_officialName"
-msgstr ""
+msgstr "MY FRIENDS"
 
+#, fuzzy
 msgid "musicName_0090_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0090_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0090_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：M.MEG\n"
+"Compositeur：川野美紀"
 
+#, fuzzy
 msgid "musicName_0090_storyDesc"
 msgstr ""
+"女性ボーカルとしてFire Bomberに参加したミレーヌ。\n"
+"最初はバサラの態度に納得できず、度々衝突していた。\n"
+"\n"
+"後に理解を深め、お互いを認め合うバサラとミレーヌ。\n"
+"更にガムリンとの出会いを経たことで、彼女の心は\n"
+"2人の異性の間で大きく揺れ動くことになる。"
 
+#, fuzzy
 msgid "musicName_0090_storyTitle"
-msgstr ""
+msgstr "「歌いたいときに歌うんじゃないの？」"
 
+#, fuzzy
 msgid "musicName_0091_musicname"
-msgstr ""
+msgstr "サイレントでなんかいられない"
 
+#, fuzzy
 msgid "musicName_0091_officialName"
-msgstr ""
+msgstr "サイレントでなんかいられない"
 
+#, fuzzy
 msgid "musicName_0091_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0091_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0091_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0091_storyDesc"
 msgstr ""
+"銀色に空が輝き、陽気なキャロルが街に流れ始めれば\n"
+"クリスマスを待ちわびる人々の声が聞こえてくる。\n"
+"\n"
+"特製の衣装を身に纏い着々とパーティーの準備を進める\n"
+"シェリル・ノームとランカ・リーの2人。彼女たちなら\n"
+"厳かなクリスマスも、最高に賑やかな物にするはずだ。"
 
+#, fuzzy
 msgid "musicName_0091_storyTitle"
-msgstr ""
+msgstr "「わぁ…」「綺麗…」"
 
+#, fuzzy
 msgid "musicName_0092_musicname"
-msgstr ""
+msgstr "INFORMATION HIGH"
 
+#, fuzzy
 msgid "musicName_0092_officialName"
-msgstr ""
+msgstr "INFORMATION HIGH"
 
+#, fuzzy
 msgid "musicName_0092_vocalName"
-msgstr ""
+msgstr "SHARON APPLE"
 
+#, fuzzy
 msgid "musicName_0092_vocalNameLF"
-msgstr ""
+msgstr "SHARON APPLE"
 
+#, fuzzy
 msgid "musicName_0092_description"
 msgstr ""
+"Oeuvre：Macrossプラス\n"
+"\n"
+"Chanteur：SHARON APPLE\n"
+"\n"
+"Parolier：DAI＆KEN=GO→\n"
+"Compositeur：CMJK"
 
+#, fuzzy
 msgid "musicName_0092_storyDesc"
-msgstr ""
+msgstr "（仮）"
 
+#, fuzzy
 msgid "musicName_0092_storyTitle"
-msgstr ""
+msgstr "（仮）"
 
+#, fuzzy
 msgid "musicName_0093_musicname"
-msgstr ""
+msgstr "ようこそ! Walküre・ワールドへ"
 
+#, fuzzy
 msgid "musicName_0093_officialName"
-msgstr ""
+msgstr "ようこそ! Walküre・ワールドへ"
 
+#, fuzzy
 msgid "musicName_0093_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0093_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0093_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：根元歳三\n"
+"Compositeur：西脇辰弥、Wilhelm Richard Wagner"
 
+#, fuzzy
 msgid "musicName_0093_storyDesc"
 msgstr ""
+"半ばドッキリのような抜き打ちの試験にて見事合格を\n"
+"掴み取り、女神の世界へと足を踏み入れたフレイア。\n"
+"\n"
+"そして、フレイアを加え5人となったWalküreは、\n"
+"今日もステージで女神の歌声を響かせながら、観客を\n"
+"めくるめくWalküre・ワールドへと誘っていく。"
 
+#, fuzzy
 msgid "musicName_0093_storyTitle"
-msgstr ""
+msgstr "「Welcome to Waltüre World！」"
 
+#, fuzzy
 msgid "musicName_0094_musicname"
-msgstr ""
+msgstr "マイ・ビューティフル・プレイス"
 
+#, fuzzy
 msgid "musicName_0094_officialName"
-msgstr ""
+msgstr "マイ・ビューティフル・プレイス"
 
+#, fuzzy
 msgid "musicName_0094_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0094_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0094_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0094_storyDesc"
 msgstr ""
+"統合政府の出した決定は、24時間以内の地球圏外への\n"
+"出撃だった。そしてそれは5万6千人のMacross市民を\n"
+"巻き添えにしなければならないことを意味していた…\n"
+"\n"
+"離れていく地球を背にし、想いを込めて歌うミンメイ。\n"
+"いつか再び故郷が迎え入れてくれることを願いながら…"
 
+#, fuzzy
 msgid "musicName_0094_storyTitle"
-msgstr ""
+msgstr "「いつか、きっと戻れると思うんです」"
 
+#, fuzzy
 msgid "musicName_0095_musicname"
-msgstr ""
+msgstr "Dancing in the Moonlight"
 
+#, fuzzy
 msgid "musicName_0095_officialName"
-msgstr ""
+msgstr "Dancing in the Moonlight"
 
+#, fuzzy
 msgid "musicName_0095_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0095_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0095_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ激情のWalküre\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：北川勝利、acane_madder\n"
+"Compositeur：北川勝利"
 
+#, fuzzy
 msgid "musicName_0095_storyDesc"
 msgstr ""
+"戦闘中Walküre以外のフォールドレセプターの\n"
+"反応を確認したデルタ小隊のハヤテは、貨物船の中で\n"
+"密航中であったフレイアと運命的な出会いを果たした。\n"
+"\n"
+"その後、ハヤテの手助けもありWalküreとなった\n"
+"フレイアは、激動する世界を相手に歌を響かせていく。"
 
+#, fuzzy
 msgid "musicName_0095_storyTitle"
-msgstr ""
+msgstr "「私は好きな歌を歌いたい、1分でも1秒でも長く！」"
 
+#, fuzzy
 msgid "musicName_0096_musicname"
-msgstr ""
+msgstr "天使になっちゃった"
 
+#, fuzzy
 msgid "musicName_0096_officialName"
-msgstr ""
+msgstr "天使になっちゃった"
 
+#, fuzzy
 msgid "musicName_0096_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0096_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0096_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0096_storyDesc"
 msgstr ""
+"ホテルで撮影した写真を眺めていたシェリルは、1枚の\n"
+"写真を前に手を止めてしまう。映されたアルトの姿に\n"
+"シェリルは胸を甘く締め付けられるのを感じていた。\n"
+"\n"
+"美形だけど生意気で、危険を顧みず何度も助けてくれた\n"
+"優しい青年にシェリルの心は大きく揺さぶられていく。"
 
+#, fuzzy
 msgid "musicName_0096_storyTitle"
-msgstr ""
+msgstr "「不思議の国…かぁ」"
 
+#, fuzzy
 msgid "musicName_0097_musicname"
-msgstr ""
+msgstr "インフィニティ #7"
 
+#, fuzzy
 msgid "musicName_0097_officialName"
-msgstr ""
+msgstr "インフィニティ #7"
 
+#, fuzzy
 msgid "musicName_0097_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0097_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0097_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：岩里祐穂\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0097_storyDesc"
 msgstr ""
+"最後の曲だけはある人たちのために歌いたいという\n"
+"シェリルの言葉に、アルトが戦場にいるのを知りながら\n"
+"それでも気丈に歌い続けていたことに気付いたランカ。\n"
+"\n"
+"ランカは一緒に歌ってほしいというシェリルの願いに\n"
+"応え、共に戦っているアルトのために歌声を響かせた。"
 
+#, fuzzy
 msgid "musicName_0097_storyTitle"
-msgstr ""
+msgstr "「あなたにも一緒に歌ってほしいの」"
 
+#, fuzzy
 msgid "musicName_0098_musicname"
-msgstr ""
+msgstr "小白竜【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0098_officialName"
-msgstr ""
+msgstr "小白竜"
 
+#, fuzzy
 msgid "musicName_0098_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0098_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0098_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0098_storyDesc"
 msgstr ""
+"地球を追放されたも同然となったMacrossであったが、\n"
+"Macrossで生活する民間人のバイタリティは、ついに\n"
+"カンフー映画「小白竜」を艦内で完成させたのだった。\n"
+"\n"
+"そして公開初日、盗み見ていたゼントラーディたちは、\n"
+"超能力を思わせる描写に大きな誤解を抱くことになる。"
 
+#, fuzzy
 msgid "musicName_0098_storyTitle"
-msgstr ""
+msgstr "「…そういや明日、小白竜の初日か」"
 
+#, fuzzy
 msgid "musicName_0099_musicname"
-msgstr ""
+msgstr "星間飛行～Freyja Ver.～"
 
+#, fuzzy
 msgid "musicName_0099_officialName"
-msgstr ""
+msgstr "星間飛行～Freyja Ver.～"
 
+#, fuzzy
 msgid "musicName_0099_vocalName"
-msgstr ""
+msgstr "Walküre FreyjaΔMinori Suzuki"
 
+#, fuzzy
 msgid "musicName_0099_vocalNameLF"
-msgstr ""
+msgstr "Walküre FreyjaΔMinori Suzuki"
 
+#, fuzzy
 msgid "musicName_0099_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   FreyjaΔMinori Suzuki\n"
+"\n"
+"Parolier：松本隆\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0099_storyDesc"
 msgstr ""
+"フレイアが幼少の頃、よく行く遊び場所の近くに地球\n"
+"から来た軍人がいっぱい居たという。フレイアはそこで\n"
+"音楽プレーヤーを貰い、地球の歌を知ることができた。\n"
+"\n"
+"その後に起こる独立戦争を歌に支えられて乗り越えた\n"
+"フレイアは、歌が持つ力を心で感じ取っていったのだ。"
 
+#, fuzzy
 msgid "musicName_0099_storyTitle"
-msgstr ""
+msgstr "「なんかようわからんけど、歌ってすごいって思った」"
 
+#, fuzzy
 msgid "musicName_0100_musicname"
-msgstr ""
+msgstr "ねこ日記【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0100_officialName"
-msgstr ""
+msgstr "ねこ日記"
 
+#, fuzzy
 msgid "musicName_0100_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0100_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0100_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0100_storyDesc"
 msgstr ""
+"下積みを重ねながら、ついにChanteurとしてデビューする\n"
+"ことができたランカ。1人でも多くの人に知ってもらう\n"
+"ため、街頭で精力的にプロモーションを行うのだった。\n"
+"\n"
+"その後、映画への出演が決まり一躍人気のアイドルと\n"
+"なったランカ。地道な活動こそが夢を繋いだのである。"
 
+#, fuzzy
 msgid "musicName_0100_storyTitle"
-msgstr ""
+msgstr "「この度、私デビューします」"
 
+#, fuzzy
 msgid "musicName_0101_musicname"
-msgstr ""
+msgstr "…だけどベイビー！！"
 
+#, fuzzy
 msgid "musicName_0101_officialName"
-msgstr ""
+msgstr "…だけどベイビー！！"
 
+#, fuzzy
 msgid "musicName_0101_vocalName"
-msgstr ""
+msgstr "チエ・カジウラ"
 
+#, fuzzy
 msgid "musicName_0101_vocalNameLF"
-msgstr ""
+msgstr "チエ・カジウラ"
 
+#, fuzzy
 msgid "musicName_0101_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：チエ・カジウラ\n"
+"\n"
+"Parolier：chie\n"
+"Compositeur：KANAME"
 
+#, fuzzy
 msgid "musicName_0101_storyDesc"
 msgstr ""
+"自由奔放な性格で、子供扱いされることを嫌っている\n"
+"ミレーヌ。それは両親に対しても同じで、子供扱いに\n"
+"対する反発心から、1人暮らしを始めてしまうほどだ。\n"
+"\n"
+"そんな性格を表しているかのように、歌の内容も恋愛に\n"
+"直情的だったりするのだが、本人の自覚はというと…？"
 
+#, fuzzy
 msgid "musicName_0101_storyTitle"
-msgstr ""
+msgstr "「ガキって言葉大嫌いなの！」"
 
+#, fuzzy
 msgid "musicName_0102_musicname"
-msgstr ""
+msgstr "NEW FRONTIER"
 
+#, fuzzy
 msgid "musicName_0102_officialName"
-msgstr ""
+msgstr "NEW FRONTIER"
 
+#, fuzzy
 msgid "musicName_0102_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0102_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0102_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：石川雅敏\n"
+"Compositeur：河内淳貴"
 
+#, fuzzy
 msgid "musicName_0102_storyDesc"
 msgstr ""
+"巨大な白い銀河クジラとの決闘に挑み続けるグラハムと\n"
+"銀河クジラに歌を聞かせたいバサラ。全く違う目的の\n"
+"2人だが、その間には奇妙な友情が芽生え始めていた。\n"
+"\n"
+"なぜこの星に来たというグラハムの問いに、バサラは\n"
+"風だと答えた。気持ちのいい風が流れていたのだと。"
 
+#, fuzzy
 msgid "musicName_0102_storyTitle"
-msgstr ""
+msgstr "「お前はなぜこの星に来た」"
 
+#, fuzzy
 msgid "musicName_0103_musicname"
-msgstr ""
+msgstr "愛・おぼえていますか【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0103_officialName"
-msgstr ""
+msgstr "愛・おぼえていますか"
 
+#, fuzzy
 msgid "musicName_0103_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0103_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0103_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross 愛・おぼえていますか\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：安井かずみ\n"
+"Compositeur：加藤和彦"
 
+#, fuzzy
 msgid "musicName_0104_musicname"
-msgstr ""
+msgstr "天使の絵の具【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0104_officialName"
-msgstr ""
+msgstr "天使の絵の具"
 
+#, fuzzy
 msgid "musicName_0104_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0104_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0104_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross 愛・おぼえていますか\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：Mari Iijima\n"
+"Compositeur：Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0105_musicname"
-msgstr ""
+msgstr "検証用譜面"
 
+#, fuzzy
 msgid "musicName_0105_officialName"
-msgstr ""
+msgstr "比較用譜面"
 
+#, fuzzy
 msgid "musicName_0105_description"
 msgstr ""
+"Oeuvre：\n"
+"\n"
+"Chanteur：\n"
+"\n"
+"Parolier：\n"
+"Compositeur："
 
+#, fuzzy
 msgid "musicName_0106_musicname"
-msgstr ""
+msgstr "Walküreのバースデイソング"
 
+#, fuzzy
 msgid "musicName_0106_officialName"
-msgstr ""
+msgstr "Walküreのバースデイソング"
 
+#, fuzzy
 msgid "musicName_0106_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi "
+"Nishida"
 
+#, fuzzy
 msgid "musicName_0106_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA KanameΔKiyono Yasuno\n"
+"ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0106_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA KanameΔKiyono Yasuno\n"
+"   ReinaΔNao Tōyama MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：Happy Field\n"
+"Compositeur：Happy Field"
 
+#, fuzzy
 msgid "musicName_0106_storyDesc"
 msgstr ""
+"フレイアのサプライズパーティーの準備が進む中、\n"
+"美雲にも声を掛けていたカナメ。普段の美雲とは違う\n"
+"含みのある返事に、カナメは美雲の変化を感じていた。\n"
+"\n"
+"そしてサプライズ当日、パーティーに現れた美雲は\n"
+"仲間たちとともにフレイアへ歌を贈ったのであった。"
 
+#, fuzzy
 msgid "musicName_0106_storyTitle"
-msgstr ""
+msgstr "「どんなものか知りたかったから」"
 
+#, fuzzy
 msgid "musicName_0107_musicname"
-msgstr ""
+msgstr "比較用譜面"
 
+#, fuzzy
 msgid "musicName_0107_officialName"
-msgstr ""
+msgstr "比較用譜面"
 
+#, fuzzy
 msgid "musicName_0107_description"
 msgstr ""
+"Oeuvre：\n"
+"\n"
+"Chanteur：\n"
+"\n"
+"Parolier：\n"
+"Compositeur："
 
+#, fuzzy
 msgid "musicName_0108_musicname"
-msgstr ""
+msgstr "ANGEL VOICE"
 
+#, fuzzy
 msgid "musicName_0108_officialName"
-msgstr ""
+msgstr "ANGEL VOICE"
 
+#, fuzzy
 msgid "musicName_0108_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0108_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0108_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0108_storyDesc"
 msgstr ""
+"密漁団母艦が発射した反応弾を飲み込み、その爆発にも\n"
+"悠然と耐えた白い銀河クジラの生命力。その姿に改めて\n"
+"感動したバサラは、再び銀河クジラの前で歌い始める。\n"
+"\n"
+"そして、バサラの歌に呼応するかのように銀河クジラは\n"
+"鳴き声を上げた。そう、まるで歌っているかのように…"
 
+#, fuzzy
 msgid "musicName_0108_storyTitle"
-msgstr ""
+msgstr "「歌った…！クジラが！」"
 
+#, fuzzy
 msgid "musicName_0109_musicname"
-msgstr ""
+msgstr "ドッグ・ファイター"
 
+#, fuzzy
 msgid "musicName_0109_officialName"
-msgstr ""
+msgstr "ドッグ・ファイター"
 
+#, fuzzy
 msgid "musicName_0109_vocalName"
-msgstr ""
+msgstr "--------------------"
 
+#, fuzzy
 msgid "musicName_0109_vocalNameLF"
-msgstr ""
+msgstr "--------------------"
 
+#, fuzzy
 msgid "musicName_0109_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0109_storyDesc"
 msgstr ""
+"異星人からの襲撃に対し、可変戦闘機「バルキリー」を\n"
+"駆って迎撃へと向かう統合軍の若きパイロットたち。\n"
+"一条輝もスカル小隊の隊員として敵の襲撃を迎え撃つ。\n"
+"\n"
+"バルキリー隊が一斉発射したミサイルが戦端を開くと、\n"
+"宇宙空間を舞台にしたドッグファイトの幕が上がった。"
 
+#, fuzzy
 msgid "musicName_0109_storyTitle"
-msgstr ""
+msgstr "「全機散開して、逆加速に移れいっ！」"
 
+#, fuzzy
 msgid "musicName_0110_musicname"
-msgstr ""
+msgstr "VOICES"
 
+#, fuzzy
 msgid "musicName_0110_officialName"
-msgstr ""
+msgstr "VOICES"
 
+#, fuzzy
 msgid "musicName_0110_vocalName"
-msgstr ""
+msgstr "新居昭乃"
 
+#, fuzzy
 msgid "musicName_0110_vocalNameLF"
-msgstr ""
+msgstr "新居昭乃"
 
+#, fuzzy
 msgid "musicName_0110_description"
 msgstr ""
+"Oeuvre：Macrossプラス\n"
+"\n"
+"Chanteur：新居昭乃\n"
+"\n"
+"Parolier：覚和歌子\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0110_storyDesc"
 msgstr ""
+"眩しいほどの青い空の下、歌声は天まで届くと信じて\n"
+"いたあの頃。Chanteurを目指しながら自分でも曲を作って\n"
+"いたミュン。「VOICES」もその内のひとつだった。\n"
+"\n"
+"Chanteurの夢を諦めたと語るミュンだが、その歌は今でも\n"
+"ハイスクール時代の仲間たちの心に流れ続けていた。"
 
+#, fuzzy
 msgid "musicName_0110_storyTitle"
-msgstr ""
+msgstr "「私だって、自分の歌でみんなに感動して欲しかった」"
 
+#, fuzzy
 msgid "musicName_0111_musicname"
-msgstr ""
+msgstr "LIGHT THE LIGHT"
 
+#, fuzzy
 msgid "musicName_0111_officialName"
-msgstr ""
+msgstr "LIGHT THE LIGHT"
 
+#, fuzzy
 msgid "musicName_0111_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0111_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0111_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：TSUKASA"
 
+#, fuzzy
 msgid "musicName_0111_storyDesc"
 msgstr ""
+"力の暴走によって、際限なくスピリチアを奪い尽くす\n"
+"化物となったゲペルニッチを前に、人々は最後の力を\n"
+"振り絞りながら歌い続けることで必死の抵抗を試みる。\n"
+"\n"
+"いつしか歌声も途絶え、銀河が闇へと閉ざされかけた\n"
+"その時、穢れなき歌とともにスピリチアが光を放った。"
 
+#, fuzzy
 msgid "musicName_0111_storyTitle"
-msgstr ""
+msgstr "「みんな歌うのよ、心を込めて！」"
 
+#, fuzzy
 msgid "musicName_0112_musicname"
-msgstr ""
+msgstr "PARADE"
 
+#, fuzzy
 msgid "musicName_0112_officialName"
-msgstr ""
+msgstr "PARADE"
 
+#, fuzzy
 msgid "musicName_0112_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0112_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0112_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：川野美紀"
 
+#, fuzzy
 msgid "musicName_0113_musicname"
-msgstr ""
+msgstr "未来はオンナのためにある"
 
+#, fuzzy
 msgid "musicName_0113_officialName"
-msgstr ""
+msgstr "未来はオンナのためにある"
 
+#, fuzzy
 msgid "musicName_0113_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0113_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0113_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：岩里祐穂\n"
+"Compositeur：齋藤大"
 
+#, fuzzy
 msgid "musicName_0114_musicname"
-msgstr ""
+msgstr "絶対零度θノヴァティック Another ver."
 
+#, fuzzy
 msgid "musicName_0114_officialName"
-msgstr ""
+msgstr "絶対零度θノヴァティック"
 
+#, fuzzy
 msgid "musicName_0114_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0114_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0114_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：図司純子<Eidy>、河嶋晃一<Eidy>\n"
+"Compositeur：図司純子<Eidy>、河嶋晃一<Eidy>、\n"
+"   Mitsunori Ikeda"
 
+#, fuzzy
 msgid "musicName_0115_musicname"
-msgstr ""
+msgstr "Merry Christmas without You"
 
+#, fuzzy
 msgid "musicName_0115_officialName"
-msgstr ""
+msgstr "Merry Christmas without You"
 
+#, fuzzy
 msgid "musicName_0115_vocalName"
-msgstr ""
+msgstr "frontier stars"
 
+#, fuzzy
 msgid "musicName_0115_vocalNameLF"
-msgstr ""
+msgstr "frontier stars"
 
+#, fuzzy
 msgid "musicName_0115_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：frontier stars\n"
+"\n"
+"Parolier：山田稔明\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0116_musicname"
-msgstr ""
+msgstr "ルンに花咲く恋もある"
 
+#, fuzzy
 msgid "musicName_0116_officialName"
-msgstr ""
+msgstr "ルンに花咲く恋もある"
 
+#, fuzzy
 msgid "musicName_0116_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0116_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0116_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0116_storyDesc"
 msgstr ""
+"歌に恋に自らの人生をかけて突き進んでいくフレイア。\n"
+"花のように短い人生であろうとも、幸せを掴むと\n"
+"覚悟を決めたならば、考えているような暇はないのだ。\n"
+"\n"
+"ピカピカ光るルンとともに咲き誇る恋の花は、今日も、\n"
+"そしてこれからも大好きな人の隣で幸せを歌い続ける。"
 
+#, fuzzy
 msgid "musicName_0116_storyTitle"
-msgstr ""
+msgstr "「考えとる暇があったら飛び続けんきゃね！」"
 
+#, fuzzy
 msgid "musicName_0117_musicname"
-msgstr ""
+msgstr "HEART & SOUL"
 
+#, fuzzy
 msgid "musicName_0117_officialName"
-msgstr ""
+msgstr "HEART & SOUL"
 
+#, fuzzy
 msgid "musicName_0117_vocalName"
-msgstr ""
+msgstr "EMILIA with BASARA NEKKI"
 
+#, fuzzy
 msgid "musicName_0117_vocalNameLF"
-msgstr ""
+msgstr "EMILIA with BASARA NEKKI"
 
+#, fuzzy
 msgid "musicName_0117_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：EMILIA with BASARA NEKKI\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：川野美紀"
 
+#, fuzzy
 msgid "musicName_0118_musicname"
-msgstr ""
+msgstr "いけないボーダーライン Another ver."
 
+#, fuzzy
 msgid "musicName_0118_officialName"
-msgstr ""
+msgstr "いけないボーダーライン"
 
+#, fuzzy
 msgid "musicName_0118_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0118_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0118_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0119_musicname"
-msgstr ""
+msgstr "僕らの戦場【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0119_officialName"
-msgstr ""
+msgstr "僕らの戦場"
 
+#, fuzzy
 msgid "musicName_0119_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0119_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0119_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：唐沢美帆、加藤裕介\n"
+"Compositeur：加藤裕介"
 
+#, fuzzy
 msgid "musicName_0120_musicname"
-msgstr ""
+msgstr "私の彼はパイロット（PartⅡ）"
 
+#, fuzzy
 msgid "musicName_0120_officialName"
-msgstr ""
+msgstr "私の彼はパイロット（PartⅡ）"
 
+#, fuzzy
 msgid "musicName_0120_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0120_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0120_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0121_musicname"
-msgstr ""
+msgstr "NEO STREAM Another ver."
 
+#, fuzzy
 msgid "musicName_0121_officialName"
-msgstr ""
+msgstr "NEO STREAM"
 
+#, fuzzy
 msgid "musicName_0121_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0121_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0121_description"
 msgstr ""
+"Oeuvre：MacrossΔ\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：西田恵美\n"
+"Compositeur：渡辺未来"
 
+#, fuzzy
 msgid "musicName_0122_musicname"
-msgstr ""
+msgstr "FLASH IN THE DARK"
 
+#, fuzzy
 msgid "musicName_0122_officialName"
-msgstr ""
+msgstr "FLASH IN THE DARK"
 
+#, fuzzy
 msgid "musicName_0122_vocalName"
-msgstr ""
+msgstr "EMILIA"
 
+#, fuzzy
 msgid "musicName_0122_vocalNameLF"
-msgstr ""
+msgstr "EMILIA"
 
+#, fuzzy
 msgid "musicName_0122_description"
 msgstr ""
+"Oeuvre：劇場版Macross7 銀河がオレを呼んでいる!\n"
+"\n"
+"Chanteur：EMILIA\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：茂村泰彦"
 
+#, fuzzy
 msgid "musicName_0123_musicname"
-msgstr ""
+msgstr "Songbird"
 
+#, fuzzy
 msgid "musicName_0123_officialName"
-msgstr ""
+msgstr "Songbird"
 
+#, fuzzy
 msgid "musicName_0123_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0123_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0123_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：銀色夏生\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0124_musicname"
-msgstr ""
+msgstr "Dancing in the Moonlight Another ver."
 
+#, fuzzy
 msgid "musicName_0124_officialName"
-msgstr ""
+msgstr "Dancing in the Moonlight"
 
+#, fuzzy
 msgid "musicName_0124_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0124_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0124_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ激情のWalküre\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：北川勝利、acane_madder\n"
+"Compositeur：北川勝利"
 
+#, fuzzy
 msgid "musicName_0125_musicname"
-msgstr ""
+msgstr "SWEET FANTASY"
 
+#, fuzzy
 msgid "musicName_0125_officialName"
-msgstr ""
+msgstr "SWEET FANTASY"
 
+#, fuzzy
 msgid "musicName_0125_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0125_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0125_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：M.MEG\n"
+"Compositeur：大槻啓之"
 
+#, fuzzy
 msgid "musicName_0126_musicname"
-msgstr ""
+msgstr "君に届け→"
 
+#, fuzzy
 msgid "musicName_0126_officialName"
-msgstr ""
+msgstr "君に届け→"
 
+#, fuzzy
 msgid "musicName_0126_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0126_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0126_description"
 msgstr ""
+"Oeuvre：Macross7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：M.MEG\n"
+"Compositeur：M.PROJECT"
 
+#, fuzzy
 msgid "musicName_0127_musicname"
-msgstr ""
+msgstr "ライオン【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0127_officialName"
-msgstr ""
+msgstr "ライオン"
 
+#, fuzzy
 msgid "musicName_0127_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0127_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0127_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0128_musicname"
-msgstr ""
+msgstr "ユニバーサル・バニー【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0128_officialName"
-msgstr ""
+msgstr "ユニバーサル・バニー"
 
+#, fuzzy
 msgid "musicName_0128_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0128_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0128_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：しほり、PA-NON、Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0129_musicname"
-msgstr ""
+msgstr "SUNSET BEACH【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0129_officialName"
-msgstr ""
+msgstr "SUNSET BEACH"
 
+#, fuzzy
 msgid "musicName_0129_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0129_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0129_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0130_musicname"
-msgstr ""
+msgstr "ノーザンクロス【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0130_officialName"
-msgstr ""
+msgstr "ノーザンクロス"
 
+#, fuzzy
 msgid "musicName_0130_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0130_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0130_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：岩里祐穂、Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0131_musicname"
-msgstr ""
+msgstr "Walküreはあきらめない"
 
+#, fuzzy
 msgid "musicName_0131_officialName"
-msgstr ""
+msgstr "Walküreはあきらめない"
 
+#, fuzzy
 msgid "musicName_0131_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0131_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0131_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：唐沢美帆\n"
+"Compositeur：加藤裕介"
 
+#, fuzzy
 msgid "musicName_0132_musicname"
-msgstr ""
+msgstr "唇の凍傷"
 
+#, fuzzy
 msgid "musicName_0132_officialName"
-msgstr ""
+msgstr "唇の凍傷"
 
+#, fuzzy
 msgid "musicName_0132_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0132_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0132_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：椿山日南子\n"
+"Compositeur：椿山日南子"
 
+#, fuzzy
 msgid "musicName_0133_musicname"
-msgstr ""
+msgstr "Glow in the dark"
 
+#, fuzzy
 msgid "musicName_0133_officialName"
-msgstr ""
+msgstr "Glow in the dark"
 
+#, fuzzy
 msgid "musicName_0133_vocalName"
-msgstr ""
+msgstr "Yami_Q_ray"
 
+#, fuzzy
 msgid "musicName_0133_vocalNameLF"
-msgstr ""
+msgstr "Yami_Q_ray"
 
+#, fuzzy
 msgid "musicName_0133_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Yami_Q_ray\n"
+"\n"
+"Parolier：太渡辺未来・西田恵美\n"
+"Compositeur：渡辺未来"
 
+#, fuzzy
 msgid "musicName_0134_musicname"
-msgstr ""
+msgstr "時の迷宮"
 
+#, fuzzy
 msgid "musicName_0134_officialName"
-msgstr ""
+msgstr "時の迷宮"
 
+#, fuzzy
 msgid "musicName_0134_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0134_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0134_description"
 msgstr ""
+"Oeuvre：劇場短編MacrossF ～時の迷宮～\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima、\n"
+"   Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：菅野よう子・児玉雨子\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0135_musicname"
-msgstr ""
+msgstr "ランナー -デュエット・バージョン-"
 
+#, fuzzy
 msgid "musicName_0135_officialName"
-msgstr ""
+msgstr "ランナー -デュエット・バージョン-"
 
+#, fuzzy
 msgid "musicName_0135_vocalName"
-msgstr ""
+msgstr "藤原 誠 ／ 飯島 真理"
 
+#, fuzzy
 msgid "musicName_0135_vocalNameLF"
-msgstr ""
+msgstr "藤原 誠 ／ 飯島 真理"
 
+#, fuzzy
 msgid "musicName_0135_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：藤原 誠 ／ 飯島 真理\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0136_musicname"
-msgstr ""
+msgstr "ROCK'N'ROLL FIRE"
 
+#, fuzzy
 msgid "musicName_0136_officialName"
-msgstr ""
+msgstr "ROCK'N'ROLL FIRE"
 
+#, fuzzy
 msgid "musicName_0136_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0136_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0136_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：須藤英樹"
 
+#, fuzzy
 msgid "musicName_0137_musicname"
-msgstr ""
+msgstr "ダイナム超合金"
 
+#, fuzzy
 msgid "musicName_0137_officialName"
-msgstr ""
+msgstr "ダイナム超合金"
 
+#, fuzzy
 msgid "musicName_0137_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0137_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0137_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：黒河影次\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0138_musicname"
-msgstr ""
+msgstr "HELLO"
 
+#, fuzzy
 msgid "musicName_0138_officialName"
-msgstr ""
+msgstr "HELLO"
 
+#, fuzzy
 msgid "musicName_0138_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0138_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0138_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：K.INOJO\n"
+"Compositeur：須藤英樹"
 
+#, fuzzy
 msgid "musicName_0139_musicname"
-msgstr ""
+msgstr "What 'bout my star? @Formo"
 
+#, fuzzy
 msgid "musicName_0139_officialName"
-msgstr ""
+msgstr "What 'bout my star? @Formo"
 
+#, fuzzy
 msgid "musicName_0139_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0139_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima、Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0139_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：hal\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0140_musicname"
-msgstr ""
+msgstr "WANNA BE AN ANGEL"
 
+#, fuzzy
 msgid "musicName_0140_officialName"
-msgstr ""
+msgstr "WANNA BE AN ANGEL"
 
+#, fuzzy
 msgid "musicName_0140_vocalName"
-msgstr ""
+msgstr "新居昭乃"
 
+#, fuzzy
 msgid "musicName_0140_vocalNameLF"
-msgstr ""
+msgstr "新居昭乃"
 
+#, fuzzy
 msgid "musicName_0140_description"
 msgstr ""
+"Oeuvre：Macrossプラス\n"
+"\n"
+"Chanteur：新居昭乃\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0141_musicname"
-msgstr ""
+msgstr "恋のマホウ"
 
+#, fuzzy
 msgid "musicName_0141_officialName"
-msgstr ""
+msgstr "恋のマホウ"
 
+#, fuzzy
 msgid "musicName_0141_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0141_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0141_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：M.MEG\n"
+"Compositeur：湯川とうべん"
 
+#, fuzzy
 msgid "musicName_0142_musicname"
-msgstr ""
+msgstr "会えないとき"
 
+#, fuzzy
 msgid "musicName_0142_officialName"
-msgstr ""
+msgstr "会えないとき"
 
+#, fuzzy
 msgid "musicName_0142_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0142_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n"
 
+#, fuzzy
 msgid "musicName_0142_description"
 msgstr ""
+"Oeuvre：MacrossF\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n\n"
+"\n"
+"Parolier：Gabriela Robin\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0143_musicname"
-msgstr ""
+msgstr "NEVER SAY DIE"
 
+#, fuzzy
 msgid "musicName_0143_officialName"
-msgstr ""
+msgstr "NEVER SAY DIE"
 
+#, fuzzy
 msgid "musicName_0143_vocalName"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0143_vocalNameLF"
-msgstr ""
+msgstr "Fire Bomber"
 
+#, fuzzy
 msgid "musicName_0143_description"
 msgstr ""
+"Oeuvre：Macross ダイナマイト7\n"
+"\n"
+"Chanteur：Fire Bomber\n"
+"\n"
+"Parolier：石川雅敏\n"
+"Compositeur：南部昌江"
 
+#, fuzzy
 msgid "musicName_0144_musicname"
-msgstr ""
+msgstr "PILLOW DREAM"
 
+#, fuzzy
 msgid "musicName_0144_officialName"
-msgstr ""
+msgstr "PILLOW DREAM"
 
+#, fuzzy
 msgid "musicName_0145_musicname"
-msgstr ""
+msgstr "スターライト納豆"
 
+#, fuzzy
 msgid "musicName_0145_officialName"
-msgstr ""
+msgstr "スターライト納豆"
 
+#, fuzzy
 msgid "musicName_0145_vocalName"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0145_vocalNameLF"
-msgstr ""
+msgstr "Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0145_description"
 msgstr ""
+"Oeuvre：劇場版MacrossF〜イツワリノウタヒメ〜\n"
+"\n"
+"Chanteur：Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：一倉宏\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0146_musicname"
-msgstr ""
+msgstr "つらみ現在進行形"
 
+#, fuzzy
 msgid "musicName_0146_officialName"
-msgstr ""
+msgstr "つらみ現在進行形"
 
+#, fuzzy
 msgid "musicName_0146_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0146_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0146_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：堂島孝平\n"
+"Compositeur：櫻澤ヒカル"
 
+#, fuzzy
 msgid "musicName_0147_musicname"
-msgstr ""
+msgstr "1・2・3・4・5・6・7 NIGHTS"
 
+#, fuzzy
 msgid "musicName_0147_officialName"
-msgstr ""
+msgstr "1・2・3・4・5・6・7 NIGHTS"
 
+#, fuzzy
 msgid "musicName_0148_musicname"
-msgstr ""
+msgstr "0-G Love【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0148_officialName"
-msgstr ""
+msgstr "0-G Love（ミラー）"
 
+#, fuzzy
 msgid "musicName_0149_musicname"
-msgstr ""
+msgstr "シルバームーン・レッドムーン【MIRROR ver.】"
 
+#, fuzzy
 msgid "musicName_0149_officialName"
-msgstr ""
+msgstr "シルバームーン・レッドムーン"
 
+#, fuzzy
 msgid "musicName_0149_vocalName"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0149_vocalNameLF"
-msgstr ""
+msgstr "Mari Iijima"
 
+#, fuzzy
 msgid "musicName_0149_description"
 msgstr ""
+"Oeuvre：超時空要塞Macross\n"
+"\n"
+"Chanteur：Mari Iijima\n"
+"\n"
+"Parolier：阿佐茜\n"
+"Compositeur：羽田健太郎"
 
+#, fuzzy
 msgid "musicName_0150_musicname"
-msgstr ""
+msgstr "Glow in the dark（高難度ver.）"
 
+#, fuzzy
 msgid "musicName_0150_officialName"
-msgstr ""
+msgstr "Glow in the dark"
 
+#, fuzzy
 msgid "musicName_0150_vocalName"
-msgstr ""
+msgstr "Yami_Q_ray"
 
+#, fuzzy
 msgid "musicName_0150_vocalNameLF"
-msgstr ""
+msgstr "Yami_Q_ray"
 
+#, fuzzy
 msgid "musicName_0150_description"
 msgstr ""
+"Oeuvre：劇場版MacrossΔ 絶対LIVE!!!!!!\n"
+"\n"
+"Chanteur：Yami_Q_ray\n"
+"\n"
+"Parolier：太渡辺未来・西田恵美\n"
+"Compositeur：渡辺未来"
 
+#, fuzzy
 msgid "musicName_0151_musicname"
-msgstr ""
+msgstr "サヨナラノツバサ 〜 the end of triangle"
 
+#, fuzzy
 msgid "musicName_0151_officialName"
-msgstr ""
+msgstr "サヨナラノツバサ 〜 the end of triangle"
 
+#, fuzzy
 msgid "musicName_0151_vocalName"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki KanameΔKiyono Yasuno ReinaΔNao "
+"Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0151_vocalNameLF"
 msgstr ""
+"Walküre MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"KanameΔKiyono Yasuno ReinaΔNao Tōyama MakinaΔNozomi Nishida"
 
+#, fuzzy
 msgid "musicName_0151_description"
 msgstr ""
+"Oeuvre：コラボアルバム「デカルチャー!!ミクスチャー!!!!!」\n"
+"\n"
+"Chanteur：Walküre\n"
+"   MikumoΔJUNNA FreyjaΔMinori Suzuki\n"
+"   KanameΔKiyono Yasuno ReinaΔNao Tōyama\n"
+"   MakinaΔNozomi Nishida\n"
+"\n"
+"Parolier：Gabriela Robin、河森正治\n"
+"Compositeur：菅野よう子"
 
+#, fuzzy
 msgid "musicName_0152_musicname"
-msgstr ""
+msgstr "いけないボーダーライン"
 
+#, fuzzy
 msgid "musicName_0152_officialName"
-msgstr ""
+msgstr "いけないボーダーライン"
 
+#, fuzzy
 msgid "musicName_0152_vocalName"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0152_vocalNameLF"
-msgstr ""
+msgstr "Sheryl Nome starring May'n、Ranka Lee=Megumi Nakajima"
 
+#, fuzzy
 msgid "musicName_0152_description"
 msgstr ""
+"Oeuvre：コラボアルバム「デカルチャー!!ミクスチャー!!!!!」\n"
+"\n"
+"Chanteur：Sheryl Nome starring May'n、\n"
+"   Ranka Lee=Megumi Nakajima\n"
+"\n"
+"Parolier：西直紀\n"
+"Compositeur：コモリタミノル"
 
+#, fuzzy
 msgid "musicName_0156_officialName"
-msgstr ""
+msgstr "終端"
