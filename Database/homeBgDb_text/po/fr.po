@@ -3,69 +3,70 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:57+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
+"Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
+"homebgdb_text/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "homebg_0000_name"
-msgstr ""
+msgstr "Événements spéciaux de fin d'année"
 
 msgid "homebg_0001_name"
-msgstr ""
+msgstr "Événements spéciaux du Nouvel An"
 
 msgid "homebg_0002_name"
-msgstr ""
+msgstr "Collab. avec Tokyo Sky Tree"
 
 msgid "homebg_0003_name"
-msgstr ""
+msgstr "Changement de BGM - Nouvel an"
 
 msgid "homebg_0004_name"
-msgstr ""
+msgstr "Festival Nyan-Nyan ~ Fin de la loterie bikini"
 
 msgid "homebg_0005_name"
-msgstr ""
+msgstr "2018-2019 Festival Nyan-Nyan et Nouvel An"
 
 msgid "homebg_0006_name"
-msgstr ""
+msgstr "Festival Nyan-Nyan"
 
 msgid "homebg_0007_name"
-msgstr ""
+msgstr "2019-2020 Festival Nyan-Nyan et Nouvel An"
 
 msgid "homebg_0008_name"
-msgstr ""
+msgstr "3e anniversaire du Festival Nyan-Nyan"
 
 msgid "homebg_0009_name"
-msgstr ""
+msgstr "2021-2022 Festival Nyan-Nyan et Nouvel An"
 
 msgid "homebg_0010_name"
-msgstr ""
+msgstr "Salle de briefing"
 
 msgid "homebg_0011_name"
-msgstr ""
+msgstr "Parc Griffith"
 
 msgid "homebg_0012_name"
-msgstr ""
+msgstr "Appartement à Aksho"
 
 msgid "homebg_0013_name"
-msgstr ""
+msgstr "Restaurant Nyan-Nyan"
 
 msgid "homebg_0014_name"
-msgstr ""
+msgstr "4e anniversaire du Festival Nyan-Nyan"
 
 msgid "homebg_0015_name"
-msgstr ""
+msgstr "Concert de Walküre"
 
 msgid "homebg_0016_name"
-msgstr ""
+msgstr "Akihabara"
 
 msgid "homebg_0017_name"
-msgstr ""
+msgstr "L'étoile des Vajras"
 
 msgid "homebg_0018_name"
-msgstr ""
+msgstr "Magic Bomberland"
