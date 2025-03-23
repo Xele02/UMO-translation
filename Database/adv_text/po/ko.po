@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-03-22 16:27+0000\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "adv_text/ko/>\n"
@@ -332,7 +332,7 @@ msgid "adv_200101_0013_msg"
 msgstr ""
 
 msgid "adv_200101_0014_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200101_0015_msg"
 msgstr ""
@@ -368,7 +368,7 @@ msgid "adv_200101_0025_msg"
 msgstr ""
 
 msgid "adv_200101_0026_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_200101_0027_msg"
 msgstr ""
@@ -377,7 +377,7 @@ msgid "adv_200102_0007_msg"
 msgstr ""
 
 msgid "adv_200102_0008_msg"
-msgstr ""
+msgstr "카나메 씨…"
 
 msgid "adv_200102_0009_msg"
 msgstr ""
@@ -395,7 +395,7 @@ msgid "adv_200102_0013_msg"
 msgstr ""
 
 msgid "adv_200102_0014_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200102_0015_msg"
 msgstr ""
@@ -407,7 +407,7 @@ msgid "adv_200102_0017_msg"
 msgstr ""
 
 msgid "adv_200102_0018_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_200102_0019_msg"
 msgstr ""
@@ -577,7 +577,7 @@ msgid "adv_200201_0013_msg"
 msgstr ""
 
 msgid "adv_200201_0014_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200201_0015_msg"
 msgstr ""
@@ -730,7 +730,7 @@ msgid "adv_300101_0024_msg"
 msgstr ""
 
 msgid "adv_300101_0026_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300101_0027_msg"
 msgstr ""
@@ -769,7 +769,7 @@ msgid "adv_300102_0013_msg"
 msgstr ""
 
 msgid "adv_300102_0014_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300102_0015_msg"
 msgstr ""
@@ -871,7 +871,7 @@ msgid "adv_100301_0025_msg"
 msgstr ""
 
 msgid "adv_100301_0026_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_100301_0027_msg"
 msgstr ""
@@ -1039,7 +1039,7 @@ msgid "adv_200301_0026_msg"
 msgstr ""
 
 msgid "adv_200301_0027_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200301_0028_msg"
 msgstr ""
@@ -1138,7 +1138,7 @@ msgid "adv_200302_0029_msg"
 msgstr ""
 
 msgid "adv_300201_0007_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300201_0008_msg"
 msgstr ""
@@ -1240,7 +1240,7 @@ msgid "adv_300202_0018_msg"
 msgstr ""
 
 msgid "adv_300202_0019_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300202_0020_msg"
 msgstr ""
@@ -1279,7 +1279,7 @@ msgid "adv_300202_0031_msg"
 msgstr ""
 
 msgid "adv_300202_0032_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300202_0033_msg"
 msgstr ""
@@ -1330,7 +1330,7 @@ msgid "adv_100401_0024_msg"
 msgstr ""
 
 msgid "adv_100401_0025_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_100401_0026_msg"
 msgstr ""
@@ -1354,7 +1354,7 @@ msgid "adv_100401_0032_msg"
 msgstr ""
 
 msgid "adv_100401_0033_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_100401_0034_msg"
 msgstr ""
@@ -1396,7 +1396,7 @@ msgid "adv_100402_0015_msg"
 msgstr ""
 
 msgid "adv_100402_0016_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_100402_0017_msg"
 msgstr ""
@@ -1426,7 +1426,7 @@ msgid "adv_100402_0025_msg"
 msgstr ""
 
 msgid "adv_100402_0026_msg"
-msgstr ""
+msgstr "카나메 씨!"
 
 msgid "adv_100402_0027_msg"
 msgstr ""
@@ -1456,7 +1456,7 @@ msgid "adv_100402_0035_msg"
 msgstr ""
 
 msgid "adv_200401_0011_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200401_0012_msg"
 msgstr ""
@@ -1522,7 +1522,7 @@ msgid "adv_200401_0033_msg"
 msgstr ""
 
 msgid "adv_200401_0035_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200401_0036_msg"
 msgstr ""
@@ -1564,7 +1564,7 @@ msgid "adv_200402_0015_msg"
 msgstr ""
 
 msgid "adv_200402_0016_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_200402_0017_msg"
 msgstr ""
@@ -1642,7 +1642,7 @@ msgid "adv_300301_0021_msg"
 msgstr ""
 
 msgid "adv_300301_0022_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300301_0023_msg"
 msgstr ""
@@ -1663,7 +1663,7 @@ msgid "adv_300301_0028_msg"
 msgstr "하야테!"
 
 msgid "adv_300301_0029_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300301_0030_msg"
 msgstr ""
@@ -1699,13 +1699,13 @@ msgid "adv_300302_0008_msg"
 msgstr ""
 
 msgid "adv_300302_0009_msg"
-msgstr ""
+msgstr "미쿠모?"
 
 msgid "adv_300302_0010_msg"
 msgstr ""
 
 msgid "adv_300302_0011_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300302_0013_msg"
 msgstr ""
@@ -1753,7 +1753,7 @@ msgid "adv_300302_0027_msg"
 msgstr ""
 
 msgid "adv_300302_0029_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_300302_0030_msg"
 msgstr ""
@@ -3277,7 +3277,7 @@ msgid "adv_300601_0033_msg"
 msgstr ""
 
 msgid "adv_300601_0034_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_300601_0035_msg"
 msgstr ""
@@ -5068,7 +5068,7 @@ msgid "adv_300902_0014_msg"
 msgstr ""
 
 msgid "adv_300902_0015_msg"
-msgstr ""
+msgstr "셰릴 씨?"
 
 msgid "adv_300902_0016_msg"
 msgstr ""
@@ -5488,7 +5488,7 @@ msgid "adv_201102_0030_msg"
 msgstr ""
 
 msgid "adv_201102_0031_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_201102_0032_msg"
 msgstr ""
@@ -5719,7 +5719,7 @@ msgid "adv_301002_0016_msg"
 msgstr ""
 
 msgid "adv_301002_0017_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_301002_0018_msg"
 msgstr ""
@@ -6277,10 +6277,10 @@ msgid "adv_301101_0009_msg"
 msgstr ""
 
 msgid "adv_301101_0010_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_301101_0011_msg"
-msgstr ""
+msgstr "알토 군!"
 
 msgid "adv_301101_0012_msg"
 msgstr ""
@@ -6640,7 +6640,7 @@ msgid "adv_101402_0027_msg"
 msgstr ""
 
 msgid "adv_101402_0028_msg"
-msgstr ""
+msgstr "카나메…"
 
 msgid "adv_101402_0029_msg"
 msgstr ""
@@ -6979,7 +6979,7 @@ msgid "adv_101405_0008_msg"
 msgstr ""
 
 msgid "adv_101405_0009_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_101405_0010_msg"
 msgstr ""
@@ -7000,7 +7000,7 @@ msgid "adv_101405_0015_msg"
 msgstr ""
 
 msgid "adv_101405_0016_msg"
-msgstr ""
+msgstr "미쿠모?"
 
 msgid "adv_101405_0017_msg"
 msgstr ""
@@ -7099,7 +7099,7 @@ msgid "adv_101406_0012_msg"
 msgstr ""
 
 msgid "adv_101406_0013_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_101406_0014_msg"
 msgstr ""
@@ -8242,7 +8242,7 @@ msgid "adv_101502_0008_msg"
 msgstr ""
 
 msgid "adv_101502_0010_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_101502_0011_msg"
 msgstr ""
@@ -9112,7 +9112,7 @@ msgid "adv_201502_0026_msg"
 msgstr ""
 
 msgid "adv_201502_0027_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_201502_0028_msg"
 msgstr ""
@@ -9313,13 +9313,13 @@ msgid "adv_301402_0031_msg"
 msgstr "카나메"
 
 msgid "adv_301402_0032_msg"
-msgstr ""
+msgstr "카나메 씨!"
 
 msgid "adv_301402_0033_msg"
-msgstr ""
+msgstr "프레이아랑...미쿠모?"
 
 msgid "adv_301402_0034_msg"
-msgstr ""
+msgstr "트릭 오어 트릿"
 
 msgid "adv_301402_0035_msg"
 msgstr ""
@@ -9634,7 +9634,7 @@ msgid "adv_201601_0034_msg"
 msgstr ""
 
 msgid "adv_201601_0036_msg"
-msgstr ""
+msgstr "카나메 씨"
 
 msgid "adv_201601_0037_msg"
 msgstr ""
@@ -9655,7 +9655,7 @@ msgid "adv_201601_0043_msg"
 msgstr ""
 
 msgid "adv_201602_0008_msg"
-msgstr ""
+msgstr "카나메 씨"
 
 msgid "adv_201602_0009_msg"
 msgstr ""
@@ -9892,7 +9892,7 @@ msgid "adv_301502_0025_msg"
 msgstr ""
 
 msgid "adv_301502_0026_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_301502_0027_msg"
 msgstr ""
@@ -9994,7 +9994,7 @@ msgid "adv_101801_0029_msg"
 msgstr ""
 
 msgid "adv_101801_0030_msg"
-msgstr ""
+msgstr "미쿠모!"
 
 msgid "adv_101801_0031_msg"
 msgstr ""
@@ -12220,7 +12220,7 @@ msgid "adv_301901_0034_msg"
 msgstr ""
 
 msgid "adv_301902_0008_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_301902_0009_msg"
 msgstr ""
@@ -12484,7 +12484,7 @@ msgid "adv_202101_0024_msg"
 msgstr ""
 
 msgid "adv_202101_0025_msg"
-msgstr ""
+msgstr "셰릴 씨?"
 
 msgid "adv_202101_0026_msg"
 msgstr ""
@@ -13495,7 +13495,7 @@ msgid "adv_102602_0012_msg"
 msgstr ""
 
 msgid "adv_102602_0013_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_102602_0014_msg"
 msgstr ""
@@ -14155,7 +14155,7 @@ msgid "adv_302402_0041_msg"
 msgstr ""
 
 msgid "adv_302402_0042_msg"
-msgstr ""
+msgstr "알토 군!"
 
 msgid "adv_302402_0045_msg"
 msgstr ""
@@ -14773,7 +14773,7 @@ msgid "adv_302601_0031_msg"
 msgstr ""
 
 msgid "adv_302601_0032_msg"
-msgstr ""
+msgstr "미쿠모!"
 
 msgid "adv_302601_0033_msg"
 msgstr ""
@@ -14992,7 +14992,7 @@ msgid "adv_103001_0038_msg"
 msgstr ""
 
 msgid "adv_103001_0040_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_103001_0041_msg"
 msgstr ""
@@ -15250,7 +15250,7 @@ msgid "adv_302702_0024_msg"
 msgstr ""
 
 msgid "adv_302702_0025_msg"
-msgstr ""
+msgstr "레이나…"
 
 msgid "adv_302702_0027_msg"
 msgstr ""
@@ -15265,7 +15265,7 @@ msgid "adv_302702_0030_msg"
 msgstr ""
 
 msgid "adv_302702_0031_msg"
-msgstr ""
+msgstr "동의"
 
 msgid "adv_302702_0032_msg"
 msgstr ""
@@ -15796,7 +15796,7 @@ msgid "adv_302802_0035_msg"
 msgstr ""
 
 msgid "adv_302802_0036_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_302802_0037_msg"
 msgstr ""
@@ -15889,7 +15889,7 @@ msgid "adv_103201_0027_msg"
 msgstr ""
 
 msgid "adv_103201_0028_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_103201_0029_msg"
 msgstr ""
@@ -15913,7 +15913,7 @@ msgid "adv_103201_0035_msg"
 msgstr ""
 
 msgid "adv_103201_0036_msg"
-msgstr ""
+msgstr "카나메…"
 
 msgid "adv_103201_0037_msg"
 msgstr ""
@@ -15931,7 +15931,7 @@ msgid "adv_103202_0011_msg"
 msgstr ""
 
 msgid "adv_103202_0013_msg"
-msgstr ""
+msgstr "셰릴, 카나메"
 
 msgid "adv_103202_0015_msg"
 msgstr ""
@@ -15973,7 +15973,7 @@ msgid "adv_103202_0028_msg"
 msgstr ""
 
 msgid "adv_103202_0029_msg"
-msgstr ""
+msgstr "……"
 
 msgid "adv_103202_0030_msg"
 msgstr ""
@@ -16591,7 +16591,7 @@ msgid "adv_303002_0009_msg"
 msgstr ""
 
 msgid "adv_303002_0010_msg"
-msgstr ""
+msgstr "알토 군!"
 
 msgid "adv_303002_0011_msg"
 msgstr ""
@@ -17803,7 +17803,7 @@ msgid "adv_303302_0037_msg"
 msgstr ""
 
 msgid "adv_103701_0009_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_103701_0010_msg"
 msgstr ""
@@ -18349,7 +18349,7 @@ msgid "adv_000150_0043_msg"
 msgstr ""
 
 msgid "adv_000150_0046_msg"
-msgstr ""
+msgstr "동의"
 
 msgid "adv_000150_0049_msg"
 msgstr ""
@@ -18358,7 +18358,7 @@ msgid "adv_000150_0050_msg"
 msgstr ""
 
 msgid "adv_103801_0009_msg"
-msgstr ""
+msgstr "프레이아!"
 
 msgid "adv_103801_0010_msg"
 msgstr ""
@@ -19456,7 +19456,7 @@ msgid "adv_1400202_0011_msg"
 msgstr ""
 
 msgid "adv_1400202_0012_msg"
-msgstr ""
+msgstr "레이나?"
 
 msgid "adv_1400202_0013_msg"
 msgstr ""
@@ -19474,7 +19474,7 @@ msgid "adv_1400202_0017_msg"
 msgstr ""
 
 msgid "adv_1400202_0018_msg"
-msgstr ""
+msgstr "레이나…"
 
 msgid "adv_1400202_0019_msg"
 msgstr ""
@@ -19900,7 +19900,7 @@ msgid "adv_104201_0010_msg"
 msgstr ""
 
 msgid "adv_104201_0011_msg"
-msgstr ""
+msgstr "미쿠모!"
 
 msgid "adv_104201_0012_msg"
 msgstr ""
@@ -19924,7 +19924,7 @@ msgid "adv_104201_0018_msg"
 msgstr ""
 
 msgid "adv_104201_0019_msg"
-msgstr ""
+msgstr "미쿠모?"
 
 msgid "adv_104201_0020_msg"
 msgstr ""
@@ -20305,7 +20305,7 @@ msgid "adv_104302_0016_msg"
 msgstr ""
 
 msgid "adv_104302_0017_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_104302_0018_msg"
 msgstr ""
@@ -21184,7 +21184,7 @@ msgid "adv_303801_0024_msg"
 msgstr ""
 
 msgid "adv_303801_0026_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_303801_0027_msg"
 msgstr ""
@@ -21217,7 +21217,7 @@ msgid "adv_303802_0008_msg"
 msgstr ""
 
 msgid "adv_303802_0009_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_303802_0010_msg"
 msgstr ""
@@ -21250,7 +21250,7 @@ msgid "adv_303802_0019_msg"
 msgstr ""
 
 msgid "adv_303802_0020_msg"
-msgstr ""
+msgstr "프레이아"
 
 msgid "adv_303802_0021_msg"
 msgstr ""
@@ -21307,7 +21307,7 @@ msgid "adv_104601_0017_msg"
 msgstr "…………"
 
 msgid "adv_104601_0018_msg"
-msgstr ""
+msgstr "셰릴 씨?"
 
 msgid "adv_104601_0019_msg"
 msgstr ""
@@ -21319,10 +21319,10 @@ msgid "adv_104601_0021_msg"
 msgstr ""
 
 msgid "adv_104601_0022_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_104601_0023_msg"
-msgstr ""
+msgstr "알토 군!"
 
 msgid "adv_104601_0024_msg"
 msgstr ""
@@ -22204,7 +22204,7 @@ msgid "adv_1400602_0012_msg"
 msgstr ""
 
 msgid "adv_1400602_0013_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_1400602_0014_msg"
 msgstr ""
@@ -22258,7 +22258,7 @@ msgid "adv_104901_0011_msg"
 msgstr ""
 
 msgid "adv_104901_0012_msg"
-msgstr ""
+msgstr "프레이아!"
 
 msgid "adv_104901_0013_msg"
 msgstr ""
@@ -22297,7 +22297,7 @@ msgid "adv_104901_0024_msg"
 msgstr ""
 
 msgid "adv_104901_0025_msg"
-msgstr ""
+msgstr "...카나메 씨"
 
 msgid "adv_104901_0026_msg"
 msgstr ""
@@ -22321,7 +22321,7 @@ msgid "adv_104901_0032_msg"
 msgstr ""
 
 msgid "adv_104901_0033_msg"
-msgstr ""
+msgstr "카나메 씨"
 
 msgid "adv_104901_0034_msg"
 msgstr ""
@@ -22366,7 +22366,7 @@ msgid "adv_104902_0016_msg"
 msgstr ""
 
 msgid "adv_104902_0017_msg"
-msgstr ""
+msgstr "카나메 씨…"
 
 msgid "adv_104902_0018_msg"
 msgstr ""
@@ -22798,7 +22798,7 @@ msgid "adv_1400701_0009_msg"
 msgstr "…………"
 
 msgid "adv_1400701_0010_msg"
-msgstr ""
+msgstr "셰릴 씨?"
 
 msgid "adv_1400701_0011_msg"
 msgstr ""
@@ -22822,7 +22822,7 @@ msgid "adv_1400701_0020_msg"
 msgstr ""
 
 msgid "adv_1400701_0021_msg"
-msgstr ""
+msgstr "미쿠모!"
 
 msgid "adv_1400701_0022_msg"
 msgstr ""
@@ -23407,10 +23407,10 @@ msgid "adv_100450102_0010_msg"
 msgstr ""
 
 msgid "adv_1400801_0008_msg"
-msgstr ""
+msgstr "알토!"
 
 msgid "adv_1400801_0009_msg"
-msgstr ""
+msgstr "알토 군!"
 
 msgid "adv_1400801_0010_msg"
 msgstr ""
@@ -26133,7 +26133,7 @@ msgid "adv_000170_0052_msg"
 msgstr ""
 
 msgid "adv_000170_0054_msg"
-msgstr ""
+msgstr "...!"
 
 msgid "adv_000170_0055_msg"
 msgstr ""
