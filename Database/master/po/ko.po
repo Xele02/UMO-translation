@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-22 16:27+0000\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -22212,13 +22212,13 @@ msgid "et_dsc_0006"
 msgstr ""
 
 msgid "cmp_nm_0001"
-msgstr ""
+msgstr "스톤(소) 세트"
 
 msgid "cmp_nm_0002"
 msgstr "스톤(중) 세트"
 
 msgid "cmp_nm_0003"
-msgstr ""
+msgstr "스톤(대) 세트"
 
 msgid "cmp_nm_0004"
 msgstr ""
@@ -22242,10 +22242,10 @@ msgid "cmp_nm_0010"
 msgstr ""
 
 msgid "cmp_nm_0011"
-msgstr ""
+msgstr "스톤 전체 세트"
 
 msgid "cmp_nm_0012"
-msgstr ""
+msgstr "결정 전체 세트"
 
 msgid "cmp_dsc_0001"
 msgstr ""
@@ -26556,19 +26556,19 @@ msgid "dc_itm_nm_0023_bg"
 msgstr ""
 
 msgid "dc_itm_nm_0024_bg"
-msgstr ""
+msgstr "카나메의 방"
 
 msgid "dc_itm_nm_0025_bg"
-msgstr ""
+msgstr "플라네타리움"
 
 msgid "dc_itm_nm_0026_bg"
-msgstr ""
+msgstr "파티룸"
 
 msgid "dc_itm_nm_0027_bg"
-msgstr ""
+msgstr "라그나 수족관"
 
 msgid "dc_itm_nm_0028_bg"
-msgstr ""
+msgstr "마키나와 레이나의 방"
 
 msgid "dc_itm_nm_0029_bg"
 msgstr ""
@@ -27396,7 +27396,7 @@ msgid "dc_itm_nm_0226_obj"
 msgstr ""
 
 msgid "dc_itm_nm_0227_obj"
-msgstr ""
+msgstr "PLANET DANCE"
 
 msgid "dc_itm_nm_0228_obj"
 msgstr ""
