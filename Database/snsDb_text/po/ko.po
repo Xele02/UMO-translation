@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "snsdb_text/ko/>\n"
@@ -63,43 +63,43 @@ msgid "room_name_0016_txt"
 msgstr "여름이다! 바다다! 수영복De Show!"
 
 msgid "room_name_0017_txt"
-msgstr ""
+msgstr "파스텔♡SUMMER"
 
 msgid "room_name_0018_txt"
-msgstr ""
+msgstr "기다렸지! Fire Bomber 등장!"
 
 msgid "room_name_0019_txt"
-msgstr ""
+msgstr "은하의 요정"
 
 msgid "room_name_0020_txt"
-msgstr ""
+msgstr "민메이 버스데이"
 
 msgid "room_name_0021_txt"
-msgstr ""
+msgstr "Happy Hacking Halloween"
 
 msgid "room_name_0022_txt"
-msgstr ""
+msgstr "충격 데뷔 스테이지"
 
 msgid "room_name_0023_txt"
-msgstr ""
+msgstr "다이너마이트7"
 
 msgid "room_name_0024_txt"
-msgstr ""
+msgstr "결단 오버로드"
 
 msgid "room_name_0025_txt"
-msgstr ""
+msgstr "이별의 날개"
 
 msgid "room_name_0026_txt"
-msgstr ""
+msgstr "크로스오버 LIVE(FB편)"
 
 msgid "room_name_0027_txt"
 msgstr "망설임의 크리스마스"
 
 msgid "room_name_0028_txt"
-msgstr ""
+msgstr "Happy Merry Xmas ~2017~"
 
 msgid "room_name_0029_txt"
-msgstr ""
+msgstr "초시공 카운트다운 라이브 '17"
 
 msgid "room_name_0030_txt"
 msgstr ""
@@ -111,7 +111,7 @@ msgid "room_name_0032_txt"
 msgstr ""
 
 msgid "room_name_0033_txt"
-msgstr ""
+msgstr "sexy monsoon"
 
 msgid "room_name_0034_txt"
 msgstr ""
@@ -132,19 +132,19 @@ msgid "room_name_0039_txt"
 msgstr ""
 
 msgid "room_name_0040_txt"
-msgstr ""
+msgstr "0-G Love"
 
 msgid "room_name_0041_txt"
-msgstr ""
+msgstr "d슈디스타b"
 
 msgid "room_name_0042_txt"
-msgstr ""
+msgstr "숙명θ노바틱"
 
 msgid "room_name_0043_txt"
-msgstr ""
+msgstr "파란만장 만우절"
 
 msgid "room_name_0044_txt"
-msgstr ""
+msgstr "상냥함 SAYONARA"
 
 msgid "room_name_0045_txt"
 msgstr ""
@@ -153,13 +153,13 @@ msgid "room_name_0046_txt"
 msgstr ""
 
 msgid "room_name_0047_txt"
-msgstr ""
+msgstr "SUBMARINE MEMORY"
 
 msgid "room_name_0048_txt"
-msgstr ""
+msgstr "광속 클라이 max☆stage"
 
 msgid "room_name_0049_txt"
-msgstr ""
+msgstr "울상 웨딩"
 
 msgid "room_name_0050_txt"
 msgstr ""
@@ -168,10 +168,10 @@ msgid "room_name_0051_txt"
 msgstr ""
 
 msgid "room_name_0052_txt"
-msgstr ""
+msgstr "SEVENTH MOON NIGHT"
 
 msgid "room_name_0053_txt"
-msgstr ""
+msgstr "날아라! 초시공 요새 마크로스"
 
 msgid "room_name_0054_txt"
 msgstr ""
@@ -180,16 +180,16 @@ msgid "room_name_0055_txt"
 msgstr ""
 
 msgid "room_name_0056_txt"
-msgstr ""
+msgstr "SUNSET RESORT"
 
 msgid "room_name_0057_txt"
 msgstr ""
 
 msgid "room_name_0058_txt"
-msgstr ""
+msgstr "발키리 오퍼레이션"
 
 msgid "room_name_0059_txt"
-msgstr ""
+msgstr "가희 오퍼레이션"
 
 msgid "room_name_0060_txt"
 msgstr ""
@@ -204,7 +204,7 @@ msgid "room_name_0063_txt"
 msgstr ""
 
 msgid "room_name_0064_txt"
-msgstr ""
+msgstr "메모리얼 런너"
 
 msgid "room_name_0065_txt"
 msgstr ""
@@ -216,10 +216,10 @@ msgid "room_name_0067_txt"
 msgstr ""
 
 msgid "room_name_0068_txt"
-msgstr ""
+msgstr "Queen's Birthday"
 
 msgid "room_name_0069_txt"
-msgstr ""
+msgstr "Walküre! THUNDER GLOW"
 
 msgid "room_name_0070_txt"
 msgstr ""
