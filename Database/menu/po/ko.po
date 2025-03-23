@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-22 16:26+0000\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -350,7 +350,7 @@ msgid "config_text_09"
 msgstr "표시 설정"
 
 msgid "config_text_10"
-msgstr ""
+msgstr "동영상 설정을 낮게 설정하거나 숨기면 게임 실행이 가벼워질 수 있습니다."
 
 msgid "config_text_11"
 msgstr "커스텀 설정"
@@ -365,16 +365,16 @@ msgid "config_text_14"
 msgstr "동작 설정"
 
 msgid "config_text_15"
-msgstr ""
+msgstr "각 항목을 설정한 조건으로 라이브가 진행됩니다."
 
 msgid "config_text_16"
-msgstr ""
+msgstr "동작의 경량화를 위해 2D 표시로 라이브가 진행됩니다."
 
 msgid "config_text_17"
-msgstr ""
+msgstr "동작의 경량화를 위해 일부 라이브 연출을 생략합니다."
 
 msgid "config_text_18"
-msgstr ""
+msgstr "모든 라이브 연출을 표시합니다."
 
 msgid "config_text_19"
 msgstr "타이밍 설정"
@@ -393,15 +393,23 @@ msgstr ""
 
 msgid "config_text_24"
 msgstr ""
+"라이브 중 3D로 표시되는 가희에 대해 설정합니다.\n"
+"낮게 설정하면 묘사 퀄리티를 최소화하여\n"
+"부하를 줄일 수 있습니다."
 
 msgid "config_text_25"
 msgstr ""
+"라이브 중 3D로 표시되는 배경, 발키리 등을 설정합니다.\n"
+"낮게 설정하면 묘사 퀄리티를 최소한으로 낮추어\n"
+"부하를 줄입니다."
 
 msgid "config_text_26"
 msgstr ""
+"라이브 중 2D로 표시되는 연출을 설정합니다.\n"
+"낮게 설정하면 연출을 최소화하여 부하를 줄일 수 있습니다."
 
 msgid "config_text_27"
-msgstr ""
+msgstr "묘사 설정"
 
 msgid "config_text_28"
 msgstr "메뉴 설정"
@@ -449,10 +457,10 @@ msgid "config_text_41"
 msgstr ""
 
 msgid "config_text_42"
-msgstr ""
+msgstr "가희 모드 중에 재생되는 동영상에 대한 설정을 할 수 있습니다."
 
 msgid "config_text_43"
-msgstr ""
+msgstr "동영상 화질을 낮게 설정하면 게임 실행이 가벼워질 수 있습니다."
 
 msgid "config_text_44"
 msgstr ""
@@ -464,7 +472,7 @@ msgid "config_text_46"
 msgstr ""
 
 msgid "config_text_47"
-msgstr ""
+msgstr "가희 설정"
 
 msgid "config_text_48"
 msgstr ""
@@ -494,19 +502,19 @@ msgid "config_text_56"
 msgstr ""
 
 msgid "config_text_57"
-msgstr ""
+msgstr "발키리 모드 설정"
 
 msgid "config_text_58"
-msgstr ""
+msgstr "발키리 모드 중 연출을 설정할 수 있습니다."
 
 msgid "config_text_59"
-msgstr ""
+msgstr "발키리와 적과의 배틀이 표시됩니다."
 
 msgid "config_text_60"
-msgstr ""
+msgstr "발키리 모드에서도 가희가 표시됩니다."
 
 msgid "config_text_61"
-msgstr ""
+msgstr "확인"
 
 msgid "config_text_62"
 msgstr ""
@@ -544,28 +552,28 @@ msgid "config_text_71"
 msgstr ""
 
 msgid "config_text_72"
-msgstr ""
+msgstr "가희 모드 설정"
 
 msgid "config_text_73"
-msgstr ""
+msgstr "가희 모드 중 연출을 설정할 수 있습니다."
 
 msgid "config_text_74"
-msgstr ""
+msgstr "설정은 3D 라이브에만 반영됩니다."
 
 msgid "config_text_75"
-msgstr ""
+msgstr "가희 모드 중, 가희의 배경에 동영상이 표시됩니다."
 
 msgid "config_text_76"
-msgstr ""
+msgstr "가희 모드 중, 가희만 표시됩니다."
 
 msgid "config_text_77"
-msgstr ""
+msgstr "가희 모드 중, 동영상만 표시됩니다."
 
 msgid "config_text_78"
 msgstr ""
 
 msgid "config_text_79"
-msgstr ""
+msgstr "라이브 표시 설정"
 
 msgid "config_text_80"
 msgstr ""
@@ -1618,10 +1626,10 @@ msgid "music_to_live_ticket_msg"
 msgstr ""
 
 msgid "music_select_slive_own_item"
-msgstr ""
+msgstr "보유 토큰"
 
 msgid "music_select_slive_cost_item"
-msgstr ""
+msgstr "소비 토큰"
 
 msgid "game_play_event_end_attain"
 msgstr ""
@@ -1660,6 +1668,8 @@ msgstr ""
 
 msgid "gacha_main_ep_diva_costume"
 msgstr ""
+"{0}의상\n"
+"{1}"
 
 msgid "gacha_main_pickup_caution"
 msgstr ""
@@ -1701,7 +1711,7 @@ msgid "popup_record_plate_008"
 msgstr ""
 
 msgid "popup_record_plate_009"
-msgstr ""
+msgstr "새로운 에피소드 플레이트를 획득했습니다."
 
 msgid "popup_record_plate_010"
 msgstr ""
@@ -2112,7 +2122,7 @@ msgid "popup_story_diva_title_002"
 msgstr ""
 
 msgid "result_playlog_hint_001"
-msgstr ""
+msgstr "폴드파가 높은 에피소드 플레이트를 편성하여 발키리 모드 돌입을 노려보자!"
 
 msgid "result_playlog_hint_002"
 msgstr ""
@@ -2138,10 +2148,11 @@ msgstr "가희와 플레이트의 상성을 맞춰보자. 라이브 스킬이 �
 "하이스코어를 기대할 수 있어."
 
 msgid "result_playlog_hint_009"
-msgstr ""
+msgstr "발키리 모드까지 생체 폴드파 게이지를 모으자. GREAT 이상의 판정을 받으면 쌓을 "
+"수 있어."
 
 msgid "result_playlog_hint_010"
-msgstr ""
+msgstr "발키리 모드에서 4콤보 이상을 유지하면 적에게 대미지를 입힐 수 있어."
 
 msgid "result_playlog_hint_011"
 msgstr ""
@@ -2327,7 +2338,7 @@ msgid "profil_text_05"
 msgstr ""
 
 msgid "popup_music_info_01"
-msgstr ""
+msgstr "악곡을 플레이하시겠습니까?"
 
 msgid "popup_buy_music_msg_android"
 msgstr ""
@@ -2735,7 +2746,7 @@ msgid "mvmode_setting_popuptitle_002"
 msgstr "발키리 선택"
 
 msgid "mvmode_setting_menu_000"
-msgstr ""
+msgstr "<size=22>발키리 모드에 돌입</size>"
 
 msgid "mvmode_setting_menu_001"
 msgstr ""
@@ -3200,7 +3211,7 @@ msgid "ar_top_button_text_event"
 msgstr ""
 
 msgid "ar_top_button_text_back"
-msgstr ""
+msgstr "타이틀로 돌아가기"
 
 msgid "ar_photo_button_text_sns"
 msgstr ""
@@ -3269,7 +3280,7 @@ msgid "ar_sel_popup_camera_text"
 msgstr ""
 
 msgid "ar_sel_popup_camera_button_l"
-msgstr ""
+msgstr "타이틀로 돌아가기"
 
 msgid "ar_sel_popup_camera_button_r"
 msgstr ""
@@ -3296,7 +3307,7 @@ msgid "cmn_profil_emblem_none"
 msgstr ""
 
 msgid "pop_eve_story_title"
-msgstr ""
+msgstr "이벤트 스토리"
 
 msgid "ar_net_error_01"
 msgstr ""
@@ -3311,28 +3322,32 @@ msgid "ar_net_error_retry"
 msgstr ""
 
 msgid "ar_net_error_title"
-msgstr ""
+msgstr "타이틀로 돌아가기"
 
 msgid "badge_label_quest_achieved"
 msgstr "{0} 달성!"
 
 msgid "badge_label_gacha_oneday"
-msgstr ""
+msgstr "1회 무료"
 
 msgid "badge_label_gacha_firsttime"
-msgstr ""
+msgstr "최초 1회 무료"
 
 msgid "badge_label_gacha_thistime"
-msgstr ""
+msgstr "이번에는 무료"
 
 msgid "unit_multi_dance_popup_00"
 msgstr ""
+"가희가 편성되어 있지 않아\n"
+"악곡을 플레이할 수 없습니다."
 
 msgid "unit_multi_dance_popup_01"
 msgstr ""
 
 msgid "unit_multi_dance_popup_02"
 msgstr ""
+"가희가 편성되어 있지 않아\n"
+"악곡을 플레이할 수 없습니다."
 
 msgid "unit_multi_dance_popup_03"
 msgstr ""
@@ -3346,10 +3361,10 @@ msgid "unit_multi_dance_lock_text"
 msgstr ""
 
 msgid "unit_warning_window_title"
-msgstr ""
+msgstr "유닛 라이브에 대하여"
 
 msgid "unit_warning_window_check"
-msgstr ""
+msgstr "더 이상 표시하지 않음"
 
 msgid "unit_warning_window_text_001"
 msgstr ""
@@ -3358,10 +3373,10 @@ msgid "unit_warning_window_text_002"
 msgstr ""
 
 msgid "episode_appeal_text_001"
-msgstr ""
+msgstr "새 에피소드"
 
 msgid "episode_appeal_text_002"
-msgstr ""
+msgstr "에피소드 완전 해방 보상"
 
 msgid "episode_appeal_text_003"
 msgstr "{0} 전용 : 새로운 의상 등장!"
@@ -3905,7 +3920,7 @@ msgid "bingo_reward_select_desc3"
 msgstr ""
 
 msgid "bingo_reward_select_title"
-msgstr ""
+msgstr "에피소드 완전 해방 보상"
 
 msgid "bingo_reward_select_caution_desc"
 msgstr ""
@@ -4988,6 +5003,13 @@ msgstr ""
 
 msgid "use_item_description_03"
 msgstr ""
+"라이브 스킵 티켓 1장을 소모하여 라이브를 건너뜁니다.\n"
+"\n"
+"라이브 스킵 티켓 {0}→{1}\n"
+"\n"
+"・모든 노트는 PERFECT로 판정됩니다.\n"
+"・스킵을 한 경우 '풀 콤보'로 판정되지 않습니다.\n"
+"・스코어, 발키리 모드의 결과는 유닛 편성에 따라 달라집니다."
 
 msgid "use_item_description_04"
 msgstr ""
