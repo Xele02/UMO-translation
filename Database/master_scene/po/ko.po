@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_scene/ko/>\n"
@@ -150,7 +150,7 @@ msgid "sn_0045"
 msgstr ""
 
 msgid "sn_0046"
-msgstr ""
+msgstr "트랜스포메이션"
 
 msgid "sn_0047"
 msgstr "민메이의 방"
@@ -216,7 +216,7 @@ msgid "sn_0067"
 msgstr ""
 
 msgid "sn_0068"
-msgstr ""
+msgstr "체크메이트"
 
 msgid "sn_0069"
 msgstr ""
@@ -246,13 +246,13 @@ msgid "sn_0077"
 msgstr ""
 
 msgid "sn_0078"
-msgstr ""
+msgstr "물과 기름"
 
 msgid "sn_0079"
 msgstr ""
 
 msgid "sn_0080"
-msgstr ""
+msgstr "마키나의 고글"
 
 msgid "sn_0081"
 msgstr ""
@@ -513,10 +513,10 @@ msgid "sn_0168"
 msgstr ""
 
 msgid "sn_0169"
-msgstr ""
+msgstr "은하의 요정"
 
 msgid "sn_0170"
-msgstr ""
+msgstr "EP【요정의 방문】"
 
 msgid "sn_0171"
 msgstr ""
@@ -5673,7 +5673,7 @@ msgid "sn_2201"
 msgstr ""
 
 msgid "sn_2202"
-msgstr ""
+msgstr "EP【요정의 방문】"
 
 msgid "sn_2203"
 msgstr ""
