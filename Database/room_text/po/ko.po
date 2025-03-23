@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-22 16:27+0000\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "room_text/ko/>\n"
@@ -278,7 +278,7 @@ msgid "message_0079_txt"
 msgstr ""
 
 msgid "message_0080_txt"
-msgstr ""
+msgstr "셰릴 씨?"
 
 msgid "message_0081_txt"
 msgstr ""
@@ -1232,7 +1232,7 @@ msgid "message_0397_txt"
 msgstr ""
 
 msgid "message_0398_txt"
-msgstr ""
+msgstr "……"
 
 msgid "message_0399_txt"
 msgstr ""
@@ -1268,7 +1268,7 @@ msgid "message_0409_txt"
 msgstr ""
 
 msgid "message_0410_txt"
-msgstr ""
+msgstr "미쿠모?"
 
 msgid "message_0411_txt"
 msgstr ""
@@ -4268,7 +4268,7 @@ msgid "message_1409_txt"
 msgstr ""
 
 msgid "message_1410_txt"
-msgstr ""
+msgstr "미쿠모!"
 
 msgid "message_1411_txt"
 msgstr ""
@@ -6878,7 +6878,7 @@ msgid "message_2279_txt"
 msgstr ""
 
 msgid "message_2280_txt"
-msgstr ""
+msgstr "프레이아"
 
 msgid "message_2281_txt"
 msgstr ""
@@ -9035,7 +9035,7 @@ msgid "message_2998_txt"
 msgstr ""
 
 msgid "message_2999_txt"
-msgstr ""
+msgstr "카나메 씨…"
 
 msgid "message_3000_txt"
 msgstr ""
@@ -10187,7 +10187,7 @@ msgid "message_3382_txt"
 msgstr ""
 
 msgid "message_3383_txt"
-msgstr ""
+msgstr "...!"
 
 msgid "message_3384_txt"
 msgstr ""
@@ -11417,7 +11417,7 @@ msgid "message_3792_txt"
 msgstr ""
 
 msgid "message_3793_txt"
-msgstr ""
+msgstr "프레이아!"
 
 msgid "message_3794_txt"
 msgstr ""
@@ -14369,7 +14369,7 @@ msgid "message_4776_txt"
 msgstr ""
 
 msgid "message_4777_txt"
-msgstr ""
+msgstr "카나메 씨"
 
 msgid "message_4778_txt"
 msgstr ""
@@ -15119,7 +15119,7 @@ msgid "message_5026_txt"
 msgstr ""
 
 msgid "message_5027_txt"
-msgstr ""
+msgstr "동의"
 
 msgid "message_5028_txt"
 msgstr ""
@@ -15311,7 +15311,7 @@ msgid "message_5090_txt"
 msgstr ""
 
 msgid "message_5091_txt"
-msgstr ""
+msgstr "레이나?"
 
 msgid "message_5092_txt"
 msgstr ""
@@ -16271,7 +16271,7 @@ msgid "message_5410_txt"
 msgstr ""
 
 msgid "message_5411_txt"
-msgstr ""
+msgstr "알토 군!"
 
 msgid "message_5412_txt"
 msgstr ""
@@ -21821,7 +21821,7 @@ msgid "message_7260_txt"
 msgstr ""
 
 msgid "message_7261_txt"
-msgstr ""
+msgstr "레이나…"
 
 msgid "message_7262_txt"
 msgstr ""
@@ -28511,7 +28511,7 @@ msgid "message_9490_txt"
 msgstr ""
 
 msgid "message_9491_txt"
-msgstr ""
+msgstr "알토!"
 
 msgid "message_9492_txt"
 msgstr ""
@@ -33674,7 +33674,7 @@ msgid "message_11211_txt"
 msgstr ""
 
 msgid "message_11212_txt"
-msgstr ""
+msgstr "충격의 데뷔 라이브"
 
 msgid "message_11213_txt"
 msgstr ""
@@ -33836,7 +33836,7 @@ msgid "message_11265_txt"
 msgstr ""
 
 msgid "message_11266_txt"
-msgstr ""
+msgstr "카나메…"
 
 msgid "message_11267_txt"
 msgstr ""
