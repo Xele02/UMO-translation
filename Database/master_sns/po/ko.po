@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-02-16 11:39+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_sns/ko/>\n"
@@ -5190,7 +5190,7 @@ msgid "sns_nm_0135"
 msgstr ""
 
 msgid "sns_nm_0136"
-msgstr ""
+msgstr "멧서와의 약속"
 
 msgid "sns_nm_0137"
 msgstr ""
@@ -5211,7 +5211,7 @@ msgid "sns_nm_0144"
 msgstr ""
 
 msgid "sns_nm_0145"
-msgstr ""
+msgstr "마키나의 고글"
 
 msgid "sns_nm_0146"
 msgstr ""
@@ -5235,13 +5235,13 @@ msgid "sns_nm_0154"
 msgstr ""
 
 msgid "sns_nm_0155"
-msgstr ""
+msgstr "레이나의 휴일"
 
 msgid "sns_nm_0156"
-msgstr ""
+msgstr "궁극의 선택"
 
 msgid "sns_nm_0157"
-msgstr ""
+msgstr "레이나의 귀"
 
 msgid "sns_nm_0158"
 msgstr ""
@@ -5265,7 +5265,7 @@ msgid "sns_nm_0166"
 msgstr ""
 
 msgid "sns_nm_0167"
-msgstr ""
+msgstr "스타라이트 낫토"
 
 msgid "sns_nm_0168"
 msgstr ""
@@ -5556,7 +5556,7 @@ msgid "sns_nm_0412"
 msgstr ""
 
 msgid "sns_nm_0413"
-msgstr ""
+msgstr "스타라이트 낫토"
 
 msgid "sns_nm_0414"
 msgstr ""
@@ -5571,13 +5571,13 @@ msgid "sns_nm_0417"
 msgstr ""
 
 msgid "sns_nm_0532"
-msgstr ""
+msgstr "발키리 오퍼레이션"
 
 msgid "sns_nm_0533"
 msgstr ""
 
 msgid "sns_nm_0534"
-msgstr ""
+msgstr "출격 준비, 완료"
 
 msgid "sns_nm_0535"
 msgstr ""
@@ -6579,7 +6579,7 @@ msgid "sns_nm_0901"
 msgstr ""
 
 msgid "sns_nm_0902"
-msgstr ""
+msgstr "Happy Merry Xmas ~2017~"
 
 msgid "sns_nm_0903"
 msgstr ""
@@ -6699,7 +6699,7 @@ msgid "sns_nm_0941"
 msgstr ""
 
 msgid "sns_nm_0942"
-msgstr ""
+msgstr "파란만장 만우절"
 
 msgid "sns_nm_0943"
 msgstr ""
