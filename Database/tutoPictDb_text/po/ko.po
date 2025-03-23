@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/ko/>\n"
@@ -163,7 +163,7 @@ msgid "tutopict_0013_0001_msg"
 msgstr ""
 
 msgid "tutopict_0014_0000_title"
-msgstr ""
+msgstr "프로필에 대하여"
 
 msgid "tutopict_0014_0000_msg"
 msgstr ""
@@ -252,7 +252,7 @@ msgstr ""
 "예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
 
 msgid "tutopict_0023_0000_title"
-msgstr ""
+msgstr "서비스 가챠에 대하여"
 
 msgid "tutopict_0023_0000_msg"
 msgstr ""
@@ -940,7 +940,7 @@ msgstr ""
 "에피소드 플레이트를 획득할 수 있어."
 
 msgid "tutopict_0092_0000_title"
-msgstr ""
+msgstr "서비스 가챠에 대하여"
 
 msgid "tutopict_0092_0000_msg"
 msgstr ""
@@ -1233,7 +1233,7 @@ msgid "tutopict_0118_0001_msg"
 msgstr ""
 
 msgid "tutopict_0119_0000_title"
-msgstr ""
+msgstr "프로필에 대하여"
 
 msgid "tutopict_0119_0000_msg"
 msgstr ""
@@ -1242,7 +1242,7 @@ msgid "tutopict_0119_0001_msg"
 msgstr ""
 
 msgid "tutopict_0120_0000_title"
-msgstr ""
+msgstr "서비스 가챠에 대하여"
 
 msgid "tutopict_0120_0000_msg"
 msgstr ""
@@ -2380,12 +2380,18 @@ msgstr ""
 
 msgid "tutopict_0194_0001_msg"
 msgstr ""
+"【냥쿠지☆추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\n"
+"추첨권은 가정석 세트의 덤이나\n"
+"냥냥 서비스 미션 등을 통해 얻을 수 있어."
 
 msgid "tutopict_0194_0002_msg"
 msgstr ""
 
 msgid "tutopict_0194_0003_msg"
 msgstr ""
+"초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\n"
+"★6, ★5 플레이트와 교환할 수 있는 티켓이야.\n"
+"레어리티에 따라 필요한 개수가 다르니 주의해."
 
 msgid "tutopict_0195_0000_title"
 msgstr ""
@@ -2395,12 +2401,18 @@ msgstr ""
 
 msgid "tutopict_0195_0001_msg"
 msgstr ""
+"【냥쿠지☆추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\n"
+"추첨권은 가정석 세트의 덤이나\n"
+"냥냥 서비스 미션 등을 통해 얻을 수 있어."
 
 msgid "tutopict_0195_0002_msg"
 msgstr ""
 
 msgid "tutopict_0195_0003_msg"
 msgstr ""
+"초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\n"
+"★6, ★5 플레이트와 교환할 수 있는 티켓이야.\n"
+"레어리티에 따라 필요한 개수가 다르니 주의해."
 
 msgid "tutopict_0196_0000_title"
 msgstr ""
@@ -2416,9 +2428,15 @@ msgstr ""
 
 msgid "tutopict_0197_0001_msg"
 msgstr ""
+"【냥쿠지☆추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\n"
+"추첨권은 가정석 세트의 덤이나\n"
+"냥냥 서비스 미션 등을 통해 얻을 수 있어."
 
 msgid "tutopict_0197_0002_msg"
 msgstr ""
+"초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\n"
+"★6, ★5 플레이트와 교환할 수 있는 티켓이야.\n"
+"레어리티에 따라 필요한 개수가 다르니 주의해."
 
 msgid "tutopict_0198_0000_title"
 msgstr ""
@@ -2433,16 +2451,22 @@ msgid "tutopict_0199_0000_msg"
 msgstr ""
 
 msgid "tutopict_0200_0000_title"
-msgstr ""
+msgstr "냥쿠지☆에 대하여"
 
 msgid "tutopict_0200_0000_msg"
 msgstr ""
+"【냥쿠지☆추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\n"
+"추첨권은 가정석 세트의 덤이나\n"
+"냥냥 서비스 미션 등을 통해 얻을 수 있어."
 
 msgid "tutopict_0200_0001_msg"
 msgstr ""
 
 msgid "tutopict_0200_0002_msg"
 msgstr ""
+"초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\n"
+"★6, ★5 플레이트와 교환할 수 있는 티켓이야.\n"
+"레어리티에 따라 필요한 개수가 다르니 주의해."
 
 msgid "tutopict_0201_0000_title"
 msgstr ""
@@ -2451,22 +2475,31 @@ msgid "tutopict_0201_0000_msg"
 msgstr ""
 
 msgid "tutopict_0202_0000_title"
-msgstr ""
+msgstr "냥쿠지☆에 대하여"
 
 msgid "tutopict_0202_0000_msg"
 msgstr ""
+"【냥쿠지☆추첨권】으로 【냥쿠지☆】룰 뽑을 수 있어.\n"
+"추첨권은 가정석 세트의 덤이나\n"
+"냥냥 서비스 미션 등을 통해 얻을 수 있어."
 
 msgid "tutopict_0202_0001_msg"
 msgstr ""
 
 msgid "tutopict_0202_0002_msg"
 msgstr ""
+"초은하 메달 교환소, 열두 별자리 메달 교환소에 등장한\n"
+"★6, ★5 플레이트와 교환할 수 있는 티켓이야.\n"
+"레어리티에 따라 필요한 개수가 다르니 주의해."
 
 msgid "tutopict_0203_0000_title"
-msgstr ""
+msgstr "우타 마크로스 4th Anniversary 전야제에 대하여"
 
 msgid "tutopict_0203_0000_msg"
 msgstr ""
+"곧 우타 마크로스도 4주년!\n"
+"올해도 【전야제】를 개최! 4주년 전야제 역시 활기를 띌 거야!\n"
+"【전야제】의 하이라이트는 【전야제 냥쿠지☆】야."
 
 msgid "tutopict_0203_0001_msg"
 msgstr ""
@@ -2496,7 +2529,7 @@ msgid "tutopict_0204_0003_msg"
 msgstr ""
 
 msgid "tutopict_0205_0000_title"
-msgstr ""
+msgstr "냥쿠지☆에 대하여"
 
 msgid "tutopict_0205_0000_msg"
 msgstr ""
@@ -2508,7 +2541,7 @@ msgid "tutopict_0205_0002_msg"
 msgstr ""
 
 msgid "tutopict_0206_0000_title"
-msgstr ""
+msgstr "냥쿠지☆에 대하여"
 
 msgid "tutopict_0206_0000_msg"
 msgstr ""
@@ -2539,6 +2572,8 @@ msgstr ""
 
 msgid "tutopict_0207_0005_msg"
 msgstr ""
+"같은 에피소드의 플레이트를 여러 개 편성해도\n"
+"1에피소드 만큼의 보너스만 받을 수 있으니 주의해."
 
 msgid "tutopict_0207_0006_msg"
 msgstr ""
@@ -2593,6 +2628,8 @@ msgstr "에피소드 보너스에 대하여"
 
 msgid "tutopict_0209_0000_msg"
 msgstr ""
+"같은 에피소드의 플레이트를 여러 개 편성해도\n"
+"1에피소드 만큼의 보너스만 받을 수 있으니 주의해."
 
 msgid "tutopict_0209_0001_msg"
 msgstr ""
