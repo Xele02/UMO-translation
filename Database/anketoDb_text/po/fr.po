@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:54+0000\n"
-"PO-Revision-Date: 2024-07-13 17:28+0000\n"
-"Last-Translator: Xele <xele@xele.org>\n"
+"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "anketodb_text/fr/>\n"
 "Language: fr\n"
@@ -18,50 +18,50 @@ msgid "anketo_0000_question"
 msgstr "A quel point aimes-tu la série Macross ?"
 
 msgid "anketo_0000_0000_choice"
-msgstr "Je l'aime beaucoup"
+msgstr "Je l'aime beaucoup."
 
 msgid "anketo_0000_0001_choice"
-msgstr "Je l'aime moyennement"
+msgstr "Je l'aime moyennement."
 
 msgid "anketo_0000_0002_choice"
-msgstr "Je ne l'aime pas beaucoup"
+msgstr "Je ne l'aime pas beaucoup."
 
 msgid "anketo_0000_0003_choice"
-msgstr "Je n'en sais pas grand-chose"
+msgstr "Je n'en sais pas."
 
 msgid "anketo_0001_question"
 msgstr "As-tu déjà joué à d'autres jeux de rythme ?"
 
 msgid "anketo_0001_0000_choice"
-msgstr "Je joue beaucoup"
+msgstr "Oui, beaucoup."
 
 msgid "anketo_0001_0001_choice"
-msgstr "Je joue moyennement"
+msgstr "Oui, un certain nombre."
 
 msgid "anketo_0001_0002_choice"
-msgstr "Je ne joue pas beaucoup"
+msgstr "Oui, quelques-uns."
 
 msgid "anketo_0001_0003_choice"
-msgstr "Uta Macross est le premier"
+msgstr "Uta Macross est le premier."
 
 msgid "anketo_0002_question"
 msgstr ""
 "Parmi les éléments suivants, lesquels aimerais-tu voir dans Uta Macross ?"
 
 msgid "anketo_0002_0000_choice"
-msgstr "Personnages"
+msgstr "J'espère voir les héros de la série."
 
 msgid "anketo_0002_0001_choice"
-msgstr "Histoires"
+msgstr "J'espère en apprendre plus sur l'histoire."
 
 msgid "anketo_0002_0002_choice"
-msgstr "Musiques"
+msgstr "Je viens pour les musiques."
 
 msgid "anketo_0002_0003_choice"
-msgstr "Danses"
+msgstr "Je viens pour les chorégraphies."
 
 msgid "anketo_0002_0004_choice"
-msgstr "Vakyries"
+msgstr "Je veux voir les Valkyries."
 
 msgid "anketo_0002_0005_choice"
-msgstr "Jeu de rythme"
+msgstr "Je suis là juste pour le jeu de rythme."
