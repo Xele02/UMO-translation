@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/ko/>\n"
@@ -925,10 +925,10 @@ msgid "musicName_0032_storyTitle"
 msgstr ""
 
 msgid "musicName_0033_musicname"
-msgstr "이별의 날개 ~  the end of triangle"
+msgstr "이별의 날개 ~ the end of triangle"
 
 msgid "musicName_0033_officialName"
-msgstr "이별의 날개 ~  the end of triangle"
+msgstr "이별의 날개 ~ the end of triangle"
 
 msgid "musicName_0033_vocalName"
 msgstr "셰릴 놈 starring May'n, 란카 리＝나카지마 메구미"
@@ -963,8 +963,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0034_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0034_description"
 msgstr ""
@@ -1097,8 +1098,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0039_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0039_description"
 msgstr ""
@@ -3855,10 +3857,10 @@ msgstr ""
 "작곡: 와타나베 미키"
 
 msgid "musicName_0151_musicname"
-msgstr "이별의 날개~ the end of triangle"
+msgstr "이별의 날개 ~ the end of triangle"
 
 msgid "musicName_0151_officialName"
-msgstr "이별의 날개~ the end of triangle"
+msgstr "이별의 날개 ~ the end of triangle"
 
 msgid "musicName_0151_vocalName"
 msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
