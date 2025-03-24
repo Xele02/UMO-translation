@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -271,48 +271,93 @@ msgstr "신통합군의 주력 가변형 전투기."
 
 msgid "e_dsc_0031"
 msgstr ""
+"델타 소대의 파일럿, 미라쥬의 탑승기.\n"
+"멋대로 구는 하야테에 질려서\n"
+"어쩔 수 없이 쫓아온 것 같다."
 
 msgid "e_dsc_0032"
 msgstr ""
+"마크로스 콘첼이 극비리에 개발한\n"
+"자율형 무인 전투기. 샤론 애플로부터\n"
+"얻은 데이터가 인공지능에 적용되고 있다."
 
 msgid "e_dsc_0033"
 msgstr ""
+"이사무가 테스트 파일럿을 맡은 시제품.\n"
+"고도의 조종기술이 요구되지만, 항공역학을\n"
+"추구한 설계로 높은 운동 성능을 자랑한다."
 
 msgid "e_dsc_0034"
 msgstr ""
+"걸드가 테스트 파일럿으로 참여한 시제품.\n"
+"혁신적 기술의 정수를 모아 개발되어\n"
+"매우 고차원적인 성능을 갖추게 되었다."
 
 msgid "e_dsc_0035"
 msgstr ""
+"프론티어 함대를 습격한 초시공 생명체.\n"
+"이 개체에게 특별한 능력은 없으며, 평소와 같이\n"
+"스킬을 발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0036"
 msgstr ""
+"신 통합군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시대로의 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0037"
 msgstr ""
+"란카가 애용하는 바이오 셀룰러(생체 휴대폰).\n"
+"녹색과 주황색 2종류가 존재하며,\n"
+"음악 플레이어 등 다양한 기능을 가지고 있다."
 
 msgid "e_dsc_0038"
 msgstr ""
+"밀레느와 항상 함께 하는 은하긴털쥐.\n"
+"감정을 주고받는 능력을 가지고 있으며,\n"
+"항상 밀레느와 같은 표정을 짓고 있다."
 
 msgid "e_dsc_0039"
 msgstr ""
+"회유하는 은하 고래를 노리는 밀렵단의 모선.\n"
+"무리를 지키고 있는 흰 은하 고래를 상대로,\n"
+"반응탄을 사용하여 제거를 계획하고 있다."
 
 msgid "e_dsc_0040"
 msgstr ""
+"프론티어 함대를 습격한 초시공 생명체.\r\n"
+"이 개체에게 특별한 능력은 없으며, 평상시처럼\r\n"
+"스킬을 발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0041"
 msgstr ""
+"마크로스 콘첼이 극비리에 개발한\n"
+"자율형 무인 전투기. 샤론 애플로부터\n"
+"얻은 데이터가 인공지능에 적용되고 있다."
 
 msgid "e_dsc_0042"
 msgstr ""
+"신통합군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0043"
 msgstr ""
+"반통합군 조직 「헤임달」이 운용하는\n"
+"가변형 전투기. 양자 AI 시스템 「세이렌」\n"
+"에 의해 제어되는 드론(고스트)이다."
 
 msgid "e_dsc_0044"
 msgstr ""
+"젠트라디 군이 운용하는 대형 파워드 슈트.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0045"
 msgstr ""
+"신통합군의 주력 가변형 전투기.\n"
+"특별한 능력은 없으며, 평상시처럼 스킬을\n"
+"발휘할 수 있다면 격퇴는 어렵지 않다."
 
 msgid "e_dsc_0046"
 msgstr ""
@@ -963,7 +1008,7 @@ msgid "a_dsc_0022"
 msgstr "[dv]초간 노트 탭 시 콤보 수 50당 [v1]% 스코어 상승"
 
 msgid "a_dsc_0023"
-msgstr ""
+msgstr "[dv2]초간 매초 라이프가 [v1] 감소하고 스코어가 [v2]% 상승"
 
 msgid "a_dsc_0024"
 msgstr "[dv]초간 스코어가 [v1]% 상승 (2회 사용 가능)"
@@ -3852,25 +3897,25 @@ msgid "cos_0004"
 msgstr "블라우 블루메"
 
 msgid "cos_0005"
-msgstr ""
+msgstr "기모노 슈틸"
 
 msgid "cos_0006"
-msgstr ""
+msgstr "포아 슈토스"
 
 msgid "cos_0007"
-msgstr ""
+msgstr "힙쉬 콸레"
 
 msgid "cos_0008"
-msgstr ""
+msgstr "에어스테 리베"
 
 msgid "cos_0009"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0010"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0011"
-msgstr ""
+msgstr "가넷 틴"
 
 msgid "cos_0012"
 msgstr ""
@@ -21747,43 +21792,43 @@ msgid "rn_0016"
 msgstr "여름이다! 바다다! 수영복De Show!"
 
 msgid "rn_0017"
-msgstr ""
+msgstr "파스텔♡SUMMER"
 
 msgid "rn_0018"
-msgstr ""
+msgstr "기다렸지! Fire Bomber 등장!"
 
 msgid "rn_0019"
-msgstr ""
+msgstr "은하의 요정"
 
 msgid "rn_0020"
-msgstr ""
+msgstr "민메이 버스데이"
 
 msgid "rn_0021"
-msgstr ""
+msgstr "Happy Hacking Halloween"
 
 msgid "rn_0022"
-msgstr ""
+msgstr "충격 데뷔 스테이지"
 
 msgid "rn_0023"
-msgstr ""
+msgstr "다이너마이트7"
 
 msgid "rn_0024"
 msgstr "결단 오버로드"
 
 msgid "rn_0025"
-msgstr ""
+msgstr "이별의 날개"
 
 msgid "rn_0026"
-msgstr ""
+msgstr "크로스오버 LIVE(FB편)"
 
 msgid "rn_0027"
 msgstr ""
 
 msgid "rn_0028"
-msgstr ""
+msgstr "Happy Merry Xmas ~2017~"
 
 msgid "rn_0029"
-msgstr ""
+msgstr "초시공 카운트다운 라이브 '17"
 
 msgid "rn_0030"
 msgstr ""
@@ -21795,7 +21840,7 @@ msgid "rn_0032"
 msgstr ""
 
 msgid "rn_0033"
-msgstr ""
+msgstr "sexy monsoon"
 
 msgid "rn_0034"
 msgstr ""
@@ -21816,19 +21861,19 @@ msgid "rn_0039"
 msgstr ""
 
 msgid "rn_0040"
-msgstr ""
+msgstr "0-G Love"
 
 msgid "rn_0041"
-msgstr ""
+msgstr "d슈디스타b"
 
 msgid "rn_0042"
-msgstr ""
+msgstr "숙명θ노바틱"
 
 msgid "rn_0043"
-msgstr ""
+msgstr "파란만장 만우절"
 
 msgid "rn_0044"
-msgstr ""
+msgstr "상냥함 SAYONARA"
 
 msgid "rn_0045"
 msgstr ""
@@ -21837,13 +21882,13 @@ msgid "rn_0046"
 msgstr ""
 
 msgid "rn_0047"
-msgstr ""
+msgstr "SUBMARINE MEMORY"
 
 msgid "rn_0048"
-msgstr ""
+msgstr "광속 클라이 max☆stage"
 
 msgid "rn_0049"
-msgstr ""
+msgstr "울상 웨딩"
 
 msgid "rn_0050"
 msgstr ""
@@ -21852,10 +21897,10 @@ msgid "rn_0051"
 msgstr ""
 
 msgid "rn_0052"
-msgstr ""
+msgstr "SEVENTH MOON NIGHT"
 
 msgid "rn_0053"
-msgstr ""
+msgstr "날아라! 초시공 요새 마크로스"
 
 msgid "rn_0054"
 msgstr ""
@@ -21864,16 +21909,16 @@ msgid "rn_0055"
 msgstr ""
 
 msgid "rn_0056"
-msgstr ""
+msgstr "SUNSET RESORT"
 
 msgid "rn_0057"
 msgstr ""
 
 msgid "rn_0058"
-msgstr ""
+msgstr "발키리 오퍼레이션"
 
 msgid "rn_0059"
-msgstr ""
+msgstr "가희 오퍼레이션"
 
 msgid "rn_0060"
 msgstr ""
@@ -21888,7 +21933,7 @@ msgid "rn_0063"
 msgstr ""
 
 msgid "rn_0064"
-msgstr ""
+msgstr "메모리얼 런너"
 
 msgid "rn_0065"
 msgstr ""
@@ -21900,10 +21945,10 @@ msgid "rn_0067"
 msgstr ""
 
 msgid "rn_0068"
-msgstr ""
+msgstr "Queen's Birthday"
 
 msgid "rn_0069"
-msgstr ""
+msgstr "Walküre! THUNDER GLOW"
 
 msgid "rn_0070"
 msgstr ""
@@ -29757,7 +29802,7 @@ msgid "dc_itm_nm_0045_sp"
 msgstr ""
 
 msgid "dc_itm_nm_0046_sp"
-msgstr "바사라 (크로스오버 비트)"
+msgstr "바사라(크로스오버 비트)"
 
 msgid "dc_itm_nm_0047_sp"
 msgstr ""
