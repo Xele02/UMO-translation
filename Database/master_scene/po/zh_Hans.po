@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-22 16:26+0000\n"
+"PO-Revision-Date: 2025-03-29 08:59+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -24,7 +24,7 @@ msgid "sn_0003"
 msgstr "从今天起你就是Walküre的一员了"
 
 msgid "sn_0004"
-msgstr "虽说和我的预期有些出入"
+msgstr "虽说和预期有些出入"
 
 msgid "sn_0005"
 msgstr "不要直勾勾地盯着看啦！"
@@ -33,7 +33,7 @@ msgid "sn_0006"
 msgstr "特殊对待"
 
 msgid "sn_0007"
-msgstr "我要驾驶它翱翔天际"
+msgstr "我要乘上它翱翔天际"
 
 msgid "sn_0008"
 msgstr "阿拉德队长的邀请"
@@ -1962,7 +1962,7 @@ msgid "sn_0721"
 msgstr "带你前往魅力世界"
 
 msgid "sn_0723"
-msgstr "我会用歌声震撼银河！"
+msgstr "我会让我的歌声响彻银河！"
 
 msgid "sn_0724"
 msgstr "尘埃落定之刻"
@@ -2013,7 +2013,7 @@ msgid "sn_0740"
 msgstr "为何心事重重？"
 
 msgid "sn_0741"
-msgstr "经过折叠就能飞翔"
+msgstr "折叠过后就能飞翔"
 
 msgid "sn_0742"
 msgstr "YF-25 普洛菲斯"
@@ -2175,178 +2175,178 @@ msgid "sn_0801"
 msgstr "I can't wait！"
 
 msgid "sn_0802"
-msgstr "只有歌声才能证明我活着"
+msgstr "只有唱歌才能证明我活着"
 
 msgid "sn_0803"
-msgstr "怎么现在才发觉！"
+msgstr "事到如今才发现"
 
 msgid "sn_0804"
-msgstr ""
+msgstr "一览众山小"
 
 msgid "sn_0805"
-msgstr ""
+msgstr "Electronic Lovers"
 
 msgid "sn_0807"
-msgstr ""
+msgstr "无论如何都要一起唱"
 
 msgid "sn_0808"
-msgstr ""
+msgstr "王牌的血脉"
 
 msgid "sn_0809"
-msgstr ""
+msgstr "父子的合照"
 
 msgid "sn_0810"
-msgstr ""
+msgstr "没电了…"
 
 msgid "sn_0811"
-msgstr ""
+msgstr "不用着急谢我！"
 
 msgid "sn_0812"
-msgstr ""
+msgstr "一起吃吗？"
 
 msgid "sn_0813"
-msgstr ""
+msgstr "传说再现"
 
 msgid "sn_0814"
-msgstr ""
+msgstr "父亲捡来的吊坠"
 
 msgid "sn_0815"
-msgstr ""
+msgstr "查克的手工便当"
 
 msgid "sn_0816"
-msgstr ""
+msgstr "翼装飞行"
 
 msgid "sn_0817"
-msgstr ""
+msgstr "Mystic Voice"
 
 msgid "sn_0819"
-msgstr ""
+msgstr "只想和你们一起唱"
 
 msgid "sn_0820"
-msgstr ""
+msgstr "你是为了什么而唱？"
 
 msgid "sn_0821"
-msgstr ""
+msgstr "撼动行星的远古之歌"
 
 msgid "sn_0822"
-msgstr ""
+msgstr "龙鸟阿古纳斯"
 
 msgid "sn_0823"
-msgstr ""
+msgstr "云云卡哇哇~！"
 
 msgid "sn_0824"
-msgstr ""
+msgstr "无论跌倒多少次"
 
 msgid "sn_0825"
-msgstr ""
+msgstr "死神之风"
 
 msgid "sn_0826"
-msgstr ""
+msgstr "送给我歌声的人"
 
 msgid "sn_0827"
-msgstr ""
+msgstr "被扯下的伪装"
 
 msgid "sn_0828"
-msgstr ""
+msgstr "恶魔之翼"
 
 msgid "sn_0829"
-msgstr ""
+msgstr "相遇与别离"
 
 msgid "sn_0830"
-msgstr ""
+msgstr "再见，明美"
 
 msgid "sn_0831"
-msgstr ""
+msgstr "萦绕耳畔的歌声"
 
 msgid "sn_0832"
-msgstr ""
+msgstr "未沙的告白"
 
 msgid "sn_0833"
-msgstr ""
+msgstr "求你不要去！"
 
 msgid "sn_0834"
-msgstr ""
+msgstr "军人的身份"
 
 msgid "sn_0835"
-msgstr ""
+msgstr "总司令"
 
 msgid "sn_0836"
-msgstr ""
+msgstr "回到那个时候"
 
 msgid "sn_0837"
-msgstr ""
+msgstr "Macross飞起来了！"
 
 msgid "sn_0838"
-msgstr ""
+msgstr "甩开的手"
 
 msgid "sn_0839"
-msgstr ""
+msgstr "残存的敌军"
 
 msgid "sn_0840"
-msgstr ""
+msgstr "Macross倒下了"
 
 msgid "sn_0841"
-msgstr ""
+msgstr "HIKARI 照亮未来的光"
 
 msgid "sn_0842"
-msgstr ""
+msgstr "新年快乐☆歌姬演舞"
 
 msgid "sn_0843"
-msgstr ""
+msgstr "歌声是沟通的桥梁"
 
 msgid "sn_0844"
-msgstr ""
+msgstr "感受内心的萌动"
 
 msgid "sn_0845"
-msgstr ""
+msgstr "相册中的照片"
 
 msgid "sn_0846"
-msgstr ""
+msgstr "亲手递出的照片"
 
 msgid "sn_0847"
-msgstr ""
+msgstr "Walküre FLY HIGH！"
 
 msgid "sn_0848"
-msgstr ""
+msgstr "别摆出那样丧气的表情"
 
 msgid "sn_0849"
-msgstr ""
+msgstr "送死的人只要一个就够了"
 
 msgid "sn_0853"
-msgstr ""
+msgstr "希望之光"
 
 msgid "sn_0854"
-msgstr ""
+msgstr "悠久的繁星之歌"
 
 msgid "sn_0855"
-msgstr ""
+msgstr "你做的很棒"
 
 msgid "sn_0856"
-msgstr ""
+msgstr "只是尽我所能"
 
 msgid "sn_0857"
-msgstr ""
+msgstr "哀悼的雪"
 
 msgid "sn_0858"
-msgstr ""
+msgstr "感谢你的掩护"
 
 msgid "sn_0859"
-msgstr ""
+msgstr "举手之劳，何足挂齿"
 
 msgid "sn_0860"
-msgstr ""
+msgstr "给我好好收下！"
 
 msgid "sn_0861"
-msgstr ""
+msgstr "这就是S.M.S的战斗方式"
 
 msgid "sn_0862"
-msgstr ""
+msgstr "四分之一的巨人"
 
 msgid "sn_0863"
-msgstr ""
+msgstr "多重锁定"
 
 msgid "sn_0864"
-msgstr ""
+msgstr "一击贯穿银河"
 
 msgid "sn_0865"
 msgstr ""
