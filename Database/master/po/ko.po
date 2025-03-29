@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-03-29 21:38+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -3918,13 +3918,13 @@ msgid "cos_0011"
 msgstr "가넷 틴"
 
 msgid "cos_0012"
-msgstr ""
+msgstr "블라우어 에테르"
 
 msgid "cos_0013"
 msgstr ""
 
 msgid "cos_0014"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0015"
 msgstr ""
@@ -3954,7 +3954,7 @@ msgid "cos_0023"
 msgstr ""
 
 msgid "cos_0024"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0025"
 msgstr ""
@@ -3963,10 +3963,10 @@ msgid "cos_0026"
 msgstr ""
 
 msgid "cos_0027"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0028"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0029"
 msgstr ""
@@ -4026,13 +4026,13 @@ msgid "cos_0047"
 msgstr ""
 
 msgid "cos_0048"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0049"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0050"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0051"
 msgstr ""
@@ -4080,7 +4080,7 @@ msgid "cos_0065"
 msgstr ""
 
 msgid "cos_0066"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0067"
 msgstr ""
@@ -4092,7 +4092,7 @@ msgid "cos_0069"
 msgstr ""
 
 msgid "cos_0070"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0071"
 msgstr ""
@@ -4104,16 +4104,16 @@ msgid "cos_0073"
 msgstr ""
 
 msgid "cos_0074"
-msgstr ""
+msgstr "크로스오버 스위트"
 
 msgid "cos_0075"
-msgstr ""
+msgstr "기모노 래빗"
 
 msgid "cos_0076"
 msgstr ""
 
 msgid "cos_0077"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0078"
 msgstr ""
@@ -4134,13 +4134,13 @@ msgid "cos_0083"
 msgstr ""
 
 msgid "cos_0084"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0085"
-msgstr ""
+msgstr "리틀 고스트"
 
 msgid "cos_0086"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0087"
 msgstr ""
@@ -4155,7 +4155,7 @@ msgid "cos_0090"
 msgstr "블라우 블루메"
 
 msgid "cos_0091"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0092"
 msgstr ""
@@ -4914,7 +4914,7 @@ msgid "cos_0003_01"
 msgstr "로트 케이프헨"
 
 msgid "cos_0004_01"
-msgstr ""
+msgstr "로테 블루메"
 
 msgid "cos_0005_01"
 msgstr ""
@@ -4929,16 +4929,16 @@ msgid "cos_0008_01"
 msgstr ""
 
 msgid "cos_0009_01"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0010_01"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0011_01"
 msgstr ""
 
 msgid "cos_0012_01"
-msgstr ""
+msgstr "블라우어 에테르"
 
 msgid "cos_0013_01"
 msgstr ""
@@ -4974,7 +4974,7 @@ msgid "cos_0023_01"
 msgstr ""
 
 msgid "cos_0024_01"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0025_01"
 msgstr ""
@@ -4983,10 +4983,10 @@ msgid "cos_0026_01"
 msgstr ""
 
 msgid "cos_0027_01"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0028_01"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0029_01"
 msgstr ""
@@ -5046,13 +5046,13 @@ msgid "cos_0047_01"
 msgstr ""
 
 msgid "cos_0048_01"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0049_01"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0050_01"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0051_01"
 msgstr ""
@@ -5070,7 +5070,7 @@ msgid "cos_0055_01"
 msgstr ""
 
 msgid "cos_0056_01"
-msgstr ""
+msgstr "카나메 의상 016"
 
 msgid "cos_0057_01"
 msgstr ""
@@ -5100,7 +5100,7 @@ msgid "cos_0065_01"
 msgstr ""
 
 msgid "cos_0066_01"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0067_01"
 msgstr ""
@@ -5112,7 +5112,7 @@ msgid "cos_0069_01"
 msgstr ""
 
 msgid "cos_0070_01"
-msgstr ""
+msgstr "마키나 의상 010"
 
 msgid "cos_0071_01"
 msgstr ""
@@ -5121,28 +5121,28 @@ msgid "cos_0072_01"
 msgstr ""
 
 msgid "cos_0073_01"
-msgstr ""
+msgstr "마키나 의상 013"
 
 msgid "cos_0074_01"
-msgstr ""
+msgstr "마키나 의상 014"
 
 msgid "cos_0075_01"
-msgstr ""
+msgstr "마키나 의상 015"
 
 msgid "cos_0076_01"
-msgstr ""
+msgstr "마키나 의상 016"
 
 msgid "cos_0077_01"
-msgstr ""
+msgstr "마키나 의상 017"
 
 msgid "cos_0078_01"
-msgstr ""
+msgstr "마키나 의상 018"
 
 msgid "cos_0079_01"
-msgstr ""
+msgstr "마키나 의상 019"
 
 msgid "cos_0080_01"
-msgstr ""
+msgstr "마키나 의상 020"
 
 msgid "cos_0081_01"
 msgstr "왈큐레 유니폼"
@@ -5154,28 +5154,28 @@ msgid "cos_0083_01"
 msgstr ""
 
 msgid "cos_0084_01"
-msgstr ""
+msgstr "에델 슈반"
 
 msgid "cos_0085_01"
-msgstr ""
+msgstr "리틀 고스트"
 
 msgid "cos_0086_01"
-msgstr ""
+msgstr "레조난츠"
 
 msgid "cos_0087_01"
 msgstr ""
 
 msgid "cos_0088_01"
-msgstr ""
+msgstr "레이나 의상 008"
 
 msgid "cos_0089_01"
-msgstr ""
+msgstr "레이나 의상 009"
 
 msgid "cos_0090_01"
-msgstr ""
+msgstr "로테 블루메"
 
 msgid "cos_0091_01"
-msgstr ""
+msgstr "라이덴샤프트"
 
 msgid "cos_0092_01"
 msgstr ""
@@ -27426,19 +27426,19 @@ msgid "dc_itm_nm_0218_obj"
 msgstr ""
 
 msgid "dc_itm_nm_0219_obj"
-msgstr ""
+msgstr "할로윈 호박"
 
 msgid "dc_itm_nm_0223_obj"
-msgstr ""
+msgstr "룬이 반짝하고 빛나면"
 
 msgid "dc_itm_nm_0224_obj"
-msgstr ""
+msgstr "단 한 번의 사랑이라면"
 
 msgid "dc_itm_nm_0225_obj"
-msgstr ""
+msgstr "아이모"
 
 msgid "dc_itm_nm_0226_obj"
-msgstr ""
+msgstr "사수자리☆오후 9시 Don't be late"
 
 msgid "dc_itm_nm_0227_obj"
 msgstr "PLANET DANCE"
