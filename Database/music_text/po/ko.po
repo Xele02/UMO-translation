@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-03-29 21:38+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/ko/>\n"
@@ -1158,8 +1158,10 @@ msgstr "왈큐레 (레이나Δ토야마 나오, 미쿠모ΔJUNNA, 프레이아Δ
 "카나메Δ야스노 키요노, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0041_vocalNameLF"
-msgstr "왈큐레 (레이나Δ토야마 나오, 미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, "
-"카나메Δ야스노 키요노, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (레이나Δ토야마 나오, 미쿠모ΔJUNNA,\n"
+"프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노,\n"
+"마키나Δ니시다 노조미)"
 
 msgid "musicName_0041_description"
 msgstr ""
@@ -1190,8 +1192,9 @@ msgstr "왈큐레 (프레이아Δ스즈키 미노리, 미쿠모ΔJUNNA, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0042_vocalNameLF"
-msgstr "왈큐레 (프레이아Δ스즈키 미노리, 미쿠모ΔJUNNA, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (프레이아Δ스즈키 미노리, 미쿠모ΔJUNNA,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0042_description"
 msgstr ""
@@ -1524,8 +1527,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0054_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0054_description"
 msgstr ""
@@ -1599,8 +1603,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0057_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0057_description"
 msgstr ""
@@ -1761,8 +1766,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0063_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0063_description"
 msgstr ""
@@ -2010,8 +2016,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0073_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0073_description"
 msgstr ""
@@ -2090,8 +2097,9 @@ msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나�
 "레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0076_vocalNameLF"
-msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
-"레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
+msgstr ""
+"왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리,\n"
+"카나메Δ야스노 키요노, 레이나Δ토야마 나오, 마키나Δ니시다 노조미)"
 
 msgid "musicName_0076_description"
 msgstr ""
@@ -2112,16 +2120,18 @@ msgid "musicName_0076_storyTitle"
 msgstr "괜찮아, 우리라면 할 수 있어!'"
 
 msgid "musicName_0077_musicname"
-msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
+msgstr "GIRAFFE BLUES ~Kaname Solo Requiem~"
 
 msgid "musicName_0077_officialName"
-msgstr "GIRAFFE BLUES〜Kaname Solo Requiem〜"
+msgstr "GIRAFFE BLUES ~Kaname Solo Requiem~"
 
 msgid "musicName_0077_vocalName"
 msgstr "왈큐레 (카나메Δ야스노 키요노, 미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리)"
 
 msgid "musicName_0077_vocalNameLF"
-msgstr "왈큐레 (카나메Δ야스노 키요노, 미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리)"
+msgstr ""
+"왈큐레 (카나메Δ야스노 키요노,\n"
+"미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리)"
 
 msgid "musicName_0077_description"
 msgstr ""
@@ -2171,10 +2181,10 @@ msgstr ""
 "작곡: 칸노 요코"
 
 msgid "musicName_0080_musicname"
-msgstr "ルンがピカッと光ったら"
+msgstr "룬이 반짝하고 빛나면"
 
 msgid "musicName_0080_officialName"
-msgstr "ルンがピカッと光ったら"
+msgstr "룬이 반짝하고 빛나면"
 
 msgid "musicName_0080_vocalName"
 msgstr "왈큐레 (미쿠모ΔJUNNA, 프레이아Δ스즈키 미노리, 카나메Δ야스노 키요노, "
