@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-03-29 21:38+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "diva005/ko/>\n"
@@ -16,6 +16,8 @@ msgstr ""
 
 msgid "talk_time_01"
 msgstr ""
+"쉴 때는 맘껏 쉴래...\n"
+"풀썩~…"
 
 msgid "talk_time_02"
 msgstr ""
@@ -24,6 +26,8 @@ msgstr ""
 
 msgid "talk_time_03"
 msgstr ""
+"해파리는 날 것이 좋아.\n"
+"조리 불필요"
 
 msgid "talk_time_04"
 msgstr ""
@@ -32,24 +36,34 @@ msgstr ""
 
 msgid "talk_time_05"
 msgstr ""
+"내가 해킹할 수\n"
+"없는 것은, 없어"
 
 msgid "talk_time_06"
 msgstr ""
+"나한테서 도망치려 하다니, 어설퍼.\n"
+"위치 파악은 내 특기"
 
 msgid "talk_time_07"
 msgstr "♪~"
 
 msgid "talk_time_08"
 msgstr ""
+"...! 마키나가 위험?\n"
+"가야만 해"
 
 msgid "talk_login_01"
 msgstr ""
+"아침. 오늘도 힘낼래.\n"
+"같이"
 
 msgid "talk_login_02"
 msgstr ""
+"라그냥냥, 가자.\n"
+"점심 먹자"
 
 msgid "talk_login_03"
-msgstr ""
+msgstr "석양, 새빨개"
 
 msgid "talk_login_04"
 msgstr ""
