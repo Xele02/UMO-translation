@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -291,259 +291,259 @@ msgid "e_dsc_0046"
 msgstr ""
 
 msgid "c_nm_0001"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0002"
-msgstr ""
+msgstr "Star Plate+"
 
 msgid "c_nm_0003"
-msgstr ""
+msgstr "Love Plate+"
 
 msgid "c_nm_0004"
-msgstr ""
+msgstr "Life Plate+"
 
 msgid "c_nm_0005"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0006"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0007"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0008"
-msgstr ""
+msgstr "HP+"
 
 msgid "c_nm_0009"
-msgstr ""
+msgstr "Support+"
 
 msgid "c_nm_0010"
-msgstr ""
+msgstr "Fold+"
 
 msgid "c_nm_0011"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0012"
-msgstr ""
+msgstr "HP+"
 
 msgid "c_nm_0013"
-msgstr ""
+msgstr "Star Plate+"
 
 msgid "c_nm_0014"
-msgstr ""
+msgstr "Love Plate+"
 
 msgid "c_nm_0015"
-msgstr ""
+msgstr "Life Plate+"
 
 msgid "c_nm_0016"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0017"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0018"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0019"
-msgstr ""
+msgstr "Support+"
 
 msgid "c_nm_0020"
-msgstr ""
+msgstr "Fold+"
 
 msgid "c_nm_0021"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0022"
-msgstr ""
+msgstr "Star Plate+"
 
 msgid "c_nm_0023"
-msgstr ""
+msgstr "Love Plate+"
 
 msgid "c_nm_0024"
-msgstr ""
+msgstr "Life Plate+"
 
 msgid "c_nm_0025"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0026"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0027"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0028"
-msgstr ""
+msgstr "HP+"
 
 msgid "c_nm_0029"
-msgstr ""
+msgstr "Support+"
 
 msgid "c_nm_0030"
-msgstr ""
+msgstr "Fold+"
 
 msgid "c_nm_0031"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0032"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0033"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_nm_0034"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0035"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0036"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_nm_0037"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0038"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0039"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_nm_0040"
-msgstr ""
+msgstr "EXP+"
 
 msgid "c_nm_0041"
-msgstr ""
+msgstr "Soul & Charm+"
 
 msgid "c_nm_0042"
-msgstr ""
+msgstr "Voice & Charm+"
 
 msgid "c_nm_0043"
-msgstr ""
+msgstr "Soul & Voice+"
 
 msgid "c_nm_0044"
-msgstr ""
+msgstr "Total A & Supp. A"
 
 msgid "c_nm_0045"
-msgstr ""
+msgstr "Total B & Supp. B"
 
 msgid "c_nm_0046"
-msgstr ""
+msgstr "Total A & HP A"
 
 msgid "c_nm_0047"
-msgstr ""
+msgstr "HP A & Support A"
 
 msgid "c_nm_0048"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0049"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0050"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0051"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0052"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0053"
-msgstr ""
+msgstr "Total+"
 
 msgid "c_nm_0054"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0055"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0056"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0057"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0058"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0059"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0060"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0061"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0062"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0063"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0064"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0065"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0066"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0067"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0068"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0069"
-msgstr ""
+msgstr "Soul+"
 
 msgid "c_nm_0070"
-msgstr ""
+msgstr "Voice+"
 
 msgid "c_nm_0071"
-msgstr ""
+msgstr "Charm+"
 
 msgid "c_nm_0072"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0073"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0074"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_nm_0075"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0076"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0077"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_nm_0078"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0079"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0080"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_nm_0081"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "c_nm_0082"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "c_nm_0083"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "c_dsc_0001"
-msgstr ""
+msgstr "Total team stats +[v1]％"
 
 msgid "c_dsc_0002"
-msgstr ""
+msgstr "Total Star Plate stats +[v1]％"
 
 msgid "c_dsc_0003"
 msgstr ""
@@ -570,13 +570,13 @@ msgid "c_dsc_0010"
 msgstr ""
 
 msgid "c_dsc_0011"
-msgstr ""
+msgstr "Total team stats +[v1]％"
 
 msgid "c_dsc_0012"
 msgstr ""
 
 msgid "c_dsc_0013"
-msgstr ""
+msgstr "Total Star Plate stats +[v1]％"
 
 msgid "c_dsc_0014"
 msgstr ""
@@ -600,10 +600,10 @@ msgid "c_dsc_0020"
 msgstr ""
 
 msgid "c_dsc_0021"
-msgstr ""
+msgstr "Total team stats +[v1]％"
 
 msgid "c_dsc_0022"
-msgstr ""
+msgstr "Total Star Plate stats +[v1]％"
 
 msgid "c_dsc_0023"
 msgstr ""
@@ -876,19 +876,19 @@ msgid "a_dsc_0003"
 msgstr ""
 
 msgid "a_dsc_0004"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s"
 
 msgid "a_dsc_0005"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s"
 
 msgid "a_dsc_0006"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s"
 
 msgid "a_dsc_0007"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s"
 
 msgid "a_dsc_0008"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s"
 
 msgid "a_dsc_0009"
 msgstr ""
@@ -3027,25 +3027,25 @@ msgid "ec_nm_0021"
 msgstr ""
 
 msgid "fc_nm_0001"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0002"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0003"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0004"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0005"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0006"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0007"
-msgstr ""
+msgstr "Total+"
 
 msgid "fc_nm_0008"
 msgstr ""
@@ -3054,106 +3054,106 @@ msgid "fc_nm_0009"
 msgstr ""
 
 msgid "fc_nm_0010"
-msgstr ""
+msgstr "Star Plate+"
 
 msgid "fc_nm_0011"
-msgstr ""
+msgstr "Star Song Total+"
 
 msgid "fc_nm_0012"
-msgstr ""
+msgstr "Love Plate+"
 
 msgid "fc_nm_0013"
-msgstr ""
+msgstr "Love Song Total+"
 
 msgid "fc_nm_0014"
-msgstr ""
+msgstr "Life Plate+"
 
 msgid "fc_nm_0015"
-msgstr ""
+msgstr "Life Song Total+"
 
 msgid "fc_nm_0016"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0017"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0018"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0019"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0020"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0021"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0022"
-msgstr ""
+msgstr "Charm+"
 
 msgid "fc_nm_0023"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0024"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0025"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0026"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0027"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0028"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0029"
-msgstr ""
+msgstr "Soul+"
 
 msgid "fc_nm_0030"
-msgstr ""
+msgstr "Soul & Charm+"
 
 msgid "fc_nm_0031"
-msgstr ""
+msgstr "Soul & Voice+"
 
 msgid "fc_nm_0032"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0033"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0034"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0035"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0036"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0037"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0038"
-msgstr ""
+msgstr "Voice+"
 
 msgid "fc_nm_0039"
-msgstr ""
+msgstr "Voice & Charm+"
 
 msgid "fc_nm_0040"
-msgstr ""
+msgstr "HP+"
 
 msgid "fc_nm_0041"
 msgstr ""
 
 msgid "fc_nm_0042"
-msgstr ""
+msgstr "Support+"
 
 msgid "fc_nm_0043"
-msgstr ""
+msgstr "Fold+"
 
 msgid "fa_nm_0001"
 msgstr ""
@@ -7707,19 +7707,19 @@ msgid "cos_reward_0006"
 msgstr ""
 
 msgid "cos_reward_status_0001"
-msgstr ""
+msgstr "Soul"
 
 msgid "cos_reward_status_0002"
-msgstr ""
+msgstr "Voice"
 
 msgid "cos_reward_status_0003"
-msgstr ""
+msgstr "Charm"
 
 msgid "cos_reward_status_0004"
-msgstr ""
+msgstr "HP"
 
 msgid "cos_reward_status_0005"
-msgstr ""
+msgstr "Support"
 
 msgid "cos_reward_status_0006"
 msgstr "Fold Waves"
@@ -7731,7 +7731,7 @@ msgid "cos_subplate_attr_0002"
 msgstr "Love Attribute"
 
 msgid "cos_subplate_attr_0003"
-msgstr "Destiny Attribute"
+msgstr "Life Attribute"
 
 msgid "cos_subplate_status_0001"
 msgstr ""
