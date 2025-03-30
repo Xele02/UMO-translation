@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -156,7 +156,7 @@ msgid "StringLiteral_10058"
 msgstr "Unavailable VcItemSceduleInfo id="
 
 msgid "StringLiteral_10062"
-msgstr "Within Period"
+msgstr "Within Period VcItemSceduleInfo id="
 
 msgid "StringLiteral_10064"
 msgstr "Products "
@@ -216,7 +216,7 @@ msgid "StringLiteral_10146"
 msgstr "{0:plural:Event Ticket|Event Tickets}"
 
 msgid "StringLiteral_10147"
-msgstr "{0:plural:Diva|Divas}"
+msgstr "Divas"
 
 msgid "StringLiteral_10148"
 msgstr "{0:plural:Set item|Set items}"
@@ -366,7 +366,7 @@ msgid "StringLiteral_11015"
 msgstr ""
 
 msgid "StringLiteral_11062"
-msgstr "Life"
+msgstr "HP"
 
 msgid "StringLiteral_11063"
 msgstr "Soul"
@@ -378,7 +378,7 @@ msgid "StringLiteral_11065"
 msgstr "Charm"
 
 msgid "StringLiteral_11066"
-msgstr "Center Skill"
+msgstr "Center Skills"
 
 msgid "StringLiteral_11067"
 msgstr "Active Skill"
@@ -396,7 +396,7 @@ msgid "StringLiteral_11071"
 msgstr ""
 
 msgid "StringLiteral_11072"
-msgstr "Expected Note Value"
+msgstr "Expect. Note Value"
 
 msgid "StringLiteral_11073"
 msgstr ""
@@ -1135,7 +1135,7 @@ msgid "StringLiteral_13053"
 msgstr "★[0-9]"
 
 msgid "StringLiteral_13085"
-msgstr "Item"
+msgstr "Items"
 
 msgid "StringLiteral_13101"
 msgstr "Under 5 mins."
@@ -1421,7 +1421,7 @@ msgid "StringLiteral_19639"
 msgstr "No time limit"
 
 msgid "StringLiteral_19612"
-msgstr "Set Team"
+msgstr "Team Selection"
 
 msgid "StringLiteral_19704"
 msgstr "Others' Deco Rooms: Via Profile"
@@ -1472,7 +1472,7 @@ msgid "StringLiteral_20470"
 msgstr ""
 
 msgid "StringLiteral_20864"
-msgstr ""
+msgstr "Auto Equip"
 
 msgid "StringLiteral_20882"
 msgstr ""
@@ -1910,13 +1910,13 @@ msgid "UMO_Next"
 msgstr "Next"
 
 msgid "UMO_Total"
-msgstr "TOTAL"
+msgstr "Total"
 
 msgid "UMO_Fold"
 msgstr "Fold Waves"
 
 msgid "UMO_Luck"
-msgstr "LUCK"
+msgstr "Luck"
 
 msgid "UMO_Status"
 msgstr "Stats"
@@ -1934,13 +1934,13 @@ msgid "UMO_LeafLabel"
 msgstr "Lucky Leaf Effects"
 
 msgid "UMO_Excellent"
-msgstr "EXCELLENT"
+msgstr "Excellent"
 
 msgid "UMO_CenterLiveSkillNote"
 msgstr "Center Live Skill Note Chance"
 
 msgid "UMO_Notes"
-msgstr "Expected Note Value"
+msgstr "Expect. Note Value"
 
 msgid "UMO_Heal"
 msgstr "Recovery"
@@ -1961,13 +1961,13 @@ msgid "UMO_NumLeft"
 msgstr "Times left"
 
 msgid "UMO_PlayAttr"
-msgstr "Song Attribute"
+msgstr "Song Attributes"
 
 msgid "UMO_PlayAttr2"
 msgstr "Attribute Priority"
 
 msgid "UMO_All"
-msgstr "ALL"
+msgstr "All"
 
 msgid "UMO_Attr1"
 msgstr "Star"
@@ -1985,7 +1985,7 @@ msgid "UMO_PlayStyleScore"
 msgstr "Score"
 
 msgid "UMO_PlayStyleLife"
-msgstr "Life"
+msgstr "HP"
 
 msgid "UMO_PlayStyleCombo"
 msgstr "Combos"
@@ -2076,3 +2076,12 @@ msgstr "SS Rank"
 
 msgid "StringLiteral_14411"
 msgstr "Please select an image sharing app."
+
+msgid "UMO_DisplaySwitch"
+msgstr "Display Settings"
+
+msgid "UMO_BgPlate"
+msgstr "Plate"
+
+msgid "UMO_Cancel"
+msgstr "Cancel"
