@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -90,10 +90,10 @@ msgid "popup_text_11"
 msgstr ""
 
 msgid "popup_text_12"
-msgstr ""
+msgstr "Unequip All Episode Plates"
 
 msgid "popup_text_14"
-msgstr ""
+msgstr "Auto Equip Episode Plates"
 
 msgid "popup_text_15"
 msgstr ""
@@ -111,10 +111,10 @@ msgid "popup_sort_title"
 msgstr ""
 
 msgid "popup_sort_title_unit"
-msgstr ""
+msgstr "Info Display Settings"
 
 msgid "popup_comparison_00"
-msgstr "Expected Note Value"
+msgstr "Expect. Note Value"
 
 msgid "popup_music_select_00"
 msgstr ""
@@ -135,7 +135,7 @@ msgid "popup_music_select_05"
 msgstr ""
 
 msgid "popup_music_select_06"
-msgstr ""
+msgstr "EXP"
 
 msgid "popup_music_select_07"
 msgstr ""
@@ -748,6 +748,9 @@ msgstr ""
 
 msgid "unit_clearplate_confirm_text"
 msgstr ""
+"This will remove all Episode Plates\n"
+"from the Divas on this team.\n"
+"Proceed?"
 
 msgid "unit_save_text"
 msgstr ""
@@ -828,7 +831,7 @@ msgid "header_desc_home201"
 msgstr ""
 
 msgid "header_desc_home202"
-msgstr ""
+msgstr "Put your team together"
 
 msgid "header_desc_home203"
 msgstr ""
@@ -879,7 +882,7 @@ msgid "header_desc_setting000"
 msgstr ""
 
 msgid "header_desc_setting001"
-msgstr ""
+msgstr "Put your team together"
 
 msgid "header_desc_setting002"
 msgstr ""
@@ -933,7 +936,7 @@ msgid "header_desc_story001"
 msgstr ""
 
 msgid "header_desc_story002"
-msgstr ""
+msgstr "Put your team together"
 
 msgid "header_desc_story003"
 msgstr ""
@@ -969,7 +972,7 @@ msgid "header_desc_free001"
 msgstr ""
 
 msgid "header_desc_free002"
-msgstr ""
+msgstr "Put your team together"
 
 msgid "header_desc_free003"
 msgstr ""
@@ -1020,7 +1023,7 @@ msgid "header_desc_free201"
 msgstr ""
 
 msgid "header_desc_free202"
-msgstr ""
+msgstr "Put your team together"
 
 msgid "header_desc_free203"
 msgstr ""
@@ -1113,7 +1116,7 @@ msgid "header_desc_evquest001"
 msgstr ""
 
 msgid "header_desc_evquest002"
-msgstr ""
+msgstr "Put your team together"
 
 msgid "header_desc_evquest003"
 msgstr ""
@@ -3254,7 +3257,7 @@ msgid "ar_sel_popup_shutdown_message"
 msgstr ""
 
 msgid "ar_sel_popup_shutdown_button_l"
-msgstr ""
+msgstr "Cancel"
 
 msgid "ar_sel_popup_shutdown_button_r"
 msgstr ""
@@ -3785,7 +3788,7 @@ msgid "pop_score_detail_item_name_03"
 msgstr ""
 
 msgid "pop_score_detail_item_name_04"
-msgstr ""
+msgstr "Center Skills"
 
 msgid "pop_score_detail_item_name_05"
 msgstr ""
@@ -4343,7 +4346,7 @@ msgid "missionevent_bonus_music_attribute002"
 msgstr "Love Attribute"
 
 msgid "missionevent_bonus_music_attribute003"
-msgstr "Destiny Attribute"
+msgstr "Life Attribute"
 
 msgid "missionevent_bonus_music_attribute004"
 msgstr ""
@@ -5030,7 +5033,7 @@ msgid "assistselect_attribute_red"
 msgstr "Love Attribute"
 
 msgid "assistselect_attribute_blue"
-msgstr "Destiny Attribute"
+msgstr "Life Attribute"
 
 msgid "assistselect_caution_01"
 msgstr ""
@@ -5168,22 +5171,22 @@ msgid "popup_sort_filter_reset"
 msgstr ""
 
 msgid "popup_sort_filter_all"
-msgstr ""
+msgstr "All"
 
 msgid "popup_sort_title_h1"
 msgstr ""
 
 msgid "popup_sort_item_total"
-msgstr ""
+msgstr "Total"
 
 msgid "popup_sort_item_soul"
-msgstr ""
+msgstr "Soul"
 
 msgid "popup_sort_item_voice"
-msgstr ""
+msgstr "Voice"
 
 msgid "popup_sort_item_charm"
-msgstr ""
+msgstr "Charm"
 
 msgid "popup_sort_item_get"
 msgstr ""
@@ -5195,13 +5198,13 @@ msgid "popup_sort_item_level"
 msgstr ""
 
 msgid "popup_sort_item_life"
-msgstr ""
+msgstr "HP"
 
 msgid "popup_sort_item_luck"
-msgstr ""
+msgstr "Luck"
 
 msgid "popup_sort_item_support"
-msgstr ""
+msgstr "Support"
 
 msgid "popup_sort_item_fold"
 msgstr "Fold Waves"
@@ -5231,7 +5234,7 @@ msgid "popup_sort_item_request"
 msgstr ""
 
 msgid "popup_sort_item_skill"
-msgstr ""
+msgstr "Skill"
 
 msgid "popup_sort_item_active_skill"
 msgstr ""
@@ -5240,7 +5243,7 @@ msgid "popup_sort_item_live_skill"
 msgstr ""
 
 msgid "popup_sort_item_episode"
-msgstr ""
+msgstr "Episode"
 
 msgid "popup_sort_item_secret_board"
 msgstr ""
@@ -5543,13 +5546,13 @@ msgid "popup_filter_godiva_music_exp_title_h2"
 msgstr ""
 
 msgid "popup_filter_godiva_music_exp_item_soul"
-msgstr ""
+msgstr "Soul"
 
 msgid "popup_filter_godiva_music_exp_item_voice"
-msgstr ""
+msgstr "Voice"
 
 msgid "popup_filter_godiva_music_exp_item_charm"
-msgstr ""
+msgstr "Charm"
 
 msgid "popup_godiva_status_title"
 msgstr ""
@@ -5636,7 +5639,7 @@ msgid "home_diva_view_status_havecostume_now_text"
 msgstr ""
 
 msgid "home_diva_view_status_totalstatus_text"
-msgstr ""
+msgstr "Total"
 
 msgid "home_diva_view_status_intimacyl_exp_text"
 msgstr ""
@@ -5657,7 +5660,7 @@ msgid "home_diva_statuswindow_costumebonus"
 msgstr ""
 
 msgid "home_diva_statuswindow_totlastatus"
-msgstr ""
+msgstr "Total"
 
 msgid "home_diva_statuswindow_title"
 msgstr ""
@@ -5669,13 +5672,13 @@ msgid "event_godiva_remain_time_prefix"
 msgstr ""
 
 msgid "sel_music_godiva_exp_type_soul"
-msgstr ""
+msgstr "Soul"
 
 msgid "sel_music_godiva_exp_type_voice"
-msgstr ""
+msgstr "Voice"
 
 msgid "sel_music_godiva_exp_type_charm"
-msgstr ""
+msgstr "Charm"
 
 msgid "sel_music_godiva_exp_type_all"
 msgstr ""
@@ -5876,7 +5879,7 @@ msgid "popup_filter_music_attribute_002"
 msgstr ""
 
 msgid "popup_filter_music_attribute_003"
-msgstr ""
+msgstr "Life"
 
 msgid "popup_filter_music_attribute_004"
 msgstr ""
@@ -5975,7 +5978,7 @@ msgid "unit_mv_mode_switch_button_off"
 msgstr ""
 
 msgid "unit_unitset_description"
-msgstr ""
+msgstr "Choose the team you want to use from the list."
 
 msgid "unit_unitset_page"
 msgstr ""
@@ -5993,22 +5996,22 @@ msgid "unit_status_skill_regulation_attr"
 msgstr ""
 
 msgid "popup_sort_item_music_exp"
-msgstr ""
+msgstr "EXP"
 
 msgid "unit_diva_status_titla_level"
 msgstr "Diva Lv."
 
 msgid "unit_diva_status_titla_total"
-msgstr ""
+msgstr "Total"
 
 msgid "unit_diva_status_titla_music_exp"
-msgstr ""
+msgstr "EXP"
 
 msgid "popup_unit_disp_type_scene"
-msgstr ""
+msgstr "Plate"
 
 msgid "popup_unit_disp_type_diva"
-msgstr ""
+msgstr "Divas"
 
 msgid "unit_playbutton_en"
 msgstr ""
@@ -6146,7 +6149,7 @@ msgid "popup_music_input_bookmarkname_deletecheck_text_01"
 msgstr ""
 
 msgid "popup_sort_item_notes_expectation"
-msgstr "Expected Note Value"
+msgstr "Expect. Note Value"
 
 msgid "music_not_exist_text_01"
 msgstr ""
