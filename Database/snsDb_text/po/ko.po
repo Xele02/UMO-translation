@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "snsdb_text/ko/>\n"
@@ -108,7 +108,7 @@ msgid "room_name_0031_txt"
 msgstr ""
 
 msgid "room_name_0032_txt"
-msgstr ""
+msgstr "다같이 도쿄 스카이트리"
 
 msgid "room_name_0033_txt"
 msgstr "sexy monsoon"
@@ -120,16 +120,16 @@ msgid "room_name_0035_txt"
 msgstr ""
 
 msgid "room_name_0036_txt"
-msgstr ""
+msgstr "영화관에 가자!"
 
 msgid "room_name_0037_txt"
-msgstr ""
+msgstr "멈추지 않아! 왈큐레 LIVE"
 
 msgid "room_name_0038_txt"
-msgstr ""
+msgstr "라이브에 오신 것을 환영합니다!"
 
 msgid "room_name_0039_txt"
-msgstr ""
+msgstr "무지개색 곰곰"
 
 msgid "room_name_0040_txt"
 msgstr "0-G Love"
@@ -147,10 +147,10 @@ msgid "room_name_0044_txt"
 msgstr "상냥함 SAYONARA"
 
 msgid "room_name_0045_txt"
-msgstr ""
+msgstr "거짓된 세계의 너에게"
 
 msgid "room_name_0046_txt"
-msgstr ""
+msgstr "fight on stage ~두 사람의 가희~"
 
 msgid "room_name_0047_txt"
 msgstr "SUBMARINE MEMORY"
@@ -162,10 +162,10 @@ msgid "room_name_0049_txt"
 msgstr "울상 웨딩"
 
 msgid "room_name_0050_txt"
-msgstr ""
+msgstr "유혹의 엘릭시아"
 
 msgid "room_name_0051_txt"
-msgstr ""
+msgstr "목숨을 건 사랑이라면"
 
 msgid "room_name_0052_txt"
 msgstr "SEVENTH MOON NIGHT"
@@ -177,7 +177,7 @@ msgid "room_name_0054_txt"
 msgstr ""
 
 msgid "room_name_0055_txt"
-msgstr ""
+msgstr "여름이다! 수영복이다! 왈우라 페스!"
 
 msgid "room_name_0056_txt"
 msgstr "SUNSET RESORT"
@@ -192,13 +192,13 @@ msgid "room_name_0059_txt"
 msgstr "가희 오퍼레이션"
 
 msgid "room_name_0060_txt"
-msgstr ""
+msgstr "New song Live ~제1탄~"
 
 msgid "room_name_0061_txt"
-msgstr ""
+msgstr "New song Live ~제2탄~"
 
 msgid "room_name_0062_txt"
-msgstr ""
+msgstr "New song Live ~제3탄~"
 
 msgid "room_name_0063_txt"
 msgstr ""
@@ -207,7 +207,7 @@ msgid "room_name_0064_txt"
 msgstr "메모리얼 런너"
 
 msgid "room_name_0065_txt"
-msgstr ""
+msgstr "질리틱♡Halloween"
 
 msgid "room_name_0066_txt"
 msgstr ""
@@ -222,13 +222,13 @@ msgid "room_name_0069_txt"
 msgstr "Walküre! THUNDER GLOW"
 
 msgid "room_name_0070_txt"
-msgstr ""
+msgstr "MAGICAL☆MY FRIENDS"
 
 msgid "room_name_0071_txt"
-msgstr ""
+msgstr "<size=20>산타클로스로 있을 순 없어!</size>"
 
 msgid "room_name_0072_txt"
-msgstr ""
+msgstr "초시공 카운트다운 라이브 '18"
 
 msgid "room_name_0073_txt"
 msgstr ""
@@ -243,10 +243,10 @@ msgid "room_name_0076_txt"
 msgstr ""
 
 msgid "room_name_0077_txt"
-msgstr ""
+msgstr "불확정성♡포메이션 댄스"
 
 msgid "room_name_0078_txt"
-msgstr ""
+msgstr "<size=20>little queen ~사랑, 기억하고 있습니까?~</size>"
 
 msgid "room_name_0079_txt"
 msgstr ""
@@ -255,70 +255,70 @@ msgid "room_name_0080_txt"
 msgstr ""
 
 msgid "room_name_0081_txt"
-msgstr ""
+msgstr "유성이 연주하는 선율"
 
 msgid "room_name_0082_txt"
-msgstr ""
+msgstr "어서오세요! 왈큐레★Party에"
 
 msgid "room_name_0083_txt"
 msgstr ""
 
 msgid "room_name_0084_txt"
-msgstr ""
+msgstr "우리들의 뷰티풀 플레이스"
 
 msgid "room_name_0085_txt"
-msgstr ""
+msgstr "Dancing in the Planet"
 
 msgid "room_name_0086_txt"
-msgstr ""
+msgstr "HOLY LONELY LIVE"
 
 msgid "room_name_0087_txt"
-msgstr ""
+msgstr "엔젤 브라이드"
 
 msgid "room_name_0088_txt"
-msgstr ""
+msgstr "사랑! 할레이션 THE DANCE"
 
 msgid "room_name_0089_txt"
-msgstr ""
+msgstr "<size=20>저 너머로 전하는 노래 ~인피니티#7~</size>"
 
 msgid "room_name_0090_txt"
-msgstr ""
+msgstr "넓은 하늘을 나는 소백룡"
 
 msgid "room_name_0091_txt"
-msgstr ""
+msgstr "순정 섬머 베케이션"
 
 msgid "room_name_0092_txt"
-msgstr ""
+msgstr "<size=20>여름의 일곱빛깔☆비타민 충전!</size>"
 
 msgid "room_name_0093_txt"
-msgstr ""
+msgstr "성간 랑데부★彡"
 
 msgid "room_name_0094_txt"
-msgstr ""
+msgstr "REMEMBER SUMMER"
 
 msgid "room_name_0095_txt"
-msgstr ""
+msgstr "Trick or Nyan? DIARY"
 
 msgid "room_name_0096_txt"
-msgstr ""
+msgstr "Trick or trap?"
 
 msgid "room_name_0097_txt"
-msgstr ""
+msgstr "<size=20>왈큐레의 버스데이♡파티</size>"
 
 msgid "room_name_0098_txt"
-msgstr ""
+msgstr "<size=20>Rock 'n' Roll~! …하지만 Baby!!</size>"
 
 msgid "room_name_0099_txt"
-msgstr ""
+msgstr "성스러운 밤의 울상SONG"
 
 msgid "room_name_0100_txt"
-msgstr ""
+msgstr "<size=20>SNOW FRONTIER ~종을 울려라!~</size>"
 
 msgid "room_name_0101_txt"
-msgstr ""
+msgstr "<size=20>새벽을 밝히는 새로운 빛 ~오벨리스크~</size>"
 
 msgid "room_name_0102_txt"
-msgstr ""
+msgstr "시간을 초월하는 사랑의 노래"
 
 msgid "room_name_0103_txt"
 msgstr ""
@@ -327,7 +327,7 @@ msgid "room_name_0104_txt"
 msgstr ""
 
 msgid "room_name_0105_txt"
-msgstr ""
+msgstr "WhiteDay Attack!"
 
 msgid "room_name_0106_txt"
 msgstr ""
