@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-22 16:27+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "diva002/ko/>\n"
@@ -21,6 +21,8 @@ msgstr ""
 
 msgid "talk_time_02"
 msgstr ""
+"자,\n"
+"어서 빨리 나를 즐겁게 해줘"
 
 msgid "talk_time_03"
 msgstr ""
@@ -144,6 +146,8 @@ msgstr ""
 
 msgid "touch_reaction_05"
 msgstr ""
+"자,\n"
+"어서 빨리 나를 즐겁게 해줘"
 
 msgid "touch_reaction_06"
 msgstr ""
@@ -182,7 +186,7 @@ msgid "intimacy_pointup_03"
 msgstr ""
 
 msgid "present_01"
-msgstr ""
+msgstr "고마워"
 
 msgid "present_02"
 msgstr ""
@@ -215,10 +219,10 @@ msgid "present_11"
 msgstr ""
 
 msgid "cs_touch_reaction_01"
-msgstr ""
+msgstr "나를 불렀어?"
 
 msgid "cs_touch_reaction_02"
-msgstr ""
+msgstr "여신의 노랫소리를 듣고 싶어?"
 
 msgid "cs_touch_reaction_03"
 msgstr ""
