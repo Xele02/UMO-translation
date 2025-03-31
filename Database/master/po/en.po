@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-31 15:06+0000\n"
+"PO-Revision-Date: 2025-04-03 10:20+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -630,31 +630,31 @@ msgid "c_dsc_0030"
 msgstr "Team Fold Waves +[v1]％"
 
 msgid "c_dsc_0031"
-msgstr "Star song total team stats +[v1]％"
+msgstr "Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0032"
-msgstr "Love song total team stats +[v1]％"
+msgstr "Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0033"
-msgstr "Life song total team stats +[v1]％"
+msgstr "Life songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0034"
-msgstr "Star song total team stats +[v1]％"
+msgstr "Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0035"
-msgstr "Love song total team stats +[v1]％"
+msgstr "Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0036"
-msgstr "Life song total team stats +[v1]％"
+msgstr "Life songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0037"
-msgstr "Star song total team stats +[v1]％"
+msgstr "Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0038"
-msgstr "Love song total team stats +[v1]％"
+msgstr "Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0039"
-msgstr "Life song total team stats +[v1]％"
+msgstr "Life songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0040"
 msgstr "Diva EXP +[v1]％"
@@ -681,159 +681,159 @@ msgid "c_dsc_0047"
 msgstr "Team HP & Support +[v1]％"
 
 msgid "c_dsc_0048"
-msgstr "Specified series song total team stats +[v1]％"
+msgstr "Specific series songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0049"
-msgstr "Macross Delta song total team stats +[v1]％ (When applicable)"
+msgstr "Macross Delta songs: Total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0050"
-msgstr "Macross Frontier song total team stats +[v1]％ (When applicable)"
+msgstr "Macross Frontier songs: Total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0051"
-msgstr "Macross 7 song total team stats +[v1]％ (When applicable)"
+msgstr "Macross 7 songs: Total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0052"
 msgstr ""
-"Super Dimension Fortress Macross song total team stats +[v1]％ (When "
+"Super Dimension Fortress Macross songs: Total team stats +[v1]％ (When "
 "applicable)"
 
 msgid "c_dsc_0053"
-msgstr "Others song total team stats +[v1]％ (When applicable)"
+msgstr "Others songs: Total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0054"
-msgstr "Specified series song team Soul +[v1]％"
+msgstr "Specific series songs: Team Soul +[v1]％"
 
 msgid "c_dsc_0055"
-msgstr "Specified series song team Voice +[v1]％"
+msgstr "Specific series songs: Team Voice +[v1]％"
 
 msgid "c_dsc_0056"
-msgstr ""
+msgstr "Specific series songs: Team Charm +[v1]％"
 
 msgid "c_dsc_0057"
-msgstr ""
+msgstr "Macross Delta songs: Team Soul +[v1]％"
 
 msgid "c_dsc_0058"
-msgstr ""
+msgstr "Macross Delta songs: Team Voice +[v1]％"
 
 msgid "c_dsc_0059"
-msgstr ""
+msgstr "Macross Delta songs: Team Charm +[v1]％"
 
 msgid "c_dsc_0060"
-msgstr ""
+msgstr "Macross Frontier songs: Team Soul +[v1]％"
 
 msgid "c_dsc_0061"
-msgstr ""
+msgstr "Macross Frontier songs: Team Voice +[v1]％"
 
 msgid "c_dsc_0062"
-msgstr ""
+msgstr "Macross Frontier songs: Team Charm +[v1]％"
 
 msgid "c_dsc_0063"
-msgstr ""
+msgstr "Macross 7 songs: Team Soul +[v1]％"
 
 msgid "c_dsc_0064"
-msgstr ""
+msgstr "Macross 7 songs: Team Voice +[v1]％"
 
 msgid "c_dsc_0065"
-msgstr ""
+msgstr "Macross 7 songs: Team Charm +[v1]％"
 
 msgid "c_dsc_0066"
-msgstr ""
+msgstr "Super Dimension Fortress Macross songs: Team Soul +[v1]％"
 
 msgid "c_dsc_0067"
-msgstr ""
+msgstr "Super Dimension Fortress Macross songs: Team Voice +[v1]％"
 
 msgid "c_dsc_0068"
-msgstr ""
+msgstr "Super Dimension Fortress Macross songs: Team Charm +[v1]％"
 
 msgid "c_dsc_0069"
-msgstr ""
+msgstr "Others songs: Team Soul +[v1]％"
 
 msgid "c_dsc_0070"
-msgstr ""
+msgstr "Others songs: Team Voice +[v1]％"
 
 msgid "c_dsc_0071"
-msgstr ""
+msgstr "Others songs: Team Charm +[v1]％"
 
 msgid "c_dsc_0072"
-msgstr ""
+msgstr "Macross Frontier Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0073"
-msgstr ""
+msgstr "Macross Frontier Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0074"
-msgstr ""
+msgstr "Macross Frontier Life songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0075"
-msgstr ""
+msgstr "Macross Delta Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0076"
-msgstr ""
+msgstr "Macross Delta Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0077"
-msgstr ""
+msgstr "Macross Delta Life songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0078"
-msgstr ""
+msgstr "Super Dimension Fortress Macross Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0079"
-msgstr ""
+msgstr "Super Dimension Fortress Macross Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0080"
-msgstr ""
+msgstr "Super Dimension Fortress Macross Life songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0081"
-msgstr ""
+msgstr "Macross 7 Star songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0082"
-msgstr ""
+msgstr "Macross 7 Love songs: Total team stats +[v1]％"
 
 msgid "c_dsc_0083"
-msgstr ""
+msgstr "Macross 7 Life songs: Total team stats +[v1]％"
 
 msgid "a_nm_0001"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "a_nm_0002"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "a_nm_0003"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "a_nm_0004"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0005"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0006"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0007"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0008"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0009"
-msgstr ""
+msgstr "No damage"
 
 msgid "a_nm_0010"
-msgstr ""
+msgstr "Damage–"
 
 msgid "a_nm_0011"
-msgstr ""
+msgstr "Damage–"
 
 msgid "a_nm_0012"
-msgstr ""
+msgstr "Damage–"
 
 msgid "a_nm_0013"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "a_nm_0014"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "a_nm_0015"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "a_nm_0016"
 msgstr ""
@@ -860,7 +860,7 @@ msgid "a_nm_0023"
 msgstr ""
 
 msgid "a_nm_0024"
-msgstr ""
+msgstr "Score+"
 
 msgid "a_nm_0025"
 msgstr ""
@@ -947,85 +947,85 @@ msgid "a_dsc_0026"
 msgstr ""
 
 msgid "l_nm_0001"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0002"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0003"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0004"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0005"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0006"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0007"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0008"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0009"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0010"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0011"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0012"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0013"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0014"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0015"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0016"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0017"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0018"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0019"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0020"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0021"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0022"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0023"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0024"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0025"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0026"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0027"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0028"
 msgstr ""
@@ -1052,73 +1052,73 @@ msgid "l_nm_0035"
 msgstr ""
 
 msgid "l_nm_0036"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0037"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0038"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0039"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0040"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0041"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0042"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0043"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0044"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0045"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0046"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0047"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0048"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0049"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0050"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0051"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0052"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0053"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0054"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0055"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0056"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0057"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0058"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0059"
 msgstr ""
@@ -1145,73 +1145,73 @@ msgid "l_nm_0066"
 msgstr ""
 
 msgid "l_nm_0067"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0068"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0069"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0070"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0071"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0072"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0073"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0074"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0075"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0076"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0077"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0078"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0079"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0080"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0081"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0082"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0083"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0084"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0085"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0086"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0087"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0088"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0089"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0090"
 msgstr ""
@@ -1238,49 +1238,49 @@ msgid "l_nm_0097"
 msgstr ""
 
 msgid "l_nm_0098"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0099"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0100"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0101"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0102"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0103"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0104"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0105"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0106"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0107"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0108"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0109"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0110"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0111"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0112"
-msgstr ""
+msgstr "Score+"
 
 msgid "l_nm_0113"
 msgstr ""
@@ -1298,7 +1298,7 @@ msgid "l_nm_0117"
 msgstr ""
 
 msgid "l_nm_0118"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0119"
 msgstr ""
@@ -1307,7 +1307,7 @@ msgid "l_nm_0120"
 msgstr ""
 
 msgid "l_nm_0121"
-msgstr ""
+msgstr "Damage–"
 
 msgid "l_nm_0122"
 msgstr ""
@@ -1349,7 +1349,7 @@ msgid "l_nm_0134"
 msgstr ""
 
 msgid "l_nm_0135"
-msgstr ""
+msgstr "No damage"
 
 msgid "l_nm_0136"
 msgstr ""
@@ -3164,7 +3164,7 @@ msgid "fa_nm_0002"
 msgstr ""
 
 msgid "fa_nm_0003"
-msgstr ""
+msgstr "No damage"
 
 msgid "fa_nm_0004"
 msgstr ""
@@ -3269,10 +3269,10 @@ msgid "fl_nm_0030"
 msgstr ""
 
 msgid "fl_nm_0031"
-msgstr ""
+msgstr "No damage"
 
 msgid "fl_nm_0032"
-msgstr ""
+msgstr "No damage"
 
 msgid "fl_nm_0033"
 msgstr ""
