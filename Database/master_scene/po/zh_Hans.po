@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -2325,7 +2325,7 @@ msgid "sn_0856"
 msgstr "只是尽我所能"
 
 msgid "sn_0857"
-msgstr "哀悼的雪"
+msgstr "哀伤的雪"
 
 msgid "sn_0858"
 msgstr "感谢你的掩护"
@@ -2349,70 +2349,70 @@ msgid "sn_0864"
 msgstr "一击贯穿银河"
 
 msgid "sn_0865"
-msgstr ""
+msgstr "怦然心动 Triangle"
 
 msgid "sn_0867"
-msgstr ""
+msgstr "街角的雪莉露"
 
 msgid "sn_0868"
-msgstr ""
+msgstr "喜欢性感的吗？"
 
 msgid "sn_0869"
-msgstr ""
+msgstr "意想不到的画面"
 
 msgid "sn_0870"
-msgstr ""
+msgstr "关我什么事…！！"
 
 msgid "sn_0871"
-msgstr ""
+msgstr "给我勇气吧"
 
 msgid "sn_0872"
-msgstr ""
+msgstr "轰动全场的转学生"
 
 msgid "sn_0873"
-msgstr ""
+msgstr "慌乱的男生们"
 
 msgid "sn_0874"
-msgstr ""
+msgstr "飞行员的忌讳"
 
 msgid "sn_0875"
-msgstr ""
+msgstr "早乙女家的大门"
 
 msgid "sn_0876"
-msgstr ""
+msgstr "格蕾丝的过去"
 
 msgid "sn_0877"
-msgstr ""
+msgstr "星光璀璨 Triangle"
 
 msgid "sn_0879"
-msgstr ""
+msgstr "街角的兰卡"
 
 msgid "sn_0880"
-msgstr ""
+msgstr "喜欢可爱的吗？"
 
 msgid "sn_0881"
-msgstr ""
+msgstr "亲爱的"
 
 msgid "sn_0882"
-msgstr ""
+msgstr "令人脸红的重逢"
 
 msgid "sn_0883"
-msgstr ""
+msgstr "看着我"
 
 msgid "sn_0884"
-msgstr ""
+msgstr "新来的转校生"
 
 msgid "sn_0885"
-msgstr ""
+msgstr "未送出的礼物"
 
 msgid "sn_0886"
-msgstr ""
+msgstr "压迫感十足"
 
 msgid "sn_0887"
-msgstr ""
+msgstr "阿尔特的觉悟"
 
 msgid "sn_0888"
-msgstr ""
+msgstr "兰卡娃娃"
 
 msgid "sn_0889"
 msgstr ""
