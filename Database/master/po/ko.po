@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-30 02:51+0000\n"
+"PO-Revision-Date: 2025-03-31 13:44+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -3921,19 +3921,19 @@ msgid "cos_0012"
 msgstr "블라우어 에테르"
 
 msgid "cos_0013"
-msgstr ""
+msgstr "슈테르넨 블라우"
 
 msgid "cos_0014"
 msgstr "라이덴샤프트"
 
 msgid "cos_0015"
-msgstr ""
+msgstr "라그냥냥 메사이어"
 
 msgid "cos_0016"
-msgstr ""
+msgstr "코즈믹 애플"
 
 msgid "cos_0017"
-msgstr ""
+msgstr "플로랄 섬머"
 
 msgid "cos_0018"
 msgstr ""
@@ -3981,7 +3981,7 @@ msgid "cos_0032"
 msgstr ""
 
 msgid "cos_0033"
-msgstr ""
+msgstr "플로랄 섬머"
 
 msgid "cos_0034"
 msgstr ""
@@ -4038,7 +4038,7 @@ msgid "cos_0051"
 msgstr ""
 
 msgid "cos_0052"
-msgstr ""
+msgstr "플로랄 섬머"
 
 msgid "cos_0053"
 msgstr ""
@@ -4101,7 +4101,7 @@ msgid "cos_0072"
 msgstr "블라우 블루메"
 
 msgid "cos_0073"
-msgstr ""
+msgstr "플로랄 섬머"
 
 msgid "cos_0074"
 msgstr "크로스오버 스위트"
@@ -4161,46 +4161,46 @@ msgid "cos_0092"
 msgstr ""
 
 msgid "cos_0093"
-msgstr ""
+msgstr "플로랄 섬머"
 
 msgid "cos_0094"
-msgstr ""
+msgstr "크로스오버 팅글"
 
 msgid "cos_0095"
-msgstr ""
+msgstr "티그링 벨"
 
 msgid "cos_0096"
-msgstr ""
+msgstr "기모노 폴리지"
 
 msgid "cos_0097"
-msgstr ""
+msgstr "스피츠 쇼콜라데"
 
 msgid "cos_0098"
-msgstr ""
+msgstr "크로스오버 큐리어스"
 
 msgid "cos_0099"
-msgstr ""
+msgstr "슈바르체 슈렘"
 
 msgid "cos_0100"
-msgstr ""
+msgstr "크발레 뮈토스"
 
 msgid "cos_0101"
-msgstr ""
+msgstr "성마리아학원 교복"
 
 msgid "cos_0102"
 msgstr ""
 
 msgid "cos_0103"
-msgstr ""
+msgstr "위시 오브 발큐리아"
 
 msgid "cos_0105"
-msgstr ""
+msgstr "펌프킨 위치"
 
 msgid "cos_0106"
-msgstr ""
+msgstr "골드 피쉬테일"
 
 msgid "cos_0107"
-msgstr ""
+msgstr "핑키 프티"
 
 msgid "cos_0108"
 msgstr ""
@@ -4212,10 +4212,10 @@ msgid "cos_0110"
 msgstr ""
 
 msgid "cos_0111"
-msgstr ""
+msgstr "란카 블로섬"
 
 msgid "cos_0112"
-msgstr ""
+msgstr "치어풀 에메랄드"
 
 msgid "cos_0113"
 msgstr ""
@@ -4224,7 +4224,7 @@ msgid "cos_0114"
 msgstr ""
 
 msgid "cos_0115"
-msgstr ""
+msgstr "플러피 스텔라"
 
 msgid "cos_0116"
 msgstr ""
@@ -4455,7 +4455,7 @@ msgid "cos_0192"
 msgstr ""
 
 msgid "cos_0193"
-msgstr ""
+msgstr "엔젤 브라이드"
 
 msgid "cos_0194"
 msgstr ""
@@ -5181,46 +5181,46 @@ msgid "cos_0092_01"
 msgstr ""
 
 msgid "cos_0093_01"
-msgstr ""
+msgstr "레이나 의상 013"
 
 msgid "cos_0094_01"
-msgstr ""
+msgstr "레이나 의상 014"
 
 msgid "cos_0095_01"
-msgstr ""
+msgstr "레이나 의상 015"
 
 msgid "cos_0096_01"
-msgstr ""
+msgstr "레이나 의상 016"
 
 msgid "cos_0097_01"
-msgstr ""
+msgstr "레이나 의상 017"
 
 msgid "cos_0098_01"
-msgstr ""
+msgstr "레이나 의상 018"
 
 msgid "cos_0099_01"
-msgstr ""
+msgstr "레이나 의상 019"
 
 msgid "cos_0100_01"
-msgstr ""
+msgstr "레이나 의상 020"
 
 msgid "cos_0101_01"
-msgstr ""
+msgstr "성마리아학원 교복"
 
 msgid "cos_0102_01"
-msgstr ""
+msgstr "스타릿 밀키"
 
 msgid "cos_0103_01"
-msgstr ""
+msgstr "위시 오브 발큐리아"
 
 msgid "cos_0105_01"
-msgstr ""
+msgstr "펌프킨 위치"
 
 msgid "cos_0106_01"
-msgstr ""
+msgstr "골드 피쉬테일"
 
 msgid "cos_0107_01"
-msgstr ""
+msgstr "핑키 프티"
 
 msgid "cos_0108_01"
 msgstr ""
@@ -5232,19 +5232,19 @@ msgid "cos_0110_01"
 msgstr ""
 
 msgid "cos_0111_01"
-msgstr ""
+msgstr "란카 블로섬"
 
 msgid "cos_0112_01"
-msgstr ""
+msgstr "치어풀 에메랄드"
 
 msgid "cos_0113_01"
 msgstr ""
 
 msgid "cos_0114_01"
-msgstr ""
+msgstr "크로스오버 피치"
 
 msgid "cos_0115_01"
-msgstr ""
+msgstr "플러피 스텔라"
 
 msgid "cos_0116_01"
 msgstr ""
@@ -5568,10 +5568,10 @@ msgid "cos_0233_01"
 msgstr "예약 023"
 
 msgid "cos_0234_01"
-msgstr ""
+msgstr "예약 024"
 
 msgid "cos_0235_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0236_01"
 msgstr "예약 026"
@@ -5583,7 +5583,7 @@ msgid "cos_0238_01"
 msgstr "예약 028"
 
 msgid "cos_0239_01"
-msgstr ""
+msgstr "예약 029"
 
 msgid "cos_0240_01"
 msgstr "예약 030"
@@ -5598,10 +5598,10 @@ msgid "cos_0243_01"
 msgstr "예약 023"
 
 msgid "cos_0244_01"
-msgstr ""
+msgstr "예약 024"
 
 msgid "cos_0245_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0246_01"
 msgstr "로테 블루메"
@@ -5613,7 +5613,7 @@ msgid "cos_0248_01"
 msgstr "예약 028"
 
 msgid "cos_0249_01"
-msgstr ""
+msgstr "예약 029"
 
 msgid "cos_0250_01"
 msgstr "예약 030"
@@ -5628,10 +5628,10 @@ msgid "cos_0253_01"
 msgstr "예약 023"
 
 msgid "cos_0254_01"
-msgstr ""
+msgstr "예약 024"
 
 msgid "cos_0255_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0256_01"
 msgstr "예약 026"
@@ -5643,7 +5643,7 @@ msgid "cos_0258_01"
 msgstr "예약 028"
 
 msgid "cos_0259_01"
-msgstr ""
+msgstr "예약 029"
 
 msgid "cos_0260_01"
 msgstr "예약 030"
@@ -5658,10 +5658,10 @@ msgid "cos_0263_01"
 msgstr "예약 023"
 
 msgid "cos_0264_01"
-msgstr ""
+msgstr "예약 024"
 
 msgid "cos_0265_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0266_01"
 msgstr "예약 026"
@@ -5673,7 +5673,7 @@ msgid "cos_0268_01"
 msgstr "예약 028"
 
 msgid "cos_0269_01"
-msgstr ""
+msgstr "예약 029"
 
 msgid "cos_0270_01"
 msgstr "예약 030"
@@ -5688,10 +5688,10 @@ msgid "cos_0273_01"
 msgstr "예약 023"
 
 msgid "cos_0274_01"
-msgstr ""
+msgstr "예약 024"
 
 msgid "cos_0275_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0276_01"
 msgstr "예약 026"
@@ -5706,64 +5706,64 @@ msgid "cos_0280_01"
 msgstr "예약 030"
 
 msgid "cos_0281_01"
-msgstr ""
+msgstr "예약 031"
 
 msgid "cos_0282_01"
-msgstr ""
+msgstr "예약 032"
 
 msgid "cos_0283_01"
-msgstr ""
+msgstr "예약 033"
 
 msgid "cos_0284_01"
-msgstr ""
+msgstr "애니버서리 하트"
 
 msgid "cos_0285_01"
-msgstr ""
+msgstr "예약 035"
 
 msgid "cos_0286_01"
-msgstr ""
+msgstr "예약 036"
 
 msgid "cos_0287_01"
-msgstr ""
+msgstr "예약 037"
 
 msgid "cos_0288_01"
-msgstr ""
+msgstr "예약 038"
 
 msgid "cos_0289_01"
-msgstr ""
+msgstr "예약 039"
 
 msgid "cos_0290_01"
-msgstr ""
+msgstr "예약 040"
 
 msgid "cos_0291_01"
-msgstr ""
+msgstr "예약 031"
 
 msgid "cos_0292_01"
-msgstr ""
+msgstr "예약 032"
 
 msgid "cos_0293_01"
-msgstr ""
+msgstr "예약 033"
 
 msgid "cos_0294_01"
-msgstr ""
+msgstr "예약 034"
 
 msgid "cos_0295_01"
-msgstr ""
+msgstr "예약 035"
 
 msgid "cos_0296_01"
-msgstr ""
+msgstr "예약 036"
 
 msgid "cos_0297_01"
-msgstr ""
+msgstr "예약 037"
 
 msgid "cos_0298_01"
-msgstr ""
+msgstr "예약 038"
 
 msgid "cos_0299_01"
-msgstr ""
+msgstr "예약 039"
 
 msgid "cos_0300_01"
-msgstr ""
+msgstr "예약 040"
 
 msgid "cos_0301_01"
 msgstr "예약 021"
@@ -5775,10 +5775,10 @@ msgid "cos_0303_01"
 msgstr "예약 023"
 
 msgid "cos_0304_01"
-msgstr ""
+msgstr "예약 024"
 
 msgid "cos_0305_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0306_01"
 msgstr "예약 026"
@@ -5790,34 +5790,34 @@ msgid "cos_0308_01"
 msgstr "예약 028"
 
 msgid "cos_0309_01"
-msgstr ""
+msgstr "예약 029"
 
 msgid "cos_0311_01"
-msgstr ""
+msgstr "예약 101"
 
 msgid "cos_0312_01"
-msgstr ""
+msgstr "예약 102"
 
 msgid "cos_0313_01"
-msgstr ""
+msgstr "예약 103"
 
 msgid "cos_0314_01"
-msgstr ""
+msgstr "예약 104"
 
 msgid "cos_0315_01"
-msgstr ""
+msgstr "예약 105"
 
 msgid "cos_0316_01"
-msgstr ""
+msgstr "예약 106"
 
 msgid "cos_0321_01"
-msgstr ""
+msgstr "예약 111"
 
 msgid "cos_0322_01"
-msgstr ""
+msgstr "예약 112"
 
 msgid "cos_0324_01"
-msgstr ""
+msgstr "예약 114"
 
 msgid "cos_0325_01"
 msgstr ""
@@ -5919,7 +5919,7 @@ msgid "cos_0393_01"
 msgstr "예약 023"
 
 msgid "cos_0395_01"
-msgstr ""
+msgstr "예약 025"
 
 msgid "cos_0396_01"
 msgstr "예약 026"
@@ -21837,7 +21837,7 @@ msgid "rn_0031"
 msgstr ""
 
 msgid "rn_0032"
-msgstr ""
+msgstr "다같이 도쿄 스카이트리"
 
 msgid "rn_0033"
 msgstr "sexy monsoon"
@@ -21849,16 +21849,16 @@ msgid "rn_0035"
 msgstr ""
 
 msgid "rn_0036"
-msgstr ""
+msgstr "영화관에 가자!"
 
 msgid "rn_0037"
-msgstr ""
+msgstr "멈추지 않아! 왈큐레 LIVE"
 
 msgid "rn_0038"
-msgstr ""
+msgstr "라이브에 오신 것을 환영합니다!"
 
 msgid "rn_0039"
-msgstr ""
+msgstr "무지개색 곰곰"
 
 msgid "rn_0040"
 msgstr "0-G Love"
@@ -21876,10 +21876,10 @@ msgid "rn_0044"
 msgstr "상냥함 SAYONARA"
 
 msgid "rn_0045"
-msgstr ""
+msgstr "거짓된 세계의 너에게"
 
 msgid "rn_0046"
-msgstr ""
+msgstr "fight on stage ~두 사람의 가희~"
 
 msgid "rn_0047"
 msgstr "SUBMARINE MEMORY"
@@ -21891,10 +21891,10 @@ msgid "rn_0049"
 msgstr "울상 웨딩"
 
 msgid "rn_0050"
-msgstr ""
+msgstr "유혹의 엘릭시아"
 
 msgid "rn_0051"
-msgstr ""
+msgstr "목숨을 건 사랑이라면"
 
 msgid "rn_0052"
 msgstr "SEVENTH MOON NIGHT"
@@ -21906,7 +21906,7 @@ msgid "rn_0054"
 msgstr ""
 
 msgid "rn_0055"
-msgstr ""
+msgstr "여름이다! 수영복이다! 왈우라 페스!"
 
 msgid "rn_0056"
 msgstr "SUNSET RESORT"
@@ -21921,13 +21921,13 @@ msgid "rn_0059"
 msgstr "가희 오퍼레이션"
 
 msgid "rn_0060"
-msgstr ""
+msgstr "New song Live ~제1탄~"
 
 msgid "rn_0061"
-msgstr ""
+msgstr "New song Live ~제2탄~"
 
 msgid "rn_0062"
-msgstr ""
+msgstr "New song Live ~제3탄~"
 
 msgid "rn_0063"
 msgstr ""
@@ -21936,7 +21936,7 @@ msgid "rn_0064"
 msgstr "메모리얼 런너"
 
 msgid "rn_0065"
-msgstr ""
+msgstr "질리틱♡Halloween"
 
 msgid "rn_0066"
 msgstr ""
@@ -21951,13 +21951,13 @@ msgid "rn_0069"
 msgstr "Walküre! THUNDER GLOW"
 
 msgid "rn_0070"
-msgstr ""
+msgstr "MAGICAL☆MY FRIENDS"
 
 msgid "rn_0071"
-msgstr ""
+msgstr "<size=20>산타클로스로 있을 순 없어!</size>"
 
 msgid "rn_0072"
-msgstr ""
+msgstr "초시공 카운트다운 라이브 '18"
 
 msgid "rn_0073"
 msgstr ""
@@ -21972,10 +21972,10 @@ msgid "rn_0076"
 msgstr ""
 
 msgid "rn_0077"
-msgstr ""
+msgstr "불확정성♡포메이션 댄스"
 
 msgid "rn_0078"
-msgstr ""
+msgstr "<size=20>little queen ~사랑, 기억하고 있습니까?~</size>"
 
 msgid "rn_0079"
 msgstr ""
@@ -21984,70 +21984,70 @@ msgid "rn_0080"
 msgstr ""
 
 msgid "rn_0081"
-msgstr ""
+msgstr "유성이 연주하는 선율"
 
 msgid "rn_0082"
-msgstr ""
+msgstr "어서오세요! 왈큐레★Party에"
 
 msgid "rn_0083"
 msgstr ""
 
 msgid "rn_0084"
-msgstr ""
+msgstr "우리들의 뷰티풀 플레이스"
 
 msgid "rn_0085"
-msgstr ""
+msgstr "Dancing in the Planet"
 
 msgid "rn_0086"
-msgstr ""
+msgstr "HOLY LONELY LIVE"
 
 msgid "rn_0087"
-msgstr ""
+msgstr "엔젤 브라이드"
 
 msgid "rn_0088"
-msgstr ""
+msgstr "사랑! 할레이션 THE DANCE"
 
 msgid "rn_0089"
-msgstr ""
+msgstr "<size=20>저 너머로 전하는 노래 ~인피니티#7~</size>"
 
 msgid "rn_0090"
-msgstr ""
+msgstr "넓은 하늘을 나는 소백룡"
 
 msgid "rn_0091"
-msgstr ""
+msgstr "순정 섬머 베케이션"
 
 msgid "rn_0092"
-msgstr ""
+msgstr "<size=20>여름의 일곱빛깔☆비타민 충전!</size>"
 
 msgid "rn_0093"
-msgstr ""
+msgstr "성간 랑데부★彡"
 
 msgid "rn_0094"
-msgstr ""
+msgstr "REMEMBER SUMMER"
 
 msgid "rn_0095"
-msgstr ""
+msgstr "Trick or Nyan? DIARY"
 
 msgid "rn_0096"
-msgstr ""
+msgstr "Trick or trap?"
 
 msgid "rn_0097"
-msgstr ""
+msgstr "<size=20>왈큐레의 버스데이♡파티</size>"
 
 msgid "rn_0098"
-msgstr ""
+msgstr "<size=20>Rock 'n' Roll~! …하지만 Baby!!</size>"
 
 msgid "rn_0099"
-msgstr ""
+msgstr "성스러운 밤의 울상SONG"
 
 msgid "rn_0100"
-msgstr ""
+msgstr "<size=20>SNOW FRONTIER ~종을 울려라!~</size>"
 
 msgid "rn_0101"
-msgstr ""
+msgstr "<size=20>새벽을 밝히는 새로운 빛 ~오벨리스크~</size>"
 
 msgid "rn_0102"
-msgstr ""
+msgstr "시간을 초월하는 사랑의 노래"
 
 msgid "rn_0103"
 msgstr ""
@@ -22056,7 +22056,7 @@ msgid "rn_0104"
 msgstr ""
 
 msgid "rn_0105"
-msgstr ""
+msgstr "WhiteDay Attack!"
 
 msgid "rn_0106"
 msgstr ""
