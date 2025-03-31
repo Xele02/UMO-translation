@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-31 13:44+0000\n"
+"PO-Revision-Date: 2025-03-31 15:06+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -546,58 +546,58 @@ msgid "c_dsc_0002"
 msgstr "Total Star Plate stats +[v1]％"
 
 msgid "c_dsc_0003"
-msgstr ""
+msgstr "Total Love Plate stats +[v1]％"
 
 msgid "c_dsc_0004"
-msgstr ""
+msgstr "Total Life Plate stats +[v1]％"
 
 msgid "c_dsc_0005"
-msgstr ""
+msgstr "Team Soul +[v1]％"
 
 msgid "c_dsc_0006"
-msgstr ""
+msgstr "Team Voice +[v1]％"
 
 msgid "c_dsc_0007"
-msgstr ""
+msgstr "Team Charm +[v1]％"
 
 msgid "c_dsc_0008"
-msgstr ""
+msgstr "Team HP +[v1]％"
 
 msgid "c_dsc_0009"
-msgstr ""
+msgstr "Team Support +[v1]％"
 
 msgid "c_dsc_0010"
-msgstr ""
+msgstr "Team Fold Waves +[v1]％"
 
 msgid "c_dsc_0011"
 msgstr "Total team stats +[v1]％"
 
 msgid "c_dsc_0012"
-msgstr ""
+msgstr "Team HP +[v1]％"
 
 msgid "c_dsc_0013"
 msgstr "Total Star Plate stats +[v1]％"
 
 msgid "c_dsc_0014"
-msgstr ""
+msgstr "Total Love Plate stats +[v1]％"
 
 msgid "c_dsc_0015"
-msgstr ""
+msgstr "Total Life Plate stats +[v1]％"
 
 msgid "c_dsc_0016"
-msgstr ""
+msgstr "Team Soul +[v1]％"
 
 msgid "c_dsc_0017"
-msgstr ""
+msgstr "Team Voice +[v1]％"
 
 msgid "c_dsc_0018"
-msgstr ""
+msgstr "Team Charm +[v1]％"
 
 msgid "c_dsc_0019"
-msgstr ""
+msgstr "Team Support +[v1]％"
 
 msgid "c_dsc_0020"
-msgstr ""
+msgstr "Team Fold Waves +[v1]％"
 
 msgid "c_dsc_0021"
 msgstr "Total team stats +[v1]％"
@@ -606,103 +606,105 @@ msgid "c_dsc_0022"
 msgstr "Total Star Plate stats +[v1]％"
 
 msgid "c_dsc_0023"
-msgstr ""
+msgstr "Total Love Plate stats +[v1]％"
 
 msgid "c_dsc_0024"
-msgstr ""
+msgstr "Total Life Plate stats +[v1]％"
 
 msgid "c_dsc_0025"
-msgstr ""
+msgstr "Team Soul +[v1]％"
 
 msgid "c_dsc_0026"
-msgstr ""
+msgstr "Team Voice +[v1]％"
 
 msgid "c_dsc_0027"
-msgstr ""
+msgstr "Team Charm +[v1]％"
 
 msgid "c_dsc_0028"
-msgstr ""
+msgstr "Team HP +[v1]％"
 
 msgid "c_dsc_0029"
-msgstr ""
+msgstr "Team Support +[v1]％"
 
 msgid "c_dsc_0030"
-msgstr ""
+msgstr "Team Fold Waves +[v1]％"
 
 msgid "c_dsc_0031"
-msgstr ""
+msgstr "Star song total team stats +[v1]％"
 
 msgid "c_dsc_0032"
-msgstr ""
+msgstr "Love song total team stats +[v1]％"
 
 msgid "c_dsc_0033"
-msgstr ""
+msgstr "Life song total team stats +[v1]％"
 
 msgid "c_dsc_0034"
-msgstr ""
+msgstr "Star song total team stats +[v1]％"
 
 msgid "c_dsc_0035"
-msgstr ""
+msgstr "Love song total team stats +[v1]％"
 
 msgid "c_dsc_0036"
-msgstr ""
+msgstr "Life song total team stats +[v1]％"
 
 msgid "c_dsc_0037"
-msgstr ""
+msgstr "Star song total team stats +[v1]％"
 
 msgid "c_dsc_0038"
-msgstr ""
+msgstr "Love song total team stats +[v1]％"
 
 msgid "c_dsc_0039"
-msgstr ""
+msgstr "Life song total team stats +[v1]％"
 
 msgid "c_dsc_0040"
-msgstr ""
+msgstr "Diva EXP +[v1]％"
 
 msgid "c_dsc_0041"
-msgstr ""
+msgstr "Team Soul & Charm +[v1]％"
 
 msgid "c_dsc_0042"
-msgstr ""
+msgstr "Team Voice & Charm +[v1]％"
 
 msgid "c_dsc_0043"
-msgstr ""
+msgstr "Team Soul & Voice +[v1]％"
 
 msgid "c_dsc_0044"
-msgstr ""
+msgstr "Team total stats & Support +[v1]％"
 
 msgid "c_dsc_0045"
-msgstr ""
+msgstr "Team total stats & Support +[v1]％"
 
 msgid "c_dsc_0046"
-msgstr ""
+msgstr "Team total stats & HP +[v1]％"
 
 msgid "c_dsc_0047"
-msgstr ""
+msgstr "Team HP & Support +[v1]％"
 
 msgid "c_dsc_0048"
-msgstr ""
+msgstr "Specified series song total team stats +[v1]％"
 
 msgid "c_dsc_0049"
-msgstr ""
+msgstr "Macross Delta song total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0050"
-msgstr ""
+msgstr "Macross Frontier song total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0051"
-msgstr ""
+msgstr "Macross 7 song total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0052"
 msgstr ""
+"Super Dimension Fortress Macross song total team stats +[v1]％ (When "
+"applicable)"
 
 msgid "c_dsc_0053"
-msgstr ""
+msgstr "Others song total team stats +[v1]％ (When applicable)"
 
 msgid "c_dsc_0054"
-msgstr ""
+msgstr "Specified series song team Soul +[v1]％"
 
 msgid "c_dsc_0055"
-msgstr ""
+msgstr "Specified series song team Voice +[v1]％"
 
 msgid "c_dsc_0056"
 msgstr ""
