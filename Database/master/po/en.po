@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-03 10:20+0000\n"
+"PO-Revision-Date: 2025-04-04 18:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -815,7 +815,7 @@ msgid "a_nm_0008"
 msgstr "Score+"
 
 msgid "a_nm_0009"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "a_nm_0010"
 msgstr "Damage–"
@@ -836,16 +836,16 @@ msgid "a_nm_0015"
 msgstr "Lax Note Timing"
 
 msgid "a_nm_0016"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "a_nm_0017"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "a_nm_0018"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "a_nm_0019"
-msgstr ""
+msgstr "100% Items"
 
 msgid "a_nm_0020"
 msgstr ""
@@ -986,13 +986,13 @@ msgid "l_nm_0013"
 msgstr "Score+"
 
 msgid "l_nm_0014"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0015"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0016"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0017"
 msgstr "HP Recovery"
@@ -1028,28 +1028,28 @@ msgid "l_nm_0027"
 msgstr "Score+"
 
 msgid "l_nm_0028"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0029"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0030"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0031"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0032"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0033"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0034"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0035"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0036"
 msgstr "Damage–"
@@ -1094,13 +1094,13 @@ msgid "l_nm_0049"
 msgstr "Score+"
 
 msgid "l_nm_0050"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0051"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0052"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0053"
 msgstr "HP Recovery"
@@ -1121,28 +1121,28 @@ msgid "l_nm_0058"
 msgstr "HP Recovery"
 
 msgid "l_nm_0059"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0060"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0061"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0062"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0063"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0064"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0065"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0066"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0067"
 msgstr "Damage–"
@@ -1187,13 +1187,13 @@ msgid "l_nm_0080"
 msgstr "Score+"
 
 msgid "l_nm_0081"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0082"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0083"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0084"
 msgstr "HP Recovery"
@@ -1214,28 +1214,28 @@ msgid "l_nm_0089"
 msgstr "HP Recovery"
 
 msgid "l_nm_0090"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0091"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0092"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0093"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0094"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0095"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0096"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0097"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0098"
 msgstr "Score+"
@@ -1349,7 +1349,7 @@ msgid "l_nm_0134"
 msgstr ""
 
 msgid "l_nm_0135"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "l_nm_0136"
 msgstr ""
@@ -3164,7 +3164,7 @@ msgid "fa_nm_0002"
 msgstr ""
 
 msgid "fa_nm_0003"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "fa_nm_0004"
 msgstr ""
@@ -3269,10 +3269,10 @@ msgid "fl_nm_0030"
 msgstr ""
 
 msgid "fl_nm_0031"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "fl_nm_0032"
-msgstr "No damage"
+msgstr "No Damage"
 
 msgid "fl_nm_0033"
 msgstr ""
