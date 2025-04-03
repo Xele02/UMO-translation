@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-03-31 13:44+0000\n"
+"PO-Revision-Date: 2025-04-03 10:20+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -66,7 +66,7 @@ msgid "sn_0017"
 msgstr "咱家的耿直姑娘"
 
 msgid "sn_0018"
-msgstr "总是偷懒的疾风"
+msgstr "摸鱼大王疾风"
 
 msgid "sn_0019"
 msgstr "因为我喜欢唱歌！"
@@ -87,7 +87,7 @@ msgid "sn_0024"
 msgstr "行星Al Shahal"
 
 msgid "sn_0025"
-msgstr "空中营救"
+msgstr "高空营救"
 
 msgid "sn_0026"
 msgstr "你也来参军吧"
@@ -2175,7 +2175,7 @@ msgid "sn_0801"
 msgstr "I can't wait！"
 
 msgid "sn_0802"
-msgstr "只有唱歌才能证明我活着"
+msgstr "只有歌声才能证明我活着"
 
 msgid "sn_0803"
 msgstr "事到如今才发现"
@@ -2403,7 +2403,7 @@ msgid "sn_0884"
 msgstr "新来的转校生"
 
 msgid "sn_0885"
-msgstr "未送出的礼物"
+msgstr "来不及送出的礼物"
 
 msgid "sn_0886"
 msgstr "压迫感十足"
@@ -2415,259 +2415,259 @@ msgid "sn_0888"
 msgstr "兰卡娃娃"
 
 msgid "sn_0889"
-msgstr ""
+msgstr "男子高中生的午后"
 
 msgid "sn_0890"
-msgstr ""
+msgstr "卢卡·安杰洛"
 
 msgid "sn_0891"
-msgstr ""
+msgstr "意义非凡的地方"
 
 msgid "sn_0892"
-msgstr ""
+msgstr "在蓝天的一隅"
 
 msgid "sn_0893"
-msgstr ""
+msgstr "后天就是正式演出了"
 
 msgid "sn_0896"
-msgstr ""
+msgstr "是时候战斗了"
 
 msgid "sn_0901"
-msgstr ""
+msgstr "西比露的觉醒"
 
 msgid "sn_0902"
-msgstr ""
+msgstr "林中沉睡的西比露"
 
 msgid "sn_0903"
-msgstr ""
+msgstr "不可思议的回忆"
 
 msgid "sn_0904"
-msgstr ""
+msgstr "给她灵魂精神源！！"
 
 msgid "sn_0905"
-msgstr ""
+msgstr "暗中观察的米莲"
 
 msgid "sn_0906"
-msgstr ""
+msgstr "突然出现的袭击者"
 
 msgid "sn_0907"
-msgstr ""
+msgstr "引发大骚动了"
 
 msgid "sn_0908"
-msgstr ""
+msgstr "《银河焦点》记者珍妮特"
 
 msgid "sn_0909"
-msgstr ""
+msgstr "夜幕下的跟踪者米莲"
 
 msgid "sn_0910"
-msgstr ""
+msgstr "绿宝石小队"
 
 msgid "sn_0911"
-msgstr ""
+msgstr "无精打采的库巴巴"
 
 msgid "sn_0912"
-msgstr ""
+msgstr "请您说句话好吗！"
 
 msgid "sn_0913"
-msgstr ""
+msgstr "银河妖精 感受歌曲的生命吧！"
 
 msgid "sn_0915"
-msgstr ""
+msgstr "礼尚往来罢了！"
 
 msgid "sn_0916"
-msgstr ""
+msgstr "写下不屈的歌词"
 
 msgid "sn_0917"
-msgstr ""
+msgstr "回归的雪莉露"
 
 msgid "sn_0918"
-msgstr ""
+msgstr "穿过铁窗的歌声"
 
 msgid "sn_0919"
-msgstr ""
+msgstr "美丽的女装舞者"
 
 msgid "sn_0920"
-msgstr ""
+msgstr "营救行动开始"
 
 msgid "sn_0921"
-msgstr ""
+msgstr "寡言鼓手"
 
 msgid "sn_0922"
-msgstr ""
+msgstr "哀伤的视线"
 
 msgid "sn_0923"
-msgstr ""
+msgstr "暗中监视"
 
 msgid "sn_0924"
-msgstr ""
+msgstr "起哄的犯人们"
 
 msgid "sn_0925"
-msgstr ""
+msgstr "超时空歌姬 感受歌曲的魔法吧！"
 
 msgid "sn_0927"
-msgstr ""
+msgstr "仅此一夜的监狱演出"
 
 msgid "sn_0928"
-msgstr ""
+msgstr "划破夜空的光之箭"
 
 msgid "sn_0929"
-msgstr ""
+msgstr "放下心来的兰卡"
 
 msgid "sn_0930"
-msgstr ""
+msgstr "超人气偶像"
 
 msgid "sn_0931"
-msgstr ""
+msgstr "热血吉他手"
 
 msgid "sn_0932"
-msgstr ""
+msgstr "小小贝斯手"
 
 msgid "sn_0933"
-msgstr ""
+msgstr "天才键盘手"
 
 msgid "sn_0934"
-msgstr ""
+msgstr "歌与情感"
 
 msgid "sn_0935"
-msgstr ""
+msgstr "是兰卡！！"
 
 msgid "sn_0936"
-msgstr ""
+msgstr "监狱岛Alcatraz"
 
 msgid "sn_0937"
-msgstr ""
+msgstr "热泪盈眶 甜蜜婚礼"
 
 msgid "sn_0939"
-msgstr ""
+msgstr "挽救性命的歌声"
 
 msgid "sn_0940"
-msgstr ""
+msgstr "甘拜下风"
 
 msgid "sn_0941"
-msgstr ""
+msgstr "Walküre的过去 要"
 
 msgid "sn_0942"
-msgstr ""
+msgstr "Walküre的过去 蕾娜"
 
 msgid "sn_0943"
-msgstr ""
+msgstr "Walküre的过去 玛基娜"
 
 msgid "sn_0944"
-msgstr ""
+msgstr "莉迪与克蕾雅"
 
 msgid "sn_0945"
-msgstr ""
+msgstr "因歌声得以维持的生命"
 
 msgid "sn_0946"
-msgstr ""
+msgstr "自绝望诞生的未来"
 
 msgid "sn_0947"
-msgstr ""
+msgstr "简陋的饭菜"
 
 msgid "sn_0948"
-msgstr ""
+msgstr "危机解除"
 
 msgid "sn_0949"
-msgstr ""
+msgstr "惊天动地 爆燃婚礼"
 
 msgid "sn_0951"
-msgstr ""
+msgstr "激荡于战场的歌声"
 
 msgid "sn_0952"
-msgstr ""
+msgstr "友情的开篇"
 
 msgid "sn_0953"
-msgstr ""
+msgstr "毫无默契的组合"
 
 msgid "sn_0954"
-msgstr ""
+msgstr "初始成员 玛基娜"
 
 msgid "sn_0955"
-msgstr ""
+msgstr "初始成员 莉迪"
 
 msgid "sn_0956"
-msgstr ""
+msgstr "初始成员 克蕾雅"
 
 msgid "sn_0957"
-msgstr ""
+msgstr "残垣之上的歌姬们"
 
 msgid "sn_0958"
-msgstr ""
+msgstr "难以承受的恐惧"
 
 msgid "sn_0959"
-msgstr ""
+msgstr "跳伞训练"
 
 msgid "sn_0960"
-msgstr ""
+msgstr "只要齐心协力"
 
 msgid "sn_0961"
-msgstr ""
+msgstr "年轻的风之骑士"
 
 msgid "sn_0962"
-msgstr ""
+msgstr "博格·康瓦尔特"
 
 msgid "sn_0963"
-msgstr ""
+msgstr "你们算什么正义使者！"
 
 msgid "sn_0964"
-msgstr ""
+msgstr "让伟大的风之歌响彻银河"
 
 msgid "sn_0967"
-msgstr ""
+msgstr "骁勇骑士 卡西姆"
 
 msgid "sn_0968"
-msgstr ""
+msgstr "百战骑士 海尔曼"
 
 msgid "sn_0973"
-msgstr ""
+msgstr "危险基因"
 
 msgid "sn_0974"
-msgstr ""
+msgstr "是天使，还是恶魔"
 
 msgid "sn_0975"
-msgstr ""
+msgstr "圣域与禁域"
 
 msgid "sn_0976"
-msgstr ""
+msgstr "圣洁婚纱"
 
 msgid "sn_0977"
-msgstr ""
+msgstr "诱人的微笑"
 
 msgid "sn_0978"
-msgstr ""
+msgstr "诱惑缠身"
 
 msgid "sn_0979"
-msgstr ""
+msgstr "俏丽护士"
 
 msgid "sn_0980"
-msgstr ""
+msgstr "甜蜜的痛楚"
 
 msgid "sn_0981"
-msgstr ""
+msgstr "龙卷装备"
 
 msgid "sn_0982"
-msgstr ""
+msgstr "Fold水晶"
 
 msgid "sn_0983"
-msgstr ""
+msgstr "寂静教堂"
 
 msgid "sn_0984"
-msgstr ""
+msgstr "截下世界的一隅"
 
 msgid "sn_0985"
-msgstr ""
+msgstr "Energetic Glow"
 
 msgid "sn_0986"
-msgstr ""
+msgstr "疗愈身心的秘法"
 
 msgid "sn_0987"
-msgstr ""
+msgstr "风指引的邂逅"
 
 msgid "sn_0988"
-msgstr ""
+msgstr "发现摸鱼大王！"
 
 msgid "sn_0989"
-msgstr ""
+msgstr "笑起来让人发毛？"
 
 msgid "sn_0990"
 msgstr ""
