@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-04 18:46+0000\n"
+"PO-Revision-Date: 2025-04-06 12:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -848,13 +848,13 @@ msgid "a_nm_0019"
 msgstr "100% Items"
 
 msgid "a_nm_0020"
-msgstr ""
+msgstr "Test Use Perfect"
 
 msgid "a_nm_0021"
-msgstr ""
+msgstr "Short Timing Score+"
 
 msgid "a_nm_0022"
-msgstr ""
+msgstr "Combo Bonus"
 
 msgid "a_nm_0023"
 msgstr ""
@@ -863,10 +863,10 @@ msgid "a_nm_0024"
 msgstr "Score+"
 
 msgid "a_nm_0025"
-msgstr ""
+msgstr "Combo Bonus"
 
 msgid "a_nm_0026"
-msgstr ""
+msgstr "Combo Bonus"
 
 msgid "a_dsc_0001"
 msgstr ""
@@ -1430,7 +1430,7 @@ msgid "l_nm_0161"
 msgstr ""
 
 msgid "l_nm_0162"
-msgstr ""
+msgstr "Combo Bonus"
 
 msgid "l_nm_0163"
 msgstr ""
@@ -3176,7 +3176,7 @@ msgid "fa_nm_0006"
 msgstr ""
 
 msgid "fa_nm_0008"
-msgstr ""
+msgstr "Combo Bonus"
 
 msgid "fl_nm_0001"
 msgstr ""
@@ -3266,7 +3266,7 @@ msgid "fl_nm_0029"
 msgstr ""
 
 msgid "fl_nm_0030"
-msgstr ""
+msgstr "Combo Bonus"
 
 msgid "fl_nm_0031"
 msgstr "No Damage"
