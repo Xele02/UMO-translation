@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-06 12:46+0000\n"
+"PO-Revision-Date: 2025-04-07 18:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -857,7 +857,7 @@ msgid "a_nm_0022"
 msgstr "Combo Bonus"
 
 msgid "a_nm_0023"
-msgstr ""
+msgstr "Score & Damage"
 
 msgid "a_nm_0024"
 msgstr "Score+"
@@ -869,13 +869,13 @@ msgid "a_nm_0026"
 msgstr "Combo Bonus"
 
 msgid "a_dsc_0001"
-msgstr ""
+msgstr "Recovers [v1]％ HP"
 
 msgid "a_dsc_0002"
-msgstr ""
+msgstr "Recovers [v1]％ HP"
 
 msgid "a_dsc_0003"
-msgstr ""
+msgstr "Recovers [v1]％ HP"
 
 msgid "a_dsc_0004"
 msgstr "Boosts score [v1]％ for [dv]s"
@@ -893,16 +893,16 @@ msgid "a_dsc_0008"
 msgstr "Boosts score [v1]％ for [dv]s"
 
 msgid "a_dsc_0009"
-msgstr ""
+msgstr "No damage taken for [dv]s"
 
 msgid "a_dsc_0010"
-msgstr ""
+msgstr "Halves damage taken for [dv]s"
 
 msgid "a_dsc_0011"
-msgstr ""
+msgstr "Halves damage taken for [dv]s"
 
 msgid "a_dsc_0012"
-msgstr ""
+msgstr "Halves damage taken for [dv]s"
 
 msgid "a_dsc_0013"
 msgstr ""
@@ -1346,13 +1346,13 @@ msgid "l_nm_0133"
 msgstr ""
 
 msgid "l_nm_0134"
-msgstr ""
+msgstr "Score & Damage"
 
 msgid "l_nm_0135"
 msgstr "No Damage"
 
 msgid "l_nm_0136"
-msgstr ""
+msgstr "Score & Damage"
 
 msgid "l_nm_0137"
 msgstr ""
@@ -1487,7 +1487,7 @@ msgid "l_nm_0180"
 msgstr ""
 
 msgid "l_nm_0181"
-msgstr ""
+msgstr "Score & Damage"
 
 msgid "l_nm_0182"
 msgstr ""
@@ -3230,7 +3230,7 @@ msgid "fl_nm_0017"
 msgstr ""
 
 msgid "fl_nm_0018"
-msgstr ""
+msgstr "Score & Damage"
 
 msgid "fl_nm_0019"
 msgstr ""
