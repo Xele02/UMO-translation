@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-04-03 10:20+0000\n"
+"PO-Revision-Date: 2025-04-07 18:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -2670,19 +2670,19 @@ msgid "sn_0989"
 msgstr "笑起来让人发毛？"
 
 msgid "sn_0990"
-msgstr ""
+msgstr "逐渐拉近的距离"
 
 msgid "sn_0991"
-msgstr ""
+msgstr "颜色很漂亮嘛"
 
 msgid "sn_0992"
-msgstr ""
+msgstr "没有半点天赋！"
 
 msgid "sn_0993"
-msgstr ""
+msgstr "Elysion的头脑"
 
 msgid "sn_0994"
-msgstr ""
+msgstr "宠物丘露露"
 
 msgid "sn_0995"
 msgstr ""
