@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-13 14:00+0000\n"
+"PO-Revision-Date: 2025-04-07 18:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -26724,7 +26724,7 @@ msgid "dc_itm_nm_0008_obj"
 msgstr "置物柜（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0009_obj"
-msgstr "坐垫（芙蕾雅的房间）"
+msgstr "靠垫（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0010_obj"
 msgstr "仙人掌（芙蕾雅的房间）"
@@ -26733,10 +26733,10 @@ msgid "dc_itm_nm_0011_obj"
 msgstr "窗（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0012_obj"
-msgstr "大坐垫"
+msgstr "大靠垫"
 
 msgid "dc_itm_nm_0013_obj"
-msgstr "绿色坐垫"
+msgstr "绿色靠垫"
 
 msgid "dc_itm_nm_0014_obj"
 msgstr "小桌子（凯厄斯女生宿舍）"
@@ -26766,136 +26766,136 @@ msgid "dc_itm_nm_0022_obj"
 msgstr "桌子（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0023_obj"
-msgstr ""
+msgstr "床（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0024_obj"
-msgstr ""
+msgstr "巴萨拉的木吉他"
 
 msgid "dc_itm_nm_0025_obj"
-msgstr ""
+msgstr "巴萨拉的乐谱架"
 
 msgid "dc_itm_nm_0026_obj"
-msgstr ""
+msgstr "窗（明美的房间）"
 
 msgid "dc_itm_nm_0027_obj"
-msgstr ""
+msgstr "衣柜（明美的房间）"
 
 msgid "dc_itm_nm_0028_obj"
-msgstr ""
+msgstr "梳妆台（明美的房间）"
 
 msgid "dc_itm_nm_0029_obj"
-msgstr ""
+msgstr "书架（明美的房间）"
 
 msgid "dc_itm_nm_0030_obj"
-msgstr ""
+msgstr "床（明美的房间）"
 
 msgid "dc_itm_nm_0031_obj"
-msgstr ""
+msgstr "长椅（伊甸星 星之岭）"
 
 msgid "dc_itm_nm_0032_obj"
-msgstr ""
+msgstr "风力发电机（伊甸星 星之岭）"
 
 msgid "dc_itm_nm_0033_obj"
-msgstr ""
+msgstr "纪念碑（伊甸星 星之岭）"
 
 msgid "dc_itm_nm_0034_obj"
-msgstr ""
+msgstr "龙鸟滑翔翼"
 
 msgid "dc_itm_nm_0035_obj"
-msgstr ""
+msgstr "龙鸟羽毛"
 
 msgid "dc_itm_nm_0036_obj"
-msgstr ""
+msgstr "勇的摩托车"
 
 msgid "dc_itm_nm_0038_obj"
-msgstr ""
+msgstr "巴萨拉的吉他"
 
 msgid "dc_itm_nm_0039_obj"
-msgstr ""
+msgstr "米莲的贝斯"
 
 msgid "dc_itm_nm_0040_obj"
-msgstr ""
+msgstr "雷伊的电子琴"
 
 msgid "dc_itm_nm_0041_obj"
-msgstr ""
+msgstr "比希达的鼓组"
 
 msgid "dc_itm_nm_0042_obj"
-msgstr ""
+msgstr "麦克风（露天舞台）"
 
 msgid "dc_itm_nm_0043_obj"
-msgstr ""
+msgstr "大型音响"
 
 msgid "dc_itm_nm_0044_obj"
-msgstr ""
+msgstr "巴萨拉等身立牌"
 
 msgid "dc_itm_nm_0045_obj"
-msgstr ""
+msgstr "米莲等身立牌"
 
 msgid "dc_itm_nm_0046_obj"
-msgstr ""
+msgstr "娘娘包子摊 旗帜"
 
 msgid "dc_itm_nm_0047_obj"
-msgstr ""
+msgstr "碳烤水母包"
 
 msgid "dc_itm_nm_0048_obj"
-msgstr ""
+msgstr "立式广告牌（水母祭）"
 
 msgid "dc_itm_nm_0049_obj"
-msgstr ""
+msgstr "捞水母摊"
 
 msgid "dc_itm_nm_0050_obj"
-msgstr ""
+msgstr "水母装饰（水母祭）"
 
 msgid "dc_itm_nm_0051_obj"
-msgstr ""
+msgstr "发光水母A"
 
 msgid "dc_itm_nm_0052_obj"
-msgstr ""
+msgstr "发光水母B"
 
 msgid "dc_itm_nm_0056_obj"
-msgstr ""
+msgstr "中式餐桌（超时空饭店 娘娘）"
 
 msgid "dc_itm_nm_0057_obj"
-msgstr ""
+msgstr "屏风（超时空饭店 娘娘）"
 
 msgid "dc_itm_nm_0058_obj"
-msgstr ""
+msgstr "大幅装饰画（超时空饭店 娘娘）"
 
 msgid "dc_itm_nm_0059_obj"
-msgstr ""
+msgstr "平衡车（超时空饭店 娘娘）"
 
 msgid "dc_itm_nm_0060_obj"
-msgstr ""
+msgstr "餐盒（超时空饭店 娘娘）"
 
 msgid "dc_itm_nm_0061_obj"
-msgstr ""
+msgstr "吧台（裸喰娘娘）"
 
 msgid "dc_itm_nm_0062_obj"
-msgstr ""
+msgstr "窗（裸喰娘娘）"
 
 msgid "dc_itm_nm_0063_obj"
-msgstr ""
+msgstr "屏风（裸喰娘娘）"
 
 msgid "dc_itm_nm_0064_obj"
-msgstr ""
+msgstr "鱼缸（裸喰娘娘）"
 
 msgid "dc_itm_nm_0065_obj"
-msgstr ""
+msgstr "褐色地毯（裸喰娘娘）"
 
 msgid "dc_itm_nm_0066_obj"
-msgstr ""
+msgstr "樱花树"
 
 msgid "dc_itm_nm_0067_obj"
-msgstr ""
+msgstr "挂画"
 
 msgid "dc_itm_nm_0068_obj"
-msgstr ""
+msgstr "和风桌子"
 
 msgid "dc_itm_nm_0069_obj"
-msgstr ""
+msgstr "紫色坐垫"
 
 msgid "dc_itm_nm_0070_obj"
-msgstr ""
+msgstr "灯笼（赏花公园）"
 
 msgid "dc_itm_nm_0071_obj"
 msgstr ""
