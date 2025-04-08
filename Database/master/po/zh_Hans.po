@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-07 18:46+0000\n"
+"PO-Revision-Date: 2025-04-09 03:14+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -123,7 +123,7 @@ msgid "e_nm_0036"
 msgstr "VF-171"
 
 msgid "e_nm_0037"
-msgstr "山椒鱼手机"
+msgstr "山椒鱼先生"
 
 msgid "e_nm_0038"
 msgstr "库巴巴"
@@ -21193,7 +21193,7 @@ msgid "plt_nm_0025"
 msgstr "米拉洁·F·吉纳斯"
 
 msgid "plt_nm_0026"
-msgstr "山椒鱼"
+msgstr "山椒鱼先生"
 
 msgid "plt_nm_0027"
 msgstr "一条辉"
@@ -23422,10 +23422,10 @@ msgstr ""
 "<color=#8e0529>※将在娘娘抽奖☆活动结束后消失。</color>"
 
 msgid "itp_nm_0001"
-msgstr "普通的摆件"
+msgstr "普通摆件"
 
 msgid "itp_nm_0002"
-msgstr "精致的摆件"
+msgstr "精致摆件"
 
 msgid "itp_nm_0003"
 msgstr "精油香薰"
@@ -26451,7 +26451,7 @@ msgid "dc_itm_nm_0017_bg"
 msgstr "雪莉露的房间"
 
 msgid "dc_itm_nm_0018_bg"
-msgstr "拉格纳的海边"
+msgstr "拉格纳海滩"
 
 msgid "dc_itm_nm_0019_bg"
 msgstr "米拉洁的房间"
@@ -26460,7 +26460,7 @@ msgid "dc_itm_nm_0020_bg"
 msgstr "Frontier船团军医院"
 
 msgid "dc_itm_nm_0021_bg"
-msgstr "咖啡书店Macross"
+msgstr "MACROSS咖啡书店"
 
 msgid "dc_itm_nm_0022_bg"
 msgstr "米莲的房间"
@@ -26475,7 +26475,7 @@ msgid "dc_itm_nm_0025_bg"
 msgstr "天文台"
 
 msgid "dc_itm_nm_0026_bg"
-msgstr "派对屋"
+msgstr "派对房"
 
 msgid "dc_itm_nm_0027_bg"
 msgstr "拉格纳水族馆"
@@ -26484,10 +26484,10 @@ msgid "dc_itm_nm_0028_bg"
 msgstr "玛基娜和蕾娜的房间"
 
 msgid "dc_itm_nm_0029_bg"
-msgstr "红叶茶歇区"
+msgstr "红叶茶歇室"
 
 msgid "dc_itm_nm_0030_bg"
-msgstr "万圣节主题屋"
+msgstr "万圣节主题房"
 
 msgid "dc_itm_nm_0031_bg"
 msgstr "Macross舰桥"
@@ -26511,10 +26511,10 @@ msgid "dc_itm_nm_0037_bg"
 msgstr "教室"
 
 msgid "dc_itm_nm_0038_bg"
-msgstr "花园聚会"
+msgstr "花园宴会"
 
 msgid "dc_itm_nm_0039_bg"
-msgstr "奇异森林"
+msgstr "鬼怪森林"
 
 msgid "dc_itm_nm_0040_bg"
 msgstr "小木屋"
@@ -26532,7 +26532,7 @@ msgid "dc_itm_nm_0044_bg"
 msgstr "糕点铺"
 
 msgid "dc_itm_nm_0045_bg"
-msgstr "复古房间"
+msgstr "复古风房间"
 
 msgid "dc_itm_nm_0046_bg"
 msgstr "齿轮房间"
@@ -26553,7 +26553,7 @@ msgid "dc_itm_nm_0051_bg"
 msgstr "杰特拉帝商场"
 
 msgid "dc_itm_nm_0052_bg"
-msgstr "圣诞市场"
+msgstr "圣诞市集"
 
 msgid "dc_itm_dsc_0001_bg"
 msgstr "包含墙壁和地板的房间背景"
@@ -26709,7 +26709,7 @@ msgid "dc_itm_dsc_0052_bg"
 msgstr "包含墙壁和地板的房间背景"
 
 msgid "dc_itm_nm_0004_obj"
-msgstr "圆桌（简约）"
+msgstr "圆桌（简约风）"
 
 msgid "dc_itm_nm_0005_obj"
 msgstr "黄色地毯"
@@ -26724,28 +26724,28 @@ msgid "dc_itm_nm_0008_obj"
 msgstr "置物柜（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0009_obj"
-msgstr "靠垫（芙蕾雅的房间）"
+msgstr "靠枕（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0010_obj"
 msgstr "仙人掌（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0011_obj"
-msgstr "窗（凯厄斯女生宿舍）"
+msgstr "窗户（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0012_obj"
-msgstr "大靠垫"
+msgstr "大靠枕"
 
 msgid "dc_itm_nm_0013_obj"
-msgstr "绿色靠垫"
+msgstr "绿色靠枕"
 
 msgid "dc_itm_nm_0014_obj"
-msgstr "小桌子（凯厄斯女生宿舍）"
+msgstr "茶几（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0015_obj"
 msgstr "沙发（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0016_obj"
-msgstr "窗（兰卡的房间）"
+msgstr "窗户（兰卡的房间）"
 
 msgid "dc_itm_nm_0017_obj"
 msgstr "床（兰卡的房间）"
@@ -26754,13 +26754,13 @@ msgid "dc_itm_nm_0018_obj"
 msgstr "台灯（兰卡的房间）"
 
 msgid "dc_itm_nm_0019_obj"
-msgstr "爱君的小窝（兰卡的房间）"
+msgstr "小爱的小窝（兰卡的房间）"
 
 msgid "dc_itm_nm_0020_obj"
 msgstr "格子地毯（兰卡的房间）"
 
 msgid "dc_itm_nm_0021_obj"
-msgstr "窗（巴萨拉的房间）"
+msgstr "窗户（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0022_obj"
 msgstr "桌子（巴萨拉的房间）"
@@ -26775,7 +26775,7 @@ msgid "dc_itm_nm_0025_obj"
 msgstr "巴萨拉的乐谱架"
 
 msgid "dc_itm_nm_0026_obj"
-msgstr "窗（明美的房间）"
+msgstr "窗户（明美的房间）"
 
 msgid "dc_itm_nm_0027_obj"
 msgstr "衣柜（明美的房间）"
@@ -26832,7 +26832,7 @@ msgid "dc_itm_nm_0045_obj"
 msgstr "米莲等身立牌"
 
 msgid "dc_itm_nm_0046_obj"
-msgstr "娘娘包子摊 旗帜"
+msgstr "娘娘包子摊旗"
 
 msgid "dc_itm_nm_0047_obj"
 msgstr "碳烤水母包"
@@ -26871,7 +26871,7 @@ msgid "dc_itm_nm_0061_obj"
 msgstr "吧台（裸喰娘娘）"
 
 msgid "dc_itm_nm_0062_obj"
-msgstr "窗（裸喰娘娘）"
+msgstr "窗户（裸喰娘娘）"
 
 msgid "dc_itm_nm_0063_obj"
 msgstr "屏风（裸喰娘娘）"
@@ -26898,580 +26898,580 @@ msgid "dc_itm_nm_0070_obj"
 msgstr "灯笼（赏花公园）"
 
 msgid "dc_itm_nm_0071_obj"
-msgstr ""
+msgstr "烧烤炉（赏花公园）"
 
 msgid "dc_itm_nm_0072_obj"
-msgstr ""
+msgstr "丰盛便当（赏花公园 ）"
 
 msgid "dc_itm_nm_0073_obj"
-msgstr ""
+msgstr "野餐垫（赏花公园）"
 
 msgid "dc_itm_nm_0074_obj"
-msgstr ""
+msgstr "灯笼（赏花公园）"
 
 msgid "dc_itm_nm_0075_obj"
-msgstr ""
+msgstr "红白幕布"
 
 msgid "dc_itm_nm_0076_obj"
-msgstr ""
+msgstr "餐桌（中餐店 娘娘）"
 
 msgid "dc_itm_nm_0077_obj"
-msgstr ""
+msgstr "屏风（中餐店 娘娘）"
 
 msgid "dc_itm_nm_0078_obj"
-msgstr ""
+msgstr "挂画（中餐店 娘娘）"
 
 msgid "dc_itm_nm_0079_obj"
-msgstr ""
+msgstr "灯光招牌（中餐店 娘娘）"
 
 msgid "dc_itm_nm_0080_obj"
-msgstr ""
+msgstr "柜台（中餐店 娘娘）"
 
 msgid "dc_itm_nm_0081_obj"
-msgstr ""
+msgstr "长桌（雪莉露的房间）"
 
 msgid "dc_itm_nm_0082_obj"
-msgstr ""
+msgstr "长沙发（雪莉露的房间）"
 
 msgid "dc_itm_nm_0083_obj"
-msgstr ""
+msgstr "梳妆台（雪莉露的房间）"
 
 msgid "dc_itm_nm_0084_obj"
-msgstr ""
+msgstr "床（雪莉露的房间）"
 
 msgid "dc_itm_nm_0085_obj"
-msgstr ""
+msgstr "沙滩椅（拉格纳海滩）"
 
 msgid "dc_itm_nm_0086_obj"
-msgstr ""
+msgstr "遮阳伞（拉格纳海滩）"
 
 msgid "dc_itm_nm_0087_obj"
-msgstr ""
+msgstr "玻璃桌（拉格纳海滩）"
 
 msgid "dc_itm_nm_0088_obj"
-msgstr ""
+msgstr "沙滩球（拉格纳海滩）"
 
 msgid "dc_itm_nm_0089_obj"
-msgstr ""
+msgstr "丘露露浮床"
 
 msgid "dc_itm_nm_0090_obj"
-msgstr ""
+msgstr "芙蕾雅的游泳圈"
 
 msgid "dc_itm_nm_0091_obj"
-msgstr ""
+msgstr "床（米拉洁的房间）"
 
 msgid "dc_itm_nm_0092_obj"
-msgstr ""
+msgstr "床边桌（米拉洁的房间）"
 
 msgid "dc_itm_nm_0093_obj"
-msgstr ""
+msgstr "椅子（米拉洁的房间）"
 
 msgid "dc_itm_nm_0094_obj"
-msgstr ""
+msgstr "鱼缸（米拉洁的房间）"
 
 msgid "dc_itm_nm_0095_obj"
-msgstr ""
+msgstr "观叶植物（米拉洁的房间）"
 
 msgid "dc_itm_nm_0096_obj"
-msgstr ""
+msgstr "病床（病房）"
 
 msgid "dc_itm_nm_0097_obj"
-msgstr ""
+msgstr "吊瓶架"
 
 msgid "dc_itm_nm_0098_obj"
-msgstr ""
+msgstr "生命体征检测仪"
 
 msgid "dc_itm_nm_0099_obj"
-msgstr ""
+msgstr "床边桌（病房）"
 
 msgid "dc_itm_nm_0100_obj"
-msgstr ""
+msgstr "探病花篮"
 
 msgid "dc_itm_nm_0101_obj"
-msgstr ""
+msgstr "沙发（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0102_obj"
-msgstr ""
+msgstr "餐椅（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0103_obj"
-msgstr ""
+msgstr "方桌（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0104_obj"
-msgstr ""
+msgstr "圆桌（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0105_obj"
-msgstr ""
+msgstr "落地灯（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0106_obj"
-msgstr ""
+msgstr "杂志架（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0107_obj"
-msgstr ""
+msgstr "窗户（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0108_obj"
-msgstr ""
+msgstr "黑板（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0111_obj"
-msgstr ""
+msgstr "折椅（MACROSS咖啡书店）"
 
 msgid "dc_itm_nm_0112_obj"
-msgstr ""
+msgstr "桌子（亚洲风情）"
 
 msgid "dc_itm_nm_0113_obj"
-msgstr ""
+msgstr "木纹地毯"
 
 msgid "dc_itm_nm_0114_obj"
-msgstr ""
+msgstr "木制置物架（亚洲风情）"
 
 msgid "dc_itm_nm_0115_obj"
-msgstr ""
+msgstr "挂钟（亚洲风情）"
 
 msgid "dc_itm_nm_0116_obj"
-msgstr ""
+msgstr "音响（Walküre Fes）"
 
 msgid "dc_itm_nm_0117_obj"
-msgstr ""
+msgstr "装饰气球（Walküre Fes）"
 
 msgid "dc_itm_nm_0118_obj"
-msgstr ""
+msgstr "护栏（Walküre Fes）"
 
 msgid "dc_itm_nm_0119_obj"
-msgstr ""
+msgstr "地垫（Walküre Fes）"
 
 msgid "dc_itm_nm_0120_obj"
-msgstr ""
+msgstr "沙发（复古风）"
 
 msgid "dc_itm_nm_0122_obj"
-msgstr ""
+msgstr "复古风地毯"
 
 msgid "dc_itm_nm_0124_obj"
-msgstr ""
+msgstr "油画（复古风）"
 
 msgid "dc_itm_nm_0125_obj"
-msgstr ""
+msgstr "新人导师幽灵"
 
 msgid "dc_itm_nm_0126_obj"
-msgstr ""
+msgstr "瞩目新人幽灵"
 
 msgid "dc_itm_nm_0127_obj"
-msgstr ""
+msgstr "厨师南瓜灯"
 
 msgid "dc_itm_nm_0128_obj"
-msgstr ""
+msgstr "热血歌手南瓜灯"
 
 msgid "dc_itm_nm_0129_obj"
-msgstr ""
+msgstr "山椒鱼先生（鬼怪森林）"
 
 msgid "dc_itm_nm_0130_obj"
-msgstr ""
+msgstr "奇异树妖"
 
 msgid "dc_itm_nm_0131_obj"
-msgstr ""
+msgstr "散落一地的糖果（鬼怪森林）"
 
 msgid "dc_itm_nm_0133_obj"
-msgstr ""
+msgstr "Logo贴纸（Walküre）"
 
 msgid "dc_itm_nm_0134_obj"
-msgstr ""
+msgstr "挂毯（梅萨）"
 
 msgid "dc_itm_nm_0135_obj"
 msgstr ""
 
 msgid "dc_itm_nm_0136_obj"
-msgstr ""
+msgstr "瞩目新人南瓜灯"
 
 msgid "dc_itm_nm_0137_obj"
-msgstr ""
+msgstr "S.M.S集装箱"
 
 msgid "dc_itm_nm_0138_obj"
-msgstr ""
+msgstr "娘娘吉祥物"
 
 msgid "dc_itm_nm_0139_obj"
-msgstr ""
+msgstr "S.M.S挂毯"
 
 msgid "dc_itm_nm_0141_obj"
-msgstr ""
+msgstr "蕾娜的小熊娃娃"
 
 msgid "dc_itm_nm_0142_obj"
-msgstr ""
+msgstr "结婚蛋糕（超时空要塞7）"
 
 msgid "dc_itm_nm_0144_obj"
-msgstr ""
+msgstr "Fire Bomber海报"
 
 msgid "dc_itm_nm_0145_obj"
-msgstr ""
+msgstr "“听我的歌吧！”挂画"
 
 msgid "dc_itm_nm_0146_obj"
-msgstr ""
+msgstr "圣诞树（超时空要塞Δ）"
 
 msgid "dc_itm_nm_0147_obj"
-msgstr ""
+msgstr "生肖摆件（丑牛库巴巴）"
 
 msgid "dc_itm_nm_0148_obj"
-msgstr ""
+msgstr "鲷鱼烧浮床"
 
 msgid "dc_itm_nm_0149_obj"
 msgstr ""
 
 msgid "dc_itm_nm_0150_obj"
-msgstr ""
+msgstr "圣诞明美娃娃"
 
 msgid "dc_itm_nm_0154_obj"
-msgstr ""
+msgstr "丘露露"
 
 msgid "dc_itm_nm_0155_obj"
-msgstr ""
+msgstr "圣诞丘露露"
 
 msgid "dc_itm_nm_0156_obj"
-msgstr ""
+msgstr "丘露露不倒翁"
 
 msgid "dc_itm_nm_0157_obj"
-msgstr ""
+msgstr "祭典丘露露"
 
 msgid "dc_itm_nm_0158_obj"
-msgstr ""
+msgstr "白色情人节死神娃娃"
 
 msgid "dc_itm_nm_0159_obj"
-msgstr ""
+msgstr "茶话会丘露露"
 
 msgid "dc_itm_nm_0160_obj"
-msgstr ""
+msgstr "巧克力面包丘露露"
 
 msgid "dc_itm_nm_0161_obj"
-msgstr ""
+msgstr "小爱"
 
 msgid "dc_itm_nm_0162_obj"
-msgstr ""
+msgstr "年糕小爱"
 
 msgid "dc_itm_nm_0163_obj"
-msgstr ""
+msgstr "拉面山椒鱼先生"
 
 msgid "dc_itm_nm_0164_obj"
-msgstr ""
+msgstr "祭典小爱"
 
 msgid "dc_itm_nm_0165_obj"
-msgstr ""
+msgstr "库巴巴"
 
 msgid "dc_itm_nm_0166_obj"
-msgstr ""
+msgstr "中华库巴巴"
 
 msgid "dc_itm_nm_0167_obj"
-msgstr ""
+msgstr "兔子库巴巴"
 
 msgid "dc_itm_nm_0168_obj"
-msgstr ""
+msgstr "夏天丘露露"
 
 msgid "dc_itm_nm_0169_obj"
-msgstr ""
+msgstr "流星丘露露"
 
 msgid "dc_itm_nm_0170_obj"
-msgstr ""
+msgstr "库巴巴船长"
 
 msgid "dc_itm_nm_0171_obj"
-msgstr ""
+msgstr "山椒鱼先生靠枕"
 
 msgid "dc_itm_nm_0173_obj"
-msgstr ""
+msgstr "明美娃娃"
 
 msgid "dc_itm_nm_0174_obj"
-msgstr ""
+msgstr "水瓶座奖杯（铜）"
 
 msgid "dc_itm_nm_0175_obj"
-msgstr ""
+msgstr "水瓶座奖杯（银）"
 
 msgid "dc_itm_nm_0176_obj"
-msgstr ""
+msgstr "水瓶座奖杯（金）"
 
 msgid "dc_itm_nm_0177_obj"
-msgstr ""
+msgstr "双鱼座奖杯（铜）"
 
 msgid "dc_itm_nm_0178_obj"
-msgstr ""
+msgstr "双鱼座奖杯（银）"
 
 msgid "dc_itm_nm_0179_obj"
-msgstr ""
+msgstr "双鱼座奖杯（金）"
 
 msgid "dc_itm_nm_0180_obj"
-msgstr ""
+msgstr "白羊座奖杯（铜）"
 
 msgid "dc_itm_nm_0181_obj"
-msgstr ""
+msgstr "白羊座奖杯（银）"
 
 msgid "dc_itm_nm_0182_obj"
-msgstr ""
+msgstr "白羊座奖杯（金）"
 
 msgid "dc_itm_nm_0183_obj"
-msgstr ""
+msgstr "金牛座奖杯（铜）"
 
 msgid "dc_itm_nm_0184_obj"
-msgstr ""
+msgstr "金牛座奖杯（银）"
 
 msgid "dc_itm_nm_0185_obj"
-msgstr ""
+msgstr "金牛座奖杯（金）"
 
 msgid "dc_itm_nm_0186_obj"
-msgstr ""
+msgstr "双子座奖杯（铜）"
 
 msgid "dc_itm_nm_0187_obj"
-msgstr ""
+msgstr "双子座奖杯（银）"
 
 msgid "dc_itm_nm_0188_obj"
-msgstr ""
+msgstr "双子座奖杯（金）"
 
 msgid "dc_itm_nm_0189_obj"
-msgstr ""
+msgstr "巨蟹座奖杯（铜）"
 
 msgid "dc_itm_nm_0190_obj"
-msgstr ""
+msgstr "巨蟹座奖杯（银）"
 
 msgid "dc_itm_nm_0191_obj"
-msgstr ""
+msgstr "巨蟹座奖杯（金）"
 
 msgid "dc_itm_nm_0192_obj"
-msgstr ""
+msgstr "狮子座奖杯（铜）"
 
 msgid "dc_itm_nm_0193_obj"
-msgstr ""
+msgstr "狮子座奖杯（银）"
 
 msgid "dc_itm_nm_0194_obj"
-msgstr ""
+msgstr "狮子座奖杯（金）"
 
 msgid "dc_itm_nm_0195_obj"
-msgstr ""
+msgstr "处女座奖杯（铜）"
 
 msgid "dc_itm_nm_0196_obj"
-msgstr ""
+msgstr "处女座奖杯（银）"
 
 msgid "dc_itm_nm_0197_obj"
-msgstr ""
+msgstr "处女座奖杯（金）"
 
 msgid "dc_itm_nm_0198_obj"
-msgstr ""
+msgstr "天枰座奖杯（铜）"
 
 msgid "dc_itm_nm_0199_obj"
-msgstr ""
+msgstr "天枰座奖杯（银）"
 
 msgid "dc_itm_nm_0200_obj"
-msgstr ""
+msgstr "天枰座奖杯（金）"
 
 msgid "dc_itm_nm_0201_obj"
-msgstr ""
+msgstr "天蝎座奖杯（铜）"
 
 msgid "dc_itm_nm_0202_obj"
-msgstr ""
+msgstr "天蝎座奖杯（银）"
 
 msgid "dc_itm_nm_0203_obj"
-msgstr ""
+msgstr "天蝎座奖杯（金）"
 
 msgid "dc_itm_nm_0204_obj"
-msgstr ""
+msgstr "射手座奖杯（铜）"
 
 msgid "dc_itm_nm_0205_obj"
-msgstr ""
+msgstr "射手座奖杯（银）"
 
 msgid "dc_itm_nm_0206_obj"
-msgstr ""
+msgstr "射手座奖杯（金）"
 
 msgid "dc_itm_nm_0207_obj"
-msgstr ""
+msgstr "魔羯座奖杯（铜）"
 
 msgid "dc_itm_nm_0208_obj"
-msgstr ""
+msgstr "魔羯座奖杯（银）"
 
 msgid "dc_itm_nm_0209_obj"
-msgstr ""
+msgstr "魔羯座奖杯（金）"
 
 msgid "dc_itm_nm_0214_obj"
-msgstr ""
+msgstr "鲤鱼旗"
 
 msgid "dc_itm_nm_0215_obj"
-msgstr ""
+msgstr "牵牛花"
 
 msgid "dc_itm_nm_0216_obj"
-msgstr ""
+msgstr "七夕笹饰"
 
 msgid "dc_itm_nm_0218_obj"
-msgstr ""
+msgstr "月见团子"
 
 msgid "dc_itm_nm_0219_obj"
-msgstr ""
+msgstr "万圣南瓜灯"
 
 msgid "dc_itm_nm_0223_obj"
-msgstr ""
+msgstr "只要Rune闪闪发光"
 
 msgid "dc_itm_nm_0224_obj"
-msgstr ""
+msgstr "若是仅此一次的恋爱"
 
 msgid "dc_itm_nm_0225_obj"
-msgstr ""
+msgstr "Aimo"
 
 msgid "dc_itm_nm_0226_obj"
-msgstr ""
+msgstr "射手座☆午后九时Don't be late"
 
 msgid "dc_itm_nm_0227_obj"
-msgstr ""
+msgstr "PLANET DANCE"
 
 msgid "dc_itm_nm_0228_obj"
-msgstr ""
+msgstr "我的男朋友是飞行员（PartⅠ）"
 
 msgid "dc_itm_nm_0247_obj"
-msgstr ""
+msgstr "圆桌（裸喰娘娘）"
 
 msgid "dc_itm_nm_0248_obj"
-msgstr ""
+msgstr "观叶植物（自然风）"
 
 msgid "dc_itm_nm_0249_obj"
-msgstr ""
+msgstr "沙发（日常风）"
 
 msgid "dc_itm_nm_0250_obj"
-msgstr ""
+msgstr "靠枕（日常风）"
 
 msgid "dc_itm_nm_0251_obj"
-msgstr ""
+msgstr "落地灯（日常风）"
 
 msgid "dc_itm_nm_0252_obj"
-msgstr ""
+msgstr "窗户（简约风）"
 
 msgid "dc_itm_nm_0253_obj"
-msgstr ""
+msgstr "蓝色相框（明美的房间）"
 
 msgid "dc_itm_nm_0254_obj"
-msgstr ""
+msgstr "绿色相框（明美的房间）"
 
 msgid "dc_itm_nm_0255_obj"
-msgstr ""
+msgstr "白色地毯（明美的房间）"
 
 msgid "dc_itm_nm_0256_obj"
-msgstr ""
+msgstr "长桌（裸喰娘娘）"
 
 msgid "dc_itm_nm_0257_obj"
-msgstr ""
+msgstr "绿色地毯（裸喰娘娘）"
 
 msgid "dc_itm_nm_0258_obj"
-msgstr ""
+msgstr "地毯（芙蕾雅的房间）"
 
 msgid "dc_itm_nm_0259_obj"
-msgstr ""
+msgstr "装饰石柱（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0260_obj"
-msgstr ""
+msgstr "大餐桌（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0261_obj"
-msgstr ""
+msgstr "碗柜（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0262_obj"
-msgstr ""
+msgstr "地毯（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0263_obj"
-msgstr ""
+msgstr "大置物柜（兰卡的房间）"
 
 msgid "dc_itm_nm_0264_obj"
-msgstr ""
+msgstr "圆桌（兰卡的房间）"
 
 msgid "dc_itm_nm_0265_obj"
-msgstr ""
+msgstr "书桌（兰卡的房间）"
 
 msgid "dc_itm_nm_0266_obj"
-msgstr ""
+msgstr "装饰画（兰卡的房间）"
 
 msgid "dc_itm_nm_0268_obj"
-msgstr ""
+msgstr "落地灯（雪莉露的房间）"
 
 msgid "dc_itm_nm_0269_obj"
-msgstr ""
+msgstr "装饰画（雪莉露的房间）"
 
 msgid "dc_itm_nm_0270_obj"
-msgstr ""
+msgstr "壁挂显示器（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0271_obj"
-msgstr ""
+msgstr "音响（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0272_obj"
-msgstr ""
+msgstr "海报（巴萨拉的房间）"
 
 msgid "dc_itm_nm_0273_obj"
-msgstr ""
+msgstr "地板上的大洞"
 
 msgid "dc_itm_nm_0274_obj"
-msgstr ""
+msgstr "散落一地的乐谱A"
 
 msgid "dc_itm_nm_0275_obj"
-msgstr ""
+msgstr "散落一地的乐谱B"
 
 msgid "dc_itm_nm_0278_obj"
-msgstr ""
+msgstr "千羽鹤"
 
 msgid "dc_itm_nm_0279_obj"
-msgstr ""
+msgstr "微型人料理餐桌（超时空饭店 娘娘）"
 
 msgid "dc_itm_nm_0280_obj"
-msgstr ""
+msgstr "地毯（米拉洁的房间）"
 
 msgid "dc_itm_nm_0281_obj"
-msgstr ""
+msgstr "水母公仔（米拉洁的房间）"
 
 msgid "dc_itm_nm_0282_obj"
-msgstr ""
+msgstr "大置物柜（米拉洁的房间）"
 
 msgid "dc_itm_nm_0283_obj"
-msgstr ""
+msgstr "三角茶几（米莲的房间）"
 
 msgid "dc_itm_nm_0284_obj"
-msgstr ""
+msgstr "沙发（米莲的房间）"
 
 msgid "dc_itm_nm_0285_obj"
-msgstr ""
+msgstr "米莲的宝贝毛绒公仔"
 
 msgid "dc_itm_nm_0286_obj"
-msgstr ""
+msgstr "壁挂显示器（米莲的房间）"
 
 msgid "dc_itm_nm_0287_obj"
-msgstr ""
+msgstr "置物柜（米莲的房间）"
 
 msgid "dc_itm_nm_0288_obj"
-msgstr ""
+msgstr "鱼缸（米莲的房间）"
 
 msgid "dc_itm_nm_0289_obj"
-msgstr ""
+msgstr "大玻璃窗（米莲的房间）"
 
 msgid "dc_itm_nm_0290_obj"
-msgstr ""
+msgstr "装饰画（米莲的房间）"
 
 msgid "dc_itm_nm_0291_obj"
-msgstr ""
+msgstr "观叶植物（米莲的房间）"
 
 msgid "dc_itm_nm_0292_obj"
-msgstr ""
+msgstr "长椅（小教堂）"
 
 msgid "dc_itm_nm_0293_obj"
-msgstr ""
+msgstr "管风琴"
 
 msgid "dc_itm_nm_0294_obj"
-msgstr ""
+msgstr "立式花篮"
 
 msgid "dc_itm_nm_0295_obj"
-msgstr ""
+msgstr "结婚蛋糕"
 
 msgid "dc_itm_nm_0296_obj"
-msgstr ""
+msgstr "婚礼迎宾牌"
 
 msgid "dc_itm_nm_0297_obj"
-msgstr ""
+msgstr "壁灯（小教堂）"
 
 msgid "dc_itm_nm_0298_obj"
-msgstr ""
+msgstr "彩色玻璃窗"
 
 msgid "dc_itm_nm_0299_obj"
-msgstr ""
+msgstr "床（要的房间）"
 
 msgid "dc_itm_nm_0300_obj"
-msgstr ""
+msgstr "梳妆台（要的房间）"
 
 msgid "dc_itm_nm_0301_obj"
-msgstr ""
+msgstr "电脑桌（要的房间）"
 
 msgid "dc_itm_nm_0302_obj"
-msgstr ""
+msgstr "电视（要的房间）"
 
 msgid "dc_itm_nm_0303_obj"
 msgstr ""
