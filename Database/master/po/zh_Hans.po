@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-09 14:14+0000\n"
+"PO-Revision-Date: 2025-04-10 03:10+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -17185,43 +17185,43 @@ msgid "qn_dsc_1132"
 msgstr "玩家等级达到5级，解锁超时空房间"
 
 msgid "qn_dsc_1133"
-msgstr "在【系列家具点数商店】兑换系列家具1次"
+msgstr "在【家具点数商店】兑换家具1次"
 
 msgid "qn_dsc_1134"
-msgstr "在【系列家具点数商店】兑换系列家具5次"
+msgstr "在【家具点数商店】兑换家具5次"
 
 msgid "qn_dsc_1135"
-msgstr "在【系列家具点数商店】兑换系列家具10次"
+msgstr "在【家具点数商店】兑换家具10次"
 
 msgid "qn_dsc_1136"
-msgstr "在【系列家具点数商店】兑换系列家具15次"
+msgstr "在【家具点数商店】兑换家具15次"
 
 msgid "qn_dsc_1137"
-msgstr "在【系列家具点数商店】兑换系列家具20次"
+msgstr "在【家具点数商店】兑换家具20次"
 
 msgid "qn_dsc_1138"
-msgstr "在【系列家具点数商店】兑换系列家具30次"
+msgstr "在【家具点数商店】兑换家具30次"
 
 msgid "qn_dsc_1139"
-msgstr "累计获得系列家具点数15000DP"
+msgstr "累计获得家具点数15000DP"
 
 msgid "qn_dsc_1140"
-msgstr "累计获得系列家具点数20000DP"
+msgstr "累计获得家具点数20000DP"
 
 msgid "qn_dsc_1141"
-msgstr "累计获得系列家具点数30000DP"
+msgstr "累计获得家具点数30000DP"
 
 msgid "qn_dsc_1142"
-msgstr "累计获得系列家具点数40000DP"
+msgstr "累计获得家具点数40000DP"
 
 msgid "qn_dsc_1143"
-msgstr "累计获得系列家具点数50000DP"
+msgstr "累计获得家具点数50000DP"
 
 msgid "qn_dsc_1144"
-msgstr "累计获得系列家具点数75000DP"
+msgstr "累计获得家具点数75000DP"
 
 msgid "qn_dsc_1145"
-msgstr "累计获得系列家具点数100000DP"
+msgstr "累计获得家具点数100000DP"
 
 msgid "qn_dsc_1146"
 msgstr "玩家等级达到9级，解锁强化战机功能"
@@ -23795,7 +23795,7 @@ msgid "spitm_nm_0007"
 msgstr "超银河奖章"
 
 msgid "spitm_nm_0008"
-msgstr "系列家具点数"
+msgstr "家具点数"
 
 msgid "spitm_nm_0009"
 msgstr "稀有提升星盘碎片"
@@ -23857,8 +23857,8 @@ msgstr ""
 
 msgid "spitm_dsc_0008"
 msgstr ""
-"刻有系列家具点数图案的代币。\n"
-"可用于在凯厄斯商店兑换系列家具。"
+"刻有家具点数图案的代币。\n"
+"可用于在凯厄斯商店兑换家具。"
 
 msgid "spitm_dsc_0009"
 msgstr "收集一定数量后，可在凯厄斯商店兑换为稀有提升星盘的道具"
@@ -26979,7 +26979,7 @@ msgid "dc_itm_nm_0097_obj"
 msgstr "吊瓶架"
 
 msgid "dc_itm_nm_0098_obj"
-msgstr "生命体征检测仪"
+msgstr "生命体征监测仪"
 
 msgid "dc_itm_nm_0099_obj"
 msgstr "床边桌（病房）"
@@ -27075,7 +27075,7 @@ msgid "dc_itm_nm_0134_obj"
 msgstr "挂毯（梅萨）"
 
 msgid "dc_itm_nm_0135_obj"
-msgstr ""
+msgstr "小小瓦尔基里"
 
 msgid "dc_itm_nm_0136_obj"
 msgstr "瞩目新人南瓜"
@@ -27111,7 +27111,7 @@ msgid "dc_itm_nm_0148_obj"
 msgstr "鲷鱼烧浮床"
 
 msgid "dc_itm_nm_0149_obj"
-msgstr ""
+msgstr "万圣节手办"
 
 msgid "dc_itm_nm_0150_obj"
 msgstr "圣诞明美娃娃"
@@ -27681,7 +27681,7 @@ msgid "dc_itm_nm_0371_obj"
 msgstr "小雪铲（冰雪裸喰娘娘）"
 
 msgid "dc_itm_nm_0372_obj"
-msgstr ""
+msgstr "造型灯（冰雪裸喰娘娘）"
 
 msgid "dc_itm_nm_0373_obj"
 msgstr "圣诞树（圣诞广场）"
@@ -28474,1035 +28474,1109 @@ msgstr "超时空要塞Δ系列家具"
 
 msgid "dc_itm_dsc_0135_obj"
 msgstr ""
+"西田望见女士（饰玛基娜·中岛）\n"
+"在直播节目中亲手绘制的吉祥物"
 
 msgid "dc_itm_dsc_0136_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列家具"
 
 msgid "dc_itm_dsc_0137_obj"
-msgstr ""
+msgstr "超时空要塞F系列家具"
 
 msgid "dc_itm_dsc_0138_obj"
-msgstr ""
+msgstr "超时空要塞F系列家具"
 
 msgid "dc_itm_dsc_0139_obj"
-msgstr ""
+msgstr "超时空要塞F系列家具"
 
 msgid "dc_itm_dsc_0141_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列家具"
 
 msgid "dc_itm_dsc_0142_obj"
-msgstr ""
+msgstr "超时空要塞7系列家具"
 
 msgid "dc_itm_dsc_0144_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0145_obj"
-msgstr ""
+msgstr "超时空要塞7系列家具"
 
 msgid "dc_itm_dsc_0146_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列家具"
 
 msgid "dc_itm_dsc_0147_obj"
-msgstr ""
+msgstr "超时空要塞7系列家具"
 
 msgid "dc_itm_dsc_0148_obj"
-msgstr ""
+msgstr "超时空要塞F系列家具"
 
 msgid "dc_itm_dsc_0149_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列家具"
 
 msgid "dc_itm_dsc_0150_obj"
-msgstr ""
+msgstr "超时空要塞Macross系列家具"
 
 msgid "dc_itm_dsc_0154_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0155_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0156_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0157_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0158_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0159_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0160_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0161_obj"
-msgstr ""
+msgstr "超时空要塞F系列角色"
 
 msgid "dc_itm_dsc_0162_obj"
-msgstr ""
+msgstr "超时空要塞F系列角色"
 
 msgid "dc_itm_dsc_0163_obj"
-msgstr ""
+msgstr "超时空要塞F系列角色"
 
 msgid "dc_itm_dsc_0164_obj"
-msgstr ""
+msgstr "超时空要塞F系列角色"
 
 msgid "dc_itm_dsc_0165_obj"
-msgstr ""
+msgstr "超时空要塞7系列角色"
 
 msgid "dc_itm_dsc_0166_obj"
-msgstr ""
+msgstr "超时空要塞7系列角色"
 
 msgid "dc_itm_dsc_0167_obj"
-msgstr ""
+msgstr "超时空要塞7系列角色"
 
 msgid "dc_itm_dsc_0168_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0169_obj"
-msgstr ""
+msgstr "超时空要塞Δ系列角色"
 
 msgid "dc_itm_dsc_0170_obj"
-msgstr ""
+msgstr "超时空要塞7系列角色"
 
 msgid "dc_itm_dsc_0171_obj"
-msgstr ""
+msgstr "松松软软的可爱毛绒"
 
 msgid "dc_itm_dsc_0173_obj"
-msgstr ""
+msgstr "松松软软的可爱毛绒"
 
 msgid "dc_itm_dsc_0174_obj"
 msgstr ""
+"水瓶座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0175_obj"
 msgstr ""
+"水瓶座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0176_obj"
 msgstr ""
+"水瓶座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0177_obj"
 msgstr ""
+"双鱼座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0178_obj"
 msgstr ""
+"双鱼座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0179_obj"
 msgstr ""
+"双鱼座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0180_obj"
 msgstr ""
+"白羊座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0181_obj"
 msgstr ""
+"白羊座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0182_obj"
 msgstr ""
+"白羊座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0183_obj"
 msgstr ""
+"金牛座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0184_obj"
 msgstr ""
+"金牛座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0185_obj"
 msgstr ""
+"金牛座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0186_obj"
 msgstr ""
+"双子座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0187_obj"
 msgstr ""
+"双子座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0188_obj"
 msgstr ""
+"双子座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0189_obj"
 msgstr ""
+"巨蟹座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0190_obj"
 msgstr ""
+"巨蟹座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0191_obj"
 msgstr ""
+"巨蟹座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0192_obj"
 msgstr ""
+"狮子座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0193_obj"
 msgstr ""
+"狮子座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0194_obj"
 msgstr ""
+"狮子座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0195_obj"
 msgstr ""
+"处女座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0196_obj"
 msgstr ""
+"处女座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0197_obj"
 msgstr ""
+"处女座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0198_obj"
 msgstr ""
+"天枰座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0199_obj"
 msgstr ""
+"天枰座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0200_obj"
 msgstr ""
+"天枰座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0201_obj"
 msgstr ""
+"天蝎座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0202_obj"
 msgstr ""
+"天蝎座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0203_obj"
 msgstr ""
+"天蝎座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0204_obj"
 msgstr ""
+"射手座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0205_obj"
 msgstr ""
+"射手座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0206_obj"
 msgstr ""
+"射手座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0207_obj"
 msgstr ""
+"魔羯座铜奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0208_obj"
 msgstr ""
+"魔羯座银奖杯\n"
+"在超银河总力Live中作出贡献的证明"
 
 msgid "dc_itm_dsc_0209_obj"
 msgstr ""
+"魔羯座金奖杯\n"
+"在超银河总力Live中作出杰出贡献的证明"
 
 msgid "dc_itm_dsc_0214_obj"
-msgstr ""
+msgstr "季节限定家具"
 
 msgid "dc_itm_dsc_0215_obj"
-msgstr ""
+msgstr "季节限定家具"
 
 msgid "dc_itm_dsc_0216_obj"
-msgstr ""
+msgstr "季节限定家具"
 
 msgid "dc_itm_dsc_0218_obj"
-msgstr ""
+msgstr "季节限定家具"
 
 msgid "dc_itm_dsc_0219_obj"
-msgstr ""
+msgstr "季节限定家具"
 
 msgid "dc_itm_dsc_0223_obj"
-msgstr ""
+msgstr "《只要Rune闪闪发光》歌曲封面海报"
 
 msgid "dc_itm_dsc_0224_obj"
-msgstr ""
+msgstr "《若是仅此一次的恋爱》歌曲封面海报"
 
 msgid "dc_itm_dsc_0225_obj"
-msgstr ""
+msgstr "《Aimo》歌曲封面海报"
 
 msgid "dc_itm_dsc_0226_obj"
-msgstr ""
+msgstr "《射手座☆午后九时Don't be late》歌曲封面海报"
 
 msgid "dc_itm_dsc_0227_obj"
-msgstr ""
+msgstr "《PLANET DANCE》歌曲封面海报"
 
 msgid "dc_itm_dsc_0228_obj"
-msgstr ""
+msgstr "《我的男朋友是飞行员（PartⅠ）》歌曲封面海报"
 
 msgid "dc_itm_dsc_0247_obj"
-msgstr ""
+msgstr "裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0248_obj"
-msgstr ""
+msgstr "简约风系列家具"
 
 msgid "dc_itm_dsc_0249_obj"
-msgstr ""
+msgstr "简约风系列家具"
 
 msgid "dc_itm_dsc_0250_obj"
-msgstr ""
+msgstr "简约风系列家具"
 
 msgid "dc_itm_dsc_0251_obj"
-msgstr ""
+msgstr "简约风系列家具"
 
 msgid "dc_itm_dsc_0252_obj"
-msgstr ""
+msgstr "简约风系列家具"
 
 msgid "dc_itm_dsc_0253_obj"
-msgstr ""
+msgstr "明美的房间系列家具"
 
 msgid "dc_itm_dsc_0254_obj"
-msgstr ""
+msgstr "明美的房间系列家具"
 
 msgid "dc_itm_dsc_0255_obj"
-msgstr ""
+msgstr "明美的房间系列家具"
 
 msgid "dc_itm_dsc_0256_obj"
-msgstr ""
+msgstr "裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0257_obj"
-msgstr ""
+msgstr "裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0258_obj"
-msgstr ""
+msgstr "芙蕾雅的房间系列家具"
 
 msgid "dc_itm_dsc_0259_obj"
-msgstr ""
+msgstr "凯厄斯女生宿舍系列家具"
 
 msgid "dc_itm_dsc_0260_obj"
-msgstr ""
+msgstr "凯厄斯女生宿舍系列家具"
 
 msgid "dc_itm_dsc_0261_obj"
-msgstr ""
+msgstr "凯厄斯女生宿舍系列家具"
 
 msgid "dc_itm_dsc_0262_obj"
-msgstr ""
+msgstr "凯厄斯女生宿舍系列家具"
 
 msgid "dc_itm_dsc_0263_obj"
-msgstr ""
+msgstr "兰卡的房间系列家具"
 
 msgid "dc_itm_dsc_0264_obj"
-msgstr ""
+msgstr "兰卡的房间系列家具"
 
 msgid "dc_itm_dsc_0265_obj"
-msgstr ""
+msgstr "兰卡的房间系列家具"
 
 msgid "dc_itm_dsc_0266_obj"
-msgstr ""
+msgstr "兰卡的房间系列家具"
 
 msgid "dc_itm_dsc_0268_obj"
-msgstr ""
+msgstr "雪莉露的房间系列家具"
 
 msgid "dc_itm_dsc_0269_obj"
-msgstr ""
+msgstr "雪莉露的房间系列家具"
 
 msgid "dc_itm_dsc_0270_obj"
-msgstr ""
+msgstr "巴萨拉的房间系列家具"
 
 msgid "dc_itm_dsc_0271_obj"
-msgstr ""
+msgstr "巴萨拉的房间系列家具"
 
 msgid "dc_itm_dsc_0272_obj"
-msgstr ""
+msgstr "巴萨拉的房间系列家具"
 
 msgid "dc_itm_dsc_0273_obj"
-msgstr ""
+msgstr "巴萨拉的房间系列家具"
 
 msgid "dc_itm_dsc_0274_obj"
-msgstr ""
+msgstr "巴萨拉的房间系列家具"
 
 msgid "dc_itm_dsc_0275_obj"
-msgstr ""
+msgstr "巴萨拉的房间系列家具"
 
 msgid "dc_itm_dsc_0278_obj"
-msgstr ""
+msgstr "Frontier船团军医院系列家具"
 
 msgid "dc_itm_dsc_0279_obj"
-msgstr ""
+msgstr "超时空饭店 娘娘系列家具"
 
 msgid "dc_itm_dsc_0280_obj"
-msgstr ""
+msgstr "米拉洁的房间系列家具"
 
 msgid "dc_itm_dsc_0281_obj"
-msgstr ""
+msgstr "米拉洁的房间系列家具"
 
 msgid "dc_itm_dsc_0282_obj"
-msgstr ""
+msgstr "米拉洁的房间系列家具"
 
 msgid "dc_itm_dsc_0283_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0284_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0285_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0286_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0287_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0288_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0289_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0290_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0291_obj"
-msgstr ""
+msgstr "米莲的房间系列家具"
 
 msgid "dc_itm_dsc_0292_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0293_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0294_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0295_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0296_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0297_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0298_obj"
-msgstr ""
+msgstr "小教堂系列家具"
 
 msgid "dc_itm_dsc_0299_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0300_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0301_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0302_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0303_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0304_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0305_obj"
-msgstr ""
+msgstr "要的房间系列家具"
 
 msgid "dc_itm_dsc_0306_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0307_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0308_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0309_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0310_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0311_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0312_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0313_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0314_obj"
-msgstr ""
+msgstr "天文台系列家具"
 
 msgid "dc_itm_dsc_0315_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0316_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0317_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0318_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0319_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0320_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0321_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0322_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0323_obj"
-msgstr ""
+msgstr "派对现场系列家具"
 
 msgid "dc_itm_dsc_0324_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0325_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0326_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0327_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0328_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0329_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0330_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0331_obj"
-msgstr ""
+msgstr "拉格纳海洋馆系列家具"
 
 msgid "dc_itm_dsc_0332_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0333_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0334_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0335_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0336_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0337_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0338_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0339_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0340_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0341_obj"
-msgstr ""
+msgstr "玛基娜和蕾娜的房间系列家具"
 
 msgid "dc_itm_dsc_0342_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0343_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0344_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0345_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0346_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0347_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0348_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0349_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0350_obj"
-msgstr ""
+msgstr "红叶茶歇区系列家具"
 
 msgid "dc_itm_dsc_0351_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0352_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0353_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0354_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0355_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0356_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0357_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0358_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0359_obj"
-msgstr ""
+msgstr "万圣节主题房系列家具"
 
 msgid "dc_itm_dsc_0360_obj"
-msgstr ""
+msgstr "Macross舰桥系列家具"
 
 msgid "dc_itm_dsc_0361_obj"
-msgstr ""
+msgstr "Macross舰桥系列家具"
 
 msgid "dc_itm_dsc_0362_obj"
-msgstr ""
+msgstr "Macross舰桥系列家具"
 
 msgid "dc_itm_dsc_0363_obj"
-msgstr ""
+msgstr "Macross舰桥系列家具"
 
 msgid "dc_itm_dsc_0364_obj"
-msgstr ""
+msgstr "Macross舰桥系列家具"
 
 msgid "dc_itm_dsc_0365_obj"
-msgstr ""
+msgstr "Macross舰桥系列家具"
 
 msgid "dc_itm_dsc_0366_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0367_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0368_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0369_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0370_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0371_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0372_obj"
-msgstr ""
+msgstr "冰雪裸喰娘娘系列家具"
 
 msgid "dc_itm_dsc_0373_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0374_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0375_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0376_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0377_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0378_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0379_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0380_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0381_obj"
-msgstr ""
+msgstr "圣诞广场系列家具"
 
 msgid "dc_itm_dsc_0382_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0383_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0384_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0385_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0386_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0387_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0388_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0389_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0390_obj"
-msgstr ""
+msgstr "北欧圣诞系列家具"
 
 msgid "dc_itm_dsc_0391_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0392_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0393_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0394_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0395_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0396_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0397_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0398_obj"
-msgstr ""
+msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0399_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0400_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0401_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0402_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0403_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0404_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0405_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0406_obj"
-msgstr ""
+msgstr "甜点铺系列家具"
 
 msgid "dc_itm_dsc_0407_obj"
-msgstr ""
+msgstr "米莲的生日蛋糕"
 
 msgid "dc_itm_dsc_0408_obj"
-msgstr ""
+msgstr "玛基娜的生日蛋糕"
 
 msgid "dc_itm_dsc_0409_obj"
-msgstr ""
+msgstr "兰卡的生日蛋糕"
 
 msgid "dc_itm_dsc_0410_obj"
-msgstr ""
+msgstr "要的生日蛋糕"
 
 msgid "dc_itm_dsc_0411_obj"
-msgstr ""
+msgstr "蕾娜的生日蛋糕"
 
 msgid "dc_itm_dsc_0412_obj"
-msgstr ""
+msgstr "巴萨拉的生日蛋糕"
 
 msgid "dc_itm_dsc_0413_obj"
-msgstr ""
+msgstr "美云的生日蛋糕"
 
 msgid "dc_itm_dsc_0414_obj"
-msgstr ""
+msgstr "明美的生日蛋糕"
 
 msgid "dc_itm_dsc_0415_obj"
-msgstr ""
+msgstr "芙蕾雅的生日蛋糕"
 
 msgid "dc_itm_dsc_0416_obj"
-msgstr ""
+msgstr "雪莉露的生日蛋糕"
 
 msgid "dc_itm_dsc_0417_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0418_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0419_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0420_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0421_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0422_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0423_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0424_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0425_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0426_obj"
-msgstr ""
+msgstr "教室系列家具"
 
 msgid "dc_itm_dsc_0427_obj"
-msgstr ""
+msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0428_obj"
-msgstr ""
+msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0429_obj"
-msgstr ""
+msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0430_obj"
-msgstr ""
+msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0431_obj"
-msgstr ""
+msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0432_obj"
-msgstr ""
+msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0433_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0434_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0435_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0436_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0437_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0438_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0439_obj"
-msgstr ""
+msgstr "木屋系列家具"
 
 msgid "dc_itm_dsc_0440_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0441_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0442_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0443_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0444_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0445_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0446_obj"
-msgstr ""
+msgstr "白色圣诞系列家具"
 
 msgid "dc_itm_dsc_0447_obj"
-msgstr ""
+msgstr "新年庭院系列家具"
 
 msgid "dc_itm_dsc_0448_obj"
-msgstr ""
+msgstr "新年庭院系列家具"
 
 msgid "dc_itm_dsc_0449_obj"
-msgstr ""
+msgstr "新年庭院系列家具"
 
 msgid "dc_itm_dsc_0450_obj"
-msgstr ""
+msgstr "新年庭院系列家具"
 
 msgid "dc_itm_dsc_0451_obj"
-msgstr ""
+msgstr "新年庭院系列家具"
 
 msgid "dc_itm_dsc_0452_obj"
-msgstr ""
+msgstr "新年庭院系列家具"
 
 msgid "dc_itm_dsc_0453_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0454_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0455_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0456_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0457_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0458_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0459_obj"
-msgstr ""
+msgstr "巧克力屋系列家具"
 
 msgid "dc_itm_dsc_0460_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0461_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0462_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0463_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0464_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0465_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0466_obj"
-msgstr ""
+msgstr "面包店系列家具"
 
 msgid "dc_itm_dsc_0467_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0468_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0469_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0470_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0471_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0472_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0473_obj"
-msgstr ""
+msgstr "复古风房间系列家具"
 
 msgid "dc_itm_dsc_0474_obj"
-msgstr ""
+msgstr "齿轮房间系列家具"
 
 msgid "dc_itm_dsc_0475_obj"
-msgstr ""
+msgstr "齿轮房间系列家具"
 
 msgid "dc_itm_dsc_0476_obj"
-msgstr ""
+msgstr "齿轮房间系列家具"
 
 msgid "dc_itm_dsc_0477_obj"
-msgstr ""
+msgstr "齿轮房间系列家具"
 
 msgid "dc_itm_dsc_0478_obj"
-msgstr ""
+msgstr "齿轮房间系列家具"
 
 msgid "dc_itm_dsc_0479_obj"
-msgstr ""
+msgstr "齿轮房间系列家具"
 
 msgid "dc_itm_dsc_0480_obj"
-msgstr ""
+msgstr "花园婚礼系列家具"
 
 msgid "dc_itm_dsc_0481_obj"
-msgstr ""
+msgstr "花园婚礼系列家具"
 
 msgid "dc_itm_dsc_0482_obj"
-msgstr ""
+msgstr "花园婚礼系列家具"
 
 msgid "dc_itm_dsc_0483_obj"
-msgstr ""
+msgstr "花园婚礼系列家具"
 
 msgid "dc_itm_dsc_0484_obj"
-msgstr ""
+msgstr "花园婚礼系列家具"
 
 msgid "dc_itm_dsc_0485_obj"
-msgstr ""
+msgstr "亚洲风情度假屋系列家具"
 
 msgid "dc_itm_dsc_0486_obj"
-msgstr ""
+msgstr "亚洲风情度假屋系列家具"
 
 msgid "dc_itm_dsc_0487_obj"
-msgstr ""
+msgstr "亚洲风情度假屋系列家具"
 
 msgid "dc_itm_dsc_0488_obj"
-msgstr ""
+msgstr "亚洲风情度假屋系列家具"
 
 msgid "dc_itm_dsc_0489_obj"
-msgstr ""
+msgstr "亚洲风情度假屋系列家具"
 
 msgid "dc_itm_dsc_0490_obj"
-msgstr ""
+msgstr "亚洲风情度假屋系列家具"
 
 msgid "dc_itm_dsc_0491_obj"
-msgstr ""
+msgstr "赏月茶室系列家具"
 
 msgid "dc_itm_dsc_0492_obj"
-msgstr ""
+msgstr "赏月茶室系列家具"
 
 msgid "dc_itm_dsc_0493_obj"
-msgstr ""
+msgstr "赏月茶室系列家具"
 
 msgid "dc_itm_dsc_0494_obj"
-msgstr ""
+msgstr "赏月茶室系列家具"
 
 msgid "dc_itm_dsc_0495_obj"
-msgstr ""
+msgstr "赏月茶室系列家具"
 
 msgid "dc_itm_dsc_0496_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0497_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0498_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0499_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0500_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0501_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0502_obj"
-msgstr ""
+msgstr "万圣节派对系列家具"
 
 msgid "dc_itm_dsc_0503_obj"
-msgstr ""
+msgstr "杰特拉帝商场系列家具"
 
 msgid "dc_itm_dsc_0504_obj"
-msgstr ""
+msgstr "杰特拉帝商场系列家具"
 
 msgid "dc_itm_dsc_0505_obj"
-msgstr ""
+msgstr "杰特拉帝商场系列家具"
 
 msgid "dc_itm_dsc_0506_obj"
-msgstr ""
+msgstr "杰特拉帝商场系列家具"
 
 msgid "dc_itm_dsc_0507_obj"
-msgstr ""
+msgstr "杰特拉帝商场系列家具"
 
 msgid "dc_itm_dsc_0508_obj"
-msgstr ""
+msgstr "杰特拉帝商场系列家具"
 
 msgid "dc_itm_dsc_0509_obj"
-msgstr ""
+msgstr "圣诞市集系列家具"
 
 msgid "dc_itm_dsc_0510_obj"
-msgstr ""
+msgstr "圣诞市集系列家具"
 
 msgid "dc_itm_dsc_0511_obj"
-msgstr ""
+msgstr "圣诞市集系列家具"
 
 msgid "dc_itm_dsc_0512_obj"
-msgstr ""
+msgstr "圣诞市集系列家具"
 
 msgid "dc_itm_dsc_0513_obj"
-msgstr ""
+msgstr "圣诞市集系列家具"
 
 msgid "dc_itm_nm_0001_chr"
 msgstr "芙蕾雅·薇恩"
@@ -29541,7 +29615,7 @@ msgid "dc_itm_nm_0002_sp"
 msgstr "奖章生成器"
 
 msgid "dc_itm_nm_0003_sp"
-msgstr "系列家具点数生成器"
+msgstr "家具点数生成器"
 
 msgid "dc_itm_nm_0004_sp"
 msgstr ""
@@ -30878,12 +30952,12 @@ msgstr ""
 "大成功概率提升{0}%"
 
 msgid "dcpt_nm_0001"
-msgstr "系列家具点数"
+msgstr "家具点数"
 
 msgid "dcpt_dsc_0001"
 msgstr ""
-"刻有系列家具点数图案的代币。\n"
-"可用于在凯厄斯商店兑换系列家具。"
+"刻有家具点数图案的代币。\n"
+"可用于在凯厄斯商店兑换家具。"
 
 msgid "dc_set_nm_0002"
 msgstr "芙蕾雅的房间"
