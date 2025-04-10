@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-04-09 03:14+0000\n"
+"PO-Revision-Date: 2025-04-10 07:57+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -2685,22 +2685,22 @@ msgid "sn_0994"
 msgstr "宠物丘露露"
 
 msgid "sn_0995"
-msgstr ""
+msgstr "乘风飞翔"
 
 msgid "sn_0996"
-msgstr ""
+msgstr "紧急避难"
 
 msgid "sn_0997"
-msgstr ""
+msgstr "Space Ex Machina"
 
 msgid "sn_0999"
-msgstr ""
+msgstr "二人同心"
 
 msgid "sn_1000"
-msgstr ""
+msgstr "“暗”度陈仓的黑客"
 
 msgid "sn_1001"
-msgstr ""
+msgstr "仅此一次，下不为例！！"
 
 msgid "sn_1002"
 msgstr ""
