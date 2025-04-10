@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-09 14:14+0000\n"
+"PO-Revision-Date: 2025-04-11 08:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -914,37 +914,38 @@ msgid "a_dsc_0015"
 msgstr "Makes note press timing less strict for [dv]s"
 
 msgid "a_dsc_0016"
-msgstr ""
+msgstr "Makes combos uninterruptible for [dv]s"
 
 msgid "a_dsc_0017"
-msgstr ""
+msgstr "Makes combos uninterruptible for [dv]s"
 
 msgid "a_dsc_0018"
-msgstr ""
+msgstr "Makes combos uninterruptible for [dv]s"
 
 msgid "a_dsc_0019"
-msgstr ""
+msgstr "Turns all notes into item notes for [dv]s"
 
 msgid "a_dsc_0020"
-msgstr ""
+msgstr "Makes all note judgements PERFECT for [dv]s"
 
 msgid "a_dsc_0021"
-msgstr ""
+msgstr "Makes note timing tighter, but boosts score [v2]% for [dv]s"
 
 msgid "a_dsc_0022"
-msgstr ""
+msgstr "For [dv]s, boosts score [v1]% every time combo goes up by 50"
 
 msgid "a_dsc_0023"
-msgstr ""
+msgstr "For [dv2]s, reduces HP by [v1] every second, but boosts score [v2]%"
 
 msgid "a_dsc_0024"
-msgstr ""
+msgstr "For [dv]s, boosts score [v1]％ (Usable 2 times)"
 
 msgid "a_dsc_0025"
-msgstr ""
+msgstr "For [dv]s, boosts score [v1]% every time combo goes up by 50"
 
 msgid "a_dsc_0026"
 msgstr ""
+"For [dv]s, boosts score [v1]% every time combo goes up by 50 (Usable 2 times)"
 
 msgid "l_nm_0001"
 msgstr "Damage–"
@@ -1283,43 +1284,43 @@ msgid "l_nm_0112"
 msgstr "Score+"
 
 msgid "l_nm_0113"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0114"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "l_nm_0115"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0116"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0117"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "l_nm_0118"
 msgstr "Damage–"
 
 msgid "l_nm_0119"
-msgstr ""
+msgstr "Lax Timing B+Score B"
 
 msgid "l_nm_0120"
-msgstr ""
+msgstr "Recovery B + Score B"
 
 msgid "l_nm_0121"
 msgstr "Damage–"
 
 msgid "l_nm_0122"
-msgstr ""
+msgstr "Lax Timing A + Score A"
 
 msgid "l_nm_0123"
-msgstr ""
+msgstr "Lax Timing A + Score A"
 
 msgid "l_nm_0124"
-msgstr ""
+msgstr "Combo A + Score A"
 
 msgid "l_nm_0125"
-msgstr ""
+msgstr "Lax Timing B+Score B"
 
 msgid "l_nm_0126"
 msgstr ""
@@ -1331,10 +1332,10 @@ msgid "l_nm_0128"
 msgstr ""
 
 msgid "l_nm_0129"
-msgstr ""
+msgstr "Lax Timing A + Score A"
 
 msgid "l_nm_0130"
-msgstr ""
+msgstr "Recovery B + Score B"
 
 msgid "l_nm_0131"
 msgstr ""
