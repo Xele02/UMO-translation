@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-10 03:10+0000\n"
+"PO-Revision-Date: 2025-04-10 07:57+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -21318,7 +21318,7 @@ msgid "vc_uni_0004"
 msgstr "天"
 
 msgid "vc_uni_0005"
-msgstr "件"
+msgstr "套"
 
 msgid "vc_uni_0006"
 msgstr "个"
@@ -26505,7 +26505,7 @@ msgid "dc_itm_nm_0035_bg"
 msgstr "新年和室"
 
 msgid "dc_itm_nm_0036_bg"
-msgstr "甜点铺"
+msgstr "点心铺"
 
 msgid "dc_itm_nm_0037_bg"
 msgstr "教室"
@@ -26739,7 +26739,7 @@ msgid "dc_itm_nm_0013_obj"
 msgstr "绿色坐垫"
 
 msgid "dc_itm_nm_0014_obj"
-msgstr "茶几（凯厄斯女生宿舍）"
+msgstr "小圆桌（凯厄斯女生宿舍）"
 
 msgid "dc_itm_nm_0015_obj"
 msgstr "沙发（凯厄斯女生宿舍）"
@@ -26751,7 +26751,7 @@ msgid "dc_itm_nm_0017_obj"
 msgstr "床（兰卡的房间）"
 
 msgid "dc_itm_nm_0018_obj"
-msgstr "台灯（兰卡的房间）"
+msgstr "台灯桌（兰卡的房间）"
 
 msgid "dc_itm_nm_0019_obj"
 msgstr "小爱的小窝（兰卡的房间）"
@@ -26808,13 +26808,13 @@ msgid "dc_itm_nm_0036_obj"
 msgstr "勇的摩托车"
 
 msgid "dc_itm_nm_0038_obj"
-msgstr "巴萨拉的吉他"
+msgstr "巴萨拉的电吉他"
 
 msgid "dc_itm_nm_0039_obj"
 msgstr "米莲的贝斯"
 
 msgid "dc_itm_nm_0040_obj"
-msgstr "雷伊的电子琴"
+msgstr "雷伊的肩背式键盘"
 
 msgid "dc_itm_nm_0041_obj"
 msgstr "比希达的鼓组"
@@ -26889,7 +26889,7 @@ msgid "dc_itm_nm_0067_obj"
 msgstr "挂画"
 
 msgid "dc_itm_nm_0068_obj"
-msgstr "和风桌子"
+msgstr "和风木桌"
 
 msgid "dc_itm_nm_0069_obj"
 msgstr "紫色坐垫"
@@ -27321,13 +27321,13 @@ msgid "dc_itm_nm_0248_obj"
 msgstr "观叶植物（自然风）"
 
 msgid "dc_itm_nm_0249_obj"
-msgstr "沙发（日常风）"
+msgstr "沙发（简约风）"
 
 msgid "dc_itm_nm_0250_obj"
-msgstr "坐垫（日常风）"
+msgstr "坐垫（简约风）"
 
 msgid "dc_itm_nm_0251_obj"
-msgstr "落地灯（日常风）"
+msgstr "落地灯（简约风）"
 
 msgid "dc_itm_nm_0252_obj"
 msgstr "窗户（简约风）"
@@ -27408,7 +27408,7 @@ msgid "dc_itm_nm_0280_obj"
 msgstr "地毯（米拉洁的房间）"
 
 msgid "dc_itm_nm_0281_obj"
-msgstr "水母公仔（米拉洁的房间）"
+msgstr "水母毛绒公仔（米拉洁的房间）"
 
 msgid "dc_itm_nm_0282_obj"
 msgstr "大置物柜（米拉洁的房间）"
@@ -27513,7 +27513,7 @@ msgid "dc_itm_nm_0315_obj"
 msgstr "橙汁塔"
 
 msgid "dc_itm_nm_0316_obj"
-msgstr "派对桌"
+msgstr "派对餐桌"
 
 msgid "dc_itm_nm_0317_obj"
 msgstr "海报装饰框（派对现场）"
@@ -27648,7 +27648,7 @@ msgid "dc_itm_nm_0360_obj"
 msgstr "舰桥船长专座"
 
 msgid "dc_itm_nm_0361_obj"
-msgstr "舰桥座位"
+msgstr "舰桥船员座位"
 
 msgid "dc_itm_nm_0362_obj"
 msgstr "舰桥瓦内莎专座"
@@ -27657,10 +27657,10 @@ msgid "dc_itm_nm_0363_obj"
 msgstr "航空管制主控台"
 
 msgid "dc_itm_nm_0364_obj"
-msgstr "驾驶兼火器主控台"
+msgstr "航行兼武器系统主控台"
 
 msgid "dc_itm_nm_0365_obj"
-msgstr "送餐推车（Macross舰桥）"
+msgstr "餐车（Macross舰桥）"
 
 msgid "dc_itm_nm_0366_obj"
 msgstr "海猫雪人"
@@ -27759,13 +27759,13 @@ msgid "dc_itm_nm_0397_obj"
 msgstr "红富士挂画"
 
 msgid "dc_itm_nm_0398_obj"
-msgstr ""
+msgstr "小小的拉门后…"
 
 msgid "dc_itm_nm_0399_obj"
 msgstr "奶油蛋糕沙发"
 
 msgid "dc_itm_nm_0400_obj"
-msgstr "甜甜圈塔（甜点铺）"
+msgstr "甜甜圈塔（点心铺）"
 
 msgid "dc_itm_nm_0401_obj"
 msgstr "棒棒糖装饰"
@@ -28086,7 +28086,7 @@ msgid "dc_itm_nm_0506_obj"
 msgstr "杰特拉帝汤匙"
 
 msgid "dc_itm_nm_0507_obj"
-msgstr "杰特拉帝杯子"
+msgstr "杰特拉帝茶杯"
 
 msgid "dc_itm_nm_0508_obj"
 msgstr "杰特拉帝茶托"
@@ -29234,28 +29234,28 @@ msgid "dc_itm_dsc_0398_obj"
 msgstr "新年和室系列家具"
 
 msgid "dc_itm_dsc_0399_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0400_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0401_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0402_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0403_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0404_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0405_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0406_obj"
-msgstr "甜点铺系列家具"
+msgstr "点心铺系列家具"
 
 msgid "dc_itm_dsc_0407_obj"
 msgstr "米莲的生日蛋糕"
@@ -29997,39 +29997,41 @@ msgstr ""
 
 msgid "dc_itm_nm_0001_srf"
 msgstr ""
+"请…\n"
+"请多指教！"
 
 msgid "dc_itm_nm_0002_srf"
-msgstr ""
+msgstr "等你好久啦！"
 
 msgid "dc_itm_nm_0003_srf"
-msgstr ""
+msgstr "准备好了吗？"
 
 msgid "dc_itm_nm_0004_srf"
-msgstr ""
+msgstr "好的！"
 
 msgid "dc_itm_nm_0005_srf"
-msgstr ""
+msgstr "欸嘻嘻~"
 
 msgid "dc_itm_nm_0006_srf"
-msgstr ""
+msgstr "好担心…"
 
 msgid "dc_itm_nm_0007_srf"
-msgstr ""
+msgstr "唔…"
 
 msgid "dc_itm_nm_0008_srf"
-msgstr ""
+msgstr "做好觉悟吧！"
 
 msgid "dc_itm_nm_0009_srf"
-msgstr ""
+msgstr "才没生气呢！"
 
 msgid "dc_itm_nm_0010_srf"
-msgstr ""
+msgstr "我也不会认输的！"
 
 msgid "dc_itm_nm_0011_srf"
-msgstr ""
+msgstr "才没在消沉呢…"
 
 msgid "dc_itm_nm_0012_srf"
-msgstr ""
+msgstr "加油加油！"
 
 msgid "dc_itm_nm_0013_srf"
 msgstr ""
@@ -31059,7 +31061,7 @@ msgid "dc_set_nm_0035"
 msgstr "新年和室"
 
 msgid "dc_set_nm_0036"
-msgstr "甜点铺"
+msgstr "点心铺"
 
 msgid "dc_set_nm_0037"
 msgstr "教室"
