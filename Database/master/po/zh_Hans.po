@@ -30096,8 +30096,8 @@ msgstr ""
 
 msgid "dc_itm_nm_0030_srf"
 msgstr ""
-"我们\n"
-"绝不能输"
+"只许成功，\n"
+"不能失败"
 
 msgid "dc_itm_nm_0031_srf"
 msgstr "送上我们的歌声吧…！"
