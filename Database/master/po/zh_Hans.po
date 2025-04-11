@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-11 08:46+0000\n"
+"PO-Revision-Date: 2025-04-11 16:26+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -30045,7 +30045,7 @@ msgid "dc_itm_nm_0015_srf"
 msgstr "今天的风很适合飞翔呢～"
 
 msgid "dc_itm_nm_0016_srf"
-msgstr "Gorigori！"
+msgstr "GoriGori！"
 
 msgid "dc_itm_nm_0017_srf"
 msgstr ""
@@ -30097,17 +30097,17 @@ msgstr ""
 msgid "dc_itm_nm_0030_srf"
 msgstr ""
 "只许成功，\n"
-"不能失败"
+"不许失败"
 
 msgid "dc_itm_nm_0031_srf"
 msgstr "送上我们的歌声吧…！"
 
 msgid "dc_itm_nm_0032_srf"
-msgstr "赐予你女神的祝福！"
+msgstr "接下女神的祝福吧！"
 
 msgid "dc_itm_nm_0033_srf"
 msgstr ""
-"现在应该不是\n"
+"现在还没到\n"
 "放松的时候吧？"
 
 msgid "dc_itm_nm_0034_srf"
@@ -30143,80 +30143,90 @@ msgstr ""
 
 msgid "dc_itm_nm_0043_srf"
 msgstr ""
-"不能再拖下去了，\n"
+"不能再拖了，\n"
 "速战速决吧！"
 
 msgid "dc_itm_nm_0044_srf"
 msgstr "呵呵，我很开心哦"
 
 msgid "dc_itm_nm_0045_srf"
-msgstr ""
+msgstr "心在怦怦直跳！"
 
 msgid "dc_itm_nm_0046_srf"
-msgstr ""
+msgstr "…抱歉"
 
 msgid "dc_itm_nm_0047_srf"
-msgstr ""
+msgstr "真令人怀念…"
 
 msgid "dc_itm_nm_0048_srf"
-msgstr ""
+msgstr "喂！"
 
 msgid "dc_itm_nm_0049_srf"
-msgstr ""
+msgstr "冷静点！"
 
 msgid "dc_itm_nm_0050_srf"
-msgstr ""
+msgstr "让我来唱歌吧…！"
 
 msgid "dc_itm_nm_0051_srf"
-msgstr ""
+msgstr "该怎么办…"
 
 msgid "dc_itm_nm_0052_srf"
 msgstr ""
+"一起上吧，\n"
+"不要给敌人喘息的机会！"
 
 msgid "dc_itm_nm_0053_srf"
 msgstr ""
+"别怕！\n"
+"我们一定可以的！"
 
 msgid "dc_itm_nm_0054_srf"
-msgstr ""
+msgstr "真厉害！"
 
 msgid "dc_itm_nm_0055_srf"
-msgstr ""
+msgstr "很棒哦"
 
 msgid "dc_itm_nm_0056_srf"
-msgstr ""
+msgstr "我们成功了！"
 
 msgid "dc_itm_nm_0057_srf"
-msgstr ""
+msgstr "干的不错"
 
 msgid "dc_itm_nm_0058_srf"
-msgstr ""
+msgstr "完美！"
 
 msgid "dc_itm_nm_0059_srf"
-msgstr ""
+msgstr "大家…请帮帮我"
 
 msgid "dc_itm_nm_0060_srf"
-msgstr ""
+msgstr "我来帮忙了"
 
 msgid "dc_itm_nm_0061_srf"
 msgstr ""
+"差不多\n"
+"该到演唱会时间了吧~？"
 
 msgid "dc_itm_nm_0062_srf"
 msgstr ""
+"来~\n"
+"让气氛活跃起来吧！"
 
 msgid "dc_itm_nm_0063_srf"
 msgstr ""
+"好想跟大家\n"
+"一块儿唱歌！"
 
 msgid "dc_itm_nm_0064_srf"
-msgstr ""
+msgstr "卡哇哇~！"
 
 msgid "dc_itm_nm_0065_srf"
-msgstr ""
+msgstr "好紧张！"
 
 msgid "dc_itm_nm_0066_srf"
-msgstr ""
+msgstr "唉呀…"
 
 msgid "dc_itm_nm_0067_srf"
-msgstr ""
+msgstr "好难过的感觉…"
 
 msgid "dc_itm_nm_0068_srf"
 msgstr ""
