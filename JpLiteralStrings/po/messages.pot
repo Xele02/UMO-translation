@@ -2194,3 +2194,6 @@ msgstr ""
 msgid "UMO_EpisodeBonus"
 msgstr ""
 
+msgid "UMO_EventRunning"
+msgstr ""
+
