@@ -16,6 +16,9 @@ msgstr "日"
 msgid "StringLiteral_5812"
 msgstr "\n"
 
+msgid "StringLiteral_6527"
+msgstr "---"
+
 msgid "StringLiteral_8278"
 msgstr "既に初期化済みです。再初期化を行う場合は、Terminateを呼ぶ必要があります。"
 

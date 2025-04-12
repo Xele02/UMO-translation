@@ -1,6 +1,2118 @@
 msgid ""
 msgstr ""
 
+msgid "mission_desc_event_april_fool_a_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0036"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0036"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0037"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0037"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0038"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0038"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0039"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0039"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0040"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0040"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0041"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0041"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0042"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0042"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0043"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0043"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0044"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0044"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0045"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0045"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0046"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0046"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0047"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0047"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0048"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0048"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0049"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0049"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0050"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_a_0050"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_b_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_b_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_c_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_c_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_c_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_c_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_c_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_c_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_c_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_c_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_c_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0036"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0036"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0037"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0037"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0038"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0038"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0039"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0039"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0040"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0040"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0041"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0041"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0042"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0042"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0043"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0043"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0044"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0044"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0045"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0045"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0046"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0046"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0047"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0047"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_d_0048"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_d_0048"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0036"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0036"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0037"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0037"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0038"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0038"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0039"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0039"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0040"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0040"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0041"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0041"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0042"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0042"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0043"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0043"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0044"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0044"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0045"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0045"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0046"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0046"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0047"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0047"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0048"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0048"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0049"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0049"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_e_0050"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_e_0050"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0036"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0036"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0037"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0037"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0038"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0038"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0039"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0039"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0040"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0040"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0041"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0041"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0042"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0042"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_f_0043"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_f_0043"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0036"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0036"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0037"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0037"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0038"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0038"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0039"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0039"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0040"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0040"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0041"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0041"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0042"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0042"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0043"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0043"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0044"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0044"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0045"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0045"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0046"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0046"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0047"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0047"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0048"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0048"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0049"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0049"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_g_0050"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_g_0050"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_h_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_h_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0001"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0001"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0002"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0002"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0003"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0003"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0004"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0004"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0005"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0005"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0006"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0006"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0007"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0007"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0008"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0008"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0009"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0009"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0010"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0010"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0011"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0011"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0012"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0012"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0013"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0013"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0014"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0014"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0015"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0015"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0016"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0016"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0017"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0017"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0018"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0018"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0019"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0019"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0020"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0020"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0021"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0021"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0022"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0022"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0023"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0023"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0024"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0024"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0025"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0025"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0026"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0026"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0027"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0027"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0028"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0028"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0029"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0029"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0030"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0030"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0031"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0031"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0032"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0032"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0033"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0033"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0034"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0034"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0035"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0035"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0036"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0036"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0037"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0037"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0038"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0038"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0039"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0039"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0040"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0040"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0041"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0041"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0042"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0042"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0043"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0043"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0044"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0044"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0045"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0045"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0046"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0046"
+msgstr ""
+
+msgid "mission_desc_event_april_fool_i_0047"
+msgstr ""
+
+msgid "mission_desc2_event_april_fool_i_0047"
+msgstr ""
+
 msgid "mission_desc_event_battle_a_0001"
 msgstr ""
 
@@ -247,7 +2359,7 @@ msgstr ""
 msgid "mission_desc2_event_battle_a_0041"
 msgstr ""
 
-msgid "event_banner_event_battle_a"
+msgid "event_banner_event_battle_a_0001"
 msgstr ""
 
 msgid "mission_desc_event_battle_b_0001"
@@ -496,7 +2608,7 @@ msgstr ""
 msgid "mission_desc2_event_battle_b_0041"
 msgstr ""
 
-msgid "event_banner_event_battle_b"
+msgid "event_banner_event_battle_b_0001"
 msgstr ""
 
 msgid "mission_desc_event_battle_c_0001"
@@ -745,6 +2857,783 @@ msgstr ""
 msgid "mission_desc2_event_battle_c_0041"
 msgstr ""
 
-msgid "event_banner_event_battle_c"
+msgid "event_banner_event_battle_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0001"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0002"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0002"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0003"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0003"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0004"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0004"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0005"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0005"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0006"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0006"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0007"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0007"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0008"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0008"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0009"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0009"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0010"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0010"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0011"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0011"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0012"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0012"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0013"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0013"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0014"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0014"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0015"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0015"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0016"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0016"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0017"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0017"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0018"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0018"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0019"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0019"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0020"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0020"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0021"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0021"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0022"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0022"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0023"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0023"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0024"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0024"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0025"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0025"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0026"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0026"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0027"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0027"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0028"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0028"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0029"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0029"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0030"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0030"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0031"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0031"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0032"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0032"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0033"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0033"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0034"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0034"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0035"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0035"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0036"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0036"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0037"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0037"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0038"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0038"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0039"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0039"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0040"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0040"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0041"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0041"
+msgstr ""
+
+msgid "mission_desc_event_godiva_a_0042"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_a_0042"
+msgstr ""
+
+msgid "event_banner_event_godiva_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0001"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0002"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0002"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0003"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0003"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0004"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0004"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0005"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0005"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0006"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0006"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0007"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0007"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0008"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0008"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0009"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0009"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0010"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0010"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0011"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0011"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0012"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0012"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0013"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0013"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0014"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0014"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0015"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0015"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0016"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0016"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0017"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0017"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0018"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0018"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0019"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0019"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0020"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0020"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0021"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0021"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0022"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0022"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0023"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0023"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0024"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0024"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0025"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0025"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0026"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0026"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0027"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0027"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0028"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0028"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0029"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0029"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0030"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0030"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0031"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0031"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0032"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0032"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0033"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0033"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0034"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0034"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0035"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0035"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0036"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0036"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0037"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0037"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0038"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0038"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0039"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0039"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0040"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0040"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0041"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0041"
+msgstr ""
+
+msgid "mission_desc_event_godiva_b_0042"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_b_0042"
+msgstr ""
+
+msgid "event_banner_event_godiva_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0001"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0002"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0002"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0003"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0003"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0004"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0004"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0005"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0005"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0006"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0006"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0007"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0007"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0008"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0008"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0009"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0009"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0010"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0010"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0011"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0011"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0012"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0012"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0013"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0013"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0014"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0014"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0015"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0015"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0016"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0016"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0017"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0017"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0018"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0018"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0019"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0019"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0020"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0020"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0021"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0021"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0022"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0022"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0023"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0023"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0024"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0024"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0025"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0025"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0026"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0026"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0027"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0027"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0028"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0028"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0029"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0029"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0030"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0030"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0031"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0031"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0032"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0032"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0033"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0033"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0034"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0034"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0035"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0035"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0036"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0036"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0037"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0037"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0038"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0038"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0039"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0039"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0040"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0040"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0041"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0041"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0042"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0042"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0043"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0043"
+msgstr ""
+
+msgid "mission_desc_event_godiva_c_0044"
+msgstr ""
+
+msgid "mission_desc2_event_godiva_c_0044"
+msgstr ""
+
+msgid "event_banner_event_godiva_c_0001"
 msgstr ""
 

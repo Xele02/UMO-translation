@@ -1,6 +1,1341 @@
 msgid ""
 msgstr ""
 
+msgid "mission_desc_event_april_fool_a_0001"
+msgstr "ミッションを20個クリアする"
+
+msgid "mission_desc_event_april_fool_a_0002"
+msgstr "ミッションを30個クリアする"
+
+msgid "mission_desc_event_april_fool_a_0003"
+msgstr "ミッションを45個クリアする"
+
+msgid "mission_desc_event_april_fool_a_0004"
+msgstr "難易度VERY HARDの楽曲を\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_a_0005"
+msgstr "難易度VERY HARDの楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_a_0006"
+msgstr "難易度VERY HARDの楽曲を\nスコアランクSSで50回クリア"
+
+msgid "mission_desc_event_april_fool_a_0007"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_a_0008"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで30回クリア"
+
+msgid "mission_desc_event_april_fool_a_0009"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで50回クリア"
+
+msgid "mission_desc_event_april_fool_a_0010"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで100回クリア"
+
+msgid "mission_desc_event_april_fool_a_0011"
+msgstr "いずれかの楽曲の難易度HARD以上を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_a_0012"
+msgstr "いずれかの楽曲の難易度HARD以上を\nフルコンボで20回クリア"
+
+msgid "mission_desc_event_april_fool_a_0013"
+msgstr "いずれかの楽曲の難易度HARD以上を\nフルコンボで30回クリア"
+
+msgid "mission_desc_event_april_fool_a_0014"
+msgstr "いずれかの楽曲の難易度VERY HARD以上を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_a_0015"
+msgstr "いずれかの楽曲の難易度VERY HARD以上を\nフルコンボで20回クリア"
+
+msgid "mission_desc_event_april_fool_a_0016"
+msgstr "楽曲「Glow in the dark」の難易度EXTREMRを\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_a_0017"
+msgstr "楽曲「Glow in the dark」の難易度EXTREMRを\nフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_a_0018"
+msgstr "スコア300万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0019"
+msgstr "スコア400万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0020"
+msgstr "スコア500万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0021"
+msgstr "スコア600万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0022"
+msgstr "スコア700万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0023"
+msgstr "スコア800万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0024"
+msgstr "スコア900万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0025"
+msgstr "命属性の楽曲を\nスコア200万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0026"
+msgstr "命属性の楽曲を\nスコア300万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0027"
+msgstr "命属性の楽曲を\nスコア400万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0028"
+msgstr "命属性の楽曲を\nスコア500万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0029"
+msgstr "星属性の楽曲を\nスコア200万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0030"
+msgstr "星属性の楽曲を\nスコア300万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0031"
+msgstr "星属性の楽曲を\nスコア400万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0032"
+msgstr "星属性の楽曲を\nスコア500万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0033"
+msgstr "愛属性の楽曲を\nスコア200万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0034"
+msgstr "愛属性の楽曲を\nスコア300万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0035"
+msgstr "愛属性の楽曲を\nスコア400万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0036"
+msgstr "愛属性の楽曲を\nスコア500万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0037"
+msgstr "楽曲「Glow in the dark（高難度ver.）」を\n1回プレイ"
+
+msgid "mission_desc_event_april_fool_a_0038"
+msgstr "楽曲「Glow in the dark（高難度ver.）」を\n1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0039"
+msgstr "楽曲「Glow in the dark（高難度ver.）」を\nフルコンボで1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0040"
+msgstr "いずれかの楽曲の難易度EXTREME以上を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_a_0041"
+msgstr "いずれかの楽曲の難易度EXTREME以上を\nフルコンボで20回クリア"
+
+msgid "mission_desc_event_april_fool_a_0042"
+msgstr "命属性の楽曲を\nスコア600万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0043"
+msgstr "命属性の楽曲を\nスコア700万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0044"
+msgstr "星属性の楽曲を\nスコア600万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0045"
+msgstr "星属性の楽曲を\nスコア700万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0046"
+msgstr "愛属性の楽曲を\nスコア600万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0047"
+msgstr "愛属性の楽曲を\nスコア700万点以上でクリア"
+
+msgid "mission_desc_event_april_fool_a_0048"
+msgstr "スコア1000万以上で1回クリア"
+
+msgid "mission_desc_event_april_fool_a_0049"
+msgstr "スコア1000万以上で5回クリア"
+
+msgid "mission_desc_event_april_fool_a_0050"
+msgstr "スコア1200万以上でクリア"
+
+msgid "mission_desc_event_april_fool_b_0001"
+msgstr "【デイリー】カナメをセンターにして\n「涙目爆発音」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_b_0002"
+msgstr "【デイリー】カナメをセンターにして\n「涙目爆発音」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_b_0003"
+msgstr "【デイリー】カナメをセンターにして\n「涙目爆発音」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_b_0004"
+msgstr "【デイリー】カナメをセンターにして\n「涙目爆発音」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_b_0005"
+msgstr "【デイリー】カナメをセンターにして\n「涙目爆発音」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_b_0006"
+msgstr "カナメをセンターにして\nいずれかの楽曲を5回プレイする"
+
+msgid "mission_desc_event_april_fool_b_0007"
+msgstr "ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上を10回フルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0008"
+msgstr "【デイリー】フレイアをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0009"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0010"
+msgstr "【デイリー】美雲をセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0011"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0012"
+msgstr "【デイリー】カナメをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0013"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0014"
+msgstr "【デイリー】マキナをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0015"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0016"
+msgstr "【デイリー】レイナをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0017"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0018"
+msgstr "【デイリー】フレイアをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0019"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0020"
+msgstr "【デイリー】美雲をセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0021"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0022"
+msgstr "【デイリー】カナメをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0023"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0024"
+msgstr "【デイリー】マキナをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0025"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0026"
+msgstr "【デイリー】レイナをセンターにしてワルキューレが歌う\n「サヨナラノツバサ 〜 the end of triangle」を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0027"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0028"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0029"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0030"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0031"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0032"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0033"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_b_0034"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上を1回クリアする"
+
+msgid "mission_desc_event_april_fool_b_0035"
+msgstr "【デイリー】ワルキューレが歌う「サヨナラノツバサ 〜 the end of triangle」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_c_0001"
+msgstr "マクロスΔの楽曲\nを5回クリア"
+
+msgid "mission_desc_event_april_fool_c_0002"
+msgstr "マクロスΔの楽曲\nを10回クリア"
+
+msgid "mission_desc_event_april_fool_c_0003"
+msgstr "マクロスΔの楽曲\nを15回クリア"
+
+msgid "mission_desc_event_april_fool_c_0004"
+msgstr "マクロスΔの楽曲\nを20回クリア"
+
+msgid "mission_desc_event_april_fool_c_0005"
+msgstr "マクロスΔの楽曲\nを30回クリア"
+
+msgid "mission_desc_event_april_fool_d_0001"
+msgstr "エイプリルフールイベント楽曲を1回プレイ"
+
+msgid "mission_desc2_event_april_fool_d_0001"
+msgstr "エイプリルフールイベント楽曲を1回プレイ"
+
+msgid "mission_desc_event_april_fool_d_0002"
+msgstr "命属性の楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0003"
+msgstr "命属性の楽曲を\nスコア200万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0004"
+msgstr "命属性の楽曲を\nスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0005"
+msgstr "命属性の楽曲を\nスコア400万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0006"
+msgstr "星属性の楽曲を\nスコア100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0007"
+msgstr "星属性の楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0008"
+msgstr "星属性の楽曲を\nスコア200万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0009"
+msgstr "星属性の楽曲を\nスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0010"
+msgstr "星属性の楽曲を\nスコア400万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0011"
+msgstr "愛属性の楽曲を\nスコア100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0012"
+msgstr "愛属性の楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0013"
+msgstr "愛属性の楽曲を\nスコア200万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0014"
+msgstr "愛属性の楽曲を\nスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0015"
+msgstr "愛属性の楽曲を\nスコア400万以上でクリア"
+
+msgid "mission_desc_event_april_fool_d_0016"
+msgstr "楽曲をフルコンボで1回クリア"
+
+msgid "mission_desc_event_april_fool_d_0017"
+msgstr "楽曲をフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_d_0018"
+msgstr "楽曲をフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0019"
+msgstr "楽曲をフルコンボで25回クリア"
+
+msgid "mission_desc_event_april_fool_d_0020"
+msgstr "楽曲をフルコンボで50回クリア"
+
+msgid "mission_desc_event_april_fool_d_0021"
+msgstr "楽曲をスコアランクSSで1回クリア"
+
+msgid "mission_desc_event_april_fool_d_0022"
+msgstr "楽曲をスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0023"
+msgstr "楽曲をスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_d_0024"
+msgstr "楽曲をスコアランクSSで50回クリア"
+
+msgid "mission_desc_event_april_fool_d_0025"
+msgstr "楽曲をスコアランクSSで100回クリア"
+
+msgid "mission_desc_event_april_fool_d_0026"
+msgstr "難易度HARD以上の楽曲を\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0027"
+msgstr "難易度HARD以上の楽曲を\nスコアランクSSで15回クリア"
+
+msgid "mission_desc_event_april_fool_d_0028"
+msgstr "難易度HARD以上の楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_d_0029"
+msgstr "難易度HARD以上の楽曲を\nスコアランクSSで25回クリア"
+
+msgid "mission_desc_event_april_fool_d_0030"
+msgstr "難易度HARD以上の楽曲を\nスコアランクSSで30回クリア"
+
+msgid "mission_desc_event_april_fool_d_0031"
+msgstr "難易度HARD以上の楽曲を\nスコアランクSSで40回クリア"
+
+msgid "mission_desc_event_april_fool_d_0032"
+msgstr "難易度VERY HARD以上の楽曲を\nスコアランクSSで5回クリア"
+
+msgid "mission_desc_event_april_fool_d_0033"
+msgstr "難易度VERY HARD以上の楽曲を\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0034"
+msgstr "難易度VERY HARD以上の楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_d_0035"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで5回クリア"
+
+msgid "mission_desc_event_april_fool_d_0036"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0037"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで15回クリア"
+
+msgid "mission_desc_event_april_fool_d_0038"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_d_0039"
+msgstr "難易度HARD以上の楽曲を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0040"
+msgstr "難易度HARD以上の楽曲を\nフルコンボで15回クリア"
+
+msgid "mission_desc_event_april_fool_d_0041"
+msgstr "難易度HARD以上の楽曲を\nフルコンボで25回クリア"
+
+msgid "mission_desc_event_april_fool_d_0042"
+msgstr "難易度HARD以上の楽曲を\nフルコンボで40回クリア"
+
+msgid "mission_desc_event_april_fool_d_0043"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0044"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで20回クリア"
+
+msgid "mission_desc_event_april_fool_d_0045"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで30回クリア"
+
+msgid "mission_desc_event_april_fool_d_0046"
+msgstr "難易度EXTREMEの楽曲を\nフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_d_0047"
+msgstr "難易度EXTREMEの楽曲を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_d_0048"
+msgstr "難易度EXTREMEの楽曲を\nフルコンボで15回クリア"
+
+msgid "mission_desc_event_april_fool_e_0001"
+msgstr "【デイリー】マキナをセンターにして\n「おにゃの子☆girl」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0002"
+msgstr "【デイリー】マキナをセンターにして\n「おにゃの子☆girl」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0003"
+msgstr "【デイリー】マキナをセンターにして\n「おにゃの子☆girl」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0004"
+msgstr "【デイリー】マキナをセンターにして\n「おにゃの子☆girl」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0005"
+msgstr "【デイリー】マキナをセンターにして\n「おにゃの子☆girl」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0006"
+msgstr "マキナをセンターにして\nいずれかの楽曲を5回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0007"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0007"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0008"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0008"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0009"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0009"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0010"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0010"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0011"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0011"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0012"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0012"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0013"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0013"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0014"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0014"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0015"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0015"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0016"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc2_event_april_fool_e_0016"
+msgstr "【デイリー】いずれかの楽曲を\nスコアランクSSで3回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0017"
+msgstr "いずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0017"
+msgstr "いずれかの楽曲を20回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0018"
+msgstr "いずれかの楽曲を50回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0018"
+msgstr "いずれかの楽曲を50回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0019"
+msgstr "いずれかの楽曲を100回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0019"
+msgstr "いずれかの楽曲を100回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0020"
+msgstr "いずれかの楽曲を150回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0020"
+msgstr "いずれかの楽曲を150回クリアする"
+
+msgid "mission_desc_event_april_fool_e_0021"
+msgstr "フレイアをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0021"
+msgstr "フレイアをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0022"
+msgstr "フレイアをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0022"
+msgstr "フレイアをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0023"
+msgstr "フレイアをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0023"
+msgstr "フレイアをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0024"
+msgstr "美雲をセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0024"
+msgstr "美雲をセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0025"
+msgstr "美雲をセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0025"
+msgstr "美雲をセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0026"
+msgstr "美雲をセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0026"
+msgstr "美雲をセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0027"
+msgstr "カナメをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0027"
+msgstr "カナメをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0028"
+msgstr "カナメをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0028"
+msgstr "カナメをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0029"
+msgstr "カナメをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0029"
+msgstr "カナメをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0030"
+msgstr "マキナをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0030"
+msgstr "マキナをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0031"
+msgstr "マキナをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0031"
+msgstr "マキナをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0032"
+msgstr "マキナをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0032"
+msgstr "マキナをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0033"
+msgstr "レイナをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0033"
+msgstr "レイナをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0034"
+msgstr "レイナをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0034"
+msgstr "レイナをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0035"
+msgstr "レイナをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0035"
+msgstr "レイナをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0036"
+msgstr "ランカをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0036"
+msgstr "ランカをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0037"
+msgstr "ランカをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0037"
+msgstr "ランカをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0038"
+msgstr "ランカをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0038"
+msgstr "ランカをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0039"
+msgstr "シェリルをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0039"
+msgstr "シェリルをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0040"
+msgstr "シェリルをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0040"
+msgstr "シェリルをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0041"
+msgstr "シェリルをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0041"
+msgstr "シェリルをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0042"
+msgstr "ミレーヌをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0042"
+msgstr "ミレーヌをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0043"
+msgstr "ミレーヌをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0043"
+msgstr "ミレーヌをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0044"
+msgstr "ミレーヌをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0044"
+msgstr "ミレーヌをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0045"
+msgstr "バサラをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0045"
+msgstr "バサラをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0046"
+msgstr "バサラをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0046"
+msgstr "バサラをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0047"
+msgstr "バサラをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0047"
+msgstr "バサラをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0048"
+msgstr "ミンメイをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0048"
+msgstr "ミンメイをセンターにして\nいずれかの楽曲を10回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0049"
+msgstr "ミンメイをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0049"
+msgstr "ミンメイをセンターにして\nいずれかの楽曲を20回プレイする"
+
+msgid "mission_desc_event_april_fool_e_0050"
+msgstr "ミンメイをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc2_event_april_fool_e_0050"
+msgstr "ミンメイをセンターにして\nいずれかの楽曲を30回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0001"
+msgstr "【デイリー】ランカをセンターにして\n「ランカと Brand New Peach」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0002"
+msgstr "【デイリー】ランカをセンターにして\n「ランカと Brand New Peach」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0003"
+msgstr "【デイリー】ランカをセンターにして\n「ランカと Brand New Peach」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0004"
+msgstr "【デイリー】ランカをセンターにして\n「ランカと Brand New Peach」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0005"
+msgstr "【デイリー】ランカをセンターにして\n「ランカと Brand New Peach」を1回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0006"
+msgstr "ランカをセンターにして\nいずれかの楽曲を5回プレイする"
+
+msgid "mission_desc_event_april_fool_f_0007"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0008"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0009"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0010"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0011"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0012"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0013"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0014"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0015"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0016"
+msgstr "【デイリー】バルキリーオペレーションを1回クリア"
+
+msgid "mission_desc_event_april_fool_f_0017"
+msgstr "バルキリーオペレーションを5回クリア"
+
+msgid "mission_desc_event_april_fool_f_0018"
+msgstr "バルキリーオペレーションを10回クリア"
+
+msgid "mission_desc_event_april_fool_f_0019"
+msgstr "バルキリーオペレーションを20回クリア"
+
+msgid "mission_desc_event_april_fool_f_0020"
+msgstr "バルキリーオペレーションを50回クリア"
+
+msgid "mission_desc_event_april_fool_f_0021"
+msgstr "バルキリーオペレーションを80回クリア"
+
+msgid "mission_desc_event_april_fool_f_0022"
+msgstr "バルキリーオペレーションを100回クリア"
+
+msgid "mission_desc_event_april_fool_f_0023"
+msgstr "超歌姫モードに突入して楽曲を5回クリアする"
+
+msgid "mission_desc_event_april_fool_f_0024"
+msgstr "超歌姫モードに突入して楽曲を10回クリアする"
+
+msgid "mission_desc_event_april_fool_f_0025"
+msgstr "超歌姫モードに突入して楽曲を20回クリアする"
+
+msgid "mission_desc_event_april_fool_f_0026"
+msgstr "超歌姫モードに突入して楽曲を50回クリアする"
+
+msgid "mission_desc_event_april_fool_f_0027"
+msgstr "超歌姫モードに突入して楽曲を100回クリアする"
+
+msgid "mission_desc_event_april_fool_f_0028"
+msgstr "超時空要塞マクロスの難易度\nHARD以上の楽曲を5回クリア"
+
+msgid "mission_desc_event_april_fool_f_0029"
+msgstr "超時空要塞マクロスの難易度\nHARD以上の楽曲を10回クリア"
+
+msgid "mission_desc_event_april_fool_f_0030"
+msgstr "超時空要塞マクロスの難易度\nHARD以上の楽曲を20回クリア"
+
+msgid "mission_desc_event_april_fool_f_0031"
+msgstr "超時空要塞マクロスの難易度\nHARD以上の楽曲を30回クリア"
+
+msgid "mission_desc_event_april_fool_f_0032"
+msgstr "マクロス7の難易度\nHARD以上の楽曲を5回クリア"
+
+msgid "mission_desc_event_april_fool_f_0033"
+msgstr "マクロス7の難易度\nHARD以上の楽曲を10回クリア"
+
+msgid "mission_desc_event_april_fool_f_0034"
+msgstr "マクロス7の難易度\nHARD以上の楽曲を20回クリア"
+
+msgid "mission_desc_event_april_fool_f_0035"
+msgstr "マクロス7の難易度\nHARD以上の楽曲を30回クリア"
+
+msgid "mission_desc_event_april_fool_f_0036"
+msgstr "マクロスFの難易度\nHARD以上の楽曲を5回クリア"
+
+msgid "mission_desc_event_april_fool_f_0037"
+msgstr "マクロスFの難易度\nHARD以上の楽曲を10回クリア"
+
+msgid "mission_desc_event_april_fool_f_0038"
+msgstr "マクロスFの難易度\nHARD以上の楽曲を20回クリア"
+
+msgid "mission_desc_event_april_fool_f_0039"
+msgstr "マクロスFの難易度\nHARD以上の楽曲を30回クリア"
+
+msgid "mission_desc_event_april_fool_f_0040"
+msgstr "マクロスΔの難易度\nHARD以上の楽曲を5回クリア"
+
+msgid "mission_desc_event_april_fool_f_0041"
+msgstr "マクロスΔの難易度\nHARD以上の楽曲を10回クリア"
+
+msgid "mission_desc_event_april_fool_f_0042"
+msgstr "マクロスΔの難易度\nHARD以上の楽曲を20回クリア"
+
+msgid "mission_desc_event_april_fool_f_0043"
+msgstr "マクロスΔの難易度\nHARD以上の楽曲を30回クリア"
+
+msgid "mission_desc_event_april_fool_g_0001"
+msgstr "いずれかの楽曲\nの難易度NORMAL以上をフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_g_0001"
+msgstr "いずれかの楽曲のNORMAL\n以上をフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_g_0002"
+msgstr "いずれかの楽曲\nの難易度HARD以上をフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_g_0002"
+msgstr "いずれかの楽曲のHARD\n以上をフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_g_0003"
+msgstr "いずれかの楽曲\nの難易度VERY HARD以上をフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_g_0003"
+msgstr "いずれかの楽曲のVERY HARD\n以上をフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_g_0004"
+msgstr "いずれかの楽曲\nの難易度EXTREMEをフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_g_0004"
+msgstr "いずれかの楽曲のEXTREME\nをフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_g_0005"
+msgstr "【デイリー】「SEVENTH MOON」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0005"
+msgstr "「SEVENTH MOON」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0006"
+msgstr "【デイリー】「SEVENTH MOON」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0006"
+msgstr "「SEVENTH MOON」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0007"
+msgstr "【デイリー】「SEVENTH MOON」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0007"
+msgstr "「SEVENTH MOON」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0008"
+msgstr "【デイリー】「SEVENTH MOON」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0008"
+msgstr "「SEVENTH MOON」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0009"
+msgstr "【デイリー】「突撃ラブハート [Duet Version]」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0009"
+msgstr "「突撃ラブハート [Duet Version]」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0010"
+msgstr "【デイリー】「突撃ラブハート [Duet Version]」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0010"
+msgstr "「突撃ラブハート [Duet Version]」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0011"
+msgstr "【デイリー】「突撃ラブハート [Duet Version]」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0011"
+msgstr "「突撃ラブハート [Duet Version]」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0012"
+msgstr "【デイリー】「突撃ラブハート [Duet Version]」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0012"
+msgstr "「突撃ラブハート [Duet Version]」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0013"
+msgstr "【デイリー】「TRY AGAIN」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0013"
+msgstr "「TRY AGAIN」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0014"
+msgstr "【デイリー】「TRY AGAIN」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0014"
+msgstr "「TRY AGAIN」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0015"
+msgstr "【デイリー】「TRY AGAIN」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0015"
+msgstr "「TRY AGAIN」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0016"
+msgstr "【デイリー】「TRY AGAIN」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0016"
+msgstr "「TRY AGAIN」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0017"
+msgstr "【デイリー】「DYNAMITE EXPLOSION」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0017"
+msgstr "「DYNAMITE EXPLOSION」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0018"
+msgstr "【デイリー】「DYNAMITE EXPLOSION」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0018"
+msgstr "「DYNAMITE EXPLOSION」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0019"
+msgstr "【デイリー】「DYNAMITE EXPLOSION」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0019"
+msgstr "「DYNAMITE EXPLOSION」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0020"
+msgstr "【デイリー】「DYNAMITE EXPLOSION」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0020"
+msgstr "「DYNAMITE EXPLOSION」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0021"
+msgstr "【デイリー】「ヴァージンストーリー」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0021"
+msgstr "「ヴァージンストーリー」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0022"
+msgstr "【デイリー】「ヴァージンストーリー」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0022"
+msgstr "「ヴァージンストーリー」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0023"
+msgstr "【デイリー】「ヴァージンストーリー」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0023"
+msgstr "「ヴァージンストーリー」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0024"
+msgstr "【デイリー】「ヴァージンストーリー」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_g_0024"
+msgstr "「ヴァージンストーリー」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_g_0025"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで1回クリア"
+
+msgid "mission_desc_event_april_fool_g_0026"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで3回クリア"
+
+msgid "mission_desc_event_april_fool_g_0027"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_g_0028"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_g_0029"
+msgstr "難易度VERY HARD以上の楽曲を\nフルコンボで20回クリア"
+
+msgid "mission_desc_event_april_fool_g_0030"
+msgstr "難易度VERY HARD以上の楽曲を\nスコアランクSSで6回クリア"
+
+msgid "mission_desc_event_april_fool_g_0031"
+msgstr "難易度VERY HARD以上の楽曲を\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_g_0032"
+msgstr "難易度VERY HARD以上の楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_g_0033"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで6回クリア"
+
+msgid "mission_desc_event_april_fool_g_0034"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_april_fool_g_0035"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで20回クリア"
+
+msgid "mission_desc_event_april_fool_g_0036"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで30回クリア"
+
+msgid "mission_desc_event_april_fool_g_0037"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで40回クリア"
+
+msgid "mission_desc_event_april_fool_g_0038"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで50回クリア"
+
+msgid "mission_desc_event_april_fool_g_0039"
+msgstr "難易度EXTREMEの楽曲を\nスコアランクSSで60回クリア"
+
+msgid "mission_desc_event_april_fool_g_0040"
+msgstr "難易度EXTREMEの楽曲を\nフルコンボで10回クリア"
+
+msgid "mission_desc_event_april_fool_g_0041"
+msgstr "難易度EXTREMEの楽曲を\nフルコンボで20回クリア"
+
+msgid "mission_desc_event_april_fool_g_0042"
+msgstr "星属性の楽曲を\nスコア100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0043"
+msgstr "星属性の楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0044"
+msgstr "星属性の楽曲を\nスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0045"
+msgstr "愛属性の楽曲を\nスコア100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0046"
+msgstr "愛属性の楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0047"
+msgstr "愛属性の楽曲を\nスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0048"
+msgstr "命属性の楽曲を\nスコア100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0049"
+msgstr "命属性の楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_g_0050"
+msgstr "命属性の楽曲を\nスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_h_0001"
+msgstr "エイプリルフールイベントを１回クリア"
+
+msgid "mission_desc2_event_april_fool_h_0001"
+msgstr "エイプリルフールイベントを１回クリア"
+
+msgid "mission_desc_event_april_fool_h_0002"
+msgstr "いずれかの楽曲\nの難易度HARD以上をフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_h_0002"
+msgstr "いずれかの楽曲のHARD\n以上をフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_h_0003"
+msgstr "いずれかの楽曲\nの難易度VERY HARD以上をフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_h_0003"
+msgstr "いずれかの楽曲のVERY HARD\n以上をフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_h_0004"
+msgstr "いずれかの楽曲\nの難易度EXTREMEをフルコンボで5回クリア"
+
+msgid "mission_desc2_event_april_fool_h_0004"
+msgstr "いずれかの楽曲のEXTREME\nをフルコンボで5回クリア"
+
+msgid "mission_desc_event_april_fool_h_0005"
+msgstr "【デイリー】「ワルキューレがとまらない」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0005"
+msgstr "【デイリー】「ワルキューレがとまらない」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0006"
+msgstr "【デイリー】「ワルキューレがとまらない」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0006"
+msgstr "【デイリー】「ワルキューレがとまらない」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0007"
+msgstr "【デイリー】「ワルキューレがとまらない」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0007"
+msgstr "【デイリー】「ワルキューレがとまらない」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0008"
+msgstr "【デイリー】「ワルキューレがとまらない」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0008"
+msgstr "【デイリー】「ワルキューレがとまらない」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0009"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0009"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0010"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0010"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0011"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0011"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0012"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0012"
+msgstr "【デイリー】「ルンがピカッと光ったら」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0013"
+msgstr "【デイリー】「Silent Hacker」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0013"
+msgstr "【デイリー】「Silent Hacker」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0014"
+msgstr "【デイリー】「Silent Hacker」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0014"
+msgstr "【デイリー】「Silent Hacker」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0015"
+msgstr "【デイリー】「Silent Hacker」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0015"
+msgstr "【デイリー】「Silent Hacker」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0016"
+msgstr "【デイリー】「Silent Hacker」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0016"
+msgstr "【デイリー】「Silent Hacker」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0017"
+msgstr "【デイリー】「一度だけの恋なら」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0017"
+msgstr "【デイリー】「一度だけの恋なら」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0018"
+msgstr "【デイリー】「一度だけの恋なら」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0018"
+msgstr "【デイリー】「一度だけの恋なら」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0019"
+msgstr "【デイリー】「一度だけの恋なら」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0019"
+msgstr "【デイリー】「一度だけの恋なら」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0020"
+msgstr "【デイリー】「一度だけの恋なら」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0020"
+msgstr "【デイリー】「一度だけの恋なら」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0021"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0021"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0022"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0022"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0023"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0023"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_h_0024"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_april_fool_h_0024"
+msgstr "【デイリー】「ルンに花咲く恋もある」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_april_fool_i_0001"
+msgstr "楽曲をスコア100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0002"
+msgstr "楽曲をスコア125万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0003"
+msgstr "楽曲をスコア150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0004"
+msgstr "楽曲をスコア175万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0005"
+msgstr "楽曲をスコア200万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0006"
+msgstr "楽曲をスコア225万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0007"
+msgstr "楽曲をスコア250万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0008"
+msgstr "楽曲をスコア275万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0009"
+msgstr "楽曲をスコア300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0010"
+msgstr "楽曲をスコア325万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0011"
+msgstr "楽曲をスコア350万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0012"
+msgstr "楽曲をスコア375万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0013"
+msgstr "楽曲をスコア400万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0014"
+msgstr "楽曲をスコア425万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0015"
+msgstr "楽曲をスコア450万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0016"
+msgstr "楽曲をスコア475万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0017"
+msgstr "楽曲をスコア500万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0018"
+msgstr "楽曲をスコア525万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0019"
+msgstr "楽曲をスコア550万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0020"
+msgstr "楽曲をスコア575万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0021"
+msgstr "楽曲をスコア600万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0022"
+msgstr "楽曲をスコア625万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0023"
+msgstr "楽曲をスコア650万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0024"
+msgstr "楽曲をスコア675万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0025"
+msgstr "楽曲をスコア700万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0026"
+msgstr "楽曲をスコア725万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0027"
+msgstr "楽曲をスコア750万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0028"
+msgstr "楽曲をスコア775万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0029"
+msgstr "楽曲をスコア800万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0030"
+msgstr "楽曲をスコア825万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0031"
+msgstr "楽曲をスコア850万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0032"
+msgstr "楽曲をスコア875万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0033"
+msgstr "楽曲をスコア900万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0034"
+msgstr "楽曲をスコア925万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0035"
+msgstr "楽曲をスコア950万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0036"
+msgstr "楽曲をスコア975万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0037"
+msgstr "楽曲をスコア1000万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0038"
+msgstr "楽曲をスコア1050万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0039"
+msgstr "楽曲をスコア1100万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0040"
+msgstr "楽曲をスコア1150万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0041"
+msgstr "楽曲をスコア1200万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0042"
+msgstr "楽曲をスコア1250万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0043"
+msgstr "楽曲をスコア1300万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0044"
+msgstr "楽曲をスコア1350万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0045"
+msgstr "楽曲をスコア1400万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0046"
+msgstr "楽曲をスコア1450万以上でクリア"
+
+msgid "mission_desc_event_april_fool_i_0047"
+msgstr "楽曲をスコア1500万以上でクリア"
+
 msgid "mission_desc_event_battle_a_0001"
 msgstr "【デイリー】ライバルと勝負をして\n楽曲をクリア"
 
@@ -124,7 +1459,7 @@ msgstr "【デイリー】EXライバルに勝利"
 msgid "mission_desc_event_battle_a_0041"
 msgstr "イベント「超時空ファイナルLive ～Act.3～」\nのミッションを20個クリア"
 
-msgid "event_banner_event_battle_a"
+msgid "event_banner_event_battle_a_0001"
 msgstr "イベントに参加してエピソードプレート交換券をGET！"
 
 msgid "mission_desc_event_battle_b_0001"
@@ -250,7 +1585,7 @@ msgstr "ライバルと勝負をして楽曲を30回クリア"
 msgid "mission_desc_event_battle_b_0041"
 msgstr "イベント「会えないときのValentine」\nのミッションを20個クリア"
 
-msgid "event_banner_event_battle_b"
+msgid "event_banner_event_battle_b_0001"
 msgstr "イベントに参加してデカルガチャを10回引こう！"
 
 msgid "mission_desc_event_battle_c_0001"
@@ -376,6 +1711,612 @@ msgstr "【デイリー】EXライバルに勝利"
 msgid "mission_desc_event_battle_c_0041"
 msgstr "イベント「吹き抜ける風 ～NEVER SAY DIE～」\nのミッションを20個クリア"
 
-msgid "event_banner_event_battle_c"
+msgid "event_banner_event_battle_c_0001"
 msgstr "イベントに参加してデカルガチャを10回引こう！"
+
+msgid "mission_desc_event_godiva_a_0001"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0002"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0003"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0004"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0005"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0006"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0007"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0008"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0009"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_a_0010"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0011"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0012"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0013"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0014"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0015"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0016"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0017"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0018"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_a_0019"
+msgstr "イベント内で楽曲を5回クリア"
+
+msgid "mission_desc2_event_godiva_a_0019"
+msgstr "イベント内で楽曲を5回クリア"
+
+msgid "mission_desc_event_godiva_a_0020"
+msgstr "イベント内で楽曲を10回クリア"
+
+msgid "mission_desc2_event_godiva_a_0020"
+msgstr "イベント内で楽曲を10回クリア"
+
+msgid "mission_desc_event_godiva_a_0021"
+msgstr "イベント内で楽曲を15回クリア"
+
+msgid "mission_desc2_event_godiva_a_0021"
+msgstr "イベント内で楽曲を15回クリア"
+
+msgid "mission_desc_event_godiva_a_0022"
+msgstr "イベント内で楽曲を20回クリア"
+
+msgid "mission_desc2_event_godiva_a_0022"
+msgstr "イベント内で楽曲を20回クリア"
+
+msgid "mission_desc_event_godiva_a_0023"
+msgstr "イベント内で楽曲を25回クリア"
+
+msgid "mission_desc2_event_godiva_a_0023"
+msgstr "イベント内で楽曲を25回クリア"
+
+msgid "mission_desc_event_godiva_a_0024"
+msgstr "イベント内で楽曲を30回クリア"
+
+msgid "mission_desc2_event_godiva_a_0024"
+msgstr "イベント内で楽曲を30回クリア"
+
+msgid "mission_desc_event_godiva_a_0025"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア50万以上でクリア"
+
+msgid "mission_desc2_event_godiva_a_0025"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア50万以上でクリア"
+
+msgid "mission_desc_event_godiva_a_0026"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア60万以上でクリア"
+
+msgid "mission_desc2_event_godiva_a_0026"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア60万以上でクリア"
+
+msgid "mission_desc_event_godiva_a_0027"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア70万以上でクリア"
+
+msgid "mission_desc2_event_godiva_a_0027"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_godiva_a_0028"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア85万以上でクリア"
+
+msgid "mission_desc2_event_godiva_a_0028"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_godiva_a_0029"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア100万以上でクリア"
+
+msgid "mission_desc2_event_godiva_a_0029"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_godiva_a_0030"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア120万以上でクリア"
+
+msgid "mission_desc2_event_godiva_a_0030"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nをスコア120万以上でクリア"
+
+msgid "mission_desc_event_godiva_a_0031"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_a_0031"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nのEASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_a_0032"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_a_0032"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_a_0033"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_a_0033"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_a_0034"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_a_0034"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_a_0035"
+msgstr "イベント楽曲「シルバームーン・レッドムーン【MIRROR ver.】」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_a_0035"
+msgstr "「シルバームーン・レッドムーン【MIRROR ver.】」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_a_0036"
+msgstr "いずれかの歌姫のソウルアピールを5上げる"
+
+msgid "mission_desc_event_godiva_a_0037"
+msgstr "いずれかの歌姫のボイスアピールを5上げる"
+
+msgid "mission_desc_event_godiva_a_0038"
+msgstr "いずれかの歌姫のチャームアピールを5上げる"
+
+msgid "mission_desc_event_godiva_a_0039"
+msgstr "いずれかの歌姫のソウルアピールを10上げる"
+
+msgid "mission_desc_event_godiva_a_0040"
+msgstr "いずれかの歌姫のボイスアピールを10上げる"
+
+msgid "mission_desc_event_godiva_a_0041"
+msgstr "いずれかの歌姫のチャームアピールを10上げる"
+
+msgid "mission_desc_event_godiva_a_0042"
+msgstr "イベント「シルバームーン・ホーリームーン」\nのミッションを15個クリア"
+
+msgid "event_banner_event_godiva_a_0001"
+msgstr "イベントに参加してデカルガチャを10回引こう！"
+
+msgid "mission_desc_event_godiva_b_0001"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0002"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0003"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0004"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0005"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0006"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0007"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0008"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0009"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_b_0010"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0011"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0012"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0013"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0014"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0015"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0016"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0017"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0018"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_b_0019"
+msgstr "イベント内で楽曲を5回クリア"
+
+msgid "mission_desc_event_godiva_b_0020"
+msgstr "イベント内で楽曲を10回クリア"
+
+msgid "mission_desc_event_godiva_b_0021"
+msgstr "イベント内で楽曲を15回クリア"
+
+msgid "mission_desc_event_godiva_b_0022"
+msgstr "イベント内で楽曲を20回クリア"
+
+msgid "mission_desc_event_godiva_b_0023"
+msgstr "イベント内で楽曲を25回クリア"
+
+msgid "mission_desc_event_godiva_b_0024"
+msgstr "イベント内で楽曲を30回クリア"
+
+msgid "mission_desc_event_godiva_b_0025"
+msgstr "イベント楽曲「つらみ現在進行形」\nをスコア50万以上でクリア"
+
+msgid "mission_desc2_event_godiva_b_0025"
+msgstr "「つらみ現在進行形」\nをスコア50万以上でクリア"
+
+msgid "mission_desc_event_godiva_b_0026"
+msgstr "イベント楽曲「つらみ現在進行形」\nをスコア60万以上でクリア"
+
+msgid "mission_desc2_event_godiva_b_0026"
+msgstr "「つらみ現在進行形」\nをスコア60万以上でクリア"
+
+msgid "mission_desc_event_godiva_b_0027"
+msgstr "イベント楽曲「つらみ現在進行形」\nをスコア70万以上でクリア"
+
+msgid "mission_desc2_event_godiva_b_0027"
+msgstr "「つらみ現在進行形」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_godiva_b_0028"
+msgstr "イベント楽曲「つらみ現在進行形」\nをスコア85万以上でクリア"
+
+msgid "mission_desc2_event_godiva_b_0028"
+msgstr "「つらみ現在進行形」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_godiva_b_0029"
+msgstr "イベント楽曲「つらみ現在進行形」\nをスコア100万以上でクリア"
+
+msgid "mission_desc2_event_godiva_b_0029"
+msgstr "「つらみ現在進行形」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_godiva_b_0030"
+msgstr "イベント楽曲「つらみ現在進行形」\nをスコア120万以上でクリア"
+
+msgid "mission_desc2_event_godiva_b_0030"
+msgstr "「つらみ現在進行形」\nをスコア120万以上でクリア"
+
+msgid "mission_desc_event_godiva_b_0031"
+msgstr "イベント楽曲「つらみ現在進行形」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_b_0031"
+msgstr "「つらみ現在進行形」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_b_0032"
+msgstr "イベント楽曲「つらみ現在進行形」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_b_0032"
+msgstr "「つらみ現在進行形」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_b_0033"
+msgstr "イベント楽曲「つらみ現在進行形」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_b_0033"
+msgstr "「つらみ現在進行形」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_b_0034"
+msgstr "イベント楽曲「つらみ現在進行形」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_b_0034"
+msgstr "「つらみ現在進行形」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_b_0035"
+msgstr "イベント楽曲「つらみ現在進行形」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_b_0035"
+msgstr "「つらみ現在進行形」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_b_0036"
+msgstr "いずれかの歌姫のソウルアピールを5上げる"
+
+msgid "mission_desc_event_godiva_b_0037"
+msgstr "いずれかの歌姫のボイスアピールを5上げる"
+
+msgid "mission_desc_event_godiva_b_0038"
+msgstr "いずれかの歌姫のチャームアピールを5上げる"
+
+msgid "mission_desc_event_godiva_b_0039"
+msgstr "いずれかの歌姫のソウルアピールを10上げる"
+
+msgid "mission_desc_event_godiva_b_0040"
+msgstr "いずれかの歌姫のボイスアピールを10上げる"
+
+msgid "mission_desc_event_godiva_b_0041"
+msgstr "いずれかの歌姫のチャームアピールを10上げる"
+
+msgid "mission_desc_event_godiva_b_0042"
+msgstr "イベント「無垢になれ！ ～つらみ現在進行形～」\nのミッションを15個クリア"
+
+msgid "event_banner_event_godiva_b_0001"
+msgstr "イベントに参加してデカルガチャを10回引こう！"
+
+msgid "mission_desc_event_godiva_c_0001"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0001"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0002"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0002"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0003"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0003"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0004"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0004"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0005"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0005"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0006"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0006"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0007"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0007"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0008"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0008"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0009"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0009"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0010"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0010"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0011"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc2_event_godiva_c_0011"
+msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
+
+msgid "mission_desc_event_godiva_c_0012"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0012"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0013"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0013"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0014"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0014"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0015"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0015"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0016"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0016"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0017"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0017"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0018"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0018"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0019"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0019"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0020"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc2_event_godiva_c_0020"
+msgstr "【デイリー】楽曲をプレイして\nスペシャルライブを1回発生させる"
+
+msgid "mission_desc_event_godiva_c_0021"
+msgstr "イベント内で楽曲を5回クリア"
+
+msgid "mission_desc2_event_godiva_c_0021"
+msgstr "イベント内で楽曲を5回クリア"
+
+msgid "mission_desc_event_godiva_c_0022"
+msgstr "イベント内で楽曲を10回クリア"
+
+msgid "mission_desc2_event_godiva_c_0022"
+msgstr "イベント内で楽曲を10回クリア"
+
+msgid "mission_desc_event_godiva_c_0023"
+msgstr "イベント内で楽曲を15回クリア"
+
+msgid "mission_desc2_event_godiva_c_0023"
+msgstr "イベント内で楽曲を15回クリア"
+
+msgid "mission_desc_event_godiva_c_0024"
+msgstr "イベント内で楽曲を20回クリア"
+
+msgid "mission_desc2_event_godiva_c_0024"
+msgstr "イベント内で楽曲を20回クリア"
+
+msgid "mission_desc_event_godiva_c_0025"
+msgstr "イベント内で楽曲を25回クリア"
+
+msgid "mission_desc2_event_godiva_c_0025"
+msgstr "イベント内で楽曲を25回クリア"
+
+msgid "mission_desc_event_godiva_c_0026"
+msgstr "イベント内で楽曲を30回クリア"
+
+msgid "mission_desc2_event_godiva_c_0026"
+msgstr "イベント内で楽曲を30回クリア"
+
+msgid "mission_desc_event_godiva_c_0027"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nをスコア50万以上でクリア"
+
+msgid "mission_desc2_event_godiva_c_0027"
+msgstr "「FLASH IN THE DARK」\nをスコア50万以上でクリア"
+
+msgid "mission_desc_event_godiva_c_0028"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nをスコア60万以上でクリア"
+
+msgid "mission_desc2_event_godiva_c_0028"
+msgstr "「FLASH IN THE DARK」\nをスコア60万以上でクリア"
+
+msgid "mission_desc_event_godiva_c_0029"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nをスコア70万以上でクリア"
+
+msgid "mission_desc2_event_godiva_c_0029"
+msgstr "「FLASH IN THE DARK」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_godiva_c_0030"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nをスコア85万以上でクリア"
+
+msgid "mission_desc2_event_godiva_c_0030"
+msgstr "「FLASH IN THE DARK」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_godiva_c_0031"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nをスコア100万以上でクリア"
+
+msgid "mission_desc2_event_godiva_c_0031"
+msgstr "「FLASH IN THE DARK」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_godiva_c_0032"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nをスコア120万以上でクリア"
+
+msgid "mission_desc2_event_godiva_c_0032"
+msgstr "「FLASH IN THE DARK」\nをスコア120万以上でクリア"
+
+msgid "mission_desc_event_godiva_c_0033"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_c_0033"
+msgstr "「FLASH IN THE DARK」\nのEASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_c_0034"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_c_0034"
+msgstr "「FLASH IN THE DARK」\nのNORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_c_0035"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_c_0035"
+msgstr "「FLASH IN THE DARK」\nのHARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_c_0036"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_c_0036"
+msgstr "「FLASH IN THE DARK」\nのVERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_c_0037"
+msgstr "イベント楽曲「FLASH IN THE DARK」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc2_event_godiva_c_0037"
+msgstr "「FLASH IN THE DARK」\nのEXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_godiva_c_0038"
+msgstr "いずれかの歌姫のソウルアピールを5上げる"
+
+msgid "mission_desc2_event_godiva_c_0038"
+msgstr "いずれかの歌姫のソウルアピールを5上げる"
+
+msgid "mission_desc_event_godiva_c_0039"
+msgstr "いずれかの歌姫のボイスアピールを5上げる"
+
+msgid "mission_desc2_event_godiva_c_0039"
+msgstr "いずれかの歌姫のボイスアピールを5上げる"
+
+msgid "mission_desc_event_godiva_c_0040"
+msgstr "いずれかの歌姫のチャームアピールを5上げる"
+
+msgid "mission_desc2_event_godiva_c_0040"
+msgstr "いずれかの歌姫のチャームアピールを5上げる"
+
+msgid "mission_desc_event_godiva_c_0041"
+msgstr "いずれかの歌姫のソウルアピールを10上げる"
+
+msgid "mission_desc2_event_godiva_c_0041"
+msgstr "いずれかの歌姫のソウルアピールを10上げる"
+
+msgid "mission_desc_event_godiva_c_0042"
+msgstr "いずれかの歌姫のボイスアピールを10上げる"
+
+msgid "mission_desc2_event_godiva_c_0042"
+msgstr "いずれかの歌姫のボイスアピールを10上げる"
+
+msgid "mission_desc_event_godiva_c_0043"
+msgstr "いずれかの歌姫のチャームアピールを10上げる"
+
+msgid "mission_desc2_event_godiva_c_0043"
+msgstr "いずれかの歌姫のチャームアピールを10上げる"
+
+msgid "mission_desc_event_godiva_c_0044"
+msgstr "イベント「復刻　FLASH IN THE SOUL」\nのミッションを15個クリア"
+
+msgid "event_banner_event_godiva_c_0001"
+msgstr "イベントに参加して★5確定サービスチケットをGET！"
 
