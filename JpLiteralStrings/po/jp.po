@@ -2194,3 +2194,6 @@ msgstr "スタンダード編成"
 msgid "UMO_EpisodeBonus"
 msgstr "エピソードボーナス"
 
+msgid "UMO_EventRunning"
+msgstr "EVENT開催中"
+
