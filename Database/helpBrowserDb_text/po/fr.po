@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2025-03-18 18:26+0000\n"
+"PO-Revision-Date: 2025-04-12 14:26+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -990,19 +990,19 @@ msgid "help_0067_0000_name"
 msgstr ""
 
 msgid "help_0068_0000_name"
-msgstr ""
+msgstr "À propos des règles"
 
 msgid "help_0068_0001_name"
-msgstr ""
+msgstr "À propos de la clameur gagnée"
 
 msgid "help_0068_0002_name"
-msgstr ""
+msgstr "À propos des bonus d'épisodes"
 
 msgid "help_0068_0003_name"
-msgstr ""
+msgstr "Comment augmenter le climax"
 
 msgid "wiki_0068_0000_name"
-msgstr ""
+msgstr "Information de l'événement"
 
 msgid "help_0069_0000_name"
 msgstr ""
