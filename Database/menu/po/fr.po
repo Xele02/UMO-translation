@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-03-22 08:46+0000\n"
-"Last-Translator: Kilarn De Wal <kilarndewal@gmail.com>\n"
+"PO-Revision-Date: 2025-04-12 14:26+0000\n"
+"Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
 "Language: fr\n"
@@ -777,6 +777,9 @@ msgstr ""
 
 msgid "music_not_exist_line6_text_00"
 msgstr ""
+"Il n'y a pas de chansons pouvant être jouée en 6 lignes dans cette catégorie."
+"\n"
+"<color=#C8087E>※Les chansons en 6 lignes sont ajoutés a leur sortie.</color>"
 
 msgid "reward_all_clear_text_00"
 msgstr ""
@@ -3340,7 +3343,7 @@ msgid "home_pickup_checkbox_next"
 msgstr ""
 
 msgid "event_result_episode"
-msgstr ""
+msgstr "{0} {0:plural:épisode|épisodes}"
 
 msgid "event_result_bonus"
 msgstr ""
@@ -5970,22 +5973,22 @@ msgid "pop_pass_update_popup_title"
 msgstr ""
 
 msgid "pop_godiva_bonus_open_target_status"
-msgstr ""
+msgstr "<size=18>Clameurs gagnées</size>"
 
 msgid "pop_godiva_bonus_open_bonus_2"
-msgstr ""
+msgstr "<color=#C8087E>{0:#.#}</color><color=#062E49>x</color>"
 
 msgid "pop_godiva_bonus_open_explain"
-msgstr ""
+msgstr "Plus de clameurs sont reçus dans les concerts spéciaux."
 
 msgid "pop_godiva_bonus_close_title"
-msgstr ""
+msgstr "Concert spécial"
 
 msgid "pop_godiva_bonus_close_text"
-msgstr ""
+msgstr "Le concert spécial est terminé."
 
 msgid "pop_godiva_bonus_close_next_hidden"
-msgstr ""
+msgstr "Ne pas réafficher"
 
 msgid "pop_godiva_music_reselect_title"
 msgstr ""
@@ -6021,31 +6024,33 @@ msgid "pop_godiva_bonusitem_limit_on_bonus"
 msgstr ""
 
 msgid "godiva_event_info_highscore"
-msgstr ""
+msgstr "Score"
 
 msgid "godiva_even_tinfo_rank"
-msgstr ""
+msgstr "Rang"
 
 msgid "godiva_even_tinfo_total_point"
-msgstr ""
+msgstr "Points cumulés"
 
 msgid "godiva_even_tinfo_next_point"
-msgstr ""
+msgstr "Proch. récomp."
 
 msgid "godiva_even_tinfo_nest_reward"
 msgstr ""
+"Récomp.\n"
+"suivante"
 
 msgid "godiva_even_tinfo_rank_unit"
-msgstr ""
+msgstr "{0:choose(0|1):|er|ème}"
 
 msgid "godiva_even_tinfo_point_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "godiva_even_tinfo_final_rank"
-msgstr ""
+msgstr "Rang final"
 
 msgid "godiva_even_tinfo_rank_collecting"
-msgstr ""
+msgstr "Calcul en cours"
 
 msgid "godiva_diva_select_not_have"
 msgstr ""
@@ -6054,22 +6059,22 @@ msgid "godiva_diva_select_explain"
 msgstr "Sélectionne une diva"
 
 msgid "godiva_music_info_bonus_remain_count"
-msgstr ""
+msgstr "Encore {0}x"
 
 msgid "godiva_music_info_bonus_lots_rate"
-msgstr ""
+msgstr "{0}%"
 
 msgid "godiva_music_info_exp_bonus"
-msgstr ""
+msgstr "Clameur x{0:#.#}！"
 
 msgid "godiva_music_select_exp_bonus"
 msgstr ""
 
 msgid "godiva_result_bonus"
-msgstr ""
+msgstr "Bonus concert {0}x"
 
 msgid "popup_filter_godiva_music_exp_title_h2"
-msgstr "Cri"
+msgstr "Clameur"
 
 msgid "popup_filter_godiva_music_exp_item_soul"
 msgstr "Âme"
@@ -6198,16 +6203,16 @@ msgid "event_godiva_remain_time_prefix"
 msgstr ""
 
 msgid "sel_music_godiva_exp_type_soul"
-msgstr ""
+msgstr "Âme"
 
 msgid "sel_music_godiva_exp_type_voice"
-msgstr ""
+msgstr "Voix"
 
 msgid "sel_music_godiva_exp_type_charm"
-msgstr ""
+msgstr "Charme"
 
 msgid "sel_music_godiva_exp_type_all"
-msgstr ""
+msgstr "Tous"
 
 msgid "popup_event_login_item02_title_msg"
 msgstr ""
@@ -6475,7 +6480,7 @@ msgid "popup_filter_bonus_not_ok"
 msgstr "Non ok"
 
 msgid "music_not_exist_filter_text"
-msgstr ""
+msgstr "Il n'y a pas de chansons correspondant aux filtres."
 
 msgid "pop_gacha_period_warning_title"
 msgstr ""
@@ -6563,10 +6568,10 @@ msgid "unit_diva_status_titla_level"
 msgstr "Niv. diva"
 
 msgid "unit_diva_status_titla_total"
-msgstr ""
+msgstr "TOTAL"
 
 msgid "unit_diva_status_titla_music_exp"
-msgstr ""
+msgstr "Exp."
 
 msgid "popup_unit_disp_type_scene"
 msgstr "Plaque"
@@ -6612,7 +6617,7 @@ msgid "unit_diva_status_leaf_attr"
 msgstr "Attr. bonus +{0}%"
 
 msgid "unit_diva_status_leaf_series"
-msgstr ""
+msgstr "Bonus série +{0}%"
 
 msgid "unit_setpopup_text_08"
 msgstr "Avant écrasement"
@@ -6734,6 +6739,8 @@ msgstr ""
 
 msgid "music_not_exist_line6_text_01"
 msgstr ""
+"Il n'y a pas de chansons pouvant être jouée en 6 lignes\n"
+"dans cette catégorie."
 
 msgid "vertical_music_select_event_remain_time"
 msgstr "Reste : <color=#FF1576>{0}</color>"
