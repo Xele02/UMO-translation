@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-04-13 13:46+0000\n"
+"PO-Revision-Date: 2025-04-13 16:46+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -1099,3 +1099,276 @@ msgid "mission_desc2_event_april_fool_e_0049"
 msgstr ""
 "민메이를 센터로 설정하고\n"
 "악곡 중 하나 20회 플레이"
+
+msgid "mission_desc_event_april_fool_f_0006"
+msgstr ""
+"란카를 센터로 설정하고\n"
+"악곡 중 하나 5회 플레이"
+
+msgid "mission_desc_event_april_fool_f_0007"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0008"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0009"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0010"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0011"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0013"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0015"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0016"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0017"
+msgstr "발키리 오퍼레이션 5회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0018"
+msgstr "발키리 오퍼레이션 10회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0019"
+msgstr "발키리 오퍼레이션 20회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0021"
+msgstr "발키리 오퍼레이션 80회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0022"
+msgstr "발키리 오퍼레이션 100회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0023"
+msgstr "초가희 모드에 돌입하여 악곡 5회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0024"
+msgstr "초가희 모드에 돌입하여 악곡 10회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0026"
+msgstr "초가희 모드에 돌입하여 악곡 50회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0027"
+msgstr "초가희 모드에 돌입하여 악곡 100회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0028"
+msgstr ""
+"초시공요새 마크로스의 난이도\n"
+"HARD 이상 악곡 5회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0030"
+msgstr ""
+"초시공요새 마크로스의 난이도\n"
+"HARD 이상 악곡 20회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0031"
+msgstr ""
+"초시공요새 마크로스의 난이도\n"
+"HARD 이상 악곡 30회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0032"
+msgstr ""
+"마크로스7의 난이도\n"
+"HARD 이상 악곡 5회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0033"
+msgstr ""
+"마크로스7의 난이도\n"
+"HARD 이상 악곡 10회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0035"
+msgstr ""
+"마크로스7의 난이도\n"
+"HARD 이상 악곡 30회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0036"
+msgstr ""
+"마크로스F의 난이도\n"
+"HARD 이상 악곡 5회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0037"
+msgstr ""
+"마크로스F의 난이도\n"
+"HARD 이상 악곡 10회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0039"
+msgstr ""
+"마크로스F의 난이도\n"
+"HARD 이상 악곡 30회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0040"
+msgstr ""
+"마크로스Δ의 난이도\n"
+"HARD 이상 악곡 5회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0041"
+msgstr ""
+"마크로스Δ의 난이도\n"
+"HARD 이상 악곡 10회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0042"
+msgstr ""
+"마크로스Δ의 난이도\n"
+"HARD 이상 악곡 20회 클리어"
+
+msgid "mission_desc_event_april_fool_g_0001"
+msgstr ""
+"아무 악곡의\n"
+"난이도 NORMAL 이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_g_0002"
+msgstr ""
+"아무 악곡의\n"
+"난이도 HARD 이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_g_0003"
+msgstr ""
+"아무 악곡의\n"
+"난이도 VERY HARD 이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_g_0003"
+msgstr ""
+"아무 악곡의 VERY HARD\n"
+"이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_g_0004"
+msgstr ""
+"아무 악곡의\n"
+"난이도 EXTREME을 풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_h_0002"
+msgstr ""
+"아무 악곡의\n"
+"난이도 HARD 이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0002"
+msgstr ""
+"아무 악곡의 HARD\n"
+"이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_h_0003"
+msgstr ""
+"아무 악곡의\n"
+"난이도 VERY HARD 이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0003"
+msgstr ""
+"아무 악곡의 VERY HARD\n"
+"이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0004"
+msgstr ""
+"아무 악곡의 EXTREME을\n"
+"풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0005"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"NORMAL 이상 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0006"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"난이도 HARD 이상 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0007"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"난이도 VERY HARD 이상 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0007"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"VERY HARD 이상 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0008"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"EXTREME 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0009"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"난이도 NORMAL 이상 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0009"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"NORMAL 이상 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0010"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"난이도 HARD 이상 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_f_0012"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0014"
+msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0020"
+msgstr "발키리 오퍼레이션 50회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0025"
+msgstr "초가희 모드에 돌입하여 악곡 20회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0029"
+msgstr ""
+"초시공요새 마크로스의 난이도\n"
+"HARD 이상 악곡 10회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0034"
+msgstr ""
+"마크로스7의 난이도\n"
+"HARD 이상 악곡 20회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0038"
+msgstr ""
+"마크로스F의 난이도\n"
+"HARD 이상 악곡 20회 클리어"
+
+msgid "mission_desc_event_april_fool_f_0043"
+msgstr ""
+"마크로스Δ의 난이도\n"
+"HARD 이상 악곡 30회 클리어"
+
+msgid "mission_desc_event_april_fool_h_0004"
+msgstr ""
+"아무 악곡의\n"
+"난이도 EXTREME을 풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_h_0005"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"난이도 NORMAL 이상 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0006"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"HARD 이상 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0008"
+msgstr ""
+"【데일리】「왈큐레가 멈추지 않아」\n"
+"난이도 EXTREME 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_g_0001"
+msgstr ""
+"아무 악곡의 NORMAL\n"
+"이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_g_0002"
+msgstr ""
+"아무 악곡의 HARD\n"
+"이상을 풀콤보로 5회 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0010"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"HARD 이상 풀콤보로 클리어"
