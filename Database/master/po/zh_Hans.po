@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-11 16:26+0000\n"
+"PO-Revision-Date: 2025-04-13 11:52+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -26517,7 +26517,7 @@ msgid "dc_itm_nm_0039_bg"
 msgstr "鬼怪森林"
 
 msgid "dc_itm_nm_0040_bg"
-msgstr "木屋"
+msgstr "原木风房间"
 
 msgid "dc_itm_nm_0041_bg"
 msgstr "白色圣诞"
@@ -27864,25 +27864,25 @@ msgid "dc_itm_nm_0432_obj"
 msgstr "玫瑰花坛（花园宴会）"
 
 msgid "dc_itm_nm_0433_obj"
-msgstr "沙发（木屋）"
+msgstr "沙发（原木风房间）"
 
 msgid "dc_itm_nm_0434_obj"
-msgstr "木雕椅子（木屋）"
+msgstr "木雕椅子（原木风房间）"
 
 msgid "dc_itm_nm_0435_obj"
-msgstr "圆桌（木屋）"
+msgstr "圆桌（原木风房间）"
 
 msgid "dc_itm_nm_0436_obj"
-msgstr "火炉型暖气机（木屋）"
+msgstr "火炉型暖气机（原木风房间）"
 
 msgid "dc_itm_nm_0437_obj"
-msgstr "柴火堆（木屋）"
+msgstr "柴火堆（原木风房间）"
 
 msgid "dc_itm_nm_0438_obj"
-msgstr "壁灯（木屋）"
+msgstr "壁灯（原木风房间）"
 
 msgid "dc_itm_nm_0439_obj"
-msgstr "白色地毯（木屋）"
+msgstr "白色地毯（原木风房间）"
 
 msgid "dc_itm_nm_0440_obj"
 msgstr "沙发（白色圣诞）"
@@ -29336,25 +29336,25 @@ msgid "dc_itm_dsc_0432_obj"
 msgstr "花园宴会系列家具"
 
 msgid "dc_itm_dsc_0433_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0434_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0435_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0436_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0437_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0438_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0439_obj"
-msgstr "木屋系列家具"
+msgstr "原木风房间系列家具"
 
 msgid "dc_itm_dsc_0440_obj"
 msgstr "白色圣诞系列家具"
@@ -31103,7 +31103,7 @@ msgid "dc_set_nm_0039"
 msgstr "鬼怪森林"
 
 msgid "dc_set_nm_0040"
-msgstr "木屋"
+msgstr "原木风房间"
 
 msgid "dc_set_nm_0041"
 msgstr "白色圣诞"
