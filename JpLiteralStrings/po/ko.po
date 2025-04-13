@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-04-13 11:52+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -2249,3 +2249,9 @@ msgstr "<color=magenta>EX 라이벌 출현중!</color>"
 
 msgid "UMO_EpisodeBonus"
 msgstr "에피소드 보너스"
+
+msgid "StringLiteral_6527"
+msgstr "---"
+
+msgid "UMO_EventRunning"
+msgstr "EVENT 개최중"
