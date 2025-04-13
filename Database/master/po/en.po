@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-11 08:46+0000\n"
+"PO-Revision-Date: 2025-04-14 18:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -1323,13 +1323,13 @@ msgid "l_nm_0125"
 msgstr "Lax Timing B+Score B"
 
 msgid "l_nm_0126"
-msgstr ""
+msgstr "Score Repeat"
 
 msgid "l_nm_0127"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0128"
-msgstr ""
+msgstr "Score Repeat"
 
 msgid "l_nm_0129"
 msgstr "Lax Timing A + Score A"
@@ -1338,7 +1338,7 @@ msgid "l_nm_0130"
 msgstr "Recovery B + Score B"
 
 msgid "l_nm_0131"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "l_nm_0132"
 msgstr ""
@@ -3210,7 +3210,7 @@ msgid "fl_nm_0010"
 msgstr ""
 
 msgid "fl_nm_0011"
-msgstr ""
+msgstr "Score Repeat"
 
 msgid "fl_nm_0012"
 msgstr ""
