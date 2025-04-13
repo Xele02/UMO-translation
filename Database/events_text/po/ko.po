@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-03-19 12:59+0000\n"
+"PO-Revision-Date: 2025-04-13 11:52+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -541,3 +541,27 @@ msgstr ""
 
 msgid "event_banner_event_battle_c"
 msgstr "이벤트에 참여하여 데카르 가챠를 10회 뽑자!"
+
+msgid "mission_desc_event_april_fool_a_0002"
+msgstr "미션 30개 클리어"
+
+msgid "mission_desc_event_april_fool_a_0003"
+msgstr "미션 45개 클리어"
+
+msgid "mission_desc_event_april_fool_a_0005"
+msgstr ""
+"난이도 VERY HARD의 악곡을\n"
+"스코어 랭크 SS로 20회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0006"
+msgstr ""
+"난이도 VERY HARD의 악곡을\n"
+"스코어 랭크 SS로 50회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0001"
+msgstr "미션 20개 클리어"
+
+msgid "mission_desc_event_april_fool_a_0004"
+msgstr ""
+"난이도 VERY HARD의 악곡을\n"
+"스코어 랭크 SS로 10회 클리어"
