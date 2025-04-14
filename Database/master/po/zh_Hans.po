@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-13 11:52+0000\n"
+"PO-Revision-Date: 2025-04-14 18:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -30229,157 +30229,169 @@ msgid "dc_itm_nm_0067_srf"
 msgstr "好难过的感觉…"
 
 msgid "dc_itm_nm_0068_srf"
-msgstr ""
+msgstr "好担心！"
 
 msgid "dc_itm_nm_0069_srf"
-msgstr ""
+msgstr "…才没有生气呢"
 
 msgid "dc_itm_nm_0070_srf"
-msgstr ""
+msgstr "接下来就靠你啦！"
 
 msgid "dc_itm_nm_0071_srf"
-msgstr ""
+msgstr "不可原谅！"
 
 msgid "dc_itm_nm_0072_srf"
-msgstr ""
+msgstr "预备！"
 
 msgid "dc_itm_nm_0073_srf"
-msgstr ""
+msgstr "然后呢~？"
 
 msgid "dc_itm_nm_0074_srf"
-msgstr ""
+msgstr "好厉害~！"
 
 msgid "dc_itm_nm_0075_srf"
-msgstr ""
+msgstr "好想再看一次…"
 
 msgid "dc_itm_nm_0076_srf"
-msgstr ""
+msgstr "不会吧~！？"
 
 msgid "dc_itm_nm_0077_srf"
-msgstr ""
+msgstr "完美~！"
 
 msgid "dc_itm_nm_0078_srf"
-msgstr ""
+msgstr "太厉害啦！"
 
 msgid "dc_itm_nm_0079_srf"
-msgstr ""
+msgstr "哇！"
 
 msgid "dc_itm_nm_0080_srf"
-msgstr ""
+msgstr "我来帮忙啦~"
 
 msgid "dc_itm_nm_0081_srf"
-msgstr ""
+msgstr "哈喽"
 
 msgid "dc_itm_nm_0082_srf"
-msgstr ""
+msgstr "万事俱备，只欠东风"
 
 msgid "dc_itm_nm_0083_srf"
 msgstr ""
+"正因为不是孤身一人，\n"
+"才能努力下去"
 
 msgid "dc_itm_nm_0084_srf"
-msgstr ""
+msgstr "开心"
 
 msgid "dc_itm_nm_0085_srf"
-msgstr ""
+msgstr "心里刺刺的"
 
 msgid "dc_itm_nm_0086_srf"
 msgstr ""
+"心里乱糟糟的…\n"
+"却又莫名来劲…"
 
 msgid "dc_itm_nm_0087_srf"
-msgstr ""
+msgstr "…随便你"
 
 msgid "dc_itm_nm_0088_srf"
-msgstr ""
+msgstr "毫无战略价值"
 
 msgid "dc_itm_nm_0089_srf"
-msgstr ""
+msgstr "…生气了"
 
 msgid "dc_itm_nm_0090_srf"
 msgstr ""
+"什么都做不了，\n"
+"真让人恼火"
 
 msgid "dc_itm_nm_0091_srf"
-msgstr ""
+msgstr "无法原谅"
 
 msgid "dc_itm_nm_0092_srf"
-msgstr ""
+msgstr "无可挑剔的对手"
 
 msgid "dc_itm_nm_0093_srf"
-msgstr ""
+msgstr "确认目标"
 
 msgid "dc_itm_nm_0094_srf"
-msgstr ""
+msgstr "谢谢"
 
 msgid "dc_itm_nm_0095_srf"
-msgstr ""
+msgstr "吃惊"
 
 msgid "dc_itm_nm_0096_srf"
-msgstr ""
+msgstr "很棒"
 
 msgid "dc_itm_nm_0097_srf"
-msgstr ""
+msgstr "完美"
 
 msgid "dc_itm_nm_0098_srf"
-msgstr ""
+msgstr "出色！"
 
 msgid "dc_itm_nm_0099_srf"
-msgstr ""
+msgstr "…帮帮我"
 
 msgid "dc_itm_nm_0100_srf"
-msgstr ""
+msgstr "…前来支援"
 
 msgid "dc_itm_nm_0101_srf"
-msgstr ""
+msgstr "请多多指教！"
 
 msgid "dc_itm_nm_0102_srf"
-msgstr ""
+msgstr "欢迎欢迎！"
 
 msgid "dc_itm_nm_0103_srf"
-msgstr ""
+msgstr "加油哦！"
 
 msgid "dc_itm_nm_0104_srf"
-msgstr ""
+msgstr "太好啦！"
 
 msgid "dc_itm_nm_0105_srf"
-msgstr ""
+msgstr "我很喜欢哦！"
 
 msgid "dc_itm_nm_0106_srf"
-msgstr ""
+msgstr "怎么办…"
 
 msgid "dc_itm_nm_0107_srf"
-msgstr ""
+msgstr "好悲伤…"
 
 msgid "dc_itm_nm_0108_srf"
-msgstr ""
+msgstr "真是的！"
 
 msgid "dc_itm_nm_0109_srf"
-msgstr ""
+msgstr "真是个大坏蛋"
 
 msgid "dc_itm_nm_0110_srf"
 msgstr ""
+"我已经\n"
+"不是小孩子了！"
 
 msgid "dc_itm_nm_0111_srf"
 msgstr ""
+"好想将我的歌声\n"
+"带给大家！"
 
 msgid "dc_itm_nm_0112_srf"
-msgstr ""
+msgstr "一起来吧！"
 
 msgid "dc_itm_nm_0113_srf"
 msgstr ""
+"一，二，\n"
+"爹卡路恰！"
 
 msgid "dc_itm_nm_0114_srf"
-msgstr ""
+msgstr "好厉害呢！"
 
 msgid "dc_itm_nm_0115_srf"
-msgstr ""
+msgstr "这次谢谢你啦！"
 
 msgid "dc_itm_nm_0116_srf"
-msgstr ""
+msgstr "真不愧是你！"
 
 msgid "dc_itm_nm_0117_srf"
-msgstr ""
+msgstr "吓我一跳！"
 
 msgid "dc_itm_nm_0118_srf"
-msgstr ""
+msgstr "太棒啦~！"
 
 msgid "dc_itm_nm_0119_srf"
 msgstr ""
