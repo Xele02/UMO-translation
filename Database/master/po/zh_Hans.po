@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-14 18:46+0000\n"
+"PO-Revision-Date: 2025-04-16 03:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -30371,7 +30371,7 @@ msgstr ""
 "带给大家！"
 
 msgid "dc_itm_nm_0112_srf"
-msgstr "一起来吧！"
+msgstr "大家一起来！"
 
 msgid "dc_itm_nm_0113_srf"
 msgstr ""
@@ -30388,124 +30388,136 @@ msgid "dc_itm_nm_0116_srf"
 msgstr "真不愧是你！"
 
 msgid "dc_itm_nm_0117_srf"
-msgstr "吓我一跳！"
+msgstr "好吃惊！"
 
 msgid "dc_itm_nm_0118_srf"
 msgstr "太棒啦~！"
 
 msgid "dc_itm_nm_0119_srf"
 msgstr ""
+"谢谢你\n"
+"一直以来帮我这么多"
 
 msgid "dc_itm_nm_0120_srf"
-msgstr ""
+msgstr "我来帮忙！"
 
 msgid "dc_itm_nm_0121_srf"
-msgstr ""
+msgstr "有在“文化”吗~？"
 
 msgid "dc_itm_nm_0122_srf"
 msgstr ""
+"来，\n"
+"和我一起唱吧！"
 
 msgid "dc_itm_nm_0123_srf"
-msgstr ""
+msgstr "抓紧时间出发吧！"
 
 msgid "dc_itm_nm_0124_srf"
-msgstr ""
+msgstr "呵呵呵！"
 
 msgid "dc_itm_nm_0125_srf"
-msgstr ""
+msgstr "事情变得有趣起来了！"
 
 msgid "dc_itm_nm_0126_srf"
-msgstr ""
+msgstr "…真是悲伤"
 
 msgid "dc_itm_nm_0127_srf"
-msgstr ""
+msgstr "接下来，只需燃尽一切"
 
 msgid "dc_itm_nm_0128_srf"
-msgstr ""
+msgstr "呵呵，害羞了？"
 
 msgid "dc_itm_nm_0129_srf"
-msgstr ""
+msgstr "你可真敢啊！"
 
 msgid "dc_itm_nm_0130_srf"
-msgstr ""
+msgstr "…抱歉"
 
 msgid "dc_itm_nm_0131_srf"
 msgstr ""
+"竟有如此\n"
+"超乎想象的力量…！"
 
 msgid "dc_itm_nm_0132_srf"
-msgstr ""
+msgstr "再加把劲！"
 
 msgid "dc_itm_nm_0133_srf"
 msgstr ""
+"哪怕陷入绝望，\n"
+"我也绝不会停止歌唱"
 
 msgid "dc_itm_nm_0134_srf"
 msgstr ""
+"谢谢大家！\n"
+"爱你们！"
 
 msgid "dc_itm_nm_0135_srf"
-msgstr ""
+msgstr "真没想到…！"
 
 msgid "dc_itm_nm_0136_srf"
-msgstr ""
+msgstr "干得好！"
 
 msgid "dc_itm_nm_0137_srf"
-msgstr ""
+msgstr "真是酣畅淋漓的演出！"
 
 msgid "dc_itm_nm_0138_srf"
-msgstr ""
+msgstr "佩服你的实力"
 
 msgid "dc_itm_nm_0139_srf"
-msgstr ""
+msgstr "有点难办…"
 
 msgid "dc_itm_nm_0140_srf"
-msgstr ""
+msgstr "我来帮忙了"
 
 msgid "dc_itm_nm_0141_srf"
-msgstr ""
+msgstr "请多指教！"
 
 msgid "dc_itm_nm_0142_srf"
-msgstr ""
+msgstr "该出发了！"
 
 msgid "dc_itm_nm_0143_srf"
 msgstr ""
+"差不多该到\n"
+"演出时间了吧？"
 
 msgid "dc_itm_nm_0144_srf"
-msgstr ""
+msgstr "好兴奋！"
 
 msgid "dc_itm_nm_0145_srf"
-msgstr ""
+msgstr "开心！"
 
 msgid "dc_itm_nm_0146_srf"
-msgstr ""
+msgstr "大家醒醒！"
 
 msgid "dc_itm_nm_0147_srf"
-msgstr ""
+msgstr "难以置信…"
 
 msgid "dc_itm_nm_0148_srf"
-msgstr ""
+msgstr "别不别扭呀！！"
 
 msgid "dc_itm_nm_0149_srf"
-msgstr ""
+msgstr "别这么粗鲁呀！"
 
 msgid "dc_itm_nm_0150_srf"
-msgstr ""
+msgstr "等等我呀！"
 
 msgid "dc_itm_nm_0151_srf"
-msgstr ""
+msgstr "不会原谅你了！"
 
 msgid "dc_itm_nm_0152_srf"
-msgstr ""
+msgstr "交给我吧！"
 
 msgid "dc_itm_nm_0153_srf"
-msgstr ""
+msgstr "讨厌~！开玩笑的啦！"
 
 msgid "dc_itm_nm_0154_srf"
-msgstr ""
+msgstr "谢谢！"
 
 msgid "dc_itm_nm_0155_srf"
-msgstr ""
+msgstr "天呐！"
 
 msgid "dc_itm_nm_0156_srf"
-msgstr ""
+msgstr "好厉害！！"
 
 msgid "dc_itm_nm_0157_srf"
 msgstr ""
