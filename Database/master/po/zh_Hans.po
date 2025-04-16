@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-16 03:46+0000\n"
+"PO-Revision-Date: 2025-04-16 14:33+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -30388,7 +30388,7 @@ msgid "dc_itm_nm_0116_srf"
 msgstr "真不愧是你！"
 
 msgid "dc_itm_nm_0117_srf"
-msgstr "好吃惊！"
+msgstr "天呐！"
 
 msgid "dc_itm_nm_0118_srf"
 msgstr "太棒啦~！"
@@ -30458,7 +30458,7 @@ msgid "dc_itm_nm_0136_srf"
 msgstr "干得好！"
 
 msgid "dc_itm_nm_0137_srf"
-msgstr "真是酣畅淋漓的演出！"
+msgstr "真是一场酣畅淋漓的演出！"
 
 msgid "dc_itm_nm_0138_srf"
 msgstr "佩服你的实力"
@@ -30496,7 +30496,7 @@ msgid "dc_itm_nm_0148_srf"
 msgstr "别不别扭呀！！"
 
 msgid "dc_itm_nm_0149_srf"
-msgstr "别这么粗鲁呀！"
+msgstr "别这么粗鲁好不好！"
 
 msgid "dc_itm_nm_0150_srf"
 msgstr "等等我呀！"
@@ -30520,10 +30520,10 @@ msgid "dc_itm_nm_0156_srf"
 msgstr "好厉害！！"
 
 msgid "dc_itm_nm_0157_srf"
-msgstr ""
+msgstr "唱得好棒！"
 
 msgid "dc_itm_nm_0158_srf"
-msgstr ""
+msgstr "帅炸了！！"
 
 msgid "dc_itm_nm_0159_srf"
 msgstr ""
