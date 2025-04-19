@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-04-13 16:46+0000\n"
+"PO-Revision-Date: 2025-04-26 08:28+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -1233,7 +1233,7 @@ msgstr ""
 
 msgid "mission_desc2_event_april_fool_g_0003"
 msgstr ""
-"아무 악곡의 VERY HARD\n"
+"어느 악곡이든 VERY HARD\n"
 "이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_g_0004"
@@ -1248,7 +1248,7 @@ msgstr ""
 
 msgid "mission_desc2_event_april_fool_h_0002"
 msgstr ""
-"아무 악곡의 HARD\n"
+"어느 악곡이든 HARD\n"
 "이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc_event_april_fool_h_0003"
@@ -1258,53 +1258,53 @@ msgstr ""
 
 msgid "mission_desc2_event_april_fool_h_0003"
 msgstr ""
-"아무 악곡의 VERY HARD\n"
+"어느 악곡이든 VERY HARD\n"
 "이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0004"
 msgstr ""
-"아무 악곡의 EXTREME을\n"
+"어느 악곡이든 EXTREME을\n"
 "풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0005"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"NORMAL 이상 풀콤보로 클리어"
+"NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0006"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"난이도 HARD 이상 풀콤보로 클리어"
+"난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0007"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"난이도 VERY HARD 이상 풀콤보로 클리어"
+"난이도 VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0007"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"VERY HARD 이상 풀콤보로 클리어"
+"VERY HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0008"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"EXTREME 풀콤보로 클리어"
+"EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0009"
 msgstr ""
 "【데일리】「룬이 반짝하고 빛나면」\n"
-"난이도 NORMAL 이상 풀콤보로 클리어"
+"난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0009"
 msgstr ""
 "【데일리】「룬이 반짝하고 빛나면」\n"
-"NORMAL 이상 풀콤보로 클리어"
+"NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0010"
 msgstr ""
 "【데일리】「룬이 반짝하고 빛나면」\n"
-"난이도 HARD 이상 풀콤보로 클리어"
+"난이도 HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_f_0012"
 msgstr "【데일리】발키리 오퍼레이션 1회 클리어"
@@ -1346,29 +1346,580 @@ msgstr ""
 msgid "mission_desc_event_april_fool_h_0005"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"난이도 NORMAL 이상 풀콤보로 클리어"
+"난이도 NORMAL 이상을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0006"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"HARD 이상 풀콤보로 클리어"
+"HARD 이상을 풀콤보로 클리어"
 
 msgid "mission_desc_event_april_fool_h_0008"
 msgstr ""
 "【데일리】「왈큐레가 멈추지 않아」\n"
-"난이도 EXTREME 풀콤보로 클리어"
+"난이도 EXTREME을 풀콤보로 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0001"
 msgstr ""
-"아무 악곡의 NORMAL\n"
+"어느 악곡이든 NORMAL\n"
 "이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_g_0002"
 msgstr ""
-"아무 악곡의 HARD\n"
+"어느 악곡이든 HARD\n"
 "이상을 풀콤보로 5회 클리어"
 
 msgid "mission_desc2_event_april_fool_h_0010"
 msgstr ""
 "【데일리】「룬이 반짝하고 빛나면」\n"
-"HARD 이상 풀콤보로 클리어"
+"HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0010"
+msgstr ""
+"난이도 EXTREME의 악곡을\n"
+"스코어 랭크 SS로 100회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0011"
+msgstr ""
+"어느 악곡이든 난이도 HARD 이상을\n"
+"풀콤보로 10회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0014"
+msgstr ""
+"어느 악곡이든 난이도 VERY HARD 이상을\n"
+"풀콤보로 10회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0018"
+msgstr "스코어 300만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0019"
+msgstr "스코어 400만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0020"
+msgstr "스코어 500만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0022"
+msgstr "스코어 700만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0023"
+msgstr "스코어 800만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0025"
+msgstr ""
+"생명 속성의 악곡을\n"
+"스코어 200만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0027"
+msgstr ""
+"생명 속성의 악곡을\n"
+"스코어 400만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0029"
+msgstr ""
+"별 속성의 악곡을\n"
+"스코어 200만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0032"
+msgstr ""
+"별 속성의 악곡을\n"
+"스코어 500만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0033"
+msgstr ""
+"사랑 속성의 악곡을\n"
+"스코어 200만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0034"
+msgstr ""
+"사랑 속성의 악곡을\n"
+"스코어 300만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0036"
+msgstr ""
+"사랑 속성의 악곡을\n"
+"스코어 500만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0037"
+msgstr ""
+"악곡 「Glow in the dark(고난이도 ver.)」\n"
+"1회 플레이"
+
+msgid "mission_desc_event_april_fool_a_0038"
+msgstr ""
+"악곡 「Glow in the dark(고난이도 ver.)」\n"
+"1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0040"
+msgstr ""
+"어느 악곡이든 난이도 EXTREME 이상을\n"
+"풀콤보로 10회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0041"
+msgstr ""
+"어느 악곡이든 난이도 EXTREME 이상을\n"
+"풀콤보로 20회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0042"
+msgstr ""
+"생명 속성의 악곡을\n"
+"스코어 600만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0043"
+msgstr ""
+"생명 속성의 악곡을\n"
+"스코어 700만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0045"
+msgstr ""
+"별 속성의 악곡을\n"
+"스코어 700만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0047"
+msgstr ""
+"사랑 속성의 악곡을\n"
+"스코어 700만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0048"
+msgstr "스코어 1000만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0049"
+msgstr "스코어 1000만 이상으로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0050"
+msgstr "스코어 1200만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_b_0002"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고\n"
+"「울상폭발음」 1회 플레이"
+
+msgid "mission_desc_event_april_fool_b_0003"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고\n"
+"「울상폭발음」 1회 플레이"
+
+msgid "mission_desc_event_april_fool_b_0005"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고\n"
+"「울상폭발음」 1회 플레이"
+
+msgid "mission_desc_event_april_fool_b_0006"
+msgstr ""
+"카나메를 센터로 설정하고\n"
+"악곡 중 하나 5회 플레이"
+
+msgid "mission_desc_event_april_fool_b_0010"
+msgstr ""
+"【데일리】미쿠모를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0014"
+msgstr ""
+"【데일리】마키나를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0016"
+msgstr ""
+"【데일리】레이나를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0020"
+msgstr ""
+"【데일리】미쿠모를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0022"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0024"
+msgstr ""
+"【데일리】마키나를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0026"
+msgstr ""
+"【데일리】레이나를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc2_event_april_fool_g_0004"
+msgstr ""
+"어느 악곡이든 EXTREME을\n"
+"풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_h_0011"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"난이도 VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0011"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0012"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"난이도 EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0012"
+msgstr ""
+"【데일리】「룬이 반짝하고 빛나면」\n"
+"EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0013"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"난이도 NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0013"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0014"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"난이도 HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0014"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0015"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"난이도 VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0015"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0016"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"난이도 EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0016"
+msgstr ""
+"【데일리】「Silent Hacker」\n"
+"EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0017"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"난이도 NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0017"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0018"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"난이도 HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0019"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0020"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"난이도 EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0020"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0021"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0022"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"난이도 HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0022"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0023"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0024"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"난이도 EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0024"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0001"
+msgstr "악곡을 스코어 100만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0003"
+msgstr "악곡을 스코어 150만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0004"
+msgstr "악곡을 스코어 175만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0005"
+msgstr "악곡을 스코어 200만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0006"
+msgstr "악곡을 스코어 225만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0008"
+msgstr "악곡을 스코어 275만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0009"
+msgstr "악곡을 스코어 300만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0010"
+msgstr "악곡을 스코어 325만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0011"
+msgstr "악곡을 스코어 350만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0013"
+msgstr "악곡을 스코어 400만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0014"
+msgstr "악곡을 스코어 425만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0015"
+msgstr "악곡을 스코어 450만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0016"
+msgstr "악곡을 스코어 475만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0018"
+msgstr "악곡을 스코어 525만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0019"
+msgstr "악곡을 스코어 550만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0020"
+msgstr "악곡을 스코어 575만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0021"
+msgstr "악곡을 스코어 600만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0023"
+msgstr "악곡을 스코어 650만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0024"
+msgstr "악곡을 스코어 675만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0025"
+msgstr "악곡을 스코어 700만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0026"
+msgstr "악곡을 스코어 725만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0028"
+msgstr "악곡을 스코어 775만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0029"
+msgstr "악곡을 스코어 800만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0030"
+msgstr "악곡을 스코어 825만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0032"
+msgstr "악곡을 스코어 875만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0033"
+msgstr "악곡을 스코어 900만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0034"
+msgstr "악곡을 스코어 925만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0035"
+msgstr "악곡을 스코어 950만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0037"
+msgstr "악곡을 스코어 1000만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0038"
+msgstr "악곡을 스코어 1050만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0039"
+msgstr "악곡을 스코어 1100만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0040"
+msgstr "악곡을 스코어 1150만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0042"
+msgstr "악곡을 스코어 1250만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0043"
+msgstr "악곡을 스코어 1300만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0044"
+msgstr "악곡을 스코어 1350만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0045"
+msgstr "악곡을 스코어 1400만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0047"
+msgstr "악곡을 스코어 1500만 이상으로 클리어"
+
+msgid "mission_desc2_event_april_fool_h_0018"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0019"
+msgstr ""
+"【데일리】「단 한 번의 사랑이라면」\n"
+"난이도 VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_h_0023"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"난이도 VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0007"
+msgstr "악곡을 스코어 250만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0012"
+msgstr "악곡을 스코어 375만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0044"
+msgstr ""
+"별 속성의 악곡을\n"
+"스코어 600만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0046"
+msgstr ""
+"사랑 속성의 악곡을\n"
+"스코어 600만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_b_0001"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고\n"
+"「울상폭발음」 1회 플레이"
+
+msgid "mission_desc_event_april_fool_b_0004"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고\n"
+"「울상폭발음」 1회 플레이"
+
+msgid "mission_desc_event_april_fool_b_0008"
+msgstr ""
+"【데일리】프레이아를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0012"
+msgstr ""
+"【데일리】카나메를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_b_0018"
+msgstr ""
+"【데일리】프레이아를 센터로 설정하고 왈큐레가 노래한\n"
+"「이별의 날개 ~ the end of triangle」 1회 클리어"
+
+msgid "mission_desc_event_april_fool_h_0021"
+msgstr ""
+"【데일리】「룬에 꽃피는 사랑도 있다」\n"
+"난이도 NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0002"
+msgstr "악곡을 스코어 125만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0017"
+msgstr "악곡을 스코어 500만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0031"
+msgstr "악곡을 스코어 850만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0022"
+msgstr "악곡을 스코어 625만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0027"
+msgstr "악곡을 스코어 750만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0036"
+msgstr "악곡을 스코어 975만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0016"
+msgstr ""
+"악곡 「Glow in the dark」의 난이도 EXTREMR을\n"
+"스코어 랭크 SS로 10회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0017"
+msgstr ""
+"악곡 「Glow in the dark」의 난이도 EXTREMR을\n"
+"풀콤보로 5회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0026"
+msgstr ""
+"생명 속성의 악곡을\n"
+"스코어 300만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0028"
+msgstr ""
+"생명 속성의 악곡을\n"
+"스코어 500만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0030"
+msgstr ""
+"별 속성의 악곡을\n"
+"스코어 300만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0031"
+msgstr ""
+"별 속성의 악곡을\n"
+"스코어 400만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0035"
+msgstr ""
+"사랑 속성의 악곡을\n"
+"스코어 400만 점 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0041"
+msgstr "악곡을 스코어 1200만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_i_0046"
+msgstr "악곡을 스코어 1450만 이상으로 클리어"
+
+msgid "mission_desc_event_april_fool_a_0021"
+msgstr "스코어 600만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0024"
+msgstr "스코어 900만 이상으로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0039"
+msgstr ""
+"악곡 「Glow in the dark(고난이도 ver.)」\n"
+"풀콤보로 1회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0012"
+msgstr ""
+"어느 악곡이든 난이도 HARD 이상을\n"
+"풀콤보로 20회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0013"
+msgstr ""
+"어느 악곡이든 난이도 HARD 이상을\n"
+"풀콤보로 30회 클리어"
+
+msgid "mission_desc_event_april_fool_a_0015"
+msgstr ""
+"어느 악곡이든 난이도 VERY HARD 이상을\n"
+"풀콤보로 20회 클리어"
