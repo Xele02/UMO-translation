@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-04-13 16:46+0000\n"
+"PO-Revision-Date: 2025-04-26 08:28+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -2368,7 +2368,7 @@ msgid "balloon_event_epilogue_loginbonus"
 msgstr ""
 
 msgid "costume_select_text_01"
-msgstr ""
+msgstr "획득 조건"
 
 msgid "costume_select_text_02"
 msgstr ""
@@ -2592,13 +2592,15 @@ msgid "push_notify_debut_vc_msg_01"
 msgstr ""
 
 msgid "popup_limit_over_add"
-msgstr ""
+msgstr "럭키 리프의 새로운 능력을 해방할 수 있습니다."
 
 msgid "popup_limit_over_release_01"
-msgstr ""
+msgstr "럭키 리프 효과가 추가되었습니다!"
 
 msgid "popup_limit_over_release_02"
 msgstr ""
+"럭키 리프의 효과가 추가되었습니다!\n"
+"또한, 럭키 리프의 새로운 능력을 해방할 수 있습니다."
 
 msgid "limit_over_excellent_rate_01"
 msgstr ""
@@ -2646,19 +2648,19 @@ msgid "limit_over_unlock_02"
 msgstr ""
 
 msgid "limit_over_unlock_03"
-msgstr ""
+msgstr "이 럭키 리프의 효과는 모두 해방된 상태입니다."
 
 msgid "limit_over_unlock_04"
 msgstr ""
 
 msgid "limit_over_popup_title"
-msgstr ""
+msgstr "럭키 리프 효과"
 
 msgid "limit_over_popup_caution"
 msgstr ""
 
 msgid "popup_limit_over_list_title"
-msgstr ""
+msgstr "럭키 리프 목록"
 
 msgid "popup_limit_over_list_count"
 msgstr "{0}장"
@@ -3719,25 +3721,25 @@ msgid "rarityup_item_get_desc_1"
 msgstr ""
 
 msgid "rarityup_item_use_confirm_title"
-msgstr ""
+msgstr "레어도 상승 최종 확인"
 
 msgid "rarityup_item_use_confirm_desc"
-msgstr ""
+msgstr "이 플레이트의 레어도를 정말로 상승시키겠습니까?"
 
 msgid "rarityup_item_use_warning"
 msgstr ""
 
 msgid "secret_board_item_use_title"
-msgstr ""
+msgstr "시크릿 보드 해방 확인"
 
 msgid "secret_board_item_use_desc_1"
-msgstr ""
+msgstr "다음 아이템을 소비하여 시크릿 보드를 해방합니다."
 
 msgid "secret_board_item_use_desc_2"
-msgstr ""
+msgstr "시크릿 보드 해방에 필요한 아이템이 부족합니다."
 
 msgid "secret_board_item_use_confirm_title"
-msgstr ""
+msgstr "시크릿 보드 해방 최종 확인"
 
 msgid "secret_board_item_use_confirm_desc"
 msgstr ""
@@ -3746,7 +3748,7 @@ msgid "secret_board_item_use_warning"
 msgstr ""
 
 msgid "popup_sel_cos_terms_title"
-msgstr ""
+msgstr "획득 조건"
 
 msgid "popup_sel_cos_terms_text_base"
 msgstr ""
@@ -3764,16 +3766,16 @@ msgid "popup_sel_cos_terms_costume_change"
 msgstr ""
 
 msgid "home_footer_badge_text_offer"
-msgstr ""
+msgstr "VOP 완료!"
 
 msgid "home_diva_button_monthly_pass"
-msgstr ""
+msgstr "까지 앞으로 {0}회"
 
 msgid "popup_add_operation_text"
-msgstr ""
+msgstr "오퍼레이션이 추가되었습니다."
 
 msgid "pop_pass_title"
-msgstr ""
+msgstr "우타마크 패스 구입"
 
 msgid "pop_pass_text01"
 msgstr ""
@@ -3810,7 +3812,7 @@ msgstr ""
 "※보유 한도를 초과하는 아이템은 사라집니다."
 
 msgid "pop_pass_loginbonus_title"
-msgstr ""
+msgstr "초시공 로그인 보너스"
 
 msgid "pop_pass_loginbonus_about_title"
 msgstr ""
@@ -3878,7 +3880,7 @@ msgid "popup_bunchdownload_complete"
 msgstr ""
 
 msgid "lucky_leaf_sort_message"
-msgstr ""
+msgstr "<size={1}>해방 가능 럭키 리프:{0}</size>"
 
 msgid "popup_recover_done_title"
 msgstr ""
@@ -5071,6 +5073,8 @@ msgstr ""
 
 msgid "popup_kira_scene_release_desc_1"
 msgstr ""
+"럭키 리프를 최대로 해방한 플레이트가\n"
+"{0}이 되었습니다."
 
 msgid "popup_kira_scene_release_desc_2"
 msgstr ""
