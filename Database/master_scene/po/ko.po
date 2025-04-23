@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:29+0000\n"
-"PO-Revision-Date: 2025-03-29 08:59+0000\n"
+"PO-Revision-Date: 2025-04-26 08:28+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master_scene/ko/>\n"
@@ -1293,7 +1293,7 @@ msgid "sn_0464"
 msgstr ""
 
 msgid "sn_0465"
-msgstr ""
+msgstr "제가 드리는 선물입니다"
 
 msgid "sn_0466"
 msgstr ""
@@ -7602,7 +7602,7 @@ msgid "sn_3121"
 msgstr ""
 
 msgid "sn_3122"
-msgstr ""
+msgstr "EP【드라마틱 라이프】"
 
 msgid "sn_3123"
 msgstr ""
@@ -7611,19 +7611,19 @@ msgid "sn_3124"
 msgstr ""
 
 msgid "sn_3125"
-msgstr ""
+msgstr "EP【드라마틱 라이프】"
 
 msgid "sn_3126"
-msgstr ""
+msgstr "EP【드라마틱 라이프】"
 
 msgid "sn_3127"
-msgstr ""
+msgstr "EP【드라마틱 라이프】"
 
 msgid "sn_3129"
-msgstr ""
+msgstr "EP【드라마틱 라이프】"
 
 msgid "sn_3131"
-msgstr ""
+msgstr "EP【드라마틱 라이프】"
 
 msgid "sn_3133"
 msgstr ""
