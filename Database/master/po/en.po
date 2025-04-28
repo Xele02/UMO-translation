@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-14 18:46+0000\n"
+"PO-Revision-Date: 2025-04-29 10:43+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -1341,10 +1341,10 @@ msgid "l_nm_0131"
 msgstr "Lax Note Timing"
 
 msgid "l_nm_0132"
-msgstr ""
+msgstr "No Dmg A + Score A"
 
 msgid "l_nm_0133"
-msgstr ""
+msgstr "Dmg- A + Score A"
 
 msgid "l_nm_0134"
 msgstr "Score & Damage"
@@ -1356,508 +1356,508 @@ msgid "l_nm_0136"
 msgstr "Score & Damage"
 
 msgid "l_nm_0137"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0138"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0139"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0140"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0141"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0142"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0143"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0144"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0145"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0146"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0147"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0148"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0149"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0150"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0151"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0152"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0153"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0154"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0155"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0156"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0157"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0158"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0159"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0160"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0161"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0162"
 msgstr "Combo Bonus"
 
 msgid "l_nm_0163"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0164"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0165"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0166"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0167"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0168"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0169"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0170"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0171"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0172"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0173"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0174"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0175"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0176"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0177"
-msgstr ""
+msgstr "L. Timing S + Sco. Rep. S"
 
 msgid "l_nm_0178"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0179"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0180"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0181"
 msgstr "Score & Damage"
 
 msgid "l_nm_0182"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0183"
-msgstr ""
+msgstr "Lax Timing S + Score S"
 
 msgid "l_nm_0184"
-msgstr ""
+msgstr "Short Score+"
 
 msgid "l_nm_0185"
-msgstr ""
+msgstr "Long Score+"
 
 msgid "l_nm_0186"
-msgstr ""
+msgstr "Combo Bonus+"
 
 msgid "l_nm_0187"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0188"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0189"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0190"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0191"
-msgstr ""
+msgstr "Lax Timing S + Score S"
 
 msgid "l_nm_0192"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0193"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0194"
-msgstr ""
+msgstr "Mode Score+ (Old)"
 
 msgid "l_nm_0195"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0196"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0197"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0198"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0199"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0200"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0201"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0202"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0203"
-msgstr ""
+msgstr "Diva Score Repeat"
 
 msgid "l_nm_0204"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0205"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0206"
-msgstr ""
+msgstr "Lax Timing S + Score S"
 
 msgid "l_nm_0207"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0208"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0209"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0210"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0211"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0212"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0213"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0214"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0215"
-msgstr ""
+msgstr "Mode Score+"
 
 msgid "l_nm_0216"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0217"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0218"
-msgstr ""
+msgstr "Sco. Rep. & Damage"
 
 msgid "l_nm_0219"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0220"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0221"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0222"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0223"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0224"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0225"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0226"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0227"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0228"
-msgstr ""
+msgstr "Lax Timing S + Score S"
 
 msgid "l_nm_0229"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0230"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0231"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0232"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0233"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0234"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0235"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0236"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0237"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0238"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0239"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0240"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0241"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0242"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0243"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0244"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0245"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0246"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0247"
-msgstr ""
+msgstr "Recovery S & Score S"
 
 msgid "l_nm_0248"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0249"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0250"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0251"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0252"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0253"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0254"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0255"
-msgstr ""
+msgstr "Diva Score & Damage"
 
 msgid "l_nm_0256"
-msgstr ""
+msgstr "Fold Waves Score+"
 
 msgid "l_nm_0257"
-msgstr ""
+msgstr "Bond Lv. Score+"
 
 msgid "l_nm_0258"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0259"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0260"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0261"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0262"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0263"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0264"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0265"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0266"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0267"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0268"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0269"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0270"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0271"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0272"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0273"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "l_nm_0274"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0275"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0276"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0277"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "l_nm_0278"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0279"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0280"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "l_nm_0281"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0282"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0283"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0284"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "l_nm_0285"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0286"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0287"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "l_nm_0288"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "l_nm_0289"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0290"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "l_nm_0291"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "l_dsc_0001"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0002"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0003"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0004"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0005"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0006"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0007"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0008"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0009"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0010"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0011"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0012"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0013"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0014"
 msgstr ""
@@ -1926,46 +1926,46 @@ msgid "l_dsc_0035"
 msgstr ""
 
 msgid "l_dsc_0036"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0037"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0038"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0039"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0040"
 msgstr ""
 
 msgid "l_dsc_0041"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0042"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0043"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0044"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0045"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0046"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0047"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0048"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0049"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0050"
 msgstr ""
@@ -2034,31 +2034,31 @@ msgid "l_dsc_0071"
 msgstr ""
 
 msgid "l_dsc_0072"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0073"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0074"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0075"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0076"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0077"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0078"
-msgstr ""
+msgstr "[tv]s after start, lengthens note timing window for [dv]s"
 
 msgid "l_dsc_0079"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0080"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0081"
 msgstr ""
@@ -2112,13 +2112,13 @@ msgid "l_dsc_0097"
 msgstr ""
 
 msgid "l_dsc_0098"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0099"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0100"
-msgstr ""
+msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0101"
 msgstr ""
@@ -2181,7 +2181,7 @@ msgid "l_dsc_0120"
 msgstr ""
 
 msgid "l_dsc_0121"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0122"
 msgstr ""
@@ -3162,7 +3162,7 @@ msgid "fa_nm_0001"
 msgstr ""
 
 msgid "fa_nm_0002"
-msgstr ""
+msgstr "Score+"
 
 msgid "fa_nm_0003"
 msgstr "No Damage"
@@ -3180,61 +3180,61 @@ msgid "fa_nm_0008"
 msgstr "Combo Bonus"
 
 msgid "fl_nm_0001"
-msgstr ""
+msgstr "Score+"
 
 msgid "fl_nm_0002"
-msgstr ""
+msgstr "Score+"
 
 msgid "fl_nm_0003"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0004"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0005"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0006"
-msgstr ""
+msgstr "Score+ EX"
 
 msgid "fl_nm_0007"
-msgstr ""
+msgstr "Long Score+"
 
 msgid "fl_nm_0008"
-msgstr ""
+msgstr "Short Score+"
 
 msgid "fl_nm_0009"
-msgstr ""
+msgstr "Mode Score+"
 
 msgid "fl_nm_0010"
-msgstr ""
+msgstr "Fold Waves Score+"
 
 msgid "fl_nm_0011"
 msgstr "Score Repeat"
 
 msgid "fl_nm_0012"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "fl_nm_0013"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "fl_nm_0014"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "fl_nm_0015"
-msgstr ""
+msgstr "Score Repeat EX"
 
 msgid "fl_nm_0016"
-msgstr ""
+msgstr "Diva Score Repeat"
 
 msgid "fl_nm_0017"
-msgstr ""
+msgstr "Sco. Rep. & Damage"
 
 msgid "fl_nm_0018"
 msgstr "Score & Damage"
 
 msgid "fl_nm_0019"
-msgstr ""
+msgstr "Diva Score & Damage"
 
 msgid "fl_nm_0020"
 msgstr ""
@@ -3285,19 +3285,19 @@ msgid "fl_nm_0035"
 msgstr ""
 
 msgid "fl_nm_0036"
-msgstr ""
+msgstr "Bond Lv. Score+"
 
 msgid "fl_nm_0037"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "fl_nm_0038"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "fl_nm_0039"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "fl_nm_0040"
-msgstr ""
+msgstr "Score & Damage EX"
 
 msgid "gn_0001"
 msgstr ""
