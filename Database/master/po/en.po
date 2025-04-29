@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-29 10:43+0000\n"
+"PO-Revision-Date: 2025-04-30 11:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -1302,25 +1302,25 @@ msgid "l_nm_0118"
 msgstr "Damage–"
 
 msgid "l_nm_0119"
-msgstr "Lax Timing B+Score B"
+msgstr "Lax Timing B & Score B"
 
 msgid "l_nm_0120"
-msgstr "Recovery B + Score B"
+msgstr "Recovery B & Score B"
 
 msgid "l_nm_0121"
 msgstr "Damage–"
 
 msgid "l_nm_0122"
-msgstr "Lax Timing A + Score A"
+msgstr "Lax Timing A & Score A"
 
 msgid "l_nm_0123"
-msgstr "Lax Timing A + Score A"
+msgstr "Lax Timing A & Score A"
 
 msgid "l_nm_0124"
-msgstr "Combo A + Score A"
+msgstr "Combo A & Score A"
 
 msgid "l_nm_0125"
-msgstr "Lax Timing B+Score B"
+msgstr "Lax Timing B & Score B"
 
 msgid "l_nm_0126"
 msgstr "Score Repeat"
@@ -1332,16 +1332,16 @@ msgid "l_nm_0128"
 msgstr "Score Repeat"
 
 msgid "l_nm_0129"
-msgstr "Lax Timing A + Score A"
+msgstr "Lax Timing A & Score A"
 
 msgid "l_nm_0130"
-msgstr "Recovery B + Score B"
+msgstr "Recovery B & Score B"
 
 msgid "l_nm_0131"
 msgstr "Lax Note Timing"
 
 msgid "l_nm_0132"
-msgstr "No Dmg A + Score A"
+msgstr "No Dmg A & Score A"
 
 msgid "l_nm_0133"
 msgstr "Dmg- A + Score A"
@@ -1476,7 +1476,7 @@ msgid "l_nm_0176"
 msgstr "Score Repeat EX"
 
 msgid "l_nm_0177"
-msgstr "L. Timing S + Sco. Rep. S"
+msgstr "L. Timing S & Sco. Rep. S"
 
 msgid "l_nm_0178"
 msgstr "Score+ EX"
@@ -1494,7 +1494,7 @@ msgid "l_nm_0182"
 msgstr "Score+ EX"
 
 msgid "l_nm_0183"
-msgstr "Lax Timing S + Score S"
+msgstr "Lax Timing S & Score S"
 
 msgid "l_nm_0184"
 msgstr "Short Score+"
@@ -1518,7 +1518,7 @@ msgid "l_nm_0190"
 msgstr "Score Repeat EX"
 
 msgid "l_nm_0191"
-msgstr "Lax Timing S + Score S"
+msgstr "Lax Timing S & Score S"
 
 msgid "l_nm_0192"
 msgstr "Score Repeat EX"
@@ -1563,7 +1563,7 @@ msgid "l_nm_0205"
 msgstr "Score Repeat EX"
 
 msgid "l_nm_0206"
-msgstr "Lax Timing S + Score S"
+msgstr "Lax Timing S & Score S"
 
 msgid "l_nm_0207"
 msgstr "Score Repeat EX"
@@ -1629,7 +1629,7 @@ msgid "l_nm_0227"
 msgstr "Score+ EX"
 
 msgid "l_nm_0228"
-msgstr "Lax Timing S + Score S"
+msgstr "Lax Timing S & Score S"
 
 msgid "l_nm_0229"
 msgstr "Score Repeat EX"
@@ -1836,22 +1836,22 @@ msgid "l_dsc_0005"
 msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0006"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0007"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0008"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0009"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0010"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0011"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0012"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
@@ -1860,70 +1860,70 @@ msgid "l_dsc_0013"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0014"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0015"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0016"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0017"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0018"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0019"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0020"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0021"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0022"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0023"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0024"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0025"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0026"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0027"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0028"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0029"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0030"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0031"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0032"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0033"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0034"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0035"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0036"
 msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
@@ -1938,28 +1938,28 @@ msgid "l_dsc_0039"
 msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0040"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0041"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0042"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0043"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0044"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0045"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0046"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0047"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0048"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
@@ -1968,91 +1968,91 @@ msgid "l_dsc_0049"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0050"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0051"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0052"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0053"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0054"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0055"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0056"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0057"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0058"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0059"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0060"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0061"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0062"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0063"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0064"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0065"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0066"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0067"
-msgstr ""
+msgstr "Reduces damage taken by 30％ for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0068"
-msgstr ""
+msgstr "Reduces damage taken by 30％ for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0069"
-msgstr ""
+msgstr "Reduces damage taken by 30％ for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0070"
-msgstr ""
+msgstr "Reduces damage taken by 30％ for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0071"
-msgstr ""
+msgstr "Reduces damage taken by 30％ for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0072"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0073"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0074"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0075"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0076"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0077"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0078"
-msgstr "[tv]s after start, lengthens note timing window for [dv]s"
+msgstr "[tv]s after stage start, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0079"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
@@ -2061,55 +2061,55 @@ msgid "l_dsc_0080"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0081"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0082"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0083"
-msgstr ""
+msgstr "[tv]s after stage start, player takes no damage for [dv]s"
 
 msgid "l_dsc_0084"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0085"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0086"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0087"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0088"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0089"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0090"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0091"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0092"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0093"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0094"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0095"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0096"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0097"
-msgstr ""
+msgstr "[tv]s after stage start, stops combo loss for [dv]s"
 
 msgid "l_dsc_0098"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
@@ -2121,100 +2121,120 @@ msgid "l_dsc_0100"
 msgstr "Boosts score [v1]％ for [dv]s after getting a [tv] combo"
 
 msgid "l_dsc_0101"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0102"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0103"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0104"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0105"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0106"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0107"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0108"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0109"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0110"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0111"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0112"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0113"
 msgstr ""
+"When Valkyrie mode starts, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0114"
-msgstr ""
+msgstr "When Valkyrie mode starts, stops combo loss for [dv]s"
 
 msgid "l_dsc_0115"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0116"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0117"
-msgstr ""
+msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
 
 msgid "l_dsc_0118"
-msgstr ""
+msgstr "Halves damage taken for [dv]s when HP goes below [tv]%"
 
 msgid "l_dsc_0119"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0120"
 msgstr ""
+"[tv]s after stage start, recovers [v1]％ of HP, and boosts score [v2]％ for "
+"[dv2]s"
 
 msgid "l_dsc_0121"
 msgstr "Halves damage taken for [dv]s when HP goes below [tv]％"
 
 msgid "l_dsc_0122"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0123"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0124"
 msgstr ""
+"[tv]s after stage start, stops combo loss for [dv]s, and boosts score [v2]％ "
+"for [dv2]s"
 
 msgid "l_dsc_0125"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0126"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0127"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0128"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0129"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0130"
 msgstr ""
+"[tv]s after stage start, recovers [v1]％ of HP, and boosts score [v2]％ for "
+"[dv2]s"
 
 msgid "l_dsc_0131"
 msgstr ""
+"When Valkyrie mode starts, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0132"
 msgstr ""
+"[tv]s after stage start, player takes no damage for [dv]s, and boosts score "
+"[v2]％"
 
 msgid "l_dsc_0133"
 msgstr ""
@@ -2229,145 +2249,147 @@ msgid "l_dsc_0136"
 msgstr ""
 
 msgid "l_dsc_0137"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0138"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0139"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0140"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0141"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0142"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0143"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0144"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0145"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0146"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0147"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0148"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0149"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0150"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0151"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0152"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0153"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0154"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0155"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0156"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0157"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0158"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0159"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0160"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0161"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0162"
 msgstr ""
 
 msgid "l_dsc_0163"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0164"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0165"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0166"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0167"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0168"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0169"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0170"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0171"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0172"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0173"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0174"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0175"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0176"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0177"
 msgstr ""
 
 msgid "l_dsc_0178"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0179"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0180"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0181"
 msgstr ""
 
 msgid "l_dsc_0182"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0183"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0184"
 msgstr ""
@@ -2379,208 +2401,216 @@ msgid "l_dsc_0186"
 msgstr ""
 
 msgid "l_dsc_0187"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0188"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0189"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0190"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0191"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0192"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0193"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0194"
 msgstr ""
 
 msgid "l_dsc_0195"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0196"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0197"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0198"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0199"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0200"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0201"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0202"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0203"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0204"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0205"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0206"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0207"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0208"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0209"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0210"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0211"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0212"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0213"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0214"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0215"
 msgstr ""
 
 msgid "l_dsc_0216"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0217"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0218"
 msgstr ""
 
 msgid "l_dsc_0219"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0220"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0221"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0222"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0223"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0224"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0225"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0226"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0227"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0228"
 msgstr ""
+"[tv]s after stage start, makes note press timing less strict for [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0229"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0230"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0231"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0232"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0233"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0234"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0235"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0236"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0237"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0238"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0239"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0240"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0241"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0242"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0243"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0244"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0245"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0246"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0247"
 msgstr ""
+"[tv]s after stage start, recovers [v1]％ of HP, and boosts score [v2]％ for "
+"[dv2]s"
 
 msgid "l_dsc_0248"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0249"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0250"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0251"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0252"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0253"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0254"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0255"
 msgstr ""
@@ -2592,103 +2622,103 @@ msgid "l_dsc_0257"
 msgstr ""
 
 msgid "l_dsc_0258"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0259"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0260"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0261"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0262"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0263"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0264"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0265"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0266"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0267"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0268"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0269"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0270"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0271"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0272"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0273"
 msgstr ""
 
 msgid "l_dsc_0274"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0275"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0276"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0277"
 msgstr ""
 
 msgid "l_dsc_0278"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0279"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0280"
 msgstr ""
 
 msgid "l_dsc_0281"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0282"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0283"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0284"
 msgstr ""
 
 msgid "l_dsc_0285"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0286"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0287"
-msgstr ""
+msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0288"
 msgstr ""
 
 msgid "l_dsc_0289"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0290"
-msgstr ""
+msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0291"
 msgstr ""
