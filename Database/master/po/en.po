@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-04-30 11:46+0000\n"
+"PO-Revision-Date: 2025-05-02 11:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -2212,7 +2212,8 @@ msgid "l_dsc_0126"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0127"
-msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
+msgstr ""
+"When Super Diva Mode starts, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0128"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2238,15 +2239,21 @@ msgstr ""
 
 msgid "l_dsc_0133"
 msgstr ""
+"[tv]s after stage start, halves damage taken for [dv]s, and boosts score "
+"[v2]％ for [dv2]s"
 
 msgid "l_dsc_0134"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0135"
-msgstr ""
+msgstr "Player takes no damage for [dv]s when HP goes below [tv]%"
 
 msgid "l_dsc_0136"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0137"
 msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
@@ -2325,6 +2332,8 @@ msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0162"
 msgstr ""
+"After Super Diva Mode starts, boosts score [v1]％ for [dv]s when combo goes "
+"up by 50"
 
 msgid "l_dsc_0163"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2370,6 +2379,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0177"
 msgstr ""
+"After stage start, makes note press timing less strict every [dv]s, and "
+"boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0178"
 msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
@@ -2382,6 +2393,8 @@ msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0181"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0182"
 msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
@@ -2392,10 +2405,10 @@ msgstr ""
 "boosts score [v2]％ for [dv2]s"
 
 msgid "l_dsc_0184"
-msgstr ""
+msgstr "Boosts Short Skill Score+ effects [v1]% during songs"
 
 msgid "l_dsc_0185"
-msgstr ""
+msgstr "Boosts Long Skill Score+ effects [v1]% during songs"
 
 msgid "l_dsc_0186"
 msgstr ""
@@ -2614,6 +2627,8 @@ msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0255"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0256"
 msgstr ""
@@ -2668,6 +2683,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0273"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0274"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2680,6 +2697,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0277"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0278"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2689,6 +2708,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0280"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0281"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2701,6 +2722,8 @@ msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0284"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0285"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2713,6 +2736,8 @@ msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0288"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "l_dsc_0289"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2722,6 +2747,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0291"
 msgstr ""
+"[tv]s after stage start, drains [v1] HP but boosts score [v2]％ every 1s for "
+"[dv2]s"
 
 msgid "cs_nm_0001"
 msgstr ""
@@ -13065,7 +13092,7 @@ msgid "qd_dsc_0004"
 msgstr "Draw the gacha once"
 
 msgid "qd_dsc_0005"
-msgstr "Achieve Super Diva mode and complete any song"
+msgstr "Clear 1 song in Super Diva Mode"
 
 msgid "qd_dsc_0006"
 msgstr "Complete all daily missions"
