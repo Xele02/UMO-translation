@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-04-26 08:28+0000\n"
+"PO-Revision-Date: 2025-05-02 11:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -3788,16 +3788,16 @@ msgid "pop_score_detail_item_name_03"
 msgstr ""
 
 msgid "pop_score_detail_item_name_04"
-msgstr "Center Skills"
+msgstr "C Skills"
 
 msgid "pop_score_detail_item_name_05"
 msgstr ""
 
 msgid "pop_score_detail_item_name_06"
-msgstr ""
+msgstr "L Skills"
 
 msgid "pop_score_detail_item_name_07"
-msgstr ""
+msgstr "A Skills"
 
 msgid "pop_score_detail_item_name_08"
 msgstr ""
@@ -5237,10 +5237,10 @@ msgid "popup_sort_item_skill"
 msgstr "Skill"
 
 msgid "popup_sort_item_active_skill"
-msgstr ""
+msgstr "A Skills"
 
 msgid "popup_sort_item_live_skill"
-msgstr ""
+msgstr "L Skills"
 
 msgid "popup_sort_item_episode"
 msgstr "Episode"
