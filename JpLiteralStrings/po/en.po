@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-31 15:06+0000\n"
+"PO-Revision-Date: 2025-05-02 11:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -378,13 +378,13 @@ msgid "StringLiteral_11065"
 msgstr "Charm"
 
 msgid "StringLiteral_11066"
-msgstr "Center Skills"
+msgstr "C Skills"
 
 msgid "StringLiteral_11067"
-msgstr "Active Skill"
+msgstr "A Skill"
 
 msgid "StringLiteral_11068"
-msgstr "Live Skill"
+msgstr "L Skill"
 
 msgid "StringLiteral_11069"
 msgstr "Support"
@@ -1358,7 +1358,7 @@ msgid "StringLiteral_17960"
 msgstr "{0} times"
 
 msgid "StringLiteral_18022"
-msgstr "Use Skill"
+msgstr "Skill Use"
 
 msgid "StringLiteral_18023"
 msgstr "{0}s"
@@ -1937,7 +1937,7 @@ msgid "UMO_Excellent"
 msgstr "Excellent"
 
 msgid "UMO_CenterLiveSkillNote"
-msgstr "Center Live Skill Note Chance"
+msgstr "Center L Skill Note Odds"
 
 msgid "UMO_Notes"
 msgstr "Expect. Note Value"
