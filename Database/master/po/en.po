@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-02 11:46+0000\n"
+"PO-Revision-Date: 2025-05-03 12:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -2412,6 +2412,8 @@ msgstr "Boosts Long Skill Score+ effects [v1]% during songs"
 
 msgid "l_dsc_0186"
 msgstr ""
+"Boosts combo bonus Score+ effects [v1]% during songs (Normal combo bonus L "
+"Skills only)"
 
 msgid "l_dsc_0187"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2438,6 +2440,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0194"
 msgstr ""
+"When Super Diva Mode starts, boosts score [v1]％ until player gets a GREAT "
+"or below (Active during SD Mode only)"
 
 msgid "l_dsc_0195"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2503,6 +2507,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0215"
 msgstr ""
+"When Super Diva Mode starts, boosts Perfect and above scores [v1]% (Effect "
+"lasts until player gets a Good or below, active during SD Mode only)"
 
 msgid "l_dsc_0216"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2512,6 +2518,8 @@ msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
 
 msgid "l_dsc_0218"
 msgstr ""
+"After stage start, every [tv]s, drains [v1] HP every 1s, but boosts score "
+"[v2]％ for [dv2]s"
 
 msgid "l_dsc_0219"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2632,9 +2640,13 @@ msgstr ""
 
 msgid "l_dsc_0256"
 msgstr ""
+"When Valkyrie Mode starts, boosts score [v1_2]％ (up to [v1_max]％) for [dv]"
+"s each time Fold Waves reach [v1_1]％"
 
 msgid "l_dsc_0257"
 msgstr ""
+"[tv]s after stage start, boosts score [v1_2]％ for every [v1_1] Bond Levels "
+"for Divas with Plates equipped for [dv]s"
 
 msgid "l_dsc_0258"
 msgstr "After stage start, boosts score [v1]％ for [dv]s every [tv]s"
@@ -2751,25 +2763,25 @@ msgstr ""
 "[dv2]s"
 
 msgid "cs_nm_0001"
-msgstr ""
+msgstr "HP+ {0}％"
 
 msgid "cs_nm_0002"
-msgstr ""
+msgstr "Soul+ {0}％"
 
 msgid "cs_nm_0003"
-msgstr ""
+msgstr "Voice+ {0}％"
 
 msgid "cs_nm_0004"
-msgstr ""
+msgstr "Charm+ {0}％"
 
 msgid "cs_nm_0005"
-msgstr ""
+msgstr "Star Attribute+ {0}％"
 
 msgid "cs_nm_0006"
-msgstr ""
+msgstr "Love Attribute+ {0}％"
 
 msgid "cs_nm_0007"
-msgstr ""
+msgstr "Life Attribute+ {0}％"
 
 msgid "cs_nm_0008"
 msgstr ""
@@ -2814,34 +2826,34 @@ msgid "cs_nm_0021"
 msgstr ""
 
 msgid "cs_nm_0022"
-msgstr ""
+msgstr "Star Attribute+ {0}％"
 
 msgid "cs_nm_0023"
-msgstr ""
+msgstr "Love Attribute+ {0}％"
 
 msgid "cs_nm_0024"
-msgstr ""
+msgstr "Life Attribute+ {0}％"
 
 msgid "cs_nm_0025"
 msgstr ""
 
 msgid "cs_nm_0026"
-msgstr ""
+msgstr "Soul+ {0}％"
 
 msgid "cs_nm_0027"
-msgstr ""
+msgstr "Voice+ {0}％"
 
 msgid "cs_nm_0028"
-msgstr ""
+msgstr "Charm+ {0}％"
 
 msgid "cs_nm_0029"
-msgstr ""
+msgstr "Star Attribute+ {0}％"
 
 msgid "cs_nm_0030"
-msgstr ""
+msgstr "Love Attribute+ {0}％"
 
 msgid "cs_nm_0031"
-msgstr ""
+msgstr "Life Attribute+ {0}％"
 
 msgid "cs_nm_0032"
 msgstr ""
@@ -2856,34 +2868,34 @@ msgid "cs_nm_0035"
 msgstr ""
 
 msgid "cs_nm_0036"
-msgstr ""
+msgstr "Soul+ {0}％"
 
 msgid "cs_nm_0037"
-msgstr ""
+msgstr "Voice+ {0}％"
 
 msgid "cs_nm_0038"
-msgstr ""
+msgstr "Charm+ {0}％"
 
 msgid "cs_nm_0039"
-msgstr ""
+msgstr "Soul+ {0}％"
 
 msgid "cs_nm_0040"
-msgstr ""
+msgstr "Voice+ {0}％"
 
 msgid "cs_nm_0041"
-msgstr ""
+msgstr "Charm+ {0}％"
 
 msgid "cs_dsc_0001"
-msgstr ""
+msgstr "Boosts HP {0}％"
 
 msgid "cs_dsc_0002"
-msgstr ""
+msgstr "Boosts Soul {0}％"
 
 msgid "cs_dsc_0003"
-msgstr ""
+msgstr "Boosts Voice {0}％"
 
 msgid "cs_dsc_0004"
-msgstr ""
+msgstr "Boosts Charm {0}％"
 
 msgid "cs_dsc_0005"
 msgstr ""
@@ -2949,13 +2961,13 @@ msgid "cs_dsc_0025"
 msgstr ""
 
 msgid "cs_dsc_0026"
-msgstr ""
+msgstr "Boosts Soul {0}％"
 
 msgid "cs_dsc_0027"
-msgstr ""
+msgstr "Boosts Voice {0}％"
 
 msgid "cs_dsc_0028"
-msgstr ""
+msgstr "Boosts Charm {0}％"
 
 msgid "cs_dsc_0029"
 msgstr ""
@@ -2979,22 +2991,22 @@ msgid "cs_dsc_0035"
 msgstr ""
 
 msgid "cs_dsc_0036"
-msgstr ""
+msgstr "Boosts Soul {0}％"
 
 msgid "cs_dsc_0037"
-msgstr ""
+msgstr "Boosts Voice {0}％"
 
 msgid "cs_dsc_0038"
-msgstr ""
+msgstr "Boosts Charm {0}％"
 
 msgid "cs_dsc_0039"
-msgstr ""
+msgstr "Boosts Soul {0}％"
 
 msgid "cs_dsc_0040"
-msgstr ""
+msgstr "Boosts Voice {0}％"
 
 msgid "cs_dsc_0041"
-msgstr ""
+msgstr "Boosts Charm {0}％"
 
 msgid "el_nm_0001"
 msgstr ""
@@ -13086,7 +13098,7 @@ msgid "qd_dsc_0002"
 msgstr "Achieve an S-Rank on any song"
 
 msgid "qd_dsc_0003"
-msgstr "Activate an Active Skill then complete any song"
+msgstr "Use an Active Skill and clear a song"
 
 msgid "qd_dsc_0004"
 msgstr "Draw the gacha once"
@@ -13152,7 +13164,7 @@ msgstr "Let's assign an Episode Plate to a Diva"
 
 msgid "qn_dsc_0010"
 msgstr ""
-"Use your active skills to complete a song\n"
+"Use an Active Skill and clear a song\n"
 "Reward Plate: ★5 \"Welcome to Walküre World\""
 
 msgid "qn_dsc_0011"
