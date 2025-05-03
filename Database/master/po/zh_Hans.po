@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-04-26 08:28+0000\n"
+"PO-Revision-Date: 2025-05-03 12:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -876,19 +876,19 @@ msgid "a_dsc_0003"
 msgstr "回复[v1]％生命"
 
 msgid "a_dsc_0004"
-msgstr "[dv]秒内提升[v1]％分数"
+msgstr "[dv]秒内分数提升[v1]％"
 
 msgid "a_dsc_0005"
-msgstr "[dv]秒内提升[v1]％分数"
+msgstr "[dv]秒内分数提升[v1]％"
 
 msgid "a_dsc_0006"
-msgstr "[dv]秒内提升[v1]％分数"
+msgstr "[dv]秒内分数提升[v1]％"
 
 msgid "a_dsc_0007"
-msgstr "[dv]秒内提升[v1]％分数"
+msgstr "[dv]秒内分数提升[v1]％"
 
 msgid "a_dsc_0008"
-msgstr "[dv]秒内提升[v1]％分数"
+msgstr "[dv]秒内分数提升[v1]％"
 
 msgid "a_dsc_0009"
 msgstr "[dv]秒内免疫伤害"
@@ -927,22 +927,22 @@ msgid "a_dsc_0020"
 msgstr "[dv]秒内音符全部判定为PERFECT"
 
 msgid "a_dsc_0021"
-msgstr "[dv]秒内缩小音符判定区间，并提升[v2]％分数"
+msgstr "[dv]秒内缩小音符判定区间，分数提升[v2]％"
 
 msgid "a_dsc_0022"
-msgstr "[dv]秒内每达到50连击提升[v1]％分数"
+msgstr "[dv]秒内每达到50连击分数提升[v1]％"
 
 msgid "a_dsc_0023"
-msgstr "[dv2]秒内每秒减少[v1]生命并提升[v2]％分数"
+msgstr "[dv2]秒内每秒减少[v1]生命，分数提升[v2]％"
 
 msgid "a_dsc_0024"
-msgstr "[dv]秒内提升[v1]％分数（可使用2次）"
+msgstr "[dv]秒内分数提升[v1]％（可使用2次）"
 
 msgid "a_dsc_0025"
-msgstr "[dv]秒内每达到50连击提升[v1]％分数"
+msgstr "[dv]秒内每达到50连击分数提升[v1]％"
 
 msgid "a_dsc_0026"
-msgstr "[dv]秒内每达到50连击提升[v1]％分数（可使用2次）"
+msgstr "[dv]秒内每达到50连击分数提升[v1]％（可使用2次）"
 
 msgid "l_nm_0001"
 msgstr "伤害减免"
