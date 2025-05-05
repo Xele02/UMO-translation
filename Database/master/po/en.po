@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-04 15:46+0000\n"
+"PO-Revision-Date: 2025-05-06 03:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -2787,43 +2787,43 @@ msgid "cs_nm_0008"
 msgstr "Fold Waves+ {0}％"
 
 msgid "cs_nm_0009"
-msgstr ""
+msgstr "Support+ {0}％"
 
 msgid "cs_nm_0010"
-msgstr ""
+msgstr "All Stats+ {0}％"
 
 msgid "cs_nm_0011"
-msgstr ""
+msgstr "Total+ {0}％"
 
 msgid "cs_nm_0012"
-msgstr ""
+msgstr "Soul Voice+ {0}%"
 
 msgid "cs_nm_0013"
-msgstr ""
+msgstr "Soul Charm+ {0}%"
 
 msgid "cs_nm_0014"
-msgstr ""
+msgstr "Voice Charm+ {0}%"
 
 msgid "cs_nm_0015"
 msgstr "Fold Waves+ {0}％"
 
 msgid "cs_nm_0016"
-msgstr ""
+msgstr "Total & HP+ {0}%"
 
 msgid "cs_nm_0017"
-msgstr ""
+msgstr "Total & Support+ {0}%"
 
 msgid "cs_nm_0018"
-msgstr ""
+msgstr "Charm & HP+ {0}%"
 
 msgid "cs_nm_0019"
-msgstr ""
+msgstr "Voice & HP+ {0}%"
 
 msgid "cs_nm_0020"
-msgstr ""
+msgstr "Soul & HP+ {0}%"
 
 msgid "cs_nm_0021"
-msgstr ""
+msgstr "Total+ {0}％"
 
 msgid "cs_nm_0022"
 msgstr "Star Attribute+ {0}％"
@@ -2835,7 +2835,7 @@ msgid "cs_nm_0024"
 msgstr "Life Attribute+ {0}％"
 
 msgid "cs_nm_0025"
-msgstr ""
+msgstr "Total+ {0}％"
 
 msgid "cs_nm_0026"
 msgstr "Soul+ {0}％"
@@ -2856,16 +2856,16 @@ msgid "cs_nm_0031"
 msgstr "Life Attribute+ {0}％"
 
 msgid "cs_nm_0032"
-msgstr ""
+msgstr "Diva Total+ {0}％"
 
 msgid "cs_nm_0033"
-msgstr ""
+msgstr "Soul Voice+ {0}%"
 
 msgid "cs_nm_0034"
-msgstr ""
+msgstr "Soul Charm+ {0}%"
 
 msgid "cs_nm_0035"
-msgstr ""
+msgstr "Voice Charm+ {0}%"
 
 msgid "cs_nm_0036"
 msgstr "Soul+ {0}％"
@@ -2899,6 +2899,8 @@ msgstr "Boosts Charm {0}％"
 
 msgid "cs_dsc_0005"
 msgstr ""
+"Boosts all Star\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0006"
 msgstr ""
@@ -2910,46 +2912,48 @@ msgid "cs_dsc_0008"
 msgstr "Boosts Fold Waves {0}％"
 
 msgid "cs_dsc_0009"
-msgstr ""
+msgstr "Boosts Support {0}％"
 
 msgid "cs_dsc_0010"
-msgstr ""
+msgstr "Boosts all stats {0}％"
 
 msgid "cs_dsc_0011"
-msgstr ""
+msgstr "Boosts Total {0}％"
 
 msgid "cs_dsc_0012"
-msgstr ""
+msgstr "Boosts Soul Voice {0}%"
 
 msgid "cs_dsc_0013"
-msgstr ""
+msgstr "Boosts Soul Charm {0}%"
 
 msgid "cs_dsc_0014"
-msgstr ""
+msgstr "Boosts Voice Charm {0}%"
 
 msgid "cs_dsc_0015"
 msgstr "Boosts Fold Waves {0}％"
 
 msgid "cs_dsc_0016"
-msgstr ""
+msgstr "Boosts Total & HP {0}%"
 
 msgid "cs_dsc_0017"
-msgstr ""
+msgstr "Boosts Total & Support {0}%"
 
 msgid "cs_dsc_0018"
-msgstr ""
+msgstr "Boosts Charm & HP {0}%"
 
 msgid "cs_dsc_0019"
-msgstr ""
+msgstr "Boosts Voice & HP {0}%"
 
 msgid "cs_dsc_0020"
-msgstr ""
+msgstr "Boosts Soul & HP {0}%"
 
 msgid "cs_dsc_0021"
-msgstr ""
+msgstr "Boosts Total {0}％"
 
 msgid "cs_dsc_0022"
 msgstr ""
+"Boosts all Star\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0023"
 msgstr ""
@@ -2958,7 +2962,7 @@ msgid "cs_dsc_0024"
 msgstr ""
 
 msgid "cs_dsc_0025"
-msgstr ""
+msgstr "Boosts Total {0}％"
 
 msgid "cs_dsc_0026"
 msgstr "Boosts Soul {0}％"
@@ -2971,6 +2975,8 @@ msgstr "Boosts Charm {0}％"
 
 msgid "cs_dsc_0029"
 msgstr ""
+"Boosts all Star\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0030"
 msgstr ""
@@ -2979,16 +2985,16 @@ msgid "cs_dsc_0031"
 msgstr ""
 
 msgid "cs_dsc_0032"
-msgstr ""
+msgstr "Boosts Diva Total {0}％"
 
 msgid "cs_dsc_0033"
-msgstr ""
+msgstr "Boosts Soul Voice {0}%"
 
 msgid "cs_dsc_0034"
-msgstr ""
+msgstr "Boosts Soul Charm {0}%"
 
 msgid "cs_dsc_0035"
-msgstr ""
+msgstr "Boosts Voice Charm {0}%"
 
 msgid "cs_dsc_0036"
 msgstr "Boosts Soul {0}％"
