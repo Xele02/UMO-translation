@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-06 03:46+0000\n"
+"PO-Revision-Date: 2025-05-19 07:59+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -2904,9 +2904,13 @@ msgstr ""
 
 msgid "cs_dsc_0006"
 msgstr ""
+"Boosts all Love\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0007"
 msgstr ""
+"Boosts all Life\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0008"
 msgstr "Boosts Fold Waves {0}％"
@@ -2957,9 +2961,13 @@ msgstr ""
 
 msgid "cs_dsc_0023"
 msgstr ""
+"Boosts all Love\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0024"
 msgstr ""
+"Boosts all Life\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0025"
 msgstr "Boosts Total {0}％"
@@ -2980,9 +2988,13 @@ msgstr ""
 
 msgid "cs_dsc_0030"
 msgstr ""
+"Boosts all Love\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0031"
 msgstr ""
+"Boosts all Life\n"
+"Plate stats {0}％"
 
 msgid "cs_dsc_0032"
 msgstr "Boosts Diva Total {0}％"
@@ -3016,93 +3028,125 @@ msgstr "Boosts Charm {0}％"
 
 msgid "el_nm_0001"
 msgstr ""
+"The Song of Destruction will reduce your HP during songs!\n"
+"Use HP Recovery skills to power through!"
 
 msgid "el_nm_0002"
 msgstr ""
+"The Song of Destruction will make note timing tighter while\n"
+"in Super Diva Mode! Use Lax Timing skills to power through!"
 
 msgid "el_nm_0003"
 msgstr ""
+"The Song of Destruction doubles damage when you\n"
+"fail note taps! Use Damage– skills to power through!"
 
 msgid "el_nm_0004"
 msgstr ""
+"The Song of Destruction is boosting the enemy during this song! Raise your "
+"Support stats and take them on in Valkyrie Mode!"
 
 msgid "el_nm_0005"
 msgstr ""
+"The Song of Destruction will reduce Charm\n"
+"stats 10% but raise Voice stats 10%!"
 
 msgid "el_nm_0006"
 msgstr ""
+"The Song of Destruction will make note timing tighter while\n"
+"in Super Diva Mode! Use Lax Timing skills to power through!"
 
 msgid "el_nm_0007"
 msgstr ""
+"The Song of Destruction will make note timing tighter!\n"
+"Use Lax Note Timing skills to power through!"
 
 msgid "el_nm_0008"
 msgstr ""
+"The Song of Destruction will make note timing tighter! Raise\n"
+"your Support stats or use Lax Note Timing to power through!"
 
 msgid "el_nm_0009"
 msgstr ""
+"The Song of Destruction is boosting enemy HP!\n"
+"Raise your Support stats and power through the enemy!"
 
 msgid "ec_nm_0001"
 msgstr ""
+"The Song of Destruction will reduce Charm stats\n"
+"20% but raise Voice stats 20% during this song!"
 
 msgid "ec_nm_0002"
 msgstr ""
+"The Song of Destruction will reduce Voice stats\n"
+"30% but raise Charm stats 30% during this song!"
 
 msgid "ec_nm_0003"
 msgstr ""
+"The Song of Destruction will reduce Charm stats\n"
+"30% but raise Soul stats 30% during this song!"
 
 msgid "ec_nm_0004"
 msgstr ""
+"The Song of Destruction will reduce Soul stats\n"
+"30% but raise Charm stats 30% during this song!"
 
 msgid "ec_nm_0005"
 msgstr ""
+"The Song of Destruction will reduce Voice stats\n"
+"30% but raise Soul stats 30% during this song!"
 
 msgid "ec_nm_0006"
 msgstr ""
+"The Song of Destruction will reduce Charm stats\n"
+"30% but raise Voice stats 30% during this song!"
 
 msgid "ec_nm_0007"
 msgstr ""
+"The Song of Destruction will reduce Soul stats\n"
+"30% but raise Voice stats 30% during this song!"
 
 msgid "ec_nm_0008"
-msgstr ""
+msgstr "Enemy Center Skill 008"
 
 msgid "ec_nm_0009"
-msgstr ""
+msgstr "Enemy Center Skill 009"
 
 msgid "ec_nm_0010"
-msgstr ""
+msgstr "Enemy Center Skill 010"
 
 msgid "ec_nm_0011"
-msgstr ""
+msgstr "Enemy Center Skill 011"
 
 msgid "ec_nm_0012"
-msgstr ""
+msgstr "Enemy Center Skill 012"
 
 msgid "ec_nm_0013"
-msgstr ""
+msgstr "Enemy Center Skill 013"
 
 msgid "ec_nm_0014"
-msgstr ""
+msgstr "Enemy Center Skill 014"
 
 msgid "ec_nm_0015"
-msgstr ""
+msgstr "Enemy Center Skill 015"
 
 msgid "ec_nm_0016"
-msgstr ""
+msgstr "Enemy Center Skill 016"
 
 msgid "ec_nm_0017"
-msgstr ""
+msgstr "Enemy Center Skill 017"
 
 msgid "ec_nm_0018"
-msgstr ""
+msgstr "Enemy Center Skill 018"
 
 msgid "ec_nm_0019"
-msgstr ""
+msgstr "Enemy Center Skill 019"
 
 msgid "ec_nm_0020"
-msgstr ""
+msgstr "Enemy Center Skill 020"
 
 msgid "ec_nm_0021"
-msgstr ""
+msgstr "Enemy Center Skill 021"
 
 msgid "fc_nm_0001"
 msgstr "Total+"
@@ -3126,10 +3170,10 @@ msgid "fc_nm_0007"
 msgstr "Total+"
 
 msgid "fc_nm_0008"
-msgstr ""
+msgstr "Total & Support"
 
 msgid "fc_nm_0009"
-msgstr ""
+msgstr "Total & HP"
 
 msgid "fc_nm_0010"
 msgstr "Star Plate+"
@@ -3225,7 +3269,7 @@ msgid "fc_nm_0040"
 msgstr "HP+"
 
 msgid "fc_nm_0041"
-msgstr ""
+msgstr "HP & Support"
 
 msgid "fc_nm_0042"
 msgstr "Support+"
@@ -3234,7 +3278,7 @@ msgid "fc_nm_0043"
 msgstr "Fold+"
 
 msgid "fa_nm_0001"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "fa_nm_0002"
 msgstr "Score+"
@@ -3243,13 +3287,13 @@ msgid "fa_nm_0003"
 msgstr "No Damage"
 
 msgid "fa_nm_0004"
-msgstr ""
+msgstr "Damage–"
 
 msgid "fa_nm_0005"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "fa_nm_0006"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "fa_nm_0008"
 msgstr "Combo Bonus"
@@ -3312,34 +3356,34 @@ msgid "fl_nm_0019"
 msgstr "Diva Score & Damage"
 
 msgid "fl_nm_0020"
-msgstr ""
+msgstr "HP Recovery"
 
 msgid "fl_nm_0021"
-msgstr ""
+msgstr "Recovery & Score"
 
 msgid "fl_nm_0022"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "fl_nm_0023"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "fl_nm_0024"
-msgstr ""
+msgstr "Lax Note Timing"
 
 msgid "fl_nm_0025"
-msgstr ""
+msgstr "Lax Timing & Score"
 
 msgid "fl_nm_0026"
-msgstr ""
+msgstr "Timing & Sco. Rep."
 
 msgid "fl_nm_0027"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "fl_nm_0028"
-msgstr ""
+msgstr "Combo Keeping"
 
 msgid "fl_nm_0029"
-msgstr ""
+msgstr "Combo & Score"
 
 msgid "fl_nm_0030"
 msgstr "Combo Bonus"
@@ -3351,13 +3395,13 @@ msgid "fl_nm_0032"
 msgstr "No Damage"
 
 msgid "fl_nm_0033"
-msgstr ""
+msgstr "No Dmg & Score"
 
 msgid "fl_nm_0034"
-msgstr ""
+msgstr "Damage–"
 
 msgid "fl_nm_0035"
-msgstr ""
+msgstr "Dmg– & Score"
 
 msgid "fl_nm_0036"
 msgstr "Bond Lv. Score+"
@@ -3375,166 +3419,273 @@ msgid "fl_nm_0040"
 msgstr "Score & Damage EX"
 
 msgid "gn_0001"
-msgstr ""
+msgstr "Melody Stone (S)"
 
 msgid "gn_0002"
-msgstr ""
+msgstr "Melody Stone (M)"
 
 msgid "gn_0003"
-msgstr ""
+msgstr "Melody Stone (L)"
 
 msgid "gn_0004"
-msgstr ""
+msgstr "HP Stone (S)"
 
 msgid "gn_0005"
-msgstr ""
+msgstr "HP Stone (M)"
 
 msgid "gn_0006"
-msgstr ""
+msgstr "HP Stone (L)"
 
 msgid "gn_0007"
-msgstr ""
+msgstr "Soul Stone (S)"
 
 msgid "gn_0008"
-msgstr ""
+msgstr "Soul Stone (M)"
 
 msgid "gn_0009"
-msgstr ""
+msgstr "Soul Stone (L)"
 
 msgid "gn_0010"
-msgstr ""
+msgstr "Voice Stone (S)"
 
 msgid "gn_0011"
-msgstr ""
+msgstr "Voice Stone (M)"
 
 msgid "gn_0012"
-msgstr ""
+msgstr "Voice Stone (L)"
 
 msgid "gn_0013"
-msgstr ""
+msgstr "Charm Stone (S)"
 
 msgid "gn_0014"
-msgstr ""
+msgstr "Charm Stone (M)"
 
 msgid "gn_0015"
-msgstr ""
+msgstr "Charm Stone (L)"
 
 msgid "gn_0016"
-msgstr ""
+msgstr "Life Crystal (S)"
 
 msgid "gn_0017"
-msgstr ""
+msgstr "Life Crystal (M)"
 
 msgid "gn_0018"
-msgstr ""
+msgstr "Life Crystal (L)"
 
 msgid "gn_0019"
-msgstr ""
+msgstr "Love Crystal (S)"
 
 msgid "gn_0020"
-msgstr ""
+msgstr "Love Crystal (M)"
 
 msgid "gn_0021"
-msgstr ""
+msgstr "Love Crystal (L)"
 
 msgid "gn_0022"
-msgstr ""
+msgstr "Star Crystal (S)"
 
 msgid "gn_0023"
-msgstr ""
+msgstr "Star Crystal (M)"
 
 msgid "gn_0024"
-msgstr ""
+msgstr "Star Crystal (L)"
 
 msgid "gn_0025"
-msgstr ""
+msgstr "Raw Luck Gem"
 
 msgid "gn_0026"
-msgstr ""
+msgstr "Shiny Luck Gem"
 
 msgid "gn_0027"
-msgstr ""
+msgstr "Secret Stone"
 
 msgid "gn_dsc_0001"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Melody power within.\n"
+"<color=#C8087E>- Get them from Mon. & Sun. Melody Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0002"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Melody power within.\n"
+"<color=#C8087E>- Get them from Mon. & Sun. Melody Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0003"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Melody power within than usual.\n"
+"<color=#C8087E>- Get them from Mon. & Sun. Melody Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0004"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little HP power within.\n"
+"<color=#C8087E>- Get them from Thu. & Sat. HP Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0005"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides HP power within.\n"
+"<color=#C8087E>- Get them from Thu. & Sat. HP Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0006"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more HP power within than usual.\n"
+"<color=#C8087E>- Get them from Thu. & Sat. HP Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0007"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Soul power within.\n"
+"<color=#C8087E>- Get them from Fri. & Sun. Soul Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0008"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Soul power within.\n"
+"<color=#C8087E>- Get them from Fri. & Sun. Soul Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0009"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Soul power within than usual.\n"
+"<color=#C8087E>- Get them from Fri. & Sun. Soul Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0010"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Voice power within.\n"
+"<color=#C8087E>- Get them from Wed. & Sun. Voice Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0011"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Voice power within.\n"
+"<color=#C8087E>- Get them from Wed. & Sun. Voice Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0012"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Voice power within than usual.\n"
+"<color=#C8087E>- Get them from Wed. & Sun. Voice Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0013"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Charm power within.\n"
+"<color=#C8087E>- Get them from Tue. & Sat. Charm Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0014"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Charm power within.\n"
+"<color=#C8087E>- Get them from Tue. & Sat. Charm Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0015"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Charm power within than usual.\n"
+"<color=#C8087E>- Get them from Tue. & Sat. Charm Events, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0016"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Life power within.\n"
+"<color=#C8087E>- Get them from Life Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0017"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Life power within.\n"
+"<color=#C8087E>- Get them from Life Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0018"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Life power within than usual.\n"
+"<color=#C8087E>- Get them from Life Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0019"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Love power within.\n"
+"<color=#C8087E>- Get them from Love Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0020"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Love power within.\n"
+"<color=#C8087E>- Get them from Love Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0021"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Love power within than usual.\n"
+"<color=#C8087E>- Get them from Love Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0022"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides a little Star power within.\n"
+"<color=#C8087E>- Get them from Star Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0023"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides Star power within.\n"
+"<color=#C8087E>- Get them from Star Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0024"
 msgstr ""
+"An item for unlocking Episode Plate Abilities.\n"
+"Hides more Star power within than usual.\n"
+"<color=#C8087E>- Get them from Star Attribute songs, and other "
+"sources.</color>"
 
 msgid "gn_dsc_0025"
 msgstr ""
+"A rare item for unlocking\n"
+"Lucky Leaf Abilities.\n"
+"<color=#8e0529>- Usable with Plates that have been upgraded to 5 "
+"Stars.</color>"
 
 msgid "gn_dsc_0026"
 msgstr ""
+"A very rare item for unlocking\n"
+"Lucky Leaf Abilities.\n"
+"<color=#8e0529>- Usable with Plates that have been upgraded to 6 or 7 "
+"Stars.</color>"
 
 msgid "gn_dsc_0027"
 msgstr ""
+"Unlock Secret Boards using Unlock Ability.\n"
+"<color=#8e0529>- Usable with Plates that have been upgraded to 5 or 6 "
+"Stars.</color>"
 
 msgid "diva_01"
 msgstr "Freyja Wion"
@@ -3597,91 +3748,127 @@ msgid "diva_s_10"
 msgstr "Minmay"
 
 msgid "cs_i_nm_0001"
-msgstr ""
+msgstr "Costume Stone (S)"
 
 msgid "cs_i_nm_0002"
-msgstr ""
+msgstr "Costume Stone (M)"
 
 msgid "cs_i_nm_0003"
-msgstr ""
+msgstr "Costume Stone (L)"
 
 msgid "cs_i_nm_0004"
-msgstr ""
+msgstr "Kyawawa Doll (Freyja)"
 
 msgid "cs_i_nm_0005"
-msgstr ""
+msgstr "Kyawawa Doll (Mikumo)"
 
 msgid "cs_i_nm_0006"
-msgstr ""
+msgstr "Kyawawa Doll (Kaname)"
 
 msgid "cs_i_nm_0007"
-msgstr ""
+msgstr "Kyawawa Doll (Makina)"
 
 msgid "cs_i_nm_0008"
-msgstr ""
+msgstr "Kyawawa Doll (Reina)"
 
 msgid "cs_i_nm_0009"
-msgstr ""
+msgstr "Kyawawa Doll (Ranka)"
 
 msgid "cs_i_nm_0010"
-msgstr ""
+msgstr "Kyawawa Doll (Sheryl)"
 
 msgid "cs_i_nm_0011"
-msgstr ""
+msgstr "Kyawawa Doll (Mylene)"
 
 msgid "cs_i_nm_0012"
-msgstr ""
+msgstr "Kyawawa Doll (Basara)"
 
 msgid "cs_i_nm_0013"
-msgstr ""
+msgstr "Kyawawa Doll (Minmay)"
 
 msgid "cs_i_dsc_0001"
 msgstr ""
+"An item that boosts Costumes a little.\n"
+"<color=#C8087E>- Get them from Valkyrie Operations and other sources.</color>"
 
 msgid "cs_i_dsc_0002"
 msgstr ""
+"An item that boosts Costumes.\n"
+"<color=#C8087E>- Get them from Valkyrie Operations and other sources.</color>"
 
 msgid "cs_i_dsc_0003"
 msgstr ""
+"An item that boosts Costumes a lot.\n"
+"<color=#C8087E>- Get them from Valkyrie Operations and other sources.</color>"
 
 msgid "cs_i_dsc_0004"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Freyja's Costumes.\n"
+"<color=#C8087E>- Get them from Freyja Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0005"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Mikumo's Costumes.\n"
+"<color=#C8087E>- Get them from Mikumo Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0006"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Kaname's Costumes.\n"
+"<color=#C8087E>- Get them from Kaname Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0007"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Makina's Costumes.\n"
+"<color=#C8087E>- Get them from Makina Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0008"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Reina's Costumes.\n"
+"<color=#C8087E>- Get them from Reina Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0009"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Ranka's Costumes.\n"
+"<color=#C8087E>- Get them from Ranka Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0010"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Sheryl's Costumes.\n"
+"<color=#C8087E>- Get them from Sheryl Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0011"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Mylene's Costumes.\n"
+"<color=#C8087E>- Get them from Mylene Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0012"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Basara's Costumes.\n"
+"<color=#C8087E>- Get them from Basara Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_0013"
 msgstr ""
+"An item that unlocks 4★ Kyawawa rank for Minmay's Costumes.\n"
+"<color=#C8087E>- Get them from Minmay Diva Operations and other "
+"sources.</color>"
 
 msgid "cs_i_dsc_short_0001"
-msgstr ""
+msgstr "Item that boosts Costumes a little."
 
 msgid "cs_i_dsc_short_0002"
-msgstr ""
+msgstr "Item that boosts Costumes."
 
 msgid "cs_i_dsc_short_0003"
-msgstr ""
+msgstr "Item that boosts Costumes a lot."
 
 msgid "cos_0001"
 msgstr "Walküre Uniform"
@@ -3693,13 +3880,13 @@ msgid "cos_0003"
 msgstr "Rotkäppchen"
 
 msgid "cos_0004"
-msgstr "Blaue Blume"
+msgstr "Blau Blume"
 
 msgid "cos_0005"
-msgstr "Kimono-Stahl"
+msgstr "Kimono Stihl"
 
 msgid "cos_0006"
-msgstr "Vor Stoß"
+msgstr "Vorstoß"
 
 msgid "cos_0007"
 msgstr "Hübsche Qualle"
@@ -3744,10 +3931,10 @@ msgid "cos_0020"
 msgstr "Crossover Passion"
 
 msgid "cos_0021"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0022"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0023"
 msgstr ""
@@ -3804,10 +3991,10 @@ msgid "cos_0040"
 msgstr ""
 
 msgid "cos_0041"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0042"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0043"
 msgstr ""
@@ -3864,10 +4051,10 @@ msgid "cos_0060"
 msgstr ""
 
 msgid "cos_0061"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0062"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0063"
 msgstr ""
@@ -3924,10 +4111,10 @@ msgid "cos_0080"
 msgstr ""
 
 msgid "cos_0081"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0082"
-msgstr ""
+msgstr "Strahl"
 
 msgid "cos_0083"
 msgstr ""
@@ -4704,19 +4891,19 @@ msgid "cos_0396"
 msgstr ""
 
 msgid "cos_0001_01"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0002_01"
 msgstr "Neo Strahl"
 
 msgid "cos_0003_01"
-msgstr ""
+msgstr "Rotkäppchen"
 
 msgid "cos_0004_01"
 msgstr "Rot Blume"
 
 msgid "cos_0005_01"
-msgstr ""
+msgstr "Kimono Stihl"
 
 msgid "cos_0006_01"
 msgstr "Sturm Stoß"
@@ -4764,7 +4951,7 @@ msgid "cos_0020_01"
 msgstr ""
 
 msgid "cos_0021_01"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0022_01"
 msgstr ""
@@ -4824,7 +5011,7 @@ msgid "cos_0040_01"
 msgstr ""
 
 msgid "cos_0041_01"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0042_01"
 msgstr ""
@@ -4884,7 +5071,7 @@ msgid "cos_0060_01"
 msgstr ""
 
 msgid "cos_0061_01"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0062_01"
 msgstr ""
@@ -4944,7 +5131,7 @@ msgid "cos_0080_01"
 msgstr ""
 
 msgid "cos_0081_01"
-msgstr ""
+msgstr "Walküre Uniform"
 
 msgid "cos_0082_01"
 msgstr ""
