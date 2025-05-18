@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-03-23 13:45+0000\n"
+"PO-Revision-Date: 2025-05-19 07:59+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "room_text/ko/>\n"
@@ -111,87 +111,121 @@ msgstr "정말이지 간단히 믿기 어려운 이야기네"
 
 msgid "message_0024_txt"
 msgstr ""
+"시간이라든가 공간이라든가\n"
+"어려운 얘기는 잘 모르겠지만"
 
 msgid "message_0025_txt"
 msgstr ""
+"사실, 대부분의 사람들은 이 비정상적인 사태를\n"
+"알아차리지도 못하고 있어"
 
 msgid "message_0026_txt"
 msgstr ""
+"언제부턴가 무언가를 잊어버리거나 잃어버렸어도,\n"
+"그것이 무엇인지 기억해내지 못해…"
 
 msgid "message_0027_txt"
-msgstr ""
+msgstr "이유를 알 수 없는 강한 상실감만 남는다고 해"
 
 msgid "message_0028_txt"
 msgstr ""
+"우리만 그걸 알아차린다는 게\n"
+"왠지 이상한 기분이 들긴 하지만"
 
 msgid "message_0029_txt"
-msgstr ""
+msgstr "생체 폴드파에 의해 보호받고 있다는 거지?"
 
 msgid "message_0030_txt"
 msgstr ""
+"그게 아니면,\n"
+"노래가 지켜주고 있다고 말하는게 더 이해하기 쉬우려나"
 
 msgid "message_0031_txt"
-msgstr ""
+msgstr "노래가 지켜주고 있다...라"
 
 msgid "message_0032_txt"
-msgstr ""
+msgstr "확실히 그렇게 느껴질 때도 있네"
 
 msgid "message_0033_txt"
-msgstr ""
+msgstr "원리는 잘 모르겠지만, 그런 것 같아"
 
 msgid "message_0034_txt"
 msgstr ""
+"그래서 가희들을 지키는 것이\n"
+"이 세계를 지키는 것이기도 하다는 거야"
 
 msgid "message_0035_txt"
 msgstr ""
+"만약 모두가 노래를 부를 수 없게 되면\n"
+"우리도 무사하지 못할 테니까"
 
 msgid "message_0036_txt"
-msgstr ""
+msgstr "하지만 아무리 위험한 싸움이라고 해도,"
 
 msgid "message_0037_txt"
 msgstr ""
+"누군가를 지킨다는 목적이 있는 만큼,\n"
+"빼앗고 빼앗기는 싸움보다\n"
+"훨씬 더 보람을 느낄 수 있을 것 같아"
 
 msgid "message_0038_txt"
-msgstr ""
+msgstr "그렇네"
 
 msgid "message_0039_txt"
-msgstr ""
+msgstr "틀림없어"
 
 msgid "message_0040_txt"
-msgstr ""
+msgstr "오…"
 
 msgid "message_0041_txt"
 msgstr ""
+"혹시 방금 말한 거,\n"
+"선배같아서 멋있었으려나?"
 
 msgid "message_0042_txt"
-msgstr ""
+msgstr "좋아, 공격해 온 녀석들은 격퇴했어"
 
 msgid "message_0043_txt"
-msgstr ""
+msgstr "민메이, 그쪽은 어때?"
 
 msgid "message_0044_txt"
 msgstr ""
+"히카루 덕분에 끝까지 노래할 수 있었어.\n"
+"고마워!"
 
 msgid "message_0045_txt"
 msgstr ""
+"민메이 씨! 민메이 씨의 노래,\n"
+"여기에서도 잘 들렸어요!\n"
+"저, 솔직히 말해서 감동했습니다!"
 
 msgid "message_0046_txt"
-msgstr ""
+msgstr "역시...전설의 가희"
 
 msgid "message_0047_txt"
-msgstr ""
+msgstr "아냐, 전설이라니…"
 
 msgid "message_0048_txt"
 msgstr ""
+"하지만 내 노래가 힘이 되어주고 있다면\n"
+"기뻐"
 
 msgid "message_0049_txt"
 msgstr ""
+"왠지 모르겠지만, 싸울 때\n"
+"민메이의 노래가 응원하는\n"
+"느낌이 들었어"
 
 msgid "message_0050_txt"
 msgstr ""
+"나도 모두의 노래와 마음이 전해지는\n"
+"것 같아서 평소보다 더 힘차게\n"
+"노래할 수 있었던 것 같아"
 
 msgid "message_0051_txt"
 msgstr ""
+"어떤 적이 와도 민민의 노래가 있으면\n"
+"일당백이네~(*^ω^)人(^ω^*)"
 
 msgid "message_0052_txt"
 msgstr ""
