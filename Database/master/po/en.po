@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-19 07:59+0000\n"
+"PO-Revision-Date: 2025-05-20 07:21+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -3883,10 +3883,10 @@ msgid "cos_0004"
 msgstr "Blau Blume"
 
 msgid "cos_0005"
-msgstr "Kimono Stihl"
+msgstr "Kimono Stil"
 
 msgid "cos_0006"
-msgstr "Vorstoß"
+msgstr "Vor Stoß"
 
 msgid "cos_0007"
 msgstr "Hübsche Qualle"
@@ -3895,7 +3895,7 @@ msgid "cos_0008"
 msgstr "Erste Liebe"
 
 msgid "cos_0009"
-msgstr "Resonance"
+msgstr "Resonanz"
 
 msgid "cos_0010"
 msgstr "Edel Schwan"
@@ -3907,10 +3907,10 @@ msgid "cos_0012"
 msgstr "Blauer Äther"
 
 msgid "cos_0013"
-msgstr "Sternenblau"
+msgstr "Sternen Blau"
 
 msgid "cos_0014"
-msgstr "Leidenshaft"
+msgstr "Leidenschaft"
 
 msgid "cos_0015"
 msgstr "Rag Nyan-Nyan Messiah"
@@ -3937,37 +3937,37 @@ msgid "cos_0022"
 msgstr "Strahl"
 
 msgid "cos_0023"
-msgstr ""
+msgstr "Verkleidung"
 
 msgid "cos_0024"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0025"
-msgstr ""
+msgstr "Mondschein"
 
 msgid "cos_0026"
-msgstr ""
+msgstr "Vor Stoß"
 
 msgid "cos_0027"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0028"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0029"
-msgstr ""
+msgstr "Verbotene"
 
 msgid "cos_0030"
-msgstr ""
+msgstr "Schwarze Rätsel"
 
 msgid "cos_0031"
-msgstr ""
+msgstr "Sternern Veilchen"
 
 msgid "cos_0032"
-msgstr ""
+msgstr "Mystiker Braut"
 
 msgid "cos_0033"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0034"
 msgstr ""
@@ -4012,19 +4012,19 @@ msgid "cos_0047"
 msgstr ""
 
 msgid "cos_0048"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0049"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0050"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0051"
 msgstr ""
 
 msgid "cos_0052"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0053"
 msgstr ""
@@ -4039,7 +4039,7 @@ msgid "cos_0056"
 msgstr ""
 
 msgid "cos_0057"
-msgstr ""
+msgstr "Vor Stoß"
 
 msgid "cos_0058"
 msgstr ""
@@ -4066,7 +4066,7 @@ msgid "cos_0065"
 msgstr ""
 
 msgid "cos_0066"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0067"
 msgstr ""
@@ -4075,10 +4075,10 @@ msgid "cos_0068"
 msgstr ""
 
 msgid "cos_0069"
-msgstr ""
+msgstr "Vor Stoß"
 
 msgid "cos_0070"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0071"
 msgstr ""
@@ -4087,7 +4087,7 @@ msgid "cos_0072"
 msgstr ""
 
 msgid "cos_0073"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0074"
 msgstr ""
@@ -4099,7 +4099,7 @@ msgid "cos_0076"
 msgstr ""
 
 msgid "cos_0077"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0078"
 msgstr ""
@@ -4120,16 +4120,16 @@ msgid "cos_0083"
 msgstr ""
 
 msgid "cos_0084"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0085"
 msgstr ""
 
 msgid "cos_0086"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0087"
-msgstr ""
+msgstr "Vor Stoß"
 
 msgid "cos_0088"
 msgstr ""
@@ -4141,13 +4141,13 @@ msgid "cos_0090"
 msgstr ""
 
 msgid "cos_0091"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0092"
 msgstr ""
 
 msgid "cos_0093"
-msgstr ""
+msgstr "Floral Summer"
 
 msgid "cos_0094"
 msgstr ""
@@ -4903,28 +4903,28 @@ msgid "cos_0004_01"
 msgstr "Rot Blume"
 
 msgid "cos_0005_01"
-msgstr "Kimono Stihl"
+msgstr "Kimono Stil"
 
 msgid "cos_0006_01"
 msgstr "Sturm Stoß"
 
 msgid "cos_0007_01"
-msgstr ""
+msgstr "Hübsche Qualle"
 
 msgid "cos_0008_01"
-msgstr ""
+msgstr "Erste Liebe"
 
 msgid "cos_0009_01"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0010_01"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0011_01"
-msgstr ""
+msgstr "Garnet Teen"
 
 msgid "cos_0012_01"
-msgstr ""
+msgstr "Blauer Äther"
 
 msgid "cos_0013_01"
 msgstr "Star Pumpkin"
@@ -4957,10 +4957,10 @@ msgid "cos_0022_01"
 msgstr ""
 
 msgid "cos_0023_01"
-msgstr ""
+msgstr "Verkleidung"
 
 msgid "cos_0024_01"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0025_01"
 msgstr ""
@@ -4969,13 +4969,13 @@ msgid "cos_0026_01"
 msgstr ""
 
 msgid "cos_0027_01"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0028_01"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0029_01"
-msgstr ""
+msgstr "Verbotene"
 
 msgid "cos_0030_01"
 msgstr ""
@@ -5032,13 +5032,13 @@ msgid "cos_0047_01"
 msgstr ""
 
 msgid "cos_0048_01"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0049_01"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0050_01"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0051_01"
 msgstr ""
@@ -5086,7 +5086,7 @@ msgid "cos_0065_01"
 msgstr ""
 
 msgid "cos_0066_01"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0067_01"
 msgstr ""
@@ -5140,13 +5140,13 @@ msgid "cos_0083_01"
 msgstr ""
 
 msgid "cos_0084_01"
-msgstr ""
+msgstr "Edel Schwan"
 
 msgid "cos_0085_01"
 msgstr ""
 
 msgid "cos_0086_01"
-msgstr ""
+msgstr "Resonanz"
 
 msgid "cos_0087_01"
 msgstr ""
@@ -5161,7 +5161,7 @@ msgid "cos_0090_01"
 msgstr ""
 
 msgid "cos_0091_01"
-msgstr ""
+msgstr "Leidenschaft"
 
 msgid "cos_0092_01"
 msgstr ""
