@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-19 11:46+0000\n"
+"PO-Revision-Date: 2025-05-20 07:21+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -858,7 +858,7 @@ msgid "header_desc_home032"
 msgstr "Crée des tampons"
 
 msgid "header_desc_home033"
-msgstr ""
+msgstr "Information des membres　　　　"
 
 msgid "header_desc_home034"
 msgstr ""
@@ -4835,10 +4835,10 @@ msgid "lobby_corps_belongs_note_text"
 msgstr "<color=#C8087E>※Le groupe est dissous à la fin de l'événement.</color>"
 
 msgid "lobby_room_name_format"
-msgstr ""
+msgstr "Nom du groupe : {0}"
 
 msgid "lobby_room_num_format"
-msgstr ""
+msgstr "Équipe {0}"
 
 msgid "valkyrie_name_text_format_001"
 msgstr "{0} {1}"
@@ -4881,27 +4881,29 @@ msgstr ""
 
 msgid "pop_lobby_group_capacityover_desc"
 msgstr ""
+"Le groupe sélectionné est complet\n"
+"et ne peux pas être rejoint."
 
 msgid "pop_lobby_group_not_searchplayer"
 msgstr "Il n'y a pas d'amis ou de fans enregistrés."
 
 msgid "pop_lobby_member_fanregister_title"
-msgstr ""
+msgstr "Enregistrement de fan"
 
 msgid "pop_lobby_member_fanregister_desc"
-msgstr ""
+msgstr "Ajouter {0} à ta liste de fan ?"
 
 msgid "pop_lobby_member_fan_capacityover_title"
-msgstr ""
+msgstr "Limite de fan"
 
 msgid "pop_lobby_member_capacityover_desc"
-msgstr ""
+msgstr "Ta liste de fan est pleine."
 
 msgid "pop_lobby_member_fan_unregister_title"
-msgstr ""
+msgstr "Suppression de fan"
 
 msgid "pop_lobby_member_fan_unregister_desc"
-msgstr ""
+msgstr "Supprimer {0} de la liste de fan ?"
 
 msgid "pop_deco_bg_eff_span"
 msgstr ""
