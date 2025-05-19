@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-04-19 09:00+0000\n"
+"PO-Revision-Date: 2025-05-19 11:46+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4828,9 +4828,11 @@ msgstr ""
 
 msgid "lobby_corps_belongs_conf_text"
 msgstr ""
+"Veux-tu rejoindre ce groupe ?\n"
+"Tu ne peux pas changer de groupe pendant l'événement."
 
 msgid "lobby_corps_belongs_note_text"
-msgstr ""
+msgstr "<color=#C8087E>※Le groupe est dissous à la fin de l'événement.</color>"
 
 msgid "lobby_room_name_format"
 msgstr ""
@@ -4845,25 +4847,28 @@ msgid "storage_select_text"
 msgstr ""
 
 msgid "home_lobby_button_before"
-msgstr ""
+msgstr "Le concert Super Galaxy comme dans {0} {0:plural:jour|jours}"
 
 msgid "home_lobby_button_enter"
-msgstr ""
+msgstr "Le concert Super Galaxy est là ! Encore {0} {0:plural:jour|jours}"
 
 msgid "home_lobby_button_after"
-msgstr ""
+msgstr "Lobby ouvert encore {0} {0:plural:jour|jours}"
 
 msgid "home_lobby_button_before_today"
-msgstr ""
+msgstr "Concert Super Galaxy aujourd'hui"
 
 msgid "home_lobby_button_enter_today"
-msgstr ""
+msgstr "Concert Super Galaxy jusqu'aujourd'hui"
 
 msgid "home_lobby_button_after_today"
-msgstr ""
+msgstr "Le lobby ferme aujourd'hui"
 
 msgid "home_lobby_button_popup_raid_end"
 msgstr ""
+"Le concert Super Galaxy est terminé.\n"
+"Tu ne peux pas accéder au lobby \n"
+"car tu n'appartiens à aucun groupe."
 
 msgid "customstamp_have_serif_not"
 msgstr ""
@@ -4878,7 +4883,7 @@ msgid "pop_lobby_group_capacityover_desc"
 msgstr ""
 
 msgid "pop_lobby_group_not_searchplayer"
-msgstr ""
+msgstr "Il n'y a pas d'amis ou de fans enregistrés."
 
 msgid "pop_lobby_member_fanregister_title"
 msgstr ""
@@ -6315,7 +6320,7 @@ msgid "home_footer_badge_text_09"
 msgstr "Message reçu"
 
 msgid "home_banner_period"
-msgstr ""
+msgstr "Jusqu'au {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "home_event_banner_period"
 msgstr ""
