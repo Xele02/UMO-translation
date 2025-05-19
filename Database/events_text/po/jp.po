@@ -2320,3 +2320,1299 @@ msgstr "イベント「復刻　FLASH IN THE SOUL」\nのミッションを15個
 msgid "event_banner_event_godiva_c_0001"
 msgstr "イベントに参加して★5確定サービスチケットをGET！"
 
+msgid "mission_desc_event_raid_a_10001"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_a_10002"
+msgstr "スコアランクSSでクリア"
+
+msgid "mission_desc_event_raid_a_10003"
+msgstr "コンボランクB以上でクリア"
+
+msgid "mission_desc_event_raid_a_10004"
+msgstr "コンボランクA以上でクリア"
+
+msgid "mission_desc_event_raid_a_10005"
+msgstr "コンボランクS以上でクリア"
+
+msgid "mission_desc_event_raid_a_10006"
+msgstr "ライフ90％以上でクリア"
+
+msgid "mission_desc_event_raid_a_10007"
+msgstr "楽曲をクリア"
+
+msgid "mission_desc_event_raid_a_10008"
+msgstr "フォールド波100%以上で\nクリア"
+
+msgid "mission_desc_event_raid_a_10009"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_a_10010"
+msgstr "フルコンボでクリア"
+
+msgid "mission_desc_event_raid_a_0001"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_a_0002"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0003"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_a_0004"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_a_0005"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0006"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_a_0007"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_a_0008"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0009"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_a_0010"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_a_0011"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0012"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_a_0013"
+msgstr "暴走エネミーを1体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0014"
+msgstr "暴走エネミーを2体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0015"
+msgstr "暴走エネミーを3体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0016"
+msgstr "暴走エネミーを5体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0017"
+msgstr "暴走エネミーを10体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0018"
+msgstr "暴走エネミーを15体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0019"
+msgstr "暴走エネミーを20体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0020"
+msgstr "暴走エネミーを25体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0021"
+msgstr "暴走エネミーを30体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0022"
+msgstr "暴走エネミーを40体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_a_0023"
+msgstr "マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_a_0024"
+msgstr "マクロスキャノンを3回使用する"
+
+msgid "mission_desc_event_raid_a_0025"
+msgstr "マクロスキャノンを5回使用する"
+
+msgid "mission_desc_event_raid_a_0026"
+msgstr "マクロスキャノンを10回使用する"
+
+msgid "mission_desc_event_raid_a_0027"
+msgstr "暴走エネミーに合計1000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0027"
+msgstr "暴走エネミーに\n合計1000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0028"
+msgstr "暴走エネミーに合計5000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0028"
+msgstr "暴走エネミーに\n合計5000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0029"
+msgstr "暴走エネミーに合計10000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0029"
+msgstr "暴走エネミーに\n合計10000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0030"
+msgstr "暴走エネミーに合計50000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0030"
+msgstr "暴走エネミーに\n合計50000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0031"
+msgstr "暴走エネミーに合計100000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0031"
+msgstr "暴走エネミーに\n合計100000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0032"
+msgstr "暴走エネミーに合計200000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0032"
+msgstr "暴走エネミーに\n合計200000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0033"
+msgstr "暴走エネミーに合計300000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0033"
+msgstr "暴走エネミーに\n合計300000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0034"
+msgstr "暴走エネミーに合計400000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0034"
+msgstr "暴走エネミーに\n合計400000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0035"
+msgstr "暴走エネミーに合計500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0035"
+msgstr "暴走エネミーに\n合計500000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0036"
+msgstr "暴走エネミーに合計600000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0036"
+msgstr "暴走エネミーに\n合計600000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0037"
+msgstr "暴走エネミーに合計700000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0037"
+msgstr "暴走エネミーに\n合計700000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0038"
+msgstr "暴走エネミーに合計800000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0038"
+msgstr "暴走エネミーに\n合計800000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0039"
+msgstr "暴走エネミーに合計900000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0039"
+msgstr "暴走エネミーに\n合計900000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0040"
+msgstr "暴走エネミーに合計1000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0040"
+msgstr "暴走エネミーに\n合計1000000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0041"
+msgstr "暴走エネミーに合計1250000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0041"
+msgstr "暴走エネミーに\n合計1250000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0042"
+msgstr "暴走エネミーに合計1500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0042"
+msgstr "暴走エネミーに\n合計1500000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0043"
+msgstr "暴走エネミーに合計1750000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0043"
+msgstr "暴走エネミーに\n合計1750000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0044"
+msgstr "暴走エネミーに合計2000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_a_0044"
+msgstr "暴走エネミーに\n合計2000000インパクトを与える"
+
+msgid "mission_desc_event_raid_a_0045"
+msgstr "楽曲を1回クリア"
+
+msgid "mission_desc_event_raid_a_0046"
+msgstr "楽曲を3回クリア"
+
+msgid "mission_desc_event_raid_a_0047"
+msgstr "楽曲を6回クリア"
+
+msgid "mission_desc_event_raid_a_0048"
+msgstr "楽曲を10回クリア"
+
+msgid "mission_desc_event_raid_a_0049"
+msgstr "楽曲を15回クリア"
+
+msgid "mission_desc_event_raid_a_0050"
+msgstr "楽曲を20回クリア"
+
+msgid "mission_desc_event_raid_a_0051"
+msgstr "楽曲を30回クリア"
+
+msgid "mission_desc_event_raid_a_0052"
+msgstr "楽曲を40回クリア"
+
+msgid "mission_desc_event_raid_a_0053"
+msgstr "楽曲を50回クリア"
+
+msgid "event_banner_event_raid_a_0001"
+msgstr "ミッションで歌晶石合計150個GET!"
+
+msgid "mission_desc_event_raid_b_10001"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_b_10002"
+msgstr "スコアランクSSでクリア"
+
+msgid "mission_desc_event_raid_b_10003"
+msgstr "コンボランクB以上でクリア"
+
+msgid "mission_desc_event_raid_b_10004"
+msgstr "コンボランクA以上でクリア"
+
+msgid "mission_desc_event_raid_b_10005"
+msgstr "コンボランクS以上でクリア"
+
+msgid "mission_desc_event_raid_b_10006"
+msgstr "ライフ90％以上でクリア"
+
+msgid "mission_desc_event_raid_b_10007"
+msgstr "楽曲をクリア"
+
+msgid "mission_desc_event_raid_b_10008"
+msgstr "フォールド波100%以上で\nクリア"
+
+msgid "mission_desc_event_raid_b_10009"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_b_10010"
+msgstr "フルコンボでクリア"
+
+msgid "mission_desc_event_raid_b_0001"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_b_0002"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0003"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_b_0004"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_b_0005"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0006"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_b_0007"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_b_0008"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0009"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_b_0010"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_b_0011"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0012"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_b_0013"
+msgstr "暴走エネミーを1体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0014"
+msgstr "暴走エネミーを2体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0015"
+msgstr "暴走エネミーを3体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0016"
+msgstr "暴走エネミーを5体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0017"
+msgstr "暴走エネミーを10体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0018"
+msgstr "暴走エネミーを15体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0019"
+msgstr "暴走エネミーを20体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0020"
+msgstr "暴走エネミーを25体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0021"
+msgstr "暴走エネミーを30体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0022"
+msgstr "暴走エネミーを40体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0023"
+msgstr "マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_b_0024"
+msgstr "マクロスキャノンを3回使用する"
+
+msgid "mission_desc_event_raid_b_0025"
+msgstr "マクロスキャノンを5回使用する"
+
+msgid "mission_desc_event_raid_b_0026"
+msgstr "マクロスキャノンを10回使用する"
+
+msgid "mission_desc_event_raid_b_0027"
+msgstr "暴走エネミーに合計1000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0027"
+msgstr "暴走エネミーに\n合計1000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0028"
+msgstr "暴走エネミーに合計5000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0028"
+msgstr "暴走エネミーに\n合計5000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0029"
+msgstr "暴走エネミーに合計10000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0029"
+msgstr "暴走エネミーに\n合計10000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0030"
+msgstr "暴走エネミーに合計50000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0030"
+msgstr "暴走エネミーに\n合計50000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0031"
+msgstr "暴走エネミーに合計100000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0031"
+msgstr "暴走エネミーに\n合計100000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0032"
+msgstr "暴走エネミーに合計200000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0032"
+msgstr "暴走エネミーに\n合計200000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0033"
+msgstr "暴走エネミーに合計300000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0033"
+msgstr "暴走エネミーに\n合計300000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0034"
+msgstr "暴走エネミーに合計400000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0034"
+msgstr "暴走エネミーに\n合計400000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0035"
+msgstr "暴走エネミーに合計500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0035"
+msgstr "暴走エネミーに\n合計500000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0036"
+msgstr "暴走エネミーに合計600000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0036"
+msgstr "暴走エネミーに\n合計600000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0037"
+msgstr "暴走エネミーに合計700000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0037"
+msgstr "暴走エネミーに\n合計700000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0038"
+msgstr "暴走エネミーに合計800000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0038"
+msgstr "暴走エネミーに\n合計800000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0039"
+msgstr "暴走エネミーに合計900000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0039"
+msgstr "暴走エネミーに\n合計900000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0040"
+msgstr "暴走エネミーに合計1000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0040"
+msgstr "暴走エネミーに\n合計1000000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0041"
+msgstr "暴走エネミーに合計1250000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0041"
+msgstr "暴走エネミーに\n合計1250000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0042"
+msgstr "暴走エネミーに合計1500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0042"
+msgstr "暴走エネミーに\n合計1500000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0043"
+msgstr "暴走エネミーに合計1750000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0043"
+msgstr "暴走エネミーに\n合計1750000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0044"
+msgstr "暴走エネミーに合計2000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_b_0044"
+msgstr "暴走エネミーに\n合計2000000インパクトを与える"
+
+msgid "mission_desc_event_raid_b_0045"
+msgstr "楽曲を1回クリア"
+
+msgid "mission_desc_event_raid_b_0046"
+msgstr "楽曲を3回クリア"
+
+msgid "mission_desc_event_raid_b_0047"
+msgstr "楽曲を6回クリア"
+
+msgid "mission_desc_event_raid_b_0048"
+msgstr "楽曲を10回クリア"
+
+msgid "mission_desc_event_raid_b_0049"
+msgstr "楽曲を15回クリア"
+
+msgid "mission_desc_event_raid_b_0050"
+msgstr "楽曲を20回クリア"
+
+msgid "mission_desc_event_raid_b_0051"
+msgstr "楽曲を30回クリア"
+
+msgid "mission_desc_event_raid_b_0052"
+msgstr "楽曲を40回クリア"
+
+msgid "mission_desc_event_raid_b_0053"
+msgstr "楽曲を50回クリア"
+
+msgid "mission_desc_event_raid_b_0054"
+msgstr "【デイリー】暴走エネミーを2体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0055"
+msgstr "【デイリー】暴走エネミーを2体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0056"
+msgstr "【デイリー】暴走エネミーを2体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_b_0057"
+msgstr "【デイリー】暴走エネミーを2体無力化し、\n報酬を受け取る"
+
+msgid "event_banner_event_raid_b_0001"
+msgstr "ミッションで歌晶石合計150個GET!"
+
+msgid "mission_desc_event_raid_c_10001"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_c_10002"
+msgstr "スコアランクSSでクリア"
+
+msgid "mission_desc_event_raid_c_10003"
+msgstr "コンボランクB以上でクリア"
+
+msgid "mission_desc_event_raid_c_10004"
+msgstr "コンボランクA以上でクリア"
+
+msgid "mission_desc_event_raid_c_10005"
+msgstr "コンボランクS以上でクリア"
+
+msgid "mission_desc_event_raid_c_10006"
+msgstr "ライフ90％以上でクリア"
+
+msgid "mission_desc_event_raid_c_10007"
+msgstr "楽曲をクリア"
+
+msgid "mission_desc_event_raid_c_10008"
+msgstr "フォールド波100%以上で\nクリア"
+
+msgid "mission_desc_event_raid_c_10009"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_c_10010"
+msgstr "フルコンボでクリア"
+
+msgid "mission_desc_event_raid_c_0001"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_c_0002"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0003"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_c_0004"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_c_0005"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0006"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_c_0007"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_c_0008"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0009"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_c_0010"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_c_0011"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0012"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_c_0013"
+msgstr "暴走エネミーを1体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0014"
+msgstr "暴走エネミーを2体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0015"
+msgstr "暴走エネミーを3体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0016"
+msgstr "暴走エネミーを5体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0017"
+msgstr "暴走エネミーを10体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0018"
+msgstr "暴走エネミーを15体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0019"
+msgstr "暴走エネミーを20体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0020"
+msgstr "暴走エネミーを25体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0021"
+msgstr "暴走エネミーを30体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0022"
+msgstr "暴走エネミーを40体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_c_0023"
+msgstr "マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_c_0024"
+msgstr "マクロスキャノンを3回使用する"
+
+msgid "mission_desc_event_raid_c_0025"
+msgstr "マクロスキャノンを5回使用する"
+
+msgid "mission_desc_event_raid_c_0026"
+msgstr "マクロスキャノンを10回使用する"
+
+msgid "mission_desc_event_raid_c_0027"
+msgstr "暴走エネミーに合計1000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0027"
+msgstr "暴走エネミーに\n合計1000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0028"
+msgstr "暴走エネミーに合計5000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0028"
+msgstr "暴走エネミーに\n合計5000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0029"
+msgstr "暴走エネミーに合計10000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0029"
+msgstr "暴走エネミーに\n合計10000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0030"
+msgstr "暴走エネミーに合計50000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0030"
+msgstr "暴走エネミーに\n合計50000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0031"
+msgstr "暴走エネミーに合計100000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0031"
+msgstr "暴走エネミーに\n合計100000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0032"
+msgstr "暴走エネミーに合計200000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0032"
+msgstr "暴走エネミーに\n合計200000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0033"
+msgstr "暴走エネミーに合計300000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0033"
+msgstr "暴走エネミーに\n合計300000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0034"
+msgstr "暴走エネミーに合計400000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0034"
+msgstr "暴走エネミーに\n合計400000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0035"
+msgstr "暴走エネミーに合計500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0035"
+msgstr "暴走エネミーに\n合計500000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0036"
+msgstr "暴走エネミーに合計600000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0036"
+msgstr "暴走エネミーに\n合計600000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0037"
+msgstr "暴走エネミーに合計700000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0037"
+msgstr "暴走エネミーに\n合計700000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0038"
+msgstr "暴走エネミーに合計800000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0038"
+msgstr "暴走エネミーに\n合計800000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0039"
+msgstr "暴走エネミーに合計900000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0039"
+msgstr "暴走エネミーに\n合計900000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0040"
+msgstr "暴走エネミーに合計1000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0040"
+msgstr "暴走エネミーに\n合計1000000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0041"
+msgstr "暴走エネミーに合計1250000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0041"
+msgstr "暴走エネミーに\n合計1250000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0042"
+msgstr "暴走エネミーに合計1500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0042"
+msgstr "暴走エネミーに\n合計1500000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0043"
+msgstr "暴走エネミーに合計1750000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0043"
+msgstr "暴走エネミーに\n合計1750000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0044"
+msgstr "暴走エネミーに合計2000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_c_0044"
+msgstr "暴走エネミーに\n合計2000000インパクトを与える"
+
+msgid "mission_desc_event_raid_c_0045"
+msgstr "楽曲を1回クリア"
+
+msgid "mission_desc_event_raid_c_0046"
+msgstr "楽曲を3回クリア"
+
+msgid "mission_desc_event_raid_c_0047"
+msgstr "楽曲を6回クリア"
+
+msgid "mission_desc_event_raid_c_0048"
+msgstr "楽曲を10回クリア"
+
+msgid "mission_desc_event_raid_c_0049"
+msgstr "楽曲を15回クリア"
+
+msgid "mission_desc_event_raid_c_0050"
+msgstr "楽曲を20回クリア"
+
+msgid "mission_desc_event_raid_c_0051"
+msgstr "楽曲を30回クリア"
+
+msgid "mission_desc_event_raid_c_0052"
+msgstr "楽曲を40回クリア"
+
+msgid "mission_desc_event_raid_c_0053"
+msgstr "楽曲を50回クリア"
+
+msgid "event_banner_event_raid_c_0001"
+msgstr "ミッションで歌晶石合計150個GET!"
+
+msgid "mission_desc_event_raid_d_10001"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_d_10002"
+msgstr "スコアランクSSでクリア"
+
+msgid "mission_desc_event_raid_d_10003"
+msgstr "コンボランクB以上でクリア"
+
+msgid "mission_desc_event_raid_d_10004"
+msgstr "コンボランクA以上でクリア"
+
+msgid "mission_desc_event_raid_d_10005"
+msgstr "コンボランクS以上でクリア"
+
+msgid "mission_desc_event_raid_d_10006"
+msgstr "ライフ90％以上でクリア"
+
+msgid "mission_desc_event_raid_d_10007"
+msgstr "楽曲をクリア"
+
+msgid "mission_desc_event_raid_d_10008"
+msgstr "フォールド波100%以上で\nクリア"
+
+msgid "mission_desc_event_raid_d_10009"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_raid_d_10010"
+msgstr "フルコンボでクリア"
+
+msgid "mission_desc_event_raid_d_0001"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_d_0002"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0003"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_d_0004"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_d_0005"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0006"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_d_0007"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_d_0008"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0009"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_d_0010"
+msgstr "【デイリー】フォールドレーダーを1回使用する"
+
+msgid "mission_desc_event_raid_d_0011"
+msgstr "【デイリー】暴走エネミーを1体無力化し、\n報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0012"
+msgstr "【デイリー】マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_d_0013"
+msgstr "【デイリー】フォールドレーダーを2回使用する"
+
+msgid "mission_desc_event_raid_d_0014"
+msgstr "【デイリー】フォールドレーダーを2回使用する"
+
+msgid "mission_desc_event_raid_d_0015"
+msgstr "【デイリー】フォールドレーダーを2回使用する"
+
+msgid "mission_desc_event_raid_d_0016"
+msgstr "【デイリー】フォールドレーダーを2回使用する"
+
+msgid "mission_desc_event_raid_d_0017"
+msgstr "暴走エネミーを1体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0018"
+msgstr "暴走エネミーを2体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0019"
+msgstr "暴走エネミーを3体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0020"
+msgstr "暴走エネミーを5体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0021"
+msgstr "暴走エネミーを10体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0022"
+msgstr "暴走エネミーを15体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0023"
+msgstr "暴走エネミーを20体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0024"
+msgstr "暴走エネミーを25体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0025"
+msgstr "暴走エネミーを30体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0026"
+msgstr "暴走エネミーを40体無力化し、報酬を受け取る"
+
+msgid "mission_desc_event_raid_d_0027"
+msgstr "マクロスキャノンを1回使用する"
+
+msgid "mission_desc_event_raid_d_0028"
+msgstr "マクロスキャノンを3回使用する"
+
+msgid "mission_desc_event_raid_d_0029"
+msgstr "マクロスキャノンを5回使用する"
+
+msgid "mission_desc_event_raid_d_0030"
+msgstr "マクロスキャノンを10回使用する"
+
+msgid "mission_desc_event_raid_d_0031"
+msgstr "暴走エネミーに合計1000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0031"
+msgstr "暴走エネミーに\n合計1000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0032"
+msgstr "暴走エネミーに合計5000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0032"
+msgstr "暴走エネミーに\n合計5000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0033"
+msgstr "暴走エネミーに合計10000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0033"
+msgstr "暴走エネミーに\n合計10000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0034"
+msgstr "暴走エネミーに合計50000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0034"
+msgstr "暴走エネミーに\n合計50000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0035"
+msgstr "暴走エネミーに合計100000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0035"
+msgstr "暴走エネミーに\n合計100000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0036"
+msgstr "暴走エネミーに合計200000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0036"
+msgstr "暴走エネミーに\n合計200000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0037"
+msgstr "暴走エネミーに合計300000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0037"
+msgstr "暴走エネミーに\n合計300000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0038"
+msgstr "暴走エネミーに合計400000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0038"
+msgstr "暴走エネミーに\n合計400000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0039"
+msgstr "暴走エネミーに合計500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0039"
+msgstr "暴走エネミーに\n合計500000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0040"
+msgstr "暴走エネミーに合計600000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0040"
+msgstr "暴走エネミーに\n合計600000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0041"
+msgstr "暴走エネミーに合計700000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0041"
+msgstr "暴走エネミーに\n合計700000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0042"
+msgstr "暴走エネミーに合計800000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0042"
+msgstr "暴走エネミーに\n合計800000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0043"
+msgstr "暴走エネミーに合計900000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0043"
+msgstr "暴走エネミーに\n合計900000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0044"
+msgstr "暴走エネミーに合計1000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0044"
+msgstr "暴走エネミーに\n合計1000000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0045"
+msgstr "暴走エネミーに合計1250000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0045"
+msgstr "暴走エネミーに\n合計1250000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0046"
+msgstr "暴走エネミーに合計1500000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0046"
+msgstr "暴走エネミーに\n合計1500000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0047"
+msgstr "暴走エネミーに合計1750000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0047"
+msgstr "暴走エネミーに\n合計1750000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0048"
+msgstr "暴走エネミーに合計2000000インパクトを与える"
+
+msgid "mission_desc2_event_raid_d_0048"
+msgstr "暴走エネミーに\n合計2000000インパクトを与える"
+
+msgid "mission_desc_event_raid_d_0049"
+msgstr "楽曲を1回クリア"
+
+msgid "mission_desc_event_raid_d_0050"
+msgstr "楽曲を3回クリア"
+
+msgid "mission_desc_event_raid_d_0051"
+msgstr "楽曲を6回クリア"
+
+msgid "mission_desc_event_raid_d_0052"
+msgstr "楽曲を10回クリア"
+
+msgid "mission_desc_event_raid_d_0053"
+msgstr "楽曲を15回クリア"
+
+msgid "mission_desc_event_raid_d_0054"
+msgstr "楽曲を20回クリア"
+
+msgid "mission_desc_event_raid_d_0055"
+msgstr "楽曲を30回クリア"
+
+msgid "mission_desc_event_raid_d_0056"
+msgstr "楽曲を40回クリア"
+
+msgid "mission_desc_event_raid_d_0057"
+msgstr "楽曲を50回クリア"
+
+msgid "event_banner_event_raid_d_0001"
+msgstr "ミッションで歌晶石合計150個GET!"
+
+msgid "mission_desc_event_raidlobby_a_0001"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0002"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計10回達成"
+
+msgid "mission_desc_event_raidlobby_a_0003"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計10回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0004"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0005"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0006"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0007"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0008"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0009"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0010"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0011"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0012"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0013"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0014"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0015"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0016"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0017"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0018"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0019"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0020"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0021"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0022"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_a_0023"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_a_0024"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0001"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0002"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計10回達成"
+
+msgid "mission_desc_event_raidlobby_b_0003"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計10回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0004"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0005"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0006"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0007"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0008"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0009"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0010"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0011"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0012"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0013"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0014"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0015"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0016"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0017"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0018"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0019"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0020"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0021"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0022"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスΔ】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_b_0023"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_b_0024"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0001"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0002"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計10回達成"
+
+msgid "mission_desc_event_raidlobby_c_0003"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計10回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0004"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0005"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0006"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0007"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0008"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0009"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0010"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0011"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0012"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0013"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロス7】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0014"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0015"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0016"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロス7】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0017"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0018"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0019"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロス7】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0020"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0021"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0022"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロス7】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_c_0023"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_c_0024"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0001"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0002"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計10回達成"
+
+msgid "mission_desc_event_raidlobby_d_0003"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計10回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0004"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0005"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0006"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0007"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0008"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0009"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0010"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスF】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0011"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0012"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0013"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスF】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0014"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0015"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0016"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスF】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0017"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0018"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0019"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスF】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0020"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0021"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0022"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\n【マクロスF】の楽曲を合計50回クリア"
+
+msgid "mission_desc_event_raidlobby_d_0023"
+msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコンボを合計30回達成"
+
+msgid "mission_desc_event_raidlobby_d_0024"
+msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+

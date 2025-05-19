@@ -3637,3 +3637,2031 @@ msgstr ""
 msgid "event_banner_event_godiva_c_0001"
 msgstr ""
 
+msgid "mission_desc_event_raid_a_10001"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10002"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10003"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10004"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10005"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10006"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10007"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10008"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10009"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_10010"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0002"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0003"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0004"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0005"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0006"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0007"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0008"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0009"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0010"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0011"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0012"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0013"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0014"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0015"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0016"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0017"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0018"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0019"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0020"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0021"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0022"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0023"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0024"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0025"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0025"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0026"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0026"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0027"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0027"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0028"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0028"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0029"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0029"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0030"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0030"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0031"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0031"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0032"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0032"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0033"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0033"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0034"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0034"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0035"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0035"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0036"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0036"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0037"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0037"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0038"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0038"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0039"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0039"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0040"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0040"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0041"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0041"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0042"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0042"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0043"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0043"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0044"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0044"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0045"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0045"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0046"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0046"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0047"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0047"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0048"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0048"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0049"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0049"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0050"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0050"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0051"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0051"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0052"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0052"
+msgstr ""
+
+msgid "mission_desc_event_raid_a_0053"
+msgstr ""
+
+msgid "mission_desc2_event_raid_a_0053"
+msgstr ""
+
+msgid "event_banner_event_raid_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10001"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10002"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10003"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10004"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10005"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10006"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10007"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10008"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10009"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_10010"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0002"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0003"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0004"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0005"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0006"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0007"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0008"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0009"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0010"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0011"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0012"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0013"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0014"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0015"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0016"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0017"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0018"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0019"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0020"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0021"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0022"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0023"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0024"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0025"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0025"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0026"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0026"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0027"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0027"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0028"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0028"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0029"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0029"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0030"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0030"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0031"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0031"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0032"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0032"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0033"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0033"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0034"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0034"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0035"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0035"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0036"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0036"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0037"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0037"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0038"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0038"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0039"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0039"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0040"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0040"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0041"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0041"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0042"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0042"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0043"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0043"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0044"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0044"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0045"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0045"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0046"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0046"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0047"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0047"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0048"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0048"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0049"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0049"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0050"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0050"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0051"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0051"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0052"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0052"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0053"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0053"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0054"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0054"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0055"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0055"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0056"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0056"
+msgstr ""
+
+msgid "mission_desc_event_raid_b_0057"
+msgstr ""
+
+msgid "mission_desc2_event_raid_b_0057"
+msgstr ""
+
+msgid "event_banner_event_raid_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10001"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10002"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10003"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10004"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10005"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10006"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10007"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10008"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10009"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_10010"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0002"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0003"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0004"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0005"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0006"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0007"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0008"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0009"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0010"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0011"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0012"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0013"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0014"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0015"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0016"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0017"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0018"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0019"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0020"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0021"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0022"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0023"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0024"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0025"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0025"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0026"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0026"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0027"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0027"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0028"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0028"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0029"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0029"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0030"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0030"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0031"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0031"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0032"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0032"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0033"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0033"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0034"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0034"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0035"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0035"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0036"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0036"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0037"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0037"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0038"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0038"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0039"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0039"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0040"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0040"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0041"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0041"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0042"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0042"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0043"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0043"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0044"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0044"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0045"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0045"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0046"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0046"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0047"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0047"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0048"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0048"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0049"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0049"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0050"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0050"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0051"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0051"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0052"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0052"
+msgstr ""
+
+msgid "mission_desc_event_raid_c_0053"
+msgstr ""
+
+msgid "mission_desc2_event_raid_c_0053"
+msgstr ""
+
+msgid "event_banner_event_raid_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10001"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10002"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10003"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10004"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10005"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10006"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10007"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10008"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10009"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_10010"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0001"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0002"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0003"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0004"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0005"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0006"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0007"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0008"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0009"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0010"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0011"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0012"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0013"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0014"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0015"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0016"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0017"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0018"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0019"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0020"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0021"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0022"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0023"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0024"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0025"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0025"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0026"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0026"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0027"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0027"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0028"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0028"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0029"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0029"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0030"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0030"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0031"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0031"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0032"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0032"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0033"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0033"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0034"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0034"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0035"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0035"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0036"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0036"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0037"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0037"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0038"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0038"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0039"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0039"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0040"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0040"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0041"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0041"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0042"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0042"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0043"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0043"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0044"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0044"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0045"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0045"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0046"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0046"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0047"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0047"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0048"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0048"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0049"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0049"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0050"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0050"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0051"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0051"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0052"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0052"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0053"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0053"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0054"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0054"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0055"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0055"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0056"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0056"
+msgstr ""
+
+msgid "mission_desc_event_raid_d_0057"
+msgstr ""
+
+msgid "mission_desc2_event_raid_d_0057"
+msgstr ""
+
+msgid "event_banner_event_raid_d_0001"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0002"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0003"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0004"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0005"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0006"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0007"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0008"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0009"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0010"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0011"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0012"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0013"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0014"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0015"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0016"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0017"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0018"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0019"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0020"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0021"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0022"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0023"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_a_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_a_0024"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0001"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0002"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0003"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0004"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0005"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0006"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0007"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0008"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0009"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0010"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0011"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0012"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0013"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0014"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0015"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0016"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0017"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0018"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0019"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0020"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0021"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0022"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0023"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_b_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_b_0024"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0001"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0002"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0003"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0004"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0005"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0006"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0007"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0008"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0009"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0010"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0011"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0012"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0013"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0014"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0015"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0016"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0017"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0018"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0019"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0020"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0021"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0022"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0023"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_c_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_c_0024"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0001"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0001"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0002"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0002"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0003"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0003"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0004"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0004"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0005"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0005"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0006"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0006"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0007"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0007"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0008"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0008"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0009"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0009"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0010"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0010"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0011"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0011"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0012"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0012"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0013"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0013"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0014"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0014"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0015"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0015"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0016"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0016"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0017"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0017"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0018"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0018"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0019"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0019"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0020"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0020"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0021"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0021"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0022"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0022"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0023"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0023"
+msgstr ""
+
+msgid "mission_desc_event_raidlobby_d_0024"
+msgstr ""
+
+msgid "mission_desc2_event_raidlobby_d_0024"
+msgstr ""
+

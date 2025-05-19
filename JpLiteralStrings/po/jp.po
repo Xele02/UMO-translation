@@ -307,6 +307,9 @@ msgstr "ガチャ天井アイテム"
 msgid "StringLiteral_10282"
 msgstr "AP全回復"
 
+msgid "StringLiteral_10284"
+msgstr "ミラージュ「APが全回復しました！」"
+
 msgid "StringLiteral_10294"
 msgstr "超時空SNS"
 
@@ -1186,6 +1189,12 @@ msgstr "365日以上"
 msgid "StringLiteral_13106"
 msgstr "1時間前"
 
+msgid "StringLiteral_13160"
+msgstr "EX暴走エネミー出現"
+
+msgid "StringLiteral_13162"
+msgstr "ミラージュ「EX暴走エネミーが出現しました！」"
+
 msgid "StringLiteral_13238"
 msgstr "<color=red>矢印のレイアウトがNULLです。</color>"
 
@@ -1441,6 +1450,9 @@ msgstr "【{0}】"
 msgid "StringLiteral_19433"
 msgstr "イベント楽曲でのレアドロップ"
 
+msgid "StringLiteral_19505"
+msgstr "{0}～{1}"
+
 msgid "StringLiteral_19538"
 msgstr "インパクト"
 
@@ -1452,6 +1464,12 @@ msgstr "ユニットセット"
 
 msgid "StringLiteral_19704"
 msgstr "他人のデコルーム:プロフィール経由"
+
+msgid "StringLiteral_19851"
+msgstr "{0}人"
+
+msgid "StringLiteral_19875"
+msgstr "イベント集計中です。"
 
 msgid "StringLiteral_20178"
 msgstr " ★"
