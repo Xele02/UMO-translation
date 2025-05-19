@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 18:44+0000\n"
-"PO-Revision-Date: 2025-04-12 15:57+0000\n"
+"PO-Revision-Date: 2025-05-19 11:46+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/fr/>\n"
@@ -1157,3 +1157,1683 @@ msgid "mission_desc_event_godiva_c_0011"
 msgstr ""
 "【Journalier】Participe au classement de\n"
 "diva et termine un concert"
+
+msgid "mission_desc_event_raid_a_10002"
+msgstr "Termine avec un score SS"
+
+msgid "mission_desc_event_raid_a_10003"
+msgstr "Termine avec un combo B ou plus"
+
+msgid "mission_desc_event_raid_a_10005"
+msgstr "Termine avec un combo S ou plus"
+
+msgid "mission_desc_event_raid_a_10006"
+msgstr "Termine avec 90% de vie ou plus"
+
+msgid "mission_desc_event_raid_a_10007"
+msgstr "Termine une chanson"
+
+msgid "mission_desc_event_raid_a_10008"
+msgstr ""
+"Termine avec la gauge bio-fold à 100%\n"
+"ou plus"
+
+msgid "mission_desc_event_raid_a_10009"
+msgstr "Termine en ayant activé le mode Diva"
+
+msgid "mission_desc_event_raid_a_10010"
+msgstr "Termine avec un full combo"
+
+msgid "mission_desc_event_raid_a_0002"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_a_0013"
+msgstr "Neutralise 1 ennemi et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0014"
+msgstr "Neutralise 2 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0015"
+msgstr "Neutralise 3 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0016"
+msgstr "Neutralise 5 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0018"
+msgstr "Neutralise 15 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0019"
+msgstr "Neutralise 20 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0020"
+msgstr "Neutralise 25 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0021"
+msgstr "Neutralise 30 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0023"
+msgstr "Utilise 1x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0024"
+msgstr "Utilise 3x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0025"
+msgstr "Utilise 5x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0026"
+msgstr "Utilise 10x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0027"
+msgstr "Fait plus de 1000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0027"
+msgstr ""
+"Fait plus de 1000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0028"
+msgstr ""
+"Fait plus de 5000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0029"
+msgstr "Fait plus de 10000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0029"
+msgstr ""
+"Fait plus de 10000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0030"
+msgstr "Fait plus de 50000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0030"
+msgstr ""
+"Fait plus de 50000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0031"
+msgstr ""
+"Fait plus de 100000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0032"
+msgstr "Fait plus de 200000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0032"
+msgstr ""
+"Fait plus de 200000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0033"
+msgstr "Fait plus de 300000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0033"
+msgstr ""
+"Fait plus de 300000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0034"
+msgstr ""
+"Fait plus de 400000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0035"
+msgstr "Fait plus de 500000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0035"
+msgstr ""
+"Fait plus de 500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0036"
+msgstr "Fait plus de 600000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_a_0037"
+msgstr "Fait plus de 700000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_a_0038"
+msgstr "Fait plus de 800000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0038"
+msgstr ""
+"Fait plus de 800000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0039"
+msgstr "Fait plus de 900000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0039"
+msgstr ""
+"Fait plus de 900000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0040"
+msgstr "Fait plus de 1000000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_a_0041"
+msgstr "Fait plus de 1250000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0041"
+msgstr ""
+"Fait plus de 1250000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0042"
+msgstr "Fait plus de 1500000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0042"
+msgstr ""
+"Fait plus de 1500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0043"
+msgstr ""
+"Fait plus de 1750000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0044"
+msgstr "Fait plus de 2000000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0044"
+msgstr ""
+"Fait plus de 2000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0045"
+msgstr "Réussir 1 chanson"
+
+msgid "mission_desc_event_raid_a_0046"
+msgstr "Réussir 3 chansons"
+
+msgid "mission_desc_event_raid_a_0047"
+msgstr "Réussir 6 chansons"
+
+msgid "mission_desc_event_raid_a_0048"
+msgstr "Réussir 10 chansons"
+
+msgid "mission_desc_event_raid_a_0050"
+msgstr "Réussir 20 chansons"
+
+msgid "mission_desc_event_raid_a_0051"
+msgstr "Réussir 30 chansons"
+
+msgid "mission_desc_event_raid_a_0052"
+msgstr "Réussir 40 chansons"
+
+msgid "mission_desc_event_raid_a_0053"
+msgstr "Réussir 50 chansons"
+
+msgid "mission_desc_event_raid_b_10001"
+msgstr "Termine en ayant activé le mode Super Diva"
+
+msgid "mission_desc_event_raid_b_10002"
+msgstr "Termine avec un score SS"
+
+msgid "mission_desc_event_raid_b_10003"
+msgstr "Termine avec un combo B ou plus"
+
+msgid "mission_desc_event_raid_b_10004"
+msgstr "Termine avec un combo A ou plus"
+
+msgid "mission_desc_event_raid_b_10005"
+msgstr "Termine avec un combo S ou plus"
+
+msgid "mission_desc_event_raid_b_10006"
+msgstr "Termine avec 90% de vie ou plus"
+
+msgid "mission_desc_event_raid_b_10007"
+msgstr "Termine une chanson"
+
+msgid "mission_desc_event_raid_b_10009"
+msgstr "Termine en ayant activé le mode Diva"
+
+msgid "mission_desc_event_raid_b_10010"
+msgstr "Termine avec un full combo"
+
+msgid "mission_desc_event_raid_b_0001"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_b_0013"
+msgstr "Neutralise 1 ennemi et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0014"
+msgstr "Neutralise 2 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0016"
+msgstr "Neutralise 5 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0017"
+msgstr "Neutralise 10 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0018"
+msgstr "Neutralise 15 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0019"
+msgstr "Neutralise 20 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0021"
+msgstr "Neutralise 30 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0022"
+msgstr "Neutralise 40 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0023"
+msgstr "Utilise 1x le canon Macross"
+
+msgid "mission_desc_event_raid_b_0024"
+msgstr "Utilise 3x le canon Macross"
+
+msgid "mission_desc_event_raid_b_0025"
+msgstr "Utilise 5x le canon Macross"
+
+msgid "mission_desc_event_raid_b_0026"
+msgstr "Utilise 10x le canon Macross"
+
+msgid "mission_desc2_event_raid_b_0027"
+msgstr ""
+"Fait plus de 1000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0028"
+msgstr "Fait plus de 5000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0028"
+msgstr ""
+"Fait plus de 5000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0029"
+msgstr "Fait plus de 10000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_b_0030"
+msgstr "Fait plus de 50000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0030"
+msgstr ""
+"Fait plus de 50000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0031"
+msgstr "Fait plus de 100000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_b_0006"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc2_event_raid_b_0032"
+msgstr ""
+"Fait plus de 200000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0033"
+msgstr "Fait plus de 300000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0033"
+msgstr ""
+"Fait plus de 300000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0034"
+msgstr "Fait plus de 400000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0034"
+msgstr ""
+"Fait plus de 400000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0035"
+msgstr ""
+"Fait plus de 500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0036"
+msgstr "Fait plus de 600000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0036"
+msgstr ""
+"Fait plus de 600000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0037"
+msgstr "Fait plus de 700000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0037"
+msgstr ""
+"Fait plus de 700000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0038"
+msgstr ""
+"Fait plus de 800000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0039"
+msgstr "Fait plus de 900000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0039"
+msgstr ""
+"Fait plus de 900000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0040"
+msgstr "Fait plus de 1000000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_b_0041"
+msgstr "Fait plus de 1250000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0041"
+msgstr ""
+"Fait plus de 1250000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0042"
+msgstr "Fait plus de 1500000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0042"
+msgstr ""
+"Fait plus de 1500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0043"
+msgstr "Fait plus de 1750000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_b_0044"
+msgstr "Fait plus de 2000000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0044"
+msgstr ""
+"Fait plus de 2000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0045"
+msgstr "Réussir 1 chanson"
+
+msgid "mission_desc_event_raid_b_0046"
+msgstr "Réussir 3 chansons"
+
+msgid "mission_desc_event_raid_b_0047"
+msgstr "Réussir 6 chansons"
+
+msgid "mission_desc_event_raid_b_0048"
+msgstr "Réussir 10 chansons"
+
+msgid "mission_desc_event_raid_b_0049"
+msgstr "Réussir 15 chansons"
+
+msgid "mission_desc_event_raid_b_0050"
+msgstr "Réussir 20 chansons"
+
+msgid "mission_desc_event_raid_b_0052"
+msgstr "Réussir 40 chansons"
+
+msgid "mission_desc_event_raid_b_0053"
+msgstr "Réussir 50 chansons"
+
+msgid "mission_desc_event_raid_b_0055"
+msgstr ""
+"【Journalier】Neutralise 2 ennemis et reçoit\n"
+"les récompenses"
+
+msgid "event_banner_event_raid_b_0001"
+msgstr "Recevoir plus de 150 Orbes sonores avec les missions !"
+
+msgid "mission_desc_event_raid_c_10001"
+msgstr "Termine en ayant activé le mode Super Diva"
+
+msgid "mission_desc_event_raid_c_10002"
+msgstr "Termine avec un score SS"
+
+msgid "mission_desc_event_raid_c_10003"
+msgstr "Termine avec un combo B ou plus"
+
+msgid "mission_desc_event_raid_c_10005"
+msgstr "Termine avec un combo S ou plus"
+
+msgid "mission_desc_event_raid_c_10007"
+msgstr "Termine une chanson"
+
+msgid "mission_desc_event_raid_c_10008"
+msgstr ""
+"Termine avec la gauge bio-fold à 100%\n"
+"ou plus"
+
+msgid "mission_desc_event_raid_c_10009"
+msgstr "Termine en ayant activé le mode Diva"
+
+msgid "mission_desc_event_raid_c_10010"
+msgstr "Termine avec un full combo"
+
+msgid "mission_desc_event_raid_c_0014"
+msgstr "Neutralise 2 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0015"
+msgstr "Neutralise 3 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0016"
+msgstr "Neutralise 5 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0018"
+msgstr "Neutralise 15 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0019"
+msgstr "Neutralise 20 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0020"
+msgstr "Neutralise 25 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0021"
+msgstr "Neutralise 30 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0023"
+msgstr "Utilise 1x le canon Macross"
+
+msgid "mission_desc_event_raid_c_0024"
+msgstr "Utilise 3x le canon Macross"
+
+msgid "mission_desc_event_raid_c_0025"
+msgstr "Utilise 5x le canon Macross"
+
+msgid "mission_desc_event_raid_c_0026"
+msgstr "Utilise 10x le canon Macross"
+
+msgid "mission_desc2_event_raid_c_0027"
+msgstr ""
+"Fait plus de 1000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0028"
+msgstr "Fait plus de 5000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0028"
+msgstr ""
+"Fait plus de 5000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0030"
+msgstr ""
+"Fait plus de 50000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0031"
+msgstr "Fait plus de 100000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0031"
+msgstr ""
+"Fait plus de 100000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0032"
+msgstr ""
+"Fait plus de 200000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0033"
+msgstr ""
+"Fait plus de 300000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0034"
+msgstr "Fait plus de 400000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0034"
+msgstr ""
+"Fait plus de 400000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0035"
+msgstr ""
+"Fait plus de 500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0036"
+msgstr "Fait plus de 600000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0036"
+msgstr ""
+"Fait plus de 600000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0037"
+msgstr "Fait plus de 700000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0037"
+msgstr ""
+"Fait plus de 700000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0038"
+msgstr "Fait plus de 800000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_c_0039"
+msgstr "Fait plus de 900000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0039"
+msgstr ""
+"Fait plus de 900000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0040"
+msgstr "Fait plus de 1000000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0040"
+msgstr ""
+"Fait plus de 1000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0041"
+msgstr "Fait plus de 1250000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_c_0042"
+msgstr "Fait plus de 1500000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0042"
+msgstr ""
+"Fait plus de 1500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0044"
+msgstr "Fait plus de 2000000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0044"
+msgstr ""
+"Fait plus de 2000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0045"
+msgstr "Réussir 1 chanson"
+
+msgid "mission_desc_event_raid_c_0046"
+msgstr "Réussir 3 chansons"
+
+msgid "mission_desc_event_raid_c_0047"
+msgstr "Réussir 6 chansons"
+
+msgid "mission_desc_event_raid_c_0048"
+msgstr "Réussir 10 chansons"
+
+msgid "mission_desc_event_raid_c_0049"
+msgstr "Réussir 15 chansons"
+
+msgid "mission_desc_event_raid_c_0050"
+msgstr "Réussir 20 chansons"
+
+msgid "mission_desc_event_raid_c_0051"
+msgstr "Réussir 30 chansons"
+
+msgid "mission_desc_event_raid_c_0052"
+msgstr "Réussir 40 chansons"
+
+msgid "event_banner_event_raid_c_0001"
+msgstr "Recevoir plus de 150 Orbes sonores avec les missions !"
+
+msgid "mission_desc_event_raid_d_10001"
+msgstr "Termine en ayant activé le mode Super Diva"
+
+msgid "mission_desc_event_raid_d_10002"
+msgstr "Termine avec un score SS"
+
+msgid "mission_desc_event_raid_d_10003"
+msgstr "Termine avec un combo B ou plus"
+
+msgid "mission_desc_event_raid_d_10005"
+msgstr "Termine avec un combo S ou plus"
+
+msgid "mission_desc_event_raid_d_10006"
+msgstr "Termine avec 90% de vie ou plus"
+
+msgid "mission_desc_event_raid_d_10007"
+msgstr "Termine une chanson"
+
+msgid "mission_desc_event_raid_d_10008"
+msgstr ""
+"Termine avec la gauge bio-fold à 100%\n"
+"ou plus"
+
+msgid "mission_desc_event_raid_d_10009"
+msgstr "Termine en ayant activé le mode Diva"
+
+msgid "mission_desc_event_raid_d_10010"
+msgstr "Termine avec un full combo"
+
+msgid "mission_desc_event_raid_d_0017"
+msgstr "Neutralise 1 ennemi et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0018"
+msgstr "Neutralise 2 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0020"
+msgstr "Neutralise 5 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0021"
+msgstr "Neutralise 10 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0023"
+msgstr "Neutralise 20 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0024"
+msgstr "Neutralise 25 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0025"
+msgstr "Neutralise 30 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0026"
+msgstr "Neutralise 40 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0027"
+msgstr "Utilise 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0028"
+msgstr "Utilise 3x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0029"
+msgstr "Utilise 5x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0031"
+msgstr "Fait plus de 1000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0031"
+msgstr ""
+"Fait plus de 1000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0032"
+msgstr "Fait plus de 5000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0032"
+msgstr ""
+"Fait plus de 5000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0033"
+msgstr ""
+"Fait plus de 10000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0034"
+msgstr ""
+"Fait plus de 50000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0035"
+msgstr ""
+"Fait plus de 100000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0036"
+msgstr "Fait plus de 200000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_d_0037"
+msgstr "Fait plus de 300000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0037"
+msgstr ""
+"Fait plus de 300000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0038"
+msgstr "Fait plus de 400000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0038"
+msgstr ""
+"Fait plus de 400000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0040"
+msgstr ""
+"Fait plus de 600000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0041"
+msgstr "Fait plus de 700000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_d_0042"
+msgstr "Fait plus de 800000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0042"
+msgstr ""
+"Fait plus de 800000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0043"
+msgstr ""
+"Fait plus de 900000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0044"
+msgstr "Fait plus de 1000000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0044"
+msgstr ""
+"Fait plus de 1000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0045"
+msgstr "Fait plus de 1250000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0046"
+msgstr ""
+"Fait plus de 1500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0047"
+msgstr "Fait plus de 1750000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0047"
+msgstr ""
+"Fait plus de 1750000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0048"
+msgstr ""
+"Fait plus de 2000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0049"
+msgstr "Réussir 1 chanson"
+
+msgid "mission_desc_event_raid_d_0050"
+msgstr "Réussir 3 chansons"
+
+msgid "mission_desc_event_raid_d_0053"
+msgstr "Réussir 15 chansons"
+
+msgid "mission_desc_event_raid_d_0054"
+msgstr "Réussir 20 chansons"
+
+msgid "mission_desc_event_raid_d_0055"
+msgstr "Réussir 30 chansons"
+
+msgid "mission_desc_event_raid_d_0056"
+msgstr "Réussir 40 chansons"
+
+msgid "mission_desc_event_raid_d_0057"
+msgstr "Réussir 50 chansons"
+
+msgid "event_banner_event_raid_d_0001"
+msgstr "Recevoir plus de 150 Orbes sonores avec les missions !"
+
+msgid "mission_desc_event_raidlobby_a_0011"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0012"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0013"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_a_0014"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0016"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_a_0017"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0018"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0019"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_a_0021"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0022"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_a_0023"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0001"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 20 chansons"
+
+msgid "mission_desc_event_raidlobby_b_0002"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 10 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0003"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 10 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0004"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_b_0006"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0007"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_b_0008"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0009"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0011"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0012"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0014"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0016"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_b_0017"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0018"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0019"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_b_0021"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0022"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_b_0023"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0002"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 10 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0004"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_c_0005"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0006"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0008"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0009"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0010"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_c_0012"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0013"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross 7】"
+
+msgid "mission_desc_event_raidlobby_c_0014"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0019"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross 7】"
+
+msgid "mission_desc_event_raidlobby_c_0020"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0023"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0001"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 20 chansons"
+
+msgid "mission_desc_event_raidlobby_d_0002"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 10 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0003"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 10 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0005"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0006"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0007"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_d_0011"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0012"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0013"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross F】"
+
+msgid "mission_desc_event_raidlobby_d_0014"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0016"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross F】"
+
+msgid "mission_desc_event_raidlobby_d_0017"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0018"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0020"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0021"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0022"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross F】"
+
+msgid "mission_desc_event_raidlobby_d_0023"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0010"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_d_0015"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0019"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross F】"
+
+msgid "mission_desc_event_raidlobby_d_0024"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raid_a_10001"
+msgstr "Termine en ayant activé le mode Super Diva"
+
+msgid "mission_desc_event_raid_a_10004"
+msgstr "Termine avec un combo A ou plus"
+
+msgid "mission_desc_event_raid_a_0049"
+msgstr "Réussir 15 chansons"
+
+msgid "event_banner_event_raid_a_0001"
+msgstr "Recevoir plus de 150 Orbes sonores avec les missions !"
+
+msgid "mission_desc_event_raid_b_10008"
+msgstr ""
+"Termine avec la gauge bio-fold à 100%\n"
+"ou plus"
+
+msgid "mission_desc_event_raid_b_0015"
+msgstr "Neutralise 3 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0020"
+msgstr "Neutralise 25 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_b_0027"
+msgstr "Fait plus de 1000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0029"
+msgstr ""
+"Fait plus de 10000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0031"
+msgstr ""
+"Fait plus de 100000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0032"
+msgstr "Fait plus de 200000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_b_0035"
+msgstr "Fait plus de 500000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_b_0038"
+msgstr "Fait plus de 800000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0040"
+msgstr ""
+"Fait plus de 1000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_b_0043"
+msgstr ""
+"Fait plus de 1750000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_b_0051"
+msgstr "Réussir 30 chansons"
+
+msgid "mission_desc_event_raid_c_10004"
+msgstr "Termine avec un combo A ou plus"
+
+msgid "mission_desc_event_raid_c_10006"
+msgstr "Termine avec 90% de vie ou plus"
+
+msgid "mission_desc_event_raid_c_0013"
+msgstr "Neutralise 1 ennemi et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0017"
+msgstr "Neutralise 10 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0022"
+msgstr "Neutralise 40 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_c_0027"
+msgstr "Fait plus de 1000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_c_0029"
+msgstr "Fait plus de 10000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0029"
+msgstr ""
+"Fait plus de 10000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0030"
+msgstr "Fait plus de 50000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_c_0032"
+msgstr "Fait plus de 200000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_c_0033"
+msgstr "Fait plus de 300000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_a_0017"
+msgstr "Neutralise 10 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0022"
+msgstr "Neutralise 40 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_a_0028"
+msgstr "Fait plus de 5000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_a_0031"
+msgstr "Fait plus de 100000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_a_0034"
+msgstr "Fait plus de 400000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0036"
+msgstr ""
+"Fait plus de 600000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0037"
+msgstr ""
+"Fait plus de 700000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_a_0040"
+msgstr ""
+"Fait plus de 1000000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_a_0043"
+msgstr "Fait plus de 1750000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_d_0019"
+msgstr "Neutralise 3 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0022"
+msgstr "Neutralise 15 ennemis et reçoit les récompenses"
+
+msgid "mission_desc_event_raid_d_0030"
+msgstr "Utilise 10x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0033"
+msgstr "Fait plus de 10000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_d_0034"
+msgstr "Fait plus de 50000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_d_0035"
+msgstr "Fait plus de 100000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0036"
+msgstr ""
+"Fait plus de 200000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0039"
+msgstr "Fait plus de 500000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0039"
+msgstr ""
+"Fait plus de 500000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0040"
+msgstr "Fait plus de 600000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0041"
+msgstr ""
+"Fait plus de 700000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0043"
+msgstr "Fait plus de 900000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_d_0045"
+msgstr ""
+"Fait plus de 1250000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_d_0046"
+msgstr "Fait plus de 1500000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_d_0048"
+msgstr "Fait plus de 2000000 dégats à un ennemi"
+
+msgid "mission_desc_event_raid_c_0035"
+msgstr "Fait plus de 500000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0038"
+msgstr ""
+"Fait plus de 800000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0041"
+msgstr ""
+"Fait plus de 1250000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0043"
+msgstr "Fait plus de 1750000 dégats à un ennemi"
+
+msgid "mission_desc2_event_raid_c_0043"
+msgstr ""
+"Fait plus de 1750000 dégats\n"
+"à un ennemi"
+
+msgid "mission_desc_event_raid_c_0053"
+msgstr "Réussir 50 chansons"
+
+msgid "mission_desc_event_raid_d_10004"
+msgstr "Termine avec un combo A ou plus"
+
+msgid "mission_desc_event_raid_a_0001"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_a_0003"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0004"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_a_0005"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_a_0006"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0007"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_a_0008"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_a_0009"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_a_0010"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_a_0011"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_a_0012"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_b_0002"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_b_0003"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_b_0004"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_b_0005"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_b_0007"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_b_0008"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_b_0009"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0001"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0051"
+msgstr "Réussir 6 chansons"
+
+msgid "mission_desc_event_raid_d_0052"
+msgstr "Réussir 10 chansons"
+
+msgid "mission_desc_event_raidlobby_a_0001"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 20 chansons"
+
+msgid "mission_desc_event_raidlobby_a_0004"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raid_b_0010"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_b_0011"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_b_0012"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_b_0054"
+msgstr ""
+"【Journalier】Neutralise 2 ennemis et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_b_0056"
+msgstr ""
+"【Journalier】Neutralise 2 ennemis et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_b_0057"
+msgstr ""
+"【Journalier】Neutralise 2 ennemis et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_c_0001"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_c_0002"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_c_0003"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_c_0004"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_c_0005"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_c_0006"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_c_0007"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_c_0008"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_c_0009"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_c_0010"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_c_0011"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_c_0012"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0002"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_d_0003"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0004"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0005"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_d_0006"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0007"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0008"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_d_0009"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0010"
+msgstr "【Journalier】Utilise 1x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0011"
+msgstr ""
+"【Journalier】Neutralise 1 ennemi et reçoit\n"
+"les récompenses"
+
+msgid "mission_desc_event_raid_d_0012"
+msgstr "【Journalier】Utiliser 1x le canon Macross"
+
+msgid "mission_desc_event_raid_d_0013"
+msgstr "【Journalier】Utilise 2x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0014"
+msgstr "【Journalier】Utilise 2x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0015"
+msgstr "【Journalier】Utilise 2x le radar Fold"
+
+msgid "mission_desc_event_raid_d_0016"
+msgstr "【Journalier】Utilise 2x le radar Fold"
+
+msgid "mission_desc_event_raidlobby_a_0002"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 10 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0003"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 10 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0005"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0006"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0007"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_a_0008"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0009"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0015"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_a_0020"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_a_0024"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0005"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0010"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_b_0013"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross Delta】"
+
+msgid "mission_desc_event_raidlobby_b_0015"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_b_0020"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_b_0024"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0001"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 20 chansons"
+
+msgid "mission_desc_event_raidlobby_c_0003"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 10 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0007"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_c_0011"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0015"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0016"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross 7】"
+
+msgid "mission_desc_event_raidlobby_c_0017"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_c_0018"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0021"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_c_0022"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross 7】"
+
+msgid "mission_desc_event_raidlobby_c_0024"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0004"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons"
+
+msgid "mission_desc_event_raidlobby_d_0008"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminé 30 full combo"
+
+msgid "mission_desc_event_raidlobby_d_0009"
+msgstr ""
+"【Journalier】Les membres du groupes ont \n"
+"terminés 30 opérations Valkyrie"
+
+msgid "mission_desc_event_raidlobby_d_0010"
+msgstr ""
+"【Journalier】Les membres du groupes ont\n"
+"terminés 50 chansons 【Macross F】"
