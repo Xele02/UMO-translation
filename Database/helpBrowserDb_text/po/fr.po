@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 11:55+0000\n"
-"PO-Revision-Date: 2025-05-20 07:21+0000\n"
+"PO-Revision-Date: 2025-05-20 09:55+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/fr/>\n"
@@ -732,19 +732,19 @@ msgid "help_0039_0005_name"
 msgstr ""
 
 msgid "help_0040_0000_name"
-msgstr ""
+msgstr "A propos de la préparation du Super Concert"
 
 msgid "help_0040_0001_name"
-msgstr ""
+msgstr "A propos du lobby Macross"
 
 msgid "help_0040_0002_name"
-msgstr ""
+msgstr "A propos des tampons"
 
 msgid "help_0040_0003_name"
-msgstr ""
+msgstr "A propos des fonctions de notes"
 
 msgid "help_0040_0004_name"
-msgstr ""
+msgstr "A propos du changement d'icônes"
 
 msgid "help_0041_0000_name"
 msgstr "A propos de la liste de membres"
