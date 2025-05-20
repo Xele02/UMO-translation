@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-20 08:41+0000\n"
+"PO-Revision-Date: 2025-05-20 09:16+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4854,19 +4854,19 @@ msgid "storage_select_text"
 msgstr ""
 
 msgid "home_lobby_button_before"
-msgstr "Le concert Super Galaxy comme dans {0} {0:plural:jour|jours}"
+msgstr "<size=14>Concert Super Galaxy dans {0}j.</size>"
 
 msgid "home_lobby_button_enter"
-msgstr "Le concert Super Galaxy est là ! Encore {0} {0:plural:jour|jours}"
+msgstr "<size=14>Concert Super Galaxy  ! Encore {0}j.</size>"
 
 msgid "home_lobby_button_after"
 msgstr "Lobby ouvert encore {0} {0:plural:jour|jours}"
 
 msgid "home_lobby_button_before_today"
-msgstr "Concert Super Galaxy aujourd'hui"
+msgstr "<size=14>Concert Super Galaxy aujourd'hui</size>"
 
 msgid "home_lobby_button_enter_today"
-msgstr "Concert Super Galaxy jusqu'aujourd'hui"
+msgstr "<size=13>Fin du concert Super Galaxy aujourd'hui</size>"
 
 msgid "home_lobby_button_after_today"
 msgstr "Le lobby ferme aujourd'hui"
