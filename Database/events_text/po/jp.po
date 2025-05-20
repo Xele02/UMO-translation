@@ -3334,6 +3334,96 @@ msgstr "ハヤテ・インメルマン部隊"
 msgid "event_group_event_raidlobby_a_0002"
 msgstr "アラド・メルダース部隊"
 
+msgid "event_guide_event_raidlobby_a_0001"
+msgstr "みんなで協力ミッションを達成して\n総力LIVEに備えましょう"
+
+msgid "event_guide_event_raidlobby_a_0002"
+msgstr "今まで誰かと交流したことなんて\nなかったけど…いいものね"
+
+msgid "event_guide_event_raidlobby_a_0003"
+msgstr "マクロスロビーで\nファンを増やしちゃおう！"
+
+msgid "event_guide_event_raidlobby_a_0004"
+msgstr "隊員情報を確認しよう！\nファンになれば訪問できるよ"
+
+msgid "event_guide_event_raidlobby_a_0005"
+msgstr "メッセージやスタンプを送って\n隊員たちと交流しよう！"
+
+msgid "event_guide_event_raidlobby_a_0006"
+msgstr "協力ミッションは毎日変わるわ\nいっぱい報酬を貰いましょう"
+
+msgid "event_guide_event_raidlobby_a_0007"
+msgstr "私も負けとれんって！"
+
+msgid "event_guide_event_raidlobby_a_0008"
+msgstr "マキナの笑顔ラブリー\n立ち姿モアラブリー…"
+
+msgid "event_guide_event_raidlobby_a_0009"
+msgstr "あなたにも一緒に歌って欲しいの！"
+
+msgid "event_guide_event_raidlobby_a_0010"
+msgstr "ついにこの時が来たぜ！"
+
+msgid "event_guide_event_raidlobby_a_0011"
+msgstr "待っとったよ！\nごりごり頑張るかんね！"
+
+msgid "event_guide_event_raidlobby_a_0012"
+msgstr "始めるわよ。私たちの\nワルキューレのステージを！"
+
+msgid "event_guide_event_raidlobby_a_0013"
+msgstr "マクロスキャノン…すごい！\nゲージを早く溜めるべき"
+
+msgid "event_guide_event_raidlobby_a_0014"
+msgstr "ついに戦いが始まったようね\n行くわよ！ランカちゃん！"
+
+msgid "event_guide_event_raidlobby_a_0015"
+msgstr "あたし、頑張るもん！"
+
+msgid "event_guide_event_raidlobby_a_0016"
+msgstr "みんなの支援のおかげで\nマクロスキャノンが早く撃てるわ"
+
+msgid "event_guide_event_raidlobby_a_0017"
+msgstr "みんなで好きな歌を歌う！\n思いっきり自由に！"
+
+msgid "event_guide_event_raidlobby_a_0018"
+msgstr "う～んと盛り上げようよ！"
+
+msgid "event_guide_event_raidlobby_a_0019"
+msgstr "みんな一緒にー！"
+
+msgid "event_guide_event_raidlobby_a_0020"
+msgstr "ミサイルより爆発力のある\nサウンドを聞かせてやるぜ！"
+
+msgid "event_guide_event_raidlobby_a_0021"
+msgstr "私、みんなに出会えて\nぶっちゃ幸せです！！"
+
+msgid "event_guide_event_raidlobby_a_0022"
+msgstr "また一緒に戦いたいねー"
+
+msgid "event_guide_event_raidlobby_a_0023"
+msgstr "最高のライブになったわね！"
+
+msgid "event_guide_event_raidlobby_a_0024"
+msgstr "お前の歌、感じたぜ！\nハートにな！"
+
+msgid "event_guide_event_raidlobby_a_0025"
+msgstr "また、あなたたちと\n一緒に歌いたい！"
+
+msgid "event_guide_event_raidlobby_a_0026"
+msgstr "聞こえてたわよ！\nあなたの歌声！"
+
+msgid "event_guide_event_raidlobby_a_0027"
+msgstr "フォールドレセプター\nノンアクティブ"
+
+msgid "event_guide_event_raidlobby_a_0028"
+msgstr "ありがとう！\nみんなのおかげだよ！"
+
+msgid "event_guide_event_raidlobby_a_0029"
+msgstr "助けてくれてありがとう！"
+
+msgid "event_guide_event_raidlobby_a_0030"
+msgstr "わたしも乗せていただけますか？\nあなたの船に"
+
 msgid "mission_desc_event_raidlobby_a_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
 
@@ -3411,6 +3501,96 @@ msgstr "アラド・メルダース部隊"
 
 msgid "event_group_event_raidlobby_b_0002"
 msgstr "マクシミリアン・ジーナス部隊"
+
+msgid "event_guide_event_raidlobby_b_0001"
+msgstr "みんなで協力ミッションを達成して\n総力LIVEに備えましょう"
+
+msgid "event_guide_event_raidlobby_b_0002"
+msgstr "今まで誰かと交流したことなんて\nなかったけど…いいものね"
+
+msgid "event_guide_event_raidlobby_b_0003"
+msgstr "マクロスロビーで\nファンを増やしちゃおう！"
+
+msgid "event_guide_event_raidlobby_b_0004"
+msgstr "隊員情報を確認しよう！\nファンになれば訪問できるよ"
+
+msgid "event_guide_event_raidlobby_b_0005"
+msgstr "メッセージやスタンプを送って\n隊員たちと交流しよう！"
+
+msgid "event_guide_event_raidlobby_b_0006"
+msgstr "協力ミッションは毎日変わるわ\nいっぱい報酬を貰いましょう"
+
+msgid "event_guide_event_raidlobby_b_0007"
+msgstr "私も負けとれんって！"
+
+msgid "event_guide_event_raidlobby_b_0008"
+msgstr "マキナの笑顔ラブリー\n立ち姿モアラブリー…"
+
+msgid "event_guide_event_raidlobby_b_0009"
+msgstr "あなたにも一緒に歌って欲しいの！"
+
+msgid "event_guide_event_raidlobby_b_0010"
+msgstr "ついにこの時が来たぜ！"
+
+msgid "event_guide_event_raidlobby_b_0011"
+msgstr "待っとったよ！\nごりごり頑張るかんね！"
+
+msgid "event_guide_event_raidlobby_b_0012"
+msgstr "始めるわよ。私たちの\nワルキューレのステージを！"
+
+msgid "event_guide_event_raidlobby_b_0013"
+msgstr "マクロスキャノン…すごい！\nゲージを早く溜めるべき"
+
+msgid "event_guide_event_raidlobby_b_0014"
+msgstr "ついに戦いが始まったようね\n行くわよ！ランカちゃん！"
+
+msgid "event_guide_event_raidlobby_b_0015"
+msgstr "あたし、頑張るもん！"
+
+msgid "event_guide_event_raidlobby_b_0016"
+msgstr "みんなの支援のおかげで\nマクロスキャノンが早く撃てるわ"
+
+msgid "event_guide_event_raidlobby_b_0017"
+msgstr "みんなで好きな歌を歌う！\n思いっきり自由に！"
+
+msgid "event_guide_event_raidlobby_b_0018"
+msgstr "う～んと盛り上げようよ！"
+
+msgid "event_guide_event_raidlobby_b_0019"
+msgstr "みんな一緒にー！"
+
+msgid "event_guide_event_raidlobby_b_0020"
+msgstr "ミサイルより爆発力のある\nサウンドを聞かせてやるぜ！"
+
+msgid "event_guide_event_raidlobby_b_0021"
+msgstr "私、みんなに出会えて\nぶっちゃ幸せです！！"
+
+msgid "event_guide_event_raidlobby_b_0022"
+msgstr "また一緒に戦いたいねー"
+
+msgid "event_guide_event_raidlobby_b_0023"
+msgstr "最高のライブになったわね！"
+
+msgid "event_guide_event_raidlobby_b_0024"
+msgstr "お前の歌、感じたぜ！\nハートにな！"
+
+msgid "event_guide_event_raidlobby_b_0025"
+msgstr "また、あなたたちと\n一緒に歌いたい！"
+
+msgid "event_guide_event_raidlobby_b_0026"
+msgstr "聞こえてたわよ！\nあなたの歌声！"
+
+msgid "event_guide_event_raidlobby_b_0027"
+msgstr "フォールドレセプター\nノンアクティブ"
+
+msgid "event_guide_event_raidlobby_b_0028"
+msgstr "ありがとう！\nみんなのおかげだよ！"
+
+msgid "event_guide_event_raidlobby_b_0029"
+msgstr "助けてくれてありがとう！"
+
+msgid "event_guide_event_raidlobby_b_0030"
+msgstr "わたしも乗せていただけますか？\nあなたの船に"
 
 msgid "mission_desc_event_raidlobby_b_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
@@ -3490,6 +3670,96 @@ msgstr "ミレーヌ・ジーナス部隊"
 msgid "event_group_event_raidlobby_c_0002"
 msgstr "ミハエル・ブラン部隊"
 
+msgid "event_guide_event_raidlobby_c_0001"
+msgstr "みんなで協力ミッションを達成して\n総力LIVEに備えましょう"
+
+msgid "event_guide_event_raidlobby_c_0002"
+msgstr "今まで誰かと交流したことなんて\nなかったけど…いいものね"
+
+msgid "event_guide_event_raidlobby_c_0003"
+msgstr "マクロスロビーで\nファンを増やしちゃおう！"
+
+msgid "event_guide_event_raidlobby_c_0004"
+msgstr "隊員情報を確認しよう！\nファンになれば訪問できるよ"
+
+msgid "event_guide_event_raidlobby_c_0005"
+msgstr "メッセージやスタンプを送って\n隊員たちと交流しよう！"
+
+msgid "event_guide_event_raidlobby_c_0006"
+msgstr "協力ミッションは毎日変わるわ\nいっぱい報酬を貰いましょう"
+
+msgid "event_guide_event_raidlobby_c_0007"
+msgstr "私も負けとれんって！"
+
+msgid "event_guide_event_raidlobby_c_0008"
+msgstr "マキナの笑顔ラブリー\n立ち姿モアラブリー…"
+
+msgid "event_guide_event_raidlobby_c_0009"
+msgstr "あなたにも一緒に歌って欲しいの！"
+
+msgid "event_guide_event_raidlobby_c_0010"
+msgstr "ついにこの時が来たぜ！"
+
+msgid "event_guide_event_raidlobby_c_0011"
+msgstr "待っとったよ！\nごりごり頑張るかんね！"
+
+msgid "event_guide_event_raidlobby_c_0012"
+msgstr "始めるわよ。私たちの\nワルキューレのステージを！"
+
+msgid "event_guide_event_raidlobby_c_0013"
+msgstr "マクロスキャノン…すごい！\nゲージを早く溜めるべき"
+
+msgid "event_guide_event_raidlobby_c_0014"
+msgstr "ついに戦いが始まったようね\n行くわよ！ランカちゃん！"
+
+msgid "event_guide_event_raidlobby_c_0015"
+msgstr "あたし、頑張るもん！"
+
+msgid "event_guide_event_raidlobby_c_0016"
+msgstr "みんなの支援のおかげで\nマクロスキャノンが早く撃てるわ"
+
+msgid "event_guide_event_raidlobby_c_0017"
+msgstr "みんなで好きな歌を歌う！\n思いっきり自由に！"
+
+msgid "event_guide_event_raidlobby_c_0018"
+msgstr "う～んと盛り上げようよ！"
+
+msgid "event_guide_event_raidlobby_c_0019"
+msgstr "みんな一緒にー！"
+
+msgid "event_guide_event_raidlobby_c_0020"
+msgstr "ミサイルより爆発力のある\nサウンドを聞かせてやるぜ！"
+
+msgid "event_guide_event_raidlobby_c_0021"
+msgstr "私、みんなに出会えて\nぶっちゃ幸せです！！"
+
+msgid "event_guide_event_raidlobby_c_0022"
+msgstr "また一緒に戦いたいねー"
+
+msgid "event_guide_event_raidlobby_c_0023"
+msgstr "最高のライブになったわね！"
+
+msgid "event_guide_event_raidlobby_c_0024"
+msgstr "お前の歌、感じたぜ！\nハートにな！"
+
+msgid "event_guide_event_raidlobby_c_0025"
+msgstr "また、あなたたちと\n一緒に歌いたい！"
+
+msgid "event_guide_event_raidlobby_c_0026"
+msgstr "聞こえてたわよ！\nあなたの歌声！"
+
+msgid "event_guide_event_raidlobby_c_0027"
+msgstr "フォールドレセプター\nノンアクティブ"
+
+msgid "event_guide_event_raidlobby_c_0028"
+msgstr "ありがとう！\nみんなのおかげだよ！"
+
+msgid "event_guide_event_raidlobby_c_0029"
+msgstr "助けてくれてありがとう！"
+
+msgid "event_guide_event_raidlobby_c_0030"
+msgstr "わたしも乗せていただけますか？\nあなたの船に"
+
 msgid "mission_desc_event_raidlobby_c_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
 
@@ -3567,6 +3837,96 @@ msgstr "早乙女アルト部隊"
 
 msgid "event_group_event_raidlobby_d_0002"
 msgstr "ミハエル・ブラン部隊"
+
+msgid "event_guide_event_raidlobby_d_0001"
+msgstr "みんなで協力ミッションを達成して\n総力LIVEに備えましょう"
+
+msgid "event_guide_event_raidlobby_d_0002"
+msgstr "今まで誰かと交流したことなんて\nなかったけど…いいものね"
+
+msgid "event_guide_event_raidlobby_d_0003"
+msgstr "マクロスロビーで\nファンを増やしちゃおう！"
+
+msgid "event_guide_event_raidlobby_d_0004"
+msgstr "隊員情報を確認しよう！\nファンになれば訪問できるよ"
+
+msgid "event_guide_event_raidlobby_d_0005"
+msgstr "メッセージやスタンプを送って\n隊員たちと交流しよう！"
+
+msgid "event_guide_event_raidlobby_d_0006"
+msgstr "協力ミッションは毎日変わるわ\nいっぱい報酬を貰いましょう"
+
+msgid "event_guide_event_raidlobby_d_0007"
+msgstr "私も負けとれんって！"
+
+msgid "event_guide_event_raidlobby_d_0008"
+msgstr "マキナの笑顔ラブリー\n立ち姿モアラブリー…"
+
+msgid "event_guide_event_raidlobby_d_0009"
+msgstr "あなたにも一緒に歌って欲しいの！"
+
+msgid "event_guide_event_raidlobby_d_0010"
+msgstr "ついにこの時が来たぜ！"
+
+msgid "event_guide_event_raidlobby_d_0011"
+msgstr "待っとったよ！\nごりごり頑張るかんね！"
+
+msgid "event_guide_event_raidlobby_d_0012"
+msgstr "始めるわよ。私たちの\nワルキューレのステージを！"
+
+msgid "event_guide_event_raidlobby_d_0013"
+msgstr "マクロスキャノン…すごい！\nゲージを早く溜めるべき"
+
+msgid "event_guide_event_raidlobby_d_0014"
+msgstr "ついに戦いが始まったようね\n行くわよ！ランカちゃん！"
+
+msgid "event_guide_event_raidlobby_d_0015"
+msgstr "あたし、頑張るもん！"
+
+msgid "event_guide_event_raidlobby_d_0016"
+msgstr "みんなの支援のおかげで\nマクロスキャノンが早く撃てるわ"
+
+msgid "event_guide_event_raidlobby_d_0017"
+msgstr "みんなで好きな歌を歌う！\n思いっきり自由に！"
+
+msgid "event_guide_event_raidlobby_d_0018"
+msgstr "う～んと盛り上げようよ！"
+
+msgid "event_guide_event_raidlobby_d_0019"
+msgstr "みんな一緒にー！"
+
+msgid "event_guide_event_raidlobby_d_0020"
+msgstr "ミサイルより爆発力のある\nサウンドを聞かせてやるぜ！"
+
+msgid "event_guide_event_raidlobby_d_0021"
+msgstr "私、みんなに出会えて\nぶっちゃ幸せです！！"
+
+msgid "event_guide_event_raidlobby_d_0022"
+msgstr "また一緒に戦いたいねー"
+
+msgid "event_guide_event_raidlobby_d_0023"
+msgstr "最高のライブになったわね！"
+
+msgid "event_guide_event_raidlobby_d_0024"
+msgstr "お前の歌、感じたぜ！\nハートにな！"
+
+msgid "event_guide_event_raidlobby_d_0025"
+msgstr "また、あなたたちと\n一緒に歌いたい！"
+
+msgid "event_guide_event_raidlobby_d_0026"
+msgstr "聞こえてたわよ！\nあなたの歌声！"
+
+msgid "event_guide_event_raidlobby_d_0027"
+msgstr "フォールドレセプター\nノンアクティブ"
+
+msgid "event_guide_event_raidlobby_d_0028"
+msgstr "ありがとう！\nみんなのおかげだよ！"
+
+msgid "event_guide_event_raidlobby_d_0029"
+msgstr "助けてくれてありがとう！"
+
+msgid "event_guide_event_raidlobby_d_0030"
+msgstr "わたしも乗せていただけますか？\nあなたの船に"
 
 msgid "mission_desc_event_raidlobby_d_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
