@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-20 07:21+0000\n"
+"PO-Revision-Date: 2025-05-20 08:41+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -1338,10 +1338,13 @@ msgstr ""
 "dans la pièce SNS 「{0}」."
 
 msgid "popup_friend_request_title"
-msgstr ""
+msgstr "Demande d'ami"
 
 msgid "popup_friend_request_msg"
 msgstr ""
+"Envoyer une demande d'ami à {0}.\n"
+"\n"
+"Continuer ?"
 
 msgid "popup_friend_release_title"
 msgstr ""
@@ -1368,10 +1371,12 @@ msgid "popup_friend_reject_msg"
 msgstr ""
 
 msgid "popup_friend_requested_title"
-msgstr ""
+msgstr "Demande d'ami complété"
 
 msgid "popup_friend_requested_msg"
 msgstr ""
+"Demande d'ami envoyé \n"
+"à {0}."
 
 msgid "popup_friend_released_title"
 msgstr ""
@@ -4477,22 +4482,24 @@ msgstr ""
 "le temps et les objets a récupérer."
 
 msgid "pop_deco_gift_success_title"
-msgstr ""
+msgstr "Envoi terminé"
 
 msgid "pop_deco_gift_failed_title"
-msgstr ""
+msgstr "Limite de cadeaux"
 
 msgid "pop_deco_gift_multi_message"
-msgstr ""
+msgstr "{0} joueurs ont reçu un cadeau."
 
 msgid "pop_deco_gift_single_message"
-msgstr ""
+msgstr "Cadeau envoyé."
 
 msgid "pop_deco_gift_failed_message"
-msgstr ""
+msgstr "Nombre maximum d'envoi journalier atteint."
 
 msgid "pop_deco_gift_item_message"
 msgstr ""
+"{0}\n"
+"{1}{2} reçu"
 
 msgid "pop_deco_option_title"
 msgstr "Configuration mode déco"
