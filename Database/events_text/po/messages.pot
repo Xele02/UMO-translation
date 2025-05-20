@@ -3328,6 +3328,12 @@ msgstr ""
 msgid "event_banner_event_raid_d_0001"
 msgstr ""
 
+msgid "event_group_event_raidlobby_a_0001"
+msgstr ""
+
+msgid "event_group_event_raidlobby_a_0002"
+msgstr ""
+
 msgid "mission_desc_event_raidlobby_a_0001"
 msgstr ""
 
@@ -3398,6 +3404,12 @@ msgid "mission_desc_event_raidlobby_a_0023"
 msgstr ""
 
 msgid "mission_desc_event_raidlobby_a_0024"
+msgstr ""
+
+msgid "event_group_event_raidlobby_b_0001"
+msgstr ""
+
+msgid "event_group_event_raidlobby_b_0002"
 msgstr ""
 
 msgid "mission_desc_event_raidlobby_b_0001"
@@ -3472,6 +3484,12 @@ msgstr ""
 msgid "mission_desc_event_raidlobby_b_0024"
 msgstr ""
 
+msgid "event_group_event_raidlobby_c_0001"
+msgstr ""
+
+msgid "event_group_event_raidlobby_c_0002"
+msgstr ""
+
 msgid "mission_desc_event_raidlobby_c_0001"
 msgstr ""
 
@@ -3542,6 +3560,12 @@ msgid "mission_desc_event_raidlobby_c_0023"
 msgstr ""
 
 msgid "mission_desc_event_raidlobby_c_0024"
+msgstr ""
+
+msgid "event_group_event_raidlobby_d_0001"
+msgstr ""
+
+msgid "event_group_event_raidlobby_d_0002"
 msgstr ""
 
 msgid "mission_desc_event_raidlobby_d_0001"

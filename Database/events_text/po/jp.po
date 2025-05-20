@@ -3328,6 +3328,12 @@ msgstr "楽曲を50回クリア"
 msgid "event_banner_event_raid_d_0001"
 msgstr "ミッションで歌晶石合計150個GET!"
 
+msgid "event_group_event_raidlobby_a_0001"
+msgstr "ハヤテ・インメルマン部隊"
+
+msgid "event_group_event_raidlobby_a_0002"
+msgstr "アラド・メルダース部隊"
+
 msgid "mission_desc_event_raidlobby_a_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
 
@@ -3399,6 +3405,12 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 
 msgid "mission_desc_event_raidlobby_a_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "event_group_event_raidlobby_b_0001"
+msgstr "アラド・メルダース部隊"
+
+msgid "event_group_event_raidlobby_b_0002"
+msgstr "マクシミリアン・ジーナス部隊"
 
 msgid "mission_desc_event_raidlobby_b_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
@@ -3472,6 +3484,12 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 msgid "mission_desc_event_raidlobby_b_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
 
+msgid "event_group_event_raidlobby_c_0001"
+msgstr "ミレーヌ・ジーナス部隊"
+
+msgid "event_group_event_raidlobby_c_0002"
+msgstr "ミハエル・ブラン部隊"
+
 msgid "mission_desc_event_raidlobby_c_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
 
@@ -3543,6 +3561,12 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 
 msgid "mission_desc_event_raidlobby_c_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "event_group_event_raidlobby_d_0001"
+msgstr "早乙女アルト部隊"
+
+msgid "event_group_event_raidlobby_d_0002"
+msgstr "ミハエル・ブラン部隊"
 
 msgid "mission_desc_event_raidlobby_d_0001"
 msgstr "【デイリー】ロビーの隊員が【ライブ】で\n楽曲を合計20回クリア"
