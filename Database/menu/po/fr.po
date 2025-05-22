@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-22 10:36+0000\n"
+"PO-Revision-Date: 2025-05-22 12:34+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -912,7 +912,7 @@ msgid "header_desc_home231"
 msgstr ""
 
 msgid "header_desc_home240"
-msgstr ""
+msgstr "Vérifie les classements"
 
 msgid "header_desc_home301"
 msgstr "Sélectionne une pièce déco"
@@ -4528,7 +4528,7 @@ msgstr ""
 
 msgid "raid_assist_attack_skip_01"
 msgstr ""
-"1 skip sans utiliser\n"
+"1 passage sans utiliser\n"
 "de tickets !"
 
 msgid "pop_raid_helprequest_confirmed_title"
@@ -4605,13 +4605,15 @@ msgstr ""
 "Les filtres sont réinitialisés."
 
 msgid "raid_announce_text"
-msgstr ""
+msgstr "Aidé par {0}, la jauge du canon Macross est augmentée de {1}%."
 
 msgid "raid_announce_text02"
 msgstr ""
+"{0} et {2} autres joueurs ont aidés, augmentant la jauge du canon Macross de "
+"{1}%."
 
 msgid "raid_announce_text03"
-msgstr ""
+msgstr "Tu as reçu {2} aides, augmentant la jeuge du canon Macross de {1}%."
 
 msgid "raid_top_gauge_text"
 msgstr ""
@@ -4620,7 +4622,7 @@ msgid "raid_top_gauge_max_text"
 msgstr ""
 
 msgid "raid_act_support_desc_text"
-msgstr "Skip sans utiliser de ticket !"
+msgstr "Passe sans utiliser de ticket !"
 
 msgid "raid_act_fullpower_desc_text"
 msgstr "Attaque à pleine puissance !"
@@ -4689,10 +4691,10 @@ msgid "pop_raid_heal_item_cannon_text005"
 msgstr "La charge du canon Macross est terminée."
 
 msgid "raid_mvp_notes_text"
-msgstr ""
+msgstr "Même classement pour toutes les difficultés."
 
 msgid "raid_mvp_desc_text"
-msgstr ""
+msgstr "※Les dégâts cumulés sont la somme des dégâts fait à l'ennemi"
 
 msgid "raid_mvp_cell_text01"
 msgstr ""
@@ -4701,13 +4703,13 @@ msgid "raid_mvp_cell_text02"
 msgstr ""
 
 msgid "raid_mvp_info_text01"
-msgstr ""
+msgstr "Il n'y a pas de MVP pour cet ennemi."
 
 msgid "raid_mvp_info_text02"
-msgstr ""
+msgstr "Il n'y a pas d'autres participants pour cet ennemi."
 
 msgid "raid_mvp_info_text03"
-msgstr ""
+msgstr "Tu n'a pas attaqué cet ennemi."
 
 msgid "pop_raid_defeated_title"
 msgstr "Ennemi neutralisé"
@@ -4765,6 +4767,11 @@ msgstr ""
 
 msgid "pop_raid_assist_attack_skip_desc_02"
 msgstr ""
+"Les ticket de passage ne peuvent pas être \n"
+"utilisé sur les concert Super Galaxie.\n"
+"\n"
+"Lorsque tu effectue une aide, le concert sera passé \n"
+"même sans utiliser de ticket de passage."
 
 msgid "pop_valyrietuneup_needitemdesc"
 msgstr "Consomme {0} et {1}."
@@ -5288,16 +5295,24 @@ msgstr ""
 "pour la difficulté des chansons réussies avec un score de SS ou plus."
 
 msgid "unit_skip_ticket_count_title"
-msgstr ""
+msgstr "Nombre de ticket disponible par jour"
 
 msgid "unit_skip_ticket_count_text"
 msgstr ""
+"Le nombre de ticket de passage utilisable par jour est limité.\n"
+"\n"
+"Lorsque le compteur atteint 0, tu ne peux plus \n"
+"en utiliser, même si tu en possèdes.\n"
+"\n"
+"Le nombre est réinitialisé à minuit."
 
 msgid "unit_skip_ticket_lack_title"
-msgstr ""
+msgstr "Ticket pour passer les concerts"
 
 msgid "unit_skip_ticket_lack_text"
 msgstr ""
+"Tu n'as pas de ticket de passage \n"
+"pour passer le concert."
 
 msgid "use_ticket_popup_title"
 msgstr "Passer le concert"
@@ -5347,16 +5362,20 @@ msgstr ""
 "Le nombre reçu dépends du nombre de ticket utilisé."
 
 msgid "boost_skip_ticket_title"
-msgstr ""
+msgstr "Ticket pour passer les concerts"
 
 msgid "boost_skip_ticket_text"
 msgstr ""
+"Tu ne peux pas passer le concert \n"
+"si le boost est actif."
 
 msgid "boost_skip_battle_ex_title"
-msgstr ""
+msgstr "Ticket pour passer les concerts"
 
 msgid "boost_skip_battle_ex_text"
 msgstr ""
+"La fonction de passage n'est pas \n"
+"disponible pour les rivaux EX."
 
 msgid "result_skip_caution"
 msgstr "※Le meilleur score et le taux de chant ne sont pas mis à jour."
@@ -6580,10 +6599,12 @@ msgid "event_mission_setting_desc_006"
 msgstr ""
 
 msgid "unit_skip_story_title"
-msgstr ""
+msgstr "Ticket pour passer les concerts"
 
 msgid "unit_skip_story_text"
 msgstr ""
+"Si tu as sélectionner une chansons dans \n"
+"l'espace-temps mémoriel, tu ne peux pas passer."
 
 msgid "popup_diva_change_text"
 msgstr ""
