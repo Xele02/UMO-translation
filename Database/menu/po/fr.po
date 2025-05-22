@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-21 10:46+0000\n"
+"PO-Revision-Date: 2025-05-22 10:36+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4523,6 +4523,8 @@ msgstr ""
 
 msgid "raid_first_attack_free_ap_02"
 msgstr ""
+"Tu peux effectuer une aide sur cet ennemi.\n"
+"Tu peux passer le combat sans utiliser de ticket."
 
 msgid "raid_assist_attack_skip_01"
 msgstr ""
@@ -4618,10 +4620,10 @@ msgid "raid_top_gauge_max_text"
 msgstr ""
 
 msgid "raid_act_support_desc_text"
-msgstr ""
+msgstr "Skip sans utiliser de ticket !"
 
 msgid "raid_act_fullpower_desc_text"
-msgstr ""
+msgstr "Attaque à pleine puissance !"
 
 msgid "raid_damage_result_text"
 msgstr ""
@@ -4630,52 +4632,61 @@ msgid "raid_damage_result_gauge_max_text"
 msgstr ""
 
 msgid "pop_raid_ap_heal_title"
-msgstr ""
+msgstr "Confirmation de récupération d'AP"
 
 msgid "pop_raid_ap_heal_text"
-msgstr ""
+msgstr "Utiliser un objet pour récupérer des AP."
 
 msgid "pop_raid_ap_heal_item01_text01"
-msgstr ""
+msgstr "Orbes sonores {0}x"
 
 msgid "pop_raid_ap_heal_item01_text02"
-msgstr ""
+msgstr "Récupère {0} AP."
 
 msgid "pop_raid_ap_heal_item01_text03"
-msgstr ""
+msgstr "Possédé : {0}"
 
 msgid "pop_raid_ap_heal_item02_text01"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_raid_ap_heal_item02_text02"
-msgstr ""
+msgstr "Récupère {0} AP."
 
 msgid "pop_raid_ap_heal_item02_text03"
-msgstr ""
+msgstr "Possédé : {0}"
 
 msgid "pop_raid_ap_heal_item03_text01"
-msgstr ""
+msgstr "{0}"
 
 msgid "pop_raid_ap_heal_item03_text02"
-msgstr ""
+msgstr "Récupère 1 AP quand utilisé."
 
 msgid "pop_raid_ap_heal_item03_text03"
-msgstr ""
+msgstr "Possédé : {0}"
 
 msgid "pop_raid_heal_item_cannon_text001"
-msgstr ""
+msgstr "Charge de jauge du canon Macross"
 
 msgid "pop_raid_heal_item_cannon_text002"
 msgstr ""
+"Consomme {0} {1} pour charger\n"
+"la jauge du canon Macross\n"
+"de {2}%, jusque 200%.\n"
+"\n"
+"<color=#C6077CFF>{0}　{3}→{4}</color>"
 
 msgid "pop_raid_heal_item_cannon_text003"
 msgstr ""
+"Tu a besoin de {0}\n"
+"pour charger la jauge du canon Macross."
 
 msgid "pop_raid_heal_item_cannon_text004"
 msgstr ""
+"La jauge du canon Macross est\n"
+"au maximum."
 
 msgid "pop_raid_heal_item_cannon_text005"
-msgstr ""
+msgstr "La charge du canon Macross est terminée."
 
 msgid "raid_mvp_notes_text"
 msgstr ""
@@ -4699,16 +4710,20 @@ msgid "raid_mvp_info_text03"
 msgstr ""
 
 msgid "pop_raid_defeated_title"
-msgstr ""
+msgstr "Ennemi neutralisé"
 
 msgid "pop_raid_defeated_text"
 msgstr ""
+"L'ennemi sélectionné à été neutralisé.\n"
+"Met à jour la liste."
 
 msgid "pop_raid_escaped01_title"
-msgstr ""
+msgstr "Echec de neutralisation"
 
 msgid "pop_raid_escaped01_text"
 msgstr ""
+"L'ennemi à fui.\n"
+"Met à jour la liste."
 
 msgid "pop_raid_escaped02_title"
 msgstr ""
@@ -4738,10 +4753,15 @@ msgid "pop_raid_time_warning_text"
 msgstr ""
 
 msgid "pop_raid_assist_attack_skip_title"
-msgstr ""
+msgstr "A propos du support"
 
 msgid "pop_raid_assist_attack_skip_desc_01"
 msgstr ""
+"Tu peux faire des dégats à l'ennemi en\n"
+"fonction du score lorsque tu passe le concert.\n"
+"Tu ne peux le faire qu'une fois par ennemi.\n"
+"\n"
+"<color=#C6077CFF>※Aucun ticket ne sera consommé</color>"
 
 msgid "pop_raid_assist_attack_skip_desc_02"
 msgstr ""
@@ -5213,10 +5233,10 @@ msgid "popup_raid_ap_recovery_success_text"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_max_text"
-msgstr ""
+msgstr "Le nombre d'AP est déjà au maximum."
 
 msgid "popup_raid_ap_recovery_success_bonus_title"
-msgstr ""
+msgstr "Récupération d'AP"
 
 msgid "popup_raid_ap_recovery_success_bonus_text"
 msgstr ""
