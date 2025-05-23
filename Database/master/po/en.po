@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-22 10:36+0000\n"
+"PO-Revision-Date: 2025-05-23 03:39+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -3886,7 +3886,7 @@ msgid "cos_0005"
 msgstr "Kimono Stil"
 
 msgid "cos_0006"
-msgstr "Vor Stoß"
+msgstr "Vor Stoss"
 
 msgid "cos_0007"
 msgstr "Hübsche Qualle"
@@ -3946,7 +3946,7 @@ msgid "cos_0025"
 msgstr "Mondschein"
 
 msgid "cos_0026"
-msgstr "Vor Stoß"
+msgstr "Vor Stoss"
 
 msgid "cos_0027"
 msgstr "Leidenschaft"
@@ -3982,13 +3982,13 @@ msgid "cos_0037"
 msgstr "Kimono Kunoichi"
 
 msgid "cos_0038"
-msgstr ""
+msgstr "Nebel Schokolade"
 
 msgid "cos_0039"
-msgstr ""
+msgstr "Modisch Würde"
 
 msgid "cos_0040"
-msgstr ""
+msgstr "Crossover Illusive"
 
 msgid "cos_0041"
 msgstr "Walküre Uniform"
@@ -3997,19 +3997,19 @@ msgid "cos_0042"
 msgstr "Strahl"
 
 msgid "cos_0043"
-msgstr ""
+msgstr "Blau Blume"
 
 msgid "cos_0044"
-msgstr ""
+msgstr "Schwarze Frühling"
 
 msgid "cos_0045"
-msgstr ""
+msgstr "Blitz Braut"
 
 msgid "cos_0046"
-msgstr ""
+msgstr "Milchstrasse"
 
 msgid "cos_0047"
-msgstr ""
+msgstr "Marigold"
 
 msgid "cos_0048"
 msgstr "Edel Schwan"
@@ -4021,28 +4021,28 @@ msgid "cos_0050"
 msgstr "Leidenschaft"
 
 msgid "cos_0051"
-msgstr ""
+msgstr "Cosmic Margaret"
 
 msgid "cos_0052"
 msgstr "Floral Summer"
 
 msgid "cos_0053"
-msgstr ""
+msgstr "Mandarin Gorgeous"
 
 msgid "cos_0054"
-msgstr ""
+msgstr "Dyna Officer"
 
 msgid "cos_0055"
-msgstr ""
+msgstr "Bursting Bell"
 
 msgid "cos_0056"
-msgstr ""
+msgstr "Crossover Alive"
 
 msgid "cos_0057"
-msgstr "Vor Stoß"
+msgstr "Vor Stoss"
 
 msgid "cos_0058"
-msgstr ""
+msgstr "Bitter Schokolade"
 
 msgid "cos_0059"
 msgstr ""
@@ -4075,7 +4075,7 @@ msgid "cos_0068"
 msgstr ""
 
 msgid "cos_0069"
-msgstr "Vor Stoß"
+msgstr "Vor Stoss"
 
 msgid "cos_0070"
 msgstr "Leidenschaft"
@@ -4084,7 +4084,7 @@ msgid "cos_0071"
 msgstr ""
 
 msgid "cos_0072"
-msgstr ""
+msgstr "Blau Blume"
 
 msgid "cos_0073"
 msgstr "Floral Summer"
@@ -4129,7 +4129,7 @@ msgid "cos_0086"
 msgstr "Resonanz"
 
 msgid "cos_0087"
-msgstr "Vor Stoß"
+msgstr "Vor Stoss"
 
 msgid "cos_0088"
 msgstr ""
@@ -4138,7 +4138,7 @@ msgid "cos_0089"
 msgstr ""
 
 msgid "cos_0090"
-msgstr ""
+msgstr "Blau Blume"
 
 msgid "cos_0091"
 msgstr "Leidenschaft"
@@ -4570,7 +4570,7 @@ msgid "cos_0245"
 msgstr ""
 
 msgid "cos_0246"
-msgstr ""
+msgstr "Blau Blume"
 
 msgid "cos_0247"
 msgstr ""
@@ -5020,16 +5020,16 @@ msgid "cos_0043_01"
 msgstr ""
 
 msgid "cos_0044_01"
-msgstr ""
+msgstr "Schwarze Frühling"
 
 msgid "cos_0045_01"
-msgstr ""
+msgstr "Blitz Braut"
 
 msgid "cos_0046_01"
-msgstr ""
+msgstr "Milchstrasse"
 
 msgid "cos_0047_01"
-msgstr ""
+msgstr "Marigold"
 
 msgid "cos_0048_01"
 msgstr "Edel Schwan"
