@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-23 03:39+0000\n"
+"PO-Revision-Date: 2025-05-23 12:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4045,10 +4045,10 @@ msgid "cos_0058"
 msgstr "Bitter Schokolade"
 
 msgid "cos_0059"
-msgstr ""
+msgstr "Slove Pirates"
 
 msgid "cos_0060"
-msgstr ""
+msgstr "Sternen Leben"
 
 msgid "cos_0061"
 msgstr "Walküre Uniform"
@@ -4057,13 +4057,13 @@ msgid "cos_0062"
 msgstr "Strahl"
 
 msgid "cos_0063"
-msgstr ""
+msgstr "Pastel Summer"
 
 msgid "cos_0064"
-msgstr ""
+msgstr "Sweet Bell"
 
 msgid "cos_0065"
-msgstr ""
+msgstr "Schwarze Katze"
 
 msgid "cos_0066"
 msgstr "Resonanz"
@@ -5077,13 +5077,13 @@ msgid "cos_0062_01"
 msgstr ""
 
 msgid "cos_0063_01"
-msgstr ""
+msgstr "Pastel Summer"
 
 msgid "cos_0064_01"
 msgstr ""
 
 msgid "cos_0065_01"
-msgstr ""
+msgstr "Schwarze Katze"
 
 msgid "cos_0066_01"
 msgstr "Resonanz"
