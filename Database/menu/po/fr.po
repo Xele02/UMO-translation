@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-23 03:39+0000\n"
+"PO-Revision-Date: 2025-05-24 08:48+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4578,21 +4578,28 @@ msgstr ""
 
 msgid "pop_raid_cannon_plate_title"
 msgstr ""
+"Vérif. plaques chargées　<size=22>※1 jauge du canon Macross sera "
+"utilisé</size>"
 
 msgid "pop_raid_cannon_plate_bonus_format"
-msgstr ""
+msgstr "{0} bonus : <color=#C8087E>{1}%</color>"
 
 msgid "pop_raid_cannon_plate_text01"
-msgstr ""
+msgstr "Puissance canon : {0}"
 
 msgid "pop_raid_cannon_plate_text02"
 msgstr ""
+"Charger les【<color=#C8087E>{0}</color>】 plaques et tirer le canon.\n"
+"※Une plaque ne peut être utilisée qu'une fois par ennemi."
 
 msgid "pop_raid_cannon_plate_text03"
 msgstr ""
+"Toutes les plaques ont été utilisées. Tirer au canon sans charger de plaques."
+"\n"
+"※Une plaque ne peut être utilisée qu'une fois par ennemi."
 
 msgid "pop_raid_cannon_plate_text04"
-msgstr ""
+msgstr "Aucune plaques disponibles."
 
 msgid "pop_raid_init_sort_text"
 msgstr ""
@@ -4628,7 +4635,7 @@ msgid "raid_act_fullpower_desc_text"
 msgstr "Attaque à pleine puissance !"
 
 msgid "raid_damage_result_text"
-msgstr ""
+msgstr "Dégâts"
 
 msgid "raid_damage_result_gauge_max_text"
 msgstr ""
@@ -5014,19 +5021,26 @@ msgid "pop_fan_unregister_failure_desc"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_title"
-msgstr ""
+msgstr "Récupération d'AP"
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg"
-msgstr ""
+msgstr "Utiliser {0} Orbes sonores pour restaurer {1} AP ?"
 
 msgid "popup_raid_ap_recovery_use_stone_check_msg02"
-msgstr ""
+msgstr "Utiliser {0} Orbes sonores pour restaurer {1} AP ?"
 
 msgid "popup_raid_ap_recovery_use_item_check_msg"
 msgstr ""
+"Utiliser {0} {1} \n"
+"pour restaurer {2} AP.\n"
+"\n"
+"<color=#C8087E>{0}  {3}→{4}</color>"
 
 msgid "popup_raid_ap_recovery_failed_msg"
 msgstr ""
+"Récupération impossibe, les AP sont déjà au maximum.\n"
+"\n"
+"※Aucune orbes ou objets n'ont été consommés."
 
 msgid "popup_raid_formation_bonus_costume"
 msgstr "Bonus de costume"
@@ -5234,10 +5248,10 @@ msgid "pop_raid_result_error_text"
 msgstr ""
 
 msgid "popup_raid_ap_recovery_success_title"
-msgstr ""
+msgstr "Récupération d'AP"
 
 msgid "popup_raid_ap_recovery_success_text"
-msgstr ""
+msgstr "{0} AP récupérés."
 
 msgid "popup_raid_ap_recovery_max_text"
 msgstr "Le nombre d'AP est déjà au maximum."
@@ -5247,6 +5261,8 @@ msgstr "Récupération d'AP"
 
 msgid "popup_raid_ap_recovery_success_bonus_text"
 msgstr ""
+"Les AP ont été restaurés et récupération \n"
+"bonus de {0} {1}."
 
 msgid "popup_deco_save_confirm_title"
 msgstr "Confirmation de sauvegarde"
@@ -5381,7 +5397,7 @@ msgid "result_skip_caution"
 msgstr "※Le meilleur score et le taux de chant ne sont pas mis à jour."
 
 msgid "result_assist_caution"
-msgstr ""
+msgstr "※Le highscore et taux de chant ne sera pas mis à jour."
 
 msgid "popup_mission_stepup_desc"
 msgstr ""
