@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-23 12:46+0000\n"
+"PO-Revision-Date: 2025-05-24 08:48+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4069,10 +4069,10 @@ msgid "cos_0066"
 msgstr "Resonanz"
 
 msgid "cos_0067"
-msgstr ""
+msgstr "Bioré Gorgeous"
 
 msgid "cos_0068"
-msgstr ""
+msgstr "Sweet Lilith"
 
 msgid "cos_0069"
 msgstr "Vor Stoss"
@@ -4081,7 +4081,7 @@ msgid "cos_0070"
 msgstr "Leidenschaft"
 
 msgid "cos_0071"
-msgstr ""
+msgstr "Sternen Wasser"
 
 msgid "cos_0072"
 msgstr "Blau Blume"
@@ -4090,22 +4090,22 @@ msgid "cos_0073"
 msgstr "Floral Summer"
 
 msgid "cos_0074"
-msgstr ""
+msgstr "Crossover Suite"
 
 msgid "cos_0075"
-msgstr ""
+msgstr "Kimono Rabbit"
 
 msgid "cos_0076"
-msgstr ""
+msgstr "Milch Schokolade"
 
 msgid "cos_0077"
 msgstr "Edel Schwan"
 
 msgid "cos_0078"
-msgstr ""
+msgstr "Crossover Embrace"
 
 msgid "cos_0079"
-msgstr ""
+msgstr "Sugar Alice"
 
 msgid "cos_0080"
 msgstr ""
@@ -5089,10 +5089,10 @@ msgid "cos_0066_01"
 msgstr "Resonanz"
 
 msgid "cos_0067_01"
-msgstr ""
+msgstr "Bioré Gorgeous"
 
 msgid "cos_0068_01"
-msgstr ""
+msgstr "Sweet Lilith"
 
 msgid "cos_0069_01"
 msgstr ""
