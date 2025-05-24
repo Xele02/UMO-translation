@@ -4,6 +4,9 @@ msgstr ""
 msgid "StringLiteral_367"
 msgstr " "
 
+msgid "StringLiteral_381"
+msgstr "  "
+
 msgid "StringLiteral_1374"
 msgstr "年"
 
@@ -1515,6 +1518,12 @@ msgstr "シンプルモデルで設定できるモーション数を超えてお
 
 msgid "StringLiteral_20470"
 msgstr "シンプルモデルで設定できるループモーション数を超えております。[ "
+
+msgid "StringLiteral_20803"
+msgstr "+{0}％"
+
+msgid "StringLiteral_20810"
+msgstr "+<color=#C6077CFF>{0}</color>％"
 
 msgid "StringLiteral_20864"
 msgstr "自動編成"
