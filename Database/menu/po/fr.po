@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-24 08:48+0000\n"
+"PO-Revision-Date: 2025-05-24 09:10+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4577,9 +4577,7 @@ msgid "pop_raid_boss_sort_title"
 msgstr ""
 
 msgid "pop_raid_cannon_plate_title"
-msgstr ""
-"Vérif. plaques chargées　<size=22>※1 jauge du canon Macross sera "
-"utilisé</size>"
+msgstr "Vérif. plaques chargées <size=18>※1 jauge du canon utilisé</size>"
 
 msgid "pop_raid_cannon_plate_bonus_format"
 msgstr "{0} bonus : <color=#C8087E>{1}%</color>"
@@ -4840,49 +4838,49 @@ msgid "deco_name_figure"
 msgstr "Fig. de Valkyrie"
 
 msgid "missionevent_bonus_popup_title"
-msgstr ""
+msgstr "Bonus de chanson"
 
 msgid "missionevent_bonus_popup_desc"
-msgstr ""
+msgstr "En plus des chansons de l'événement, ces chansons ont aussi un bonus !"
 
 msgid "missionevent_bonus_date_format"
-msgstr ""
+msgstr "yyyy/M/d H:mm"
 
 msgid "missionevent_bonus_limit_format"
-msgstr ""
+msgstr "{0}　～　{1}"
 
 msgid "missionevent_bonus_target_format"
-msgstr ""
+msgstr "{0} chansons"
 
 msgid "missionevent_bonus_music_attribute001"
-msgstr ""
+msgstr "Attr. Étoile"
 
 msgid "missionevent_bonus_music_attribute002"
-msgstr ""
+msgstr "Attr. Amour"
 
 msgid "missionevent_bonus_music_attribute003"
-msgstr ""
+msgstr "Attr. Vie"
 
 msgid "missionevent_bonus_music_attribute004"
-msgstr ""
+msgstr "Tous les attr."
 
 msgid "missionevent_bonus_series_attribute001"
-msgstr ""
+msgstr "Série Macross Δ"
 
 msgid "missionevent_bonus_series_attribute002"
-msgstr ""
+msgstr "Série Macross F"
 
 msgid "missionevent_bonus_series_attribute003"
-msgstr ""
+msgstr "Série Macross 7"
 
 msgid "missionevent_bonus_series_attribute004"
-msgstr ""
+msgstr "Série Macross"
 
 msgid "missionevent_bonus_series_attribute005"
-msgstr ""
+msgstr "Série Macross Plus"
 
 msgid "missionevent_bonus_all"
-msgstr ""
+msgstr "Tous"
 
 msgid "lobby_corps_belongs_conf_text"
 msgstr ""
@@ -5496,7 +5494,7 @@ msgid "popup_episodebonus_max"
 msgstr "Max {0}％"
 
 msgid "unorganized"
-msgstr "Non utilisé"
+msgstr "<size=16>Non utilisé</size>"
 
 msgid "skill_attr_regulation"
 msgstr ""
