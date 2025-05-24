@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-24 09:10+0000\n"
+"PO-Revision-Date: 2025-05-24 13:48+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4532,16 +4532,26 @@ msgstr ""
 "de tickets !"
 
 msgid "pop_raid_helprequest_confirmed_title"
-msgstr ""
+msgstr "Confirmation d'aide"
 
 msgid "pop_raid_helprequest_confirmed_text"
 msgstr ""
+"Tu n'as pas encore attaqué. Si tu ne \n"
+"participes pas, tu ne recevras pas de récompense."
 
 msgid "pop_raid_helprequest_failed_text01"
 msgstr ""
+"Impossible d'appeler à l'aide, il n'y a \n"
+"personne dans le lobby actuellement.\n"
+"\n"
+"<color=#C6077CFF>※Aucune requête d'aide envoyée.</color>"
 
 msgid "pop_raid_helprequest_failed_text02"
 msgstr ""
+"Impossible d'appeler à l'aide, il n'y a \n"
+"personne actif actuellement.\n"
+"\n"
+"<color=#C6077CFF>※Le nombre de demande n'a pas diminuée.</color>"
 
 msgid "pop_raid_bosspop_title"
 msgstr "Recherche d'ennemis"
@@ -4562,16 +4572,16 @@ msgstr ""
 "<color=#C6077CFF>{0}　{1}</color>"
 
 msgid "pop_raid_helprequest_title"
-msgstr ""
+msgstr "Confirmation d'aide"
 
 msgid "pop_raid_helprequest_loby"
-msgstr ""
+msgstr "Envoyer au lobby"
 
 msgid "pop_raid_helprequest_friend"
-msgstr ""
+msgstr "Amis en priorité"
 
 msgid "pop_raid_helprequest_all"
-msgstr ""
+msgstr "Envoyer à tout le monde"
 
 msgid "pop_raid_boss_sort_title"
 msgstr ""
@@ -4934,6 +4944,8 @@ msgstr ""
 
 msgid "result_drop_foldradar_text"
 msgstr ""
+"{0} trouvé !\n"
+"{0} peux être utilisé dans les concerts Super Galaxie."
 
 msgid "pop_lobby_group_capacityover_desc"
 msgstr ""
@@ -5001,10 +5013,10 @@ msgid "popup_event_reward_raid_info_lotcount"
 msgstr "Le nombre varie entre le niveau de l'ennemi et du niveau de chant."
 
 msgid "pop_raid_helprequest_completion_title"
-msgstr ""
+msgstr "Confirmation d'aide"
 
 msgid "pop_raid_helprequest_completion_text"
-msgstr ""
+msgstr "Une demande à été envoyé."
 
 msgid "pop_fan_register_failure_title"
 msgstr ""
@@ -5114,10 +5126,10 @@ msgid "deco_visit_no_fun"
 msgstr "Aucun fan enregistré."
 
 msgid "chat_post_conf_popup_text"
-msgstr ""
+msgstr "Envoi manuel d'information de combat dans le chat."
 
 msgid "chat_post_conf_popup_title"
-msgstr ""
+msgstr "Confirmation d'envoi"
 
 msgid "raid_event_end_text"
 msgstr ""
