@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 09:18+0000\n"
-"PO-Revision-Date: 2025-05-23 12:46+0000\n"
+"PO-Revision-Date: 2025-05-24 08:49+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/fr/>\n"
@@ -2172,3 +2172,9 @@ msgstr "{0}～{1}"
 
 msgid "StringLiteral_19851"
 msgstr "{0} Atq."
+
+msgid "StringLiteral_20803"
+msgstr "+{0}%"
+
+msgid "StringLiteral_20810"
+msgstr "+<color=#C6077CFF>{0}</color>%"
