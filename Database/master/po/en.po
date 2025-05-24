@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-05-24 08:48+0000\n"
+"PO-Revision-Date: 2025-05-24 09:10+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4108,7 +4108,7 @@ msgid "cos_0079"
 msgstr "Sugar Alice"
 
 msgid "cos_0080"
-msgstr ""
+msgstr "Kaninchen Mythos"
 
 msgid "cos_0081"
 msgstr "Walküre Uniform"
@@ -4117,13 +4117,13 @@ msgid "cos_0082"
 msgstr "Strahl"
 
 msgid "cos_0083"
-msgstr ""
+msgstr "Silent Jasper"
 
 msgid "cos_0084"
 msgstr "Edel Schwan"
 
 msgid "cos_0085"
-msgstr ""
+msgstr "Little Ghost"
 
 msgid "cos_0086"
 msgstr "Resonanz"
@@ -4132,10 +4132,10 @@ msgid "cos_0087"
 msgstr "Vor Stoss"
 
 msgid "cos_0088"
-msgstr ""
+msgstr "Gerbera Braut"
 
 msgid "cos_0089"
-msgstr ""
+msgstr "Meer Zitrone"
 
 msgid "cos_0090"
 msgstr "Blau Blume"
@@ -4144,7 +4144,7 @@ msgid "cos_0091"
 msgstr "Leidenschaft"
 
 msgid "cos_0092"
-msgstr ""
+msgstr "Sternen Nacht"
 
 msgid "cos_0093"
 msgstr "Floral Summer"
@@ -5137,13 +5137,13 @@ msgid "cos_0082_01"
 msgstr ""
 
 msgid "cos_0083_01"
-msgstr ""
+msgstr "Silent Jasper"
 
 msgid "cos_0084_01"
 msgstr "Edel Schwan"
 
 msgid "cos_0085_01"
-msgstr ""
+msgstr "Little Ghost"
 
 msgid "cos_0086_01"
 msgstr "Resonanz"
