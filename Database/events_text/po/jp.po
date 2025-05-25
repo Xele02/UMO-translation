@@ -2566,6 +2566,12 @@ msgstr "楽曲を50回クリア"
 msgid "event_banner_event_raid_a_0001"
 msgstr "ミッションで歌晶石合計150個GET!"
 
+msgid "event_bossname_event_raid_a_0010"
+msgstr "鳥の人"
+
+msgid "event_bossname_event_raid_a_0013"
+msgstr "鳥の人"
+
 msgid "mission_desc_event_raid_b_10001"
 msgstr "超歌姫モードに入ってクリア"
 
@@ -2824,6 +2830,12 @@ msgstr "【デイリー】暴走エネミーを2体無力化し、\n報酬を受
 msgid "event_banner_event_raid_b_0001"
 msgstr "ミッションで歌晶石合計150個GET!"
 
+msgid "event_bossname_event_raid_b_0007"
+msgstr "シグル＝バレンス（戦艦形態）"
+
+msgid "event_bossname_event_raid_b_0013"
+msgstr "鳥の人"
+
 msgid "mission_desc_event_raid_c_10001"
 msgstr "超歌姫モードに入ってクリア"
 
@@ -3069,6 +3081,12 @@ msgstr "楽曲を50回クリア"
 
 msgid "event_banner_event_raid_c_0001"
 msgstr "ミッションで歌晶石合計150個GET!"
+
+msgid "event_bossname_event_raid_c_0006"
+msgstr "バルゴ"
+
+msgid "event_bossname_event_raid_c_0015"
+msgstr "鳥の人"
 
 msgid "mission_desc_event_raid_d_10001"
 msgstr "超歌姫モードに入ってクリア"
@@ -3328,6 +3346,12 @@ msgstr "楽曲を50回クリア"
 msgid "event_banner_event_raid_d_0001"
 msgstr "ミッションで歌晶石合計150個GET!"
 
+msgid "event_bossname_event_raid_d_0001"
+msgstr "ビショップ級バジュラ"
+
+msgid "event_bossname_event_raid_d_0014"
+msgstr "鳥の人"
+
 msgid "event_group_event_raidlobby_a_0001"
 msgstr "ハヤテ・インメルマン部隊"
 
@@ -3495,6 +3519,18 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 
 msgid "mission_desc_event_raidlobby_a_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_01"
+msgstr "{0}に{1}IMPACT！！\n無力化に成功しました！"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_02"
+msgstr "マクロスキャノンを発射！\n{0}IMPACT！！"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_03"
+msgstr "{0}の\n{1}でフルコンボを達成しました！"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_04"
+msgstr "無力化に成功しました！"
 
 msgid "event_group_event_raidlobby_b_0001"
 msgstr "アラド・メルダース部隊"
@@ -3664,6 +3700,18 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 msgid "mission_desc_event_raidlobby_b_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
 
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_01"
+msgstr "{0}に{1}IMPACT！！\n無力化に成功しました！"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_02"
+msgstr "マクロスキャノンを発射！\n{0}IMPACT！！"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_03"
+msgstr "{0}の\n{1}でフルコンボを達成しました！"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_04"
+msgstr "無力化に成功しました！"
+
 msgid "event_group_event_raidlobby_c_0001"
 msgstr "ミレーヌ・ジーナス部隊"
 
@@ -3832,6 +3880,18 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 msgid "mission_desc_event_raidlobby_c_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
 
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_01"
+msgstr "{0}に{1}IMPACT！！\n無力化に成功しました！"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_02"
+msgstr "マクロスキャノンを発射！\n{0}IMPACT！！"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_03"
+msgstr "{0}の\n{1}でフルコンボを達成しました！"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_04"
+msgstr "無力化に成功しました！"
+
 msgid "event_group_event_raidlobby_d_0001"
 msgstr "早乙女アルト部隊"
 
@@ -3999,4 +4059,16 @@ msgstr "【デイリー】ロビーの隊員が【ライブ】で\nフルコン�
 
 msgid "mission_desc_event_raidlobby_d_0024"
 msgstr "【デイリー】ロビーの隊員が\nバルキリーオペレーションを合計30回クリア"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_01"
+msgstr "{0}に{1}IMPACT！！\n無力化に成功しました！"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_02"
+msgstr "マクロスキャノンを発射！\n{0}IMPACT！！"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_03"
+msgstr "{0}の\n{1}でフルコンボを達成しました！"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_04"
+msgstr "無力化に成功しました！"
 
