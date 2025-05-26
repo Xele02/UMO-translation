@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-05-21 10:46+0000\n"
+"PO-Revision-Date: 2025-05-26 08:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_scene/zh_Hans/>\n"
@@ -2703,49 +2703,49 @@ msgid "sn_1001"
 msgstr "下不为例！！"
 
 msgid "sn_1002"
-msgstr "心照不宣的情谊 ―基斯―"
+msgstr "尽在不言中 ―基斯―"
 
 msgid "sn_1003"
-msgstr "心照不宣的情谊 ―罗伊德―"
+msgstr "尽在不言中 ―罗伊德―"
 
 msgid "sn_1004"
-msgstr ""
+msgstr "兄弟情深"
 
 msgid "sn_1005"
-msgstr ""
+msgstr "保护好Walküre"
 
 msgid "sn_1006"
-msgstr ""
+msgstr "本应憎恨的歌声"
 
 msgid "sn_1007"
-msgstr ""
+msgstr "挚友"
 
 msgid "sn_1008"
-msgstr ""
+msgstr "洁白的不详之翼"
 
 msgid "sn_1009"
-msgstr ""
+msgstr "BURNING SEVEN！"
 
 msgid "sn_1011"
-msgstr ""
+msgstr "迎来晨曦的城市"
 
 msgid "sn_1012"
-msgstr ""
+msgstr "荒野独行 巴萨拉"
 
 msgid "sn_1013"
-msgstr ""
+msgstr "无需言语的默契"
 
 msgid "sn_1014"
-msgstr ""
+msgstr "所谓名曲…"
 
 msgid "sn_1015"
-msgstr ""
+msgstr "冷静点巴萨拉"
 
 msgid "sn_1016"
-msgstr ""
+msgstr "下次的我会更加耀眼"
 
 msgid "sn_1017"
-msgstr ""
+msgstr "复活的巴萨拉"
 
 msgid "sn_1018"
 msgstr ""
