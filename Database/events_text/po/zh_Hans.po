@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-05-26 08:46+0000\n"
+"PO-Revision-Date: 2025-05-28 11:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -16,30 +16,48 @@ msgstr ""
 
 msgid "mission_desc_event_battle_a_0001"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0002"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0003"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0004"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0005"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0006"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0007"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0008"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0009"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_a_0010"
 msgstr ""
@@ -48,16 +66,20 @@ msgid "mission_desc_event_battle_a_0011"
 msgstr ""
 
 msgid "mission_desc_event_battle_a_0012"
-msgstr ""
+msgstr "击败S级对手3次"
 
 msgid "mission_desc_event_battle_a_0013"
-msgstr ""
+msgstr "击败S级对手10次"
 
 msgid "mission_desc_event_battle_a_0014"
 msgstr ""
+"游玩活动歌曲《Absolute 5》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_a_0015"
 msgstr ""
+"游玩活动歌曲《HOLY LONELY LIGHT [Duet Version]》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_a_0016"
 msgstr ""
@@ -108,91 +130,111 @@ msgid "mission_desc_event_battle_a_0031"
 msgstr ""
 
 msgid "mission_desc_event_battle_a_0032"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0033"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0034"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0035"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0036"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0037"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0038"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0039"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0040"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_a_0041"
 msgstr ""
+"完成20个“超时空Final Live ～Act.3～”\n"
+"活动任务"
 
 msgid "event_banner_event_battle_a"
 msgstr ""
 
 msgid "mission_desc_event_battle_b_0001"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0002"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0003"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0004"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0005"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0006"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0007"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0008"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0009"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_b_0010"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0011"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0012"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0013"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0014"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0015"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0016"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0017"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0018"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0019"
 msgstr ""
@@ -201,10 +243,10 @@ msgid "mission_desc_event_battle_b_0020"
 msgstr ""
 
 msgid "mission_desc_event_battle_b_0021"
-msgstr ""
+msgstr "击败S级对手3次"
 
 msgid "mission_desc_event_battle_b_0022"
-msgstr ""
+msgstr "击败S级对手10次"
 
 msgid "mission_desc_event_battle_b_0023"
 msgstr ""
@@ -262,54 +304,80 @@ msgstr ""
 
 msgid "mission_desc_event_battle_b_0041"
 msgstr ""
+"完成20个“无法相见的Valentine”\n"
+"活动任务"
 
 msgid "event_banner_event_battle_b"
 msgstr ""
 
 msgid "mission_desc_event_battle_c_0001"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0002"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0003"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0004"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0005"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0006"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0007"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0008"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0009"
 msgstr ""
+"【每日】进行对战\n"
+"并完成演出"
 
 msgid "mission_desc_event_battle_c_0010"
 msgstr ""
+"游玩活动歌曲《NEVER SAY DIE》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_c_0011"
 msgstr ""
+"游玩活动歌曲《NEVER SAY DIE》\n"
+"并完成演出10次"
 
 msgid "mission_desc_event_battle_c_0012"
-msgstr ""
+msgstr "击败S级对手3次"
 
 msgid "mission_desc_event_battle_c_0013"
-msgstr ""
+msgstr "击败S级对手10次"
 
 msgid "mission_desc_event_battle_c_0014"
 msgstr ""
 
 msgid "mission_desc_event_battle_c_0015"
 msgstr ""
+"游玩活动歌曲《…Dakedo Baby!!》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_c_0016"
 msgstr ""
@@ -360,34 +428,36 @@ msgid "mission_desc_event_battle_c_0031"
 msgstr ""
 
 msgid "mission_desc_event_battle_c_0032"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0033"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0034"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0035"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0036"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0037"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0038"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0039"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0040"
-msgstr ""
+msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_c_0041"
 msgstr ""
+"完成20个“吹过的风 ～NEVER SAY DIE～”\n"
+"活动任务"
 
 msgid "event_banner_event_battle_c"
 msgstr ""
@@ -397,67 +467,67 @@ msgstr "完成30项任务"
 
 msgid "mission_desc_event_april_fool_a_0004"
 msgstr ""
-"以SS评价\n"
-"完成VERY HARD难度演出10次"
+"在VERY HARD难度演出中\n"
+"达成SS评价10次"
 
 msgid "mission_desc_event_april_fool_a_0005"
 msgstr ""
-"以SS评价\n"
-"完成VERY HARD难度演出20次"
+"在VERY HARD难度演出中\n"
+"达成SS评价20次"
 
 msgid "mission_desc_event_april_fool_a_0006"
 msgstr ""
-"以SS评价\n"
-"完成VERY HARD难度演出50次"
+"在VERY HARD难度演出中\n"
+"达成SS评价50次"
 
 msgid "mission_desc_event_april_fool_a_0008"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出30次"
+"在EXTREME难度演出中\n"
+"达成SS评价30次"
 
 msgid "mission_desc_event_april_fool_a_0009"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出50次"
+"在EXTREME难度演出中\n"
+"达成SS评价50次"
 
 msgid "mission_desc_event_april_fool_a_0010"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出100次"
+"在EXTREME难度演出中\n"
+"达成SS评价100次"
 
 msgid "mission_desc_event_april_fool_a_0011"
 msgstr ""
-"以FULL COMBO\n"
-"完成任意歌曲的HARD以上难度10次"
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 10次"
 
 msgid "mission_desc_event_april_fool_a_0013"
 msgstr ""
-"以FULL COMBO\n"
-"完成任意歌曲的HARD以上难度30次"
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 30次"
 
 msgid "mission_desc_event_april_fool_a_0015"
 msgstr ""
-"以FULL COMBO\n"
-"完成任意歌曲的VERY HARD以上难度20次"
+"在任意歌曲的VERY HARD以上难度中\n"
+"达成FULL COMBO 20次"
 
 msgid "mission_desc_event_april_fool_a_0017"
 msgstr ""
-"以FULL COMBO完成EXTREME难度\n"
-"《Glow in the dark》5次"
+"在Walküre的《Glow in the dark》的\n"
+"EXTREME难度中达成FULL COMBO 5次"
 
 msgid "mission_desc_event_april_fool_a_0018"
-msgstr "以300万以上分数完成演出1次"
+msgstr "取得300万以上分数1次"
 
 msgid "mission_desc_event_april_fool_a_0019"
-msgstr "以400万以上分数完成演出1次"
+msgstr "取得400万以上分数1次"
 
 msgid "mission_desc_event_april_fool_a_0020"
-msgstr "以500万以上分数完成演出1次"
+msgstr "取得500万以上分数1次"
 
 msgid "mission_desc_event_april_fool_a_0016"
 msgstr ""
-"以SS评价完成EXTREME难度\n"
-"《Glow in the dark》10次"
+"在《Glow in the dark》的\n"
+"EXTREME难度中达成SS评价10次"
 
 msgid "mission_desc_event_april_fool_a_0001"
 msgstr "完成20项任务"
@@ -467,15 +537,2760 @@ msgstr "完成45项任务"
 
 msgid "mission_desc_event_april_fool_a_0007"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出20次"
+"在EXTREME难度演出中\n"
+"达成SS评价20次"
 
 msgid "mission_desc_event_april_fool_a_0014"
 msgstr ""
-"以FULL COMBO\n"
-"完成任意歌曲的VERY HARD以上难度10次"
+"在任意歌曲的VERY HARD以上难度中\n"
+"达成FULL COMBO 10次"
 
 msgid "mission_desc_event_april_fool_a_0012"
 msgstr ""
-"以FULL COMBO\n"
-"完成任意歌曲的HARD以上难度20次"
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 20次"
+
+msgid "mission_desc_event_april_fool_a_0040"
+msgstr ""
+"在任意歌曲的EXTREME以上难度中\n"
+"达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_a_0041"
+msgstr ""
+"在任意歌曲的EXTREME以上难度中\n"
+"达成FULL COMBO 20次"
+
+msgid "mission_desc_event_april_fool_a_0048"
+msgstr "取得1000万以上分数1次"
+
+msgid "mission_desc_event_april_fool_b_0006"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲5次"
+
+msgid "mission_desc2_event_godiva_a_0029"
+msgstr ""
+"在《银月亮 红月亮》中\n"
+"取得100万以上分数"
+
+msgid "mission_desc2_event_godiva_a_0031"
+msgstr ""
+"在《银月亮 红月亮》的\n"
+"EASY以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_c_0041"
+msgstr "任意歌姬歌魂感召力提升10"
+
+msgid "mission_desc2_event_godiva_c_0041"
+msgstr "任意歌姬歌魂感召力提升10"
+
+msgid "mission_desc_event_godiva_c_0043"
+msgstr "任意歌姬歌魅感召力提升10"
+
+msgid "mission_desc2_event_godiva_c_0043"
+msgstr "任意歌姬歌魅感召力提升10"
+
+msgid "mission_desc2_event_godiva_c_0040"
+msgstr "任意歌姬歌魅感召力提升5"
+
+msgid "mission_desc_event_godiva_c_0042"
+msgstr "任意歌姬歌声感召力提升10"
+
+msgid "mission_desc_event_raidlobby_a_0001"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出20次"
+
+msgid "mission_desc_event_raidlobby_a_0004"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "event_group_event_raidlobby_a_0002"
+msgstr "阿拉德·梅塔斯战队"
+
+msgid "mission_desc_event_raidlobby_a_0003"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动10次"
+
+msgid "mission_desc_event_raidlobby_a_0002"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 10次"
+
+msgid "mission_desc_event_raidlobby_a_0005"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_a_0010"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_a_0013"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_a_0008"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_a_0011"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_a_0014"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_a_0007"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_a_0006"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_a_0009"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_a_0012"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_a_0015"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_a_0018"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_a_0016"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_a_0019"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_a_0017"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_a_0020"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0015"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_b_0016"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0017"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0019"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0022"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0020"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0018"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_b_0021"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0012"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0013"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞7》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_c_0014"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_c_0024"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0023"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "event_group_event_raidlobby_d_0001"
+msgstr "早乙女阿尔特战队"
+
+msgid "mission_desc_event_raidlobby_d_0002"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 10次"
+
+msgid "mission_desc_event_raid_a_0001"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_a_0004"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_a_0007"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_a_0010"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_a_0003"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_a_0006"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_a_0009"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_a_0012"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_a_0002"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_a_0005"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_c_0004"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_c_0007"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_c_0006"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_c_0005"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raidlobby_d_0012"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_d_0010"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞F》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0013"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞F》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0008"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_d_0011"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_d_0014"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_d_0007"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0009"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_b_0012"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "event_guide_event_raidlobby_c_0023"
+msgstr "精彩绝伦的表演！"
+
+msgid "mission_desc_event_raidlobby_c_0002"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 10次"
+
+msgid "mission_desc_event_raidlobby_c_0001"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出20次"
+
+msgid "event_guide_event_raidlobby_d_0028"
+msgstr ""
+"谢谢！\n"
+"全靠大家捧场啦！"
+
+msgid "event_guide_event_raidlobby_d_0029"
+msgstr "感谢帮忙！"
+
+msgid "mission_desc_event_raidlobby_d_0003"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动10次"
+
+msgid "mission_desc_event_raidlobby_d_0006"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_d_0015"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_d_0018"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_d_0016"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞F》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0005"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_d_0017"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_d_0021"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_d_0024"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_d_0022"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞F》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0020"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_d_0023"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "event_guide_event_raidlobby_a_0009"
+msgstr "你也来一起唱歌吧！"
+
+msgid "event_bossname_event_raid_d_0014"
+msgstr "鸟人"
+
+msgid "event_guide_event_raidlobby_a_0015"
+msgstr "我会加油的！"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_01"
+msgstr ""
+"对{0}造成{1}伤害！！\n"
+"已成功击败敌人！"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_03"
+msgstr ""
+"已达成{0}\n"
+"{1}难度的FULL COMBO！"
+
+msgid "mission_desc_event_raidlobby_d_0019"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞F》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0001"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出20次"
+
+msgid "event_guide_event_raidlobby_d_0015"
+msgstr "我会加油的！"
+
+msgid "event_guide_event_raidlobby_d_0023"
+msgstr "精彩绝伦的表演！"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_01"
+msgstr ""
+"对{0}造成{1}伤害！！\n"
+"已成功击败敌人！"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_01"
+msgstr ""
+"对{0}造成{1}伤害！！\n"
+"已成功击败敌人！"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_01"
+msgstr ""
+"对{0}造成{1}伤害！！\n"
+"已成功击败敌人！"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_03"
+msgstr ""
+"已达成{0}\n"
+"{1}难度的FULL COMBO！"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_03"
+msgstr ""
+"已达成{0}\n"
+"{1}难度的FULL COMBO！"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_03"
+msgstr ""
+"已达成{0}\n"
+"{1}难度的FULL COMBO！"
+
+msgid "mission_desc2_event_april_fool_g_0020"
+msgstr ""
+"在《DYNAMITE EXPLOSION》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0018"
+msgstr ""
+"在《DYNAMITE EXPLOSION》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0017"
+msgstr ""
+"在《DYNAMITE EXPLOSION》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0019"
+msgstr ""
+"在《DYNAMITE EXPLOSION》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_c_0033"
+msgstr ""
+"在《FLASH IN THE DARK》的\n"
+"EASY以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_c_0037"
+msgstr ""
+"在《FLASH IN THE DARK》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_c_0035"
+msgstr ""
+"在《FLASH IN THE DARK》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_c_0034"
+msgstr ""
+"在《FLASH IN THE DARK》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_c_0036"
+msgstr ""
+"在《FLASH IN THE DARK》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_c_0031"
+msgstr ""
+"在《FLASH IN THE DARK》中\n"
+"取得100万以上分数"
+
+msgid "mission_desc2_event_godiva_c_0032"
+msgstr ""
+"在《FLASH IN THE DARK》中\n"
+"取得120万以上分数"
+
+msgid "mission_desc2_event_godiva_c_0027"
+msgstr ""
+"在《FLASH IN THE DARK》中\n"
+"取得50万以上分数"
+
+msgid "mission_desc2_event_godiva_c_0028"
+msgstr ""
+"在《FLASH IN THE DARK》中\n"
+"取得60万以上分数"
+
+msgid "mission_desc2_event_godiva_c_0029"
+msgstr ""
+"在《FLASH IN THE DARK》中\n"
+"取得70万以上分数"
+
+msgid "mission_desc2_event_godiva_c_0030"
+msgstr ""
+"在《FLASH IN THE DARK》中\n"
+"取得85万以上分数"
+
+msgid "mission_desc2_event_april_fool_g_0008"
+msgstr ""
+"在《SEVENTH MOON》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0006"
+msgstr ""
+"在《SEVENTH MOON》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0005"
+msgstr ""
+"在《SEVENTH MOON》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0007"
+msgstr ""
+"在《SEVENTH MOON》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0016"
+msgstr ""
+"在《TRY AGAIN》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0014"
+msgstr ""
+"在《TRY AGAIN》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0013"
+msgstr ""
+"在《TRY AGAIN》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0015"
+msgstr ""
+"在《TRY AGAIN》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0024"
+msgstr ""
+"在《Virgin Story》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0022"
+msgstr ""
+"在《Virgin Story》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0021"
+msgstr ""
+"在《Virgin Story》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0023"
+msgstr ""
+"在《Virgin Story》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_a_0035"
+msgstr ""
+"在《银月亮 红月亮》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_a_0033"
+msgstr ""
+"在《银月亮 红月亮》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_a_0032"
+msgstr ""
+"在《银月亮 红月亮》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_a_0034"
+msgstr ""
+"在《银月亮 红月亮》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_a_0030"
+msgstr ""
+"在《银月亮 红月亮》中\n"
+"取得120万以上分数"
+
+msgid "mission_desc2_event_godiva_a_0025"
+msgstr ""
+"在《银月亮 红月亮》中\n"
+"取得50万以上分数"
+
+msgid "mission_desc2_event_godiva_a_0026"
+msgstr ""
+"在《银月亮 红月亮》中\n"
+"取得60万以上分数"
+
+msgid "mission_desc2_event_godiva_a_0027"
+msgstr ""
+"在《银月亮 红月亮》中\n"
+"取得70万以上分数"
+
+msgid "mission_desc2_event_godiva_a_0028"
+msgstr ""
+"在《银月亮 红月亮》中\n"
+"取得85万以上分数"
+
+msgid "mission_desc2_event_godiva_b_0031"
+msgstr ""
+"在《苦痛现在进行时》的\n"
+"EASY以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_b_0035"
+msgstr ""
+"在《苦痛现在进行时》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_b_0033"
+msgstr ""
+"在《苦痛现在进行时》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_b_0032"
+msgstr ""
+"在《苦痛现在进行时》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_b_0034"
+msgstr ""
+"在《苦痛现在进行时》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_godiva_b_0029"
+msgstr ""
+"在《苦痛现在进行时》中\n"
+"取得100万以上分数"
+
+msgid "mission_desc2_event_godiva_b_0030"
+msgstr ""
+"在《苦痛现在进行时》中\n"
+"取得120万以上分数"
+
+msgid "mission_desc2_event_godiva_b_0025"
+msgstr ""
+"在《苦痛现在进行时》中\n"
+"取得50万以上分数"
+
+msgid "mission_desc2_event_godiva_b_0026"
+msgstr ""
+"在《苦痛现在进行时》中\n"
+"取得60万以上分数"
+
+msgid "mission_desc2_event_godiva_b_0027"
+msgstr ""
+"在《苦痛现在进行时》中\n"
+"取得70万以上分数"
+
+msgid "mission_desc2_event_godiva_b_0028"
+msgstr ""
+"在《苦痛现在进行时》中\n"
+"取得85万以上分数"
+
+msgid "mission_desc2_event_april_fool_g_0012"
+msgstr ""
+"在《突击 Love Heart [Duet Version]》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0010"
+msgstr ""
+"在《突击 Love Heart [Duet Version]》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0009"
+msgstr ""
+"在《突击 Love Heart [Duet Version]》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_g_0011"
+msgstr ""
+"在《突击 Love Heart [Duet Version]》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0020"
+msgstr ""
+"【每日】在《DYNAMITE EXPLOSION》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0018"
+msgstr ""
+"【每日】在《DYNAMITE EXPLOSION》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0017"
+msgstr ""
+"【每日】在《DYNAMITE EXPLOSION》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0019"
+msgstr ""
+"【每日】在《DYNAMITE EXPLOSION》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0008"
+msgstr ""
+"【每日】在《SEVENTH MOON》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0006"
+msgstr ""
+"【每日】在《SEVENTH MOON》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0005"
+msgstr ""
+"【每日】在《SEVENTH MOON》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0007"
+msgstr ""
+"【每日】在《SEVENTH MOON》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0016"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0014"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0013"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0015"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0016"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0014"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0013"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0015"
+msgstr ""
+"【每日】在《Silent Hacker》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0016"
+msgstr ""
+"【每日】在《TRY AGAIN》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0014"
+msgstr ""
+"【每日】在《TRY AGAIN》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0013"
+msgstr ""
+"【每日】在《TRY AGAIN》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0015"
+msgstr ""
+"【每日】在《TRY AGAIN》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0024"
+msgstr ""
+"【每日】在《Virgin Story》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0022"
+msgstr ""
+"【每日】在《Virgin Story》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0021"
+msgstr ""
+"【每日】在《Virgin Story》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0023"
+msgstr ""
+"【每日】在《Virgin Story》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0012"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0010"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0009"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0011"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0012"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0010"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0009"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0011"
+msgstr ""
+"【每日】在《只要Rune闪闪发光》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0024"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0022"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0021"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0023"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0024"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0022"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0021"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0023"
+msgstr ""
+"【每日】在《恋爱忽如花般绽放》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0008"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0006"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0005"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0007"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0008"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0006"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0005"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0007"
+msgstr ""
+"【每日】在《Walküre永不停歇》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0012"
+msgstr ""
+"【每日】在《突击 Love Heart [Duet Version]》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0010"
+msgstr ""
+"【每日】在《突击 Love Heart [Duet Version]》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0009"
+msgstr ""
+"【每日】在《突击 Love Heart [Duet Version]》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_g_0011"
+msgstr ""
+"【每日】在《突击 Love Heart [Duet Version]》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0020"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0018"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0017"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc2_event_april_fool_h_0019"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0020"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0018"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0017"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_h_0019"
+msgstr ""
+"【每日】在《若是仅此一次的恋爱》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_e_0007"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0007"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0008"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0008"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0009"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0009"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0010"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0010"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0011"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0011"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0012"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0012"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0013"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0013"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0014"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0014"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0015"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0015"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_e_0016"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc2_event_april_fool_e_0016"
+msgstr ""
+"【每日】在任意歌曲中\n"
+"达成SS评价3次"
+
+msgid "mission_desc_event_april_fool_b_0001"
+msgstr ""
+"【每日】将要设为队伍中心\n"
+"并游玩《泪目爆发音》1次"
+
+msgid "mission_desc_event_april_fool_b_0002"
+msgstr ""
+"【每日】将要设为队伍中心\n"
+"并游玩《泪目爆发音》1次"
+
+msgid "mission_desc_event_april_fool_b_0003"
+msgstr ""
+"【每日】将要设为队伍中心\n"
+"并游玩《泪目爆发音》1次"
+
+msgid "mission_desc_event_april_fool_b_0004"
+msgstr ""
+"【每日】将要设为队伍中心\n"
+"并游玩《泪目爆发音》1次"
+
+msgid "mission_desc_event_april_fool_b_0005"
+msgstr ""
+"【每日】将要设为队伍中心\n"
+"并游玩《泪目爆发音》1次"
+
+msgid "mission_desc_event_april_fool_b_0012"
+msgstr ""
+"【每日】将要设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_b_0022"
+msgstr ""
+"【每日】将要设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_f_0007"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0008"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0009"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0010"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0011"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0012"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0013"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0014"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0015"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_april_fool_f_0016"
+msgstr "【每日】完成战机派遣行动1次"
+
+msgid "mission_desc_event_raid_b_0001"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_b_0004"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_b_0007"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_b_0010"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_c_0001"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_c_0010"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_d_0001"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_d_0004"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_d_0007"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_d_0010"
+msgstr "【每日】使用Fold雷达1次"
+
+msgid "mission_desc_event_raid_d_0013"
+msgstr "【每日】使用Fold雷达2次"
+
+msgid "mission_desc_event_raid_d_0014"
+msgstr "【每日】使用Fold雷达2次"
+
+msgid "mission_desc_event_raid_d_0015"
+msgstr "【每日】使用Fold雷达2次"
+
+msgid "mission_desc_event_raid_d_0016"
+msgstr "【每日】使用Fold雷达2次"
+
+msgid "mission_desc_event_april_fool_b_0008"
+msgstr ""
+"【每日】将芙蕾雅设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_b_0018"
+msgstr ""
+"【每日】将芙蕾雅设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_e_0001"
+msgstr ""
+"【每日】将玛基娜设为队伍中心\n"
+"并游玩《可爱女孩☆girl》1次"
+
+msgid "mission_desc_event_april_fool_e_0002"
+msgstr ""
+"【每日】将玛基娜设为队伍中心\n"
+"并游玩《可爱女孩☆girl》1次"
+
+msgid "mission_desc_event_april_fool_e_0003"
+msgstr ""
+"【每日】将玛基娜设为队伍中心\n"
+"并游玩《可爱女孩☆girl》1次"
+
+msgid "mission_desc_event_april_fool_e_0004"
+msgstr ""
+"【每日】将玛基娜设为队伍中心\n"
+"并游玩《可爱女孩☆girl》1次"
+
+msgid "mission_desc_event_april_fool_e_0005"
+msgstr ""
+"【每日】将玛基娜设为队伍中心\n"
+"并游玩《可爱女孩☆girl》1次"
+
+msgid "mission_desc_event_april_fool_b_0014"
+msgstr ""
+"【每日】将玛基娜设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_b_0024"
+msgstr ""
+"【每日】将玛基娜设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_raid_b_0003"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_b_0006"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_b_0009"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_b_0012"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_c_0003"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_c_0009"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_c_0012"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_d_0003"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_d_0006"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_d_0009"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_raid_d_0012"
+msgstr "【每日】使用Macross加农1次"
+
+msgid "mission_desc_event_april_fool_f_0001"
+msgstr ""
+"【每日】将兰卡设为队伍中心\n"
+"并游玩《和兰卡一起 Brand New Peach》1次"
+
+msgid "mission_desc_event_april_fool_f_0002"
+msgstr ""
+"【每日】将兰卡设为队伍中心\n"
+"并游玩《和兰卡一起 Brand New Peach》1次"
+
+msgid "mission_desc_event_april_fool_f_0003"
+msgstr ""
+"【每日】将兰卡设为队伍中心\n"
+"并游玩《和兰卡一起 Brand New Peach》1次"
+
+msgid "mission_desc_event_april_fool_f_0004"
+msgstr ""
+"【每日】将兰卡设为队伍中心\n"
+"并游玩《和兰卡一起 Brand New Peach》1次"
+
+msgid "mission_desc_event_april_fool_f_0005"
+msgstr ""
+"【每日】将兰卡设为队伍中心\n"
+"并游玩《和兰卡一起 Brand New Peach》1次"
+
+msgid "mission_desc_event_april_fool_b_0016"
+msgstr ""
+"【每日】将蕾娜设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_b_0026"
+msgstr ""
+"【每日】将蕾娜设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_raidlobby_b_0003"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动10次"
+
+msgid "mission_desc_event_raidlobby_c_0003"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动10次"
+
+msgid "mission_desc_event_raidlobby_a_0021"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_a_0024"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_b_0006"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_b_0009"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_b_0024"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0006"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0009"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0015"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0018"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0021"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成战机派遣行动30次"
+
+msgid "mission_desc_event_raidlobby_c_0016"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞7》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_c_0019"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞7》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_c_0022"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞7》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_a_0022"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0013"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成《超时空要塞Δ》歌曲演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0002"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 10次"
+
+msgid "mission_desc_event_raidlobby_a_0023"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0005"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0008"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0011"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0014"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0023"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_c_0005"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_c_0008"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_c_0011"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_c_0017"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_c_0020"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计达成FULL COMBO 30次"
+
+msgid "mission_desc_event_raidlobby_b_0001"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出20次"
+
+msgid "mission_desc_event_raidlobby_b_0004"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0007"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_b_0010"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_c_0004"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_c_0007"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_c_0010"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_raidlobby_d_0004"
+msgstr ""
+"【每日】所有战队成员\n"
+"累计完成演出50次"
+
+msgid "mission_desc_event_april_fool_b_0028"
+msgstr ""
+"【每日】游玩Walküre的《恋离飞翼 ~ the end of triangle》\n"
+"并完成NORMAL以上难度演出1次"
+
+msgid "mission_desc_event_april_fool_b_0030"
+msgstr ""
+"【每日】游玩Walküre的《恋离飞翼 ~ the end of triangle》\n"
+"并完成NORMAL以上难度演出1次"
+
+msgid "mission_desc_event_april_fool_b_0032"
+msgstr ""
+"【每日】游玩Walküre的《恋离飞翼 ~ the end of triangle》\n"
+"并完成NORMAL以上难度演出1次"
+
+msgid "mission_desc_event_april_fool_b_0034"
+msgstr ""
+"【每日】游玩Walküre的《恋离飞翼 ~ the end of triangle》\n"
+"并完成NORMAL以上难度演出1次"
+
+msgid "mission_desc_event_april_fool_b_0009"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0011"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0013"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0015"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0017"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0019"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0021"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0023"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0025"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0027"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0029"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0031"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0033"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_b_0035"
+msgstr ""
+"【每日】在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_raid_a_0008"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_a_0011"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0002"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0005"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0008"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0011"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_c_0002"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_c_0008"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_c_0011"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_d_0002"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_d_0005"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_d_0008"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_d_0011"
+msgstr ""
+"【每日】击败1个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0054"
+msgstr ""
+"【每日】击败2个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0055"
+msgstr ""
+"【每日】击败2个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0056"
+msgstr ""
+"【每日】击败2个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_raid_b_0057"
+msgstr ""
+"【每日】击败2个暴走敌人\n"
+"并领取奖励"
+
+msgid "mission_desc_event_godiva_a_0001"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0002"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0003"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0004"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0005"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0006"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0007"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0008"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_a_0009"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0001"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0002"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0003"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0004"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0005"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0006"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0007"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0008"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_b_0009"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0001"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0001"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0002"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0002"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0003"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0003"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0004"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0004"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0005"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0005"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0006"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0006"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0007"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0007"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0008"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0008"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0009"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0009"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0010"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0010"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_godiva_c_0011"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc2_event_godiva_c_0011"
+msgstr ""
+"【每日】参与歌姬分数排名\n"
+"并完成演出"
+
+msgid "mission_desc_event_april_fool_b_0010"
+msgstr ""
+"【每日】将美云设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_april_fool_b_0020"
+msgstr ""
+"【每日】将美云设为队伍中心，游玩Walküre的\n"
+"《恋离飞翼 ~ the end of triangle》并完成演出1次"
+
+msgid "mission_desc_event_godiva_a_0010"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0011"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0012"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0013"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0014"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0015"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0016"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0017"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_a_0018"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0010"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0011"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0012"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0013"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0014"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0015"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0016"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0017"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_b_0018"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0012"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0012"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0013"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0013"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0014"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0014"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0015"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0015"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0016"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0016"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0017"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0017"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0018"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0018"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0019"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0019"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc_event_godiva_c_0020"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "mission_desc2_event_godiva_c_0020"
+msgstr ""
+"【每日】通过游玩歌曲\n"
+"触发特别演出1次"
+
+msgid "event_guide_event_raidlobby_b_0015"
+msgstr "我会加油的！"
+
+msgid "event_guide_event_raidlobby_c_0015"
+msgstr "我会加油的！"
+
+msgid "event_guide_event_raidlobby_b_0009"
+msgstr "你也来一起唱歌吧！"
+
+msgid "event_guide_event_raidlobby_c_0009"
+msgstr "你也来一起唱歌吧！"
+
+msgid "event_guide_event_raidlobby_d_0009"
+msgstr "你也来一起唱歌吧！"
+
+msgid "event_group_event_raidlobby_b_0001"
+msgstr "阿拉德·梅塔斯战队"
+
+msgid "event_guide_event_raidlobby_a_0028"
+msgstr ""
+"谢谢！\n"
+"全靠大家捧场啦！"
+
+msgid "event_guide_event_raidlobby_b_0028"
+msgstr ""
+"谢谢！\n"
+"全靠大家捧场啦！"
+
+msgid "event_guide_event_raidlobby_c_0028"
+msgstr ""
+"谢谢！\n"
+"全靠大家捧场啦！"
+
+msgid "mission_desc_event_godiva_a_0039"
+msgstr "任意歌姬歌魂感召力提升10"
+
+msgid "mission_desc_event_godiva_b_0039"
+msgstr "任意歌姬歌魂感召力提升10"
+
+msgid "mission_desc_event_godiva_a_0036"
+msgstr "任意歌姬歌魂感召力提升5"
+
+msgid "mission_desc_event_godiva_b_0036"
+msgstr "任意歌姬歌魂感召力提升5"
+
+msgid "mission_desc_event_godiva_c_0038"
+msgstr "任意歌姬歌魂感召力提升5"
+
+msgid "mission_desc2_event_godiva_c_0038"
+msgstr "任意歌姬歌魂感召力提升5"
+
+msgid "mission_desc_event_godiva_a_0041"
+msgstr "任意歌姬歌魅感召力提升10"
+
+msgid "mission_desc_event_godiva_b_0041"
+msgstr "任意歌姬歌魅感召力提升10"
+
+msgid "mission_desc_event_godiva_a_0038"
+msgstr "任意歌姬歌魅感召力提升5"
+
+msgid "mission_desc_event_godiva_b_0038"
+msgstr "任意歌姬歌魅感召力提升5"
+
+msgid "mission_desc_event_godiva_c_0040"
+msgstr "任意歌姬歌魅感召力提升5"
+
+msgid "mission_desc_event_godiva_a_0040"
+msgstr "任意歌姬歌声感召力提升10"
+
+msgid "mission_desc_event_godiva_b_0040"
+msgstr "任意歌姬歌声感召力提升10"
+
+msgid "mission_desc2_event_godiva_c_0042"
+msgstr "任意歌姬歌声感召力提升10"
+
+msgid "mission_desc_event_godiva_a_0037"
+msgstr "任意歌姬歌声感召力提升5"
+
+msgid "mission_desc_event_godiva_b_0037"
+msgstr "任意歌姬歌声感召力提升5"
+
+msgid "mission_desc_event_godiva_c_0039"
+msgstr "任意歌姬歌声感召力提升5"
+
+msgid "mission_desc2_event_godiva_c_0039"
+msgstr "任意歌姬歌声感召力提升5"
+
+msgid "mission_desc_event_april_fool_g_0004"
+msgstr ""
+"在任意歌曲的EXTREME难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_h_0004"
+msgstr ""
+"在任意歌曲的EXTREME难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_g_0002"
+msgstr ""
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_h_0002"
+msgstr ""
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_g_0001"
+msgstr ""
+"在任意歌曲的NORMAL以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_g_0003"
+msgstr ""
+"在任意歌曲的VERY HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_h_0003"
+msgstr ""
+"在任意歌曲的VERY HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_g_0004"
+msgstr ""
+"在任意歌曲的EXTREME难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_h_0004"
+msgstr ""
+"在任意歌曲的EXTREME难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_g_0002"
+msgstr ""
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_h_0002"
+msgstr ""
+"在任意歌曲的HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_g_0001"
+msgstr ""
+"在任意歌曲的NORMAL以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_g_0003"
+msgstr ""
+"在任意歌曲的VERY HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_h_0003"
+msgstr ""
+"在任意歌曲的VERY HARD以上难度中\n"
+"达成FULL COMBO 5次"
+
+msgid "mission_desc2_event_april_fool_e_0019"
+msgstr "完成任意歌曲演出100次"
+
+msgid "mission_desc_event_april_fool_e_0019"
+msgstr "游玩任意歌曲100次"
+
+msgid "mission_desc2_event_april_fool_e_0020"
+msgstr "完成任意歌曲演出150次"
+
+msgid "mission_desc_event_april_fool_e_0020"
+msgstr "游玩任意歌曲150次"
+
+msgid "mission_desc2_event_april_fool_e_0017"
+msgstr "完成任意歌曲演出20次"
+
+msgid "mission_desc_event_april_fool_e_0017"
+msgstr "游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0018"
+msgstr "完成任意歌曲演出50次"
+
+msgid "mission_desc_event_april_fool_e_0018"
+msgstr "游玩任意歌曲50次"
+
+msgid "mission_desc_event_godiva_a_0042"
+msgstr ""
+"完成15个“银月亮 红月亮”\n"
+"活动任务"
+
+msgid "mission_desc_event_godiva_c_0044"
+msgstr ""
+"完成15个“复刻 FLASH IN THE SOUL”\n"
+"活动任务"
+
+msgid "mission_desc_event_godiva_b_0042"
+msgstr ""
+"完成15个“纯洁之姿！ ～苦痛现在进行时～”\n"
+"活动任务"
+
+msgid "event_banner_event_godiva_c_0001"
+msgstr "参与活动并获得“必得★5免费奖券”！"
+
+msgid "event_banner_event_battle_a_0001"
+msgstr "参与活动并获得“回忆卡片兑换券”！"
+
+msgid "event_banner_event_battle_b_0001"
+msgstr "参与活动并抽卡10次！"
+
+msgid "event_banner_event_battle_c_0001"
+msgstr "参与活动并抽卡10次！"
+
+msgid "event_banner_event_godiva_a_0001"
+msgstr "参与活动并抽卡10次！"
+
+msgid "event_banner_event_godiva_b_0001"
+msgstr "参与活动并抽卡10次！"
+
+msgid "mission_desc_event_godiva_a_0020"
+msgstr "在活动界面完成演出10次"
+
+msgid "mission_desc2_event_godiva_a_0020"
+msgstr "在活动界面完成演出10次"
+
+msgid "mission_desc_event_godiva_b_0020"
+msgstr "在活动界面完成演出10次"
+
+msgid "mission_desc_event_godiva_c_0022"
+msgstr "在活动界面完成演出10次"
+
+msgid "mission_desc2_event_godiva_c_0022"
+msgstr "在活动界面完成演出10次"
+
+msgid "mission_desc_event_godiva_a_0021"
+msgstr "在活动界面完成演出15次"
+
+msgid "mission_desc2_event_godiva_a_0021"
+msgstr "在活动界面完成演出15次"
+
+msgid "mission_desc_event_godiva_b_0021"
+msgstr "在活动界面完成演出15次"
+
+msgid "mission_desc_event_godiva_c_0023"
+msgstr "在活动界面完成演出15次"
+
+msgid "mission_desc2_event_godiva_c_0023"
+msgstr "在活动界面完成演出15次"
+
+msgid "mission_desc_event_godiva_a_0022"
+msgstr "在活动界面完成演出20次"
+
+msgid "mission_desc2_event_godiva_a_0022"
+msgstr "在活动界面完成演出20次"
+
+msgid "mission_desc_event_godiva_b_0022"
+msgstr "在活动界面完成演出20次"
+
+msgid "mission_desc_event_godiva_c_0024"
+msgstr "在活动界面完成演出20次"
+
+msgid "mission_desc2_event_godiva_c_0024"
+msgstr "在活动界面完成演出20次"
+
+msgid "mission_desc_event_godiva_a_0023"
+msgstr "在活动界面完成演出25次"
+
+msgid "mission_desc2_event_godiva_a_0023"
+msgstr "在活动界面完成演出25次"
+
+msgid "mission_desc_event_godiva_b_0023"
+msgstr "在活动界面完成演出25次"
+
+msgid "mission_desc_event_godiva_c_0025"
+msgstr "在活动界面完成演出25次"
+
+msgid "mission_desc2_event_godiva_c_0025"
+msgstr "在活动界面完成演出25次"
+
+msgid "mission_desc_event_godiva_a_0024"
+msgstr "在活动界面完成演出30次"
+
+msgid "mission_desc2_event_godiva_a_0024"
+msgstr "在活动界面完成演出30次"
+
+msgid "mission_desc_event_godiva_b_0024"
+msgstr "在活动界面完成演出30次"
+
+msgid "mission_desc_event_godiva_c_0026"
+msgstr "在活动界面完成演出30次"
+
+msgid "mission_desc2_event_godiva_c_0026"
+msgstr "在活动界面完成演出30次"
+
+msgid "mission_desc_event_godiva_a_0019"
+msgstr "在活动界面完成演出5次"
+
+msgid "mission_desc2_event_godiva_a_0019"
+msgstr "在活动界面完成演出5次"
+
+msgid "mission_desc_event_godiva_b_0019"
+msgstr "在活动界面完成演出5次"
+
+msgid "mission_desc_event_godiva_c_0021"
+msgstr "在活动界面完成演出5次"
+
+msgid "mission_desc2_event_godiva_c_0021"
+msgstr "在活动界面完成演出5次"
+
+msgid "mission_desc_event_godiva_c_0033"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》的\n"
+"EASY以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_c_0037"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_c_0035"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_c_0034"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_c_0036"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_c_0031"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_godiva_c_0032"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》中\n"
+"取得120万以上分数"
+
+msgid "mission_desc_event_godiva_c_0027"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》中\n"
+"取得50万以上分数"
+
+msgid "mission_desc_event_godiva_c_0028"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》中\n"
+"取得60万以上分数"
+
+msgid "mission_desc_event_godiva_c_0029"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》中\n"
+"取得70万以上分数"
+
+msgid "mission_desc_event_godiva_c_0030"
+msgstr ""
+"在活动歌曲《FLASH IN THE DARK》中\n"
+"取得85万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0049"
+msgstr "取得1000万以上分数5次"
+
+msgid "mission_desc_event_april_fool_a_0050"
+msgstr "取得1200万以上分数1次"
+
+msgid "mission_desc_event_april_fool_a_0021"
+msgstr "取得600万以上分数1次"
+
+msgid "mission_desc_event_april_fool_a_0022"
+msgstr "取得700万以上分数1次"
+
+msgid "mission_desc_event_april_fool_a_0023"
+msgstr "取得800万以上分数1次"
+
+msgid "mission_desc_event_april_fool_a_0024"
+msgstr "取得900万以上分数1次"
+
+msgid "mission_desc_event_april_fool_b_0007"
+msgstr ""
+"在Walküre的《恋离飞翼 ~ the end of triangle》的\n"
+"NORMAL以上难度中达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_d_0011"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0045"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0012"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0046"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0033"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0013"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0034"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0014"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0047"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0035"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0015"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0036"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得500万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0046"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得600万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0047"
+msgstr ""
+"在爱属性歌曲中\n"
+"取得700万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0048"
+msgstr ""
+"在命属性歌曲中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0002"
+msgstr ""
+"在命属性歌曲中\n"
+"取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0049"
+msgstr ""
+"在命属性歌曲中\n"
+"取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0025"
+msgstr ""
+"在命属性歌曲中\n"
+"取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0003"
+msgstr ""
+"在命属性歌曲中\n"
+"取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0026"
+msgstr ""
+"在命属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0004"
+msgstr ""
+"在命属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0050"
+msgstr ""
+"在命属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0027"
+msgstr ""
+"在命属性歌曲中\n"
+"取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0005"
+msgstr ""
+"在命属性歌曲中\n"
+"取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0028"
+msgstr ""
+"在命属性歌曲中\n"
+"取得500万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0042"
+msgstr ""
+"在命属性歌曲中\n"
+"取得600万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0043"
+msgstr ""
+"在命属性歌曲中\n"
+"取得700万以上分数"
+
+msgid "event_bossname_event_raid_a_0010"
+msgstr "鸟人"
+
+msgid "event_bossname_event_raid_a_0013"
+msgstr "鸟人"
+
+msgid "event_bossname_event_raid_b_0013"
+msgstr "鸟人"
+
+msgid "event_bossname_event_raid_c_0015"
+msgstr "鸟人"
+
+msgid "mission_desc_event_april_fool_d_0006"
+msgstr ""
+"在星属性歌曲中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0042"
+msgstr ""
+"在星属性歌曲中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0007"
+msgstr ""
+"在星属性歌曲中\n"
+"取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0043"
+msgstr ""
+"在星属性歌曲中\n"
+"取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0029"
+msgstr ""
+"在星属性歌曲中\n"
+"取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0008"
+msgstr ""
+"在星属性歌曲中\n"
+"取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0030"
+msgstr ""
+"在星属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0009"
+msgstr ""
+"在星属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_g_0044"
+msgstr ""
+"在星属性歌曲中\n"
+"取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0031"
+msgstr ""
+"在星属性歌曲中\n"
+"取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_d_0010"
+msgstr ""
+"在星属性歌曲中\n"
+"取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0032"
+msgstr ""
+"在星属性歌曲中\n"
+"取得500万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0044"
+msgstr ""
+"在星属性歌曲中\n"
+"取得600万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0045"
+msgstr ""
+"在星属性歌曲中\n"
+"取得700万以上分数"
+
+msgid "mission_desc_event_april_fool_a_0038"
+msgstr ""
+"游玩歌曲《Glow in the dark（高难度ver.）》\n"
+"并完成演出1次"
+
+msgid "mission_desc_event_april_fool_a_0039"
+msgstr ""
+"在《Glow in the dark（高难度ver.）》中\n"
+"达成FULL COMBO 1次"
+
+msgid "mission_desc_event_april_fool_d_0025"
+msgstr "达成SS评价100次"
+
+msgid "mission_desc_event_april_fool_d_0022"
+msgstr "达成SS评价10次"
+
+msgid "mission_desc_event_april_fool_d_0021"
+msgstr "达成SS评价1次"
+
+msgid "mission_desc_event_april_fool_d_0023"
+msgstr "达成SS评价20次"
+
+msgid "mission_desc_event_april_fool_d_0024"
+msgstr "达成SS评价50次"
+
+msgid "mission_desc_event_april_fool_d_0018"
+msgstr "达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_d_0016"
+msgstr "达成FULL COMBO 1次"
+
+msgid "mission_desc_event_april_fool_d_0019"
+msgstr "达成FULL COMBO 25次"
+
+msgid "mission_desc_event_april_fool_d_0020"
+msgstr "达成FULL COMBO 50次"
+
+msgid "mission_desc_event_april_fool_d_0017"
+msgstr "达成FULL COMBO 5次"
+
+msgid "event_guide_event_raidlobby_a_0029"
+msgstr "感谢帮忙！"
+
+msgid "event_guide_event_raidlobby_b_0029"
+msgstr "感谢帮忙！"
+
+msgid "event_guide_event_raidlobby_c_0029"
+msgstr "感谢帮忙！"
+
+msgid "event_guide_event_raidlobby_a_0023"
+msgstr "精彩绝伦的表演！"
+
+msgid "event_guide_event_raidlobby_b_0023"
+msgstr "精彩绝伦的表演！"
+
+msgid "mission_desc_event_april_fool_a_0037"
+msgstr ""
+"游玩歌曲《Glow in the dark（高难度ver.）》\n"
+"1次"
