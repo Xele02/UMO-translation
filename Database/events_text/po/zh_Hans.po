@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-05-28 11:46+0000\n"
+"PO-Revision-Date: 2025-05-29 10:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -61,9 +61,13 @@ msgstr ""
 
 msgid "mission_desc_event_battle_a_0010"
 msgstr ""
+"游玩活动歌曲《方尖碑》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_a_0011"
 msgstr ""
+"游玩活动歌曲《方尖碑》\n"
+"并完成演出10次"
 
 msgid "mission_desc_event_battle_a_0012"
 msgstr "击败S级对手3次"
@@ -83,36 +87,58 @@ msgstr ""
 
 msgid "mission_desc_event_battle_a_0016"
 msgstr ""
+"在活动歌曲《方尖碑》中\n"
+"取得50万以上分数"
 
 msgid "mission_desc_event_battle_a_0017"
 msgstr ""
+"在活动歌曲《方尖碑》中\n"
+"取得60万以上分数"
 
 msgid "mission_desc_event_battle_a_0018"
 msgstr ""
+"在活动歌曲《方尖碑》中\n"
+"取得70万以上分数"
 
 msgid "mission_desc_event_battle_a_0019"
 msgstr ""
+"在活动歌曲《方尖碑》中\n"
+"取得85万以上分数"
 
 msgid "mission_desc_event_battle_a_0020"
 msgstr ""
+"在活动歌曲《方尖碑》中\n"
+"取得100万以上分数"
 
 msgid "mission_desc_event_battle_a_0021"
 msgstr ""
+"在活动歌曲《方尖碑》中\n"
+"取得120万以上分数"
 
 msgid "mission_desc_event_battle_a_0022"
 msgstr ""
+"在活动歌曲《方尖碑》的\n"
+"EASY以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_a_0023"
 msgstr ""
+"在活动歌曲《方尖碑》的\n"
+"NORMAL以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_a_0024"
 msgstr ""
+"在活动歌曲《方尖碑》的\n"
+"HARD以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_a_0025"
 msgstr ""
+"在活动歌曲《方尖碑》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_a_0026"
 msgstr ""
+"在活动歌曲《方尖碑》的\n"
+"EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_a_0027"
 msgstr ""
@@ -238,9 +264,13 @@ msgstr "【每日】击败EX级对手"
 
 msgid "mission_desc_event_battle_b_0019"
 msgstr ""
+"游玩活动歌曲《无法相见之时》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_b_0020"
 msgstr ""
+"游玩活动歌曲《无法相见之时》\n"
+"并完成演出10次"
 
 msgid "mission_desc_event_battle_b_0021"
 msgstr "击败S级对手3次"
@@ -250,42 +280,68 @@ msgstr "击败S级对手10次"
 
 msgid "mission_desc_event_battle_b_0023"
 msgstr ""
+"游玩活动歌曲《方尖碑》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_b_0024"
 msgstr ""
+"游玩活动歌曲《Infinity》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_b_0025"
 msgstr ""
+"在活动歌曲《无法相见之时》中\n"
+"取得50万以上分数"
 
 msgid "mission_desc_event_battle_b_0026"
 msgstr ""
+"在活动歌曲《无法相见之时》中\n"
+"取得60万以上分数"
 
 msgid "mission_desc_event_battle_b_0027"
 msgstr ""
+"在活动歌曲《无法相见之时》中\n"
+"取得70万以上分数"
 
 msgid "mission_desc_event_battle_b_0028"
 msgstr ""
+"在活动歌曲《无法相见之时》中\n"
+"取得85万以上分数"
 
 msgid "mission_desc_event_battle_b_0029"
 msgstr ""
+"在活动歌曲《无法相见之时》中\n"
+"取得100万以上分数"
 
 msgid "mission_desc_event_battle_b_0030"
 msgstr ""
+"在活动歌曲《无法相见之时》中\n"
+"取得120万以上分数"
 
 msgid "mission_desc_event_battle_b_0031"
 msgstr ""
+"在活动歌曲《无法相见之时》的\n"
+"EASY以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_b_0032"
 msgstr ""
+"在活动歌曲《无法相见之时》的\n"
+"NORMAL以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_b_0033"
 msgstr ""
+"在活动歌曲《无法相见之时》的\n"
+"HARD以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_b_0034"
 msgstr ""
+"在活动歌曲《无法相见之时》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_b_0035"
 msgstr ""
+"在活动歌曲《无法相见之时》的\n"
+"EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_b_0036"
 msgstr ""
@@ -373,6 +429,8 @@ msgstr "击败S级对手10次"
 
 msgid "mission_desc_event_battle_c_0014"
 msgstr ""
+"游玩活动歌曲《SEVENTH MOON》\n"
+"并完成演出5次"
 
 msgid "mission_desc_event_battle_c_0015"
 msgstr ""
@@ -381,36 +439,58 @@ msgstr ""
 
 msgid "mission_desc_event_battle_c_0016"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》中\n"
+"取得50万以上分数"
 
 msgid "mission_desc_event_battle_c_0017"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》中\n"
+"取得60万以上分数"
 
 msgid "mission_desc_event_battle_c_0018"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》中\n"
+"取得70万以上分数"
 
 msgid "mission_desc_event_battle_c_0019"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》中\n"
+"取得85万以上分数"
 
 msgid "mission_desc_event_battle_c_0020"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》中\n"
+"取得100万以上分数"
 
 msgid "mission_desc_event_battle_c_0021"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》中\n"
+"取得120万以上分数"
 
 msgid "mission_desc_event_battle_c_0022"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》的\n"
+"EASY以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_c_0023"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》的\n"
+"NORMAL以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_c_0024"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》的\n"
+"HARD以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_c_0025"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_c_0026"
 msgstr ""
+"在活动歌曲《NEVER SAY DIE》的\n"
+"EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_c_0027"
 msgstr ""
@@ -3294,3 +3374,425 @@ msgid "mission_desc_event_april_fool_a_0037"
 msgstr ""
 "游玩歌曲《Glow in the dark（高难度ver.）》\n"
 "1次"
+
+msgid "mission_desc_event_april_fool_d_0001"
+msgstr "游玩愚人节活动歌曲1次"
+
+msgid "mission_desc2_event_april_fool_d_0001"
+msgstr "游玩愚人节活动歌曲1次"
+
+msgid "mission_desc_event_april_fool_e_0045"
+msgstr ""
+"将巴萨拉设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0045"
+msgstr ""
+"将巴萨拉设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_e_0046"
+msgstr ""
+"将巴萨拉设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0046"
+msgstr ""
+"将巴萨拉设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0047"
+msgstr ""
+"将巴萨拉设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0047"
+msgstr ""
+"将巴萨拉设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc_event_april_fool_f_0018"
+msgstr "完成战机派遣行动10次"
+
+msgid "mission_desc_event_april_fool_f_0019"
+msgstr "完成战机派遣行动20次"
+
+msgid "mission_desc_event_april_fool_f_0017"
+msgstr "完成战机派遣行动5次"
+
+msgid "mission_desc_event_april_fool_f_0022"
+msgstr "完成战机派遣行动100次"
+
+msgid "mission_desc_event_april_fool_f_0020"
+msgstr "完成战机派遣行动50次"
+
+msgid "mission_desc_event_april_fool_f_0021"
+msgstr "完成战机派遣行动80次"
+
+msgid "mission_desc_event_godiva_a_0029"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_godiva_a_0030"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》中\n"
+"取得120万以上分数"
+
+msgid "mission_desc_event_godiva_a_0025"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》中\n"
+"取得50万以上分数"
+
+msgid "mission_desc_event_godiva_a_0026"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》中\n"
+"取得60万以上分数"
+
+msgid "mission_desc_event_godiva_a_0027"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》中\n"
+"取得70万以上分数"
+
+msgid "mission_desc_event_godiva_a_0028"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》中\n"
+"取得85万以上分数"
+
+msgid "mission_desc_event_godiva_a_0031"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》的\n"
+"EASY以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_a_0032"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_a_0035"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_a_0033"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_a_0034"
+msgstr ""
+"在活动歌曲《银月亮 红月亮【MIRROR ver.】》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_b_0031"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》的\n"
+"EASY以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_b_0035"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》的\n"
+"EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_b_0033"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》的\n"
+"HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_b_0032"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》的\n"
+"NORMAL以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_b_0034"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》的\n"
+"VERY HARD以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_godiva_b_0029"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》中\n"
+"取得100万以上分数"
+
+msgid "mission_desc_event_godiva_b_0030"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》中\n"
+"取得120万以上分数"
+
+msgid "mission_desc_event_godiva_b_0025"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》中\n"
+"取得50万以上分数"
+
+msgid "mission_desc_event_godiva_b_0026"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》中\n"
+"取得60万以上分数"
+
+msgid "mission_desc_event_godiva_b_0027"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》中\n"
+"取得70万以上分数"
+
+msgid "mission_desc_event_godiva_b_0028"
+msgstr ""
+"在活动歌曲《苦痛现在进行时》中\n"
+"取得85万以上分数"
+
+msgid "event_group_event_raidlobby_a_0001"
+msgstr "疾风·因梅尔曼战队"
+
+msgid "mission_desc_event_raid_a_10004"
+msgstr "游玩歌曲并取得A以上连击评价"
+
+msgid "mission_desc_event_raid_a_10003"
+msgstr "游玩歌曲并取得B以上连击评价"
+
+msgid "mission_desc_event_raid_a_10005"
+msgstr "游玩歌曲并取得S以上连击评价"
+
+msgid "mission_desc_event_raid_a_10002"
+msgstr "达成SS评价"
+
+msgid "mission_desc_event_raid_a_10008"
+msgstr "以Fold指数突破100%的状态完成演出"
+
+msgid "mission_desc_event_raid_a_10010"
+msgstr "达成FULL COMBO"
+
+msgid "mission_desc_event_raid_b_10004"
+msgstr "游玩歌曲并取得A以上连击评价"
+
+msgid "mission_desc_event_raid_b_10003"
+msgstr "游玩歌曲并取得B以上连击评价"
+
+msgid "event_bossname_event_raid_b_0007"
+msgstr "Sigurd=Valens（战舰形态）"
+
+msgid "mission_desc_event_raid_c_10002"
+msgstr "达成SS评价"
+
+msgid "mission_desc_event_raid_c_10004"
+msgstr "游玩歌曲并取得A以上连击评价"
+
+msgid "mission_desc_event_raid_c_10003"
+msgstr "游玩歌曲并取得B以上连击评价"
+
+msgid "mission_desc_event_raid_c_10005"
+msgstr "游玩歌曲并取得S以上连击评价"
+
+msgid "mission_desc_event_raid_c_10008"
+msgstr "以Fold指数突破100%的状态完成演出"
+
+msgid "mission_desc_event_raid_c_10010"
+msgstr "达成FULL COMBO"
+
+msgid "mission_desc_event_raid_d_10002"
+msgstr "达成SS评价"
+
+msgid "mission_desc_event_raid_d_10004"
+msgstr "游玩歌曲并取得A以上连击评价"
+
+msgid "mission_desc_event_raid_d_10005"
+msgstr "游玩歌曲并取得S以上连击评价"
+
+msgid "event_bossname_event_raid_d_0001"
+msgstr "主教级瓦鸠拉"
+
+msgid "event_guide_event_raidlobby_a_0018"
+msgstr "大家拿出气势来！"
+
+msgid "event_guide_event_raidlobby_a_0024"
+msgstr ""
+"你的歌声，我确实感受到了！\n"
+"直击心灵啊！"
+
+msgid "event_guide_event_raidlobby_a_0010"
+msgstr "终于等来了这一刻！"
+
+msgid "event_guide_event_raidlobby_a_0014"
+msgstr ""
+"战斗终于要开始了\n"
+"我们上吧！兰卡！"
+
+msgid "event_guide_event_raidlobby_a_0027"
+msgstr ""
+"Fold受体\n"
+"未激活"
+
+msgid "event_guide_event_raidlobby_b_0018"
+msgstr "大家拿出气势来！"
+
+msgid "event_guide_event_raidlobby_b_0024"
+msgstr ""
+"你的歌声，我确实感受到了！\n"
+"直击心灵啊！"
+
+msgid "event_guide_event_raidlobby_b_0010"
+msgstr "终于等来了这一刻！"
+
+msgid "event_guide_event_raidlobby_b_0027"
+msgstr ""
+"Fold受体\n"
+"未激活"
+
+msgid "event_guide_event_raidlobby_c_0010"
+msgstr "终于等来了这一刻！"
+
+msgid "event_guide_event_raidlobby_c_0018"
+msgstr "大家拿出气势来！"
+
+msgid "event_guide_event_raidlobby_c_0027"
+msgstr ""
+"Fold受体\n"
+"未激活"
+
+msgid "event_guide_event_raidlobby_d_0018"
+msgstr "大家拿出气势来！"
+
+msgid "event_guide_event_raidlobby_d_0024"
+msgstr ""
+"你的歌声，我确实感受到了！\n"
+"直击心灵啊！"
+
+msgid "event_guide_event_raidlobby_d_0010"
+msgstr "终于等来了这一刻！"
+
+msgid "event_guide_event_raidlobby_d_0014"
+msgstr ""
+"战斗终于要开始了\n"
+"我们上吧！兰卡！"
+
+msgid "event_guide_event_raidlobby_d_0027"
+msgstr ""
+"Fold受体\n"
+"未激活"
+
+msgid "event_guide_event_raidlobby_c_0024"
+msgstr ""
+"你的歌声，我确实感受到了！\n"
+"直击心灵啊！"
+
+msgid "mission_desc_event_april_fool_e_0027"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0027"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_e_0028"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0028"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0029"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0029"
+msgstr ""
+"将要设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc_event_raid_d_10003"
+msgstr "游玩歌曲并取得B以上连击评价"
+
+msgid "mission_desc_event_raid_b_10005"
+msgstr "游玩歌曲并取得S以上连击评价"
+
+msgid "mission_desc_event_april_fool_e_0039"
+msgstr ""
+"将雪莉露设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0039"
+msgstr ""
+"将雪莉露设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_e_0040"
+msgstr ""
+"将雪莉露设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0040"
+msgstr ""
+"将雪莉露设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0041"
+msgstr ""
+"将雪莉露设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0041"
+msgstr ""
+"将雪莉露设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc_event_raid_b_10002"
+msgstr "达成SS评价"
+
+msgid "event_guide_event_raidlobby_b_0014"
+msgstr ""
+"战斗终于要开始了\n"
+"我们上吧！兰卡！"
+
+msgid "event_guide_event_raidlobby_c_0014"
+msgstr ""
+"战斗终于要开始了\n"
+"我们上吧！兰卡！"
+
+msgid "event_bossname_event_raid_c_0006"
+msgstr "巴尔戈"
+
+msgid "mission_desc_event_raid_b_10008"
+msgstr "以Fold指数突破100%的状态完成演出"
+
+msgid "mission_desc_event_raid_d_10008"
+msgstr "以Fold指数突破100%的状态完成演出"
+
+msgid "mission_desc_event_raid_b_10010"
+msgstr "达成FULL COMBO"
+
+msgid "mission_desc_event_raid_d_10010"
+msgstr "达成FULL COMBO"
+
+msgid "mission_desc_event_april_fool_e_0021"
+msgstr ""
+"将芙蕾雅设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0021"
+msgstr ""
+"将芙蕾雅设为队伍中心\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_e_0022"
+msgstr ""
+"将芙蕾雅设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0022"
+msgstr ""
+"将芙蕾雅设为队伍中心\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0023"
+msgstr ""
+"将芙蕾雅设为队伍中心\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0023"
+msgstr ""
+"将芙蕾雅设为队伍中心\n"
+"并游玩任意歌曲30次"
