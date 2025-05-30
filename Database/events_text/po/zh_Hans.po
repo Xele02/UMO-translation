@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-05-30 08:46+0000\n"
+"PO-Revision-Date: 2025-05-30 10:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -141,19 +141,19 @@ msgstr ""
 "EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_a_0027"
-msgstr ""
+msgstr "进行对战并完成演出10次"
 
 msgid "mission_desc_event_battle_a_0028"
-msgstr ""
+msgstr "进行对战并完成演出15次"
 
 msgid "mission_desc_event_battle_a_0029"
-msgstr ""
+msgstr "进行对战并完成演出20次"
 
 msgid "mission_desc_event_battle_a_0030"
-msgstr ""
+msgstr "进行对战并完成演出25次"
 
 msgid "mission_desc_event_battle_a_0031"
-msgstr ""
+msgstr "进行对战并完成演出30次"
 
 msgid "mission_desc_event_battle_a_0032"
 msgstr "【每日】击败EX级对手"
@@ -344,19 +344,19 @@ msgstr ""
 "EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_b_0036"
-msgstr ""
+msgstr "进行对战并完成演出10次"
 
 msgid "mission_desc_event_battle_b_0037"
-msgstr ""
+msgstr "进行对战并完成演出15次"
 
 msgid "mission_desc_event_battle_b_0038"
-msgstr ""
+msgstr "进行对战并完成演出20次"
 
 msgid "mission_desc_event_battle_b_0039"
-msgstr ""
+msgstr "进行对战并完成演出25次"
 
 msgid "mission_desc_event_battle_b_0040"
-msgstr ""
+msgstr "进行对战并完成演出30次"
 
 msgid "mission_desc_event_battle_b_0041"
 msgstr ""
@@ -493,19 +493,19 @@ msgstr ""
 "EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc_event_battle_c_0027"
-msgstr ""
+msgstr "进行对战并完成演出10次"
 
 msgid "mission_desc_event_battle_c_0028"
-msgstr ""
+msgstr "进行对战并完成演出15次"
 
 msgid "mission_desc_event_battle_c_0029"
-msgstr ""
+msgstr "进行对战并完成演出20次"
 
 msgid "mission_desc_event_battle_c_0030"
-msgstr ""
+msgstr "进行对战并完成演出25次"
 
 msgid "mission_desc_event_battle_c_0031"
-msgstr ""
+msgstr "进行对战并完成演出30次"
 
 msgid "mission_desc_event_battle_c_0032"
 msgstr "【每日】击败EX级对手"
@@ -3974,7 +3974,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_a_0001"
 msgstr ""
 "和大家一起完成合作任务，\n"
-"为总力Live做好准备吧"
+"备战即将到来的总力Live吧"
 
 msgid "event_guide_event_raidlobby_c_0003"
 msgstr ""
@@ -4081,7 +4081,7 @@ msgstr "米莲·吉纳斯战队"
 msgid "event_guide_event_raidlobby_c_0001"
 msgstr ""
 "和大家一起完成合作任务，\n"
-"为总力Live做好准备吧"
+"备战即将到来的总力Live吧"
 
 msgid "event_guide_event_raidlobby_c_0008"
 msgstr ""
@@ -4116,7 +4116,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_d_0001"
 msgstr ""
 "和大家一起完成合作任务，\n"
-"为总力Live做好准备吧"
+"备战即将到来的总力Live吧"
 
 msgid "event_guide_event_raidlobby_d_0013"
 msgstr ""
@@ -4219,7 +4219,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_b_0001"
 msgstr ""
 "和大家一起完成合作任务，\n"
-"为总力Live做好准备吧"
+"备战即将到来的总力Live吧"
 
 msgid "event_guide_event_raidlobby_a_0016"
 msgstr ""
@@ -4252,3 +4252,915 @@ msgid "mission_desc_event_april_fool_e_0043"
 msgstr ""
 "将米莲设为队伍C位\n"
 "并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0036"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0036"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_e_0037"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0037"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0038"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0038"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc_event_april_fool_e_0033"
+msgstr ""
+"将蕾娜设为队伍C位\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0033"
+msgstr ""
+"将蕾娜设为队伍C位\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_f_0006"
+msgstr ""
+"将兰卡设为队伍C位\n"
+"并游玩任意歌曲5次"
+
+msgid "mission_desc_event_april_fool_f_0027"
+msgstr "进入超歌姬模式并完成演出100次"
+
+msgid "mission_desc_event_april_fool_f_0024"
+msgstr "进入超歌姬模式并完成演出10次"
+
+msgid "mission_desc_event_april_fool_f_0025"
+msgstr "进入超歌姬模式并完成演出20次"
+
+msgid "mission_desc_event_april_fool_f_0026"
+msgstr "进入超歌姬模式并完成演出50次"
+
+msgid "mission_desc_event_april_fool_f_0023"
+msgstr "进入超歌姬模式并完成演出5次"
+
+msgid "mission_desc_event_april_fool_f_0029"
+msgstr ""
+"完成《超时空要塞Macross》歌曲\n"
+"HARD以上难度演出10次"
+
+msgid "mission_desc_event_april_fool_f_0030"
+msgstr ""
+"完成《超时空要塞Macross》歌曲\n"
+"HARD以上难度演出20次"
+
+msgid "mission_desc_event_april_fool_f_0031"
+msgstr ""
+"完成《超时空要塞Macross》歌曲\n"
+"HARD以上难度演出30次"
+
+msgid "mission_desc_event_april_fool_f_0028"
+msgstr ""
+"完成《超时空要塞Macross》歌曲\n"
+"HARD以上难度演出5次"
+
+msgid "mission_desc_event_raid_a_10006"
+msgstr "在生命值90%以上的情况下完成演出"
+
+msgid "mission_desc_event_raid_a_0013"
+msgstr "击败1个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_10001"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_raid_a_10009"
+msgstr "进入歌姬模式并完成演出"
+
+msgid "mission_desc2_event_raid_a_0031"
+msgstr ""
+"累计对暴走敌人\n"
+"造成100000点伤害"
+
+msgid "mission_desc2_event_raid_a_0029"
+msgstr ""
+"累计对暴走敌人\n"
+"造成10000点伤害"
+
+msgid "mission_desc2_event_raid_a_0027"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000点伤害"
+
+msgid "event_guide_event_raidlobby_a_0004"
+msgstr ""
+"查看队员的个人资料吧！\n"
+"点击关注即可查看哦"
+
+msgid "mission_desc_event_raid_b_10006"
+msgstr "在生命值90%以上的情况下完成演出"
+
+msgid "mission_desc_event_raid_b_10001"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_raid_b_10009"
+msgstr "进入歌姬模式并完成演出"
+
+msgid "mission_desc2_event_raid_b_0031"
+msgstr ""
+"累计对暴走敌人\n"
+"造成100000点伤害"
+
+msgid "mission_desc2_event_raid_b_0029"
+msgstr ""
+"累计对暴走敌人\n"
+"造成10000点伤害"
+
+msgid "mission_desc2_event_raid_b_0027"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000点伤害"
+
+msgid "mission_desc2_event_raid_b_0032"
+msgstr ""
+"累计对暴走敌人\n"
+"造成200000点伤害"
+
+msgid "mission_desc2_event_raid_b_0033"
+msgstr ""
+"累计对暴走敌人\n"
+"造成300000点伤害"
+
+msgid "mission_desc2_event_raid_b_0030"
+msgstr ""
+"累计对暴走敌人\n"
+"造成50000点伤害"
+
+msgid "mission_desc2_event_raid_b_0028"
+msgstr ""
+"累计对暴走敌人\n"
+"造成5000点伤害"
+
+msgid "mission_desc_event_raid_b_0031"
+msgstr "累计对暴走敌人造成100000点伤害"
+
+msgid "mission_desc_event_raid_b_0029"
+msgstr "累计对暴走敌人造成10000点伤害"
+
+msgid "mission_desc2_event_raid_b_0040"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000000点伤害"
+
+msgid "mission_desc2_event_raid_b_0041"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1250000点伤害"
+
+msgid "mission_desc2_event_raid_b_0042"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1500000点伤害"
+
+msgid "mission_desc2_event_raid_b_0043"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1750000点伤害"
+
+msgid "mission_desc_event_raid_c_10006"
+msgstr "在生命值90%以上的情况下完成演出"
+
+msgid "mission_desc_event_raid_c_0017"
+msgstr "击败10个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0018"
+msgstr "击败15个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0013"
+msgstr "击败1个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0019"
+msgstr "击败20个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0020"
+msgstr "击败25个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_10001"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_raid_d_10006"
+msgstr "在生命值90%以上的情况下完成演出"
+
+msgid "mission_desc_event_raid_d_10009"
+msgstr "进入歌姬模式并完成演出"
+
+msgid "mission_desc_event_raid_d_0021"
+msgstr "击败10个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0022"
+msgstr "击败15个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0017"
+msgstr "击败1个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0023"
+msgstr "击败20个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0024"
+msgstr "击败25个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0018"
+msgstr "击败2个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0025"
+msgstr "击败30个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0019"
+msgstr "击败3个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0026"
+msgstr "击败40个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_d_0020"
+msgstr "击败5个暴走敌人并领取奖励"
+
+msgid "event_guide_event_raidlobby_a_0005"
+msgstr ""
+"发送消息和表情贴纸，\n"
+"与队员们互动交流吧！"
+
+msgid "event_guide_event_raidlobby_a_0030"
+msgstr ""
+"能让我，\n"
+"乘上你的船吗？"
+
+msgid "event_guide_event_raidlobby_a_0011"
+msgstr ""
+"等你很久啦！\n"
+"一起加油吧！"
+
+msgid "event_guide_event_raidlobby_b_0005"
+msgstr ""
+"发送消息和表情贴纸，\n"
+"与队员们互动交流吧！"
+
+msgid "event_guide_event_raidlobby_b_0011"
+msgstr ""
+"等你很久啦！\n"
+"一起加油吧！"
+
+msgid "event_guide_event_raidlobby_b_0004"
+msgstr ""
+"查看队员的个人资料吧！\n"
+"点击关注即可查看哦"
+
+msgid "event_guide_event_raidlobby_b_0030"
+msgstr ""
+"能让我，\n"
+"乘上你的船吗？"
+
+msgid "event_guide_event_raidlobby_c_0004"
+msgstr ""
+"查看队员的个人资料吧！\n"
+"点击关注即可查看哦"
+
+msgid "event_guide_event_raidlobby_c_0005"
+msgstr ""
+"发送消息和表情贴纸，\n"
+"与队员们互动交流吧！"
+
+msgid "event_guide_event_raidlobby_c_0011"
+msgstr ""
+"等你很久啦！\n"
+"一起加油吧！"
+
+msgid "event_guide_event_raidlobby_d_0005"
+msgstr ""
+"发送消息和表情贴纸，\n"
+"与队员们互动交流吧！"
+
+msgid "event_guide_event_raidlobby_c_0030"
+msgstr ""
+"能让我，\n"
+"乘上你的船吗？"
+
+msgid "event_guide_event_raidlobby_d_0004"
+msgstr ""
+"查看队员的个人资料吧！\n"
+"点击关注即可查看哦"
+
+msgid "event_guide_event_raidlobby_d_0030"
+msgstr ""
+"能让我，\n"
+"乘上你的船吗？"
+
+msgid "event_guide_event_raidlobby_d_0011"
+msgstr ""
+"等你很久啦！\n"
+"一起加油吧！"
+
+msgid "mission_desc_event_april_fool_e_0034"
+msgstr ""
+"将蕾娜设为队伍C位\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0034"
+msgstr ""
+"将蕾娜设为队伍C位\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0035"
+msgstr ""
+"将蕾娜设为队伍C位\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0035"
+msgstr ""
+"将蕾娜设为队伍C位\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_raid_a_0040"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000000点伤害"
+
+msgid "mission_desc2_event_raid_c_0040"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000000点伤害"
+
+msgid "mission_desc2_event_raid_d_0044"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000000点伤害"
+
+msgid "mission_desc2_event_raid_c_0031"
+msgstr ""
+"累计对暴走敌人\n"
+"造成100000点伤害"
+
+msgid "mission_desc2_event_raid_d_0035"
+msgstr ""
+"累计对暴走敌人\n"
+"造成100000点伤害"
+
+msgid "mission_desc2_event_raid_c_0029"
+msgstr ""
+"累计对暴走敌人\n"
+"造成10000点伤害"
+
+msgid "mission_desc2_event_raid_d_0033"
+msgstr ""
+"累计对暴走敌人\n"
+"造成10000点伤害"
+
+msgid "mission_desc2_event_raid_c_0027"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000点伤害"
+
+msgid "mission_desc2_event_raid_d_0031"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1000点伤害"
+
+msgid "mission_desc2_event_raid_a_0041"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1250000点伤害"
+
+msgid "mission_desc2_event_raid_c_0041"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1250000点伤害"
+
+msgid "mission_desc2_event_raid_d_0045"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1250000点伤害"
+
+msgid "mission_desc2_event_raid_a_0042"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1500000点伤害"
+
+msgid "mission_desc2_event_raid_c_0042"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1500000点伤害"
+
+msgid "mission_desc2_event_raid_d_0046"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1500000点伤害"
+
+msgid "mission_desc2_event_raid_a_0043"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1750000点伤害"
+
+msgid "mission_desc2_event_raid_c_0043"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1750000点伤害"
+
+msgid "mission_desc2_event_raid_d_0047"
+msgstr ""
+"累计对暴走敌人\n"
+"造成1750000点伤害"
+
+msgid "mission_desc2_event_raid_a_0044"
+msgstr ""
+"累计对暴走敌人\n"
+"造成2000000点伤害"
+
+msgid "mission_desc2_event_raid_b_0044"
+msgstr ""
+"累计对暴走敌人\n"
+"造成2000000点伤害"
+
+msgid "mission_desc2_event_raid_c_0044"
+msgstr ""
+"累计对暴走敌人\n"
+"造成2000000点伤害"
+
+msgid "mission_desc2_event_raid_d_0048"
+msgstr ""
+"累计对暴走敌人\n"
+"造成2000000点伤害"
+
+msgid "mission_desc2_event_raid_a_0032"
+msgstr ""
+"累计对暴走敌人\n"
+"造成200000点伤害"
+
+msgid "mission_desc2_event_raid_c_0032"
+msgstr ""
+"累计对暴走敌人\n"
+"造成200000点伤害"
+
+msgid "mission_desc2_event_raid_d_0036"
+msgstr ""
+"累计对暴走敌人\n"
+"造成200000点伤害"
+
+msgid "mission_desc2_event_raid_a_0033"
+msgstr ""
+"累计对暴走敌人\n"
+"造成300000点伤害"
+
+msgid "mission_desc2_event_raid_c_0033"
+msgstr ""
+"累计对暴走敌人\n"
+"造成300000点伤害"
+
+msgid "mission_desc2_event_raid_d_0037"
+msgstr ""
+"累计对暴走敌人\n"
+"造成300000点伤害"
+
+msgid "mission_desc2_event_raid_a_0034"
+msgstr ""
+"累计对暴走敌人\n"
+"造成400000点伤害"
+
+msgid "mission_desc2_event_raid_b_0034"
+msgstr ""
+"累计对暴走敌人\n"
+"造成400000点伤害"
+
+msgid "mission_desc2_event_raid_c_0034"
+msgstr ""
+"累计对暴走敌人\n"
+"造成400000点伤害"
+
+msgid "mission_desc2_event_raid_d_0038"
+msgstr ""
+"累计对暴走敌人\n"
+"造成400000点伤害"
+
+msgid "mission_desc2_event_raid_a_0035"
+msgstr ""
+"累计对暴走敌人\n"
+"造成500000点伤害"
+
+msgid "mission_desc2_event_raid_b_0035"
+msgstr ""
+"累计对暴走敌人\n"
+"造成500000点伤害"
+
+msgid "mission_desc2_event_raid_c_0035"
+msgstr ""
+"累计对暴走敌人\n"
+"造成500000点伤害"
+
+msgid "mission_desc2_event_raid_d_0039"
+msgstr ""
+"累计对暴走敌人\n"
+"造成500000点伤害"
+
+msgid "mission_desc2_event_raid_a_0030"
+msgstr ""
+"累计对暴走敌人\n"
+"造成50000点伤害"
+
+msgid "mission_desc2_event_raid_c_0030"
+msgstr ""
+"累计对暴走敌人\n"
+"造成50000点伤害"
+
+msgid "mission_desc2_event_raid_d_0034"
+msgstr ""
+"累计对暴走敌人\n"
+"造成50000点伤害"
+
+msgid "mission_desc2_event_raid_a_0028"
+msgstr ""
+"累计对暴走敌人\n"
+"造成5000点伤害"
+
+msgid "mission_desc2_event_raid_c_0028"
+msgstr ""
+"累计对暴走敌人\n"
+"造成5000点伤害"
+
+msgid "mission_desc2_event_raid_d_0032"
+msgstr ""
+"累计对暴走敌人\n"
+"造成5000点伤害"
+
+msgid "mission_desc2_event_raid_a_0036"
+msgstr ""
+"累计对暴走敌人\n"
+"造成600000点伤害"
+
+msgid "mission_desc2_event_raid_b_0036"
+msgstr ""
+"累计对暴走敌人\n"
+"造成600000点伤害"
+
+msgid "mission_desc2_event_raid_c_0036"
+msgstr ""
+"累计对暴走敌人\n"
+"造成600000点伤害"
+
+msgid "mission_desc2_event_raid_d_0040"
+msgstr ""
+"累计对暴走敌人\n"
+"造成600000点伤害"
+
+msgid "mission_desc2_event_raid_a_0037"
+msgstr ""
+"累计对暴走敌人\n"
+"造成700000点伤害"
+
+msgid "mission_desc2_event_raid_b_0037"
+msgstr ""
+"累计对暴走敌人\n"
+"造成700000点伤害"
+
+msgid "mission_desc2_event_raid_c_0037"
+msgstr ""
+"累计对暴走敌人\n"
+"造成700000点伤害"
+
+msgid "mission_desc2_event_raid_d_0041"
+msgstr ""
+"累计对暴走敌人\n"
+"造成700000点伤害"
+
+msgid "mission_desc2_event_raid_a_0038"
+msgstr ""
+"累计对暴走敌人\n"
+"造成800000点伤害"
+
+msgid "mission_desc2_event_raid_b_0038"
+msgstr ""
+"累计对暴走敌人\n"
+"造成800000点伤害"
+
+msgid "mission_desc2_event_raid_c_0038"
+msgstr ""
+"累计对暴走敌人\n"
+"造成800000点伤害"
+
+msgid "mission_desc2_event_raid_d_0042"
+msgstr ""
+"累计对暴走敌人\n"
+"造成800000点伤害"
+
+msgid "mission_desc2_event_raid_a_0039"
+msgstr ""
+"累计对暴走敌人\n"
+"造成900000点伤害"
+
+msgid "mission_desc2_event_raid_b_0039"
+msgstr ""
+"累计对暴走敌人\n"
+"造成900000点伤害"
+
+msgid "mission_desc2_event_raid_c_0039"
+msgstr ""
+"累计对暴走敌人\n"
+"造成900000点伤害"
+
+msgid "mission_desc2_event_raid_d_0043"
+msgstr ""
+"累计对暴走敌人\n"
+"造成900000点伤害"
+
+msgid "mission_desc_event_raid_a_0040"
+msgstr "累计对暴走敌人造成1000000点伤害"
+
+msgid "mission_desc_event_raid_b_0040"
+msgstr "累计对暴走敌人造成1000000点伤害"
+
+msgid "mission_desc_event_raid_c_0040"
+msgstr "累计对暴走敌人造成1000000点伤害"
+
+msgid "mission_desc_event_raid_d_0044"
+msgstr "累计对暴走敌人造成1000000点伤害"
+
+msgid "mission_desc_event_raid_a_0031"
+msgstr "累计对暴走敌人造成100000点伤害"
+
+msgid "mission_desc_event_raid_c_0031"
+msgstr "累计对暴走敌人造成100000点伤害"
+
+msgid "mission_desc_event_raid_d_0035"
+msgstr "累计对暴走敌人造成100000点伤害"
+
+msgid "mission_desc_event_raid_a_0029"
+msgstr "累计对暴走敌人造成10000点伤害"
+
+msgid "mission_desc_event_raid_c_0029"
+msgstr "累计对暴走敌人造成10000点伤害"
+
+msgid "mission_desc_event_raid_d_0033"
+msgstr "累计对暴走敌人造成10000点伤害"
+
+msgid "mission_desc_event_raid_a_0027"
+msgstr "累计对暴走敌人造成1000点伤害"
+
+msgid "mission_desc_event_raid_b_0027"
+msgstr "累计对暴走敌人造成1000点伤害"
+
+msgid "mission_desc_event_raid_c_0027"
+msgstr "累计对暴走敌人造成1000点伤害"
+
+msgid "mission_desc_event_raid_d_0031"
+msgstr "累计对暴走敌人造成1000点伤害"
+
+msgid "mission_desc_event_raid_a_0041"
+msgstr "累计对暴走敌人造成1250000点伤害"
+
+msgid "mission_desc_event_raid_b_0041"
+msgstr "累计对暴走敌人造成1250000点伤害"
+
+msgid "mission_desc_event_raid_c_0041"
+msgstr "累计对暴走敌人造成1250000点伤害"
+
+msgid "mission_desc_event_raid_d_0045"
+msgstr "累计对暴走敌人造成1250000点伤害"
+
+msgid "mission_desc_event_raid_a_0042"
+msgstr "累计对暴走敌人造成1500000点伤害"
+
+msgid "mission_desc_event_raid_b_0042"
+msgstr "累计对暴走敌人造成1500000点伤害"
+
+msgid "mission_desc_event_raid_c_0042"
+msgstr "累计对暴走敌人造成1500000点伤害"
+
+msgid "mission_desc_event_raid_d_0046"
+msgstr "累计对暴走敌人造成1500000点伤害"
+
+msgid "mission_desc_event_raid_a_0043"
+msgstr "累计对暴走敌人造成1750000点伤害"
+
+msgid "mission_desc_event_raid_b_0043"
+msgstr "累计对暴走敌人造成1750000点伤害"
+
+msgid "mission_desc_event_raid_c_0043"
+msgstr "累计对暴走敌人造成1750000点伤害"
+
+msgid "mission_desc_event_raid_d_0047"
+msgstr "累计对暴走敌人造成1750000点伤害"
+
+msgid "mission_desc_event_raid_a_0044"
+msgstr "累计对暴走敌人造成2000000点伤害"
+
+msgid "mission_desc_event_raid_b_0044"
+msgstr "累计对暴走敌人造成2000000点伤害"
+
+msgid "mission_desc_event_raid_c_0044"
+msgstr "累计对暴走敌人造成2000000点伤害"
+
+msgid "mission_desc_event_raid_d_0048"
+msgstr "累计对暴走敌人造成2000000点伤害"
+
+msgid "mission_desc_event_raid_a_0032"
+msgstr "累计对暴走敌人造成200000点伤害"
+
+msgid "mission_desc_event_raid_b_0032"
+msgstr "累计对暴走敌人造成200000点伤害"
+
+msgid "mission_desc_event_raid_c_0032"
+msgstr "累计对暴走敌人造成200000点伤害"
+
+msgid "mission_desc_event_raid_d_0036"
+msgstr "累计对暴走敌人造成200000点伤害"
+
+msgid "mission_desc_event_raid_a_0033"
+msgstr "累计对暴走敌人造成300000点伤害"
+
+msgid "mission_desc_event_raid_b_0033"
+msgstr "累计对暴走敌人造成300000点伤害"
+
+msgid "mission_desc_event_raid_c_0033"
+msgstr "累计对暴走敌人造成300000点伤害"
+
+msgid "mission_desc_event_raid_d_0037"
+msgstr "累计对暴走敌人造成300000点伤害"
+
+msgid "mission_desc_event_raid_a_0034"
+msgstr "累计对暴走敌人造成400000点伤害"
+
+msgid "mission_desc_event_raid_b_0034"
+msgstr "累计对暴走敌人造成400000点伤害"
+
+msgid "mission_desc_event_raid_c_0034"
+msgstr "累计对暴走敌人造成400000点伤害"
+
+msgid "mission_desc_event_raid_d_0038"
+msgstr "累计对暴走敌人造成400000点伤害"
+
+msgid "mission_desc_event_raid_a_0035"
+msgstr "累计对暴走敌人造成500000点伤害"
+
+msgid "mission_desc_event_raid_b_0035"
+msgstr "累计对暴走敌人造成500000点伤害"
+
+msgid "mission_desc_event_raid_c_0035"
+msgstr "累计对暴走敌人造成500000点伤害"
+
+msgid "mission_desc_event_raid_d_0039"
+msgstr "累计对暴走敌人造成500000点伤害"
+
+msgid "mission_desc_event_raid_a_0030"
+msgstr "累计对暴走敌人造成50000点伤害"
+
+msgid "mission_desc_event_raid_b_0030"
+msgstr "累计对暴走敌人造成50000点伤害"
+
+msgid "mission_desc_event_raid_c_0030"
+msgstr "累计对暴走敌人造成50000点伤害"
+
+msgid "mission_desc_event_raid_d_0034"
+msgstr "累计对暴走敌人造成50000点伤害"
+
+msgid "mission_desc_event_raid_a_0028"
+msgstr "累计对暴走敌人造成5000点伤害"
+
+msgid "mission_desc_event_raid_b_0028"
+msgstr "累计对暴走敌人造成5000点伤害"
+
+msgid "mission_desc_event_raid_c_0028"
+msgstr "累计对暴走敌人造成5000点伤害"
+
+msgid "mission_desc_event_raid_d_0032"
+msgstr "累计对暴走敌人造成5000点伤害"
+
+msgid "mission_desc_event_raid_a_0036"
+msgstr "累计对暴走敌人造成600000点伤害"
+
+msgid "mission_desc_event_raid_b_0036"
+msgstr "累计对暴走敌人造成600000点伤害"
+
+msgid "mission_desc_event_raid_c_0036"
+msgstr "累计对暴走敌人造成600000点伤害"
+
+msgid "mission_desc_event_raid_d_0040"
+msgstr "累计对暴走敌人造成600000点伤害"
+
+msgid "mission_desc_event_raid_a_0037"
+msgstr "累计对暴走敌人造成700000点伤害"
+
+msgid "mission_desc_event_raid_b_0037"
+msgstr "累计对暴走敌人造成700000点伤害"
+
+msgid "mission_desc_event_raid_c_0037"
+msgstr "累计对暴走敌人造成700000点伤害"
+
+msgid "mission_desc_event_raid_d_0041"
+msgstr "累计对暴走敌人造成700000点伤害"
+
+msgid "mission_desc_event_raid_a_0038"
+msgstr "累计对暴走敌人造成800000点伤害"
+
+msgid "mission_desc_event_raid_b_0038"
+msgstr "累计对暴走敌人造成800000点伤害"
+
+msgid "mission_desc_event_raid_c_0038"
+msgstr "累计对暴走敌人造成800000点伤害"
+
+msgid "mission_desc_event_raid_d_0042"
+msgstr "累计对暴走敌人造成800000点伤害"
+
+msgid "mission_desc_event_raid_a_0039"
+msgstr "累计对暴走敌人造成900000点伤害"
+
+msgid "mission_desc_event_raid_b_0039"
+msgstr "累计对暴走敌人造成900000点伤害"
+
+msgid "mission_desc_event_raid_c_0039"
+msgstr "累计对暴走敌人造成900000点伤害"
+
+msgid "mission_desc_event_raid_d_0043"
+msgstr "累计对暴走敌人造成900000点伤害"
+
+msgid "mission_desc_event_raid_a_0017"
+msgstr "击败10个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0017"
+msgstr "击败10个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0018"
+msgstr "击败15个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0018"
+msgstr "击败15个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0013"
+msgstr "击败1个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0019"
+msgstr "击败20个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0019"
+msgstr "击败20个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0020"
+msgstr "击败25个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0020"
+msgstr "击败25个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0014"
+msgstr "击败2个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0014"
+msgstr "击败2个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0014"
+msgstr "击败2个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0021"
+msgstr "击败30个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0021"
+msgstr "击败30个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0021"
+msgstr "击败30个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0015"
+msgstr "击败3个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0015"
+msgstr "击败3个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0015"
+msgstr "击败3个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0022"
+msgstr "击败40个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0022"
+msgstr "击败40个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0022"
+msgstr "击败40个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_a_0016"
+msgstr "击败5个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_b_0016"
+msgstr "击败5个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_0016"
+msgstr "击败5个暴走敌人并领取奖励"
+
+msgid "mission_desc_event_raid_c_10001"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_raid_c_10009"
+msgstr "进入歌姬模式并完成演出"
