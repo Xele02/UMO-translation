@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-05-30 10:46+0000\n"
+"PO-Revision-Date: 2025-06-01 08:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -547,33 +547,33 @@ msgstr "完成30项任务"
 
 msgid "mission_desc_event_april_fool_a_0004"
 msgstr ""
-"以SS评价\n"
-"完成VERY HARD难度演出10次"
+"游玩VERY HARD难度演出\n"
+"并达成SS评价10次"
 
 msgid "mission_desc_event_april_fool_a_0005"
 msgstr ""
-"以SS评价\n"
-"完成VERY HARD难度演出20次"
+"游玩VERY HARD难度演出\n"
+"并达成SS评价20次"
 
 msgid "mission_desc_event_april_fool_a_0006"
 msgstr ""
-"以SS评价\n"
-"完成VERY HARD难度演出50次"
+"游玩VERY HARD难度演出\n"
+"并达成SS评价50次"
 
 msgid "mission_desc_event_april_fool_a_0008"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出30次"
+"游玩EXTREME难度演出\n"
+"并达成SS评价30次"
 
 msgid "mission_desc_event_april_fool_a_0009"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出50次"
+"游玩EXTREME难度演出\n"
+"并达成SS评价50次"
 
 msgid "mission_desc_event_april_fool_a_0010"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出100次"
+"游玩EXTREME难度演出\n"
+"并达成SS评价100次"
 
 msgid "mission_desc_event_april_fool_a_0011"
 msgstr ""
@@ -617,8 +617,8 @@ msgstr "完成45项任务"
 
 msgid "mission_desc_event_april_fool_a_0007"
 msgstr ""
-"以SS评价\n"
-"完成EXTREME难度演出20次"
+"游玩EXTREME难度演出\n"
+"并达成SS评价20次"
 
 msgid "mission_desc_event_april_fool_a_0014"
 msgstr ""
@@ -946,7 +946,7 @@ msgstr ""
 "累计完成战机派遣行动30次"
 
 msgid "event_guide_event_raidlobby_c_0023"
-msgstr "精彩绝伦的表演！"
+msgstr "精彩绝伦的演出！"
 
 msgid "mission_desc_event_raidlobby_c_0002"
 msgstr ""
@@ -1059,7 +1059,7 @@ msgid "event_guide_event_raidlobby_d_0015"
 msgstr "我会加油的！"
 
 msgid "event_guide_event_raidlobby_d_0023"
-msgstr "精彩绝伦的表演！"
+msgstr "精彩绝伦的演出！"
 
 msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_01"
 msgstr ""
@@ -3365,10 +3365,10 @@ msgid "event_guide_event_raidlobby_c_0029"
 msgstr "感谢帮忙！"
 
 msgid "event_guide_event_raidlobby_a_0023"
-msgstr "精彩绝伦的表演！"
+msgstr "精彩绝伦的演出！"
 
 msgid "event_guide_event_raidlobby_b_0023"
-msgstr "精彩绝伦的表演！"
+msgstr "精彩绝伦的演出！"
 
 msgid "mission_desc_event_april_fool_a_0037"
 msgstr ""
@@ -3555,7 +3555,9 @@ msgid "mission_desc_event_raid_a_10002"
 msgstr "达成SS评价"
 
 msgid "mission_desc_event_raid_a_10008"
-msgstr "以Fold指数突破100%的状态完成演出"
+msgstr ""
+"以Fold指数突破100%的状态\n"
+"完成演出"
 
 msgid "mission_desc_event_raid_a_10010"
 msgstr "达成FULL COMBO"
@@ -3582,7 +3584,9 @@ msgid "mission_desc_event_raid_c_10005"
 msgstr "游玩歌曲并取得S以上连击评价"
 
 msgid "mission_desc_event_raid_c_10008"
-msgstr "以Fold指数突破100%的状态完成演出"
+msgstr ""
+"以Fold指数突破100%的状态\n"
+"完成演出"
 
 msgid "mission_desc_event_raid_c_10010"
 msgstr "达成FULL COMBO"
@@ -3756,10 +3760,14 @@ msgid "event_bossname_event_raid_c_0006"
 msgstr "巴尔戈"
 
 msgid "mission_desc_event_raid_b_10008"
-msgstr "以Fold指数突破100%的状态完成演出"
+msgstr ""
+"以Fold指数突破100%的状态\n"
+"完成演出"
 
 msgid "mission_desc_event_raid_d_10008"
-msgstr "以Fold指数突破100%的状态完成演出"
+msgstr ""
+"以Fold指数突破100%的状态\n"
+"完成演出"
 
 msgid "mission_desc_event_raid_b_10010"
 msgstr "达成FULL COMBO"
@@ -3969,7 +3977,7 @@ msgstr "通过完成任务累计获得150颗歌晶石吧！"
 msgid "event_guide_event_raidlobby_a_0003"
 msgstr ""
 "在战队大厅\n"
-"努力积攒粉丝吧！"
+"努力收获粉丝吧！"
 
 msgid "event_guide_event_raidlobby_a_0001"
 msgstr ""
@@ -3979,7 +3987,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_c_0003"
 msgstr ""
 "在战队大厅\n"
-"努力积攒粉丝吧！"
+"努力收获粉丝吧！"
 
 msgid "event_group_event_raidlobby_d_0002"
 msgstr "米海尔·布朗战队"
@@ -4019,7 +4027,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_a_0013"
 msgstr ""
 "Macross加农…好强大！\n"
-"得赶快给它充能"
+"必须赶快为它充能"
 
 msgid "event_guide_event_raidlobby_a_0025"
 msgstr ""
@@ -4055,12 +4063,12 @@ msgstr ""
 msgid "event_guide_event_raidlobby_b_0013"
 msgstr ""
 "Macross加农…好强大！\n"
-"得赶快给它充能"
+"必须赶快为它充能"
 
 msgid "event_guide_event_raidlobby_b_0003"
 msgstr ""
 "在战队大厅\n"
-"努力积攒粉丝吧！"
+"努力收获粉丝吧！"
 
 msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_02"
 msgstr ""
@@ -4091,7 +4099,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_c_0013"
 msgstr ""
 "Macross加农…好强大！\n"
-"得赶快给它充能"
+"必须赶快为它充能"
 
 msgid "event_guide_event_raidlobby_c_0025"
 msgstr ""
@@ -4111,7 +4119,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_d_0003"
 msgstr ""
 "在战队大厅\n"
-"努力积攒粉丝吧！"
+"努力收获粉丝吧！"
 
 msgid "event_guide_event_raidlobby_d_0001"
 msgstr ""
@@ -4121,7 +4129,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_d_0013"
 msgstr ""
 "Macross加农…好强大！\n"
-"得赶快给它充能"
+"必须赶快为它充能"
 
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_02"
 msgstr ""
@@ -4500,7 +4508,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_a_0030"
 msgstr ""
 "能让我，\n"
-"乘上你的船吗？"
+"登上你的船吗？"
 
 msgid "event_guide_event_raidlobby_a_0011"
 msgstr ""
@@ -4525,7 +4533,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_b_0030"
 msgstr ""
 "能让我，\n"
-"乘上你的船吗？"
+"登上你的船吗？"
 
 msgid "event_guide_event_raidlobby_c_0004"
 msgstr ""
@@ -4550,7 +4558,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_c_0030"
 msgstr ""
 "能让我，\n"
-"乘上你的船吗？"
+"登上你的船吗？"
 
 msgid "event_guide_event_raidlobby_d_0004"
 msgstr ""
@@ -4560,7 +4568,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_d_0030"
 msgstr ""
 "能让我，\n"
-"乘上你的船吗？"
+"登上你的船吗？"
 
 msgid "event_guide_event_raidlobby_d_0011"
 msgstr ""
@@ -5164,3 +5172,618 @@ msgstr "进入超歌姬模式并完成演出"
 
 msgid "mission_desc_event_raid_c_10009"
 msgstr "进入歌姬模式并完成演出"
+
+msgid "mission_desc_event_april_fool_d_0026"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成SS评价10次"
+
+msgid "mission_desc_event_april_fool_d_0027"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成SS评价15次"
+
+msgid "mission_desc_event_april_fool_d_0028"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成SS评价20次"
+
+msgid "mission_desc_event_april_fool_d_0029"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成SS评价25次"
+
+msgid "mission_desc_event_april_fool_d_0030"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成SS评价30次"
+
+msgid "mission_desc_event_april_fool_d_0036"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价10次"
+
+msgid "mission_desc_event_april_fool_d_0037"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价15次"
+
+msgid "mission_desc_event_april_fool_d_0038"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价20次"
+
+msgid "mission_desc_event_april_fool_d_0035"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价5次"
+
+msgid "mission_desc_event_april_fool_d_0047"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_d_0048"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成FULL COMBO 15次"
+
+msgid "mission_desc_event_april_fool_d_0046"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成FULL COMBO 5次"
+
+msgid "mission_desc_event_april_fool_d_0031"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成SS评价40次"
+
+msgid "mission_desc_event_april_fool_d_0039"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_d_0040"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成FULL COMBO 15次"
+
+msgid "mission_desc_event_april_fool_d_0041"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成FULL COMBO 20次"
+
+msgid "mission_desc_event_april_fool_d_0042"
+msgstr ""
+"游玩HARD以上难度演出\n"
+"并达成FULL COMBO 40次"
+
+msgid "mission_desc_event_april_fool_d_0033"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成SS评价10次"
+
+msgid "mission_desc_event_april_fool_e_0024"
+msgstr ""
+"将美云设为队伍C位\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc2_event_april_fool_e_0024"
+msgstr ""
+"将美云设为队伍C位\n"
+"并游玩任意歌曲10次"
+
+msgid "mission_desc_event_april_fool_e_0025"
+msgstr ""
+"将美云设为队伍C位\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc2_event_april_fool_e_0025"
+msgstr ""
+"将美云设为队伍C位\n"
+"并游玩任意歌曲20次"
+
+msgid "mission_desc_event_april_fool_e_0026"
+msgstr ""
+"将美云设为队伍C位\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc2_event_april_fool_e_0026"
+msgstr ""
+"将美云设为队伍C位\n"
+"并游玩任意歌曲30次"
+
+msgid "mission_desc_event_april_fool_g_0034"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价10次"
+
+msgid "mission_desc_event_april_fool_g_0035"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价20次"
+
+msgid "mission_desc_event_april_fool_g_0036"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价30次"
+
+msgid "mission_desc_event_april_fool_g_0037"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价40次"
+
+msgid "mission_desc_event_april_fool_g_0038"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价50次"
+
+msgid "mission_desc_event_april_fool_g_0039"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价60次"
+
+msgid "mission_desc_event_april_fool_i_0001"
+msgstr "完成演出并取得100万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0002"
+msgstr "完成演出并取得125万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0003"
+msgstr "完成演出并取得150万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0004"
+msgstr "完成演出并取得175万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0005"
+msgstr "完成演出并取得200万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0006"
+msgstr "完成演出并取得225万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0007"
+msgstr "完成演出并取得250万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0008"
+msgstr "完成演出并取得275万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0009"
+msgstr "完成演出并取得300万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0010"
+msgstr "完成演出并取得325万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0011"
+msgstr "完成演出并取得350万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0012"
+msgstr "完成演出并取得375万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0013"
+msgstr "完成演出并取得400万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0014"
+msgstr "完成演出并取得425万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0043"
+msgstr "完成演出并取得1300万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0044"
+msgstr "完成演出并取得1350万以上分数"
+
+msgid "mission_desc_event_raid_a_10007"
+msgstr "完成演出"
+
+msgid "mission_desc_event_raid_a_0045"
+msgstr "完成演出1次"
+
+msgid "mission_desc_event_raid_a_0048"
+msgstr "完成演出10次"
+
+msgid "mission_desc_event_raid_a_0049"
+msgstr "完成演出15次"
+
+msgid "mission_desc_event_raid_a_0050"
+msgstr "完成演出20次"
+
+msgid "mission_desc_event_raid_a_0051"
+msgstr "完成演出30次"
+
+msgid "mission_desc_event_raid_a_0046"
+msgstr "完成演出3次"
+
+msgid "mission_desc_event_raid_a_0052"
+msgstr "完成演出40次"
+
+msgid "mission_desc_event_raid_a_0053"
+msgstr "完成演出50次"
+
+msgid "mission_desc_event_raid_a_0047"
+msgstr "完成演出6次"
+
+msgid "mission_desc_event_raid_c_0045"
+msgstr "完成演出1次"
+
+msgid "mission_desc_event_raid_d_0057"
+msgstr "完成演出50次"
+
+msgid "event_guide_event_raidlobby_a_0002"
+msgstr ""
+"虽然是第一次和别人交流，\n"
+"但这种感觉…还挺不错"
+
+msgid "mission_desc_event_raid_b_10007"
+msgstr "完成演出"
+
+msgid "mission_desc_event_raid_b_0048"
+msgstr "完成演出10次"
+
+msgid "mission_desc_event_raid_b_0049"
+msgstr "完成演出15次"
+
+msgid "mission_desc_event_raid_b_0045"
+msgstr "完成演出1次"
+
+msgid "mission_desc_event_raid_b_0050"
+msgstr "完成演出20次"
+
+msgid "mission_desc_event_raid_b_0051"
+msgstr "完成演出30次"
+
+msgid "mission_desc_event_raid_b_0046"
+msgstr "完成演出3次"
+
+msgid "mission_desc_event_raid_b_0052"
+msgstr "完成演出40次"
+
+msgid "mission_desc_event_raid_b_0053"
+msgstr "完成演出50次"
+
+msgid "mission_desc_event_raid_b_0047"
+msgstr "完成演出6次"
+
+msgid "mission_desc_event_raid_c_10007"
+msgstr "完成演出"
+
+msgid "mission_desc_event_raid_c_0046"
+msgstr "完成演出3次"
+
+msgid "mission_desc_event_raid_c_0053"
+msgstr "完成演出50次"
+
+msgid "mission_desc_event_raid_d_10007"
+msgstr "完成演出"
+
+msgid "event_guide_event_raidlobby_a_0007"
+msgstr "我也不会输的！"
+
+msgid "event_guide_event_raidlobby_a_0006"
+msgstr ""
+"合作任务每天一换，\n"
+"完成任务，奖励多多哟"
+
+msgid "mission_desc_event_raid_d_0052"
+msgstr "完成演出10次"
+
+msgid "mission_desc_event_raid_d_0053"
+msgstr "完成演出15次"
+
+msgid "mission_desc_event_raid_d_0049"
+msgstr "完成演出1次"
+
+msgid "mission_desc_event_raid_d_0054"
+msgstr "完成演出20次"
+
+msgid "mission_desc_event_raid_d_0055"
+msgstr "完成演出30次"
+
+msgid "mission_desc_event_raid_d_0050"
+msgstr "完成演出3次"
+
+msgid "mission_desc_event_raid_d_0056"
+msgstr "完成演出40次"
+
+msgid "mission_desc_event_raid_d_0051"
+msgstr "完成演出6次"
+
+msgid "event_guide_event_raidlobby_a_0012"
+msgstr ""
+"接下来，敬请欣赏\n"
+"我们Walküre的表演吧！"
+
+msgid "event_guide_event_raidlobby_a_0021"
+msgstr ""
+"遇见大家，\n"
+"是我最大的幸运！！"
+
+msgid "event_guide_event_raidlobby_a_0026"
+msgstr ""
+"你的歌声，\n"
+"我听到了哦！"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_04"
+msgstr "敌人已被击败！"
+
+msgid "event_guide_event_raidlobby_b_0012"
+msgstr ""
+"接下来，敬请欣赏\n"
+"我们Walküre的表演吧！"
+
+msgid "event_guide_event_raidlobby_b_0021"
+msgstr ""
+"遇见大家，\n"
+"是我最大的幸运！！"
+
+msgid "event_guide_event_raidlobby_b_0007"
+msgstr "我也不会输的！"
+
+msgid "event_guide_event_raidlobby_c_0002"
+msgstr ""
+"虽然是第一次和别人交流，\n"
+"但这种感觉…还挺不错"
+
+msgid "event_guide_event_raidlobby_b_0026"
+msgstr ""
+"你的歌声，\n"
+"我听到了哦！"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_04"
+msgstr "敌人已被击败！"
+
+msgid "event_guide_event_raidlobby_c_0007"
+msgstr "我也不会输的！"
+
+msgid "event_guide_event_raidlobby_c_0012"
+msgstr ""
+"接下来，敬请欣赏\n"
+"我们Walküre的表演吧！"
+
+msgid "event_guide_event_raidlobby_c_0021"
+msgstr ""
+"遇见大家，\n"
+"是我最大的幸运！！"
+
+msgid "event_guide_event_raidlobby_c_0026"
+msgstr ""
+"你的歌声，\n"
+"我听到了哦！"
+
+msgid "event_guide_event_raidlobby_d_0002"
+msgstr ""
+"虽然是第一次和别人交流，\n"
+"但这种感觉…还挺不错"
+
+msgid "event_guide_event_raidlobby_d_0007"
+msgstr "我也不会输的！"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_04"
+msgstr "敌人已被击败！"
+
+msgid "event_guide_event_raidlobby_d_0006"
+msgstr ""
+"合作任务每天一换，\n"
+"完成任务，奖励多多哟"
+
+msgid "event_guide_event_raidlobby_d_0012"
+msgstr ""
+"接下来，敬请欣赏\n"
+"我们Walküre的表演吧！"
+
+msgid "event_guide_event_raidlobby_d_0021"
+msgstr ""
+"遇见大家，\n"
+"是我最大的幸运！！"
+
+msgid "event_guide_event_raidlobby_d_0026"
+msgstr ""
+"你的歌声，\n"
+"我听到了哦！"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_04"
+msgstr "敌人已被击败！"
+
+msgid "event_guide_event_raidlobby_b_0002"
+msgstr ""
+"虽然是第一次和别人交流，\n"
+"但这种感觉…还挺不错"
+
+msgid "mission_desc_event_april_fool_g_0033"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成SS评价6次"
+
+msgid "mission_desc_event_april_fool_g_0040"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_g_0041"
+msgstr ""
+"游玩EXTREME难度演出\n"
+"并达成FULL COMBO 20次"
+
+msgid "mission_desc_event_april_fool_g_0031"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成SS评价10次"
+
+msgid "mission_desc_event_april_fool_d_0034"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成SS评价20次"
+
+msgid "mission_desc_event_april_fool_g_0032"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成SS评价20次"
+
+msgid "mission_desc_event_april_fool_d_0032"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成SS评价5次"
+
+msgid "mission_desc_event_april_fool_g_0030"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成SS评价6次"
+
+msgid "mission_desc_event_april_fool_d_0043"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_g_0028"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 10次"
+
+msgid "mission_desc_event_april_fool_g_0025"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 1次"
+
+msgid "mission_desc_event_april_fool_d_0044"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 20次"
+
+msgid "mission_desc_event_april_fool_g_0029"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 20次"
+
+msgid "mission_desc_event_april_fool_d_0045"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 30次"
+
+msgid "mission_desc_event_april_fool_g_0026"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 3次"
+
+msgid "mission_desc_event_april_fool_g_0027"
+msgstr ""
+"游玩VERY HARD以上难度演出\n"
+"并达成FULL COMBO 5次"
+
+msgid "event_guide_event_raidlobby_b_0006"
+msgstr ""
+"合作任务每天一换，\n"
+"完成任务，奖励多多哟"
+
+msgid "event_guide_event_raidlobby_c_0006"
+msgstr ""
+"合作任务每天一换，\n"
+"完成任务，奖励多多哟"
+
+msgid "mission_desc_event_raid_c_0048"
+msgstr "完成演出10次"
+
+msgid "mission_desc_event_raid_c_0049"
+msgstr "完成演出15次"
+
+msgid "mission_desc_event_raid_c_0050"
+msgstr "完成演出20次"
+
+msgid "mission_desc_event_raid_c_0051"
+msgstr "完成演出30次"
+
+msgid "mission_desc_event_raid_c_0052"
+msgstr "完成演出40次"
+
+msgid "mission_desc_event_raid_c_0047"
+msgstr "完成演出6次"
+
+msgid "mission_desc_event_april_fool_i_0037"
+msgstr "完成演出并取得1000万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0038"
+msgstr "完成演出并取得1050万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0039"
+msgstr "完成演出并取得1100万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0040"
+msgstr "完成演出并取得1150万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0041"
+msgstr "完成演出并取得1200万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0042"
+msgstr "完成演出并取得1250万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0045"
+msgstr "完成演出并取得1400万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0046"
+msgstr "完成演出并取得1450万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0047"
+msgstr "完成演出并取得1500万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0015"
+msgstr "完成演出并取得450万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0016"
+msgstr "完成演出并取得475万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0017"
+msgstr "完成演出并取得500万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0018"
+msgstr "完成演出并取得525万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0019"
+msgstr "完成演出并取得550万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0020"
+msgstr "完成演出并取得575万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0021"
+msgstr "完成演出并取得600万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0022"
+msgstr "完成演出并取得625万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0023"
+msgstr "完成演出并取得650万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0024"
+msgstr "完成演出并取得675万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0025"
+msgstr "完成演出并取得700万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0026"
+msgstr "完成演出并取得725万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0027"
+msgstr "完成演出并取得750万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0028"
+msgstr "完成演出并取得775万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0029"
+msgstr "完成演出并取得800万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0030"
+msgstr "完成演出并取得825万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0031"
+msgstr "完成演出并取得850万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0032"
+msgstr "完成演出并取得875万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0033"
+msgstr "完成演出并取得900万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0034"
+msgstr "完成演出并取得925万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0035"
+msgstr "完成演出并取得950万以上分数"
+
+msgid "mission_desc_event_april_fool_i_0036"
+msgstr "完成演出并取得975万以上分数"
