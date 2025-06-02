@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-06-01 06:46+0000\n"
+"PO-Revision-Date: 2025-06-03 12:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4237,238 +4237,238 @@ msgid "cos_0123"
 msgstr "Count Baby"
 
 msgid "cos_0124"
-msgstr ""
+msgstr "Shine of Valkyria"
 
 msgid "cos_0125"
-msgstr ""
+msgstr "Pink Hibiscus"
 
 msgid "cos_0126"
-msgstr ""
+msgstr "Amour Amer"
 
 msgid "cos_0127"
-msgstr ""
+msgstr "Coral Red Stella"
 
 msgid "cos_0128"
-msgstr ""
+msgstr "Reine d'Épines"
 
 msgid "cos_0129"
-msgstr ""
+msgstr "Pinky Nurse"
 
 msgid "cos_0130"
-msgstr ""
+msgstr "Purple Galaxy"
 
 msgid "cos_0131"
-msgstr ""
+msgstr "Cheerful Ruby"
 
 msgid "cos_0132"
-msgstr ""
+msgstr "Crossover Moon"
 
 msgid "cos_0133"
-msgstr ""
+msgstr "Vesta Gorgeous"
 
 msgid "cos_0134"
-msgstr ""
+msgstr "Travail Cool"
 
 msgid "cos_0135"
-msgstr ""
+msgstr "Orléans"
 
 msgid "cos_0136"
-msgstr ""
+msgstr "Sugar Berry Baby"
 
 msgid "cos_0137"
-msgstr ""
+msgstr "Brilliant Noël"
 
 msgid "cos_0138"
-msgstr ""
+msgstr "Kimono Majestic"
 
 msgid "cos_0139"
-msgstr ""
+msgstr "Crimson Scarlet Queen"
 
 msgid "cos_0140"
-msgstr ""
+msgstr "Fire Lover"
 
 msgid "cos_0141"
-msgstr ""
+msgstr "Bomber Live"
 
 msgid "cos_0142"
-msgstr ""
+msgstr "Dynamite Rock"
 
 msgid "cos_0143"
-msgstr ""
+msgstr "Crossover Girl"
 
 msgid "cos_0144"
-msgstr ""
+msgstr "Innocent Bloom"
 
 msgid "cos_0145"
-msgstr ""
+msgstr "Sparkle Flame"
 
 msgid "cos_0146"
 msgstr "Twinkle Magic"
 
 msgid "cos_0147"
-msgstr ""
+msgstr "Cutie Marine"
 
 msgid "cos_0148"
-msgstr ""
+msgstr "Jester Rabbit"
 
 msgid "cos_0149"
-msgstr ""
+msgstr "Tales Diva"
 
 msgid "cos_0150"
-msgstr ""
+msgstr "Holy Glory"
 
 msgid "cos_0151"
-msgstr ""
+msgstr "Summer Ripple"
 
 msgid "cos_0152"
-msgstr ""
+msgstr "Fancy Coral"
 
 msgid "cos_0153"
-msgstr ""
+msgstr "Pumpkin Ghost"
 
 msgid "cos_0154"
-msgstr ""
+msgstr "Crossover Friend"
 
 msgid "cos_0155"
-msgstr ""
+msgstr "Sparkling Bell"
 
 msgid "cos_0157"
-msgstr ""
+msgstr "Crossover Breeze"
 
 msgid "cos_0158"
-msgstr ""
+msgstr "Ignite Sparkle"
 
 msgid "cos_0159"
-msgstr ""
+msgstr "Twinkle Zephyr"
 
 msgid "cos_0160"
-msgstr ""
+msgstr "Kimono Punks"
 
 msgid "cos_0161"
-msgstr ""
+msgstr "Fire Live"
 
 msgid "cos_0162"
-msgstr ""
+msgstr "Explosion Rock"
 
 msgid "cos_0163"
-msgstr ""
+msgstr "Crossover Fire"
 
 msgid "cos_0164"
-msgstr ""
+msgstr "Lonely Walker"
 
 msgid "cos_0165"
-msgstr ""
+msgstr "Shadow Flame"
 
 msgid "cos_0166"
-msgstr ""
+msgstr "Howling Moon"
 
 msgid "cos_0167"
-msgstr ""
+msgstr "Burning Ace"
 
 msgid "cos_0168"
-msgstr ""
+msgstr "Burn Stars"
 
 msgid "cos_0169"
-msgstr ""
+msgstr "Holy Gloom"
 
 msgid "cos_0170"
-msgstr ""
+msgstr "Remember Horizon"
 
 msgid "cos_0171"
-msgstr ""
+msgstr "Crossover Blaze"
 
 msgid "cos_0172"
-msgstr ""
+msgstr "Fervent Bell"
 
 msgid "cos_0173"
-msgstr ""
+msgstr "Burning Voyager"
 
 msgid "cos_0174"
-msgstr ""
+msgstr "Ignite Summer"
 
 msgid "cos_0175"
-msgstr ""
+msgstr "Crossover Free"
 
 msgid "cos_0176"
-msgstr ""
+msgstr "Starlit Prominence"
 
 msgid "cos_0177"
-msgstr ""
+msgstr "Kimono Inferno"
 
 msgid "cos_0178"
-msgstr ""
+msgstr "Rock On Liberty"
 
 msgid "cos_0179"
-msgstr ""
+msgstr "Flame Days"
 
 msgid "cos_0180"
-msgstr ""
+msgstr "Blazing Dark"
 
 msgid "cos_0181"
-msgstr ""
+msgstr "Remember Love"
 
 msgid "cos_0182"
-msgstr ""
+msgstr "Nyan-Nyan China"
 
 msgid "cos_0183"
-msgstr ""
+msgstr "Polka Dot"
 
 msgid "cos_0184"
-msgstr ""
+msgstr "Blue Garden"
 
 msgid "cos_0185"
-msgstr ""
+msgstr "Tricolor"
 
 msgid "cos_0186"
-msgstr ""
+msgstr "Floral"
 
 msgid "cos_0187"
-msgstr ""
+msgstr "Cosmic Lily"
 
 msgid "cos_0188"
-msgstr ""
+msgstr "Plumeria Ripple"
 
 msgid "cos_0189"
-msgstr ""
+msgstr "Nostalgia"
 
 msgid "cos_0190"
-msgstr ""
+msgstr "Kimono Camellia"
 
 msgid "cos_0191"
-msgstr ""
+msgstr "Love Flows"
 
 msgid "cos_0192"
-msgstr ""
+msgstr "Oriental Bright"
 
 msgid "cos_0193"
-msgstr ""
+msgstr "Angel Bride"
 
 msgid "cos_0194"
-msgstr ""
+msgstr "Nyan-Nyan Messiah"
 
 msgid "cos_0195"
-msgstr ""
+msgstr "Mint Coral"
 
 msgid "cos_0196"
-msgstr ""
+msgstr "Crossover Cosmos"
 
 msgid "cos_0197"
-msgstr ""
+msgstr "Crossover Serenity"
 
 msgid "cos_0198"
-msgstr ""
+msgstr "Cosmo Prism"
 
 msgid "cos_0199"
-msgstr ""
+msgstr "Asian Dew"
 
 msgid "cos_0200"
-msgstr ""
+msgstr "Trick Charm"
 
 msgid "cos_0211"
-msgstr ""
+msgstr "Infini Pure"
 
 msgid "cos_0212"
-msgstr ""
+msgstr "Jacquard Blanc"
 
 msgid "cos_0213"
 msgstr ""
@@ -5257,34 +5257,34 @@ msgid "cos_0123_01"
 msgstr "Count Baby"
 
 msgid "cos_0124_01"
-msgstr ""
+msgstr "Shine of Valkyria"
 
 msgid "cos_0125_01"
-msgstr ""
+msgstr "Pink Hibiscus"
 
 msgid "cos_0126_01"
-msgstr ""
+msgstr "Amour Amer"
 
 msgid "cos_0127_01"
 msgstr ""
 
 msgid "cos_0128_01"
-msgstr ""
+msgstr "Reine d'Épines"
 
 msgid "cos_0129_01"
-msgstr ""
+msgstr "Pinky Nurse"
 
 msgid "cos_0130_01"
-msgstr ""
+msgstr "Purple Galaxy"
 
 msgid "cos_0131_01"
-msgstr ""
+msgstr "Cheerful Ruby"
 
 msgid "cos_0132_01"
 msgstr ""
 
 msgid "cos_0133_01"
-msgstr ""
+msgstr "Vesta Gorgeous"
 
 msgid "cos_0134_01"
 msgstr ""
@@ -5293,43 +5293,43 @@ msgid "cos_0135_01"
 msgstr ""
 
 msgid "cos_0136_01"
-msgstr ""
+msgstr "Sugar Berry Baby"
 
 msgid "cos_0137_01"
-msgstr ""
+msgstr "Brilliant Noël"
 
 msgid "cos_0138_01"
 msgstr ""
 
 msgid "cos_0139_01"
-msgstr ""
+msgstr "Crimson Scarlet Queen"
 
 msgid "cos_0140_01"
-msgstr ""
+msgstr "Fire Lover"
 
 msgid "cos_0141_01"
-msgstr ""
+msgstr "Bomber Live"
 
 msgid "cos_0142_01"
 msgstr ""
 
 msgid "cos_0143_01"
-msgstr ""
+msgstr "Crossover Girl"
 
 msgid "cos_0144_01"
-msgstr ""
+msgstr "Innocent Bloom"
 
 msgid "cos_0145_01"
-msgstr ""
+msgstr "Sparkle Flame"
 
 msgid "cos_0146_01"
 msgstr "Twinkle Magic"
 
 msgid "cos_0147_01"
-msgstr ""
+msgstr "Cutie Marine"
 
 msgid "cos_0148_01"
-msgstr ""
+msgstr "Jester Rabbit"
 
 msgid "cos_0149_01"
 msgstr ""
@@ -5365,28 +5365,28 @@ msgid "cos_0160_01"
 msgstr ""
 
 msgid "cos_0161_01"
-msgstr ""
+msgstr "Fire Live"
 
 msgid "cos_0162_01"
 msgstr ""
 
 msgid "cos_0163_01"
-msgstr ""
+msgstr "Crossover Fire"
 
 msgid "cos_0164_01"
-msgstr ""
+msgstr "Lonely Walker"
 
 msgid "cos_0165_01"
-msgstr ""
+msgstr "Shadow Flame"
 
 msgid "cos_0166_01"
 msgstr ""
 
 msgid "cos_0167_01"
-msgstr ""
+msgstr "Burning Ace"
 
 msgid "cos_0168_01"
-msgstr ""
+msgstr "Burn Stars"
 
 msgid "cos_0169_01"
 msgstr ""
@@ -5425,34 +5425,34 @@ msgid "cos_0180_01"
 msgstr ""
 
 msgid "cos_0181_01"
-msgstr ""
+msgstr "Remember Love"
 
 msgid "cos_0182_01"
 msgstr ""
 
 msgid "cos_0183_01"
-msgstr ""
+msgstr "Polka Dot"
 
 msgid "cos_0184_01"
-msgstr ""
+msgstr "Blue Garden"
 
 msgid "cos_0185_01"
-msgstr ""
+msgstr "Tricolor"
 
 msgid "cos_0186_01"
-msgstr ""
+msgstr "Floral"
 
 msgid "cos_0187_01"
 msgstr ""
 
 msgid "cos_0188_01"
-msgstr ""
+msgstr "Plumeria Ripple"
 
 msgid "cos_0189_01"
-msgstr ""
+msgstr "Nostalgia"
 
 msgid "cos_0190_01"
-msgstr ""
+msgstr "Kimono Camellia"
 
 msgid "cos_0191_01"
 msgstr ""
@@ -20784,7 +20784,7 @@ msgid "rn_0086"
 msgstr ""
 
 msgid "rn_0087"
-msgstr ""
+msgstr "Angel Bride"
 
 msgid "rn_0088"
 msgstr ""
