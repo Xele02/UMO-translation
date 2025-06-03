@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-04-26 08:28+0000\n"
+"PO-Revision-Date: 2025-06-04 00:08+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -1923,3 +1923,171 @@ msgid "mission_desc_event_april_fool_a_0015"
 msgstr ""
 "어느 악곡이든 난이도 VERY HARD 이상을\n"
 "풀콤보로 20회 클리어"
+
+msgid "event_guide_event_raidlobby_a_0001"
+msgstr ""
+"함께 협력 미션을 달성하여\n"
+"총력 LIVE를 준비합시다"
+
+msgid "event_guide_event_raidlobby_a_0002"
+msgstr ""
+"지금까지 누군가와 교류해본 적은\n"
+"없었는데... 좋은 거였네"
+
+msgid "event_guide_event_raidlobby_a_0003"
+msgstr ""
+"마크로스 로비에서\n"
+"팬을 늘리자!"
+
+msgid "event_guide_event_raidlobby_a_0004"
+msgstr ""
+"대원 정보를 확인하자!\n"
+"팬이 되면 방문할 수 있어"
+
+msgid "event_guide_event_raidlobby_a_0005"
+msgstr ""
+"메시지나 스탬프를 보내\n"
+"대원들과 교류해 보자!"
+
+msgid "event_guide_event_raidlobby_a_0006"
+msgstr ""
+"협동 미션은 매일 변경돼\n"
+"보상을 많이 받자"
+
+msgid "event_guide_event_raidlobby_a_0007"
+msgstr "나도 안 질 거야!"
+
+msgid "event_guide_event_raidlobby_a_0008"
+msgstr ""
+"마키나의 미소 러블리\n"
+"스탠딩 모어 러블리…"
+
+msgid "event_guide_event_raidlobby_b_0003"
+msgstr ""
+"마크로스 로비에서\n"
+"팬을 늘리자!"
+
+msgid "event_guide_event_raidlobby_b_0004"
+msgstr ""
+"대원 정보를 확인하자!\n"
+"팬이 되면 방문할 수 있어"
+
+msgid "event_guide_event_raidlobby_b_0005"
+msgstr ""
+"메시지나 스탬프를 보내\n"
+"대원들과 교류해 보자!"
+
+msgid "event_guide_event_raidlobby_b_0006"
+msgstr ""
+"협동 미션은 매일 변경돼\n"
+"보상을 많이 받자"
+
+msgid "event_guide_event_raidlobby_b_0002"
+msgstr ""
+"지금까지 누군가와 교류해본 적은\n"
+"없었는데... 좋은 거였네"
+
+msgid "event_guide_event_raidlobby_b_0007"
+msgstr "나도 안 질 거야!"
+
+msgid "event_guide_event_raidlobby_b_0008"
+msgstr ""
+"마키나의 미소 러블리\n"
+"스탠딩 모어 러블리…"
+
+msgid "event_group_event_raidlobby_c_0002"
+msgstr "미하엘 블랑 부대"
+
+msgid "event_guide_event_raidlobby_c_0001"
+msgstr ""
+"함께 협력 미션을 달성하여\n"
+"총력 LIVE를 준비합시다"
+
+msgid "event_guide_event_raidlobby_c_0003"
+msgstr ""
+"마크로스 로비에서\n"
+"팬을 늘리자!"
+
+msgid "event_guide_event_raidlobby_c_0004"
+msgstr ""
+"대원 정보를 확인하자!\n"
+"팬이 되면 방문할 수 있어"
+
+msgid "event_guide_event_raidlobby_c_0005"
+msgstr ""
+"메시지나 스탬프를 보내\n"
+"대원들과 교류해 보자!"
+
+msgid "event_guide_event_raidlobby_c_0006"
+msgstr ""
+"협동 미션은 매일 변경돼\n"
+"보상을 많이 받자"
+
+msgid "event_guide_event_raidlobby_c_0007"
+msgstr "나도 안 질 거야!"
+
+msgid "event_group_event_raidlobby_d_0002"
+msgstr "미하엘 블랑 부대"
+
+msgid "event_guide_event_raidlobby_d_0001"
+msgstr ""
+"함께 협력 미션을 달성하여\n"
+"총력 LIVE를 준비합시다"
+
+msgid "event_guide_event_raidlobby_d_0003"
+msgstr ""
+"마크로스 로비에서\n"
+"팬을 늘리자!"
+
+msgid "event_guide_event_raidlobby_d_0004"
+msgstr ""
+"대원 정보를 확인하자!\n"
+"팬이 되면 방문할 수 있어"
+
+msgid "event_guide_event_raidlobby_d_0005"
+msgstr ""
+"메시지나 스탬프를 보내\n"
+"대원들과 교류해 보자!"
+
+msgid "event_guide_event_raidlobby_d_0006"
+msgstr ""
+"협동 미션은 매일 변경돼\n"
+"보상을 많이 받자"
+
+msgid "event_guide_event_raidlobby_d_0007"
+msgstr "나도 안 질 거야!"
+
+msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_04"
+msgstr "무력화에 성공했습니다!"
+
+msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_04"
+msgstr "무력화에 성공했습니다!"
+
+msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_04"
+msgstr "무력화에 성공했습니다!"
+
+msgid "event_group_event_raidlobby_d_0001"
+msgstr "사오토메 알토 부대"
+
+msgid "event_guide_event_raidlobby_b_0001"
+msgstr ""
+"함께 협력 미션을 달성하여\n"
+"총력 LIVE를 준비합시다"
+
+msgid "event_guide_event_raidlobby_c_0002"
+msgstr ""
+"지금까지 누군가와 교류해본 적은\n"
+"없었는데... 좋은 거였네"
+
+msgid "event_guide_event_raidlobby_d_0008"
+msgstr ""
+"마키나의 미소 러블리\n"
+"스탠딩 모어 러블리…"
+
+msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_04"
+msgstr "무력화에 성공했습니다!"
+
+msgid "event_guide_event_raidlobby_d_0002"
+msgstr ""
+"지금까지 누군가와 교류해본 적은\n"
+"없었는데... 좋은 거였네"
