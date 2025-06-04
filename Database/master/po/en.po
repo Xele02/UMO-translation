@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-06-03 12:46+0000\n"
+"PO-Revision-Date: 2025-06-05 14:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4471,58 +4471,58 @@ msgid "cos_0212"
 msgstr "Jacquard Blanc"
 
 msgid "cos_0213"
-msgstr ""
+msgstr "Pop Meteor"
 
 msgid "cos_0214"
-msgstr ""
+msgstr "Shukr Minette"
 
 msgid "cos_0215"
-msgstr ""
+msgstr "Crossover Leaf"
 
 msgid "cos_0216"
-msgstr ""
+msgstr "Cute Messiah"
 
 msgid "cos_0217"
-msgstr ""
+msgstr "Crossover Charm"
 
 msgid "cos_0218"
-msgstr ""
+msgstr "Meteo Shooter"
 
 msgid "cos_0219"
-msgstr ""
+msgstr "Dig Frontier"
 
 msgid "cos_0220"
-msgstr ""
+msgstr "Anniversary Floret"
 
 msgid "cos_0221"
-msgstr ""
+msgstr "Oriental Lover"
 
 msgid "cos_0222"
-msgstr ""
+msgstr "Ange Benize"
 
 msgid "cos_0223"
-msgstr ""
+msgstr "Infini Amour"
 
 msgid "cos_0224"
-msgstr ""
+msgstr "Jacquard Noir"
 
 msgid "cos_0225"
-msgstr ""
+msgstr "Cassis Minette"
 
 msgid "cos_0226"
-msgstr ""
+msgstr "Crossover Bloom"
 
 msgid "cos_0227"
-msgstr ""
+msgstr "Obelisk"
 
 msgid "cos_0228"
-msgstr ""
+msgstr "Fairy Durandal"
 
 msgid "cos_0229"
-msgstr ""
+msgstr "Ondine d'Amour"
 
 msgid "cos_0230"
-msgstr ""
+msgstr "Crossover Desire"
 
 msgid "cos_0231"
 msgstr "Apple Chocolate"
