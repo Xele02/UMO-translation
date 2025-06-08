@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-06-05 14:46+0000\n"
+"PO-Revision-Date: 2025-06-08 11:22+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4525,16 +4525,16 @@ msgid "cos_0230"
 msgstr "Crossover Desire"
 
 msgid "cos_0231"
-msgstr "Apple Chocolate"
+msgstr "Apfel Schokolade"
 
 msgid "cos_0232"
-msgstr "Cherry Braut"
+msgstr "Kirsche Braut"
 
 msgid "cos_0233"
-msgstr "Modish Wind"
+msgstr "Modisch Wind"
 
 msgid "cos_0234"
-msgstr "Apple Mythos"
+msgstr "Apfel Mythos"
 
 msgid "cos_0235"
 msgstr "Crossover Lip"
@@ -4546,7 +4546,7 @@ msgid "cos_0237"
 msgstr "Merry Schürze"
 
 msgid "cos_0238"
-msgstr "Shining Bell"
+msgstr "Shiny Bell"
 
 msgid "cos_0239"
 msgstr "Eintracht"
