@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-06-09 17:29+0000\n"
+"PO-Revision-Date: 2025-06-10 08:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4561,13 +4561,13 @@ msgid "cos_0242"
 msgstr "Mystic Tone"
 
 msgid "cos_0243"
-msgstr ""
+msgstr "Steife Brise"
 
 msgid "cos_0244"
-msgstr ""
+msgstr "Mystical Bell"
 
 msgid "cos_0245"
-msgstr ""
+msgstr "Eintracht"
 
 msgid "cos_0246"
 msgstr "Blau Blume"
@@ -4591,7 +4591,7 @@ msgid "cos_0252"
 msgstr ""
 
 msgid "cos_0253"
-msgstr ""
+msgstr "Steife Brise"
 
 msgid "cos_0254"
 msgstr ""
@@ -4603,7 +4603,7 @@ msgid "cos_0256"
 msgstr ""
 
 msgid "cos_0257"
-msgstr ""
+msgstr "Eintracht"
 
 msgid "cos_0258"
 msgstr ""
@@ -4624,13 +4624,13 @@ msgid "cos_0263"
 msgstr ""
 
 msgid "cos_0264"
-msgstr ""
+msgstr "Steife Brise"
 
 msgid "cos_0265"
 msgstr ""
 
 msgid "cos_0266"
-msgstr ""
+msgstr "Eintracht"
 
 msgid "cos_0267"
 msgstr ""
@@ -4657,10 +4657,10 @@ msgid "cos_0274"
 msgstr ""
 
 msgid "cos_0275"
-msgstr ""
+msgstr "Steife Brise"
 
 msgid "cos_0276"
-msgstr ""
+msgstr "Eintracht"
 
 msgid "cos_0277"
 msgstr ""
@@ -4777,7 +4777,7 @@ msgid "cos_0316"
 msgstr ""
 
 msgid "cos_0321"
-msgstr ""
+msgstr "Steife Brise"
 
 msgid "cos_0322"
 msgstr ""
