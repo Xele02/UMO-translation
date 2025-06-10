@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-06-10 08:46+0000\n"
+"PO-Revision-Date: 2025-06-11 08:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/tutopictdb_text/zh_Hans/>\n"
@@ -494,10 +494,13 @@ msgid "tutopict_0040_0002_msg"
 msgstr ""
 
 msgid "tutopict_0041_0000_title"
-msgstr ""
+msgstr "关于欧内斯特舰长的奖励"
 
 msgid "tutopict_0041_0000_msg"
 msgstr ""
+"收集到一定量的勋章后，\n"
+"可在欧内斯特舰长处兑换奖励。\n"
+"游玩活动歌曲即可获得徽章！"
 
 msgid "tutopict_0042_0000_title"
 msgstr "关于亲密度"
@@ -849,21 +852,31 @@ msgstr "关于聊天功能"
 
 msgid "tutopict_0065_0000_msg"
 msgstr ""
+"在聊天界面，可以通过发送消息和表情的方式\n"
+"与大家交流沟通。如果对某位玩家感兴趣，\n"
+"可查看ta的个人资料来了解更多信息。"
 
 msgid "tutopict_0066_0000_title"
-msgstr ""
+msgstr "关于表情"
 
 msgid "tutopict_0066_0000_msg"
 msgstr ""
+"使用表情制作功能即可制作属于自己的表情。\n"
+"制作时可以对角色和台词进行组合，\n"
+"最多可以保存30个表情。"
 
 msgid "tutopict_0066_0001_msg"
 msgstr ""
+"在列表中点击表情即可发送。\n"
+"积极发送表情来活跃气氛吧。"
 
 msgid "tutopict_0067_0000_title"
-msgstr ""
+msgstr "超银河总力LIVE开始！"
 
 msgid "tutopict_0067_0000_msg"
 msgstr ""
+"超银河总力LIVE现已开始！\n"
+"前往战队大厅参与活动吧！"
 
 msgid "tutopict_0068_0000_title"
 msgstr "关于道具碎片"
@@ -948,7 +961,7 @@ msgstr ""
 "努力去解放那些已达成条件的卡片吧。"
 
 msgid "tutopict_0073_0000_title"
-msgstr ""
+msgstr "关于行动选择"
 
 msgid "tutopict_0073_0000_msg"
 msgstr ""
@@ -961,7 +974,7 @@ msgstr ""
 "都可以为Macross加农充能。"
 
 msgid "tutopict_0074_0000_title"
-msgstr ""
+msgstr "关于救援信号"
 
 msgid "tutopict_0074_0000_msg"
 msgstr ""
@@ -1036,28 +1049,40 @@ msgstr ""
 "努力让歌姬变得强大起来吧。"
 
 msgid "tutopict_0081_0000_title"
-msgstr ""
+msgstr "关于喝彩值"
 
 msgid "tutopict_0081_0001_title"
-msgstr ""
+msgstr "关于喝彩值"
 
 msgid "tutopict_0081_0000_msg"
 msgstr ""
+"积累喝彩值可提升歌姬的感召力，\n"
+"进而提升相应种类的角色属性。\n"
+"努力完成演出来积累更多的喝彩值吧！"
 
 msgid "tutopict_0081_0001_msg"
 msgstr ""
+"每天有3次机会可获得加倍的喝彩值。\n"
+"获得喝彩值的种类\n"
+"由特别演出歌曲的属性决定。"
 
 msgid "tutopict_0082_0000_title"
-msgstr ""
+msgstr "关于应援棒"
 
 msgid "tutopict_0082_0000_msg"
 msgstr ""
+"使用应援棒将进入狂热时刻。\n"
+"在此期间，\n"
+"特别演出的出现概率将会提升。"
 
 msgid "tutopict_0083_0000_title"
-msgstr ""
+msgstr "如何提升演出热情值"
 
 msgid "tutopict_0083_0000_msg"
 msgstr ""
+"热情值可通过反复完成演出进行提升。\n"
+"演出完成得越多，\n"
+"特别演出出现得就越频繁！"
 
 msgid "tutopict_0084_0000_title"
 msgstr "关于原唱阵容"
@@ -1688,13 +1713,19 @@ msgstr ""
 "针对各种使用环境来强化不同的战机吧！"
 
 msgid "tutopict_0133_0000_title"
-msgstr ""
+msgstr "关于选择战队"
 
 msgid "tutopict_0133_0000_msg"
 msgstr ""
+"警告！警告！\n"
+"侦测到多名受鸟人影响而陷入暴走状态的敌人。\n"
+"请全体成员协同作战，即刻备战！"
 
 msgid "tutopict_0133_0001_msg"
 msgstr ""
+"加入战队，和大家一起备战超银河总力LIVE吧！\n"
+"但要注意的是，\n"
+"一旦加入，在活动结束之前都不能退队哦。"
 
 msgid "tutopict_0134_0000_title"
 msgstr "关于超时空房间"
@@ -1730,13 +1761,15 @@ msgstr ""
 "拜访时也不妨给房主留下礼物吧。赠人玫瑰，手留余香哦。"
 
 msgid "tutopict_0135_0000_title"
-msgstr ""
+msgstr "关于选择战队"
 
 msgid "tutopict_0135_0000_msg"
 msgstr ""
+"加入战队，和大家一起备战超银河总力LIVE吧！\n"
+"要注意的是，一旦加入，在活动结束之前都不能退队哦。"
 
 msgid "tutopict_0136_0000_title"
-msgstr ""
+msgstr "关于总力LIVE事前准备"
 
 msgid "tutopict_0136_0000_msg"
 msgstr ""
@@ -1763,12 +1796,18 @@ msgstr ""
 
 msgid "tutopict_0136_0004_msg"
 msgstr ""
+"战队大厅开放后，每次完成演出都可获得Fold雷达。\n"
+"同时大厅内每天都会刷新合作任务，\n"
+"完成后全队都可获得奖励哦。"
 
 msgid "tutopict_0136_0005_msg"
 msgstr ""
+"在超时空房间中可布置\n"
+"为Macross加农充能的家具。\n"
+"Macross加农是在总力LIVE中发挥重要作用的利器！"
 
 msgid "tutopict_0137_0000_title"
-msgstr ""
+msgstr "关于战队大厅"
 
 msgid "tutopict_0137_0000_msg"
 msgstr ""
@@ -1801,24 +1840,32 @@ msgstr ""
 
 msgid "tutopict_0137_0005_msg"
 msgstr ""
-"观看Macross加农发射的实时动画时，\n"
+"观看Macross加农的实时动画时，\n"
 "还可发送自己制作的表情。\n"
 "和大家一起发送表情为队友呐喊助威吧！"
 
 msgid "tutopict_0138_0000_title"
-msgstr ""
+msgstr "关于表情"
 
 msgid "tutopict_0138_0000_msg"
 msgstr ""
+"使用表情制作功能即可制作属于自己的表情。\n"
+"制作时可以对角色和台词进行组合，\n"
+"最多可以保存30个表情。"
 
 msgid "tutopict_0138_0001_msg"
 msgstr ""
+"在列表中点击表情即可发送。\n"
+"战队大厅和超时空房间的表情是通用的哦。"
 
 msgid "tutopict_0139_0000_title"
-msgstr ""
+msgstr "关于战斗日志"
 
 msgid "tutopict_0139_0000_msg"
 msgstr ""
+"战队成员的精彩表现会被记录到战斗日志中。\n"
+"观看Macross加农的实时动画时还能发送表情参与互动，\n"
+"和大家一起为队友呐喊助威吧！"
 
 msgid "tutopict_0139_0001_msg"
 msgstr ""
@@ -1827,7 +1874,7 @@ msgstr ""
 "尽情向队友们分享你的精彩战绩吧。"
 
 msgid "tutopict_0140_0000_title"
-msgstr ""
+msgstr "关于战报功能"
 
 msgid "tutopict_0140_0000_msg"
 msgstr ""
@@ -1835,16 +1882,21 @@ msgstr ""
 "系统会自动以战报的形式在聊天界面中进行播报哦。"
 
 msgid "tutopict_0141_0000_title"
-msgstr ""
+msgstr "关于笔记功能"
 
 msgid "tutopict_0141_0000_msg"
 msgstr ""
+"顾名思义，笔记功能就是供大家留下笔记的地方。\n"
+"想向队友分享情报和心得时，\n"
+"不妨在这里留下你的文字吧。"
 
 msgid "tutopict_0142_0000_title"
-msgstr ""
+msgstr "关于更换聊天头像"
 
 msgid "tutopict_0142_0000_msg"
 msgstr ""
+"聊天模式中支持更换头像和称号展示。\n"
+"注意只能更换自己的而不能更换别人的哦。"
 
 msgid "tutopict_0143_0000_title"
 msgstr "关于通知推送"
@@ -1884,13 +1936,13 @@ msgid "tutopict_0145_0000_title"
 msgstr "关于黑名单"
 
 msgid "tutopict_0145_0000_msg"
-msgstr ""
+msgstr "以上是黑名单功能的使用说明。"
 
 msgid "tutopict_0145_0001_msg"
-msgstr ""
+msgstr "以上是黑名单功能的使用说明。"
 
 msgid "tutopict_0145_0002_msg"
-msgstr ""
+msgstr "以上是黑名单功能的使用说明。"
 
 msgid "tutopict_0146_0000_title"
 msgstr "关于强化战机"
@@ -1926,9 +1978,15 @@ msgstr "关于特殊家具"
 
 msgid "tutopict_0147_0000_msg"
 msgstr ""
+"NG:ID=132\n"
+"在列表中点击表情即可发送。\n"
+"战队大厅和超时空房间的表情是通用的哦。"
 
 msgid "tutopict_0147_0001_msg"
 msgstr ""
+"使用表情制作功能即可制作属于自己的表情。\n"
+"制作时可以对角色和台词进行组合，\n"
+"最多可以保存30个表情。"
 
 msgid "tutopict_0147_0002_msg"
 msgstr ""
@@ -2072,13 +2130,19 @@ msgstr ""
 "这样就能更有效率地对卡片进行升级了。"
 
 msgid "tutopict_0157_0000_title"
-msgstr ""
+msgstr "关于STG小游戏"
 
 msgid "tutopict_0157_0000_msg"
 msgstr ""
+"操纵飞机发射歌声能量\n"
+"击败不断来袭的敌人吧！\n"
+"击败的敌人越多，得分越高哦。"
 
 msgid "tutopict_0157_0001_msg"
 msgstr ""
+"这个模式下似乎还存在着尚未揭晓的隐藏功能。\n"
+"等我们找到了就马上分享给你，\n"
+"要时刻留意游戏内的相关新闻哦。"
 
 msgid "tutopict_0158_0000_title"
 msgstr "关于歌曲收藏夹"
@@ -2098,22 +2162,31 @@ msgid "tutopict_0159_0000_title"
 msgstr ""
 
 msgid "tutopict_0159_0001_title"
-msgstr ""
+msgstr "关于活动奖励"
 
 msgid "tutopict_0159_0002_title"
-msgstr ""
+msgstr "关于奖励加成"
 
 msgid "tutopict_0159_0003_title"
-msgstr ""
+msgstr "收集类活动规则"
 
 msgid "tutopict_0159_0000_msg"
 msgstr ""
+"鸟人的力量正在变得愈发强大...\n"
+"为确保作战成功，我们急需你的帮助。\n"
+"当前的首要任务是收集记忆碎片！"
 
 msgid "tutopict_0159_0001_msg"
 msgstr ""
+"参与活动并完成任务，\n"
+"即可获得大量回忆卡片兑换券！\n"
+"多多收集来兑换心仪的卡片吧。"
 
 msgid "tutopict_0159_0002_msg"
 msgstr ""
+"同时编组多张加成卡片，可更高效地获取奖励！\n"
+"要注意的是，卡片在稀有度提升后\n"
+"提供的加成会更加丰厚哦。"
 
 msgid "tutopict_0159_0003_msg"
 msgstr ""
@@ -2177,6 +2250,9 @@ msgstr ""
 
 msgid "tutopict_0161_0000_msg"
 msgstr ""
+"鸟人的力量正在变得愈发强大...\n"
+"为确保作战成功，我们急需你的帮助。\n"
+"当前的首要任务是收集记忆碎片！"
 
 msgid "tutopict_0161_0001_msg"
 msgstr ""
