@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-06-10 08:46+0000\n"
+"PO-Revision-Date: 2025-06-11 08:31+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4573,22 +4573,22 @@ msgid "cos_0246"
 msgstr "Blau Blume"
 
 msgid "cos_0247"
-msgstr ""
+msgstr "Morpho Breeze"
 
 msgid "cos_0248"
-msgstr ""
+msgstr "Yami Clothes"
 
 msgid "cos_0249"
-msgstr ""
+msgstr "Weiss Tränen"
 
 msgid "cos_0250"
-msgstr ""
+msgstr "Frau Jubelnd"
 
 msgid "cos_0251"
-msgstr ""
+msgstr "Modisch Narbe"
 
 msgid "cos_0252"
-msgstr ""
+msgstr "Delphine Mythos"
 
 msgid "cos_0253"
 msgstr "Steife Brise"
@@ -4606,13 +4606,13 @@ msgid "cos_0257"
 msgstr "Eintracht"
 
 msgid "cos_0258"
-msgstr ""
+msgstr "Weiss Tränen"
 
 msgid "cos_0259"
-msgstr ""
+msgstr "Frau Jubelnd"
 
 msgid "cos_0260"
-msgstr ""
+msgstr "Yami Clothes"
 
 msgid "cos_0261"
 msgstr ""
@@ -4636,13 +4636,13 @@ msgid "cos_0267"
 msgstr ""
 
 msgid "cos_0268"
-msgstr ""
+msgstr "Frau Jubelnd"
 
 msgid "cos_0269"
-msgstr ""
+msgstr "Yami Clothes"
 
 msgid "cos_0270"
-msgstr ""
+msgstr "Weiss Tränen"
 
 msgid "cos_0271"
 msgstr ""
@@ -4666,10 +4666,10 @@ msgid "cos_0277"
 msgstr ""
 
 msgid "cos_0278"
-msgstr ""
+msgstr "Yami Clothes"
 
 msgid "cos_0280"
-msgstr ""
+msgstr "Weiss Tränen"
 
 msgid "cos_0281"
 msgstr ""
@@ -4780,13 +4780,13 @@ msgid "cos_0321"
 msgstr "Steife Brise"
 
 msgid "cos_0322"
-msgstr ""
+msgstr "Yami Clothes"
 
 msgid "cos_0324"
-msgstr ""
+msgstr "Frau Jubelnd"
 
 msgid "cos_0325"
-msgstr ""
+msgstr "Weiss Tränen"
 
 msgid "cos_0326"
 msgstr ""
@@ -4843,7 +4843,7 @@ msgid "cos_0356"
 msgstr ""
 
 msgid "cos_0361"
-msgstr ""
+msgstr "Frau Jubelnd"
 
 msgid "cos_0362"
 msgstr ""
