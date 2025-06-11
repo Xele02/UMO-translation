@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-05-30 08:46+0000\n"
+"PO-Revision-Date: 2025-06-11 08:31+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -13322,7 +13322,7 @@ msgid "qn_dsc_0027"
 msgstr "以SS评价完成演出1次"
 
 msgid "qn_dsc_0028"
-msgstr "分数最高纪录达到100000以上"
+msgstr "最高分数达到100000以上"
 
 msgid "qn_dsc_0029"
 msgstr "进入超歌姬模式并完成演出5次"
@@ -14014,19 +14014,19 @@ msgid "qn_dsc_0243"
 msgstr "达成100次SS评价"
 
 msgid "qn_dsc_0244"
-msgstr "分数最高纪录达到150000以上"
+msgstr "最高分数达到150000以上"
 
 msgid "qn_dsc_0245"
-msgstr "分数最高纪录达到200000以上"
+msgstr "最高分数达到200000以上"
 
 msgid "qn_dsc_0246"
-msgstr "分数最高纪录达到250000以上"
+msgstr "最高分数达到250000以上"
 
 msgid "qn_dsc_0247"
-msgstr "分数最高纪录达到300000以上"
+msgstr "最高分数达到300000以上"
 
 msgid "qn_dsc_0248"
-msgstr "分数最高纪录达到350000以上"
+msgstr "最高分数达到350000以上"
 
 msgid "qn_dsc_0249"
 msgstr "进入超歌姬模式并完成演出10次"
@@ -14372,13 +14372,13 @@ msgid "qn_dsc_0329"
 msgstr "向其他玩家申请好友"
 
 msgid "qn_dsc_0330"
-msgstr "分数最高纪录达到400000以上"
+msgstr "最高分数达到400000以上"
 
 msgid "qn_dsc_0331"
-msgstr "分数最高纪录达到450000以上"
+msgstr "最高分数达到450000以上"
 
 msgid "qn_dsc_0332"
-msgstr "分数最高纪录达到500000以上"
+msgstr "最高分数达到500000以上"
 
 msgid "qn_dsc_0333"
 msgstr "累计获得1500000联盟货币（UC）"
@@ -15037,34 +15037,34 @@ msgid "qn_dsc_0523"
 msgstr ""
 
 msgid "qn_dsc_0524"
-msgstr "分数最高纪录达到550000以上"
+msgstr "最高分数达到550000以上"
 
 msgid "qn_dsc_0525"
-msgstr "分数最高纪录达到600000以上"
+msgstr "最高分数达到600000以上"
 
 msgid "qn_dsc_0526"
-msgstr "分数最高纪录达到650000以上"
+msgstr "最高分数达到650000以上"
 
 msgid "qn_dsc_0527"
-msgstr "分数最高纪录达到700000以上"
+msgstr "最高分数达到700000以上"
 
 msgid "qn_dsc_0528"
-msgstr "分数最高纪录达到750000以上"
+msgstr "最高分数达到750000以上"
 
 msgid "qn_dsc_0529"
-msgstr "分数最高纪录达到800000以上"
+msgstr "最高分数达到800000以上"
 
 msgid "qn_dsc_0530"
-msgstr "分数最高纪录达到850000以上"
+msgstr "最高分数达到850000以上"
 
 msgid "qn_dsc_0531"
-msgstr "分数最高纪录达到900000以上"
+msgstr "最高分数达到900000以上"
 
 msgid "qn_dsc_0532"
-msgstr "分数最高纪录达到950000以上"
+msgstr "最高分数达到950000以上"
 
 msgid "qn_dsc_0533"
-msgstr "分数最高纪录达到1000000以上"
+msgstr "最高分数达到1000000以上"
 
 msgid "qn_dsc_0534"
 msgstr "完成250个普通任务"
