@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-06-11 08:30+0000\n"
+"PO-Revision-Date: 2025-06-12 09:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/helpbrowserdb_text/zh_Hans/>\n"
@@ -825,7 +825,7 @@ msgid "help_0048_0002_name"
 msgstr "提升卡片稀有度"
 
 msgid "help_0049_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0049_0001_name"
 msgstr "BOOST功能"
@@ -837,7 +837,7 @@ msgid "wiki_0049_0000_name"
 msgstr "活动信息"
 
 msgid "help_0050_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0050_0001_name"
 msgstr "BOOST功能"
@@ -849,7 +849,7 @@ msgid "wiki_0050_0000_name"
 msgstr "活动信息"
 
 msgid "help_0051_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0051_0001_name"
 msgstr "EX战最高分数"
@@ -861,7 +861,7 @@ msgid "wiki_0051_0000_name"
 msgstr "活动信息"
 
 msgid "help_0052_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0052_0001_name"
 msgstr "BOOST功能"
@@ -873,7 +873,7 @@ msgid "wiki_0052_0000_name"
 msgstr "活动信息"
 
 msgid "help_0053_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0053_0001_name"
 msgstr "BOOST功能"
@@ -885,7 +885,7 @@ msgid "wiki_0053_0000_name"
 msgstr "活动信息"
 
 msgid "help_0054_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0054_0001_name"
 msgstr "EX战最高分数"
@@ -897,7 +897,7 @@ msgid "wiki_0054_0000_name"
 msgstr "活动信息"
 
 msgid "help_0055_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0055_0001_name"
 msgstr "团体演出"
@@ -912,7 +912,7 @@ msgid "wiki_0055_0000_name"
 msgstr "活动信息"
 
 msgid "help_0056_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0056_0001_name"
 msgstr "团体演出"
@@ -927,7 +927,7 @@ msgid "wiki_0056_0000_name"
 msgstr "活动信息"
 
 msgid "help_0057_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0057_0001_name"
 msgstr "BOOST功能"
@@ -939,7 +939,7 @@ msgid "wiki_0057_0000_name"
 msgstr "活动信息"
 
 msgid "help_0058_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0058_0001_name"
 msgstr "EX战最高分数"
@@ -960,7 +960,7 @@ msgid "help_0060_0000_name"
 msgstr "娘娘抽奖☆"
 
 msgid "help_0061_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0061_0001_name"
 msgstr "BOOST功能"
@@ -990,7 +990,7 @@ msgid "help_0067_0000_name"
 msgstr "娘娘抽奖☆"
 
 msgid "help_0068_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0068_0001_name"
 msgstr "喝彩值"
@@ -1005,7 +1005,7 @@ msgid "wiki_0068_0000_name"
 msgstr "活动信息"
 
 msgid "help_0069_0000_name"
-msgstr "活动规则"
+msgstr "活动玩法"
 
 msgid "help_0069_0001_name"
 msgstr "喝彩值"
