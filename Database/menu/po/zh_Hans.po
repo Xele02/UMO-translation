@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-06-10 08:46+0000\n"
+"PO-Revision-Date: 2025-06-11 08:30+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -1610,7 +1610,7 @@ msgid "music_event_battle_rank_unit"
 msgstr "位"
 
 msgid "music_event_battle_bp_counting_label"
-msgstr "EX战分数最高纪录"
+msgstr "EX战最高分数"
 
 msgid "music_event_battle_rank_counting"
 msgstr "统计中"
@@ -1661,10 +1661,10 @@ msgstr ""
 "※将重新进行对战匹配。</color>"
 
 msgid "ex_battle_non_record"
-msgstr "没有EX战分数最高纪录。"
+msgstr "没有EX战最高分数。"
 
 msgid "event_battle_reward_check_hi_score"
-msgstr "EX战分数最高纪录"
+msgstr "EX战最高分数"
 
 msgid "event_battle_reward_check_ranking"
 msgstr "EX战高分排名"
@@ -3318,7 +3318,7 @@ msgid "popup_music_rate_get_reward_desc_02"
 msgstr "奖励将全部发送至礼物箱。"
 
 msgid "popup_music_rate_desc"
-msgstr "由分数最高纪录前10名歌曲的评分累计而成。"
+msgstr "由最高分数前10名歌曲的评分累计而成。"
 
 msgid "popup_music_rate_rank_unit"
 msgstr "第{0}名"
@@ -3608,7 +3608,7 @@ msgid "event_result_bonus"
 msgstr "消耗加成{0}倍"
 
 msgid "event_hi_score"
-msgstr "活动分数最高纪录"
+msgstr "活动最高分数"
 
 msgid "event_music_ranking"
 msgstr "活动歌曲排名"
@@ -5832,10 +5832,10 @@ msgstr ""
 "无法跳过演出。"
 
 msgid "result_skip_caution"
-msgstr "※使用跳过功能将不会更新歌曲的分数最高纪录及评价。"
+msgstr "※使用跳过功能将不会更新歌曲的最高分数及评价。"
 
 msgid "result_assist_caution"
-msgstr "※进行支援将不会更新歌曲的分数最高纪录及评价。"
+msgstr "※进行支援将不会更新歌曲的最高分数及评价。"
 
 msgid "popup_mission_stepup_desc"
 msgstr "已完成Step {0}，将开放Step {1}。"
@@ -6650,7 +6650,7 @@ msgstr ""
 "无法使用此道具。"
 
 msgid "godiva_event_info_highscore"
-msgstr "分数最高纪录"
+msgstr "最高分数"
 
 msgid "godiva_even_tinfo_rank"
 msgstr "排名"
@@ -6737,7 +6737,7 @@ msgid "popup_comeback_mission_count"
 msgstr "{0}/{1}个完成"
 
 msgid "event_godiva_reward_check_hi_score"
-msgstr "活动分数最高纪录"
+msgstr "活动最高分数"
 
 msgid "event_godiva_reward_check_ranking"
 msgstr "歌姬分数排名"
@@ -7276,7 +7276,7 @@ msgid "popup_sort_item_musiclevel"
 msgstr "歌曲等级"
 
 msgid "popup_sort_item_highscore"
-msgstr "分数最高纪录"
+msgstr "最高分数"
 
 msgid "popup_sort_item_utarate"
 msgstr "歌曲评分"
