@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-06-10 08:46+0000\n"
+"PO-Revision-Date: 2025-06-13 09:00+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -659,22 +659,22 @@ msgstr ""
 "EASY或以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_godiva_c_0041"
-msgstr "任意歌姬歌魂感召力提升10"
+msgstr "任意歌姬歌魂表现力提升10"
 
 msgid "mission_desc2_event_godiva_c_0041"
-msgstr "任意歌姬歌魂感召力提升10"
+msgstr "任意歌姬歌魂表现力提升10"
 
 msgid "mission_desc_event_godiva_c_0043"
-msgstr "任意歌姬歌魅感召力提升10"
+msgstr "任意歌姬歌魅表现力提升10"
 
 msgid "mission_desc2_event_godiva_c_0043"
-msgstr "任意歌姬歌魅感召力提升10"
+msgstr "任意歌姬歌魅表现力提升10"
 
 msgid "mission_desc2_event_godiva_c_0040"
-msgstr "任意歌姬歌魅感召力提升5"
+msgstr "任意歌姬歌魅表现力提升5"
 
 msgid "mission_desc_event_godiva_c_0042"
-msgstr "任意歌姬歌声感召力提升10"
+msgstr "任意歌姬歌声表现力提升10"
 
 msgid "mission_desc_event_raidlobby_a_0001"
 msgstr ""
@@ -2750,58 +2750,58 @@ msgstr ""
 "全靠大家捧场啦！"
 
 msgid "mission_desc_event_godiva_a_0039"
-msgstr "任意歌姬歌魂感召力提升10"
+msgstr "任意歌姬歌魂表现力提升10"
 
 msgid "mission_desc_event_godiva_b_0039"
-msgstr "任意歌姬歌魂感召力提升10"
+msgstr "任意歌姬歌魂表现力提升10"
 
 msgid "mission_desc_event_godiva_a_0036"
-msgstr "任意歌姬歌魂感召力提升5"
+msgstr "任意歌姬歌魂表现力提升5"
 
 msgid "mission_desc_event_godiva_b_0036"
-msgstr "任意歌姬歌魂感召力提升5"
+msgstr "任意歌姬歌魂表现力提升5"
 
 msgid "mission_desc_event_godiva_c_0038"
-msgstr "任意歌姬歌魂感召力提升5"
+msgstr "任意歌姬歌魂表现力提升5"
 
 msgid "mission_desc2_event_godiva_c_0038"
-msgstr "任意歌姬歌魂感召力提升5"
+msgstr "任意歌姬歌魂表现力提升5"
 
 msgid "mission_desc_event_godiva_a_0041"
-msgstr "任意歌姬歌魅感召力提升10"
+msgstr "任意歌姬歌魅表现力提升10"
 
 msgid "mission_desc_event_godiva_b_0041"
-msgstr "任意歌姬歌魅感召力提升10"
+msgstr "任意歌姬歌魅表现力提升10"
 
 msgid "mission_desc_event_godiva_a_0038"
-msgstr "任意歌姬歌魅感召力提升5"
+msgstr "任意歌姬歌魅表现力提升5"
 
 msgid "mission_desc_event_godiva_b_0038"
-msgstr "任意歌姬歌魅感召力提升5"
+msgstr "任意歌姬歌魅表现力提升5"
 
 msgid "mission_desc_event_godiva_c_0040"
-msgstr "任意歌姬歌魅感召力提升5"
+msgstr "任意歌姬歌魅表现力提升5"
 
 msgid "mission_desc_event_godiva_a_0040"
-msgstr "任意歌姬歌声感召力提升10"
+msgstr "任意歌姬歌声表现力提升10"
 
 msgid "mission_desc_event_godiva_b_0040"
-msgstr "任意歌姬歌声感召力提升10"
+msgstr "任意歌姬歌声表现力提升10"
 
 msgid "mission_desc2_event_godiva_c_0042"
-msgstr "任意歌姬歌声感召力提升10"
+msgstr "任意歌姬歌声表现力提升10"
 
 msgid "mission_desc_event_godiva_a_0037"
-msgstr "任意歌姬歌声感召力提升5"
+msgstr "任意歌姬歌声表现力提升5"
 
 msgid "mission_desc_event_godiva_b_0037"
-msgstr "任意歌姬歌声感召力提升5"
+msgstr "任意歌姬歌声表现力提升5"
 
 msgid "mission_desc_event_godiva_c_0039"
-msgstr "任意歌姬歌声感召力提升5"
+msgstr "任意歌姬歌声表现力提升5"
 
 msgid "mission_desc2_event_godiva_c_0039"
-msgstr "任意歌姬歌声感召力提升5"
+msgstr "任意歌姬歌声表现力提升5"
 
 msgid "mission_desc_event_april_fool_g_0004"
 msgstr ""
