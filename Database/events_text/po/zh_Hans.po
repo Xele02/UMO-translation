@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-06-13 09:00+0000\n"
+"PO-Revision-Date: 2025-06-13 10:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -2919,16 +2919,16 @@ msgid "event_banner_event_battle_a_0001"
 msgstr "参与活动可获取“回忆卡片兑换券”！"
 
 msgid "event_banner_event_battle_b_0001"
-msgstr "参与活动可获得10次抽卡机会！"
+msgstr "参与活动可获得10张抽卡奖券！"
 
 msgid "event_banner_event_battle_c_0001"
-msgstr "参与活动可获得10次抽卡机会！"
+msgstr "参与活动可获得10张抽卡奖券！"
 
 msgid "event_banner_event_godiva_a_0001"
-msgstr "参与活动可获得10次抽卡机会！"
+msgstr "参与活动可获得10张抽卡奖券！"
 
 msgid "event_banner_event_godiva_b_0001"
-msgstr "参与活动可获得10次抽卡机会！"
+msgstr "参与活动可获得10张抽卡奖券！"
 
 msgid "mission_desc_event_godiva_a_0020"
 msgstr "在活动界面完成演出10次"
@@ -3966,7 +3966,7 @@ msgstr ""
 "HARD或以上难度演出10次"
 
 msgid "event_banner_event_raid_a_0001"
-msgstr "完成任务可累计获得150颗歌晶石！"
+msgstr "完成任务累计可获得150颗歌晶石！"
 
 msgid "mission_desc_event_raid_b_0023"
 msgstr "使用Macross加农1次"
@@ -4002,7 +4002,7 @@ msgid "mission_desc_event_raid_b_0025"
 msgstr "使用Macross加农5次"
 
 msgid "event_banner_event_raid_b_0001"
-msgstr "完成任务可累计获得150颗歌晶石！"
+msgstr "完成任务累计可获得150颗歌晶石！"
 
 msgid "event_banner_event_raid_c_0001"
 msgstr "完成任务累计可获得150颗歌晶石！"
