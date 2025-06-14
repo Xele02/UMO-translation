@@ -7,6 +7,9 @@ msgstr " "
 msgid "StringLiteral_381"
 msgstr "  "
 
+msgid "StringLiteral_1290"
+msgstr "pt"
+
 msgid "StringLiteral_1374"
 msgstr "年"
 
@@ -1392,6 +1395,12 @@ msgstr "％"
 
 msgid "StringLiteral_17788"
 msgstr "(UCアイテムは {0}UC に変換されました)"
+
+msgid "StringLiteral_17823"
+msgstr "消費ボーナス"
+
+msgid "StringLiteral_17824"
+msgstr "倍"
 
 msgid "StringLiteral_17960"
 msgstr "{0}回"

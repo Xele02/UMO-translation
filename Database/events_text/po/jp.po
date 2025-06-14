@@ -1714,6 +1714,435 @@ msgstr "イベント「吹き抜ける風 ～NEVER SAY DIE～」\nのミッシ�
 msgid "event_banner_event_battle_c_0001"
 msgstr "イベントに参加してデカルガチャを10回引こう！"
 
+msgid "mission_desc_event_collection_a_0001"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0002"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0003"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0004"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0005"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0006"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0007"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0008"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0009"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_a_0010"
+msgstr "イベント楽曲を合計10回クリア"
+
+msgid "mission_desc_event_collection_a_0011"
+msgstr "イベント楽曲を合計15回クリア"
+
+msgid "mission_desc_event_collection_a_0012"
+msgstr "イベント楽曲を合計20回クリア"
+
+msgid "mission_desc_event_collection_a_0013"
+msgstr "イベント楽曲を合計25回クリア"
+
+msgid "mission_desc_event_collection_a_0014"
+msgstr "イベント楽曲を合計30回クリア"
+
+msgid "mission_desc_event_collection_a_0015"
+msgstr "イベント楽曲「マクロス」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc2_event_collection_a_0015"
+msgstr "「マクロス」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_a_0016"
+msgstr "イベント楽曲「マクロス」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc2_event_collection_a_0016"
+msgstr "「マクロス」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_a_0017"
+msgstr "イベント楽曲「絶対零度θノヴァティック」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_a_0018"
+msgstr "イベント楽曲「絶対零度θノヴァティック」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_a_0019"
+msgstr "イベント楽曲「トライアングラー（fight on stage）」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_a_0020"
+msgstr "イベント楽曲「トライアングラー（fight on stage）」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_a_0021"
+msgstr "イベント楽曲「SEVENTH MOON」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_a_0022"
+msgstr "イベント楽曲「SEVENTH MOON」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_a_0023"
+msgstr "イベント楽曲「マクロス」\nをスコア70万以上でクリア"
+
+msgid "mission_desc2_event_collection_a_0023"
+msgstr "「マクロス」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_collection_a_0024"
+msgstr "イベント楽曲「マクロス」\nをスコア85万以上でクリア"
+
+msgid "mission_desc2_event_collection_a_0024"
+msgstr "「マクロス」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_collection_a_0025"
+msgstr "イベント楽曲「マクロス」\nをスコア100万以上でクリア"
+
+msgid "mission_desc2_event_collection_a_0025"
+msgstr "「マクロス」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_collection_a_0026"
+msgstr "イベント楽曲「マクロス」\nをスコア115万以上でクリア"
+
+msgid "mission_desc2_event_collection_a_0026"
+msgstr "「マクロス」\nをスコア115万以上でクリア"
+
+msgid "mission_desc_event_collection_a_0027"
+msgstr "イベント楽曲「マクロス」\nをスコア130万以上でクリア"
+
+msgid "mission_desc2_event_collection_a_0027"
+msgstr "「マクロス」\nをスコア130万以上でクリア"
+
+msgid "mission_desc_event_collection_a_0028"
+msgstr "イベント楽曲「マクロス」\nをスコア140万以上でクリア"
+
+msgid "mission_desc2_event_collection_a_0028"
+msgstr "「マクロス」\nをスコア140万以上でクリア"
+
+msgid "mission_desc_event_collection_a_0029"
+msgstr "イベント楽曲「マクロス」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_a_0030"
+msgstr "イベント楽曲「マクロス」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_a_0031"
+msgstr "イベント楽曲「マクロス」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_a_0032"
+msgstr "イベント楽曲「マクロス」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_a_0033"
+msgstr "イベント楽曲「マクロス」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_collection_a_0034"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0035"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0036"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0037"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0038"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0039"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0040"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0041"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0042"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_a_0043"
+msgstr "イベント「超時空ファイナルLive ～Act.1～」\nのミッションを20個クリア"
+
+msgid "event_banner_event_collection_a_0001"
+msgstr "イベントに参加してエピソードプレート交換券をGET！"
+
+msgid "mission_desc_event_collection_b_0001"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0002"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0003"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0004"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0005"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0006"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0007"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0008"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0009"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_b_0010"
+msgstr "イベント楽曲を合計10回クリア"
+
+msgid "mission_desc_event_collection_b_0011"
+msgstr "イベント楽曲を合計15回クリア"
+
+msgid "mission_desc_event_collection_b_0012"
+msgstr "イベント楽曲を合計20回クリア"
+
+msgid "mission_desc_event_collection_b_0013"
+msgstr "イベント楽曲を合計25回クリア"
+
+msgid "mission_desc_event_collection_b_0014"
+msgstr "イベント楽曲を合計30回クリア"
+
+msgid "mission_desc_event_collection_b_0015"
+msgstr "イベント楽曲「恋のマホウ」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_b_0016"
+msgstr "イベント楽曲「恋のマホウ」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_b_0017"
+msgstr "イベント楽曲「LIGHT THE LIGHT」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_b_0018"
+msgstr "イベント楽曲「LIGHT THE LIGHT」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_b_0019"
+msgstr "イベント楽曲「HEART & SOUL」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_b_0020"
+msgstr "イベント楽曲「HEART & SOUL」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_b_0021"
+msgstr "イベント楽曲「恋のマホウ」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_collection_b_0022"
+msgstr "イベント楽曲「恋のマホウ」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_collection_b_0023"
+msgstr "イベント楽曲「恋のマホウ」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_collection_b_0024"
+msgstr "イベント楽曲「恋のマホウ」\nをスコア115万以上でクリア"
+
+msgid "mission_desc_event_collection_b_0025"
+msgstr "イベント楽曲「恋のマホウ」\nをスコア130万以上でクリア"
+
+msgid "mission_desc_event_collection_b_0026"
+msgstr "イベント楽曲「恋のマホウ」\nをスコア140万以上でクリア"
+
+msgid "mission_desc_event_collection_b_0027"
+msgstr "イベント楽曲「恋のマホウ」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_b_0028"
+msgstr "イベント楽曲「恋のマホウ」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_b_0029"
+msgstr "イベント楽曲「恋のマホウ」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_b_0030"
+msgstr "イベント楽曲「恋のマホウ」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_b_0031"
+msgstr "イベント楽曲「恋のマホウ」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_collection_b_0032"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0033"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0034"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0035"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0036"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0037"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0038"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0039"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0040"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_b_0041"
+msgstr "イベント「ふたりの恋のマホウ」\nのミッションを20個クリア"
+
+msgid "event_banner_event_collection_b_0001"
+msgstr "イベントに参加してデカルガチャを10回引こう！"
+
+msgid "mission_desc_event_collection_c_0001"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0002"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0003"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0004"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0005"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0006"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0007"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0008"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0009"
+msgstr "【デイリー】超時空LIVEチケットを使って\nイベント楽曲をクリア"
+
+msgid "mission_desc_event_collection_c_0010"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0011"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0012"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0013"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0014"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0015"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0016"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0017"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0018"
+msgstr "【デイリー】楽曲を3回クリア"
+
+msgid "mission_desc_event_collection_c_0019"
+msgstr "イベント楽曲を合計10回クリア"
+
+msgid "mission_desc_event_collection_c_0020"
+msgstr "イベント楽曲を合計15回クリア"
+
+msgid "mission_desc_event_collection_c_0021"
+msgstr "イベント楽曲を合計20回クリア"
+
+msgid "mission_desc_event_collection_c_0022"
+msgstr "イベント楽曲を合計25回クリア"
+
+msgid "mission_desc_event_collection_c_0023"
+msgstr "イベント楽曲を合計30回クリア"
+
+msgid "mission_desc_event_collection_c_0024"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_c_0025"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_c_0026"
+msgstr "イベント楽曲「不確定性☆COSMIC MOVEMENT」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_c_0027"
+msgstr "イベント楽曲「不確定性☆COSMIC MOVEMENT」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_c_0028"
+msgstr "イベント楽曲「いけないボーダーライン」\nをスコアランクS以上で5回クリア"
+
+msgid "mission_desc_event_collection_c_0029"
+msgstr "イベント楽曲「いけないボーダーライン」\nをスコアランクSSで10回クリア"
+
+msgid "mission_desc_event_collection_c_0030"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0031"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0032"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0033"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコア115万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0034"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコア130万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0035"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nをスコア140万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0036"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_c_0037"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_c_0038"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_c_0039"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_collection_c_0040"
+msgstr "イベント楽曲「恋! ハレイション THE WAR」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_collection_c_0041"
+msgstr "イベント「復刻　超時空ヴィーナス ワルキューレ」\nのミッションを20個クリア"
+
+msgid "mission_desc_event_collection_c_0042"
+msgstr "【デイリー】いずれかの楽曲を\nスコア75万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0043"
+msgstr "【デイリー】いずれかの楽曲を\nスコア100万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0044"
+msgstr "【デイリー】いずれかの楽曲を\nスコア125万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0045"
+msgstr "【デイリー】いずれかの楽曲を\nスコア150万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0046"
+msgstr "【デイリー】いずれかの楽曲を\nスコア175万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0047"
+msgstr "【デイリー】いずれかの楽曲を\nスコア200万以上でクリア"
+
+msgid "mission_desc_event_collection_c_0048"
+msgstr "【デイリー】いずれかの楽曲を\nスコア250万以上でクリア"
+
+msgid "event_banner_event_collection_c_0001"
+msgstr "イベントに参加して★5確定サービスチケットをGET！"
+
 msgid "mission_desc_event_godiva_a_0001"
 msgstr "【デイリー】歌姫スコアランキングに\n参加して楽曲をクリア"
 
