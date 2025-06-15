@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-05-26 08:46+0000\n"
+"PO-Revision-Date: 2025-06-15 11:21+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -776,6 +776,9 @@ msgstr ""
 
 msgid "music_not_exist_text_00"
 msgstr ""
+"Il n'y a pas de chansons disponible dans cette catégorie.\n"
+"<color=#C8087E>※De nouvelles chansons seront ajoutés lorsque débloquées dans "
+"l'espace-temps mémoriel. </color>"
 
 msgid "music_not_exist_line6_text_00"
 msgstr ""
@@ -1507,31 +1510,33 @@ msgid "music_event_remain_second"
 msgstr "{0} s."
 
 msgid "music_event_collect_ticket_label"
-msgstr ""
+msgstr "Tickets poss."
 
 msgid "music_event_collect_current_point_label"
-msgstr ""
+msgstr "Points cumulés"
 
 msgid "music_event_collect_next_point_label"
-msgstr ""
+msgstr "Proch. récomp."
 
 msgid "music_event_collect_point_unit"
-msgstr ""
+msgstr "pt"
 
 msgid "music_event_collect_rank_label"
-msgstr ""
+msgstr "Rang actuel"
 
 msgid "music_event_collect_rank_counting_label"
-msgstr ""
+msgstr "Rang final"
 
 msgid "music_event_collect_rank_unit"
-msgstr ""
+msgstr "{0:choose(0|1):|er|ème}"
 
 msgid "music_event_collect_rank_counting"
-msgstr ""
+msgstr "Calcul en cours"
 
 msgid "music_event_collect_reward_label"
 msgstr ""
+"Récomp.\n"
+"suivante"
 
 msgid "music_event_battle_current_point_label"
 msgstr "Points cumulés"
@@ -1636,6 +1641,8 @@ msgstr ""
 
 msgid "music_to_live_ticket_msg"
 msgstr ""
+"<color=#c8087e>Récupère</color> ton <color=#c8087e>ticket</color> pour le "
+"concert !"
 
 msgid "music_select_slive_own_item"
 msgstr ""
@@ -2133,28 +2140,35 @@ msgid "popup_event_quest_unreceived_reward_text"
 msgstr ""
 
 msgid "popup_event_collect_ticket_few_title"
-msgstr ""
+msgstr "Utilisation de ticket"
 
 msgid "popup_event_collect_ticket_few_msg"
 msgstr ""
+"Il faut {0} {0:plural:ticket|tickets} pour jouer.\n"
+"\n"
+"<color=#C8087E>Tu n'as pas assez de tickets.\n"
+"Actuellement : {1}</color>\n"
+"\n"
+"En récupérer en jouant des concerts ?"
 
 msgid "popup_event_login_item00_title_msg"
-msgstr ""
+msgstr "<color=#C8087E>Ticket Super Live　{0}x</color>"
 
 msgid "popup_event_login_item00_label00_msg"
-msgstr ""
+msgstr "Objets requis pour jouer à l'événement."
 
 msgid "popup_event_login_item00_label01_msg"
 msgstr ""
+"<color=#8e0529>Les objets disparaîtrons à la fin de l'événement.</color>"
 
 msgid "popup_event_login_item01_title_msg"
-msgstr ""
+msgstr "<color=#C8087E>【Journalier】Energie : 　{0}x</color>"
 
 msgid "popup_event_login_item01_label00_msg"
-msgstr ""
+msgstr "Utiliser pour complètement récupérer l'énergie."
 
 msgid "popup_event_login_item01_label01_msg"
-msgstr ""
+msgstr "<color=#8e0529>Disparaît au changement de jour.</color>"
 
 msgid "popup_event_login_prologue_title"
 msgstr ""
@@ -2471,9 +2485,13 @@ msgstr ""
 
 msgid "balloon_event_prologue_loginbonus"
 msgstr ""
+"Regarde le prologue de l'événement\n"
+"et reçoit {0}"
 
 msgid "balloon_event_epilogue_loginbonus"
 msgstr ""
+"Regarde l'épilogue de l'événement\n"
+"et reçoit {0}"
 
 msgid "costume_select_text_01"
 msgstr "Condition de déblocage"
@@ -2832,7 +2850,7 @@ msgid "popup_dash_energy_title"
 msgstr ""
 
 msgid "popup_dash_button"
-msgstr ""
+msgstr "x{0}"
 
 msgid "popup_dash_cost_energy"
 msgstr ""
@@ -2847,16 +2865,16 @@ msgid "popup_dash_own_ticket"
 msgstr ""
 
 msgid "popup_dash_caution"
-msgstr ""
+msgstr "Plus tu gagnes de points, plus tu recevras de récompense."
 
 msgid "popup_dash_caution_skip"
-msgstr ""
+msgstr "Le passage de concert ne peux que être utilisé en x1."
 
 msgid "popup_dash_cost_over_energy"
-msgstr ""
+msgstr "<color=#8e0529>Pas assez d'énergie récupérable.</color>"
 
 msgid "popup_dash_cost_over_ticket"
-msgstr ""
+msgstr "<color=#8e0529>Pas assez de ticket</color>"
 
 msgid "popup_rcmd_app_update_title"
 msgstr ""
@@ -6343,13 +6361,14 @@ msgid "sel_music_godiva_exp_type_all"
 msgstr "Tous"
 
 msgid "popup_event_login_item02_title_msg"
-msgstr ""
+msgstr "<color=#C8087E>Baton lumineux　{0}x</color>"
 
 msgid "popup_event_login_item02_label00_msg"
-msgstr ""
+msgstr "Augmente le climax pendant un moment."
 
 msgid "popup_event_login_item02_label01_msg"
 msgstr ""
+"<color=#8e0529>Les objets disparaîtrons à la fin de l'événement.</color>"
 
 msgid "sel_event_01_period"
 msgstr ""
