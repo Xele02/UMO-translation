@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:26+0000\n"
-"PO-Revision-Date: 2025-04-13 11:52+0000\n"
+"PO-Revision-Date: 2025-06-18 04:38+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/ko/>\n"
@@ -2255,3 +2255,39 @@ msgstr "---"
 
 msgid "UMO_EventRunning"
 msgstr "EVENT 개최중"
+
+msgid "StringLiteral_10284"
+msgstr "미라쥬 「AP가 전부 회복되었습니다!」"
+
+msgid "StringLiteral_19505"
+msgstr "{0}~{1}"
+
+msgid "StringLiteral_1290"
+msgstr "pt"
+
+msgid "StringLiteral_13160"
+msgstr "EX 폭주 에너미 출현"
+
+msgid "StringLiteral_17823"
+msgstr "소비 보너스"
+
+msgid "StringLiteral_381"
+msgstr "  "
+
+msgid "StringLiteral_17824"
+msgstr "배"
+
+msgid "StringLiteral_19851"
+msgstr "{0}명"
+
+msgid "StringLiteral_19875"
+msgstr "이벤트 집계 중입니다."
+
+msgid "StringLiteral_20803"
+msgstr "+{0}%"
+
+msgid "StringLiteral_13162"
+msgstr "미라쥬 「EX 폭주 에너미가 출현했습니다!」"
+
+msgid "StringLiteral_20810"
+msgstr "+<color=#C6077CFF>{0}</color>%"
