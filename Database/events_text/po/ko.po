@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-06-16 10:46+0000\n"
+"PO-Revision-Date: 2025-06-18 01:46+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -2342,3 +2342,30 @@ msgstr "이벤트 악곡 총 10회 클리어"
 
 msgid "mission_desc_event_collection_b_0011"
 msgstr "이벤트 악곡 총 15회 클리어"
+
+msgid "mission_desc_event_collection_c_0021"
+msgstr "이벤트 악곡 총 20회 클리어"
+
+msgid "mission_desc_event_collection_c_0022"
+msgstr "이벤트 악곡 총 25회 클리어"
+
+msgid "mission_desc_event_collection_c_0023"
+msgstr "이벤트 악곡 총 30회 클리어"
+
+msgid "mission_desc_event_collection_a_0012"
+msgstr "이벤트 악곡 총 20회 클리어"
+
+msgid "mission_desc_event_collection_a_0013"
+msgstr "이벤트 악곡 총 25회 클리어"
+
+msgid "mission_desc_event_collection_a_0014"
+msgstr "이벤트 악곡 총 30회 클리어"
+
+msgid "mission_desc_event_collection_b_0012"
+msgstr "이벤트 악곡 총 20회 클리어"
+
+msgid "mission_desc_event_collection_b_0013"
+msgstr "이벤트 악곡 총 25회 클리어"
+
+msgid "mission_desc_event_collection_b_0014"
+msgstr "이벤트 악곡 총 30회 클리어"
