@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-06-18 14:46+0000\n"
+"PO-Revision-Date: 2025-06-18 17:00+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -219,61 +219,72 @@ msgstr ""
 "receive that go over their carry limits."
 
 msgid "pbox_text_08"
-msgstr ""
+msgstr "{0} gifts received."
 
 msgid "pbox_text_09"
-msgstr ""
+msgstr "No receivable gifts."
 
+#, fuzzy
 msgid "pbox_text_10"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_11"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
-msgstr ""
+msgstr "{0} days left"
 
 msgid "pbox_text_13"
-msgstr ""
+msgstr "{0} hours left"
 
 msgid "pbox_text_14"
-msgstr ""
+msgstr "{0} minutes left"
 
 msgid "pbox_win_warn01"
-msgstr ""
+msgstr "<color=#c8087e>The latest {0} will be displayed.</color>"
 
 msgid "pbox_win_warn02"
-msgstr ""
+msgstr "<color=#c8087e>The latest {0} will be displayed.</color>"
 
 msgid "pbox_win_none01"
-msgstr ""
+msgstr "No gifts available."
 
 msgid "pbox_win_none02"
-msgstr ""
+msgstr "No receipt history available."
 
 msgid "set_notification_text_00"
-msgstr ""
+msgstr "Notification Settings"
 
 msgid "set_notification_text_01"
 msgstr ""
+"If you set your device's notifications to OFF, you won't get any "
+"notifications."
 
 msgid "set_notification_text_02"
 msgstr ""
+"Sends event, promotional, and\n"
+"other notice push notifications."
 
 msgid "set_notification_text_03"
-msgstr ""
+msgstr "Sets around what time you will receive notifications."
 
 msgid "set_notification_text_04"
-msgstr ""
+msgstr "This does not apply to Notices."
 
 msgid "set_notification_text_05"
 msgstr ""
+"Sends push notifications when\n"
+"Energy has been fully recovered."
 
 msgid "set_notification_text_06"
 msgstr ""
+"Sends push notifications when Super\n"
+"Dimensional Network texts are sent."
 
 msgid "set_notification_text_07"
 msgstr ""
+"Sends push notifications when\n"
+"Valkyrie Operations are complete."
 
 msgid "set_notification_text_08"
 msgstr ""
@@ -1263,13 +1274,13 @@ msgid "quest_reward_none_list"
 msgstr ""
 
 msgid "quest_timer_d"
-msgstr ""
+msgstr "{0} days left"
 
 msgid "quest_timer_h"
-msgstr ""
+msgstr "{0} hours left"
 
 msgid "quest_timer_m"
-msgstr ""
+msgstr "{0} minutes left"
 
 msgid "quest_tiemr_e001"
 msgstr ""
@@ -1980,13 +1991,13 @@ msgid "event_quest_touch_screen4"
 msgstr ""
 
 msgid "event_quest_limit_time_d"
-msgstr ""
+msgstr "{0} days left"
 
 msgid "event_quest_limit_time_h"
-msgstr ""
+msgstr "{0} hours left"
 
 msgid "event_quest_limit_time_m"
-msgstr ""
+msgstr "{0} minutes left"
 
 msgid "event_quest_progress_count"
 msgstr ""
