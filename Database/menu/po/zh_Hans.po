@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:50+0000\n"
-"PO-Revision-Date: 2025-06-17 08:46+0000\n"
+"PO-Revision-Date: 2025-06-18 07:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/menu/zh_Hans/>\n"
@@ -3031,13 +3031,13 @@ msgid "popup_dash_button"
 msgstr "{0}倍"
 
 msgid "popup_dash_cost_energy"
-msgstr "体力消耗量{0}"
+msgstr "消耗{0}体力"
 
 msgid "popup_dash_own_energy"
-msgstr "目前体力{0}"
+msgstr "当前体力{0}"
 
 msgid "popup_dash_cost_ticket"
-msgstr "消费门票{0}枚"
+msgstr "消耗门票{0}枚"
 
 msgid "popup_dash_own_ticket"
 msgstr "持有门票{0}枚"
@@ -5832,10 +5832,10 @@ msgstr ""
 "无法跳过演出。"
 
 msgid "result_skip_caution"
-msgstr "※使用跳过功能将不会更新歌曲的最高分数及评价。"
+msgstr "※使用跳过功能将不会更新歌曲的最高分数及评分。"
 
 msgid "result_assist_caution"
-msgstr "※进行支援将不会更新歌曲的最高分数及评价。"
+msgstr "※进行支援将不会更新歌曲的最高分数及评分。"
 
 msgid "popup_mission_stepup_desc"
 msgstr "已完成Step {0}，将开放Step {1}。"
@@ -7351,7 +7351,7 @@ msgstr "满足以下任意条件即可解锁。"
 
 msgid "popup_music_unlock_text07"
 msgstr ""
-"・以至少{1}评价通关\n"
+"・以至少{1}分数评价通关\n"
 "以下歌曲{0}。\n"
 "“{2}”"
 
