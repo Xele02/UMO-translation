@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-06-12 17:46+0000\n"
+"PO-Revision-Date: 2025-06-18 14:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -101,16 +101,16 @@ msgid "popup_text_15"
 msgstr "Confirmation"
 
 msgid "popup_text_16"
-msgstr ""
+msgstr "Skill Description"
 
 msgid "popup_text_17"
-msgstr ""
+msgstr "Support Plate Confirmation"
 
 msgid "popup_sort_text_00"
-msgstr ""
+msgstr "Only show Plates that are compatible with the selected Diva"
 
 msgid "popup_sort_title"
-msgstr ""
+msgstr "Change display order"
 
 msgid "popup_sort_title_unit"
 msgstr "Info Settings"
@@ -119,82 +119,104 @@ msgid "popup_comparison_00"
 msgstr "Expect. Note Value"
 
 msgid "popup_music_select_00"
-msgstr ""
+msgstr "Song Information"
 
 msgid "popup_music_select_01"
-msgstr ""
+msgstr "Song Clear Rewards (Tentative)"
 
 msgid "popup_music_select_02"
-msgstr ""
+msgstr "Clear Rewards"
 
 msgid "popup_music_select_03"
-msgstr ""
+msgstr "First Clear Info (Tentative)"
 
 msgid "popup_music_select_04"
-msgstr ""
+msgstr "Song Clear Info (Tentative)"
 
 msgid "popup_music_select_05"
-msgstr ""
+msgstr "Mission Clear Info (Tentative)"
 
 msgid "popup_music_select_06"
 msgstr "Level"
 
 msgid "popup_music_select_07"
-msgstr ""
+msgstr "Enemy Info"
 
 msgid "popup_stamina_title_00"
-msgstr ""
+msgstr "Info Screen"
 
 msgid "popup_stamina_text_00"
-msgstr ""
+msgstr "Not enough Energy."
 
 msgid "popup_ap_title_00"
-msgstr ""
+msgstr "Info Screen"
 
 msgid "popup_ap_text_00"
-msgstr ""
+msgstr "Not enough AP."
 
 msgid "item_popup_text_00"
-msgstr ""
+msgstr "Owned: {0,4}"
 
 msgid "item_detail_popup_title_00"
-msgstr ""
+msgstr "Item Info"
 
 msgid "pbox_title_00"
-msgstr ""
+msgstr "Receipt Confirmation"
 
 msgid "pbox_title_01"
-msgstr ""
+msgstr "Receipt Failed"
 
 msgid "pbox_title_02"
-msgstr ""
+msgstr "Gift Receipt"
 
 msgid "pbox_title_03"
-msgstr ""
+msgstr "Receive All Confirmation"
 
 msgid "pbox_title_04"
-msgstr ""
+msgstr "Max. Reached"
 
 msgid "pbox_text_01"
 msgstr ""
+"You'll receive\n"
+"<color=#C8087E>{0}</color>.\n"
+"\n"
+"Receive item?"
 
 msgid "pbox_text_02"
 msgstr ""
+"You've reached max item capacity,\n"
+"so you cannot receive this item."
 
 msgid "pbox_text_03"
 msgstr ""
+"<color=#C8087E>{0}</color>\n"
+"\n"
+"received."
 
 msgid "pbox_text_04"
 msgstr ""
+"{0}\n"
+"\n"
+"received. Luck increased.\n"
+"{1}'s Luck went up to {2}."
 
 msgid "pbox_text_05"
 msgstr ""
+"{0}\n"
+"\n"
+"{1}s' Luck reached its limit,\n"
+"so it was converted into {2}."
 
 msgid "pbox_text_06"
 msgstr ""
+"You're about to receive all gifts at once.\n"
+"\n"
+"Receive gifts?"
 
 msgid "pbox_text_07"
 msgstr ""
+"There are items in those you tried to\n"
+"receive that go over their carry limits."
 
 msgid "pbox_text_08"
 msgstr ""
@@ -641,7 +663,7 @@ msgid "growth_popup_title_text06"
 msgstr ""
 
 msgid "growth_popup_text01"
-msgstr ""
+msgstr "Owned: {0,4}"
 
 msgid "growth_popup_text02"
 msgstr ""
@@ -4099,7 +4121,7 @@ msgid "pop_raid_helprequest_all"
 msgstr ""
 
 msgid "pop_raid_boss_sort_title"
-msgstr ""
+msgstr "Change display order"
 
 msgid "pop_raid_cannon_plate_title"
 msgstr ""
@@ -5134,7 +5156,7 @@ msgid "quest_receive_all_desc"
 msgstr ""
 
 msgid "popup_quest_receive_limit_title"
-msgstr ""
+msgstr "Max. Reached"
 
 msgid "popup_quest_receive_limit_desc"
 msgstr ""
@@ -5698,7 +5720,7 @@ msgid "sel_event_01_period"
 msgstr ""
 
 msgid "popup_godiva_filter_title"
-msgstr ""
+msgstr "Change display order"
 
 msgid "popup_vop_all_receive_vc_caution"
 msgstr ""
@@ -5899,7 +5921,7 @@ msgid "popup_filter_unit_title_h2"
 msgstr ""
 
 msgid "popup_filter_reward_title_h2"
-msgstr ""
+msgstr "Clear Rewards"
 
 msgid "popup_filter_reward_score"
 msgstr ""
