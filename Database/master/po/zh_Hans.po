@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-06-11 08:31+0000\n"
+"PO-Revision-Date: 2025-06-18 07:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -13188,7 +13188,7 @@ msgid "qd_dsc_0001"
 msgstr "完成3次演出"
 
 msgid "qd_dsc_0002"
-msgstr "以至少S评价完成演出1次"
+msgstr "达成S或以上分数评价1次"
 
 msgid "qd_dsc_0003"
 msgstr "发动主动技能并完成演出1次"
@@ -13319,7 +13319,7 @@ msgid "qn_dsc_0026"
 msgstr "达成1次FULL COMBO"
 
 msgid "qn_dsc_0027"
-msgstr "以SS评价完成演出1次"
+msgstr "达成SS分数评价1次"
 
 msgid "qn_dsc_0028"
 msgstr "最高分数达到100000以上"
@@ -13993,25 +13993,25 @@ msgid "qn_dsc_0236"
 msgstr "达成100次FULL COMBO"
 
 msgid "qn_dsc_0237"
-msgstr "达成5次SS评价"
+msgstr "达成5次SS分数评价"
 
 msgid "qn_dsc_0238"
-msgstr "达成10次SS评价"
+msgstr "达成10次SS分数评价"
 
 msgid "qn_dsc_0239"
-msgstr "达成20次SS评价"
+msgstr "达成20次SS分数评价"
 
 msgid "qn_dsc_0240"
-msgstr "达成30次SS评价"
+msgstr "达成30次SS分数评价"
 
 msgid "qn_dsc_0241"
-msgstr "达成40次SS评价"
+msgstr "达成40次SS分数评价"
 
 msgid "qn_dsc_0242"
-msgstr "达成50次SS评价"
+msgstr "达成50次SS分数评价"
 
 msgid "qn_dsc_0243"
-msgstr "达成100次SS评价"
+msgstr "达成100次SS分数评价"
 
 msgid "qn_dsc_0244"
 msgstr "最高分数达到150000以上"
@@ -14578,37 +14578,37 @@ msgid "qn_dsc_0391"
 msgstr "达成2500次FULL COMBO"
 
 msgid "qn_dsc_0392"
-msgstr "达成150次SS评价"
+msgstr "达成150次SS分数评价"
 
 msgid "qn_dsc_0393"
-msgstr "达成200次SS评价"
+msgstr "达成200次SS分数评价"
 
 msgid "qn_dsc_0394"
-msgstr "达成300次SS评价"
+msgstr "达成300次SS分数评价"
 
 msgid "qn_dsc_0395"
-msgstr "达成400次SS评价"
+msgstr "达成400次SS分数评价"
 
 msgid "qn_dsc_0396"
-msgstr "达成500次SS评价"
+msgstr "达成500次SS分数评价"
 
 msgid "qn_dsc_0397"
-msgstr "达成750次SS评价"
+msgstr "达成750次SS分数评价"
 
 msgid "qn_dsc_0398"
-msgstr "达成1000次SS评价"
+msgstr "达成1000次SS分数评价"
 
 msgid "qn_dsc_0399"
-msgstr "达成1250次SS评价"
+msgstr "达成1250次SS分数评价"
 
 msgid "qn_dsc_0400"
-msgstr "达成1500次SS评价"
+msgstr "达成1500次SS分数评价"
 
 msgid "qn_dsc_0401"
-msgstr "达成2000次SS评价"
+msgstr "达成2000次SS分数评价"
 
 msgid "qn_dsc_0402"
-msgstr "达成2500次SS评价"
+msgstr "达成2500次SS分数评价"
 
 msgid "qn_dsc_0403"
 msgstr "进入超歌姬模式并完成演出400次"
