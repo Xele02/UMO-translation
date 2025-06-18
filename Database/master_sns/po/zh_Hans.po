@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-03-11 09:42+0000\n"
+"PO-Revision-Date: 2025-06-18 10:46+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master_sns/zh_Hans/>\n"
@@ -702,7 +702,7 @@ msgid "sns_dsc_0402"
 msgstr "梅萨的生日"
 
 msgid "sns_dsc_0403"
-msgstr ""
+msgstr "2021圣诞节"
 
 msgid "sns_dsc_0404"
 msgstr "罗伊德的生日"
@@ -729,10 +729,10 @@ msgid "sns_dsc_0411"
 msgstr "未沙的生日"
 
 msgid "sns_dsc_0412"
-msgstr ""
+msgstr "2022愚人节"
 
 msgid "sns_dsc_0413"
-msgstr ""
+msgstr "2022愚人节"
 
 msgid "sns_dsc_0414"
 msgstr "博格的生日"
@@ -960,7 +960,7 @@ msgid "sns_dsc_0635"
 msgstr "博格的生日"
 
 msgid "sns_dsc_0636"
-msgstr ""
+msgstr "2019愚人节"
 
 msgid "sns_dsc_0637"
 msgstr "玛基娜的生日"
@@ -1005,7 +1005,7 @@ msgid "sns_dsc_0650"
 msgstr "梅萨的生日"
 
 msgid "sns_dsc_0651"
-msgstr ""
+msgstr "2019圣诞节"
 
 msgid "sns_dsc_0652"
 msgstr "罗伊德的生日"
@@ -1035,10 +1035,10 @@ msgid "sns_dsc_0660"
 msgstr "博格的生日"
 
 msgid "sns_dsc_0661"
-msgstr ""
+msgstr "2020愚人节"
 
 msgid "sns_dsc_0662"
-msgstr ""
+msgstr "2020愚人节"
 
 msgid "sns_dsc_0663"
 msgstr "玛基娜的生日"
@@ -1083,7 +1083,7 @@ msgid "sns_dsc_0676"
 msgstr "梅萨的生日"
 
 msgid "sns_dsc_0677"
-msgstr ""
+msgstr "2020圣诞节"
 
 msgid "sns_dsc_0678"
 msgstr "罗伊德的生日"
@@ -1110,10 +1110,10 @@ msgid "sns_dsc_0685"
 msgstr "未沙的生日"
 
 msgid "sns_dsc_0686"
-msgstr ""
+msgstr "2021愚人节"
 
 msgid "sns_dsc_0687"
-msgstr ""
+msgstr "2021愚人节"
 
 msgid "sns_dsc_0688"
 msgstr "博格的生日"
@@ -1755,7 +1755,7 @@ msgid "sns_dsc_0901"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc_0902"
-msgstr ""
+msgstr "2017圣诞节"
 
 msgid "sns_dsc_0903"
 msgstr "推进活动解锁"
@@ -3114,7 +3114,7 @@ msgid "sns_dsc2_0402"
 msgstr "梅萨的生日"
 
 msgid "sns_dsc2_0403"
-msgstr ""
+msgstr "2021圣诞节"
 
 msgid "sns_dsc2_0404"
 msgstr "罗伊德的生日"
@@ -3141,10 +3141,10 @@ msgid "sns_dsc2_0411"
 msgstr "未沙的生日"
 
 msgid "sns_dsc2_0412"
-msgstr ""
+msgstr "2022愚人节"
 
 msgid "sns_dsc2_0413"
-msgstr ""
+msgstr "2022愚人节"
 
 msgid "sns_dsc2_0414"
 msgstr "博格的生日"
@@ -3372,7 +3372,7 @@ msgid "sns_dsc2_0635"
 msgstr "博格的生日"
 
 msgid "sns_dsc2_0636"
-msgstr ""
+msgstr "2019愚人节"
 
 msgid "sns_dsc2_0637"
 msgstr "玛基娜的生日"
@@ -3417,7 +3417,7 @@ msgid "sns_dsc2_0650"
 msgstr "梅萨的生日"
 
 msgid "sns_dsc2_0651"
-msgstr ""
+msgstr "2019圣诞节"
 
 msgid "sns_dsc2_0652"
 msgstr "罗伊德的生日"
@@ -3447,10 +3447,10 @@ msgid "sns_dsc2_0660"
 msgstr "博格的生日"
 
 msgid "sns_dsc2_0661"
-msgstr ""
+msgstr "2020愚人节"
 
 msgid "sns_dsc2_0662"
-msgstr ""
+msgstr "2020愚人节"
 
 msgid "sns_dsc2_0663"
 msgstr "玛基娜的生日"
@@ -3495,7 +3495,7 @@ msgid "sns_dsc2_0676"
 msgstr "梅萨的生日"
 
 msgid "sns_dsc2_0677"
-msgstr ""
+msgstr "2020圣诞节"
 
 msgid "sns_dsc2_0678"
 msgstr "罗伊德的生日"
@@ -3522,10 +3522,10 @@ msgid "sns_dsc2_0685"
 msgstr "未沙的生日"
 
 msgid "sns_dsc2_0686"
-msgstr ""
+msgstr "2021愚人节"
 
 msgid "sns_dsc2_0687"
-msgstr ""
+msgstr "2021愚人节"
 
 msgid "sns_dsc2_0688"
 msgstr "博格的生日"
@@ -4167,7 +4167,7 @@ msgid "sns_dsc2_0901"
 msgstr "推进活动解锁"
 
 msgid "sns_dsc2_0902"
-msgstr ""
+msgstr "2017圣诞节"
 
 msgid "sns_dsc2_0903"
 msgstr "推进活动解锁"
@@ -4854,7 +4854,7 @@ msgid "sns_nm_0005"
 msgstr "听我们的歌吧！"
 
 msgid "sns_nm_0006"
-msgstr "在战场上高歌"
+msgstr "于战场高歌"
 
 msgid "sns_nm_0007"
 msgstr "伟大的歌手"
@@ -4869,7 +4869,7 @@ msgid "sns_nm_0010"
 msgstr "记忆时空"
 
 msgid "sns_nm_0011"
-msgstr "禁欲系的美云"
+msgstr "禁欲系美云"
 
 msgid "sns_nm_0012"
 msgstr "吉纳斯家的姨侄"
@@ -4896,13 +4896,13 @@ msgid "sns_nm_0019"
 msgstr "一起谈天说地吧！"
 
 msgid "sns_nm_0020"
-msgstr "空中骑士团的变故"
+msgstr "空中骑士团的异常"
 
 msgid "sns_nm_0021"
 msgstr "歌姬与飞行员的记忆"
 
 msgid "sns_nm_0022"
-msgstr "只要是为了姨妈"
+msgstr "为了姨妈"
 
 msgid "sns_nm_0023"
 msgstr ""
@@ -4941,7 +4941,7 @@ msgid "sns_nm_0034"
 msgstr ""
 
 msgid "sns_nm_0035"
-msgstr ""
+msgstr "和好的方法"
 
 msgid "sns_nm_0036"
 msgstr ""
@@ -5448,7 +5448,7 @@ msgid "sns_nm_0237"
 msgstr ""
 
 msgid "sns_nm_0238"
-msgstr ""
+msgstr "查克的野心"
 
 msgid "sns_nm_0239"
 msgstr ""
@@ -5526,7 +5526,7 @@ msgid "sns_nm_0402"
 msgstr ""
 
 msgid "sns_nm_0403"
-msgstr ""
+msgstr "圣诞快乐 ～2021～"
 
 msgid "sns_nm_0404"
 msgstr ""
@@ -5571,7 +5571,7 @@ msgid "sns_nm_0417"
 msgstr ""
 
 msgid "sns_nm_0532"
-msgstr ""
+msgstr "战机派遣任务"
 
 msgid "sns_nm_0533"
 msgstr ""
@@ -5604,7 +5604,7 @@ msgid "sns_nm_0542"
 msgstr ""
 
 msgid "sns_nm_0543"
-msgstr ""
+msgstr "战场上的歌声"
 
 msgid "sns_nm_0544"
 msgstr ""
@@ -5829,7 +5829,7 @@ msgid "sns_nm_0650"
 msgstr ""
 
 msgid "sns_nm_0651"
-msgstr ""
+msgstr "圣诞快乐 ～2019～"
 
 msgid "sns_nm_0652"
 msgstr ""
@@ -5859,7 +5859,7 @@ msgid "sns_nm_0660"
 msgstr ""
 
 msgid "sns_nm_0661"
-msgstr ""
+msgstr "愚人节演出"
 
 msgid "sns_nm_0662"
 msgstr ""
@@ -5907,7 +5907,7 @@ msgid "sns_nm_0676"
 msgstr ""
 
 msgid "sns_nm_0677"
-msgstr ""
+msgstr "圣诞快乐 ～2020～"
 
 msgid "sns_nm_0678"
 msgstr ""
@@ -6087,7 +6087,7 @@ msgid "sns_nm_0736"
 msgstr ""
 
 msgid "sns_nm_0737"
-msgstr ""
+msgstr "莎朗·埃普的幻影"
 
 msgid "sns_nm_0738"
 msgstr ""
@@ -6165,7 +6165,7 @@ msgid "sns_nm_0762"
 msgstr ""
 
 msgid "sns_nm_0763"
-msgstr ""
+msgstr "一决胜负"
 
 msgid "sns_nm_0764"
 msgstr ""
@@ -6192,7 +6192,7 @@ msgid "sns_nm_0771"
 msgstr ""
 
 msgid "sns_nm_0772"
-msgstr ""
+msgstr "和好大作战！"
 
 msgid "sns_nm_0773"
 msgstr ""
@@ -6243,7 +6243,7 @@ msgid "sns_nm_0788"
 msgstr ""
 
 msgid "sns_nm_0789"
-msgstr ""
+msgstr "星间飞行"
 
 msgid "sns_nm_0790"
 msgstr ""
@@ -6732,7 +6732,7 @@ msgid "sns_nm_0952"
 msgstr ""
 
 msgid "sns_nm_0953"
-msgstr ""
+msgstr "希比露"
 
 msgid "sns_nm_0954"
 msgstr ""
@@ -7068,7 +7068,7 @@ msgid "sns_nm_1064"
 msgstr ""
 
 msgid "sns_nm_1065"
-msgstr ""
+msgstr "更高维度的进化"
 
 msgid "sns_nm_1066"
 msgstr ""
@@ -7128,10 +7128,10 @@ msgid "sns_nm_1084"
 msgstr ""
 
 msgid "sns_nm_1085"
-msgstr ""
+msgstr "莎朗·埃普"
 
 msgid "sns_nm_1086"
-msgstr ""
+msgstr "乐园"
 
 msgid "sns_nm_1087"
 msgstr ""
@@ -7227,7 +7227,7 @@ msgid "sns_nm_1117"
 msgstr ""
 
 msgid "sns_nm_1118"
-msgstr ""
+msgstr "集合"
 
 msgid "sns_nm_1119"
 msgstr ""
