@@ -76,6 +76,9 @@ msgstr "第"
 msgid "StringLiteral_9715"
 msgstr "話"
 
+msgid "StringLiteral_9765"
+msgstr "報酬リスト"
+
 msgid "StringLiteral_9767"
 msgstr "超時空ユニット"
 
