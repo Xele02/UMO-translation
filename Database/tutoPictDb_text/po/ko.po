@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-05-19 07:59+0000\n"
+"PO-Revision-Date: 2025-07-02 04:47+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/ko/>\n"
@@ -77,6 +77,9 @@ msgstr "플레이로그에 대하여"
 
 msgid "tutopict_0005_0000_msg"
 msgstr ""
+"악곡에서 내가 실수한 부분,\n"
+"스킬이 발동된 타이밍 등의\n"
+"정보를 알 수 있어."
 
 msgid "tutopict_0006_0000_title"
 msgstr "플레이어 랭크에 대하여"
@@ -872,16 +875,22 @@ msgid "tutopict_0084_0000_msg"
 msgstr ""
 
 msgid "tutopict_0085_0000_title"
-msgstr ""
+msgstr "라이브 플레이 방법에 대하여"
 
 msgid "tutopict_0085_0000_msg"
 msgstr ""
+"라이브 중에는 화면 위에서 【노트】가 흘러나와.\n"
+"【리듬 버튼】과 겹치는 타이밍에 탭해."
 
 msgid "tutopict_0085_0001_msg"
 msgstr ""
+"흘러나오는 【노트】에는 몇 가지 종류가 있어.\n"
+"간단하게 탭할 수 있는 것은 【노멀 노트】야."
 
 msgid "tutopict_0085_0002_msg"
 msgstr ""
+"라인으로 연결된 【더블 노트】는\n"
+"같은 타이밍에 탭해야 돼."
 
 msgid "tutopict_0085_0003_msg"
 msgstr ""
@@ -917,6 +926,8 @@ msgstr ""
 
 msgid "tutopict_0088_0001_msg"
 msgstr ""
+"【발키리 모드】중 발키리는\n"
+"4콤보 이상 연결하면 적에게 공격을 가할 수 있어."
 
 msgid "tutopict_0088_0002_msg"
 msgstr ""
@@ -972,21 +983,31 @@ msgstr ""
 
 msgid "tutopict_0094_0001_msg"
 msgstr ""
+"【발키리 모드】중 발키리는\n"
+"4콤보 이상 연결하면 적에게 공격을 가할 수 있어."
 
 msgid "tutopict_0094_0002_msg"
 msgstr ""
+"【발키리 모드】에서 제한 시간 내에 적을\n"
+"쓰러뜨리면 【가희 모드】로 진입할 수 있어!"
 
 msgid "tutopict_0095_0000_title"
-msgstr ""
+msgstr "라이브 플레이 방법에 대하여"
 
 msgid "tutopict_0095_0000_msg"
 msgstr ""
+"라이브 중에는 화면 위에서 【노트】가 흘러나와.\n"
+"【리듬 버튼】과 겹치는 타이밍에 탭해."
 
 msgid "tutopict_0095_0001_msg"
 msgstr ""
+"흘러나오는 【노트】에는 몇 가지 종류가 있어.\n"
+"간단하게 탭할 수 있는 것은 【노멀 노트】야."
 
 msgid "tutopict_0095_0002_msg"
 msgstr ""
+"라인으로 연결된 【더블 노트】는\n"
+"같은 타이밍에 탭해야 돼."
 
 msgid "tutopict_0095_0003_msg"
 msgstr ""
@@ -1004,13 +1025,17 @@ msgstr ""
 "효과적이야!"
 
 msgid "tutopict_0097_0000_title"
-msgstr ""
+msgstr "발키리 모드에 대하여"
 
 msgid "tutopict_0097_0000_msg"
 msgstr ""
+"타이밍에 맞춰 노트를 탭하면\n"
+"【생체 폴드 웨이브】가 쌓여."
 
 msgid "tutopict_0097_0001_msg"
 msgstr ""
+"【발키리 모드】중 발키리는\n"
+"4콤보 이상 연결하면 적에게 공격을 가할 수 있어."
 
 msgid "tutopict_0098_0000_title"
 msgstr ""
@@ -1045,6 +1070,9 @@ msgstr "플레이로그에 대하여"
 
 msgid "tutopict_0101_0000_msg"
 msgstr ""
+"악곡에서 내가 실수한 부분,\n"
+"스킬이 발동된 타이밍 등의\n"
+"정보를 알 수 있어."
 
 msgid "tutopict_0102_0000_title"
 msgstr "유닛 편성에 대하여"
