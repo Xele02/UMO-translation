@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-03-31 13:44+0000\n"
-"Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
+"PO-Revision-Date: 2025-07-02 04:47+0000\n"
+"Last-Translator: Ryuuga <ryuugaplays@gmail.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "common/en/>\n"
 "Language: en\n"
@@ -15,19 +15,26 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "saka_error0000"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0001"
 msgstr ""
+"An error has occurred.\n"
+"Please try again in a short while."
 
 msgid "saka_error0002"
 msgstr ""
+"Communication error has occurred.\n"
+"Please check your internet connection."
 
 msgid "saka_error0003"
 msgstr ""
+"Communication error has occurred.\n"
+"Please check your internet connection and then try again. If you wish to "
+"cancel, you will return to the title screen."
 
 msgid "saka_error0004"
-msgstr ""
+msgstr "Unable to locate file."
 
 msgid "saka_error0005"
 msgstr ""
@@ -49,18 +56,20 @@ msgstr ""
 
 msgid "saka_error0011"
 msgstr ""
+"An error has occurred.\n"
+"Please restart the application."
 
 msgid "saka_error0012"
-msgstr ""
+msgstr "Some word(s) are prohibited."
 
 msgid "saka_error0013"
 msgstr ""
 
 msgid "saka_error0014"
-msgstr ""
+msgstr "Already received."
 
 msgid "saka_error0015"
-msgstr ""
+msgstr "Unable to receive."
 
 msgid "saka_error0016"
 msgstr ""
@@ -141,7 +150,7 @@ msgid "saka_error0041"
 msgstr ""
 
 msgid "saka_error0042"
-msgstr ""
+msgstr "An error has occurred. Please restart the game."
 
 msgid "saka_error0043"
 msgstr ""
@@ -156,10 +165,12 @@ msgid "saka_error0046"
 msgstr ""
 
 msgid "saka_error0047"
-msgstr ""
+msgstr "Unable to send push notifications."
 
 msgid "saka_error0048"
 msgstr ""
+"Unable to send push notifications.\n"
+"Please check your settings and try again."
 
 msgid "saka_error0049"
 msgstr ""
@@ -177,10 +188,10 @@ msgid "saka_error0053"
 msgstr ""
 
 msgid "saka_error0054"
-msgstr ""
+msgstr "Unable to locate thread."
 
 msgid "saka_error0055"
-msgstr ""
+msgstr "Unable to locate comment."
 
 msgid "saka_error0056"
 msgstr ""
@@ -189,7 +200,7 @@ msgid "saka_error0057"
 msgstr ""
 
 msgid "saka_error0058"
-msgstr ""
+msgstr "The server is under maintenance."
 
 msgid "saka_error0059"
 msgstr ""
@@ -210,7 +221,7 @@ msgid "saka_error0064"
 msgstr ""
 
 msgid "saka_error0065"
-msgstr ""
+msgstr "Please enter your birthday."
 
 msgid "saka_error0066"
 msgstr ""
@@ -228,37 +239,37 @@ msgid "saka_error0070"
 msgstr ""
 
 msgid "saka_error0071"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0072"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0073"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0074"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0075"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0076"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0077"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0078"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0079"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0080"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0081"
-msgstr ""
+msgstr "An error has occurred."
 
 msgid "saka_error0082"
 msgstr ""
@@ -321,7 +332,7 @@ msgid "saka_error0101"
 msgstr ""
 
 msgid "saka_error0102"
-msgstr ""
+msgstr "Insufficient tickets"
 
 msgid "saka_error0103"
 msgstr ""
@@ -596,13 +607,13 @@ msgid "popup_support_title"
 msgstr "Support"
 
 msgid "popup_maintenance_title"
-msgstr ""
+msgstr "Maintenance"
 
 msgid "popup_ban_title"
-msgstr ""
+msgstr "Report"
 
 msgid "popup_app_update_title"
-msgstr ""
+msgstr "Update"
 
 msgid "popup_app_update_an"
 msgstr ""
@@ -617,13 +628,15 @@ msgid "cache_clear_01"
 msgstr ""
 
 msgid "cache_clear_02"
-msgstr ""
+msgstr "Data repair"
 
 msgid "cache_clear_03"
 msgstr ""
 
 msgid "cache_clear_04"
 msgstr ""
+"Data repair has been completed.\n"
+"Returning to the title screen."
 
 msgid "cache_clear_05"
 msgstr ""
@@ -856,13 +869,13 @@ msgstr ""
 "Zentraedi, making them reclaim their culture when they warred with humanity."
 
 msgid "popup_title_neterror"
-msgstr ""
+msgstr "Communication error"
 
 msgid "popup_title_dateline"
 msgstr "Date Change"
 
 msgid "popup_datetile"
-msgstr ""
+msgstr "The date has been changed."
 
 msgid "popup_title_data"
 msgstr ""
@@ -1268,13 +1281,18 @@ msgid "popup_account_linkaging_text_separator"
 msgstr ""
 
 msgid "popup_account_remove_title"
-msgstr ""
+msgstr "Account Deletion"
 
 msgid "popup_account_remove_text001"
 msgstr ""
+"Deleting your account.\n"
+"Please do not close the game\n"
+"until deletion is complete."
 
 msgid "popup_account_remove_text002"
 msgstr ""
+"Your account has been deleted,\n"
+"you may close the game now."
 
 msgid "popup_account_remove_consent_button"
 msgstr ""
