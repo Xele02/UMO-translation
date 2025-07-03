@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-07-02 04:47+0000\n"
-"Last-Translator: Ryuuga <ryuugaplays@gmail.com>\n"
+"PO-Revision-Date: 2025-07-04 15:47+0000\n"
+"Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
 "Language: en\n"
@@ -374,31 +374,31 @@ msgid "config_text_12"
 msgstr "Select if skill cut-in animations display or not."
 
 msgid "config_text_13"
-msgstr "This governs the angle of the note display."
+msgstr "Set how the tracks the notes run on are displayed."
 
 msgid "config_text_14"
 msgstr "Graphics"
 
 msgid "config_text_15"
-msgstr "Set each item individually."
+msgstr "Perform songs according to your individual chosen settings."
 
 msgid "config_text_16"
-msgstr "Disable all 3D rendered effects."
+msgstr "Play with 2D graphics for better performance."
 
 msgid "config_text_17"
-msgstr "Some elements will be reduced for performance."
+msgstr "Remove some elements from songs for better performance."
 
 msgid "config_text_18"
-msgstr "Default setting."
+msgstr "Display all graphical elements in songs."
 
 msgid "config_text_19"
-msgstr "Judgement Timing"
+msgstr "Note Timing"
 
 msgid "config_text_20"
-msgstr "This adjusts the timing on note press judgements."
+msgstr "Adjust the timing of note presses."
 
 msgid "config_text_21"
-msgstr "Live Setup"
+msgstr "Song Settings"
 
 msgid "config_text_22"
 msgstr "Confirmation"
