@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-07-06 16:06+0000\n"
+"PO-Revision-Date: 2025-07-08 18:29+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -430,7 +430,7 @@ msgid "config_text_27"
 msgstr "Rendering"
 
 msgid "config_text_28"
-msgstr "Menu Settings"
+msgstr "Menus"
 
 msgid "config_text_29"
 msgstr "Other"
@@ -468,7 +468,7 @@ msgid "config_text_38"
 msgstr "Set the note speed for each difficulty level."
 
 msgid "config_text_39"
-msgstr "You can adjust songs' note speeds."
+msgstr "Adjust the speed of notes in songs."
 
 msgid "config_text_40"
 msgstr "Note Speed"
@@ -477,28 +477,33 @@ msgid "config_text_41"
 msgstr "Videos"
 
 msgid "config_text_42"
-msgstr "This setting concerns the video during Diva Mode."
+msgstr "Adjust the settings for the videos that play during Diva Modes."
 
 msgid "config_text_43"
 msgstr "Lowering video quality may improve performance."
 
 msgid "config_text_44"
-msgstr "Reducing video quality will not remove the original videos."
+msgstr "If you change the video quality, the videos will be redownloaded."
 
 msgid "config_text_45"
 msgstr ""
+"If you change this setting, the videos that had already been\n"
+"downloaded will be deleted, and videos will be\n"
+"downloaded again when you play songs.\n"
+"\n"
+"Change this setting?"
 
 msgid "config_text_46"
-msgstr "Video quality changed."
+msgstr "Deletion complete."
 
 msgid "config_text_47"
-msgstr "Diva Settings"
+msgstr "Divas"
 
 msgid "config_text_48"
-msgstr "<size=22> This setting is for Divas on the home screen. </size>"
+msgstr "<size=22>Adjust Diva-related home screen settings.</size>"
 
 msgid "config_text_49"
-msgstr "The team leader will be displayed in their current costume."
+msgstr "Displays the team's center Diva and costume."
 
 msgid "config_text_50"
 msgstr "The diva selected in the dressing room will be displayed."
