@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-07-06 16:06+0000\n"
+"PO-Revision-Date: 2025-07-14 08:34+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -3692,25 +3692,25 @@ msgid "android_backbutton_disable"
 msgstr ""
 
 msgid "event_sp_daily_adv_num_title"
-msgstr ""
+msgstr "Episode {0} disponible"
 
 msgid "event_sp_daily_adv_all_title"
-msgstr ""
+msgstr "Tout les épisodes disponible"
 
 msgid "event_sp_end_attain"
-msgstr ""
+msgstr "Calcul en cours"
 
 msgid "event_sp_epilogue"
-msgstr ""
+msgstr "Epiloque disponible"
 
 msgid "event_sp_reward"
-msgstr ""
+msgstr "Réception en cours !"
 
 msgid "event_sp_open_at"
-msgstr ""
+msgstr "Début : {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "event_sp_close_at"
-msgstr ""
+msgstr "Jusqu'au {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "episode_reward_text001"
 msgstr "EP requis : {0}"
@@ -6447,7 +6447,7 @@ msgstr ""
 "<color=#8e0529>Les objets disparaîtrons à la fin de l'événement.</color>"
 
 msgid "sel_event_01_period"
-msgstr ""
+msgstr "{0}/{1}/{2} {3}:{4:D2} ～ {5}/{6}/{7} {8}:{9:D2}"
 
 msgid "popup_godiva_filter_title"
 msgstr "Ordre de tri"
@@ -6565,10 +6565,12 @@ msgid "pop_gakuya_present_limit"
 msgstr ""
 
 msgid "popup_sp_transition_bingo_error_title"
-msgstr ""
+msgstr "Bingo non disponible"
 
 msgid "popup_sp_bingo_debutmission_notclear_text"
 msgstr ""
+"Tu peux faire ses missions une fois \n"
+"les missions de débutants terminées.\n"
 
 msgid "home_event_started"
 msgstr ""
