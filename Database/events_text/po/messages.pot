@@ -4501,3 +4501,270 @@ msgstr ""
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_04"
 msgstr ""
 
+msgid "mission_desc_event_sp_a_0001"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0002"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0003"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0004"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0005"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0006"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0007"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0008"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0009"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0010"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0011"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0012"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0013"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0014"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0015"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0016"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0017"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0018"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0019"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0020"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0021"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0022"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0023"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0024"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0025"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0026"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0027"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0028"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0029"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0030"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0031"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0032"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0033"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0034"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0035"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0036"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0037"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0038"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0039"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0040"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0041"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0042"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0043"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0044"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0045"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0046"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0047"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0048"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0049"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0050"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0051"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0052"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0053"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0054"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0055"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0056"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0057"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0058"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0059"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0060"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0061"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0062"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0063"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0064"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0065"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0066"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0067"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0068"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0069"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0070"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0071"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0072"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0073"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0074"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0075"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0076"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0077"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0078"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0079"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0080"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0081"
+msgstr ""
+
+msgid "mission_desc2_event_sp_a_0081"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0082"
+msgstr ""
+
+msgid "mission_desc2_event_sp_a_0082"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0083"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0084"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0085"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0086"
+msgstr ""
+
+msgid "mission_desc_event_sp_a_0087"
+msgstr ""
+

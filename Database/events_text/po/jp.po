@@ -4501,3 +4501,270 @@ msgstr "{0}の\n{1}でフルコンボを達成しました！"
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_04"
 msgstr "無力化に成功しました！"
 
+msgid "mission_desc_event_sp_a_0001"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0002"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0003"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0004"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0005"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0006"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0007"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0008"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0009"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0010"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0011"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0012"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0013"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0014"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0015"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0016"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0017"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0018"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0019"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0020"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0021"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0022"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0023"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0024"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0025"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0026"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0027"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0028"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0029"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0030"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0031"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0032"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0033"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0034"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0035"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0036"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0037"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0038"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0039"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0040"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0041"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0042"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0043"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0044"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0045"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0046"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0047"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲「Glow in the dark」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0048"
+msgstr "【デイリー】イベント「Glow in the dark」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0049"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0050"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0051"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0052"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0053"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0054"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0055"
+msgstr "【デイリー】命属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0056"
+msgstr "【デイリー】楽曲を5回クリアする"
+
+msgid "mission_desc_event_sp_a_0057"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0058"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0059"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲「僕らの戦場」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0060"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0061"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0062"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0063"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲「僕らの戦場」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0064"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0065"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0066"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0067"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲「僕らの戦場」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0068"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0069"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0070"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0071"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲「僕らの戦場」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0072"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0073"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0074"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0075"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲「僕らの戦場」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0076"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0077"
+msgstr "【デイリー】星属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0078"
+msgstr "【デイリー】愛属性楽曲を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0079"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲「僕らの戦場」を1回クリアする"
+
+msgid "mission_desc_event_sp_a_0080"
+msgstr "【デイリー】イベント「【復刻】衝撃 デビューステージ」で\n楽曲を3回クリアする"
+
+msgid "mission_desc_event_sp_a_0081"
+msgstr "娘々サービスミッションを10個クリア\n<color=#c8087e>※衣装を獲得済みのため報酬が娘くじ☆抽選券になっています。</color>"
+
+msgid "mission_desc2_event_sp_a_0081"
+msgstr "娘々サービスミッションを\n10個クリア"
+
+msgid "mission_desc_event_sp_a_0082"
+msgstr "娘々サービスミッションを10個クリア"
+
+msgid "mission_desc2_event_sp_a_0082"
+msgstr "娘々サービスミッションを\n10個クリア"
+
+msgid "mission_desc_event_sp_a_0083"
+msgstr "記憶の時空ですべての歌姫の記憶を解放"
+
+msgid "mission_desc_event_sp_a_0084"
+msgstr "スコアランクSSで5回クリア"
+
+msgid "mission_desc_event_sp_a_0085"
+msgstr "スコアランクSSで10回クリア"
+
+msgid "mission_desc_event_sp_a_0086"
+msgstr "スコアランクSSで20回クリア"
+
+msgid "mission_desc_event_sp_a_0087"
+msgstr "スコアランクSSで30回クリア"
+
