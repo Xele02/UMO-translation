@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 18:44+0000\n"
-"PO-Revision-Date: 2025-06-14 16:30+0000\n"
+"PO-Revision-Date: 2025-07-14 13:49+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/fr/>\n"
@@ -3582,3 +3582,329 @@ msgid "mission_desc_event_collection_a_0015"
 msgstr ""
 "Finir la chanson 「マクロス」\n"
 "avec un rang S ou plus 5x"
+
+msgid "mission_desc_event_sp_a_0001"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0002"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0029"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0031"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0035"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0039"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0021"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0023"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0024"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0025"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0027"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0028"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0030"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0003"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0004"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0005"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0006"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0008"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0009"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0010"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0011"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0013"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0014"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0015"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0016"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0018"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0032"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0033"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0034"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0036"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0037"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0038"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0040"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0041"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0042"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0043"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0044"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0046"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0047"
+msgstr ""
+"【Journalier】Terminer la chanson 「Glow in the dark」\n"
+"pendant l'événement 「Glow in the dark」 1x"
+
+msgid "mission_desc_event_sp_a_0049"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0050"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0051"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0052"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0053"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0054"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0056"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0057"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0058"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0060"
+msgstr ""
+"【Journalier】Terminer 3 chansons pendant\n"
+"l'événement 「【復刻】衝撃 デビューステージ」"
+
+msgid "mission_desc_event_sp_a_0061"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0062"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0064"
+msgstr ""
+"【Journalier】Terminer 3 chansons pendant\n"
+"l'événement 「【復刻】衝撃 デビューステージ」"
+
+msgid "mission_desc_event_sp_a_0065"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0066"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0069"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0070"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0071"
+msgstr ""
+"【Journalier】Terminer la chanson 「僕らの戦場」\n"
+"pendant l'événement 「【復刻】衝撃 デビューステージ」 1x"
+
+msgid "mission_desc_event_sp_a_0073"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0074"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0075"
+msgstr ""
+"【Journalier】Terminer la chanson 「僕らの戦場」\n"
+"pendant l'événement 「【復刻】衝撃 デビューステージ」 1x"
+
+msgid "mission_desc_event_sp_a_0077"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0078"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0079"
+msgstr ""
+"【Journalier】Terminer la chanson 「僕らの戦場」\n"
+"pendant l'événement 「【復刻】衝撃 デビューステージ」 1x"
+
+msgid "mission_desc_event_sp_a_0081"
+msgstr ""
+"Terminer 10 missions Nyan-Nyan\n"
+"<color=#c8087e>※Si tu as déjà le costume, la récompense sera un "
+"ticket</color>"
+
+msgid "mission_desc_event_sp_a_0082"
+msgstr "Terminer 10 missions Nyan-Nyan"
+
+msgid "mission_desc_event_sp_a_0083"
+msgstr ""
+"Complète tous les souvenirs d'une diva \n"
+"dans l'espace-temps mémoriel"
+
+msgid "mission_desc_event_sp_a_0084"
+msgstr ""
+"Termine une chanson 5x\n"
+"avec un score SS"
+
+msgid "mission_desc_event_sp_a_0085"
+msgstr ""
+"Termine une chanson 10x\n"
+"avec un score SS"
+
+msgid "mission_desc_event_sp_a_0086"
+msgstr ""
+"Termine une chanson 20x\n"
+"avec un score SS"
+
+msgid "mission_desc_event_sp_a_0087"
+msgstr ""
+"Termine une chanson 30x\n"
+"avec un score SS"
+
+msgid "mission_desc_event_sp_a_0007"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0012"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0017"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0019"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0020"
+msgstr "【Journalier】Jouer à 5 chansons"
+
+msgid "mission_desc_event_sp_a_0022"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0026"
+msgstr "【Journalier】Finir une chanson de type Amour"
+
+msgid "mission_desc_event_sp_a_0059"
+msgstr ""
+"【Journalier】Terminer la chanson 「僕らの戦場」\n"
+"pendant l'événement 「【復刻】衝撃 デビューステージ」 1x"
+
+msgid "mission_desc_event_sp_a_0063"
+msgstr ""
+"【Journalier】Terminer la chanson 「僕らの戦場」\n"
+"pendant l'événement 「【復刻】衝撃 デビューステージ」 1x"
+
+msgid "mission_desc_event_sp_a_0067"
+msgstr ""
+"【Journalier】Terminer la chanson 「僕らの戦場」\n"
+"pendant l'événement 「【復刻】衝撃 デビューステージ」 1x"
+
+msgid "mission_desc_event_sp_a_0068"
+msgstr ""
+"【Journalier】Terminer 3 chansons pendant\n"
+"l'événement 「【復刻】衝撃 デビューステージ」"
+
+msgid "mission_desc_event_sp_a_0045"
+msgstr "【Journalier】Finir une chanson de type Étoile"
+
+msgid "mission_desc_event_sp_a_0048"
+msgstr ""
+"【Journalier】Terminer la chanson\n"
+"「Glow in the dark」3x"
+
+msgid "mission_desc_event_sp_a_0055"
+msgstr "【Journalier】Finir une chanson de type Vie"
+
+msgid "mission_desc_event_sp_a_0072"
+msgstr ""
+"【Journalier】Terminer 3 chansons pendant\n"
+"l'événement 「【復刻】衝撃 デビューステージ」"
+
+msgid "mission_desc_event_sp_a_0076"
+msgstr ""
+"【Journalier】Terminer 3 chansons pendant\n"
+"l'événement 「【復刻】衝撃 デビューステージ」"
+
+msgid "mission_desc_event_sp_a_0080"
+msgstr ""
+"【Journalier】Terminer 3 chansons pendant\n"
+"l'événement 「【復刻】衝撃 デビューステージ」"
