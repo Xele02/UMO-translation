@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-07-15 14:47+0000\n"
+"PO-Revision-Date: 2025-07-20 14:47+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -1472,6 +1472,9 @@ msgstr "{0}{0:plural:er|ème}"
 
 msgid "music_week_play_count_limit"
 msgstr ""
+"Limite du nombre d'essai\n"
+"atteinte, tu ne peux plus \n"
+"jouer aujourd'hui."
 
 msgid "music_event_end_week"
 msgstr ""
@@ -2318,7 +2321,7 @@ msgid "event_reward_result_last_rank"
 msgstr ""
 
 msgid "event_reward_result_dash_bonus"
-msgstr ""
+msgstr "Bonus d'utilisation x{0}"
 
 msgid "popup_event_reward_check_pt_title"
 msgstr "Récompenses de points cumulés"
@@ -3027,37 +3030,42 @@ msgid "item_shop_limit_period"
 msgstr "Jusque {0}/{1} {2}:{3:D2}"
 
 msgid "event_mission_message_000"
-msgstr ""
+msgstr "+{0}%"
 
 msgid "event_mission_message_001"
-msgstr ""
+msgstr "Choisi la mission à compléter"
 
 msgid "music_select_event_bonus"
 msgstr ""
 
 msgid "event_mission_changemusic_title"
-msgstr ""
+msgstr "Chansons"
 
 msgid "event_mission_changemusic_title2"
-msgstr ""
+msgstr "Chansons bonus"
 
 msgid "event_mission_changemusic_desc_001"
 msgstr ""
+"La période de la chanson est terminée,\n"
+"une autre chanson va être sélectionnée."
 
 msgid "event_mission_changemusic_desc_002"
 msgstr ""
+"Ne nombre d'utilisation de la \n"
+"chanson du jour est atteint,\n"
+"une autre chanson va être sélectionnée."
 
 msgid "event_mission_changemusic_desc_003"
-msgstr ""
+msgstr "Les chansons bonus ont changées."
 
 msgid "event_mission_changemusic_caution"
-msgstr ""
+msgstr "La chanson bonus sera aléatoirement sélectionnée."
 
 msgid "event_mission_changemusic_caution2"
-msgstr ""
+msgstr "La chanson précédente n'est plus une chanson bonus."
 
 msgid "event_mission_changemusic_format"
-msgstr ""
+msgstr "{0}{1}{2}"
 
 msgid "event_mission_setting_title"
 msgstr ""
@@ -3079,6 +3087,8 @@ msgstr ""
 
 msgid "event_mission_comborank"
 msgstr ""
+"\n"
+"({0} combo)"
 
 msgid "simulation_result_anim_name_01"
 msgstr "MacrossΔ(Delta) (26 ep.)"
