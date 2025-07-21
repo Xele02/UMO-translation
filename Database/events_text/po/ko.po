@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-07-21 03:47+0000\n"
+"PO-Revision-Date: 2025-07-21 05:47+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -2372,3 +2372,323 @@ msgstr "이벤트 악곡 총 30회 클리어"
 
 msgid "mission_desc_event_sp_a_0001"
 msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0009"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0013"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0017"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0021"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0029"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0033"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0002"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0006"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0014"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0018"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0022"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0026"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0034"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0003"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0007"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0011"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0015"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0016"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0004"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0008"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0020"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0023"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0031"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0024"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0028"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0041"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0049"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0053"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0057"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0061"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0069"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0038"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0042"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0046"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0054"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0058"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0062"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0066"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0055"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0051"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0052"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0056"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0043"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0047"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0059"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡「우리들의 전장」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0067"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡「우리들의 전장」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0060"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0064"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0044"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0036"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0040"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0077"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0078"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0074"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0075"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡「우리들의 전장」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0076"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0080"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0081"
+msgstr ""
+"냥냥 서비스 미션 10개 클리어\n"
+"<color=#c8087e>※의상을 이미 획득했기 때문에 보상은 냥쿠지☆추첨권으로 "
+"변경되었습니다.</color>"
+
+msgid "mission_desc2_event_sp_a_0081"
+msgstr ""
+"냥냥 서비스 미션\n"
+"10개 클리어"
+
+msgid "mission_desc2_event_sp_a_0082"
+msgstr ""
+"냥냥 서비스 미션\n"
+"10개 클리어"
+
+msgid "mission_desc_event_sp_a_0083"
+msgstr "기억의 시공에서 모든 가희의 기억 해방"
+
+msgid "mission_desc_event_sp_a_0084"
+msgstr "스코어 랭크 SS로 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0085"
+msgstr "스코어 랭크 SS로 10회 클리어"
+
+msgid "mission_desc_event_sp_a_0086"
+msgstr "스코어 랭크 SS로 20회 클리어"
+
+msgid "mission_desc_event_sp_a_0087"
+msgstr "스코어 랭크 SS로 30회 클리어"
+
+msgid "mission_desc_event_sp_a_0005"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0025"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0037"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0045"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0065"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0073"
+msgstr "【데일리】별 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0010"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0030"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0050"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0070"
+msgstr "【데일리】사랑 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0019"
+msgstr "【데일리】생명 속성 악곡 1회 클리어"
+
+msgid "mission_desc_event_sp_a_0012"
+msgstr "【데일리】악곡 5회 클리어"
+
+msgid "mission_desc_event_sp_a_0027"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0039"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0035"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡「Glow in the dark」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0063"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡「우리들의 전장」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0071"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡「우리들의 전장」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0079"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡「우리들의 전장」1회 클리어"
+
+msgid "mission_desc_event_sp_a_0068"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0072"
+msgstr ""
+"【데일리】이벤트「【복각】충격 데뷔 스테이지」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0032"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_sp_a_0048"
+msgstr ""
+"【데일리】이벤트「Glow in the dark」에서\n"
+"악곡 3회 클리어"
