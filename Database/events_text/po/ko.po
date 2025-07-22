@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-07-22 07:47+0000\n"
+"PO-Revision-Date: 2025-07-22 09:47+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -2717,3 +2717,37 @@ msgid "mission_desc_event_collection_b_0030"
 msgstr ""
 "이벤트 악곡 「사랑의 마법」\n"
 "난이도 VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "event_bossname_event_raid_c_0015"
+msgstr "새인간"
+
+msgid "event_bossname_event_raid_b_0013"
+msgstr "새인간"
+
+msgid "event_bossname_event_raid_d_0014"
+msgstr "새인간"
+
+msgid "event_group_event_raidlobby_a_0002"
+msgstr "아라드 묄더스 부대"
+
+msgid "event_group_event_raidlobby_a_0001"
+msgstr "하야테 임멜만 부대"
+
+msgid "event_group_event_raidlobby_b_0001"
+msgstr "아라드 묄더스 부대"
+
+msgid "event_bossname_event_raid_a_0010"
+msgstr "새인간"
+
+msgid "event_bossname_event_raid_a_0013"
+msgstr "새인간"
+
+msgid "mission_desc_event_collection_b_0015"
+msgstr ""
+"이벤트 악곡 「사랑의 마법」\n"
+"스코어 랭크 S 이상으로 5회 클리어"
+
+msgid "mission_desc_event_collection_b_0041"
+msgstr ""
+"이벤트 「두 사람의 사랑의 마법」\n"
+"미션 20개 클리어"
