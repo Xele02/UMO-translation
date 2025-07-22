@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-06-21 19:47+0000\n"
+"PO-Revision-Date: 2025-07-22 09:47+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -6418,3 +6418,328 @@ msgstr "通关愚人节活动小游戏1次"
 
 msgid "mission_desc2_event_april_fool_h_0001"
 msgstr "通关愚人节活动小游戏1次"
+
+msgid "mission_desc_event_sp_a_0056"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0057"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0061"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0065"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0069"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0073"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0004"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0008"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0012"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0016"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0001"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0005"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0009"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0013"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0017"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0003"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0007"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0011"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0015"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0002"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0006"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0010"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0081"
+msgstr ""
+"完成10个娘娘祭活动\n"
+"<color=#c8087e>※由于该服装已获取，奖励已自动转换为娘娘抽奖券</color>"
+
+msgid "mission_desc_event_sp_a_0082"
+msgstr "完成10个娘娘祭活动"
+
+msgid "mission_desc2_event_sp_a_0081"
+msgstr ""
+"完成10个\n"
+"娘娘祭活动"
+
+msgid "mission_desc2_event_sp_a_0082"
+msgstr ""
+"完成10个\n"
+"娘娘祭活动"
+
+msgid "mission_desc_event_sp_a_0083"
+msgstr "解放记忆时空中所有的歌姬记忆"
+
+msgid "mission_desc_event_sp_a_0084"
+msgstr "达成SS分数评价5次"
+
+msgid "mission_desc_event_sp_a_0087"
+msgstr "达成SS分数评价30次"
+
+msgid "mission_desc_event_sp_a_0086"
+msgstr "达成SS分数评价20次"
+
+msgid "mission_desc_event_sp_a_0085"
+msgstr "达成SS分数评价10次"
+
+msgid "mission_desc_event_sp_a_0077"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0078"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0080"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0079"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成《我们的战场》演出3次"
+
+msgid "mission_desc_event_sp_a_0020"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0052"
+msgstr "【每日】完成演出5次"
+
+msgid "mission_desc_event_sp_a_0021"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0025"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0029"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0033"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0037"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0041"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0045"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0049"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0053"
+msgstr "【每日】完成星属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0019"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0051"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0055"
+msgstr "【每日】完成命属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0014"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0018"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0022"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0026"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0030"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0034"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0038"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0042"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0046"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0050"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0054"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0058"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0062"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0066"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0070"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0074"
+msgstr "【每日】完成爱属性歌曲演出1次"
+
+msgid "mission_desc_event_sp_a_0024"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0028"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0032"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0036"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0040"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0044"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0048"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0023"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0027"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0031"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0035"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0039"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0043"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0047"
+msgstr ""
+"【每日】在“Glow in the dark”活动界面\n"
+"完成《Glow in the dark》歌曲演出3次"
+
+msgid "mission_desc_event_sp_a_0060"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0064"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0068"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0072"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0076"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成演出3次"
+
+msgid "mission_desc_event_sp_a_0059"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成《我们的战场》演出3次"
+
+msgid "mission_desc_event_sp_a_0063"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成《我们的战场》演出3次"
+
+msgid "mission_desc_event_sp_a_0067"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成《我们的战场》演出3次"
+
+msgid "mission_desc_event_sp_a_0071"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成《我们的战场》演出3次"
+
+msgid "mission_desc_event_sp_a_0075"
+msgstr ""
+"【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
+"完成《我们的战场》演出3次"
