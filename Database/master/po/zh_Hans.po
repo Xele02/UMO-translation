@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-19 23:49+0000\n"
-"PO-Revision-Date: 2025-06-19 12:36+0000\n"
+"PO-Revision-Date: 2025-07-22 07:47+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/master/zh_Hans/>\n"
@@ -22372,7 +22372,7 @@ msgid "bvc_nm_0004"
 msgstr "冬日泪晶"
 
 msgid "bvc_nm_0005"
-msgstr "娘娘抽奖☆奖券"
+msgstr "娘娘抽奖券"
 
 msgid "bvc_nm_0006"
 msgstr "必得★5奖券"
@@ -22384,7 +22384,7 @@ msgid "bvc_nm_0008"
 msgstr "新春SP奖券"
 
 msgid "bvc_nm_0009"
-msgstr "前夜祭娘娘抽奖☆奖券"
+msgstr "前夜祭娘娘抽奖券"
 
 msgid "bvc_nm_0010"
 msgstr "超时空年票"
@@ -22399,13 +22399,13 @@ msgid "bvc_nm_0013"
 msgstr "9月必得★5每日免费奖券"
 
 msgid "bvc_nm_0015"
-msgstr "4周年娘娘抽奖☆奖券"
+msgstr "4周年娘娘抽奖券"
 
 msgid "bvc_nm_0016"
 msgstr "超时空要塞F演出纪念奖券"
 
 msgid "bvc_nm_0017"
-msgstr "娘娘抽奖☆奖券"
+msgstr "娘娘抽奖券"
 
 msgid "bvc_nm_0018"
 msgstr "服装解放卡片兑换券"
@@ -23537,7 +23537,7 @@ msgid "rat_short_name_0165"
 msgstr ""
 
 msgid "egt_nm_0001"
-msgstr "娘娘抽奖☆奖券"
+msgstr "娘娘抽奖券"
 
 msgid "egt_nm_0002"
 msgstr "勋章"
@@ -23549,13 +23549,13 @@ msgid "egt_nm_0004"
 msgstr "勋章"
 
 msgid "egt_nm_0005"
-msgstr "前夜祭娘娘抽奖☆奖券"
+msgstr "前夜祭娘娘抽奖券"
 
 msgid "egt_nm_0006"
-msgstr "娘娘抽奖☆奖券"
+msgstr "娘娘抽奖券"
 
 msgid "egt_nm_0007"
-msgstr "4周年娘娘抽奖☆奖券"
+msgstr "4周年娘娘抽奖券"
 
 msgid "egt_dsc_0001"
 msgstr ""
