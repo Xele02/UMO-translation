@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-07-20 14:47+0000\n"
+"PO-Revision-Date: 2025-07-26 11:34+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -3068,22 +3068,22 @@ msgid "event_mission_changemusic_format"
 msgstr "{0}{1}{2}"
 
 msgid "event_mission_setting_title"
-msgstr ""
+msgstr "Configuration de mission"
 
 msgid "event_mission_setting_desc_001"
-msgstr ""
+msgstr "Configuration de sélection de chanson"
 
 msgid "event_mission_setting_desc_002"
-msgstr ""
+msgstr "Configure la chanson choisie après le choix de mission."
 
 msgid "event_mission_setting_desc_003"
-msgstr ""
+msgstr "Choisi la méthode de ton choix."
 
 msgid "event_mission_setting_desc_004"
-msgstr ""
+msgstr "Chanson choisie aléatoirement"
 
 msgid "event_mission_setting_desc_005"
-msgstr ""
+msgstr "Dernière chanson jouée"
 
 msgid "event_mission_comborank"
 msgstr ""
@@ -6741,7 +6741,7 @@ msgid "pop_gacha_period_warning_text_3"
 msgstr ""
 
 msgid "event_mission_setting_desc_006"
-msgstr ""
+msgstr "Le filtre va être désactivé."
 
 msgid "unit_skip_story_title"
 msgstr "Ticket pour passer les concerts"
