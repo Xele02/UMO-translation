@@ -2749,6 +2749,375 @@ msgstr "イベント「復刻　FLASH IN THE SOUL」\nのミッションを15個
 msgid "event_banner_event_godiva_c_0001"
 msgstr "イベントに参加して★5確定サービスチケットをGET！"
 
+msgid "mission_desc_event_mission_a_0001"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0002"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0003"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0004"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0005"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0006"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0007"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0008"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0009"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0010"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0011"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0012"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0013"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0014"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0015"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0016"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0017"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0018"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_a_0019"
+msgstr "「ワルキューレは裏切らない」\nでミッションにチャレンジして5回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0020"
+msgstr "「ワルキューレは裏切らない」\nでミッションにチャレンジして10回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0021"
+msgstr "「ワルキューレは裏切らない」\nの難易度HARD以上をライフ90％以上残してクリア"
+
+msgid "mission_desc_event_mission_a_0022"
+msgstr "「ワルキューレは裏切らない」\nの難易度HARD以上を超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_mission_a_0023"
+msgstr "「ワルキューレは裏切らない」\nの難易度HARD以上を生体フォールド波120%以上でクリア"
+
+msgid "mission_desc_event_mission_a_0024"
+msgstr "「ワルキューレは裏切らない」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_mission_a_0025"
+msgstr "「ワルキューレは裏切らない」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_mission_a_0026"
+msgstr "「ワルキューレは裏切らない」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_mission_a_0027"
+msgstr "「ワルキューレは裏切らない」\nをスコア115万以上でクリア"
+
+msgid "mission_desc_event_mission_a_0028"
+msgstr "「ワルキューレは裏切らない」\nをスコア130万以上でクリア"
+
+msgid "mission_desc_event_mission_a_0029"
+msgstr "「ワルキューレは裏切らない」\nをスコア140万以上でクリア"
+
+msgid "mission_desc_event_mission_a_0030"
+msgstr "「ワルキューレは裏切らない」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_a_0031"
+msgstr "「ワルキューレは裏切らない」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_a_0032"
+msgstr "「ワルキューレは裏切らない」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_a_0033"
+msgstr "「ワルキューレは裏切らない」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_a_0034"
+msgstr "「ワルキューレは裏切らない」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_mission_a_0035"
+msgstr "イベントのミッションにチャレンジして10回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0036"
+msgstr "イベントのミッションにチャレンジして15回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0037"
+msgstr "イベントのミッションにチャレンジして20回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0038"
+msgstr "イベントのミッションにチャレンジして25回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0039"
+msgstr "イベントのミッションにチャレンジして30回楽曲をクリア"
+
+msgid "mission_desc_event_mission_a_0040"
+msgstr "イベント「復刻　夏だ！水着だ！ワル裏フェス！」\nのミッションを20個クリア"
+
+msgid "event_banner_event_mission_a_0001"
+msgstr "イベントに参加してデカルガチャを10回引こう！"
+
+msgid "mission_desc_event_mission_b_0001"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0002"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0003"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0004"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0005"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0006"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0007"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0008"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0009"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0010"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0011"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0012"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0013"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0014"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0015"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0016"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0017"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0018"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_b_0019"
+msgstr "「0-G Love」\nでミッションにチャレンジして5回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0020"
+msgstr "「0-G Love」\nでミッションにチャレンジして10回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0021"
+msgstr "「0-G Love」\nの難易度HARD以上をライフ90％以上残してクリア"
+
+msgid "mission_desc_event_mission_b_0022"
+msgstr "「0-G Love」\nの難易度HARD以上を超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_mission_b_0023"
+msgstr "「0-G Love」\nの難易度HARD以上を生体フォールド波120%以上でクリア"
+
+msgid "mission_desc_event_mission_b_0024"
+msgstr "「AXIA ～ダイスキでダイキライ～」\nでミッションにチャレンジして5回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0025"
+msgstr "「0-G Love」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_mission_b_0026"
+msgstr "「0-G Love」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_mission_b_0027"
+msgstr "「0-G Love」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_mission_b_0028"
+msgstr "「0-G Love」\nをスコア115万以上でクリア"
+
+msgid "mission_desc_event_mission_b_0029"
+msgstr "「0-G Love」\nをスコア130万以上でクリア"
+
+msgid "mission_desc_event_mission_b_0030"
+msgstr "「0-G Love」\nをスコア140万以上でクリア"
+
+msgid "mission_desc_event_mission_b_0031"
+msgstr "「0-G Love」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_b_0032"
+msgstr "「0-G Love」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_b_0033"
+msgstr "「0-G Love」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_b_0034"
+msgstr "「0-G Love」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_b_0035"
+msgstr "「0-G Love」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_mission_b_0036"
+msgstr "イベントのミッションにチャレンジして10回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0037"
+msgstr "イベントのミッションにチャレンジして15回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0038"
+msgstr "イベントのミッションにチャレンジして20回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0039"
+msgstr "イベントのミッションにチャレンジして25回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0040"
+msgstr "イベントのミッションにチャレンジして30回楽曲をクリア"
+
+msgid "mission_desc_event_mission_b_0041"
+msgstr "イベント「復刻　0-G Love」\nのミッションを20個クリア"
+
+msgid "event_banner_event_mission_b_0001"
+msgstr "イベントに参加して★5確定サービスチケットをGET！"
+
+msgid "mission_desc_event_mission_c_0001"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0002"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0003"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0004"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0005"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0006"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0007"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0008"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0009"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0010"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0011"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0012"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0013"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0014"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0015"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0016"
+msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲を3回クリア"
+
+msgid "mission_desc_event_mission_c_0017"
+msgstr "「POWER TO THE DREAM」\nでミッションにチャレンジして5回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0018"
+msgstr "「POWER TO THE DREAM」\nでミッションにチャレンジして10回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0019"
+msgstr "「POWER TO THE DREAM」\nの難易度HARD以上をライフ90％以上残してクリア"
+
+msgid "mission_desc_event_mission_c_0020"
+msgstr "「POWER TO THE DREAM」\nの難易度HARD以上を超歌姫モードに入ってクリア"
+
+msgid "mission_desc_event_mission_c_0021"
+msgstr "「POWER TO THE DREAM」\nの難易度HARD以上を生体フォールド波120%以上でクリア"
+
+msgid "mission_desc_event_mission_c_0022"
+msgstr "「AXIA ～ダイスキでダイキライ～」\nでミッションにチャレンジして5回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0023"
+msgstr "「POWER TO THE DREAM」\nをスコア70万以上でクリア"
+
+msgid "mission_desc_event_mission_c_0024"
+msgstr "「POWER TO THE DREAM」\nをスコア85万以上でクリア"
+
+msgid "mission_desc_event_mission_c_0025"
+msgstr "「POWER TO THE DREAM」\nをスコア100万以上でクリア"
+
+msgid "mission_desc_event_mission_c_0026"
+msgstr "「POWER TO THE DREAM」\nをスコア115万以上でクリア"
+
+msgid "mission_desc_event_mission_c_0027"
+msgstr "「POWER TO THE DREAM」\nをスコア130万以上でクリア"
+
+msgid "mission_desc_event_mission_c_0028"
+msgstr "「POWER TO THE DREAM」\nをスコア140万以上でクリア"
+
+msgid "mission_desc_event_mission_c_0029"
+msgstr "「POWER TO THE DREAM」\nの難易度EASY以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_c_0030"
+msgstr "「POWER TO THE DREAM」\nの難易度NORMAL以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_c_0031"
+msgstr "「POWER TO THE DREAM」\nの難易度HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_c_0032"
+msgstr "「POWER TO THE DREAM」\nの難易度VERY HARD以上をフルコンボでクリア"
+
+msgid "mission_desc_event_mission_c_0033"
+msgstr "「POWER TO THE DREAM」\nの難易度EXTREMEをフルコンボでクリア"
+
+msgid "mission_desc_event_mission_c_0034"
+msgstr "イベントのミッションにチャレンジして10回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0035"
+msgstr "イベントのミッションにチャレンジして15回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0036"
+msgstr "イベントのミッションにチャレンジして20回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0037"
+msgstr "イベントのミッションにチャレンジして25回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0038"
+msgstr "イベントのミッションにチャレンジして30回楽曲をクリア"
+
+msgid "mission_desc_event_mission_c_0039"
+msgstr "イベント「超時空ファイナルLive ～Act.2～」\nのミッションを20個クリア"
+
+msgid "event_banner_event_mission_c_0001"
+msgstr "イベントに参加してエピソードプレート交換券をGET！"
+
 msgid "mission_desc_event_raid_a_10001"
 msgstr "超歌姫モードに入ってクリア"
 

@@ -1426,6 +1426,9 @@ msgstr "エナジーが{0}に回復しました"
 msgid "StringLiteral_18280"
 msgstr "プリズム"
 
+msgid "StringLiteral_18575"
+msgstr "未達成"
+
 msgid "StringLiteral_18787"
 msgstr "獲得ユニオンクレジット"
 
