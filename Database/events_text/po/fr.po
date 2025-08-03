@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 18:44+0000\n"
-"PO-Revision-Date: 2025-07-14 13:49+0000\n"
+"PO-Revision-Date: 2025-08-03 11:37+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/fr/>\n"
@@ -3908,3 +3908,582 @@ msgid "mission_desc_event_sp_a_0080"
 msgstr ""
 "【Journalier】Terminer 3 chansons pendant\n"
 "l'événement 「【復刻】衝撃 デビューステージ」"
+
+msgid "mission_desc_event_mission_a_0002"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0003"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0006"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0007"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0008"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0010"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0011"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0012"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0013"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0015"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0016"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0017"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0018"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0020"
+msgstr ""
+"Complète 10x la mission \n"
+"「ワルキューレは裏切らない」"
+
+msgid "mission_desc_event_mission_a_0024"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"avec un score de 700 000 ou plus"
+
+msgid "mission_desc_event_mission_a_0025"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"avec un score de 850 000 ou plus"
+
+msgid "mission_desc_event_mission_a_0027"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"avec un score de 1 150 000 ou plus"
+
+msgid "mission_desc_event_mission_a_0028"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"avec un score de 1 300 000 ou plus"
+
+msgid "mission_desc_event_mission_a_0029"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"avec un score de 1 400 000 ou plus"
+
+msgid "mission_desc_event_mission_a_0031"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en normal ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_a_0032"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en difficile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_a_0034"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en extrême ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_a_0035"
+msgstr "Challenge 10 missions événement"
+
+msgid "mission_desc_event_mission_a_0021"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en difficile ou plus en ayant plus de 90% de vie"
+
+msgid "mission_desc_event_mission_a_0023"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en difficile ou plus en ayant des ondes bio-fold de 120% ou plus"
+
+msgid "mission_desc_event_mission_a_0038"
+msgstr "Challenge 25 missions événement"
+
+msgid "mission_desc_event_mission_a_0039"
+msgstr "Challenge 30 missions événement"
+
+msgid "mission_desc_event_mission_a_0040"
+msgstr ""
+"Termine 20 missions de l'événement \n"
+"「復刻　夏だ！水着だ！ワル裏フェス！」"
+
+msgid "mission_desc_event_mission_b_0002"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0003"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0004"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0005"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0007"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0008"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0009"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0011"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0012"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0013"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0014"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0016"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0017"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0018"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0019"
+msgstr ""
+"Complète 5x la mission \n"
+"「0-G Love」"
+
+msgid "mission_desc_event_mission_b_0020"
+msgstr ""
+"Complète 10 la mission \n"
+"「0-G Love」"
+
+msgid "mission_desc_event_mission_b_0022"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en difficile ou plus en ayant le mode super diva"
+
+msgid "mission_desc_event_mission_b_0023"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en difficile ou plus en ayant des ondes bio-fold de 120% ou plus"
+
+msgid "mission_desc_event_mission_b_0025"
+msgstr ""
+"Complète 「0-G Love」\n"
+"avec un score de 700 000 ou plus"
+
+msgid "mission_desc_event_mission_b_0026"
+msgstr ""
+"Complète 「0-G Love」\n"
+"avec un score de 850 000 ou plus"
+
+msgid "mission_desc_event_mission_b_0027"
+msgstr ""
+"Complète 「0-G Love」\n"
+"avec un score de 1 000 000 ou plus"
+
+msgid "mission_desc_event_mission_b_0028"
+msgstr ""
+"Complète 「0-G Love」\n"
+"avec un score de 1 150 000 ou plus"
+
+msgid "event_banner_event_mission_a_0001"
+msgstr "Participe à l'événement et tire la loterie 10x !"
+
+msgid "mission_desc_event_mission_b_0031"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en facile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_b_0032"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en normal ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_b_0033"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en difficile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_b_0035"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en extrême ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_b_0036"
+msgstr "Challenge 10 missions événement"
+
+msgid "mission_desc_event_mission_b_0037"
+msgstr "Challenge 15 missions événement"
+
+msgid "mission_desc_event_mission_b_0038"
+msgstr "Challenge 20 missions événement"
+
+msgid "mission_desc_event_mission_b_0039"
+msgstr "Challenge 25 missions événement"
+
+msgid "mission_desc_event_mission_b_0040"
+msgstr "Challenge 30 missions événement"
+
+msgid "mission_desc_event_mission_c_0001"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0002"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0003"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0005"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0006"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0007"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0009"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0010"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0011"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0012"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0014"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0015"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0016"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0017"
+msgstr ""
+"Complète 5x la mission \n"
+"「POWER TO THE DREAM」"
+
+msgid "mission_desc_event_mission_c_0019"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en difficile ou plus en ayant plus de 90% de vie"
+
+msgid "mission_desc_event_mission_c_0020"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en difficile ou plus en ayant le mode super diva"
+
+msgid "event_banner_event_mission_b_0001"
+msgstr "Participe à l'événement et gagne un ticket de loterie 5★ !"
+
+msgid "mission_desc_event_mission_c_0022"
+msgstr ""
+"Complète 5x\n"
+"「AXIA ～ダイスキでダイキライ～」"
+
+msgid "mission_desc_event_mission_c_0023"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"avec un score de 700 000 ou plus"
+
+msgid "mission_desc_event_mission_c_0025"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"avec un score de 1 000 000 ou plus"
+
+msgid "mission_desc_event_mission_c_0026"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"avec un score de 1 150 000 ou plus"
+
+msgid "mission_desc_event_mission_c_0027"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"avec un score de 1 300 000 ou plus"
+
+msgid "mission_desc_event_mission_c_0029"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en facile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_c_0030"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en normal ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_c_0032"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en très difficile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_c_0033"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en extrême ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_c_0034"
+msgstr "Challenge 10 missions événement"
+
+msgid "mission_desc_event_mission_c_0035"
+msgstr "Challenge 15 missions événement"
+
+msgid "mission_desc_event_mission_c_0036"
+msgstr "Challenge 20 missions événement"
+
+msgid "mission_desc_event_mission_c_0038"
+msgstr "Challenge 30 missions événement"
+
+msgid "mission_desc_event_mission_c_0039"
+msgstr ""
+"Termine 20 missions de l'événement \n"
+"「超時空ファイナルLive ～Act.2～」"
+
+msgid "event_banner_event_mission_c_0001"
+msgstr "Participe à l'événement et gagne un ticket d'échange de plaque !"
+
+msgid "mission_desc_event_mission_a_0001"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0004"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0005"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0009"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_a_0014"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_a_0019"
+msgstr ""
+"Complète 5x la mission \n"
+"「ワルキューレは裏切らない」"
+
+msgid "mission_desc_event_mission_a_0026"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"avec un score de 1 000 000 ou plus"
+
+msgid "mission_desc_event_mission_a_0030"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en facile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_a_0033"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en très difficile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_a_0036"
+msgstr "Challenge 15 missions événement"
+
+msgid "mission_desc_event_mission_a_0037"
+msgstr "Challenge 20 missions événement"
+
+msgid "mission_desc_event_mission_b_0001"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0006"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_b_0010"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0015"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_b_0021"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en difficile ou plus en ayant plus de 90% de vie"
+
+msgid "mission_desc_event_mission_a_0022"
+msgstr ""
+"Complète 「ワルキューレは裏切らない」\n"
+"en difficile ou plus en ayant le mode super diva"
+
+msgid "mission_desc_event_mission_b_0024"
+msgstr ""
+"Complète 5x\n"
+"「AXIA ～ダイスキでダイキライ～」"
+
+msgid "mission_desc_event_mission_b_0029"
+msgstr ""
+"Complète 「0-G Love」\n"
+"avec un score de 1 300 000 ou plus"
+
+msgid "mission_desc_event_mission_b_0030"
+msgstr ""
+"Complète 「0-G Love」\n"
+"avec un score de 1 400 000 ou plus"
+
+msgid "mission_desc_event_mission_b_0034"
+msgstr ""
+"Complète 「0-G Love」\n"
+"en très difficile ou plus avec un full combo"
+
+msgid "mission_desc_event_mission_b_0041"
+msgstr ""
+"Termine 20 missions de l'événement \n"
+"「復刻　0-G Love」"
+
+msgid "mission_desc_event_mission_c_0004"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0008"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson"
+
+msgid "mission_desc_event_mission_c_0013"
+msgstr ""
+"【Journalier】Challenge une mission \n"
+"et termine une chanson 3x"
+
+msgid "mission_desc_event_mission_c_0018"
+msgstr ""
+"Complète 10x la mission \n"
+"「POWER TO THE DREAM」"
+
+msgid "mission_desc_event_mission_c_0021"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en difficile ou plus en ayant des ondes bio-fold de 120% ou plus"
+
+msgid "mission_desc_event_mission_c_0024"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"avec un score de 850 000 ou plus"
+
+msgid "mission_desc_event_mission_c_0028"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"avec un score de 1 400 000 ou plus"
+
+msgid "mission_desc_event_mission_c_0037"
+msgstr "Challenge 25 missions événement"
+
+msgid "mission_desc_event_mission_c_0031"
+msgstr ""
+"Complète 「POWER TO THE DREAM」\n"
+"en difficile ou plus avec un full combo"
