@@ -2872,6 +2872,48 @@ msgstr "イベント「復刻　夏だ！水着だ！ワル裏フェス！」\n�
 msgid "event_banner_event_mission_a_0001"
 msgstr "イベントに参加してデカルガチャを10回引こう！"
 
+msgid "event_mission_desc_event_mission_a_0001"
+msgstr "楽曲をクリア"
+
+msgid "event_mission_desc_event_mission_a_0002"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_a_0003"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_a_0004"
+msgstr "ライフが減り続ける中\n超歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_a_0005"
+msgstr "スコアランクA以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0006"
+msgstr "スコアランクSSでクリア"
+
+msgid "event_mission_desc_event_mission_a_0007"
+msgstr "ライフが減り続ける中\nスコアランクSSでクリア"
+
+msgid "event_mission_desc_event_mission_a_0008"
+msgstr "コンボランクB[bcombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0009"
+msgstr "コンボランクA[acombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0010"
+msgstr "コンボランクS[scombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0011"
+msgstr "ライフが減り続ける中\nコンボランクS[scombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0012"
+msgstr "ライフ60％以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0013"
+msgstr "ライフ80％以上でクリア"
+
+msgid "event_mission_desc_event_mission_a_0014"
+msgstr "ライフが減り続ける中\nライフ80％以上でクリア"
+
 msgid "mission_desc_event_mission_b_0001"
 msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
 
@@ -2998,6 +3040,48 @@ msgstr "イベント「復刻　0-G Love」\nのミッションを20個クリア
 msgid "event_banner_event_mission_b_0001"
 msgstr "イベントに参加して★5確定サービスチケットをGET！"
 
+msgid "event_mission_desc_event_mission_b_0001"
+msgstr "楽曲をクリア"
+
+msgid "event_mission_desc_event_mission_b_0002"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_b_0003"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_b_0004"
+msgstr "ライフが減り続ける中\n超歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_b_0005"
+msgstr "スコアランクA以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0006"
+msgstr "スコアランクSSでクリア"
+
+msgid "event_mission_desc_event_mission_b_0007"
+msgstr "ライフが減り続ける中\nスコアランクSSでクリア"
+
+msgid "event_mission_desc_event_mission_b_0008"
+msgstr "コンボランクB[bcombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0009"
+msgstr "コンボランクA[acombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0010"
+msgstr "コンボランクS[scombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0011"
+msgstr "ライフが減り続ける中\nコンボランクS[scombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0012"
+msgstr "ライフ60％以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0013"
+msgstr "ライフ80％以上でクリア"
+
+msgid "event_mission_desc_event_mission_b_0014"
+msgstr "ライフが減り続ける中\nライフ80％以上でクリア"
+
 msgid "mission_desc_event_mission_c_0001"
 msgstr "【デイリー】イベントのミッションに\nチャレンジして楽曲をクリア"
 
@@ -3117,6 +3201,48 @@ msgstr "イベント「超時空ファイナルLive ～Act.2～」\nのミッシ
 
 msgid "event_banner_event_mission_c_0001"
 msgstr "イベントに参加してエピソードプレート交換券をGET！"
+
+msgid "event_mission_desc_event_mission_c_0001"
+msgstr "楽曲をクリア"
+
+msgid "event_mission_desc_event_mission_c_0002"
+msgstr "歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_c_0003"
+msgstr "超歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_c_0004"
+msgstr "ライフが減り続ける中\n超歌姫モードに入ってクリア"
+
+msgid "event_mission_desc_event_mission_c_0005"
+msgstr "スコアランクA以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0006"
+msgstr "スコアランクSSでクリア"
+
+msgid "event_mission_desc_event_mission_c_0007"
+msgstr "ライフが減り続ける中\nスコアランクSSでクリア"
+
+msgid "event_mission_desc_event_mission_c_0008"
+msgstr "コンボランクB[bcombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0009"
+msgstr "コンボランクA[acombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0010"
+msgstr "コンボランクS[scombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0011"
+msgstr "ライフが減り続ける中\nコンボランクS[scombo]以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0012"
+msgstr "ライフ60％以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0013"
+msgstr "ライフ80％以上でクリア"
+
+msgid "event_mission_desc_event_mission_c_0014"
+msgstr "ライフが減り続ける中\nライフ80％以上でクリア"
 
 msgid "mission_desc_event_raid_a_10001"
 msgstr "超歌姫モードに入ってクリア"
