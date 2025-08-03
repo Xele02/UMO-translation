@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-07-26 11:34+0000\n"
+"PO-Revision-Date: 2025-08-03 20:31+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -2851,16 +2851,16 @@ msgid "popup_dash_ticket_title"
 msgstr "Sélection du nombre de ticket à utiliser"
 
 msgid "popup_dash_energy_title"
-msgstr ""
+msgstr "Sélection consommation d'énergie"
 
 msgid "popup_dash_button"
 msgstr "x{0}"
 
 msgid "popup_dash_cost_energy"
-msgstr ""
+msgstr "Coût énergie : {0}"
 
 msgid "popup_dash_own_energy"
-msgstr ""
+msgstr "Énergie actuelle : {0}"
 
 msgid "popup_dash_cost_ticket"
 msgstr "Tickets utilisés : {0}"
@@ -3036,7 +3036,7 @@ msgid "event_mission_message_001"
 msgstr "Choisi la mission à compléter"
 
 msgid "music_select_event_bonus"
-msgstr ""
+msgstr "Bonus de chanson + {0}%"
 
 msgid "event_mission_changemusic_title"
 msgstr "Chansons"
@@ -3071,7 +3071,7 @@ msgid "event_mission_setting_title"
 msgstr "Configuration de mission"
 
 msgid "event_mission_setting_desc_001"
-msgstr "Configuration de sélection de chanson"
+msgstr "Sél. de chanson"
 
 msgid "event_mission_setting_desc_002"
 msgstr "Configure la chanson choisie après le choix de mission."
@@ -3179,7 +3179,7 @@ msgstr ""
 "récompenses du capitaine Ernest ?"
 
 msgid "popup_event_gacha_box_text_08"
-msgstr "Liste de récompenses {0}"
+msgstr "Récomp. {0}"
 
 msgid "popup_event_gacha_box_text_09"
 msgstr ""
