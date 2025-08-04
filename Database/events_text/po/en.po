@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-08-04 17:47+0000\n"
+"Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
+"Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
+"events_text/en/>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.13.1\n"
-
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.6\n"
 
 msgid "mission_desc_event_battle_a_0001"
 msgstr ""
@@ -390,3 +391,108 @@ msgstr ""
 
 msgid "event_banner_event_battle_c"
 msgstr ""
+
+msgid "mission_desc_event_april_fool_a_0003"
+msgstr "Clear 45 missions"
+
+msgid "mission_desc_event_april_fool_a_0001"
+msgstr "Clear 20 missions"
+
+msgid "mission_desc_event_april_fool_a_0002"
+msgstr "Clear 30 missions"
+
+msgid "mission_desc_event_april_fool_a_0010"
+msgstr ""
+"Clear songs on EXTREME with\n"
+"SS rank scores 100 times"
+
+msgid "mission_desc_event_april_fool_a_0004"
+msgstr ""
+"Clear songs on VERY HARD\n"
+"with an SS rank score 10 times"
+
+msgid "mission_desc_event_april_fool_a_0005"
+msgstr ""
+"Clear songs on VERY HARD\n"
+"with an SS rank score 20 times"
+
+msgid "mission_desc_event_april_fool_a_0006"
+msgstr ""
+"Clear songs on VERY HARD\n"
+"with an SS rank score 50 times"
+
+msgid "mission_desc_event_april_fool_a_0011"
+msgstr ""
+"Clear any song on HARD or above\n"
+"with a full combo 10 times"
+
+msgid "mission_desc_event_april_fool_a_0012"
+msgstr ""
+"Clear any song on HARD or above\n"
+"with a full combo 20 times"
+
+msgid "mission_desc_event_april_fool_a_0013"
+msgstr ""
+"Clear any song on HARD or above\n"
+"with a full combo 30 times"
+
+msgid "mission_desc_event_april_fool_a_0014"
+msgstr ""
+"Clear any song on VERY HARD or\n"
+"above with a full combo 10 times"
+
+msgid "mission_desc_event_april_fool_a_0015"
+msgstr ""
+"Clear any song on VERY HARD or\n"
+"above with a full combo 20 times"
+
+msgid "mission_desc_event_april_fool_a_0017"
+msgstr ""
+"Clear Glow in the Dark on EXTREME\n"
+"with a full combo 5 times"
+
+msgid "mission_desc_event_april_fool_a_0016"
+msgstr ""
+"Clear Glow in the Dark on EXTREME\n"
+"with an SS rank score 10 times"
+
+msgid "mission_desc_event_april_fool_a_0018"
+msgstr "Clear 1 time with a score of 3,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0019"
+msgstr "Clear 1 time with a score of 4,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0020"
+msgstr "Clear 1 time with a score of 5,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0021"
+msgstr "Clear 1 time with a score of 6,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0023"
+msgstr "Clear 1 time with a score of 8,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0022"
+msgstr "Clear 1 time with a score of 7,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0024"
+msgstr "Clear 1 time with a score of 9,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0027"
+msgstr ""
+"Clear a LIfe song with a\n"
+"score of 4,000,000+"
+
+msgid "mission_desc_event_april_fool_a_0007"
+msgstr ""
+"Clear songs on EXTREME\n"
+"with an SS rank score 20 times"
+
+msgid "mission_desc_event_april_fool_a_0008"
+msgstr ""
+"Clear songs on EXTREME\n"
+"with an SS rank score 30 times"
+
+msgid "mission_desc_event_april_fool_a_0009"
+msgstr ""
+"Clear songs on EXTREME\n"
+"with an SS rank score 50 times"
