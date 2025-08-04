@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-07-25 02:47+0000\n"
+"PO-Revision-Date: 2025-08-04 15:47+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -2843,3 +2843,398 @@ msgid "mission_desc_event_collection_a_0031"
 msgstr ""
 "이벤트 악곡「마크로스」\n"
 "난이도 HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_mission_b_0001"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0004"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0013"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0028"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"스코어 140만 이상으로 클리어"
+
+msgid "mission_desc_event_mission_a_0001"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0003"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0004"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0005"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0002"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0008"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0009"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0011"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0013"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0014"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0015"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0016"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0018"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0010"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0035"
+msgstr "이벤트 미션에 도전하여 10회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_a_0036"
+msgstr "이벤트 미션에 도전하여 15회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_a_0038"
+msgstr "이벤트 미션에 도전하여 25회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_a_0039"
+msgstr "이벤트 미션에 도전하여 30회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_b_0002"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0003"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0005"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0006"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0007"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0008"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0010"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0011"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0012"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0014"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0015"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0016"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0017"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0019"
+msgstr ""
+"「0-G Love」\n"
+"에서 미션에 도전하여 5회 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0020"
+msgstr ""
+"「0-G Love」\n"
+"에서 미션에 도전하여 10회 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0021"
+msgstr ""
+"「0-G Love」\n"
+"난이도 HARD 이상을 라이프 90% 이상 남기고 클리어"
+
+msgid "mission_desc_event_mission_b_0023"
+msgstr ""
+"「0-G Love」\n"
+"난이도 HARD 이상을 생체 폴드파 120% 이상으로 클리어"
+
+msgid "mission_desc_event_mission_b_0024"
+msgstr ""
+"「AXIA ~너무 좋아서 너무 싫어~」\n"
+"에서 미션에 도전하여 5회 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0002"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0004"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0005"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0006"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0007"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0009"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0036"
+msgstr "이벤트 미션에 도전하여 10회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_b_0037"
+msgstr "이벤트 미션에 도전하여 15회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_b_0038"
+msgstr "이벤트 미션에 도전하여 20회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_b_0040"
+msgstr "이벤트 미션에 도전하여 30회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_c_0011"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0012"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0014"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0015"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0016"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0023"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"스코어 70만 이상으로 클리어"
+
+msgid "mission_desc_event_mission_c_0024"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"스코어 85만 이상으로 클리어"
+
+msgid "mission_desc_event_mission_c_0025"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"스코어 100만 이상으로 클리어"
+
+msgid "mission_desc_event_mission_c_0026"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"스코어 115만 이상으로 클리어"
+
+msgid "mission_desc_event_mission_c_0027"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"스코어 130만 이상으로 클리어"
+
+msgid "mission_desc_event_mission_c_0029"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"난이도 EASY 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_mission_c_0030"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"난이도 NORMAL 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_mission_c_0031"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"난이도 HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_mission_c_0033"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"난이도 EXTREME을 풀콤보로 클리어"
+
+msgid "mission_desc_event_mission_c_0034"
+msgstr "이벤트 미션에 도전하여 10회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_c_0035"
+msgstr "이벤트 미션에 도전하여 15회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_c_0037"
+msgstr "이벤트 미션에 도전하여 25회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_c_0038"
+msgstr "이벤트 미션에 도전하여 30회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_a_0006"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_a_0007"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_b_0009"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0001"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0003"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0008"
+msgstr ""
+"【데일리】이벤트 미션에\n"
+"도전하여 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0010"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_c_0013"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0012"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_a_0017"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0018"
+msgstr ""
+"【데일리】이벤트 미션에 도전하여\n"
+"악곡 3회 클리어"
+
+msgid "mission_desc_event_mission_b_0022"
+msgstr ""
+"「0-G Love」\n"
+"난이도 HARD 이상을 초가희 모드로 들어가서 클리어"
+
+msgid "mission_desc_event_mission_c_0022"
+msgstr ""
+"「AXIA ~너무 좋아서 너무 싫어~」\n"
+"에서 미션에 도전하여 5회 악곡 클리어"
+
+msgid "mission_desc_event_mission_c_0036"
+msgstr "이벤트 미션에 도전하여 20회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_b_0039"
+msgstr "이벤트 미션에 도전하여 25회 악곡을 클리어"
+
+msgid "mission_desc_event_mission_c_0032"
+msgstr ""
+"「POWER TO THE DREAM」\n"
+"난이도 VERY HARD 이상을 풀콤보로 클리어"
+
+msgid "mission_desc_event_mission_a_0037"
+msgstr "이벤트 미션에 도전하여 20회 악곡을 클리어"
