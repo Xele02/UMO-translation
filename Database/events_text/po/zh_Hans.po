@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-07-22 09:47+0000\n"
+"PO-Revision-Date: 2025-08-21 10:21+0000\n"
 "Last-Translator: MilixMomo <leevictor0404@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://umo-translate.xele.org/projects/"
 "umo/database/events_text/zh_Hans/>\n"
@@ -656,7 +656,7 @@ msgstr ""
 msgid "mission_desc2_event_godiva_a_0031"
 msgstr ""
 "游玩《银月亮 红月亮》\n"
-"EASY或以上难度中达成FULL COMBO"
+"并在EASY或以上难度中达成FULL COMBO"
 
 msgid "mission_desc_event_godiva_c_0041"
 msgstr "任意歌姬歌魂表现力提升10"
@@ -1027,7 +1027,7 @@ msgstr ""
 "累计达成FULL COMBO 30次"
 
 msgid "event_guide_event_raidlobby_a_0009"
-msgstr "你也来一起唱歌吧！"
+msgstr "和我一起唱歌吧！"
 
 msgid "event_bossname_event_raid_d_0014"
 msgstr "鸟人"
@@ -1042,8 +1042,8 @@ msgstr ""
 
 msgid "event_msg_lobby_event_raidlobby_d_battlelog_text_03"
 msgstr ""
-"已达成{0}\n"
-"{1}难度的FULL COMBO！"
+"已在{0}的\n"
+"{1}难度中达成FULL COMBO！"
 
 msgid "mission_desc_event_raidlobby_d_0019"
 msgstr ""
@@ -1078,63 +1078,63 @@ msgstr ""
 
 msgid "event_msg_lobby_event_raidlobby_a_battlelog_text_03"
 msgstr ""
-"已达成{0}\n"
-"{1}难度的FULL COMBO！"
+"已在{0}的\n"
+"{1}难度中达成FULL COMBO！"
 
 msgid "event_msg_lobby_event_raidlobby_b_battlelog_text_03"
 msgstr ""
-"已达成{0}\n"
-"{1}难度的FULL COMBO！"
+"已在{0}的\n"
+"{1}难度中达成FULL COMBO！"
 
 msgid "event_msg_lobby_event_raidlobby_c_battlelog_text_03"
 msgstr ""
-"已达成{0}\n"
-"{1}难度的FULL COMBO！"
+"已在{0}的\n"
+"{1}难度中达成FULL COMBO！"
 
 msgid "mission_desc2_event_april_fool_g_0020"
 msgstr ""
 "游玩《DYNAMITE EXPLOSION》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0018"
 msgstr ""
 "游玩《DYNAMITE EXPLOSION》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0017"
 msgstr ""
 "游玩《DYNAMITE EXPLOSION》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0019"
 msgstr ""
 "游玩《DYNAMITE EXPLOSION》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_c_0033"
 msgstr ""
 "游玩《FLASH IN THE DARK》\n"
-"EASY或以上难度中达成FULL COMBO"
+"并在EASY或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_c_0037"
 msgstr ""
 "游玩《FLASH IN THE DARK》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_c_0035"
 msgstr ""
 "游玩《FLASH IN THE DARK》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_c_0034"
 msgstr ""
 "游玩《FLASH IN THE DARK》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_c_0036"
 msgstr ""
 "游玩《FLASH IN THE DARK》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_c_0031"
 msgstr ""
@@ -1169,82 +1169,82 @@ msgstr ""
 msgid "mission_desc2_event_april_fool_g_0008"
 msgstr ""
 "游玩《SEVENTH MOON》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0006"
 msgstr ""
 "游玩《SEVENTH MOON》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0005"
 msgstr ""
 "游玩《SEVENTH MOON》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0007"
 msgstr ""
 "游玩《SEVENTH MOON》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0016"
 msgstr ""
 "游玩《TRY AGAIN》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0014"
 msgstr ""
 "游玩《TRY AGAIN》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0013"
 msgstr ""
 "游玩《TRY AGAIN》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0015"
 msgstr ""
 "游玩《TRY AGAIN》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0024"
 msgstr ""
 "游玩《Virgin Story》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0022"
 msgstr ""
 "游玩《Virgin Story》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0021"
 msgstr ""
 "游玩《Virgin Story》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_april_fool_g_0023"
 msgstr ""
 "游玩《Virgin Story》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_a_0035"
 msgstr ""
 "游玩《银月亮 红月亮》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_a_0033"
 msgstr ""
 "游玩《银月亮 红月亮》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_a_0032"
 msgstr ""
 "游玩《银月亮 红月亮》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_a_0034"
 msgstr ""
 "游玩《银月亮 红月亮》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_a_0030"
 msgstr ""
@@ -1274,27 +1274,27 @@ msgstr ""
 msgid "mission_desc2_event_godiva_b_0031"
 msgstr ""
 "游玩《苦痛现在进行时》\n"
-"EASY或以上难度中达成FULL COMBO"
+"并在EASY或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_b_0035"
 msgstr ""
 "游玩《苦痛现在进行时》\n"
-"EXTREME难度中达成FULL COMBO"
+"并在EXTREME难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_b_0033"
 msgstr ""
 "游玩《苦痛现在进行时》\n"
-"HARD或以上难度中达成FULL COMBO"
+"并在HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_b_0032"
 msgstr ""
 "游玩《苦痛现在进行时》\n"
-"NORMAL或以上难度中达成FULL COMBO"
+"并在NORMAL或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_b_0034"
 msgstr ""
 "游玩《苦痛现在进行时》\n"
-"VERY HARD或以上难度中达成FULL COMBO"
+"并在VERY HARD或以上难度中达成FULL COMBO"
 
 msgid "mission_desc2_event_godiva_b_0029"
 msgstr ""
@@ -2723,13 +2723,13 @@ msgid "event_guide_event_raidlobby_c_0015"
 msgstr "我会加油的！"
 
 msgid "event_guide_event_raidlobby_b_0009"
-msgstr "你也来一起唱歌吧！"
+msgstr "和我一起唱歌吧！"
 
 msgid "event_guide_event_raidlobby_c_0009"
-msgstr "你也来一起唱歌吧！"
+msgstr "和我一起唱歌吧！"
 
 msgid "event_guide_event_raidlobby_d_0009"
-msgstr "你也来一起唱歌吧！"
+msgstr "和我一起唱歌吧！"
 
 msgid "event_group_event_raidlobby_b_0001"
 msgstr "阿拉德·梅塔斯战队"
@@ -3543,13 +3543,13 @@ msgid "event_group_event_raidlobby_a_0001"
 msgstr "疾风·因梅尔曼战队"
 
 msgid "mission_desc_event_raid_a_10004"
-msgstr "游玩歌曲并取得A或以上连击评价"
+msgstr "达成A或以上连击评价"
 
 msgid "mission_desc_event_raid_a_10003"
-msgstr "游玩歌曲并取得B或以上连击评价"
+msgstr "达成B或以上连击评价"
 
 msgid "mission_desc_event_raid_a_10005"
-msgstr "游玩歌曲并取得S或以上连击评价"
+msgstr "达成S或以上连击评价"
 
 msgid "mission_desc_event_raid_a_10002"
 msgstr "达成SS分数评价"
@@ -3563,10 +3563,10 @@ msgid "mission_desc_event_raid_a_10010"
 msgstr "达成FULL COMBO"
 
 msgid "mission_desc_event_raid_b_10004"
-msgstr "游玩歌曲并取得A或以上连击评价"
+msgstr "达成A或以上连击评价"
 
 msgid "mission_desc_event_raid_b_10003"
-msgstr "游玩歌曲并取得B或以上连击评价"
+msgstr "达成B或以上连击评价"
 
 msgid "event_bossname_event_raid_b_0007"
 msgstr "Sigurd=Valens（战舰形态）"
@@ -3575,13 +3575,13 @@ msgid "mission_desc_event_raid_c_10002"
 msgstr "达成SS分数评价"
 
 msgid "mission_desc_event_raid_c_10004"
-msgstr "游玩歌曲并取得A或以上连击评价"
+msgstr "达成A或以上连击评价"
 
 msgid "mission_desc_event_raid_c_10003"
-msgstr "游玩歌曲并取得B或以上连击评价"
+msgstr "达成B或以上连击评价"
 
 msgid "mission_desc_event_raid_c_10005"
-msgstr "游玩歌曲并取得S或以上连击评价"
+msgstr "达成S或以上连击评价"
 
 msgid "mission_desc_event_raid_c_10008"
 msgstr ""
@@ -3595,10 +3595,10 @@ msgid "mission_desc_event_raid_d_10002"
 msgstr "达成SS分数评价"
 
 msgid "mission_desc_event_raid_d_10004"
-msgstr "游玩歌曲并取得A或以上连击评价"
+msgstr "达成A或以上连击评价"
 
 msgid "mission_desc_event_raid_d_10005"
-msgstr "游玩歌曲并取得S或以上连击评价"
+msgstr "达成S或以上连击评价"
 
 msgid "event_bossname_event_raid_d_0001"
 msgstr "主教级瓦鸠拉"
@@ -3609,10 +3609,10 @@ msgstr "大家拿出气势来！"
 msgid "event_guide_event_raidlobby_a_0024"
 msgstr ""
 "你的歌声，我确实感受到了！\n"
-"直击心灵啊！"
+"真是直击心灵啊！"
 
 msgid "event_guide_event_raidlobby_a_0010"
-msgstr "终于等来了这一刻！"
+msgstr "我等这一刻很久了！"
 
 msgid "event_guide_event_raidlobby_a_0014"
 msgstr ""
@@ -3630,10 +3630,10 @@ msgstr "大家拿出气势来！"
 msgid "event_guide_event_raidlobby_b_0024"
 msgstr ""
 "你的歌声，我确实感受到了！\n"
-"直击心灵啊！"
+"真是直击心灵啊！"
 
 msgid "event_guide_event_raidlobby_b_0010"
-msgstr "终于等来了这一刻！"
+msgstr "我等这一刻很久了！"
 
 msgid "event_guide_event_raidlobby_b_0027"
 msgstr ""
@@ -3641,7 +3641,7 @@ msgstr ""
 "未激活"
 
 msgid "event_guide_event_raidlobby_c_0010"
-msgstr "终于等来了这一刻！"
+msgstr "我等这一刻很久了！"
 
 msgid "event_guide_event_raidlobby_c_0018"
 msgstr "大家拿出气势来！"
@@ -3657,10 +3657,10 @@ msgstr "大家拿出气势来！"
 msgid "event_guide_event_raidlobby_d_0024"
 msgstr ""
 "你的歌声，我确实感受到了！\n"
-"直击心灵啊！"
+"真是直击心灵啊！"
 
 msgid "event_guide_event_raidlobby_d_0010"
-msgstr "终于等来了这一刻！"
+msgstr "我等这一刻很久了！"
 
 msgid "event_guide_event_raidlobby_d_0014"
 msgstr ""
@@ -3675,7 +3675,7 @@ msgstr ""
 msgid "event_guide_event_raidlobby_c_0024"
 msgstr ""
 "你的歌声，我确实感受到了！\n"
-"直击心灵啊！"
+"真是直击心灵啊！"
 
 msgid "mission_desc_event_april_fool_e_0027"
 msgstr ""
@@ -3708,10 +3708,10 @@ msgstr ""
 "并游玩任意歌曲30次"
 
 msgid "mission_desc_event_raid_d_10003"
-msgstr "游玩歌曲并取得B或以上连击评价"
+msgstr "达成B或以上连击评价"
 
 msgid "mission_desc_event_raid_b_10005"
-msgstr "游玩歌曲并取得S或以上连击评价"
+msgstr "达成S或以上连击评价"
 
 msgid "mission_desc_event_april_fool_e_0039"
 msgstr ""
@@ -4342,7 +4342,7 @@ msgstr ""
 "HARD或以上难度演出5次"
 
 msgid "mission_desc_event_raid_a_10006"
-msgstr "在生命值90%或以上的情况下完成演出"
+msgstr "以90%以上生命值完成演出"
 
 msgid "mission_desc_event_raid_a_0013"
 msgstr "击败1个暴走敌人并领取奖励"
@@ -4374,7 +4374,7 @@ msgstr ""
 "即可查看队员的个人资料！"
 
 msgid "mission_desc_event_raid_b_10006"
-msgstr "在生命值90%或以上的情况下完成演出"
+msgstr "以90%以上生命值完成演出"
 
 msgid "mission_desc_event_raid_b_10001"
 msgstr "进入超歌姬模式并完成演出"
@@ -4444,7 +4444,7 @@ msgstr ""
 "造成1750000点伤害"
 
 msgid "mission_desc_event_raid_c_10006"
-msgstr "在生命值90%或以上的情况下完成演出"
+msgstr "以90%以上生命值完成演出"
 
 msgid "mission_desc_event_raid_c_0017"
 msgstr "击败10个暴走敌人并领取奖励"
@@ -4465,7 +4465,7 @@ msgid "mission_desc_event_raid_d_10001"
 msgstr "进入超歌姬模式并完成演出"
 
 msgid "mission_desc_event_raid_d_10006"
-msgstr "在生命值90%或以上的情况下完成演出"
+msgstr "以90%以上生命值完成演出"
 
 msgid "mission_desc_event_raid_d_10009"
 msgstr "进入歌姬模式并完成演出"
@@ -5493,7 +5493,7 @@ msgstr ""
 
 msgid "event_guide_event_raidlobby_a_0021"
 msgstr ""
-"遇见大家，\n"
+"遇见你们，\n"
 "是我最大的幸运！！"
 
 msgid "event_guide_event_raidlobby_a_0026"
@@ -5511,7 +5511,7 @@ msgstr ""
 
 msgid "event_guide_event_raidlobby_b_0021"
 msgstr ""
-"遇见大家，\n"
+"遇见你们，\n"
 "是我最大的幸运！！"
 
 msgid "event_guide_event_raidlobby_b_0007"
@@ -5540,7 +5540,7 @@ msgstr ""
 
 msgid "event_guide_event_raidlobby_c_0021"
 msgstr ""
-"遇见大家，\n"
+"遇见你们，\n"
 "是我最大的幸运！！"
 
 msgid "event_guide_event_raidlobby_c_0026"
@@ -5571,7 +5571,7 @@ msgstr ""
 
 msgid "event_guide_event_raidlobby_d_0021"
 msgstr ""
-"遇见大家，\n"
+"遇见你们，\n"
 "是我最大的幸运！！"
 
 msgid "event_guide_event_raidlobby_d_0026"
@@ -6375,42 +6375,42 @@ msgstr ""
 
 msgid "mission_desc2_event_collection_a_0015"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得S或以上分数评价5次"
 
 msgid "mission_desc2_event_collection_a_0016"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得SS分数评价10次"
 
 msgid "mission_desc2_event_collection_a_0024"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得85万或以上分数"
 
 msgid "mission_desc2_event_collection_a_0023"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得70万或以上分数"
 
 msgid "mission_desc2_event_collection_a_0028"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得140万或以上分数"
 
 msgid "mission_desc2_event_collection_a_0027"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得130万或以上分数"
 
 msgid "mission_desc2_event_collection_a_0026"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得115万或以上分数"
 
 msgid "mission_desc2_event_collection_a_0025"
 msgstr ""
-"游玩活动歌曲《MACROSS》\n"
+"游玩《MACROSS》\n"
 "并取得100万或以上分数"
 
 msgid "mission_desc_event_april_fool_h_0001"
@@ -6743,3 +6743,732 @@ msgid "mission_desc_event_sp_a_0075"
 msgstr ""
 "【每日】在“【复刻】冲击 舞台初亮相”活动界面\n"
 "完成《我们的战场》演出3次"
+
+msgid "event_mission_desc_event_mission_a_0001"
+msgstr "完成演出"
+
+msgid "event_mission_desc_event_mission_b_0001"
+msgstr "完成演出"
+
+msgid "event_mission_desc_event_mission_c_0001"
+msgstr "完成演出"
+
+msgid "event_mission_desc_event_mission_a_0002"
+msgstr "进入歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_b_0002"
+msgstr "进入歌姬模式并完成演出"
+
+msgid "mission_desc_event_mission_a_0001"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0039"
+msgstr "挑战歌曲任务并完成演出30次"
+
+msgid "mission_desc_event_mission_a_0038"
+msgstr "挑战歌曲任务并完成演出25次"
+
+msgid "mission_desc_event_mission_a_0037"
+msgstr "挑战歌曲任务并完成演出20次"
+
+msgid "mission_desc_event_mission_a_0036"
+msgstr "挑战歌曲任务并完成演出15次"
+
+msgid "mission_desc_event_mission_a_0035"
+msgstr "挑战歌曲任务并完成演出10次"
+
+msgid "event_banner_event_mission_a_0001"
+msgstr "参与活动可获得10张抽卡奖券！"
+
+msgid "mission_desc_event_mission_a_0040"
+msgstr ""
+"完成20个“复刻 盛夏！泳装！瓦瓦夏日庆典！”\n"
+"活动任务"
+
+msgid "mission_desc_event_mission_a_0034"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并在EXTREME难度中达成FULL COMBO"
+
+msgid "event_mission_desc_event_mission_b_0008"
+msgstr "达成B[bcombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_c_0008"
+msgstr "达成B[bcombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_a_0009"
+msgstr "达成A[acombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_b_0009"
+msgstr "达成A[acombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_c_0010"
+msgstr "达成S[scombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_a_0008"
+msgstr "达成B[bcombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_c_0002"
+msgstr "进入歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_a_0003"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_b_0003"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_c_0003"
+msgstr "进入超歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_a_0004"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"进入超歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_b_0004"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"进入超歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_c_0004"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"进入超歌姬模式并完成演出"
+
+msgid "event_mission_desc_event_mission_a_0014"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以80%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_b_0014"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以80%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_c_0014"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以80%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_a_0007"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以SS分数评价完成演出"
+
+msgid "event_mission_desc_event_mission_b_0007"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以SS分数评价完成演出"
+
+msgid "event_mission_desc_event_mission_c_0007"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以SS分数评价完成演出"
+
+msgid "event_mission_desc_event_mission_a_0011"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以至少S[scombo]连击评价完成演出"
+
+msgid "event_mission_desc_event_mission_b_0011"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以至少S[scombo]连击评价完成演出"
+
+msgid "event_mission_desc_event_mission_c_0011"
+msgstr ""
+"在生命值持续减少的状态下\n"
+"以至少S[scombo]连击评价完成演出"
+
+msgid "event_mission_desc_event_mission_a_0013"
+msgstr "以80%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_b_0013"
+msgstr "以80%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_c_0013"
+msgstr "以80%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_a_0012"
+msgstr "以60%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_b_0012"
+msgstr "以60%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_c_0012"
+msgstr "以60%以上生命值完成演出"
+
+msgid "event_mission_desc_event_mission_a_0006"
+msgstr "达成SS分数评价"
+
+msgid "event_mission_desc_event_mission_b_0006"
+msgstr "达成SS分数评价"
+
+msgid "event_mission_desc_event_mission_c_0006"
+msgstr "达成SS分数评价"
+
+msgid "event_mission_desc_event_mission_a_0005"
+msgstr "达成A或以上分数评价"
+
+msgid "event_mission_desc_event_mission_b_0005"
+msgstr "达成A或以上分数评价"
+
+msgid "event_mission_desc_event_mission_c_0005"
+msgstr "达成A或以上分数评价"
+
+msgid "event_mission_desc_event_mission_a_0010"
+msgstr "达成S[scombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_b_0010"
+msgstr "达成S[scombo]或以上连击评价"
+
+msgid "event_mission_desc_event_mission_c_0009"
+msgstr "达成A[acombo]或以上连击评价"
+
+msgid "mission_desc_event_mission_b_0040"
+msgstr "挑战歌曲任务并完成演出30次"
+
+msgid "mission_desc_event_mission_c_0038"
+msgstr "挑战歌曲任务并完成演出30次"
+
+msgid "mission_desc_event_mission_b_0039"
+msgstr "挑战歌曲任务并完成演出25次"
+
+msgid "mission_desc_event_mission_c_0037"
+msgstr "挑战歌曲任务并完成演出25次"
+
+msgid "mission_desc_event_mission_b_0038"
+msgstr "挑战歌曲任务并完成演出20次"
+
+msgid "mission_desc_event_mission_c_0036"
+msgstr "挑战歌曲任务并完成演出20次"
+
+msgid "mission_desc_event_mission_b_0037"
+msgstr "挑战歌曲任务并完成演出15次"
+
+msgid "mission_desc_event_mission_c_0035"
+msgstr "挑战歌曲任务并完成演出15次"
+
+msgid "mission_desc_event_mission_b_0036"
+msgstr "挑战歌曲任务并完成演出10次"
+
+msgid "mission_desc_event_mission_c_0034"
+msgstr "挑战歌曲任务并完成演出10次"
+
+msgid "event_banner_event_mission_c_0001"
+msgstr "参与活动可获取“回忆卡片兑换券”！"
+
+msgid "event_banner_event_mission_b_0001"
+msgstr "参与活动可获得“必得★5免费奖券”！"
+
+msgid "mission_desc_event_mission_b_0041"
+msgstr ""
+"完成20个“复刻 0-G Love”\n"
+"活动任务"
+
+msgid "mission_desc_event_mission_c_0039"
+msgstr ""
+"完成20个“超时空Final Live ～Act.2～”\n"
+"活动任务"
+
+msgid "mission_desc_event_mission_a_0002"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0003"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0004"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0005"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0006"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0007"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0008"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0009"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0001"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0002"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0003"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0004"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0005"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0006"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0007"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0008"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_b_0009"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0001"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0002"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0003"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0004"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0005"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0006"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0007"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_c_0008"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出"
+
+msgid "mission_desc_event_mission_a_0010"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0011"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0012"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0013"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0014"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0015"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0016"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0017"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0018"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0010"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0011"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0012"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0013"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0014"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0015"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0016"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0017"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_b_0018"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0009"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0010"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0011"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0012"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0013"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0014"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0015"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_c_0016"
+msgstr ""
+"【每日】挑战歌曲任务\n"
+"并完成演出3次"
+
+msgid "mission_desc_event_mission_a_0025"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并取得85万或以上分数"
+
+msgid "mission_desc_event_mission_a_0024"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并取得70万或以上分数"
+
+msgid "mission_desc_event_mission_a_0029"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并取得140万或以上分数"
+
+msgid "mission_desc_event_mission_a_0028"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并取得130万或以上分数"
+
+msgid "mission_desc_event_mission_a_0027"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并取得115万或以上分数"
+
+msgid "mission_desc_event_mission_a_0026"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并取得100万或以上分数"
+
+msgid "mission_desc_event_mission_a_0033"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并在VERY HARD或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_a_0031"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并在NORMAL或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_a_0023"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"在HARD或以上难度中Fold波指数达到120%以上并完成演出"
+
+msgid "mission_desc_event_mission_a_0022"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"在HARD或以上难度中进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_mission_a_0021"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"在HARD或以上难度中以90%以上生命值完成演出"
+
+msgid "mission_desc_event_mission_a_0032"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并在HARD或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_a_0030"
+msgstr ""
+"游玩《Walküre永不背叛》\n"
+"并在EASY或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_a_0019"
+msgstr ""
+"挑战《Walküre永不背叛》歌曲任务\n"
+"并完成演出5次"
+
+msgid "mission_desc_event_mission_a_0020"
+msgstr ""
+"挑战《Walküre永不背叛》歌曲任务\n"
+"并完成演出10次"
+
+msgid "mission_desc_event_mission_c_0024"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并取得85万或以上分数"
+
+msgid "mission_desc_event_mission_c_0023"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并取得70万或以上分数"
+
+msgid "mission_desc_event_mission_c_0028"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并取得140万或以上分数"
+
+msgid "mission_desc_event_mission_c_0027"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并取得130万或以上分数"
+
+msgid "mission_desc_event_mission_c_0026"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并取得115万或以上分数"
+
+msgid "mission_desc_event_mission_c_0025"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并取得100万或以上分数"
+
+msgid "mission_desc_event_mission_c_0032"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并在VERY HARD或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_c_0030"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并在NORMAL或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_c_0021"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"在HARD或以上难度中Fold波指数达到120%以上并完成演出"
+
+msgid "mission_desc_event_mission_c_0020"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"在HARD或以上难度中进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_mission_c_0019"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"在HARD或以上难度中以90%以上生命值完成演出"
+
+msgid "mission_desc_event_mission_c_0031"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并在HARD或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_c_0033"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并在EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_c_0029"
+msgstr ""
+"游玩《POWER TO THE DREAM》\n"
+"并在EASY或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_c_0017"
+msgstr ""
+"挑战《POWER TO THE DREAM》歌曲任务\n"
+"并完成演出5次"
+
+msgid "mission_desc_event_mission_c_0018"
+msgstr ""
+"挑战《POWER TO THE DREAM》歌曲任务\n"
+"并完成演出10次"
+
+msgid "mission_desc_event_mission_b_0024"
+msgstr ""
+"【每日】挑战《AXIA ～如此爱恨交加～》歌曲任务\n"
+"并完成演出5次"
+
+msgid "mission_desc_event_mission_c_0022"
+msgstr ""
+"【每日】挑战《AXIA ～如此爱恨交加～》歌曲任务\n"
+"并完成演出10次"
+
+msgid "mission_desc_event_mission_b_0026"
+msgstr ""
+"游玩《0-G Love》\n"
+"并取得85万或以上分数"
+
+msgid "mission_desc_event_mission_b_0025"
+msgstr ""
+"游玩《0-G Love》\n"
+"并取得70万或以上分数"
+
+msgid "mission_desc_event_mission_b_0030"
+msgstr ""
+"游玩《0-G Love》\n"
+"并取得140万或以上分数"
+
+msgid "mission_desc_event_mission_b_0029"
+msgstr ""
+"游玩《0-G Love》\n"
+"并取得130万或以上分数"
+
+msgid "mission_desc_event_mission_b_0028"
+msgstr ""
+"游玩《0-G Love》\n"
+"并取得115万或以上分数"
+
+msgid "mission_desc_event_mission_b_0027"
+msgstr ""
+"游玩《0-G Love》\n"
+"并取得100万或以上分数"
+
+msgid "mission_desc_event_mission_b_0034"
+msgstr ""
+"游玩《0-G Love》\n"
+"并在VERY HARD或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_b_0032"
+msgstr ""
+"游玩《0-G Love》\n"
+"并在NORMAL或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_b_0023"
+msgstr ""
+"游玩《0-G Love》\n"
+"在HARD或以上难度中Fold波指数达到120%以上并完成演出"
+
+msgid "mission_desc_event_mission_b_0022"
+msgstr ""
+"游玩《0-G Love》\n"
+"在HARD或以上难度中进入超歌姬模式并完成演出"
+
+msgid "mission_desc_event_mission_b_0021"
+msgstr ""
+"游玩《0-G Love》\n"
+"在HARD或以上难度中以90%以上生命值完成演出"
+
+msgid "mission_desc_event_mission_b_0033"
+msgstr ""
+"游玩《0-G Love》\n"
+"并在HARD或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_b_0035"
+msgstr ""
+"游玩《0-G Love》\n"
+"并在EXTREME难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_b_0031"
+msgstr ""
+"游玩《0-G Love》\n"
+"并在EASY或以上难度中达成FULL COMBO"
+
+msgid "mission_desc_event_mission_b_0019"
+msgstr ""
+"【每日】挑战《0-G Love》歌曲任务\n"
+"并完成演出5次"
+
+msgid "mission_desc_event_mission_b_0020"
+msgstr ""
+"【每日】挑战《0-G Love》歌曲任务\n"
+"并完成演出10次"
