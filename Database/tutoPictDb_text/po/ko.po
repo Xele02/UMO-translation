@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2025-07-11 20:05+0000\n"
+"PO-Revision-Date: 2025-09-04 00:07+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/ko/>\n"
@@ -217,22 +217,27 @@ msgid "tutopict_0018_0000_msg"
 msgstr ""
 
 msgid "tutopict_0019_0000_title"
-msgstr ""
+msgstr "발키리 편성에 대하여"
 
 msgid "tutopict_0019_0000_msg"
 msgstr ""
 
 msgid "tutopict_0020_0000_title"
-msgstr ""
+msgstr "발키리 편성에 대하여"
 
 msgid "tutopict_0020_0000_msg"
 msgstr ""
+"발키리 편성 화면에서는\n"
+"출격할 발키리를 선택하거나\n"
+"발키리의 정보를 확인할 수 있어."
 
 msgid "tutopict_0021_0000_title"
-msgstr ""
+msgstr "시크릿 보드에 대하여"
 
 msgid "tutopict_0021_0000_msg"
 msgstr ""
+"시크릿 보드는 플레이트를 3장 이상 모으거나\n"
+"시크릿 스톤을 사용하면 해제할 수 있어."
 
 msgid "tutopict_0021_0001_msg"
 msgstr ""
@@ -680,19 +685,19 @@ msgid "tutopict_0062_0000_msg"
 msgstr ""
 
 msgid "tutopict_0063_0000_title"
-msgstr ""
+msgstr "엑스트라 아이템에 대하여"
 
 msgid "tutopict_0063_0000_msg"
 msgstr ""
 
 msgid "tutopict_0064_0000_title"
-msgstr ""
+msgstr "엑스트라 아이템에 대하여"
 
 msgid "tutopict_0064_0000_msg"
 msgstr ""
 
 msgid "tutopict_0065_0000_title"
-msgstr ""
+msgstr "채팅에 대하여"
 
 msgid "tutopict_0065_0000_msg"
 msgstr ""
@@ -734,7 +739,7 @@ msgid "tutopict_0069_0001_msg"
 msgstr ""
 
 msgid "tutopict_0070_0000_title"
-msgstr ""
+msgstr "새로운 기능에 대하여"
 
 msgid "tutopict_0070_0000_msg"
 msgstr ""
@@ -744,6 +749,8 @@ msgstr ""
 
 msgid "tutopict_0070_0001_msg"
 msgstr ""
+"시크릿 보드는 플레이트를 3장 이상 모으거나\n"
+"시크릿 스톤을 사용하면 해제할 수 있어."
 
 msgid "tutopict_0070_0002_msg"
 msgstr ""
@@ -1140,10 +1147,13 @@ msgstr ""
 "예를 들어, 사랑 속성의 악곡에서는 사랑의 결정을 얻기 쉬워."
 
 msgid "tutopict_0106_0000_title"
-msgstr ""
+msgstr "발키리 편성에 대하여"
 
 msgid "tutopict_0106_0000_msg"
 msgstr ""
+"발키리 편성 화면에서는\n"
+"출격할 발키리를 선택하거나\n"
+"발키리의 정보를 확인할 수 있어."
 
 msgid "tutopict_0107_0000_title"
 msgstr ""
@@ -1202,10 +1212,12 @@ msgstr ""
 "라이브와 미션을 통해 획득하면 돼."
 
 msgid "tutopict_0112_0000_title"
-msgstr ""
+msgstr "시크릿 보드에 대하여"
 
 msgid "tutopict_0112_0000_msg"
 msgstr ""
+"시크릿 보드는 플레이트를 3장 이상 모으거나\n"
+"시크릿 스톤을 사용하면 해제할 수 있어."
 
 msgid "tutopict_0112_0001_msg"
 msgstr ""
@@ -1564,7 +1576,7 @@ msgid "tutopict_0147_0000_title"
 msgstr ""
 
 msgid "tutopict_0147_0002_title"
-msgstr ""
+msgstr "엑스트라 아이템에 대하여"
 
 msgid "tutopict_0147_0000_msg"
 msgstr ""
@@ -1576,7 +1588,7 @@ msgid "tutopict_0147_0002_msg"
 msgstr ""
 
 msgid "tutopict_0148_0000_title"
-msgstr ""
+msgstr "엑스트라 아이템에 대하여"
 
 msgid "tutopict_0148_0000_msg"
 msgstr ""
