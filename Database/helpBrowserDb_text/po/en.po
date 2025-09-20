@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-03-31 15:06+0000\n"
+"PO-Revision-Date: 2025-09-20 05:17+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/en/>\n"
@@ -15,19 +15,19 @@ msgstr ""
 "X-Generator: Weblate 5.6\n"
 
 msgid "category_0000_name"
-msgstr ""
+msgstr "Songs"
 
 msgid "category_0001_name"
-msgstr ""
+msgstr "Songs"
 
 msgid "category_0002_name"
-msgstr ""
+msgstr "Edit Teams"
 
 msgid "category_0003_name"
-msgstr ""
+msgstr "Edit Teams"
 
 msgid "category_0004_name"
-msgstr ""
+msgstr "Memory Dimension"
 
 msgid "category_0006_name"
 msgstr "Episode"
@@ -63,7 +63,7 @@ msgid "category_0019_name"
 msgstr "Other"
 
 msgid "category_0055_name"
-msgstr ""
+msgstr "Songs"
 
 msgid "help_0000_0000_name"
 msgstr ""
@@ -276,7 +276,7 @@ msgid "wiki_0007_0001_name"
 msgstr ""
 
 msgid "help_0008_0000_name"
-msgstr ""
+msgstr "Gift Boxes"
 
 msgid "help_0008_0001_name"
 msgstr ""
