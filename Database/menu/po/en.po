@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-07-08 18:29+0000\n"
+"PO-Revision-Date: 2025-10-10 17:17+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -398,15 +398,15 @@ msgid "config_text_20"
 msgstr "Adjust the timing of note presses."
 
 msgid "config_text_21"
-msgstr "Song Settings"
+msgstr "Songs"
 
 msgid "config_text_22"
 msgstr "Confirmation"
 
 msgid "config_text_23"
 msgstr ""
-"This will restore the volume settings to default.\n"
-"Confirm?"
+"Volume will be reset to default.\n"
+"OK?"
 
 msgid "config_text_24"
 msgstr ""
@@ -427,7 +427,7 @@ msgstr ""
 "order to improve performance."
 
 msgid "config_text_27"
-msgstr "Rendering"
+msgstr "Graphics"
 
 msgid "config_text_28"
 msgstr "Menus"
@@ -477,10 +477,10 @@ msgid "config_text_41"
 msgstr "Videos"
 
 msgid "config_text_42"
-msgstr "Adjust the settings for the videos that play during Diva Modes."
+msgstr "Adjust the settings for the videos that play during Diva Mode."
 
 msgid "config_text_43"
-msgstr "Lowering video quality may improve performance."
+msgstr "Setting video quality to Low may improve performance."
 
 msgid "config_text_44"
 msgstr "If you change the video quality, the videos will be redownloaded."
@@ -506,18 +506,18 @@ msgid "config_text_49"
 msgstr "Displays the team's center Diva and costume."
 
 msgid "config_text_50"
-msgstr "The diva selected in the dressing room will be displayed."
+msgstr "Displays the diva that was selected in the dressing room."
 
 msgid "config_text_51"
 msgstr ""
-"This will reset judgement timing to default.\n"
-"Confirm?"
+"Note timing will go back to default.\n"
+"OK?"
 
 msgid "config_text_52"
-msgstr "Brightness Settings"
+msgstr "Brightness"
 
 msgid "config_text_53"
-msgstr "You can adjust brightness independently for 3D and 2D modes."
+msgstr "Adjust the brightness for 3D and 2D screens individually."
 
 msgid "config_text_54"
 msgstr "Low"
@@ -528,48 +528,48 @@ msgstr "High"
 msgid "config_text_56"
 msgstr ""
 "Resetting brightness to default.\n"
-"Confirm?"
+"OK?"
 
 msgid "config_text_57"
-msgstr "Valkyrie Battle Settings"
+msgstr "Valkyrie Mode"
 
 msgid "config_text_58"
-msgstr "You can set effect display during the battle phase."
+msgstr "Set how Valkyrie Mode appears in-game."
 
 msgid "config_text_59"
-msgstr "Show the battle live during performances."
+msgstr "Displays Valkyries battling with enemies during songs."
 
 msgid "config_text_60"
-msgstr "Show the diva dancing during the attack sequence."
+msgstr "Displays the Diva even during Valkyrie Mode."
 
 msgid "config_text_61"
 msgstr "Confirmation"
 
 msgid "config_text_62"
 msgstr ""
-"Reset Note Speed to Default.\n"
-"Confirm?\n"
+"Resetting note speed to default.\n"
+"OK?\n"
 "<color=#C8087E> * All difficulty settings will be changed. </color>"
 
 msgid "config_text_63"
-msgstr "The settings will be reflected on all difficulties"
+msgstr "The same settings will be reflected on all difficulties."
 
 msgid "config_text_64"
-msgstr "If not checked, Note speed will depend on difficulty."
+msgstr "If not checked, note speed will depend on difficulty."
 
 msgid "config_text_65"
-msgstr "Do not show again"
+msgstr "Don't show again"
 
 msgid "config_text_66"
-msgstr "You can change note speed at any time from the settings menu."
+msgstr "You can change note speed at any time in Game Settings."
 
 msgid "config_text_67"
 msgstr ""
-"The note speed setting is complete.\n"
-"You can change it at any time from the settings menu."
+"Note speed setting complete.\n"
+"Change it at any time from the Game Settings menu."
 
 msgid "config_text_68"
-msgstr "Note Skin Settings"
+msgstr "Note Skins"
 
 msgid "config_text_69"
 msgstr ""
@@ -586,7 +586,7 @@ msgid "config_text_72"
 msgstr "Diva Mode Settings"
 
 msgid "config_text_73"
-msgstr ""
+msgstr "Set how Diva Mode animations play."
 
 msgid "config_text_74"
 msgstr "These settings only affect 3D Mode."
@@ -646,22 +646,23 @@ msgid "config_text_92"
 msgstr "This setting will be enabled next time the app is launched."
 
 msgid "config_text_93"
-msgstr "Enhanced Plates"
+msgstr "Premium Plates"
 
 msgid "config_text_94"
-msgstr "<size=22> you can set the display of the enhanced plate.</size>"
+msgstr "<size=22> Set how Plates that have become Premium appear.</size>"
 
 msgid "config_text_95"
-msgstr "Displays the enhanced plate image."
+msgstr "Displays the Premium version of the Plate."
 
 msgid "config_text_96"
-msgstr "Displays the original plate image."
+msgstr "Displays the Plate version before becoming Premium."
 
 msgid "growth_list_text_01"
-msgstr ""
+msgstr "Next Reward"
 
+#, fuzzy
 msgid "growth_list_text_02"
-msgstr ""
+msgstr "×{0}"
 
 msgid "growth_list_text_03"
 msgstr ""
