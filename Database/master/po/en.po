@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-09-20 05:17+0000\n"
+"PO-Revision-Date: 2025-10-10 17:17+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4681,22 +4681,22 @@ msgid "cos_0283"
 msgstr "Saint Groom"
 
 msgid "cos_0284"
-msgstr "Anniversary Fairy"
+msgstr "Anniversal Fairy"
 
 msgid "cos_0285"
-msgstr ""
+msgstr "Nuit Glamour"
 
 msgid "cos_0286"
-msgstr ""
+msgstr "Survive Stars"
 
 msgid "cos_0287"
-msgstr ""
+msgstr "Lapin Noir"
 
 msgid "cos_0288"
-msgstr ""
+msgstr "Lapin Blanc"
 
 msgid "cos_0289"
-msgstr ""
+msgstr "Northern Cross"
 
 msgid "cos_0290"
 msgstr ""
