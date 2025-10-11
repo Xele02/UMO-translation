@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-10-11 09:08+0000\n"
+"PO-Revision-Date: 2025-10-11 11:17+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -579,82 +579,84 @@ msgid "config_text_70"
 msgstr "Set how EXCELLENT displays during songs."
 
 msgid "config_text_71"
-msgstr "If it is OFF, an EXCELLENT judgement will register as PERFECT."
+msgstr ""
+"If set to OFF, PERFECT will display even when you get EXCELLENTs during "
+"songs."
 
 msgid "config_text_72"
-msgstr "Diva Mode Settings"
+msgstr "Diva Mode"
 
 msgid "config_text_73"
 msgstr "Set how Diva Mode animations play."
 
 msgid "config_text_74"
-msgstr "These settings only affect 3D Mode."
+msgstr "Only affects songs played in 3D."
 
 msgid "config_text_75"
-msgstr "During Diva Mode, the Diva will continue to be displayed."
+msgstr "In Diva Mode, videos will display behind Divas."
 
 msgid "config_text_76"
-msgstr "During the Diva mode, the video is disabled."
+msgstr "In Diva Mode, no videos will display, only Divas."
 
 msgid "config_text_77"
-msgstr "During Diva mode, only the video is displayed."
+msgstr "In Diva Mode, only videos display."
 
 msgid "config_text_78"
-msgstr "The note tap sound cannot be disabled."
+msgstr "You can't disable note taps, even at the lowest setting."
 
 msgid "config_text_79"
-msgstr "Live display settings"
+msgstr "Song Performances"
 
 msgid "config_text_80"
-msgstr "Live System Settings"
+msgstr "Song System"
 
 msgid "config_text_81"
-msgstr "<size=24> Simulation Live Settings </size>"
+msgstr "<size=24>Song Simulations</size>"
 
 msgid "config_text_82"
-msgstr "<size=24>Screen Frame Settings</size>"
+msgstr "<size=24>Screen Frames</size>"
 
 msgid "config_text_83"
-msgstr "You can set the frame design for the screen."
+msgstr "Set a frame design for the screen."
 
 msgid "config_text_84"
-msgstr "Display Design Frame 1."
+msgstr "Displays Design Frame 1."
 
 msgid "config_text_85"
-msgstr "Display Design Frame 2."
+msgstr "Displays Design Frame 2."
 
 msgid "config_text_86"
-msgstr "Display a black frame."
+msgstr "Displays a black frame."
 
 msgid "config_text_87"
-msgstr "When OFF, this will remove the guide lanes during 6-lane mode."
+msgstr "If set to OFF, sliding guide lanes won't display in 6-lane mode."
 
 msgid "config_text_88"
 msgstr "<size=24>Aspect Ratio</size>"
 
 msgid "config_text_89"
-msgstr "You can set the screen display."
+msgstr "Set how the screen displays."
 
 msgid "config_text_90"
-msgstr "Widescreen Ratio."
+msgstr "Displays the game in widescreen."
 
 msgid "config_text_91"
-msgstr "Portrait Mode."
+msgstr "Displays the game in portrait mode."
 
 msgid "config_text_92"
-msgstr "This setting will be enabled next time the app is launched."
+msgstr "Restart the app for this setting to go into effect."
 
 msgid "config_text_93"
 msgstr "Premium Plates"
 
 msgid "config_text_94"
-msgstr "<size=22> Set how Plates that have become Premium appear.</size>"
+msgstr "<size=22> Set how Premiumized Plates appear.</size>"
 
 msgid "config_text_95"
-msgstr "Displays the Premium version of the Plate."
+msgstr "Displays Premiumized versions of Plates."
 
 msgid "config_text_96"
-msgstr "Displays the Plate version before becoming Premium."
+msgstr "Displays Plates as they were before being Premiumized."
 
 msgid "growth_list_text_01"
 msgstr "Next Reward"
@@ -664,64 +666,66 @@ msgid "growth_list_text_02"
 msgstr "×{0}"
 
 msgid "growth_list_text_03"
-msgstr ""
+msgstr "{0} {1} Level {2}"
 
 msgid "growth_popup_title_01"
-msgstr ""
+msgstr "Unlock Conditions"
 
 msgid "growth_popup_title_text01"
-msgstr ""
+msgstr "Main Board Extensions"
 
 msgid "growth_popup_title_text02"
-msgstr ""
+msgstr "Secret Board Additions"
 
 msgid "growth_popup_title_text03"
-msgstr "Expanding Secret Boards"
+msgstr "Secret Board Extensions"
 
 msgid "growth_popup_title_text04"
-msgstr ""
+msgstr "No. of Unlocks Selection"
 
 msgid "growth_popup_title_text05"
-msgstr ""
+msgstr "Unlock Limit Confirmation"
 
 msgid "growth_popup_title_text06"
-msgstr ""
+msgstr "Unlock Limit Confirmation"
 
 msgid "growth_popup_text01"
 msgstr "Owned: {0,4}"
 
 msgid "growth_popup_text02"
-msgstr ""
+msgstr "The below items and UC will be used."
 
 msgid "growth_popup_text03"
-msgstr ""
+msgstr "UC needed: <color={1}>{0,4}</color>"
 
 msgid "growth_popup_text04"
-msgstr ""
+msgstr "UC owned: <color={1}>{0,8}</color>"
 
 msgid "growth_popup_text05"
-msgstr ""
+msgstr "Not enough items."
 
 msgid "growth_popup_text06"
-msgstr ""
+msgstr "This will unlock {0} Abilities. OK?"
 
 msgid "growth_popup_text07"
-msgstr ""
+msgstr "Owned: <color={1}>{0,4}</color>"
 
 msgid "growth_popup_text08"
-msgstr ""
+msgstr "Not enough UC."
 
 msgid "growth_popup_text09"
-msgstr ""
+msgstr "Not enough items and UC."
 
 msgid "growth_popup_text10"
 msgstr ""
+"Rarity increased.\n"
+"Ability Board has been extended."
 
 msgid "growth_popup_text11"
-msgstr ""
+msgstr "Secret Board added."
 
 msgid "growth_popup_text12"
-msgstr ""
+msgstr "Secret Board has been extended."
 
 msgid "growth_popup_text13"
 msgstr ""
