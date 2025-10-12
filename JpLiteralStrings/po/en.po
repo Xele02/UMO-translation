@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-10-11 11:17+0000\n"
+"PO-Revision-Date: 2025-10-12 18:17+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -201,7 +201,7 @@ msgid "StringLiteral_10141"
 msgstr "{0:plural:Valkyrie|Valkyries}"
 
 msgid "StringLiteral_10142"
-msgstr "{0:plural:Unlocked item|Unlocked items}"
+msgstr "Unlocked items"
 
 msgid "StringLiteral_10143"
 msgstr "{0:plural:Episode Orb|Episode Orbs}"
@@ -210,7 +210,7 @@ msgid "StringLiteral_10144"
 msgstr "{0:plural:Title|Titles}"
 
 msgid "StringLiteral_10145"
-msgstr "{0:plural:Event item|Event items}"
+msgstr "Event items"
 
 msgid "StringLiteral_10146"
 msgstr "{0:plural:Event Ticket|Event Tickets}"
@@ -219,13 +219,13 @@ msgid "StringLiteral_10147"
 msgstr "Divas"
 
 msgid "StringLiteral_10148"
-msgstr "{0:plural:Set item|Set items}"
+msgstr "Set items"
 
 msgid "StringLiteral_10149"
-msgstr "{0:plural:SDN item|SDN items}"
+msgstr "SDN items"
 
 msgid "StringLiteral_10150"
-msgstr "{0:plural:Energy Recovery item|Energy Recovery items}"
+msgstr "Energy Recovery items"
 
 msgid "StringLiteral_10151"
 msgstr "{0:plural:MV Ticket|MV Tickets}"
@@ -240,22 +240,22 @@ msgid "StringLiteral_10154"
 msgstr "{0:plural:Event Gacha Ticket|Event Gacha Tickets}"
 
 msgid "StringLiteral_10155"
-msgstr "{0:plural:Present item|Present items}"
+msgstr "Gift items"
 
 msgid "StringLiteral_10156"
-msgstr "{0:plural:Special item|Special items}"
+msgstr "Special items"
 
 msgid "StringLiteral_10157"
-msgstr "{0:plural:Costume Upgrade item|Costume Upgrade items}"
+msgstr "Costume Upgrade items"
 
 msgid "StringLiteral_10158"
-msgstr "{0:plural:Rarity+ item|Rarity+ items}"
+msgstr "Rarity+ items"
 
 msgid "StringLiteral_10159"
-msgstr "{0:plural:Limited time item|Limited time items}"
+msgstr "Limited time items"
 
 msgid "StringLiteral_10160"
-msgstr "{0:plural:Compensation item|Compensation items}"
+msgstr "Compensation items"
 
 msgid "StringLiteral_10161"
 msgstr ""
@@ -267,19 +267,19 @@ msgid "StringLiteral_10163"
 msgstr "Deco Item - Chibi Characters"
 
 msgid "StringLiteral_10164"
-msgstr "Quote Stamp Item"
+msgstr "Quote Sticker items"
 
 msgid "StringLiteral_10165"
 msgstr ""
 
 msgid "StringLiteral_10166"
-msgstr "Valkyrie Upgrade Item"
+msgstr "Valkyrie Upgrade items"
 
 msgid "StringLiteral_10167"
 msgstr ""
 
 msgid "StringLiteral_10168"
-msgstr "Deco Item - Poster"
+msgstr "Deco Item - Posters"
 
 msgid "StringLiteral_10169"
 msgstr ""
@@ -288,19 +288,19 @@ msgid "StringLiteral_10170"
 msgstr ""
 
 msgid "StringLiteral_10171"
-msgstr "Raid Item"
+msgstr "Raid items"
 
 msgid "StringLiteral_10172"
-msgstr "Stamp Item Character"
+msgstr "Sticker item characters"
 
 msgid "StringLiteral_10173"
-msgstr "Deco Set Item"
+msgstr "Deco Set items"
 
 msgid "StringLiteral_10174"
-msgstr "Deco Item - Valkyrie Figure"
+msgstr "Deco Item - Valkyrie Figures"
 
 msgid "StringLiteral_10175"
-msgstr "Deco Item - Costume Torso"
+msgstr "Deco Item - Costume Torsos"
 
 msgid "StringLiteral_10176"
 msgstr ""
@@ -784,7 +784,7 @@ msgid "StringLiteral_12695"
 msgstr "Decorture Mode"
 
 msgid "StringLiteral_12696"
-msgstr "Time-Limited Item"
+msgstr "Time-Limited items"
 
 msgid "StringLiteral_12839"
 msgstr "Start Prologue"
