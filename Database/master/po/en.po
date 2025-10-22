@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-10-10 17:17+0000\n"
+"PO-Revision-Date: 2025-10-23 13:22+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4699,82 +4699,82 @@ msgid "cos_0289"
 msgstr "Northern Cross"
 
 msgid "cos_0290"
-msgstr ""
+msgstr "Ad Strahl"
 
 msgid "cos_0291"
-msgstr ""
+msgstr "Soirée Amicale"
 
 msgid "cos_0292"
-msgstr ""
+msgstr "Starlit Verdure"
 
 msgid "cos_0293"
-msgstr ""
+msgstr "Nuit Lumineuse"
 
 msgid "cos_0294"
-msgstr ""
+msgstr "Wish Stars"
 
 msgid "cos_0295"
-msgstr ""
+msgstr "Canary Carrot"
 
 msgid "cos_0296"
-msgstr ""
+msgstr "Marie Venise"
 
 msgid "cos_0297"
-msgstr ""
+msgstr "Navy Treasure"
 
 msgid "cos_0298"
-msgstr ""
+msgstr "Ad Strahl"
 
 msgid "cos_0299"
-msgstr ""
+msgstr "Mihoshi Academy Girls' Uniform"
 
 msgid "cos_0300"
-msgstr ""
+msgstr "Mascot Messiah"
 
 msgid "cos_0301"
-msgstr ""
+msgstr "Florit China"
 
 msgid "cos_0302"
-msgstr ""
+msgstr "Quint Maid"
 
 msgid "cos_0303"
-msgstr ""
+msgstr "Memory Days"
 
 msgid "cos_0304"
-msgstr ""
+msgstr "Eternal Bride"
 
 msgid "cos_0305"
-msgstr ""
+msgstr "Crossover Legacy"
 
 msgid "cos_0306"
-msgstr ""
+msgstr "Ad Strahl"
 
 msgid "cos_0307"
-msgstr ""
+msgstr "Innocent Carol"
 
 msgid "cos_0308"
-msgstr ""
+msgstr "Turquoise Nyan-Nyan"
 
 msgid "cos_0309"
-msgstr ""
+msgstr "Starlit Cobalt"
 
 msgid "cos_0311"
-msgstr ""
+msgstr "Tiny Swan"
 
 msgid "cos_0312"
-msgstr ""
+msgstr "Blazing Shine"
 
 msgid "cos_0313"
-msgstr ""
+msgstr "Precious Bride"
 
 msgid "cos_0314"
-msgstr ""
+msgstr "Ad Strahl"
 
 msgid "cos_0315"
-msgstr ""
+msgstr "Halloween Bunny"
 
 msgid "cos_0316"
-msgstr ""
+msgstr "Radical Heart"
 
 msgid "cos_0321"
 msgstr "Steife Brise"
@@ -4789,79 +4789,79 @@ msgid "cos_0325"
 msgstr "Weiss Tränen"
 
 msgid "cos_0326"
-msgstr ""
+msgstr "Scarlet Noble"
 
 msgid "cos_0327"
-msgstr ""
+msgstr "Schwarze Gothic"
 
 msgid "cos_0328"
-msgstr ""
+msgstr "Ice Flower"
 
 msgid "cos_0329"
-msgstr ""
+msgstr "Kirsche Elegant"
 
 msgid "cos_0331"
-msgstr ""
+msgstr "Violet Noble"
 
 msgid "cos_0332"
-msgstr ""
+msgstr "Mystic Chocolat"
 
 msgid "cos_0333"
-msgstr ""
+msgstr "Viola Days"
 
 msgid "cos_0334"
-msgstr ""
+msgstr "Ice Flower"
 
 msgid "cos_0341"
-msgstr ""
+msgstr "Halloween Moon"
 
 msgid "cos_0342"
-msgstr ""
+msgstr "Mandarin Noble"
 
 msgid "cos_0344"
-msgstr ""
+msgstr "Canary Citrus"
 
 msgid "cos_0345"
-msgstr ""
+msgstr "Ice Flower"
 
 msgid "cos_0346"
-msgstr ""
+msgstr "Redness Officer"
 
 msgid "cos_0352"
-msgstr ""
+msgstr "Strawberry Carol"
 
 msgid "cos_0353"
-msgstr ""
+msgstr "Rose Noble"
 
 msgid "cos_0354"
-msgstr ""
+msgstr "Milky Chocolat"
 
 msgid "cos_0355"
-msgstr ""
+msgstr "Ice Flower"
 
 msgid "cos_0356"
-msgstr ""
+msgstr "Charm Lilith"
 
 msgid "cos_0361"
 msgstr "Frau Jubelnd"
 
 msgid "cos_0362"
-msgstr ""
+msgstr "Emerald Noble"
 
 msgid "cos_0363"
-msgstr ""
+msgstr "Ice Flower"
 
 msgid "cos_0371"
-msgstr ""
+msgstr "Coquettish Rouge"
 
 msgid "cos_0372"
-msgstr ""
+msgstr "Evergreen Flower"
 
 msgid "cos_0373"
-msgstr ""
+msgstr "Ruby Nyan-Nyan"
 
 msgid "cos_0381"
-msgstr ""
+msgstr "Sheryl's Mihoshi Academy Uniform"
 
 msgid "cos_0382"
 msgstr ""
@@ -4879,7 +4879,7 @@ msgid "cos_0391"
 msgstr ""
 
 msgid "cos_0392"
-msgstr ""
+msgstr "Ad Strahl"
 
 msgid "cos_0393"
 msgstr ""
