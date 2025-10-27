@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-10-21 15:17+0000\n"
+"PO-Revision-Date: 2025-10-27 16:41+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -549,7 +549,7 @@ msgid "config_text_62"
 msgstr ""
 "Resetting note speed to default.\n"
 "OK?\n"
-"<color=#C8087E> * All difficulty settings will be changed. </color>"
+"<color=#C8087E>- All difficulty settings will be changed.</color>"
 
 msgid "config_text_63"
 msgstr "The same settings will be reflected on all difficulties."
@@ -741,31 +741,33 @@ msgstr ""
 "go."
 
 msgid "growth_popup_text16"
-msgstr ""
+msgstr "Not enough items to unlock more."
 
 msgid "growth_popup_text17"
-msgstr ""
+msgstr "Not enough UC to unlock more."
 
 msgid "growth_popup_text18"
-msgstr ""
+msgstr "Not enough items and UC to unlock more."
 
 msgid "growth_popup_text19"
 msgstr ""
+"Unblock {0} {0:plural:Ability|Abilities}?\n"
+"<color={1}>- You already got this episode's unlock complete reward.</color>"
 
 msgid "growth_addreward_text"
 msgstr "Extra Rewards"
 
 msgid "story_unlock_01"
-msgstr ""
+msgstr "<size=25>Unlock Conditions</size>"
 
 msgid "story_unlock_02"
-msgstr ""
+msgstr "<size=20>Fulfill the conditions below to unlock.</size>"
 
 msgid "story_unlock_03"
-msgstr ""
+msgstr "<size=20>Fulfill any 1 of the conditions below to unlock.</size>"
 
 msgid "story_unlock_04"
-msgstr ""
+msgstr "・Reach Player Rank {0}"
 
 msgid "story_unlock_05"
 msgstr ""
