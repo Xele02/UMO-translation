@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-10-28 07:32+0000\n"
+"PO-Revision-Date: 2025-12-04 08:14+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -33,7 +33,7 @@ msgid "popup_title_05"
 msgstr "Costume Details"
 
 msgid "unit_popup_title_00"
-msgstr "Team Save & Recall"
+msgstr "Save & Change Teams"
 
 msgid "unit_popup_title_01"
 msgstr "Save Confirmation"
@@ -42,7 +42,7 @@ msgid "unit_popup_title_02"
 msgstr "Overwrite Confirmation"
 
 msgid "unit_popup_title_03"
-msgstr "Recall Confirmation"
+msgstr "Confirm Change"
 
 msgid "unit_setpopup_text_00"
 msgstr "Unit Set {0}"
@@ -776,36 +776,44 @@ msgstr ""
 
 msgid "story_unlock_06"
 msgstr ""
+"・Clear the following song {0}\n"
+"with a score rank of {1} or above\n"
+"\"{2}\""
 
 msgid "story_unlock_07"
-msgstr ""
+msgstr "・ Clear the previous section first"
 
 msgid "story_unlock_08"
-msgstr ""
+msgstr "Locked"
 
 msgid "story_unlock_09"
-msgstr ""
+msgstr "Unlock the section before this one first."
 
 msgid "story_unlock_10"
-msgstr ""
+msgstr "<size=20>Fulfill the following conditions to enter.</size>"
 
 msgid "story_unlock_11"
-msgstr ""
+msgstr "<size=20>Fulfill any one of the following to enter.</size>"
 
 msgid "music_not_exist_text_00"
 msgstr ""
+"There are currently no playable songs in this category.\n"
+"<color=#C8087E>- Unlock Song Memories in Memory Dimension to add more "
+"songs.</color>"
 
 msgid "music_not_exist_line6_text_00"
 msgstr ""
+"There are currently no playable 6-lane songs in this category.\n"
+"<color=#C8087E>- Unlock 6-lane songs to add more.</color>"
 
 msgid "reward_all_clear_text_00"
-msgstr ""
+msgstr "All Clear Rewards"
 
 msgid "unit_auto_popup_text_00"
-msgstr ""
+msgstr "Auto Equip without changing Center Skill"
 
 msgid "unit_auto_popup_text_01"
-msgstr ""
+msgstr "Prioritize Diva-compatible Episode Plates"
 
 msgid "unit_clearplate_confirm_text"
 msgstr ""
@@ -814,52 +822,52 @@ msgstr ""
 "Proceed?"
 
 msgid "unit_save_text"
-msgstr ""
+msgstr "Team saved."
 
 msgid "unit_load_text"
-msgstr ""
+msgstr "Team changed."
 
 msgid "header_desc_home000"
-msgstr ""
+msgstr "Select what you want to play"
 
 msgid "header_desc_home001"
-msgstr ""
+msgstr "This is your friend list"
 
 msgid "header_desc_home002"
-msgstr ""
+msgstr "This is your gift list"
 
 msgid "header_desc_home003"
-msgstr ""
+msgstr "Browse friend info here"
 
 msgid "header_desc_home004"
-msgstr ""
+msgstr "This is your pending friend requests list"
 
 msgid "header_desc_home005"
-msgstr ""
+msgstr "Approve the friend request"
 
 msgid "header_desc_home006"
-msgstr ""
+msgstr "Search for other players via their IDs"
 
 msgid "header_desc_home007"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_home008"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_home009"
-msgstr ""
+msgstr "Look at your profile"
 
 msgid "header_desc_home010"
-msgstr ""
+msgstr "This is the event mission list"
 
 msgid "header_desc_vop000"
-msgstr ""
+msgstr "Select an operation"
 
 msgid "header_desc_vop001"
-msgstr ""
+msgstr "Select a squadron"
 
 msgid "header_desc_vop002"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_vop003"
 msgstr ""
@@ -913,7 +921,7 @@ msgid "header_desc_home208"
 msgstr ""
 
 msgid "header_desc_home209"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_home210"
 msgstr ""
@@ -955,7 +963,7 @@ msgid "header_desc_setting004"
 msgstr ""
 
 msgid "header_desc_setting005"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_setting006"
 msgstr ""
@@ -1018,7 +1026,7 @@ msgid "header_desc_story008"
 msgstr ""
 
 msgid "header_desc_story009"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_story030"
 msgstr ""
@@ -1054,7 +1062,7 @@ msgid "header_desc_free008"
 msgstr ""
 
 msgid "header_desc_free009"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_free010"
 msgstr ""
@@ -1105,7 +1113,7 @@ msgid "header_desc_free208"
 msgstr ""
 
 msgid "header_desc_free209"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_free210"
 msgstr ""
@@ -1198,7 +1206,7 @@ msgid "header_desc_evquest008"
 msgstr ""
 
 msgid "header_desc_evquest009"
-msgstr ""
+msgstr "Select a costume"
 
 msgid "header_desc_evquest010"
 msgstr ""
