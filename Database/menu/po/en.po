@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-12-04 08:14+0000\n"
+"PO-Revision-Date: 2025-12-09 17:39+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -855,7 +855,7 @@ msgid "header_desc_home008"
 msgstr "See the rankings here"
 
 msgid "header_desc_home009"
-msgstr "Look at your profile"
+msgstr "See your profile here"
 
 msgid "header_desc_home010"
 msgstr "This is the event mission list"
@@ -870,13 +870,13 @@ msgid "header_desc_vop002"
 msgstr "Select a Valkyrie"
 
 msgid "header_desc_vop003"
-msgstr ""
+msgstr "Select Valkyrie mode"
 
 msgid "header_desc_home030"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_home031"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_home032"
 msgstr ""
@@ -930,7 +930,7 @@ msgid "header_desc_home211"
 msgstr ""
 
 msgid "header_desc_home230"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_home231"
 msgstr ""
@@ -990,7 +990,7 @@ msgid "header_desc_setting013"
 msgstr ""
 
 msgid "header_desc_setting030"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_setting031"
 msgstr ""
@@ -1029,7 +1029,7 @@ msgid "header_desc_story009"
 msgstr "Select a costume"
 
 msgid "header_desc_story030"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_story031"
 msgstr ""
@@ -1083,7 +1083,7 @@ msgid "header_desc_free130"
 msgstr ""
 
 msgid "header_desc_free030"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_free031"
 msgstr ""
@@ -1122,7 +1122,7 @@ msgid "header_desc_free211"
 msgstr ""
 
 msgid "header_desc_free230"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_free231"
 msgstr ""
@@ -1224,7 +1224,7 @@ msgid "header_desc_evquest130"
 msgstr ""
 
 msgid "header_desc_evquest030"
-msgstr ""
+msgstr "Select a costume to upgrade"
 
 msgid "header_desc_evquest031"
 msgstr ""
