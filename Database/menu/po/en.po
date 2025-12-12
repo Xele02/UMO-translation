@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-12-09 17:39+0000\n"
+"PO-Revision-Date: 2025-12-13 18:39+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -879,19 +879,19 @@ msgid "header_desc_home031"
 msgstr "Select items　　　　　"
 
 msgid "header_desc_home032"
-msgstr ""
+msgstr "Creates stickers"
 
 msgid "header_desc_home033"
-msgstr ""
+msgstr "See team member info　　　　"
 
 msgid "header_desc_home034"
-msgstr ""
+msgstr "This is the raid mission list"
 
 msgid "header_desc_home035"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_home110"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_home130"
 msgstr ""
@@ -924,7 +924,7 @@ msgid "header_desc_home209"
 msgstr "Select a costume"
 
 msgid "header_desc_home210"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_home211"
 msgstr ""
@@ -933,10 +933,10 @@ msgid "header_desc_home230"
 msgstr "Select a costume to upgrade"
 
 msgid "header_desc_home231"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_home240"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_home301"
 msgstr ""
@@ -993,7 +993,7 @@ msgid "header_desc_setting030"
 msgstr "Select a costume to upgrade"
 
 msgid "header_desc_setting031"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_setting032"
 msgstr ""
@@ -1032,7 +1032,7 @@ msgid "header_desc_story030"
 msgstr "Select a costume to upgrade"
 
 msgid "header_desc_story031"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_free000"
 msgstr ""
@@ -1065,7 +1065,7 @@ msgid "header_desc_free009"
 msgstr "Select a costume"
 
 msgid "header_desc_free010"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_free011"
 msgstr ""
@@ -1074,7 +1074,7 @@ msgid "header_desc_free020"
 msgstr ""
 
 msgid "header_desc_free110"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_free120"
 msgstr ""
@@ -1086,7 +1086,7 @@ msgid "header_desc_free030"
 msgstr "Select a costume to upgrade"
 
 msgid "header_desc_free031"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_free201"
 msgstr ""
@@ -1116,7 +1116,7 @@ msgid "header_desc_free209"
 msgstr "Select a costume"
 
 msgid "header_desc_free210"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_free211"
 msgstr ""
@@ -1125,10 +1125,10 @@ msgid "header_desc_free230"
 msgstr "Select a costume to upgrade"
 
 msgid "header_desc_free231"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_free240"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_free303"
 msgstr ""
@@ -1161,7 +1161,7 @@ msgid "header_desc_option002"
 msgstr ""
 
 msgid "header_desc_option003"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_option004"
 msgstr ""
@@ -1209,13 +1209,13 @@ msgid "header_desc_evquest009"
 msgstr "Select a costume"
 
 msgid "header_desc_evquest010"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_evquest011"
 msgstr ""
 
 msgid "header_desc_evquest110"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_evquest120"
 msgstr ""
@@ -1227,13 +1227,13 @@ msgid "header_desc_evquest030"
 msgstr "Select a costume to upgrade"
 
 msgid "header_desc_evquest031"
-msgstr ""
+msgstr "Select items　　　　　"
 
 msgid "header_desc_result211"
 msgstr ""
 
 msgid "header_desc_result240"
-msgstr ""
+msgstr "See the rankings here"
 
 msgid "header_desc_musicrate000"
 msgstr ""
