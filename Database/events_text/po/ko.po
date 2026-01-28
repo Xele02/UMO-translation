@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-08-04 15:47+0000\n"
+"PO-Revision-Date: 2026-01-28 09:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -3238,3 +3238,24 @@ msgstr ""
 
 msgid "mission_desc_event_mission_a_0037"
 msgstr "이벤트 미션에 도전하여 20회 악곡을 클리어"
+
+msgid "mission_desc_event_raid_b_10001"
+msgstr "초가희 모드로 진입하여 클리어"
+
+msgid "event_mission_desc_event_mission_b_0003"
+msgstr "초가희 모드로 진입하여 클리어"
+
+msgid "event_mission_desc_event_mission_c_0003"
+msgstr "초가희 모드로 진입하여 클리어"
+
+msgid "event_mission_desc_event_mission_a_0003"
+msgstr "초가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_a_10001"
+msgstr "초가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_c_10001"
+msgstr "초가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_d_10001"
+msgstr "초가희 모드로 진입하여 클리어"
