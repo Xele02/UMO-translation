@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-09-04 00:07+0000\n"
+"PO-Revision-Date: 2026-01-31 04:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -22059,7 +22059,7 @@ msgid "rn_0105"
 msgstr "WhiteDay Attack!"
 
 msgid "rn_0106"
-msgstr ""
+msgstr "천사의 웨딩"
 
 msgid "rn_0107"
 msgstr ""
@@ -22098,10 +22098,10 @@ msgid "rn_0118"
 msgstr ""
 
 msgid "rn_0119"
-msgstr ""
+msgstr "순백의 에테르"
 
 msgid "rn_0120"
-msgstr ""
+msgstr "할로윈 신데렐라"
 
 msgid "rn_0121"
 msgstr ""
@@ -22399,10 +22399,10 @@ msgid "evdsc_0009"
 msgstr ""
 
 msgid "eng_nm_0001"
-msgstr "에너지 에텔"
+msgstr "에너지 에테르"
 
 msgid "eng_nm_0002"
-msgstr "【당일 한정】에너지 에텔"
+msgstr "【당일 한정】에너지 에테르"
 
 msgid "eng_dsc_0001"
 msgstr ""
@@ -23952,7 +23952,7 @@ msgid "spitm_nm_0002"
 msgstr "고속 프로그램"
 
 msgid "spitm_nm_0003"
-msgstr "라이브 에텔"
+msgstr "라이브 에테르"
 
 msgid "spitm_nm_0004"
 msgstr ""
@@ -24330,13 +24330,13 @@ msgid "btlc_cls_0030"
 msgstr ""
 
 msgid "rd_i_nm_0001"
-msgstr ""
+msgstr "폴드 레이더"
 
 msgid "rd_i_nm_0002"
-msgstr ""
+msgstr "액티브 에테르(소)"
 
 msgid "rd_i_nm_0003"
-msgstr ""
+msgstr "액티브 에테르(대)"
 
 msgid "rd_i_dsc_0001"
 msgstr ""
