@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2026-01-29 11:09+0000\n"
+"PO-Revision-Date: 2026-01-30 03:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/ko/>\n"
@@ -3306,3 +3306,40 @@ msgid "mission_desc_event_raid_d_10008"
 msgstr ""
 "폴드파 100% 이상으로\n"
 "클리어"
+
+msgid "mission_desc_event_raid_c_10009"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_a_10008"
+msgstr ""
+"폴드파 100% 이상으로\n"
+"클리어"
+
+msgid "mission_desc_event_raid_b_10008"
+msgstr ""
+"폴드파 100% 이상으로\n"
+"클리어"
+
+msgid "mission_desc_event_raid_b_10009"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "event_mission_desc_event_mission_a_0002"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "event_mission_desc_event_mission_b_0002"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "event_mission_desc_event_mission_c_0002"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_a_10009"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_a_10010"
+msgstr "풀콤보로 클리어"
+
+msgid "mission_desc_event_raid_d_10009"
+msgstr "가희 모드로 진입하여 클리어"
+
+msgid "mission_desc_event_raid_d_10010"
+msgstr "풀콤보로 클리어"
