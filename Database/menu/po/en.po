@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-02-22 17:09+0000\n"
+"PO-Revision-Date: 2026-02-23 06:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -4036,19 +4036,21 @@ msgid "pop_deco_item_content"
 msgstr ""
 
 msgid "pop_deco_sp_item_001"
-msgstr ""
+msgstr "{0} more {0:plural:deco item|deco items} till level up"
 
 msgid "pop_deco_sp_item_002"
-msgstr ""
+msgstr "Level up available!"
 
 msgid "pop_deco_sp_item_003"
-msgstr ""
+msgstr "Level maxed out."
 
 msgid "pop_deco_sp_item_004"
-msgstr ""
+msgstr "You'll level up after collecting items."
 
 msgid "pop_deco_sp_item_levelup"
 msgstr ""
+"{0}\n"
+"leveled up."
 
 msgid "pop_deco_sp_all_receive_title"
 msgstr ""
@@ -5268,7 +5270,7 @@ msgid "popup_sort_item_rarity"
 msgstr ""
 
 msgid "popup_sort_item_level"
-msgstr ""
+msgstr "Level"
 
 msgid "popup_sort_item_life"
 msgstr "HP"
