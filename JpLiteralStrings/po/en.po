@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2025-10-12 18:17+0000\n"
+"PO-Revision-Date: 2026-02-22 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -36,7 +36,7 @@ msgid "StringLiteral_8280"
 msgstr "Not initialized."
 
 msgid "StringLiteral_8676"
-msgstr "Leaf count is not 0 for base 3-star and below cards"
+msgstr "Leaf count is not 0 for base 3★ and below cards"
 
 msgid "StringLiteral_8686"
 msgstr "N/A"
@@ -138,10 +138,10 @@ msgid "StringLiteral_9874"
 msgstr "Not obtained"
 
 msgid "StringLiteral_9949"
-msgstr "★{0} x1 guaranteed"
+msgstr "{0}★ x1 guaranteed"
 
 msgid "StringLiteral_9950"
-msgstr "★{0}+ x1 guaranteed"
+msgstr "{0}★+ x1 guaranteed"
 
 msgid "StringLiteral_10040"
 msgstr "Favorite 1"
@@ -1132,7 +1132,7 @@ msgid "StringLiteral_12943"
 msgstr "Valkyrie Flight"
 
 msgid "StringLiteral_13053"
-msgstr "★[0-9]"
+msgstr "[0-9]★"
 
 msgid "StringLiteral_13085"
 msgstr "Items"
@@ -1203,7 +1203,7 @@ msgid "StringLiteral_14832"
 msgstr "Cap"
 
 msgid "StringLiteral_14844"
-msgstr "★[0 - 9]"
+msgstr "[0 - 9]★"
 
 msgid "StringLiteral_14845"
 msgstr "[0 - 9]"
@@ -1333,7 +1333,7 @@ msgstr ""
 
 msgid "StringLiteral_16496"
 msgstr ""
-"You can't raise Bond Levels for\n"
+"You can't raise bond levels for\n"
 "characters you don't have yet."
 
 msgid "StringLiteral_16775"
