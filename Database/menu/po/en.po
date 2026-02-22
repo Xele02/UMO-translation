@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-12-13 18:39+0000\n"
+"PO-Revision-Date: 2026-02-22 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -104,7 +104,7 @@ msgid "popup_text_16"
 msgstr "Skill Description"
 
 msgid "popup_text_17"
-msgstr "Support Plate Confirmation"
+msgstr "Support Plates"
 
 msgid "popup_sort_text_00"
 msgstr "Only show Plates that are compatible with the selected Diva"
@@ -137,7 +137,7 @@ msgid "popup_music_select_05"
 msgstr "Mission Clear Info (Tentative)"
 
 msgid "popup_music_select_06"
-msgstr "Level"
+msgstr "Proficiency"
 
 msgid "popup_music_select_07"
 msgstr "Enemy Info"
@@ -446,7 +446,7 @@ msgstr "Displays the default background."
 
 msgid "config_text_33"
 msgstr ""
-"★4 or higher Main Plates will display as backgrounds\n"
+"4★ or higher Main Plates will display as backgrounds\n"
 "if their rarities haven't been leveled up."
 
 msgid "config_text_34"
@@ -831,19 +831,19 @@ msgid "header_desc_home000"
 msgstr "Select what you want to play"
 
 msgid "header_desc_home001"
-msgstr "This is your friend list"
+msgstr "Friend list"
 
 msgid "header_desc_home002"
-msgstr "This is your gift list"
+msgstr "Gift list"
 
 msgid "header_desc_home003"
 msgstr "Browse friend info here"
 
 msgid "header_desc_home004"
-msgstr "This is your pending friend requests list"
+msgstr "Pending friend requests list"
 
 msgid "header_desc_home005"
-msgstr "Approve the friend request"
+msgstr "Approve friend requests"
 
 msgid "header_desc_home006"
 msgstr "Search for other players via their IDs"
@@ -858,7 +858,7 @@ msgid "header_desc_home009"
 msgstr "See your profile here"
 
 msgid "header_desc_home010"
-msgstr "This is the event mission list"
+msgstr "Event Mission list"
 
 msgid "header_desc_vop000"
 msgstr "Select an operation"
@@ -885,7 +885,7 @@ msgid "header_desc_home033"
 msgstr "See team member info　　　　"
 
 msgid "header_desc_home034"
-msgstr "This is the raid mission list"
+msgstr "Co-Op Mission list"
 
 msgid "header_desc_home035"
 msgstr "See the rankings here"
@@ -894,25 +894,25 @@ msgid "header_desc_home110"
 msgstr "See the rankings here"
 
 msgid "header_desc_home130"
-msgstr ""
+msgstr "Event Mission list"
 
 msgid "header_desc_home201"
-msgstr ""
+msgstr "Select an assistant"
 
 msgid "header_desc_home202"
 msgstr "Put your team together"
 
 msgid "header_desc_home203"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_home204"
-msgstr ""
+msgstr "See song EXP levels"
 
 msgid "header_desc_home205"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_home206"
-msgstr ""
+msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_home207"
 msgstr ""
@@ -954,10 +954,10 @@ msgid "header_desc_setting001"
 msgstr "Put your team together"
 
 msgid "header_desc_setting002"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_setting003"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_setting004"
 msgstr ""
@@ -969,16 +969,16 @@ msgid "header_desc_setting006"
 msgstr ""
 
 msgid "header_desc_setting007"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_setting008"
 msgstr ""
 
 msgid "header_desc_setting009"
-msgstr ""
+msgstr "See song EXP levels"
 
 msgid "header_desc_setting010"
-msgstr ""
+msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_setting011"
 msgstr ""
@@ -1002,22 +1002,22 @@ msgid "header_desc_story000"
 msgstr ""
 
 msgid "header_desc_story001"
-msgstr ""
+msgstr "Select an assistant"
 
 msgid "header_desc_story002"
 msgstr "Put your team together"
 
 msgid "header_desc_story003"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_story004"
-msgstr ""
+msgstr "See song EXP levels"
 
 msgid "header_desc_story005"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_story006"
-msgstr ""
+msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_story007"
 msgstr ""
@@ -1038,22 +1038,22 @@ msgid "header_desc_free000"
 msgstr ""
 
 msgid "header_desc_free001"
-msgstr ""
+msgstr "Select an assistant"
 
 msgid "header_desc_free002"
 msgstr "Put your team together"
 
 msgid "header_desc_free003"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_free004"
-msgstr ""
+msgstr "See song EXP levels"
 
 msgid "header_desc_free005"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_free006"
-msgstr ""
+msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_free007"
 msgstr ""
@@ -1080,7 +1080,7 @@ msgid "header_desc_free120"
 msgstr ""
 
 msgid "header_desc_free130"
-msgstr ""
+msgstr "Event Mission list"
 
 msgid "header_desc_free030"
 msgstr "Select a costume to upgrade"
@@ -1089,22 +1089,22 @@ msgid "header_desc_free031"
 msgstr "Select items　　　　　"
 
 msgid "header_desc_free201"
-msgstr ""
+msgstr "Select an assistant"
 
 msgid "header_desc_free202"
 msgstr "Put your team together"
 
 msgid "header_desc_free203"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_free204"
-msgstr ""
+msgstr "See song EXP levels"
 
 msgid "header_desc_free205"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_free206"
-msgstr ""
+msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_free207"
 msgstr ""
@@ -1143,7 +1143,7 @@ msgid "header_desc_quest000"
 msgstr ""
 
 msgid "header_desc_quest001"
-msgstr ""
+msgstr "Event Mission list"
 
 msgid "header_desc_quest002"
 msgstr ""
@@ -1182,22 +1182,22 @@ msgid "header_desc_option009"
 msgstr ""
 
 msgid "header_desc_evquest001"
-msgstr ""
+msgstr "Select an assistant"
 
 msgid "header_desc_evquest002"
 msgstr "Put your team together"
 
 msgid "header_desc_evquest003"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "header_desc_evquest004"
-msgstr ""
+msgstr "See song EXP levels"
 
 msgid "header_desc_evquest005"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_evquest006"
-msgstr ""
+msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_evquest007"
 msgstr ""
@@ -1221,7 +1221,7 @@ msgid "header_desc_evquest120"
 msgstr ""
 
 msgid "header_desc_evquest130"
-msgstr ""
+msgstr "Event Mission list"
 
 msgid "header_desc_evquest030"
 msgstr "Select a costume to upgrade"
@@ -2984,7 +2984,7 @@ msgid "diva_intimacy_time_count_2"
 msgstr ""
 
 msgid "diva_intimacy_max"
-msgstr ""
+msgstr "Max. bond level reached."
 
 msgid "diva_intimacy_tips"
 msgstr ""
@@ -3042,6 +3042,8 @@ msgstr ""
 
 msgid "present_intimacy_limit_01"
 msgstr ""
+"Can't give gifts because Diva\n"
+"is at max. bond level."
 
 msgid "present_intimacy_limit_02"
 msgstr ""
@@ -5047,7 +5049,7 @@ msgid "liveskillregulation_popup_title"
 msgstr ""
 
 msgid "centerskillregulation_popup_title"
-msgstr ""
+msgstr "Center Skill activation songs"
 
 msgid "gacha_telop_01"
 msgstr ""
@@ -5149,13 +5151,13 @@ msgid "assist_friend_select_caution_01"
 msgstr ""
 
 msgid "header_desc_home401"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_home402"
 msgstr ""
 
 msgid "header_desc_setting040"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_setting041"
 msgstr ""
@@ -5164,7 +5166,7 @@ msgid "header_desc_setting042"
 msgstr ""
 
 msgid "header_desc_story040"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_story041"
 msgstr ""
@@ -5173,13 +5175,13 @@ msgid "header_desc_story042"
 msgstr ""
 
 msgid "header_desc_free400"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_free401"
 msgstr ""
 
 msgid "header_desc_option010"
-msgstr ""
+msgstr "Select a Plate"
 
 msgid "header_desc_option011"
 msgstr ""
@@ -5434,25 +5436,25 @@ msgid "popup_filter_rarity_title_h2"
 msgstr ""
 
 msgid "popup_filter_rarity_01"
-msgstr ""
+msgstr "1★"
 
 msgid "popup_filter_rarity_02"
-msgstr ""
+msgstr "2★"
 
 msgid "popup_filter_rarity_03"
-msgstr ""
+msgstr "3★"
 
 msgid "popup_filter_rarity_04"
-msgstr ""
+msgstr "4★"
 
 msgid "popup_filter_rarity_05"
-msgstr ""
+msgstr "5★"
 
 msgid "popup_filter_rarity_06"
-msgstr ""
+msgstr "6★"
 
 msgid "popup_filter_rarity_07"
-msgstr ""
+msgstr "7★"
 
 msgid "deco_name_decomascot"
 msgstr ""
@@ -5596,7 +5598,7 @@ msgid "godiva_diva_select_not_have"
 msgstr ""
 
 msgid "godiva_diva_select_explain"
-msgstr ""
+msgstr "Select a Diva"
 
 msgid "godiva_music_info_bonus_remain_count"
 msgstr ""
@@ -5849,6 +5851,8 @@ msgstr ""
 
 msgid "pop_gakuya_present_lv_max"
 msgstr ""
+"Can't give gifts because Diva\n"
+"is at max. bond level."
 
 msgid "pop_gakuya_present_limit_title"
 msgstr ""
@@ -5980,7 +5984,7 @@ msgid "popup_filter_reward_clear"
 msgstr ""
 
 msgid "popup_filter_music_level_title_h2"
-msgstr ""
+msgstr "Song Lv."
 
 msgid "popup_filter_bonus_title_h2"
 msgstr ""
@@ -6067,7 +6071,7 @@ msgid "unit_status_skill_regulation_attr"
 msgstr ""
 
 msgid "popup_sort_item_music_exp"
-msgstr "Level"
+msgstr "Proficiency"
 
 msgid "unit_diva_status_titla_level"
 msgstr "Diva Lv."
@@ -6076,7 +6080,7 @@ msgid "unit_diva_status_titla_total"
 msgstr "Total"
 
 msgid "unit_diva_status_titla_music_exp"
-msgstr "Level"
+msgstr "Proficiency"
 
 msgid "popup_unit_disp_type_scene"
 msgstr "Plate"
@@ -6130,7 +6134,7 @@ msgid "popup_sort_item_default"
 msgstr ""
 
 msgid "popup_sort_item_musiclevel"
-msgstr ""
+msgstr "Song Lv."
 
 msgid "popup_sort_item_highscore"
 msgstr ""
