@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2025-09-20 05:17+0000\n"
+"PO-Revision-Date: 2026-02-22 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master_sns/en/>\n"
@@ -273,334 +273,334 @@ msgid "sns_dsc_0087"
 msgstr ""
 
 msgid "sns_dsc_0101"
-msgstr ""
+msgstr "Freyja Level 2"
 
 msgid "sns_dsc_0102"
-msgstr ""
+msgstr "Freyja Level ４"
 
 msgid "sns_dsc_0103"
-msgstr ""
+msgstr "Freyja Level ７"
 
 msgid "sns_dsc_0104"
-msgstr ""
+msgstr "Freyja Level 10"
 
 msgid "sns_dsc_0105"
-msgstr ""
+msgstr "Freyja Level 12"
 
 msgid "sns_dsc_0106"
-msgstr ""
+msgstr "Freyja Level 17"
 
 msgid "sns_dsc_0107"
-msgstr ""
+msgstr "Freyja Level 20"
 
 msgid "sns_dsc_0108"
-msgstr ""
+msgstr "Freyja Level 25"
 
 msgid "sns_dsc_0109"
-msgstr ""
+msgstr "Freyja Level 30"
 
 msgid "sns_dsc_0110"
-msgstr ""
+msgstr "Freyja Level 35"
 
 msgid "sns_dsc_0111"
-msgstr ""
+msgstr "Freyja Level 40"
 
 msgid "sns_dsc_0114"
-msgstr ""
+msgstr "Mikumo Level 2"
 
 msgid "sns_dsc_0115"
-msgstr ""
+msgstr "Mikumo Level 4"
 
 msgid "sns_dsc_0116"
-msgstr ""
+msgstr "Mikumo Level 7"
 
 msgid "sns_dsc_0117"
-msgstr ""
+msgstr "Mikumo Level 10"
 
 msgid "sns_dsc_0118"
-msgstr ""
+msgstr "Mikumo Level 12"
 
 msgid "sns_dsc_0119"
-msgstr ""
+msgstr "Mikumo Level 17"
 
 msgid "sns_dsc_0120"
-msgstr ""
+msgstr "Mikumo Level 20"
 
 msgid "sns_dsc_0121"
-msgstr ""
+msgstr "Mikumo Level 25"
 
 msgid "sns_dsc_0122"
-msgstr ""
+msgstr "Mikumo Level 30"
 
 msgid "sns_dsc_0123"
-msgstr ""
+msgstr "Mikumo Level 35"
 
 msgid "sns_dsc_0124"
-msgstr ""
+msgstr "Mikumo Level 40"
 
 msgid "sns_dsc_0127"
-msgstr ""
+msgstr "Kaname Level 2"
 
 msgid "sns_dsc_0128"
-msgstr ""
+msgstr "Kaname Level 4"
 
 msgid "sns_dsc_0129"
-msgstr ""
+msgstr "Kaname Level 7"
 
 msgid "sns_dsc_0130"
-msgstr ""
+msgstr "Kaname Level 10"
 
 msgid "sns_dsc_0131"
-msgstr ""
+msgstr "Kaname Level 12"
 
 msgid "sns_dsc_0132"
-msgstr ""
+msgstr "Kaname Level 17"
 
 msgid "sns_dsc_0133"
-msgstr ""
+msgstr "Kaname Level 20"
 
 msgid "sns_dsc_0134"
-msgstr ""
+msgstr "Kaname Level 25"
 
 msgid "sns_dsc_0135"
-msgstr ""
+msgstr "Kaname Level 30"
 
 msgid "sns_dsc_0136"
-msgstr ""
+msgstr "Kaname Level 35"
 
 msgid "sns_dsc_0137"
-msgstr ""
+msgstr "Kaname Level 40"
 
 msgid "sns_dsc_0140"
-msgstr ""
+msgstr "Makina Level 2"
 
 msgid "sns_dsc_0141"
-msgstr ""
+msgstr "Makina Level 4"
 
 msgid "sns_dsc_0142"
-msgstr ""
+msgstr "Makina Level 7"
 
 msgid "sns_dsc_0143"
-msgstr ""
+msgstr "Makina Level 10"
 
 msgid "sns_dsc_0144"
-msgstr ""
+msgstr "Makina Level 12"
 
 msgid "sns_dsc_0145"
-msgstr ""
+msgstr "Makina Level 17"
 
 msgid "sns_dsc_0146"
-msgstr ""
+msgstr "Makina Level 20"
 
 msgid "sns_dsc_0147"
-msgstr ""
+msgstr "Makina Level 25"
 
 msgid "sns_dsc_0148"
-msgstr ""
+msgstr "Makina Level 30"
 
 msgid "sns_dsc_0149"
-msgstr ""
+msgstr "Makina Level 35"
 
 msgid "sns_dsc_0150"
-msgstr ""
+msgstr "Makina Level 40"
 
 msgid "sns_dsc_0153"
-msgstr ""
+msgstr "Reina Level 2"
 
 msgid "sns_dsc_0154"
-msgstr ""
+msgstr "Reina Level 4"
 
 msgid "sns_dsc_0155"
-msgstr ""
+msgstr "Reina Level 7"
 
 msgid "sns_dsc_0156"
-msgstr ""
+msgstr "Reina Level 10"
 
 msgid "sns_dsc_0157"
-msgstr ""
+msgstr "Reina Level 12"
 
 msgid "sns_dsc_0158"
-msgstr ""
+msgstr "Reina Level 17"
 
 msgid "sns_dsc_0159"
-msgstr ""
+msgstr "Reina Level 20"
 
 msgid "sns_dsc_0160"
-msgstr ""
+msgstr "Reina Level 25"
 
 msgid "sns_dsc_0161"
-msgstr ""
+msgstr "Reina Level 30"
 
 msgid "sns_dsc_0162"
-msgstr ""
+msgstr "Reina Level 35"
 
 msgid "sns_dsc_0163"
-msgstr ""
+msgstr "Reina Level 40"
 
 msgid "sns_dsc_0166"
-msgstr ""
+msgstr "Ranka Level 2"
 
 msgid "sns_dsc_0167"
-msgstr ""
+msgstr "Ranka Level 4"
 
 msgid "sns_dsc_0168"
-msgstr ""
+msgstr "Ranka Level 7"
 
 msgid "sns_dsc_0169"
-msgstr ""
+msgstr "Ranka Level 10"
 
 msgid "sns_dsc_0170"
-msgstr ""
+msgstr "Ranka Level 12"
 
 msgid "sns_dsc_0171"
-msgstr ""
+msgstr "Ranka Level 17"
 
 msgid "sns_dsc_0172"
-msgstr ""
+msgstr "Ranka Level 20"
 
 msgid "sns_dsc_0173"
-msgstr ""
+msgstr "Ranka Level 25"
 
 msgid "sns_dsc_0174"
-msgstr ""
+msgstr "Ranka Level 30"
 
 msgid "sns_dsc_0175"
-msgstr ""
+msgstr "Ranka Level 35"
 
 msgid "sns_dsc_0176"
-msgstr ""
+msgstr "Ranka Level 40"
 
 msgid "sns_dsc_0179"
-msgstr ""
+msgstr "Sheryl Level 2"
 
 msgid "sns_dsc_0180"
-msgstr ""
+msgstr "Sheryl Level 4"
 
 msgid "sns_dsc_0181"
-msgstr ""
+msgstr "Sheryl Level 7"
 
 msgid "sns_dsc_0182"
-msgstr ""
+msgstr "Sheryl Level 10"
 
 msgid "sns_dsc_0183"
-msgstr ""
+msgstr "Sheryl Level 12"
 
 msgid "sns_dsc_0184"
-msgstr ""
+msgstr "Sheryl Level 17"
 
 msgid "sns_dsc_0185"
-msgstr ""
+msgstr "Sheryl Level 20"
 
 msgid "sns_dsc_0186"
-msgstr ""
+msgstr "Sheryl Level 25"
 
 msgid "sns_dsc_0187"
-msgstr ""
+msgstr "Sheryl Level 30"
 
 msgid "sns_dsc_0188"
-msgstr ""
+msgstr "Sheryl Level 35"
 
 msgid "sns_dsc_0189"
-msgstr ""
+msgstr "Sheryl Level 40"
 
 msgid "sns_dsc_0192"
-msgstr ""
+msgstr "Mylene Level 2"
 
 msgid "sns_dsc_0193"
-msgstr ""
+msgstr "Mylene Level 4"
 
 msgid "sns_dsc_0194"
-msgstr ""
+msgstr "Mylene Level 7"
 
 msgid "sns_dsc_0195"
-msgstr ""
+msgstr "Mylene Level 10"
 
 msgid "sns_dsc_0196"
-msgstr ""
+msgstr "Mylene Level 12"
 
 msgid "sns_dsc_0197"
-msgstr ""
+msgstr "Mylene Level 17"
 
 msgid "sns_dsc_0198"
-msgstr ""
+msgstr "Mylene Level 20"
 
 msgid "sns_dsc_0199"
-msgstr ""
+msgstr "Mylene Level 25"
 
 msgid "sns_dsc_0200"
-msgstr ""
+msgstr "Mylene Level 30"
 
 msgid "sns_dsc_0201"
-msgstr ""
+msgstr "Mylene Level 35"
 
 msgid "sns_dsc_0202"
-msgstr ""
+msgstr "Mylene Level 40"
 
 msgid "sns_dsc_0205"
-msgstr ""
+msgstr "Basara Level 2"
 
 msgid "sns_dsc_0206"
-msgstr ""
+msgstr "Basara Level 4"
 
 msgid "sns_dsc_0207"
-msgstr ""
+msgstr "Basara Level 7"
 
 msgid "sns_dsc_0208"
-msgstr ""
+msgstr "Basara Level 10"
 
 msgid "sns_dsc_0209"
-msgstr ""
+msgstr "Basara Level 12"
 
 msgid "sns_dsc_0210"
-msgstr ""
+msgstr "Basara Level 17"
 
 msgid "sns_dsc_0211"
-msgstr ""
+msgstr "Basara Level 20"
 
 msgid "sns_dsc_0212"
-msgstr ""
+msgstr "Basara Level 25"
 
 msgid "sns_dsc_0213"
-msgstr ""
+msgstr "Basara Level 30"
 
 msgid "sns_dsc_0214"
-msgstr ""
+msgstr "Basara Level 35"
 
 msgid "sns_dsc_0215"
-msgstr ""
+msgstr "Basara Level 40"
 
 msgid "sns_dsc_0218"
-msgstr ""
+msgstr "Minmay Level 2"
 
 msgid "sns_dsc_0219"
-msgstr ""
+msgstr "Minmay Level 4"
 
 msgid "sns_dsc_0220"
-msgstr ""
+msgstr "Minmay Level 7"
 
 msgid "sns_dsc_0221"
-msgstr ""
+msgstr "Minmay Level 10"
 
 msgid "sns_dsc_0222"
-msgstr ""
+msgstr "Minmay Level 12"
 
 msgid "sns_dsc_0223"
-msgstr ""
+msgstr "Minmay Level 17"
 
 msgid "sns_dsc_0224"
-msgstr ""
+msgstr "Minmay Level 20"
 
 msgid "sns_dsc_0225"
-msgstr ""
+msgstr "Minmay Level 25"
 
 msgid "sns_dsc_0226"
-msgstr ""
+msgstr "Minmay Level 30"
 
 msgid "sns_dsc_0227"
-msgstr ""
+msgstr "Minmay Level 35"
 
 msgid "sns_dsc_0228"
-msgstr ""
+msgstr "Minmay Level 40"
 
 msgid "sns_dsc_0231"
 msgstr ""
@@ -2685,334 +2685,334 @@ msgid "sns_dsc2_0087"
 msgstr ""
 
 msgid "sns_dsc2_0101"
-msgstr ""
+msgstr "Level up Freyja to Level 2 to unlock"
 
 msgid "sns_dsc2_0102"
-msgstr ""
+msgstr "Level up Freyja to Level 4 to unlock"
 
 msgid "sns_dsc2_0103"
-msgstr ""
+msgstr "Level up Freyja to Level 7 to unlock"
 
 msgid "sns_dsc2_0104"
-msgstr ""
+msgstr "Level up Freyja to Level 10 to unlock"
 
 msgid "sns_dsc2_0105"
-msgstr ""
+msgstr "Level up Freyja to Level 12 to unlock"
 
 msgid "sns_dsc2_0106"
-msgstr ""
+msgstr "Level up Freyja to Level 17 to unlock"
 
 msgid "sns_dsc2_0107"
-msgstr ""
+msgstr "Level up Freyja to Level 20 to unlock"
 
 msgid "sns_dsc2_0108"
-msgstr ""
+msgstr "Level up Freyja to Level 25 to unlock"
 
 msgid "sns_dsc2_0109"
-msgstr ""
+msgstr "Level up Freyja to Level 30 to unlock"
 
 msgid "sns_dsc2_0110"
-msgstr ""
+msgstr "Level up Freyja to Level 35 to unlock"
 
 msgid "sns_dsc2_0111"
-msgstr ""
+msgstr "Level up Freyja to Level 40 to unlock"
 
 msgid "sns_dsc2_0114"
-msgstr ""
+msgstr "Level up Mikumo to Level 2 to unlock"
 
 msgid "sns_dsc2_0115"
-msgstr ""
+msgstr "Level up Mikumo to Level 4 to unlock"
 
 msgid "sns_dsc2_0116"
-msgstr ""
+msgstr "Level up Mikumo to Level 7 to unlock"
 
 msgid "sns_dsc2_0117"
-msgstr ""
+msgstr "Level up Mikumo to Level 10 to unlock"
 
 msgid "sns_dsc2_0118"
-msgstr ""
+msgstr "Level up Mikumo to Level 12 to unlock"
 
 msgid "sns_dsc2_0119"
-msgstr ""
+msgstr "Level up Mikumo to Level 17 to unlock"
 
 msgid "sns_dsc2_0120"
-msgstr ""
+msgstr "Level up Mikumo to Level 20 to unlock"
 
 msgid "sns_dsc2_0121"
-msgstr ""
+msgstr "Level up Mikumo to Level 25 to unlock"
 
 msgid "sns_dsc2_0122"
-msgstr ""
+msgstr "Level up Mikumo to Level 30 to unlock"
 
 msgid "sns_dsc2_0123"
-msgstr ""
+msgstr "Level up Mikumo to Level 35 to unlock"
 
 msgid "sns_dsc2_0124"
-msgstr ""
+msgstr "Level up Mikumo to Level 40 to unlock"
 
 msgid "sns_dsc2_0127"
-msgstr ""
+msgstr "Level up Kaname to Level 2 to unlock"
 
 msgid "sns_dsc2_0128"
-msgstr ""
+msgstr "Level up Kaname to Level 4 to unlock"
 
 msgid "sns_dsc2_0129"
-msgstr ""
+msgstr "Level up Kaname to Level 7 to unlock"
 
 msgid "sns_dsc2_0130"
-msgstr ""
+msgstr "Level up Kaname to Level 10 to unlock"
 
 msgid "sns_dsc2_0131"
-msgstr ""
+msgstr "Level up Kaname to Level 12 to unlock"
 
 msgid "sns_dsc2_0132"
-msgstr ""
+msgstr "Level up Kaname to Level 17 to unlock"
 
 msgid "sns_dsc2_0133"
-msgstr ""
+msgstr "Level up Kaname to Level 20 to unlock"
 
 msgid "sns_dsc2_0134"
-msgstr ""
+msgstr "Level up Kaname to Level 25 to unlock"
 
 msgid "sns_dsc2_0135"
-msgstr ""
+msgstr "Level up Kaname to Level 30 to unlock"
 
 msgid "sns_dsc2_0136"
-msgstr ""
+msgstr "Level up Kaname to Level 35 to unlock"
 
 msgid "sns_dsc2_0137"
-msgstr ""
+msgstr "Level up Kaname to Level 40 to unlock"
 
 msgid "sns_dsc2_0140"
-msgstr ""
+msgstr "Level up Makina to Level 2 to unlock"
 
 msgid "sns_dsc2_0141"
-msgstr ""
+msgstr "Level up Makina to Level 4 to unlock"
 
 msgid "sns_dsc2_0142"
-msgstr ""
+msgstr "Level up Makina to Level 7 to unlock"
 
 msgid "sns_dsc2_0143"
-msgstr ""
+msgstr "Level up Makina to Level 10 to unlock"
 
 msgid "sns_dsc2_0144"
-msgstr ""
+msgstr "Level up Makina to Level 12 to unlock"
 
 msgid "sns_dsc2_0145"
-msgstr ""
+msgstr "Level up Makina to Level 17 to unlock"
 
 msgid "sns_dsc2_0146"
-msgstr ""
+msgstr "Level up Makina to Level 20 to unlock"
 
 msgid "sns_dsc2_0147"
-msgstr ""
+msgstr "Level up Makina to Level 25 to unlock"
 
 msgid "sns_dsc2_0148"
-msgstr ""
+msgstr "Level up Makina to Level 30 to unlock"
 
 msgid "sns_dsc2_0149"
-msgstr ""
+msgstr "Level up Makina to Level 35 to unlock"
 
 msgid "sns_dsc2_0150"
-msgstr ""
+msgstr "Level up Makina to Level 40 to unlock"
 
 msgid "sns_dsc2_0153"
-msgstr ""
+msgstr "Level up Reina to Level 2 to unlock"
 
 msgid "sns_dsc2_0154"
-msgstr ""
+msgstr "Level up Reina to Level 4 to unlock"
 
 msgid "sns_dsc2_0155"
-msgstr ""
+msgstr "Level up Reina to Level 7 to unlock"
 
 msgid "sns_dsc2_0156"
-msgstr ""
+msgstr "Level up Reina to Level 10 to unlock"
 
 msgid "sns_dsc2_0157"
-msgstr ""
+msgstr "Level up Reina to Level 12 to unlock"
 
 msgid "sns_dsc2_0158"
-msgstr ""
+msgstr "Level up Reina to Level 17 to unlock"
 
 msgid "sns_dsc2_0159"
-msgstr ""
+msgstr "Level up Reina to Level 20 to unlock"
 
 msgid "sns_dsc2_0160"
-msgstr ""
+msgstr "Level up Reina to Level 25 to unlock"
 
 msgid "sns_dsc2_0161"
-msgstr ""
+msgstr "Level up Reina to Level 30 to unlock"
 
 msgid "sns_dsc2_0162"
-msgstr ""
+msgstr "Level up Reina to Level 35 to unlock"
 
 msgid "sns_dsc2_0163"
-msgstr ""
+msgstr "Level up Reina to Level 40 to unlock"
 
 msgid "sns_dsc2_0166"
-msgstr ""
+msgstr "Level up Ranka to Level 2 to unlock"
 
 msgid "sns_dsc2_0167"
-msgstr ""
+msgstr "Level up Ranka to Level ４ to unlock"
 
 msgid "sns_dsc2_0168"
-msgstr ""
+msgstr "Level up Ranka to Level ７ to unlock"
 
 msgid "sns_dsc2_0169"
-msgstr ""
+msgstr "Level up Ranka to Level 10 to unlock"
 
 msgid "sns_dsc2_0170"
-msgstr ""
+msgstr "Level up Ranka to Level 12 to unlock"
 
 msgid "sns_dsc2_0171"
-msgstr ""
+msgstr "Level up Ranka to Level 17 to unlock"
 
 msgid "sns_dsc2_0172"
-msgstr ""
+msgstr "Level up Ranka to Level 20 to unlock"
 
 msgid "sns_dsc2_0173"
-msgstr ""
+msgstr "Level up Ranka to Level 25 to unlock"
 
 msgid "sns_dsc2_0174"
-msgstr ""
+msgstr "Level up Ranka to Level 30 to unlock"
 
 msgid "sns_dsc2_0175"
-msgstr ""
+msgstr "Level up Ranka to Level 35 to unlock"
 
 msgid "sns_dsc2_0176"
-msgstr ""
+msgstr "Level up Ranka to Level 40 to unlock"
 
 msgid "sns_dsc2_0179"
-msgstr ""
+msgstr "Level up Sheryl to Level 2 to unlock"
 
 msgid "sns_dsc2_0180"
-msgstr ""
+msgstr "Level up Sheryl to Level 4 to unlock"
 
 msgid "sns_dsc2_0181"
-msgstr ""
+msgstr "Level up Sheryl to Level 7 to unlock"
 
 msgid "sns_dsc2_0182"
-msgstr ""
+msgstr "Level up Sheryl to Level 10 to unlock"
 
 msgid "sns_dsc2_0183"
-msgstr ""
+msgstr "Level up Sheryl to Level 12 to unlock"
 
 msgid "sns_dsc2_0184"
-msgstr ""
+msgstr "Level up Sheryl to Level 17 to unlock"
 
 msgid "sns_dsc2_0185"
-msgstr ""
+msgstr "Level up Sheryl to Level 20 to unlock"
 
 msgid "sns_dsc2_0186"
-msgstr ""
+msgstr "Level up Sheryl to Level 25 to unlock"
 
 msgid "sns_dsc2_0187"
-msgstr ""
+msgstr "Level up Sheryl to Level 30 to unlock"
 
 msgid "sns_dsc2_0188"
-msgstr ""
+msgstr "Level up Sheryl to Level 35 to unlock"
 
 msgid "sns_dsc2_0189"
-msgstr ""
+msgstr "Level up Sheryl to Level 40 to unlock"
 
 msgid "sns_dsc2_0192"
-msgstr ""
+msgstr "Level up Mylene to Level 2 to unlock"
 
 msgid "sns_dsc2_0193"
-msgstr ""
+msgstr "Level up Mylene to Level 4 to unlock"
 
 msgid "sns_dsc2_0194"
-msgstr ""
+msgstr "Level up Mylene to Level 7 to unlock"
 
 msgid "sns_dsc2_0195"
-msgstr ""
+msgstr "Level up Mylene to Level 10 to unlock"
 
 msgid "sns_dsc2_0196"
-msgstr ""
+msgstr "Level up Mylene to Level 12 to unlock"
 
 msgid "sns_dsc2_0197"
-msgstr ""
+msgstr "Level up Mylene to Level 17 to unlock"
 
 msgid "sns_dsc2_0198"
-msgstr ""
+msgstr "Level up Mylene to Level 20 to unlock"
 
 msgid "sns_dsc2_0199"
-msgstr ""
+msgstr "Level up Mylene to Level 25 to unlock"
 
 msgid "sns_dsc2_0200"
-msgstr ""
+msgstr "Level up Mylene to Level 30 to unlock"
 
 msgid "sns_dsc2_0201"
-msgstr ""
+msgstr "Level up Mylene to Level 35 to unlock"
 
 msgid "sns_dsc2_0202"
-msgstr ""
+msgstr "Level up Mylene to Level 40 to unlock"
 
 msgid "sns_dsc2_0205"
-msgstr ""
+msgstr "Level up Basara to Level 2 to unlock"
 
 msgid "sns_dsc2_0206"
-msgstr ""
+msgstr "Level up Basara to Level 4 to unlock"
 
 msgid "sns_dsc2_0207"
-msgstr ""
+msgstr "Level up Basara to Level 7 to unlock"
 
 msgid "sns_dsc2_0208"
-msgstr ""
+msgstr "Level up Basara to Level 10 to unlock"
 
 msgid "sns_dsc2_0209"
-msgstr ""
+msgstr "Level up Basara to Level 12 to unlock"
 
 msgid "sns_dsc2_0210"
-msgstr ""
+msgstr "Level up Basara to Level 17 to unlock"
 
 msgid "sns_dsc2_0211"
-msgstr ""
+msgstr "Level up Basara to Level 20 to unlock"
 
 msgid "sns_dsc2_0212"
-msgstr ""
+msgstr "Level up Basara to Level 25 to unlock"
 
 msgid "sns_dsc2_0213"
-msgstr ""
+msgstr "Level up Basara to Level 30 to unlock"
 
 msgid "sns_dsc2_0214"
-msgstr ""
+msgstr "Level up Basara to Level 35 to unlock"
 
 msgid "sns_dsc2_0215"
-msgstr ""
+msgstr "Level up Basara to Level 40 to unlock"
 
 msgid "sns_dsc2_0218"
-msgstr ""
+msgstr "Level up Minmay to Level 2 to unlock"
 
 msgid "sns_dsc2_0219"
-msgstr ""
+msgstr "Level up Minmay to Level 4 to unlock"
 
 msgid "sns_dsc2_0220"
-msgstr ""
+msgstr "Level up Minmay to Level 7 to unlock"
 
 msgid "sns_dsc2_0221"
-msgstr ""
+msgstr "Level up Minmay to Level 10 to unlock"
 
 msgid "sns_dsc2_0222"
-msgstr ""
+msgstr "Level up Minmay to Level 12 to unlock"
 
 msgid "sns_dsc2_0223"
-msgstr ""
+msgstr "Level up Minmay to Level 17 to unlock"
 
 msgid "sns_dsc2_0224"
-msgstr ""
+msgstr "Level up Minmay to Level 20 to unlock"
 
 msgid "sns_dsc2_0225"
-msgstr ""
+msgstr "Level up Minmay to Level 25 to unlock"
 
 msgid "sns_dsc2_0226"
-msgstr ""
+msgstr "Level up Minmay to Level 30 to unlock"
 
 msgid "sns_dsc2_0227"
-msgstr ""
+msgstr "Level up Minmay to Level 35 to unlock"
 
 msgid "sns_dsc2_0228"
-msgstr ""
+msgstr "Level up Minmay to Level 40 to unlock"
 
 msgid "sns_dsc2_0231"
 msgstr ""
