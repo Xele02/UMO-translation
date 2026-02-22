@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-04 15:57+0000\n"
-"PO-Revision-Date: 2025-05-02 11:46+0000\n"
+"PO-Revision-Date: 2026-02-22 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/en/>\n"
@@ -81,11 +81,11 @@ msgstr "Clear 3 songs in Super Diva Mode"
 
 msgid "bingo_0001_0001_0009_desc"
 msgstr ""
-"Achieve Level\n"
-"4 on any Diva"
+"Level up a\n"
+"Diva to Lv. 4"
 
 msgid "bingo_0001_0001_0009_cond"
-msgstr "Achieve Level 4 on any Diva"
+msgstr "Level up any Diva to Level 4"
 
 msgid "bingo_0001_0001_0010_desc"
 msgstr ""
@@ -117,9 +117,11 @@ msgstr "Use Live Skill \"Score+\" and clear stage"
 
 msgid "bingo_0001_0001_0013_desc"
 msgstr ""
+"Level up a\n"
+"Diva to Lv. 8"
 
 msgid "bingo_0001_0001_0013_cond"
-msgstr ""
+msgstr "Level up any Diva to Lv. 8"
 
 msgid "bingo_0001_0001_0014_desc"
 msgstr ""
@@ -183,9 +185,12 @@ msgstr ""
 
 msgid "bingo_0001_0001_0024_desc"
 msgstr ""
+"Level up a\n"
+"Diva's bond\n"
+"lv. to Lv. 10"
 
 msgid "bingo_0001_0001_0024_cond"
-msgstr ""
+msgstr "Level up any Diva's bond level to Level 10"
 
 msgid "bingo_0001_0001_0025_desc"
 msgstr ""
@@ -1024,6 +1029,8 @@ msgstr ""
 
 msgid "bingo_0005_0005_0010_cond"
 msgstr ""
+"Level up Episode Plate \"New Year\n"
+"Family Gathering\" to Level 70"
 
 msgid "bingo_0005_0005_0011_desc"
 msgstr ""
@@ -1069,6 +1076,8 @@ msgstr ""
 
 msgid "bingo_0005_0005_0018_desc"
 msgstr ""
+"Level up any Diva\n"
+"to Level 3"
 
 msgid "bingo_0005_0005_0018_cond"
 msgstr ""
