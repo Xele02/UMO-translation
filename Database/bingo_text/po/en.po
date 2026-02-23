@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-04 15:57+0000\n"
-"PO-Revision-Date: 2026-02-23 06:09+0000\n"
+"PO-Revision-Date: 2026-02-23 08:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/en/>\n"
@@ -167,9 +167,14 @@ msgstr ""
 
 msgid "bingo_0001_0001_0021_desc"
 msgstr ""
+"Upgrade\n"
+"costume\n"
+"to rank 2"
 
 msgid "bingo_0001_0001_0021_cond"
 msgstr ""
+"Upgrade any costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0001_0001_0022_desc"
 msgstr ""
@@ -753,60 +758,80 @@ msgstr ""
 
 msgid "bingo_0003_0003_0063_cond"
 msgstr ""
+"Upgrade a Freyja costume\n"
+"to kyawawa rank 3"
 
 msgid "bingo_0003_0003_0064_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0064_cond"
 msgstr ""
+"Upgrade a Mikumo costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0065_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0065_cond"
 msgstr ""
+"Upgrade a Kaname costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0066_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0066_cond"
 msgstr ""
+"Upgrade a Makina costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0067_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0067_cond"
 msgstr ""
+"Upgrade a Reina costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0068_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0068_cond"
 msgstr ""
+"Upgrade a Ranka costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0069_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0069_cond"
 msgstr ""
+"Upgrade a Sheryl costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0070_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0070_cond"
 msgstr ""
+"Upgrade a Mylene costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0071_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0071_cond"
 msgstr ""
+"Upgrade a Basara costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0003_0003_0072_desc"
 msgstr ""
 
 msgid "bingo_0003_0003_0072_cond"
 msgstr ""
+"Upgrade a Minmay costume\n"
+"to kyawawa rank 2"
 
 msgid "bingo_0004_0004_0001_desc"
 msgstr ""
