@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-02-22 17:09+0000\n"
+"PO-Revision-Date: 2026-02-23 06:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "tipsdb_text/en/>\n"
@@ -91,6 +91,8 @@ msgstr ""
 
 msgid "tips_0012_msg"
 msgstr ""
+"Upgrade Episode Plates by\n"
+"unlocking Abilities!"
 
 msgid "tips_0013_title"
 msgstr ""
@@ -327,6 +329,8 @@ msgstr ""
 
 msgid "tips_0051_msg"
 msgstr ""
+"If a song is too difficult to clear,\n"
+"I recommend upgrading your HP"
 
 msgid "tips_0052_title"
 msgstr ""
@@ -345,6 +349,8 @@ msgstr ""
 
 msgid "tips_0054_msg"
 msgstr ""
+"Are your total scores too low?\n"
+"Then upgrade your Plates!"
 
 msgid "tips_0055_title"
 msgstr ""
@@ -461,10 +467,12 @@ msgid "tips_0073_msg"
 msgstr ""
 
 msgid "tips_0074_title"
-msgstr ""
+msgstr "What are costume upgrades?"
 
 msgid "tips_0074_msg"
 msgstr ""
+"You can upgrade your costumes. You\n"
+"might unlock some kyawawaaa colors!"
 
 msgid "tips_0075_title"
 msgstr ""
@@ -503,7 +511,7 @@ msgid "tips_0080_msg"
 msgstr ""
 
 msgid "tips_0081_title"
-msgstr ""
+msgstr "What are Valkyrie upgrades?"
 
 msgid "tips_0081_msg"
 msgstr ""
