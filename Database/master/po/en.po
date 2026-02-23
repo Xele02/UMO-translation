@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-02-22 17:09+0000\n"
+"PO-Revision-Date: 2026-02-23 06:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -3043,8 +3043,8 @@ msgstr ""
 
 msgid "el_nm_0004"
 msgstr ""
-"The Song of Destruction is boosting the enemy during this song! Raise your "
-"Support stats and take them on in Valkyrie Mode!"
+"The Song of Destruction is powering the enemy up during this song! Raise "
+"your Support stats and take them on in Valkyrie Mode!"
 
 msgid "el_nm_0005"
 msgstr ""
@@ -3787,17 +3787,17 @@ msgstr "Kyawawa Doll (Minmay)"
 
 msgid "cs_i_dsc_0001"
 msgstr ""
-"An item that boosts Costumes a little.\n"
+"An item that upgrades Costumes a little.\n"
 "<color=#C8087E>- Get them from Valkyrie Operations and other sources.</color>"
 
 msgid "cs_i_dsc_0002"
 msgstr ""
-"An item that boosts Costumes.\n"
+"An item that upgrades Costumes.\n"
 "<color=#C8087E>- Get them from Valkyrie Operations and other sources.</color>"
 
 msgid "cs_i_dsc_0003"
 msgstr ""
-"An item that boosts Costumes a lot.\n"
+"An item that upgrades Costumes a lot.\n"
 "<color=#C8087E>- Get them from Valkyrie Operations and other sources.</color>"
 
 msgid "cs_i_dsc_0004"
@@ -3861,13 +3861,13 @@ msgstr ""
 "sources.</color>"
 
 msgid "cs_i_dsc_short_0001"
-msgstr "Item that boosts Costumes a little."
+msgstr "Upgrades Costumes a little."
 
 msgid "cs_i_dsc_short_0002"
-msgstr "Item that boosts Costumes."
+msgstr "Item that upgrades Costumes."
 
 msgid "cs_i_dsc_short_0003"
-msgstr "Item that boosts Costumes a lot."
+msgstr "Upgrades Costumes a lot."
 
 msgid "cos_0001"
 msgstr "Walküre Uniform"
@@ -4977,22 +4977,22 @@ msgid "cos_0029_01"
 msgstr "Verbotene"
 
 msgid "cos_0030_01"
-msgstr ""
+msgstr "Schwarze Teezeit"
 
 msgid "cos_0031_01"
 msgstr "Sternen Kastanie"
 
 msgid "cos_0032_01"
-msgstr ""
+msgstr "Mikumo Costume 012"
 
 msgid "cos_0033_01"
-msgstr ""
+msgstr "Mikumo Costume 013"
 
 msgid "cos_0034_01"
-msgstr ""
+msgstr "Mikumo Costume 014"
 
 msgid "cos_0035_01"
-msgstr ""
+msgstr "Rosen Officer"
 
 msgid "cos_0036_01"
 msgstr ""
@@ -16124,52 +16124,54 @@ msgid "qn_dsc_0959"
 msgstr ""
 
 msgid "qn_dsc_0960"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks twice in Costume Upgrades"
 
 msgid "qn_dsc_0961"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 5 times in Costume Upgrades"
 
 msgid "qn_dsc_0962"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 10 times in Costume Upgrades"
 
 msgid "qn_dsc_0963"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 15 times in Costume Upgrades"
 
 msgid "qn_dsc_0964"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 20 times in Costume Upgrades"
 
 msgid "qn_dsc_0965"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 25 times in Costume Upgrades"
 
 msgid "qn_dsc_0966"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 30 times in Costume Upgrades"
 
 msgid "qn_dsc_0967"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 40 times in Costume Upgrades"
 
 msgid "qn_dsc_0968"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 50 times in Costume Upgrades"
 
 msgid "qn_dsc_0969"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 60 times in Costume Upgrades"
 
 msgid "qn_dsc_0970"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 70 times in Costume Upgrades"
 
 msgid "qn_dsc_0971"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 80 times in Costume Upgrades"
 
 msgid "qn_dsc_0972"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 90 times in Costume Upgrades"
 
 msgid "qn_dsc_0973"
-msgstr ""
+msgstr "Rank up costume Kyawawa Ranks 100 times in Costume Upgrades"
 
 msgid "qn_dsc_0974"
 msgstr ""
 
 msgid "qn_dsc_0975"
 msgstr ""
+"Complete Valkyrie Operations 10 times as\n"
+"well as the Costume Upgrades tutorial"
 
 msgid "qn_dsc_0976"
 msgstr ""
@@ -16679,40 +16681,62 @@ msgid "qn_dsc_1145"
 msgstr ""
 
 msgid "qn_dsc_1146"
-msgstr ""
+msgstr "Reach player rank 9 to unlock Valkyrie upgrades"
 
 msgid "qn_dsc_1147"
 msgstr ""
+"Tune up Valkyries 5 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1148"
 msgstr ""
+"Tune up Valkyries 10 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1149"
 msgstr ""
+"Tune up Valkyries 20 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1150"
 msgstr ""
+"Tune up Valkyries 30 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1151"
 msgstr ""
+"Tune up Valkyries 40 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1152"
 msgstr ""
+"Tune up Valkyries 50 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1153"
 msgstr ""
+"Tune up Valkyries 60 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1154"
 msgstr ""
+"Tune up Valkyries 70 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1155"
 msgstr ""
+"Tune up Valkyries 80 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1156"
 msgstr ""
+"Tune up Valkyries 90 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1157"
 msgstr ""
+"Tune up Valkyries 100 times\n"
+"in Valkyrie Upgrades"
 
 msgid "qn_dsc_1158"
 msgstr ""
@@ -23132,7 +23156,7 @@ msgid "adv_nm_0088"
 msgstr ""
 
 msgid "adv_nm_0109"
-msgstr ""
+msgstr "Opening (Valkyrie Upgrades)"
 
 msgid "adv_nm_0110"
 msgstr ""
