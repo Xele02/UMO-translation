@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-02-23 06:09+0000\n"
+"PO-Revision-Date: 2026-02-23 08:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/en/>\n"
@@ -234,7 +234,7 @@ msgid "help_0006_0003_name"
 msgstr ""
 
 msgid "help_0006_0004_name"
-msgstr ""
+msgstr "Upgrading costumes"
 
 msgid "help_0006_0005_name"
 msgstr ""
@@ -261,7 +261,7 @@ msgid "help_0007_0003_name"
 msgstr ""
 
 msgid "help_0007_0004_name"
-msgstr ""
+msgstr "Upgrading costumes"
 
 msgid "help_0007_0005_name"
 msgstr ""
@@ -639,7 +639,7 @@ msgid "help_0028_0002_name"
 msgstr ""
 
 msgid "help_0029_0000_name"
-msgstr ""
+msgstr "Upgrading costumes"
 
 msgid "help_0029_0001_name"
 msgstr ""
@@ -1143,7 +1143,7 @@ msgid "help_0072_0003_name"
 msgstr ""
 
 msgid "help_0072_0004_name"
-msgstr ""
+msgstr "Upgrading costumes"
 
 msgid "help_0072_0005_name"
 msgstr ""
@@ -1248,7 +1248,7 @@ msgid "help_0076_0001_name"
 msgstr ""
 
 msgid "help_0077_0000_name"
-msgstr ""
+msgstr "Upgrading costumes"
 
 msgid "help_0077_0001_name"
 msgstr ""
