@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-02-22 17:09+0000\n"
+"PO-Revision-Date: 2026-02-23 06:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "helpbrowserdb_text/en/>\n"
@@ -240,7 +240,7 @@ msgid "help_0006_0005_name"
 msgstr ""
 
 msgid "help_0006_0006_name"
-msgstr ""
+msgstr "Upgrading Valkyries"
 
 msgid "wiki_0006_0000_name"
 msgstr "Tips for raising Diva levels"
@@ -267,7 +267,7 @@ msgid "help_0007_0005_name"
 msgstr ""
 
 msgid "help_0007_0006_name"
-msgstr ""
+msgstr "Upgrading Valkyries"
 
 msgid "wiki_0007_0000_name"
 msgstr "Tips for raising Diva levels"
@@ -708,10 +708,10 @@ msgid "help_0036_0000_name"
 msgstr ""
 
 msgid "help_0037_0000_name"
-msgstr ""
+msgstr "Upgrading Valkyries"
 
 msgid "help_0038_0000_name"
-msgstr ""
+msgstr "Upgrading Valkyries"
 
 msgid "help_0039_0000_name"
 msgstr ""
@@ -1149,7 +1149,7 @@ msgid "help_0072_0005_name"
 msgstr ""
 
 msgid "help_0072_0006_name"
-msgstr ""
+msgstr "Upgrading Valkyries"
 
 msgid "wiki_0072_0000_name"
 msgstr "Tips for raising Diva levels"
