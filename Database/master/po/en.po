@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-02-23 06:09+0000\n"
+"PO-Revision-Date: 2026-02-24 23:49+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4899,7 +4899,7 @@ msgid "cos_0003_01"
 msgstr "Rotkäppchen"
 
 msgid "cos_0004_01"
-msgstr "Rot Blume"
+msgstr "Rote Blume"
 
 msgid "cos_0005_01"
 msgstr "Kimono Stil"
@@ -4995,19 +4995,19 @@ msgid "cos_0035_01"
 msgstr "Rosen Officer"
 
 msgid "cos_0036_01"
-msgstr ""
+msgstr "Mikumo Costume 016"
 
 msgid "cos_0037_01"
-msgstr ""
+msgstr "Mikumo Costume 017"
 
 msgid "cos_0038_01"
-msgstr ""
+msgstr "Mikumo Costume 018"
 
 msgid "cos_0039_01"
-msgstr ""
+msgstr "Mikumo Costume 019"
 
 msgid "cos_0040_01"
-msgstr ""
+msgstr "Mikumo Costume 020"
 
 msgid "cos_0041_01"
 msgstr "Walküre Uniform"
@@ -5016,7 +5016,7 @@ msgid "cos_0042_01"
 msgstr "Neo Strahl"
 
 msgid "cos_0043_01"
-msgstr ""
+msgstr "Rote Blume"
 
 msgid "cos_0044_01"
 msgstr "Schwarze Frühling"
@@ -5040,34 +5040,34 @@ msgid "cos_0050_01"
 msgstr "Leidenschaft"
 
 msgid "cos_0051_01"
-msgstr ""
+msgstr "Cosmic Iris"
 
 msgid "cos_0052_01"
-msgstr ""
+msgstr "Kaname Costume 012"
 
 msgid "cos_0053_01"
-msgstr ""
+msgstr "Kaname Costume 013"
 
 msgid "cos_0054_01"
-msgstr ""
+msgstr "Kaname Costume 014"
 
 msgid "cos_0055_01"
-msgstr ""
+msgstr "Kaname Costume 015"
 
 msgid "cos_0056_01"
-msgstr ""
+msgstr "Kaname Costume 016"
 
 msgid "cos_0057_01"
 msgstr "Sturm Stoß"
 
 msgid "cos_0058_01"
-msgstr ""
+msgstr "Kaname Costume 018"
 
 msgid "cos_0059_01"
-msgstr ""
+msgstr "Kaname Costume 019"
 
 msgid "cos_0060_01"
-msgstr ""
+msgstr "Sternen Dämmerung"
 
 msgid "cos_0061_01"
 msgstr "Walküre Uniform"
@@ -5079,7 +5079,7 @@ msgid "cos_0063_01"
 msgstr "Pastel Summer"
 
 msgid "cos_0064_01"
-msgstr ""
+msgstr "Royal Bells"
 
 msgid "cos_0065_01"
 msgstr "Schwarze Katze"
@@ -5097,37 +5097,37 @@ msgid "cos_0069_01"
 msgstr "Sturm Stoß"
 
 msgid "cos_0070_01"
-msgstr ""
+msgstr "Makina Costume 010"
 
 msgid "cos_0071_01"
-msgstr ""
+msgstr "Sternen Äther"
 
 msgid "cos_0072_01"
-msgstr ""
+msgstr "Rote Blume"
 
 msgid "cos_0073_01"
-msgstr ""
+msgstr "Makina Costume 013"
 
 msgid "cos_0074_01"
-msgstr ""
+msgstr "Makina Costume 014"
 
 msgid "cos_0075_01"
-msgstr ""
+msgstr "Makina Costume 015"
 
 msgid "cos_0076_01"
-msgstr ""
+msgstr "Makina Costume 016"
 
 msgid "cos_0077_01"
-msgstr ""
+msgstr "Makina Costume 017"
 
 msgid "cos_0078_01"
-msgstr ""
+msgstr "Makina Costume 018"
 
 msgid "cos_0079_01"
-msgstr ""
+msgstr "Makina Costume 019"
 
 msgid "cos_0080_01"
-msgstr ""
+msgstr "Makina Costume 020"
 
 msgid "cos_0081_01"
 msgstr "Walküre Uniform"
@@ -5151,55 +5151,55 @@ msgid "cos_0087_01"
 msgstr "Sturm Stoß"
 
 msgid "cos_0088_01"
-msgstr ""
+msgstr "Reina Costume 008"
 
 msgid "cos_0089_01"
-msgstr ""
+msgstr "Reina Costume 009"
 
 msgid "cos_0090_01"
-msgstr ""
+msgstr "Rote Blume"
 
 msgid "cos_0091_01"
 msgstr "Leidenschaft"
 
 msgid "cos_0092_01"
-msgstr ""
+msgstr "Sternen Olive"
 
 msgid "cos_0093_01"
-msgstr ""
+msgstr "Reina Costume 013"
 
 msgid "cos_0094_01"
-msgstr ""
+msgstr "Reina Costume 014"
 
 msgid "cos_0095_01"
-msgstr ""
+msgstr "Reina Costume 015"
 
 msgid "cos_0096_01"
-msgstr ""
+msgstr "Reina Costume 016"
 
 msgid "cos_0097_01"
-msgstr ""
+msgstr "Reina Costume 017"
 
 msgid "cos_0098_01"
-msgstr ""
+msgstr "Reina Costume 018"
 
 msgid "cos_0099_01"
-msgstr ""
+msgstr "Reina Costume 019"
 
 msgid "cos_0100_01"
-msgstr ""
+msgstr "Reina Costume 020"
 
 msgid "cos_0101_01"
 msgstr "St Mary's Academy Uniform"
 
 msgid "cos_0102_01"
-msgstr ""
+msgstr "Starlit Milky"
 
 msgid "cos_0103_01"
 msgstr "Wish of Valkyria"
 
 msgid "cos_0105_01"
-msgstr ""
+msgstr "Pumpkin Witch"
 
 msgid "cos_0106_01"
 msgstr "Goldfish Tail"
@@ -5214,7 +5214,7 @@ msgid "cos_0109_01"
 msgstr "L'Étale en Bleu"
 
 msgid "cos_0110_01"
-msgstr ""
+msgstr "Mandshurica Stella"
 
 msgid "cos_0111_01"
 msgstr "Ranka Blossom"
@@ -5226,13 +5226,13 @@ msgid "cos_0113_01"
 msgstr "Jolly Rose"
 
 msgid "cos_0114_01"
-msgstr ""
+msgstr "Crossover Peach"
 
 msgid "cos_0115_01"
 msgstr "Fluffy Stella"
 
 msgid "cos_0116_01"
-msgstr ""
+msgstr "Magnifique Éclat"
 
 msgid "cos_0117_01"
 msgstr "Lazurite Teen"
@@ -5241,16 +5241,16 @@ msgid "cos_0118_01"
 msgstr "Mignon Noël"
 
 msgid "cos_0119_01"
-msgstr ""
+msgstr "Ranka Costume 019"
 
 msgid "cos_0120_01"
-msgstr ""
+msgstr "Ranka Costume 020"
 
 msgid "cos_0121_01"
 msgstr "Off Shoulder"
 
 msgid "cos_0122_01"
-msgstr ""
+msgstr "Crimson Bondage"
 
 msgid "cos_0123_01"
 msgstr "Count Baby"
@@ -5265,7 +5265,7 @@ msgid "cos_0126_01"
 msgstr "Amour Amer"
 
 msgid "cos_0127_01"
-msgstr ""
+msgstr "Cardinal Red Stella"
 
 msgid "cos_0128_01"
 msgstr "Reine d'Épines"
@@ -5280,16 +5280,16 @@ msgid "cos_0131_01"
 msgstr "Cheerful Ruby"
 
 msgid "cos_0132_01"
-msgstr ""
+msgstr "Crossover Rouge"
 
 msgid "cos_0133_01"
 msgstr "Vesta Gorgeous"
 
 msgid "cos_0134_01"
-msgstr ""
+msgstr "Magnifique Cool  "
 
 msgid "cos_0135_01"
-msgstr ""
+msgstr "Saint-de-Orléans"
 
 msgid "cos_0136_01"
 msgstr "Sugar Berry Baby"
@@ -5298,7 +5298,7 @@ msgid "cos_0137_01"
 msgstr "Brilliant Noël"
 
 msgid "cos_0138_01"
-msgstr ""
+msgstr "Sheryl Costume 018"
 
 msgid "cos_0139_01"
 msgstr "Crimson Scarlet Queen"
@@ -5310,7 +5310,7 @@ msgid "cos_0141_01"
 msgstr "Bomber Live"
 
 msgid "cos_0142_01"
-msgstr ""
+msgstr "Dynamite Beat"
 
 msgid "cos_0143_01"
 msgstr "Crossover Girl"
@@ -5331,43 +5331,43 @@ msgid "cos_0148_01"
 msgstr "Jester Rabbit"
 
 msgid "cos_0149_01"
-msgstr ""
+msgstr "Mylene Costume 009"
 
 msgid "cos_0150_01"
-msgstr ""
+msgstr "Holy Vintage"
 
 msgid "cos_0151_01"
-msgstr ""
+msgstr "Mylene Costume 011"
 
 msgid "cos_0152_01"
-msgstr ""
+msgstr "Mylene Costume 012"
 
 msgid "cos_0153_01"
-msgstr ""
+msgstr "Mylene Costume 013"
 
 msgid "cos_0154_01"
-msgstr ""
+msgstr "Mylene Costume 014"
 
 msgid "cos_0155_01"
-msgstr ""
+msgstr "Mylene Costume 015"
 
 msgid "cos_0157_01"
-msgstr ""
+msgstr "Mylene Costume 017"
 
 msgid "cos_0158_01"
-msgstr ""
+msgstr "Ignite Swash"
 
 msgid "cos_0159_01"
-msgstr ""
+msgstr "Mylene Costume 019"
 
 msgid "cos_0160_01"
-msgstr ""
+msgstr "Mylene Costume 020"
 
 msgid "cos_0161_01"
 msgstr "Fire Live"
 
 msgid "cos_0162_01"
-msgstr ""
+msgstr "Explosion Beat"
 
 msgid "cos_0163_01"
 msgstr "Crossover Fire"
@@ -5379,7 +5379,7 @@ msgid "cos_0165_01"
 msgstr "Shadow Flame"
 
 msgid "cos_0166_01"
-msgstr ""
+msgstr "Howling Snow"
 
 msgid "cos_0167_01"
 msgstr "Burning Ace"
@@ -5388,7 +5388,7 @@ msgid "cos_0168_01"
 msgstr "Burn Stars"
 
 msgid "cos_0169_01"
-msgstr ""
+msgstr "Holy Smoky"
 
 msgid "cos_0170_01"
 msgstr ""
@@ -5589,7 +5589,7 @@ msgid "cos_0245_01"
 msgstr ""
 
 msgid "cos_0246_01"
-msgstr ""
+msgstr "Rote Blume"
 
 msgid "cos_0247_01"
 msgstr ""
