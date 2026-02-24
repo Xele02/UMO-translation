@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:28+0000\n"
-"PO-Revision-Date: 2026-02-23 08:09+0000\n"
+"PO-Revision-Date: 2026-02-24 23:49+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/ko/>\n"
@@ -2259,7 +2259,7 @@ msgid "tutopict_0178_0000_msg"
 msgstr ""
 
 msgid "tutopict_0179_0000_title"
-msgstr ""
+msgstr "이벤트를 즐기는 방법에 대하여"
 
 msgid "tutopict_0179_0001_title"
 msgstr ""
@@ -2301,7 +2301,7 @@ msgstr ""
 "아이템으로 교환할 수 있어!"
 
 msgid "tutopict_0180_0000_title"
-msgstr ""
+msgstr "이벤트를 즐기는 방법에 대하여"
 
 msgid "tutopict_0180_0001_title"
 msgstr ""
@@ -2343,7 +2343,7 @@ msgstr ""
 "아이템으로 교환할 수 있어!"
 
 msgid "tutopict_0181_0000_title"
-msgstr ""
+msgstr "이벤트를 즐기는 방법에 대하여"
 
 msgid "tutopict_0181_0001_title"
 msgstr ""
@@ -2662,6 +2662,9 @@ msgstr ""
 
 msgid "tutopict_0204_0003_msg"
 msgstr ""
+"과거 냥쿠지☆에서 등장한 플레이트와 교환 가능한\n"
+"「우타 마크 SP 메달」이 핵심 아이템이야!\n"
+"4주년 냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어."
 
 msgid "tutopict_0205_0000_title"
 msgstr "냥쿠지☆에 대하여"
@@ -2686,9 +2689,12 @@ msgstr ""
 
 msgid "tutopict_0206_0002_msg"
 msgstr ""
+"과거 냥쿠지☆에서 등장한 플레이트와 교환 가능한\n"
+"「우타 마크 SP 메달」이 핵심 아이템이야!\n"
+"4주년 냥쿠지☆ 추첨권 1장으로 1회 뽑을 수 있어."
 
 msgid "tutopict_0207_0000_title"
-msgstr ""
+msgstr "이벤트를 즐기는 방법에 대하여"
 
 msgid "tutopict_0207_0000_msg"
 msgstr ""
@@ -2715,6 +2721,8 @@ msgstr ""
 
 msgid "tutopict_0207_0004_msg"
 msgstr ""
+"이번에는 보상으로 냥쿠지☆추첨권을 받을 수 있어.\n"
+"새해를 향해 힘내서 달려보자!"
 
 msgid "tutopict_0207_0005_msg"
 msgstr ""
@@ -2740,7 +2748,7 @@ msgstr ""
 "악곡 칭호는 달성 보상 버튼에서 확인할 수 있어."
 
 msgid "tutopict_0208_0000_title"
-msgstr ""
+msgstr "이벤트를 즐기는 방법에 대하여"
 
 msgid "tutopict_0208_0000_msg"
 msgstr ""
