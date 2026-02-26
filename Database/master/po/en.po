@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-02-24 23:49+0000\n"
+"PO-Revision-Date: 2026-02-27 04:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -4491,7 +4491,7 @@ msgid "cos_0219"
 msgstr "Dig Frontier"
 
 msgid "cos_0220"
-msgstr "Anniversary Floret"
+msgstr "Anniversal Floret"
 
 msgid "cos_0221"
 msgstr "Oriental Lover"
@@ -5391,43 +5391,43 @@ msgid "cos_0169_01"
 msgstr "Holy Smoky"
 
 msgid "cos_0170_01"
-msgstr ""
+msgstr "Basara Costume 010"
 
 msgid "cos_0171_01"
-msgstr ""
+msgstr "Basara Costume 011"
 
 msgid "cos_0172_01"
-msgstr ""
+msgstr "Basara Costume 012"
 
 msgid "cos_0173_01"
-msgstr ""
+msgstr "Basara Costume 013"
 
 msgid "cos_0174_01"
-msgstr ""
+msgstr "Ignite Wind"
 
 msgid "cos_0175_01"
-msgstr ""
+msgstr "Basara Costume 015"
 
 msgid "cos_0176_01"
-msgstr ""
+msgstr "Basara Costume 016"
 
 msgid "cos_0177_01"
-msgstr ""
+msgstr "Basara Costume 017"
 
 msgid "cos_0178_01"
-msgstr ""
+msgstr "Basara Costume 018"
 
 msgid "cos_0179_01"
-msgstr ""
+msgstr "Basara Costume 019"
 
 msgid "cos_0180_01"
-msgstr ""
+msgstr "Basara Costume 020"
 
 msgid "cos_0181_01"
 msgstr "Remember Love"
 
 msgid "cos_0182_01"
-msgstr ""
+msgstr "Aster China"
 
 msgid "cos_0183_01"
 msgstr "Polka Dot"
@@ -5442,7 +5442,7 @@ msgid "cos_0186_01"
 msgstr "Floral"
 
 msgid "cos_0187_01"
-msgstr ""
+msgstr "Cosmic Marine"
 
 msgid "cos_0188_01"
 msgstr "Plumeria Ripple"
@@ -5454,460 +5454,460 @@ msgid "cos_0190_01"
 msgstr "Kimono Camellia"
 
 msgid "cos_0191_01"
-msgstr ""
+msgstr "Grass Flows"
 
 msgid "cos_0192_01"
-msgstr ""
+msgstr "Oriental Lotus"
 
 msgid "cos_0193_01"
-msgstr ""
+msgstr "Minmay Costume 013"
 
 msgid "cos_0194_01"
-msgstr ""
+msgstr "Nyan-Nyan Cosmos"
 
 msgid "cos_0195_01"
-msgstr ""
+msgstr "Minmay Costume 015"
 
 msgid "cos_0196_01"
-msgstr ""
+msgstr "Minmay Costume 016"
 
 msgid "cos_0197_01"
-msgstr ""
+msgstr "Minmay Costume 017"
 
 msgid "cos_0198_01"
-msgstr ""
+msgstr "Minmay Costume 018"
 
 msgid "cos_0199_01"
-msgstr ""
+msgstr "Minmay Costume 019"
 
 msgid "cos_0200_01"
-msgstr ""
+msgstr "Minmay Costume 020"
 
 msgid "cos_0211_01"
-msgstr ""
+msgstr "Ranka Costume 021"
 
 msgid "cos_0212_01"
-msgstr ""
+msgstr "Ranka Costume 022"
 
 msgid "cos_0213_01"
-msgstr ""
+msgstr "Ranka Costume 023"
 
 msgid "cos_0214_01"
-msgstr ""
+msgstr "Ranka Costume 024"
 
 msgid "cos_0215_01"
-msgstr ""
+msgstr "Ranka Costume 025"
 
 msgid "cos_0216_01"
-msgstr ""
+msgstr "Ranka Costume 026"
 
 msgid "cos_0217_01"
-msgstr ""
+msgstr "Ranka Costume 027"
 
 msgid "cos_0218_01"
-msgstr ""
+msgstr "Ranka Costume 028"
 
 msgid "cos_0219_01"
-msgstr ""
+msgstr "Ranka Costume 029"
 
 msgid "cos_0220_01"
-msgstr ""
+msgstr "Anniversal Freesia"
 
 msgid "cos_0221_01"
-msgstr ""
+msgstr "Silky Lover"
 
 msgid "cos_0222_01"
-msgstr ""
+msgstr "Sheryl Costume 022"
 
 msgid "cos_0223_01"
-msgstr ""
+msgstr "Sheryl Costume 023"
 
 msgid "cos_0224_01"
-msgstr ""
+msgstr "Sheryl Costume 024"
 
 msgid "cos_0225_01"
-msgstr ""
+msgstr "Sheryl Costume 025"
 
 msgid "cos_0226_01"
-msgstr ""
+msgstr "Sheryl Costume 026"
 
 msgid "cos_0227_01"
-msgstr ""
+msgstr "Sheryl Costume 027"
 
 msgid "cos_0228_01"
-msgstr ""
+msgstr "Sheryl Costume 028"
 
 msgid "cos_0229_01"
-msgstr ""
+msgstr "Sheryl Costume 029"
 
 msgid "cos_0230_01"
-msgstr ""
+msgstr "Sheryl Costume 030"
 
 msgid "cos_0231_01"
-msgstr ""
+msgstr "Reservation 021"
 
 msgid "cos_0232_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0233_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0234_01"
-msgstr ""
+msgstr "Reservation 024"
 
 msgid "cos_0235_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0236_01"
-msgstr ""
+msgstr "Reservation 026"
 
 msgid "cos_0237_01"
-msgstr ""
+msgstr "Reservation 02"
 
 msgid "cos_0238_01"
-msgstr ""
+msgstr "Reservation 028"
 
 msgid "cos_0239_01"
-msgstr ""
+msgstr "Reservation 029"
 
 msgid "cos_0240_01"
-msgstr ""
+msgstr "Reservation 030"
 
 msgid "cos_0241_01"
-msgstr ""
+msgstr "Reservation 021"
 
 msgid "cos_0242_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0243_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0244_01"
-msgstr ""
+msgstr "Reservation 024"
 
 msgid "cos_0245_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0246_01"
 msgstr "Rote Blume"
 
 msgid "cos_0247_01"
-msgstr ""
+msgstr "Reservation 027"
 
 msgid "cos_0248_01"
-msgstr ""
+msgstr "Reservation 028"
 
 msgid "cos_0249_01"
-msgstr ""
+msgstr "Reservation 029"
 
 msgid "cos_0250_01"
-msgstr ""
+msgstr "Reservation 030"
 
 msgid "cos_0251_01"
-msgstr ""
+msgstr "Reservation 021"
 
 msgid "cos_0252_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0253_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0254_01"
-msgstr ""
+msgstr "Reservation 024"
 
 msgid "cos_0255_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0256_01"
-msgstr ""
+msgstr "Reservation 026"
 
 msgid "cos_0257_01"
-msgstr ""
+msgstr "Reservation 027"
 
 msgid "cos_0258_01"
-msgstr ""
+msgstr "Reservation 028"
 
 msgid "cos_0259_01"
-msgstr ""
+msgstr "Reservation 029"
 
 msgid "cos_0260_01"
-msgstr ""
+msgstr "Reservation 030"
 
 msgid "cos_0261_01"
-msgstr ""
+msgstr "Reservation 021"
 
 msgid "cos_0262_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0263_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0264_01"
-msgstr ""
+msgstr "Reservation 024"
 
 msgid "cos_0265_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0266_01"
-msgstr ""
+msgstr "Reservation 026"
 
 msgid "cos_0267_01"
-msgstr ""
+msgstr "Reservation 027"
 
 msgid "cos_0268_01"
-msgstr ""
+msgstr "Reservation 028"
 
 msgid "cos_0269_01"
-msgstr ""
+msgstr "Reservation 029"
 
 msgid "cos_0270_01"
-msgstr ""
+msgstr "Reservation 030"
 
 msgid "cos_0271_01"
-msgstr ""
+msgstr "Minutes Rabbit"
 
 msgid "cos_0272_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0273_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0274_01"
-msgstr ""
+msgstr "Reservation 024"
 
 msgid "cos_0275_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0276_01"
-msgstr ""
+msgstr "Reservation 026"
 
 msgid "cos_0277_01"
-msgstr ""
+msgstr "Reservation 027"
 
 msgid "cos_0278_01"
-msgstr ""
+msgstr "Reservation 028"
 
 msgid "cos_0280_01"
-msgstr ""
+msgstr "Reservation 030"
 
 msgid "cos_0281_01"
-msgstr ""
+msgstr "Reservation 031"
 
 msgid "cos_0282_01"
-msgstr ""
+msgstr "Reservation 032"
 
 msgid "cos_0283_01"
-msgstr ""
+msgstr "Reservation 033"
 
 msgid "cos_0284_01"
-msgstr ""
+msgstr "Anniversal Heart"
 
 msgid "cos_0285_01"
-msgstr ""
+msgstr "Reservation 035"
 
 msgid "cos_0286_01"
-msgstr ""
+msgstr "Reservation 036"
 
 msgid "cos_0287_01"
-msgstr ""
+msgstr "Reservation 037"
 
 msgid "cos_0288_01"
-msgstr ""
+msgstr "Reservation 038"
 
 msgid "cos_0289_01"
-msgstr ""
+msgstr "Reservation 039"
 
 msgid "cos_0290_01"
-msgstr ""
+msgstr "Reservation 040"
 
 msgid "cos_0291_01"
-msgstr ""
+msgstr "Reservation 031"
 
 msgid "cos_0292_01"
-msgstr ""
+msgstr "Reservation 032"
 
 msgid "cos_0293_01"
-msgstr ""
+msgstr "Reservation 033"
 
 msgid "cos_0294_01"
-msgstr ""
+msgstr "Reservation 034"
 
 msgid "cos_0295_01"
-msgstr ""
+msgstr "Reservation 035"
 
 msgid "cos_0296_01"
-msgstr ""
+msgstr "Reservation 036"
 
 msgid "cos_0297_01"
-msgstr ""
+msgstr "Reservation 037"
 
 msgid "cos_0298_01"
-msgstr ""
+msgstr "Reservation 038"
 
 msgid "cos_0299_01"
-msgstr ""
+msgstr "Reservation 039"
 
 msgid "cos_0300_01"
-msgstr ""
+msgstr "Reservation 040"
 
 msgid "cos_0301_01"
-msgstr ""
+msgstr "Reservation 021"
 
 msgid "cos_0302_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0303_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0304_01"
-msgstr ""
+msgstr "Reservation 024"
 
 msgid "cos_0305_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0306_01"
-msgstr ""
+msgstr "Reservation 026"
 
 msgid "cos_0307_01"
-msgstr ""
+msgstr "Reservation 027"
 
 msgid "cos_0308_01"
-msgstr ""
+msgstr "Reservation 028"
 
 msgid "cos_0309_01"
-msgstr ""
+msgstr "Reservation 029"
 
 msgid "cos_0311_01"
-msgstr ""
+msgstr "Reservation 101"
 
 msgid "cos_0312_01"
-msgstr ""
+msgstr "Reservation 102"
 
 msgid "cos_0313_01"
-msgstr ""
+msgstr "Reservation 103"
 
 msgid "cos_0314_01"
-msgstr ""
+msgstr "Reservation 104"
 
 msgid "cos_0315_01"
-msgstr ""
+msgstr "Reservation 105"
 
 msgid "cos_0316_01"
-msgstr ""
+msgstr "Reservation 106"
 
 msgid "cos_0321_01"
-msgstr ""
+msgstr "Reservation 111"
 
 msgid "cos_0322_01"
-msgstr ""
+msgstr "Reservation 112"
 
 msgid "cos_0324_01"
-msgstr ""
+msgstr "Reservation 114"
 
 msgid "cos_0325_01"
-msgstr ""
+msgstr "Reservation 115"
 
 msgid "cos_0326_01"
-msgstr ""
+msgstr "Reservation 116"
 
 msgid "cos_0327_01"
-msgstr ""
+msgstr "Reservation 117"
 
 msgid "cos_0328_01"
-msgstr ""
+msgstr "Reservation 118"
 
 msgid "cos_0329_01"
-msgstr ""
+msgstr "Reservation 119"
 
 msgid "cos_0331_01"
-msgstr ""
+msgstr "Reservation 121"
 
 msgid "cos_0332_01"
-msgstr ""
+msgstr "Reservation 122"
 
 msgid "cos_0333_01"
-msgstr ""
+msgstr "Reservation 123"
 
 msgid "cos_0334_01"
-msgstr ""
+msgstr "Reservation 124"
 
 msgid "cos_0341_01"
-msgstr ""
+msgstr "Reservation 131"
 
 msgid "cos_0342_01"
-msgstr ""
+msgstr "Reservation 132"
 
 msgid "cos_0344_01"
-msgstr ""
+msgstr "Reservation 134"
 
 msgid "cos_0345_01"
-msgstr ""
+msgstr "Reservation 135"
 
 msgid "cos_0346_01"
-msgstr ""
+msgstr "Reservation 136"
 
 msgid "cos_0352_01"
-msgstr ""
+msgstr "Reservation 142"
 
 msgid "cos_0353_01"
-msgstr ""
+msgstr "Reservation 143"
 
 msgid "cos_0354_01"
-msgstr ""
+msgstr "Reservation 144"
 
 msgid "cos_0355_01"
-msgstr ""
+msgstr "Reservation 145"
 
 msgid "cos_0356_01"
-msgstr ""
+msgstr "Reservation 146"
 
 msgid "cos_0361_01"
-msgstr ""
+msgstr "Reservation 151"
 
 msgid "cos_0362_01"
-msgstr ""
+msgstr "Reservation 152"
 
 msgid "cos_0363_01"
-msgstr ""
+msgstr "Reservation 153"
 
 msgid "cos_0371_01"
-msgstr ""
+msgstr "Reservation 161"
 
 msgid "cos_0372_01"
-msgstr ""
+msgstr "Reservation 162"
 
 msgid "cos_0373_01"
-msgstr ""
+msgstr "Reservation 163"
 
 msgid "cos_0381_01"
-msgstr ""
+msgstr "Reservation 171"
 
 msgid "cos_0382_01"
-msgstr ""
+msgstr "Reservation 172"
 
 msgid "cos_0383_01"
-msgstr ""
+msgstr "Reservation 173"
 
 msgid "cos_0384_01"
 msgstr ""
 
 msgid "cos_0385_01"
-msgstr ""
+msgstr "Reservation 175"
 
 msgid "cos_0391_01"
-msgstr ""
+msgstr "Reservation 021"
 
 msgid "cos_0392_01"
-msgstr ""
+msgstr "Reservation 022"
 
 msgid "cos_0393_01"
-msgstr ""
+msgstr "Reservation 023"
 
 msgid "cos_0395_01"
-msgstr ""
+msgstr "Reservation 025"
 
 msgid "cos_0396_01"
-msgstr ""
+msgstr "Reservation 026"
 
 msgid "trs_nm_0001"
 msgstr ""
