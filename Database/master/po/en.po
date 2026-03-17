@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-02-27 04:09+0000\n"
+"PO-Revision-Date: 2026-03-17 15:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -5889,7 +5889,7 @@ msgid "cos_0383_01"
 msgstr "Reservation 173"
 
 msgid "cos_0384_01"
-msgstr ""
+msgstr "Reservation 174"
 
 msgid "cos_0385_01"
 msgstr "Reservation 175"
@@ -20441,7 +20441,7 @@ msgid "vc_0001"
 msgstr "{0:plural:Song Gem|Song Gems}"
 
 msgid "vc_0002"
-msgstr ""
+msgstr "{0:plural:Deculture Gacha Ticket|Deculture Gacha Tickets}"
 
 msgid "vc_0003"
 msgstr ""
@@ -20498,52 +20498,56 @@ msgid "vc_dsc_0010"
 msgstr ""
 
 msgid "vc_uni_0000"
-msgstr ""
+msgstr "x"
 
 msgid "vc_uni_0001"
-msgstr ""
+msgstr "x"
 
 msgid "vc_uni_0002"
-msgstr ""
+msgstr "x"
 
+#, fuzzy
 msgid "vc_uni_0003"
-msgstr ""
+msgstr "UC"
 
 msgid "vc_uni_0004"
-msgstr ""
+msgstr "days"
 
 msgid "vc_uni_0005"
-msgstr "{0:plural:set|sets}"
+msgstr "{0:plural: set| sets}"
 
 msgid "vc_uni_0006"
-msgstr ""
+msgstr "x"
 
 msgid "vc_uni_0007"
-msgstr ""
+msgstr "x"
 
 msgid "vc_uni_0008"
-msgstr ""
+msgstr "x"
 
 msgid "vc_uni_0009"
-msgstr ""
+msgstr "x"
 
 msgid "vc_uni_0010"
-msgstr ""
+msgstr "x"
 
 msgid "df_00"
-msgstr ""
+msgstr "EASY"
 
+#, fuzzy
 msgid "df_01"
-msgstr ""
+msgstr "NORMAL"
 
+#, fuzzy
 msgid "df_02"
-msgstr ""
+msgstr "HARD"
 
+#, fuzzy
 msgid "df_03"
-msgstr ""
+msgstr "VERY HARD"
 
 msgid "df_04"
-msgstr ""
+msgstr "EXTREME"
 
 msgid "rn_0000"
 msgstr ""
@@ -21398,43 +21402,43 @@ msgid "bvc_dsc_0018"
 msgstr ""
 
 msgid "bvc_qt_0005"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0006"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0007"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0008"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0009"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0010"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0011"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0012"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0013"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0015"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0016"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0017"
-msgstr ""
+msgstr "x"
 
 msgid "bvc_qt_0018"
-msgstr ""
+msgstr "x"
 
 msgid "rat_name_0001"
 msgstr ""
@@ -22826,22 +22830,22 @@ msgid "spitm_dsc_0016"
 msgstr ""
 
 msgid "spitm_qt_0007"
-msgstr ""
+msgstr "x"
 
 msgid "spitm_qt_0008"
 msgstr ""
 
 msgid "spitm_qt_0013"
-msgstr ""
+msgstr "x"
 
 msgid "spitm_qt_0014"
-msgstr ""
+msgstr "x"
 
 msgid "spitm_qt_0015"
-msgstr ""
+msgstr "x"
 
 msgid "spitm_qt_0016"
-msgstr ""
+msgstr "x"
 
 msgid "btla_cls_0001"
 msgstr ""
@@ -30086,7 +30090,7 @@ msgid "gc_lm_nm_0010"
 msgstr ""
 
 msgid "vc_gt_0101"
-msgstr ""
+msgstr "{0:plural:Deculture Gacha Ticket|Deculture Gacha Tickets}"
 
 msgid "vc_gt_0201"
 msgstr ""
