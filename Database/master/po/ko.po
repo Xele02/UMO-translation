@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2026-01-31 04:09+0000\n"
+"PO-Revision-Date: 2026-03-17 12:50+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "master/ko/>\n"
@@ -4269,7 +4269,7 @@ msgid "cos_0129"
 msgstr ""
 
 msgid "cos_0130"
-msgstr ""
+msgstr "퍼플 갤럭시"
 
 msgid "cos_0131"
 msgstr ""
@@ -4287,7 +4287,7 @@ msgid "cos_0135"
 msgstr ""
 
 msgid "cos_0136"
-msgstr ""
+msgstr "슈가 베리 베이비"
 
 msgid "cos_0137"
 msgstr ""
@@ -5289,7 +5289,7 @@ msgid "cos_0129_01"
 msgstr ""
 
 msgid "cos_0130_01"
-msgstr ""
+msgstr "퍼플 갤럭시"
 
 msgid "cos_0131_01"
 msgstr ""
@@ -5307,7 +5307,7 @@ msgid "cos_0135_01"
 msgstr ""
 
 msgid "cos_0136_01"
-msgstr ""
+msgstr "슈가 베리 베이비"
 
 msgid "cos_0137_01"
 msgstr ""
@@ -6309,7 +6309,7 @@ msgid "trs_nm_0129"
 msgstr ""
 
 msgid "trs_nm_0130"
-msgstr ""
+msgstr "퍼플 갤럭시(셰릴)"
 
 msgid "trs_nm_0131"
 msgstr ""
@@ -6327,7 +6327,7 @@ msgid "trs_nm_0135"
 msgstr ""
 
 msgid "trs_nm_0136"
-msgstr ""
+msgstr "슈가 베리 베이비(셰릴)"
 
 msgid "trs_nm_0137"
 msgstr ""
@@ -7329,7 +7329,7 @@ msgid "trs_dsc_0129"
 msgstr ""
 
 msgid "trs_dsc_0130"
-msgstr ""
+msgstr "퍼플 갤럭시 의상을 입은 토르소"
 
 msgid "trs_dsc_0131"
 msgstr ""
@@ -7347,7 +7347,7 @@ msgid "trs_dsc_0135"
 msgstr ""
 
 msgid "trs_dsc_0136"
-msgstr ""
+msgstr "슈가 베리 베이비 의상을 입은 토르소"
 
 msgid "trs_dsc_0137"
 msgstr ""
