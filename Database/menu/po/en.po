@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-03-17 15:09+0000\n"
+"PO-Revision-Date: 2026-03-17 16:55+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -915,10 +915,10 @@ msgid "header_desc_home206"
 msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_home207"
-msgstr ""
+msgstr "Check out teams you've saved"
 
 msgid "header_desc_home208"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_home209"
 msgstr "Select a costume"
@@ -927,7 +927,7 @@ msgid "header_desc_home210"
 msgstr "See the rankings here"
 
 msgid "header_desc_home211"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_home230"
 msgstr "Select a costume to upgrade"
@@ -939,16 +939,16 @@ msgid "header_desc_home240"
 msgstr "See the rankings here"
 
 msgid "header_desc_home301"
-msgstr ""
+msgstr "Select a Deco Room"
 
 msgid "header_desc_home302"
-msgstr ""
+msgstr "List of places to visit"
 
 msgid "header_desc_home303"
-msgstr ""
+msgstr "Select items"
 
 msgid "header_desc_setting000"
-msgstr ""
+msgstr "Get ready to perform"
 
 msgid "header_desc_setting001"
 msgstr "Put your team together"
@@ -960,19 +960,19 @@ msgid "header_desc_setting003"
 msgstr "Select a Plate"
 
 msgid "header_desc_setting004"
-msgstr ""
+msgstr "Check out teams you've saved"
 
 msgid "header_desc_setting005"
 msgstr "Select a costume"
 
 msgid "header_desc_setting006"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_setting007"
 msgstr "Select a Diva"
 
 msgid "header_desc_setting008"
-msgstr ""
+msgstr "List of Plates"
 
 msgid "header_desc_setting009"
 msgstr "See song EXP levels"
@@ -981,13 +981,13 @@ msgid "header_desc_setting010"
 msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_setting011"
-msgstr ""
+msgstr "Select an Episode"
 
 msgid "header_desc_setting012"
-msgstr ""
+msgstr "See what you've unlocked"
 
 msgid "header_desc_setting013"
-msgstr ""
+msgstr "Select items"
 
 msgid "header_desc_setting030"
 msgstr "Select a costume to upgrade"
@@ -996,10 +996,10 @@ msgid "header_desc_setting031"
 msgstr "Select items　　　　　"
 
 msgid "header_desc_setting032"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_story000"
-msgstr ""
+msgstr "Select a zone"
 
 msgid "header_desc_story001"
 msgstr "Select an assistant"
@@ -1020,10 +1020,10 @@ msgid "header_desc_story006"
 msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_story007"
-msgstr ""
+msgstr "Check out teams you've saved"
 
 msgid "header_desc_story008"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_story009"
 msgstr "Select a costume"
@@ -1035,7 +1035,7 @@ msgid "header_desc_story031"
 msgstr "Select items　　　　　"
 
 msgid "header_desc_free000"
-msgstr ""
+msgstr "Select a song"
 
 msgid "header_desc_free001"
 msgstr "Select an assistant"
@@ -1056,10 +1056,10 @@ msgid "header_desc_free006"
 msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_free007"
-msgstr ""
+msgstr "Check out teams you've saved"
 
 msgid "header_desc_free008"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_free009"
 msgstr "Select a costume"
@@ -1068,16 +1068,16 @@ msgid "header_desc_free010"
 msgstr "See the rankings here"
 
 msgid "header_desc_free011"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_free020"
-msgstr ""
+msgstr "See your song settings here"
 
 msgid "header_desc_free110"
 msgstr "See the rankings here"
 
 msgid "header_desc_free120"
-msgstr ""
+msgstr "See the event story"
 
 msgid "header_desc_free130"
 msgstr "Event Mission list"
@@ -1107,10 +1107,10 @@ msgid "header_desc_free206"
 msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_free207"
-msgstr ""
+msgstr "Check out teams you've saved"
 
 msgid "header_desc_free208"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_free209"
 msgstr "Select a costume"
@@ -1119,7 +1119,7 @@ msgid "header_desc_free210"
 msgstr "See the rankings here"
 
 msgid "header_desc_free211"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_free230"
 msgstr "Select a costume to upgrade"
@@ -1131,7 +1131,7 @@ msgid "header_desc_free240"
 msgstr "See the rankings here"
 
 msgid "header_desc_free303"
-msgstr ""
+msgstr "Select items"
 
 msgid "header_desc_gacha000"
 msgstr ""
@@ -1155,7 +1155,7 @@ msgid "header_desc_option000"
 msgstr ""
 
 msgid "header_desc_option001"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_option002"
 msgstr ""
@@ -1164,7 +1164,7 @@ msgid "header_desc_option003"
 msgstr "See the rankings here"
 
 msgid "header_desc_option004"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_option005"
 msgstr ""
@@ -1173,10 +1173,10 @@ msgid "header_desc_option006"
 msgstr ""
 
 msgid "header_desc_option007"
-msgstr ""
+msgstr "Select items"
 
 msgid "header_desc_option008"
-msgstr ""
+msgstr "See the event story"
 
 msgid "header_desc_option009"
 msgstr ""
@@ -1200,10 +1200,10 @@ msgid "header_desc_evquest006"
 msgstr "Unlock Plate Abilities"
 
 msgid "header_desc_evquest007"
-msgstr ""
+msgstr "Check out teams you've saved"
 
 msgid "header_desc_evquest008"
-msgstr ""
+msgstr "Select a Valkyrie"
 
 msgid "header_desc_evquest009"
 msgstr "Select a costume"
@@ -1212,13 +1212,13 @@ msgid "header_desc_evquest010"
 msgstr "See the rankings here"
 
 msgid "header_desc_evquest011"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_evquest110"
 msgstr "See the rankings here"
 
 msgid "header_desc_evquest120"
-msgstr ""
+msgstr "See the event story"
 
 msgid "header_desc_evquest130"
 msgstr "Event Mission list"
@@ -1230,7 +1230,7 @@ msgid "header_desc_evquest031"
 msgstr "Select items　　　　　"
 
 msgid "header_desc_result211"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_result240"
 msgstr "See the rankings here"
@@ -1239,7 +1239,7 @@ msgid "header_desc_musicrate000"
 msgstr ""
 
 msgid "header_desc_musicrate001"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "popup_unlock_desc_000"
 msgstr ""
@@ -1632,7 +1632,7 @@ msgid "music_event_end"
 msgstr ""
 
 msgid "music_event_counting"
-msgstr ""
+msgstr "Calculating event results..."
 
 msgid "music_to_live_ticket_msg"
 msgstr ""
@@ -4656,7 +4656,7 @@ msgid "chat_post_conf_popup_title"
 msgstr ""
 
 msgid "raid_event_end_text"
-msgstr ""
+msgstr "Calculating event results..."
 
 msgid "lobby_raid_befor_text"
 msgstr ""
@@ -5165,7 +5165,7 @@ msgid "header_desc_setting041"
 msgstr ""
 
 msgid "header_desc_setting042"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_story040"
 msgstr "Select a Plate"
@@ -5174,7 +5174,7 @@ msgid "header_desc_story041"
 msgstr ""
 
 msgid "header_desc_story042"
-msgstr ""
+msgstr "See your profile here"
 
 msgid "header_desc_free400"
 msgstr "Select a Plate"
@@ -6262,7 +6262,7 @@ msgid "pop_gakuya_present_num_prefix"
 msgstr ""
 
 msgid "pop_gakuya_present_num_title"
-msgstr ""
+msgstr "{0} times"
 
 msgid "popup_filter_have_title_h2"
 msgstr ""
