@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-02-23 10:09+0000\n"
+"PO-Revision-Date: 2026-03-17 15:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -165,10 +165,10 @@ msgid "StringLiteral_10065"
 msgstr "Not Within Period VcItemSceduleInfo id="
 
 msgid "StringLiteral_10089"
-msgstr ""
+msgstr "x"
 
 msgid "StringLiteral_10090"
-msgstr ""
+msgstr "x"
 
 msgid "StringLiteral_10093"
 msgstr "{0:plural: Valkyrie|Valkyries}"
@@ -177,10 +177,10 @@ msgid "StringLiteral_10094"
 msgstr "Players"
 
 msgid "StringLiteral_10095"
-msgstr "{0:plural:set|sets}"
+msgstr "{0:plural: set| sets}"
 
 msgid "StringLiteral_10096"
-msgstr ""
+msgstr "x"
 
 msgid "StringLiteral_10136"
 msgstr "Not set"
@@ -1583,7 +1583,7 @@ msgid "UMO_currency_2010_desc"
 msgstr ""
 
 msgid "UMO_currency_2101_name"
-msgstr ""
+msgstr "{0:plural:Deculture Gacha Ticket|Deculture Gacha Tickets}"
 
 msgid "UMO_currency_2101_desc"
 msgstr ""
@@ -2097,3 +2097,16 @@ msgstr "Clear Rewards"
 
 msgid "UMO_Group"
 msgstr "Edit Teams"
+
+#, fuzzy
+msgid "StringLiteral_6527"
+msgstr "---"
+
+msgid "StringLiteral_9765"
+msgstr "Reward List"
+
+msgid "StringLiteral_381"
+msgstr "  "
+
+msgid "StringLiteral_1290"
+msgstr "pts"
