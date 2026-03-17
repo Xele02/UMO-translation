@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-03-17 15:09+0000\n"
+"PO-Revision-Date: 2026-03-17 16:55+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -1224,7 +1224,7 @@ msgid "StringLiteral_15475"
 msgstr "Home screen"
 
 msgid "StringLiteral_15476"
-msgstr ""
+msgstr "Visit List"
 
 msgid "StringLiteral_15477"
 msgstr "Collect all"
@@ -1352,7 +1352,7 @@ msgid "StringLiteral_17787"
 msgstr "%"
 
 msgid "StringLiteral_17788"
-msgstr "(Traded {0}UC for UC items)"
+msgstr "(UC items have been converted to {0} UC)"
 
 msgid "StringLiteral_17960"
 msgstr "{0} times"
@@ -2110,3 +2110,28 @@ msgstr "  "
 
 msgid "StringLiteral_1290"
 msgstr "pts"
+
+#, fuzzy
+msgid "StringLiteral_17240"
+msgstr "music_event_battle_ｔarｇeｔ_score"
+
+msgid "StringLiteral_13160"
+msgstr "EX Rampage Enemy Detected"
+
+msgid "StringLiteral_13162"
+msgstr "Mirage “EX Rampage Enemy appeared!”"
+
+msgid "StringLiteral_17823"
+msgstr "Usage bonus"
+
+msgid "StringLiteral_17824"
+msgstr "x"
+
+msgid "StringLiteral_19851"
+msgstr "{0} plrs"
+
+msgid "StringLiteral_18575"
+msgstr "Not cleared"
+
+msgid "StringLiteral_19875"
+msgstr "Calculating event results..."
