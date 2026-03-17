@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-02-23 06:09+0000\n"
+"PO-Revision-Date: 2026-03-17 15:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -1527,7 +1527,7 @@ msgid "music_event_collect_next_point_label"
 msgstr ""
 
 msgid "music_event_collect_point_unit"
-msgstr ""
+msgstr "pts"
 
 msgid "music_event_collect_rank_label"
 msgstr ""
@@ -1551,7 +1551,7 @@ msgid "music_event_battle_next_point_label"
 msgstr ""
 
 msgid "music_event_battle_point_unit"
-msgstr ""
+msgstr "pts"
 
 msgid "music_event_battle_rank_hiscore_label"
 msgstr ""
@@ -2196,7 +2196,7 @@ msgid "popup_event_reward_check_pt"
 msgstr ""
 
 msgid "popup_event_reward_currentpoint_unit"
-msgstr ""
+msgstr "pts"
 
 msgid "popup_event_reward_needpoint_unit"
 msgstr ""
@@ -5588,7 +5588,7 @@ msgid "godiva_even_tinfo_rank_unit"
 msgstr ""
 
 msgid "godiva_even_tinfo_point_unit"
-msgstr ""
+msgstr "pts"
 
 msgid "godiva_even_tinfo_final_rank"
 msgstr ""
@@ -5923,16 +5923,19 @@ msgid "popup_filter_difficulty_title_h2"
 msgstr ""
 
 msgid "popup_filter_difficulty_easy"
-msgstr ""
+msgstr "EASY"
 
+#, fuzzy
 msgid "popup_filter_difficulty_normal"
-msgstr ""
+msgstr "NORMAL"
 
+#, fuzzy
 msgid "popup_filter_difficulty_hard"
-msgstr ""
+msgstr "HARD"
 
+#, fuzzy
 msgid "popup_filter_difficulty_veryhard"
-msgstr ""
+msgstr "VERY HARD"
 
 msgid "popup_filter_difficulty_extreme"
 msgstr ""
