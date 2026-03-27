@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-03-17 16:55+0000\n"
+"PO-Revision-Date: 2026-03-27 22:55+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -855,7 +855,7 @@ msgid "header_desc_home008"
 msgstr "See the rankings here"
 
 msgid "header_desc_home009"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_home010"
 msgstr "Event Mission list"
@@ -927,7 +927,7 @@ msgid "header_desc_home210"
 msgstr "See the rankings here"
 
 msgid "header_desc_home211"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_home230"
 msgstr "Select a costume to upgrade"
@@ -945,7 +945,7 @@ msgid "header_desc_home302"
 msgstr "List of places to visit"
 
 msgid "header_desc_home303"
-msgstr "Select items"
+msgstr "Select an item"
 
 msgid "header_desc_setting000"
 msgstr "Get ready to perform"
@@ -987,7 +987,7 @@ msgid "header_desc_setting012"
 msgstr "See what you've unlocked"
 
 msgid "header_desc_setting013"
-msgstr "Select items"
+msgstr "Select an item"
 
 msgid "header_desc_setting030"
 msgstr "Select a costume to upgrade"
@@ -1068,7 +1068,7 @@ msgid "header_desc_free010"
 msgstr "See the rankings here"
 
 msgid "header_desc_free011"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_free020"
 msgstr "See your song settings here"
@@ -1119,7 +1119,7 @@ msgid "header_desc_free210"
 msgstr "See the rankings here"
 
 msgid "header_desc_free211"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_free230"
 msgstr "Select a costume to upgrade"
@@ -1131,55 +1131,55 @@ msgid "header_desc_free240"
 msgstr "See the rankings here"
 
 msgid "header_desc_free303"
-msgstr "Select items"
+msgstr "Select an item"
 
 msgid "header_desc_gacha000"
-msgstr ""
+msgstr "Select a gacha"
 
 msgid "header_desc_gacha001"
-msgstr ""
+msgstr "Get info on gachas"
 
 msgid "header_desc_quest000"
-msgstr ""
+msgstr "Mission list"
 
 msgid "header_desc_quest001"
 msgstr "Event Mission list"
 
 msgid "header_desc_quest002"
-msgstr ""
+msgstr "Select a reward"
 
 msgid "header_desc_quest003"
-msgstr ""
+msgstr "Take on bingo missions"
 
 msgid "header_desc_option000"
-msgstr ""
+msgstr "Select a category"
 
 msgid "header_desc_option001"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_option002"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "header_desc_option003"
 msgstr "See the rankings here"
 
 msgid "header_desc_option004"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_option005"
-msgstr ""
+msgstr "Select a category"
 
 msgid "header_desc_option006"
-msgstr ""
+msgstr "Select a Trade Store"
 
 msgid "header_desc_option007"
-msgstr "Select items"
+msgstr "Select an item"
 
 msgid "header_desc_option008"
 msgstr "See the event story"
 
 msgid "header_desc_option009"
-msgstr ""
+msgstr "Blocked players list"
 
 msgid "header_desc_evquest001"
 msgstr "Select an assistant"
@@ -1212,7 +1212,7 @@ msgid "header_desc_evquest010"
 msgstr "See the rankings here"
 
 msgid "header_desc_evquest011"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_evquest110"
 msgstr "See the rankings here"
@@ -1230,82 +1230,96 @@ msgid "header_desc_evquest031"
 msgstr "Select items　　　　　"
 
 msgid "header_desc_result211"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_result240"
 msgstr "See the rankings here"
 
 msgid "header_desc_musicrate000"
-msgstr ""
+msgstr "See Song Rate info"
 
 msgid "header_desc_musicrate001"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "popup_unlock_desc_000"
-msgstr ""
+msgstr "Song added!"
 
 msgid "popup_unlock_desc_001"
 msgstr ""
+"Song Memories unlocked\n"
+"in Memory Dimension."
 
 msgid "popup_unlock_desc_002"
 msgstr "Diva Stats"
 
 msgid "popup_loginbonus_001"
-msgstr ""
+msgstr "Login Bonuses"
 
 msgid "popup_loginbonus_002"
-msgstr ""
+msgstr "Items were sent to your Gift Box."
 
 msgid "popup_loginbonus_comeback_pack_001"
-msgstr ""
+msgstr "Welcome Back Pack"
 
 msgid "popup_review_000"
-msgstr ""
+msgstr "Review Request from Freyja"
 
 msgid "popup_review_001"
 msgstr ""
+"Thanks for playin' UtaMacross\n"
+"SmaPho Deculture!\n"
+"Whatcha think about it?"
 
 msgid "popup_review_002"
-msgstr ""
+msgstr "Please tap the stars to rate the game"
 
 msgid "popup_review_003"
 msgstr ""
+"If you could, wouldya mind\n"
+"tellin' me how the game was?\n"
+"\n"
+"You can whisper it to me..."
 
 msgid "popup_review_004"
 msgstr ""
+"Wouldya mind tellin' me whatcha\n"
+"thought of the game?\n"
+"\n"
+"We'll make UtaMacross SmaPho\n"
+"Deculture even more fun!"
 
 msgid "popup_reward_detail_001"
-msgstr ""
+msgstr "Clear {0}+ times"
 
 msgid "popup_reward_detail_002"
-msgstr ""
+msgstr "Score {0}+"
 
 msgid "popup_reward_detail_003"
-msgstr ""
+msgstr "Get a {0}+ combo"
 
 msgid "popup_reward_detail_004"
-msgstr ""
+msgstr "{0} UC"
 
 msgid "popup_reward_detail_005"
-msgstr ""
+msgstr "{0}x{1}"
 
 msgid "popup_reward_detail_title"
-msgstr ""
+msgstr "Rewards acquired"
 
 msgid "pupup_app_exit_title"
-msgstr ""
+msgstr "Close app confirmation"
 
 msgid "popup_app_exit"
-msgstr ""
+msgstr "Close the app?"
 
 msgid "popup_quest_reward_title"
-msgstr ""
+msgstr "Mission complete"
 
 msgid "quest_event_none_list"
-msgstr ""
+msgstr "No missions available currently."
 
 msgid "quest_reward_none_list"
-msgstr ""
+msgstr "No missions with receivable rewards available."
 
 msgid "quest_timer_d"
 msgstr "{0} days left"
@@ -1318,102 +1332,126 @@ msgstr "{0} minutes left"
 
 msgid "quest_tiemr_e001"
 msgstr ""
+"Event period:\n"
+"{0} - {1}"
 
 msgid "quest_tiemr_e002"
 msgstr ""
+"Claim period:\n"
+"{0} - {1}"
 
 msgid "quest_tiemr_e003"
-msgstr ""
+msgstr "{1}/{2}/{0:D4} {3:D2}:{4:D2}"
 
 msgid "popup_quest_detail_001"
-msgstr ""
+msgstr "Union Credits x{0}"
 
 msgid "popup_quest_detail_002"
-msgstr ""
+msgstr "{0}x{1}"
 
 msgid "popup_title_episode_01"
-msgstr ""
+msgstr "Episode unlock reward"
 
 msgid "popup_title_episode_02"
-msgstr ""
+msgstr "Episode items"
 
 msgid "popup_title_episode_03"
-msgstr ""
+msgstr "Episode unlocked"
 
 msgid "popup_title_episode_04"
-msgstr ""
+msgstr "Episode reward"
 
 msgid "episode_item_select_01"
-msgstr ""
+msgstr "You don't have any of this item."
 
 msgid "popup_title_sns_01"
-msgstr ""
+msgstr "SDN Room"
 
 msgid "sns_text_01"
-msgstr ""
+msgstr "New messages received."
 
 msgid "sns_item_description"
 msgstr ""
+"You can read Chat: {1}\n"
+"in the {0} SDN Room."
 
 msgid "popup_friend_request_title"
-msgstr ""
+msgstr "Friend request"
 
 msgid "popup_friend_request_msg"
-msgstr ""
+msgstr "Send a friend request to {0}?"
 
 msgid "popup_friend_release_title"
-msgstr ""
+msgstr "Remove friend confirmation"
 
 msgid "popup_friend_release_msg"
 msgstr ""
+"Remove {0}\n"
+"from your friend list?"
 
 msgid "popup_friend_cancel_title"
-msgstr ""
+msgstr "Cancel friend request confirmation"
 
 msgid "popup_friend_cancel_msg"
 msgstr ""
+"Cancel friend request sent to\n"
+"{0}?"
 
 msgid "popup_friend_accept_title"
-msgstr ""
+msgstr "Friend approval confirmation"
 
 msgid "popup_friend_accept_msg"
 msgstr ""
+"Approve friend request from\n"
+"{0}?"
 
 msgid "popup_friend_reject_title"
-msgstr ""
+msgstr "Deny friend request confirmation"
 
 msgid "popup_friend_reject_msg"
 msgstr ""
+"Deny friend request from\n"
+"{0}?"
 
 msgid "popup_friend_requested_title"
-msgstr ""
+msgstr "Friend request complete"
 
 msgid "popup_friend_requested_msg"
 msgstr ""
+"Friend request to\n"
+"{0} sent."
 
 msgid "popup_friend_released_title"
-msgstr ""
+msgstr "Friend removed"
 
 msgid "popup_friend_released_msg"
 msgstr ""
+"{0} was removed\n"
+"from your friend list."
 
 msgid "popup_friend_cancelled_title"
-msgstr ""
+msgstr "Friend request cancelled"
 
 msgid "popup_friend_cancelled_msg"
 msgstr ""
+"Friend request to\n"
+"{0} cancelled."
 
 msgid "popup_friend_accepted_title"
-msgstr ""
+msgstr "Friend request approved"
 
 msgid "popup_friend_accepted_msg"
 msgstr ""
+"{0} is\n"
+"now your friend."
 
 msgid "popup_friend_rejected_title"
-msgstr ""
+msgstr "Friend request denied"
 
 msgid "popup_friend_rejected_msg"
 msgstr ""
+"{0}'s friend\n"
+"request was denied."
 
 msgid "friend_accept_not_found"
 msgstr ""
@@ -1459,9 +1497,11 @@ msgstr ""
 
 msgid "ranking_ev_period"
 msgstr ""
+"Event period:\n"
+"{0} - {1}"
 
 msgid "ranking_ev_period_date"
-msgstr ""
+msgstr "{1}/{2}/{0:D4} {3:D2}:{4:D2}"
 
 msgid "ranking_ev_no_entry"
 msgstr ""
@@ -1500,7 +1540,7 @@ msgid "music_event_period"
 msgstr ""
 
 msgid "music_event_period_date"
-msgstr ""
+msgstr "{1}/{2}/{0:D4} {3:D2}:{4:D2}"
 
 msgid "music_event_remain_prefix"
 msgstr ""
@@ -3325,7 +3365,7 @@ msgid "popup_error_purchase_multi_text_00"
 msgstr ""
 
 msgid "ar_sel_popup_shutdown_message"
-msgstr ""
+msgstr "Close the app?"
 
 msgid "ar_sel_popup_shutdown_button_l"
 msgstr "Cancel"
@@ -4722,7 +4762,7 @@ msgid "deco_chat_footer_attention_text"
 msgstr ""
 
 msgid "blocklist_title"
-msgstr ""
+msgstr "Blocked players list"
 
 msgid "blocklist_empty_text"
 msgstr ""
@@ -4755,7 +4795,7 @@ msgid "popup_deco_set_item_detaile_title"
 msgstr ""
 
 msgid "deco_set_item_list_text"
-msgstr ""
+msgstr "{0}x{1}"
 
 msgid "popup_deco_set_item_detaile_list"
 msgstr ""
@@ -5156,37 +5196,37 @@ msgid "header_desc_home401"
 msgstr "Select a Plate"
 
 msgid "header_desc_home402"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "header_desc_setting040"
 msgstr "Select a Plate"
 
 msgid "header_desc_setting041"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "header_desc_setting042"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_story040"
 msgstr "Select a Plate"
 
 msgid "header_desc_story041"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "header_desc_story042"
-msgstr "See your profile here"
+msgstr "See your profile"
 
 msgid "header_desc_free400"
 msgstr "Select a Plate"
 
 msgid "header_desc_free401"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "header_desc_option010"
 msgstr "Select a Plate"
 
 msgid "header_desc_option011"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "gacha_desc_05"
 msgstr ""
@@ -5198,7 +5238,7 @@ msgid "header_desc_evquest400"
 msgstr ""
 
 msgid "header_desc_evquest401"
-msgstr ""
+msgstr "Select a Title"
 
 msgid "popup_sort_title_guest_select"
 msgstr ""
