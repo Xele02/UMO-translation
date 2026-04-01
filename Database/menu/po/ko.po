@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2026-02-03 06:09+0000\n"
+"PO-Revision-Date: 2026-04-01 07:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -255,7 +255,7 @@ msgid "set_notification_text_00"
 msgstr "푸시 설정"
 
 msgid "set_notification_text_01"
-msgstr ""
+msgstr "사용 중인 기기의 알림 설정이 꺼져 있는 경우, 모든 알림이 표시되지 않습니다."
 
 msgid "set_notification_text_02"
 msgstr ""
@@ -685,7 +685,7 @@ msgstr "아이템과 UC가 부족합니다."
 
 msgid "growth_popup_text10"
 msgstr ""
-"레어리티가 상승했습니다.\n"
+"레어도가 상승했습니다.\n"
 "능력 보드가 확장되었습니다."
 
 msgid "growth_popup_text11"
@@ -3709,13 +3709,13 @@ msgid "item_use_period_date"
 msgstr "{0}/{1}/{2} {3}:{4:D2}"
 
 msgid "rarityup_item_use_title"
-msgstr "레어리티 상승 확인"
+msgstr "레어도 상승 확인"
 
 msgid "rarityup_item_use_desc_1"
-msgstr "다음 아이템을 소비하여 플레이트 레어리티를 상승시킵니다."
+msgstr "다음 아이템을 소비하여 플레이트 레어도를 상승시킵니다."
 
 msgid "rarityup_item_use_desc_2"
-msgstr "레어리티 상승에 필요한 아이템이 부족합니다."
+msgstr "레어도 상승에 필요한 아이템이 부족합니다."
 
 msgid "rarityup_item_get_desc_1"
 msgstr ""
@@ -5437,7 +5437,7 @@ msgid "popup_sort_item_get"
 msgstr "획득순"
 
 msgid "popup_sort_item_rarity"
-msgstr "레어리티"
+msgstr "레어도"
 
 msgid "popup_sort_item_level"
 msgstr "레벨"
@@ -5610,7 +5610,7 @@ msgid "select_costume_desc01"
 msgstr ""
 
 msgid "popup_filter_rarity_title_h2"
-msgstr "레어리티"
+msgstr "레어도"
 
 msgid "popup_filter_rarity_01"
 msgstr "★ 1"
