@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2025-07-21 05:47+0000\n"
+"PO-Revision-Date: 2026-04-01 10:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/ko/>\n"
@@ -174,7 +174,7 @@ msgid "musicName_0005_storyDesc"
 msgstr ""
 
 msgid "musicName_0005_storyTitle"
-msgstr "란카 리입니다, 잘 부탁드립니다!'"
+msgstr "「란카 리입니다, 잘 부탁드립니다!」"
 
 msgid "musicName_0006_musicname"
 msgstr "당근 Loves you yeah!"
@@ -228,7 +228,7 @@ msgid "musicName_0007_storyDesc"
 msgstr ""
 
 msgid "musicName_0007_storyTitle"
-msgstr "내 노래를 들어!'"
+msgstr "「내 노래를 들어!」"
 
 msgid "musicName_0008_musicname"
 msgstr "다이아몬드 크레바스"
@@ -276,7 +276,7 @@ msgid "musicName_0009_storyDesc"
 msgstr ""
 
 msgid "musicName_0009_storyTitle"
-msgstr "꽤 좋은 곳이네, 프론티어'"
+msgstr "「꽤 좋은 곳이네, 프론티어」"
 
 msgid "musicName_0010_musicname"
 msgstr "인피니티"
@@ -330,7 +330,7 @@ msgid "musicName_0011_storyDesc"
 msgstr ""
 
 msgid "musicName_0011_storyTitle"
-msgstr "나, 노래할게. 있는 힘껏!'"
+msgstr "「나, 노래할게. 있는 힘껏!」"
 
 msgid "musicName_0012_musicname"
 msgstr "소백룡"
@@ -357,7 +357,7 @@ msgid "musicName_0012_storyDesc"
 msgstr ""
 
 msgid "musicName_0012_storyTitle"
-msgstr "여러분 안녕하세요, 린 민메이입니다'"
+msgstr "「여러분 안녕하세요, 린 민메이입니다」"
 
 msgid "musicName_0013_musicname"
 msgstr "Welcome To My FanClub's Night!"
@@ -384,7 +384,7 @@ msgid "musicName_0013_storyDesc"
 msgstr ""
 
 msgid "musicName_0013_storyTitle"
-msgstr "됐으니까 이대로 날아!'"
+msgstr "「됐으니까 이대로 날아!」"
 
 msgid "musicName_0014_musicname"
 msgstr "TRY AGAIN"
