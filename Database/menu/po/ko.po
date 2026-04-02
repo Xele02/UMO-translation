@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2026-04-01 10:09+0000\n"
+"PO-Revision-Date: 2026-04-03 03:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "menu/ko/>\n"
@@ -266,7 +266,7 @@ msgid "set_notification_text_03"
 msgstr "푸시 알람을 보내는 시간대를 설정합니다."
 
 msgid "set_notification_text_04"
-msgstr ""
+msgstr "「공지」에는 적용되지 않습니다."
 
 msgid "set_notification_text_05"
 msgstr ""
@@ -331,24 +331,30 @@ msgstr "화면 표시 설정"
 msgid "config_text_05"
 msgstr ""
 "기기의 방향에 따라 화면이 자동으로 회전하도록 할지,\n"
-"좌우 중 한 방향으로 고정하여 표시할지 선택합니다.\n"
+"좌우 중 한 방향으로 고정하여 표시할지 선택합니다\n"
 "「자동」으로 설정되어 있더라도 기기 기능으로 화면 방향을\n"
-"잠근 상태라면 회전하지 않습니다."
+"잠근 상태라면 회전하지 않습니다"
 
 msgid "config_text_05_iphone"
 msgstr ""
+"<size=22>기기의 방향에 따라 화면이 자동으로 회전하도록 할지,\n"
+"좌우 중 한 방향으로 고정하여 표시할지 선택합니다.\n"
+"「자동」으로 설정되어 있더라도 기기 기능으로 화면 방향을\n"
+"잠근 상태라면 회전하지 않습니다.</size>"
 
 msgid "config_text_05_android"
 msgstr ""
+"<size=22>기기의 방향에 따라 화면이 자동으로 회전하도록 할지,\n"
+"좌우 중 한 방향으로 고정하여 표시할지 선택합니다.</size>"
 
 msgid "config_text_06"
 msgstr "자동"
 
 msgid "config_text_07"
-msgstr ""
+msgstr "오른쪽을 위로"
 
 msgid "config_text_08"
-msgstr ""
+msgstr "왼쪽을 위로"
 
 msgid "config_text_09"
 msgstr "표시 설정"
@@ -360,10 +366,10 @@ msgid "config_text_11"
 msgstr "커스텀 설정"
 
 msgid "config_text_12"
-msgstr ""
+msgstr "스킬 발동 시 컷인 표시 설정입니다."
 
 msgid "config_text_13"
-msgstr ""
+msgstr "노트가 날아오는 궤적 표시 설정입니다."
 
 msgid "config_text_14"
 msgstr "동작 설정"
@@ -384,7 +390,7 @@ msgid "config_text_19"
 msgstr "타이밍 설정"
 
 msgid "config_text_20"
-msgstr ""
+msgstr "노트 아이콘의 표시 타이밍을 조정할 수 있습니다."
 
 msgid "config_text_21"
 msgstr "라이브 설정"
@@ -394,6 +400,8 @@ msgstr "확인"
 
 msgid "config_text_23"
 msgstr ""
+"볼륨 설정을 기본값으로 되돌립니다.\n"
+"확인하시겠습니까?"
 
 msgid "config_text_24"
 msgstr ""
@@ -419,34 +427,36 @@ msgid "config_text_28"
 msgstr "메뉴 설정"
 
 msgid "config_text_29"
-msgstr ""
+msgstr "기타 설정"
 
 msgid "config_text_30"
-msgstr ""
+msgstr "배경 설정"
 
 msgid "config_text_31"
-msgstr ""
+msgstr "<size=22>홈 화면의 배경을 설정할 수 있습니다.</size>"
 
 msgid "config_text_32"
-msgstr ""
+msgstr "기본 배경이 표시됩니다."
 
 msgid "config_text_33"
 msgstr ""
+"메인 플레이트의 레어도 상승 전 레어도가\n"
+"★4 이상인 경우, 배경으로 표시합니다."
 
 msgid "config_text_34"
-msgstr ""
+msgstr "유효인 경우에는 일시 정지 상태가 되고, 무효인 경우에는 반응하지 않게 됩니다."
 
 msgid "config_text_35"
-msgstr ""
+msgstr "라이브 중 뒤로 가기 키 설정을 합니다."
 
 msgid "config_text_36"
-msgstr ""
+msgstr "뒤로 가기 키 설정"
 
 msgid "config_text_37_rhythm"
 msgstr "현재 난이도"
 
 msgid "config_text_37_option"
-msgstr ""
+msgstr "선택한 난이도"
 
 msgid "config_text_38"
 msgstr "노트 스피드는 난이도별로 설정됩니다."
@@ -458,7 +468,7 @@ msgid "config_text_40"
 msgstr "노트 스피드 설정"
 
 msgid "config_text_41"
-msgstr ""
+msgstr "비디오 설정"
 
 msgid "config_text_42"
 msgstr "가희 모드 중에 재생되는 동영상에 대한 설정을 할 수 있습니다."
@@ -467,28 +477,35 @@ msgid "config_text_43"
 msgstr "동영상 화질을 낮게 설정하면 게임 실행이 가벼워질 수 있습니다."
 
 msgid "config_text_44"
-msgstr ""
+msgstr "화질을 변경할 경우 동영상을 다시 다운로드합니다."
 
 msgid "config_text_45"
 msgstr ""
+"설정을 변경할 경우\n"
+"현재 다운로드된 동영상이 삭제되며\n"
+"음악 재생 시 새로운 동영상이 다시 다운로드됩니다.\n"
+"\n"
+"설정을 변경하시겠습니까?"
 
 msgid "config_text_46"
-msgstr ""
+msgstr "삭제가 완료되었습니다."
 
 msgid "config_text_47"
 msgstr "가희 설정"
 
 msgid "config_text_48"
-msgstr ""
+msgstr "<size=22>홈 화면의 가희에 대한 설정을 할 수 있습니다.</size>"
 
 msgid "config_text_49"
 msgstr "유닛의 센터 가희와 의상이 표시됩니다."
 
 msgid "config_text_50"
-msgstr ""
+msgstr "분장실에서 선택한 가희가 표시됩니다."
 
 msgid "config_text_51"
 msgstr ""
+"타이밍 설정을 기본값으로 되돌립니다.\n"
+"확인하시겠습니까?"
 
 msgid "config_text_52"
 msgstr ""
@@ -3406,7 +3423,7 @@ msgid "ar_sel_popup_shutdown_button_r"
 msgstr "OK"
 
 msgid "android_backbutton_disable"
-msgstr ""
+msgstr "뒤로 가기 키는 작동하지 않습니다."
 
 msgid "event_sp_daily_adv_num_title"
 msgstr ""
