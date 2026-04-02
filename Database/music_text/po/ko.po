@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-13 07:27+0000\n"
-"PO-Revision-Date: 2026-04-01 10:09+0000\n"
+"PO-Revision-Date: 2026-04-03 03:09+0000\n"
 "Last-Translator: 휴지 <hueji35@naver.com>\n"
 "Language-Team: Korean <https://umo-translate.xele.org/projects/umo/database/"
 "music_text/ko/>\n"
@@ -438,7 +438,7 @@ msgid "musicName_0015_storyDesc"
 msgstr ""
 
 msgid "musicName_0015_storyTitle"
-msgstr "그레이스, 난 셰릴이야'"
+msgstr "「그레이스, 난 셰릴이야」"
 
 msgid "musicName_0016_musicname"
 msgstr "트라이앵글러 (fight on stage)"
@@ -635,7 +635,7 @@ msgid "musicName_0022_storyDesc"
 msgstr ""
 
 msgid "musicName_0022_storyTitle"
-msgstr "나는 좋아하는 노래를 부르고 싶어!'"
+msgstr "「나는 좋아하는 노래를 부르고 싶어!」"
 
 msgid "musicName_0023_musicname"
 msgstr "룬이 반짝하고 빛나면"
@@ -740,7 +740,7 @@ msgstr ""
 "과연 그녀들의 노래는 바르 증후군을 진정시킬 수 있을까...?"
 
 msgid "musicName_0025_storyTitle"
-msgstr "들려줄게, 여신의 노래를!'"
+msgstr "「들려줄게, 여신의 노래를!」"
 
 msgid "musicName_0026_musicname"
 msgstr "당신의 소리"
@@ -788,7 +788,7 @@ msgid "musicName_0027_storyDesc"
 msgstr ""
 
 msgid "musicName_0027_storyTitle"
-msgstr "나, 모두에게 전하고 싶어!'"
+msgstr "「나, 모두에게 전하고 싶어!」"
 
 msgid "musicName_0028_musicname"
 msgstr "고양이 일기"
@@ -901,7 +901,7 @@ msgid "musicName_0031_storyDesc"
 msgstr ""
 
 msgid "musicName_0031_storyTitle"
-msgstr "그래 알았어, 멧서!'"
+msgstr "「그래 알았어, 멧서!」"
 
 msgid "musicName_0032_musicname"
 msgstr "POWER TO THE DREAM"
@@ -956,7 +956,7 @@ msgid "musicName_0033_storyDesc"
 msgstr ""
 
 msgid "musicName_0033_storyTitle"
-msgstr "날개에 바람을!' '은하에 노래를!'"
+msgstr "「날개에 바람을!」 「은하에 노래를!」"
 
 msgid "musicName_0034_musicname"
 msgstr "우리들의 전장"
@@ -989,7 +989,7 @@ msgid "musicName_0034_storyDesc"
 msgstr ""
 
 msgid "musicName_0034_storyTitle"
-msgstr "시험은 아직 안 끝났다고, 교관님!'"
+msgstr "「시험은 아직 안 끝났다고, 교관님!」"
 
 msgid "musicName_0035_musicname"
 msgstr "DYNAMITE EXPLOSION"
