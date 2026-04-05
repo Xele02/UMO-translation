@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2025-08-15 23:42+0000\n"
+"PO-Revision-Date: 2026-04-06 11:18+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -4017,13 +4017,14 @@ msgid "offer_cannot_cancel_text"
 msgstr ""
 
 msgid "item_use_caution_1"
-msgstr ""
+msgstr "Cet objet disparaîtra après la date d'expiration."
 
 msgid "item_use_caution_2"
 msgstr ""
+"En cas d'objet multiple, celui avec la date la plus proche sera utilisé."
 
 msgid "item_use_period"
-msgstr ""
+msgstr "Jusqu'au {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "item_use_period_title"
 msgstr "Date limite pour {0}"
@@ -4050,10 +4051,10 @@ msgid "rarityup_item_get_desc_1"
 msgstr ""
 
 msgid "rarityup_item_use_confirm_title"
-msgstr "Confirmation finale d'augmentation de rareté"
+msgstr "<size=26>Confirmation finale d'augmentation de rareté</size>"
 
 msgid "rarityup_item_use_confirm_desc"
-msgstr "Veux-tu vraiment augmenter la rareté de cette plaque ?"
+msgstr "Augmenter la rareté de cette plaque ?"
 
 msgid "rarityup_item_use_warning"
 msgstr ""
