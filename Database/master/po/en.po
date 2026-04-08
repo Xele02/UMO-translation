@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-03-17 15:09+0000\n"
+"PO-Revision-Date: 2026-04-09 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -7957,6 +7957,8 @@ msgstr ""
 
 msgid "cos_unlock_0003"
 msgstr ""
+"{2}'s bond level is {0}\n"
+"Current bond level: ({1}/{0})"
 
 msgid "cos_reward_0001"
 msgstr ""
@@ -13422,27 +13424,43 @@ msgstr ""
 
 msgid "qn_dsc_0030"
 msgstr ""
+"Get Freyja to Level 2 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0031"
 msgstr ""
+"Get Mikumo to Level 2 and\n"
+"read the next chat in Mikumo's room"
 
 msgid "qn_dsc_0032"
 msgstr ""
+"Get Kaname to Level 2 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0033"
 msgstr ""
+"Get Makina to Level 2 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0034"
 msgstr ""
+"Get Reina to Level 2 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0035"
 msgstr ""
+"Get Ranka to Level 2 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0036"
 msgstr ""
+"Get Sheryl to Level 2 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0037"
 msgstr ""
+"Get Minmay to Level 2 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0038"
 msgstr ""
@@ -14016,171 +14034,251 @@ msgstr ""
 
 msgid "qn_dsc_0256"
 msgstr ""
+"Get Freyja to Level 4 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0257"
-msgstr ""
+msgstr "Get Freyja to Level 10"
 
 msgid "qn_dsc_0258"
 msgstr ""
+"Get Freyja to Level 7 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0259"
-msgstr ""
+msgstr "Get Freyja to Level 20"
 
 msgid "qn_dsc_0260"
 msgstr ""
+"Get Freyja to Level 10 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0261"
 msgstr ""
+"Get Freyja to Level 12 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0262"
 msgstr ""
+"Get Freyja to Level 17 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0263"
 msgstr ""
+"Get Mikumo to Level 4 and\n"
+"read the next chat in Mikumo's room"
 
 msgid "qn_dsc_0264"
-msgstr ""
+msgstr "Get Mikumo to Level 10"
 
 msgid "qn_dsc_0265"
 msgstr ""
+"Get Mikumo to Level 7 and\n"
+"read the next chat in Mikumo's room"
 
 msgid "qn_dsc_0266"
-msgstr ""
+msgstr "Get Mikumo to Level 20"
 
 msgid "qn_dsc_0267"
 msgstr ""
+"Get Mikumo to Level 10 and\n"
+"read the next chat in Mikumo's room"
 
 msgid "qn_dsc_0268"
 msgstr ""
+"Get Mikumo to Level 12 and\n"
+"read the next chat in Mikumo's room"
 
 msgid "qn_dsc_0269"
 msgstr ""
+"Get Mikumo to Level 17 and\n"
+"read the next chat in Mikumo's room"
 
 msgid "qn_dsc_0270"
 msgstr ""
+"Get Kaname to Level 4 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0271"
-msgstr ""
+msgstr "Get Kaname to Level 10"
 
 msgid "qn_dsc_0272"
 msgstr ""
+"Get Kaname to Level 7 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0273"
-msgstr ""
+msgstr "Get Kaname to Level 20"
 
 msgid "qn_dsc_0274"
 msgstr ""
+"Get Kaname to Level 10 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0275"
 msgstr ""
+"Get Kaname to Level 12 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0276"
 msgstr ""
+"Get Kaname to Level 17 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0277"
 msgstr ""
+"Get Makina to Level 4 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0278"
-msgstr ""
+msgstr "Get Makina to Level 10"
 
 msgid "qn_dsc_0279"
 msgstr ""
+"Get Makina to Level 7 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0280"
-msgstr ""
+msgstr "Get Makina to Level 20"
 
 msgid "qn_dsc_0281"
 msgstr ""
+"Get Makina to Level 10 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0282"
 msgstr ""
+"Get Makina to Level 12 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0283"
 msgstr ""
+"Get Makina to Level 17 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0284"
 msgstr ""
+"Get Reina to Level 4 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0285"
-msgstr ""
+msgstr "Get Reina to Level 10"
 
 msgid "qn_dsc_0286"
 msgstr ""
+"Get Reina to Level 7 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0287"
-msgstr ""
+msgstr "Get Reina to Level 20"
 
 msgid "qn_dsc_0288"
 msgstr ""
+"Get Reina to Level 10 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0289"
 msgstr ""
+"Get Reina to Level 12 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0290"
 msgstr ""
+"Get Reina to Level 17 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0291"
 msgstr ""
+"Get Ranka to Level 4 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0292"
-msgstr ""
+msgstr "Get Ranka to Level 10"
 
 msgid "qn_dsc_0293"
 msgstr ""
+"Get Ranka to Level 7 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0294"
-msgstr ""
+msgstr "Get Ranka to Level 20"
 
 msgid "qn_dsc_0295"
 msgstr ""
+"Get Ranka to Level 10 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0296"
 msgstr ""
+"Get Ranka to Level 12 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0297"
 msgstr ""
+"Get Ranka to Level 17 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0298"
 msgstr ""
+"Get Sheryl to Level 4 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0299"
-msgstr ""
+msgstr "Get Sheryl to Level 10"
 
 msgid "qn_dsc_0300"
 msgstr ""
+"Get Sheryl to Level 7 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0301"
-msgstr ""
+msgstr "Get Sheryl to Level 20"
 
 msgid "qn_dsc_0302"
 msgstr ""
+"Get Sheryl to Level 10 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0303"
 msgstr ""
+"Get Sheryl to Level 12 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0304"
 msgstr ""
+"Get Sheryl to Level 17 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0305"
 msgstr ""
+"Get Minmay to Level 4 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0306"
-msgstr ""
+msgstr "Get Minmay to Level 10"
 
 msgid "qn_dsc_0307"
 msgstr ""
+"Get Minmay to Level 7 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0308"
-msgstr ""
+msgstr "Get Minmay to Level 20"
 
 msgid "qn_dsc_0309"
 msgstr ""
+"Get Minmay to Level 10 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0310"
 msgstr ""
+"Get Minmay to Level 12 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0311"
 msgstr ""
+"Get Minmay to Level 17 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0312"
 msgstr ""
@@ -14202,27 +14300,43 @@ msgstr ""
 
 msgid "qn_dsc_0318"
 msgstr ""
+"Get Freyja to Level 20 and\n"
+"read the next chat in Freyja's room"
 
 msgid "qn_dsc_0319"
 msgstr ""
+"Get Mikumo to Level 20 and\n"
+"read the next chat in MIkumo's room"
 
 msgid "qn_dsc_0320"
 msgstr ""
+"Get Kaname to Level 20 and\n"
+"read the next chat in Kaname's room"
 
 msgid "qn_dsc_0321"
 msgstr ""
+"Get Makina to Level 20 and\n"
+"read the next chat in Makina's room"
 
 msgid "qn_dsc_0322"
 msgstr ""
+"Get Reina to Level 20 and\n"
+"read the next chat in Reina's room"
 
 msgid "qn_dsc_0323"
 msgstr ""
+"Get Ranka to Level 20 and\n"
+"read the next chat in Ranka's room"
 
 msgid "qn_dsc_0324"
 msgstr ""
+"Get Sheryl to Level 20 and\n"
+"read the next chat in Sheryl's room"
 
 msgid "qn_dsc_0325"
 msgstr ""
+"Get Minmay to Level 20 and\n"
+"read the next chat in Minmay's room"
 
 msgid "qn_dsc_0326"
 msgstr ""
