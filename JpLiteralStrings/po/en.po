@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-04-11 06:27+0000\n"
+"PO-Revision-Date: 2026-04-11 17:46+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -171,13 +171,13 @@ msgid "StringLiteral_10090"
 msgstr "x"
 
 msgid "StringLiteral_10093"
-msgstr "{0:plural: Valkyrie|Valkyries}"
+msgstr "Valkyries"
 
 msgid "StringLiteral_10094"
 msgstr "Players"
 
 msgid "StringLiteral_10095"
-msgstr "{0:plural: set| sets}"
+msgstr "sets"
 
 msgid "StringLiteral_10096"
 msgstr "x"
@@ -186,34 +186,34 @@ msgid "StringLiteral_10136"
 msgstr "Not set"
 
 msgid "StringLiteral_10137"
-msgstr "{0:plural:Song Gem|Song Gems}"
+msgstr "Song Gems"
 
 msgid "StringLiteral_10138"
-msgstr "{0:plural:Gacha Ticket|Gacha Tickets}"
+msgstr "Gacha Tickets"
 
 msgid "StringLiteral_10139"
-msgstr "{0:plural:Episode Plate|Episode Plates}"
+msgstr "Episode Plates"
 
 msgid "StringLiteral_10140"
-msgstr "{0:plural:Costume|Costumes}"
+msgstr "Costumes"
 
 msgid "StringLiteral_10141"
-msgstr "{0:plural:Valkyrie|Valkyries}"
+msgstr "Valkyries"
 
 msgid "StringLiteral_10142"
 msgstr "Unlocked items"
 
 msgid "StringLiteral_10143"
-msgstr "{0:plural:Episode Orb|Episode Orbs}"
+msgstr "Episode Orbs"
 
 msgid "StringLiteral_10144"
-msgstr "{0:plural:Title|Titles}"
+msgstr "Titles"
 
 msgid "StringLiteral_10145"
 msgstr "Event items"
 
 msgid "StringLiteral_10146"
-msgstr "{0:plural:Event Ticket|Event Tickets}"
+msgstr "Event Tickets"
 
 msgid "StringLiteral_10147"
 msgstr "Divas"
@@ -228,16 +228,16 @@ msgid "StringLiteral_10150"
 msgstr "Energy Recovery items"
 
 msgid "StringLiteral_10151"
-msgstr "{0:plural:MV Ticket|MV Tickets}"
+msgstr "MV Tickets"
 
 msgid "StringLiteral_10152"
-msgstr "{0:plural:Medal|Medals}"
+msgstr "Medals"
 
 msgid "StringLiteral_10153"
-msgstr "{0:plural:Bonus VC|Bonus VCs}"
+msgstr "Bonus VCs"
 
 msgid "StringLiteral_10154"
-msgstr "{0:plural:Event Gacha Ticket|Event Gacha Tickets}"
+msgstr "Event Gacha Tickets"
 
 msgid "StringLiteral_10155"
 msgstr "Gift items"
@@ -1583,7 +1583,7 @@ msgid "UMO_currency_2010_desc"
 msgstr ""
 
 msgid "UMO_currency_2101_name"
-msgstr "{0:plural:Deculture Gacha Ticket|Deculture Gacha Tickets}"
+msgstr "Deculture Gacha Tickets"
 
 msgid "UMO_currency_2101_desc"
 msgstr ""
