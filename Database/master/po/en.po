@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-04-11 10:21+0000\n"
+"PO-Revision-Date: 2026-04-11 16:31+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -13349,13 +13349,13 @@ msgid "qn_dsc_0006"
 msgstr "Check out the SDN feed"
 
 msgid "qn_dsc_0007"
-msgstr "Collect your gifts from the Gift Box"
+msgstr "Receive gifts from your Gift Box"
 
 msgid "qn_dsc_0008"
-msgstr "Let's draw the gacha once"
+msgstr "Try playing the Free Gacha 1 time"
 
 msgid "qn_dsc_0009"
-msgstr "Let's assign an Episode Plate to a Diva"
+msgstr "Equip a Diva with an Episode Plate"
 
 msgid "qn_dsc_0010"
 msgstr ""
@@ -13364,19 +13364,19 @@ msgstr ""
 
 msgid "qn_dsc_0011"
 msgstr ""
-"Let's complete an episode plate\n"
-"and unlock a costume"
+"Unlock a costume by completely clearing\n"
+"the Episode \"Resolute Audition\""
 
 msgid "qn_dsc_0012"
 msgstr ""
-"Let's complete a song with Freyja at center stage\n"
-"She should be wearing the Strahl costume"
+"Clear a song with Freyja in the center\n"
+"while wearing the Strahl costume"
 
 msgid "qn_dsc_0013"
-msgstr "Complete all the debut missions"
+msgstr "Clear all debut missions"
 
 msgid "qn_dsc_0014"
-msgstr "If this is displayed, Report to the Discord"
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0015"
 msgstr ""
@@ -13971,25 +13971,25 @@ msgid "qn_dsc_0222"
 msgstr ""
 
 msgid "qn_dsc_0223"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0224"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0225"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0226"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0227"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0228"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0229"
-msgstr ""
+msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0230"
 msgstr ""
@@ -18252,7 +18252,7 @@ msgid "qn_dscb_0010"
 msgstr ""
 
 msgid "ep_nm_0001"
-msgstr ""
+msgstr "Resolute Audition"
 
 msgid "ep_nm_0002"
 msgstr ""
