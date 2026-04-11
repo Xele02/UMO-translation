@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-04-11 06:27+0000\n"
+"PO-Revision-Date: 2026-04-11 08:04+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -14287,16 +14287,16 @@ msgid "qn_dsc_0313"
 msgstr "Clear 30 normal missions"
 
 msgid "qn_dsc_0314"
-msgstr ""
+msgstr "Clear 50 normal missions"
 
 msgid "qn_dsc_0315"
-msgstr ""
+msgstr "Clear 100 normal missions"
 
 msgid "qn_dsc_0316"
-msgstr ""
+msgstr "Clear 150 normal missions"
 
 msgid "qn_dsc_0317"
-msgstr ""
+msgstr "Clear 200 normal missions"
 
 msgid "qn_dsc_0318"
 msgstr ""
@@ -14340,48 +14340,52 @@ msgstr ""
 
 msgid "qn_dsc_0326"
 msgstr ""
+"Follow the UtaMacross official Twitter\n"
+"account by tapping the Go button"
 
 msgid "qn_dsc_0327"
 msgstr ""
+"Add the UtaMacross official LINE account\n"
+"by tapping the Go button"
 
 msgid "qn_dsc_0328"
-msgstr ""
+msgstr "Change your bio text"
 
 msgid "qn_dsc_0329"
-msgstr ""
+msgstr "Ask to friend others"
 
 msgid "qn_dsc_0330"
-msgstr ""
+msgstr "Get a high score of 400000+"
 
 msgid "qn_dsc_0331"
-msgstr ""
+msgstr "Get a high score of 450000+"
 
 msgid "qn_dsc_0332"
-msgstr ""
+msgstr "Get a high score of 500000+"
 
 msgid "qn_dsc_0333"
-msgstr ""
+msgstr "Get 1500000 Union Credits (UC)"
 
 msgid "qn_dsc_0334"
-msgstr ""
+msgstr "Get 2000000 Union Credits (UC)"
 
 msgid "qn_dsc_0335"
-msgstr ""
+msgstr "Get 2500000 Union Credits (UC)"
 
 msgid "qn_dsc_0336"
-msgstr ""
+msgstr "Get 3000000 Union Credits (UC)"
 
 msgid "qn_dsc_0337"
-msgstr ""
+msgstr "Get 3500000 Union Credits (UC)"
 
 msgid "qn_dsc_0338"
-msgstr ""
+msgstr "Get 4000000 Union Credits (UC)"
 
 msgid "qn_dsc_0339"
-msgstr ""
+msgstr "Get 4500000 Union Credits (UC)"
 
 msgid "qn_dsc_0340"
-msgstr ""
+msgstr "Get 5000000 Union Credits (UC)"
 
 msgid "qn_dsc_0341"
 msgstr ""
