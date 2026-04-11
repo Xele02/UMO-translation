@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-04-11 08:04+0000\n"
+"PO-Revision-Date: 2026-04-11 10:21+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -13286,66 +13286,67 @@ msgid "em_dsc_0810"
 msgstr ""
 
 msgid "qd_dsc_0001"
-msgstr "Complete any song 3 times"
+msgstr "Clear songs 3 times"
 
 msgid "qd_dsc_0002"
-msgstr "Achieve an S-Rank on any song"
+msgstr "S-Rank or better a song 1 time"
 
 msgid "qd_dsc_0003"
-msgstr "Use an Active Skill and clear a song"
+msgstr "Use an Active Skill and clear a song 1 time"
 
 msgid "qd_dsc_0004"
-msgstr "Draw the gacha once"
+msgstr "Play the gacha once"
 
 msgid "qd_dsc_0005"
 msgstr "Clear 1 song in Super Diva Mode"
 
 msgid "qd_dsc_0006"
-msgstr "Complete all daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qd_dsc_0007"
-msgstr "Complete all daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qd_dsc_0008"
-msgstr "Complete all daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qd_dsc_0009"
-msgstr "Complete al daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qd_dsc_0010"
-msgstr "Complete al daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qd_dsc_0011"
-msgstr "Complete al daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qd_dsc_0012"
-msgstr "Complete al daily missions"
+msgstr "Clear all daily missions"
 
 msgid "qn_dsc_0001"
 msgstr ""
-"Let's Clear a song in Live Mode\n"
-"Reward Plate: ★3 \"Special plan\""
+"Clear 1 song in \"Live\"\n"
+"Reward Plate: ★3 \"特別な計らい\""
 
 msgid "qn_dsc_0002"
 msgstr ""
-"Let's clear a Space Time Memory\n"
-"And unlock a new song"
+"Clear Memory Dimension\n"
+"and unlock a new song"
 
+#, fuzzy
 msgid "qn_dsc_0003"
 msgstr ""
-"Raise Your Rank to 3 and unlock a second Diva\n"
-"Reward Plate: ★3 \"Captain Arad's Invitation\""
+"Reach Rank 3 and unlock another Diva\n"
+"Reward Plate: ★3 \"アラド隊長の誘い\""
 
 msgid "qn_dsc_0004"
-msgstr "Organize your new divas into a unit"
+msgstr "Put your new divas into a team"
 
 msgid "qn_dsc_0005"
 msgstr ""
-"Let's make an episode plate stronger\n"
-"by unlocking it's abilities"
+"Power up an Episode Plate\n"
+"by unlocking its Abilities"
 
 msgid "qn_dsc_0006"
-msgstr "Read a message on the SDN"
+msgstr "Check out the SDN feed"
 
 msgid "qn_dsc_0007"
 msgstr "Collect your gifts from the Gift Box"
@@ -13379,6 +13380,8 @@ msgstr "If this is displayed, Report to the Discord"
 
 msgid "qn_dsc_0015"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0016"
 msgstr ""
@@ -13557,54 +13560,88 @@ msgstr ""
 
 msgid "qn_dsc_0096"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0097"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0098"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0099"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0100"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0101"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0102"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0103"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0104"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0105"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0106"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0107"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0108"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0109"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0110"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0111"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0112"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0113"
 msgstr ""
@@ -14389,216 +14426,238 @@ msgstr "Get 5000000 Union Credits (UC)"
 
 msgid "qn_dsc_0341"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 300 times"
 
 msgid "qn_dsc_0342"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 350 times"
 
 msgid "qn_dsc_0343"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 400 times"
 
 msgid "qn_dsc_0344"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 450 times"
 
 msgid "qn_dsc_0345"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 500 times"
 
 msgid "qn_dsc_0346"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 600 times"
 
 msgid "qn_dsc_0347"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 700 times"
 
 msgid "qn_dsc_0348"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 800 times"
 
 msgid "qn_dsc_0349"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 900 times"
 
 msgid "qn_dsc_0350"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 1000 times"
 
 msgid "qn_dsc_0351"
-msgstr ""
+msgstr "Clear Macross 7 songs 300 times"
 
 msgid "qn_dsc_0352"
-msgstr ""
+msgstr "Clear Macross 7 songs 350 times"
 
 msgid "qn_dsc_0353"
-msgstr ""
+msgstr "Clear Macross 7 songs 400 times"
 
 msgid "qn_dsc_0354"
-msgstr ""
+msgstr "Clear Macross 7 songs 450 times"
 
 msgid "qn_dsc_0355"
-msgstr ""
+msgstr "Clear Macross 7 songs 500 times"
 
 msgid "qn_dsc_0356"
-msgstr ""
+msgstr "Clear Macross 7 songs 600 times"
 
 msgid "qn_dsc_0357"
-msgstr ""
+msgstr "Clear Macross 7 songs 700 times"
 
 msgid "qn_dsc_0358"
-msgstr ""
+msgstr "Clear Macross 7 songs 800 times"
 
 msgid "qn_dsc_0359"
-msgstr ""
+msgstr "Clear Macross 7 songs 900 times"
 
 msgid "qn_dsc_0360"
-msgstr ""
+msgstr "Clear Macross 7 songs 1000 times"
 
 msgid "qn_dsc_0361"
-msgstr ""
+msgstr "Clear Macross Frontier songs 300 times"
 
 msgid "qn_dsc_0362"
-msgstr ""
+msgstr "Clear Macross Frontier songs 350 times"
 
 msgid "qn_dsc_0363"
-msgstr ""
+msgstr "Clear Macross Frontier songs 400 times"
 
 msgid "qn_dsc_0364"
-msgstr ""
+msgstr "Clear Macross Frontier songs 450 times"
 
 msgid "qn_dsc_0365"
-msgstr ""
+msgstr "Clear Macross Frontier songs 500 times"
 
 msgid "qn_dsc_0366"
-msgstr ""
+msgstr "Clear Macross Frontier songs 600 times"
 
 msgid "qn_dsc_0367"
-msgstr ""
+msgstr "Clear Macross Frontier songs 700 times"
 
 msgid "qn_dsc_0368"
-msgstr ""
+msgstr "Clear Macross Frontier songs 800 times"
 
 msgid "qn_dsc_0369"
-msgstr ""
+msgstr "Clear Macross Frontier songs 900 times"
 
 msgid "qn_dsc_0370"
-msgstr ""
+msgstr "Clear Macross Frontier songs 1000 times"
 
 msgid "qn_dsc_0371"
-msgstr ""
+msgstr "Clear Macross Delta songs 300 times"
 
 msgid "qn_dsc_0372"
-msgstr ""
+msgstr "Clear Macross Delta songs 350 times"
 
 msgid "qn_dsc_0373"
-msgstr ""
+msgstr "Clear Macross Delta songs 400 times"
 
 msgid "qn_dsc_0374"
-msgstr ""
+msgstr "Clear Macross Delta songs 450 times"
 
 msgid "qn_dsc_0375"
-msgstr ""
+msgstr "Clear Macross Delta songs 500 times"
 
 msgid "qn_dsc_0376"
-msgstr ""
+msgstr "Clear Macross Delta songs 600 times"
 
 msgid "qn_dsc_0377"
-msgstr ""
+msgstr "Clear Macross Delta songs 700 times"
 
 msgid "qn_dsc_0378"
-msgstr ""
+msgstr "Clear Macross Delta songs 800 times"
 
 msgid "qn_dsc_0379"
-msgstr ""
+msgstr "Clear Macross Delta songs 900 times"
 
 msgid "qn_dsc_0380"
-msgstr ""
+msgstr "Clear Macross Delta songs 1000 times"
 
 msgid "qn_dsc_0381"
-msgstr ""
+msgstr "Full combo songs 150 times"
 
 msgid "qn_dsc_0382"
-msgstr ""
+msgstr "Full combo songs 200 times"
 
 msgid "qn_dsc_0383"
-msgstr ""
+msgstr "Full combo songs 300 times"
 
 msgid "qn_dsc_0384"
-msgstr ""
+msgstr "Full combo songs 400 times"
 
 msgid "qn_dsc_0385"
-msgstr ""
+msgstr "Full combo songs 500 times"
 
 msgid "qn_dsc_0386"
-msgstr ""
+msgstr "Full combo songs 750 times"
 
 msgid "qn_dsc_0387"
-msgstr ""
+msgstr "Full combo songs 1000 times"
 
 msgid "qn_dsc_0388"
-msgstr ""
+msgstr "Full combo songs 1250 times"
 
 msgid "qn_dsc_0389"
-msgstr ""
+msgstr "Full combo songs 1500 times"
 
 msgid "qn_dsc_0390"
-msgstr ""
+msgstr "Full combo songs 2000 times"
 
 msgid "qn_dsc_0391"
-msgstr ""
+msgstr "Full combo songs 2500 times"
 
 msgid "qn_dsc_0392"
-msgstr ""
+msgstr "Get SS score ranks 150 times"
 
 msgid "qn_dsc_0393"
-msgstr ""
+msgstr "Get SS score ranks 200 times"
 
 msgid "qn_dsc_0394"
-msgstr ""
+msgstr "Get SS score ranks 300 times"
 
 msgid "qn_dsc_0395"
-msgstr ""
+msgstr "Get SS score ranks 400 times"
 
 msgid "qn_dsc_0396"
-msgstr ""
+msgstr "Get SS score ranks 500 times"
 
 msgid "qn_dsc_0397"
-msgstr ""
+msgstr "Get SS score ranks 750 times"
 
 msgid "qn_dsc_0398"
-msgstr ""
+msgstr "Get SS score ranks 1000 times"
 
 msgid "qn_dsc_0399"
-msgstr ""
+msgstr "Get SS score ranks 1250 times"
 
 msgid "qn_dsc_0400"
-msgstr ""
+msgstr "Get SS score ranks 1500 times"
 
 msgid "qn_dsc_0401"
-msgstr ""
+msgstr "Get SS score ranks 2000 times"
 
 msgid "qn_dsc_0402"
-msgstr ""
+msgstr "Get SS score ranks 2500 times"
 
 msgid "qn_dsc_0403"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 400 times"
 
 msgid "qn_dsc_0404"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 500 times"
 
 msgid "qn_dsc_0405"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 750 times"
 
 msgid "qn_dsc_0406"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 1000 times"
 
 msgid "qn_dsc_0407"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 1250 times"
 
 msgid "qn_dsc_0408"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 1500 times"
 
 msgid "qn_dsc_0409"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 2000 times"
 
 msgid "qn_dsc_0410"
-msgstr ""
+msgstr "Trigger Super Diva Mode and clear songs 2500 times"
 
 msgid "qn_dsc_0411"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0412"
 msgstr ""
@@ -15403,12 +15462,18 @@ msgstr ""
 
 msgid "qn_dsc_0680"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0681"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0682"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0683"
 msgstr ""
@@ -15421,6 +15486,8 @@ msgstr ""
 
 msgid "qn_dsc_0686"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0687"
 msgstr ""
@@ -15442,6 +15509,8 @@ msgstr ""
 
 msgid "qn_dsc_0693"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0694"
 msgstr ""
@@ -15454,6 +15523,8 @@ msgstr ""
 
 msgid "qn_dsc_0697"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0698"
 msgstr ""
@@ -15577,6 +15648,8 @@ msgstr ""
 
 msgid "qn_dsc_0738"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0739"
 msgstr ""
@@ -15589,6 +15662,8 @@ msgstr ""
 
 msgid "qn_dsc_0742"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0743"
 msgstr ""
@@ -15832,6 +15907,8 @@ msgstr ""
 
 msgid "qn_dsc_0823"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0824"
 msgstr ""
@@ -15844,6 +15921,8 @@ msgstr ""
 
 msgid "qn_dsc_0827"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0828"
 msgstr ""
@@ -15874,6 +15953,8 @@ msgstr ""
 
 msgid "qn_dsc_0837"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0838"
 msgstr ""
@@ -15886,6 +15967,8 @@ msgstr ""
 
 msgid "qn_dsc_0841"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0842"
 msgstr ""
@@ -15898,6 +15981,8 @@ msgstr ""
 
 msgid "qn_dsc_0845"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0846"
 msgstr ""
@@ -15910,6 +15995,8 @@ msgstr ""
 
 msgid "qn_dsc_0849"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0850"
 msgstr ""
@@ -15922,6 +16009,8 @@ msgstr ""
 
 msgid "qn_dsc_0853"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0854"
 msgstr ""
@@ -15934,6 +16023,8 @@ msgstr ""
 
 msgid "qn_dsc_0857"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0858"
 msgstr ""
@@ -15955,6 +16046,8 @@ msgstr ""
 
 msgid "qn_dsc_0864"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0865"
 msgstr ""
@@ -15985,6 +16078,8 @@ msgstr ""
 
 msgid "qn_dsc_0874"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0875"
 msgstr ""
@@ -15997,9 +16092,13 @@ msgstr ""
 
 msgid "qn_dsc_0878"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0879"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0880"
 msgstr ""
@@ -16012,6 +16111,8 @@ msgstr ""
 
 msgid "qn_dsc_0883"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0884"
 msgstr ""
@@ -16033,6 +16134,8 @@ msgstr ""
 
 msgid "qn_dsc_0890"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0891"
 msgstr ""
@@ -16045,6 +16148,8 @@ msgstr ""
 
 msgid "qn_dsc_0894"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0895"
 msgstr ""
@@ -16066,6 +16171,8 @@ msgstr ""
 
 msgid "qn_dsc_0901"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0902"
 msgstr ""
@@ -16078,6 +16185,8 @@ msgstr ""
 
 msgid "qn_dsc_0905"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0906"
 msgstr ""
@@ -16590,6 +16699,8 @@ msgstr ""
 
 msgid "qn_dsc_1075"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1076"
 msgstr ""
@@ -16602,6 +16713,8 @@ msgstr ""
 
 msgid "qn_dsc_1079"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1080"
 msgstr ""
@@ -16623,6 +16736,8 @@ msgstr ""
 
 msgid "qn_dsc_1086"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1087"
 msgstr ""
@@ -16635,6 +16750,8 @@ msgstr ""
 
 msgid "qn_dsc_1090"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1091"
 msgstr ""
@@ -16665,6 +16782,8 @@ msgstr ""
 
 msgid "qn_dsc_1100"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1101"
 msgstr ""
@@ -16692,6 +16811,8 @@ msgstr ""
 
 msgid "qn_dsc_1110"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1111"
 msgstr ""
@@ -16704,6 +16825,8 @@ msgstr ""
 
 msgid "qn_dsc_1114"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1115"
 msgstr ""
@@ -16734,6 +16857,8 @@ msgstr ""
 
 msgid "qn_dsc_1124"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1125"
 msgstr ""
@@ -16746,6 +16871,8 @@ msgstr ""
 
 msgid "qn_dsc_1128"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1129"
 msgstr ""
@@ -16858,6 +16985,8 @@ msgstr ""
 
 msgid "qn_dsc_1158"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1159"
 msgstr ""
@@ -16897,6 +17026,8 @@ msgstr ""
 
 msgid "qn_dsc_1171"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1172"
 msgstr ""
@@ -16909,6 +17040,8 @@ msgstr ""
 
 msgid "qn_dsc_1175"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1176"
 msgstr ""
@@ -16939,6 +17072,8 @@ msgstr ""
 
 msgid "qn_dsc_1185"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1186"
 msgstr ""
@@ -16960,6 +17095,8 @@ msgstr ""
 
 msgid "qn_dsc_1192"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1193"
 msgstr ""
@@ -16981,6 +17118,8 @@ msgstr ""
 
 msgid "qn_dsc_1199"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1200"
 msgstr ""
@@ -17002,6 +17141,8 @@ msgstr ""
 
 msgid "qn_dsc_1206"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1207"
 msgstr ""
@@ -17041,6 +17182,8 @@ msgstr ""
 
 msgid "qn_dsc_1219"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1220"
 msgstr ""
@@ -17356,6 +17499,8 @@ msgstr ""
 
 msgid "qn_dsc_1324"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1325"
 msgstr ""
@@ -17368,6 +17513,8 @@ msgstr ""
 
 msgid "qn_dsc_1328"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1329"
 msgstr ""
@@ -17398,9 +17545,13 @@ msgstr ""
 
 msgid "qn_dsc_1338"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1339"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1340"
 msgstr ""
@@ -17476,6 +17627,8 @@ msgstr ""
 
 msgid "qn_dsc_1364"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1365"
 msgstr ""
@@ -17497,6 +17650,8 @@ msgstr ""
 
 msgid "qn_dsc_1371"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1372"
 msgstr ""
@@ -17509,6 +17664,8 @@ msgstr ""
 
 msgid "qn_dsc_1375"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1376"
 msgstr ""
@@ -17530,6 +17687,8 @@ msgstr ""
 
 msgid "qn_dsc_1400"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1401"
 msgstr ""
@@ -17551,6 +17710,8 @@ msgstr ""
 
 msgid "qn_dsc_1407"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1408"
 msgstr ""
@@ -17626,6 +17787,8 @@ msgstr ""
 
 msgid "qn_dsc_1432"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1433"
 msgstr ""
@@ -17722,6 +17885,8 @@ msgstr ""
 
 msgid "qn_dsc_1464"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1465"
 msgstr ""
@@ -17743,6 +17908,8 @@ msgstr ""
 
 msgid "qn_dsc_1471"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1472"
 msgstr ""
@@ -17764,6 +17931,8 @@ msgstr ""
 
 msgid "qn_dsc_1478"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1479"
 msgstr ""
@@ -17803,6 +17972,8 @@ msgstr ""
 
 msgid "qn_dsc_1491"
 msgstr ""
+"Make progress in the Memory Dimension and\n"
+"read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1492"
 msgstr ""
