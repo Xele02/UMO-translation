@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-03 12:11+0000\n"
+"PO-Revision-Date: 2026-05-03 12:29+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -3522,18 +3522,24 @@ msgstr ""
 
 msgid "costume_upgrade_item_detail_costume_skillget"
 msgstr ""
+"Upgrade costume effect by 1 level.\n"
+"Stats after upgrade: {0}"
 
 msgid "costume_upgrade_item_detail_costume_color"
 msgstr ""
 
 msgid "costume_upgrade_item_detail_diva_status_up"
 msgstr ""
+"Upgrade stats by {0}.\n"
+"Stats after upgrade: {1}{2}"
 
 msgid "costume_upgrade_item_detail_diva_status_up_title"
 msgstr ""
 
 msgid "costume_upgrade_item_detail_sub_plate"
 msgstr ""
+"Unlocks {0}.\n"
+"Unlocking this upgrades this slot by 3%."
 
 msgid "costume_upgrade_rank_up_unlock_condition_text"
 msgstr ""
