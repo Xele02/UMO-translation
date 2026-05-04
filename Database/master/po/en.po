@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-05-04 16:09+0000\n"
+"PO-Revision-Date: 2026-05-04 23:32+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -17861,73 +17861,73 @@ msgid "qn_dsc_1434"
 msgstr "Reach Player Rank 202"
 
 msgid "qn_dsc_1435"
-msgstr ""
+msgstr "Reach Player Rank 203"
 
 msgid "qn_dsc_1436"
-msgstr ""
+msgstr "Reach Player Rank 204"
 
 msgid "qn_dsc_1437"
-msgstr ""
+msgstr "Reach Player Rank 205"
 
 msgid "qn_dsc_1438"
-msgstr ""
+msgstr "Reach Player Rank 206"
 
 msgid "qn_dsc_1439"
-msgstr ""
+msgstr "Reach Player Rank 207"
 
 msgid "qn_dsc_1440"
-msgstr ""
+msgstr "Reach Player Rank 208"
 
 msgid "qn_dsc_1441"
-msgstr ""
+msgstr "Reach Player Rank 209"
 
 msgid "qn_dsc_1442"
-msgstr ""
+msgstr "Reach Player Rank 210"
 
 msgid "qn_dsc_1443"
-msgstr ""
+msgstr "Reach Player Rank 211"
 
 msgid "qn_dsc_1444"
-msgstr ""
+msgstr "Reach Player Rank 212"
 
 msgid "qn_dsc_1445"
-msgstr ""
+msgstr "Reach Player Rank 213"
 
 msgid "qn_dsc_1446"
-msgstr ""
+msgstr "Reach Player Rank 214"
 
 msgid "qn_dsc_1447"
-msgstr ""
+msgstr "Reach Player Rank 215"
 
 msgid "qn_dsc_1448"
-msgstr ""
+msgstr "Reach Player Rank 216"
 
 msgid "qn_dsc_1449"
-msgstr ""
+msgstr "Reach Player Rank 217"
 
 msgid "qn_dsc_1450"
-msgstr ""
+msgstr "Reach Player Rank 218"
 
 msgid "qn_dsc_1451"
-msgstr ""
+msgstr "Reach Player Rank 219"
 
 msgid "qn_dsc_1452"
-msgstr ""
+msgstr "Reach Player Rank 220"
 
 msgid "qn_dsc_1453"
-msgstr ""
+msgstr "Reach Player Rank 221"
 
 msgid "qn_dsc_1454"
-msgstr ""
+msgstr "Reach Player Rank 222"
 
 msgid "qn_dsc_1455"
-msgstr ""
+msgstr "Reach Player Rank 223"
 
 msgid "qn_dsc_1456"
-msgstr ""
+msgstr "Reach Player Rank 224"
 
 msgid "qn_dsc_1457"
-msgstr ""
+msgstr "Reach Player Rank 225"
 
 msgid "qn_dsc_1458"
 msgstr ""
