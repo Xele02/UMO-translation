@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-04 15:57+0000\n"
-"PO-Revision-Date: 2026-05-03 17:30+0000\n"
+"PO-Revision-Date: 2026-05-04 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/en/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "     Rank 8"
 
 msgid "bingo_0001_0001_0001_cond"
-msgstr "Player's Rank reaches Level 8"
+msgstr "Reach Player Rank 8"
 
 msgid "bingo_0001_0001_0002_desc"
 msgstr ""
@@ -96,7 +96,7 @@ msgstr ""
 "rank of 12"
 
 msgid "bingo_0001_0001_0010_cond"
-msgstr "Achieve Player Rank of 12"
+msgstr "Reach Player Rank 12"
 
 msgid "bingo_0001_0001_0011_desc"
 msgstr ""
@@ -160,7 +160,7 @@ msgid "bingo_0001_0001_0019_desc"
 msgstr ""
 
 msgid "bingo_0001_0001_0019_cond"
-msgstr ""
+msgstr "Reach Player Rank 20"
 
 msgid "bingo_0001_0001_0020_desc"
 msgstr ""
@@ -224,7 +224,7 @@ msgstr ""
 "     Rank 8"
 
 msgid "bingo_0002_0002_0001_cond"
-msgstr ""
+msgstr "Reach Player Rank 8"
 
 msgid "bingo_0002_0002_0002_desc"
 msgstr ""
@@ -879,7 +879,7 @@ msgstr ""
 "     Rank 8"
 
 msgid "bingo_0004_0004_0001_cond"
-msgstr ""
+msgstr "Reach Player Rank 8"
 
 msgid "bingo_0004_0004_0002_desc"
 msgstr ""
@@ -1048,7 +1048,7 @@ msgstr ""
 "     Rank 8"
 
 msgid "bingo_0005_0005_0001_cond"
-msgstr ""
+msgstr "Reach Player Rank 8"
 
 msgid "bingo_0005_0005_0002_desc"
 msgstr ""
