@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-03 16:58+0000\n"
+"PO-Revision-Date: 2026-05-04 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -3706,9 +3706,11 @@ msgstr ""
 
 msgid "popup_sel_cos_terms_text_color01"
 msgstr ""
+"Upgrade {0}'s\n"
+"Kyawawa Rank to {1}"
 
 msgid "popup_sel_cos_terms_text_color02"
-msgstr ""
+msgstr "Unlock Costume Upgrades"
 
 msgid "popup_sel_cos_terms_text_color03"
 msgstr ""
@@ -3780,7 +3782,7 @@ msgid "popup_update_operation_text"
 msgstr ""
 
 msgid "popup_dateline_error_title"
-msgstr "Date Change"
+msgstr "Date Changed"
 
 msgid "popup_dateline_error_text"
 msgstr ""
@@ -6157,6 +6159,9 @@ msgstr ""
 
 msgid "popup_prism_unlock_text"
 msgstr ""
+"Unlock condition:\n"
+"\n"
+"Reach Player Rank {0}."
 
 msgid "popup_unit_status_attr_reg"
 msgstr ""
@@ -6255,7 +6260,7 @@ msgid "popup_music_unlock_text01"
 msgstr ""
 
 msgid "popup_music_unlock_text02"
-msgstr ""
+msgstr "・ Reach Player Rank {0}."
 
 msgid "popup_music_unlock_text03"
 msgstr ""
@@ -6264,7 +6269,7 @@ msgid "popup_music_unlock_text04"
 msgstr ""
 
 msgid "popup_music_unlock_text05"
-msgstr ""
+msgstr "Reach Player Rank {0}."
 
 msgid "popup_music_unlock_text06"
 msgstr ""
