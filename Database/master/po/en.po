@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-04-11 17:46+0000\n"
+"PO-Revision-Date: 2026-05-04 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -13323,7 +13323,7 @@ msgstr "Clear all daily missions"
 
 msgid "qn_dsc_0001"
 msgstr ""
-"Clear 1 song in \"Live\"\n"
+"Clear 1 song in Live\n"
 "Reward Plate: ★3 \"特別な計らい\""
 
 msgid "qn_dsc_0002"
@@ -13385,9 +13385,11 @@ msgstr ""
 
 msgid "qn_dsc_0016"
 msgstr ""
+"Clear 5 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0017"
-msgstr ""
+msgstr "Reach Player Rank 5"
 
 msgid "qn_dsc_0018"
 msgstr ""
@@ -13470,90 +13472,148 @@ msgstr ""
 
 msgid "qn_dsc_0039"
 msgstr ""
+"Clear 10 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0040"
 msgstr ""
+"Clear 20 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0041"
 msgstr ""
+"Clear 30 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0042"
 msgstr ""
+"Clear 40 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0043"
 msgstr ""
+"Clear 50 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0044"
 msgstr ""
+"Clear 75 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0045"
 msgstr ""
+"Clear 100 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0046"
 msgstr ""
+"Clear 150 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0047"
 msgstr ""
+"Clear 200 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0048"
 msgstr ""
+"Clear 250 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0049"
 msgstr ""
+"Clear 300 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0050"
 msgstr ""
+"Clear 400 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0051"
 msgstr ""
+"Clear 500 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0052"
 msgstr ""
+"Clear 600 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0053"
 msgstr ""
+"Clear 700 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0054"
 msgstr ""
+"Clear 800 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0055"
 msgstr ""
+"Clear 900 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0056"
 msgstr ""
+"Clear 1000 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0057"
 msgstr ""
+"Clear 1250 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0058"
 msgstr ""
+"Clear 1500 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0059"
 msgstr ""
+"Clear 1750 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0060"
 msgstr ""
+"Clear 2000 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0061"
 msgstr ""
+"Clear 2250 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0062"
 msgstr ""
+"Clear 2500 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0063"
 msgstr ""
+"Clear 2750 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0064"
 msgstr ""
+"Clear 3000 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0065"
 msgstr ""
+"Clear 3250 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0066"
 msgstr ""
+"Clear 3500 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0067"
 msgstr ""
+"Clear 3750 songs in Live and read the\n"
+"next chat in The Hangout chat room"
 
 msgid "qn_dsc_0095"
 msgstr ""
@@ -13644,61 +13704,61 @@ msgstr ""
 "read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_0113"
-msgstr ""
+msgstr "Reach Player Rank 6"
 
 msgid "qn_dsc_0114"
-msgstr ""
+msgstr "Reach Player Rank 7"
 
 msgid "qn_dsc_0115"
-msgstr ""
+msgstr "Reach Player Rank 8"
 
 msgid "qn_dsc_0116"
-msgstr ""
+msgstr "Reach Player Rank 9"
 
 msgid "qn_dsc_0117"
-msgstr ""
+msgstr "Reach Player Rank 10"
 
 msgid "qn_dsc_0118"
-msgstr ""
+msgstr "Reach Player Rank 11"
 
 msgid "qn_dsc_0119"
-msgstr ""
+msgstr "Reach Player Rank 12"
 
 msgid "qn_dsc_0120"
-msgstr ""
+msgstr "Reach Player Rank 13"
 
 msgid "qn_dsc_0121"
-msgstr ""
+msgstr "Reach Player Rank 14"
 
 msgid "qn_dsc_0122"
-msgstr ""
+msgstr "Reach Player Rank 15"
 
 msgid "qn_dsc_0123"
-msgstr ""
+msgstr "Reach Player Rank 16"
 
 msgid "qn_dsc_0124"
-msgstr ""
+msgstr "Reach Player Rank 17"
 
 msgid "qn_dsc_0125"
-msgstr ""
+msgstr "Reach Player Rank 18"
 
 msgid "qn_dsc_0126"
-msgstr ""
+msgstr "Reach Player Rank 19"
 
 msgid "qn_dsc_0127"
-msgstr ""
+msgstr "Reach Player Rank 20"
 
 msgid "qn_dsc_0128"
-msgstr ""
+msgstr "Reach Player Rank 21"
 
 msgid "qn_dsc_0129"
-msgstr ""
+msgstr "Reach Player Rank 22"
 
 msgid "qn_dsc_0130"
-msgstr ""
+msgstr "Reach Player Rank 23"
 
 msgid "qn_dsc_0131"
-msgstr ""
+msgstr "Reach Player Rank 24"
 
 msgid "qn_dsc_0132"
 msgstr ""
@@ -14756,232 +14816,232 @@ msgid "qn_dsc_0443"
 msgstr ""
 
 msgid "qn_dsc_0444"
-msgstr ""
+msgstr "Reach Player Rank 25"
 
 msgid "qn_dsc_0445"
-msgstr ""
+msgstr "Reach Player Rank 26"
 
 msgid "qn_dsc_0446"
-msgstr ""
+msgstr "Reach Player Rank 27"
 
 msgid "qn_dsc_0447"
-msgstr ""
+msgstr "Reach Player Rank 28"
 
 msgid "qn_dsc_0448"
-msgstr ""
+msgstr "Reach Player Rank 29"
 
 msgid "qn_dsc_0449"
-msgstr ""
+msgstr "Reach Player Rank 30"
 
 msgid "qn_dsc_0450"
-msgstr ""
+msgstr "Reach Player Rank 31"
 
 msgid "qn_dsc_0451"
-msgstr ""
+msgstr "Reach Player Rank 32"
 
 msgid "qn_dsc_0452"
-msgstr ""
+msgstr "Reach Player Rank 33"
 
 msgid "qn_dsc_0453"
-msgstr ""
+msgstr "Reach Player Rank 34"
 
 msgid "qn_dsc_0454"
-msgstr ""
+msgstr "Reach Player Rank 35"
 
 msgid "qn_dsc_0455"
-msgstr ""
+msgstr "Reach Player Rank 36"
 
 msgid "qn_dsc_0456"
-msgstr ""
+msgstr "Reach Player Rank 37"
 
 msgid "qn_dsc_0457"
-msgstr ""
+msgstr "Reach Player Rank 38"
 
 msgid "qn_dsc_0458"
-msgstr ""
+msgstr "Reach Player Rank 39"
 
 msgid "qn_dsc_0459"
-msgstr ""
+msgstr "Reach Player Rank 40"
 
 msgid "qn_dsc_0460"
-msgstr ""
+msgstr "Reach Player Rank 41"
 
 msgid "qn_dsc_0461"
-msgstr ""
+msgstr "Reach Player Rank 42"
 
 msgid "qn_dsc_0462"
-msgstr ""
+msgstr "Reach Player Rank 43"
 
 msgid "qn_dsc_0463"
-msgstr ""
+msgstr "Reach Player Rank 44"
 
 msgid "qn_dsc_0464"
-msgstr ""
+msgstr "Reach Player Rank 45"
 
 msgid "qn_dsc_0465"
-msgstr ""
+msgstr "Reach Player Rank 46"
 
 msgid "qn_dsc_0466"
-msgstr ""
+msgstr "Reach Player Rank 47"
 
 msgid "qn_dsc_0467"
-msgstr ""
+msgstr "Reach Player Rank 48"
 
 msgid "qn_dsc_0468"
-msgstr ""
+msgstr "Reach Player Rank 49"
 
 msgid "qn_dsc_0469"
-msgstr ""
+msgstr "Reach Player Rank 50"
 
 msgid "qn_dsc_0470"
-msgstr ""
+msgstr "Reach Player Rank 51"
 
 msgid "qn_dsc_0471"
-msgstr ""
+msgstr "Reach Player Rank 52"
 
 msgid "qn_dsc_0472"
-msgstr ""
+msgstr "Reach Player Rank 53"
 
 msgid "qn_dsc_0473"
-msgstr ""
+msgstr "Reach Player Rank 54"
 
 msgid "qn_dsc_0474"
-msgstr ""
+msgstr "Reach Player Rank 55"
 
 msgid "qn_dsc_0475"
-msgstr ""
+msgstr "Reach Player Rank 56"
 
 msgid "qn_dsc_0476"
-msgstr ""
+msgstr "Reach Player Rank 57"
 
 msgid "qn_dsc_0477"
-msgstr ""
+msgstr "Reach Player Rank 58"
 
 msgid "qn_dsc_0478"
-msgstr ""
+msgstr "Reach Player Rank 59"
 
 msgid "qn_dsc_0479"
-msgstr ""
+msgstr "Reach Player Rank 60"
 
 msgid "qn_dsc_0480"
-msgstr ""
+msgstr "Reach Player Rank 61"
 
 msgid "qn_dsc_0481"
-msgstr ""
+msgstr "Reach Player Rank 62"
 
 msgid "qn_dsc_0482"
-msgstr ""
+msgstr "Reach Player Rank 63"
 
 msgid "qn_dsc_0483"
-msgstr ""
+msgstr "Reach Player Rank 64"
 
 msgid "qn_dsc_0484"
-msgstr ""
+msgstr "Reach Player Rank 65"
 
 msgid "qn_dsc_0485"
-msgstr ""
+msgstr "Reach Player Rank 66"
 
 msgid "qn_dsc_0486"
-msgstr ""
+msgstr "Reach Player Rank 67"
 
 msgid "qn_dsc_0487"
-msgstr ""
+msgstr "Reach Player Rank 68"
 
 msgid "qn_dsc_0488"
-msgstr ""
+msgstr "Reach Player Rank 69"
 
 msgid "qn_dsc_0489"
-msgstr ""
+msgstr "Reach Player Rank 70"
 
 msgid "qn_dsc_0490"
-msgstr ""
+msgstr "Reach Player Rank 71"
 
 msgid "qn_dsc_0491"
-msgstr ""
+msgstr "Reach Player Rank 72"
 
 msgid "qn_dsc_0492"
-msgstr ""
+msgstr "Reach Player Rank 73"
 
 msgid "qn_dsc_0493"
-msgstr ""
+msgstr "Reach Player Rank 74"
 
 msgid "qn_dsc_0494"
-msgstr ""
+msgstr "Reach Player Rank 75"
 
 msgid "qn_dsc_0495"
-msgstr ""
+msgstr "Reach Player Rank 76"
 
 msgid "qn_dsc_0496"
-msgstr ""
+msgstr "Reach Player Rank 77"
 
 msgid "qn_dsc_0497"
-msgstr ""
+msgstr "Reach Player Rank 78"
 
 msgid "qn_dsc_0498"
-msgstr ""
+msgstr "Reach Player Rank 79"
 
 msgid "qn_dsc_0499"
-msgstr ""
+msgstr "Reach Player Rank 80"
 
 msgid "qn_dsc_0500"
-msgstr ""
+msgstr "Reach Player Rank 81"
 
 msgid "qn_dsc_0501"
-msgstr ""
+msgstr "Reach Player Rank 82"
 
 msgid "qn_dsc_0502"
-msgstr ""
+msgstr "Reach Player Rank 83"
 
 msgid "qn_dsc_0503"
-msgstr ""
+msgstr "Reach Player Rank 84"
 
 msgid "qn_dsc_0504"
-msgstr ""
+msgstr "Reach Player Rank 85"
 
 msgid "qn_dsc_0505"
-msgstr ""
+msgstr "Reach Player Rank 86"
 
 msgid "qn_dsc_0506"
-msgstr ""
+msgstr "Reach Player Rank 87"
 
 msgid "qn_dsc_0507"
-msgstr ""
+msgstr "Reach Player Rank 88"
 
 msgid "qn_dsc_0508"
-msgstr ""
+msgstr "Reach Player Rank 89"
 
 msgid "qn_dsc_0509"
-msgstr ""
+msgstr "Reach Player Rank 90"
 
 msgid "qn_dsc_0510"
-msgstr ""
+msgstr "Reach Player Rank 91"
 
 msgid "qn_dsc_0511"
-msgstr ""
+msgstr "Reach Player Rank 92"
 
 msgid "qn_dsc_0512"
-msgstr ""
+msgstr "Reach Player Rank 93"
 
 msgid "qn_dsc_0513"
-msgstr ""
+msgstr "Reach Player Rank 94"
 
 msgid "qn_dsc_0514"
-msgstr ""
+msgstr "Reach Player Rank 95"
 
 msgid "qn_dsc_0515"
-msgstr ""
+msgstr "Reach Player Rank 96"
 
 msgid "qn_dsc_0516"
-msgstr ""
+msgstr "Reach Player Rank 97"
 
 msgid "qn_dsc_0517"
-msgstr ""
+msgstr "Reach Player Rank 98"
 
 msgid "qn_dsc_0518"
-msgstr ""
+msgstr "Reach Player Rank 99"
 
 msgid "qn_dsc_0519"
-msgstr ""
+msgstr "Reach Player Rank 100"
 
 msgid "qn_dsc_0521"
 msgstr ""
@@ -15143,304 +15203,304 @@ msgid "qn_dsc_0573"
 msgstr ""
 
 msgid "qn_dsc_0574"
-msgstr ""
+msgstr "Reach Player Rank 101"
 
 msgid "qn_dsc_0575"
-msgstr ""
+msgstr "Reach Player Rank 102"
 
 msgid "qn_dsc_0576"
-msgstr ""
+msgstr "Reach Player Rank 103"
 
 msgid "qn_dsc_0577"
-msgstr ""
+msgstr "Reach Player Rank 104"
 
 msgid "qn_dsc_0578"
-msgstr ""
+msgstr "Reach Player Rank 105"
 
 msgid "qn_dsc_0579"
-msgstr ""
+msgstr "Reach Player Rank 106"
 
 msgid "qn_dsc_0580"
-msgstr ""
+msgstr "Reach Player Rank 107"
 
 msgid "qn_dsc_0581"
-msgstr ""
+msgstr "Reach Player Rank 108"
 
 msgid "qn_dsc_0582"
-msgstr ""
+msgstr "Reach Player Rank 109"
 
 msgid "qn_dsc_0583"
-msgstr ""
+msgstr "Reach Player Rank 110"
 
 msgid "qn_dsc_0584"
-msgstr ""
+msgstr "Reach Player Rank 111"
 
 msgid "qn_dsc_0585"
-msgstr ""
+msgstr "Reach Player Rank 112"
 
 msgid "qn_dsc_0586"
-msgstr ""
+msgstr "Reach Player Rank 113"
 
 msgid "qn_dsc_0587"
-msgstr ""
+msgstr "Reach Player Rank 114"
 
 msgid "qn_dsc_0588"
-msgstr ""
+msgstr "Reach Player Rank 115"
 
 msgid "qn_dsc_0589"
-msgstr ""
+msgstr "Reach Player Rank 116"
 
 msgid "qn_dsc_0590"
-msgstr ""
+msgstr "Reach Player Rank 117"
 
 msgid "qn_dsc_0591"
-msgstr ""
+msgstr "Reach Player Rank 118"
 
 msgid "qn_dsc_0592"
-msgstr ""
+msgstr "Reach Player Rank 119"
 
 msgid "qn_dsc_0593"
-msgstr ""
+msgstr "Reach Player Rank 120"
 
 msgid "qn_dsc_0594"
-msgstr ""
+msgstr "Reach Player Rank 121"
 
 msgid "qn_dsc_0595"
-msgstr ""
+msgstr "Reach Player Rank 122"
 
 msgid "qn_dsc_0596"
-msgstr ""
+msgstr "Reach Player Rank 123"
 
 msgid "qn_dsc_0597"
-msgstr ""
+msgstr "Reach Player Rank 124"
 
 msgid "qn_dsc_0598"
-msgstr ""
+msgstr "Reach Player Rank 125"
 
 msgid "qn_dsc_0599"
-msgstr ""
+msgstr "Reach Player Rank 126"
 
 msgid "qn_dsc_0600"
-msgstr ""
+msgstr "Reach Player Rank 127"
 
 msgid "qn_dsc_0601"
-msgstr ""
+msgstr "Reach Player Rank 128"
 
 msgid "qn_dsc_0602"
-msgstr ""
+msgstr "Reach Player Rank 129"
 
 msgid "qn_dsc_0603"
-msgstr ""
+msgstr "Reach Player Rank 130"
 
 msgid "qn_dsc_0604"
-msgstr ""
+msgstr "Reach Player Rank 131"
 
 msgid "qn_dsc_0605"
-msgstr ""
+msgstr "Reach Player Rank 132"
 
 msgid "qn_dsc_0606"
-msgstr ""
+msgstr "Reach Player Rank 133"
 
 msgid "qn_dsc_0607"
-msgstr ""
+msgstr "Reach Player Rank 134"
 
 msgid "qn_dsc_0608"
-msgstr ""
+msgstr "Reach Player Rank 135"
 
 msgid "qn_dsc_0609"
-msgstr ""
+msgstr "Reach Player Rank 136"
 
 msgid "qn_dsc_0610"
-msgstr ""
+msgstr "Reach Player Rank 137"
 
 msgid "qn_dsc_0611"
-msgstr ""
+msgstr "Reach Player Rank 138"
 
 msgid "qn_dsc_0612"
-msgstr ""
+msgstr "Reach Player Rank 139"
 
 msgid "qn_dsc_0613"
-msgstr ""
+msgstr "Reach Player Rank 140"
 
 msgid "qn_dsc_0614"
-msgstr ""
+msgstr "Reach Player Rank 141"
 
 msgid "qn_dsc_0615"
-msgstr ""
+msgstr "Reach Player Rank 142"
 
 msgid "qn_dsc_0616"
-msgstr ""
+msgstr "Reach Player Rank 143"
 
 msgid "qn_dsc_0617"
-msgstr ""
+msgstr "Reach Player Rank 144"
 
 msgid "qn_dsc_0618"
-msgstr ""
+msgstr "Reach Player Rank 145"
 
 msgid "qn_dsc_0619"
-msgstr ""
+msgstr "Reach Player Rank 146"
 
 msgid "qn_dsc_0620"
-msgstr ""
+msgstr "Reach Player Rank 147"
 
 msgid "qn_dsc_0621"
-msgstr ""
+msgstr "Reach Player Rank 148"
 
 msgid "qn_dsc_0622"
-msgstr ""
+msgstr "Reach Player Rank 149"
 
 msgid "qn_dsc_0623"
-msgstr ""
+msgstr "Reach Player Rank 150"
 
 msgid "qn_dsc_0624"
-msgstr ""
+msgstr "Reach Player Rank 151"
 
 msgid "qn_dsc_0625"
-msgstr ""
+msgstr "Reach Player Rank 152"
 
 msgid "qn_dsc_0626"
-msgstr ""
+msgstr "Reach Player Rank 153"
 
 msgid "qn_dsc_0627"
-msgstr ""
+msgstr "Reach Player Rank 154"
 
 msgid "qn_dsc_0628"
-msgstr ""
+msgstr "Reach Player Rank 155"
 
 msgid "qn_dsc_0629"
-msgstr ""
+msgstr "Reach Player Rank 156"
 
 msgid "qn_dsc_0630"
-msgstr ""
+msgstr "Reach Player Rank 157"
 
 msgid "qn_dsc_0631"
-msgstr ""
+msgstr "Reach Player Rank 158"
 
 msgid "qn_dsc_0632"
-msgstr ""
+msgstr "Reach Player Rank 159"
 
 msgid "qn_dsc_0633"
-msgstr ""
+msgstr "Reach Player Rank 160"
 
 msgid "qn_dsc_0634"
-msgstr ""
+msgstr "Reach Player Rank 161"
 
 msgid "qn_dsc_0635"
-msgstr ""
+msgstr "Reach Player Rank 162"
 
 msgid "qn_dsc_0636"
-msgstr ""
+msgstr "Reach Player Rank 163"
 
 msgid "qn_dsc_0637"
-msgstr ""
+msgstr "Reach Player Rank 164"
 
 msgid "qn_dsc_0638"
-msgstr ""
+msgstr "Reach Player Rank 165"
 
 msgid "qn_dsc_0639"
-msgstr ""
+msgstr "Reach Player Rank 166"
 
 msgid "qn_dsc_0640"
-msgstr ""
+msgstr "Reach Player Rank 167"
 
 msgid "qn_dsc_0641"
-msgstr ""
+msgstr "Reach Player Rank 168"
 
 msgid "qn_dsc_0642"
-msgstr ""
+msgstr "Reach Player Rank 169"
 
 msgid "qn_dsc_0643"
-msgstr ""
+msgstr "Reach Player Rank 170"
 
 msgid "qn_dsc_0644"
-msgstr ""
+msgstr "Reach Player Rank 171"
 
 msgid "qn_dsc_0645"
-msgstr ""
+msgstr "Reach Player Rank 172"
 
 msgid "qn_dsc_0646"
-msgstr ""
+msgstr "Reach Player Rank 173"
 
 msgid "qn_dsc_0647"
-msgstr ""
+msgstr "Reach Player Rank 174"
 
 msgid "qn_dsc_0648"
-msgstr ""
+msgstr "Reach Player Rank 175"
 
 msgid "qn_dsc_0649"
-msgstr ""
+msgstr "Reach Player Rank 176"
 
 msgid "qn_dsc_0650"
-msgstr ""
+msgstr "Reach Player Rank 177"
 
 msgid "qn_dsc_0651"
-msgstr ""
+msgstr "Reach Player Rank 178"
 
 msgid "qn_dsc_0652"
-msgstr ""
+msgstr "Reach Player Rank 179"
 
 msgid "qn_dsc_0653"
-msgstr ""
+msgstr "Reach Player Rank 180"
 
 msgid "qn_dsc_0654"
-msgstr ""
+msgstr "Reach Player Rank 181"
 
 msgid "qn_dsc_0655"
-msgstr ""
+msgstr "Reach Player Rank 182"
 
 msgid "qn_dsc_0656"
-msgstr ""
+msgstr "Reach Player Rank 183"
 
 msgid "qn_dsc_0657"
-msgstr ""
+msgstr "Reach Player Rank 184"
 
 msgid "qn_dsc_0658"
-msgstr ""
+msgstr "Reach Player Rank 185"
 
 msgid "qn_dsc_0659"
-msgstr ""
+msgstr "Reach Player Rank 186"
 
 msgid "qn_dsc_0660"
-msgstr ""
+msgstr "Reach Player Rank 187"
 
 msgid "qn_dsc_0661"
-msgstr ""
+msgstr "Reach Player Rank 188"
 
 msgid "qn_dsc_0662"
-msgstr ""
+msgstr "Reach Player Rank 189"
 
 msgid "qn_dsc_0663"
-msgstr ""
+msgstr "Reach Player Rank 190"
 
 msgid "qn_dsc_0664"
-msgstr ""
+msgstr "Reach Player Rank 191"
 
 msgid "qn_dsc_0665"
-msgstr ""
+msgstr "Reach Player Rank 192"
 
 msgid "qn_dsc_0666"
-msgstr ""
+msgstr "Reach Player Rank 193"
 
 msgid "qn_dsc_0667"
-msgstr ""
+msgstr "Reach Player Rank 194"
 
 msgid "qn_dsc_0668"
-msgstr ""
+msgstr "Reach Player Rank 195"
 
 msgid "qn_dsc_0669"
-msgstr ""
+msgstr "Reach Player Rank 196"
 
 msgid "qn_dsc_0670"
-msgstr ""
+msgstr "Reach Player Rank 197"
 
 msgid "qn_dsc_0671"
-msgstr ""
+msgstr "Reach Player Rank 198"
 
 msgid "qn_dsc_0672"
-msgstr ""
+msgstr "Reach Player Rank 199"
 
 msgid "qn_dsc_0673"
-msgstr ""
+msgstr "Reach Player Rank 200"
 
 msgid "qn_dsc_0674"
 msgstr ""
@@ -15537,6 +15597,8 @@ msgstr ""
 
 msgid "qn_dsc_0701"
 msgstr ""
+"Reach Player Rank 10 and\n"
+"unlock Simulation Live"
 
 msgid "qn_dsc_0702"
 msgstr ""
@@ -16394,6 +16456,8 @@ msgstr "Rank up costume Kyawawa Ranks 100 times in Costume Upgrades"
 
 msgid "qn_dsc_0974"
 msgstr ""
+"Reach Player Rank 7 and\n"
+"finish the Valkyrie Operation tutorial"
 
 msgid "qn_dsc_0975"
 msgstr ""
@@ -16884,7 +16948,7 @@ msgid "qn_dsc_1131"
 msgstr ""
 
 msgid "qn_dsc_1132"
-msgstr ""
+msgstr "Reach Player Rank 5 and unlock Decolture Mode"
 
 msgid "qn_dsc_1133"
 msgstr ""
@@ -16926,7 +16990,7 @@ msgid "qn_dsc_1145"
 msgstr ""
 
 msgid "qn_dsc_1146"
-msgstr "Reach player rank 9 to unlock Valkyrie upgrades"
+msgstr "Reach Player Rank 9 to unlock Valkyrie Upgrades"
 
 msgid "qn_dsc_1147"
 msgstr ""
@@ -17791,10 +17855,10 @@ msgstr ""
 "read the next chat in the SDN Chat Room"
 
 msgid "qn_dsc_1433"
-msgstr ""
+msgstr "Reach Player Rank 201"
 
 msgid "qn_dsc_1434"
-msgstr ""
+msgstr "Reach Player Rank 202"
 
 msgid "qn_dsc_1435"
 msgstr ""
@@ -20845,7 +20909,7 @@ msgid "rn_0001"
 msgstr ""
 
 msgid "rn_0002"
-msgstr ""
+msgstr "The Hangout"
 
 msgid "rn_0003"
 msgstr ""
