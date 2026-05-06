@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-05 13:17+0000\n"
+"PO-Revision-Date: 2026-05-07 02:24+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -198,7 +198,7 @@ msgstr ""
 "{0}\n"
 "\n"
 "received. Luck increased.\n"
-"{1}'s Luck went up to {2}."
+"{1}'s Luck went up {2}."
 
 msgid "pbox_text_05"
 msgstr ""
@@ -219,7 +219,7 @@ msgstr ""
 "will go over their max capacities."
 
 msgid "pbox_text_08"
-msgstr "{0} gifts received."
+msgstr "{0} {0:plural:gift|gifts} received."
 
 msgid "pbox_text_09"
 msgstr "No receivable gifts."
@@ -232,13 +232,13 @@ msgid "pbox_text_11"
 msgstr "{0}/{1}/{2} {3}:{4}"
 
 msgid "pbox_text_12"
-msgstr "{0} days left"
+msgstr "{0} {0:plural:day|days} left"
 
 msgid "pbox_text_13"
-msgstr "{0} hours left"
+msgstr "{0} {0:plural:hour|hours} left"
 
 msgid "pbox_text_14"
-msgstr "{0} minutes left"
+msgstr "{0} {0:plural:minute|minutes} left"
 
 msgid "pbox_win_warn01"
 msgstr "<color=#c8087e>The latest {0} will be displayed.</color>"
@@ -705,7 +705,7 @@ msgid "growth_popup_text05"
 msgstr "Not enough items."
 
 msgid "growth_popup_text06"
-msgstr "This will unlock {0} Abilities. OK?"
+msgstr "This will unlock {0} {0:plural:Ability|Abilities}. OK?"
 
 msgid "growth_popup_text07"
 msgstr "Owned: <color={1}>{0,4}</color>"
@@ -1322,13 +1322,13 @@ msgid "quest_reward_none_list"
 msgstr "No missions with receivable rewards available."
 
 msgid "quest_timer_d"
-msgstr "{0} days left"
+msgstr "{0} {0:plural:day|days} left"
 
 msgid "quest_timer_h"
-msgstr "{0} hours left"
+msgstr "{0} {0:plural:hour|hours} left"
 
 msgid "quest_timer_m"
-msgstr "{0} minutes left"
+msgstr "{0} {0:plural:minute|minutes} left"
 
 msgid "quest_tiemr_e001"
 msgstr ""
@@ -2065,13 +2065,13 @@ msgid "event_quest_touch_screen4"
 msgstr ""
 
 msgid "event_quest_limit_time_d"
-msgstr "{0} days left"
+msgstr "{0} {0:plural:day|days} left"
 
 msgid "event_quest_limit_time_h"
-msgstr "{0} hours left"
+msgstr "{0} {0:plural:hour|hours} left"
 
 msgid "event_quest_limit_time_m"
-msgstr "{0} minutes left"
+msgstr "{0} {0:plural:minute|minutes} left"
 
 msgid "event_quest_progress_count"
 msgstr ""
