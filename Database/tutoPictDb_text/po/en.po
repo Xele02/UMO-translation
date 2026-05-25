@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:30+0000\n"
-"PO-Revision-Date: 2026-05-04 16:09+0000\n"
+"PO-Revision-Date: 2026-05-25 17:22+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "tutopictdb_text/en/>\n"
@@ -182,6 +182,8 @@ msgstr ""
 
 msgid "tutopict_0016_0000_msg"
 msgstr ""
+"Getting an Episode Plate adds the\n"
+"Episode related to that Plate."
 
 msgid "tutopict_0016_0001_msg"
 msgstr ""
@@ -200,6 +202,9 @@ msgstr ""
 
 msgid "tutopict_0018_0000_msg"
 msgstr ""
+"You can improve your Plates even more by getting\n"
+"more of the same Episode Plates from the gacha,\n"
+"etc., which will raise their rarity grades."
 
 msgid "tutopict_0019_0000_title"
 msgstr ""
@@ -245,6 +250,8 @@ msgstr ""
 
 msgid "tutopict_0024_0000_msg"
 msgstr ""
+"Getting an Episode Plate adds the\n"
+"Episode related to that Plate."
 
 msgid "tutopict_0024_0001_msg"
 msgstr ""
@@ -853,6 +860,8 @@ msgstr ""
 
 msgid "tutopict_0091_0000_msg"
 msgstr ""
+"You can use Song Gems at the Deculture\n"
+"Gacha to get Episode Plates."
 
 msgid "tutopict_0092_0000_title"
 msgstr ""
@@ -1052,6 +1061,8 @@ msgstr ""
 
 msgid "tutopict_0110_0000_msg"
 msgstr ""
+"Getting an Episode Plate adds the\n"
+"Episode related to that Plate."
 
 msgid "tutopict_0110_0001_msg"
 msgstr ""
@@ -1088,6 +1099,9 @@ msgstr ""
 
 msgid "tutopict_0113_0000_msg"
 msgstr ""
+"You can get various bonuses by getting more\n"
+"of the same Episode Plates from the gacha,\n"
+"etc., which will raise their rarity grades."
 
 msgid "tutopict_0114_0000_title"
 msgstr ""
@@ -1170,6 +1184,8 @@ msgstr ""
 
 msgid "tutopict_0124_0000_msg"
 msgstr ""
+"You can use Song Gems at the Deculture\n"
+"Gacha to get Episode Plates."
 
 msgid "tutopict_0125_0000_title"
 msgstr ""
@@ -1589,6 +1605,9 @@ msgstr ""
 
 msgid "tutopict_0160_0000_msg"
 msgstr ""
+"If you play events, you'll get Episode Plates\n"
+"that you can’t get anywhere else.\n"
+"Do your best and try to get some!"
 
 msgid "tutopict_0160_0001_msg"
 msgstr ""
@@ -1946,6 +1965,9 @@ msgstr ""
 
 msgid "tutopict_0179_0001_msg"
 msgstr ""
+"If you play events, you'll get Episode Plates\n"
+"that you can’t get anywhere else.\n"
+"See if you can get some yourself!"
 
 msgid "tutopict_0179_0002_msg"
 msgstr ""
@@ -1985,6 +2007,9 @@ msgstr ""
 
 msgid "tutopict_0180_0001_msg"
 msgstr ""
+"If you play events, you'll get Episode Plates\n"
+"that you can’t get anywhere else.\n"
+"See if you can get some yourself!"
 
 msgid "tutopict_0180_0002_msg"
 msgstr ""
@@ -2021,6 +2046,9 @@ msgstr ""
 
 msgid "tutopict_0181_0001_msg"
 msgstr ""
+"If you play events, you'll get Episode Plates\n"
+"that you can’t get anywhere else.\n"
+"See if you can get some yourself!"
 
 msgid "tutopict_0181_0002_msg"
 msgstr ""
