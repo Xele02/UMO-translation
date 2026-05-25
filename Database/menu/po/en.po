@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-07 02:24+0000\n"
+"PO-Revision-Date: 2026-05-25 17:22+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -1454,10 +1454,10 @@ msgstr ""
 "request was denied."
 
 msgid "friend_accept_not_found"
-msgstr ""
+msgstr "There are no players waiting for friend approval."
 
 msgid "friend_list_not_found"
-msgstr ""
+msgstr "No friends registered."
 
 msgid "friend_request_not_found"
 msgstr ""
@@ -1727,6 +1727,8 @@ msgstr ""
 
 msgid "gacha_main_mpass_desc"
 msgstr ""
+"You can use {0} to\n"
+"get Episode Plates."
 
 msgid "gacha_main_mpass_caution"
 msgstr ""
@@ -1759,7 +1761,7 @@ msgid "popup_record_plate_008"
 msgstr ""
 
 msgid "popup_record_plate_009"
-msgstr ""
+msgstr "You got a new Episode Plate."
 
 msgid "popup_record_plate_010"
 msgstr ""
@@ -2138,9 +2140,12 @@ msgstr "How to unlock the Diva Memory"
 
 msgid "result_playlog_hint_001"
 msgstr ""
+"Equip Episode Plates with high Fold Waves and try to trigger Valkyrie Mode!"
 
 msgid "result_playlog_hint_002"
 msgstr ""
+"Equip Episode Plates with high Support stats and try to trigger Diva Mode "
+"and Super Diva Mode!"
 
 msgid "result_playlog_hint_003"
 msgstr ""
@@ -2170,6 +2175,8 @@ msgstr ""
 
 msgid "result_playlog_hint_011"
 msgstr ""
+"Collect Episode Plates with high Support stats and try to trigger Super Diva "
+"Mode!"
 
 msgid "result_playlog_hint_012"
 msgstr ""
@@ -2389,6 +2396,9 @@ msgstr ""
 
 msgid "costume_select_text_04"
 msgstr ""
+"「{0}」\n"
+"You don't have any of the Plates for this Episode.\n"
+"Collect Episode Plate to unlock Episodes."
 
 msgid "popup_unlock_diff_02"
 msgstr ""
@@ -2454,10 +2464,12 @@ msgid "skill_format_004"
 msgstr ""
 
 msgid "tuto_gacha_title"
-msgstr ""
+msgstr "Deculture Gacha"
 
 msgid "tuto_gacha_desc"
 msgstr ""
+"You can use Song Gems\n"
+"to get Episode Plates."
 
 msgid "tuto_divaselect_popup_001"
 msgstr "[{0}]"
@@ -4702,7 +4714,7 @@ msgid "deco_visit_gift"
 msgstr ""
 
 msgid "deco_visit_no_friend"
-msgstr ""
+msgstr "No friends registered."
 
 msgid "deco_visit_no_fun"
 msgstr ""
