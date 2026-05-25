@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-05-05 13:17+0000\n"
+"PO-Revision-Date: 2026-05-25 17:22+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -2158,10 +2158,10 @@ msgstr "[tv]s after stage start, boosts score [v1]％ for [dv]s"
 
 msgid "l_dsc_0113"
 msgstr ""
-"When Valkyrie mode starts, makes note press timing less strict for [dv]s"
+"When Valkyrie Mode starts, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0114"
-msgstr "When Valkyrie mode starts, stops combo loss for [dv]s"
+msgstr "When Valkyrie Mode starts, stops combo loss for [dv]s"
 
 msgid "l_dsc_0115"
 msgstr "Recovers [v1]％ of HP when HP goes below [tv]％"
@@ -2230,7 +2230,7 @@ msgstr ""
 
 msgid "l_dsc_0131"
 msgstr ""
-"When Valkyrie mode starts, makes note press timing less strict for [dv]s"
+"When Valkyrie Mode starts, makes note press timing less strict for [dv]s"
 
 msgid "l_dsc_0132"
 msgstr ""
@@ -13392,10 +13392,10 @@ msgid "qn_dsc_0017"
 msgstr "Reach Player Rank 5"
 
 msgid "qn_dsc_0018"
-msgstr ""
+msgstr "Get 10 Episode Plates"
 
 msgid "qn_dsc_0019"
-msgstr ""
+msgstr "Get 1 Episode Plate to Lv. 10"
 
 msgid "qn_dsc_0020"
 msgstr ""
@@ -13761,97 +13761,97 @@ msgid "qn_dsc_0131"
 msgstr "Reach Player Rank 24"
 
 msgid "qn_dsc_0132"
-msgstr ""
+msgstr "Get 20 Episode Plates"
 
 msgid "qn_dsc_0133"
-msgstr ""
+msgstr "Get 25 Episode Plates"
 
 msgid "qn_dsc_0134"
-msgstr ""
+msgstr "Get 30 Episode Plates"
 
 msgid "qn_dsc_0135"
-msgstr ""
+msgstr "Get 35 Episode Plates"
 
 msgid "qn_dsc_0136"
-msgstr ""
+msgstr "Get 40 Episode Plates"
 
 msgid "qn_dsc_0137"
-msgstr ""
+msgstr "Get 45 Episode Plates"
 
 msgid "qn_dsc_0138"
-msgstr ""
+msgstr "Get 50 Episode Plates"
 
 msgid "qn_dsc_0139"
-msgstr ""
+msgstr "Get 55 Episode Plates"
 
 msgid "qn_dsc_0140"
-msgstr ""
+msgstr "Get 60 Episode Plates"
 
 msgid "qn_dsc_0141"
-msgstr ""
+msgstr "Get 65 Episode Plates"
 
 msgid "qn_dsc_0142"
-msgstr ""
+msgstr "Get 70 Episode Plates"
 
 msgid "qn_dsc_0143"
-msgstr ""
+msgstr "Get 2 Episode Plates to Lv. 10"
 
 msgid "qn_dsc_0144"
-msgstr ""
+msgstr "Get 3 Episode Plates to Lv. 10"
 
 msgid "qn_dsc_0145"
-msgstr ""
+msgstr "Get 4 Episode Plates to Lv. 10"
 
 msgid "qn_dsc_0146"
-msgstr ""
+msgstr "Get 5 Episode Plates to Lv. 10"
 
 msgid "qn_dsc_0147"
-msgstr ""
+msgstr "Get 1 Episode Plate to Lv. 20"
 
 msgid "qn_dsc_0148"
-msgstr ""
+msgstr "Get 2 Episode Plates to Lv. 20"
 
 msgid "qn_dsc_0149"
-msgstr ""
+msgstr "Get 3 Episode Plates to Lv. 20"
 
 msgid "qn_dsc_0150"
-msgstr ""
+msgstr "Get 4 Episode Plates to Lv. 20"
 
 msgid "qn_dsc_0151"
-msgstr ""
+msgstr "Get 5 Episode Plates to Lv. 20"
 
 msgid "qn_dsc_0152"
-msgstr ""
+msgstr "Get 1 Episode Plate to Lv. 30"
 
 msgid "qn_dsc_0153"
-msgstr ""
+msgstr "Get 2 Episode Plates to Lv. 30"
 
 msgid "qn_dsc_0154"
-msgstr ""
+msgstr "Get 3 Episode Plates to Lv. 30"
 
 msgid "qn_dsc_0155"
-msgstr ""
+msgstr "Get 4 Episode Plates to Lv. 30"
 
 msgid "qn_dsc_0156"
-msgstr ""
+msgstr "Get 5 Episode Plates to Lv. 30"
 
 msgid "qn_dsc_0157"
-msgstr ""
+msgstr "Get 1 Episode Plate to Lv. 50"
 
 msgid "qn_dsc_0158"
-msgstr ""
+msgstr "Get 2 Episode Plates to Lv. 50"
 
 msgid "qn_dsc_0159"
-msgstr ""
+msgstr "Get 3 Episode Plates to Lv. 50"
 
 msgid "qn_dsc_0160"
-msgstr ""
+msgstr "Get 4 Episode Plates to Lv. 50"
 
 msgid "qn_dsc_0161"
-msgstr ""
+msgstr "Get 5 Episode Plates to Lv. 50"
 
 msgid "qn_dsc_0162"
-msgstr ""
+msgstr "Get 1 Episode Plate to Lv. 70"
 
 msgid "qn_dsc_0163"
 msgstr ""
