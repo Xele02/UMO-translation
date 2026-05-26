@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-05-25 17:22+0000\n"
+"PO-Revision-Date: 2026-05-26 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -13468,7 +13468,7 @@ msgstr ""
 "read the next chat in Minmay's room"
 
 msgid "qn_dsc_0038"
-msgstr ""
+msgstr "Clear 10 normal missions"
 
 msgid "qn_dsc_0039"
 msgstr ""
@@ -13854,181 +13854,201 @@ msgid "qn_dsc_0162"
 msgstr "Get 1 Episode Plate to Lv. 70"
 
 msgid "qn_dsc_0163"
-msgstr ""
+msgstr "Get 2 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0164"
-msgstr ""
+msgstr "Get 3 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0165"
-msgstr ""
+msgstr "Get 4 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0166"
-msgstr ""
+msgstr "Get 5 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0167"
-msgstr ""
+msgstr "Get 6 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0168"
-msgstr ""
+msgstr "Get 7 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0169"
-msgstr ""
+msgstr "Get 8 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0170"
-msgstr ""
+msgstr "Get 9 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0171"
-msgstr ""
+msgstr "Get 10 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0172"
-msgstr ""
+msgstr "Get 15 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0173"
-msgstr ""
+msgstr "Get 20 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0174"
-msgstr ""
+msgstr "Get 25 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0175"
-msgstr ""
+msgstr "Get 30 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0176"
-msgstr ""
+msgstr "Get 40 Episode Plates to Lv. 70"
 
 msgid "qn_dsc_0178"
-msgstr ""
+msgstr "Earn a total of 10000 Union Credits (UC)"
 
 msgid "qn_dsc_0179"
-msgstr ""
+msgstr "Earn a total of 50000 Union Credits (UC)"
 
 msgid "qn_dsc_0180"
-msgstr ""
+msgstr "Earn a total of 100000 Union Credits (UC)"
 
 msgid "qn_dsc_0181"
-msgstr ""
+msgstr "Earn a total of 500000 Union Credits (UC)"
 
 msgid "qn_dsc_0182"
-msgstr ""
+msgstr "Earn a total of 1000000 Union Credits (UC)"
 
 msgid "qn_dsc_0183"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 7 times in Live"
 
 msgid "qn_dsc_0184"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 10 times in Live"
 
 msgid "qn_dsc_0185"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 15 times in Live"
 
 msgid "qn_dsc_0186"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 20 times in Live"
 
 msgid "qn_dsc_0187"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 25 times in Live"
 
 msgid "qn_dsc_0188"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 50 times in Live"
 
 msgid "qn_dsc_0189"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 100 times in Live"
 
 msgid "qn_dsc_0190"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 150 times in Live"
 
 msgid "qn_dsc_0191"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 200 times in Live"
 
 msgid "qn_dsc_0192"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 250 times in Live"
 
 msgid "qn_dsc_0193"
-msgstr ""
+msgstr "Clear Macross 7 songs 7 times in Live"
 
 msgid "qn_dsc_0194"
-msgstr ""
+msgstr "Clear Macross 7 songs 10 times in Live"
 
 msgid "qn_dsc_0195"
-msgstr ""
+msgstr "Clear Macross 7 songs 15 times in Live"
 
 msgid "qn_dsc_0196"
-msgstr ""
+msgstr "Clear Macross 7 songs 20 times in Live"
 
 msgid "qn_dsc_0197"
-msgstr ""
+msgstr "Clear Macross 7 songs 25 times in Live"
 
 msgid "qn_dsc_0198"
-msgstr ""
+msgstr "Clear Macross 7 songs 50 times in Live"
 
 msgid "qn_dsc_0199"
-msgstr ""
+msgstr "Clear Macross 7 songs 100 times in Live"
 
 msgid "qn_dsc_0200"
-msgstr ""
+msgstr "Clear Macross 7 songs 150 times in Live"
 
 msgid "qn_dsc_0201"
-msgstr ""
+msgstr "Clear Macross 7 songs 200 times in Live"
 
 msgid "qn_dsc_0202"
-msgstr ""
+msgstr "Clear Macross 7 songs 250 times in Live"
 
 msgid "qn_dsc_0203"
-msgstr ""
+msgstr "Clear Macross Frontier songs 7 times in Live"
 
 msgid "qn_dsc_0204"
-msgstr ""
+msgstr "Clear Macross Frontier songs 10 times in Live"
 
 msgid "qn_dsc_0205"
-msgstr ""
+msgstr "Clear Macross Frontier songs 15 times in Live"
 
 msgid "qn_dsc_0206"
-msgstr ""
+msgstr "Clear Macross Frontier songs 20 times in Live"
 
 msgid "qn_dsc_0207"
-msgstr ""
+msgstr "Clear Macross Frontier songs 25 times in Live"
 
 msgid "qn_dsc_0208"
-msgstr ""
+msgstr "Clear Macross Frontier songs 50 times in Live"
 
 msgid "qn_dsc_0209"
-msgstr ""
+msgstr "Clear Macross Frontier songs 100 times in Live"
 
 msgid "qn_dsc_0210"
-msgstr ""
+msgstr "Clear Macross Frontier songs 150 times in Live"
 
 msgid "qn_dsc_0211"
-msgstr ""
+msgstr "Clear Macross Frontier songs 200 times in Live"
 
 msgid "qn_dsc_0212"
-msgstr ""
+msgstr "Clear Macross Frontier songs 250 times in Live"
 
 msgid "qn_dsc_0213"
-msgstr ""
+msgstr "Clear Macross Delta songs 7 times in Live"
 
 msgid "qn_dsc_0214"
-msgstr ""
+msgstr "Clear Macross Delta songs 10 times in Live"
 
 msgid "qn_dsc_0215"
-msgstr ""
+msgstr "Clear Macross Delta songs 15 times in Live"
 
 msgid "qn_dsc_0216"
-msgstr ""
+msgstr "Clear Macross Delta songs 20 times in Live"
 
 msgid "qn_dsc_0217"
-msgstr ""
+msgstr "Clear Macross Delta songs 25 times in Live"
 
 msgid "qn_dsc_0218"
-msgstr ""
+msgstr "Clear Macross Delta songs 50 times in Live"
 
 msgid "qn_dsc_0219"
-msgstr ""
+msgstr "Clear Macross Delta songs 100 times in Live"
 
 msgid "qn_dsc_0220"
-msgstr ""
+msgstr "Clear Macross Delta songs 150 times in Live"
 
 msgid "qn_dsc_0221"
-msgstr ""
+msgstr "Clear Macross Delta songs 200 times in Live"
 
 msgid "qn_dsc_0222"
-msgstr ""
+msgstr "Clear Macross Delta songs 250 times in Live"
 
 msgid "qn_dsc_0223"
 msgstr "Not set (If you see this, it's a bug)"
@@ -14052,82 +14072,82 @@ msgid "qn_dsc_0229"
 msgstr "Not set (If you see this, it's a bug)"
 
 msgid "qn_dsc_0230"
-msgstr ""
+msgstr "Full combo songs 5 times"
 
 msgid "qn_dsc_0231"
-msgstr ""
+msgstr "Full combo songs 10 times"
 
 msgid "qn_dsc_0232"
-msgstr ""
+msgstr "Full combo songs 20 times"
 
 msgid "qn_dsc_0233"
-msgstr ""
+msgstr "Full combo songs 30 times"
 
 msgid "qn_dsc_0234"
-msgstr ""
+msgstr "Full combo songs 40 times"
 
 msgid "qn_dsc_0235"
-msgstr ""
+msgstr "Full combo songs 50 times"
 
 msgid "qn_dsc_0236"
-msgstr ""
+msgstr "Full combo songs 100 times"
 
 msgid "qn_dsc_0237"
-msgstr ""
+msgstr "Get an SS score 5 times"
 
 msgid "qn_dsc_0238"
-msgstr ""
+msgstr "Get an SS score 10 times"
 
 msgid "qn_dsc_0239"
-msgstr ""
+msgstr "Get an SS score 20 times"
 
 msgid "qn_dsc_0240"
-msgstr ""
+msgstr "Get an SS score 30 times"
 
 msgid "qn_dsc_0241"
-msgstr ""
+msgstr "Get an SS score 40 times"
 
 msgid "qn_dsc_0242"
-msgstr ""
+msgstr "Get an SS score 50 times"
 
 msgid "qn_dsc_0243"
-msgstr ""
+msgstr "Get an SS score 100 times"
 
 msgid "qn_dsc_0244"
-msgstr ""
+msgstr "Score 150000 or higher"
 
 msgid "qn_dsc_0245"
-msgstr ""
+msgstr "Score 200000 or higher"
 
 msgid "qn_dsc_0246"
-msgstr ""
+msgstr "Score 250000 or higher"
 
 msgid "qn_dsc_0247"
-msgstr ""
+msgstr "Score 300000 or higher"
 
 msgid "qn_dsc_0248"
-msgstr ""
+msgstr "Score 350000 or higher"
 
 msgid "qn_dsc_0249"
-msgstr ""
+msgstr "Trigger Super Diva Mode 10 times"
 
 msgid "qn_dsc_0250"
-msgstr ""
+msgstr "Trigger Super Diva Mode 20 times"
 
 msgid "qn_dsc_0251"
-msgstr ""
+msgstr "Trigger Super Diva Mode 50 times"
 
 msgid "qn_dsc_0252"
-msgstr ""
+msgstr "Trigger Super Diva Mode 100 times"
 
 msgid "qn_dsc_0253"
-msgstr ""
+msgstr "Trigger Super Diva Mode 150 times"
 
 msgid "qn_dsc_0254"
-msgstr ""
+msgstr "Trigger Super Diva Mode 200 times"
 
 msgid "qn_dsc_0255"
-msgstr ""
+msgstr "Trigger Super Diva Mode 300 times"
 
 msgid "qn_dsc_0256"
 msgstr ""
@@ -14658,37 +14678,37 @@ msgid "qn_dsc_0391"
 msgstr "Full combo songs 2500 times"
 
 msgid "qn_dsc_0392"
-msgstr "Get SS score ranks 150 times"
+msgstr "Get an SS score 150 times"
 
 msgid "qn_dsc_0393"
-msgstr "Get SS score ranks 200 times"
+msgstr "Get an SS score 200 times"
 
 msgid "qn_dsc_0394"
-msgstr "Get SS score ranks 300 times"
+msgstr "Get an SS score 300 times"
 
 msgid "qn_dsc_0395"
-msgstr "Get SS score ranks 400 times"
+msgstr "Get an SS score 400 times"
 
 msgid "qn_dsc_0396"
-msgstr "Get SS score ranks 500 times"
+msgstr "Get an SS score 500 times"
 
 msgid "qn_dsc_0397"
-msgstr "Get SS score ranks 750 times"
+msgstr "Get an SS score 750 times"
 
 msgid "qn_dsc_0398"
-msgstr "Get SS score ranks 1000 times"
+msgstr "Get an SS score 1000 times"
 
 msgid "qn_dsc_0399"
-msgstr "Get SS score ranks 1250 times"
+msgstr "Get an SS score 1250 times"
 
 msgid "qn_dsc_0400"
-msgstr "Get SS score ranks 1500 times"
+msgstr "Get an SS score 1500 times"
 
 msgid "qn_dsc_0401"
-msgstr "Get SS score ranks 2000 times"
+msgstr "Get an SS score 2000 times"
 
 msgid "qn_dsc_0402"
-msgstr "Get SS score ranks 2500 times"
+msgstr "Get an SS score 2500 times"
 
 msgid "qn_dsc_0403"
 msgstr "Trigger Super Diva Mode and clear songs 400 times"
@@ -15083,10 +15103,10 @@ msgid "qn_dsc_0533"
 msgstr ""
 
 msgid "qn_dsc_0534"
-msgstr ""
+msgstr "Clear 250 normal missions"
 
 msgid "qn_dsc_0535"
-msgstr ""
+msgstr "Clear 300 normal missions"
 
 msgid "qn_dsc_0536"
 msgstr ""
