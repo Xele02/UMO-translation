@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-25 17:22+0000\n"
+"PO-Revision-Date: 2026-05-26 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -1460,40 +1460,40 @@ msgid "friend_list_not_found"
 msgstr "No friends registered."
 
 msgid "friend_request_not_found"
-msgstr ""
+msgstr "You don't have any friend approvals pending."
 
 msgid "friend_search_ready"
-msgstr ""
+msgstr "Player ID search results appear here."
 
 msgid "friend_search_not_found"
-msgstr ""
+msgstr "Player not found."
 
 msgid "friend_caution_request"
-msgstr ""
+msgstr "Friend requests will be deleted from the list after 14 days."
 
 msgid "popup_friend_search_title"
-msgstr ""
+msgstr "ID search"
 
 msgid "popup_friend_search_placeholder"
-msgstr ""
+msgstr "Enter a player ID."
 
 msgid "popup_friend_search_myself_title"
-msgstr ""
+msgstr "Search failed"
 
 msgid "popup_friend_search_myself_msg"
-msgstr ""
+msgstr "This is your player ID."
 
 msgid "popup_friend_search_not_found_title"
-msgstr ""
+msgstr "Search failed"
 
 msgid "popup_friend_search_not_found_msg"
-msgstr ""
+msgstr "Incorrect player ID."
 
 msgid "ranking_message"
-msgstr ""
+msgstr "A shared ranking for all difficulty levels."
 
 msgid "ranking_no_entry"
-msgstr ""
+msgstr "You aren't in the rankings."
 
 msgid "ranking_ev_period"
 msgstr ""
@@ -1504,19 +1504,19 @@ msgid "ranking_ev_period_date"
 msgstr "{1}/{2}/{0:D4} {3:D2}:{4:D2}"
 
 msgid "ranking_ev_no_entry"
-msgstr ""
+msgstr "You aren't in the rankings."
 
 msgid "ranking_ev_range_not_found"
-msgstr ""
+msgstr "No player at that rank."
 
 msgid "popup_rank_range_title"
-msgstr ""
+msgstr "Display rank"
 
 msgid "popup_rank_range_myself"
-msgstr ""
+msgstr "My rank"
 
 msgid "popup_rank_range_place"
-msgstr ""
+msgstr "From #{0}"
 
 msgid "music_week_play_count_limit"
 msgstr ""
