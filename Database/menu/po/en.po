@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-26 17:09+0000\n"
+"PO-Revision-Date: 2026-05-28 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -1520,51 +1520,56 @@ msgstr "From #{0}"
 
 msgid "music_week_play_count_limit"
 msgstr ""
+"You can't play more because\n"
+"you've reached today's\n"
+"daily play limit."
 
 msgid "music_event_end_week"
 msgstr ""
+"Today's event of the\n"
+"day has ended."
 
 msgid "music_event_end_score_rank"
-msgstr ""
+msgstr "Tallying"
 
 msgid "music_event_end_attain"
-msgstr ""
+msgstr "Tallying"
 
 msgid "music_event_end_attain_banner"
-msgstr ""
+msgstr "Tallying"
 
 msgid "music_event_end_attain_popup"
-msgstr ""
+msgstr "Tallying"
 
 msgid "music_event_period"
-msgstr ""
+msgstr "From {0} to {1}"
 
 msgid "music_event_period_date"
 msgstr "{1}/{2}/{0:D4} {3:D2}:{4:D2}"
 
 msgid "music_event_remain_prefix"
-msgstr ""
+msgstr "Left "
 
 msgid "music_event_remain_day"
-msgstr ""
+msgstr "{0}d"
 
 msgid "music_event_remain_hour"
-msgstr ""
+msgstr "{0}h"
 
 msgid "music_event_remain_minute"
-msgstr ""
+msgstr "{0}m"
 
 msgid "music_event_remain_second"
 msgstr "{0}s"
 
 msgid "music_event_collect_ticket_label"
-msgstr ""
+msgstr "Tickets owned"
 
 msgid "music_event_collect_current_point_label"
-msgstr ""
+msgstr "Total score"
 
 msgid "music_event_collect_next_point_label"
-msgstr ""
+msgstr "Till next reward"
 
 msgid "music_event_collect_point_unit"
 msgstr "pts"
@@ -1579,16 +1584,16 @@ msgid "music_event_collect_rank_unit"
 msgstr ""
 
 msgid "music_event_collect_rank_counting"
-msgstr ""
+msgstr "Tallying"
 
 msgid "music_event_collect_reward_label"
 msgstr ""
 
 msgid "music_event_battle_current_point_label"
-msgstr ""
+msgstr "Total score"
 
 msgid "music_event_battle_next_point_label"
-msgstr ""
+msgstr "Till next reward"
 
 msgid "music_event_battle_point_unit"
 msgstr "pts"
@@ -1612,7 +1617,7 @@ msgid "music_event_battle_bp_counting_label"
 msgstr ""
 
 msgid "music_event_battle_rank_counting"
-msgstr ""
+msgstr "Tallying"
 
 msgid "music_event_battle_reward_label"
 msgstr ""
@@ -1854,13 +1859,13 @@ msgid "home_pickup_checkbox"
 msgstr "Don't show today"
 
 msgid "home_event_end_attain"
-msgstr ""
+msgstr "Tallying"
 
 msgid "home_event_epilogue"
 msgstr ""
 
 msgid "home_banner_event_end_attain"
-msgstr ""
+msgstr "Tallying"
 
 msgid "popup_scene_autocombine_title"
 msgstr ""
@@ -3397,7 +3402,7 @@ msgid "event_sp_daily_adv_all_title"
 msgstr ""
 
 msgid "event_sp_end_attain"
-msgstr ""
+msgstr "Tallying"
 
 msgid "event_sp_epilogue"
 msgstr ""
@@ -5166,7 +5171,7 @@ msgid "gacha_set_sale_desc_03"
 msgstr ""
 
 msgid "gacha_ticket_name"
-msgstr ""
+msgstr "Tickets owned"
 
 msgid "assistselect_attribute_other"
 msgstr ""
@@ -5646,10 +5651,10 @@ msgid "godiva_even_tinfo_rank"
 msgstr ""
 
 msgid "godiva_even_tinfo_total_point"
-msgstr ""
+msgstr "Total score"
 
 msgid "godiva_even_tinfo_next_point"
-msgstr ""
+msgstr "Till next reward"
 
 msgid "godiva_even_tinfo_nest_reward"
 msgstr ""
@@ -5664,7 +5669,7 @@ msgid "godiva_even_tinfo_final_rank"
 msgstr ""
 
 msgid "godiva_even_tinfo_rank_collecting"
-msgstr ""
+msgstr "Tallying"
 
 msgid "godiva_diva_select_not_have"
 msgstr ""
