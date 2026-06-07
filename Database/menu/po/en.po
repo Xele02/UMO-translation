@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-05-28 16:09+0000\n"
+"PO-Revision-Date: 2026-06-08 08:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -1158,7 +1158,7 @@ msgid "header_desc_option001"
 msgstr "See your profile"
 
 msgid "header_desc_option002"
-msgstr "Select a Title"
+msgstr "Select a title"
 
 msgid "header_desc_option003"
 msgstr "See the rankings here"
@@ -1530,16 +1530,16 @@ msgstr ""
 "day has ended."
 
 msgid "music_event_end_score_rank"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "music_event_end_attain"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "music_event_end_attain_banner"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "music_event_end_attain_popup"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "music_event_period"
 msgstr "From {0} to {1}"
@@ -1575,19 +1575,19 @@ msgid "music_event_collect_point_unit"
 msgstr "pts"
 
 msgid "music_event_collect_rank_label"
-msgstr ""
+msgstr "Current rank"
 
 msgid "music_event_collect_rank_counting_label"
-msgstr ""
+msgstr "Final rank"
 
 msgid "music_event_collect_rank_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "music_event_collect_rank_counting"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "music_event_collect_reward_label"
-msgstr ""
+msgstr "Next reward"
 
 msgid "music_event_battle_current_point_label"
 msgstr "Total score"
@@ -1599,136 +1599,157 @@ msgid "music_event_battle_point_unit"
 msgstr "pts"
 
 msgid "music_event_battle_rank_hiscore_label"
-msgstr ""
+msgstr "EX battle rank"
 
 msgid "music_event_battle_rank_hiscore_counting_label"
-msgstr ""
+msgstr "Final EX battle rank"
 
 msgid "music_event_battle_rank_total_label"
-msgstr ""
+msgstr "Total score rank"
 
 msgid "music_event_battle_rank_total_counting_label"
-msgstr ""
+msgstr "Final total score rank"
 
 msgid "music_event_battle_rank_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "music_event_battle_bp_counting_label"
-msgstr ""
+msgstr "EX battle highscore"
 
 msgid "music_event_battle_rank_counting"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "music_event_battle_reward_label"
-msgstr ""
+msgstr "Next reward"
 
 msgid "music_event_battle_class"
-msgstr ""
+msgstr "Class {0}"
 
 msgid "music_event_battle_ｔarｇeｔ_score"
-msgstr ""
+msgstr "Score target"
 
 msgid "music_event_battle_class_lvup"
 msgstr ""
+"Win when at new battle ranks\n"
+"to get more event points.\n"
+"Try your luck at a new battle rank?"
 
 msgid "music_event_battle_class_get_emblem_01"
-msgstr ""
+msgstr "You got battle rank {0}'s title."
 
 msgid "music_event_battle_class_get_emblem_02"
-msgstr ""
+msgstr "You got the titles up to battle rank {0}."
 
 msgid "music_event_battle_class_next_01"
-msgstr ""
+msgstr "Win EX battle rank {0} or"
 
 msgid "music_event_battle_class_next_02"
-msgstr ""
+msgstr "Score {0} or higher on an EX battle song"
 
 msgid "music_event_battle_class_caution"
 msgstr ""
+"Select a battle rank to play.\n"
+"The higher the rank, the more event points you'll get."
 
 msgid "music_event_battle_class_reselect_01"
-msgstr ""
+msgstr "Change battle rank confirmation"
 
 msgid "music_event_battle_class_reselect_02"
 msgstr ""
+"Your battle rank will be changed.\n"
+"Proceed?\n"
 
 msgid "music_event_battle_class_reselect_03"
 msgstr ""
+"<color=#8e0529>- EX gauge will reset.\n"
+"- New opponents will be found.</color>"
 
 msgid "ex_battle_non_record"
-msgstr ""
+msgstr "No EX battle scores recorded."
 
 msgid "event_battle_reward_check_hi_score"
-msgstr ""
+msgstr "EX battle highscore"
 
 msgid "event_battle_reward_check_ranking"
-msgstr ""
+msgstr "EX battle score ranking"
 
 msgid "event_battle_reward_check_ranking_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "music_event_battle_ex_schedule_caution_01"
-msgstr ""
+msgstr "EX battle songs rotate upon daily reset."
 
 msgid "music_event_battle_ex_schedule_caution_02"
-msgstr ""
+msgstr "Unlocked EX battle songs won't change even after daily reset."
 
 msgid "music_event_end"
-msgstr ""
+msgstr "The event period has ended."
 
 msgid "music_event_counting"
 msgstr "Calculating event results..."
 
 msgid "music_to_live_ticket_msg"
 msgstr ""
+"<color=#c8087e>Get</color> <color=#c8087e>tickets</color> by playing songs!"
 
 msgid "music_select_slive_own_item"
-msgstr ""
+msgstr "Tokens owned"
 
 msgid "music_select_slive_cost_item"
-msgstr ""
+msgstr "Token cost"
 
 msgid "game_play_event_end_attain"
 msgstr ""
+"This event has ended.\n"
+"Returning to the home screen."
 
 msgid "gacha_list_period"
-msgstr ""
+msgstr "Ends {0}/{1} {2}:{3:D2}"
 
 msgid "gacha_list_daycount"
-msgstr ""
+msgstr "Day {0}"
 
 msgid "gacha_main_timezone"
-msgstr ""
+msgstr "Morn. {0}-{1}　Aft.{2}-{3}　Eve.{4}-{5}"
 
+#, fuzzy
 msgid "gacha_main_timezone_time"
-msgstr ""
+msgstr "{0}:{1:D2}"
 
 msgid "gacha_main_event_period"
-msgstr ""
+msgstr "Ends {0}/{1} {2}:{3:D2}"
 
 msgid "gacha_main_promo_msg_01"
-msgstr ""
+msgstr "Get 2 of a Plate to raise its rarity."
 
 msgid "gacha_main_promo_msg_02"
-msgstr ""
+msgstr "- This is the Plate after its rarity has been raised."
 
 msgid "gacha_main_ep_reward_sub"
-msgstr ""
+msgstr "Episode reward examples"
 
 msgid "gacha_main_ep_caution01"
 msgstr ""
+"- You can get Episode rewards by unlocking\n"
+"　Episodes with Episode Points."
 
 msgid "gacha_main_ep_caution02"
 msgstr ""
+"- Episode Point caps vary \n"
+"　depending on the Plate."
 
 msgid "gacha_main_ep_diva_costume"
 msgstr ""
+"{0} costume\n"
+"{1}"
 
 msgid "gacha_main_pickup_caution"
 msgstr ""
+"- Drop rates for non-banner Plates are adjusted lower the same number as "
+"rates are boosted for banner Plates."
 
 msgid "gacha_main_ticket_sale_period"
-msgstr ""
+msgstr "- Song Gems with tickets are available until {0}/{1} {2}:{3:D2}."
 
 msgid "gacha_main_mpass_desc"
 msgstr ""
@@ -1737,21 +1758,29 @@ msgstr ""
 
 msgid "gacha_main_mpass_caution"
 msgstr ""
+"- When you have multiple tickets, the tickets\n"
+"　that will expire first will be displayed."
 
 msgid "gacha_main_mpass_period"
-msgstr ""
+msgstr "Expires: {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "popup_record_plate_001"
-msgstr ""
+msgstr "Multiples of the same Episode Plate automatically combine."
 
 msgid "popup_record_plate_002"
 msgstr ""
+"Multiples of the same Episode Plate automatically\n"
+"combined, <color=#c8087e>adding a Secret Board</color>."
 
 msgid "popup_record_plate_003"
 msgstr ""
+"Multiples of the same Episode Plate automatically\n"
+"combined, <color=#c8087e>expanding its Secret Board</color>."
 
 msgid "popup_record_plate_004"
 msgstr ""
+"Multiples of the same Episode Plate automatically combined, <color=#"
+"c8087e>raising its rarity</color>."
 
 msgid "popup_record_plate_005"
 msgstr ""
@@ -1859,13 +1888,13 @@ msgid "home_pickup_checkbox"
 msgstr "Don't show today"
 
 msgid "home_event_end_attain"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "home_event_epilogue"
 msgstr ""
 
 msgid "home_banner_event_end_attain"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "popup_scene_autocombine_title"
 msgstr ""
@@ -2202,7 +2231,7 @@ msgid "popup_event_reward_ranking_type001"
 msgstr ""
 
 msgid "popup_event_reward_ranking_type002"
-msgstr ""
+msgstr "EX battle score ranking"
 
 msgid "popup_event_reward_ranking_type003"
 msgstr ""
@@ -2232,7 +2261,7 @@ msgid "event_reward_result_episodebonus_unit"
 msgstr ""
 
 msgid "event_reward_result_last_rank"
-msgstr ""
+msgstr "Final rank"
 
 msgid "event_reward_result_dash_bonus"
 msgstr ""
@@ -2256,7 +2285,7 @@ msgid "popup_event_reward_needpoint_unit"
 msgstr ""
 
 msgid "popup_event_reward_currentrank_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "popup_event_reward_needrank_unit"
 msgstr ""
@@ -2277,7 +2306,7 @@ msgid "event_reward_check_have_pt"
 msgstr ""
 
 msgid "event_reward_check_rank"
-msgstr ""
+msgstr "Current rank"
 
 msgid "rhythm_adjust_set"
 msgstr ""
@@ -2848,10 +2877,10 @@ msgid "item_shop_get_period"
 msgstr ""
 
 msgid "item_shop_reset_period"
-msgstr ""
+msgstr "Ends {0}/{1} {2}:{3:D2}"
 
 msgid "item_shop_limit_period"
-msgstr ""
+msgstr "Ends {0}/{1} {2}:{3:D2}"
 
 msgid "event_mission_message_000"
 msgstr ""
@@ -3198,7 +3227,7 @@ msgid "event_music_ranking"
 msgstr ""
 
 msgid "event_music_ranking_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "ar_common_count_text"
 msgstr ""
@@ -3402,7 +3431,7 @@ msgid "event_sp_daily_adv_all_title"
 msgstr ""
 
 msgid "event_sp_end_attain"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "event_sp_epilogue"
 msgstr ""
@@ -3662,7 +3691,7 @@ msgid "item_use_caution_2"
 msgstr ""
 
 msgid "item_use_period"
-msgstr ""
+msgstr "Expires: {0}/{1}/{2} {3}:{4:D2}"
 
 msgid "item_use_period_title"
 msgstr ""
@@ -5645,7 +5674,7 @@ msgid "pop_godiva_bonusitem_limit_on_bonus"
 msgstr ""
 
 msgid "godiva_event_info_highscore"
-msgstr ""
+msgstr "High score"
 
 msgid "godiva_even_tinfo_rank"
 msgstr ""
@@ -5657,19 +5686,19 @@ msgid "godiva_even_tinfo_next_point"
 msgstr "Till next reward"
 
 msgid "godiva_even_tinfo_nest_reward"
-msgstr ""
+msgstr "Next reward"
 
 msgid "godiva_even_tinfo_rank_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "godiva_even_tinfo_point_unit"
 msgstr "pts"
 
 msgid "godiva_even_tinfo_final_rank"
-msgstr ""
+msgstr "Final rank"
 
 msgid "godiva_even_tinfo_rank_collecting"
-msgstr "Tallying"
+msgstr "Calculating"
 
 msgid "godiva_diva_select_not_have"
 msgstr ""
@@ -5738,7 +5767,7 @@ msgid "event_godiva_reward_check_ranking"
 msgstr ""
 
 msgid "event_godiva_reward_check_ranking_unit"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "diva_name_01"
 msgstr "Freyja Wion"
@@ -5771,7 +5800,7 @@ msgid "diva_name_10"
 msgstr "Lynn Minmay"
 
 msgid "home_diva_view_status_place_text"
-msgstr ""
+msgstr "{0:p_o:st|nd|rd|th}"
 
 msgid "home_diva_view_status_divalevel_text"
 msgstr "Diva Lv."
@@ -6220,7 +6249,7 @@ msgid "popup_sort_item_musiclevel"
 msgstr "Song Lv."
 
 msgid "popup_sort_item_highscore"
-msgstr ""
+msgstr "High score"
 
 msgid "popup_sort_item_utarate"
 msgstr ""
@@ -6328,7 +6357,7 @@ msgid "vertical_music_select_event_period"
 msgstr ""
 
 msgid "vertical_music_select_music_time"
-msgstr ""
+msgstr "{0}:{1:D2}"
 
 msgid "music_not_exist_text_02"
 msgstr ""
