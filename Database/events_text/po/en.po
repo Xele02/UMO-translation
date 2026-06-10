@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-18 19:08+0000\n"
-"PO-Revision-Date: 2025-08-09 15:21+0000\n"
+"PO-Revision-Date: 2026-06-10 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "events_text/en/>\n"
@@ -1076,3 +1076,18 @@ msgid "mission_desc_event_april_fool_d_0045"
 msgstr ""
 "Full combo songs 30 times\n"
 "on VERY HARD or higher"
+
+msgid "mission_desc_event_april_fool_f_0024"
+msgstr "Clear songs in Super Diva Mode 10 times"
+
+msgid "mission_desc_event_april_fool_f_0023"
+msgstr "Clear songs in Super Diva Mode 5 times"
+
+msgid "mission_desc_event_april_fool_f_0025"
+msgstr "Clear songs in Super Diva Mode 20 times"
+
+msgid "mission_desc_event_april_fool_f_0026"
+msgstr "Clear songs in Super Diva Mode 50 times"
+
+msgid "mission_desc_event_april_fool_f_0027"
+msgstr "Clear songs in Super Diva Mode 100 times"
