@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-04 15:57+0000\n"
-"PO-Revision-Date: 2026-05-26 17:09+0000\n"
+"PO-Revision-Date: 2026-06-10 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "bingo_text/en/>\n"
@@ -67,11 +67,11 @@ msgstr "Set the song ratio to 100"
 
 msgid "bingo_0001_0001_0007_desc"
 msgstr ""
-"Score 100,000\n"
+"Score 100000\n"
 "points or more"
 
 msgid "bingo_0001_0001_0007_cond"
-msgstr "Score 100,000 points or more"
+msgstr "Score 100000 points or more"
 
 msgid "bingo_0001_0001_0008_desc"
 msgstr ""
@@ -80,7 +80,7 @@ msgstr ""
 "Diva Mode"
 
 msgid "bingo_0001_0001_0008_cond"
-msgstr "Clear 3 songs in Super Diva Mode"
+msgstr "Clear in Super Diva Mode 3 times"
 
 msgid "bingo_0001_0001_0009_desc"
 msgstr ""
@@ -140,9 +140,11 @@ msgstr ""
 
 msgid "bingo_0001_0001_0016_desc"
 msgstr ""
+"Score 300000\n"
+"points or more"
 
 msgid "bingo_0001_0001_0016_cond"
-msgstr ""
+msgstr "Score 300000 points or more"
 
 msgid "bingo_0001_0001_0017_desc"
 msgstr ""
@@ -246,9 +248,11 @@ msgstr ""
 
 msgid "bingo_0002_0002_0005_desc"
 msgstr ""
+"Score 500000\n"
+"points or more"
 
 msgid "bingo_0002_0002_0005_cond"
-msgstr ""
+msgstr "Score 500000 points or more"
 
 msgid "bingo_0002_0002_0006_desc"
 msgstr ""
@@ -260,7 +264,7 @@ msgid "bingo_0002_0002_0007_desc"
 msgstr ""
 
 msgid "bingo_0002_0002_0007_cond"
-msgstr ""
+msgstr "Clear in Super Diva Mode 10 times"
 
 msgid "bingo_0002_0002_0008_desc"
 msgstr ""
@@ -306,9 +310,11 @@ msgstr ""
 
 msgid "bingo_0002_0002_0015_desc"
 msgstr ""
+"Score 800000\n"
+"points or more"
 
 msgid "bingo_0002_0002_0015_cond"
-msgstr ""
+msgstr "Score 800000 points or more"
 
 msgid "bingo_0002_0002_0016_desc"
 msgstr ""
@@ -360,9 +366,11 @@ msgstr ""
 
 msgid "bingo_0002_0002_0024_desc"
 msgstr ""
+"Score 1000000\n"
+"points or more"
 
 msgid "bingo_0002_0002_0024_cond"
-msgstr ""
+msgstr "Score 1000000 points or more"
 
 msgid "bingo_0002_0002_0025_desc"
 msgstr ""
@@ -901,9 +909,11 @@ msgstr ""
 
 msgid "bingo_0004_0004_0005_desc"
 msgstr ""
+"Score 300000\n"
+"points or more"
 
 msgid "bingo_0004_0004_0005_cond"
-msgstr ""
+msgstr "Score 300000 points or more"
 
 msgid "bingo_0004_0004_0006_desc"
 msgstr ""
@@ -915,7 +925,7 @@ msgid "bingo_0004_0004_0007_desc"
 msgstr ""
 
 msgid "bingo_0004_0004_0007_cond"
-msgstr "Clear 1 song in Super Diva Mode"
+msgstr "Clear in Super Diva Mode 1 time"
 
 msgid "bingo_0004_0004_0008_desc"
 msgstr ""
@@ -961,9 +971,11 @@ msgstr ""
 
 msgid "bingo_0004_0004_0015_desc"
 msgstr ""
+"Score 600000\n"
+"points or more"
 
 msgid "bingo_0004_0004_0015_cond"
-msgstr ""
+msgstr "Score 600000 points or more"
 
 msgid "bingo_0004_0004_0016_desc"
 msgstr ""
@@ -1015,9 +1027,11 @@ msgstr ""
 
 msgid "bingo_0004_0004_0024_desc"
 msgstr ""
+"Score 1000000\n"
+"points or more"
 
 msgid "bingo_0004_0004_0024_cond"
-msgstr ""
+msgstr "Score 1000000 points or more"
 
 msgid "bingo_0004_0004_0025_desc"
 msgstr ""
@@ -1070,9 +1084,11 @@ msgstr ""
 
 msgid "bingo_0005_0005_0005_desc"
 msgstr ""
+"Score 500000\n"
+"points or more"
 
 msgid "bingo_0005_0005_0005_cond"
-msgstr ""
+msgstr "Score 500000 points or more"
 
 msgid "bingo_0005_0005_0006_desc"
 msgstr ""
@@ -1084,7 +1100,7 @@ msgid "bingo_0005_0005_0007_desc"
 msgstr ""
 
 msgid "bingo_0005_0005_0007_cond"
-msgstr ""
+msgstr "Clear in Super Diva Mode 1 time"
 
 msgid "bingo_0005_0005_0008_desc"
 msgstr ""
@@ -1126,9 +1142,11 @@ msgstr ""
 
 msgid "bingo_0005_0005_0014_desc"
 msgstr ""
+"Score 800000\n"
+"points or more"
 
 msgid "bingo_0005_0005_0014_cond"
-msgstr ""
+msgstr "Score 800000 points or more"
 
 msgid "bingo_0005_0005_0015_desc"
 msgstr ""
@@ -1146,7 +1164,7 @@ msgid "bingo_0005_0005_0017_desc"
 msgstr ""
 
 msgid "bingo_0005_0005_0017_cond"
-msgstr ""
+msgstr "Clear in Super Diva Mode 5 times"
 
 msgid "bingo_0005_0005_0018_desc"
 msgstr ""
@@ -1178,19 +1196,23 @@ msgid "bingo_0005_0005_0022_desc"
 msgstr ""
 
 msgid "bingo_0005_0005_0022_cond"
-msgstr ""
+msgstr "Clear in Super Diva Mode 5 times"
 
 msgid "bingo_0005_0005_0023_desc"
 msgstr ""
+"Score 2000000\n"
+"points or more"
 
 msgid "bingo_0005_0005_0023_cond"
-msgstr ""
+msgstr "Score 2000000 points or more"
 
 msgid "bingo_0005_0005_0024_desc"
 msgstr ""
+"Score 1000000\n"
+"points or more"
 
 msgid "bingo_0005_0005_0024_cond"
-msgstr ""
+msgstr "Score 1000000 points or more"
 
 msgid "bingo_0005_0005_0025_desc"
 msgstr ""
