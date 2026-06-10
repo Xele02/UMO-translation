@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-06-08 08:09+0000\n"
+"PO-Revision-Date: 2026-06-10 16:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -13298,7 +13298,7 @@ msgid "qd_dsc_0004"
 msgstr "Play the gacha once"
 
 msgid "qd_dsc_0005"
-msgstr "Clear 1 song in Super Diva Mode"
+msgstr "Clear in Super Diva Mode 1 time"
 
 msgid "qd_dsc_0006"
 msgstr "Clear all daily missions"
@@ -13398,34 +13398,36 @@ msgid "qn_dsc_0019"
 msgstr "Get 1 Episode Plate to Lv. 10"
 
 msgid "qn_dsc_0020"
-msgstr ""
+msgstr "Earn a total of 5000 Union Credits (UC)"
 
 msgid "qn_dsc_0021"
 msgstr ""
+"Clear Super Dimension Fortress\n"
+"Macross songs 5 times in Live"
 
 msgid "qn_dsc_0022"
-msgstr ""
+msgstr "Clear Macross 7 songs 5 times in Live"
 
 msgid "qn_dsc_0023"
-msgstr ""
+msgstr "Clear Macross Frontier songs 5 times in Live"
 
 msgid "qn_dsc_0024"
-msgstr ""
+msgstr "Clear Macross Delta songs 5 times in Live"
 
 msgid "qn_dsc_0025"
-msgstr ""
+msgstr "Clear VERY HARD songs 5 times"
 
 msgid "qn_dsc_0026"
-msgstr ""
+msgstr "Full combo songs 1 time"
 
 msgid "qn_dsc_0027"
-msgstr ""
+msgstr "Get an SS score 1 time"
 
 msgid "qn_dsc_0028"
-msgstr ""
+msgstr "Get a high score of 100000 or more"
 
 msgid "qn_dsc_0029"
-msgstr ""
+msgstr "Clear in Super Diva Mode 5 times"
 
 msgid "qn_dsc_0030"
 msgstr ""
@@ -14114,40 +14116,40 @@ msgid "qn_dsc_0243"
 msgstr "Get an SS score 100 times"
 
 msgid "qn_dsc_0244"
-msgstr "Score 150000 or higher"
+msgstr "Get a high score of 150000 or more"
 
 msgid "qn_dsc_0245"
-msgstr "Score 200000 or higher"
+msgstr "Get a high score of 200000 or more"
 
 msgid "qn_dsc_0246"
-msgstr "Score 250000 or higher"
+msgstr "Get a high score of 250000 or more"
 
 msgid "qn_dsc_0247"
-msgstr "Score 300000 or higher"
+msgstr "Get a high score of 300000 or more"
 
 msgid "qn_dsc_0248"
-msgstr "Score 350000 or higher"
+msgstr "Get a high score of 350000 or more"
 
 msgid "qn_dsc_0249"
-msgstr "Trigger Super Diva Mode 10 times"
+msgstr "Clear in Super Diva Mode 10 times"
 
 msgid "qn_dsc_0250"
-msgstr "Trigger Super Diva Mode 20 times"
+msgstr "Clear in Super Diva Mode 20 times"
 
 msgid "qn_dsc_0251"
-msgstr "Trigger Super Diva Mode 50 times"
+msgstr "Clear in Super Diva Mode 50 times"
 
 msgid "qn_dsc_0252"
-msgstr "Trigger Super Diva Mode 100 times"
+msgstr "Clear in Super Diva Mode 100 times"
 
 msgid "qn_dsc_0253"
-msgstr "Trigger Super Diva Mode 150 times"
+msgstr "Clear in Super Diva Mode 150 times"
 
 msgid "qn_dsc_0254"
-msgstr "Trigger Super Diva Mode 200 times"
+msgstr "Clear in Super Diva Mode 200 times"
 
 msgid "qn_dsc_0255"
-msgstr "Trigger Super Diva Mode 300 times"
+msgstr "Clear in Super Diva Mode 300 times"
 
 msgid "qn_dsc_0256"
 msgstr ""
@@ -14472,13 +14474,13 @@ msgid "qn_dsc_0329"
 msgstr "Ask to friend others"
 
 msgid "qn_dsc_0330"
-msgstr "Score 400000 or higher"
+msgstr "Get a high score of 400000 or more"
 
 msgid "qn_dsc_0331"
-msgstr "Score 450000 or higher"
+msgstr "Get a high score of 450000 or more"
 
 msgid "qn_dsc_0332"
-msgstr "Score 500000 or higher"
+msgstr "Get a high score of 500000 or more"
 
 msgid "qn_dsc_0333"
 msgstr "Get 1500000 Union Credits (UC)"
@@ -14711,28 +14713,28 @@ msgid "qn_dsc_0402"
 msgstr "Get an SS score 2500 times"
 
 msgid "qn_dsc_0403"
-msgstr "Trigger Super Diva Mode and clear songs 400 times"
+msgstr "Clear in Super Diva Mode 400 times"
 
 msgid "qn_dsc_0404"
-msgstr "Trigger Super Diva Mode and clear songs 500 times"
+msgstr "Clear in Super Diva Mode 500 times"
 
 msgid "qn_dsc_0405"
-msgstr "Trigger Super Diva Mode and clear songs 750 times"
+msgstr "Clear in Super Diva Mode 750 times"
 
 msgid "qn_dsc_0406"
-msgstr "Trigger Super Diva Mode and clear songs 1000 times"
+msgstr "Clear in Super Diva Mode 1000 times"
 
 msgid "qn_dsc_0407"
-msgstr "Trigger Super Diva Mode and clear songs 1250 times"
+msgstr "Clear in Super Diva Mode 1250 times"
 
 msgid "qn_dsc_0408"
-msgstr "Trigger Super Diva Mode and clear songs 1500 times"
+msgstr "Clear in Super Diva Mode 1500 times"
 
 msgid "qn_dsc_0409"
-msgstr "Trigger Super Diva Mode and clear songs 2000 times"
+msgstr "Clear in Super Diva Mode 2000 times"
 
 msgid "qn_dsc_0410"
-msgstr "Trigger Super Diva Mode and clear songs 2500 times"
+msgstr "Clear in Super Diva Mode 2500 times"
 
 msgid "qn_dsc_0411"
 msgstr ""
@@ -14741,99 +14743,163 @@ msgstr ""
 
 msgid "qn_dsc_0412"
 msgstr ""
+"Get Freyja to Level 25 and read\n"
+"the next chat in Freyja's room"
 
 msgid "qn_dsc_0413"
 msgstr ""
+"Get Freyja to Level 30 and read\n"
+"the next chat in Freyja's room"
 
 msgid "qn_dsc_0414"
 msgstr ""
+"Get Freyja to Level 35 and read\n"
+"the next chat in Freyja's room"
 
 msgid "qn_dsc_0415"
 msgstr ""
+"Get Freyja to Level 40 and read\n"
+"the next chat in Freyja's room"
 
 msgid "qn_dsc_0416"
 msgstr ""
+"Get Mikumo to Level 25 and read\n"
+"the next chat in Mikumo's room"
 
 msgid "qn_dsc_0417"
 msgstr ""
+"Get Mikumo to Level 30 and read\n"
+"the next chat in Mikumo's room"
 
 msgid "qn_dsc_0418"
 msgstr ""
+"Get Mikumo to Level 35 and read\n"
+"the next chat in Mikumo's room"
 
 msgid "qn_dsc_0419"
 msgstr ""
+"Get Mikumo to Level 40 and read\n"
+"the next chat in Mikumo's room"
 
 msgid "qn_dsc_0420"
 msgstr ""
+"Get Kaname to Level 25 and read\n"
+"the next chat in Kaname's room"
 
 msgid "qn_dsc_0421"
 msgstr ""
+"Get Kaname to Level 30 and read\n"
+"the next chat in Kaname's room"
 
 msgid "qn_dsc_0422"
 msgstr ""
+"Get Kaname to Level 35 and read\n"
+"the next chat in Kaname's room"
 
 msgid "qn_dsc_0423"
 msgstr ""
+"Get Kaname to Level 40 and read\n"
+"the next chat in Kaname's room"
 
 msgid "qn_dsc_0424"
 msgstr ""
+"Get Makina to Level 25 and read\n"
+"the next chat in Makina's room"
 
 msgid "qn_dsc_0425"
 msgstr ""
+"Get Makina to Level 30 and read\n"
+"the next chat in Makina's room"
 
 msgid "qn_dsc_0426"
 msgstr ""
+"Get Makina to Level 35 and read\n"
+"the next chat in Makina's room"
 
 msgid "qn_dsc_0427"
 msgstr ""
+"Get Makina to Level 40 and read\n"
+"the next chat in Makina's room"
 
 msgid "qn_dsc_0428"
 msgstr ""
+"Get Reina to Level 25 and read\n"
+"the next chat in Reina's room"
 
 msgid "qn_dsc_0429"
 msgstr ""
+"Get Reina to Level 30 and read\n"
+"the next chat in Reina's room"
 
 msgid "qn_dsc_0430"
 msgstr ""
+"Get Reina to Level 35 and read\n"
+"the next chat in Reina's room"
 
 msgid "qn_dsc_0431"
 msgstr ""
+"Get Reina to Level 40 and read\n"
+"the next chat in Reina's room"
 
 msgid "qn_dsc_0432"
 msgstr ""
+"Get Ranka to Level 25 and read\n"
+"the next chat in Ranka's room"
 
 msgid "qn_dsc_0433"
 msgstr ""
+"Get Ranka to Level 30 and read\n"
+"the next chat in Ranka's room"
 
 msgid "qn_dsc_0434"
 msgstr ""
+"Get Ranka to Level 35 and read\n"
+"the next chat in Ranka's room"
 
 msgid "qn_dsc_0435"
 msgstr ""
+"Get Ranka to Level 40 and read\n"
+"the next chat in Ranka's room"
 
 msgid "qn_dsc_0436"
 msgstr ""
+"Get Sheryl to Level 25 and read\n"
+"the next chat in Sheryl's room"
 
 msgid "qn_dsc_0437"
 msgstr ""
+"Get Sheryl to Level 30 and read\n"
+"the next chat in Sheryl's room"
 
 msgid "qn_dsc_0438"
 msgstr ""
+"Get Sheryl to Level 35 and read\n"
+"the next chat in Sheryl's room"
 
 msgid "qn_dsc_0439"
 msgstr ""
+"Get Sheryl to Level 40 and read\n"
+"the next chat in Sheryl's room"
 
 msgid "qn_dsc_0440"
 msgstr ""
+"Get Minmay to Level 25 and read\n"
+"the next chat in Minmay's room"
 
 msgid "qn_dsc_0441"
 msgstr ""
+"Get Minmay to Level 30 and read\n"
+"the next chat in Minmay's room"
 
 msgid "qn_dsc_0442"
 msgstr ""
+"Get Minmay to Level 35 and read\n"
+"the next chat in Minmay's room"
 
 msgid "qn_dsc_0443"
 msgstr ""
+"Get Minmay to Level 40 and read\n"
+"the next chat in Minmay's room"
 
 msgid "qn_dsc_0444"
 msgstr "Reach Player Rank 25"
@@ -15073,34 +15139,34 @@ msgid "qn_dsc_0523"
 msgstr ""
 
 msgid "qn_dsc_0524"
-msgstr ""
+msgstr "Get a high score of 550000 or more"
 
 msgid "qn_dsc_0525"
-msgstr ""
+msgstr "Get a high score of 600000 or more"
 
 msgid "qn_dsc_0526"
-msgstr ""
+msgstr "Get a high score of 650000 or more"
 
 msgid "qn_dsc_0527"
-msgstr ""
+msgstr "Get a high score of 700000 or more"
 
 msgid "qn_dsc_0528"
-msgstr ""
+msgstr "Get a high score of 750000 or more"
 
 msgid "qn_dsc_0529"
-msgstr ""
+msgstr "Get a high score of 800000 or more"
 
 msgid "qn_dsc_0530"
-msgstr ""
+msgstr "Get a high score of 850000 or more"
 
 msgid "qn_dsc_0531"
-msgstr ""
+msgstr "Get a high score of 900000 or more"
 
 msgid "qn_dsc_0532"
-msgstr ""
+msgstr "Get a high score of 950000 or more"
 
 msgid "qn_dsc_0533"
-msgstr ""
+msgstr "Get a high score of 1000000 or more"
 
 msgid "qn_dsc_0534"
 msgstr "Clear 250 normal missions"
