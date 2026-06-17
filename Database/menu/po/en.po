@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:29+0000\n"
-"PO-Revision-Date: 2026-06-10 16:09+0000\n"
+"PO-Revision-Date: 2026-06-17 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "menu/en/>\n"
@@ -1779,7 +1779,7 @@ msgstr ""
 
 msgid "popup_record_plate_004"
 msgstr ""
-"Episode Plate dupes automatically combined, <color=#c8087e>raising its "
+"Episode Plate dupes automatically combined, <color=#c8087e>raising their "
 "rarity</color>."
 
 msgid "popup_record_plate_005"
@@ -1995,21 +1995,32 @@ msgstr "Change BG"
 
 msgid "popup_home_scene_bg_msg"
 msgstr ""
+"You can use art from Main Plates with a base\n"
+"rarity of 4★ or higher as your background.\n"
+"\n"
+"Change this setting on the Backgrounds screen."
 
 msgid "popup_home_scene_limited_bg_msg_00"
 msgstr ""
+"Your home screen will change to a\n"
+"limited-time background. Proceed?"
 
 msgid "popup_home_scene_limited_bg_msg_01"
 msgstr ""
+"<color=#c8087e>- To change your background again, \n"
+"use the Background settings on the Home screen.</color>"
 
 msgid "popup_home_scene_limited_bg_msg_02"
 msgstr ""
+"<color=#c8087e>To use Plate art again, go to the Backgrounds screen.</color>"
 
 msgid "popup_home_ngword_rename_title"
-msgstr ""
+msgstr "Prohibited Term"
 
 msgid "popup_home_ngword_rename_msg"
 msgstr ""
+"Your player name or bio was changed\n"
+"because it contained prohibited content."
 
 msgid "home_pickup_checkbox"
 msgstr "Don't show today"
@@ -2018,25 +2029,27 @@ msgid "home_event_end_attain"
 msgstr "Calculating"
 
 msgid "home_event_epilogue"
-msgstr ""
+msgstr "Event Epilogue Out Now!"
 
 msgid "home_banner_event_end_attain"
 msgstr "Calculating"
 
 msgid "popup_scene_autocombine_title"
-msgstr ""
+msgstr "Auto Combining"
 
 msgid "popup_scene_autocombine_msg"
-msgstr ""
+msgstr "This Episode Plate was used in an automatic combination."
 
 msgid "popup_scene_convertitem_title"
-msgstr ""
+msgstr "Item Conversion"
 
 msgid "popup_scene_convertitem_msg"
-msgstr ""
+msgstr "This Episode Plate was converted into an item."
 
 msgid "popup_gacha_lot_paid_msg"
 msgstr ""
+"Use {0} Song Gems to\n"
+"play the gacha {1} times?"
 
 msgid "popup_gacha_lot_paid_few_msg"
 msgstr ""
@@ -2580,7 +2593,7 @@ msgid "popup_add_episode_03"
 msgstr ""
 
 msgid "popup_add_episode_04"
-msgstr ""
+msgstr "Get backgrounds by completely unlocking Episodes."
 
 msgid "popup_release_ep_diva_costume"
 msgstr ""
@@ -2592,7 +2605,7 @@ msgid "popup_release_episode_02"
 msgstr ""
 
 msgid "popup_release_episode_03"
-msgstr ""
+msgstr "Unlock backgrounds from the Episodes screen!"
 
 msgid "popup_event_end_title"
 msgstr ""
@@ -4753,6 +4766,14 @@ msgstr ""
 
 msgid "pop_deco_bg_eff_initial_setting_desc"
 msgstr ""
+"A limited-time effect is now usable.\n"
+"Effect name: {0}\n"
+"Period usable:\n"
+"{1} - {2}\n"
+"\n"
+"Use effect?\n"
+"<color=#C8087E>- Background settings are also\n"
+"available in the Decolture Mode settings.</color>"
 
 msgid "popup_event_reward_check_mvp_title"
 msgstr ""
@@ -5642,19 +5663,19 @@ msgid "episode_sort_filter_empty"
 msgstr ""
 
 msgid "popup_homebg_title"
-msgstr ""
+msgstr "BG Select"
 
 msgid "popup_homebg_scene_select"
-msgstr ""
+msgstr "Use selected Plate as your background?"
 
 msgid "popup_homebg_default_scene"
-msgstr ""
+msgstr "Revert background to default?"
 
 msgid "popup_homebg_default_scene_name"
-msgstr ""
+msgstr "Default background"
 
 msgid "header_desc_home040"
-msgstr ""
+msgstr "Select a background"
 
 msgid "popup_quest_receive_vc_caution"
 msgstr ""
@@ -6349,10 +6370,10 @@ msgid "popup_set_prizm_lackdiva_titile"
 msgstr ""
 
 msgid "popup_sort_item_diva_and_valkyrie_and_bg"
-msgstr ""
+msgstr "Divas/Valkyries/Backgrounds"
 
 msgid "popup_filter_diva_val_title_h3"
-msgstr ""
+msgstr "Divas/Valkyries/Backgrounds"
 
 msgid "unit_diva_status_leaf_attr"
 msgstr ""
