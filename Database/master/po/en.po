@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-06-10 16:09+0000\n"
+"PO-Revision-Date: 2026-06-17 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/database/"
 "master/en/>\n"
@@ -20889,7 +20889,7 @@ msgid "vc_0004"
 msgstr ""
 
 msgid "vc_0005"
-msgstr ""
+msgstr "Backgrounds"
 
 msgid "vc_0006"
 msgstr ""
@@ -20919,7 +20919,7 @@ msgid "vc_dsc_0004"
 msgstr ""
 
 msgid "vc_dsc_0005"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "vc_dsc_0006"
 msgstr ""
@@ -25915,157 +25915,157 @@ msgid "dc_itm_nm_0052_bg"
 msgstr ""
 
 msgid "dc_itm_dsc_0001_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0002_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0003_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0004_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0005_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0006_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0007_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0008_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0009_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0010_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0012_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0013_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0014_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0015_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0016_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0017_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0018_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0019_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0020_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0021_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0022_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0023_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0024_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0025_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0026_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0027_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0028_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0029_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0030_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0031_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0032_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0033_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0034_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0035_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0036_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0037_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0038_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0039_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0040_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0041_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0042_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0043_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0044_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0045_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0046_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0047_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0048_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0049_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0050_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0051_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_dsc_0052_bg"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_itm_nm_0004_obj"
 msgstr ""
@@ -30331,154 +30331,154 @@ msgid "dc_set_nm_0052"
 msgstr ""
 
 msgid "dc_set_dsc_0002"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0003"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0004"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0005"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0006"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0007"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0008"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0009"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0010"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0012"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0013"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0014"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0015"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0016"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0017"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0018"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0019"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0020"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0021"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0022"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0023"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0024"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0025"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0026"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0027"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0028"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0029"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0030"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0031"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0032"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0033"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0034"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0035"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0036"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0037"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0038"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0039"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0040"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0041"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0042"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0043"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0044"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0045"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0046"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0047"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0048"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0049"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0050"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0051"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "dc_set_dsc_0052"
-msgstr ""
+msgstr "Deco Room wall/floor background"
 
 msgid "sk_nm_0001"
 msgstr ""
