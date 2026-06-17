@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-05-25 17:22+0000\n"
+"PO-Revision-Date: 2026-06-17 17:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -258,7 +258,7 @@ msgid "StringLiteral_10160"
 msgstr "Compensation items"
 
 msgid "StringLiteral_10161"
-msgstr ""
+msgstr "Deco item backgrounds"
 
 msgid "StringLiteral_10162"
 msgstr ""
@@ -306,7 +306,7 @@ msgid "StringLiteral_10176"
 msgstr ""
 
 msgid "StringLiteral_10177"
-msgstr ""
+msgstr "Home background"
 
 msgid "StringLiteral_10178"
 msgstr ""
@@ -2135,3 +2135,9 @@ msgstr "Not cleared"
 
 msgid "StringLiteral_19875"
 msgstr "Calculating event results..."
+
+msgid "UMO_BgBrightness"
+msgstr "Background brightness"
+
+msgid "UMO_BgDisplay"
+msgstr "Background display settings"
