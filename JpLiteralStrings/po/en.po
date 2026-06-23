@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-06-23 02:41+0000\n"
+"PO-Revision-Date: 2026-06-23 04:09+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -258,34 +258,34 @@ msgid "StringLiteral_10160"
 msgstr "Compensation items"
 
 msgid "StringLiteral_10161"
-msgstr "Deco item backgrounds"
+msgstr "Deco Items: Backgrounds"
 
 msgid "StringLiteral_10162"
-msgstr "Furniture/Props"
+msgstr "Deco Items: Furniture"
 
 msgid "StringLiteral_10163"
-msgstr "Deco Item - Chibi Characters"
+msgstr "Deco Items: Chibis"
 
 msgid "StringLiteral_10164"
 msgstr "Quote Sticker items"
 
 msgid "StringLiteral_10165"
-msgstr "Special Props"
+msgstr "Deco Items: Special Furniture"
 
 msgid "StringLiteral_10166"
 msgstr "Valkyrie Upgrade items"
 
 msgid "StringLiteral_10167"
-msgstr ""
+msgstr "Deprecated/Unused"
 
 msgid "StringLiteral_10168"
-msgstr "Deco Item - Posters"
+msgstr "Deco Items: Posters"
 
 msgid "StringLiteral_10169"
-msgstr ""
+msgstr "Deco Items: Posters (Basic)"
 
 msgid "StringLiteral_10170"
-msgstr ""
+msgstr "Deco Items: Posters (Evolved)"
 
 msgid "StringLiteral_10171"
 msgstr "Raid items"
@@ -297,10 +297,10 @@ msgid "StringLiteral_10173"
 msgstr "Deco Set items"
 
 msgid "StringLiteral_10174"
-msgstr "Deco Item - Valkyrie Figures"
+msgstr "Deco Items: Valkyrie Figures"
 
 msgid "StringLiteral_10175"
-msgstr "Deco Item - Costume Torsos"
+msgstr "Deco Items: Costume Mannequins"
 
 msgid "StringLiteral_10176"
 msgstr ""
