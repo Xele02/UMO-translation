@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 10:23+0000\n"
-"PO-Revision-Date: 2026-04-06 11:18+0000\n"
+"PO-Revision-Date: 2026-08-29 08:59+0000\n"
 "Last-Translator: Xele <xele@xele.org>\n"
 "Language-Team: French <https://umo-translate.xele.org/projects/umo/database/"
 "menu/fr/>\n"
@@ -1531,7 +1531,7 @@ msgid "music_event_collect_rank_counting_label"
 msgstr "Rang final"
 
 msgid "music_event_collect_rank_unit"
-msgstr "{0:choose(0|1):|er|ème}"
+msgstr "{0:p_o:er|ème}"
 
 msgid "music_event_collect_rank_counting"
 msgstr "Calcul en cours"
@@ -1563,7 +1563,7 @@ msgid "music_event_battle_rank_total_counting_label"
 msgstr "Classement points final"
 
 msgid "music_event_battle_rank_unit"
-msgstr "{0:choose(0|1):|er|ème}"
+msgstr "{0:p_o:er|ème}"
 
 msgid "music_event_battle_bp_counting_label"
 msgstr "Highscore EX"
@@ -1628,7 +1628,7 @@ msgid "event_battle_reward_check_ranking"
 msgstr ""
 
 msgid "event_battle_reward_check_ranking_unit"
-msgstr ""
+msgstr "{0:p_o:er|ème}"
 
 msgid "music_event_battle_ex_schedule_caution_01"
 msgstr ""
@@ -2346,7 +2346,7 @@ msgid "popup_event_reward_needpoint_unit"
 msgstr "{0}pt"
 
 msgid "popup_event_reward_currentrank_unit"
-msgstr "{0:choose(0|1):|er|ème}"
+msgstr "{0:p_o:er|ème}"
 
 msgid "popup_event_reward_needrank_unit"
 msgstr ""
@@ -3480,7 +3480,7 @@ msgid "event_music_ranking"
 msgstr ""
 
 msgid "event_music_ranking_unit"
-msgstr "{0:plural:er|ème}"
+msgstr "{0:p_o:er|ème}"
 
 msgid "ar_common_count_text"
 msgstr ""
@@ -6278,7 +6278,7 @@ msgstr ""
 "suivante"
 
 msgid "godiva_even_tinfo_rank_unit"
-msgstr "{0:choose(0|1):|er|ème}"
+msgstr "{0:p_o:er|ème}"
 
 msgid "godiva_even_tinfo_point_unit"
 msgstr "pt"
@@ -6356,7 +6356,7 @@ msgid "event_godiva_reward_check_ranking"
 msgstr ""
 
 msgid "event_godiva_reward_check_ranking_unit"
-msgstr ""
+msgstr "{0:p_o:er|ème}"
 
 msgid "diva_name_01"
 msgstr "Freyja Wion"
@@ -6389,7 +6389,7 @@ msgid "diva_name_10"
 msgstr "Lynn Minmay"
 
 msgid "home_diva_view_status_place_text"
-msgstr ""
+msgstr "{0:p_o:er|ème}"
 
 msgid "home_diva_view_status_divalevel_text"
 msgstr ""
