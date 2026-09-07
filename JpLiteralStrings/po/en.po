@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-22 12:28+0000\n"
-"PO-Revision-Date: 2026-06-23 04:09+0000\n"
+"PO-Revision-Date: 2026-09-07 17:39+0000\n"
 "Last-Translator: SoloNerfherder <08.mandate-league@icloud.com>\n"
 "Language-Team: English <https://umo-translate.xele.org/projects/umo/code/"
 "stringliterals/en/>\n"
@@ -303,16 +303,16 @@ msgid "StringLiteral_10175"
 msgstr "Deco Items: Costume Mannequins"
 
 msgid "StringLiteral_10176"
-msgstr ""
+msgstr "Temp./Perm. items"
 
 msgid "StringLiteral_10177"
 msgstr "Home background"
 
 msgid "StringLiteral_10178"
-msgstr ""
+msgstr "Gacha ceiling items"
 
 msgid "StringLiteral_10282"
-msgstr ""
+msgstr "Full Recover AP"
 
 msgid "StringLiteral_10294"
 msgstr "Super Dimensional Network"
@@ -321,7 +321,7 @@ msgid "StringLiteral_10298"
 msgstr "Received your Login Bonus!"
 
 msgid "StringLiteral_10299"
-msgstr ""
+msgstr "Get 100 Song Gems as a 2nd day login bonus! Log in now!"
 
 msgid "StringLiteral_10303"
 msgstr ""
@@ -2141,3 +2141,6 @@ msgstr "Background brightness"
 
 msgid "UMO_BgDisplay"
 msgstr "Background display settings"
+
+msgid "StringLiteral_10284"
+msgstr "Mirage: \"AP fully recovered!\""
