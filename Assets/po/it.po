@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-16 08:44+0000\n"
-"PO-Revision-Date: 2026-11-16 20:31+0000\n"
+"PO-Revision-Date: 2026-11-16 20:53+0000\n"
 "Last-Translator: Labra The Kaiju02 <benedettapintore09@gmail.com>\n"
 "Language-Team: Italian <https://umo-translate.xele.org/projects/umo/assets/"
 "it/>\n"
@@ -43,3 +43,93 @@ msgstr ""
 "Il Popolo Degli Uccelli prende di mira questa civiltà che si estende nel "
 "cosmo\n"
 " per distruggerla, iniziando così a risuonare in diversi spazi-tempi"
+
+msgid "sel_story_pack/cmn_pop01_fnt_01_46"
+msgstr "Live"
+
+msgid "sel_quest_packtex/sel_que_get_fnt2"
+msgstr "Invia al box dei regali"
+
+msgid "pop_item_pack/ab_uc_fnt_01"
+msgstr "Necessario"
+
+msgid "sel_quest_packtex/sel_que_get_fnt"
+msgstr "Hai ottenuto le seguenti ricompense"
+
+msgid "pop_item_pack/ab_uc_fnt_02"
+msgstr "Mio"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_39"
+msgstr "Salta"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_43"
+msgstr "Riprendi"
+
+msgid "cmn_pop01/cmn_pop01_fnt_01_10"
+msgstr "Annulla"
+
+msgid "gacha_main2/gacha_fnt_lot"
+msgstr "Play"
+
+msgid "gacha_pop/gacha_pop_font_01"
+msgstr "I tuoi Cristalli Sonori"
+
+#, fuzzy
+msgid "gacha_main2/gacha_fnt_02"
+msgstr "Odds Info"
+
+msgid "gacha_pop/gacha_pop_btn_font_01"
+msgstr "Informazioni sulle note legali"
+
+msgid "gatsha_drop/gatsha_drop_btn_font_03"
+msgstr "Indietro"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_01"
+msgstr "Profilo"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_02"
+msgstr "Età:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_03"
+msgstr "Compleanno:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_04"
+msgstr "Luogo di nascita:"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_05"
+msgstr "Mi piace:"
+
+msgid "pack_sel_chara/sel_chara_btn_fnt_01"
+msgstr "Voce"
+
+msgid "pack_sel_chara/sel_chara_pop_fnt_06"
+msgstr "Seleziona una Diva"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_01"
+msgstr "Cambia selezione"
+
+msgid "pack_sel_chara/sel_chara_check_fnt_02"
+msgstr "Usa questa Diva"
+
+msgid "sel_quest_packtex/sel_que_challenge_fnt"
+msgstr "Vai"
+
+msgid "cmn_enquete_pack/cmn_enq_fnt_load_02"
+msgstr "Download comletato"
+
+#, fuzzy
+msgid "game_res_drop_02_pack/g_r_drop_txt_normal"
+msgstr "Normal Drops"
+
+msgid "game_res_drop_pack/g_r_drop_getuc"
+msgstr "Crediti Unione ottenuti"
+
+msgid "sel_story_pack/sel_story_frm_fnt_01"
+msgstr "Soddisfa le condizioni di sblocco durante le canzoni"
+
+#, fuzzy
+msgid "game_res_drop_pack/g_r_drop_txt_rare"
+msgstr "Rare Drops"
+
+msgid "sel_story_pack/sel_story_frm_fnt_02"
+msgstr "Iniziare il live?"
